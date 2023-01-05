@@ -1,0 +1,4221 @@
+{
+  "effect": [
+    {
+      "effectID": "501",
+      "name": "defenseBoostYard",
+      "effectTypeID": "32",
+      "capID": "99",
+      "sortOrder": "1.9.1"
+    },
+    {
+      "effectID": "502",
+      "name": "hideoutCapacity",
+      "effectTypeID": "35",
+      "capID": "99",
+      "sortOrder": "2.4.1"
+    },
+    {
+      "effectID": "503",
+      "name": "AttackUnitAmountFront",
+      "effectTypeID": "34",
+      "capID": "99",
+      "spaceIDs": "0,1,2,3,4,10",
+      "sortOrder": "3.1.1"
+    },
+    {
+      "effectID": "504",
+      "name": "AttackBoostYard",
+      "effectTypeID": "33",
+      "capID": "99",
+      "sortOrder": "1.6.1"
+    },
+    {
+      "effectID": "505",
+      "name": "LootCapacity",
+      "effectTypeID": "37",
+      "capID": "99",
+      "sortOrder": "6.4.1"
+    },
+    {
+      "effectID": "506",
+      "name": "ReturnTravelBoost",
+      "effectTypeID": "38",
+      "capID": "99",
+      "sortOrder": "6.1.1"
+    },
+    {
+      "effectID": "507",
+      "name": "DefenseSupportUnitsWeak",
+      "effectTypeID": "47",
+      "capID": "99",
+      "sortOrder": "4.2.1"
+    },
+    {
+      "effectID": "508",
+      "name": "DefenseSupportUnitsStrong",
+      "effectTypeID": "47",
+      "capID": "99",
+      "sortOrder": "4.3.1"
+    },
+    {
+      "effectID": "509",
+      "name": "DefenseBoostFront",
+      "effectTypeID": "49",
+      "capID": "99",
+      "sortOrder": "1.10.1"
+    },
+    {
+      "effectID": "510",
+      "name": "DefenseBoostFlank",
+      "effectTypeID": "50",
+      "capID": "99",
+      "sortOrder": "1.11.1"
+    },
+    {
+      "effectID": "511",
+      "name": "AttackSupportUnitsWeak",
+      "effectTypeID": "51",
+      "capID": "99",
+      "sortOrder": "3.3.1"
+    },
+    {
+      "effectID": "512",
+      "name": "AttackSupportUnitsStrong",
+      "effectTypeID": "51",
+      "capID": "99",
+      "sortOrder": "3.4.1"
+    },
+    {
+      "effectID": "513",
+      "name": "AttackBoostFront",
+      "effectTypeID": "53",
+      "capID": "99",
+      "sortOrder": "1.4.1"
+    },
+    {
+      "effectID": "514",
+      "name": "AttackBoostFlank",
+      "effectTypeID": "54",
+      "capID": "99",
+      "sortOrder": "1.5.1"
+    },
+    {
+      "effectID": "990",
+      "name": "AttackBoostFront2",
+      "effectTypeID": "34",
+      "capID": "99",
+      "sortOrder": "1.4.1"
+    },
+    {
+      "effectID": "991",
+      "name": "AttackBoostFlank2",
+      "effectTypeID": "28",
+      "capID": "99",
+      "sortOrder": "1.5.1"
+    },
+    {
+      "effectID": "1",
+      "name": "fameDefenseBonus",
+      "effectTypeID": "0",
+      "capID": "0",
+      "sortOrder": "6.11.1"
+    },
+    {
+      "effectID": "2",
+      "name": "conquerSpeedBonus",
+      "effectTypeID": "1",
+      "capID": "1",
+      "sortOrder": "5.2.1"
+    },
+    {
+      "effectID": "3",
+      "name": "lootReduction",
+      "effectTypeID": "2",
+      "capID": "2",
+      "sortOrder": "6.8.1"
+    },
+    {
+      "effectID": "4",
+      "name": "perceptionBonus",
+      "effectTypeID": "3",
+      "capID": "3",
+      "sortOrder": "5.4.1"
+    },
+    {
+      "effectID": "5",
+      "name": "fireBrigadeBoost",
+      "effectTypeID": "4",
+      "capID": "4",
+      "sortOrder": "6.15.1"
+    },
+    {
+      "effectID": "6",
+      "name": "occupationTimeReduction",
+      "effectTypeID": "5",
+      "capID": "5",
+      "sortOrder": "6.2.1"
+    },
+    {
+      "effectID": "7",
+      "name": "wallBonus",
+      "effectTypeID": "6",
+      "capID": "6",
+      "sortOrder": "2.1.1"
+    },
+    {
+      "effectID": "8",
+      "name": "gateBonus",
+      "effectTypeID": "7",
+      "capID": "7",
+      "sortOrder": "2.2.1"
+    },
+    {
+      "effectID": "9",
+      "name": "moatBonus",
+      "effectTypeID": "8",
+      "capID": "8",
+      "sortOrder": "2.3.1"
+    },
+    {
+      "effectID": "10",
+      "name": "meleeBonus",
+      "effectTypeID": "9",
+      "capID": "9",
+      "sortOrder": "1.7.1"
+    },
+    {
+      "effectID": "11",
+      "name": "rangeBonus",
+      "effectTypeID": "10",
+      "capID": "10",
+      "sortOrder": "1.8.1"
+    },
+    {
+      "effectID": "12",
+      "name": "npcDefenseBonus",
+      "effectTypeID": "11",
+      "capID": "11",
+      "sortOrder": "1.12.1"
+    },
+    {
+      "effectID": "13",
+      "name": "defenseUnitAmountWall",
+      "effectTypeID": "12",
+      "capID": "12",
+      "sortOrder": "4.1.1"
+    },
+    {
+      "effectID": "51",
+      "name": "fameOffenseBonus",
+      "effectTypeID": "13",
+      "capID": "13",
+      "sortOrder": "6.11.2"
+    },
+    {
+      "effectID": "52",
+      "name": "honorBonus",
+      "effectTypeID": "14",
+      "capID": "14",
+      "sortOrder": "6.10.1"
+    },
+    {
+      "effectID": "53",
+      "name": "speedBonus",
+      "effectTypeID": "15",
+      "capID": "15",
+      "sortOrder": "5.2.2"
+    },
+    {
+      "effectID": "54",
+      "name": "lootBonus",
+      "effectTypeID": "16",
+      "capID": "16",
+      "sortOrder": "6.5.1"
+    },
+    {
+      "effectID": "55",
+      "name": "stealthBonus",
+      "effectTypeID": "17",
+      "capID": "17",
+      "sortOrder": "5.3.1"
+    },
+    {
+      "effectID": "56",
+      "name": "fireBoost",
+      "effectTypeID": "18",
+      "capID": "18",
+      "sortOrder": "6.19.1"
+    },
+    {
+      "effectID": "57",
+      "name": "wallReduction",
+      "effectTypeID": "19",
+      "capID": "19",
+      "sortOrder": "2.5.1"
+    },
+    {
+      "effectID": "58",
+      "name": "gateReduction",
+      "effectTypeID": "20",
+      "capID": "20",
+      "sortOrder": "2.6.1"
+    },
+    {
+      "effectID": "59",
+      "name": "moatReduction",
+      "effectTypeID": "21",
+      "capID": "21",
+      "sortOrder": "2.7.1"
+    },
+    {
+      "effectID": "60",
+      "name": "magicFindBonus",
+      "effectTypeID": "22",
+      "capID": "22",
+      "sortOrder": "6.9.1"
+    },
+    {
+      "effectID": "61",
+      "name": "offensiveMeleeBonus",
+      "effectTypeID": "23",
+      "capID": "23",
+      "sortOrder": "1.2.1"
+    },
+    {
+      "effectID": "62",
+      "name": "offensiveRangeBonus",
+      "effectTypeID": "24",
+      "capID": "24",
+      "sortOrder": "1.3.1"
+    },
+    {
+      "effectID": "63",
+      "name": "smashChance",
+      "effectTypeID": "25",
+      "capID": "25",
+      "sortOrder": "6.20.1"
+    },
+    {
+      "effectID": "64",
+      "name": "travelCostReduction",
+      "effectTypeID": "26",
+      "capID": "26",
+      "sortOrder": "5.1.1"
+    },
+    {
+      "effectID": "65",
+      "name": "cooldownReduction",
+      "effectTypeID": "27",
+      "capID": "27",
+      "sortOrder": "6.3.1"
+    },
+    {
+      "effectID": "66",
+      "name": "attackUnitAmountFlank",
+      "effectTypeID": "28",
+      "capID": "99",
+      "spaceIDs": "0,1,2,3,4,10",
+      "sortOrder": "3.2.1"
+    },
+    {
+      "effectID": "151",
+      "name": "cooldownReductionDungeons",
+      "effectTypeID": "27",
+      "capID": "27",
+      "areaTypeID": "2"
+    },
+    {
+      "effectID": "101",
+      "name": "skin",
+      "effectTypeID": "29",
+      "capID": "99"
+    },
+    {
+      "effectID": "102",
+      "name": "skinBaron",
+      "effectTypeID": "30",
+      "capID": "99"
+    },
+    {
+      "effectID": "201",
+      "name": "defenseBonusMainCastle",
+      "effectTypeID": "31",
+      "capID": "99",
+      "areaTypeID": "1,10,12,15,21,23,24,26,28,34,36,38,42",
+      "sortOrder": "1.13.1"
+    },
+    {
+      "effectID": "202",
+      "name": "defenseBonusNotMainCastle",
+      "effectTypeID": "31",
+      "capID": "99",
+      "areaTypeID": "3,4,22",
+      "sortOrder": "1.13.2"
+    },
+    {
+      "effectID": "203",
+      "name": "wallBonusBaron",
+      "effectTypeID": "6",
+      "capID": "6",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,34,36,42",
+      "sortOrder": "2.1.3"
+    },
+    {
+      "effectID": "204",
+      "name": "gateBonusBaron",
+      "effectTypeID": "7",
+      "capID": "7",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,34,36,42",
+      "sortOrder": "2.2.2"
+    },
+    {
+      "effectID": "205",
+      "name": "moatBonusBaron",
+      "effectTypeID": "8",
+      "capID": "8",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,34,36,42",
+      "sortOrder": "2.3.3"
+    },
+    {
+      "effectID": "206",
+      "name": "defenseUnitAmountWallMainCastle",
+      "effectTypeID": "12",
+      "capID": "12",
+      "areaTypeID": "1,10,12,15,21,23,24,26,28,34,36,38,42",
+      "sortOrder": "4.1.2"
+    },
+    {
+      "effectID": "207",
+      "name": "defenseUnitAmountWallNotMainCastle",
+      "effectTypeID": "12",
+      "capID": "12",
+      "areaTypeID": "3,4,22",
+      "sortOrder": "4.1.3"
+    },
+    {
+      "effectID": "267",
+      "name": "defenseUnitAmountWallPVP",
+      "effectTypeID": "46",
+      "capID": "99",
+      "sortOrder": "4.1.4"
+    },
+    {
+      "effectID": "208",
+      "name": "defenseBoostYardBaron",
+      "effectTypeID": "32",
+      "capID": "99",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36,38,42",
+      "sortOrder": "1.9.2"
+    },
+    {
+      "effectID": "209",
+      "name": "occupationTimeReductionBaron",
+      "effectTypeID": "5",
+      "capID": "5",
+      "areaTypeID": "4",
+      "sortOrder": "6.2.2"
+    },
+    {
+      "effectID": "210",
+      "name": "offensiveMeleeBonusConquerBaron",
+      "effectTypeID": "23",
+      "capID": "23",
+      "areaTypeID": "4",
+      "sortOrder": "1.2.3"
+    },
+    {
+      "effectID": "211",
+      "name": "offensiveRangeBonusConquerBaron",
+      "effectTypeID": "24",
+      "capID": "24",
+      "areaTypeID": "4",
+      "sortOrder": "1.3.3"
+    },
+    {
+      "effectID": "212",
+      "name": "speedBonusConquerBaron",
+      "effectTypeID": "15",
+      "capID": "15",
+      "areaTypeID": "4",
+      "sortOrder": "5.2.3"
+    },
+    {
+      "effectID": "213",
+      "name": "stealthBonusConquerBaron",
+      "effectTypeID": "17",
+      "capID": "17",
+      "areaTypeID": "4",
+      "sortOrder": "5.3.2"
+    },
+    {
+      "effectID": "214",
+      "name": "attackBoostYardConquerBaron",
+      "effectTypeID": "33",
+      "capID": "99",
+      "areaTypeID": "4",
+      "sortOrder": "1.6.2"
+    },
+    {
+      "effectID": "215",
+      "name": "wallReductionConquerBaron",
+      "effectTypeID": "19",
+      "capID": "19",
+      "areaTypeID": "4",
+      "sortOrder": "2.5.5"
+    },
+    {
+      "effectID": "216",
+      "name": "attackUnitAmountFrontConquerBaron",
+      "effectTypeID": "34",
+      "capID": "99",
+      "areaTypeID": "4",
+      "sortOrder": "3.1.2"
+    },
+    {
+      "effectID": "217",
+      "name": "attackUnitAmountFlankConquerBaron",
+      "effectTypeID": "28",
+      "capID": "99",
+      "areaTypeID": "4",
+      "sortOrder": "3.2.2"
+    },
+    {
+      "effectID": "218",
+      "name": "fameDefenseBonusBaron",
+      "effectTypeID": "0",
+      "capID": "0",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,34,36,42",
+      "sortOrder": "6.11.3"
+    },
+    {
+      "effectID": "219",
+      "name": "fireBrigadeBoostBaron",
+      "effectTypeID": "4",
+      "capID": "4",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,34,42",
+      "sortOrder": "6.15.2"
+    },
+    {
+      "effectID": "220",
+      "name": "hideoutCapacityBaron",
+      "effectTypeID": "35",
+      "capID": "99",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,34,42",
+      "sortOrder": "2.4.2"
+    },
+    {
+      "effectID": "221",
+      "name": "lootReductionBaron",
+      "effectTypeID": "2",
+      "capID": "2",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,34,42",
+      "sortOrder": "6.8.2"
+    },
+    {
+      "effectID": "222",
+      "name": "perceptionBonusBaron",
+      "effectTypeID": "3",
+      "capID": "3",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,34,36,42",
+      "sortOrder": "5.4.2"
+    },
+    {
+      "effectID": "223",
+      "name": "offensiveMeleeBonusConquerGeneral",
+      "effectTypeID": "23",
+      "capID": "23",
+      "areaTypeID": "10,16,23,24,26,28",
+      "sortOrder": "1.2.4"
+    },
+    {
+      "effectID": "224",
+      "name": "offensiveRangeBonusConquerGeneral",
+      "effectTypeID": "24",
+      "capID": "24",
+      "areaTypeID": "10,16,23,24,26,28",
+      "sortOrder": "1.3.4"
+    },
+    {
+      "effectID": "225",
+      "name": "speedBonusConquerGeneral",
+      "effectTypeID": "15",
+      "capID": "15",
+      "areaTypeID": "10,16,23,24,26,28",
+      "sortOrder": "5.2.4"
+    },
+    {
+      "effectID": "226",
+      "name": "stealthBonusConquerGeneral",
+      "effectTypeID": "17",
+      "capID": "17",
+      "areaTypeID": "10,16,23,24,26,28",
+      "sortOrder": "5.3.4"
+    },
+    {
+      "effectID": "227",
+      "name": "attackBoostYardConquerGeneral",
+      "effectTypeID": "33",
+      "capID": "99",
+      "areaTypeID": "10,16,23,24,26,28",
+      "sortOrder": "1.6.3"
+    },
+    {
+      "effectID": "228",
+      "name": "wallReductionConquerGeneral",
+      "effectTypeID": "19",
+      "capID": "19",
+      "areaTypeID": "10,16,23,24,26,28",
+      "sortOrder": "2.5.2"
+    },
+    {
+      "effectID": "229",
+      "name": "attackUnitAmountFrontConquerGeneral",
+      "effectTypeID": "34",
+      "capID": "99",
+      "areaTypeID": "10,16,23,24,26,28",
+      "sortOrder": "3.1.3"
+    },
+    {
+      "effectID": "230",
+      "name": "attackUnitAmountFlankConquerGeneral",
+      "effectTypeID": "28",
+      "capID": "99",
+      "areaTypeID": "10,16,23,24,26,28",
+      "sortOrder": "3.2.3"
+    },
+    {
+      "effectID": "231",
+      "name": "attackBonusMainCastle",
+      "effectTypeID": "36",
+      "capID": "99",
+      "areaTypeID": "1,12,21,32,34,36",
+      "sortOrder": "1.1.1"
+    },
+    {
+      "effectID": "232",
+      "name": "attackBonusNotMainCastle",
+      "effectTypeID": "36",
+      "capID": "99",
+      "areaTypeID": "3,4,22",
+      "sortOrder": "1.1.2"
+    },
+    {
+      "effectID": "233",
+      "name": "stealthBonusGeneral",
+      "effectTypeID": "17",
+      "capID": "17",
+      "areaTypeID": "1,3,4,12,15,21,22,32,34,36",
+      "sortOrder": "5.3.3"
+    },
+    {
+      "effectID": "234",
+      "name": "attackBoostYardPVP",
+      "effectTypeID": "33",
+      "capID": "99",
+      "areaTypeID": "1,3,4,12,15,21,22,32,34,36",
+      "sortOrder": "1.6.4"
+    },
+    {
+      "effectID": "235",
+      "name": "wallReductionPVP",
+      "effectTypeID": "19",
+      "capID": "19",
+      "areaTypeID": "1,3,4,12,15,21,22,32,34,36",
+      "sortOrder": "2.5.3"
+    },
+    {
+      "effectID": "236",
+      "name": "gateReductionPVP",
+      "effectTypeID": "20",
+      "capID": "20",
+      "areaTypeID": "1,3,4,12,15,21,22,32,34,36",
+      "sortOrder": "2.6.2"
+    },
+    {
+      "effectID": "237",
+      "name": "moatReductionPVP",
+      "effectTypeID": "21",
+      "capID": "21",
+      "areaTypeID": "1,3,4,12,15,21,22,32,34,36",
+      "sortOrder": "2.7.2"
+    },
+    {
+      "effectID": "238",
+      "name": "attackUnitAmountFrontPVP",
+      "effectTypeID": "34",
+      "capID": "99",
+      "areaTypeID": "1,3,4,12,15,21,22,32,34,36",
+      "sortOrder": "3.1.4"
+    },
+    {
+      "effectID": "239",
+      "name": "attackUnitAmountFlankPVP",
+      "effectTypeID": "28",
+      "capID": "99",
+      "areaTypeID": "1,3,4,12,15,21,22,32,34,36",
+      "sortOrder": "3.2.4"
+    },
+    {
+      "effectID": "152",
+      "name": "offensiveMeleeBonusPVP",
+      "effectTypeID": "23",
+      "capID": "23",
+      "areaTypeID": "1,3,4,12,15,21,22,32,34,36",
+      "sortOrder": "1.2.7"
+    },
+    {
+      "effectID": "153",
+      "name": "offensiveRangeBonusPVP",
+      "effectTypeID": "24",
+      "capID": "24",
+      "areaTypeID": "1,3,4,12,15,21,22,32,34,36",
+      "sortOrder": "1.3.7"
+    },
+    {
+      "effectID": "240",
+      "name": "offensiveMeleeBonusPVE",
+      "effectTypeID": "23",
+      "capID": "23",
+      "areaTypeID": "2,11,13,17,18,25,27,29,30,35,37,42",
+      "sortOrder": "1.2.2"
+    },
+    {
+      "effectID": "241",
+      "name": "offensiveRangeBonusPVE",
+      "effectTypeID": "24",
+      "capID": "24",
+      "areaTypeID": "2,11,13,17,18,25,27,29,30,35,37,42",
+      "sortOrder": "1.3.2"
+    },
+    {
+      "effectID": "242",
+      "name": "speedBonusPVE",
+      "effectTypeID": "15",
+      "capID": "15",
+      "areaTypeID": "2,11,13,17,18,25,27,29,30,35,37,42",
+      "sortOrder": "5.2.5"
+    },
+    {
+      "effectID": "243",
+      "name": "attackBoostYardPVE",
+      "effectTypeID": "33",
+      "capID": "99",
+      "areaTypeID": "2,11,13,17,18,25,27,29,30,35,37,42",
+      "sortOrder": "1.6.5"
+    },
+    {
+      "effectID": "244",
+      "name": "wallReductionPVE",
+      "effectTypeID": "19",
+      "capID": "19",
+      "areaTypeID": "2,11,13,17,18,25,27,29,30,35,37,42",
+      "sortOrder": "2.5.4"
+    },
+    {
+      "effectID": "245",
+      "name": "gateReductionPVE",
+      "effectTypeID": "20",
+      "capID": "20",
+      "areaTypeID": "2,11,13,17,18,25,27,29,30,35,37,42",
+      "sortOrder": "2.6.3"
+    },
+    {
+      "effectID": "246",
+      "name": "attackUnitAmountFrontPVE",
+      "effectTypeID": "34",
+      "capID": "99",
+      "areaTypeID": "2,11,13,17,18,25,27,29,30,35,37,42",
+      "sortOrder": "3.1.5"
+    },
+    {
+      "effectID": "247",
+      "name": "attackUnitAmountFlankPVE",
+      "effectTypeID": "28",
+      "capID": "99",
+      "areaTypeID": "2,11,13,17,18,25,27,29,30,35,37,42",
+      "sortOrder": "3.2.5"
+    },
+    {
+      "effectID": "248",
+      "name": "fameOffenseBonusGeneral",
+      "effectTypeID": "13",
+      "capID": "13",
+      "areaTypeID": "1,3,4,12,15,21,22,34,36,42",
+      "sortOrder": "6.11.4"
+    },
+    {
+      "effectID": "249",
+      "name": "honorBonusGeneral",
+      "effectTypeID": "14",
+      "capID": "14",
+      "areaTypeID": "1,3,4,12,15,21,22,34,36,42",
+      "sortOrder": "6.10.2"
+    },
+    {
+      "effectID": "250",
+      "name": "lootCapacityPVP",
+      "effectTypeID": "37",
+      "capID": "99",
+      "areaTypeID": "1,3,4,12,15,21,22,32,34,36",
+      "sortOrder": "6.4.2"
+    },
+    {
+      "effectID": "251",
+      "name": "returnTravelBoostPVP",
+      "effectTypeID": "45",
+      "capID": "99",
+      "areaTypeID": "1,3,4,12,15,21,22,32,34,36",
+      "sortOrder": "6.1.2"
+    },
+    {
+      "effectID": "252",
+      "name": "speedBonusPVP",
+      "effectTypeID": "44",
+      "capID": "99",
+      "areaTypeID": "1,3,4,12,15,21,22,32,34,36",
+      "sortOrder": "5.2.6"
+    },
+    {
+      "effectID": "253",
+      "name": "travelCostReductionPVP",
+      "effectTypeID": "43",
+      "capID": "99",
+      "areaTypeID": "1,3,4,12,15,21,22,32,34,36",
+      "sortOrder": "5.1.2"
+    },
+    {
+      "effectID": "254",
+      "name": "smashChanceGeneral",
+      "effectTypeID": "25",
+      "capID": "25",
+      "areaTypeID": "1,3,4,12,15,21,22,34,36,42",
+      "sortOrder": "6.20.2"
+    },
+    {
+      "effectID": "255",
+      "name": "fireBoostGeneral",
+      "effectTypeID": "18",
+      "capID": "18",
+      "areaTypeID": "1,3,4,12,15,21,22,34,36,42",
+      "sortOrder": "6.19.2"
+    },
+    {
+      "effectID": "256",
+      "name": "cooldownReductionPVP",
+      "effectTypeID": "27",
+      "capID": "27",
+      "areaTypeID": "1,3,4,12,15,21,22,34,36",
+      "sortOrder": "6.3.2"
+    },
+    {
+      "effectID": "257",
+      "name": "cooldownReductionPVE",
+      "effectTypeID": "27",
+      "capID": "27",
+      "areaTypeID": "2,13,17,18,25,27,29,30,35,42",
+      "sortOrder": "6.3.3"
+    },
+    {
+      "effectID": "258",
+      "name": "magicFindBonusGeneral",
+      "effectTypeID": "22",
+      "capID": "22",
+      "areaTypeID": "2,11,13,17,18,25,27,29,30,35,37,42",
+      "sortOrder": "6.9.2"
+    },
+    {
+      "effectID": "259",
+      "name": "lootBonusPVE",
+      "effectTypeID": "16",
+      "capID": "16",
+      "areaTypeID": "2,11,13,17,18,25,27,29,30,35,37,42",
+      "sortOrder": "6.5.2"
+    },
+    {
+      "effectID": "260",
+      "name": "lootCapacityPVE",
+      "effectTypeID": "37",
+      "capID": "99",
+      "areaTypeID": "2,11,13,17,18,25,27,29,30,35,37,42",
+      "sortOrder": "6.4.3"
+    },
+    {
+      "effectID": "261",
+      "name": "returnTravelBoostPVE",
+      "effectTypeID": "38",
+      "capID": "99",
+      "areaTypeID": "2,11,13,17,18,25,27,29,30,35,37,42",
+      "sortOrder": "6.1.3"
+    },
+    {
+      "effectID": "262",
+      "name": "travelCostReductionPVE",
+      "effectTypeID": "26",
+      "capID": "26",
+      "areaTypeID": "2,11,13,17,18,25,27,29,30,35,37,42",
+      "sortOrder": "5.1.3"
+    },
+    {
+      "effectID": "263",
+      "name": "supportSpeedBonus",
+      "effectTypeID": "39",
+      "capID": "99",
+      "areaTypeID": "1,3,4,10,12,15,16,17,18,22,23,24,26,28,42",
+      "sortOrder": "5.2.7"
+    },
+    {
+      "effectID": "264",
+      "name": "stationingSpeedBonus",
+      "effectTypeID": "40",
+      "capID": "99",
+      "areaTypeID": "1,3,4,10,12,15,16,17,18,22,23,24,26,28,42",
+      "sortOrder": "5.2.8"
+    },
+    {
+      "effectID": "265",
+      "name": "supportTravelCostReduction",
+      "effectTypeID": "42",
+      "capID": "99",
+      "areaTypeID": "1,3,4,10,12,15,16,17,18,22,23,24,26,28,42",
+      "sortOrder": "5.1.4"
+    },
+    {
+      "effectID": "266",
+      "name": "stationingTravelCostReduction",
+      "effectTypeID": "41",
+      "capID": "99",
+      "areaTypeID": "1,3,4,10,12,15,16,17,18,22,23,24,26,28,42",
+      "sortOrder": "5.1.5"
+    },
+    {
+      "effectID": "301",
+      "name": "fameDefenseMalusBaron",
+      "effectTypeID": "0",
+      "capID": "0",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,34,42",
+      "sortOrder": "6.11.1"
+    },
+    {
+      "effectID": "302",
+      "name": "gateMalusBaron",
+      "effectTypeID": "7",
+      "capID": "7",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,34,42",
+      "sortOrder": "2.2.6"
+    },
+    {
+      "effectID": "303",
+      "name": "wallMalusBaron",
+      "effectTypeID": "6",
+      "capID": "6",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,34,42",
+      "sortOrder": "2.1.7"
+    },
+    {
+      "effectID": "304",
+      "name": "lootIncreaseBaron",
+      "effectTypeID": "2",
+      "capID": "2",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,34,42",
+      "sortOrder": "6.8.3"
+    },
+    {
+      "effectID": "305",
+      "name": "wallIncreasePVE",
+      "effectTypeID": "19",
+      "capID": "19",
+      "areaTypeID": "2,11,13,17,18,25,27,29,30,35,37,42",
+      "sortOrder": "2.5.6"
+    },
+    {
+      "effectID": "306",
+      "name": "wallIncreasePVP",
+      "effectTypeID": "19",
+      "capID": "19",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "2.5.7"
+    },
+    {
+      "effectID": "307",
+      "name": "stealthMalusGeneral",
+      "effectTypeID": "17",
+      "capID": "17",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "5.3.5"
+    },
+    {
+      "effectID": "308",
+      "name": "gateIncreasePVE",
+      "effectTypeID": "20",
+      "capID": "20",
+      "areaTypeID": "2,11,13,17,18,25,27,29,30,35,37,42",
+      "sortOrder": "2.6.4"
+    },
+    {
+      "effectID": "309",
+      "name": "gateIncreasePVP",
+      "effectTypeID": "20",
+      "capID": "20",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "2.6.5"
+    },
+    {
+      "effectID": "310",
+      "name": "perceptionMalusBaron",
+      "effectTypeID": "3",
+      "capID": "3",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,34,36,42",
+      "sortOrder": "5.4.3"
+    },
+    {
+      "effectID": "311",
+      "name": "moatMalusBaron",
+      "effectTypeID": "8",
+      "capID": "8",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,34,36,37,42",
+      "sortOrder": "2.3.5"
+    },
+    {
+      "effectID": "312",
+      "name": "attackMalusConquerBaron",
+      "effectTypeID": "36",
+      "capID": "99",
+      "areaTypeID": "4,15",
+      "sortOrder": "1.1.3"
+    },
+    {
+      "effectID": "313",
+      "name": "attackMalusPVE",
+      "effectTypeID": "36",
+      "capID": "99",
+      "areaTypeID": "2,11,13,17,18,25,27,29,30,35,37,42",
+      "sortOrder": "1.1.4"
+    },
+    {
+      "effectID": "314",
+      "name": "attackMalusPVP",
+      "effectTypeID": "36",
+      "capID": "99",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "1.1.5"
+    },
+    {
+      "effectID": "315",
+      "name": "fireBrigadeMalusBaron",
+      "effectTypeID": "4",
+      "capID": "4",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,34,42",
+      "sortOrder": "6.15.3"
+    },
+    {
+      "effectID": "316",
+      "name": "defenseMalusBaron",
+      "effectTypeID": "31",
+      "capID": "99",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,34,36,38,42",
+      "sortOrder": "1.13.3"
+    },
+    {
+      "effectID": "317",
+      "name": "speedMalusGeneral",
+      "effectTypeID": "15",
+      "capID": "15",
+      "areaTypeID": "1,2,3,4,10,12,13,15,21,22,23,24,25,26,27,28,29,30,32,34,35,36,37,42",
+      "sortOrder": "5.2.9"
+    },
+    {
+      "effectID": "318",
+      "name": "attackUnitAmountFrontMalusPVE",
+      "effectTypeID": "34",
+      "capID": "99",
+      "areaTypeID": "2,11,13,17,18,25,27,29,30,35,37,42",
+      "sortOrder": "3.1.6"
+    },
+    {
+      "effectID": "319",
+      "name": "attackUnitAmountFlankMalusPVE",
+      "effectTypeID": "28",
+      "capID": "99",
+      "areaTypeID": "2,11,13,17,18,25,27,29,30,35,37,42",
+      "sortOrder": "3.2.6"
+    },
+    {
+      "effectID": "320",
+      "name": "attackUnitAmountFrontMalusPVP",
+      "effectTypeID": "34",
+      "capID": "99",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "3.1.7"
+    },
+    {
+      "effectID": "321",
+      "name": "attackUnitAmountFlankMalusPVP",
+      "effectTypeID": "28",
+      "capID": "99",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "3.2.7"
+    },
+    {
+      "effectID": "322",
+      "name": "defenseUnitAmountwallMalusBaron",
+      "effectTypeID": "12",
+      "capID": "12",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,34,36,38,42",
+      "sortOrder": "4.1.5"
+    },
+    {
+      "effectID": "323",
+      "name": "fameMalusGeneral",
+      "effectTypeID": "13",
+      "capID": "13",
+      "areaTypeID": "1,3,4,12,15,21,22,34,36,42",
+      "sortOrder": "6.11.6"
+    },
+    {
+      "effectID": "324",
+      "name": "lootDecreaseGeneral",
+      "effectTypeID": "16",
+      "capID": "16",
+      "areaTypeID": "1,2,3,4,10,12,13,15,21,22,23,24,25,26,27,28,29,30,32,34,35,37,42",
+      "sortOrder": "6.8.4"
+    },
+    {
+      "effectID": "325",
+      "name": "occupationTimeIncreaseBaron",
+      "effectTypeID": "5",
+      "capID": "5",
+      "areaTypeID": "4",
+      "sortOrder": "6.2.3"
+    },
+    {
+      "effectID": "327",
+      "name": "returnTravelMalusGeneral",
+      "effectTypeID": "38",
+      "capID": "99",
+      "areaTypeID": "1,2,3,4,10,12,13,15,21,22,23,24,25,26,27,28,29,30,32,34,35,36,37,42",
+      "sortOrder": "6.1.4"
+    },
+    {
+      "effectID": "328",
+      "name": "offensiveMeleeMalusPVP",
+      "effectTypeID": "23",
+      "capID": "23",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36,42",
+      "sortOrder": "1.2.5"
+    },
+    {
+      "effectID": "329",
+      "name": "offensiveMeleeMalusPVE",
+      "effectTypeID": "23",
+      "capID": "23",
+      "areaTypeID": "2,11,13,17,18,25,27,29,30,35,37",
+      "sortOrder": "1.2.6"
+    },
+    {
+      "effectID": "330",
+      "name": "travelCostIncreaseGeneral",
+      "effectTypeID": "26",
+      "capID": "26",
+      "areaTypeID": "1,2,3,4,10,12,13,15,21,22,23,24,25,26,27,28,29,30,32,34,35,36,37,42",
+      "sortOrder": "5.1.6"
+    },
+    {
+      "effectID": "331",
+      "name": "offensiveRangeMalusPVP",
+      "effectTypeID": "24",
+      "capID": "24",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "1.3.5"
+    },
+    {
+      "effectID": "332",
+      "name": "moatIncreasePVP",
+      "effectTypeID": "21",
+      "capID": "21",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "2.7.3"
+    },
+    {
+      "effectID": "333",
+      "name": "offensiveRangeMalusPVE",
+      "effectTypeID": "24",
+      "capID": "24",
+      "areaTypeID": "2,11,13,17,18,25,27,29,30,35,37,42",
+      "sortOrder": "1.3.6"
+    },
+    {
+      "effectID": "14",
+      "name": "memberCount",
+      "effectTypeID": "56",
+      "capID": "99"
+    },
+    {
+      "effectID": "15",
+      "name": "allianceTravelSupportBoost",
+      "effectTypeID": "39",
+      "capID": "99",
+      "areaTypeID": "1,3,4,10,12,15,16,17,18,22,23,24,26,28,42",
+      "playerRelation": "sameAlliance",
+      "sortOrder": "5.2.10"
+    },
+    {
+      "effectID": "16",
+      "name": "allianceTravelMarketBoost",
+      "effectTypeID": "48",
+      "capID": "99",
+      "areaTypeID": "1,3,4,12,22,23,26,28",
+      "playerRelation": "sameAlliance"
+    },
+    {
+      "effectID": "17",
+      "name": "resourceDepositBoost",
+      "effectTypeID": "52",
+      "capID": "99"
+    },
+    {
+      "effectID": "18",
+      "name": "warLootBoost",
+      "effectTypeID": "55",
+      "capID": "99",
+      "areaTypeID": "1,3,4,12,22",
+      "playerRelation": "allianceInWar",
+      "sortOrder": "6.5.3"
+    },
+    {
+      "effectID": "19",
+      "name": "travelWarAttackBoost",
+      "effectTypeID": "44",
+      "capID": "99",
+      "areaTypeID": "1,3,4,12,22,32",
+      "playerRelation": "allianceInWar",
+      "sortOrder": "5.2.12"
+    },
+    {
+      "effectID": "20",
+      "name": "allianceAttackBoost",
+      "effectTypeID": "36",
+      "capID": "99",
+      "areaTypeID": "1,2,3,4,10,12,13,15,21,22,23,24,25,26,27,28,29,32,34,35,37,42",
+      "sortOrder": "1.1.6"
+    },
+    {
+      "effectID": "21",
+      "name": "allianceDefenseBoost",
+      "effectTypeID": "31",
+      "capID": "99",
+      "areaTypeID": "1,3,4,10,12,15,16,17,18,22,23,24,26,28,38,42",
+      "sortOrder": "1.13.4"
+    },
+    {
+      "effectID": "22",
+      "name": "allianceFameBoost",
+      "effectTypeID": "13",
+      "capID": "13",
+      "areaTypeID": "1,3,4,12,15,21,22,34",
+      "sortOrder": "6.11.9"
+    },
+    {
+      "effectID": "43",
+      "name": "coinLootBoost",
+      "effectTypeID": "75",
+      "capID": "99",
+      "sortOrder": "6.5.1"
+    },
+    {
+      "effectID": "44",
+      "name": "recruitmentCostDecrease",
+      "effectTypeID": "70",
+      "capID": "99"
+    },
+    {
+      "effectID": "45",
+      "name": "allianceFameGainBoost",
+      "effectTypeID": "77",
+      "capID": "99",
+      "sortOrder": "6.12.1"
+    },
+    {
+      "effectID": "46",
+      "name": "enableUnits",
+      "effectTypeID": "79",
+      "capID": "99"
+    },
+    {
+      "effectID": "47",
+      "name": "attackBonusPvP",
+      "effectTypeID": "36",
+      "capID": "99",
+      "areaTypeID": "1,3,4,12,15,21,22,32,34,36",
+      "sortOrder": "1.1.7"
+    },
+    {
+      "effectID": "48",
+      "name": "attackBonus",
+      "effectTypeID": "36",
+      "capID": "99",
+      "sortOrder": "1.1.8"
+    },
+    {
+      "effectID": "49",
+      "name": "toolProductionSpeedBoost",
+      "effectTypeID": "72",
+      "capID": "99"
+    },
+    {
+      "effectID": "50",
+      "name": "islandKing",
+      "effectTypeID": "81",
+      "capID": "99"
+    },
+    {
+      "effectID": "67",
+      "name": "foodProductionBoost",
+      "effectTypeID": "80",
+      "capID": "99",
+      "areaTypeID": "1,4,12",
+      "spaceIDs": "0,1,2,3,4"
+    },
+    {
+      "effectID": "68",
+      "name": "recruitmentSpeedBoost",
+      "effectTypeID": "71",
+      "capID": "99"
+    },
+    {
+      "effectID": "69",
+      "name": "spyCountBoost",
+      "effectTypeID": "73",
+      "capID": "99"
+    },
+    {
+      "effectID": "70",
+      "name": "publicOrderBoost",
+      "effectTypeID": "74",
+      "capID": "99",
+      "areaTypeID": "1,4,12",
+      "spaceIDs": "0,1,2,3"
+    },
+    {
+      "effectID": "71",
+      "name": "enemyFameBoost",
+      "effectTypeID": "83",
+      "capID": "99",
+      "sortOrder": "6.13.1"
+    },
+    {
+      "effectID": "72",
+      "name": "enemyLootBoost",
+      "effectTypeID": "84",
+      "capID": "99",
+      "sortOrder": "6.7.1"
+    },
+    {
+      "effectID": "73",
+      "name": "speedBonusBerimond",
+      "effectTypeID": "15",
+      "capID": "15",
+      "spaceIDs": "10",
+      "sortOrder": "5.2.16"
+    },
+    {
+      "effectID": "74",
+      "name": "auxiliaryCapacityBoost",
+      "effectTypeID": "78",
+      "capID": "99",
+      "areaTypeID": "15",
+      "spaceIDs": "10"
+    },
+    {
+      "effectID": "75",
+      "name": "moraleBoost",
+      "effectTypeID": "82",
+      "capID": "99",
+      "areaTypeID": "15",
+      "spaceIDs": "10"
+    },
+    {
+      "effectID": "76",
+      "name": "factionPointGainBoost",
+      "effectTypeID": "76",
+      "capID": "99",
+      "areaTypeID": "15,16,17,18,30",
+      "spaceIDs": "10,0",
+      "sortOrder": "6.14.1"
+    },
+    {
+      "effectID": "77",
+      "name": "foodProductionBoostKingdoms",
+      "effectTypeID": "80",
+      "capID": "99",
+      "areaTypeID": "12",
+      "spaceIDs": "1,2,3"
+    },
+    {
+      "effectID": "78",
+      "name": "foodProductionBoostMain",
+      "effectTypeID": "80",
+      "capID": "99",
+      "areaTypeID": "1,4",
+      "spaceIDs": "0"
+    },
+    {
+      "effectID": "79",
+      "name": "recruitmentCostDecreaseAll",
+      "effectTypeID": "85",
+      "capID": "99"
+    },
+    {
+      "effectID": "80",
+      "name": "recruitmentSpeedBoostAll",
+      "effectTypeID": "86",
+      "capID": "99"
+    },
+    {
+      "effectID": "81",
+      "name": "unlockSkinIDs",
+      "effectTypeID": "87",
+      "capID": "99"
+    },
+    {
+      "effectID": "400",
+      "name": "unlockAbility",
+      "effectTypeID": "178",
+      "capID": "99"
+    },
+    {
+      "effectID": "180",
+      "name": "enableBuildings",
+      "effectTypeID": "57",
+      "capID": "99"
+    },
+    {
+      "effectID": "82",
+      "name": "battleXPBoost",
+      "effectTypeID": "88",
+      "capID": "99",
+      "sortOrder": "6.21.1"
+    },
+    {
+      "effectID": "83",
+      "name": "buildingXPBoost",
+      "effectTypeID": "89",
+      "capID": "99"
+    },
+    {
+      "effectID": "84",
+      "name": "disableUnits",
+      "effectTypeID": "90",
+      "capID": "99"
+    },
+    {
+      "effectID": "85",
+      "name": "espionageSpeedBoost",
+      "effectTypeID": "91",
+      "capID": "99"
+    },
+    {
+      "effectID": "86",
+      "name": "woodProductionBoost",
+      "effectTypeID": "92",
+      "capID": "99",
+      "areaTypeID": "1,4,12"
+    },
+    {
+      "effectID": "87",
+      "name": "stoneProductionBoost",
+      "effectTypeID": "93",
+      "capID": "99",
+      "areaTypeID": "1,4,12"
+    },
+    {
+      "effectID": "88",
+      "name": "taxCollectorBoost",
+      "effectTypeID": "94",
+      "capID": "99"
+    },
+    {
+      "effectID": "89",
+      "name": "taxCollectorNoRubies",
+      "effectTypeID": "95",
+      "capID": "99"
+    },
+    {
+      "effectID": "90",
+      "name": "marketCarriageCapacityBoost",
+      "effectTypeID": "96",
+      "capID": "99"
+    },
+    {
+      "effectID": "91",
+      "name": "marketSpeedOwnBoost",
+      "effectTypeID": "48",
+      "capID": "99",
+      "playerRelation": "samePlayer"
+    },
+    {
+      "effectID": "92",
+      "name": "amountGuardsBoost",
+      "effectTypeID": "97",
+      "capID": "99"
+    },
+    {
+      "effectID": "93",
+      "name": "amountSpiesBonus",
+      "effectTypeID": "98",
+      "capID": "99"
+    },
+    {
+      "effectID": "94",
+      "name": "amountPeasantBoost",
+      "effectTypeID": "99",
+      "capID": "99"
+    },
+    {
+      "effectID": "95",
+      "name": "amountPopulationBoost",
+      "effectTypeID": "100",
+      "capID": "99"
+    },
+    {
+      "effectID": "96",
+      "name": "amountPopulationBonus",
+      "effectTypeID": "101",
+      "capID": "99"
+    },
+    {
+      "effectID": "97",
+      "name": "unitSpeedBoost",
+      "effectTypeID": "102",
+      "capID": "99",
+      "sortOrder": "5.2.14"
+    },
+    {
+      "effectID": "98",
+      "name": "travelKingdomTroopTimeBoost",
+      "effectTypeID": "103",
+      "capID": "99"
+    },
+    {
+      "effectID": "99",
+      "name": "travelKingdomMarketTimeBoost",
+      "effectTypeID": "104",
+      "capID": "99"
+    },
+    {
+      "effectID": "100",
+      "name": "fameBoost",
+      "effectTypeID": "105",
+      "capID": "99",
+      "sortOrder": "6.11.11"
+    },
+    {
+      "effectID": "103",
+      "name": "hospitalSlotBonus",
+      "effectTypeID": "106",
+      "capID": "99"
+    },
+    {
+      "effectID": "104",
+      "name": "researchBoost",
+      "effectTypeID": "107",
+      "capID": "99"
+    },
+    {
+      "effectID": "105",
+      "name": "researchBonus",
+      "effectTypeID": "108",
+      "capID": "99"
+    },
+    {
+      "effectID": "106",
+      "name": "forgeCostBoost",
+      "effectTypeID": "109",
+      "capID": "99"
+    },
+    {
+      "effectID": "107",
+      "name": "recruitmentTimeBonus",
+      "effectTypeID": "110",
+      "capID": "99"
+    },
+    {
+      "effectID": "108",
+      "name": "toolProductionTimeBonus",
+      "effectTypeID": "111",
+      "capID": "99"
+    },
+    {
+      "effectID": "109",
+      "name": "woodProductionBonusMain",
+      "effectTypeID": "112",
+      "capID": "99",
+      "areaTypeID": "1"
+    },
+    {
+      "effectID": "110",
+      "name": "stoneProductionBonusMain",
+      "effectTypeID": "113",
+      "capID": "99",
+      "areaTypeID": "1"
+    },
+    {
+      "effectID": "111",
+      "name": "lootCapacityBoost",
+      "effectTypeID": "114",
+      "capID": "99",
+      "sortOrder": "6.4.5"
+    },
+    {
+      "effectID": "112",
+      "name": "battleXPBonus",
+      "effectTypeID": "115",
+      "capID": "99",
+      "sortOrder": "6.22.1"
+    },
+    {
+      "effectID": "113",
+      "name": "enableConstructionItemRecipes",
+      "effectTypeID": "116",
+      "capID": "99"
+    },
+    {
+      "effectID": "114",
+      "name": "toolProductionSpeedBoostAll",
+      "effectTypeID": "117",
+      "capID": "99"
+    },
+    {
+      "effectID": "115",
+      "name": "strongerPeasant",
+      "effectTypeID": "118",
+      "capID": "99"
+    },
+    {
+      "effectID": "116",
+      "name": "foodProductionBonusMain",
+      "effectTypeID": "69",
+      "capID": "99",
+      "areaTypeID": "1"
+    },
+    {
+      "effectID": "295",
+      "name": "MeadProductionIncrease",
+      "effectTypeID": "160",
+      "capID": "99"
+    },
+    {
+      "effectID": "296",
+      "name": "unboostedMeadProduction",
+      "effectTypeID": "161",
+      "capID": "99"
+    },
+    {
+      "effectID": "297",
+      "name": "HoneyProductionIncrease",
+      "effectTypeID": "162",
+      "capID": "99"
+    },
+    {
+      "effectID": "298",
+      "name": "unboostedHoneyProduction",
+      "effectTypeID": "163",
+      "capID": "99"
+    },
+    {
+      "effectID": "299",
+      "name": "meadProductionBoost",
+      "effectTypeID": "164",
+      "capID": "99"
+    },
+    {
+      "effectID": "300",
+      "name": "honeyProductionBoost",
+      "effectTypeID": "165",
+      "capID": "99"
+    },
+    {
+      "effectID": "129",
+      "name": "healingSpeedIncreaseBoostPremium",
+      "effectTypeID": "120",
+      "capID": "99"
+    },
+    {
+      "effectID": "130",
+      "name": "healingSpeedIncreaseBoostNonPremium",
+      "effectTypeID": "121",
+      "capID": "99"
+    },
+    {
+      "effectID": "131",
+      "name": "transportTaxDecreaseBoostIce",
+      "effectTypeID": "122",
+      "capID": "99",
+      "spaceIDs": "2"
+    },
+    {
+      "effectID": "132",
+      "name": "transportTaxDecreaseBoostSand",
+      "effectTypeID": "122",
+      "capID": "99",
+      "spaceIDs": "1"
+    },
+    {
+      "effectID": "133",
+      "name": "transportTaxDecreaseBoostVulcano",
+      "effectTypeID": "122",
+      "capID": "99",
+      "spaceIDs": "3"
+    },
+    {
+      "effectID": "134",
+      "name": "transportTaxDecreaseBoostIsland",
+      "effectTypeID": "122",
+      "capID": "99",
+      "spaceIDs": "4"
+    },
+    {
+      "effectID": "135",
+      "name": "transportTaxDecreaseBoostGreen",
+      "effectTypeID": "122",
+      "capID": "99",
+      "spaceIDs": "0"
+    },
+    {
+      "effectID": "138",
+      "name": "freeSkipBonus",
+      "effectTypeID": "124",
+      "capID": "99"
+    },
+    {
+      "effectID": "139",
+      "name": "researchCostsBoost",
+      "effectTypeID": "125",
+      "capID": "99"
+    },
+    {
+      "effectID": "140",
+      "name": "baseRecruitmentTimeBoost",
+      "effectTypeID": "126",
+      "capID": "99"
+    },
+    {
+      "effectID": "141",
+      "name": "recruitmentSlotsBonus",
+      "effectTypeID": "127",
+      "capID": "99"
+    },
+    {
+      "effectID": "142",
+      "name": "buildingCostsBoost",
+      "effectTypeID": "128",
+      "capID": "99"
+    },
+    {
+      "effectID": "143",
+      "name": "gloryDecayBoost",
+      "effectTypeID": "129",
+      "capID": "99"
+    },
+    {
+      "effectID": "144",
+      "name": "coinLootBoostNomad",
+      "effectTypeID": "75",
+      "capID": "99",
+      "areaTypeID": "27,35"
+    },
+    {
+      "effectID": "145",
+      "name": "PublicOrderBonusMain",
+      "effectTypeID": "123",
+      "capID": "99",
+      "areaTypeID": "1,4"
+    },
+    {
+      "effectID": "146",
+      "name": "cooldownReductionNomad",
+      "effectTypeID": "27",
+      "capID": "27",
+      "areaTypeID": "27,35"
+    },
+    {
+      "effectID": "600",
+      "name": "woodProductionBoost",
+      "effectTypeID": "92",
+      "capID": "99",
+      "areaTypeID": "1,12",
+      "spaceIDs": "2"
+    },
+    {
+      "effectID": "601",
+      "name": "woodProductionBoost",
+      "effectTypeID": "92",
+      "capID": "99",
+      "areaTypeID": "1,12",
+      "spaceIDs": "1"
+    },
+    {
+      "effectID": "602",
+      "name": "woodProductionBoost",
+      "effectTypeID": "92",
+      "capID": "99",
+      "areaTypeID": "1,12",
+      "spaceIDs": "3"
+    },
+    {
+      "effectID": "603",
+      "name": "stoneProductionBoost",
+      "effectTypeID": "93",
+      "capID": "99",
+      "areaTypeID": "1,12",
+      "spaceIDs": "2"
+    },
+    {
+      "effectID": "604",
+      "name": "stoneProductionBoost",
+      "effectTypeID": "93",
+      "capID": "99",
+      "areaTypeID": "1,12",
+      "spaceIDs": "1"
+    },
+    {
+      "effectID": "605",
+      "name": "stoneProductionBoost",
+      "effectTypeID": "93",
+      "capID": "99",
+      "areaTypeID": "1,12",
+      "spaceIDs": "3"
+    },
+    {
+      "effectID": "606",
+      "name": "foodProductionBoost",
+      "effectTypeID": "80",
+      "capID": "99",
+      "areaTypeID": "1,12",
+      "spaceIDs": "2"
+    },
+    {
+      "effectID": "607",
+      "name": "foodProductionBoost",
+      "effectTypeID": "80",
+      "capID": "99",
+      "areaTypeID": "1,12",
+      "spaceIDs": "1"
+    },
+    {
+      "effectID": "608",
+      "name": "foodProductionBoost",
+      "effectTypeID": "80",
+      "capID": "99",
+      "areaTypeID": "1,12",
+      "spaceIDs": "3"
+    },
+    {
+      "effectID": "609",
+      "name": "ironProductionBoost",
+      "effectTypeID": "143",
+      "capID": "99",
+      "areaTypeID": "1",
+      "spaceIDs": "0"
+    },
+    {
+      "effectID": "610",
+      "name": "coalProductionBoost",
+      "effectTypeID": "140",
+      "capID": "99",
+      "areaTypeID": "12",
+      "spaceIDs": "2"
+    },
+    {
+      "effectID": "611",
+      "name": "oilProductionBoost",
+      "effectTypeID": "141",
+      "capID": "99",
+      "areaTypeID": "12",
+      "spaceIDs": "1"
+    },
+    {
+      "effectID": "612",
+      "name": "glassProductionBoost",
+      "effectTypeID": "142",
+      "capID": "99",
+      "areaTypeID": "12",
+      "spaceIDs": "3"
+    },
+    {
+      "effectID": "154",
+      "name": "charmBoost",
+      "effectTypeID": "130",
+      "capID": "99",
+      "areaTypeID": "36"
+    },
+    {
+      "effectID": "155",
+      "name": "attackUnitAmountFlankShapeshifter",
+      "effectTypeID": "28",
+      "capID": "99",
+      "areaTypeID": "36"
+    },
+    {
+      "effectID": "156",
+      "name": "attackBoostYardShapeshifter",
+      "effectTypeID": "33",
+      "capID": "99",
+      "areaTypeID": "36"
+    },
+    {
+      "effectID": "158",
+      "name": "nomadTabletBoost",
+      "effectTypeID": "131",
+      "capID": "99"
+    },
+    {
+      "effectID": "159",
+      "name": "reputationPointGainBoost",
+      "effectTypeID": "132",
+      "capID": "99"
+    },
+    {
+      "effectID": "160",
+      "name": "samuraiTokenBoost",
+      "effectTypeID": "133",
+      "capID": "99",
+      "areaTypeID": "29"
+    },
+    {
+      "effectID": "161",
+      "name": "khanMedalBoost",
+      "effectTypeID": "134",
+      "capID": "99"
+    },
+    {
+      "effectID": "162",
+      "name": "ragePointGainBoost",
+      "effectTypeID": "135",
+      "capID": "99"
+    },
+    {
+      "effectID": "344",
+      "name": "ragePointGainBoost",
+      "effectTypeID": "135",
+      "capID": "99"
+    },
+    {
+      "effectID": "147",
+      "name": "attackBoostYardNomad",
+      "effectTypeID": "33",
+      "capID": "99",
+      "areaTypeID": "27,35"
+    },
+    {
+      "effectID": "148",
+      "name": "wallReductionNomad",
+      "effectTypeID": "19",
+      "capID": "19",
+      "areaTypeID": "27,35"
+    },
+    {
+      "effectID": "149",
+      "name": "attackUnitAmountFlankNomad",
+      "effectTypeID": "28",
+      "capID": "99",
+      "areaTypeID": "27,35"
+    },
+    {
+      "effectID": "150",
+      "name": "gateReductionNomad",
+      "effectTypeID": "20",
+      "capID": "20",
+      "areaTypeID": "27,35"
+    },
+    {
+      "effectID": "157",
+      "name": "offensiveRangeBonusNomad",
+      "effectTypeID": "24",
+      "capID": "24",
+      "areaTypeID": "27,35"
+    },
+    {
+      "effectID": "345",
+      "name": "attackBoostYardAlien",
+      "effectTypeID": "33",
+      "capID": "99",
+      "areaTypeID": "21,34"
+    },
+    {
+      "effectID": "346",
+      "name": "attackUnitAmountFlankAlien",
+      "effectTypeID": "28",
+      "capID": "99",
+      "areaTypeID": "21,34"
+    },
+    {
+      "effectID": "347",
+      "name": "moatReductionAlien",
+      "effectTypeID": "21",
+      "capID": "21",
+      "areaTypeID": "21,34"
+    },
+    {
+      "effectID": "350",
+      "name": "offensiveMeleeBonusAlien",
+      "effectTypeID": "23",
+      "capID": "23",
+      "areaTypeID": "21,34"
+    },
+    {
+      "effectID": "351",
+      "name": "offensiveRangeBonusAlien",
+      "effectTypeID": "24",
+      "capID": "24",
+      "areaTypeID": "21,34"
+    },
+    {
+      "effectID": "364",
+      "name": "fameOffenseBonusAlien",
+      "effectTypeID": "105",
+      "capID": "99",
+      "areaTypeID": "21,34"
+    },
+    {
+      "effectID": "348",
+      "name": "offensiveMeleeBonusBerimondKingdom",
+      "effectTypeID": "23",
+      "capID": "23",
+      "areaTypeID": "15,16,17,18"
+    },
+    {
+      "effectID": "349",
+      "name": "offensiveRangeBonusBerimondKingdom",
+      "effectTypeID": "24",
+      "capID": "24",
+      "areaTypeID": "15,16,17,18"
+    },
+    {
+      "effectID": "352",
+      "name": "attackUnitAmountFlankBerimondKingdom",
+      "effectTypeID": "28",
+      "capID": "99",
+      "areaTypeID": "15,16,17,18"
+    },
+    {
+      "effectID": "353",
+      "name": "factionPointGainBoostBerimondKingdom",
+      "effectTypeID": "76",
+      "capID": "99",
+      "areaTypeID": "15,16,17,18"
+    },
+    {
+      "effectID": "354",
+      "name": "attackBoostYardBerimondKingdom",
+      "effectTypeID": "33",
+      "capID": "99",
+      "areaTypeID": "15,16,17,18"
+    },
+    {
+      "effectID": "355",
+      "name": "attackBoostYardSamurai",
+      "effectTypeID": "53",
+      "capID": "99",
+      "areaTypeID": "29,37"
+    },
+    {
+      "effectID": "356",
+      "name": "attackUnitAmountFlankSamurai",
+      "effectTypeID": "28",
+      "capID": "99",
+      "areaTypeID": "29,37"
+    },
+    {
+      "effectID": "357",
+      "name": "gateReductionSamurai",
+      "effectTypeID": "20",
+      "capID": "20",
+      "areaTypeID": "29,37"
+    },
+    {
+      "effectID": "358",
+      "name": "wallReductionSamurai",
+      "effectTypeID": "19",
+      "capID": "19",
+      "areaTypeID": "29,37"
+    },
+    {
+      "effectID": "359",
+      "name": "offensiveRangeBonusSamurai",
+      "effectTypeID": "24",
+      "capID": "24",
+      "areaTypeID": "29,37"
+    },
+    {
+      "effectID": "183",
+      "name": "meleeBonusPVP",
+      "effectTypeID": "9",
+      "capID": "9",
+      "sortOrder": "1.7.2",
+      "isPvPFight": "1"
+    },
+    {
+      "effectID": "184",
+      "name": "rangeBonusPVP",
+      "effectTypeID": "10",
+      "capID": "10",
+      "sortOrder": "1.8.2",
+      "isPvPFight": "1"
+    },
+    {
+      "effectID": "185",
+      "name": "defenseBoostYardPvP",
+      "effectTypeID": "32",
+      "capID": "99",
+      "sortOrder": "1.9.3",
+      "isPvPFight": "1"
+    },
+    {
+      "effectID": "186",
+      "name": "featureAutoSell",
+      "effectTypeID": "136",
+      "capID": "99"
+    },
+    {
+      "effectID": "187",
+      "name": "featureAutoSpy",
+      "effectTypeID": "137",
+      "capID": "99",
+      "areaTypeID": "2,11,13,21,25,27,29,30,34,35,37,39,40,41"
+    },
+    {
+      "effectID": "199",
+      "name": "foodCapacityBonusGreen",
+      "effectTypeID": "138",
+      "capID": "99",
+      "areaTypeID": "1"
+    },
+    {
+      "effectID": "268",
+      "name": "CollectorBoostSouls",
+      "effectTypeID": "139",
+      "capID": "99",
+      "sortOrder": "6.25.1"
+    },
+    {
+      "effectID": "269",
+      "name": "CollectorBoostFurs",
+      "effectTypeID": "139",
+      "capID": "99",
+      "sortOrder": "6.25.2"
+    },
+    {
+      "effectID": "270",
+      "name": "CollectorBoostBeads",
+      "effectTypeID": "139",
+      "capID": "99",
+      "sortOrder": "6.25.3"
+    },
+    {
+      "effectID": "274",
+      "name": "CollectorBoostBees",
+      "effectTypeID": "139",
+      "capID": "99",
+      "sortOrder": "6.25.4"
+    },
+    {
+      "effectID": "275",
+      "name": "CollectorBoostEssence",
+      "effectTypeID": "139",
+      "capID": "99",
+      "sortOrder": "6.25.5"
+    },
+    {
+      "effectID": "293",
+      "name": "CollectorBoostTea",
+      "effectTypeID": "139",
+      "capID": "99",
+      "sortOrder": "6.25.6"
+    },
+    {
+      "effectID": "338",
+      "name": "CollectorBoostPartyAnimal",
+      "effectTypeID": "139",
+      "capID": "99",
+      "sortOrder": "6.25.6"
+    },
+    {
+      "effectID": "271",
+      "name": "tempServerCollectorBoost",
+      "effectTypeID": "144",
+      "capID": "99",
+      "sortOrder": "6.25.7"
+    },
+    {
+      "effectID": "272",
+      "name": "foodConsumptionBoost",
+      "effectTypeID": "152",
+      "capID": "99"
+    },
+    {
+      "effectID": "273",
+      "name": "attackBonusUnit",
+      "effectTypeID": "148",
+      "capID": "99"
+    },
+    {
+      "effectID": "276",
+      "name": "attackBonusUnitNomad",
+      "effectTypeID": "148",
+      "capID": "99",
+      "areaTypeID": "27,35"
+    },
+    {
+      "effectID": "277",
+      "name": "attackBonusUnitSamurai",
+      "effectTypeID": "148",
+      "capID": "99",
+      "areaTypeID": "29,37"
+    },
+    {
+      "effectID": "278",
+      "name": "attackBonusUnitAlien",
+      "effectTypeID": "148",
+      "capID": "99",
+      "areaTypeID": "21"
+    },
+    {
+      "effectID": "279",
+      "name": "attackBonusUnitBloodcrows",
+      "effectTypeID": "148",
+      "capID": "99",
+      "areaTypeID": "34"
+    },
+    {
+      "effectID": "280",
+      "name": "attackBonusUnitBerimondInvasion",
+      "effectTypeID": "148",
+      "capID": "99",
+      "areaTypeID": "30"
+    },
+    {
+      "effectID": "281",
+      "name": "allianceRageBoost",
+      "effectTypeID": "135",
+      "capID": "99",
+      "areaTypeID": "35"
+    },
+    {
+      "effectID": "282",
+      "name": "allianceKhanCooldownReduction",
+      "effectTypeID": "27",
+      "capID": "99",
+      "areaTypeID": "35"
+    },
+    {
+      "effectID": "283",
+      "name": "allianceNomadCooldownReduction",
+      "effectTypeID": "27",
+      "capID": "99",
+      "areaTypeID": "27"
+    },
+    {
+      "effectID": "285",
+      "name": "fameBoostUnitAlienBC",
+      "effectTypeID": "154",
+      "capID": "99",
+      "areaTypeID": "21,34"
+    },
+    {
+      "effectID": "286",
+      "name": "BGCollectorBoost",
+      "effectTypeID": "155",
+      "capID": "99",
+      "areaTypeID": "3"
+    },
+    {
+      "effectID": "25",
+      "name": "allianceAttackBoostAliens",
+      "effectTypeID": "36",
+      "capID": "99",
+      "areaTypeID": "21,34",
+      "sortOrder": "1.1.6"
+    },
+    {
+      "effectID": "26",
+      "name": "allianceAttackBoostDaimyo",
+      "effectTypeID": "36",
+      "capID": "99",
+      "areaTypeID": "37",
+      "sortOrder": "1.1.6"
+    },
+    {
+      "effectID": "27",
+      "name": "allianceDefenseBoostKhan",
+      "effectTypeID": "31",
+      "capID": "99",
+      "areaTypeID": "1",
+      "sortOrder": "1.13.4"
+    },
+    {
+      "effectID": "28",
+      "name": "allianceDefenseBoostDaimyo",
+      "effectTypeID": "120",
+      "capID": "99",
+      "sortOrder": "1.13.4"
+    },
+    {
+      "effectID": "29",
+      "name": "additionalWaves",
+      "effectTypeID": "156",
+      "capID": "99",
+      "sortOrder": "1.14.1"
+    },
+    {
+      "effectID": "30",
+      "name": "burningChanceBonus",
+      "effectTypeID": "157",
+      "capID": "99"
+    },
+    {
+      "effectID": "31",
+      "name": "wallBonusCharge",
+      "effectTypeID": "6",
+      "capID": "99",
+      "areaTypeID": "39"
+    },
+    {
+      "effectID": "32",
+      "name": "gateBonusCharge",
+      "effectTypeID": "7",
+      "capID": "99",
+      "areaTypeID": "39"
+    },
+    {
+      "effectID": "33",
+      "name": "defenseUnitAmountWallCharge",
+      "effectTypeID": "12",
+      "capID": "99",
+      "areaTypeID": "39"
+    },
+    {
+      "effectID": "34",
+      "name": "meleeBonusCharge",
+      "effectTypeID": "9",
+      "capID": "99",
+      "areaTypeID": "39"
+    },
+    {
+      "effectID": "35",
+      "name": "rangeBonusCharge",
+      "effectTypeID": "10",
+      "capID": "99",
+      "areaTypeID": "39"
+    },
+    {
+      "effectID": "36",
+      "name": "defenseBonusCharge",
+      "effectTypeID": "31",
+      "capID": "99",
+      "areaTypeID": "39"
+    },
+    {
+      "effectID": "37",
+      "name": "defenseBoostYardCharge",
+      "effectTypeID": "32",
+      "capID": "99",
+      "areaTypeID": "39"
+    },
+    {
+      "effectID": "38",
+      "name": "attackBonusCharge",
+      "effectTypeID": "36",
+      "capID": "99",
+      "areaTypeID": "1"
+    },
+    {
+      "effectID": "39",
+      "name": "offensiveMeleeBonusCharge",
+      "effectTypeID": "23",
+      "capID": "99",
+      "areaTypeID": "39"
+    },
+    {
+      "effectID": "40",
+      "name": "offensiveRangeBonusCharge",
+      "effectTypeID": "24",
+      "capID": "99",
+      "areaTypeID": "39"
+    },
+    {
+      "effectID": "41",
+      "name": "wallReductionCharge",
+      "effectTypeID": "19",
+      "capID": "99",
+      "areaTypeID": "39"
+    },
+    {
+      "effectID": "42",
+      "name": "gateReductionCharge",
+      "effectTypeID": "20",
+      "capID": "99",
+      "areaTypeID": "39"
+    },
+    {
+      "effectID": "23",
+      "name": "attackBoostYardCharge",
+      "effectTypeID": "33",
+      "capID": "99",
+      "areaTypeID": "39"
+    },
+    {
+      "effectID": "24",
+      "name": "tonicBoost",
+      "effectTypeID": "158",
+      "capID": "99",
+      "areaTypeID": "39"
+    },
+    {
+      "effectID": "168",
+      "name": "wallBonusTower",
+      "effectTypeID": "6",
+      "capID": "99",
+      "areaTypeID": "41",
+      "sortOrder": "2.1.8"
+    },
+    {
+      "effectID": "169",
+      "name": "gateBonusTower",
+      "effectTypeID": "7",
+      "capID": "99",
+      "areaTypeID": "41",
+      "sortOrder": "2.2.7"
+    },
+    {
+      "effectID": "170",
+      "name": "defenseBoostYardTower",
+      "effectTypeID": "32",
+      "capID": "99",
+      "areaTypeID": "41",
+      "sortOrder": "1.9.4"
+    },
+    {
+      "effectID": "171",
+      "name": "meleeBonusTower",
+      "effectTypeID": "9",
+      "capID": "99",
+      "areaTypeID": "41",
+      "sortOrder": "1.7.3"
+    },
+    {
+      "effectID": "172",
+      "name": "rangeBonusTower",
+      "effectTypeID": "10",
+      "capID": "99",
+      "areaTypeID": "41",
+      "sortOrder": "1.8.3"
+    },
+    {
+      "effectID": "173",
+      "name": "offensiveMeleeBonusResourceTower",
+      "effectTypeID": "23",
+      "capID": "99",
+      "areaTypeID": "40",
+      "sortOrder": "1.2.12"
+    },
+    {
+      "effectID": "174",
+      "name": "offensiveRangeBonusResourceTower",
+      "effectTypeID": "24",
+      "capID": "99",
+      "areaTypeID": "40",
+      "sortOrder": "1.3.12"
+    },
+    {
+      "effectID": "175",
+      "name": "lootBonusResourceTower",
+      "effectTypeID": "16",
+      "capID": "99",
+      "areaTypeID": "40",
+      "sortOrder": "6.5.3"
+    },
+    {
+      "effectID": "176",
+      "name": "lootCapacityResourceTower",
+      "effectTypeID": "37",
+      "capID": "99",
+      "areaTypeID": "40",
+      "sortOrder": "6.4.3"
+    },
+    {
+      "effectID": "177",
+      "name": "travelCostReductionResourceTower",
+      "effectTypeID": "26",
+      "capID": "99",
+      "areaTypeID": "40",
+      "sortOrder": "5.1.7"
+    },
+    {
+      "effectID": "178",
+      "name": "speedBonusResourceTower",
+      "effectTypeID": "15",
+      "capID": "99",
+      "areaTypeID": "40",
+      "sortOrder": "5.2.10"
+    },
+    {
+      "effectID": "179",
+      "name": "cooldownReductionResourceTower",
+      "effectTypeID": "27",
+      "capID": "99",
+      "areaTypeID": "40",
+      "sortOrder": "6.3.4"
+    },
+    {
+      "effectID": "326",
+      "name": "foodProductionBonusBaronEconomy",
+      "effectTypeID": "69",
+      "capID": "99",
+      "sortOrder": "1.2.12"
+    },
+    {
+      "effectID": "334",
+      "name": "foodProductionBoostBaronEconomy",
+      "effectTypeID": "80",
+      "capID": "99",
+      "sortOrder": "1.2.12"
+    },
+    {
+      "effectID": "335",
+      "name": "foodCapacityBonusBaronEconomy",
+      "effectTypeID": "138",
+      "capID": "99",
+      "sortOrder": "1.2.12"
+    },
+    {
+      "effectID": "336",
+      "name": "meadCapacityBonusBaronEconomy",
+      "effectTypeID": "166",
+      "capID": "99",
+      "sortOrder": "1.2.12"
+    },
+    {
+      "effectID": "337",
+      "name": "currencyLootBoostBaronEconomy",
+      "effectTypeID": "168",
+      "capID": "99",
+      "sortOrder": "1.2.12"
+    },
+    {
+      "effectID": "613",
+      "name": "offensiveMeleeBonusTCI",
+      "effectTypeID": "23",
+      "capID": "99",
+      "sortOrder": "1.2.7"
+    },
+    {
+      "effectID": "614",
+      "name": "offensiveRangeBonusTCI",
+      "effectTypeID": "24",
+      "capID": "99",
+      "sortOrder": "1.3.7"
+    },
+    {
+      "effectID": "615",
+      "name": "enableExpansion",
+      "effectTypeID": "169",
+      "capID": "99"
+    },
+    {
+      "effectID": "616",
+      "name": "enableCraftingRecipes",
+      "effectTypeID": "170",
+      "capID": "99"
+    },
+    {
+      "effectID": "618",
+      "name": "bonusWallCapacity",
+      "effectTypeID": "12",
+      "capID": "99"
+    },
+    {
+      "effectID": "619",
+      "name": "bonusDefencePower",
+      "effectTypeID": "31",
+      "capID": "99"
+    },
+    {
+      "effectID": "620",
+      "name": "bonusYardDefensePower",
+      "effectTypeID": "32",
+      "capID": "99"
+    },
+    {
+      "effectID": "621",
+      "name": "killAttackingTroopsYard",
+      "effectTypeID": "172",
+      "capID": "99"
+    },
+    {
+      "effectID": "622",
+      "name": "killAttackingRangedTroopsYard",
+      "effectTypeID": "173",
+      "capID": "99"
+    },
+    {
+      "effectID": "632",
+      "name": "killDefendingMeleeTroopsYard",
+      "effectTypeID": "175",
+      "capID": "99"
+    },
+    {
+      "effectID": "633",
+      "name": "killDefendingRangedTroopsYard",
+      "effectTypeID": "176",
+      "capID": "99"
+    },
+    {
+      "effectID": "634",
+      "name": "killAttackingAnyTroopsYard",
+      "effectTypeID": "174",
+      "capID": "99"
+    },
+    {
+      "effectID": "635",
+      "name": "killDefendingAnyTroopsYard",
+      "effectTypeID": "177",
+      "capID": "99"
+    },
+    {
+      "effectID": "339",
+      "name": "meleeBonusTCI",
+      "effectTypeID": "9",
+      "capID": "99",
+      "sortOrder": "1.7.1"
+    },
+    {
+      "effectID": "340",
+      "name": "rangeBonusTCI",
+      "effectTypeID": "10",
+      "capID": "99",
+      "sortOrder": "1.8.1"
+    },
+    {
+      "effectID": "10000",
+      "name": "difficultyScalingWallBonus",
+      "effectTypeID": "6",
+      "capID": "99",
+      "sortOrder": "2.1.1"
+    },
+    {
+      "effectID": "10001",
+      "name": "difficultyScalingGateBonus",
+      "effectTypeID": "7",
+      "capID": "99",
+      "sortOrder": "2.2.1"
+    },
+    {
+      "effectID": "10002",
+      "name": "difficultyScalingMoatBonus",
+      "effectTypeID": "8",
+      "capID": "99",
+      "sortOrder": "2.3.1"
+    },
+    {
+      "effectID": "10003",
+      "name": "difficultyScalingMeleeBonus",
+      "effectTypeID": "9",
+      "capID": "99",
+      "sortOrder": "1.7.1"
+    },
+    {
+      "effectID": "10004",
+      "name": "difficultyScalingRangeBonus",
+      "effectTypeID": "10",
+      "capID": "99",
+      "sortOrder": "1.8.1"
+    },
+    {
+      "effectID": "10005",
+      "name": "difficultyScalingDefenseUnitAmountWall",
+      "effectTypeID": "12",
+      "capID": "99",
+      "sortOrder": "4.1.1"
+    },
+    {
+      "effectID": "10006",
+      "name": "difficultyScalingDefenseBoostYard",
+      "effectTypeID": "32",
+      "capID": "99",
+      "sortOrder": "1.9.1"
+    },
+    {
+      "effectID": "10007",
+      "name": "difficultyScalingDefenseBonus",
+      "effectTypeID": "31",
+      "capID": "99",
+      "sortOrder": "1.13.1"
+    },
+    {
+      "effectID": "10008",
+      "name": "difficultyScalingWallReduction",
+      "effectTypeID": "19",
+      "capID": "99",
+      "sortOrder": "2.1.1"
+    },
+    {
+      "effectID": "10009",
+      "name": "difficultyScalingGateReduction",
+      "effectTypeID": "20",
+      "capID": "99",
+      "sortOrder": "2.2.1"
+    },
+    {
+      "effectID": "10010",
+      "name": "difficultyScalingMoatReduction",
+      "effectTypeID": "21",
+      "capID": "99",
+      "sortOrder": "2.3.1"
+    },
+    {
+      "effectID": "10011",
+      "name": "difficultyScalingOffensiveMeleeBonus",
+      "effectTypeID": "23",
+      "capID": "99",
+      "sortOrder": "1.7.1"
+    },
+    {
+      "effectID": "10012",
+      "name": "difficultyScalingOffensiveRangedBonus",
+      "effectTypeID": "24",
+      "capID": "99",
+      "sortOrder": "1.8.1"
+    },
+    {
+      "effectID": "10013",
+      "name": "difficultyScalingAttackBoostYard",
+      "effectTypeID": "33",
+      "capID": "99",
+      "sortOrder": "4.1.1"
+    },
+    {
+      "effectID": "10014",
+      "name": "difficultyScalingAttackBoostFront",
+      "effectTypeID": "53",
+      "capID": "99",
+      "sortOrder": "1.9.1"
+    },
+    {
+      "effectID": "10015",
+      "name": "difficultyScalingAttackBoostFlank",
+      "effectTypeID": "54",
+      "capID": "99",
+      "sortOrder": "1.13.1"
+    },
+    {
+      "effectID": "700",
+      "name": "attackUnitAmountReinforcementBonus",
+      "effectTypeID": "179",
+      "capID": "99",
+      "sortOrder": "8.8.1"
+    },
+    {
+      "effectID": "701",
+      "name": "attackUnitAmountReinforcementBoost",
+      "effectTypeID": "180",
+      "capID": "33",
+      "sortOrder": "1.8.2"
+    },
+    {
+      "effectID": "702",
+      "name": "defenseUnitAmountYardBonus",
+      "effectTypeID": "181",
+      "capID": "99",
+      "sortOrder": "1.8.1"
+    },
+    {
+      "effectID": "703",
+      "name": "defenseUnitAmountYardBoost",
+      "effectTypeID": "182",
+      "capID": "32",
+      "sortOrder": "1.8.2"
+    },
+    {
+      "effectID": "704",
+      "name": "rangeBonus",
+      "effectTypeID": "10",
+      "capID": "99",
+      "sortOrder": "1.8.2"
+    },
+    {
+      "effectID": "705",
+      "name": "defenseUnitAmountYardMinorBoost",
+      "effectTypeID": "182",
+      "capID": "34",
+      "sortOrder": "1.8.2"
+    },
+    {
+      "effectID": "20001",
+      "name": "vengenceBoostYardAtt",
+      "effectTypeID": "1001",
+      "capID": "99"
+    },
+    {
+      "effectID": "20002",
+      "name": "vengenceBoostYardDef",
+      "effectTypeID": "1002",
+      "capID": "99"
+    },
+    {
+      "effectID": "21001",
+      "name": "PowerSurge",
+      "effectTypeID": "1001",
+      "capID": "99"
+    },
+    {
+      "effectID": "21002",
+      "name": "RisetotheTask",
+      "effectTypeID": "1002",
+      "capID": "99"
+    },
+    {
+      "effectID": "21005",
+      "name": "Intimidate",
+      "effectTypeID": "1005",
+      "capID": "99"
+    },
+    {
+      "effectID": "21006",
+      "name": "StrenghtinNumbers",
+      "effectTypeID": "1006",
+      "capID": "99"
+    },
+    {
+      "effectID": "21007",
+      "name": "Hordebreaker",
+      "effectTypeID": "1007",
+      "capID": "99"
+    },
+    {
+      "effectID": "21008",
+      "name": "OutnumberednotOutmatched",
+      "effectTypeID": "1008",
+      "capID": "99"
+    },
+    {
+      "effectID": "21012",
+      "name": "Reinforcements",
+      "effectTypeID": "1012",
+      "capID": "99"
+    },
+    {
+      "effectID": "21013",
+      "name": "Sabotage",
+      "effectTypeID": "1013",
+      "capID": "99"
+    },
+    {
+      "effectID": "21015",
+      "name": "ToweringShield",
+      "effectTypeID": "1015",
+      "capID": "99"
+    },
+    {
+      "effectID": "21018",
+      "name": "HeroicDefense",
+      "effectTypeID": "1018",
+      "capID": "99"
+    },
+    {
+      "effectID": "21020",
+      "name": "AspectoftheDragon",
+      "effectTypeID": "1020",
+      "capID": "99"
+    },
+    {
+      "effectID": "21023",
+      "name": "Longbows",
+      "effectTypeID": "1023",
+      "capID": "99"
+    },
+    {
+      "effectID": "21025",
+      "name": "ReinforcedArrows",
+      "effectTypeID": "1025",
+      "capID": "99"
+    },
+    {
+      "effectID": "21027",
+      "name": "YourCut",
+      "effectTypeID": "1027",
+      "capID": "99"
+    },
+    {
+      "effectID": "21030",
+      "name": "Vengence",
+      "effectTypeID": "1030",
+      "capID": "99"
+    },
+    {
+      "effectID": "21034",
+      "name": "Tailwhip",
+      "effectTypeID": "1034",
+      "capID": "99"
+    },
+    {
+      "effectID": "21035",
+      "name": "DragonscaleArmor",
+      "effectTypeID": "1035",
+      "capID": "99"
+    },
+    {
+      "effectID": "2101",
+      "name": "relicOffensiveMeleeBonus",
+      "effectTypeID": "23",
+      "capID": "1001",
+      "sortOrder": "1.2.1"
+    },
+    {
+      "effectID": "2102",
+      "name": "relicOffensiveRangeBonus",
+      "effectTypeID": "24",
+      "capID": "1002",
+      "sortOrder": "1.3.1"
+    },
+    {
+      "effectID": "2103",
+      "name": "relicWallReduction",
+      "effectTypeID": "19",
+      "capID": "1003",
+      "sortOrder": "2.5.1"
+    },
+    {
+      "effectID": "2104",
+      "name": "relicGateReduction",
+      "effectTypeID": "20",
+      "capID": "1004",
+      "sortOrder": "2.6.1"
+    },
+    {
+      "effectID": "2105",
+      "name": "relicMoatReduction",
+      "effectTypeID": "21",
+      "capID": "1005",
+      "sortOrder": "2.7.1"
+    },
+    {
+      "effectID": "2106",
+      "name": "relicSpeedBonus",
+      "effectTypeID": "15",
+      "capID": "1006",
+      "sortOrder": "5.2.2"
+    },
+    {
+      "effectID": "2107",
+      "name": "relicLootBonus",
+      "effectTypeID": "16",
+      "capID": "1007",
+      "sortOrder": "6.5.1"
+    },
+    {
+      "effectID": "2108",
+      "name": "relicAttackUnitAmountFlank",
+      "effectTypeID": "28",
+      "capID": "1008",
+      "sortOrder": "3.2.1"
+    },
+    {
+      "effectID": "2109",
+      "name": "relicAttackBoostYard",
+      "effectTypeID": "33",
+      "capID": "1009",
+      "sortOrder": "1.6.1"
+    },
+    {
+      "effectID": "2110",
+      "name": "relicAttackUnitAmountFront",
+      "effectTypeID": "34",
+      "capID": "1010",
+      "sortOrder": "3.1.1"
+    },
+    {
+      "effectID": "2111",
+      "name": "relicAttackBonus",
+      "effectTypeID": "36",
+      "capID": "1011",
+      "sortOrder": "1.14.1"
+    },
+    {
+      "effectID": "2112",
+      "name": "relicAttackBoostFront",
+      "effectTypeID": "53",
+      "capID": "1012",
+      "sortOrder": "1.4.1"
+    },
+    {
+      "effectID": "2113",
+      "name": "relicAttackBoostFlank",
+      "effectTypeID": "54",
+      "capID": "1013",
+      "sortOrder": "1.5.1"
+    },
+    {
+      "effectID": "2114",
+      "name": "relicAttackSupportUnits",
+      "effectTypeID": "51",
+      "capID": "1014",
+      "sortOrder": "3.4.2"
+    },
+    {
+      "effectID": "2115",
+      "name": "attackUnitAmountReinforcementBonus",
+      "effectTypeID": "179",
+      "capID": "11413"
+    },
+    {
+      "effectID": "2201",
+      "name": "relicWallReductionPVE",
+      "effectTypeID": "19",
+      "capID": "1101",
+      "areaTypeID": "2,11,13,17,18,25,27,29,30,35,37",
+      "sortOrder": "2.5.4"
+    },
+    {
+      "effectID": "2202",
+      "name": "relicGateReductionPVE",
+      "effectTypeID": "20",
+      "capID": "1102",
+      "areaTypeID": "2,11,13,17,18,25,27,29,30,35,37",
+      "sortOrder": "2.6.3"
+    },
+    {
+      "effectID": "2203",
+      "name": "relicOffensiveMeleeBonusPVE",
+      "effectTypeID": "23",
+      "capID": "1103",
+      "areaTypeID": "2,11,13,17,18,25,27,29,30,35,37",
+      "sortOrder": "1.2.2"
+    },
+    {
+      "effectID": "2204",
+      "name": "relicOffensiveRangeBonusPVE",
+      "effectTypeID": "24",
+      "capID": "1104",
+      "areaTypeID": "2,11,13,17,18,25,27,29,30,35,37",
+      "sortOrder": "1.3.2"
+    },
+    {
+      "effectID": "2205",
+      "name": "relicAttackUnitAmountFlankPVE",
+      "effectTypeID": "28",
+      "capID": "1105",
+      "areaTypeID": "2,11,13,17,18,25,27,29,30,35,37",
+      "sortOrder": "3.2.5"
+    },
+    {
+      "effectID": "2206",
+      "name": "relicAttackBoostYardPVE",
+      "effectTypeID": "33",
+      "capID": "1106",
+      "areaTypeID": "2,11,13,17,18,25,27,29,30,35,37",
+      "sortOrder": "1.6.5"
+    },
+    {
+      "effectID": "2207",
+      "name": "relicAttackUnitAmountFrontPVE",
+      "effectTypeID": "34",
+      "capID": "1107",
+      "areaTypeID": "2,11,13,17,18,25,27,29,30,35,37",
+      "sortOrder": "3.1.5"
+    },
+    {
+      "effectID": "2208",
+      "name": "relicMoatReductionPVE",
+      "effectTypeID": "21",
+      "capID": "1108",
+      "areaTypeID": "2,11,13,17,18,25,27,29,30,35,37",
+      "sortOrder": "2.7.3"
+    },
+    {
+      "effectID": "2209",
+      "name": "relicCoinLootBoostPVE",
+      "effectTypeID": "75",
+      "capID": "1109",
+      "areaTypeID": "2,11,13,17,18,25,27,29,30,35,37",
+      "sortOrder": "6.20.2"
+    },
+    {
+      "effectID": "2210",
+      "name": "relicNomadTabletBoostNomad",
+      "effectTypeID": "131",
+      "capID": "1110",
+      "areaTypeID": "27,35",
+      "sortOrder": "6.14.2"
+    },
+    {
+      "effectID": "2211",
+      "name": "relicSamuraiTokenBoostSamurai",
+      "effectTypeID": "133",
+      "capID": "1111",
+      "areaTypeID": "29,37",
+      "sortOrder": "6.16.2"
+    },
+    {
+      "effectID": "2212",
+      "name": "relicFactionPointGainBoostBerimond",
+      "effectTypeID": "76",
+      "capID": "1112",
+      "areaTypeID": "15,16,17,18,30",
+      "sortOrder": "6.15.2"
+    },
+    {
+      "effectID": "2301",
+      "name": "relicWallReductionCapAPVP",
+      "effectTypeID": "19",
+      "capID": "1201",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "2.5.3"
+    },
+    {
+      "effectID": "2302",
+      "name": "relicGateReductionCapAPVP",
+      "effectTypeID": "20",
+      "capID": "1202",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "2.6.2"
+    },
+    {
+      "effectID": "2303",
+      "name": "relicOffensiveMeleeBonusPVP",
+      "effectTypeID": "23",
+      "capID": "1203",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "1.2.7"
+    },
+    {
+      "effectID": "2304",
+      "name": "relicOffensiveRangeBonusPVP",
+      "effectTypeID": "24",
+      "capID": "1204",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "1.3.7"
+    },
+    {
+      "effectID": "2305",
+      "name": "relicAttackUnitAmountFlankPVP",
+      "effectTypeID": "28",
+      "capID": "1205",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "3.2.4"
+    },
+    {
+      "effectID": "2306",
+      "name": "relicAttackBoostYardCapAPVP",
+      "effectTypeID": "33",
+      "capID": "1206",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "1.6.4"
+    },
+    {
+      "effectID": "2307",
+      "name": "relicAttackUnitAmountFrontPVP",
+      "effectTypeID": "34",
+      "capID": "1207",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "3.1.4"
+    },
+    {
+      "effectID": "2308",
+      "name": "relicStealthBonusPvP",
+      "effectTypeID": "17",
+      "capID": "1208",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "5.3.3"
+    },
+    {
+      "effectID": "2309",
+      "name": "relicMoatReductionPVP",
+      "effectTypeID": "21",
+      "capID": "1209",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "2.7.2"
+    },
+    {
+      "effectID": "2310",
+      "name": "relicFireBoostPVP",
+      "effectTypeID": "18",
+      "capID": "1210",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "6.11.3"
+    },
+    {
+      "effectID": "2311",
+      "name": "relicFameOffenseBonusPVP",
+      "effectTypeID": "13",
+      "capID": "1211",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "6.8.3"
+    },
+    {
+      "effectID": "2312",
+      "name": "relicFameOffenseBonusAlien",
+      "effectTypeID": "105",
+      "capID": "1212",
+      "areaTypeID": "21,34",
+      "sortOrder": "6.8.2"
+    },
+    {
+      "effectID": "2401",
+      "name": "relicWallReductionNomad",
+      "effectTypeID": "19",
+      "capID": "1301",
+      "areaTypeID": "27,35",
+      "sortOrder": "2.5.8"
+    },
+    {
+      "effectID": "2402",
+      "name": "relicGateReductionNomad",
+      "effectTypeID": "20",
+      "capID": "1302",
+      "areaTypeID": "27,35",
+      "sortOrder": "2.6.6"
+    },
+    {
+      "effectID": "2403",
+      "name": "relicOffensiveMeleeBonusNomad",
+      "effectTypeID": "23",
+      "capID": "1303",
+      "areaTypeID": "27,35",
+      "sortOrder": "1.2.8"
+    },
+    {
+      "effectID": "2404",
+      "name": "relicOffensiveRangeBonusNomad",
+      "effectTypeID": "24",
+      "capID": "1304",
+      "areaTypeID": "27,35",
+      "sortOrder": "1.3.7"
+    },
+    {
+      "effectID": "2405",
+      "name": "relicAttackUnitAmountFlankNomad",
+      "effectTypeID": "28",
+      "capID": "1305",
+      "areaTypeID": "27,35",
+      "sortOrder": "3.2.9"
+    },
+    {
+      "effectID": "2406",
+      "name": "relicAttackBoostYardNomad",
+      "effectTypeID": "33",
+      "capID": "1306",
+      "areaTypeID": "27,35",
+      "sortOrder": "1.6.7"
+    },
+    {
+      "effectID": "2407",
+      "name": "relicAttackUnitAmountFrontNomad",
+      "effectTypeID": "34",
+      "capID": "1307",
+      "areaTypeID": "27,35",
+      "sortOrder": "3.1.9"
+    },
+    {
+      "effectID": "2408",
+      "name": "relicMoatReductionNomad",
+      "effectTypeID": "21",
+      "capID": "1308",
+      "areaTypeID": "27,35",
+      "sortOrder": "2.7.4"
+    },
+    {
+      "effectID": "2409",
+      "name": "relicNomadTabletBoostNomad",
+      "effectTypeID": "131",
+      "capID": "1309",
+      "areaTypeID": "27,35",
+      "sortOrder": "6.14.2"
+    },
+    {
+      "effectID": "2501",
+      "name": "relicWallReductionSamurai",
+      "effectTypeID": "19",
+      "capID": "1401",
+      "areaTypeID": "29,37",
+      "sortOrder": "2.5.9"
+    },
+    {
+      "effectID": "2502",
+      "name": "relicGateReductionSamurai",
+      "effectTypeID": "20",
+      "capID": "1402",
+      "areaTypeID": "29,37",
+      "sortOrder": "2.6.7"
+    },
+    {
+      "effectID": "2503",
+      "name": "relicOffensiveMeleeBonusSamurai",
+      "effectTypeID": "23",
+      "capID": "1403",
+      "areaTypeID": "29,37",
+      "sortOrder": "1.2.9"
+    },
+    {
+      "effectID": "2504",
+      "name": "relicOffensiveRangeBonusSamurai",
+      "effectTypeID": "24",
+      "capID": "1404",
+      "areaTypeID": "29,37",
+      "sortOrder": "1.3.9"
+    },
+    {
+      "effectID": "2505",
+      "name": "relicAttackUnitAmountFlankSamurai",
+      "effectTypeID": "28",
+      "capID": "1405",
+      "areaTypeID": "29,37",
+      "sortOrder": "3.2.12"
+    },
+    {
+      "effectID": "2506",
+      "name": "relicAttackBoostYardSamurai",
+      "effectTypeID": "33",
+      "capID": "1406",
+      "areaTypeID": "29,37",
+      "sortOrder": "1.6.10"
+    },
+    {
+      "effectID": "2507",
+      "name": "relicAttackUnitAmountFrontSamurai",
+      "effectTypeID": "34",
+      "capID": "1407",
+      "areaTypeID": "29,37",
+      "sortOrder": "3.1.12"
+    },
+    {
+      "effectID": "2508",
+      "name": "relicMoatReductionSamurai",
+      "effectTypeID": "21",
+      "capID": "1408",
+      "areaTypeID": "29,37",
+      "sortOrder": "2.7.5"
+    },
+    {
+      "effectID": "2509",
+      "name": "relicSamuraiTokenBoostSamurai",
+      "effectTypeID": "133",
+      "capID": "1409",
+      "areaTypeID": "29,37",
+      "sortOrder": "6.16.2"
+    },
+    {
+      "effectID": "2601",
+      "name": "relicFameOffenseBonusAlien",
+      "effectTypeID": "105",
+      "capID": "1501",
+      "areaTypeID": "21,34",
+      "sortOrder": "6.8.3"
+    },
+    {
+      "effectID": "2602",
+      "name": "relicWallReductionAlien",
+      "effectTypeID": "19",
+      "capID": "1502",
+      "areaTypeID": "21,34",
+      "sortOrder": "2.5.10"
+    },
+    {
+      "effectID": "2603",
+      "name": "relicGateReductionAlien",
+      "effectTypeID": "20",
+      "capID": "1503",
+      "areaTypeID": "21,34",
+      "sortOrder": "2.6.8"
+    },
+    {
+      "effectID": "2604",
+      "name": "relicMoatReductionAlien",
+      "effectTypeID": "21",
+      "capID": "1504",
+      "areaTypeID": "21,34",
+      "sortOrder": "2.7.3"
+    },
+    {
+      "effectID": "2605",
+      "name": "relicOffensiveMeleeBonusAlien",
+      "effectTypeID": "23",
+      "capID": "1505",
+      "areaTypeID": "21,34",
+      "sortOrder": "1.2.9"
+    },
+    {
+      "effectID": "2606",
+      "name": "relicOffensiveRangeBonusAlien",
+      "effectTypeID": "24",
+      "capID": "1506",
+      "areaTypeID": "21,34",
+      "sortOrder": "1.3.9"
+    },
+    {
+      "effectID": "2607",
+      "name": "relicAttackUnitAmountFlankAlien",
+      "effectTypeID": "28",
+      "capID": "1507",
+      "areaTypeID": "21,34",
+      "sortOrder": "3.2.10"
+    },
+    {
+      "effectID": "2608",
+      "name": "relicAttackBoostYardAlien",
+      "effectTypeID": "33",
+      "capID": "1508",
+      "areaTypeID": "21,34",
+      "sortOrder": "1.6.8"
+    },
+    {
+      "effectID": "2609",
+      "name": "relicAttackUnitAmountFrontAlien",
+      "effectTypeID": "34",
+      "capID": "1509",
+      "areaTypeID": "21,34",
+      "sortOrder": "3.1.10"
+    },
+    {
+      "effectID": "2701",
+      "name": "relicWallReductionBerimond",
+      "effectTypeID": "19",
+      "capID": "1601",
+      "areaTypeID": "15,16,17,18,30",
+      "sortOrder": "2.5.11"
+    },
+    {
+      "effectID": "2702",
+      "name": "relicGateReductionBerimond",
+      "effectTypeID": "20",
+      "capID": "1602",
+      "areaTypeID": "15,16,17,18,30",
+      "sortOrder": "2.6.9"
+    },
+    {
+      "effectID": "2703",
+      "name": "relicOffensiveMeleeBonusBerimond",
+      "effectTypeID": "23",
+      "capID": "1603",
+      "areaTypeID": "15,16,17,18,30",
+      "sortOrder": "1.2.10"
+    },
+    {
+      "effectID": "2704",
+      "name": "relicOffensiveRangeBonusBerimond",
+      "effectTypeID": "24",
+      "capID": "1604",
+      "areaTypeID": "15,16,17,18,30",
+      "sortOrder": "1.3.10"
+    },
+    {
+      "effectID": "2705",
+      "name": "relicAttackUnitAmountFlankBerimond",
+      "effectTypeID": "28",
+      "capID": "1605",
+      "areaTypeID": "15,16,17,18,30",
+      "sortOrder": "3.2.11"
+    },
+    {
+      "effectID": "2706",
+      "name": "relicAttackBoostYardBerimond",
+      "effectTypeID": "33",
+      "capID": "1606",
+      "areaTypeID": "15,16,17,18,30",
+      "sortOrder": "1.6.9"
+    },
+    {
+      "effectID": "2707",
+      "name": "relicAttackUnitAmountFrontBerimond",
+      "effectTypeID": "34",
+      "capID": "1607",
+      "areaTypeID": "15,16,17,18,30",
+      "sortOrder": "3.1.11"
+    },
+    {
+      "effectID": "2708",
+      "name": "relicMoatReductionBerimond",
+      "effectTypeID": "21",
+      "capID": "1608",
+      "areaTypeID": "15,16,17,18,30",
+      "sortOrder": "2.7.6"
+    },
+    {
+      "effectID": "2709",
+      "name": "relicFactionPointGainBoostBerimond",
+      "effectTypeID": "76",
+      "capID": "1609",
+      "areaTypeID": "15,16,17,18,30",
+      "sortOrder": "6.15.2"
+    },
+    {
+      "effectID": "2801",
+      "name": "relicStealthBonusPvP",
+      "effectTypeID": "17",
+      "capID": "1701",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "5.3.3"
+    },
+    {
+      "effectID": "2802",
+      "name": "relicMoatReductionPVP",
+      "effectTypeID": "21",
+      "capID": "1702",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "2.7.2"
+    },
+    {
+      "effectID": "2803",
+      "name": "relicWallReductionCapBPVP",
+      "effectTypeID": "19",
+      "capID": "1703",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "2.5.3"
+    },
+    {
+      "effectID": "2804",
+      "name": "relicGateReductionCapBPVP",
+      "effectTypeID": "20",
+      "capID": "1704",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "2.6.2"
+    },
+    {
+      "effectID": "2805",
+      "name": "relicAttackBoostYardCapBPVP",
+      "effectTypeID": "33",
+      "capID": "1705",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "1.6.4"
+    },
+    {
+      "effectID": "2806",
+      "name": "relicAttackUnitAmountFlankPVP",
+      "effectTypeID": "28",
+      "capID": "1706",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "3.2.4"
+    },
+    {
+      "effectID": "2807",
+      "name": "relicAttackUnitAmountFrontPVP",
+      "effectTypeID": "34",
+      "capID": "1707",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "3.1.4"
+    },
+    {
+      "effectID": "2808",
+      "name": "relicOffensiveMeleeBonusPVP",
+      "effectTypeID": "23",
+      "capID": "1708",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "1.2.7"
+    },
+    {
+      "effectID": "2809",
+      "name": "relicOffensiveRangeBonusPVP",
+      "effectTypeID": "24",
+      "capID": "1709",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "1.3.7"
+    },
+    {
+      "effectID": "2810",
+      "name": "relicFireBoostPVP",
+      "effectTypeID": "18",
+      "capID": "1710",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "6.11.3"
+    },
+    {
+      "effectID": "2811",
+      "name": "relicFameOffenseBonusPVP",
+      "effectTypeID": "13",
+      "capID": "1711",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "6.8.3"
+    },
+    {
+      "effectID": "12101",
+      "name": "relicLootReduction",
+      "effectTypeID": "2",
+      "capID": "11001",
+      "sortOrder": "6.6.1"
+    },
+    {
+      "effectID": "12102",
+      "name": "relicWallBonus",
+      "effectTypeID": "6",
+      "capID": "11002",
+      "sortOrder": "2.1.1"
+    },
+    {
+      "effectID": "12103",
+      "name": "relicGateBonus",
+      "effectTypeID": "7",
+      "capID": "11003",
+      "sortOrder": "2.2.1"
+    },
+    {
+      "effectID": "12104",
+      "name": "relicMoatBonus",
+      "effectTypeID": "8",
+      "capID": "11004",
+      "sortOrder": "2.3.1"
+    },
+    {
+      "effectID": "12105",
+      "name": "relicMeleeBonus",
+      "effectTypeID": "9",
+      "capID": "11005",
+      "sortOrder": "1.7.1"
+    },
+    {
+      "effectID": "12106",
+      "name": "relicRangeBonus",
+      "effectTypeID": "10",
+      "capID": "11006",
+      "sortOrder": "1.8.1"
+    },
+    {
+      "effectID": "12107",
+      "name": "relicDefenseUnitAmountWall",
+      "effectTypeID": "12",
+      "capID": "11007",
+      "sortOrder": "4.1.1"
+    },
+    {
+      "effectID": "12108",
+      "name": "relicDefenseBoostYard",
+      "effectTypeID": "32",
+      "capID": "11008",
+      "sortOrder": "1.9.1"
+    },
+    {
+      "effectID": "12109",
+      "name": "relicDefenseBonus",
+      "effectTypeID": "31",
+      "capID": "11009",
+      "sortOrder": "1.15.1"
+    },
+    {
+      "effectID": "12110",
+      "name": "relicDefenseBoostFront",
+      "effectTypeID": "49",
+      "capID": "11010",
+      "sortOrder": "1.10.1"
+    },
+    {
+      "effectID": "12111",
+      "name": "relicDefenseBoostFlank",
+      "effectTypeID": "50",
+      "capID": "11011",
+      "sortOrder": "1.11.1"
+    },
+    {
+      "effectID": "12112",
+      "name": "relicDefenseSupportUnits",
+      "effectTypeID": "47",
+      "capID": "11012",
+      "sortOrder": "4.3.2"
+    },
+    {
+      "effectID": "12113",
+      "name": "defenseUnitAmountYardBonus",
+      "effectTypeID": "181",
+      "capID": "11414",
+      "sortOrder": "4.3.2"
+    },
+    {
+      "effectID": "12201",
+      "name": "relicWallBonusCapAPvE",
+      "effectTypeID": "6",
+      "capID": "11101",
+      "areaTypeID": "1,2,11,13,17,18,25,27,29,30,35,38",
+      "sortOrder": "2.1.4",
+      "isPvEFight": "1"
+    },
+    {
+      "effectID": "12202",
+      "name": "relicGateBonusCapAPvE",
+      "effectTypeID": "7",
+      "capID": "11102",
+      "areaTypeID": "1,2,11,13,17,18,25,27,29,30,35,38",
+      "sortOrder": "2.2.3",
+      "isPvEFight": "1"
+    },
+    {
+      "effectID": "12203",
+      "name": "relicMeleeBonusPvE",
+      "effectTypeID": "9",
+      "capID": "11103",
+      "areaTypeID": "1,2,11,13,17,18,25,27,29,30,35,38",
+      "sortOrder": "1.7.3",
+      "isPvEFight": "1"
+    },
+    {
+      "effectID": "12204",
+      "name": "relicRangeBonusPvE",
+      "effectTypeID": "10",
+      "capID": "11104",
+      "areaTypeID": "1,2,11,13,17,18,25,27,29,30,35,38",
+      "sortOrder": "1.8.3",
+      "isPvEFight": "1"
+    },
+    {
+      "effectID": "12205",
+      "name": "relicDefenseUnitAmountWallPvE",
+      "effectTypeID": "12",
+      "capID": "11105",
+      "areaTypeID": "1,2,11,13,17,18,25,27,29,30,35,38",
+      "sortOrder": "4.1.6",
+      "isPvEFight": "1"
+    },
+    {
+      "effectID": "12206",
+      "name": "relicDefenseBoostYardPvE",
+      "effectTypeID": "32",
+      "capID": "11106",
+      "areaTypeID": "1,2,11,13,17,18,25,27,29,30,35,38",
+      "sortOrder": "1.9.4",
+      "isPvEFight": "1"
+    },
+    {
+      "effectID": "12207",
+      "name": "relicMoatBonusPvE",
+      "effectTypeID": "8",
+      "capID": "11107",
+      "areaTypeID": "1,2,11,13,17,18,25,27,29,30,35,38",
+      "sortOrder": "2.3.4",
+      "isPvEFight": "1"
+    },
+    {
+      "effectID": "12208",
+      "name": "relicCurrencyLootBoostNomadTabletsNomad",
+      "effectTypeID": "168",
+      "capID": "11108",
+      "sortOrder": "6.14.3",
+      "isPvEFight": "1"
+    },
+    {
+      "effectID": "12209",
+      "name": "relicCurrencyLootBoostSamuraiTokensSamurai",
+      "effectTypeID": "168",
+      "capID": "11109",
+      "sortOrder": "6.16.3",
+      "isPvEFight": "1"
+    },
+    {
+      "effectID": "12210",
+      "name": "relicCurrencyLootBoostKhanMedalsNomad",
+      "effectTypeID": "168",
+      "capID": "11110",
+      "sortOrder": "6.17.1",
+      "isPvEFight": "1"
+    },
+    {
+      "effectID": "12211",
+      "name": "relicCurrencyLootBoostSamuraiMedalsSamurai",
+      "effectTypeID": "168",
+      "capID": "11111",
+      "sortOrder": "6.20.1",
+      "isPvEFight": "1"
+    },
+    {
+      "effectID": "12301",
+      "name": "relicWallBonusCapAPvP",
+      "effectTypeID": "6",
+      "capID": "11201",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "2.1.5",
+      "isPvPFight": "1"
+    },
+    {
+      "effectID": "12302",
+      "name": "relicGateBonusCapAPvP",
+      "effectTypeID": "7",
+      "capID": "11202",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "2.2.4",
+      "isPvPFight": "1"
+    },
+    {
+      "effectID": "12303",
+      "name": "relicMeleeBonusPVP",
+      "effectTypeID": "9",
+      "capID": "11203",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "1.7.2",
+      "isPvPFight": "1"
+    },
+    {
+      "effectID": "12304",
+      "name": "relicRangeBonusPVP",
+      "effectTypeID": "10",
+      "capID": "11204",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "1.8.2",
+      "isPvPFight": "1"
+    },
+    {
+      "effectID": "12305",
+      "name": "relicDefenseUnitAmountWallPVP",
+      "effectTypeID": "46",
+      "capID": "11205",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "4.1.4",
+      "isPvPFight": "1"
+    },
+    {
+      "effectID": "12306",
+      "name": "relicDefenseBoostYardPvP",
+      "effectTypeID": "32",
+      "capID": "11206",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "1.9.3",
+      "isPvPFight": "1"
+    },
+    {
+      "effectID": "12307",
+      "name": "relicPerceptionBonusPvP",
+      "effectTypeID": "3",
+      "capID": "11207",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "5.4.2",
+      "isPvPFight": "1"
+    },
+    {
+      "effectID": "12308",
+      "name": "relicMoatBonusPvP",
+      "effectTypeID": "8",
+      "capID": "11208",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "2.3.2",
+      "isPvPFight": "1"
+    },
+    {
+      "effectID": "12309",
+      "name": "relicFireBrigadeBoostPVP",
+      "effectTypeID": "4",
+      "capID": "11209",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "6.10.4",
+      "isPvPFight": "1"
+    },
+    {
+      "effectID": "12310",
+      "name": "relicFameDefenseBonusPVP",
+      "effectTypeID": "0",
+      "capID": "11210",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "6.8.4",
+      "isPvPFight": "1"
+    },
+    {
+      "effectID": "12401",
+      "name": "relicDefenseBonusMainCastleCapA",
+      "effectTypeID": "31",
+      "capID": "11301",
+      "areaTypeID": "1,10,12,15,21,23,24,26,28,34,36,38",
+      "sortOrder": "1.13.1"
+    },
+    {
+      "effectID": "12402",
+      "name": "relicDefenseBonusNotMainCastleCapA",
+      "effectTypeID": "31",
+      "capID": "11302",
+      "areaTypeID": "3,4,22",
+      "sortOrder": "1.13.2"
+    },
+    {
+      "effectID": "12403",
+      "name": "relicMoatBonusPvE",
+      "effectTypeID": "8",
+      "capID": "11303",
+      "areaTypeID": "1,2,11,13,17,18,25,27,29,30,35,38",
+      "sortOrder": "2.3.4",
+      "isPvEFight": "1"
+    },
+    {
+      "effectID": "12404",
+      "name": "relicWallBonusCapBPvE",
+      "effectTypeID": "6",
+      "capID": "11304",
+      "areaTypeID": "1,2,11,13,17,18,25,27,29,30,35,38",
+      "sortOrder": "2.1.4",
+      "isPvEFight": "1"
+    },
+    {
+      "effectID": "12405",
+      "name": "relicGateBonusCapBPvE",
+      "effectTypeID": "7",
+      "capID": "11305",
+      "areaTypeID": "1,2,11,13,17,18,25,27,29,30,35,38",
+      "sortOrder": "2.2.3",
+      "isPvEFight": "1"
+    },
+    {
+      "effectID": "12406",
+      "name": "relicMeleeBonusPvE",
+      "effectTypeID": "9",
+      "capID": "11306",
+      "areaTypeID": "1,2,11,13,17,18,25,27,29,30,35,38",
+      "sortOrder": "1.7.3",
+      "isPvEFight": "1"
+    },
+    {
+      "effectID": "12407",
+      "name": "relicRangeBonusPvE",
+      "effectTypeID": "10",
+      "capID": "11307",
+      "areaTypeID": "1,2,11,13,17,18,25,27,29,30,35,38",
+      "sortOrder": "1.8.3",
+      "isPvEFight": "1"
+    },
+    {
+      "effectID": "12408",
+      "name": "relicDefenseUnitAmountWallPvE",
+      "effectTypeID": "12",
+      "capID": "11308",
+      "areaTypeID": "1,2,11,13,17,18,25,27,29,30,35,38",
+      "sortOrder": "4.1.6",
+      "isPvEFight": "1"
+    },
+    {
+      "effectID": "12409",
+      "name": "relicDefenseBoostYardPvE",
+      "effectTypeID": "32",
+      "capID": "11309",
+      "areaTypeID": "1,2,11,13,17,18,25,27,29,30,35,38",
+      "sortOrder": "1.9.4",
+      "isPvEFight": "1"
+    },
+    {
+      "effectID": "12410",
+      "name": "relicCurrencyLootBoostNomadTabletsNomad",
+      "effectTypeID": "168",
+      "capID": "11310",
+      "sortOrder": "6.14.3",
+      "isPvEFight": "1"
+    },
+    {
+      "effectID": "12411",
+      "name": "relicCurrencyLootBoostSamuraiTokensSamurai",
+      "effectTypeID": "168",
+      "capID": "11311",
+      "sortOrder": "6.16.3",
+      "isPvEFight": "1"
+    },
+    {
+      "effectID": "12412",
+      "name": "relicCurrencyLootBoostKhanMedalsNomad",
+      "effectTypeID": "168",
+      "capID": "11312",
+      "sortOrder": "6.17.1",
+      "isPvEFight": "1"
+    },
+    {
+      "effectID": "12413",
+      "name": "relicCurrencyLootBoostSamuraiMedalsSamurai",
+      "effectTypeID": "168",
+      "capID": "11313",
+      "sortOrder": "6.20.1",
+      "isPvEFight": "1"
+    },
+    {
+      "effectID": "12501",
+      "name": "relicDefenseBonusMainCastleCapB",
+      "effectTypeID": "31",
+      "capID": "11401",
+      "areaTypeID": "1,10,12,15,21,23,24,26,28,34,36,38",
+      "sortOrder": "1.13.1"
+    },
+    {
+      "effectID": "12502",
+      "name": "relicDefenseBonusNotMainCastleCapB",
+      "effectTypeID": "31",
+      "capID": "11402",
+      "areaTypeID": "3,4,22",
+      "sortOrder": "1.13.2"
+    },
+    {
+      "effectID": "12503",
+      "name": "relicPerceptionBonusPvP",
+      "effectTypeID": "3",
+      "capID": "11403",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "5.4.2",
+      "isPvPFight": "1"
+    },
+    {
+      "effectID": "12504",
+      "name": "relicMoatBonusPvP",
+      "effectTypeID": "8",
+      "capID": "11404",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "2.3.2",
+      "isPvPFight": "1"
+    },
+    {
+      "effectID": "12505",
+      "name": "relicWallBonusCapBPvP",
+      "effectTypeID": "6",
+      "capID": "11405",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "2.1.5",
+      "isPvPFight": "1"
+    },
+    {
+      "effectID": "12506",
+      "name": "relicGateBonusCapBPvP",
+      "effectTypeID": "7",
+      "capID": "11406",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "2.2.4",
+      "isPvPFight": "1"
+    },
+    {
+      "effectID": "12507",
+      "name": "relicMeleeBonusPVP",
+      "effectTypeID": "9",
+      "capID": "11407",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "1.7.2",
+      "isPvPFight": "1"
+    },
+    {
+      "effectID": "12508",
+      "name": "relicRangeBonusPVP",
+      "effectTypeID": "10",
+      "capID": "11408",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "1.8.2",
+      "isPvPFight": "1"
+    },
+    {
+      "effectID": "12509",
+      "name": "relicDefenseUnitAmountWallPVP",
+      "effectTypeID": "46",
+      "capID": "11409",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "4.1.4",
+      "isPvPFight": "1"
+    },
+    {
+      "effectID": "12510",
+      "name": "relicDefenseBoostYardPvP",
+      "effectTypeID": "32",
+      "capID": "11410",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "1.9.3",
+      "isPvPFight": "1"
+    },
+    {
+      "effectID": "12511",
+      "name": "relicFireBrigadeBoostPVP",
+      "effectTypeID": "4",
+      "capID": "11411",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "6.10.4",
+      "isPvPFight": "1"
+    },
+    {
+      "effectID": "12512",
+      "name": "relicFameDefenseBonusPVP",
+      "effectTypeID": "0",
+      "capID": "11412",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "sortOrder": "6.8.4",
+      "isPvPFight": "1"
+    },
+    {
+      "effectID": "22001",
+      "name": "relicAttackBonusUnitKingsguardAttacker",
+      "effectTypeID": "148",
+      "capID": "99",
+      "sortOrder": "3.7.1"
+    },
+    {
+      "effectID": "22002",
+      "name": "relicAttackBonusUnitRankrewardAttacker",
+      "effectTypeID": "148",
+      "capID": "99",
+      "sortOrder": "3.5.1"
+    },
+    {
+      "effectID": "22003",
+      "name": "relicAttackBonusUnitBerimondAttacker",
+      "effectTypeID": "148",
+      "capID": "99",
+      "sortOrder": "3.8.1"
+    },
+    {
+      "effectID": "22004",
+      "name": "relicAttackBonusUnitValkyrieAttacker",
+      "effectTypeID": "148",
+      "capID": "99",
+      "sortOrder": "3.6.1"
+    },
+    {
+      "effectID": "22005",
+      "name": "relicAttackBonusUnitRelicBarracksAttacker",
+      "effectTypeID": "148",
+      "capID": "99",
+      "sortOrder": "3.9.1"
+    },
+    {
+      "effectID": "22006",
+      "name": "relicSpeedBoostUnitShields",
+      "effectTypeID": "149",
+      "capID": "99",
+      "sortOrder": "5.5.1"
+    },
+    {
+      "effectID": "22007",
+      "name": "relicLootCapacityBoostUnitKingsguardAttacker",
+      "effectTypeID": "150",
+      "capID": "99",
+      "sortOrder": "6.22.1"
+    },
+    {
+      "effectID": "22008",
+      "name": "relicLootCapacityBoostUnitRankrewardAttacker",
+      "effectTypeID": "150",
+      "capID": "99",
+      "sortOrder": "6.20.1"
+    },
+    {
+      "effectID": "22009",
+      "name": "relicLootCapacityBoostUnitBerimondAttacker",
+      "effectTypeID": "150",
+      "capID": "99",
+      "sortOrder": "6.23.1"
+    },
+    {
+      "effectID": "22010",
+      "name": "relicLootCapacityBoostUnitValkyrieAttacker",
+      "effectTypeID": "150",
+      "capID": "99",
+      "sortOrder": "6.21.1"
+    },
+    {
+      "effectID": "22011",
+      "name": "relicLootCapacityBoostUnitRelicBarracksAttacker",
+      "effectTypeID": "150",
+      "capID": "99",
+      "sortOrder": "6.24.1"
+    },
+    {
+      "effectID": "22012",
+      "name": "relicAttackBonusUnitMeadAttacker",
+      "effectTypeID": "148",
+      "capID": "99",
+      "sortOrder": "3.10.1"
+    },
+    {
+      "effectID": "22013",
+      "name": "relicAdditionalWaves",
+      "effectTypeID": "156",
+      "capID": "99",
+      "sortOrder": "5.6.1"
+    },
+    {
+      "effectID": "22014",
+      "name": "relicCooldownReduction",
+      "effectTypeID": "27",
+      "capID": "99",
+      "sortOrder": "6.1.5"
+    },
+    {
+      "effectID": "22015",
+      "name": "relicReturnTravelBoost",
+      "effectTypeID": "38",
+      "capID": "99",
+      "sortOrder": "6.1.5"
+    },
+    {
+      "effectID": "32001",
+      "name": "relicRecuitmentSpeedBoostAll",
+      "effectTypeID": "86",
+      "capID": "99",
+      "sortOrder": "7.7.1"
+    },
+    {
+      "effectID": "32002",
+      "name": "relicHospitalCapacityBonus",
+      "effectTypeID": "119",
+      "capID": "99",
+      "sortOrder": "7.6.1"
+    },
+    {
+      "effectID": "32003",
+      "name": "relicBuildSpeedBoost",
+      "effectTypeID": "145",
+      "capID": "99",
+      "sortOrder": "7.4.1"
+    },
+    {
+      "effectID": "32004",
+      "name": "relicClassicResourceProductionBonus",
+      "effectTypeID": "146",
+      "capID": "99",
+      "sortOrder": "7.2.1"
+    },
+    {
+      "effectID": "32005",
+      "name": "relicKingdomResourceProductionBonus",
+      "effectTypeID": "147",
+      "capID": "99",
+      "sortOrder": "7.1.1"
+    },
+    {
+      "effectID": "32006",
+      "name": "relicPublicOrderBonus",
+      "effectTypeID": "123",
+      "capID": "99",
+      "sortOrder": "7.3.1"
+    },
+    {
+      "effectID": "32007",
+      "name": "relicResearchBoost",
+      "effectTypeID": "107",
+      "capID": "99",
+      "sortOrder": "7.8.1"
+    },
+    {
+      "effectID": "32008",
+      "name": "relicMarketCarriageCapacityBonus",
+      "effectTypeID": "151",
+      "capID": "99",
+      "sortOrder": "7.5.1"
+    },
+    {
+      "effectID": "32009",
+      "name": "relicMeadProductionBoost",
+      "effectTypeID": "164",
+      "capID": "99",
+      "sortOrder": "7.9.1"
+    },
+    {
+      "effectID": "32010",
+      "name": "relicHoneyProductionBoost",
+      "effectTypeID": "165",
+      "capID": "99",
+      "sortOrder": "7.10.1"
+    },
+    {
+      "effectID": "32011",
+      "name": "relicMeadCapacityBonus",
+      "effectTypeID": "166",
+      "capID": "99",
+      "sortOrder": "7.11.1"
+    },
+    {
+      "effectID": "32012",
+      "name": "relicHoneyCapacityBonus",
+      "effectTypeID": "167",
+      "capID": "99",
+      "sortOrder": "7.12.1"
+    }
+  ]
+}

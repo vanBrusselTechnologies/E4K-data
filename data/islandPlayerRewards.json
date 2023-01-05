@@ -1,0 +1,40 @@
+{
+  "islandPlayerReward": [
+    {
+      "islandPlayerRewardID": "0",
+      "cargoPointRequirement": "90000",
+      "rewardIDs": "5965",
+      "islandRewardSetID": "0"
+    },
+    {
+      "islandPlayerRewardID": "1",
+      "cargoPointRequirement": "160000",
+      "rewardIDs": "5967",
+      "islandRewardSetID": "0"
+    },
+    {
+      "islandPlayerRewardID": "2",
+      "cargoPointRequirement": "200000",
+      "rewardIDs": "5966",
+      "islandRewardSetID": "0"
+    },
+    {
+      "islandPlayerRewardID": "3",
+      "cargoPointRequirement": "90000",
+      "rewardIDs": "5965",
+      "islandRewardSetID": "1"
+    },
+    {
+      "islandPlayerRewardID": "4",
+      "cargoPointRequirement": "160000",
+      "rewardIDs": "5967",
+      "islandRewardSetID": "1"
+    },
+    {
+      "islandPlayerRewardID": "5",
+      "cargoPointRequirement": "200000",
+      "rewardIDs": "5966",
+      "islandRewardSetID": "1"
+    }
+  ]
+}

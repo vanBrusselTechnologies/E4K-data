@@ -1,0 +1,43 @@
+{
+  "character": [
+    {
+      "characterID": "1",
+      "name": "fatKing",
+      "spinRarities": "1,1,1,1",
+      "tombolas": "6001+10001",
+      "coolDownInSeconds": "259200",
+      "maxFreeOpenings": "2",
+      "freeOpeningTombolaID": "10001",
+      "unluckyTotalPoints": "10",
+      "badLuckProtectionDrawAmount": "30",
+      "packageIDs": "10515",
+      "badLuckSpinRarities": "1,1,2,3"
+    },
+    {
+      "characterID": "2",
+      "name": "drunkKnight",
+      "spinRarities": "1,1,1,1",
+      "tombolas": "6002+10002",
+      "coolDownInSeconds": "604800",
+      "maxFreeOpenings": "1",
+      "freeOpeningTombolaID": "10002",
+      "unluckyTotalPoints": "15",
+      "badLuckProtectionDrawAmount": "15",
+      "packageIDs": "10516",
+      "badLuckSpinRarities": "1,1,2,3"
+    },
+    {
+      "characterID": "3",
+      "name": "gamblingPrincess",
+      "spinRarities": "1,1,1,1",
+      "tombolas": "6003+10003",
+      "coolDownInSeconds": "1296000",
+      "maxFreeOpenings": "1",
+      "freeOpeningTombolaID": "10003",
+      "unluckyTotalPoints": "18",
+      "badLuckProtectionDrawAmount": "10",
+      "packageIDs": "10517",
+      "badLuckSpinRarities": "1,1,2,4"
+    }
+  ]
+}

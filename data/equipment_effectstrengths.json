@@ -1,0 +1,2729 @@
+{
+  "equipment_effectstrength": [
+    {
+      "strengthID": "1",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "1",
+      "bonus": "20",
+      "singleBonus": "20"
+    },
+    {
+      "strengthID": "2",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "1",
+      "bonus": "21",
+      "singleBonus": "21"
+    },
+    {
+      "strengthID": "3",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "1",
+      "bonus": "22",
+      "singleBonus": "22"
+    },
+    {
+      "strengthID": "4",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "1",
+      "bonus": "23",
+      "singleBonus": "23"
+    },
+    {
+      "strengthID": "5",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "1",
+      "bonus": "24",
+      "singleBonus": "24"
+    },
+    {
+      "strengthID": "6",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "1",
+      "bonus": "25",
+      "singleBonus": "25"
+    },
+    {
+      "strengthID": "7",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "1",
+      "bonus": "26",
+      "singleBonus": "26"
+    },
+    {
+      "strengthID": "8",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "1",
+      "bonus": "27",
+      "singleBonus": "27"
+    },
+    {
+      "strengthID": "9",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "1",
+      "bonus": "28",
+      "singleBonus": "28"
+    },
+    {
+      "strengthID": "10",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "1",
+      "bonus": "29",
+      "singleBonus": "29"
+    },
+    {
+      "strengthID": "11",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "1",
+      "bonus": "30",
+      "singleBonus": "30"
+    },
+    {
+      "strengthID": "12",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "1",
+      "bonus": "31",
+      "singleBonus": "31"
+    },
+    {
+      "strengthID": "13",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "1",
+      "bonus": "32",
+      "singleBonus": "32"
+    },
+    {
+      "strengthID": "14",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "1",
+      "bonus": "33",
+      "singleBonus": "33"
+    },
+    {
+      "strengthID": "15",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "1",
+      "bonus": "34",
+      "singleBonus": "34"
+    },
+    {
+      "strengthID": "16",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "1",
+      "bonus": "35",
+      "singleBonus": "35"
+    },
+    {
+      "strengthID": "17",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "1",
+      "bonus": "36",
+      "singleBonus": "36"
+    },
+    {
+      "strengthID": "18",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "1",
+      "bonus": "37",
+      "singleBonus": "37"
+    },
+    {
+      "strengthID": "19",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "1",
+      "bonus": "38",
+      "singleBonus": "38"
+    },
+    {
+      "strengthID": "20",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "1",
+      "bonus": "39",
+      "singleBonus": "39"
+    },
+    {
+      "strengthID": "21",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "1",
+      "bonus": "40",
+      "singleBonus": "40"
+    },
+    {
+      "strengthID": "22",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "1",
+      "bonus": "41",
+      "singleBonus": "41"
+    },
+    {
+      "strengthID": "23",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "1",
+      "bonus": "42",
+      "singleBonus": "42"
+    },
+    {
+      "strengthID": "24",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "1",
+      "bonus": "43",
+      "singleBonus": "43"
+    },
+    {
+      "strengthID": "25",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "1",
+      "bonus": "44",
+      "singleBonus": "44"
+    },
+    {
+      "strengthID": "26",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "1",
+      "bonus": "45",
+      "singleBonus": "45"
+    },
+    {
+      "strengthID": "3001",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "11",
+      "bonus": "20",
+      "singleBonus": "20"
+    },
+    {
+      "strengthID": "3002",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "11",
+      "bonus": "21",
+      "singleBonus": "21"
+    },
+    {
+      "strengthID": "3003",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "11",
+      "bonus": "22",
+      "singleBonus": "22"
+    },
+    {
+      "strengthID": "3004",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "11",
+      "bonus": "23",
+      "singleBonus": "23"
+    },
+    {
+      "strengthID": "3005",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "11",
+      "bonus": "24",
+      "singleBonus": "24"
+    },
+    {
+      "strengthID": "3006",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "11",
+      "bonus": "25",
+      "singleBonus": "25"
+    },
+    {
+      "strengthID": "3007",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "11",
+      "bonus": "26",
+      "singleBonus": "26"
+    },
+    {
+      "strengthID": "3008",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "11",
+      "bonus": "27",
+      "singleBonus": "27"
+    },
+    {
+      "strengthID": "3009",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "11",
+      "bonus": "28",
+      "singleBonus": "28"
+    },
+    {
+      "strengthID": "3010",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "11",
+      "bonus": "29",
+      "singleBonus": "29"
+    },
+    {
+      "strengthID": "3011",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "11",
+      "bonus": "30",
+      "singleBonus": "30"
+    },
+    {
+      "strengthID": "3012",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "11",
+      "bonus": "31",
+      "singleBonus": "31"
+    },
+    {
+      "strengthID": "3013",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "11",
+      "bonus": "32",
+      "singleBonus": "32"
+    },
+    {
+      "strengthID": "3014",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "11",
+      "bonus": "33",
+      "singleBonus": "33"
+    },
+    {
+      "strengthID": "3015",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "11",
+      "bonus": "34",
+      "singleBonus": "34"
+    },
+    {
+      "strengthID": "3016",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "11",
+      "bonus": "35",
+      "singleBonus": "35"
+    },
+    {
+      "strengthID": "3017",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "11",
+      "bonus": "36",
+      "singleBonus": "36"
+    },
+    {
+      "strengthID": "3018",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "11",
+      "bonus": "37",
+      "singleBonus": "37"
+    },
+    {
+      "strengthID": "3019",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "11",
+      "bonus": "38",
+      "singleBonus": "38"
+    },
+    {
+      "strengthID": "3020",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "11",
+      "bonus": "39",
+      "singleBonus": "39"
+    },
+    {
+      "strengthID": "3021",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "11",
+      "bonus": "40",
+      "singleBonus": "40"
+    },
+    {
+      "strengthID": "3022",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "11",
+      "bonus": "41",
+      "singleBonus": "41"
+    },
+    {
+      "strengthID": "3023",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "11",
+      "bonus": "42",
+      "singleBonus": "42"
+    },
+    {
+      "strengthID": "3024",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "11",
+      "bonus": "43",
+      "singleBonus": "43"
+    },
+    {
+      "strengthID": "3025",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "11",
+      "bonus": "44",
+      "singleBonus": "44"
+    },
+    {
+      "strengthID": "3026",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "11",
+      "bonus": "45",
+      "singleBonus": "45"
+    },
+    {
+      "strengthID": "101",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "2",
+      "bonus": "35",
+      "singleBonus": "35"
+    },
+    {
+      "strengthID": "102",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "2",
+      "bonus": "36",
+      "singleBonus": "36"
+    },
+    {
+      "strengthID": "103",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "2",
+      "bonus": "37",
+      "singleBonus": "37"
+    },
+    {
+      "strengthID": "104",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "2",
+      "bonus": "38",
+      "singleBonus": "38"
+    },
+    {
+      "strengthID": "105",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "2",
+      "bonus": "39",
+      "singleBonus": "39"
+    },
+    {
+      "strengthID": "106",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "2",
+      "bonus": "40",
+      "singleBonus": "40"
+    },
+    {
+      "strengthID": "107",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "2",
+      "bonus": "41",
+      "singleBonus": "41"
+    },
+    {
+      "strengthID": "108",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "2",
+      "bonus": "42",
+      "singleBonus": "42"
+    },
+    {
+      "strengthID": "109",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "2",
+      "bonus": "43",
+      "singleBonus": "43"
+    },
+    {
+      "strengthID": "110",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "2",
+      "bonus": "44",
+      "singleBonus": "44"
+    },
+    {
+      "strengthID": "111",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "2",
+      "bonus": "45",
+      "singleBonus": "45"
+    },
+    {
+      "strengthID": "112",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "2",
+      "bonus": "46",
+      "singleBonus": "46"
+    },
+    {
+      "strengthID": "113",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "2",
+      "bonus": "47",
+      "singleBonus": "47"
+    },
+    {
+      "strengthID": "114",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "2",
+      "bonus": "48",
+      "singleBonus": "48"
+    },
+    {
+      "strengthID": "115",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "2",
+      "bonus": "49",
+      "singleBonus": "49"
+    },
+    {
+      "strengthID": "116",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "2",
+      "bonus": "50",
+      "singleBonus": "50"
+    },
+    {
+      "strengthID": "117",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "2",
+      "bonus": "51",
+      "singleBonus": "51"
+    },
+    {
+      "strengthID": "118",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "2",
+      "bonus": "52",
+      "singleBonus": "52"
+    },
+    {
+      "strengthID": "119",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "2",
+      "bonus": "53",
+      "singleBonus": "53"
+    },
+    {
+      "strengthID": "120",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "2",
+      "bonus": "54",
+      "singleBonus": "54"
+    },
+    {
+      "strengthID": "121",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "2",
+      "bonus": "55",
+      "singleBonus": "55"
+    },
+    {
+      "strengthID": "3101",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "12",
+      "bonus": "35",
+      "singleBonus": "35"
+    },
+    {
+      "strengthID": "3102",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "12",
+      "bonus": "36",
+      "singleBonus": "36"
+    },
+    {
+      "strengthID": "3103",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "12",
+      "bonus": "37",
+      "singleBonus": "37"
+    },
+    {
+      "strengthID": "3104",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "12",
+      "bonus": "38",
+      "singleBonus": "38"
+    },
+    {
+      "strengthID": "3105",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "12",
+      "bonus": "39",
+      "singleBonus": "39"
+    },
+    {
+      "strengthID": "3106",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "12",
+      "bonus": "40",
+      "singleBonus": "40"
+    },
+    {
+      "strengthID": "3107",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "12",
+      "bonus": "41",
+      "singleBonus": "41"
+    },
+    {
+      "strengthID": "3108",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "12",
+      "bonus": "42",
+      "singleBonus": "42"
+    },
+    {
+      "strengthID": "3109",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "12",
+      "bonus": "43",
+      "singleBonus": "43"
+    },
+    {
+      "strengthID": "3110",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "12",
+      "bonus": "44",
+      "singleBonus": "44"
+    },
+    {
+      "strengthID": "3111",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "12",
+      "bonus": "45",
+      "singleBonus": "45"
+    },
+    {
+      "strengthID": "3112",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "12",
+      "bonus": "46",
+      "singleBonus": "46"
+    },
+    {
+      "strengthID": "3113",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "12",
+      "bonus": "47",
+      "singleBonus": "47"
+    },
+    {
+      "strengthID": "3114",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "12",
+      "bonus": "48",
+      "singleBonus": "48"
+    },
+    {
+      "strengthID": "3115",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "12",
+      "bonus": "49",
+      "singleBonus": "49"
+    },
+    {
+      "strengthID": "3116",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "12",
+      "bonus": "50",
+      "singleBonus": "50"
+    },
+    {
+      "strengthID": "3117",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "12",
+      "bonus": "51",
+      "singleBonus": "51"
+    },
+    {
+      "strengthID": "3118",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "12",
+      "bonus": "52",
+      "singleBonus": "52"
+    },
+    {
+      "strengthID": "3119",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "12",
+      "bonus": "53",
+      "singleBonus": "53"
+    },
+    {
+      "strengthID": "3120",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "12",
+      "bonus": "54",
+      "singleBonus": "54"
+    },
+    {
+      "strengthID": "3121",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "12",
+      "bonus": "55",
+      "singleBonus": "55"
+    },
+    {
+      "strengthID": "201",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "3",
+      "bonus": "50",
+      "singleBonus": "50"
+    },
+    {
+      "strengthID": "202",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "3",
+      "bonus": "51",
+      "singleBonus": "51"
+    },
+    {
+      "strengthID": "203",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "3",
+      "bonus": "52",
+      "singleBonus": "52"
+    },
+    {
+      "strengthID": "204",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "3",
+      "bonus": "53",
+      "singleBonus": "53"
+    },
+    {
+      "strengthID": "205",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "3",
+      "bonus": "54",
+      "singleBonus": "54"
+    },
+    {
+      "strengthID": "206",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "3",
+      "bonus": "55",
+      "singleBonus": "55"
+    },
+    {
+      "strengthID": "207",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "3",
+      "bonus": "56",
+      "singleBonus": "56"
+    },
+    {
+      "strengthID": "208",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "3",
+      "bonus": "57",
+      "singleBonus": "57"
+    },
+    {
+      "strengthID": "209",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "3",
+      "bonus": "58",
+      "singleBonus": "58"
+    },
+    {
+      "strengthID": "210",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "3",
+      "bonus": "59",
+      "singleBonus": "59"
+    },
+    {
+      "strengthID": "211",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "3",
+      "bonus": "60",
+      "singleBonus": "60"
+    },
+    {
+      "strengthID": "212",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "3",
+      "bonus": "61",
+      "singleBonus": "61"
+    },
+    {
+      "strengthID": "213",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "3",
+      "bonus": "62",
+      "singleBonus": "62"
+    },
+    {
+      "strengthID": "214",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "3",
+      "bonus": "63",
+      "singleBonus": "63"
+    },
+    {
+      "strengthID": "215",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "3",
+      "bonus": "64",
+      "singleBonus": "64"
+    },
+    {
+      "strengthID": "216",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "3",
+      "bonus": "65",
+      "singleBonus": "65"
+    },
+    {
+      "strengthID": "217",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "3",
+      "bonus": "66",
+      "singleBonus": "66"
+    },
+    {
+      "strengthID": "218",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "3",
+      "bonus": "67",
+      "singleBonus": "67"
+    },
+    {
+      "strengthID": "219",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "3",
+      "bonus": "68",
+      "singleBonus": "68"
+    },
+    {
+      "strengthID": "220",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "3",
+      "bonus": "69",
+      "singleBonus": "69"
+    },
+    {
+      "strengthID": "221",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "3",
+      "bonus": "70",
+      "singleBonus": "70"
+    },
+    {
+      "strengthID": "3201",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "13",
+      "bonus": "50",
+      "singleBonus": "50"
+    },
+    {
+      "strengthID": "3202",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "13",
+      "bonus": "51",
+      "singleBonus": "51"
+    },
+    {
+      "strengthID": "3203",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "13",
+      "bonus": "52",
+      "singleBonus": "52"
+    },
+    {
+      "strengthID": "3204",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "13",
+      "bonus": "53",
+      "singleBonus": "53"
+    },
+    {
+      "strengthID": "3205",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "13",
+      "bonus": "54",
+      "singleBonus": "54"
+    },
+    {
+      "strengthID": "3206",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "13",
+      "bonus": "55",
+      "singleBonus": "55"
+    },
+    {
+      "strengthID": "3207",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "13",
+      "bonus": "56",
+      "singleBonus": "56"
+    },
+    {
+      "strengthID": "3208",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "13",
+      "bonus": "57",
+      "singleBonus": "57"
+    },
+    {
+      "strengthID": "3209",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "13",
+      "bonus": "58",
+      "singleBonus": "58"
+    },
+    {
+      "strengthID": "3210",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "13",
+      "bonus": "59",
+      "singleBonus": "59"
+    },
+    {
+      "strengthID": "3211",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "13",
+      "bonus": "60",
+      "singleBonus": "60"
+    },
+    {
+      "strengthID": "3212",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "13",
+      "bonus": "61",
+      "singleBonus": "61"
+    },
+    {
+      "strengthID": "3213",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "13",
+      "bonus": "62",
+      "singleBonus": "62"
+    },
+    {
+      "strengthID": "3214",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "13",
+      "bonus": "63",
+      "singleBonus": "63"
+    },
+    {
+      "strengthID": "3215",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "13",
+      "bonus": "64",
+      "singleBonus": "64"
+    },
+    {
+      "strengthID": "3216",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "13",
+      "bonus": "65",
+      "singleBonus": "65"
+    },
+    {
+      "strengthID": "3217",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "13",
+      "bonus": "66",
+      "singleBonus": "66"
+    },
+    {
+      "strengthID": "3218",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "13",
+      "bonus": "67",
+      "singleBonus": "67"
+    },
+    {
+      "strengthID": "3219",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "13",
+      "bonus": "68",
+      "singleBonus": "68"
+    },
+    {
+      "strengthID": "3220",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "13",
+      "bonus": "69",
+      "singleBonus": "69"
+    },
+    {
+      "strengthID": "3221",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "13",
+      "bonus": "70",
+      "singleBonus": "70"
+    },
+    {
+      "strengthID": "301",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "4",
+      "bonus": "85",
+      "singleBonus": "85"
+    },
+    {
+      "strengthID": "302",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "4",
+      "bonus": "86",
+      "singleBonus": "86"
+    },
+    {
+      "strengthID": "303",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "4",
+      "bonus": "87",
+      "singleBonus": "87"
+    },
+    {
+      "strengthID": "304",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "4",
+      "bonus": "88",
+      "singleBonus": "88"
+    },
+    {
+      "strengthID": "305",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "4",
+      "bonus": "89",
+      "singleBonus": "89"
+    },
+    {
+      "strengthID": "306",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "4",
+      "bonus": "90",
+      "singleBonus": "90"
+    },
+    {
+      "strengthID": "307",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "4",
+      "bonus": "91",
+      "singleBonus": "91"
+    },
+    {
+      "strengthID": "308",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "4",
+      "bonus": "92",
+      "singleBonus": "92"
+    },
+    {
+      "strengthID": "309",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "4",
+      "bonus": "93",
+      "singleBonus": "93"
+    },
+    {
+      "strengthID": "310",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "4",
+      "bonus": "94",
+      "singleBonus": "94"
+    },
+    {
+      "strengthID": "311",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "4",
+      "bonus": "95",
+      "singleBonus": "95"
+    },
+    {
+      "strengthID": "312",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "4",
+      "bonus": "96",
+      "singleBonus": "96"
+    },
+    {
+      "strengthID": "313",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "4",
+      "bonus": "97",
+      "singleBonus": "97"
+    },
+    {
+      "strengthID": "314",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "4",
+      "bonus": "98",
+      "singleBonus": "98"
+    },
+    {
+      "strengthID": "315",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "4",
+      "bonus": "99",
+      "singleBonus": "99"
+    },
+    {
+      "strengthID": "316",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "4",
+      "bonus": "100",
+      "singleBonus": "100"
+    },
+    {
+      "strengthID": "3301",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "14",
+      "bonus": "85",
+      "singleBonus": "85"
+    },
+    {
+      "strengthID": "3302",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "14",
+      "bonus": "86",
+      "singleBonus": "86"
+    },
+    {
+      "strengthID": "3303",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "14",
+      "bonus": "87",
+      "singleBonus": "87"
+    },
+    {
+      "strengthID": "3304",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "14",
+      "bonus": "88",
+      "singleBonus": "88"
+    },
+    {
+      "strengthID": "3305",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "14",
+      "bonus": "89",
+      "singleBonus": "89"
+    },
+    {
+      "strengthID": "3306",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "14",
+      "bonus": "90",
+      "singleBonus": "90"
+    },
+    {
+      "strengthID": "3307",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "14",
+      "bonus": "91",
+      "singleBonus": "91"
+    },
+    {
+      "strengthID": "3308",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "14",
+      "bonus": "92",
+      "singleBonus": "92"
+    },
+    {
+      "strengthID": "3309",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "14",
+      "bonus": "93",
+      "singleBonus": "93"
+    },
+    {
+      "strengthID": "3310",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "14",
+      "bonus": "94",
+      "singleBonus": "94"
+    },
+    {
+      "strengthID": "3311",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "14",
+      "bonus": "95",
+      "singleBonus": "95"
+    },
+    {
+      "strengthID": "3312",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "14",
+      "bonus": "96",
+      "singleBonus": "96"
+    },
+    {
+      "strengthID": "3313",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "14",
+      "bonus": "97",
+      "singleBonus": "97"
+    },
+    {
+      "strengthID": "3314",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "14",
+      "bonus": "98",
+      "singleBonus": "98"
+    },
+    {
+      "strengthID": "3315",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "14",
+      "bonus": "99",
+      "singleBonus": "99"
+    },
+    {
+      "strengthID": "3316",
+      "dropRate": "1",
+      "primary": "1",
+      "rarenessID": "14",
+      "bonus": "100",
+      "singleBonus": "100"
+    },
+    {
+      "strengthID": "601",
+      "dropRate": "1",
+      "rarenessID": "2",
+      "bonus": "15",
+      "singleBonus": "15"
+    },
+    {
+      "strengthID": "602",
+      "dropRate": "1",
+      "rarenessID": "2",
+      "bonus": "16",
+      "singleBonus": "16"
+    },
+    {
+      "strengthID": "603",
+      "dropRate": "1",
+      "rarenessID": "2",
+      "bonus": "17",
+      "singleBonus": "17"
+    },
+    {
+      "strengthID": "604",
+      "dropRate": "1",
+      "rarenessID": "2",
+      "bonus": "18",
+      "singleBonus": "18"
+    },
+    {
+      "strengthID": "605",
+      "dropRate": "1",
+      "rarenessID": "2",
+      "bonus": "19",
+      "singleBonus": "19"
+    },
+    {
+      "strengthID": "606",
+      "dropRate": "1",
+      "rarenessID": "2",
+      "bonus": "20",
+      "singleBonus": "20"
+    },
+    {
+      "strengthID": "607",
+      "dropRate": "1",
+      "rarenessID": "2",
+      "bonus": "21",
+      "singleBonus": "21"
+    },
+    {
+      "strengthID": "608",
+      "dropRate": "1",
+      "rarenessID": "2",
+      "bonus": "22",
+      "singleBonus": "22"
+    },
+    {
+      "strengthID": "609",
+      "dropRate": "1",
+      "rarenessID": "2",
+      "bonus": "23",
+      "singleBonus": "23"
+    },
+    {
+      "strengthID": "610",
+      "dropRate": "1",
+      "rarenessID": "2",
+      "bonus": "24",
+      "singleBonus": "24"
+    },
+    {
+      "strengthID": "611",
+      "dropRate": "1",
+      "rarenessID": "2",
+      "bonus": "25",
+      "singleBonus": "25"
+    },
+    {
+      "strengthID": "612",
+      "dropRate": "1",
+      "rarenessID": "2",
+      "bonus": "26",
+      "singleBonus": "26"
+    },
+    {
+      "strengthID": "613",
+      "dropRate": "1",
+      "rarenessID": "2",
+      "bonus": "27",
+      "singleBonus": "27"
+    },
+    {
+      "strengthID": "614",
+      "dropRate": "1",
+      "rarenessID": "2",
+      "bonus": "28",
+      "singleBonus": "28"
+    },
+    {
+      "strengthID": "615",
+      "dropRate": "1",
+      "rarenessID": "2",
+      "bonus": "29",
+      "singleBonus": "29"
+    },
+    {
+      "strengthID": "616",
+      "dropRate": "1",
+      "rarenessID": "2",
+      "bonus": "30",
+      "singleBonus": "30"
+    },
+    {
+      "strengthID": "701",
+      "dropRate": "1",
+      "rarenessID": "3",
+      "bonus": "20",
+      "singleBonus": "20"
+    },
+    {
+      "strengthID": "702",
+      "dropRate": "1",
+      "rarenessID": "3",
+      "bonus": "21",
+      "singleBonus": "21"
+    },
+    {
+      "strengthID": "703",
+      "dropRate": "1",
+      "rarenessID": "3",
+      "bonus": "22",
+      "singleBonus": "22"
+    },
+    {
+      "strengthID": "704",
+      "dropRate": "1",
+      "rarenessID": "3",
+      "bonus": "23",
+      "singleBonus": "23"
+    },
+    {
+      "strengthID": "705",
+      "dropRate": "1",
+      "rarenessID": "3",
+      "bonus": "24",
+      "singleBonus": "24"
+    },
+    {
+      "strengthID": "706",
+      "dropRate": "1",
+      "rarenessID": "3",
+      "bonus": "25",
+      "singleBonus": "25"
+    },
+    {
+      "strengthID": "707",
+      "dropRate": "1",
+      "rarenessID": "3",
+      "bonus": "26",
+      "singleBonus": "26"
+    },
+    {
+      "strengthID": "708",
+      "dropRate": "1",
+      "rarenessID": "3",
+      "bonus": "27",
+      "singleBonus": "27"
+    },
+    {
+      "strengthID": "709",
+      "dropRate": "1",
+      "rarenessID": "3",
+      "bonus": "28",
+      "singleBonus": "28"
+    },
+    {
+      "strengthID": "710",
+      "dropRate": "1",
+      "rarenessID": "3",
+      "bonus": "29",
+      "singleBonus": "29"
+    },
+    {
+      "strengthID": "711",
+      "dropRate": "1",
+      "rarenessID": "3",
+      "bonus": "30",
+      "singleBonus": "30"
+    },
+    {
+      "strengthID": "712",
+      "dropRate": "1",
+      "rarenessID": "3",
+      "bonus": "31",
+      "singleBonus": "31"
+    },
+    {
+      "strengthID": "713",
+      "dropRate": "1",
+      "rarenessID": "3",
+      "bonus": "32",
+      "singleBonus": "32"
+    },
+    {
+      "strengthID": "714",
+      "dropRate": "1",
+      "rarenessID": "3",
+      "bonus": "33",
+      "singleBonus": "33"
+    },
+    {
+      "strengthID": "715",
+      "dropRate": "1",
+      "rarenessID": "3",
+      "bonus": "34",
+      "singleBonus": "34"
+    },
+    {
+      "strengthID": "716",
+      "dropRate": "1",
+      "rarenessID": "3",
+      "bonus": "35",
+      "singleBonus": "35"
+    },
+    {
+      "strengthID": "717",
+      "dropRate": "1",
+      "rarenessID": "3",
+      "bonus": "36",
+      "singleBonus": "36"
+    },
+    {
+      "strengthID": "718",
+      "dropRate": "1",
+      "rarenessID": "3",
+      "bonus": "37",
+      "singleBonus": "37"
+    },
+    {
+      "strengthID": "719",
+      "dropRate": "1",
+      "rarenessID": "3",
+      "bonus": "38",
+      "singleBonus": "38"
+    },
+    {
+      "strengthID": "720",
+      "dropRate": "1",
+      "rarenessID": "3",
+      "bonus": "39",
+      "singleBonus": "39"
+    },
+    {
+      "strengthID": "721",
+      "dropRate": "1",
+      "rarenessID": "3",
+      "bonus": "40",
+      "singleBonus": "40"
+    },
+    {
+      "strengthID": "722",
+      "dropRate": "1",
+      "rarenessID": "3",
+      "bonus": "41",
+      "singleBonus": "41"
+    },
+    {
+      "strengthID": "723",
+      "dropRate": "1",
+      "rarenessID": "3",
+      "bonus": "42",
+      "singleBonus": "42"
+    },
+    {
+      "strengthID": "724",
+      "dropRate": "1",
+      "rarenessID": "3",
+      "bonus": "43",
+      "singleBonus": "43"
+    },
+    {
+      "strengthID": "725",
+      "dropRate": "1",
+      "rarenessID": "3",
+      "bonus": "44",
+      "singleBonus": "44"
+    },
+    {
+      "strengthID": "726",
+      "dropRate": "1",
+      "rarenessID": "3",
+      "bonus": "45",
+      "singleBonus": "45"
+    },
+    {
+      "strengthID": "801",
+      "dropRate": "1",
+      "rarenessID": "4",
+      "bonus": "55",
+      "singleBonus": "55"
+    },
+    {
+      "strengthID": "802",
+      "dropRate": "1",
+      "rarenessID": "4",
+      "bonus": "56",
+      "singleBonus": "56"
+    },
+    {
+      "strengthID": "803",
+      "dropRate": "1",
+      "rarenessID": "4",
+      "bonus": "57",
+      "singleBonus": "57"
+    },
+    {
+      "strengthID": "804",
+      "dropRate": "1",
+      "rarenessID": "4",
+      "bonus": "58",
+      "singleBonus": "58"
+    },
+    {
+      "strengthID": "805",
+      "dropRate": "1",
+      "rarenessID": "4",
+      "bonus": "59",
+      "singleBonus": "59"
+    },
+    {
+      "strengthID": "806",
+      "dropRate": "1",
+      "rarenessID": "4",
+      "bonus": "60",
+      "singleBonus": "60"
+    },
+    {
+      "strengthID": "807",
+      "dropRate": "1",
+      "rarenessID": "4",
+      "bonus": "61",
+      "singleBonus": "61"
+    },
+    {
+      "strengthID": "808",
+      "dropRate": "1",
+      "rarenessID": "4",
+      "bonus": "62",
+      "singleBonus": "62"
+    },
+    {
+      "strengthID": "809",
+      "dropRate": "1",
+      "rarenessID": "4",
+      "bonus": "63",
+      "singleBonus": "63"
+    },
+    {
+      "strengthID": "810",
+      "dropRate": "1",
+      "rarenessID": "4",
+      "bonus": "64",
+      "singleBonus": "64"
+    },
+    {
+      "strengthID": "811",
+      "dropRate": "1",
+      "rarenessID": "4",
+      "bonus": "65",
+      "singleBonus": "65"
+    },
+    {
+      "strengthID": "812",
+      "dropRate": "1",
+      "rarenessID": "4",
+      "bonus": "66",
+      "singleBonus": "66"
+    },
+    {
+      "strengthID": "813",
+      "dropRate": "1",
+      "rarenessID": "4",
+      "bonus": "67",
+      "singleBonus": "67"
+    },
+    {
+      "strengthID": "814",
+      "dropRate": "1",
+      "rarenessID": "4",
+      "bonus": "68",
+      "singleBonus": "68"
+    },
+    {
+      "strengthID": "815",
+      "dropRate": "1",
+      "rarenessID": "4",
+      "bonus": "69",
+      "singleBonus": "69"
+    },
+    {
+      "strengthID": "816",
+      "dropRate": "1",
+      "rarenessID": "4",
+      "bonus": "70",
+      "singleBonus": "70"
+    },
+    {
+      "strengthID": "3801",
+      "dropRate": "1",
+      "rarenessID": "14",
+      "bonus": "20",
+      "singleBonus": "20"
+    },
+    {
+      "strengthID": "3802",
+      "dropRate": "1",
+      "rarenessID": "14",
+      "bonus": "21",
+      "singleBonus": "21"
+    },
+    {
+      "strengthID": "3803",
+      "dropRate": "1",
+      "rarenessID": "14",
+      "bonus": "22",
+      "singleBonus": "22"
+    },
+    {
+      "strengthID": "3804",
+      "dropRate": "1",
+      "rarenessID": "14",
+      "bonus": "23",
+      "singleBonus": "23"
+    },
+    {
+      "strengthID": "3805",
+      "dropRate": "1",
+      "rarenessID": "14",
+      "bonus": "24",
+      "singleBonus": "24"
+    },
+    {
+      "strengthID": "3806",
+      "dropRate": "1",
+      "rarenessID": "14",
+      "bonus": "25",
+      "singleBonus": "25"
+    },
+    {
+      "strengthID": "3807",
+      "dropRate": "1",
+      "rarenessID": "14",
+      "bonus": "26",
+      "singleBonus": "26"
+    },
+    {
+      "strengthID": "3808",
+      "dropRate": "1",
+      "rarenessID": "14",
+      "bonus": "27",
+      "singleBonus": "27"
+    },
+    {
+      "strengthID": "3809",
+      "dropRate": "1",
+      "rarenessID": "14",
+      "bonus": "28",
+      "singleBonus": "28"
+    },
+    {
+      "strengthID": "3810",
+      "dropRate": "1",
+      "rarenessID": "14",
+      "bonus": "29",
+      "singleBonus": "29"
+    },
+    {
+      "strengthID": "3811",
+      "dropRate": "1",
+      "rarenessID": "14",
+      "bonus": "30",
+      "singleBonus": "30"
+    },
+    {
+      "strengthID": "3812",
+      "dropRate": "1",
+      "rarenessID": "14",
+      "bonus": "31",
+      "singleBonus": "31"
+    },
+    {
+      "strengthID": "3813",
+      "dropRate": "1",
+      "rarenessID": "14",
+      "bonus": "32",
+      "singleBonus": "32"
+    },
+    {
+      "strengthID": "3814",
+      "dropRate": "1",
+      "rarenessID": "14",
+      "bonus": "33",
+      "singleBonus": "33"
+    },
+    {
+      "strengthID": "3815",
+      "dropRate": "1",
+      "rarenessID": "14",
+      "bonus": "34",
+      "singleBonus": "34"
+    },
+    {
+      "strengthID": "3816",
+      "dropRate": "1",
+      "rarenessID": "14",
+      "bonus": "35",
+      "singleBonus": "35"
+    },
+    {
+      "strengthID": "3817",
+      "dropRate": "1",
+      "rarenessID": "14",
+      "bonus": "36",
+      "singleBonus": "36"
+    },
+    {
+      "strengthID": "3818",
+      "dropRate": "1",
+      "rarenessID": "14",
+      "bonus": "37",
+      "singleBonus": "37"
+    },
+    {
+      "strengthID": "3819",
+      "dropRate": "1",
+      "rarenessID": "14",
+      "bonus": "38",
+      "singleBonus": "38"
+    },
+    {
+      "strengthID": "3820",
+      "dropRate": "1",
+      "rarenessID": "14",
+      "bonus": "39",
+      "singleBonus": "39"
+    },
+    {
+      "strengthID": "3821",
+      "dropRate": "1",
+      "rarenessID": "14",
+      "bonus": "40",
+      "singleBonus": "40"
+    },
+    {
+      "strengthID": "3822",
+      "dropRate": "1",
+      "rarenessID": "14",
+      "bonus": "41",
+      "singleBonus": "41"
+    },
+    {
+      "strengthID": "3823",
+      "dropRate": "1",
+      "rarenessID": "14",
+      "bonus": "42",
+      "singleBonus": "42"
+    },
+    {
+      "strengthID": "3824",
+      "dropRate": "1",
+      "rarenessID": "14",
+      "bonus": "43",
+      "singleBonus": "43"
+    },
+    {
+      "strengthID": "3825",
+      "dropRate": "1",
+      "rarenessID": "14",
+      "bonus": "44",
+      "singleBonus": "44"
+    },
+    {
+      "strengthID": "3826",
+      "dropRate": "1",
+      "rarenessID": "14",
+      "bonus": "45",
+      "singleBonus": "45"
+    },
+    {
+      "strengthID": "3827",
+      "dropRate": "1",
+      "rarenessID": "14",
+      "bonus": "46",
+      "singleBonus": "46"
+    },
+    {
+      "strengthID": "3828",
+      "dropRate": "1",
+      "rarenessID": "14",
+      "bonus": "47",
+      "singleBonus": "47"
+    },
+    {
+      "strengthID": "3829",
+      "dropRate": "1",
+      "rarenessID": "14",
+      "bonus": "48",
+      "singleBonus": "48"
+    },
+    {
+      "strengthID": "3830",
+      "dropRate": "1",
+      "rarenessID": "14",
+      "bonus": "49",
+      "singleBonus": "49"
+    },
+    {
+      "strengthID": "3831",
+      "dropRate": "1",
+      "rarenessID": "14",
+      "bonus": "50",
+      "singleBonus": "50"
+    },
+    {
+      "strengthID": "1001",
+      "bonus": "1",
+      "singleBonus": "1"
+    },
+    {
+      "strengthID": "1002",
+      "bonus": "2",
+      "singleBonus": "2"
+    },
+    {
+      "strengthID": "1003",
+      "bonus": "3",
+      "singleBonus": "3"
+    },
+    {
+      "strengthID": "1004",
+      "bonus": "4",
+      "singleBonus": "4"
+    },
+    {
+      "strengthID": "1005",
+      "bonus": "5",
+      "singleBonus": "5"
+    },
+    {
+      "strengthID": "1006",
+      "bonus": "6",
+      "singleBonus": "6"
+    },
+    {
+      "strengthID": "1007",
+      "bonus": "7",
+      "singleBonus": "7"
+    },
+    {
+      "strengthID": "1008",
+      "bonus": "8",
+      "singleBonus": "8"
+    },
+    {
+      "strengthID": "1009",
+      "bonus": "9",
+      "singleBonus": "9"
+    },
+    {
+      "strengthID": "1010",
+      "bonus": "10",
+      "singleBonus": "10"
+    },
+    {
+      "strengthID": "1011",
+      "bonus": "11",
+      "singleBonus": "11"
+    },
+    {
+      "strengthID": "1012",
+      "bonus": "12",
+      "singleBonus": "12"
+    },
+    {
+      "strengthID": "1013",
+      "bonus": "13",
+      "singleBonus": "13"
+    },
+    {
+      "strengthID": "1014",
+      "bonus": "14",
+      "singleBonus": "14"
+    },
+    {
+      "strengthID": "1015",
+      "bonus": "15",
+      "singleBonus": "15"
+    },
+    {
+      "strengthID": "1016",
+      "bonus": "16",
+      "singleBonus": "16"
+    },
+    {
+      "strengthID": "1017",
+      "bonus": "17",
+      "singleBonus": "17"
+    },
+    {
+      "strengthID": "1018",
+      "bonus": "18",
+      "singleBonus": "18"
+    },
+    {
+      "strengthID": "1019",
+      "bonus": "19",
+      "singleBonus": "19"
+    },
+    {
+      "strengthID": "1020",
+      "bonus": "20",
+      "singleBonus": "20"
+    },
+    {
+      "strengthID": "1021",
+      "bonus": "21",
+      "singleBonus": "21"
+    },
+    {
+      "strengthID": "1022",
+      "bonus": "22",
+      "singleBonus": "22"
+    },
+    {
+      "strengthID": "1023",
+      "bonus": "23",
+      "singleBonus": "23"
+    },
+    {
+      "strengthID": "1024",
+      "bonus": "24",
+      "singleBonus": "24"
+    },
+    {
+      "strengthID": "1025",
+      "bonus": "25",
+      "singleBonus": "25"
+    },
+    {
+      "strengthID": "1026",
+      "bonus": "26",
+      "singleBonus": "26"
+    },
+    {
+      "strengthID": "1027",
+      "bonus": "27",
+      "singleBonus": "27"
+    },
+    {
+      "strengthID": "1028",
+      "bonus": "28",
+      "singleBonus": "28"
+    },
+    {
+      "strengthID": "1029",
+      "bonus": "29",
+      "singleBonus": "29"
+    },
+    {
+      "strengthID": "1030",
+      "bonus": "30",
+      "singleBonus": "30"
+    },
+    {
+      "strengthID": "1031",
+      "bonus": "31",
+      "singleBonus": "31"
+    },
+    {
+      "strengthID": "1032",
+      "bonus": "32",
+      "singleBonus": "32"
+    },
+    {
+      "strengthID": "1033",
+      "bonus": "33",
+      "singleBonus": "33"
+    },
+    {
+      "strengthID": "1034",
+      "bonus": "34",
+      "singleBonus": "34"
+    },
+    {
+      "strengthID": "1035",
+      "bonus": "35",
+      "singleBonus": "35"
+    },
+    {
+      "strengthID": "1036",
+      "bonus": "36",
+      "singleBonus": "36"
+    },
+    {
+      "strengthID": "1037",
+      "bonus": "37",
+      "singleBonus": "37"
+    },
+    {
+      "strengthID": "1038",
+      "bonus": "38",
+      "singleBonus": "38"
+    },
+    {
+      "strengthID": "1039",
+      "bonus": "39",
+      "singleBonus": "39"
+    },
+    {
+      "strengthID": "1040",
+      "bonus": "40",
+      "singleBonus": "40"
+    },
+    {
+      "strengthID": "1041",
+      "bonus": "41",
+      "singleBonus": "41"
+    },
+    {
+      "strengthID": "1042",
+      "bonus": "42",
+      "singleBonus": "42"
+    },
+    {
+      "strengthID": "1043",
+      "bonus": "43",
+      "singleBonus": "43"
+    },
+    {
+      "strengthID": "1044",
+      "bonus": "44",
+      "singleBonus": "44"
+    },
+    {
+      "strengthID": "1045",
+      "bonus": "45",
+      "singleBonus": "45"
+    },
+    {
+      "strengthID": "1046",
+      "bonus": "46",
+      "singleBonus": "46"
+    },
+    {
+      "strengthID": "1047",
+      "bonus": "47",
+      "singleBonus": "47"
+    },
+    {
+      "strengthID": "1048",
+      "bonus": "48",
+      "singleBonus": "48"
+    },
+    {
+      "strengthID": "1049",
+      "bonus": "49",
+      "singleBonus": "49"
+    },
+    {
+      "strengthID": "1050",
+      "bonus": "50",
+      "singleBonus": "50"
+    },
+    {
+      "strengthID": "1051",
+      "bonus": "51",
+      "singleBonus": "51"
+    },
+    {
+      "strengthID": "1052",
+      "bonus": "52",
+      "singleBonus": "52"
+    },
+    {
+      "strengthID": "1053",
+      "bonus": "53",
+      "singleBonus": "53"
+    },
+    {
+      "strengthID": "1054",
+      "bonus": "54",
+      "singleBonus": "54"
+    },
+    {
+      "strengthID": "1055",
+      "bonus": "55",
+      "singleBonus": "55"
+    },
+    {
+      "strengthID": "1056",
+      "bonus": "56",
+      "singleBonus": "56"
+    },
+    {
+      "strengthID": "1057",
+      "bonus": "57",
+      "singleBonus": "57"
+    },
+    {
+      "strengthID": "1058",
+      "bonus": "58",
+      "singleBonus": "58"
+    },
+    {
+      "strengthID": "1059",
+      "bonus": "59",
+      "singleBonus": "59"
+    },
+    {
+      "strengthID": "1060",
+      "bonus": "60",
+      "singleBonus": "60"
+    },
+    {
+      "strengthID": "1061",
+      "bonus": "61",
+      "singleBonus": "61"
+    },
+    {
+      "strengthID": "1062",
+      "bonus": "62",
+      "singleBonus": "62"
+    },
+    {
+      "strengthID": "1063",
+      "bonus": "63",
+      "singleBonus": "63"
+    },
+    {
+      "strengthID": "1064",
+      "bonus": "64",
+      "singleBonus": "64"
+    },
+    {
+      "strengthID": "1065",
+      "bonus": "65",
+      "singleBonus": "65"
+    },
+    {
+      "strengthID": "1066",
+      "bonus": "66",
+      "singleBonus": "66"
+    },
+    {
+      "strengthID": "1067",
+      "bonus": "67",
+      "singleBonus": "67"
+    },
+    {
+      "strengthID": "1068",
+      "bonus": "68",
+      "singleBonus": "68"
+    },
+    {
+      "strengthID": "1069",
+      "bonus": "69",
+      "singleBonus": "69"
+    },
+    {
+      "strengthID": "1070",
+      "bonus": "70",
+      "singleBonus": "70"
+    },
+    {
+      "strengthID": "1071",
+      "bonus": "71",
+      "singleBonus": "71"
+    },
+    {
+      "strengthID": "1072",
+      "bonus": "72",
+      "singleBonus": "72"
+    },
+    {
+      "strengthID": "1073",
+      "bonus": "73",
+      "singleBonus": "73"
+    },
+    {
+      "strengthID": "1074",
+      "bonus": "74",
+      "singleBonus": "74"
+    },
+    {
+      "strengthID": "1075",
+      "bonus": "75",
+      "singleBonus": "75"
+    },
+    {
+      "strengthID": "1076",
+      "bonus": "76",
+      "singleBonus": "76"
+    },
+    {
+      "strengthID": "1077",
+      "bonus": "77",
+      "singleBonus": "77"
+    },
+    {
+      "strengthID": "1078",
+      "bonus": "78",
+      "singleBonus": "78"
+    },
+    {
+      "strengthID": "1079",
+      "bonus": "79",
+      "singleBonus": "79"
+    },
+    {
+      "strengthID": "1080",
+      "bonus": "80",
+      "singleBonus": "80"
+    },
+    {
+      "strengthID": "1081",
+      "bonus": "81",
+      "singleBonus": "81"
+    },
+    {
+      "strengthID": "1082",
+      "bonus": "82",
+      "singleBonus": "82"
+    },
+    {
+      "strengthID": "1083",
+      "bonus": "83",
+      "singleBonus": "83"
+    },
+    {
+      "strengthID": "1084",
+      "bonus": "84",
+      "singleBonus": "84"
+    },
+    {
+      "strengthID": "1085",
+      "bonus": "85",
+      "singleBonus": "85"
+    },
+    {
+      "strengthID": "1086",
+      "bonus": "86",
+      "singleBonus": "86"
+    },
+    {
+      "strengthID": "1087",
+      "bonus": "87",
+      "singleBonus": "87"
+    },
+    {
+      "strengthID": "1088",
+      "bonus": "88",
+      "singleBonus": "88"
+    },
+    {
+      "strengthID": "1089",
+      "bonus": "89",
+      "singleBonus": "89"
+    },
+    {
+      "strengthID": "1090",
+      "bonus": "90",
+      "singleBonus": "90"
+    },
+    {
+      "strengthID": "1091",
+      "bonus": "91",
+      "singleBonus": "91"
+    },
+    {
+      "strengthID": "1092",
+      "bonus": "92",
+      "singleBonus": "92"
+    },
+    {
+      "strengthID": "1093",
+      "bonus": "93",
+      "singleBonus": "93"
+    },
+    {
+      "strengthID": "1094",
+      "bonus": "94",
+      "singleBonus": "94"
+    },
+    {
+      "strengthID": "1095",
+      "bonus": "95",
+      "singleBonus": "95"
+    },
+    {
+      "strengthID": "1096",
+      "bonus": "96",
+      "singleBonus": "96"
+    },
+    {
+      "strengthID": "1097",
+      "bonus": "97",
+      "singleBonus": "97"
+    },
+    {
+      "strengthID": "1098",
+      "bonus": "98",
+      "singleBonus": "98"
+    },
+    {
+      "strengthID": "1099",
+      "bonus": "99",
+      "singleBonus": "99"
+    },
+    {
+      "strengthID": "1100",
+      "bonus": "100",
+      "singleBonus": "100"
+    },
+    {
+      "strengthID": "1101",
+      "bonus": "101",
+      "singleBonus": "101"
+    },
+    {
+      "strengthID": "1102",
+      "bonus": "102",
+      "singleBonus": "102"
+    },
+    {
+      "strengthID": "1103",
+      "bonus": "103",
+      "singleBonus": "103"
+    },
+    {
+      "strengthID": "1104",
+      "bonus": "104",
+      "singleBonus": "104"
+    },
+    {
+      "strengthID": "1105",
+      "bonus": "105",
+      "singleBonus": "105"
+    },
+    {
+      "strengthID": "1106",
+      "bonus": "106",
+      "singleBonus": "106"
+    },
+    {
+      "strengthID": "1107",
+      "bonus": "107",
+      "singleBonus": "107"
+    },
+    {
+      "strengthID": "1108",
+      "bonus": "108",
+      "singleBonus": "108"
+    },
+    {
+      "strengthID": "1109",
+      "bonus": "109",
+      "singleBonus": "109"
+    },
+    {
+      "strengthID": "1110",
+      "bonus": "110",
+      "singleBonus": "110"
+    },
+    {
+      "strengthID": "1111",
+      "bonus": "111",
+      "singleBonus": "111"
+    },
+    {
+      "strengthID": "1112",
+      "bonus": "112",
+      "singleBonus": "112"
+    },
+    {
+      "strengthID": "1113",
+      "bonus": "113",
+      "singleBonus": "113"
+    },
+    {
+      "strengthID": "1114",
+      "bonus": "114",
+      "singleBonus": "114"
+    },
+    {
+      "strengthID": "1115",
+      "bonus": "115",
+      "singleBonus": "115"
+    },
+    {
+      "strengthID": "1116",
+      "bonus": "116",
+      "singleBonus": "116"
+    },
+    {
+      "strengthID": "1117",
+      "bonus": "117",
+      "singleBonus": "117"
+    },
+    {
+      "strengthID": "1118",
+      "bonus": "118",
+      "singleBonus": "118"
+    },
+    {
+      "strengthID": "1119",
+      "bonus": "119",
+      "singleBonus": "119"
+    },
+    {
+      "strengthID": "1120",
+      "bonus": "120",
+      "singleBonus": "120"
+    },
+    {
+      "strengthID": "1121",
+      "bonus": "121",
+      "singleBonus": "121"
+    },
+    {
+      "strengthID": "1122",
+      "bonus": "122",
+      "singleBonus": "122"
+    },
+    {
+      "strengthID": "1123",
+      "bonus": "123",
+      "singleBonus": "123"
+    },
+    {
+      "strengthID": "1124",
+      "bonus": "124",
+      "singleBonus": "124"
+    },
+    {
+      "strengthID": "1125",
+      "bonus": "125",
+      "singleBonus": "125"
+    },
+    {
+      "strengthID": "1126",
+      "bonus": "126",
+      "singleBonus": "126"
+    },
+    {
+      "strengthID": "1127",
+      "bonus": "127",
+      "singleBonus": "127"
+    },
+    {
+      "strengthID": "1128",
+      "bonus": "128",
+      "singleBonus": "128"
+    },
+    {
+      "strengthID": "1129",
+      "bonus": "129",
+      "singleBonus": "129"
+    },
+    {
+      "strengthID": "1130",
+      "bonus": "130",
+      "singleBonus": "130"
+    },
+    {
+      "strengthID": "1131",
+      "bonus": "131",
+      "singleBonus": "131"
+    },
+    {
+      "strengthID": "1132",
+      "bonus": "132",
+      "singleBonus": "132"
+    },
+    {
+      "strengthID": "1133",
+      "bonus": "133",
+      "singleBonus": "133"
+    },
+    {
+      "strengthID": "1134",
+      "bonus": "134",
+      "singleBonus": "134"
+    },
+    {
+      "strengthID": "1135",
+      "bonus": "135",
+      "singleBonus": "135"
+    },
+    {
+      "strengthID": "1136",
+      "bonus": "136",
+      "singleBonus": "136"
+    },
+    {
+      "strengthID": "1137",
+      "bonus": "137",
+      "singleBonus": "137"
+    },
+    {
+      "strengthID": "1138",
+      "bonus": "138",
+      "singleBonus": "138"
+    },
+    {
+      "strengthID": "1139",
+      "bonus": "139",
+      "singleBonus": "139"
+    },
+    {
+      "strengthID": "1140",
+      "bonus": "140",
+      "singleBonus": "140"
+    },
+    {
+      "strengthID": "1141",
+      "bonus": "141",
+      "singleBonus": "141"
+    },
+    {
+      "strengthID": "1142",
+      "bonus": "142",
+      "singleBonus": "142"
+    },
+    {
+      "strengthID": "1143",
+      "bonus": "143",
+      "singleBonus": "143"
+    },
+    {
+      "strengthID": "1144",
+      "bonus": "144",
+      "singleBonus": "144"
+    },
+    {
+      "strengthID": "1145",
+      "bonus": "145",
+      "singleBonus": "145"
+    },
+    {
+      "strengthID": "1146",
+      "bonus": "146",
+      "singleBonus": "146"
+    },
+    {
+      "strengthID": "1147",
+      "bonus": "147",
+      "singleBonus": "147"
+    },
+    {
+      "strengthID": "1148",
+      "bonus": "148",
+      "singleBonus": "148"
+    },
+    {
+      "strengthID": "1149",
+      "bonus": "149",
+      "singleBonus": "149"
+    },
+    {
+      "strengthID": "1150",
+      "bonus": "150",
+      "singleBonus": "150"
+    },
+    {
+      "strengthID": "1151",
+      "bonus": "151",
+      "singleBonus": "151"
+    },
+    {
+      "strengthID": "2001"
+    }
+  ]
+}

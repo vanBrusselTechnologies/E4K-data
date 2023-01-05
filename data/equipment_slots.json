@@ -1,0 +1,44 @@
+{
+  "equipment_slot": [
+    {
+      "slotID": "1",
+      "dropRate": "25",
+      "name": "armor",
+      "bonus": "100",
+      "appearanceCount": "4"
+    },
+    {
+      "slotID": "2",
+      "dropRate": "25",
+      "name": "weapon",
+      "bonus": "90",
+      "appearanceCount": "5"
+    },
+    {
+      "slotID": "3",
+      "dropRate": "25",
+      "name": "helmet",
+      "bonus": "80",
+      "appearanceCount": "4"
+    },
+    {
+      "slotID": "4",
+      "dropRate": "25",
+      "name": "artifact",
+      "bonus": "70",
+      "appearanceCount": "4"
+    },
+    {
+      "slotID": "5",
+      "name": "skin",
+      "bonus": "1",
+      "appearanceCount": "1"
+    },
+    {
+      "slotID": "6",
+      "name": "hero",
+      "bonus": "100",
+      "appearanceCount": "1"
+    }
+  ]
+}

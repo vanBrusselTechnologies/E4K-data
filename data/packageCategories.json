@@ -1,0 +1,84 @@
+{
+  "packageCategory": [
+    {
+      "categoryID": "1",
+      "name": "Equipment"
+    },
+    {
+      "categoryID": "10",
+      "name": "Gems"
+    },
+    {
+      "categoryID": "20",
+      "name": "Troops"
+    },
+    {
+      "categoryID": "30",
+      "name": "Tools"
+    },
+    {
+      "categoryID": "40",
+      "name": "Buildings"
+    },
+    {
+      "categoryID": "50",
+      "name": "Construction items"
+    },
+    {
+      "categoryID": "60",
+      "name": "Resources"
+    },
+    {
+      "categoryID": "99",
+      "name": "Misc"
+    },
+    {
+      "categoryID": "101",
+      "name": "GoldCurrency"
+    },
+    {
+      "categoryID": "102",
+      "name": "SilverCurrency"
+    },
+    {
+      "categoryID": "103",
+      "name": "BronzeCurrency"
+    },
+    {
+      "categoryID": "104",
+      "name": "AnniversaryToken"
+    },
+    {
+      "categoryID": "105",
+      "name": "XmasLTPEToken"
+    },
+    {
+      "categoryID": "106",
+      "name": "SpringLTPEToken"
+    },
+    {
+      "categoryID": "107",
+      "name": "NewKingLTPEToken"
+    },
+    {
+      "categoryID": "108",
+      "name": "LotusFlowerLTPEToken"
+    },
+    {
+      "categoryID": "109",
+      "name": "OctoberfestLTPEToken"
+    },
+    {
+      "categoryID": "110",
+      "name": "HalloweenLTPEToken"
+    },
+    {
+      "categoryID": "111",
+      "name": "IceLTPEToken"
+    },
+    {
+      "categoryID": "999",
+      "name": "Overall"
+    }
+  ]
+}

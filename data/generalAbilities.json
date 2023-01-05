@@ -1,0 +1,511 @@
+{
+  "generalAbility": [
+    {
+      "abilityID": "10011",
+      "name": "PowerSurge",
+      "abilityGroupID": "1001",
+      "level": "1",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "2",
+      "abilityAttackEffectID": "100110",
+      "abilityDefenseEffectID": "100115"
+    },
+    {
+      "abilityID": "10012",
+      "name": "PowerSurge",
+      "abilityGroupID": "1001",
+      "level": "2",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "2",
+      "abilityAttackEffectID": "100120",
+      "abilityDefenseEffectID": "100125"
+    },
+    {
+      "abilityID": "10013",
+      "name": "PowerSurge",
+      "abilityGroupID": "1001",
+      "level": "3",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "2",
+      "abilityAttackEffectID": "100130",
+      "abilityDefenseEffectID": "100135"
+    },
+    {
+      "abilityID": "10021",
+      "name": "RisetotheTask",
+      "abilityGroupID": "1002",
+      "level": "1",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "2",
+      "abilityAttackEffectID": "100210",
+      "abilityDefenseEffectID": "100215"
+    },
+    {
+      "abilityID": "10022",
+      "name": "RisetotheTask",
+      "abilityGroupID": "1002",
+      "level": "2",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "2",
+      "abilityAttackEffectID": "100220",
+      "abilityDefenseEffectID": "100225"
+    },
+    {
+      "abilityID": "10023",
+      "name": "RisetotheTask",
+      "abilityGroupID": "1002",
+      "level": "3",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "2",
+      "abilityAttackEffectID": "100230",
+      "abilityDefenseEffectID": "100235"
+    },
+    {
+      "abilityID": "10051",
+      "name": "Intimidate",
+      "abilityGroupID": "1005",
+      "level": "1",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "3",
+      "abilityAttackEffectID": "100510",
+      "abilityDefenseEffectID": "100515"
+    },
+    {
+      "abilityID": "10052",
+      "name": "Intimidate",
+      "abilityGroupID": "1005",
+      "level": "2",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "3",
+      "abilityAttackEffectID": "100520",
+      "abilityDefenseEffectID": "100525"
+    },
+    {
+      "abilityID": "10053",
+      "name": "Intimidate",
+      "abilityGroupID": "1005",
+      "level": "3",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "3",
+      "abilityAttackEffectID": "100530",
+      "abilityDefenseEffectID": "100535"
+    },
+    {
+      "abilityID": "10061",
+      "name": "StrenghtinNumbers",
+      "abilityGroupID": "1006",
+      "level": "1",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "3",
+      "abilityAttackEffectID": "100610",
+      "abilityDefenseEffectID": "100615"
+    },
+    {
+      "abilityID": "10062",
+      "name": "StrenghtinNumbers",
+      "abilityGroupID": "1006",
+      "level": "2",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "3",
+      "abilityAttackEffectID": "100620",
+      "abilityDefenseEffectID": "100625"
+    },
+    {
+      "abilityID": "10063",
+      "name": "StrenghtinNumbers",
+      "abilityGroupID": "1006",
+      "level": "3",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "3",
+      "abilityAttackEffectID": "100630",
+      "abilityDefenseEffectID": "100635"
+    },
+    {
+      "abilityID": "10071",
+      "name": "Hordebreaker",
+      "abilityGroupID": "1007",
+      "level": "1",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "3",
+      "abilityAttackEffectID": "100710",
+      "abilityDefenseEffectID": "100715"
+    },
+    {
+      "abilityID": "10072",
+      "name": "Hordebreaker",
+      "abilityGroupID": "1007",
+      "level": "2",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "3",
+      "abilityAttackEffectID": "100720",
+      "abilityDefenseEffectID": "100725"
+    },
+    {
+      "abilityID": "10073",
+      "name": "Hordebreaker",
+      "abilityGroupID": "1007",
+      "level": "3",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "3",
+      "abilityAttackEffectID": "100730",
+      "abilityDefenseEffectID": "100735"
+    },
+    {
+      "abilityID": "10081",
+      "name": "OutnumberednotOutmatched",
+      "abilityGroupID": "1008",
+      "level": "1",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "2",
+      "abilityAttackEffectID": "100810",
+      "abilityDefenseEffectID": "100815"
+    },
+    {
+      "abilityID": "10082",
+      "name": "OutnumberednotOutmatched",
+      "abilityGroupID": "1008",
+      "level": "2",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "2",
+      "abilityAttackEffectID": "100820",
+      "abilityDefenseEffectID": "100825"
+    },
+    {
+      "abilityID": "10083",
+      "name": "OutnumberednotOutmatched",
+      "abilityGroupID": "1008",
+      "level": "3",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "2",
+      "abilityAttackEffectID": "100830",
+      "abilityDefenseEffectID": "100835"
+    },
+    {
+      "abilityID": "10121",
+      "name": "Reinforcements",
+      "abilityGroupID": "1012",
+      "level": "1",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "3",
+      "abilityAttackEffectID": "101210",
+      "abilityDefenseEffectID": "101215"
+    },
+    {
+      "abilityID": "10122",
+      "name": "Reinforcements",
+      "abilityGroupID": "1012",
+      "level": "2",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "3",
+      "abilityAttackEffectID": "101220",
+      "abilityDefenseEffectID": "101225"
+    },
+    {
+      "abilityID": "10123",
+      "name": "Reinforcements",
+      "abilityGroupID": "1012",
+      "level": "3",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "3",
+      "abilityAttackEffectID": "101230",
+      "abilityDefenseEffectID": "101235"
+    },
+    {
+      "abilityID": "10131",
+      "name": "Sabotage",
+      "abilityGroupID": "1013",
+      "level": "1",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "3",
+      "abilityAttackEffectID": "101310",
+      "abilityDefenseEffectID": "101315"
+    },
+    {
+      "abilityID": "10132",
+      "name": "Sabotage",
+      "abilityGroupID": "1013",
+      "level": "2",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "3",
+      "abilityAttackEffectID": "101320",
+      "abilityDefenseEffectID": "101325"
+    },
+    {
+      "abilityID": "10133",
+      "name": "Sabotage",
+      "abilityGroupID": "1013",
+      "level": "3",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "3",
+      "abilityAttackEffectID": "101330",
+      "abilityDefenseEffectID": "101335"
+    },
+    {
+      "abilityID": "10151",
+      "name": "ToweringShield",
+      "abilityGroupID": "1015",
+      "level": "1",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "3",
+      "abilityAttackEffectID": "101510",
+      "abilityDefenseEffectID": "101515"
+    },
+    {
+      "abilityID": "10152",
+      "name": "ToweringShield",
+      "abilityGroupID": "1015",
+      "level": "2",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "3",
+      "abilityAttackEffectID": "101520",
+      "abilityDefenseEffectID": "101525"
+    },
+    {
+      "abilityID": "10153",
+      "name": "ToweringShield",
+      "abilityGroupID": "1015",
+      "level": "3",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "3",
+      "abilityAttackEffectID": "101530",
+      "abilityDefenseEffectID": "101535"
+    },
+    {
+      "abilityID": "10181",
+      "name": "HeroicDefense",
+      "abilityGroupID": "1018",
+      "level": "1",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "2",
+      "abilityAttackEffectID": "101810",
+      "abilityDefenseEffectID": "101815"
+    },
+    {
+      "abilityID": "10182",
+      "name": "HeroicDefense",
+      "abilityGroupID": "1018",
+      "level": "2",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "2",
+      "abilityAttackEffectID": "101820",
+      "abilityDefenseEffectID": "101825"
+    },
+    {
+      "abilityID": "10183",
+      "name": "HeroicDefense",
+      "abilityGroupID": "1018",
+      "level": "3",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "2",
+      "abilityAttackEffectID": "101830",
+      "abilityDefenseEffectID": "101835"
+    },
+    {
+      "abilityID": "10201",
+      "name": "AspectoftheDragon",
+      "abilityGroupID": "1020",
+      "level": "1",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "2",
+      "abilityAttackEffectID": "102010",
+      "abilityDefenseEffectID": "102015"
+    },
+    {
+      "abilityID": "10202",
+      "name": "AspectoftheDragon",
+      "abilityGroupID": "1020",
+      "level": "2",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "2",
+      "abilityAttackEffectID": "102020",
+      "abilityDefenseEffectID": "102025"
+    },
+    {
+      "abilityID": "10203",
+      "name": "AspectoftheDragon",
+      "abilityGroupID": "1020",
+      "level": "3",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "2",
+      "abilityAttackEffectID": "102030",
+      "abilityDefenseEffectID": "102035"
+    },
+    {
+      "abilityID": "10231",
+      "name": "Longbows",
+      "abilityGroupID": "1023",
+      "level": "1",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "2",
+      "abilityAttackEffectID": "102310",
+      "abilityDefenseEffectID": "102315"
+    },
+    {
+      "abilityID": "10232",
+      "name": "Longbows",
+      "abilityGroupID": "1023",
+      "level": "2",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "2",
+      "abilityAttackEffectID": "102320",
+      "abilityDefenseEffectID": "102325"
+    },
+    {
+      "abilityID": "10233",
+      "name": "Longbows",
+      "abilityGroupID": "1023",
+      "level": "3",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "2",
+      "abilityAttackEffectID": "102330",
+      "abilityDefenseEffectID": "102335"
+    },
+    {
+      "abilityID": "10251",
+      "name": "ReinforcedArrows",
+      "abilityGroupID": "1025",
+      "level": "1",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "2",
+      "abilityAttackEffectID": "102510",
+      "abilityDefenseEffectID": "102515"
+    },
+    {
+      "abilityID": "10252",
+      "name": "ReinforcedArrows",
+      "abilityGroupID": "1025",
+      "level": "2",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "2",
+      "abilityAttackEffectID": "102520",
+      "abilityDefenseEffectID": "102525"
+    },
+    {
+      "abilityID": "10253",
+      "name": "ReinforcedArrows",
+      "abilityGroupID": "1025",
+      "level": "3",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "2",
+      "abilityAttackEffectID": "102530",
+      "abilityDefenseEffectID": "102535"
+    },
+    {
+      "abilityID": "10271",
+      "name": "YourCut",
+      "abilityGroupID": "1027",
+      "level": "1",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "2",
+      "abilityAttackEffectID": "102710",
+      "abilityDefenseEffectID": "102715"
+    },
+    {
+      "abilityID": "10272",
+      "name": "YourCut",
+      "abilityGroupID": "1027",
+      "level": "2",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "2",
+      "abilityAttackEffectID": "102720",
+      "abilityDefenseEffectID": "102725"
+    },
+    {
+      "abilityID": "10273",
+      "name": "YourCut",
+      "abilityGroupID": "1027",
+      "level": "3",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "2",
+      "abilityAttackEffectID": "102730",
+      "abilityDefenseEffectID": "102735"
+    },
+    {
+      "abilityID": "10301",
+      "name": "Vengence",
+      "abilityGroupID": "1030",
+      "level": "1",
+      "abilityTriggerID": "3",
+      "abilityAttackEffectID": "103010",
+      "abilityDefenseEffectID": "103015"
+    },
+    {
+      "abilityID": "10302",
+      "name": "Vengence",
+      "abilityGroupID": "1030",
+      "level": "2",
+      "abilityTriggerID": "3",
+      "abilityAttackEffectID": "103020",
+      "abilityDefenseEffectID": "103025"
+    },
+    {
+      "abilityID": "10303",
+      "name": "Vengence",
+      "abilityGroupID": "1030",
+      "level": "3",
+      "abilityTriggerID": "3",
+      "abilityAttackEffectID": "103030",
+      "abilityDefenseEffectID": "103035"
+    },
+    {
+      "abilityID": "10341",
+      "name": "Tailwhip",
+      "abilityGroupID": "1034",
+      "level": "1",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "3",
+      "abilityAttackEffectID": "103410",
+      "abilityDefenseEffectID": "103415"
+    },
+    {
+      "abilityID": "10342",
+      "name": "Tailwhip",
+      "abilityGroupID": "1034",
+      "level": "2",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "3",
+      "abilityAttackEffectID": "103420",
+      "abilityDefenseEffectID": "103425"
+    },
+    {
+      "abilityID": "10343",
+      "name": "Tailwhip",
+      "abilityGroupID": "1034",
+      "level": "3",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "3",
+      "abilityAttackEffectID": "103430",
+      "abilityDefenseEffectID": "103435"
+    },
+    {
+      "abilityID": "10351",
+      "name": "DragonscaleArmor",
+      "abilityGroupID": "1035",
+      "level": "1",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "2",
+      "abilityAttackEffectID": "103510",
+      "abilityDefenseEffectID": "103515"
+    },
+    {
+      "abilityID": "10352",
+      "name": "DragonscaleArmor",
+      "abilityGroupID": "1035",
+      "level": "2",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "2",
+      "abilityAttackEffectID": "103520",
+      "abilityDefenseEffectID": "103525"
+    },
+    {
+      "abilityID": "10353",
+      "name": "DragonscaleArmor",
+      "abilityGroupID": "1035",
+      "level": "3",
+      "abilityTriggerID": "2",
+      "triggerPerWave": "2",
+      "abilityAttackEffectID": "103530",
+      "abilityDefenseEffectID": "103535"
+    }
+  ]
+}

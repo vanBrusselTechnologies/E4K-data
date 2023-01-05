@@ -1,0 +1,3911 @@
+{
+  "equipment_set": [
+    {
+      "ID": "123",
+      "comment1": "LTPE Black Friday General",
+      "comment2": "Treasures of the Prince of Thieves",
+      "setID": "43",
+      "neededItems": "2",
+      "effects": "53&amp;20"
+    },
+    {
+      "ID": "124",
+      "comment1": "LTPE Black Friday General",
+      "comment2": "Treasures of the Prince of Thieves",
+      "setID": "43",
+      "neededItems": "3",
+      "effects": "54&amp;10"
+    },
+    {
+      "ID": "125",
+      "comment1": "LTPE Black Friday General",
+      "comment2": "Treasures of the Prince of Thieves",
+      "setID": "43",
+      "neededItems": "4",
+      "effects": "61&amp;15"
+    },
+    {
+      "ID": "126",
+      "comment1": "LTPE Black Friday General",
+      "comment2": "Treasures of the Prince of Thieves",
+      "setID": "43",
+      "neededItems": "5",
+      "effects": "62&amp;15"
+    },
+    {
+      "ID": "127",
+      "comment1": "LTPE Black Friday General",
+      "comment2": "The Thorn assassins hoard",
+      "setID": "44",
+      "neededItems": "2",
+      "effects": "53&amp;30"
+    },
+    {
+      "ID": "128",
+      "comment1": "LTPE Black Friday General",
+      "comment2": "The Thorn assassins hoard",
+      "setID": "44",
+      "neededItems": "3",
+      "effects": "54&amp;20"
+    },
+    {
+      "ID": "129",
+      "comment1": "LTPE Black Friday General",
+      "comment2": "The Thorn assassins hoard",
+      "setID": "44",
+      "neededItems": "4",
+      "effects": "61&amp;30"
+    },
+    {
+      "ID": "130",
+      "comment1": "LTPE Black Friday General",
+      "comment2": "The Thorn assassins hoard",
+      "setID": "44",
+      "neededItems": "5",
+      "effects": "62&amp;30"
+    },
+    {
+      "ID": "215",
+      "comment1": "9 piece whale set General",
+      "comment2": "Power of the elements",
+      "setID": "38",
+      "neededItems": "2",
+      "effects": "55&amp;20"
+    },
+    {
+      "ID": "216",
+      "comment1": "9 piece whale set General",
+      "comment2": "Power of the elements",
+      "setID": "38",
+      "neededItems": "3",
+      "effects": "51&amp;30"
+    },
+    {
+      "ID": "217",
+      "comment1": "9 piece whale set General",
+      "comment2": "Power of the elements",
+      "setID": "38",
+      "neededItems": "4",
+      "effects": "59&amp;30"
+    },
+    {
+      "ID": "218",
+      "comment1": "9 piece whale set General",
+      "comment2": "Power of the elements",
+      "setID": "38",
+      "neededItems": "5",
+      "effects": "58&amp;20"
+    },
+    {
+      "ID": "219",
+      "comment1": "9 piece whale set General",
+      "comment2": "Power of the elements",
+      "setID": "38",
+      "neededItems": "6",
+      "effects": "57&amp;40"
+    },
+    {
+      "ID": "220",
+      "comment1": "9 piece whale set General",
+      "comment2": "Power of the elements",
+      "setID": "38",
+      "neededItems": "7",
+      "effects": "61&amp;50"
+    },
+    {
+      "ID": "221",
+      "comment1": "9 piece whale set General",
+      "comment2": "Power of the elements",
+      "setID": "38",
+      "neededItems": "8",
+      "effects": "62&amp;50"
+    },
+    {
+      "ID": "222",
+      "comment1": "9 piece whale set General",
+      "comment2": "Power of the elements",
+      "setID": "38",
+      "neededItems": "9",
+      "effects": "334&amp;60"
+    },
+    {
+      "ID": "139",
+      "comment1": "9 piece whale set Baron",
+      "comment2": "Legacy of the Eagle Demon",
+      "setID": "40",
+      "neededItems": "2",
+      "effects": "4&amp;20"
+    },
+    {
+      "ID": "140",
+      "comment1": "9 piece whale set Baron",
+      "comment2": "Legacy of the Eagle Demon",
+      "setID": "40",
+      "neededItems": "3",
+      "effects": "1&amp;25"
+    },
+    {
+      "ID": "141",
+      "comment1": "9 piece whale set Baron",
+      "comment2": "Legacy of the Eagle Demon",
+      "setID": "40",
+      "neededItems": "4",
+      "effects": "9&amp;30"
+    },
+    {
+      "ID": "142",
+      "comment1": "9 piece whale set Baron",
+      "comment2": "Legacy of the Eagle Demon",
+      "setID": "40",
+      "neededItems": "5",
+      "effects": "8&amp;20"
+    },
+    {
+      "ID": "143",
+      "comment1": "9 piece whale set Baron",
+      "comment2": "Legacy of the Eagle Demon",
+      "setID": "40",
+      "neededItems": "6",
+      "effects": "7&amp;40"
+    },
+    {
+      "ID": "144",
+      "comment1": "9 piece whale set Baron",
+      "comment2": "Legacy of the Eagle Demon",
+      "setID": "40",
+      "neededItems": "7",
+      "effects": "10&amp;50"
+    },
+    {
+      "ID": "145",
+      "comment1": "9 piece whale set Baron",
+      "comment2": "Legacy of the Eagle Demon",
+      "setID": "40",
+      "neededItems": "8",
+      "effects": "11&amp;50"
+    },
+    {
+      "ID": "146",
+      "comment1": "9 piece whale set Baron",
+      "comment2": "Legacy of the Eagle Demon",
+      "setID": "40",
+      "neededItems": "9",
+      "effects": "335&amp;40"
+    },
+    {
+      "ID": "147",
+      "comment1": "9 Piece LTPE Set Baron",
+      "comment2": "Kalas mysteries",
+      "setID": "41",
+      "neededItems": "2",
+      "effects": "8&amp;50"
+    },
+    {
+      "ID": "148",
+      "comment1": "9 Piece LTPE Set Baron",
+      "comment2": "Kalas mysteries",
+      "setID": "41",
+      "neededItems": "3",
+      "effects": "10&amp;10"
+    },
+    {
+      "ID": "149",
+      "comment1": "9 Piece LTPE Set Baron",
+      "comment2": "Kalas mysteries",
+      "setID": "41",
+      "neededItems": "4",
+      "effects": "11&amp;10"
+    },
+    {
+      "ID": "150",
+      "comment1": "9 Piece LTPE Set Baron",
+      "comment2": "Kalas mysteries",
+      "setID": "41",
+      "neededItems": "5",
+      "effects": "13&amp;5"
+    },
+    {
+      "ID": "151",
+      "comment1": "9 Piece LTPE Set Baron",
+      "comment2": "Kalas mysteries",
+      "setID": "41",
+      "neededItems": "6",
+      "effects": "10&amp;57"
+    },
+    {
+      "ID": "152",
+      "comment1": "9 Piece LTPE Set Baron",
+      "comment2": "Kalas mysteries",
+      "setID": "41",
+      "neededItems": "7",
+      "effects": "11&amp;57"
+    },
+    {
+      "ID": "153",
+      "comment1": "9 Piece LTPE Set Baron",
+      "comment2": "Kalas mysteries",
+      "setID": "41",
+      "neededItems": "8",
+      "effects": "13&amp;15"
+    },
+    {
+      "ID": "154",
+      "comment1": "9 Piece LTPE Set Baron",
+      "comment2": "Kalas mysteries",
+      "setID": "41",
+      "neededItems": "9",
+      "effects": "335&amp;25"
+    },
+    {
+      "ID": "155",
+      "comment1": "9 Piece Alien Set general",
+      "comment2": "Bloodcrow treasures",
+      "setID": "42",
+      "neededItems": "2",
+      "effects": "54&amp;25"
+    },
+    {
+      "ID": "156",
+      "comment1": "9 Piece Alien Set general",
+      "comment2": "Bloodcrow treasures",
+      "setID": "42",
+      "neededItems": "3",
+      "effects": "61&amp;20"
+    },
+    {
+      "ID": "157",
+      "comment1": "9 Piece Alien Set general",
+      "comment2": "Bloodcrow treasures",
+      "setID": "42",
+      "neededItems": "4",
+      "effects": "62&amp;20"
+    },
+    {
+      "ID": "158",
+      "comment1": "9 Piece Alien Set general",
+      "comment2": "Bloodcrow treasures",
+      "setID": "42",
+      "neededItems": "5",
+      "effects": "334&amp;20"
+    },
+    {
+      "ID": "159",
+      "comment1": "9 Piece Alien Set general",
+      "comment2": "Bloodcrow treasures",
+      "setID": "42",
+      "neededItems": "6",
+      "effects": "61&amp;25"
+    },
+    {
+      "ID": "160",
+      "comment1": "9 Piece Alien Set general",
+      "comment2": "Bloodcrow treasures",
+      "setID": "42",
+      "neededItems": "7",
+      "effects": "234&amp;15"
+    },
+    {
+      "ID": "161",
+      "comment1": "9 Piece Alien Set general",
+      "comment2": "Bloodcrow treasures",
+      "setID": "42",
+      "neededItems": "8",
+      "effects": "62&amp;25"
+    },
+    {
+      "ID": "162",
+      "comment1": "9 Piece Alien Set general",
+      "comment2": "Bloodcrow treasures",
+      "setID": "42",
+      "neededItems": "9",
+      "effects": "334&amp;45"
+    },
+    {
+      "ID": "232",
+      "comment1": "Halloween MCP 08 2017 9-Piece General",
+      "comment2": "Apparatus of the headsman summoning",
+      "setID": "57",
+      "neededItems": "3",
+      "effects": "57&amp;10"
+    },
+    {
+      "ID": "233",
+      "comment1": "Halloween MCP 08 2017 9-Piece General",
+      "comment2": "Apparatus of the headsman summoning",
+      "setID": "57",
+      "neededItems": "4",
+      "effects": "244&amp;20"
+    },
+    {
+      "ID": "234",
+      "comment1": "Halloween MCP 08 2017 9-Piece General",
+      "comment2": "Apparatus of the headsman summoning",
+      "setID": "57",
+      "neededItems": "5",
+      "effects": "245&amp;30"
+    },
+    {
+      "ID": "235",
+      "comment1": "Halloween MCP 08 2017 9-Piece General",
+      "comment2": "Apparatus of the headsman summoning",
+      "setID": "57",
+      "neededItems": "6",
+      "effects": "247&amp;30"
+    },
+    {
+      "ID": "236",
+      "comment1": "Halloween MCP 08 2017 9-Piece General",
+      "comment2": "Apparatus of the headsman summoning",
+      "setID": "57",
+      "neededItems": "7",
+      "effects": "61&amp;90"
+    },
+    {
+      "ID": "237",
+      "comment1": "Halloween MCP 08 2017 9-Piece General",
+      "comment2": "Apparatus of the headsman summoning",
+      "setID": "57",
+      "neededItems": "8",
+      "effects": "62&amp;90"
+    },
+    {
+      "ID": "238",
+      "comment1": "Halloween MCP 08 2017 9-Piece General",
+      "comment2": "Apparatus of the headsman summoning",
+      "setID": "57",
+      "neededItems": "9",
+      "effects": "243&amp;40"
+    },
+    {
+      "ID": "239",
+      "comment1": "Halloween MCP 08 2017 5-Piece general",
+      "comment2": "Tools of the woodland rangers",
+      "setID": "58",
+      "neededItems": "2",
+      "effects": "57&amp;10"
+    },
+    {
+      "ID": "240",
+      "comment1": "Halloween MCP 08 2017 5-Piece general",
+      "comment2": "Tools of the woodland rangers",
+      "setID": "58",
+      "neededItems": "3",
+      "effects": "54&amp;10"
+    },
+    {
+      "ID": "241",
+      "comment1": "Halloween MCP 08 2017 5-Piece general",
+      "comment2": "Tools of the woodland rangers",
+      "setID": "58",
+      "neededItems": "4",
+      "effects": "61&amp;80"
+    },
+    {
+      "ID": "242",
+      "comment1": "Halloween MCP 08 2017 5-Piece general",
+      "comment2": "Tools of the woodland rangers",
+      "setID": "58",
+      "neededItems": "5",
+      "effects": "62&amp;80"
+    },
+    {
+      "ID": "243",
+      "comment1": "Beginner Quest Chain 5-Piece general",
+      "comment2": "Artifacts of the Shadow King",
+      "setID": "59",
+      "neededItems": "2",
+      "effects": "66&amp;15"
+    },
+    {
+      "ID": "244",
+      "comment1": "Beginner Quest Chain 5-Piece general",
+      "comment2": "Artifacts of the Shadow King",
+      "setID": "59",
+      "neededItems": "3",
+      "effects": "62&amp;85"
+    },
+    {
+      "ID": "245",
+      "comment1": "Beginner Quest Chain 5-Piece general",
+      "comment2": "Artifacts of the Shadow King",
+      "setID": "59",
+      "neededItems": "4",
+      "effects": "334&amp;40"
+    },
+    {
+      "ID": "246",
+      "comment1": "Beginner Quest Chain 5-Piece general",
+      "comment2": "Artifacts of the Shadow King",
+      "setID": "59",
+      "neededItems": "5",
+      "effects": "61&amp;85"
+    },
+    {
+      "ID": "247",
+      "comment1": "9 Piece General Winter Set, MCP 09 2017",
+      "comment2": "Trove of the winter imp",
+      "setID": "60",
+      "neededItems": "2",
+      "effects": "59&amp;5"
+    },
+    {
+      "ID": "248",
+      "comment1": "9 Piece General Winter Set, MCP 09 2017",
+      "comment2": "Trove of the winter imp",
+      "setID": "60",
+      "neededItems": "3",
+      "effects": "58&amp;10"
+    },
+    {
+      "ID": "249",
+      "comment1": "9 Piece General Winter Set, MCP 09 2017",
+      "comment2": "Trove of the winter imp",
+      "setID": "60",
+      "neededItems": "4",
+      "effects": "244&amp;20"
+    },
+    {
+      "ID": "250",
+      "comment1": "9 Piece General Winter Set, MCP 09 2017",
+      "comment2": "Trove of the winter imp",
+      "setID": "60",
+      "neededItems": "5",
+      "effects": "245&amp;30"
+    },
+    {
+      "ID": "251",
+      "comment1": "9 Piece General Winter Set, MCP 09 2017",
+      "comment2": "Trove of the winter imp",
+      "setID": "60",
+      "neededItems": "6",
+      "effects": "61&amp;90"
+    },
+    {
+      "ID": "252",
+      "comment1": "9 Piece General Winter Set, MCP 09 2017",
+      "comment2": "Trove of the winter imp",
+      "setID": "60",
+      "neededItems": "7",
+      "effects": "247&amp;30"
+    },
+    {
+      "ID": "253",
+      "comment1": "9 Piece General Winter Set, MCP 09 2017",
+      "comment2": "Trove of the winter imp",
+      "setID": "60",
+      "neededItems": "8",
+      "effects": "62&amp;90"
+    },
+    {
+      "ID": "254",
+      "comment1": "9 Piece General Winter Set, MCP 09 2017",
+      "comment2": "Trove of the winter imp",
+      "setID": "60",
+      "neededItems": "9",
+      "effects": "334&amp;30"
+    },
+    {
+      "ID": "256",
+      "comment1": "9 Piece Baron Winter Set, MCP 09 2017",
+      "comment2": "Trinkets of the Everwinter Soldier",
+      "setID": "61",
+      "neededItems": "3",
+      "effects": "335&amp;10"
+    },
+    {
+      "ID": "257",
+      "comment1": "9 Piece Baron Winter Set, MCP 09 2017",
+      "comment2": "Trinkets of the Everwinter Soldier",
+      "setID": "61",
+      "neededItems": "4",
+      "effects": "8&amp;15"
+    },
+    {
+      "ID": "258",
+      "comment1": "9 Piece Baron Winter Set, MCP 09 2017",
+      "comment2": "Trinkets of the Everwinter Soldier",
+      "setID": "61",
+      "neededItems": "5",
+      "effects": "9&amp;15"
+    },
+    {
+      "ID": "259",
+      "comment1": "9 Piece Baron Winter Set, MCP 09 2017",
+      "comment2": "Trinkets of the Everwinter Soldier",
+      "setID": "61",
+      "neededItems": "6",
+      "effects": "10&amp;90"
+    },
+    {
+      "ID": "260",
+      "comment1": "9 Piece Baron Winter Set, MCP 09 2017",
+      "comment2": "Trinkets of the Everwinter Soldier",
+      "setID": "61",
+      "neededItems": "7",
+      "effects": "11&amp;90"
+    },
+    {
+      "ID": "261",
+      "comment1": "9 Piece Baron Winter Set, MCP 09 2017",
+      "comment2": "Trinkets of the Everwinter Soldier",
+      "setID": "61",
+      "neededItems": "8",
+      "effects": "7&amp;20"
+    },
+    {
+      "ID": "262",
+      "comment1": "9 Piece Baron Winter Set, MCP 09 2017",
+      "comment2": "Trinkets of the Everwinter Soldier",
+      "setID": "61",
+      "neededItems": "9",
+      "effects": "335&amp;15"
+    },
+    {
+      "ID": "493",
+      "comment1": "9 Piece General Winter Set, LTPE 2018",
+      "comment2": "Trove of the winter imp",
+      "setID": "101",
+      "neededItems": "4",
+      "effects": "58&amp;30"
+    },
+    {
+      "ID": "494",
+      "comment1": "9 Piece General Winter Set, LTPE 2018",
+      "comment2": "Trove of the winter imp",
+      "setID": "101",
+      "neededItems": "5",
+      "effects": "243&amp;30"
+    },
+    {
+      "ID": "495",
+      "comment1": "9 Piece General Winter Set, LTPE 2018",
+      "comment2": "Trove of the winter imp",
+      "setID": "101",
+      "neededItems": "6",
+      "effects": "61&amp;90"
+    },
+    {
+      "ID": "496",
+      "comment1": "9 Piece General Winter Set, LTPE 2018",
+      "comment2": "Trove of the winter imp",
+      "setID": "101",
+      "neededItems": "7",
+      "effects": "62&amp;90"
+    },
+    {
+      "ID": "497",
+      "comment1": "9 Piece General Winter Set, LTPE 2018",
+      "comment2": "Trove of the winter imp",
+      "setID": "101",
+      "neededItems": "8",
+      "effects": "66&amp;20"
+    },
+    {
+      "ID": "498",
+      "comment1": "9 Piece General Winter Set, LTPE 2018",
+      "comment2": "Trove of the winter imp",
+      "setID": "101",
+      "neededItems": "9",
+      "effects": "334&amp;50"
+    },
+    {
+      "ID": "499",
+      "comment1": "9 Piece Baron Winter Set, LTPE 2018",
+      "comment2": "Trinkets of the Everwinter Soldier",
+      "setID": "102",
+      "neededItems": "2",
+      "effects": "4&amp;10"
+    },
+    {
+      "ID": "500",
+      "comment1": "9 Piece Baron Winter Set, LTPE 2018",
+      "comment2": "Trinkets of the Everwinter Soldier",
+      "setID": "102",
+      "neededItems": "3",
+      "effects": "8&amp;30"
+    },
+    {
+      "ID": "501",
+      "comment1": "9 Piece Baron Winter Set, LTPE 2018",
+      "comment2": "Trinkets of the Everwinter Soldier",
+      "setID": "102",
+      "neededItems": "4",
+      "effects": "7&amp;30"
+    },
+    {
+      "ID": "502",
+      "comment1": "9 Piece Baron Winter Set, LTPE 2018",
+      "comment2": "Trinkets of the Everwinter Soldier",
+      "setID": "102",
+      "neededItems": "5",
+      "effects": "201&amp;5"
+    },
+    {
+      "ID": "503",
+      "comment1": "9 Piece Baron Winter Set, LTPE 2018",
+      "comment2": "Trinkets of the Everwinter Soldier",
+      "setID": "102",
+      "neededItems": "6",
+      "effects": "10&amp;90"
+    },
+    {
+      "ID": "504",
+      "comment1": "9 Piece Baron Winter Set, LTPE 2018",
+      "comment2": "Trinkets of the Everwinter Soldier",
+      "setID": "102",
+      "neededItems": "7",
+      "effects": "13&amp;20"
+    },
+    {
+      "ID": "505",
+      "comment1": "9 Piece Baron Winter Set, LTPE 2018",
+      "comment2": "Trinkets of the Everwinter Soldier",
+      "setID": "102",
+      "neededItems": "8",
+      "effects": "11&amp;90"
+    },
+    {
+      "ID": "506",
+      "comment1": "9 Piece Baron Winter Set, LTPE 2018",
+      "comment2": "Trinkets of the Everwinter Soldier",
+      "setID": "102",
+      "neededItems": "9",
+      "effects": "335&amp;40"
+    },
+    {
+      "ID": "287",
+      "comment1": "Christmas MCP 10 2017 9-Piece General",
+      "comment2": "Uniform of the nutcracker warrior",
+      "setID": "65",
+      "neededItems": "2",
+      "effects": "244&amp;30"
+    },
+    {
+      "ID": "288",
+      "comment1": "Christmas MCP 10 2017 9-Piece General",
+      "comment2": "Uniform of the nutcracker warrior",
+      "setID": "65",
+      "neededItems": "3",
+      "effects": "246&amp;20"
+    },
+    {
+      "ID": "289",
+      "comment1": "Christmas MCP 10 2017 9-Piece General",
+      "comment2": "Uniform of the nutcracker warrior",
+      "setID": "65",
+      "neededItems": "4",
+      "effects": "241&amp;20"
+    },
+    {
+      "ID": "290",
+      "comment1": "Christmas MCP 10 2017 9-Piece General",
+      "comment2": "Uniform of the nutcracker warrior",
+      "setID": "65",
+      "neededItems": "5",
+      "effects": "247&amp;20"
+    },
+    {
+      "ID": "291",
+      "comment1": "Christmas MCP 10 2017 9-Piece General",
+      "comment2": "Uniform of the nutcracker warrior",
+      "setID": "65",
+      "neededItems": "6",
+      "effects": "151&amp;25"
+    },
+    {
+      "ID": "292",
+      "comment1": "Christmas MCP 10 2017 9-Piece General",
+      "comment2": "Uniform of the nutcracker warrior",
+      "setID": "65",
+      "neededItems": "7",
+      "effects": "61&amp;90"
+    },
+    {
+      "ID": "293",
+      "comment1": "Christmas MCP 10 2017 9-Piece General",
+      "comment2": "Uniform of the nutcracker warrior",
+      "setID": "65",
+      "neededItems": "8",
+      "effects": "62&amp;90"
+    },
+    {
+      "ID": "294",
+      "comment1": "Christmas MCP 10 2017 9-Piece General",
+      "comment2": "Uniform of the nutcracker warrior",
+      "setID": "65",
+      "neededItems": "9",
+      "effects": "243&amp;30"
+    },
+    {
+      "ID": "507",
+      "comment1": "Christmas LTPE 2018 9-Piece General",
+      "comment2": "Uniform of the nutcracker warrior",
+      "setID": "103",
+      "neededItems": "2",
+      "effects": "61&amp;10"
+    },
+    {
+      "ID": "508",
+      "comment1": "Christmas LTPE 2018 9-Piece General",
+      "comment2": "Uniform of the nutcracker warrior",
+      "setID": "103",
+      "neededItems": "3",
+      "effects": "62&amp;10"
+    },
+    {
+      "ID": "509",
+      "comment1": "Christmas LTPE 2018 9-Piece General",
+      "comment2": "Uniform of the nutcracker warrior",
+      "setID": "103",
+      "neededItems": "4",
+      "effects": "54&amp;15"
+    },
+    {
+      "ID": "510",
+      "comment1": "Christmas LTPE 2018 9-Piece General",
+      "comment2": "Uniform of the nutcracker warrior",
+      "setID": "103",
+      "neededItems": "5",
+      "effects": "58&amp;50"
+    },
+    {
+      "ID": "511",
+      "comment1": "Christmas LTPE 2018 9-Piece General",
+      "comment2": "Uniform of the nutcracker warrior",
+      "setID": "103",
+      "neededItems": "6",
+      "effects": "59&amp;40"
+    },
+    {
+      "ID": "512",
+      "comment1": "Christmas LTPE 2018 9-Piece General",
+      "comment2": "Uniform of the nutcracker warrior",
+      "setID": "103",
+      "neededItems": "7",
+      "effects": "57&amp;50"
+    },
+    {
+      "ID": "513",
+      "comment1": "Christmas LTPE 2018 9-Piece General",
+      "comment2": "Uniform of the nutcracker warrior",
+      "setID": "103",
+      "neededItems": "8",
+      "effects": "334&amp;20"
+    },
+    {
+      "ID": "514",
+      "comment1": "Christmas LTPE 2018 9-Piece General",
+      "comment2": "Uniform of the nutcracker warrior",
+      "setID": "103",
+      "neededItems": "9",
+      "effects": "234&amp;60"
+    },
+    {
+      "ID": "295",
+      "comment1": "Christmas MCP 10 2017 5-Piece general",
+      "comment2": "Regalia of the gingerbread guard",
+      "setID": "66",
+      "neededItems": "2",
+      "effects": "247&amp;15"
+    },
+    {
+      "ID": "296",
+      "comment1": "Christmas MCP 10 2017 5-Piece general",
+      "comment2": "Regalia of the gingerbread guard",
+      "setID": "66",
+      "neededItems": "3",
+      "effects": "151&amp;20"
+    },
+    {
+      "ID": "297",
+      "comment1": "Christmas MCP 10 2017 5-Piece general",
+      "comment2": "Regalia of the gingerbread guard",
+      "setID": "66",
+      "neededItems": "4",
+      "effects": "61&amp;90"
+    },
+    {
+      "ID": "298",
+      "comment1": "Christmas MCP 10 2017 5-Piece general",
+      "comment2": "Regalia of the gingerbread guard",
+      "setID": "66",
+      "neededItems": "5",
+      "effects": "62&amp;90"
+    },
+    {
+      "ID": "263",
+      "comment1": "9 Piece General Set, 1st Monthly Campaign",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "62",
+      "neededItems": "2",
+      "effects": "58&amp;30"
+    },
+    {
+      "ID": "264",
+      "comment1": "9 Piece General Set, 1st Monthly Campaign",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "62",
+      "neededItems": "3",
+      "effects": "57&amp;30"
+    },
+    {
+      "ID": "265",
+      "comment1": "9 Piece General Set, 1st Monthly Campaign",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "62",
+      "neededItems": "4",
+      "effects": "53&amp;30"
+    },
+    {
+      "ID": "266",
+      "comment1": "9 Piece General Set, 1st Monthly Campaign",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "62",
+      "neededItems": "5",
+      "effects": "55&amp;30"
+    },
+    {
+      "ID": "267",
+      "comment1": "9 Piece General Set, 1st Monthly Campaign",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "62",
+      "neededItems": "6",
+      "effects": "59&amp;30"
+    },
+    {
+      "ID": "268",
+      "comment1": "9 Piece General Set, 1st Monthly Campaign",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "62",
+      "neededItems": "7",
+      "effects": "61&amp;90"
+    },
+    {
+      "ID": "269",
+      "comment1": "9 Piece General Set, 1st Monthly Campaign",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "62",
+      "neededItems": "8",
+      "effects": "62&amp;90"
+    },
+    {
+      "ID": "270",
+      "comment1": "9 Piece General Set, 1st Monthly Campaign",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "62",
+      "neededItems": "9",
+      "effects": "334&amp;80"
+    },
+    {
+      "ID": "271",
+      "comment1": "9 Piece General Set, Shapeshifter Activity",
+      "comment2": "Apparatus of the Summoners Apprentice",
+      "setID": "63",
+      "neededItems": "2",
+      "effects": "57&amp;30"
+    },
+    {
+      "ID": "272",
+      "comment1": "9 Piece General Set, Shapeshifter Activity",
+      "comment2": "Apparatus of the Summoners Apprentice",
+      "setID": "63",
+      "neededItems": "3",
+      "effects": "58&amp;30"
+    },
+    {
+      "ID": "273",
+      "comment1": "9 Piece General Set, Shapeshifter Activity",
+      "comment2": "Apparatus of the Summoners Apprentice",
+      "setID": "63",
+      "neededItems": "4",
+      "effects": "59&amp;25"
+    },
+    {
+      "ID": "274",
+      "comment1": "9 Piece General Set, Shapeshifter Activity",
+      "comment2": "Apparatus of the Summoners Apprentice",
+      "setID": "63",
+      "neededItems": "5",
+      "effects": "235&amp;40"
+    },
+    {
+      "ID": "275",
+      "comment1": "9 Piece General Set, Shapeshifter Activity",
+      "comment2": "Apparatus of the Summoners Apprentice",
+      "setID": "63",
+      "neededItems": "6",
+      "effects": "152&amp;10"
+    },
+    {
+      "ID": "276",
+      "comment1": "9 Piece General Set, Shapeshifter Activity",
+      "comment2": "Apparatus of the Summoners Apprentice",
+      "setID": "63",
+      "neededItems": "7",
+      "effects": "239&amp;25"
+    },
+    {
+      "ID": "277",
+      "comment1": "9 Piece General Set, Shapeshifter Activity",
+      "comment2": "Apparatus of the Summoners Apprentice",
+      "setID": "63",
+      "neededItems": "8",
+      "effects": "153&amp;10"
+    },
+    {
+      "ID": "278",
+      "comment1": "9 Piece General Set, Shapeshifter Activity",
+      "comment2": "Apparatus of the Summoners Apprentice",
+      "setID": "63",
+      "neededItems": "9",
+      "effects": "234&amp;40"
+    },
+    {
+      "ID": "279",
+      "comment1": "9 Piece General Set, Shapeshifter Ranking",
+      "comment2": "Materials of the Master Summoner",
+      "setID": "64",
+      "neededItems": "2",
+      "effects": "57&amp;30"
+    },
+    {
+      "ID": "280",
+      "comment1": "9 Piece General Set, Shapeshifter Ranking",
+      "comment2": "Materials of the Master Summoner",
+      "setID": "64",
+      "neededItems": "3",
+      "effects": "58&amp;30"
+    },
+    {
+      "ID": "281",
+      "comment1": "9 Piece General Set, Shapeshifter Ranking",
+      "comment2": "Materials of the Master Summoner",
+      "setID": "64",
+      "neededItems": "4",
+      "effects": "59&amp;25"
+    },
+    {
+      "ID": "282",
+      "comment1": "9 Piece General Set, Shapeshifter Ranking",
+      "comment2": "Materials of the Master Summoner",
+      "setID": "64",
+      "neededItems": "5",
+      "effects": "235&amp;40"
+    },
+    {
+      "ID": "283",
+      "comment1": "9 Piece General Set, Shapeshifter Ranking",
+      "comment2": "Materials of the Master Summoner",
+      "setID": "64",
+      "neededItems": "6",
+      "effects": "152&amp;20"
+    },
+    {
+      "ID": "284",
+      "comment1": "9 Piece General Set, Shapeshifter Ranking",
+      "comment2": "Materials of the Master Summoner",
+      "setID": "64",
+      "neededItems": "7",
+      "effects": "239&amp;30"
+    },
+    {
+      "ID": "285",
+      "comment1": "9 Piece General Set, Shapeshifter Ranking",
+      "comment2": "Materials of the Master Summoner",
+      "setID": "64",
+      "neededItems": "8",
+      "effects": "153&amp;20"
+    },
+    {
+      "ID": "286",
+      "comment1": "9 Piece General Set, Shapeshifter Ranking",
+      "comment2": "Materials of the Master Summoner",
+      "setID": "64",
+      "neededItems": "9",
+      "effects": "234&amp;50"
+    },
+    {
+      "ID": "323",
+      "comment1": "5 Piece General Set, Shapeshifter Temporary",
+      "comment2": "Armor of the rune guards",
+      "setID": "70",
+      "neededItems": "2",
+      "effects": "53&amp;80"
+    },
+    {
+      "ID": "324",
+      "comment1": "5 Piece General Set, Shapeshifter Temporary",
+      "comment2": "Armor of the rune guards",
+      "setID": "70",
+      "neededItems": "3",
+      "effects": "337&amp;25"
+    },
+    {
+      "ID": "325",
+      "comment1": "5 Piece General Set, Shapeshifter Temporary",
+      "comment2": "Armor of the rune guards",
+      "setID": "70",
+      "neededItems": "4",
+      "effects": "338&amp;70"
+    },
+    {
+      "ID": "326",
+      "comment1": "5 Piece General Set, Shapeshifter Temporary",
+      "comment2": "Armor of the rune guards",
+      "setID": "70",
+      "neededItems": "5",
+      "effects": "336&amp;25"
+    },
+    {
+      "ID": "375",
+      "comment1": "5 Piece General Set, Nomads Temporary",
+      "comment2": "?",
+      "setID": "77",
+      "neededItems": "2",
+      "effects": "16&amp;20"
+    },
+    {
+      "ID": "376",
+      "comment1": "5 Piece General Set, Nomads Temporary",
+      "comment2": "?",
+      "setID": "77",
+      "neededItems": "3",
+      "effects": "343&amp;30"
+    },
+    {
+      "ID": "377",
+      "comment1": "5 Piece General Set, Nomads Temporary",
+      "comment2": "?",
+      "setID": "77",
+      "neededItems": "4",
+      "effects": "14&amp;110"
+    },
+    {
+      "ID": "378",
+      "comment1": "5 Piece General Set, Nomads Temporary",
+      "comment2": "?",
+      "setID": "77",
+      "neededItems": "5",
+      "effects": "339&amp;30"
+    },
+    {
+      "ID": "379",
+      "comment1": "5 Piece General Set, Samurais Temporary",
+      "comment2": "Equipment of the demon",
+      "setID": "79",
+      "neededItems": "2",
+      "effects": "357&amp;20"
+    },
+    {
+      "ID": "380",
+      "comment1": "5 Piece General Set, Samurais Temporary",
+      "comment2": "Equipment of the demon",
+      "setID": "79",
+      "neededItems": "3",
+      "effects": "356&amp;20"
+    },
+    {
+      "ID": "381",
+      "comment1": "5 Piece General Set, Samurais Temporary",
+      "comment2": "Equipment of the demon",
+      "setID": "79",
+      "neededItems": "4",
+      "effects": "355&amp;110"
+    },
+    {
+      "ID": "382",
+      "comment1": "5 Piece General Set, Samurais Temporary",
+      "comment2": "Equipment of the demon",
+      "setID": "79",
+      "neededItems": "5",
+      "effects": "341&amp;30"
+    },
+    {
+      "ID": "388",
+      "comment1": "5 Piece General Set, Beri Kingdoms Temporary",
+      "comment2": "The bears strength",
+      "setID": "81",
+      "neededItems": "3",
+      "effects": "352&amp;20"
+    },
+    {
+      "ID": "389",
+      "comment1": "5 Piece General Set, Beri Kingdoms Temporary",
+      "comment2": "The bears strength",
+      "setID": "81",
+      "neededItems": "4",
+      "effects": "354&amp;110"
+    },
+    {
+      "ID": "390",
+      "comment1": "5 Piece General Set, Beri Kingdoms Temporary",
+      "comment2": "The bears strength",
+      "setID": "81",
+      "neededItems": "5",
+      "effects": "353&amp;30"
+    },
+    {
+      "ID": "391",
+      "comment1": "5 Piece General Set, Glorys Temporary",
+      "comment2": "Armor of the foreign warlord",
+      "setID": "82",
+      "neededItems": "2",
+      "effects": "59&amp;60"
+    },
+    {
+      "ID": "392",
+      "comment1": "5 Piece General Set, Glorys Temporary",
+      "comment2": "Armor of the foreign warlord",
+      "setID": "82",
+      "neededItems": "3",
+      "effects": "346&amp;40"
+    },
+    {
+      "ID": "393",
+      "comment1": "5 Piece General Set, Glorys Temporary",
+      "comment2": "Armor of the foreign warlord",
+      "setID": "82",
+      "neededItems": "4",
+      "effects": "364&amp;60"
+    },
+    {
+      "ID": "394",
+      "comment1": "5 Piece General Set, Glorys Temporary",
+      "comment2": "Armor of the foreign warlord",
+      "setID": "82",
+      "neededItems": "5",
+      "effects": "345&amp;120"
+    },
+    {
+      "ID": "395",
+      "comment1": "ShapeShifter Baron Weak",
+      "comment2": "Garments of the shadow sorcerer",
+      "setID": "83",
+      "neededItems": "2",
+      "effects": "8&amp;15"
+    },
+    {
+      "ID": "396",
+      "comment1": "ShapeShifter Baron Weak",
+      "comment2": "Garments of the shadow sorcerer",
+      "setID": "83",
+      "neededItems": "3",
+      "effects": "7&amp;15"
+    },
+    {
+      "ID": "397",
+      "comment1": "ShapeShifter Baron Weak",
+      "comment2": "Garments of the shadow sorcerer",
+      "setID": "83",
+      "neededItems": "4",
+      "effects": "13&amp;20"
+    },
+    {
+      "ID": "398",
+      "comment1": "ShapeShifter Baron Weak",
+      "comment2": "Garments of the shadow sorcerer",
+      "setID": "83",
+      "neededItems": "5",
+      "effects": "335&amp;20"
+    },
+    {
+      "ID": "399",
+      "comment1": "ShapeShifter Baron Weak",
+      "comment2": "Garments of the shadow sorcerer",
+      "setID": "83",
+      "neededItems": "6",
+      "effects": "19&amp;10"
+    },
+    {
+      "ID": "400",
+      "comment1": "ShapeShifter Baron Weak",
+      "comment2": "Garments of the shadow sorcerer",
+      "setID": "83",
+      "neededItems": "7",
+      "effects": "267&amp;30"
+    },
+    {
+      "ID": "401",
+      "comment1": "ShapeShifter Baron Weak",
+      "comment2": "Garments of the shadow sorcerer",
+      "setID": "83",
+      "neededItems": "8",
+      "effects": "20&amp;10"
+    },
+    {
+      "ID": "402",
+      "comment1": "ShapeShifter Baron Weak",
+      "comment2": "Garments of the shadow sorcerer",
+      "setID": "83",
+      "neededItems": "9",
+      "effects": "21&amp;20"
+    },
+    {
+      "ID": "515",
+      "comment1": "ShapeShifter Baron Average",
+      "comment2": "Garments of the shadow sorcerer",
+      "setID": "94",
+      "neededItems": "2",
+      "effects": "8&amp;15"
+    },
+    {
+      "ID": "516",
+      "comment1": "ShapeShifter Baron Average",
+      "comment2": "Garments of the shadow sorcerer",
+      "setID": "94",
+      "neededItems": "3",
+      "effects": "7&amp;15"
+    },
+    {
+      "ID": "517",
+      "comment1": "ShapeShifter Baron Average",
+      "comment2": "Garments of the shadow sorcerer",
+      "setID": "94",
+      "neededItems": "4",
+      "effects": "13&amp;20"
+    },
+    {
+      "ID": "518",
+      "comment1": "ShapeShifter Baron Average",
+      "comment2": "Garments of the shadow sorcerer",
+      "setID": "94",
+      "neededItems": "5",
+      "effects": "335&amp;25"
+    },
+    {
+      "ID": "519",
+      "comment1": "ShapeShifter Baron Average",
+      "comment2": "Garments of the shadow sorcerer",
+      "setID": "94",
+      "neededItems": "6",
+      "effects": "19&amp;15"
+    },
+    {
+      "ID": "520",
+      "comment1": "ShapeShifter Baron Average",
+      "comment2": "Garments of the shadow sorcerer",
+      "setID": "94",
+      "neededItems": "7",
+      "effects": "267&amp;30"
+    },
+    {
+      "ID": "521",
+      "comment1": "ShapeShifter Baron Average",
+      "comment2": "Garments of the shadow sorcerer",
+      "setID": "94",
+      "neededItems": "8",
+      "effects": "20&amp;15"
+    },
+    {
+      "ID": "522",
+      "comment1": "ShapeShifter Baron Average",
+      "comment2": "Garments of the shadow sorcerer",
+      "setID": "94",
+      "neededItems": "9",
+      "effects": "21&amp;30"
+    },
+    {
+      "ID": "523",
+      "comment1": "ShapeShifter Baron Strong",
+      "comment2": "Garments of the shadow sorcerer",
+      "setID": "95",
+      "neededItems": "2",
+      "effects": "8&amp;15"
+    },
+    {
+      "ID": "524",
+      "comment1": "ShapeShifter Baron Strong",
+      "comment2": "Garments of the shadow sorcerer",
+      "setID": "95",
+      "neededItems": "3",
+      "effects": "7&amp;15"
+    },
+    {
+      "ID": "525",
+      "comment1": "ShapeShifter Baron Strong",
+      "comment2": "Garments of the shadow sorcerer",
+      "setID": "95",
+      "neededItems": "4",
+      "effects": "13&amp;20"
+    },
+    {
+      "ID": "526",
+      "comment1": "ShapeShifter Baron Strong",
+      "comment2": "Garments of the shadow sorcerer",
+      "setID": "95",
+      "neededItems": "5",
+      "effects": "335&amp;30"
+    },
+    {
+      "ID": "527",
+      "comment1": "ShapeShifter Baron Strong",
+      "comment2": "Garments of the shadow sorcerer",
+      "setID": "95",
+      "neededItems": "6",
+      "effects": "19&amp;20"
+    },
+    {
+      "ID": "528",
+      "comment1": "ShapeShifter Baron Strong",
+      "comment2": "Garments of the shadow sorcerer",
+      "setID": "95",
+      "neededItems": "7",
+      "effects": "267&amp;30"
+    },
+    {
+      "ID": "529",
+      "comment1": "ShapeShifter Baron Strong",
+      "comment2": "Garments of the shadow sorcerer",
+      "setID": "95",
+      "neededItems": "8",
+      "effects": "20&amp;20"
+    },
+    {
+      "ID": "530",
+      "comment1": "ShapeShifter Baron Strong",
+      "comment2": "Garments of the shadow sorcerer",
+      "setID": "95",
+      "neededItems": "9",
+      "effects": "21&amp;40"
+    },
+    {
+      "ID": "531",
+      "comment1": "OuterRealmScoring",
+      "comment2": "Temp Server Anti Charge Camp Set",
+      "setID": "104",
+      "neededItems": "5",
+      "effects": "27&amp;100,28&amp;100,29&amp;140,25&amp;140,26&amp;100"
+    },
+    {
+      "ID": "223",
+      "comment1": "Anti Resource Tower Effect",
+      "setID": "105",
+      "neededItems": "2",
+      "effects": "34&amp;50"
+    },
+    {
+      "ID": "224",
+      "comment1": "Anti Resource Tower Effect",
+      "setID": "105",
+      "neededItems": "3",
+      "effects": "35&amp;50"
+    },
+    {
+      "ID": "225",
+      "comment1": "Anti Resource Tower Effect",
+      "setID": "105",
+      "neededItems": "4",
+      "effects": "36&amp;50"
+    },
+    {
+      "ID": "404",
+      "comment1": "KingdomCup BON SR0/SL1",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "84",
+      "neededItems": "3",
+      "effects": "53&amp;15"
+    },
+    {
+      "ID": "405",
+      "comment1": "KingdomCup BON SR0/SL1",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "84",
+      "neededItems": "4",
+      "effects": "243&amp;10"
+    },
+    {
+      "ID": "406",
+      "comment1": "KingdomCup BON SR0/SL1",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "84",
+      "neededItems": "5",
+      "effects": "353&amp;10"
+    },
+    {
+      "ID": "407",
+      "comment1": "KingdomCup BON SR0/SL1",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "84",
+      "neededItems": "6",
+      "effects": "240&amp;10"
+    },
+    {
+      "ID": "408",
+      "comment1": "KingdomCup BON SR0/SL1",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "84",
+      "neededItems": "7",
+      "effects": "339&amp;10"
+    },
+    {
+      "ID": "409",
+      "comment1": "KingdomCup BON SR0/SL1",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "84",
+      "neededItems": "8",
+      "effects": "241&amp;10"
+    },
+    {
+      "ID": "410",
+      "comment1": "KingdomCup BON SR0/SL1",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "84",
+      "neededItems": "9",
+      "effects": "364&amp;35"
+    },
+    {
+      "ID": "411",
+      "comment1": "KingdomCup BON SR0/SL5",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "85",
+      "neededItems": "2",
+      "effects": "53&amp;20"
+    },
+    {
+      "ID": "412",
+      "comment1": "KingdomCup BON SR0/SL5",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "85",
+      "neededItems": "3",
+      "effects": "334&amp;10"
+    },
+    {
+      "ID": "413",
+      "comment1": "KingdomCup BON SR0/SL5",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "85",
+      "neededItems": "4",
+      "effects": "243&amp;15"
+    },
+    {
+      "ID": "414",
+      "comment1": "KingdomCup BON SR0/SL5",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "85",
+      "neededItems": "5",
+      "effects": "353&amp;10"
+    },
+    {
+      "ID": "415",
+      "comment1": "KingdomCup BON SR0/SL5",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "85",
+      "neededItems": "6",
+      "effects": "240&amp;15"
+    },
+    {
+      "ID": "416",
+      "comment1": "KingdomCup BON SR0/SL5",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "85",
+      "neededItems": "7",
+      "effects": "339&amp;10"
+    },
+    {
+      "ID": "417",
+      "comment1": "KingdomCup BON SR0/SL5",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "85",
+      "neededItems": "8",
+      "effects": "241&amp;15"
+    },
+    {
+      "ID": "418",
+      "comment1": "KingdomCup BON SR0/SL5",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "85",
+      "neededItems": "9",
+      "effects": "364&amp;40"
+    },
+    {
+      "ID": "419",
+      "comment1": "KingdomCup BON SR1/SL1",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "86",
+      "neededItems": "2",
+      "effects": "53&amp;25"
+    },
+    {
+      "ID": "420",
+      "comment1": "KingdomCup BON SR1/SL1",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "86",
+      "neededItems": "3",
+      "effects": "334&amp;20"
+    },
+    {
+      "ID": "421",
+      "comment1": "KingdomCup BON SR1/SL1",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "86",
+      "neededItems": "4",
+      "effects": "243&amp;25"
+    },
+    {
+      "ID": "422",
+      "comment1": "KingdomCup BON SR1/SL1",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "86",
+      "neededItems": "5",
+      "effects": "353&amp;15"
+    },
+    {
+      "ID": "423",
+      "comment1": "KingdomCup BON SR1/SL1",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "86",
+      "neededItems": "6",
+      "effects": "240&amp;20"
+    },
+    {
+      "ID": "424",
+      "comment1": "KingdomCup BON SR1/SL1",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "86",
+      "neededItems": "7",
+      "effects": "339&amp;15"
+    },
+    {
+      "ID": "425",
+      "comment1": "KingdomCup BON SR1/SL1",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "86",
+      "neededItems": "8",
+      "effects": "241&amp;20"
+    },
+    {
+      "ID": "426",
+      "comment1": "KingdomCup BON SR1/SL1",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "86",
+      "neededItems": "9",
+      "effects": "364&amp;45"
+    },
+    {
+      "ID": "427",
+      "comment1": "KingdomCup BON SR1/SL5",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "87",
+      "neededItems": "2",
+      "effects": "53&amp;25"
+    },
+    {
+      "ID": "428",
+      "comment1": "KingdomCup BON SR1/SL5",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "87",
+      "neededItems": "3",
+      "effects": "334&amp;25"
+    },
+    {
+      "ID": "429",
+      "comment1": "KingdomCup BON SR1/SL5",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "87",
+      "neededItems": "4",
+      "effects": "243&amp;25"
+    },
+    {
+      "ID": "430",
+      "comment1": "KingdomCup BON SR1/SL5",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "87",
+      "neededItems": "5",
+      "effects": "353&amp;20"
+    },
+    {
+      "ID": "431",
+      "comment1": "KingdomCup BON SR1/SL5",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "87",
+      "neededItems": "6",
+      "effects": "240&amp;20"
+    },
+    {
+      "ID": "432",
+      "comment1": "KingdomCup BON SR1/SL5",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "87",
+      "neededItems": "7",
+      "effects": "339&amp;20"
+    },
+    {
+      "ID": "433",
+      "comment1": "KingdomCup BON SR1/SL5",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "87",
+      "neededItems": "8",
+      "effects": "241&amp;20"
+    },
+    {
+      "ID": "434",
+      "comment1": "KingdomCup BON SR1/SL5",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "87",
+      "neededItems": "9",
+      "effects": "364&amp;50"
+    },
+    {
+      "ID": "435",
+      "comment1": "KingdomCup BON SR2/SL1",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "88",
+      "neededItems": "2",
+      "effects": "53&amp;25"
+    },
+    {
+      "ID": "436",
+      "comment1": "KingdomCup BON SR2/SL1",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "88",
+      "neededItems": "3",
+      "effects": "334&amp;25"
+    },
+    {
+      "ID": "437",
+      "comment1": "KingdomCup BON SR2/SL1",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "88",
+      "neededItems": "4",
+      "effects": "243&amp;25"
+    },
+    {
+      "ID": "438",
+      "comment1": "KingdomCup BON SR2/SL1",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "88",
+      "neededItems": "5",
+      "effects": "353&amp;20"
+    },
+    {
+      "ID": "439",
+      "comment1": "KingdomCup BON SR2/SL1",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "88",
+      "neededItems": "6",
+      "effects": "240&amp;25"
+    },
+    {
+      "ID": "440",
+      "comment1": "KingdomCup BON SR2/SL1",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "88",
+      "neededItems": "7",
+      "effects": "339&amp;20"
+    },
+    {
+      "ID": "441",
+      "comment1": "KingdomCup BON SR2/SL1",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "88",
+      "neededItems": "8",
+      "effects": "241&amp;25"
+    },
+    {
+      "ID": "442",
+      "comment1": "KingdomCup BON SR2/SL1",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "88",
+      "neededItems": "9",
+      "effects": "364&amp;50"
+    },
+    {
+      "ID": "443",
+      "comment1": "KingdomCup BON SR2/SL5",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "89",
+      "neededItems": "2",
+      "effects": "53&amp;25"
+    },
+    {
+      "ID": "444",
+      "comment1": "KingdomCup BON SR2/SL5",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "89",
+      "neededItems": "3",
+      "effects": "334&amp;25"
+    },
+    {
+      "ID": "445",
+      "comment1": "KingdomCup BON SR2/SL5",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "89",
+      "neededItems": "4",
+      "effects": "243&amp;25"
+    },
+    {
+      "ID": "446",
+      "comment1": "KingdomCup BON SR2/SL5",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "89",
+      "neededItems": "5",
+      "effects": "353&amp;20"
+    },
+    {
+      "ID": "447",
+      "comment1": "KingdomCup BON SR2/SL5",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "89",
+      "neededItems": "6",
+      "effects": "240&amp;25"
+    },
+    {
+      "ID": "448",
+      "comment1": "KingdomCup BON SR2/SL5",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "89",
+      "neededItems": "7",
+      "effects": "339&amp;20"
+    },
+    {
+      "ID": "449",
+      "comment1": "KingdomCup BON SR2/SL5",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "89",
+      "neededItems": "8",
+      "effects": "241&amp;25"
+    },
+    {
+      "ID": "450",
+      "comment1": "KingdomCup BON SR2/SL5",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "89",
+      "neededItems": "9",
+      "effects": "364&amp;55"
+    },
+    {
+      "ID": "451",
+      "comment1": "KingdomCup BON SR2/SL9",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "90",
+      "neededItems": "2",
+      "effects": "53&amp;25"
+    },
+    {
+      "ID": "452",
+      "comment1": "KingdomCup BON SR2/SL9",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "90",
+      "neededItems": "3",
+      "effects": "334&amp;25"
+    },
+    {
+      "ID": "453",
+      "comment1": "KingdomCup BON SR2/SL9",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "90",
+      "neededItems": "4",
+      "effects": "243&amp;25"
+    },
+    {
+      "ID": "454",
+      "comment1": "KingdomCup BON SR2/SL9",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "90",
+      "neededItems": "5",
+      "effects": "353&amp;25"
+    },
+    {
+      "ID": "455",
+      "comment1": "KingdomCup BON SR2/SL9",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "90",
+      "neededItems": "6",
+      "effects": "240&amp;25"
+    },
+    {
+      "ID": "456",
+      "comment1": "KingdomCup BON SR2/SL9",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "90",
+      "neededItems": "7",
+      "effects": "339&amp;25"
+    },
+    {
+      "ID": "457",
+      "comment1": "KingdomCup BON SR2/SL9",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "90",
+      "neededItems": "8",
+      "effects": "241&amp;25"
+    },
+    {
+      "ID": "458",
+      "comment1": "KingdomCup BON SR2/SL9",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "90",
+      "neededItems": "9",
+      "effects": "364&amp;55"
+    },
+    {
+      "ID": "459",
+      "comment1": "KingdomCup BON SR3/SL1",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "91",
+      "neededItems": "2",
+      "effects": "53&amp;25"
+    },
+    {
+      "ID": "460",
+      "comment1": "KingdomCup BON SR3/SL1",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "91",
+      "neededItems": "3",
+      "effects": "334&amp;25"
+    },
+    {
+      "ID": "461",
+      "comment1": "KingdomCup BON SR3/SL1",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "91",
+      "neededItems": "4",
+      "effects": "243&amp;30"
+    },
+    {
+      "ID": "462",
+      "comment1": "KingdomCup BON SR3/SL1",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "91",
+      "neededItems": "5",
+      "effects": "353&amp;25"
+    },
+    {
+      "ID": "463",
+      "comment1": "KingdomCup BON SR3/SL1",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "91",
+      "neededItems": "6",
+      "effects": "240&amp;25"
+    },
+    {
+      "ID": "464",
+      "comment1": "KingdomCup BON SR3/SL1",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "91",
+      "neededItems": "7",
+      "effects": "339&amp;25"
+    },
+    {
+      "ID": "465",
+      "comment1": "KingdomCup BON SR3/SL1",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "91",
+      "neededItems": "8",
+      "effects": "241&amp;25"
+    },
+    {
+      "ID": "466",
+      "comment1": "KingdomCup BON SR3/SL1",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "91",
+      "neededItems": "9",
+      "effects": "364&amp;60"
+    },
+    {
+      "ID": "467",
+      "comment1": "KingdomCup BON SR3/SL9",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "92",
+      "neededItems": "2",
+      "effects": "53&amp;25"
+    },
+    {
+      "ID": "468",
+      "comment1": "KingdomCup BON SR3/SL9",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "92",
+      "neededItems": "3",
+      "effects": "334&amp;25"
+    },
+    {
+      "ID": "469",
+      "comment1": "KingdomCup BON SR3/SL9",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "92",
+      "neededItems": "4",
+      "effects": "243&amp;30"
+    },
+    {
+      "ID": "470",
+      "comment1": "KingdomCup BON SR3/SL9",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "92",
+      "neededItems": "5",
+      "effects": "353&amp;30"
+    },
+    {
+      "ID": "471",
+      "comment1": "KingdomCup BON SR3/SL9",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "92",
+      "neededItems": "6",
+      "effects": "240&amp;25"
+    },
+    {
+      "ID": "472",
+      "comment1": "KingdomCup BON SR3/SL9",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "92",
+      "neededItems": "7",
+      "effects": "339&amp;30"
+    },
+    {
+      "ID": "473",
+      "comment1": "KingdomCup BON SR3/SL9",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "92",
+      "neededItems": "8",
+      "effects": "241&amp;25"
+    },
+    {
+      "ID": "474",
+      "comment1": "KingdomCup BON SR3/SL9",
+      "comment2": "Artifacts of the Phoenix Knight",
+      "setID": "92",
+      "neededItems": "9",
+      "effects": "364&amp;60"
+    },
+    {
+      "ID": "315",
+      "comment1": "9 Piece General Set, St. PatrickS LTPE (3/2018)",
+      "comment2": "Garb of emerald legends",
+      "setID": "69",
+      "neededItems": "2",
+      "effects": "240&amp;5"
+    },
+    {
+      "ID": "316",
+      "comment1": "9 Piece General Set, St. PatrickS LTPE (3/2018)",
+      "comment2": "Garb of emerald legends",
+      "setID": "69",
+      "neededItems": "3",
+      "effects": "61&amp;10"
+    },
+    {
+      "ID": "317",
+      "comment1": "9 Piece General Set, St. PatrickS LTPE (3/2018)",
+      "comment2": "Garb of emerald legends",
+      "setID": "69",
+      "neededItems": "4",
+      "effects": "62&amp;10"
+    },
+    {
+      "ID": "318",
+      "comment1": "9 Piece General Set, St. PatrickS LTPE (3/2018)",
+      "comment2": "Garb of emerald legends",
+      "setID": "69",
+      "neededItems": "5",
+      "effects": "243&amp;20"
+    },
+    {
+      "ID": "319",
+      "comment1": "9 Piece General Set, St. PatrickS LTPE (3/2018)",
+      "comment2": "Garb of emerald legends",
+      "setID": "69",
+      "neededItems": "6",
+      "effects": "247&amp;20"
+    },
+    {
+      "ID": "320",
+      "comment1": "9 Piece General Set, St. PatrickS LTPE (3/2018)",
+      "comment2": "Garb of emerald legends",
+      "setID": "69",
+      "neededItems": "7",
+      "effects": "245&amp;25"
+    },
+    {
+      "ID": "321",
+      "comment1": "9 Piece General Set, St. PatrickS LTPE (3/2018)",
+      "comment2": "Garb of emerald legends",
+      "setID": "69",
+      "neededItems": "8",
+      "effects": "246&amp;30"
+    },
+    {
+      "ID": "322",
+      "comment1": "9 Piece General Set, St. PatrickS LTPE (3/2018)",
+      "comment2": "Garb of emerald legends",
+      "setID": "69",
+      "neededItems": "9",
+      "effects": "244&amp;35"
+    },
+    {
+      "ID": "367",
+      "comment1": "9 Piece General Set, Nomads (4/2018)",
+      "comment2": "Regalia of the Nomadic Raider",
+      "setID": "76",
+      "neededItems": "2",
+      "effects": "17&amp;20"
+    },
+    {
+      "ID": "368",
+      "comment1": "9 Piece General Set, Nomads (4/2018)",
+      "comment2": "Regalia of the Nomadic Raider",
+      "setID": "76",
+      "neededItems": "3",
+      "effects": "15&amp;20"
+    },
+    {
+      "ID": "369",
+      "comment1": "9 Piece General Set, Nomads (4/2018)",
+      "comment2": "Regalia of the Nomadic Raider",
+      "setID": "76",
+      "neededItems": "4",
+      "effects": "53&amp;35"
+    },
+    {
+      "ID": "370",
+      "comment1": "9 Piece General Set, Nomads (4/2018)",
+      "comment2": "Regalia of the Nomadic Raider",
+      "setID": "76",
+      "neededItems": "5",
+      "effects": "14&amp;20"
+    },
+    {
+      "ID": "371",
+      "comment1": "9 Piece General Set, Nomads (4/2018)",
+      "comment2": "Regalia of the Nomadic Raider",
+      "setID": "76",
+      "neededItems": "6",
+      "effects": "16&amp;10"
+    },
+    {
+      "ID": "372",
+      "comment1": "9 Piece General Set, Nomads (4/2018)",
+      "comment2": "Regalia of the Nomadic Raider",
+      "setID": "76",
+      "neededItems": "7",
+      "effects": "14&amp;70"
+    },
+    {
+      "ID": "373",
+      "comment1": "9 Piece General Set, Nomads (4/2018)",
+      "comment2": "Regalia of the Nomadic Raider",
+      "setID": "76",
+      "neededItems": "8",
+      "effects": "343&amp;10"
+    },
+    {
+      "ID": "374",
+      "comment1": "9 Piece General Set, Nomads (4/2018)",
+      "comment2": "Regalia of the Nomadic Raider",
+      "setID": "76",
+      "neededItems": "9",
+      "effects": "339&amp;10"
+    },
+    {
+      "ID": "329",
+      "comment1": "9 Piece General Set, Spring LTPE (4/2018)",
+      "comment2": "Artifacts of the new bloom",
+      "setID": "71",
+      "neededItems": "4",
+      "effects": "53&amp;20"
+    },
+    {
+      "ID": "330",
+      "comment1": "9 Piece General Set, Spring LTPE (4/2018)",
+      "comment2": "Artifacts of the new bloom",
+      "setID": "71",
+      "neededItems": "5",
+      "effects": "55&amp;30"
+    },
+    {
+      "ID": "331",
+      "comment1": "9 Piece General Set, Spring LTPE (4/2018)",
+      "comment2": "Artifacts of the new bloom",
+      "setID": "71",
+      "neededItems": "6",
+      "effects": "59&amp;30"
+    },
+    {
+      "ID": "332",
+      "comment1": "9 Piece General Set, Spring LTPE (4/2018)",
+      "comment2": "Artifacts of the new bloom",
+      "setID": "71",
+      "neededItems": "7",
+      "effects": "234&amp;50"
+    },
+    {
+      "ID": "333",
+      "comment1": "9 Piece General Set, Spring LTPE (4/2018)",
+      "comment2": "Artifacts of the new bloom",
+      "setID": "71",
+      "neededItems": "8",
+      "effects": "152&amp;10"
+    },
+    {
+      "ID": "334",
+      "comment1": "9 Piece General Set, Spring LTPE (4/2018)",
+      "comment2": "Artifacts of the new bloom",
+      "setID": "71",
+      "neededItems": "9",
+      "effects": "153&amp;10"
+    },
+    {
+      "ID": "338",
+      "comment1": "9 Piece Baron Set, Spring LTPE (4/2018)",
+      "comment2": "Armor of the woodland nymphs",
+      "setID": "72",
+      "neededItems": "5",
+      "effects": "13&amp;10"
+    },
+    {
+      "ID": "339",
+      "comment1": "9 Piece Baron Set, Spring LTPE (4/2018)",
+      "comment2": "Armor of the woodland nymphs",
+      "setID": "72",
+      "neededItems": "6",
+      "effects": "335&amp;15"
+    },
+    {
+      "ID": "340",
+      "comment1": "9 Piece Baron Set, Spring LTPE (4/2018)",
+      "comment2": "Armor of the woodland nymphs",
+      "setID": "72",
+      "neededItems": "7",
+      "effects": "335&amp;15"
+    },
+    {
+      "ID": "341",
+      "comment1": "9 Piece Baron Set, Spring LTPE (4/2018)",
+      "comment2": "Armor of the woodland nymphs",
+      "setID": "72",
+      "neededItems": "8",
+      "effects": "11&amp;90"
+    },
+    {
+      "ID": "342",
+      "comment1": "9 Piece Baron Set, Spring LTPE (4/2018)",
+      "comment2": "Armor of the woodland nymphs",
+      "setID": "72",
+      "neededItems": "9",
+      "effects": "202&amp;20"
+    },
+    {
+      "ID": "476",
+      "comment1": "9 Piece General Set, Summer LTPE (7/2018)",
+      "comment2": "Treasures of the elephant cult",
+      "setID": "93",
+      "neededItems": "3",
+      "effects": "240&amp;5"
+    },
+    {
+      "ID": "477",
+      "comment1": "9 Piece General Set, Summer LTPE (7/2018)",
+      "comment2": "Treasures of the elephant cult",
+      "setID": "93",
+      "neededItems": "4",
+      "effects": "241&amp;5"
+    },
+    {
+      "ID": "478",
+      "comment1": "9 Piece General Set, Summer LTPE (7/2018)",
+      "comment2": "Treasures of the elephant cult",
+      "setID": "93",
+      "neededItems": "5",
+      "effects": "244&amp;25"
+    },
+    {
+      "ID": "479",
+      "comment1": "9 Piece General Set, Summer LTPE (7/2018)",
+      "comment2": "Treasures of the elephant cult",
+      "setID": "93",
+      "neededItems": "6",
+      "effects": "247&amp;15"
+    },
+    {
+      "ID": "480",
+      "comment1": "9 Piece General Set, Summer LTPE (7/2018)",
+      "comment2": "Treasures of the elephant cult",
+      "setID": "93",
+      "neededItems": "7",
+      "effects": "243&amp;25"
+    },
+    {
+      "ID": "481",
+      "comment1": "9 Piece General Set, Summer LTPE (7/2018)",
+      "comment2": "Treasures of the elephant cult",
+      "setID": "93",
+      "neededItems": "8",
+      "effects": "246&amp;30"
+    },
+    {
+      "ID": "482",
+      "comment1": "9 Piece General Set, Summer LTPE (7/2018)",
+      "comment2": "Treasures of the elephant cult",
+      "setID": "93",
+      "neededItems": "9",
+      "effects": "245&amp;30"
+    },
+    {
+      "ID": "343",
+      "comment1": "9 Piece TBD Set, Alien Rework (2018)",
+      "comment2": "Armor of the immortals",
+      "setID": "73",
+      "neededItems": "2",
+      "effects": "57&amp;40"
+    },
+    {
+      "ID": "344",
+      "comment1": "9 Piece TBD Set, Alien Rework (2018)",
+      "comment2": "Armor of the immortals",
+      "setID": "73",
+      "neededItems": "3",
+      "effects": "58&amp;40"
+    },
+    {
+      "ID": "345",
+      "comment1": "9 Piece TBD Set, Alien Rework (2018)",
+      "comment2": "Armor of the immortals",
+      "setID": "73",
+      "neededItems": "4",
+      "effects": "59&amp;20"
+    },
+    {
+      "ID": "346",
+      "comment1": "9 Piece TBD Set, Alien Rework (2018)",
+      "comment2": "Armor of the immortals",
+      "setID": "73",
+      "neededItems": "5",
+      "effects": "51&amp;30"
+    },
+    {
+      "ID": "347",
+      "comment1": "9 Piece TBD Set, Alien Rework (2018)",
+      "comment2": "Armor of the immortals",
+      "setID": "73",
+      "neededItems": "6",
+      "effects": "350&amp;25"
+    },
+    {
+      "ID": "348",
+      "comment1": "9 Piece TBD Set, Alien Rework (2018)",
+      "comment2": "Armor of the immortals",
+      "setID": "73",
+      "neededItems": "7",
+      "effects": "351&amp;25"
+    },
+    {
+      "ID": "349",
+      "comment1": "9 Piece TBD Set, Alien Rework (2018)",
+      "comment2": "Armor of the immortals",
+      "setID": "73",
+      "neededItems": "8",
+      "effects": "346&amp;40"
+    },
+    {
+      "ID": "350",
+      "comment1": "9 Piece TBD Set, Alien Rework (2018)",
+      "comment2": "Armor of the immortals",
+      "setID": "73",
+      "neededItems": "9",
+      "effects": "345&amp;100"
+    },
+    {
+      "ID": "352",
+      "comment1": "9 Piece TBD Set, Samurai Rework (2018)",
+      "comment2": "Artifacts of the Bloodcrow Caesar",
+      "setID": "74",
+      "neededItems": "3",
+      "effects": "348&amp;10"
+    },
+    {
+      "ID": "353",
+      "comment1": "9 Piece TBD Set, Samurai Rework (2018)",
+      "comment2": "Artifacts of the Bloodcrow Caesar",
+      "setID": "74",
+      "neededItems": "4",
+      "effects": "57&amp;60"
+    },
+    {
+      "ID": "354",
+      "comment1": "9 Piece TBD Set, Samurai Rework (2018)",
+      "comment2": "Artifacts of the Bloodcrow Caesar",
+      "setID": "74",
+      "neededItems": "5",
+      "effects": "58&amp;60"
+    },
+    {
+      "ID": "355",
+      "comment1": "9 Piece TBD Set, Samurai Rework (2018)",
+      "comment2": "Artifacts of the Bloodcrow Caesar",
+      "setID": "74",
+      "neededItems": "6",
+      "effects": "66&amp;10"
+    },
+    {
+      "ID": "356",
+      "comment1": "9 Piece TBD Set, Samurai Rework (2018)",
+      "comment2": "Artifacts of the Bloodcrow Caesar",
+      "setID": "74",
+      "neededItems": "7",
+      "effects": "352&amp;20"
+    },
+    {
+      "ID": "357",
+      "comment1": "9 Piece TBD Set, Samurai Rework (2018)",
+      "comment2": "Artifacts of the Bloodcrow Caesar",
+      "setID": "74",
+      "neededItems": "8",
+      "effects": "353&amp;15"
+    },
+    {
+      "ID": "358",
+      "comment1": "9 Piece TBD Set, Samurai Rework (2018)",
+      "comment2": "Artifacts of the Bloodcrow Caesar",
+      "setID": "74",
+      "neededItems": "9",
+      "effects": "354&amp;100"
+    },
+    {
+      "ID": "361",
+      "comment1": "9 Piece TBD Set, Samurai Rework (2018)",
+      "comment2": "Armor of the onna-bugeisha",
+      "setID": "75",
+      "neededItems": "4",
+      "effects": "357&amp;20"
+    },
+    {
+      "ID": "362",
+      "comment1": "9 Piece TBD Set, Samurai Rework (2018)",
+      "comment2": "Armor of the onna-bugeisha",
+      "setID": "75",
+      "neededItems": "5",
+      "effects": "358&amp;20"
+    },
+    {
+      "ID": "363",
+      "comment1": "9 Piece TBD Set, Samurai Rework (2018)",
+      "comment2": "Armor of the onna-bugeisha",
+      "setID": "75",
+      "neededItems": "6",
+      "effects": "359&amp;20"
+    },
+    {
+      "ID": "364",
+      "comment1": "9 Piece TBD Set, Samurai Rework (2018)",
+      "comment2": "Armor of the onna-bugeisha",
+      "setID": "75",
+      "neededItems": "7",
+      "effects": "356&amp;20"
+    },
+    {
+      "ID": "365",
+      "comment1": "9 Piece TBD Set, Samurai Rework (2018)",
+      "comment2": "Armor of the onna-bugeisha",
+      "setID": "75",
+      "neededItems": "8",
+      "effects": "355&amp;100"
+    },
+    {
+      "ID": "366",
+      "comment1": "9 Piece TBD Set, Samurai Rework (2018)",
+      "comment2": "Armor of the onna-bugeisha",
+      "setID": "75",
+      "neededItems": "9",
+      "effects": "341&amp;10"
+    },
+    {
+      "ID": "486",
+      "comment1": "9 Piece Summer LTPE General Set 2018",
+      "comment2": "Fortunes of the desert sands",
+      "setID": "78",
+      "neededItems": "5",
+      "effects": "243&amp;15"
+    },
+    {
+      "ID": "487",
+      "comment1": "9 Piece Summer LTPE General Set 2018",
+      "comment2": "Fortunes of the desert sands",
+      "setID": "78",
+      "neededItems": "6",
+      "effects": "244&amp;25"
+    },
+    {
+      "ID": "488",
+      "comment1": "9 Piece Summer LTPE General Set 2018",
+      "comment2": "Fortunes of the desert sands",
+      "setID": "78",
+      "neededItems": "7",
+      "effects": "151&amp;30"
+    },
+    {
+      "ID": "489",
+      "comment1": "9 Piece Summer LTPE General Set 2018",
+      "comment2": "Fortunes of the desert sands",
+      "setID": "78",
+      "neededItems": "8",
+      "effects": "241&amp;15"
+    },
+    {
+      "ID": "490",
+      "comment1": "9 Piece Summer LTPE General Set 2018",
+      "comment2": "Fortunes of the desert sands",
+      "setID": "78",
+      "neededItems": "9",
+      "effects": "246&amp;25"
+    },
+    {
+      "ID": "1",
+      "setID": "1",
+      "neededItems": "2",
+      "effects": "65&amp;10"
+    },
+    {
+      "ID": "2",
+      "setID": "2",
+      "neededItems": "2",
+      "effects": "65&amp;10"
+    },
+    {
+      "ID": "3",
+      "setID": "2",
+      "neededItems": "3",
+      "effects": "65&amp;10"
+    },
+    {
+      "ID": "4",
+      "setID": "3",
+      "neededItems": "2",
+      "effects": "12&amp;20"
+    },
+    {
+      "ID": "5",
+      "setID": "3",
+      "neededItems": "3",
+      "effects": "10&amp;10"
+    },
+    {
+      "ID": "7",
+      "comment1": "eventkingdom - 2 Items",
+      "comment2": "Leopolds armor",
+      "setID": "5",
+      "neededItems": "2",
+      "effects": "61&amp;40"
+    },
+    {
+      "ID": "8",
+      "comment1": "eventkingdom - 2 Items",
+      "comment2": "Grimberts armor",
+      "setID": "6",
+      "neededItems": "2",
+      "effects": "61&amp;40"
+    },
+    {
+      "ID": "9",
+      "comment1": "crusadeevent - 2 Items",
+      "comment2": "Arms of the Buccaneer",
+      "setID": "7",
+      "neededItems": "2",
+      "effects": "61&amp;40"
+    },
+    {
+      "ID": "10",
+      "comment1": "Whale Chest - 2 Items",
+      "comment2": "Armor of the Executioner",
+      "setID": "8",
+      "neededItems": "2",
+      "effects": "57&amp;30"
+    },
+    {
+      "ID": "11",
+      "comment1": "Whale Chest - 3 Items",
+      "comment2": "Armor of the Executioner",
+      "setID": "8",
+      "neededItems": "3",
+      "effects": "61&amp;60"
+    },
+    {
+      "ID": "12",
+      "comment1": "Whale Chest - 4 Items",
+      "comment2": "Armor of the Executioner",
+      "setID": "8",
+      "neededItems": "4",
+      "effects": "62&amp;90"
+    },
+    {
+      "ID": "13",
+      "comment1": "Whale Chest - 5 Items",
+      "comment2": "Armor of the Executioner",
+      "setID": "8",
+      "neededItems": "5",
+      "effects": "66&amp;12"
+    },
+    {
+      "ID": "14",
+      "comment1": "Whale Chest - 2 Items",
+      "comment2": "Armor of the Radiant",
+      "setID": "9",
+      "neededItems": "2",
+      "effects": "7&amp;30"
+    },
+    {
+      "ID": "15",
+      "comment1": "Whale Chest - 3 Items",
+      "comment2": "Armor of the Radiant",
+      "setID": "9",
+      "neededItems": "3",
+      "effects": "10&amp;60"
+    },
+    {
+      "ID": "16",
+      "comment1": "Whale Chest - 4 Items",
+      "comment2": "Armor of the Radiant",
+      "setID": "9",
+      "neededItems": "4",
+      "effects": "11&amp;90"
+    },
+    {
+      "ID": "17",
+      "comment1": "Whale Chest - 5 Items",
+      "comment2": "Armor of the Radiant",
+      "setID": "9",
+      "neededItems": "5",
+      "effects": "13&amp;5"
+    },
+    {
+      "ID": "18",
+      "comment1": "Islandkingdom - 2 Items",
+      "comment2": "Storm Warriors equipment",
+      "setID": "10",
+      "neededItems": "2",
+      "effects": "61&amp;20"
+    },
+    {
+      "ID": "19",
+      "comment1": "Islandkingdom - 4 Items",
+      "comment2": "Storm Warriors equipment",
+      "setID": "10",
+      "neededItems": "4",
+      "effects": "62&amp;25"
+    },
+    {
+      "ID": "20",
+      "comment1": "Islandkingdom - 2 Items",
+      "comment2": "Island Kings regalia",
+      "setID": "11",
+      "neededItems": "2",
+      "effects": "10&amp;20"
+    },
+    {
+      "ID": "21",
+      "comment1": "Islandkingdom - 4 Items",
+      "comment2": "Island Kings regalia",
+      "setID": "11",
+      "neededItems": "4",
+      "effects": "11&amp;25"
+    },
+    {
+      "ID": "22",
+      "comment1": "Luckywheel - Baron - 2 Items",
+      "comment2": "Armor of the Stag",
+      "setID": "12",
+      "neededItems": "2",
+      "effects": "4&amp;20"
+    },
+    {
+      "ID": "23",
+      "comment1": "Luckywheel - Baron - 3 Items",
+      "comment2": "Armor of the Stag",
+      "setID": "12",
+      "neededItems": "3",
+      "effects": "11&amp;35"
+    },
+    {
+      "ID": "24",
+      "comment1": "Luckywheel - Baron - 4 Items",
+      "comment2": "Armor of the Stag",
+      "setID": "12",
+      "neededItems": "4",
+      "effects": "10&amp;90"
+    },
+    {
+      "ID": "25",
+      "comment1": "Luckywheel - General - 2 Items",
+      "comment2": "Armor of the Viper",
+      "setID": "13",
+      "neededItems": "2",
+      "effects": "55&amp;20"
+    },
+    {
+      "ID": "26",
+      "comment1": "Luckywheel - General - 3 Items",
+      "comment2": "Armor of the Viper",
+      "setID": "13",
+      "neededItems": "3",
+      "effects": "62&amp;35"
+    },
+    {
+      "ID": "27",
+      "comment1": "Luckywheel - General - 4 Items",
+      "comment2": "Armor of the Viper",
+      "setID": "13",
+      "neededItems": "4",
+      "effects": "61&amp;90"
+    },
+    {
+      "ID": "28",
+      "comment1": "Luckywheel - 9thClass - 2 Items",
+      "comment2": "Skin of the ram",
+      "setID": "17",
+      "neededItems": "2",
+      "effects": "55&amp;25"
+    },
+    {
+      "ID": "29",
+      "comment1": "Luckywheel - 9thClass - 3 Items",
+      "comment2": "Skin of the ram",
+      "setID": "17",
+      "neededItems": "3",
+      "effects": "61&amp;40"
+    },
+    {
+      "ID": "30",
+      "comment1": "Luckywheel - 9thClass - 4 Items",
+      "comment2": "Skin of the ram",
+      "setID": "17",
+      "neededItems": "4",
+      "effects": "62&amp;90"
+    },
+    {
+      "ID": "31",
+      "comment1": "Luckywheel - 9thClass - 5 Items",
+      "comment2": "Skin of the ram",
+      "setID": "17",
+      "neededItems": "5",
+      "effects": "239&amp;20"
+    },
+    {
+      "ID": "32",
+      "comment1": "SP Tournament - General - 2 Items",
+      "comment2": "Armor of the Underworld",
+      "setID": "14",
+      "neededItems": "2",
+      "effects": "51&amp;30"
+    },
+    {
+      "ID": "33",
+      "comment1": "SP Tournament - General - 3 Items",
+      "comment2": "Armor of the Underworld",
+      "setID": "14",
+      "neededItems": "3",
+      "effects": "239&amp;15"
+    },
+    {
+      "ID": "34",
+      "comment1": "SP Tournament - General - 4 Items",
+      "comment2": "Armor of the Underworld",
+      "setID": "14",
+      "neededItems": "4",
+      "effects": "234&amp;15"
+    },
+    {
+      "ID": "38",
+      "comment1": "FacebookReward - General - 2 Items",
+      "comment2": "The Owl Kings equipment",
+      "setID": "16",
+      "neededItems": "2",
+      "effects": "57&amp;25"
+    },
+    {
+      "ID": "39",
+      "comment1": "FacebookReward - General - 3 Items",
+      "comment2": "The Owl Kings equipment",
+      "setID": "16",
+      "neededItems": "3",
+      "effects": "61&amp;35"
+    },
+    {
+      "ID": "40",
+      "comment1": "FacebookReward - General - 4 Items",
+      "comment2": "The Owl Kings equipment",
+      "setID": "16",
+      "neededItems": "4",
+      "effects": "62&amp;90"
+    },
+    {
+      "ID": "41",
+      "comment1": "Hero Whale - 2 Items",
+      "comment2": "Legends of the Highlands",
+      "setID": "18",
+      "neededItems": "2",
+      "effects": "55&amp;35"
+    },
+    {
+      "ID": "42",
+      "comment1": "Hero Whale - 3 Items",
+      "comment2": "Legends of the Highlands",
+      "setID": "18",
+      "neededItems": "3",
+      "effects": "61&amp;60"
+    },
+    {
+      "ID": "43",
+      "comment1": "Hero Whale - 4 Items",
+      "comment2": "Legends of the Highlands",
+      "setID": "18",
+      "neededItems": "4",
+      "effects": "62&amp;90"
+    },
+    {
+      "ID": "44",
+      "comment1": "Hero Whale - 5 Items",
+      "comment2": "Legends of the Highlands",
+      "setID": "18",
+      "neededItems": "5",
+      "effects": "234&amp;30"
+    },
+    {
+      "ID": "45",
+      "comment1": "Hero Whale - 6 Items",
+      "comment2": "Legends of the Highlands",
+      "setID": "18",
+      "neededItems": "6",
+      "effects": "66&amp;15"
+    },
+    {
+      "ID": "46",
+      "comment1": "Nomad Invasion- New Set - 2 Items",
+      "comment2": "Khan Dorgos equipment",
+      "setID": "19",
+      "neededItems": "2",
+      "effects": "61&amp;20"
+    },
+    {
+      "ID": "47",
+      "comment1": "Nomad Invasion- New Set - 3 Items",
+      "comment2": "Khan Dorgos equipment",
+      "setID": "19",
+      "neededItems": "3",
+      "effects": "62&amp;20"
+    },
+    {
+      "ID": "48",
+      "comment1": "Nomad Invasion- New Set - 4 Items",
+      "comment2": "Khan Dorgos equipment",
+      "setID": "19",
+      "neededItems": "4",
+      "effects": "61&amp;35"
+    },
+    {
+      "ID": "49",
+      "comment1": "Nomad Invasion- New Set - 5 Items",
+      "comment2": "Khan Dorgos equipment",
+      "setID": "19",
+      "neededItems": "5",
+      "effects": "234&amp;20"
+    },
+    {
+      "ID": "50",
+      "comment1": "Hero Whale - 2 Items",
+      "comment2": "Equipment of the Winged Knight",
+      "setID": "20",
+      "neededItems": "2",
+      "effects": "4&amp;35"
+    },
+    {
+      "ID": "51",
+      "comment1": "Hero Whale - 3 Items",
+      "comment2": "Equipment of the Winged Knight",
+      "setID": "20",
+      "neededItems": "3",
+      "effects": "10&amp;60"
+    },
+    {
+      "ID": "52",
+      "comment1": "Hero Whale - 4 Items",
+      "comment2": "Equipment of the Winged Knight",
+      "setID": "20",
+      "neededItems": "4",
+      "effects": "11&amp;90"
+    },
+    {
+      "ID": "53",
+      "comment1": "Hero Whale - 5 Items",
+      "comment2": "Equipment of the Winged Knight",
+      "setID": "20",
+      "neededItems": "5",
+      "effects": "208&amp;30"
+    },
+    {
+      "ID": "54",
+      "comment1": "Hero Whale - 6 Items",
+      "comment2": "Equipment of the Winged Knight",
+      "setID": "20",
+      "neededItems": "6",
+      "effects": "13&amp;10"
+    },
+    {
+      "ID": "55",
+      "comment1": "Alien Invasion Set - 2 Items",
+      "comment2": "Armor of the foreign warlord",
+      "setID": "21",
+      "neededItems": "2",
+      "effects": "53&amp;60"
+    },
+    {
+      "ID": "56",
+      "comment1": "Alien Invasion Set - 3 Items",
+      "comment2": "Armor of the foreign warlord",
+      "setID": "21",
+      "neededItems": "3",
+      "effects": "57&amp;60"
+    },
+    {
+      "ID": "57",
+      "comment1": "Alien Invasion Set - 4 Items",
+      "comment2": "Armor of the foreign warlord",
+      "setID": "21",
+      "neededItems": "4",
+      "effects": "238&amp;10"
+    },
+    {
+      "ID": "58",
+      "comment1": "Alien Invasion Set - 5 Items",
+      "comment2": "Armor of the foreign warlord",
+      "setID": "21",
+      "neededItems": "5",
+      "effects": "234&amp;15"
+    },
+    {
+      "ID": "59",
+      "comment1": "Low Level Set - 2 Items",
+      "comment2": "Armor of the true hero",
+      "setID": "22",
+      "neededItems": "2",
+      "effects": "60&amp;60"
+    },
+    {
+      "ID": "60",
+      "comment1": "Low Level Set - 3 Items",
+      "comment2": "Armor of the true hero",
+      "setID": "22",
+      "neededItems": "3",
+      "effects": "61&amp;15"
+    },
+    {
+      "ID": "61",
+      "comment1": "Low Level Set - 4 Items",
+      "comment2": "Armor of the true hero",
+      "setID": "22",
+      "neededItems": "4",
+      "effects": "62&amp;15"
+    },
+    {
+      "ID": "62",
+      "comment1": "Low Level Set - 5 Items",
+      "comment2": "Armor of the true hero",
+      "setID": "22",
+      "neededItems": "5",
+      "effects": "261&amp;100"
+    },
+    {
+      "ID": "63",
+      "comment1": "Berimond Set Red - 2 Items",
+      "comment2": "The lions pride",
+      "setID": "23",
+      "neededItems": "2",
+      "effects": "55&amp;30"
+    },
+    {
+      "ID": "64",
+      "comment1": "Berimond Set Red - 3 Items",
+      "comment2": "The lions pride",
+      "setID": "23",
+      "neededItems": "3",
+      "effects": "53&amp;35"
+    },
+    {
+      "ID": "65",
+      "comment1": "Berimond Set Red - 4 Items",
+      "comment2": "The lions pride",
+      "setID": "23",
+      "neededItems": "4",
+      "effects": "57&amp;45"
+    },
+    {
+      "ID": "66",
+      "comment1": "Berimond Set Red - 5 Items",
+      "comment2": "The lions pride",
+      "setID": "23",
+      "neededItems": "5",
+      "effects": "234&amp;25"
+    },
+    {
+      "ID": "67",
+      "comment1": "Berimond Set Blue - 2 Items",
+      "comment2": "The bears strength",
+      "setID": "24",
+      "neededItems": "2",
+      "effects": "53&amp;30"
+    },
+    {
+      "ID": "68",
+      "comment1": "Berimond Set Blue - 3 Items",
+      "comment2": "The bears strength",
+      "setID": "24",
+      "neededItems": "3",
+      "effects": "55&amp;35"
+    },
+    {
+      "ID": "69",
+      "comment1": "Berimond Set Blue - 4 Items",
+      "comment2": "The bears strength",
+      "setID": "24",
+      "neededItems": "4",
+      "effects": "57&amp;45"
+    },
+    {
+      "ID": "70",
+      "comment1": "Berimond Set Blue - 5 Items",
+      "comment2": "The bears strength",
+      "setID": "24",
+      "neededItems": "5",
+      "effects": "234&amp;25"
+    },
+    {
+      "ID": "71",
+      "comment1": "Samurai General - 2 Items",
+      "comment2": "Equipment of the demon",
+      "setID": "25",
+      "neededItems": "2",
+      "effects": "62&amp;20"
+    },
+    {
+      "ID": "72",
+      "comment1": "Samurai General - 3 Items",
+      "comment2": "Equipment of the demon",
+      "setID": "25",
+      "neededItems": "3",
+      "effects": "61&amp;20"
+    },
+    {
+      "ID": "73",
+      "comment1": "Samurai General - 4 Items",
+      "comment2": "Equipment of the demon",
+      "setID": "25",
+      "neededItems": "4",
+      "effects": "62&amp;35"
+    },
+    {
+      "ID": "74",
+      "comment1": "Samurai General - 5 Items",
+      "comment2": "Equipment of the demon",
+      "setID": "25",
+      "neededItems": "5",
+      "effects": "234&amp;20"
+    },
+    {
+      "ID": "75",
+      "comment1": "Samurai Baron - 2 Items",
+      "comment2": "Equipment of the immortal",
+      "setID": "26",
+      "neededItems": "2",
+      "effects": "11&amp;20"
+    },
+    {
+      "ID": "76",
+      "comment1": "Samurai Baron - 3 Items",
+      "comment2": "Equipment of the immortal",
+      "setID": "26",
+      "neededItems": "3",
+      "effects": "10&amp;20"
+    },
+    {
+      "ID": "77",
+      "comment1": "Samurai Baron - 4 Items",
+      "comment2": "Equipment of the immortal",
+      "setID": "26",
+      "neededItems": "4",
+      "effects": "11&amp;35"
+    },
+    {
+      "ID": "78",
+      "comment1": "Samurai Baron - 5 Items",
+      "comment2": "Equipment of the immortal",
+      "setID": "26",
+      "neededItems": "5",
+      "effects": "208&amp;20"
+    },
+    {
+      "ID": "87",
+      "comment1": "Halloween - 2 Items",
+      "comment2": "Legacy of the goat cult",
+      "setID": "29",
+      "neededItems": "2",
+      "effects": "62&amp;18"
+    },
+    {
+      "ID": "88",
+      "comment1": "Halloween - 3 Items",
+      "comment2": "Legacy of the goat cult",
+      "setID": "29",
+      "neededItems": "3",
+      "effects": "234&amp;20"
+    },
+    {
+      "ID": "89",
+      "comment1": "Halloween - 4 Items",
+      "comment2": "Legacy of the goat cult",
+      "setID": "29",
+      "neededItems": "4",
+      "effects": "61&amp;30"
+    },
+    {
+      "ID": "90",
+      "comment1": "Halloween - 5 Items",
+      "comment2": "Legacy of the goat cult",
+      "setID": "29",
+      "neededItems": "5",
+      "effects": "62&amp;18"
+    },
+    {
+      "ID": "91",
+      "comment1": "WinterEvent - 2 Items",
+      "comment2": "Legacy of the frost warriors",
+      "setID": "30",
+      "neededItems": "2",
+      "effects": "7&amp;10"
+    },
+    {
+      "ID": "92",
+      "comment1": "WinterEvent - 3 Items",
+      "comment2": "Legacy of the frost warriors",
+      "setID": "30",
+      "neededItems": "3",
+      "effects": "10&amp;22"
+    },
+    {
+      "ID": "93",
+      "comment1": "WinterEvent - 4 Items",
+      "comment2": "Legacy of the frost warriors",
+      "setID": "30",
+      "neededItems": "4",
+      "effects": "11&amp;22"
+    },
+    {
+      "ID": "94",
+      "comment1": "WinterEvent - 5 Items",
+      "comment2": "Legacy of the frost warriors",
+      "setID": "30",
+      "neededItems": "5",
+      "effects": "267&amp;5"
+    },
+    {
+      "ID": "95",
+      "comment1": "WinterEvent - 2 Items",
+      "comment2": "Heritage of the North",
+      "setID": "31",
+      "neededItems": "2",
+      "effects": "7&amp;20"
+    },
+    {
+      "ID": "96",
+      "comment1": "WinterEvent - 3 Items",
+      "comment2": "Heritage of the North",
+      "setID": "31",
+      "neededItems": "3",
+      "effects": "10&amp;30"
+    },
+    {
+      "ID": "97",
+      "comment1": "WinterEvent - 4 Items",
+      "comment2": "Heritage of the North",
+      "setID": "31",
+      "neededItems": "4",
+      "effects": "11&amp;30"
+    },
+    {
+      "ID": "98",
+      "comment1": "WinterEvent - 5 Items",
+      "comment2": "Heritage of the North",
+      "setID": "31",
+      "neededItems": "5",
+      "effects": "267&amp;15"
+    },
+    {
+      "ID": "99",
+      "comment1": "Berimond Invasion Blue - 2 Items",
+      "comment2": "Treasures of the savanna",
+      "setID": "32",
+      "neededItems": "2",
+      "effects": "7&amp;25"
+    },
+    {
+      "ID": "100",
+      "comment1": "Berimond Invasion Blue - 3 Items",
+      "comment2": "Treasures of the savanna",
+      "setID": "32",
+      "neededItems": "3",
+      "effects": "4&amp;25"
+    },
+    {
+      "ID": "101",
+      "comment1": "Berimond Invasion Blue - 4 Items",
+      "comment2": "Treasures of the savanna",
+      "setID": "32",
+      "neededItems": "4",
+      "effects": "207&amp;10"
+    },
+    {
+      "ID": "102",
+      "comment1": "Berimond Invasion Blue - 5 Items",
+      "comment2": "Treasures of the savanna",
+      "setID": "32",
+      "neededItems": "5",
+      "effects": "208&amp;15"
+    },
+    {
+      "ID": "103",
+      "comment1": "Berimond Invasion Red - 2 Items",
+      "comment2": "Treasures of the savanna",
+      "setID": "33",
+      "neededItems": "2",
+      "effects": "53&amp;50"
+    },
+    {
+      "ID": "104",
+      "comment1": "Berimond Invasion Red - 3 Items",
+      "comment2": "Treasures of the savanna",
+      "setID": "33",
+      "neededItems": "3",
+      "effects": "57&amp;30"
+    },
+    {
+      "ID": "105",
+      "comment1": "Berimond Invasion Red - 4 Items",
+      "comment2": "Treasures of the savanna",
+      "setID": "33",
+      "neededItems": "4",
+      "effects": "247&amp;25"
+    },
+    {
+      "ID": "106",
+      "comment1": "Berimond Invasion Red - 5 Items",
+      "comment2": "Treasures of the savanna",
+      "setID": "33",
+      "neededItems": "5",
+      "effects": "243&amp;20"
+    },
+    {
+      "ID": "107",
+      "comment1": "Spring Event - 2 Items",
+      "comment2": "Treasures of the summer queen",
+      "setID": "34",
+      "neededItems": "2",
+      "effects": "7&amp;10"
+    },
+    {
+      "ID": "108",
+      "comment1": "Spring Event - 3 Items",
+      "comment2": "Treasures of the summer queen",
+      "setID": "34",
+      "neededItems": "3",
+      "effects": "10&amp;21"
+    },
+    {
+      "ID": "109",
+      "comment1": "Spring Event - 4 Items",
+      "comment2": "Treasures of the summer queen",
+      "setID": "34",
+      "neededItems": "4",
+      "effects": "11&amp;23"
+    },
+    {
+      "ID": "110",
+      "comment1": "Spring Event - 5 Items",
+      "comment2": "Treasures of the summer queen",
+      "setID": "34",
+      "neededItems": "5",
+      "effects": "267&amp;7"
+    },
+    {
+      "ID": "111",
+      "comment1": "Spring Event - 2 Items",
+      "comment2": "Equipment of the druid guards",
+      "setID": "35",
+      "neededItems": "2",
+      "effects": "7&amp;20"
+    },
+    {
+      "ID": "112",
+      "comment1": "Sprint Event - 3 Items",
+      "comment2": "Equipment of the druid guards",
+      "setID": "35",
+      "neededItems": "3",
+      "effects": "10&amp;32"
+    },
+    {
+      "ID": "113",
+      "comment1": "Sprint Event - 4 Items",
+      "comment2": "Equipment of the druid guards",
+      "setID": "35",
+      "neededItems": "4",
+      "effects": "11&amp;31"
+    },
+    {
+      "ID": "114",
+      "comment1": "Sprint Event - 5 Items",
+      "comment2": "Equipment of the druid guards",
+      "setID": "35",
+      "neededItems": "5",
+      "effects": "267&amp;16"
+    },
+    {
+      "ID": "115",
+      "comment1": "Sprint Event - 2 Items",
+      "comment2": "Relics of the druid warriors",
+      "setID": "36",
+      "neededItems": "2",
+      "effects": "53&amp;30"
+    },
+    {
+      "ID": "116",
+      "comment1": "Sprint Event - 3 Items",
+      "comment2": "Relics of the druid warriors",
+      "setID": "36",
+      "neededItems": "3",
+      "effects": "55&amp;30"
+    },
+    {
+      "ID": "117",
+      "comment1": "Sprint Event - 4 Items",
+      "comment2": "Relics of the druid warriors",
+      "setID": "36",
+      "neededItems": "4",
+      "effects": "51&amp;30"
+    },
+    {
+      "ID": "118",
+      "comment1": "Sprint Event - 5 Items",
+      "comment2": "Relics of the druid warriors",
+      "setID": "36",
+      "neededItems": "5",
+      "effects": "234&amp;15"
+    },
+    {
+      "ID": "119",
+      "comment1": "Sprint Event - 2 Items",
+      "comment2": "Equipment of the druid guards",
+      "setID": "37",
+      "neededItems": "2",
+      "effects": "53&amp;20"
+    },
+    {
+      "ID": "120",
+      "comment1": "Sprint Event - 3 Items",
+      "comment2": "Equipment of the druid guards",
+      "setID": "37",
+      "neededItems": "3",
+      "effects": "55&amp;20"
+    },
+    {
+      "ID": "121",
+      "comment1": "Sprint Event - 4 Items",
+      "comment2": "Equipment of the druid guards",
+      "setID": "37",
+      "neededItems": "4",
+      "effects": "51&amp;20"
+    },
+    {
+      "ID": "122",
+      "comment1": "Sprint Event - 5 Items",
+      "comment2": "Equipment of the druid guards",
+      "setID": "37",
+      "neededItems": "5",
+      "effects": "234&amp;5"
+    },
+    {
+      "ID": "135",
+      "comment1": "Spring LTPE (E4K) - General",
+      "comment2": "Treasures of the Spring Knights",
+      "setID": "48",
+      "neededItems": "2",
+      "effects": "1&amp;20"
+    },
+    {
+      "ID": "136",
+      "comment1": "Spring LTPE (E4K) - General",
+      "comment2": "Treasures of the Spring Knights",
+      "setID": "48",
+      "neededItems": "3",
+      "effects": "4&amp;20"
+    },
+    {
+      "ID": "137",
+      "comment1": "Spring LTPE (E4K) - General",
+      "comment2": "Treasures of the Spring Knights",
+      "setID": "48",
+      "neededItems": "4",
+      "effects": "8&amp;53"
+    },
+    {
+      "ID": "138",
+      "comment1": "Spring LTPE (E4K) - General",
+      "comment2": "Treasures of the Spring Knights",
+      "setID": "48",
+      "neededItems": "5",
+      "effects": "208&amp;10"
+    },
+    {
+      "ID": "131",
+      "comment1": "Spring LTPE (E4K) - General",
+      "comment2": "March Harelooms",
+      "setID": "47",
+      "neededItems": "2",
+      "effects": "1&amp;30"
+    },
+    {
+      "ID": "132",
+      "comment1": "Spring LTPE (E4K) - General",
+      "comment2": "March Harelooms",
+      "setID": "47",
+      "neededItems": "3",
+      "effects": "4&amp;30"
+    },
+    {
+      "ID": "133",
+      "comment1": "Spring LTPE (E4K) - General",
+      "comment2": "March Harelooms",
+      "setID": "47",
+      "neededItems": "4",
+      "effects": "8&amp;66"
+    },
+    {
+      "ID": "134",
+      "comment1": "Spring LTPE (E4K) - General",
+      "comment2": "March Harelooms",
+      "setID": "47",
+      "neededItems": "5",
+      "effects": "208&amp;15"
+    },
+    {
+      "ID": "175",
+      "comment1": "Summer LTPE General",
+      "comment2": "Artifacts of the Lotus King",
+      "setID": "50",
+      "neededItems": "2",
+      "effects": "53&amp;15"
+    },
+    {
+      "ID": "176",
+      "comment1": "Summer LTPE General",
+      "comment2": "Artifacts of the Lotus King",
+      "setID": "50",
+      "neededItems": "3",
+      "effects": "55&amp;15"
+    },
+    {
+      "ID": "177",
+      "comment1": "Summer LTPE General",
+      "comment2": "Artifacts of the Lotus King",
+      "setID": "50",
+      "neededItems": "4",
+      "effects": "58&amp;35"
+    },
+    {
+      "ID": "178",
+      "comment1": "Summer LTPE General",
+      "comment2": "Artifacts of the Lotus King",
+      "setID": "50",
+      "neededItems": "5",
+      "effects": "59&amp;20"
+    },
+    {
+      "ID": "179",
+      "comment1": "Summer LTPE General",
+      "comment2": "Artifacts of the Lotus King",
+      "setID": "50",
+      "neededItems": "6",
+      "effects": "57&amp;35"
+    },
+    {
+      "ID": "180",
+      "comment1": "Summer LTPE General",
+      "comment2": "Artifacts of the Lotus King",
+      "setID": "50",
+      "neededItems": "7",
+      "effects": "61&amp;90"
+    },
+    {
+      "ID": "181",
+      "comment1": "Summer LTPE General",
+      "comment2": "Artifacts of the Lotus King",
+      "setID": "50",
+      "neededItems": "8",
+      "effects": "62&amp;90"
+    },
+    {
+      "ID": "182",
+      "comment1": "Summer LTPE General",
+      "comment2": "Artifacts of the Lotus King",
+      "setID": "50",
+      "neededItems": "9",
+      "effects": "334&amp;30"
+    },
+    {
+      "ID": "185",
+      "comment1": "9 Piece Nomad Castellan Set, MCP 06 2017",
+      "comment2": "Armor of the Eastern Raiders",
+      "setID": "51",
+      "neededItems": "4",
+      "effects": "8&amp;20"
+    },
+    {
+      "ID": "186",
+      "comment1": "9 Piece Nomad Castellan Set, MCP 06 2017",
+      "comment2": "Armor of the Eastern Raiders",
+      "setID": "51",
+      "neededItems": "5",
+      "effects": "3&amp;20"
+    },
+    {
+      "ID": "187",
+      "comment1": "9 Piece Nomad Castellan Set, MCP 06 2017",
+      "comment2": "Armor of the Eastern Raiders",
+      "setID": "51",
+      "neededItems": "6",
+      "effects": "13&amp;5"
+    },
+    {
+      "ID": "188",
+      "comment1": "9 Piece Nomad Castellan Set, MCP 06 2017",
+      "comment2": "Armor of the Eastern Raiders",
+      "setID": "51",
+      "neededItems": "7",
+      "effects": "10&amp;90"
+    },
+    {
+      "ID": "189",
+      "comment1": "9 Piece Nomad Castellan Set, MCP 06 2017",
+      "comment2": "Armor of the Eastern Raiders",
+      "setID": "51",
+      "neededItems": "8",
+      "effects": "11&amp;90"
+    },
+    {
+      "ID": "190",
+      "comment1": "9 Piece Nomad Castellan Set, MCP 06 2017",
+      "comment2": "Armor of the Eastern Raiders",
+      "setID": "51",
+      "neededItems": "9",
+      "effects": "335&amp;25"
+    },
+    {
+      "ID": "193",
+      "comment1": "9 Piece Samurai Commander Set, MCP 06 2017",
+      "comment2": "Armor of Kiruga Yoshiro",
+      "setID": "52",
+      "neededItems": "4",
+      "effects": "58&amp;20"
+    },
+    {
+      "ID": "194",
+      "comment1": "9 Piece Samurai Commander Set, MCP 06 2017",
+      "comment2": "Armor of Kiruga Yoshiro",
+      "setID": "52",
+      "neededItems": "5",
+      "effects": "54&amp;20"
+    },
+    {
+      "ID": "195",
+      "comment1": "9 Piece Samurai Commander Set, MCP 06 2017",
+      "comment2": "Armor of Kiruga Yoshiro",
+      "setID": "52",
+      "neededItems": "6",
+      "effects": "66&amp;10"
+    },
+    {
+      "ID": "196",
+      "comment1": "9 Piece Samurai Commander Set, MCP 06 2017",
+      "comment2": "Armor of Kiruga Yoshiro",
+      "setID": "52",
+      "neededItems": "7",
+      "effects": "61&amp;90"
+    },
+    {
+      "ID": "197",
+      "comment1": "9 Piece Samurai Commander Set, MCP 06 2017",
+      "comment2": "Armor of Kiruga Yoshiro",
+      "setID": "52",
+      "neededItems": "8",
+      "effects": "62&amp;90"
+    },
+    {
+      "ID": "198",
+      "comment1": "9 Piece Samurai Commander Set, MCP 06 2017",
+      "comment2": "Armor of Kiruga Yoshiro",
+      "setID": "52",
+      "neededItems": "9",
+      "effects": "334&amp;25"
+    },
+    {
+      "ID": "199",
+      "comment1": "9 Piece EpicQuest Commander Set, MCP 06 2017",
+      "comment2": "Artifacts of the Ivory Queen",
+      "setID": "53",
+      "neededItems": "2",
+      "effects": "59&amp;30"
+    },
+    {
+      "ID": "200",
+      "comment1": "9 Piece EpicQuest Commander Set, MCP 06 2017",
+      "comment2": "Artifacts of the Ivory Queen",
+      "setID": "53",
+      "neededItems": "3",
+      "effects": "58&amp;30"
+    },
+    {
+      "ID": "201",
+      "comment1": "9 Piece EpicQuest Commander Set, MCP 06 2017",
+      "comment2": "Artifacts of the Ivory Queen",
+      "setID": "53",
+      "neededItems": "4",
+      "effects": "57&amp;25"
+    },
+    {
+      "ID": "202",
+      "comment1": "9 Piece EpicQuest Commander Set, MCP 06 2017",
+      "comment2": "Artifacts of the Ivory Queen",
+      "setID": "53",
+      "neededItems": "5",
+      "effects": "61&amp;30"
+    },
+    {
+      "ID": "203",
+      "comment1": "9 Piece EpicQuest Commander Set, MCP 06 2017",
+      "comment2": "Artifacts of the Ivory Queen",
+      "setID": "53",
+      "neededItems": "6",
+      "effects": "62&amp;30"
+    },
+    {
+      "ID": "204",
+      "comment1": "9 Piece EpicQuest Commander Set, MCP 06 2017",
+      "comment2": "Artifacts of the Ivory Queen",
+      "setID": "53",
+      "neededItems": "7",
+      "effects": "66&amp;20"
+    },
+    {
+      "ID": "205",
+      "comment1": "9 Piece EpicQuest Commander Set, MCP 06 2017",
+      "comment2": "Artifacts of the Ivory Queen",
+      "setID": "53",
+      "neededItems": "8",
+      "effects": "55&amp;40"
+    },
+    {
+      "ID": "206",
+      "comment1": "9 Piece EpicQuest Commander Set, MCP 06 2017",
+      "comment2": "Artifacts of the Ivory Queen",
+      "setID": "53",
+      "neededItems": "9",
+      "effects": "334&amp;40"
+    },
+    {
+      "ID": "209",
+      "comment1": "9 Piece India General Set 2, MCP 06 2017",
+      "comment2": "Fortunes of the desert sands",
+      "setID": "54",
+      "neededItems": "4",
+      "effects": "244&amp;20"
+    },
+    {
+      "ID": "210",
+      "comment1": "9 Piece India General Set 2, MCP 06 2017",
+      "comment2": "Fortunes of the desert sands",
+      "setID": "54",
+      "neededItems": "5",
+      "effects": "245&amp;30"
+    },
+    {
+      "ID": "211",
+      "comment1": "9 Piece India General Set 2, MCP 06 2017",
+      "comment2": "Fortunes of the desert sands",
+      "setID": "54",
+      "neededItems": "6",
+      "effects": "247&amp;30"
+    },
+    {
+      "ID": "212",
+      "comment1": "9 Piece India General Set 2, MCP 06 2017",
+      "comment2": "Fortunes of the desert sands",
+      "setID": "54",
+      "neededItems": "7",
+      "effects": "61&amp;90"
+    },
+    {
+      "ID": "213",
+      "comment1": "9 Piece India General Set 2, MCP 06 2017",
+      "comment2": "Fortunes of the desert sands",
+      "setID": "54",
+      "neededItems": "8",
+      "effects": "62&amp;90"
+    },
+    {
+      "ID": "214",
+      "comment1": "9 Piece India General Set 2, MCP 06 2017",
+      "comment2": "Fortunes of the desert sands",
+      "setID": "54",
+      "neededItems": "9",
+      "effects": "243&amp;40"
+    },
+    {
+      "ID": "1000",
+      "comment1": "9 Piece General Set, Shapeshifter Activity",
+      "comment2": "Apparatus of the Summoners Apprentice",
+      "setID": "1063",
+      "neededItems": "2",
+      "effects": "57&amp;30"
+    },
+    {
+      "ID": "1001",
+      "comment1": "9 Piece General Set, Shapeshifter Activity",
+      "comment2": "Apparatus of the Summoners Apprentice",
+      "setID": "1063",
+      "neededItems": "3",
+      "effects": "58&amp;30"
+    },
+    {
+      "ID": "1002",
+      "comment1": "9 Piece General Set, Shapeshifter Activity",
+      "comment2": "Apparatus of the Summoners Apprentice",
+      "setID": "1063",
+      "neededItems": "4",
+      "effects": "59&amp;25"
+    },
+    {
+      "ID": "1003",
+      "comment1": "9 Piece General Set, Shapeshifter Activity",
+      "comment2": "Apparatus of the Summoners Apprentice",
+      "setID": "1063",
+      "neededItems": "5",
+      "effects": "235&amp;40"
+    },
+    {
+      "ID": "1004",
+      "comment1": "9 Piece General Set, Shapeshifter Activity",
+      "comment2": "Apparatus of the Summoners Apprentice",
+      "setID": "1063",
+      "neededItems": "6",
+      "effects": "152&amp;10"
+    },
+    {
+      "ID": "1005",
+      "comment1": "9 Piece General Set, Shapeshifter Activity",
+      "comment2": "Apparatus of the Summoners Apprentice",
+      "setID": "1063",
+      "neededItems": "7",
+      "effects": "239&amp;25"
+    },
+    {
+      "ID": "1006",
+      "comment1": "9 Piece General Set, Shapeshifter Activity",
+      "comment2": "Apparatus of the Summoners Apprentice",
+      "setID": "1063",
+      "neededItems": "8",
+      "effects": "153&amp;10"
+    },
+    {
+      "ID": "1007",
+      "comment1": "9 Piece General Set, Shapeshifter Activity",
+      "comment2": "Apparatus of the Summoners Apprentice",
+      "setID": "1063",
+      "neededItems": "9",
+      "effects": "234&amp;40"
+    },
+    {
+      "ID": "1008",
+      "comment1": "9 Piece General Set, Shapeshifter Ranking",
+      "comment2": "Materials of the Master Summoner",
+      "setID": "1064",
+      "neededItems": "2",
+      "effects": "57&amp;30"
+    },
+    {
+      "ID": "1009",
+      "comment1": "9 Piece General Set, Shapeshifter Ranking",
+      "comment2": "Materials of the Master Summoner",
+      "setID": "1064",
+      "neededItems": "3",
+      "effects": "58&amp;30"
+    },
+    {
+      "ID": "1010",
+      "comment1": "9 Piece General Set, Shapeshifter Ranking",
+      "comment2": "Materials of the Master Summoner",
+      "setID": "1064",
+      "neededItems": "4",
+      "effects": "59&amp;25"
+    },
+    {
+      "ID": "1011",
+      "comment1": "9 Piece General Set, Shapeshifter Ranking",
+      "comment2": "Materials of the Master Summoner",
+      "setID": "1064",
+      "neededItems": "5",
+      "effects": "235&amp;40"
+    },
+    {
+      "ID": "1012",
+      "comment1": "9 Piece General Set, Shapeshifter Ranking",
+      "comment2": "Materials of the Master Summoner",
+      "setID": "1064",
+      "neededItems": "6",
+      "effects": "152&amp;20"
+    },
+    {
+      "ID": "1013",
+      "comment1": "9 Piece General Set, Shapeshifter Ranking",
+      "comment2": "Materials of the Master Summoner",
+      "setID": "1064",
+      "neededItems": "7",
+      "effects": "239&amp;30"
+    },
+    {
+      "ID": "1014",
+      "comment1": "9 Piece General Set, Shapeshifter Ranking",
+      "comment2": "Materials of the Master Summoner",
+      "setID": "1064",
+      "neededItems": "8",
+      "effects": "153&amp;20"
+    },
+    {
+      "ID": "1015",
+      "comment1": "9 Piece General Set, Shapeshifter Ranking",
+      "comment2": "Materials of the Master Summoner",
+      "setID": "1064",
+      "neededItems": "9",
+      "effects": "234&amp;50"
+    },
+    {
+      "ID": "1016",
+      "comment1": "9 piece whale set Baron",
+      "comment2": "Legacy of the Eagle Demon",
+      "setID": "1040",
+      "neededItems": "2",
+      "effects": "4&amp;20"
+    },
+    {
+      "ID": "1017",
+      "comment1": "9 piece whale set Baron",
+      "comment2": "Legacy of the Eagle Demon",
+      "setID": "1040",
+      "neededItems": "3",
+      "effects": "1&amp;25"
+    },
+    {
+      "ID": "1018",
+      "comment1": "9 piece whale set Baron",
+      "comment2": "Legacy of the Eagle Demon",
+      "setID": "1040",
+      "neededItems": "4",
+      "effects": "9&amp;30"
+    },
+    {
+      "ID": "1019",
+      "comment1": "9 piece whale set Baron",
+      "comment2": "Legacy of the Eagle Demon",
+      "setID": "1040",
+      "neededItems": "5",
+      "effects": "8&amp;20"
+    },
+    {
+      "ID": "1020",
+      "comment1": "9 piece whale set Baron",
+      "comment2": "Legacy of the Eagle Demon",
+      "setID": "1040",
+      "neededItems": "6",
+      "effects": "7&amp;40"
+    },
+    {
+      "ID": "1021",
+      "comment1": "9 piece whale set Baron",
+      "comment2": "Legacy of the Eagle Demon",
+      "setID": "1040",
+      "neededItems": "7",
+      "effects": "10&amp;50"
+    },
+    {
+      "ID": "1022",
+      "comment1": "9 piece whale set Baron",
+      "comment2": "Legacy of the Eagle Demon",
+      "setID": "1040",
+      "neededItems": "8",
+      "effects": "11&amp;50"
+    },
+    {
+      "ID": "1023",
+      "comment1": "9 piece whale set Baron",
+      "comment2": "Legacy of the Eagle Demon",
+      "setID": "1040",
+      "neededItems": "9",
+      "effects": "335&amp;40"
+    },
+    {
+      "ID": "1024",
+      "comment1": "ShapeShifter Baron Weak",
+      "comment2": "Garments of the shadow sorcerer",
+      "setID": "1083",
+      "neededItems": "2",
+      "effects": "8&amp;15"
+    },
+    {
+      "ID": "1025",
+      "comment1": "ShapeShifter Baron Weak",
+      "comment2": "Garments of the shadow sorcerer",
+      "setID": "1083",
+      "neededItems": "3",
+      "effects": "7&amp;15"
+    },
+    {
+      "ID": "1026",
+      "comment1": "ShapeShifter Baron Weak",
+      "comment2": "Garments of the shadow sorcerer",
+      "setID": "1083",
+      "neededItems": "4",
+      "effects": "13&amp;20"
+    },
+    {
+      "ID": "1027",
+      "comment1": "ShapeShifter Baron Weak",
+      "comment2": "Garments of the shadow sorcerer",
+      "setID": "1083",
+      "neededItems": "5",
+      "effects": "335&amp;20"
+    },
+    {
+      "ID": "1028",
+      "comment1": "ShapeShifter Baron Weak",
+      "comment2": "Garments of the shadow sorcerer",
+      "setID": "1083",
+      "neededItems": "6",
+      "effects": "19&amp;10"
+    },
+    {
+      "ID": "1029",
+      "comment1": "ShapeShifter Baron Weak",
+      "comment2": "Garments of the shadow sorcerer",
+      "setID": "1083",
+      "neededItems": "7",
+      "effects": "267&amp;30"
+    },
+    {
+      "ID": "1030",
+      "comment1": "ShapeShifter Baron Weak",
+      "comment2": "Garments of the shadow sorcerer",
+      "setID": "1083",
+      "neededItems": "8",
+      "effects": "20&amp;10"
+    },
+    {
+      "ID": "1031",
+      "comment1": "ShapeShifter Baron Weak",
+      "comment2": "Garments of the shadow sorcerer",
+      "setID": "1083",
+      "neededItems": "9",
+      "effects": "21&amp;20"
+    }
+  ]
+}

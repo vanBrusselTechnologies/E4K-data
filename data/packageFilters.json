@@ -1,0 +1,60 @@
+{
+  "packageFilter": [
+    {
+      "filterID": "1",
+      "name": "Equipment Types"
+    },
+    {
+      "filterID": "2",
+      "name": "Rarities"
+    },
+    {
+      "filterID": "4",
+      "name": "Enhanced"
+    },
+    {
+      "filterID": "5",
+      "name": "Temporary"
+    },
+    {
+      "filterID": "6",
+      "name": "Random"
+    },
+    {
+      "filterID": "7",
+      "name": "Lord Type"
+    },
+    {
+      "filterID": "20",
+      "name": "Usage"
+    },
+    {
+      "filterID": "21",
+      "name": "Type"
+    },
+    {
+      "filterID": "40",
+      "name": "Building"
+    },
+    {
+      "filterID": "41",
+      "name": "Decoration"
+    },
+    {
+      "filterID": "60",
+      "name": "Construction items"
+    },
+    {
+      "filterID": "61",
+      "name": "Material"
+    },
+    {
+      "filterID": "80",
+      "name": "Resources"
+    },
+    {
+      "filterID": "99",
+      "name": "Misc"
+    }
+  ]
+}
