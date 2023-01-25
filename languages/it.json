@@ -1729,7 +1729,14 @@
     "deco_xmasUnicorn_name": "Festività da favola",
     "deco_christmashut_name": "Rifugio invernale incantato",
     "deco_winterStoneSpider_name": "Sorgente della tarantola congelata",
-    "deco_xmasRollercoaster_name": "Montagne russe invernali su slitta"
+    "deco_xmasRollercoaster_name": "Montagne russe invernali su slitta",
+    "ci_appearance_newKingGuardhouse": "Corpo di guardia imperiale",
+    "ci_appearance_newKingGuardhouse_flavour": "Queste guardie portano con orgoglio i colori di re Eric. Meglio stare lontano dai guai e non attirare la loro attenzione.",
+    "deco_newKingBridgeRed_name": "Monumento della corona autunnale",
+    "deco_newKingBridgeGreen_name": "Monumento della corona primaverile",
+    "deco_xmasRollercoaster2_name": "Montagne russe candite dinverno",
+    "deco_stPatricksWagon_name": "Carro del trifoglio",
+    "deco_valentinesLoveNest_name": "Rifugio per la luna di miele"
   },
   "dialogs": {
     "dialog_festival_desc": "Usa il cibo per organizzare un banchetto per i tuoi cittadini! La velocità di reclutamento aumenterà notevolmente in tutti i castelli per la durata del banchetto. Più grande è il banchetto, maggiore sarà leffetto.",
@@ -2232,7 +2239,7 @@
     "dialog_newMessage_missingText": "Non è stato inserito nessun testo.",
     "dialog_newMessage_sendMessage": "Invia messaggio",
     "dialog_newMessage_yourText": "Il tuo testo:",
-    "dialog_noFightMessage_copy": "Le tue truppe non hanno combattuto perché la destinazione non appartiene più al proprietario originario oppure è protetta.",
+    "dialog_noFightMessage_copy": "Le tue truppe non hanno combattuto perché il bersaglio non è più detenuto dal proprietario originario, si è trasferito in una nuova posizione o è sotto protezione.",
     "dialog_noFightMessage_title": "Nessuna battaglia",
     "dialog_NoMoneyC1_copy": "Non hai più monete!",
     "dialog_NoMoneyC1_goToCastle": "Torna al castello e manda il gabelliere a raccogliere altre monete.",
@@ -5844,7 +5851,10 @@
     "pointsEvent_longPointsEvent_alienInvasion_condition02": "Ottieni almeno {0} punti gloria sconfiggendo un castello straniero",
     "pointsEvent_longPointsEvent_nomadInvasion_condition01": "Ottieni almeno 1 punto Khan sconfiggendo un nomade o un accampamento del Khan",
     "pointsEvent_longPointsEvent_nomadInvasion_condition02": "Ottieni almeno {0} punti Khan sconfiggendo un nomade o un accampamento del Khan",
-    "pointsEvent_longPointsEvent_nomadInvasion_condition03": "Spendi {0} tavolette del Khan contemporaneamente",
+    "pointsEvent_longPointsEvent_nomadInvasion_condition03": [
+      "Spendi {0} tavolette del Khan contemporaneamente",
+      "Spendi le tavolette del Khan; guadagna punti ogni {0} gettoni spesi per un acquisto"
+    ],
     "pointsEvent_longPointsEvent_alienInvasion_condition03": "Ottieni almeno {0} punti gloria sconfiggendo un castello straniero",
     "dialog_longPointsEvent_rewards": "Ricompense ({0}/{1})",
     "dialog_longPointsEvent_nextReward": "Prossima ricompensa: {0} punti",
@@ -11098,10 +11108,11 @@
     "dialog_generals_overview_noAbilityUnlocked": "Nessun talento attivo. Sblocca i talenti nellalbero delle abilità o selezionali dal relativo elenco.",
     "unitsInCourtyard_limit_support": "Capacità di supporto del cortile",
     "generic_timeSkips_inventoryFull_warning_desc": "Linventario per il tipo di salti temporali selezionato è pieno. Eventuali ulteriori salti temporali andranno persi. Vuoi procedere comunque?",
-    "pointsEvent_longPointsEvent_nomadInvasion_condition03_new": "Spendi le tavolette del Khan; guadagna punti ogni {0} gettoni spesi per un acquisto",
     "pointsEvent_longPointsEvent_samuraiInvasion_condition03_new": "Spendi i gettoni dei samurai; guadagna punti ogni {0} gettoni spesi per un acquisto",
     "allianceDefenseUnitAmount": "Capacità di truppe di supporto della coalizione",
-    "equip_effect_description_allianceDefenseUnitAmountYardBonus": "+{0} alla capacità di truppe di supporto della coalizione."
+    "equip_effect_description_allianceDefenseUnitAmountYardBonus": "+{0} alla capacità di truppe di supporto della coalizione.",
+    "dialog_stronghold_capacity": "Capacità unità",
+    "dialog_stronghold_header": "Rifugio delle unità"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% alla velocità di viaggio della milizia durante le conquiste",
@@ -12135,7 +12146,9 @@
     "ci_effect_defenseUnitAmountYardBonus": "+{0} alla capacità di truppe nella difesa del cortile.",
     "ci_effect_attackUnitAmountReinforcementBonus": "+{0} alla capacità di truppe per lassalto finale.",
     "ci_effect_attackUnitAmountReinforcementBoost": "+{0}% alla capacità truppe per lassalto finale.",
-    "effect_description_defenseUnitAmountYardBonus": "Capacità di truppe nella difesa del cortile."
+    "effect_description_defenseUnitAmountYardBonus": "Capacità di truppe nella difesa del cortile.",
+    "effect_description_allianceDefenseUnitAmountYardBonus": "+{0} alla capacità di truppe di supporto della coalizione.",
+    "effect_description_hiddenSoldiersSpace": "Capacità del rifugio delle unità"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Eroe",
@@ -15813,7 +15826,27 @@
     "equipment_unique_1169": "Seme dinverno",
     "equipment_unique_1169_desc": "Trasforma il tuo castello in unaccogliente chalet di legno, protetto da grandi abeti rossi dai venti gelidi del Ghiacciaio Semprinverno.",
     "equipment_unique_2622": "Seme dinverno",
-    "equipment_unique_2622_desc": "Trasforma il tuo castello in unaccogliente chalet di legno, protetto da grandi abeti rossi dai venti gelidi del Ghiacciaio Semprinverno."
+    "equipment_unique_2622_desc": "Trasforma il tuo castello in unaccogliente chalet di legno, protetto da grandi abeti rossi dai venti gelidi del Ghiacciaio Semprinverno.",
+    "equipment_unique_1170": "Trifoglio fortunato",
+    "equipment_unique_1170_desc": "Prendi in mano la tua fortuna in occasione della Festa dello smeraldo. Trasforma il tuo castello in una fortezza ricoperta di trifogli. || 135 ||",
+    "equipment_unique_1172_desc": "Prendi in mano la tua fortuna in occasione della Festa dello smeraldo. Trasforma il tuo castello in una fortezza ricoperta di trifogli. || 135 ||",
+    "equipment_unique_1172": "Trifoglio fortunato",
+    "equipment_unique_1171_desc": "Prendi in mano la tua fortuna in occasione della Festa dello smeraldo. Trasforma il tuo castello in una fortezza ricoperta di trifogli. || 135 ||",
+    "equipment_unique_1171": "Trifoglio fortunato",
+    "equipment_unique_1173": "Maschera di Carnevale",
+    "equipment_unique_1174": "Maschera di Carnevale",
+    "equipment_unique_1175": "Maschera di Carnevale",
+    "equipment_unique_1173_desc": "Un oggetto della città del festival. Trasforma la tua milizia nella guardia del Principe del Carnevale.",
+    "equipment_unique_1174_desc": "Un oggetto della città del festival. Trasforma la tua milizia nella guardia del Principe del Carnevale.",
+    "equipment_unique_1175_desc": "Un oggetto della città del festival. Trasforma la tua milizia nella guardia del Principe del Carnevale.",
+    "equipment_unique_1176": "Gondola del contrabbandiere",
+    "equipment_unique_1177": "Gondola del contrabbandiere",
+    "equipment_unique_1178": "Gondola del contrabbandiere",
+    "equipment_unique_1176_desc": "Un oggetto della città del festival. Trasforma la tua milizia nella guardia del Principe del Carnevale.",
+    "equipment_unique_1177_desc": "Un oggetto della città del festival. Trasforma la tua milizia nella guardia del Principe del Carnevale.",
+    "equipment_unique_1178_desc": "Le barche trasportano un carico prezioso, formato da oggetti ed esseri umani. Trasforma il tuo castello in unimmagine della città dei mille canali.",
+    "equipment_unique_1179": "Set da scacchi dellImperatore",
+    "equipment_unique_1179_desc": "Trasforma il tuo castello, donandogli lo stile di un prezioso set da scacchi."
   },
   "generic": {
     "activity": "Attività",
@@ -17722,7 +17755,15 @@
     "filters_category_111": "Gettone dei ghiacci",
     "currency_description_IceLTPEToken": "Questo gettone agghiacciante è tanto prezioso quanto gelido. Può essere scambiato con ricompense presso il mastro fabbro per un periodo limitato.",
     "currency_name_IceLTPEToken": "Gettone dei ghiacci",
-    "amountPerWave_limit_supportTool": "Numero massimo di strumenti nellondata di supporto allattacco"
+    "amountPerWave_limit_supportTool": "Numero massimo di strumenti nellondata di supporto allattacco",
+    "mysteryBox_boxName_WinterBox2022_4": "Scatola misteriosa invernale leggendaria",
+    "mysteryBox_boxName_WinterBox2022_3": "Scatola misteriosa invernale epica",
+    "mysteryBox_boxName_WinterBox2022_2": "Scatola misteriosa invernale rara",
+    "mysteryBox_boxName_WinterBox2022_1": "Scatola misteriosa invernale comune",
+    "mysteryBox_boxName_SpringBox2023_4": "Legendary spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_3": "Epic spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_2": "Rare spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_1": "Common spring mystery box"
   },
   "help": {
     "help_location": "Qui hai una panoramica globale dei contenuti importanti del castello e di tutti gli avamposti.",

@@ -1729,7 +1729,14 @@
     "deco_xmasUnicorn_name": "Todella upee joulu",
     "deco_christmashut_name": "Lumottu talviajan mökki",
     "deco_winterStoneSpider_name": "Jäätynyt tarantulalähde",
-    "deco_xmasRollercoaster_name": "Talviajan kelkkarata"
+    "deco_xmasRollercoaster_name": "Talviajan kelkkarata",
+    "ci_appearance_newKingGuardhouse": "Keisarillinen vartiotupa",
+    "ci_appearance_newKingGuardhouse_flavour": "Nämä vartijat kantavat ylpeinä kuningas Ericin värejä. Parempi vältellä hankaluuksia ja heidän huomiotaan.",
+    "deco_newKingBridgeRed_name": "Syksyinen kruunumonumentti",
+    "deco_newKingBridgeGreen_name": "Keväinen kruunumonumentti",
+    "deco_xmasRollercoaster2_name": "Talviajan karkkikeppirata",
+    "deco_stPatricksWagon_name": "Kolmiapilavankkurit",
+    "deco_valentinesLoveNest_name": "Häämatkan piilopaikka"
   },
   "dialogs": {
     "dialog_festival_desc": "Järjestä kansalaisillesi kestit ruokaa käyttämällä! Värväys nopeutuu kaikissa linnoissasi huomattavasti, niin kauan kuin kestit jatkuvat. Mitä isommat kestit järjestät, sitä suurempi niiden vaikutus on.",
@@ -2232,7 +2239,7 @@
     "dialog_newMessage_missingText": "Tekstiä ei ole syötetty.",
     "dialog_newMessage_sendMessage": "Lähetä viesti",
     "dialog_newMessage_yourText": "Tekstisi:",
-    "dialog_noFightMessage_copy": "Joukkosi eivät taistelleet, koska määränpäätä ei pidä enää hallussaan sen alkuperäinen omistaja tai se on suojeluksessa.",
+    "dialog_noFightMessage_copy": "Joukkosi eivät taistelleet, koska määränpäätä ei pidä enää hallussaan sen alkuperäinen omistaja, se on siirtynyt uuteen paikkaan tai se on hyökkäyssuojattu.",
     "dialog_noFightMessage_title": "Ei taistelua",
     "dialog_NoMoneyC1_copy": "Sinulla ei ole jäljellä kolikoita!",
     "dialog_NoMoneyC1_goToCastle": "Palaa linnaasi ja lähetä veronkantaja keräämään lisää kolikoita.",
@@ -5844,7 +5851,10 @@
     "pointsEvent_longPointsEvent_alienInvasion_condition02": "Ansaitse vähintään {0} mainepistettä kukistamalla vierasmaalainen linna",
     "pointsEvent_longPointsEvent_nomadInvasion_condition01": "Kerää vähintään 1 kaanipiste kukistamalla paimentolais- tai kaanileiri",
     "pointsEvent_longPointsEvent_nomadInvasion_condition02": "Kerää vähintään {0} kaanipistettä kukistamalla paimentolais- tai kaanileirejä",
-    "pointsEvent_longPointsEvent_nomadInvasion_condition03": "Käytä {0} kaanilaattaa kerralla",
+    "pointsEvent_longPointsEvent_nomadInvasion_condition03": [
+      "Käytä {0} kaanilaattaa kerralla",
+      "Käytä kaanilaattoja. Ansaitset pisteitä ostoksen jokaisesta {0} poletista"
+    ],
     "pointsEvent_longPointsEvent_alienInvasion_condition03": "Ansaitse vähintään {0} mainepistettä kukistamalla vierasmaalainen linna",
     "dialog_longPointsEvent_rewards": "Palkinnot ({0}/{1})",
     "dialog_longPointsEvent_nextReward": "Seuraava palkinto: {0} pistettä",
@@ -11098,10 +11108,11 @@
     "dialog_generals_overview_noAbilityUnlocked": "Ei aktiivista kykyä. Avaa kykyjä taitopuusta tai valitse niitä kykylistasta.",
     "unitsInCourtyard_limit_support": "Sisäpihan tukikapasiteetti",
     "generic_timeSkips_inventoryFull_warning_desc": "Tavaraluettelosi on jo täynnä valittuja ajanohituksia. Menetät ylimääräiset ajanohitukset. Haluatko silti jatkaa?",
-    "pointsEvent_longPointsEvent_nomadInvasion_condition03_new": "Käytä kaanilaattoja. Ansaitset pisteitä ostoksen jokaisesta {0} poletista",
     "pointsEvent_longPointsEvent_samuraiInvasion_condition03_new": "Käytä samurai-merkkejä. Ansaitset pisteitä ostoksen jokaisesta {0} poletista",
     "allianceDefenseUnitAmount": "Liittouman tukijoukkojen kapasiteetti",
-    "equip_effect_description_allianceDefenseUnitAmountYardBonus": "+{0} liittouman tukijoukkojen kapasiteettiin"
+    "equip_effect_description_allianceDefenseUnitAmountYardBonus": "+{0} liittouman tukijoukkojen kapasiteettiin",
+    "dialog_stronghold_capacity": "Yksikkökapasiteetti",
+    "dialog_stronghold_header": "Yksikkösuoja"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0} % armeijan matkanopeuteen valloitusten aikana",
@@ -12135,7 +12146,9 @@
     "ci_effect_defenseUnitAmountYardBonus": "+{0} sisäpihan puolustuksen joukkojen kapasiteettiin",
     "ci_effect_attackUnitAmountReinforcementBonus": "+{0} lopullisen hyökkäyksen joukkojen kapasiteettiin",
     "ci_effect_attackUnitAmountReinforcementBoost": "+{0} % lopullisen hyökkäyksen joukkokapasiteettiin",
-    "effect_description_defenseUnitAmountYardBonus": "Sisäpihan puolustuksen joukkokapasiteetti"
+    "effect_description_defenseUnitAmountYardBonus": "Sisäpihan puolustuksen joukkokapasiteetti",
+    "effect_description_allianceDefenseUnitAmountYardBonus": "+{0} liittouman tukijoukkojen kapasiteettiin",
+    "effect_description_hiddenSoldiersSpace": "Yksikkösuojan kapasiteetti"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Sankari",
@@ -15813,7 +15826,27 @@
     "equipment_unique_1169": "Talven siemen",
     "equipment_unique_1169_desc": "Muuta linnasi kotoisaksi hirsimökiksi, jota suuret kuuset suojaavat Ikitalven jäätikön hyytäviltä tuulilta.",
     "equipment_unique_2622": "Talven siemen",
-    "equipment_unique_2622_desc": "Muuta linnasi kotoisaksi hirsimökiksi, jota suuret kuuset suojaavat Ikitalven jäätikön hyytäviltä tuulilta."
+    "equipment_unique_2622_desc": "Muuta linnasi kotoisaksi hirsimökiksi, jota suuret kuuset suojaavat Ikitalven jäätikön hyytäviltä tuulilta.",
+    "equipment_unique_1170": "Onnen kolmiapila",
+    "equipment_unique_1170_desc": "Ota onni omiin käsiisi Smaragdifestivaalissa. Muuta linnasi apiloiden peittämäksi linnoitukseksi. || 97 ||",
+    "equipment_unique_1172_desc": "Ota onni omiin käsiisi Smaragdifestivaalissa. Muuta linnasi apiloiden peittämäksi linnoitukseksi. || 97 ||",
+    "equipment_unique_1172": "Onnen kolmiapila",
+    "equipment_unique_1171_desc": "Ota onni omiin käsiisi Smaragdifestivaalissa. Muuta linnasi apiloiden peittämäksi linnoitukseksi. || 97 ||",
+    "equipment_unique_1171": "Onnen kolmiapila",
+    "equipment_unique_1173": "Karnevaalinaamio",
+    "equipment_unique_1174": "Karnevaalinaamio",
+    "equipment_unique_1175": "Karnevaalinaamio",
+    "equipment_unique_1173_desc": "Esine festivaalikaupungista. Muuttaa armeijasi Karnevaaliprinssin kaartiksi.",
+    "equipment_unique_1174_desc": "Esine festivaalikaupungista. Muuttaa armeijasi Karnevaaliprinssin kaartiksi.",
+    "equipment_unique_1175_desc": "Esine festivaalikaupungista. Muuttaa armeijasi Karnevaaliprinssin kaartiksi.",
+    "equipment_unique_1176": "Salakuljettajan gondoli",
+    "equipment_unique_1177": "Salakuljettajan gondoli",
+    "equipment_unique_1178": "Salakuljettajan gondoli",
+    "equipment_unique_1176_desc": "Esine festivaalikaupungista. Muuttaa armeijasi Karnevaaliprinssin kaartiksi.",
+    "equipment_unique_1177_desc": "Esine festivaalikaupungista. Muuttaa armeijasi Karnevaaliprinssin kaartiksi.",
+    "equipment_unique_1178_desc": "Veneet kuljettavat arvokasta lastia, niin tavaraa kuin ihmisiäkin. Muuttaa linnasi tuhannen kanavan kaupungin näköiseksi.",
+    "equipment_unique_1179": "Keisarin shakkisetti",
+    "equipment_unique_1179_desc": "Muuttaa linnasi arvokkaan shakkisetin näköiseksi."
   },
   "generic": {
     "activity": "Toiminta",
@@ -17722,7 +17755,15 @@
     "filters_category_111": "Jäätikköpoletti",
     "currency_description_IceLTPEToken": "Tämä hyytävä poletti on yhtä arvokas kuin kylmäkin. Voidaan vaihtaa palkkioihin mestarisepällä rajoitetun ajan.",
     "currency_name_IceLTPEToken": "Jäätikköpoletti",
-    "amountPerWave_limit_supportTool": "Hyökkäyksen tukiaaltoon sijoitettavien työkalujen maksimimäärä"
+    "amountPerWave_limit_supportTool": "Hyökkäyksen tukiaaltoon sijoitettavien työkalujen maksimimäärä",
+    "mysteryBox_boxName_WinterBox2022_4": "Legendaarinen talvinen arvoituslaatikko",
+    "mysteryBox_boxName_WinterBox2022_3": "Eeppinen talvinen arvoituslaatikko",
+    "mysteryBox_boxName_WinterBox2022_2": "Harvinainen talvinen arvoituslaatikko",
+    "mysteryBox_boxName_WinterBox2022_1": "Yleinen talvinen arvoituslaatikko",
+    "mysteryBox_boxName_SpringBox2023_4": "Legendary spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_3": "Epic spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_2": "Rare spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_1": "Common spring mystery box"
   },
   "help": {
     "help_location": "Täältä saat yleiskatsauksen linnaasi ja etuvartioihisi liittyvään sisältöön.",

@@ -1729,7 +1729,14 @@
     "deco_xmasUnicorn_name": "素晴らしいホリデー",
     "deco_christmashut_name": "魔法のかかった冬の小屋",
     "deco_winterStoneSpider_name": "凍結したタランチュラの泉",
-    "deco_xmasRollercoaster_name": "冬のそりコースター"
+    "deco_xmasRollercoaster_name": "冬のそりコースター",
+    "ci_appearance_newKingGuardhouse": "皇帝の衛兵所",
+    "ci_appearance_newKingGuardhouse_flavour": "衛兵たちは、エリック王の色を誇り高く身に着けています。彼らの注意を引かないように、もめ事は避けましょう。",
+    "deco_newKingBridgeRed_name": "秋の王冠のモニュメント",
+    "deco_newKingBridgeGreen_name": "春の王冠のモニュメント",
+    "deco_xmasRollercoaster2_name": "冬のキャンディーケーンのコースター",
+    "deco_stPatricksWagon_name": "シャムロックの荷車",
+    "deco_valentinesLoveNest_name": "ハネムーンの隠れ家"
   },
   "dialogs": {
     "dialog_festival_desc": "食料を集めて宴会を開きましょう！\n宴会が続く限り、兵の雇用スピードがすべての城で速くなります。宴会が豪華になるほど、効果も大きくなります。",
@@ -2232,7 +2239,7 @@
     "dialog_newMessage_missingText": "本文を入力してください。",
     "dialog_newMessage_sendMessage": "送信メッセージ",
     "dialog_newMessage_yourText": "本文：",
-    "dialog_noFightMessage_copy": "所有者が変わったか、保護下にあるため、部隊は戦いませんでした。",
+    "dialog_noFightMessage_copy": "ターゲットの所有者が変わったか、新たな場所に移動したか、保護モード中にあるため、部隊は戦いません。",
     "dialog_noFightMessage_title": "戦いなし",
     "dialog_NoMoneyC1_copy": "コインが残っていません！",
     "dialog_NoMoneyC1_goToCastle": "城に戻り、収税官をコインの取立てに行かせましょう。",
@@ -5844,7 +5851,10 @@
     "pointsEvent_longPointsEvent_alienInvasion_condition02": "見知らぬ城主の城を攻略し、最低でも{0}栄光ポイント獲得する",
     "pointsEvent_longPointsEvent_nomadInvasion_condition01": "遊牧民またはハーンのキャンプを攻略し、最低でも遊牧民ポイントを1点獲得する",
     "pointsEvent_longPointsEvent_nomadInvasion_condition02": "遊牧民またはハーンのキャンプを攻略し、最低でも遊牧民ポイントを{0}点獲得する",
-    "pointsEvent_longPointsEvent_nomadInvasion_condition03": "ハーンの碑文を一度に{0}枚使う",
+    "pointsEvent_longPointsEvent_nomadInvasion_condition03": [
+      "ハーンの碑文を一度に{0}枚使う",
+      "ハーンの碑文を使う。購入の際、{0}トークンごとにポイントを獲得する"
+    ],
     "pointsEvent_longPointsEvent_alienInvasion_condition03": "見知らぬ城主の城を攻略し、最低でも{0}栄光ポイント獲得する",
     "dialog_longPointsEvent_rewards": "報酬（{0}/{1}）",
     "dialog_longPointsEvent_nextReward": "次の報酬：{0}ポイント",
@@ -11098,10 +11108,11 @@
     "dialog_generals_overview_noAbilityUnlocked": "有効なアビリティがありません。スキルツリーでアビリティをアンロックするか、アビリティのリストで選択してください。",
     "unitsInCourtyard_limit_support": "中庭の援軍の定員",
     "generic_timeSkips_inventoryFull_warning_desc": "選択したタイムスキップ用のインベントリがいっぱいです。追加のタイムスキップは失われます。進めてもよろしいですか？",
-    "pointsEvent_longPointsEvent_nomadInvasion_condition03_new": "ハーンの碑文を使う。購入の際、{0}トークンごとにポイントを獲得する",
     "pointsEvent_longPointsEvent_samuraiInvasion_condition03_new": "陶貨幣を使う。購入の際、{0}トークンごとにポイントを獲得する",
     "allianceDefenseUnitAmount": "同盟支援の部隊の定員",
-    "equip_effect_description_allianceDefenseUnitAmountYardBonus": "同盟支援の部隊の定員が+{0}"
+    "equip_effect_description_allianceDefenseUnitAmountYardBonus": "同盟支援の部隊の定員が+{0}",
+    "dialog_stronghold_capacity": "部隊数",
+    "dialog_stronghold_header": "部隊シェルター"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "占領中の軍の移動スピード　+{0}%",
@@ -12135,7 +12146,9 @@
     "ci_effect_defenseUnitAmountYardBonus": "中庭の防御の最大部隊数 +{0}",
     "ci_effect_attackUnitAmountReinforcementBonus": "最終攻撃の最大部隊数 +{0}",
     "ci_effect_attackUnitAmountReinforcementBoost": "最終攻撃の最大部隊数 +{0}%",
-    "effect_description_defenseUnitAmountYardBonus": "中庭の防衛部隊の定員"
+    "effect_description_defenseUnitAmountYardBonus": "中庭の防衛部隊の定員",
+    "effect_description_allianceDefenseUnitAmountYardBonus": "同盟支援の部隊の定員が+{0}",
+    "effect_description_hiddenSoldiersSpace": "部隊シェルターの容量"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "英雄",
@@ -15813,7 +15826,27 @@
     "equipment_unique_1169": "冬の種",
     "equipment_unique_1169_desc": "城を、大きなトウヒの木によって常冬の氷河から吹く凍てつく風から守られた、居心地の良いログハウスに変えます。",
     "equipment_unique_2622": "冬の種",
-    "equipment_unique_2622_desc": "城を、大きなトウヒの木によって常冬の氷河から吹く凍てつく風から守られた、居心地の良いログハウスに変えます。"
+    "equipment_unique_2622_desc": "城を、大きなトウヒの木によって常冬の氷河から吹く凍てつく風から守られた、居心地の良いログハウスに変えます。",
+    "equipment_unique_1170": "幸運のシャムロック",
+    "equipment_unique_1170_desc": "エメラルドフェスティバルでは、幸運を自分の手で掴みましょう。城がクローバーに覆われた砦に変化します。",
+    "equipment_unique_1172_desc": "エメラルドフェスティバルでは、幸運を自分の手で掴みましょう。城がクローバーに覆われた砦に変化します。",
+    "equipment_unique_1172": "幸運のシャムロック",
+    "equipment_unique_1171_desc": "エメラルドフェスティバルでは、幸運を自分の手で掴みましょう。城がクローバーに覆われた砦に変化します。",
+    "equipment_unique_1171": "幸運のシャムロック",
+    "equipment_unique_1173": "カーニバルの仮面",
+    "equipment_unique_1174": "カーニバルの仮面",
+    "equipment_unique_1175": "カーニバルの仮面",
+    "equipment_unique_1173_desc": "祝宴の街からやってきたアイテム。軍隊をカーニバルの王子の護衛に変えます。",
+    "equipment_unique_1174_desc": "祝宴の街からやってきたアイテム。軍隊をカーニバルの王子の護衛に変えます。",
+    "equipment_unique_1175_desc": "祝宴の街からやってきたアイテム。軍隊をカーニバルの王子の護衛に変えます。",
+    "equipment_unique_1176": "密輸人のゴンドラ",
+    "equipment_unique_1177": "密輸人のゴンドラ",
+    "equipment_unique_1178": "密輸人のゴンドラ",
+    "equipment_unique_1176_desc": "祝宴の街からやってきたアイテム。軍隊をカーニバルの王子の護衛に変えます。",
+    "equipment_unique_1177_desc": "祝宴の街からやってきたアイテム。軍隊をカーニバルの王子の護衛に変えます。",
+    "equipment_unique_1178_desc": "大切な荷物として、物と人の両方を運ぶ船。 城を千の運河を持つ街のイメージに変えます。",
+    "equipment_unique_1179": "皇帝のチェスセット",
+    "equipment_unique_1179_desc": "城を貴重なチェスセットに変えます。"
   },
   "generic": {
     "activity": "アクティビティ",
@@ -17722,7 +17755,15 @@
     "filters_category_111": "氷河のトークン",
     "currency_description_IceLTPEToken": "凍りつくほどに価値のある冷たいトークン。期間限定で名人鍛冶屋で報酬と交換できます。",
     "currency_name_IceLTPEToken": "氷河のトークン",
-    "amountPerWave_limit_supportTool": "攻撃サポートの波状攻撃での兵役の最大数"
+    "amountPerWave_limit_supportTool": "攻撃サポートの波状攻撃での兵役の最大数",
+    "mysteryBox_boxName_WinterBox2022_4": "伝説の冬のミステリーボックス",
+    "mysteryBox_boxName_WinterBox2022_3": "不朽の冬のミステリーボックス",
+    "mysteryBox_boxName_WinterBox2022_2": "貴重な冬のミステリーボックス",
+    "mysteryBox_boxName_WinterBox2022_1": "普通の冬のミステリーボックス",
+    "mysteryBox_boxName_SpringBox2023_4": "Legendary spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_3": "Epic spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_2": "Rare spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_1": "Common spring mystery box"
   },
   "help": {
     "help_location": "ここから、城や基地の\n重要な情報を見ることができます。",

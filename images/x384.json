@@ -8947,6 +8947,36 @@
     ],
     "fx": []
   },
+  "Deco_Building_newKingBridgeGreen": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_newKingBridgeGreen/Deco_Building_newKingBridgeGreen.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 136,
+        "h": 116,
+        "rx": 916,
+        "ry": 948
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_newKingBridgeRed": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_newKingBridgeRed/Deco_Building_newKingBridgeRed.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 137,
+        "h": 119,
+        "rx": 916,
+        "ry": 948
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_NewKingMazeGarden": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_NewKingMazeGarden/Deco_Building_NewKingMazeGarden.png",
@@ -10013,6 +10043,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_stPatricksWagon": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_stPatricksWagon/Deco_Building_stPatricksWagon.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 130,
+        "rx": 913,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_Sundial": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_Sundial/Deco_Building_Sundial.png",
@@ -10562,6 +10607,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_valentinesLoveNest": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_valentinesLoveNest/Deco_Building_valentinesLoveNest.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 124,
+        "rx": 908,
+        "ry": 951
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_Victorycolumn": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_Victorycolumn/Deco_Building_Victorycolumn.png",
@@ -10843,6 +10903,36 @@
         "h": 125,
         "rx": 913,
         "ry": 938
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_xmasRollercoaster": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_xmasRollercoaster/Deco_Building_xmasRollercoaster.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 136,
+        "h": 130,
+        "rx": 914,
+        "ry": 937
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_xmasRollercoaster2": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_xmasRollercoaster2/Deco_Building_xmasRollercoaster2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 137,
+        "rx": 908,
+        "ry": 929
       }
     ],
     "fx": []
@@ -19934,6 +20024,89 @@
       }
     ]
   },
+  "Stronghold_Building_Level1": {
+    "pid": 0,
+    "url": "x384/Buildings/Stronghold/Stronghold_Building_Level1/Stronghold_Building_Level1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 102,
+        "rx": 967,
+        "ry": 936
+      }
+    ],
+    "fx": [
+      {
+        "x": 10,
+        "y": -33,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "Stronghold_Building_Level2": {
+    "pid": 0,
+    "url": "x384/Buildings/Stronghold/Stronghold_Building_Level2/Stronghold_Building_Level2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 109,
+        "rx": 967,
+        "ry": 929
+      }
+    ],
+    "fx": []
+  },
+  "Stronghold_Building_Level3": {
+    "pid": 0,
+    "url": "x384/Buildings/Stronghold/Stronghold_Building_Level3/Stronghold_Building_Level3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 109,
+        "rx": 967,
+        "ry": 929
+      }
+    ],
+    "fx": []
+  },
+  "Stronghold_Building_Level4": {
+    "pid": 0,
+    "url": "x384/Buildings/Stronghold/Stronghold_Building_Level4/Stronghold_Building_Level4.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 109,
+        "rx": 967,
+        "ry": 929
+      }
+    ],
+    "fx": []
+  },
+  "Stronghold_Building_Level5": {
+    "pid": 0,
+    "url": "x384/Buildings/Stronghold/Stronghold_Building_Level5/Stronghold_Building_Level5.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 109,
+        "rx": 967,
+        "ry": 929
+      }
+    ],
+    "fx": []
+  },
   "Tavern_Building_Level1": {
     "pid": 0,
     "url": "x384/Buildings/Tavern/Tavern_Building_Level1/Tavern_Building_Level1.png",
@@ -22118,6 +22291,29 @@
       {
         "x": 6,
         "y": -135,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "newKingGuardhouse": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/newKingGuardhouse/newKingGuardhouse.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 113,
+        "h": 141,
+        "rx": 950,
+        "ry": 909
+      }
+    ],
+    "fx": [
+      {
+        "x": -29,
+        "y": -52,
         "scale": 0.25,
         "name": "damageHolder",
         "rotation": 0
@@ -42351,96 +42547,6 @@
     ],
     "fx": []
   },
-  "Background_Generals_Overview_Preview_Gradient_Toril": {
-    "pid": 0,
-    "url": "x384/Characters/Generals/Generals_Shared/Background_Generals_Overview_Preview_Gradient_Shared.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1211,
-        "h": 1217,
-        "rx": 999,
-        "ry": 999
-      }
-    ],
-    "fx": []
-  },
-  "Background_Generals_Overview_Preview_Gradient_Sasaki": {
-    "pid": 0,
-    "url": "x384/Characters/Generals/Generals_Shared/Background_Generals_Overview_Preview_Gradient_Shared.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1211,
-        "h": 1217,
-        "rx": 999,
-        "ry": 999
-      }
-    ],
-    "fx": []
-  },
-  "Background_Generals_Overview_Preview_Gradient_Leo": {
-    "pid": 0,
-    "url": "x384/Characters/Generals/Generals_Shared/Background_Generals_Overview_Preview_Gradient_Shared.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1211,
-        "h": 1217,
-        "rx": 999,
-        "ry": 999
-      }
-    ],
-    "fx": []
-  },
-  "Background_Generals_Overview_Preview_Gradient_Horatio": {
-    "pid": 0,
-    "url": "x384/Characters/Generals/Generals_Shared/Background_Generals_Overview_Preview_Gradient_Shared.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1211,
-        "h": 1217,
-        "rx": 999,
-        "ry": 999
-      }
-    ],
-    "fx": []
-  },
-  "Background_Generals_Overview_Preview_Gradient_Alyssa": {
-    "pid": 0,
-    "url": "x384/Characters/Generals/Generals_Shared/Background_Generals_Overview_Preview_Gradient_Shared.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1211,
-        "h": 1217,
-        "rx": 999,
-        "ry": 999
-      }
-    ],
-    "fx": []
-  },
-  "Background_Generals_Overview_Preview_Gradient_NoGeneral": {
-    "pid": 0,
-    "url": "x384/Characters/Generals/Generals_Shared/Background_Generals_Overview_Preview_Gradient_Shared.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1211,
-        "h": 1217,
-        "rx": 999,
-        "ry": 999
-      }
-    ],
-    "fx": []
-  },
   "Background_Generals_Overview_Alyssa": {
     "pid": 0,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Alyssa.png",
@@ -42480,81 +42586,6 @@
         "y": 0,
         "w": 1211,
         "h": 14,
-        "rx": 999,
-        "ry": 999
-      }
-    ],
-    "fx": []
-  },
-  "Background_Generals_Overview_Gradient_Alyssa": {
-    "pid": 0,
-    "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Gradient_Alyssa.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1208,
-        "h": 1214,
-        "rx": 999,
-        "ry": 999
-      }
-    ],
-    "fx": []
-  },
-  "Background_Generals_Overview_Gradient_Horatio": {
-    "pid": 0,
-    "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Gradient_Horatio.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1211,
-        "h": 1217,
-        "rx": 999,
-        "ry": 999
-      }
-    ],
-    "fx": []
-  },
-  "Background_Generals_Overview_Gradient_Leo": {
-    "pid": 0,
-    "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Gradient_Leo.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1211,
-        "h": 1217,
-        "rx": 999,
-        "ry": 999
-      }
-    ],
-    "fx": []
-  },
-  "Background_Generals_Overview_Gradient_Sasaki": {
-    "pid": 0,
-    "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Gradient_Sasaki.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1211,
-        "h": 1217,
-        "rx": 999,
-        "ry": 999
-      }
-    ],
-    "fx": []
-  },
-  "Background_Generals_Overview_Gradient_Toril": {
-    "pid": 0,
-    "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Gradient_Toril.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1211,
-        "h": 1217,
         "rx": 999,
         "ry": 999
       }
@@ -68311,6 +68342,21 @@
     ],
     "fx": []
   },
+  "icon_ci_effect_newking": {
+    "pid": 0,
+    "url": "x384/Icons/CI_Icons/icon_ci_effect_newking.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 45,
+        "rx": 976,
+        "ry": 977
+      }
+    ],
+    "fx": []
+  },
   "icon_ci_effect_pirates": {
     "pid": 2,
     "url": "x384/Icons/CI_Icons/icon_ci_effect_pirates.png",
@@ -68397,6 +68443,21 @@
         "h": 57,
         "rx": 971,
         "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_allianceDefenseUnitAmountYardBonus": {
+    "pid": 0,
+    "url": "x384/Icons/EffectIcons/icon_effect_allianceDefenseUnitAmountYardBonus.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 29,
+        "h": 35,
+        "rx": 985,
+        "ry": 982
       }
     ],
     "fx": []
@@ -71096,21 +71157,6 @@
         "w": 33,
         "h": 35,
         "rx": 983,
-        "ry": 982
-      }
-    ],
-    "fx": []
-  },
-  "icon_castlekeepsupportunitcount_small": {
-    "pid": 0,
-    "url": "x384/Icons/Icons/icon_castlekeepsupportunitcount_small.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 29,
-        "h": 35,
-        "rx": 985,
         "ry": 982
       }
     ],
@@ -87976,6 +88022,51 @@
     ],
     "fx": []
   },
+  "icon_stronghold_ds": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_stronghold_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 45,
+        "rx": 976,
+        "ry": 977
+      }
+    ],
+    "fx": []
+  },
+  "icon_stronghold_medium_ds": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_stronghold_medium_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 54,
+        "rx": 971,
+        "ry": 973
+      }
+    ],
+    "fx": []
+  },
+  "icon_stronghold_small": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_stronghold_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 33,
+        "rx": 982,
+        "ry": 983
+      }
+    ],
+    "fx": []
+  },
   "icon_stronghold": {
     "pid": 0,
     "url": "x384/Icons/Icons/icon_stronghold.png",
@@ -87983,10 +88074,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 55,
-        "h": 51,
-        "rx": 972,
-        "ry": 974
+        "w": 47,
+        "h": 45,
+        "rx": 976,
+        "ry": 977
       }
     ],
     "fx": []
@@ -91137,6 +91228,21 @@
         "h": 19,
         "rx": 983,
         "ry": 990
+      }
+    ],
+    "fx": []
+  },
+  "icon_castlekeepsupportunitcount_small": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_effect_allianceDefenseUnitAmountYardBonus_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 29,
+        "h": 35,
+        "rx": 985,
+        "ry": 982
       }
     ],
     "fx": []
@@ -111078,6 +111184,21 @@
     ],
     "fx": []
   },
+  "bottomBox_WinterBox2022": {
+    "pid": 0,
+    "url": "x384/MysteryBox/MysteryBoxSkins/bottomBox_WinterBox2022.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 114,
+        "rx": 897,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
   "box_pedestal_1": {
     "pid": 0,
     "url": "x384/MysteryBox/MysteryBoxSkins/box_pedestal_1.png",
@@ -111588,6 +111709,51 @@
     ],
     "fx": []
   },
+  "loot_box_WinterBox2022_small": {
+    "pid": 0,
+    "url": "x384/MysteryBox/MysteryBoxSkins/loot_box_WinterBox2022_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 102,
+        "h": 87,
+        "rx": 947,
+        "ry": 956
+      }
+    ],
+    "fx": []
+  },
+  "loot_box_WinterBox2022_xs": {
+    "pid": 0,
+    "url": "x384/MysteryBox/MysteryBoxSkins/loot_box_WinterBox2022_xs.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 65,
+        "rx": 960,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "loot_box_WinterBox2022": {
+    "pid": 0,
+    "url": "x384/MysteryBox/MysteryBoxSkins/loot_box_WinterBox2022.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 124,
+        "h": 106,
+        "rx": 936,
+        "ry": 947
+      }
+    ],
+    "fx": []
+  },
   "topBox_AutumnBox2022": {
     "pid": 0,
     "url": "x384/MysteryBox/MysteryBoxSkins/topBox_AutumnBox2022.png",
@@ -111689,6 +111855,21 @@
         "h": 93,
         "rx": 898,
         "ry": 916
+      }
+    ],
+    "fx": []
+  },
+  "topBox_WinterBox2022": {
+    "pid": 0,
+    "url": "x384/MysteryBox/MysteryBoxSkins/topBox_WinterBox2022.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 204,
+        "h": 97,
+        "rx": 895,
+        "ry": 913
       }
     ],
     "fx": []
@@ -122531,6 +122712,29 @@
       }
     ]
   },
+  "Castle_Mapobject_Special_StPatrickBaron": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_StPatrickBaron.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 58,
+        "rx": 996,
+        "ry": 982
+      }
+    ],
+    "fx": [
+      {
+        "x": 33,
+        "y": -2,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Castle_Mapobject_Special_StPatricks": {
     "pid": 0,
     "url": "x384/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_StPatricks.png",
@@ -123924,10 +124128,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 48,
-        "h": 31,
-        "rx": 994,
-        "ry": 1004
+        "w": 53,
+        "h": 35,
+        "rx": 991,
+        "ry": 1001
       }
     ],
     "fx": []
@@ -123939,10 +124143,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 48,
-        "h": 37,
-        "rx": 994,
-        "ry": 998
+        "w": 49,
+        "h": 39,
+        "rx": 993,
+        "ry": 996
       }
     ],
     "fx": []
@@ -123954,10 +124158,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 48,
-        "h": 41,
-        "rx": 994,
-        "ry": 994
+        "w": 49,
+        "h": 44,
+        "rx": 993,
+        "ry": 991
       }
     ],
     "fx": []
@@ -123969,10 +124173,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 48,
-        "h": 47,
-        "rx": 994,
-        "ry": 988
+        "w": 49,
+        "h": 50,
+        "rx": 993,
+        "ry": 985
       }
     ],
     "fx": []
@@ -124007,9 +124211,9 @@
     ],
     "fx": [
       {
-        "x": 0,
-        "y": 0,
-        "scale": 1,
+        "x": 18,
+        "y": 5,
+        "scale": 0.52,
         "name": "flagHolder",
         "rotation": 0
       }
@@ -124030,9 +124234,9 @@
     ],
     "fx": [
       {
-        "x": 0,
-        "y": 0,
-        "scale": 1,
+        "x": 22,
+        "y": 3,
+        "scale": 0.52,
         "name": "flagHolder",
         "rotation": 0
       }
@@ -124053,9 +124257,9 @@
     ],
     "fx": [
       {
-        "x": 0,
-        "y": 0,
-        "scale": 1,
+        "x": 25,
+        "y": -1,
+        "scale": 0.52,
         "name": "flagHolder",
         "rotation": 0
       }
@@ -124076,9 +124280,9 @@
     ],
     "fx": [
       {
-        "x": 0,
-        "y": 0,
-        "scale": 1,
+        "x": 27,
+        "y": -4,
+        "scale": 0.52,
         "name": "flagHolder",
         "rotation": 0
       }
@@ -125948,6 +126152,29 @@
       }
     ]
   },
+  "Castle_Mapobject_Capital_Classic_Special_StPatrickBaron": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_StPatrickBaron.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 87,
+        "rx": 987,
+        "ry": 961
+      }
+    ],
+    "fx": [
+      {
+        "x": -1,
+        "y": -16,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Castle_Mapobject_Capital_Classic_Special_StPatricks": {
     "pid": 0,
     "url": "x384/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_StPatricks.png",
@@ -127395,6 +127622,29 @@
       }
     ]
   },
+  "Metropol_Mapobject_Basic_Special_StPatrickBaron": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_StPatrickBaron.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 60,
+        "h": 69,
+        "rx": 989,
+        "ry": 998
+      }
+    ],
+    "fx": [
+      {
+        "x": 3,
+        "y": 8,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Metropol_Mapobject_Basic_Special_StPatricks": {
     "pid": 0,
     "url": "x384/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_StPatricks.png",
@@ -128681,6 +128931,29 @@
       {
         "x": 25,
         "y": 2,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "Outpost_Mapobject_Level_Special_StPatrickBaron": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Outposts/Outpost_Mapobject_Level_Special_StPatrickBaron/Outpost_Mapobject_Level_Special_StPatrickBaron.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 32,
+        "rx": 1008,
+        "ry": 1003
+      }
+    ],
+    "fx": [
+      {
+        "x": 24,
+        "y": 5,
         "scale": 0.52,
         "name": "flagHolder",
         "rotation": 0
@@ -130605,6 +130878,21 @@
         "h": 97,
         "rx": 938,
         "ry": 951
+      }
+    ],
+    "fx": []
+  },
+  "Preview_Castle_Mapobject_Special_StPatrickBaron": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Previews/Mapobjects_Preview/Preview_Castle_Mapobject_Special_StPatrickBaron.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 115,
+        "rx": 951,
+        "ry": 934
       }
     ],
     "fx": []

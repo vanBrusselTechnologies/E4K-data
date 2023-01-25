@@ -1729,7 +1729,14 @@
     "deco_xmasUnicorn_name": "Fabelaktig jul",
     "deco_christmashut_name": "Forhekset vinterhytte",
     "deco_winterStoneSpider_name": "Frossen tarantellkilde",
-    "deco_xmasRollercoaster_name": "Berg-og-dal-bane med sleder"
+    "deco_xmasRollercoaster_name": "Berg-og-dal-bane med sleder",
+    "ci_appearance_newKingGuardhouse": "Keiserlig vakthus",
+    "ci_appearance_newKingGuardhouse_flavour": "Disse vaktene bærer fargene til kong Erik med stolthet. Det er best å ikke havne i bråk, så du ikke tiltrekker deg oppmerksomheten deres.",
+    "deco_newKingBridgeRed_name": "Høstlig kronemonument",
+    "deco_newKingBridgeGreen_name": "Vårlig kronemonument",
+    "deco_xmasRollercoaster2_name": "Vinterlig sukkerstang-attraksjon",
+    "deco_stPatricksWagon_name": "Shamrock-vogn",
+    "deco_valentinesLoveNest_name": "Kjærlighetsrede"
   },
   "dialogs": {
     "dialog_festival_desc": "Bruk mat til å holde en festival for folket! Rekrutteringshastigheten vil markant økes ved alle slottene dine så lenge festivalen varer. Desto større festival, jo bedre effekt.",
@@ -2232,7 +2239,7 @@
     "dialog_newMessage_missingText": "Ingen tekst skrevet inn.",
     "dialog_newMessage_sendMessage": "Send melding",
     "dialog_newMessage_yourText": "Teksten din: ",
-    "dialog_noFightMessage_copy": "Troppene dine kjempet ikke, fordi deres måldestinasjon ikke lenger eies av den originale eieren eller er under beskyttelse.",
+    "dialog_noFightMessage_copy": "Troppene dine kjempet ikke, enten fordi målet deres ikke lenger eies av den originale eieren, fordi det befinner det seg på et nytt sted, eller fordi det beskyttes mot angrep.",
     "dialog_noFightMessage_title": "Ingen kamp",
     "dialog_NoMoneyC1_copy": "Du har ingen mynter igjen! ",
     "dialog_NoMoneyC1_goToCastle": "Dra tilbake til slottet og send skatteinnkreveren ut for å samle flere mynter.",
@@ -5844,7 +5851,10 @@
     "pointsEvent_longPointsEvent_alienInvasion_condition02": "Få minst {0} hederspoeng ved å overvinne et fremmed slott",
     "pointsEvent_longPointsEvent_nomadInvasion_condition01": "Få minst 1 Khan-poeng ved å beseire en nomade- eller Khan-leir",
     "pointsEvent_longPointsEvent_nomadInvasion_condition02": "Få minst {0} Khan-poeng ved å beseire nomade- eller Khan-leirer",
-    "pointsEvent_longPointsEvent_nomadInvasion_condition03": "Bruk {0} Khan-tavler på én gang",
+    "pointsEvent_longPointsEvent_nomadInvasion_condition03": [
+      "Bruk {0} Khan-tavler på én gang",
+      "Bruk Khan-tavler. Du får poeng for hver {0}. pollett du kjøper."
+    ],
     "pointsEvent_longPointsEvent_alienInvasion_condition03": "Få minst {0} hederspoeng ved å overvinne et fremmed slott",
     "dialog_longPointsEvent_rewards": "Belønninger ({0}/{1})",
     "dialog_longPointsEvent_nextReward": "Neste belønning: {0} poeng",
@@ -11098,10 +11108,11 @@
     "dialog_generals_overview_noAbilityUnlocked": "Ingen aktiv egenskap. Lås opp egenskaper på ferdighetstreet, eller velg dem i listen over egenskaper.",
     "unitsInCourtyard_limit_support": "Støttekapasitet på gårdsplassen",
     "generic_timeSkips_inventoryFull_warning_desc": "Beholdningen din for den valgte typen tidshopp er full. Tidshopp ut over dette vil gå tapt. Vil du fortsette allikevel?",
-    "pointsEvent_longPointsEvent_nomadInvasion_condition03_new": "Bruk Khan-tavler. Du får poeng for hver {0}. pollett du kjøper.",
     "pointsEvent_longPointsEvent_samuraiInvasion_condition03_new": "Bruk samuraimynter. Du får poeng for hver {0}. pollett du kjøper.",
     "allianceDefenseUnitAmount": "Kapasitet for alliansestøttetropper",
-    "equip_effect_description_allianceDefenseUnitAmountYardBonus": "+{0} i kapasitet for alliansestøttetropper"
+    "equip_effect_description_allianceDefenseUnitAmountYardBonus": "+{0} i kapasitet for alliansestøttetropper",
+    "dialog_stronghold_capacity": "Enhetskapasitet",
+    "dialog_stronghold_header": "Ly for enheter"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0} % reisehastighet for hær under erobringer",
@@ -12135,7 +12146,9 @@
     "ci_effect_defenseUnitAmountYardBonus": "+{0} til troppekapasiteten i gårdsplassforsvar",
     "ci_effect_attackUnitAmountReinforcementBonus": "+{0} til troppekapasiteten for siste angrep",
     "ci_effect_attackUnitAmountReinforcementBoost": "+{0} % til troppekapasiteten for siste angrep",
-    "effect_description_defenseUnitAmountYardBonus": "Kapasitet for forsvarstropper på gårdsplassen"
+    "effect_description_defenseUnitAmountYardBonus": "Kapasitet for forsvarstropper på gårdsplassen",
+    "effect_description_allianceDefenseUnitAmountYardBonus": "+{0} i kapasitet for alliansestøttetropper",
+    "effect_description_hiddenSoldiersSpace": "Kapasitet i ly for enheter"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Helt",
@@ -15813,7 +15826,27 @@
     "equipment_unique_1169": "Vinterens frø",
     "equipment_unique_1169_desc": "Forvandle slottet ditt til en koselig tømmerhytte, beskyttet mot de iskalde vindene i De tusen vintrers land av store grantrær.",
     "equipment_unique_2622": "Vinterens frø",
-    "equipment_unique_2622_desc": "Forvandle slottet ditt til en koselig tømmerhytte, beskyttet mot de iskalde vindene i De tusen vintrers land av store grantrær."
+    "equipment_unique_2622_desc": "Forvandle slottet ditt til en koselig tømmerhytte, beskyttet mot de iskalde vindene i De tusen vintrers land av store grantrær.",
+    "equipment_unique_1170": "Flaks-shamrock",
+    "equipment_unique_1170_desc": "Under smaragdfestivalen er du din egen lykkes smed. Med denne forvandles slottet ditt til et fort dekket av kløver. || 115 ||",
+    "equipment_unique_1172_desc": "Under smaragdfestivalen er du din egen lykkes smed. Med denne forvandles slottet ditt til et fort dekket av kløver. || 115 ||",
+    "equipment_unique_1172": "Flaks-shamrock",
+    "equipment_unique_1171_desc": "Under smaragdfestivalen er du din egen lykkes smed. Med denne forvandles slottet ditt til et fort dekket av kløver. || 115 ||",
+    "equipment_unique_1171": "Flaks-shamrock",
+    "equipment_unique_1173": "Karnevalmaske",
+    "equipment_unique_1174": "Karnevalmaske",
+    "equipment_unique_1175": "Karnevalmaske",
+    "equipment_unique_1173_desc": "En gjenstand fra festivalbyen. Gjør hæren din om til karnevalprinsens garde.",
+    "equipment_unique_1174_desc": "En gjenstand fra festivalbyen. Gjør hæren din om til karnevalprinsens garde.",
+    "equipment_unique_1175_desc": "En gjenstand fra festivalbyen. Gjør hæren din om til karnevalprinsens garde.",
+    "equipment_unique_1176": "Smuglers gondol",
+    "equipment_unique_1177": "Smuglers gondol",
+    "equipment_unique_1178": "Smuglers gondol",
+    "equipment_unique_1176_desc": "En gjenstand fra festivalbyen. Gjør hæren din om til karnevalprinsens garde.",
+    "equipment_unique_1177_desc": "En gjenstand fra festivalbyen. Gjør hæren din om til karnevalprinsens garde.",
+    "equipment_unique_1178_desc": "Båtene rommer kostbar last i form av både ting og mennesker. Gjør slottet ditt om til et bilde av byen med tusen kanaler.",
+    "equipment_unique_1179": "Keiserens sjakkspill",
+    "equipment_unique_1179_desc": "Gjør slottet ditt om til et sjakkspill."
   },
   "generic": {
     "activity": "Aktivitet",
@@ -17722,7 +17755,15 @@
     "filters_category_111": "Isbremynt",
     "currency_description_IceLTPEToken": "Denne mynten er både kostbar og iskald. Kan byttes mot belønninger hos mestersmeden i en kort periode.",
     "currency_name_IceLTPEToken": "Isbremynt",
-    "amountPerWave_limit_supportTool": "Maks antall verktøy i en angrepsstøttebølge"
+    "amountPerWave_limit_supportTool": "Maks antall verktøy i en angrepsstøttebølge",
+    "mysteryBox_boxName_WinterBox2022_4": "Legendarisk vintermysterieboks",
+    "mysteryBox_boxName_WinterBox2022_3": "Episk vintermysterieboks",
+    "mysteryBox_boxName_WinterBox2022_2": "Sjelden vintermysterieboks",
+    "mysteryBox_boxName_WinterBox2022_1": "Vanlig vintermysterieboks",
+    "mysteryBox_boxName_SpringBox2023_4": "Legendary spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_3": "Epic spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_2": "Rare spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_1": "Common spring mystery box"
   },
   "help": {
     "help_location": "Her har du en global oversikt over viktig innhold fra slottet ditt og utpostene.",

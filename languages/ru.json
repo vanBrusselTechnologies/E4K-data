@@ -1729,7 +1729,14 @@
     "deco_xmasUnicorn_name": "Праздник с размахом",
     "deco_christmashut_name": "Зачарованная заснеженная хижина",
     "deco_winterStoneSpider_name": "Родник &quot;Замерший тарантул&quot;",
-    "deco_xmasRollercoaster_name": "Зимние горки с санями"
+    "deco_xmasRollercoaster_name": "Зимние горки с санями",
+    "ci_appearance_newKingGuardhouse": "Имперская караулка",
+    "ci_appearance_newKingGuardhouse_flavour": "Эти стражники гордо носят форму с эмблемой короля Эрика. Лучше с ними не ссориться и не нарушать порядка.",
+    "deco_newKingBridgeRed_name": "Осенний монумент с короной",
+    "deco_newKingBridgeGreen_name": "Весенний монумент с короной",
+    "deco_xmasRollercoaster2_name": "Зимние горки с конфетами",
+    "deco_stPatricksWagon_name": "Повозка с трилистником",
+    "deco_valentinesLoveNest_name": "Убежище влюбленных"
   },
   "dialogs": {
     "dialog_festival_desc": "Используй еду, чтобы устроить пир для твоих горожан! Во время проведения пира, скорость найма во всех твоих замках заметно увеличится. Чем больше пир, тем больше эффект.",
@@ -2232,7 +2239,7 @@
     "dialog_newMessage_missingText": "Отсутствует введенный текст.",
     "dialog_newMessage_sendMessage": "Отправить сообщение",
     "dialog_newMessage_yourText": "Твой текст:",
-    "dialog_noFightMessage_copy": "Твои войска не сражались, так как цель больше не удерживается ее первоначальным владельцем или \nнаходится под защитой.",
+    "dialog_noFightMessage_copy": "Твои войска не сражались, так как цель больше не удерживается ее первоначальным владельцем, переместилась в другое место или защищена от нападений.",
     "dialog_noFightMessage_title": "Нет сражения",
     "dialog_NoMoneyC1_copy": "У тебя не осталось монет!",
     "dialog_NoMoneyC1_goToCastle": "Вернись в свой замок и отправь сборщика податей, чтобы собрать больше монет.",
@@ -5844,7 +5851,10 @@
     "pointsEvent_longPointsEvent_alienInvasion_condition02": "Получи {0} очков славы, захватив чужеземный замок",
     "pointsEvent_longPointsEvent_nomadInvasion_condition01": "Получи не менее 1 ханского очка за разгром кочевников или ханского лагеря",
     "pointsEvent_longPointsEvent_nomadInvasion_condition02": "Получи не менее {0} ханских очков за разгром кочевников или ханских лагерей",
-    "pointsEvent_longPointsEvent_nomadInvasion_condition03": "Потрать {0} ханских пайцз за раз",
+    "pointsEvent_longPointsEvent_nomadInvasion_condition03": [
+      "Потрать {0} ханских пайцз за раз",
+      "Трать ханские пайцзы. Ты получаешь по очку за каждые {0} пайцз, потраченных на покупку"
+    ],
     "pointsEvent_longPointsEvent_alienInvasion_condition03": "Получи {0} очков славы, захватив чужеземный замок",
     "dialog_longPointsEvent_rewards": "Награды ({0}/{1})",
     "dialog_longPointsEvent_nextReward": "Следующая награда: {0} очков",
@@ -11098,10 +11108,11 @@
     "dialog_generals_overview_noAbilityUnlocked": "Нет активных способностей. Открой способности в дереве навыков или выбери их в списке уже доступных способностей.",
     "unitsInCourtyard_limit_support": "Лимит поддержки во внутреннем дворе",
     "generic_timeSkips_inventoryFull_warning_desc": "В твоем инвентаре недостаточно места для выбранного типа ускорителей. Ускорители, для которых не хватит места, пропадут. Продолжать?",
-    "pointsEvent_longPointsEvent_nomadInvasion_condition03_new": "Трать ханские пайцзы. Ты получаешь по очку за каждые {0} пайцз, потраченных на покупку",
     "pointsEvent_longPointsEvent_samuraiInvasion_condition03_new": "Трать самурайские жетоны. Ты получаешь по очку за каждые {0} жетонов, потраченных на покупку",
     "allianceDefenseUnitAmount": "Макс. численность войск поддержки альянса",
-    "equip_effect_description_allianceDefenseUnitAmountYardBonus": "+{0} к макс. численности войск поддержки альянса"
+    "equip_effect_description_allianceDefenseUnitAmountYardBonus": "+{0} к макс. численности войск поддержки альянса",
+    "dialog_stronghold_capacity": "Вместимость",
+    "dialog_stronghold_header": "Убежище для войск"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% скорость передвижения армии при завоеваниях",
@@ -12135,7 +12146,9 @@
     "ci_effect_defenseUnitAmountYardBonus": "+{0} к макс. числу защитников при обороне внутреннего двора",
     "ci_effect_attackUnitAmountReinforcementBonus": "+{0} к макс. числу воинов для последнего штурма",
     "ci_effect_attackUnitAmountReinforcementBoost": "+{0}% к макс. числу воинов для последнего штурма",
-    "effect_description_defenseUnitAmountYardBonus": "Макс. число защитников внутреннего двора"
+    "effect_description_defenseUnitAmountYardBonus": "Макс. число защитников внутреннего двора",
+    "effect_description_allianceDefenseUnitAmountYardBonus": "+{0} к макс. численности войск поддержки альянса",
+    "effect_description_hiddenSoldiersSpace": "Вместимость убежища для войск"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Герой",
@@ -15813,7 +15826,27 @@
     "equipment_unique_1169": "Зимняя шишка",
     "equipment_unique_1169_desc": "Превращает твой замок в уютную избушку, вокруг которой растут большие ели, защищающие от метелей Вечнохолодного Ледника.",
     "equipment_unique_2622": "Зимняя шишка",
-    "equipment_unique_2622_desc": "Превращает твой замок в уютную избушку, вокруг которой растут большие ели, защищающие от метелей Вечнохолодного Ледника."
+    "equipment_unique_2622_desc": "Превращает твой замок в уютную избушку, вокруг которой растут большие ели, защищающие от метелей Вечнохолодного Ледника.",
+    "equipment_unique_1170": "Счастливый трилистник",
+    "equipment_unique_1170_desc": "Во время Изумрудного фестиваля твоя удача зависит от тебя! Превращает твой замок в крытую клевером крепость. || 108 ||",
+    "equipment_unique_1172_desc": "Во время Изумрудного фестиваля твоя удача зависит от тебя! Превращает твой замок в крытую клевером крепость. || 108 ||",
+    "equipment_unique_1172": "Счастливый трилистник",
+    "equipment_unique_1171_desc": "Во время Изумрудного фестиваля твоя удача зависит от тебя! Превращает твой замок в крытую клевером крепость. || 108 ||",
+    "equipment_unique_1171": "Счастливый трилистник",
+    "equipment_unique_1173": "Карнавальная маска",
+    "equipment_unique_1174": "Карнавальная маска",
+    "equipment_unique_1175": "Карнавальная маска",
+    "equipment_unique_1173_desc": "Предмет из города карнавалов. Превращает твою армию в стражу принца карнавала.",
+    "equipment_unique_1174_desc": "Предмет из города карнавалов. Превращает твою армию в стражу принца карнавала.",
+    "equipment_unique_1175_desc": "Предмет из города карнавалов. Превращает твою армию в стражу принца карнавала.",
+    "equipment_unique_1176": "Гондола контрабандистов",
+    "equipment_unique_1177": "Гондола контрабандистов",
+    "equipment_unique_1178": "Гондола контрабандистов",
+    "equipment_unique_1176_desc": "Предмет из города карнавалов. Превращает твою армию в стражу принца карнавала.",
+    "equipment_unique_1177_desc": "Предмет из города карнавалов. Превращает твою армию в стражу принца карнавала.",
+    "equipment_unique_1178_desc": "Такие лодки используются для перевозки людей и ценных грузов. Меняет внешний вид твоего замка, превращая его в город тысячи каналов.",
+    "equipment_unique_1179": "Шахматы императора",
+    "equipment_unique_1179_desc": "Превращает твой замок в драгоценный набор шахмат."
   },
   "generic": {
     "activity": "Активность",
@@ -17722,7 +17755,15 @@
     "filters_category_111": "Жетон ледника",
     "currency_description_IceLTPEToken": "Этот ценный жетон холодный как лед.  Его можно обменять на награды у кузнечного мастера в течение ограниченного времени.",
     "currency_name_IceLTPEToken": "Жетон ледника",
-    "amountPerWave_limit_supportTool": "Максимальное число орудий в волне поддержки атаки"
+    "amountPerWave_limit_supportTool": "Максимальное число орудий в волне поддержки атаки",
+    "mysteryBox_boxName_WinterBox2022_4": "Легендарный зимний ящик",
+    "mysteryBox_boxName_WinterBox2022_3": "Эпический зимний ящик",
+    "mysteryBox_boxName_WinterBox2022_2": "Редкий зимний ящик",
+    "mysteryBox_boxName_WinterBox2022_1": "Обычный зимний ящик",
+    "mysteryBox_boxName_SpringBox2023_4": "Legendary spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_3": "Epic spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_2": "Rare spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_1": "Common spring mystery box"
   },
   "help": {
     "help_location": "Здесь представлен глобальный обзор важного содержимого твоего замка и всех твоих аванпостов.",

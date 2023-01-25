@@ -1729,7 +1729,14 @@
     "deco_xmasUnicorn_name": "Fantastisk högtid",
     "deco_christmashut_name": "Förtrollad vinterhydda",
     "deco_winterStoneSpider_name": "Frusen spindelkälla",
-    "deco_xmasRollercoaster_name": "Vintrig slädbana"
+    "deco_xmasRollercoaster_name": "Vintrig slädbana",
+    "ci_appearance_newKingGuardhouse": "Kejserligt vakthus",
+    "ci_appearance_newKingGuardhouse_flavour": "Dessa vakter bär kung Eriks färger med stolthet. Håll dig undan och dra inte till dig deras uppmärksamhet.",
+    "deco_newKingBridgeRed_name": "Höstligt kronmonument",
+    "deco_newKingBridgeGreen_name": "Vårligt kronmonument",
+    "deco_xmasRollercoaster2_name": "Vintrig polkaberg- och dalbana",
+    "deco_stPatricksWagon_name": "Klövervagn",
+    "deco_valentinesLoveNest_name": "Smekmånadslya"
   },
   "dialogs": {
     "dialog_festival_desc": "Använd mat för att anordna en fest för dina medborgare! Rekryteringshastigheten ökar betydligt i alla dina slott så länge festen försiggår. Ju större festen är, desto större effekt.",
@@ -2232,7 +2239,7 @@
     "dialog_newMessage_missingText": "Ingen text har skrivits in.",
     "dialog_newMessage_sendMessage": "Skicka meddelande",
     "dialog_newMessage_yourText": "Din text:",
-    "dialog_noFightMessage_copy": "Dina trupper gick inte ut i strid, för destinationen ägs inte längre av dess ursprungliga ägare, eller står under beskydd.",
+    "dialog_noFightMessage_copy": "Dina trupper gick inte ut i strid, antingen för att destinationen inte längre ägs av dess ursprungliga ägare, har flyttat till en ny plats eller står under beskydd.",
     "dialog_noFightMessage_title": "Ingen strid",
     "dialog_NoMoneyC1_copy": "Du har inga mynt kvar!",
     "dialog_NoMoneyC1_goToCastle": "Återvänd till ditt slott och skicka ut skatteindrivaren för att samla in fler mynt.",
@@ -5844,7 +5851,10 @@
     "pointsEvent_longPointsEvent_alienInvasion_condition02": "Få minst {0} äropoäng genom att besegra ett främmande slott",
     "pointsEvent_longPointsEvent_nomadInvasion_condition01": "Tjäna ihop minst 1 khan-poäng genom att besegra ett nomad- eller khan-läger",
     "pointsEvent_longPointsEvent_nomadInvasion_condition02": "Tjäna ihop minst {0} khan-poäng genom att besegra nomad- eller khan-läger",
-    "pointsEvent_longPointsEvent_nomadInvasion_condition03": "Spendera {0} khan-stentavlor på en gång",
+    "pointsEvent_longPointsEvent_nomadInvasion_condition03": [
+      "Spendera {0} khan-stentavlor på en gång",
+      "Spendera Khan-stentavlor. Få poäng för varje {0} symboler i ett köp."
+    ],
     "pointsEvent_longPointsEvent_alienInvasion_condition03": "Få minst {0} äropoäng genom att besegra ett främmande slott",
     "dialog_longPointsEvent_rewards": "Belöningar ({0}/{1})",
     "dialog_longPointsEvent_nextReward": "Nästa belöning: {0} poäng",
@@ -11098,10 +11108,11 @@
     "dialog_generals_overview_noAbilityUnlocked": "Du har ingen aktiv förmåga. Lås upp förmågor i färdighetsträdet eller välj dem i listan över förmågor.",
     "unitsInCourtyard_limit_support": "Supportkapacitet på gårdsplanen",
     "generic_timeSkips_inventoryFull_warning_desc": "Ditt förråd är fullt för den valda typen av tidskipp. Alla ytterligare tidskippar kommer att gå förlorade. Vill du fortsätta ändå?",
-    "pointsEvent_longPointsEvent_nomadInvasion_condition03_new": "Spendera Khan-stentavlor. Få poäng för varje {0} symboler i ett köp.",
     "pointsEvent_longPointsEvent_samuraiInvasion_condition03_new": "Spendera samurajsymboler. Få poäng för varje {0} symboler i ett köp.",
     "allianceDefenseUnitAmount": "Truppkapacitet för allianssupport",
-    "equip_effect_description_allianceDefenseUnitAmountYardBonus": "+{0} till truppkapacitet för allianssupport"
+    "equip_effect_description_allianceDefenseUnitAmountYardBonus": "+{0} till truppkapacitet för allianssupport",
+    "dialog_stronghold_capacity": "Enhetskapacitet",
+    "dialog_stronghold_header": "Skyddsrum för enheter"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0} % resehastighet för armén under erövringar",
@@ -12135,7 +12146,9 @@
     "ci_effect_defenseUnitAmountYardBonus": "+{0} truppkapacitet i borggårdsförsvar",
     "ci_effect_attackUnitAmountReinforcementBonus": "+{0} truppkapacitet i sista anfallet",
     "ci_effect_attackUnitAmountReinforcementBoost": "+{0} % truppkapacitet i sista anfallet",
-    "effect_description_defenseUnitAmountYardBonus": "Borggårdsförsvarets truppkapacitet"
+    "effect_description_defenseUnitAmountYardBonus": "Borggårdsförsvarets truppkapacitet",
+    "effect_description_allianceDefenseUnitAmountYardBonus": "+{0} till truppkapacitet för allianssupport",
+    "effect_description_hiddenSoldiersSpace": "Kapacitet i skyddsrum för enheter"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Hjälte",
@@ -15813,7 +15826,27 @@
     "equipment_unique_1169": "Vinterfrö",
     "equipment_unique_1169_desc": "Förvandla ditt slott till en mysig timmerstuga med stora granar som skyddar mot Vinterglaciärens iskalla vindar.",
     "equipment_unique_2622": "Vinterfrö",
-    "equipment_unique_2622_desc": "Förvandla ditt slott till en mysig timmerstuga med stora granar som skyddar mot Vinterglaciärens iskalla vindar."
+    "equipment_unique_2622_desc": "Förvandla ditt slott till en mysig timmerstuga med stora granar som skyddar mot Vinterglaciärens iskalla vindar.",
+    "equipment_unique_1170": "Turklöver",
+    "equipment_unique_1170_desc": "Ta turen i dina egna händer under Smaragdfestivalen. Förvandla ditt slott till en klövertäckt fästning. || 103 ||",
+    "equipment_unique_1172_desc": "Ta turen i dina egna händer under Smaragdfestivalen. Förvandla ditt slott till en klövertäckt fästning. || 103 ||",
+    "equipment_unique_1172": "Turklöver",
+    "equipment_unique_1171_desc": "Ta turen i dina egna händer under Smaragdfestivalen. Förvandla ditt slott till en klövertäckt fästning. || 103 ||",
+    "equipment_unique_1171": "Turklöver",
+    "equipment_unique_1173": "Karnevalmask",
+    "equipment_unique_1174": "Karnevalmask",
+    "equipment_unique_1175": "Karnevalmask",
+    "equipment_unique_1173_desc": "Ett föremål från festivalstaden. Gör din armé till karnevalprinsens garde.",
+    "equipment_unique_1174_desc": "Ett föremål från festivalstaden. Gör din armé till karnevalprinsens garde.",
+    "equipment_unique_1175_desc": "Ett föremål från festivalstaden. Gör din armé till karnevalprinsens garde.",
+    "equipment_unique_1176": "Smugglargondol",
+    "equipment_unique_1177": "Smugglargondol",
+    "equipment_unique_1178": "Smugglargondol",
+    "equipment_unique_1176_desc": "Ett föremål från festivalstaden. Gör din armé till karnevalprinsens garde.",
+    "equipment_unique_1177_desc": "Ett föremål från festivalstaden. Gör din armé till karnevalprinsens garde.",
+    "equipment_unique_1178_desc": "Båtar med dyrbar last i form av både saker och människor. Ditt slott blir en avbild av de tusen kanalernas stad.",
+    "equipment_unique_1179": "Kejsarens schack",
+    "equipment_unique_1179_desc": "Gör ditt slott till en schackfästning."
   },
   "generic": {
     "activity": "Aktivera",
@@ -17722,7 +17755,15 @@
     "filters_category_111": "Glaciärsymbol",
     "currency_description_IceLTPEToken": "Den här iskalla symbolen är mycket värdefull. Byt mot belöningar hos mästarsmeden under en begränsad tid.",
     "currency_name_IceLTPEToken": "Glaciärsymbol",
-    "amountPerWave_limit_supportTool": "Max antal verktyg under en anfallssupportvåg"
+    "amountPerWave_limit_supportTool": "Max antal verktyg under en anfallssupportvåg",
+    "mysteryBox_boxName_WinterBox2022_4": "Legendarisk hemlig vinterlåda",
+    "mysteryBox_boxName_WinterBox2022_3": "Episk hemlig vinterlåda",
+    "mysteryBox_boxName_WinterBox2022_2": "Sällsynt hemlig vinterlåda",
+    "mysteryBox_boxName_WinterBox2022_1": "Vanlig hemlig vinterlåda",
+    "mysteryBox_boxName_SpringBox2023_4": "Legendary spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_3": "Epic spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_2": "Rare spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_1": "Common spring mystery box"
   },
   "help": {
     "help_location": "Här har du en global översikt över ditt slotts viktiga innehåll och alla dina utposter.",

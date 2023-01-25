@@ -1729,7 +1729,14 @@
     "deco_xmasUnicorn_name": "Υπέροχες διακοπές",
     "deco_christmashut_name": "Μαγεμένη χειμερινή καλύβα",
     "deco_winterStoneSpider_name": "Παγωμένη πηγή ταραντούλας",
-    "deco_xmasRollercoaster_name": "Χειμερινό τραινάκι με έλκηθρα"
+    "deco_xmasRollercoaster_name": "Χειμερινό τραινάκι με έλκηθρα",
+    "ci_appearance_newKingGuardhouse": "Αυτοκρατορικό φυλάκιο",
+    "ci_appearance_newKingGuardhouse_flavour": "Αυτοί οι φύλακες φορούν με υπερηφάνεια τα χρώματα του Βασιλιά Έρικ. Καλύτερα να μην κάνεις φασαρίες και να μην τραβήξεις την προσοχή τους.",
+    "deco_newKingBridgeRed_name": "Φθινοπωρινό μνημείο στέμματος",
+    "deco_newKingBridgeGreen_name": "Εαρινό μνημείο στέμματος",
+    "deco_xmasRollercoaster2_name": "Χειμερινό τρενάκι ζαχαρωτών",
+    "deco_stPatricksWagon_name": "Βαγόνι τριφυλλιού",
+    "deco_valentinesLoveNest_name": "Κρησφύγετο Μήνα μέλιτος"
   },
   "dialogs": {
     "dialog_festival_desc": "Χρησιμοποιήστε τρόφιμα, για να διοργανώσετε μία γιορτή για τους πολίτες σας!\nΌσο διαρκεί η γιορτή, η ταχύτητα στρατολόγησης σ όλα τα κάστρα σας θ αυξηθεί. Όσο μεγαλύτερη είναι η γιορτή, τόσο μεγαλύτερη είναι και η επίδραση.",
@@ -2232,7 +2239,7 @@
     "dialog_newMessage_missingText": "Δεν έχει εισαχθεί κείμενο",
     "dialog_newMessage_sendMessage": "Αποστολή μηνύματος",
     "dialog_newMessage_yourText": "Το κείμενό σας:",
-    "dialog_noFightMessage_copy": "Οι στρατιώτες σας δεν πολέμησαν, διότι ο στόχος δεν ανήκει πλέον στον αρχικό ιδιοκτήτη του ή βρίσκεται αυτήν τη στιγμή υπό προστασία.",
+    "dialog_noFightMessage_copy": "Τα στρατεύματά σου δεν πολέμησαν, διότι ο στόχος δεν ανήκει πλέον στον αρχικό ιδιοκτήτη του, έχει μεταφερθεί σε νέα τοποθεσία ή βρίσκεται αυτήν τη στιγμή σε προστασία από επιθέσεις.",
     "dialog_noFightMessage_title": "Καμία μάχη",
     "dialog_NoMoneyC1_copy": "Δεν σας έχουν απομείνει νομίσματα!",
     "dialog_NoMoneyC1_goToCastle": "Επιστρέψτε στο κάστρο σας και στείλτε τον φοροεισπράκτορα να εισπράξει περισσότερα νομίσματα.",
@@ -5844,7 +5851,10 @@
     "pointsEvent_longPointsEvent_alienInvasion_condition02": "Κέρδισε τουλάχιστον {0} βαθμούς δόξας νικώντας ένα ξένο κάστρο",
     "pointsEvent_longPointsEvent_nomadInvasion_condition01": "Σύλλεξε 1 βαθμό Χαν νικώντας νομάδα ή στρατόπεδο Χαν",
     "pointsEvent_longPointsEvent_nomadInvasion_condition02": "Σύλλεξε {0} βαθμούς Χαν νικώντας νομάδες ή στρατόπεδα Χαν",
-    "pointsEvent_longPointsEvent_nomadInvasion_condition03": "Ξόδεψε {0} πλάκες του Χαν ταυτόχρονα",
+    "pointsEvent_longPointsEvent_nomadInvasion_condition03": [
+      "Ξόδεψε {0} πλάκες του Χαν ταυτόχρονα",
+      "Ξόδεψε πλάκες του Χαν. Κέρδισε βαθμούς για κάθε {0} πλάκες σε μια αγορά"
+    ],
     "pointsEvent_longPointsEvent_alienInvasion_condition03": "Κέρδισε τουλάχιστον {0} βαθμούς δόξας νικώντας ένα ξένο κάστρο",
     "dialog_longPointsEvent_rewards": "Ανταμοιβές ({0}/{1})",
     "dialog_longPointsEvent_nextReward": "Επόμενη ανταμοιβή: {0} βαθμοί",
@@ -11098,10 +11108,11 @@
     "dialog_generals_overview_noAbilityUnlocked": "Δεν υπάρχει ενεργή ικανότητα. Ξεκλείδωσε ικανότητες στο δέντρο δεξιοτήτων ή επίλεξέ τες στη λίστα ικανοτήτων.",
     "unitsInCourtyard_limit_support": "Χωρητικότητα υποστήριξης αυλής",
     "generic_timeSkips_inventoryFull_warning_desc": "Το απόθεμά σας για τον επιλεγμένο τύπο παραλείψεων χρόνου είναι πλήρες. Τυχόν επιπλέον παραλείψεις χρόνου θα χάνονται. Συνέχεια;",
-    "pointsEvent_longPointsEvent_nomadInvasion_condition03_new": "Ξόδεψε πλάκες του Χαν. Κέρδισε βαθμούς για κάθε {0} πλάκες σε μια αγορά",
     "pointsEvent_longPointsEvent_samuraiInvasion_condition03_new": "Ξόδεψε μάρκες Σαμουράι. Κέρδισε βαθμούς για κάθε {0} μάρκες σε μια αγορά",
     "allianceDefenseUnitAmount": "Χωρητικότητα στρατευμάτων υποστήριξης συμμαχίας",
-    "equip_effect_description_allianceDefenseUnitAmountYardBonus": "+{0} στη χωρητικότητα στρατευμάτων υποστήριξης συμμαχίας"
+    "equip_effect_description_allianceDefenseUnitAmountYardBonus": "+{0} στη χωρητικότητα στρατευμάτων υποστήριξης συμμαχίας",
+    "dialog_stronghold_capacity": "Xωρητικότητα μονάδωv",
+    "dialog_stronghold_header": "Καταφύγιο μονάδων"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% ταχύτητα ταξιδιού στρατού κατά τη διάρκεια κατακτήσεων",
@@ -12135,7 +12146,9 @@
     "ci_effect_defenseUnitAmountYardBonus": "+{0} στη χωρητικότητα στρατευμάτων στην άμυνα στην αυλή",
     "ci_effect_attackUnitAmountReinforcementBonus": "+{0} στη χωρητικότητα στρατευμάτων για την τελική επίθεση",
     "ci_effect_attackUnitAmountReinforcementBoost": "+{0} στη χωρητ. στρατευμάτων για τελική επίθεση",
-    "effect_description_defenseUnitAmountYardBonus": "Χωρητικότητα στρατευμάτων υπεράσπισης αυλής"
+    "effect_description_defenseUnitAmountYardBonus": "Χωρητικότητα στρατευμάτων υπεράσπισης αυλής",
+    "effect_description_allianceDefenseUnitAmountYardBonus": "+{0} στη χωρητικότητα στρατευμάτων υποστήριξης συμμαχίας",
+    "effect_description_hiddenSoldiersSpace": "Χωρητικότητα καταφυγίου μονάδων"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Ήρωας",
@@ -15813,7 +15826,27 @@
     "equipment_unique_1169": "Σπόρος του Χειμώνα",
     "equipment_unique_1169_desc": "Μετατρέπει το κάστρο σου σε ζεστή καλύβα, που προστατεύεται από μεγάλα έλατα από τους παγωμένους ανέμους του Αιώνιου παγετώνα.",
     "equipment_unique_2622": "Σπόρος του Χειμώνα",
-    "equipment_unique_2622_desc": "Μετατρέπει το κάστρο σου σε ζεστή καλύβα, που προστατεύεται από μεγάλα έλατα από τους παγωμένους ανέμους του Αιώνιου παγετώνα."
+    "equipment_unique_2622_desc": "Μετατρέπει το κάστρο σου σε ζεστή καλύβα, που προστατεύεται από μεγάλα έλατα από τους παγωμένους ανέμους του Αιώνιου παγετώνα.",
+    "equipment_unique_1170": "Τυχερό τριφύλλι",
+    "equipment_unique_1170_desc": "Για το Σμαραγδένιο φεστιβάλ, πάρε την τύχη στα χέρια σου. Μετάτρεψε το κάστρο σου σε φρούριο γεμάτο τετράφυλλα τριφύλλια. || 121 ||",
+    "equipment_unique_1172_desc": "Για το Σμαραγδένιο φεστιβάλ, πάρε την τύχη στα χέρια σου. Μετάτρεψε το κάστρο σου σε φρούριο γεμάτο τετράφυλλα τριφύλλια. || 121 ||",
+    "equipment_unique_1172": "Τυχερό τριφύλλι",
+    "equipment_unique_1171_desc": "Για το Σμαραγδένιο φεστιβάλ, πάρε την τύχη στα χέρια σου. Μετάτρεψε το κάστρο σου σε φρούριο γεμάτο τετράφυλλα τριφύλλια. || 121 ||",
+    "equipment_unique_1171": "Τυχερό τριφύλλι",
+    "equipment_unique_1173": "Μάσκα καρναβαλιού",
+    "equipment_unique_1174": "Μάσκα καρναβαλιού",
+    "equipment_unique_1175": "Μάσκα καρναβαλιού",
+    "equipment_unique_1173_desc": "Αντικείμενο από την πόλη καρναβαλιού. Μετατρέπει τον στρατό σου στη φρουρά του Πρίγκιπα καρναβαλιού.",
+    "equipment_unique_1174_desc": "Αντικείμενο από την πόλη καρναβαλιού. Μετατρέπει τον στρατό σου στη φρουρά του Πρίγκιπα καρναβαλιού.",
+    "equipment_unique_1175_desc": "Αντικείμενο από την πόλη καρναβαλιού. Μετατρέπει τον στρατό σου στη φρουρά του Πρίγκιπα καρναβαλιού.",
+    "equipment_unique_1176": "Γόνδολα λαθρέμπορου",
+    "equipment_unique_1177": "Γόνδολα λαθρέμπορου",
+    "equipment_unique_1178": "Γόνδολα λαθρέμπορου",
+    "equipment_unique_1176_desc": "Αντικείμενο από την πόλη καρναβαλιού. Μετατρέπει τον στρατό σου στη φρουρά του Πρίγκιπα καρναβαλιού.",
+    "equipment_unique_1177_desc": "Αντικείμενο από την πόλη καρναβαλιού. Μετατρέπει τον στρατό σου στη φρουρά του Πρίγκιπα καρναβαλιού.",
+    "equipment_unique_1178_desc": "Τα πλοία μεταφέρουν πολύτιμο φορτίο, αντικείμενα και ανθρώπους. Μετατρέπει το κάστρο σου σε εικόνα της πόλης των χιλίων καναλιών.",
+    "equipment_unique_1179": "Σετ σκακιού αυτοκράτορα",
+    "equipment_unique_1179_desc": "Μετατρέπει το κάστρο σου σε στυλ πολύτιμης σκακιέρας."
   },
   "generic": {
     "activity": "Δραστηριότητα",
@@ -17722,7 +17755,15 @@
     "filters_category_111": "Μάρκα Παγετώνα",
     "currency_description_IceLTPEToken": "Αυτή η ψυχρή μάρκα δεν είναι μόνο πολύτιμη, αλλά και παγωμένη. Μπορείς να την ανταλλάξεις με ανταμοιβές στον Αρχισιδηρουργό για περιορισμένο χρόνο.",
     "currency_name_IceLTPEToken": "Μάρκα Παγετώνα",
-    "amountPerWave_limit_supportTool": "Μέγιστος αριθμός εργαλείων σε κύμα υποστήριξης επίθεσης"
+    "amountPerWave_limit_supportTool": "Μέγιστος αριθμός εργαλείων σε κύμα υποστήριξης επίθεσης",
+    "mysteryBox_boxName_WinterBox2022_4": "Θρυλικό χειμερινό μυστηριώδες κιβώτιο",
+    "mysteryBox_boxName_WinterBox2022_3": "Επικό χειμερινό μυστηριώδες κιβώτιο",
+    "mysteryBox_boxName_WinterBox2022_2": "Σπάνιο χειμερινό μυστηριώδες κιβώτιο",
+    "mysteryBox_boxName_WinterBox2022_1": "Κοινό χειμερινό μυστηριώδες κιβώτιο",
+    "mysteryBox_boxName_SpringBox2023_4": "Legendary spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_3": "Epic spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_2": "Rare spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_1": "Common spring mystery box"
   },
   "help": {
     "help_location": "Εδώ έχετε παγκόσμια επισκόπηση των σημαντικών περιεχομένων του κάστρου σας και των οχυρών σας.",

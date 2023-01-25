@@ -1729,7 +1729,14 @@
     "deco_xmasUnicorn_name": "美好假日",
     "deco_christmashut_name": "魔幻冬時小屋",
     "deco_winterStoneSpider_name": "凍蛛之泉",
-    "deco_xmasRollercoaster_name": "冬季雪橇飛車"
+    "deco_xmasRollercoaster_name": "冬季雪橇飛車",
+    "ci_appearance_newKingGuardhouse": "帝國崗哨樓",
+    "ci_appearance_newKingGuardhouse_flavour": "這些衛兵自豪地身穿艾瑞克國王的色彩。最好別惹麻煩，不要引起他們注意。",
+    "deco_newKingBridgeRed_name": "秋季皇冠紀念碑",
+    "deco_newKingBridgeGreen_name": "春季皇冠紀念碑",
+    "deco_xmasRollercoaster2_name": "冬時拐杖糖飛車",
+    "deco_stPatricksWagon_name": "三葉草馬車",
+    "deco_valentinesLoveNest_name": "蜜月秘莊"
   },
   "dialogs": {
     "dialog_festival_desc": "用食物幫你的居民舉辦一場盛宴吧！在盛宴期間，你所有城堡的招募速度會大幅提高。宴會越大，效果越好。",
@@ -2232,7 +2239,7 @@
     "dialog_newMessage_missingText": "尚未輸入文字。",
     "dialog_newMessage_sendMessage": "發送訊息",
     "dialog_newMessage_yourText": "你的文字：",
-    "dialog_noFightMessage_copy": "你的部隊並沒有進行戰鬥，因為目的地已經不是原本持有人所有，或者目的地正處於保護狀態。",
+    "dialog_noFightMessage_copy": "你的部隊並沒有進行戰鬥，因為目的地已經不是原本持有人所有，或已搬遷到新位置，或正處於攻擊保護狀態。",
     "dialog_noFightMessage_title": "沒有戰爭",
     "dialog_NoMoneyC1_copy": "你沒錢幣了！",
     "dialog_NoMoneyC1_goToCastle": "返回你的城堡，派出稅官去收集更多的錢幣。",
@@ -5844,7 +5851,10 @@
     "pointsEvent_longPointsEvent_alienInvasion_condition02": "擊敗異邦城堡領主獲得至少 {0} 點榮耀得分",
     "pointsEvent_longPointsEvent_nomadInvasion_condition01": "擊破一座遊牧民或可汗軍營來收集至少 1 點可汗點數",
     "pointsEvent_longPointsEvent_nomadInvasion_condition02": "擊破一座遊牧民或可汗軍營來收集至少 {0} 點可汗點數",
-    "pointsEvent_longPointsEvent_nomadInvasion_condition03": "一次花費 {0} 面可汗字牌",
+    "pointsEvent_longPointsEvent_nomadInvasion_condition03": [
+      "一次花費 {0} 面可汗字牌",
+      "花費可汗字牌。一次購買中每 {0} 個代幣可獲得點數"
+    ],
     "pointsEvent_longPointsEvent_alienInvasion_condition03": "擊敗異邦城堡領主獲得至少 {0} 點榮耀得分",
     "dialog_longPointsEvent_rewards": "獎勵（{0}/{1}）",
     "dialog_longPointsEvent_nextReward": "下個獎勵：{0} 分",
@@ -11098,10 +11108,11 @@
     "dialog_generals_overview_noAbilityUnlocked": "未啟用能力。請在技能樹解鎖能力或在能力清單中選擇能力。",
     "unitsInCourtyard_limit_support": "內城支援容量",
     "generic_timeSkips_inventoryFull_warning_desc": "所選類型的時間略過庫存已滿。將會失去新增的任何時間庫存。仍要繼續嗎？",
-    "pointsEvent_longPointsEvent_nomadInvasion_condition03_new": "花費可汗字牌。一次購買中每 {0} 個代幣可獲得點數",
     "pointsEvent_longPointsEvent_samuraiInvasion_condition03_new": "花費武士字牌。一次購買中每 {0} 個代幣可獲得點數",
     "allianceDefenseUnitAmount": "同盟支援部隊容量",
-    "equip_effect_description_allianceDefenseUnitAmountYardBonus": "同盟支援部隊容量 +{0}"
+    "equip_effect_description_allianceDefenseUnitAmountYardBonus": "同盟支援部隊容量 +{0}",
+    "dialog_stronghold_capacity": "部隊容納空間",
+    "dialog_stronghold_header": "部隊照護所"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% 出征時的軍隊巡游速度",
@@ -12135,7 +12146,9 @@
     "ci_effect_defenseUnitAmountYardBonus": "內城防守的部隊容量 +{0}",
     "ci_effect_attackUnitAmountReinforcementBonus": "最終突擊的部隊容量 +{0}",
     "ci_effect_attackUnitAmountReinforcementBoost": "最終突擊的部隊容量 +{0}%",
-    "effect_description_defenseUnitAmountYardBonus": "內城防禦部隊容量"
+    "effect_description_defenseUnitAmountYardBonus": "內城防禦部隊容量",
+    "effect_description_allianceDefenseUnitAmountYardBonus": "同盟支援部隊容量 +{0}",
+    "effect_description_hiddenSoldiersSpace": "部隊照護所容量"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "英雄",
@@ -15813,7 +15826,27 @@
     "equipment_unique_1169": "冬季種子",
     "equipment_unique_1169_desc": "將你的城堡變成舒適的木屋，以大株樹木來保護永冬冰河的刺骨寒風。",
     "equipment_unique_2622": "冬季種子",
-    "equipment_unique_2622_desc": "將你的城堡變成舒適的木屋，以大株樹木來保護永冬冰河的刺骨寒風。"
+    "equipment_unique_2622_desc": "將你的城堡變成舒適的木屋，以大株樹木來保護永冬冰河的刺骨寒風。",
+    "equipment_unique_1170": "幸運三葉草",
+    "equipment_unique_1170_desc": "在綠寶石慶典期間，把幸運掌握在自己手裡。能使你的城堡變成覆蓋幸運草的要塞。",
+    "equipment_unique_1172_desc": "在綠寶石慶典期間，把幸運掌握在自己手裡。能使你的城堡變成覆蓋幸運草的要塞。",
+    "equipment_unique_1172": "幸運三葉草",
+    "equipment_unique_1171_desc": "在綠寶石慶典期間，把幸運掌握在自己手裡。能使你的城堡變成覆蓋幸運草的要塞。",
+    "equipment_unique_1171": "幸運三葉草",
+    "equipment_unique_1173": "嘉年華面具",
+    "equipment_unique_1174": "嘉年華面具",
+    "equipment_unique_1175": "嘉年華面具",
+    "equipment_unique_1173_desc": "來自節慶城市的物品。會將你的軍隊變成嘉年華王子的守衛。",
+    "equipment_unique_1174_desc": "來自節慶城市的物品。會將你的軍隊變成嘉年華王子的守衛。",
+    "equipment_unique_1175_desc": "來自節慶城市的物品。會將你的軍隊變成嘉年華王子的守衛。",
+    "equipment_unique_1176": "走私者的貢多拉",
+    "equipment_unique_1177": "走私者的貢多拉",
+    "equipment_unique_1178": "走私者的貢多拉",
+    "equipment_unique_1176_desc": "來自節慶城市的物品。會將你的軍隊變成嘉年華王子的守衛。",
+    "equipment_unique_1177_desc": "來自節慶城市的物品。會將你的軍隊變成嘉年華王子的守衛。",
+    "equipment_unique_1178_desc": "這些小船載運珍貴的貨物，包括物件和人員。會將你的城堡變成有千條運河的城市的模樣。",
+    "equipment_unique_1179": "皇帝棋組",
+    "equipment_unique_1179_desc": "將你的城堡變成珍貴的棋盤。"
   },
   "generic": {
     "activity": "活動",
@@ -17722,7 +17755,15 @@
     "filters_category_111": "冰河代幣",
     "currency_description_IceLTPEToken": "這枚冰冷代幣的價值正如其冰寒的程度。在限定時間內，可用來在大師鐵匠處兌換獎勵。",
     "currency_name_IceLTPEToken": "冰河代幣",
-    "amountPerWave_limit_supportTool": "進攻支援波的武器最大數量"
+    "amountPerWave_limit_supportTool": "進攻支援波的武器最大數量",
+    "mysteryBox_boxName_WinterBox2022_4": "傳奇冬季神秘箱",
+    "mysteryBox_boxName_WinterBox2022_3": "超凡冬季神秘箱",
+    "mysteryBox_boxName_WinterBox2022_2": "稀有冬季神秘箱",
+    "mysteryBox_boxName_WinterBox2022_1": "普通冬季神秘箱",
+    "mysteryBox_boxName_SpringBox2023_4": "Legendary spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_3": "Epic spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_2": "Rare spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_1": "Common spring mystery box"
   },
   "help": {
     "help_location": "在這裡，你可以看到關於你的城堡和所有前哨重要內容的總體概況。",

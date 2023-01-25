@@ -1729,7 +1729,14 @@
     "deco_xmasUnicorn_name": "Fiestas fabulosas",
     "deco_christmashut_name": "Choza del invierno hechizada",
     "deco_winterStoneSpider_name": "Manantial de tarántula congelada",
-    "deco_xmasRollercoaster_name": "Montaña rusa en trineo del invierno"
+    "deco_xmasRollercoaster_name": "Montaña rusa en trineo del invierno",
+    "ci_appearance_newKingGuardhouse": "Puesto de guardia imperial",
+    "ci_appearance_newKingGuardhouse_flavour": "Estos guardias visten con orgullo los colores del rey Eric. Será mejor que no te metas en problemas para no llamar su atención.",
+    "deco_newKingBridgeRed_name": "Monumento otoñal a la corona",
+    "deco_newKingBridgeGreen_name": "Monumento vernal a la corona",
+    "deco_xmasRollercoaster2_name": "Montaña rusa con bastones de caramelo del invierno",
+    "deco_stPatricksWagon_name": "Carro de tréboles",
+    "deco_valentinesLoveNest_name": "Nidito de luna de miel"
   },
   "dialogs": {
     "dialog_festival_desc": "¡Usa comida para celebrar un festín para tus ciudadanos! La velocidad de reclutamiento aumentará considerablemente en todos tus castillos mientras dure el festín. Mientras más grande sea el festín, mayor será el efecto.",
@@ -2232,7 +2239,7 @@
     "dialog_newMessage_missingText": "No se ingresó ningún texto.",
     "dialog_newMessage_sendMessage": "Enviar mensaje",
     "dialog_newMessage_yourText": "Tu texto:",
-    "dialog_noFightMessage_copy": "Tus tropas no han luchado porque el objetivo ya no pertenece a su propietario original o está bajo protección.",
+    "dialog_noFightMessage_copy": "Tus tropas no han luchado porque el objetivo ya no pertenece a su propietario original, se ha reubicado a un lugar nuevo o está bajo protección.",
     "dialog_noFightMessage_title": "Sin batalla",
     "dialog_NoMoneyC1_copy": "¡Ya no te quedan monedas!",
     "dialog_NoMoneyC1_goToCastle": "Regresa al castillo y envía al recaudador de impuestos a recaudar más monedas.",
@@ -5844,7 +5851,10 @@
     "pointsEvent_longPointsEvent_alienInvasion_condition02": "Gana al menos {0} puntos de gloria por derrotar un castillo extranjero",
     "pointsEvent_longPointsEvent_nomadInvasion_condition01": "Obtén al menos 1 punto Khan por derrotar un campamento Khan o nómada.",
     "pointsEvent_longPointsEvent_nomadInvasion_condition02": "Obtén al menos {0} puntos Khan por derrotar camp. Khan o nómadas.",
-    "pointsEvent_longPointsEvent_nomadInvasion_condition03": "Gasta {0} tablillas Khan a la vez",
+    "pointsEvent_longPointsEvent_nomadInvasion_condition03": [
+      "Gasta {0} tablillas Khan a la vez",
+      "Gasta tablillas Khan. Consigues puntos por cada {0} tablillas en una compra."
+    ],
     "pointsEvent_longPointsEvent_alienInvasion_condition03": "Gana al menos {0} puntos de gloria por derrotar un castillo extranjero",
     "dialog_longPointsEvent_rewards": "Recompensas ({0}/{1})",
     "dialog_longPointsEvent_nextReward": "Puntos para la siguiente recompensa: {0}",
@@ -11098,10 +11108,11 @@
     "dialog_generals_overview_noAbilityUnlocked": "No hay ninguna aptitud activa. Desbloquea aptitudes en el árbol de habilidades o selecciónalas en la lista de aptitudes.",
     "unitsInCourtyard_limit_support": "Capacidad de apoyo en el patio",
     "generic_timeSkips_inventoryFull_warning_desc": "No puedes tener más reducciones de tiempo del tipo seleccionado en el inventario. Las que superen el límite se perderán. ¿Quieres continuar de todas formas?",
-    "pointsEvent_longPointsEvent_nomadInvasion_condition03_new": "Gasta tablillas Khan. Consigues puntos por cada {0} tablillas en una compra.",
     "pointsEvent_longPointsEvent_samuraiInvasion_condition03_new": "Gasta fichas samuráis. Consigues puntos por cada {0} fichas en una compra.",
     "allianceDefenseUnitAmount": "Capacidad de tropas de ayudas de alianza",
-    "equip_effect_description_allianceDefenseUnitAmountYardBonus": "Capacidad de tropas de ayudas de alianza: +{0}"
+    "equip_effect_description_allianceDefenseUnitAmountYardBonus": "Capacidad de tropas de ayudas de alianza: +{0}",
+    "dialog_stronghold_capacity": "Capacidad de unidades",
+    "dialog_stronghold_header": "Refugio para unidades"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "Velocidad de viaje del ejército en las conquistas: +{0} %",
@@ -12135,7 +12146,9 @@
     "ci_effect_defenseUnitAmountYardBonus": "Capacidad de tropas en la defensa del patio: +{0}.",
     "ci_effect_attackUnitAmountReinforcementBonus": "Capacidad de tropas para el asalto final: +{0}.",
     "ci_effect_attackUnitAmountReinforcementBoost": "Capacidad de tropas para el asalto final: +{0} %.",
-    "effect_description_defenseUnitAmountYardBonus": "Capacidad de tropas en la defensa del patio"
+    "effect_description_defenseUnitAmountYardBonus": "Capacidad de tropas en la defensa del patio",
+    "effect_description_allianceDefenseUnitAmountYardBonus": "Capacidad de tropas de ayudas de alianza: +{0}",
+    "effect_description_hiddenSoldiersSpace": "Capacidad del refugio para unidades"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Héroe",
@@ -15813,7 +15826,27 @@
     "equipment_unique_1169": "Semilla del invierno",
     "equipment_unique_1169_desc": "Transforma tu castillo en una acogedora cabaña de madera protegida del helador viento por los altos pinos del Glaciar Inviernoeterno.",
     "equipment_unique_2622": "Semilla del invierno",
-    "equipment_unique_2622_desc": "Transforma tu castillo en una acogedora cabaña de madera protegida del helador viento por los altos pinos del Glaciar Inviernoeterno."
+    "equipment_unique_2622_desc": "Transforma tu castillo en una acogedora cabaña de madera protegida del helador viento por los altos pinos del Glaciar Inviernoeterno.",
+    "equipment_unique_1170": "Trébol de la suerte",
+    "equipment_unique_1170_desc": "Fórjate tu propia suerte con motivo del Festival Esmeralda. Transforma tu castillo en una fortaleza cubierta de tréboles. || 121 ||",
+    "equipment_unique_1172_desc": "Fórjate tu propia suerte con motivo del Festival Esmeralda. Transforma tu castillo en una fortaleza cubierta de tréboles. || 121 ||",
+    "equipment_unique_1172": "Trébol de la suerte",
+    "equipment_unique_1171_desc": "Fórjate tu propia suerte con motivo del Festival Esmeralda. Transforma tu castillo en una fortaleza cubierta de tréboles. || 121 ||",
+    "equipment_unique_1171": "Trébol de la suerte",
+    "equipment_unique_1173": "Máscara carnavalesca",
+    "equipment_unique_1174": "Máscara carnavalesca",
+    "equipment_unique_1175": "Máscara carnavalesca",
+    "equipment_unique_1173_desc": "Un objeto de la ciudad del festival. Transforma tus tropas en la guardia del príncipe del carnaval.",
+    "equipment_unique_1174_desc": "Un objeto de la ciudad del festival. Transforma tus tropas en la guardia del príncipe del carnaval.",
+    "equipment_unique_1175_desc": "Un objeto de la ciudad del festival. Transforma tus tropas en la guardia del príncipe del carnaval.",
+    "equipment_unique_1176": "Góndola de contrabandista",
+    "equipment_unique_1177": "Góndola de contrabandista",
+    "equipment_unique_1178": "Góndola de contrabandista",
+    "equipment_unique_1176_desc": "Un objeto de la ciudad del festival. Transforma tus tropas en la guardia del príncipe del carnaval.",
+    "equipment_unique_1177_desc": "Un objeto de la ciudad del festival. Transforma tus tropas en la guardia del príncipe del carnaval.",
+    "equipment_unique_1178_desc": "Estos botes transportan cargamentos de valor, tanto objetos como seres humanos. Transforma tu castillo en un reflejo de la ciudad de los mil canales.",
+    "equipment_unique_1179": "Piezas de ajedrez del emperador",
+    "equipment_unique_1179_desc": "Transforma tu castillo en un precioso tablero de ajedrez."
   },
   "generic": {
     "activity": "Actividad",
@@ -17722,7 +17755,15 @@
     "filters_category_111": "Ficha glacial",
     "currency_description_IceLTPEToken": "Tan fría como valiosa. Se puede intercambiar por recompensas en el maestro herrero por tiempo limitado.",
     "currency_name_IceLTPEToken": "Ficha glacial",
-    "amountPerWave_limit_supportTool": "Cantidad máxima de herramientas en una oleada de apoyo de ataque"
+    "amountPerWave_limit_supportTool": "Cantidad máxima de herramientas en una oleada de apoyo de ataque",
+    "mysteryBox_boxName_WinterBox2022_4": "Caja misteriosa invernal legendaria",
+    "mysteryBox_boxName_WinterBox2022_3": "Caja misteriosa invernal épica",
+    "mysteryBox_boxName_WinterBox2022_2": "Caja misteriosa invernal rara",
+    "mysteryBox_boxName_WinterBox2022_1": "Caja misteriosa invernal común",
+    "mysteryBox_boxName_SpringBox2023_4": "Legendary spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_3": "Epic spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_2": "Rare spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_1": "Common spring mystery box"
   },
   "help": {
     "help_location": "Aquí tienes una vista global del contenido importante de tu castillo y de todas tus bases remotas.",

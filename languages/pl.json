@@ -1729,7 +1729,14 @@
     "deco_xmasUnicorn_name": "Fantastyczne święta",
     "deco_christmashut_name": "Zaczarowana chatka zimowej pory",
     "deco_winterStoneSpider_name": "Zamarznięte źródło tarantuli",
-    "deco_xmasRollercoaster_name": "Kolejka górska zimowej pory"
+    "deco_xmasRollercoaster_name": "Kolejka górska zimowej pory",
+    "ci_appearance_newKingGuardhouse": "Cesarska wartownia",
+    "ci_appearance_newKingGuardhouse_flavour": "Tutejsi strażnicy z dumą noszą barwy króla Eryka. Pilnuj się dobrze, jeśli nie chcesz ściągnąć na siebie ich uwagi!",
+    "deco_newKingBridgeRed_name": "Monument jesiennej korony",
+    "deco_newKingBridgeGreen_name": "Monument wiosennej korony",
+    "deco_xmasRollercoaster2_name": "Cukierkowa kolejka Zimowej Pory",
+    "deco_stPatricksWagon_name": "Koniczynowy wóz",
+    "deco_valentinesLoveNest_name": "Miodowa kryjówka"
   },
   "dialogs": {
     "dialog_festival_desc": "Użyj jedzenia, aby zorganizować święto dla Twoich obywateli! Szybkość rekrutacji znacznie będzie rosła we wszystkich twoich zamkach przez czas obchodów święta. Im większe święto, tym większe efekty.",
@@ -2232,7 +2239,7 @@
     "dialog_newMessage_missingText": "Nie wpisano tekstu.",
     "dialog_newMessage_sendMessage": "Wyślij wiadomości",
     "dialog_newMessage_yourText": "Twój tekst:",
-    "dialog_noFightMessage_copy": "Twoje wojska nie walczyły, ponieważ obiekt docelowy nie należy już do poprzedniego właściciela lub znajduje się pod ochroną.",
+    "dialog_noFightMessage_copy": "Twoje wojska nie wzięły udziału w walce, gdyż cel nie należy już do pierwotnego właściciela, został przeniesiony w nowe miejsce lub znajduje się pod ochroną przed atakami.",
     "dialog_noFightMessage_title": "Bez bitwy",
     "dialog_NoMoneyC1_copy": "Nie masz już żadnych monet!",
     "dialog_NoMoneyC1_goToCastle": "Wróć do zamku i wyślij poborcę podatkowego, aby zebrał więcej monet.",
@@ -5844,7 +5851,10 @@
     "pointsEvent_longPointsEvent_alienInvasion_condition02": "Zdobądź co najmniej {0} pkt. chwały za pokonanie obcego zamku",
     "pointsEvent_longPointsEvent_nomadInvasion_condition01": "Zdobądź co najmniej 1 pkt chana, pokonując obóz nomadów lub chana",
     "pointsEvent_longPointsEvent_nomadInvasion_condition02": "Zdobądź co najmniej {0} pkt. chana, pokonując obóz nomadów lub chana",
-    "pointsEvent_longPointsEvent_nomadInvasion_condition03": "Zużyj tabliczki chana ({0}) jednocześnie",
+    "pointsEvent_longPointsEvent_nomadInvasion_condition03": [
+      "Zużyj tabliczki chana ({0}) jednocześnie",
+      "Zużyj tabliczki chana. Zdobywaj punkty za każde {0} szt. podczas zakupu"
+    ],
     "pointsEvent_longPointsEvent_alienInvasion_condition03": "Zdobądź co najmniej {0} pkt. chwały za pokonanie obcego zamku",
     "dialog_longPointsEvent_rewards": "Nagrody ({0}/{1})",
     "dialog_longPointsEvent_nextReward": "Następna nagroda: {0} pkt.",
@@ -11098,10 +11108,11 @@
     "dialog_generals_overview_noAbilityUnlocked": "Brak aktywnej zdolności. Odblokuj zdolności na drzewie umiejętności lub wybierz je z listy zdolności.",
     "unitsInCourtyard_limit_support": "Limit wsparcia na dziedzińcu",
     "generic_timeSkips_inventoryFull_warning_desc": "Brak miejsca w ekwipunku na wybrany rodzaj pominięcia czasu. Wszystkie dodatkowe pominięcia czasu zostaną utracone. Kontynuować mimo wszystko?",
-    "pointsEvent_longPointsEvent_nomadInvasion_condition03_new": "Zużyj tabliczki chana. Zdobywaj punkty za każde {0} szt. podczas zakupu",
     "pointsEvent_longPointsEvent_samuraiInvasion_condition03_new": "Zużyj żetony samurajów. Zdobywaj punkty za każde {0} szt. podczas zakupu",
     "allianceDefenseUnitAmount": "Limit wojsk wsparcia sojuszu",
-    "equip_effect_description_allianceDefenseUnitAmountYardBonus": "+{0} do limitu wojsk wsparcia sojuszu"
+    "equip_effect_description_allianceDefenseUnitAmountYardBonus": "+{0} do limitu wojsk wsparcia sojuszu",
+    "dialog_stronghold_capacity": "Pojemność cytadeli (jedn.)",
+    "dialog_stronghold_header": "Schronienie dla jednostek"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% prędkości przemieszczania armii podczas podbojów",
@@ -12135,7 +12146,9 @@
     "ci_effect_defenseUnitAmountYardBonus": "+{0} do limitu wojsk podczas obrony dziedzińca",
     "ci_effect_attackUnitAmountReinforcementBonus": "+{0} do limitu wojsk podczas ostatecznego ataku",
     "ci_effect_attackUnitAmountReinforcementBoost": "+{0}% do limitu wojsk podczas ostatecznego ataku",
-    "effect_description_defenseUnitAmountYardBonus": "Limit jednostek defensywnych broniących dziedzińca"
+    "effect_description_defenseUnitAmountYardBonus": "Limit jednostek defensywnych broniących dziedzińca",
+    "effect_description_allianceDefenseUnitAmountYardBonus": "+{0} do limitu wojsk wsparcia sojuszu",
+    "effect_description_hiddenSoldiersSpace": "Pojemność schronienia dla jednostek"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Bohater",
@@ -15813,7 +15826,27 @@
     "equipment_unique_1169": "Zimowe nasiono",
     "equipment_unique_1169_desc": "Przekształca twój zamek w przytulną drewnianą chatę, którą przed mroźnymi wichrami Krainy Wiecznych Lodów chroni szpaler świerków.",
     "equipment_unique_2622": "Zimowe nasiono",
-    "equipment_unique_2622_desc": "Przekształca twój zamek w przytulną drewnianą chatę, którą przed mroźnymi wichrami Krainy Wiecznych Lodów chroni szpaler świerków."
+    "equipment_unique_2622_desc": "Przekształca twój zamek w przytulną drewnianą chatę, którą przed mroźnymi wichrami Krainy Wiecznych Lodów chroni szpaler świerków.",
+    "equipment_unique_1170": "Szczęśliwa koniczyna",
+    "equipment_unique_1170_desc": "Podczas Szmaragdowego Święta warto wziąć szczęście w swoje ręce. Przekształca twój zamek w koniczynową fortecę. || 111 ||",
+    "equipment_unique_1172_desc": "Podczas Szmaragdowego Święta warto wziąć szczęście w swoje ręce. Przekształca twój zamek w koniczynową fortecę. || 111 ||",
+    "equipment_unique_1172": "Szczęśliwa koniczyna",
+    "equipment_unique_1171_desc": "Podczas Szmaragdowego Święta warto wziąć szczęście w swoje ręce. Przekształca twój zamek w koniczynową fortecę. || 111 ||",
+    "equipment_unique_1171": "Szczęśliwa koniczyna",
+    "equipment_unique_1173": "Maska karnawałowa",
+    "equipment_unique_1174": "Maska karnawałowa",
+    "equipment_unique_1175": "Maska karnawałowa",
+    "equipment_unique_1173_desc": "Artefakt z miasta festiwali. Przekształca twoją armię w straż Księcia Karnawału.",
+    "equipment_unique_1174_desc": "Artefakt z miasta festiwali. Przekształca twoją armię w straż Księcia Karnawału.",
+    "equipment_unique_1175_desc": "Artefakt z miasta festiwali. Przekształca twoją armię w straż Księcia Karnawału.",
+    "equipment_unique_1176": "Gondola przemytnika",
+    "equipment_unique_1177": "Gondola przemytnika",
+    "equipment_unique_1178": "Gondola przemytnika",
+    "equipment_unique_1176_desc": "Artefakt z miasta festiwali. Przekształca twoją armię w straż Księcia Karnawału.",
+    "equipment_unique_1177_desc": "Artefakt z miasta festiwali. Przekształca twoją armię w straż Księcia Karnawału.",
+    "equipment_unique_1178_desc": "Łodzie te przewożą cenne ładunki – czasem towary, a czasem ludzi. Przekształca twój zamek w oblicze miasta tysiąca kanałów.",
+    "equipment_unique_1179": "Zestaw szachowy Cesarza",
+    "equipment_unique_1179_desc": "Przekształca twój zamek w elegancki zestaw szachowy."
   },
   "generic": {
     "activity": "Działania",
@@ -17722,7 +17755,15 @@
     "filters_category_111": "Żeton lodowca",
     "currency_description_IceLTPEToken": "Ten mroźny żeton jest równie piękny, co lodowaty. Przez ograniczony czas można wymienić go na nagrody u mistrza kowalskiego.",
     "currency_name_IceLTPEToken": "Żeton lodowca",
-    "amountPerWave_limit_supportTool": "Maksymalna liczba narzędzi wsparcia ataku w ramach fali"
+    "amountPerWave_limit_supportTool": "Maksymalna liczba narzędzi wsparcia ataku w ramach fali",
+    "mysteryBox_boxName_WinterBox2022_4": "Legendarna tajemnicza skrzynia (zima)",
+    "mysteryBox_boxName_WinterBox2022_3": "Epicka tajemnicza skrzynia (zima)",
+    "mysteryBox_boxName_WinterBox2022_2": "Rzadka tajemnicza skrzynia (zima)",
+    "mysteryBox_boxName_WinterBox2022_1": "Zwykła tajemnicza skrzynia (zima)",
+    "mysteryBox_boxName_SpringBox2023_4": "Legendary spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_3": "Epic spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_2": "Rare spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_1": "Common spring mystery box"
   },
   "help": {
     "help_location": "W tym miejscu masz globalny przegląd ważnych elementów zamku oraz wszystkich posterunków.",

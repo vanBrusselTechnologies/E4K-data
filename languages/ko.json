@@ -1729,7 +1729,14 @@
     "deco_xmasUnicorn_name": "근사한 연휴",
     "deco_christmashut_name": "아름다운 겨울 오두막",
     "deco_winterStoneSpider_name": "얼어붙은 타란툴라 샘",
-    "deco_xmasRollercoaster_name": "겨울 썰매 코스터"
+    "deco_xmasRollercoaster_name": "겨울 썰매 코스터",
+    "ci_appearance_newKingGuardhouse": "제국 위병소",
+    "ci_appearance_newKingGuardhouse_flavour": "이곳의 위병들은 위풍당당하게 에릭 왕의 깃발을 들고 있습니다. 문제를 일으키고 주목을 끌지 않도록 하십시오.",
+    "deco_newKingBridgeRed_name": "가을의 왕관 기념비",
+    "deco_newKingBridgeGreen_name": "봄의 왕관 기념비",
+    "deco_xmasRollercoaster2_name": "겨울 막대사탕 코스터",
+    "deco_stPatricksWagon_name": "샴록 짐차",
+    "deco_valentinesLoveNest_name": "밀월 은신처"
   },
   "dialogs": {
     "dialog_festival_desc": "식량으로 잔치를 열어 백성들을 배불리 먹이십시오! 잔치가 계속되는 동안 모든 성의 모집 속도가 눈에 띄게 증가합니다. 더 큰 잔치를 벌일수록 효과도 더 증가합니다.",
@@ -2232,7 +2239,7 @@
     "dialog_newMessage_missingText": "입력한 텍스트가 없습니다.",
     "dialog_newMessage_sendMessage": "메시지 보내기",
     "dialog_newMessage_yourText": "본문:",
-    "dialog_noFightMessage_copy": "목표 대상의 소유자가 바뀌었거나 더는 보호받지 않기 때문에 병사가 전투에 참여하지 않았습니다.",
+    "dialog_noFightMessage_copy": "대상의 소유자가 바뀌었거나, 대상이 새로운 위치로 재배치되었거나 공격 보호 상태이기 때문에 군대가 전투를 치르지 않았습니다.",
     "dialog_noFightMessage_title": "전투 미발생",
     "dialog_NoMoneyC1_copy": "금화가 없습니다!",
     "dialog_NoMoneyC1_goToCastle": "성으로 돌아가 세금 징수관을 보내 세금을 더 거두세요.",
@@ -5844,7 +5851,10 @@
     "pointsEvent_longPointsEvent_alienInvasion_condition02": "외래의 성을 격파하여 명성 점수를 최소 {0}점 이상 획득하십시오",
     "pointsEvent_longPointsEvent_nomadInvasion_condition01": "유목민 또는 칸 야영지를 격파하여 칸 점수를 최소 1점 이상 수집하십시오.",
     "pointsEvent_longPointsEvent_nomadInvasion_condition02": "유목민 또는 칸 야영지를 격파하여 칸 점수를 최소 {0}점 이상 수집하십시오.",
-    "pointsEvent_longPointsEvent_nomadInvasion_condition03": "칸의 증표를 동시에 {0}개 사용하십시오",
+    "pointsEvent_longPointsEvent_nomadInvasion_condition03": [
+      "칸의 증표를 동시에 {0}개 사용하십시오",
+      "칸의 증표를 사용하십시오. 구매 시 {0} 토큰마다 점수를 획득합니다."
+    ],
     "pointsEvent_longPointsEvent_alienInvasion_condition03": "외래의 성을 격파하여 명성 점수를 최소 {0}점 이상 획득하십시오",
     "dialog_longPointsEvent_rewards": "보상 ({0}/{1})",
     "dialog_longPointsEvent_nextReward": "다음 보상: {0}점",
@@ -11098,10 +11108,11 @@
     "dialog_generals_overview_noAbilityUnlocked": "활성화된 능력이 없습니다. 스킬 트리에서 능력을 잠금 해제하거나 능력 목록에서 능력을 선택하십시오.",
     "unitsInCourtyard_limit_support": "안뜰 지원 한도",
     "generic_timeSkips_inventoryFull_warning_desc": "선택한 유형의 시간 건너뛰기가 인벤토리에 가득 찼습니다. 추가하는 시간 건너뛰기를 잃게 됩니다. 그래도 진행할까요?",
-    "pointsEvent_longPointsEvent_nomadInvasion_condition03_new": "칸의 증표를 사용하십시오. 구매 시 {0} 토큰마다 점수를 획득합니다.",
     "pointsEvent_longPointsEvent_samuraiInvasion_condition03_new": "사무라이 토큰을 사용하십시오. 구매 시 {0} 토큰마다 점수를 획득합니다.",
     "allianceDefenseUnitAmount": "동맹 지원 병력 정원",
-    "equip_effect_description_allianceDefenseUnitAmountYardBonus": "동맹 지원 병력 정원 +{0}"
+    "equip_effect_description_allianceDefenseUnitAmountYardBonus": "동맹 지원 병력 정원 +{0}",
+    "dialog_stronghold_capacity": "유닛 용량",
+    "dialog_stronghold_header": "유닛 보호소"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "정복 중 군대 이동 속도 +{0}%",
@@ -12135,7 +12146,9 @@
     "ci_effect_defenseUnitAmountYardBonus": "안뜰 방어 시 병력 정원 +{0}",
     "ci_effect_attackUnitAmountReinforcementBonus": "최후의 공격 시 병력 정원 +{0}",
     "ci_effect_attackUnitAmountReinforcementBoost": "최후의 공격 시 병력 정원 +{0}%",
-    "effect_description_defenseUnitAmountYardBonus": "안뜰 방어 병력 정원"
+    "effect_description_defenseUnitAmountYardBonus": "안뜰 방어 병력 정원",
+    "effect_description_allianceDefenseUnitAmountYardBonus": "동맹 지원 병력 정원 +{0}",
+    "effect_description_hiddenSoldiersSpace": "유닛 보호소 정원"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "영웅",
@@ -15813,7 +15826,27 @@
     "equipment_unique_1169": "겨울의 씨앗",
     "equipment_unique_1169_desc": "성을 아늑한 통나무 오두막으로 변신시킵니다. 거대한 가문비나무가 만년빙의 차가운 바람을 막아 줍니다.",
     "equipment_unique_2622": "겨울의 씨앗",
-    "equipment_unique_2622_desc": "성을 아늑한 통나무 오두막으로 변신시킵니다. 거대한 가문비나무가 만년빙의 차가운 바람을 막아 줍니다."
+    "equipment_unique_2622_desc": "성을 아늑한 통나무 오두막으로 변신시킵니다. 거대한 가문비나무가 만년빙의 차가운 바람을 막아 줍니다.",
+    "equipment_unique_1170": "행운의 샴록",
+    "equipment_unique_1170_desc": "에메랄드 축제 동안 행운을 손안에 직접 거머쥐세요. 성을 클로버 요새로 변신시킵니다.",
+    "equipment_unique_1172_desc": "에메랄드 축제 동안 행운을 손안에 직접 거머쥐세요. 성을 클로버 요새로 변신시킵니다.",
+    "equipment_unique_1172": "행운의 샴록",
+    "equipment_unique_1171_desc": "에메랄드 축제 동안 행운을 손안에 직접 거머쥐세요. 성을 클로버 요새로 변신시킵니다.",
+    "equipment_unique_1171": "행운의 샴록",
+    "equipment_unique_1173": "축제 가면",
+    "equipment_unique_1174": "축제 가면",
+    "equipment_unique_1175": "축제 가면",
+    "equipment_unique_1173_desc": "축제 도시의 아이템입니다. 부대를 축제 왕자의 경비대로 변신시킵니다.",
+    "equipment_unique_1174_desc": "축제 도시의 아이템입니다. 부대를 축제 왕자의 경비대로 변신시킵니다.",
+    "equipment_unique_1175_desc": "축제 도시의 아이템입니다. 부대를 축제 왕자의 경비대로 변신시킵니다.",
+    "equipment_unique_1176": "밀수꾼의 곤돌라",
+    "equipment_unique_1177": "밀수꾼의 곤돌라",
+    "equipment_unique_1178": "밀수꾼의 곤돌라",
+    "equipment_unique_1176_desc": "축제 도시의 아이템입니다. 부대를 축제 왕자의 경비대로 변신시킵니다.",
+    "equipment_unique_1177_desc": "축제 도시의 아이템입니다. 부대를 축제 왕자의 경비대로 변신시킵니다.",
+    "equipment_unique_1178_desc": "귀중한 화물을 운반하는 배이며 물건과 사람을 모두 실어 옮깁니다. 성을 수많은 운하가 있는 도시의 모습으로 변신시킵니다.",
+    "equipment_unique_1179": "황제의 체스 세트",
+    "equipment_unique_1179_desc": "성을 고급스러운 체스 세트로 변신시킵니다."
   },
   "generic": {
     "activity": "활동",
@@ -17722,7 +17755,15 @@
     "filters_category_111": "빙하 토큰",
     "currency_description_IceLTPEToken": "이 으스스한 토큰은 매우 차갑지만 귀중합니다. 한정된 시간 동안 전문 대장장이에게 보상으로 교환할 수 있습니다.",
     "currency_name_IceLTPEToken": "빙하 토큰",
-    "amountPerWave_limit_supportTool": "공격 지원 공격대의 병기 최대량"
+    "amountPerWave_limit_supportTool": "공격 지원 공격대의 병기 최대량",
+    "mysteryBox_boxName_WinterBox2022_4": "전설 겨울 신비한 상자",
+    "mysteryBox_boxName_WinterBox2022_3": "에픽 겨울 신비한 상자",
+    "mysteryBox_boxName_WinterBox2022_2": "레어 겨울 신비한 상자",
+    "mysteryBox_boxName_WinterBox2022_1": "일반 겨울 신비한 상자",
+    "mysteryBox_boxName_SpringBox2023_4": "Legendary spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_3": "Epic spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_2": "Rare spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_1": "Common spring mystery box"
   },
   "help": {
     "help_location": "여기에서 성과 전초기지의 중요한 정보를 대략 찾아볼 수 있습니다.",

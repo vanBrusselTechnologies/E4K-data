@@ -1729,7 +1729,14 @@
     "deco_xmasUnicorn_name": "Fabulous holidays",
     "deco_christmashut_name": "Enchanted wintertide hut",
     "deco_winterStoneSpider_name": "Frozen tarantula spring",
-    "deco_xmasRollercoaster_name": "Wintertide sleigh coaster"
+    "deco_xmasRollercoaster_name": "Wintertide sleigh coaster",
+    "ci_appearance_newKingGuardhouse": "Imperial Guardhouse",
+    "ci_appearance_newKingGuardhouse_flavour": "These guards proudly bear the colors of King Eric. Better stay out of trouble and not draw their attention.",
+    "deco_newKingBridgeRed_name": "Autumnal crown monument",
+    "deco_newKingBridgeGreen_name": "Vernal crown monument",
+    "deco_xmasRollercoaster2_name": "Wintertide candy cane coaster",
+    "deco_stPatricksWagon_name": "Shamrock wagon",
+    "deco_valentinesLoveNest_name": "Honeymoon hideout"
   },
   "dialogs": {
     "dialog_festival_desc": "Use your food to hold a feast for your citizens!\nSoldiers will be recruited much more quickly in all of your castles for as long as the feast lasts. The bigger the feast, the greater the effect.",
@@ -2232,7 +2239,7 @@
     "dialog_newMessage_missingText": "No text has been entered.",
     "dialog_newMessage_sendMessage": "Send message",
     "dialog_newMessage_yourText": "Your text:",
-    "dialog_noFightMessage_copy": "Your troops didnt fight because the target is no longer being held by its original owner or its under protection.",
+    "dialog_noFightMessage_copy": "Your troops didnt fight because the target is either no longer being held by its original owner, has relocated to a new location, or is under attack protection.",
     "dialog_noFightMessage_title": "No battle",
     "dialog_NoMoneyC1_copy": "You have no coins left!",
     "dialog_NoMoneyC1_goToCastle": "Return to your castle and send the tax collector out to collect more coins.",
@@ -5844,7 +5851,10 @@
     "pointsEvent_longPointsEvent_alienInvasion_condition02": "Earn at least {0} glory points by defeating a foreign castle",
     "pointsEvent_longPointsEvent_nomadInvasion_condition01": "Collect at least 1 Khan point by defeating a nomad or Khan camp",
     "pointsEvent_longPointsEvent_nomadInvasion_condition02": "Collect at least {0} Khan points by defeating nomad or Khan camps",
-    "pointsEvent_longPointsEvent_nomadInvasion_condition03": "Spend {0} Khan tablets at once",
+    "pointsEvent_longPointsEvent_nomadInvasion_condition03": [
+      "Spend {0} Khan tablets at once",
+      "Spend Khan tablets. Earn points for every {0} tokens used in a purchase"
+    ],
     "pointsEvent_longPointsEvent_alienInvasion_condition03": "Earn at least {0} glory points by defeating a foreign castle",
     "dialog_longPointsEvent_rewards": "Rewards ({0}/{1})",
     "dialog_longPointsEvent_nextReward": "Next Reward: {0} points",
@@ -11098,10 +11108,11 @@
     "dialog_generals_overview_noAbilityUnlocked": "No ability active. Unlock abilities in the skill tree or select them in the list of abilities.",
     "unitsInCourtyard_limit_support": "Courtyard support capacity",
     "generic_timeSkips_inventoryFull_warning_desc": "Your inventory for the selected type of time skips is full. Any additional time skips will be lost. Proceed anyway?",
-    "pointsEvent_longPointsEvent_nomadInvasion_condition03_new": "Spend Khan tablets. Earn points for every {0} tokens used in a purchase",
     "pointsEvent_longPointsEvent_samuraiInvasion_condition03_new": "Spend Samurai tokens. Earn points for every {0} tokens used in a purchase",
     "allianceDefenseUnitAmount": "Alliance support troop capacity",
-    "equip_effect_description_allianceDefenseUnitAmountYardBonus": "+{0} to alliance support troop capacity"
+    "equip_effect_description_allianceDefenseUnitAmountYardBonus": "+{0} to alliance support troop capacity",
+    "dialog_stronghold_capacity": "Unit capacity",
+    "dialog_stronghold_header": "Units shelter"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% army travel speed during conquests",
@@ -12135,7 +12146,9 @@
     "ci_effect_defenseUnitAmountYardBonus": "+{0} to troop capacity in courtyard defense",
     "ci_effect_attackUnitAmountReinforcementBonus": "+{0} to troop capacity for final assault",
     "ci_effect_attackUnitAmountReinforcementBoost": "+{0}% to troop capacity for final assault",
-    "effect_description_defenseUnitAmountYardBonus": "Courtyard defense troop capacity"
+    "effect_description_defenseUnitAmountYardBonus": "Courtyard defense troop capacity",
+    "effect_description_allianceDefenseUnitAmountYardBonus": "+{0} to alliance support troop capacity",
+    "effect_description_hiddenSoldiersSpace": "Units shelter capacity"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Hero",
@@ -15813,7 +15826,27 @@
     "equipment_unique_1169": "Winters seed",
     "equipment_unique_1169_desc": "Transform your castle into a cozy log cabin, protected by large spruce trees from the freezing winds of the Everwinter Glacier.",
     "equipment_unique_2622": "Winters seed",
-    "equipment_unique_2622_desc": "Transform your castle into a cozy log cabin, protected by large spruce trees from the freezing winds of the Everwinter Glacier."
+    "equipment_unique_2622_desc": "Transform your castle into a cozy log cabin, protected by large spruce trees from the freezing winds of the Everwinter Glacier.",
+    "equipment_unique_1170": "Lucky shamrock",
+    "equipment_unique_1170_desc": "For the Emerald Festival, take being lucky into your own hands. Transform your castle into a clover-covered fortress.",
+    "equipment_unique_1172_desc": "For the Emerald Festival, take being lucky into your own hands. Transform your castle into a clover-covered fortress.",
+    "equipment_unique_1172": "Lucky shamrock",
+    "equipment_unique_1171_desc": "For the Emerald Festival, take being lucky into your own hands. Transform your castle into a clover-covered fortress.",
+    "equipment_unique_1171": "Lucky shamrock",
+    "equipment_unique_1173": "Carnival mask",
+    "equipment_unique_1174": "Carnival mask",
+    "equipment_unique_1175": "Carnival mask",
+    "equipment_unique_1173_desc": "An item from the festival city. Transforms your army into the guard of the Carnival Prince.",
+    "equipment_unique_1174_desc": "An item from the festival city. Transforms your army into the guard of the Carnival Prince.",
+    "equipment_unique_1175_desc": "An item from the festival city. Transforms your army into the guard of the Carnival Prince.",
+    "equipment_unique_1176": "Smugglers gondola",
+    "equipment_unique_1177": "Smugglers gondola",
+    "equipment_unique_1178": "Smugglers gondola",
+    "equipment_unique_1176_desc": "The boats carry precious cargo, both objects and human beings. Transforms your castle into an image of the festival city.",
+    "equipment_unique_1177_desc": "The boats carry precious cargo, both objects and human beings. Transforms your castle into an image of the festival city.",
+    "equipment_unique_1178_desc": "The boats carry precious cargo, both objects and human beings. Transforms your castle into an image of the festival city.",
+    "equipment_unique_1179": "Emperors chess set",
+    "equipment_unique_1179_desc": "Transforms your castle into the style of a precious chess set."
   },
   "generic": {
     "activity": "Activity",
@@ -17722,7 +17755,15 @@
     "filters_category_111": "Glacier token",
     "currency_description_IceLTPEToken": "This chilling token is as valuable as it is freezing. Can be exchanged for rewards at the Master Blacksmith for a limited time.",
     "currency_name_IceLTPEToken": "Glacier Token",
-    "amountPerWave_limit_supportTool": "Tool maximum amount in attack support wave"
+    "amountPerWave_limit_supportTool": "Tool maximum amount in attack support wave",
+    "mysteryBox_boxName_WinterBox2022_4": "Legendary winter mystery box",
+    "mysteryBox_boxName_WinterBox2022_3": "Epic winter mystery box",
+    "mysteryBox_boxName_WinterBox2022_2": "Rare winter mystery box",
+    "mysteryBox_boxName_WinterBox2022_1": "Common winter mystery box",
+    "mysteryBox_boxName_SpringBox2023_4": "Legendary spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_3": "Epic spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_2": "Rare spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_1": "Common spring mystery box"
   },
   "help": {
     "help_location": "Here you have a global overview of the important contents of your castle and all your outposts.",

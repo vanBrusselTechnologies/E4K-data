@@ -686,6 +686,16 @@
       "name": "defenseUnitAmountYardBoost"
     },
     {
+      "effectTypeID": "183",
+      "combatType": "1",
+      "name": "allianceDefenseUnitAmountYardBonus"
+    },
+    {
+      "effectTypeID": "184",
+      "combatType": "1",
+      "name": "allianceDefenseUnitAmountYardBoost"
+    },
+    {
       "effectTypeID": "1001",
       "combatType": "3",
       "name": "PowerSurge"

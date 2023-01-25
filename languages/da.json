@@ -1729,7 +1729,14 @@
     "deco_xmasUnicorn_name": "Jul med stil",
     "deco_christmashut_name": "Fortryllende vinterhytte",
     "deco_winterStoneSpider_name": "Tiliset edderkoppespringvand",
-    "deco_xmasRollercoaster_name": "Vinterrutsjebane"
+    "deco_xmasRollercoaster_name": "Vinterrutsjebane",
+    "ci_appearance_newKingGuardhouse": "Kejserlig vagtbygning",
+    "ci_appearance_newKingGuardhouse_flavour": "Disse vagter bærer kong Eriks farver med stolthed. Hellere holde sig fra ballade end tiltrække sig deres opmærksomhed.",
+    "deco_newKingBridgeRed_name": "Efterårsmonument med krone",
+    "deco_newKingBridgeGreen_name": "Forårsmonument med krone",
+    "deco_xmasRollercoaster2_name": "Vinterrutsjebane med sukkerstokke",
+    "deco_stPatricksWagon_name": "Kløvervogn",
+    "deco_valentinesLoveNest_name": "Tilflugtssted for nygifte"
   },
   "dialogs": {
     "dialog_festival_desc": "Brug mad til at holde en fest for dine borgere! Rekrutteringshastigheden vil forøges på i jeres borge, så længe festen varer. Jo større festen er, jo større er effekten.",
@@ -2232,7 +2239,7 @@
     "dialog_newMessage_missingText": "Ingen tekst er tastet ind.",
     "dialog_newMessage_sendMessage": "Send beskeder",
     "dialog_newMessage_yourText": "Jeres tekst:",
-    "dialog_noFightMessage_copy": "Jeres tropper kom ikke i kamp, fordi destinationen ikke længere besiddes af den oprindelige ejer eller er under beskyttelse.",
+    "dialog_noFightMessage_copy": "Dine tropper kom ikke i kamp, enten fordi målet ikke længere tilhører den oprindelige ejer, fordi det er blevet flyttet, eller fordi det er beskyttet mod angreb.",
     "dialog_noFightMessage_title": "Ingen kamp",
     "dialog_NoMoneyC1_copy": "I har ingen mønter tilbage!",
     "dialog_NoMoneyC1_goToCastle": "Vend tilbage til jeres borg, og send skatteopkræveren ud for at indsamle flere mønter.",
@@ -5844,7 +5851,10 @@
     "pointsEvent_longPointsEvent_alienInvasion_condition02": "Optjen mindst {0} hæderpoint ved at indtage en fremmed borg",
     "pointsEvent_longPointsEvent_nomadInvasion_condition01": "Optjen mindst 1 khan-point ved at indtage en nomade- eller khan-lejr",
     "pointsEvent_longPointsEvent_nomadInvasion_condition02": "Optjen mindst {0} khan-point ved at indtage nomade- eller khan-lejre",
-    "pointsEvent_longPointsEvent_nomadInvasion_condition03": "Brug {0} Khan-tavler på én gang",
+    "pointsEvent_longPointsEvent_nomadInvasion_condition03": [
+      "Brug {0} Khan-tavler på én gang",
+      "Brug Khan-tavler. Optjen point for hver {0} symboler i et køb"
+    ],
     "pointsEvent_longPointsEvent_alienInvasion_condition03": "Optjen mindst {0} hæderpoint ved at indtage en fremmed borg",
     "dialog_longPointsEvent_rewards": "Belønninger ({0}/{1})",
     "dialog_longPointsEvent_nextReward": "Næste belønning: {0} point",
@@ -11098,10 +11108,11 @@
     "dialog_generals_overview_noAbilityUnlocked": "Ingen evne er aktiv. Lås op for evner i evnetræet, eller vælg dem på listen over evner.",
     "unitsInCourtyard_limit_support": "Borggårdens støttekapacitet",
     "generic_timeSkips_inventoryFull_warning_desc": "Din inventarliste for den valgte type tidstilbud er fyldt. Alle ekstra tidstilbud vil gå tabt. Vil du fortsætte?",
-    "pointsEvent_longPointsEvent_nomadInvasion_condition03_new": "Brug Khan-tavler. Optjen point for hver {0} symboler i et køb",
     "pointsEvent_longPointsEvent_samuraiInvasion_condition03_new": "Brug samuraikort. Optjen point for hver {0} symboler i et køb",
     "allianceDefenseUnitAmount": "Kapacitet for alliancens hjælpetropper",
-    "equip_effect_description_allianceDefenseUnitAmountYardBonus": "+{0} til kapaciteten for alliancens hjælpetropper"
+    "equip_effect_description_allianceDefenseUnitAmountYardBonus": "+{0} til kapaciteten for alliancens hjælpetropper",
+    "dialog_stronghold_capacity": "Enhedskapacitet",
+    "dialog_stronghold_header": "Beskyttelsesrum til enheder"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0} % hærens rejsehastighed under erobringer",
@@ -12135,7 +12146,9 @@
     "ci_effect_defenseUnitAmountYardBonus": "+{0} på troppekapaciteten ved forsvar af borggården",
     "ci_effect_attackUnitAmountReinforcementBonus": "+{0} til troppekapaciteten for slutangreb",
     "ci_effect_attackUnitAmountReinforcementBoost": "+{0} % på troppekapaciteten for slutangreb",
-    "effect_description_defenseUnitAmountYardBonus": "Borggårdens kapacitet for forsvarstropper"
+    "effect_description_defenseUnitAmountYardBonus": "Borggårdens kapacitet for forsvarstropper",
+    "effect_description_allianceDefenseUnitAmountYardBonus": "+{0} til kapaciteten for alliancens hjælpetropper",
+    "effect_description_hiddenSoldiersSpace": "Kapacitet for beskyttelsesrum til enheder"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Helt",
@@ -15813,7 +15826,27 @@
     "equipment_unique_1169": "Vintersåsæd",
     "equipment_unique_1169_desc": "Forvandler din borg til en hyggelig bjælkehytte, der ligger omkranset af høje graner, som beskytter den mod Altidvinter-gletsjerens iskolde vinde.",
     "equipment_unique_2622": "Vintersåsæd",
-    "equipment_unique_2622_desc": "Forvandler din borg til en hyggelig bjælkehytte, der ligger omkranset af høje graner, som beskytter den mod Altidvinter-gletsjerens iskolde vinde."
+    "equipment_unique_2622_desc": "Forvandler din borg til en hyggelig bjælkehytte, der ligger omkranset af høje graner, som beskytter den mod Altidvinter-gletsjerens iskolde vinde.",
+    "equipment_unique_1170": "Lykkekløver",
+    "equipment_unique_1170_desc": "Til Smaragdfesten kan du tage lykken i egen hånd. Omdan din borg til en kløverdækket fæstning. || 94 ||",
+    "equipment_unique_1172_desc": "Til Smaragdfesten kan du tage lykken i egen hånd. Omdan din borg til en kløverdækket fæstning. || 94 ||",
+    "equipment_unique_1172": "Lykkekløver",
+    "equipment_unique_1171_desc": "Til Smaragdfesten kan du tage lykken i egen hånd. Omdan din borg til en kløverdækket fæstning. || 94 ||",
+    "equipment_unique_1171": "Lykkekløver",
+    "equipment_unique_1173": "Karnevalsmaske",
+    "equipment_unique_1174": "Karnevalsmaske",
+    "equipment_unique_1175": "Karnevalsmaske",
+    "equipment_unique_1173_desc": "En genstand fra festivalernes by. Forvandler din hær til en flok vagter for karnevalsprinsen.",
+    "equipment_unique_1174_desc": "En genstand fra festivalernes by. Forvandler din hær til en flok vagter for karnevalsprinsen.",
+    "equipment_unique_1175_desc": "En genstand fra festivalernes by. Forvandler din hær til en flok vagter for karnevalsprinsen.",
+    "equipment_unique_1176": "Smuglerens gondol",
+    "equipment_unique_1177": "Smuglerens gondol",
+    "equipment_unique_1178": "Smuglerens gondol",
+    "equipment_unique_1176_desc": "En genstand fra festivalernes by. Forvandler din hær til en flok vagter for karnevalsprinsen.",
+    "equipment_unique_1177_desc": "En genstand fra festivalernes by. Forvandler din hær til en flok vagter for karnevalsprinsen.",
+    "equipment_unique_1178_desc": "Bådene her transporterer både kostbare genstande og mennesker. Forvandler din borg til et billede af de tusinde kanalers by.",
+    "equipment_unique_1179": "Kejserens skaksæt",
+    "equipment_unique_1179_desc": "Forvandler din borg til en skaklignende fæstning."
   },
   "generic": {
     "activity": "Aktivitet",
@@ -17722,7 +17755,15 @@
     "filters_category_111": "Gletsjer-polet",
     "currency_description_IceLTPEToken": "Denne iskolde polet er værdifuld, fordi den er frosset til is. Kan byttes til belønninger hos mestersmeden i en begrænset periode.",
     "currency_name_IceLTPEToken": "Gletsjer-polet",
-    "amountPerWave_limit_supportTool": "Maks. antal redskaber i understøttende angrebsbølge"
+    "amountPerWave_limit_supportTool": "Maks. antal redskaber i understøttende angrebsbølge",
+    "mysteryBox_boxName_WinterBox2022_4": "Legendarisk mystisk vinterkasse",
+    "mysteryBox_boxName_WinterBox2022_3": "Episk mystisk vinterkasse",
+    "mysteryBox_boxName_WinterBox2022_2": "Sjælden mystisk vinterkasse",
+    "mysteryBox_boxName_WinterBox2022_1": "Almindelig mystisk vinterkasse",
+    "mysteryBox_boxName_SpringBox2023_4": "Legendary spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_3": "Epic spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_2": "Rare spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_1": "Common spring mystery box"
   },
   "help": {
     "help_location": "Her har I en global oversigt over det vigtige indhold i jeres borg og alle jeres forposter.",

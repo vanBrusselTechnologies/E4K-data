@@ -2750,6 +2750,20 @@
       "sortOrder": "1.8.2"
     },
     {
+      "effectID": "706",
+      "name": "allianceDefenseUnitAmountYardBonus",
+      "effectTypeID": "183",
+      "capID": "99",
+      "sortOrder": "1.8.2"
+    },
+    {
+      "effectID": "707",
+      "name": "allianceDefenseUnitAmountYardBoost",
+      "effectTypeID": "184",
+      "capID": "32",
+      "sortOrder": "1.8.2"
+    },
+    {
       "effectID": "20001",
       "name": "vengenceBoostYardAtt",
       "effectTypeID": "1001",

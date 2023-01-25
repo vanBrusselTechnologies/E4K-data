@@ -1729,7 +1729,14 @@
     "deco_xmasUnicorn_name": "Şahane yılbaşı",
     "deco_christmashut_name": "Efsunlanmış kış mevsimi kulübesi",
     "deco_winterStoneSpider_name": "Donmuş tarantula çağlayanı",
-    "deco_xmasRollercoaster_name": "Kışlık kızak treni"
+    "deco_xmasRollercoaster_name": "Kışlık kızak treni",
+    "ci_appearance_newKingGuardhouse": "İmparatorluk karakolu",
+    "ci_appearance_newKingGuardhouse_flavour": "Bu muhafızlar gururla Kral Ericin renklerini taşıyorlar. Belaya bulaşmayıp onların dikkatini çekmesen iyi edersin.",
+    "deco_newKingBridgeRed_name": "Sonbahar tacı anıtı",
+    "deco_newKingBridgeGreen_name": "Bahar tacı anıtı",
+    "deco_xmasRollercoaster2_name": "Kışlık baston şeker treni",
+    "deco_stPatricksWagon_name": "Yonca arabası",
+    "deco_valentinesLoveNest_name": "Balayı saklanma yeri"
   },
   "dialogs": {
     "dialog_festival_desc": "Yurttaşlarınıza bir şenlik düzenlemek için yiyecek kullanın!\nŞenlik devam ettiği sürece askere alma hızı tüm kalelerinizde belirgin şekilde artacak. Şenlik ne kadar büyük olursa, etkisi de o kadar büyük olur.",
@@ -2232,7 +2239,7 @@
     "dialog_newMessage_missingText": "Metin girilmedi",
     "dialog_newMessage_sendMessage": "Mesaj gönder",
     "dialog_newMessage_yourText": "Metnin:",
-    "dialog_noFightMessage_copy": "Hedef artık eski sahibine ait olmadığı ya da şu anda koruma altında olduğu için birlikleriniz savaşmadı.",
+    "dialog_noFightMessage_copy": "Hedef artık ilk sahibinin elinde olmadığı, yeni bir yere taşındığı veya da saldırı koruması altında olduğu için birliklerin savaşmadı.",
     "dialog_noFightMessage_title": "Savaş yok",
     "dialog_NoMoneyC1_copy": "Hiç madeni paran kalmadı!",
     "dialog_NoMoneyC1_goToCastle": "Kalene dön ve vergi tahsildarını daha fazla madeni para toplamaya gönder.",
@@ -5844,7 +5851,10 @@
     "pointsEvent_longPointsEvent_alienInvasion_condition02": "Yendiğin bir yabancı kale için en az {0} şöhret puanı kazan",
     "pointsEvent_longPointsEvent_nomadInvasion_condition01": "Bir göçebe veya Han kampını yenerek en az 1 Han puanı topla",
     "pointsEvent_longPointsEvent_nomadInvasion_condition02": "Göçebe veya Han kamplarını yenerek en az {0} Han puanı topla",
-    "pointsEvent_longPointsEvent_nomadInvasion_condition03": "Aynı anda {0} Han tableti harca",
+    "pointsEvent_longPointsEvent_nomadInvasion_condition03": [
+      "Aynı anda {0} Han tableti harca",
+      "Han tableti harca. Bir satın alımda her {0} jeton için puan kazan."
+    ],
     "pointsEvent_longPointsEvent_alienInvasion_condition03": "Yendiğin bir yabancı kale için en az {0} şöhret puanı kazan",
     "dialog_longPointsEvent_rewards": "Ödüller ({0}/{1})",
     "dialog_longPointsEvent_nextReward": "Bir Sonraki Ödül: {0} puan",
@@ -11098,10 +11108,11 @@
     "dialog_generals_overview_noAbilityUnlocked": "Etkin yetenek yok. Beceri ağacındaki yeteneklerin kilidini aç veya yetenek listesinden yetenek seç.",
     "unitsInCourtyard_limit_support": "Avlu destek kapasitesi",
     "generic_timeSkips_inventoryFull_warning_desc": "Seçili süre atlama türü için envanterin dolu. Ek süre atlamalar kaybedilecek. Yine de devam edilsin mi?",
-    "pointsEvent_longPointsEvent_nomadInvasion_condition03_new": "Han tableti harca. Bir satın alımda her {0} jeton için puan kazan.",
     "pointsEvent_longPointsEvent_samuraiInvasion_condition03_new": "Samuray jetonu harca. Bir satın alımda her {0} jeton için puan kazan.",
     "allianceDefenseUnitAmount": "İttifak desteği birlik kapasitesi",
-    "equip_effect_description_allianceDefenseUnitAmountYardBonus": "+{0} ittifak desteği birlik kapasitesi"
+    "equip_effect_description_allianceDefenseUnitAmountYardBonus": "+{0} ittifak desteği birlik kapasitesi",
+    "dialog_stronghold_capacity": "Birim kapasitesi",
+    "dialog_stronghold_header": "Birlik sığınağı"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+%{0} - Fetihlerde ordu yolculuk hızı",
@@ -12135,7 +12146,9 @@
     "ci_effect_defenseUnitAmountYardBonus": "Avlu savunmasında +{0} birlik kapasitesi",
     "ci_effect_attackUnitAmountReinforcementBonus": "Son saldırı için +{0} birlik kapasitesi",
     "ci_effect_attackUnitAmountReinforcementBoost": "Son saldırı için +%{0} birlik kapasitesi",
-    "effect_description_defenseUnitAmountYardBonus": "Avlu savunması birlik kapasitesi"
+    "effect_description_defenseUnitAmountYardBonus": "Avlu savunması birlik kapasitesi",
+    "effect_description_allianceDefenseUnitAmountYardBonus": "+{0} ittifak desteği birlik kapasitesi",
+    "effect_description_hiddenSoldiersSpace": "Birlik sığınağı kapasitesi"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Kahraman",
@@ -15813,7 +15826,27 @@
     "equipment_unique_1169": "Kış tohumu",
     "equipment_unique_1169_desc": "Kaleni sıcak bir ahşap kulübeye dönüştür. Büyük ladinler, kulübeyi Herdem Buzulun dondurucu rüzgarlarından korur.",
     "equipment_unique_2622": "Kış tohumu",
-    "equipment_unique_2622_desc": "Kaleni sıcak bir ahşap kulübeye dönüştür. Büyük ladinler, kulübeyi Herdem Buzulun dondurucu rüzgarlarından korur."
+    "equipment_unique_2622_desc": "Kaleni sıcak bir ahşap kulübeye dönüştür. Büyük ladinler, kulübeyi Herdem Buzulun dondurucu rüzgarlarından korur.",
+    "equipment_unique_1170": "Şanslı yonca",
+    "equipment_unique_1170_desc": "Zümrüt Festivali için şansını eline al. Kaleni, yonca kaplı bir hisara dönüştür. || 80 ||",
+    "equipment_unique_1172_desc": "Zümrüt Festivali için şansını eline al. Kaleni, yonca kaplı bir hisara dönüştür. || 80 ||",
+    "equipment_unique_1172": "Şanslı yonca",
+    "equipment_unique_1171_desc": "Zümrüt Festivali için şansını eline al. Kaleni, yonca kaplı bir hisara dönüştür. || 80 ||",
+    "equipment_unique_1171": "Şanslı yonca",
+    "equipment_unique_1173": "Karnaval maskesi",
+    "equipment_unique_1174": "Karnaval maskesi",
+    "equipment_unique_1175": "Karnaval maskesi",
+    "equipment_unique_1173_desc": "Festival şehrinden bir öğe. Ordunu, Karnaval Prensinin muhafızlarına dönüştürür.",
+    "equipment_unique_1174_desc": "Festival şehrinden bir öğe. Ordunu, Karnaval Prensinin muhafızlarına dönüştürür.",
+    "equipment_unique_1175_desc": "Festival şehrinden bir öğe. Ordunu, Karnaval Prensinin muhafızlarına dönüştürür.",
+    "equipment_unique_1176": "Kaçakçı gondolu",
+    "equipment_unique_1177": "Kaçakçı gondolu",
+    "equipment_unique_1178": "Kaçakçı gondolu",
+    "equipment_unique_1176_desc": "Festival şehrinden bir öğe. Ordunu, Karnaval Prensinin muhafızlarına dönüştürür.",
+    "equipment_unique_1177_desc": "Festival şehrinden bir öğe. Ordunu, Karnaval Prensinin muhafızlarına dönüştürür.",
+    "equipment_unique_1178_desc": "Tekneler hem nesneler hem de insan içeren değerli kargolar taşır. Kaleni, bin kanallı şehrin görüntüsüne dönüştürür.",
+    "equipment_unique_1179": "İmparatorun satranç takımı",
+    "equipment_unique_1179_desc": "Kaleni değerli bir satranç takımı tarzındaki bir kaleye dönüştürür."
   },
   "generic": {
     "activity": "Etkinlik",
@@ -17722,7 +17755,15 @@
     "filters_category_111": "Buzul jetonu",
     "currency_description_IceLTPEToken": "Bu dondurucu jeton, dondurduğu kadar değerli de. Sınırlı bir süre boyunca Usta Demircide ödüllerle değiş tokuş edilebilir.",
     "currency_name_IceLTPEToken": "Buzul Jetonu",
-    "amountPerWave_limit_supportTool": "Saldırı desteği dalgasındaki maksimum alet miktarı"
+    "amountPerWave_limit_supportTool": "Saldırı desteği dalgasındaki maksimum alet miktarı",
+    "mysteryBox_boxName_WinterBox2022_4": "Efsanevi kış temalı esrarengiz sandık",
+    "mysteryBox_boxName_WinterBox2022_3": "Epik kış temalı esrarengiz sandık",
+    "mysteryBox_boxName_WinterBox2022_2": "Nadir kış temalı esrarengiz sandık",
+    "mysteryBox_boxName_WinterBox2022_1": "Sıradan kış temalı esrarengiz sandık",
+    "mysteryBox_boxName_SpringBox2023_4": "Legendary spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_3": "Epic spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_2": "Rare spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_1": "Common spring mystery box"
   },
   "help": {
     "help_location": "Buradan kalenin tüm önemli ögelerine ve ileri karakollara genel olarak bakabilirsin.",

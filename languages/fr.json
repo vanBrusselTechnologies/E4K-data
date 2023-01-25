@@ -1729,7 +1729,14 @@
     "deco_xmasUnicorn_name": "Fêtes fabuleuses",
     "deco_christmashut_name": "Hutte du frimas enchantée",
     "deco_winterStoneSpider_name": "Source de la tarentule gelée",
-    "deco_xmasRollercoaster_name": "Manège pour traîneau du frimas"
+    "deco_xmasRollercoaster_name": "Manège pour traîneau du frimas",
+    "ci_appearance_newKingGuardhouse": "Corps de garde impérial",
+    "ci_appearance_newKingGuardhouse_flavour": "Ces gardes arborent fièrement les couleurs du roi Éric. Mieux vaut éviter les ennuis et ne pas attirer leur attention.",
+    "deco_newKingBridgeRed_name": "Monument automnal de la couronne",
+    "deco_newKingBridgeGreen_name": "Monument vernal de la couronne",
+    "deco_xmasRollercoaster2_name": "Manège du sucre dorge du frimas",
+    "deco_stPatricksWagon_name": "Chariot du trèfle",
+    "deco_valentinesLoveNest_name": "Cachette de la lune de miel"
   },
   "dialogs": {
     "dialog_festival_desc": "Utilisez de la nourriture pour organiser une fête pour vos villageois ! Tant que la fête durera, la vitesse de recrutement sera considérablement augmentée dans tous vos châteaux. Plus la fête est grande, plus son effet est important.",
@@ -2232,7 +2239,7 @@
     "dialog_newMessage_missingText": "Aucun texte na été saisi.",
     "dialog_newMessage_sendMessage": "Envoyer message",
     "dialog_newMessage_yourText": "Votre texte :",
-    "dialog_noFightMessage_copy": "Vos troupes nont pas combattu car la destination nest plus détenue par son propriétaire dorigine, ou car la destination est sous protection.",
+    "dialog_noFightMessage_copy": "Vos troupes nont pas combattu, car la destination nest plus détenue par son propriétaire dorigine, a été transférée vers un autre endroit, ou est protégée contre les attaques.",
     "dialog_noFightMessage_title": "Pas de bataille",
     "dialog_NoMoneyC1_copy": "Vous navez plus de pièces !",
     "dialog_NoMoneyC1_goToCastle": "Retournez dans votre château et envoyez le percepteur collecter plus de pièces.",
@@ -5844,7 +5851,10 @@
     "pointsEvent_longPointsEvent_alienInvasion_condition02": "Gagnez au moins {0} points de gloire en battant un château étranger",
     "pointsEvent_longPointsEvent_nomadInvasion_condition01": "Obtenez au moins 1 point Khan en battant un camp nomade ou du Khan",
     "pointsEvent_longPointsEvent_nomadInvasion_condition02": "Obtenez au moins {0} points Khan en battant des camps nomades ou du Khan",
-    "pointsEvent_longPointsEvent_nomadInvasion_condition03": "Dépensez {0} tablettes du Khan à la fois",
+    "pointsEvent_longPointsEvent_nomadInvasion_condition03": [
+      "Dépensez {0} tablettes du Khan à la fois",
+      "Dépensez des tablettes du Khan et recevez des points tous les {0} jetons dans un achat."
+    ],
     "pointsEvent_longPointsEvent_alienInvasion_condition03": "Gagnez au moins {0} points de gloire en battant un château étranger",
     "dialog_longPointsEvent_rewards": "Récompenses ({0}/{1})",
     "dialog_longPointsEvent_nextReward": "Prochaine récompense : {0} points",
@@ -11098,10 +11108,11 @@
     "dialog_generals_overview_noAbilityUnlocked": "Aucune capacité active. Débloquez-en dans larbre de compétences ou sélectionnez-en une dans la liste des capacités.",
     "unitsInCourtyard_limit_support": "Capacité de soutien dans la cour",
     "generic_timeSkips_inventoryFull_warning_desc": "Votre inventaire contient le nombre maximum daccélérateurs de temps du type sélectionné. Tous ceux qui dépassent la limite seront perdus. Continuer malgré tout ?",
-    "pointsEvent_longPointsEvent_nomadInvasion_condition03_new": "Dépensez des tablettes du Khan et recevez des points tous les {0} jetons dans un achat.",
     "pointsEvent_longPointsEvent_samuraiInvasion_condition03_new": "Dépensez des jetons de samouraïs et recevez des points tous les {0} jetons dans un achat.",
     "allianceDefenseUnitAmount": "Capacité en troupes du soutien dalliance",
-    "equip_effect_description_allianceDefenseUnitAmountYardBonus": "+{0} en capacité en troupes du soutien dalliance"
+    "equip_effect_description_allianceDefenseUnitAmountYardBonus": "+{0} en capacité en troupes du soutien dalliance",
+    "dialog_stronghold_capacity": "Capacité en unités",
+    "dialog_stronghold_header": "Protection dunités"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "Vitesse de déplacement de larmée lors des conquêtes : +{0} %",
@@ -12135,7 +12146,9 @@
     "ci_effect_defenseUnitAmountYardBonus": "Capacité des troupes en défense dans la cour : +{0}",
     "ci_effect_attackUnitAmountReinforcementBonus": "Capacité des troupes pour lassaut final : +{0}",
     "ci_effect_attackUnitAmountReinforcementBoost": "Capacité des troupes pour lassaut final : +{0} %",
-    "effect_description_defenseUnitAmountYardBonus": "Capacité de troupes en défense dans la cour"
+    "effect_description_defenseUnitAmountYardBonus": "Capacité de troupes en défense dans la cour",
+    "effect_description_allianceDefenseUnitAmountYardBonus": "+{0} en capacité en troupes du soutien dalliance",
+    "effect_description_hiddenSoldiersSpace": "Capacité de protection dunités"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Héros",
@@ -15813,7 +15826,27 @@
     "equipment_unique_1169": "Graine de lhiver",
     "equipment_unique_1169_desc": "Transforme votre château en un chalet douillet entouré de grands épicéas qui le protègent des vents gelés du Glacier éternels.",
     "equipment_unique_2622": "Graine de lhiver",
-    "equipment_unique_2622_desc": "Transforme votre château en un chalet douillet entouré de grands épicéas qui le protègent des vents gelés du Glacier éternels."
+    "equipment_unique_2622_desc": "Transforme votre château en un chalet douillet entouré de grands épicéas qui le protègent des vents gelés du Glacier éternels.",
+    "equipment_unique_1170": "Trèfle porte-bonheur",
+    "equipment_unique_1170_desc": "Pour le Festival démeraude, mettez toutes les chances de votre côté. Transforme votre château en forteresse couverte de trèfles. || 129 ||",
+    "equipment_unique_1172_desc": "Pour le Festival démeraude, mettez toutes les chances de votre côté. Transforme votre château en forteresse couverte de trèfles. || 129 ||",
+    "equipment_unique_1172": "Trèfle porte-bonheur",
+    "equipment_unique_1171_desc": "Pour le Festival démeraude, mettez toutes les chances de votre côté. Transforme votre château en forteresse couverte de trèfles. || 129 ||",
+    "equipment_unique_1171": "Trèfle porte-bonheur",
+    "equipment_unique_1173": "Masque de carnaval",
+    "equipment_unique_1174": "Masque de carnaval",
+    "equipment_unique_1175": "Masque de carnaval",
+    "equipment_unique_1173_desc": "Un objet de la ville du carnaval. Transforme votre armée en garde du prince du carnaval.",
+    "equipment_unique_1174_desc": "Un objet de la ville du carnaval. Transforme votre armée en garde du prince du carnaval.",
+    "equipment_unique_1175_desc": "Un objet de la ville du carnaval. Transforme votre armée en garde du prince du carnaval.",
+    "equipment_unique_1176": "Gondole de contrebandier",
+    "equipment_unique_1177": "Gondole de contrebandier",
+    "equipment_unique_1178": "Gondole de contrebandier",
+    "equipment_unique_1176_desc": "Un objet de la ville du carnaval. Transforme votre armée en garde du prince du carnaval.",
+    "equipment_unique_1177_desc": "Un objet de la ville du carnaval. Transforme votre armée en garde du prince du carnaval.",
+    "equipment_unique_1178_desc": "Ce bateau transporte une précieuse cargaison composée aussi bien dobjets que dêtres humains. Transforme votre château en une image de la ville aux mille canaux.",
+    "equipment_unique_1179": "Jeu déchecs de lempereur",
+    "equipment_unique_1179_desc": "Transforme votre château en un superbe jeu déchecs."
   },
   "generic": {
     "activity": "Activité",
@@ -17722,7 +17755,15 @@
     "filters_category_111": "Jeton du glacier",
     "currency_description_IceLTPEToken": "Ce jeton transi est aussi précieux que glacé. Peut être échangé contre des récompenses chez le maître forgeron pendant une durée limitée.",
     "currency_name_IceLTPEToken": "Jeton du glacier",
-    "amountPerWave_limit_supportTool": "Nombre dengins maximum dans une vague de soutien dattaque."
+    "amountPerWave_limit_supportTool": "Nombre dengins maximum dans une vague de soutien dattaque.",
+    "mysteryBox_boxName_WinterBox2022_4": "Boîte mystérieuse hivernale légendaire",
+    "mysteryBox_boxName_WinterBox2022_3": "Boîte mystérieuse hivernale épique",
+    "mysteryBox_boxName_WinterBox2022_2": "Boîte mystérieuse hivernale rare",
+    "mysteryBox_boxName_WinterBox2022_1": "Boîte mystérieuse hivernale commune",
+    "mysteryBox_boxName_SpringBox2023_4": "Legendary spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_3": "Epic spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_2": "Rare spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_1": "Common spring mystery box"
   },
   "help": {
     "help_location": "Ici, vous avez un aperçu global des contenus importants de votre château et de tous vos avant-postes.",

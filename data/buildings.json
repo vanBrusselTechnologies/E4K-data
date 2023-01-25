@@ -1,6 +1,142 @@
 {
   "building": [
     {
+      "wodID": "900000",
+      "group": "Building",
+      "name": "Offer",
+      "type": "isoObject",
+      "kIDs": "",
+      "server": "0",
+      "block": "0",
+      "width": "8",
+      "height": "8",
+      "movable": "0",
+      "level": "1"
+    },
+    {
+      "wodID": "900001",
+      "group": "Tower",
+      "type": "CornerLevel1",
+      "width": "2",
+      "height": "2",
+      "movable": "0",
+      "kIDs": "0,1,2,3,4",
+      "name": "Corner",
+      "level": "1",
+      "destructable": "0",
+      "burnable": "0",
+      "smashable": "0",
+      "rotateType": "4"
+    },
+    {
+      "wodID": "900002",
+      "group": "Tower",
+      "type": "CornerLevel2",
+      "width": "2",
+      "height": "2",
+      "movable": "0",
+      "kIDs": "0,1,2,3,4",
+      "name": "Corner",
+      "level": "2",
+      "destructable": "0",
+      "burnable": "0",
+      "smashable": "0",
+      "rotateType": "4"
+    },
+    {
+      "wodID": "900003",
+      "group": "Tower",
+      "type": "CornerLevel3",
+      "width": "2",
+      "height": "2",
+      "movable": "0",
+      "kIDs": "0,1,2,3,4",
+      "name": "Corner",
+      "level": "3",
+      "destructable": "0",
+      "burnable": "0",
+      "smashable": "0",
+      "rotateType": "4"
+    },
+    {
+      "wodID": "900004",
+      "group": "Tower",
+      "type": "CornerLevel4",
+      "width": "2",
+      "height": "2",
+      "movable": "0",
+      "kIDs": "0,1,2,3,4",
+      "name": "Corner",
+      "level": "4",
+      "destructable": "0",
+      "burnable": "0",
+      "smashable": "0",
+      "rotateType": "4"
+    },
+    {
+      "wodID": "900005",
+      "group": "Tower",
+      "type": "CornerLevel5",
+      "width": "2",
+      "height": "2",
+      "movable": "0",
+      "kIDs": "0,1,2,3,4",
+      "name": "Corner",
+      "level": "5",
+      "destructable": "0",
+      "burnable": "0",
+      "smashable": "0",
+      "rotateType": "4"
+    },
+    {
+      "wodID": "900006",
+      "group": "Tower",
+      "type": "Level1",
+      "width": "2",
+      "height": "2",
+      "movable": "0",
+      "eventIDs": "3",
+      "kIDs": "10",
+      "name": "FactionLookoutCorner",
+      "level": "1",
+      "destructable": "0",
+      "burnable": "0",
+      "smashable": "0",
+      "rotateType": "4"
+    },
+    {
+      "wodID": "900007",
+      "group": "Tower",
+      "type": "Level2",
+      "width": "2",
+      "height": "2",
+      "movable": "0",
+      "eventIDs": "3",
+      "kIDs": "10",
+      "name": "FactionLookoutCorner",
+      "level": "2",
+      "destructable": "0",
+      "burnable": "0",
+      "smashable": "0",
+      "rotateType": "4"
+    },
+    {
+      "wodID": "900008",
+      "group": "Tower",
+      "type": "Level3",
+      "width": "2",
+      "height": "2",
+      "movable": "0",
+      "eventIDs": "3",
+      "kIDs": "10",
+      "name": "FactionLookoutCorner",
+      "level": "3",
+      "destructable": "0",
+      "burnable": "0",
+      "smashable": "0",
+      "rotateType": "4"
+    },
+    {
       "wodID": "401",
       "name": "Guard",
       "upgradeWodID": "402",
@@ -1425,7 +1561,7 @@
       "tempServerCostWood": "5",
       "tempServerCostStone": "2",
       "tempServerTime": "294",
-      "areaSpecificEffects": "702&amp;10000"
+      "areaSpecificEffects": "702&amp;10000,706&amp;100000"
     },
     {
       "wodID": "172",
@@ -1471,7 +1607,7 @@
       "tempServerCostWood": "126",
       "tempServerCostStone": "96",
       "tempServerTime": "2242",
-      "areaSpecificEffects": "702&amp;50000"
+      "areaSpecificEffects": "702&amp;50000,706&amp;100000"
     },
     {
       "wodID": "173",
@@ -1516,7 +1652,7 @@
       "tempServerCostWood": "635",
       "tempServerCostStone": "763",
       "tempServerTime": "3600",
-      "areaSpecificEffects": "702&amp;100000"
+      "areaSpecificEffects": "702&amp;100000,706&amp;100000"
     },
     {
       "wodID": "174",
@@ -1561,7 +1697,7 @@
       "tempServerCostWood": "2320",
       "tempServerCostStone": "4816",
       "tempServerTime": "3600",
-      "areaSpecificEffects": "702&amp;150000"
+      "areaSpecificEffects": "702&amp;150000,706&amp;150000"
     },
     {
       "wodID": "175",
@@ -1606,7 +1742,7 @@
       "tempServerCostWood": "7201",
       "tempServerCostStone": "8098",
       "tempServerTime": "3600",
-      "areaSpecificEffects": "702&amp;200000"
+      "areaSpecificEffects": "702&amp;200000,706&amp;200000"
     },
     {
       "wodID": "1940",
@@ -1656,7 +1792,7 @@
       "tempServerTime": "3600",
       "sceatSkillLocked": "41",
       "effectLocked": "1",
-      "areaSpecificEffects": "702&amp;250000"
+      "areaSpecificEffects": "702&amp;250000,706&amp;200000"
     },
     {
       "wodID": "252",
@@ -1705,7 +1841,7 @@
       "tempServerTime": "3600",
       "sceatSkillLocked": "159",
       "effectLocked": "1",
-      "areaSpecificEffects": "702&amp;300000"
+      "areaSpecificEffects": "702&amp;300000,706&amp;200000"
     },
     {
       "wodID": "160",
@@ -5937,7 +6073,7 @@
       "tempServerCostWood": "15",
       "tempServerCostStone": "10",
       "tempServerTime": "486",
-      "areaSpecificEffects": "702&amp;1000"
+      "areaSpecificEffects": "702&amp;1000,706&amp;500"
     },
     {
       "wodID": "155",
@@ -5967,7 +6103,7 @@
       "tempServerCostWood": "105",
       "tempServerCostStone": "105",
       "tempServerTime": "2544",
-      "areaSpecificEffects": "702&amp;2000"
+      "areaSpecificEffects": "702&amp;2000,706&amp;1000"
     },
     {
       "wodID": "156",
@@ -5997,7 +6133,7 @@
       "tempServerCostWood": "301",
       "tempServerCostStone": "432",
       "tempServerTime": "3600",
-      "areaSpecificEffects": "702&amp;3000"
+      "areaSpecificEffects": "702&amp;3000,706&amp;1500"
     },
     {
       "wodID": "231",
@@ -6026,7 +6162,7 @@
       "tempServerCostWood": "2376",
       "tempServerCostStone": "3065",
       "tempServerTime": "3600",
-      "areaSpecificEffects": "702&amp;4000"
+      "areaSpecificEffects": "702&amp;4000,706&amp;2000"
     },
     {
       "wodID": "832",
@@ -6057,7 +6193,7 @@
       "tempServerCostWood": "3946",
       "tempServerCostStone": "4522",
       "tempServerTime": "3600",
-      "areaSpecificEffects": "702&amp;5000"
+      "areaSpecificEffects": "702&amp;5000,706&amp;2500"
     },
     {
       "wodID": "833",
@@ -6088,7 +6224,7 @@
       "tempServerCostWood": "5827",
       "tempServerCostStone": "6250",
       "tempServerTime": "3600",
-      "areaSpecificEffects": "702&amp;6000"
+      "areaSpecificEffects": "702&amp;6000,706&amp;3000"
     },
     {
       "wodID": "834",
@@ -6118,7 +6254,7 @@
       "tempServerCostWood": "8073",
       "tempServerCostStone": "8065",
       "tempServerTime": "3600",
-      "areaSpecificEffects": "702&amp;7000"
+      "areaSpecificEffects": "702&amp;7000,706&amp;3500"
     },
     {
       "wodID": "200",
@@ -10619,8 +10755,7 @@
       "burnable": "0",
       "tempServerBurnable": "1",
       "smashable": "0",
-      "maximumCount": "1",
-      "areaSpecificEffects": "702&amp;10000"
+      "maximumCount": "1"
     },
     {
       "wodID": "260",
@@ -11012,7 +11147,7 @@
       "tempServerBurnable": "1",
       "smashable": "0",
       "maximumCount": "1",
-      "areaSpecificEffects": "702&amp;200"
+      "areaSpecificEffects": "702&amp;200,706&amp;50"
     },
     {
       "wodID": "234",
@@ -11408,7 +11543,7 @@
       "tempServerDestructable": "0",
       "tempServerBurnable": "1",
       "sortOrder": "2.1",
-      "areaSpecificEffects": "702&amp;4"
+      "areaSpecificEffects": "702&amp;4,706&amp;1"
     },
     {
       "wodID": "11",
@@ -11434,7 +11569,7 @@
       "destructable": "0",
       "tempServerDestructable": "0",
       "tempServerBurnable": "1",
-      "areaSpecificEffects": "702&amp;6"
+      "areaSpecificEffects": "702&amp;6,706&amp;2"
     },
     {
       "wodID": "243",
@@ -11460,7 +11595,7 @@
       "destructable": "0",
       "tempServerDestructable": "0",
       "tempServerBurnable": "1",
-      "areaSpecificEffects": "702&amp;8"
+      "areaSpecificEffects": "702&amp;8,706&amp;3"
     },
     {
       "wodID": "12",
@@ -11485,7 +11620,7 @@
       "destructable": "0",
       "tempServerDestructable": "0",
       "tempServerBurnable": "1",
-      "areaSpecificEffects": "702&amp;10"
+      "areaSpecificEffects": "702&amp;10,706&amp;4"
     },
     {
       "wodID": "244",
@@ -11515,7 +11650,7 @@
       "smashable": "0",
       "canBePrimeSaleOffer": "1",
       "sortOrder": "2.2",
-      "areaSpecificEffects": "702&amp;7"
+      "areaSpecificEffects": "702&amp;7,706&amp;2"
     },
     {
       "wodID": "13",
@@ -11543,7 +11678,7 @@
       "tempServerBurnable": "1",
       "smashable": "0",
       "canBePrimeSaleOffer": "1",
-      "areaSpecificEffects": "702&amp;10"
+      "areaSpecificEffects": "702&amp;10,706&amp;3"
     },
     {
       "wodID": "245",
@@ -11571,7 +11706,7 @@
       "tempServerBurnable": "1",
       "smashable": "0",
       "canBePrimeSaleOffer": "1",
-      "areaSpecificEffects": "702&amp;13"
+      "areaSpecificEffects": "702&amp;13,706&amp;4"
     },
     {
       "wodID": "14",
@@ -11598,7 +11733,7 @@
       "tempServerBurnable": "1",
       "smashable": "0",
       "canBePrimeSaleOffer": "1",
-      "areaSpecificEffects": "702&amp;16"
+      "areaSpecificEffects": "702&amp;16,706&amp;5"
     },
     {
       "wodID": "246",
@@ -74915,142 +75050,6 @@
       "isFusionTarget": "1",
       "sellC1": "200000",
       "tempServerDestructable": "1"
-    },
-    {
-      "wodID": "900000",
-      "group": "Building",
-      "name": "Offer",
-      "type": "isoObject",
-      "kIDs": "",
-      "server": "0",
-      "block": "0",
-      "width": "8",
-      "height": "8",
-      "movable": "0",
-      "level": "1"
-    },
-    {
-      "wodID": "900001",
-      "group": "Tower",
-      "type": "CornerLevel1",
-      "width": "2",
-      "height": "2",
-      "movable": "0",
-      "kIDs": "0,1,2,3,4",
-      "name": "Corner",
-      "level": "1",
-      "destructable": "0",
-      "burnable": "0",
-      "smashable": "0",
-      "rotateType": "4"
-    },
-    {
-      "wodID": "900002",
-      "group": "Tower",
-      "type": "CornerLevel2",
-      "width": "2",
-      "height": "2",
-      "movable": "0",
-      "kIDs": "0,1,2,3,4",
-      "name": "Corner",
-      "level": "2",
-      "destructable": "0",
-      "burnable": "0",
-      "smashable": "0",
-      "rotateType": "4"
-    },
-    {
-      "wodID": "900003",
-      "group": "Tower",
-      "type": "CornerLevel3",
-      "width": "2",
-      "height": "2",
-      "movable": "0",
-      "kIDs": "0,1,2,3,4",
-      "name": "Corner",
-      "level": "3",
-      "destructable": "0",
-      "burnable": "0",
-      "smashable": "0",
-      "rotateType": "4"
-    },
-    {
-      "wodID": "900004",
-      "group": "Tower",
-      "type": "CornerLevel4",
-      "width": "2",
-      "height": "2",
-      "movable": "0",
-      "kIDs": "0,1,2,3,4",
-      "name": "Corner",
-      "level": "4",
-      "destructable": "0",
-      "burnable": "0",
-      "smashable": "0",
-      "rotateType": "4"
-    },
-    {
-      "wodID": "900005",
-      "group": "Tower",
-      "type": "CornerLevel5",
-      "width": "2",
-      "height": "2",
-      "movable": "0",
-      "kIDs": "0,1,2,3,4",
-      "name": "Corner",
-      "level": "5",
-      "destructable": "0",
-      "burnable": "0",
-      "smashable": "0",
-      "rotateType": "4"
-    },
-    {
-      "wodID": "900006",
-      "group": "Tower",
-      "type": "Level1",
-      "width": "2",
-      "height": "2",
-      "movable": "0",
-      "eventIDs": "3",
-      "kIDs": "10",
-      "name": "FactionLookoutCorner",
-      "level": "1",
-      "destructable": "0",
-      "burnable": "0",
-      "smashable": "0",
-      "rotateType": "4"
-    },
-    {
-      "wodID": "900007",
-      "group": "Tower",
-      "type": "Level2",
-      "width": "2",
-      "height": "2",
-      "movable": "0",
-      "eventIDs": "3",
-      "kIDs": "10",
-      "name": "FactionLookoutCorner",
-      "level": "2",
-      "destructable": "0",
-      "burnable": "0",
-      "smashable": "0",
-      "rotateType": "4"
-    },
-    {
-      "wodID": "900008",
-      "group": "Tower",
-      "type": "Level3",
-      "width": "2",
-      "height": "2",
-      "movable": "0",
-      "eventIDs": "3",
-      "kIDs": "10",
-      "name": "FactionLookoutCorner",
-      "level": "3",
-      "destructable": "0",
-      "burnable": "0",
-      "smashable": "0",
-      "rotateType": "4"
     }
   ]
 }

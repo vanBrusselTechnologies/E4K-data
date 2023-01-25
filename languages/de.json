@@ -1729,7 +1729,14 @@
     "deco_xmasUnicorn_name": "Fabelhafte Feiertage",
     "deco_christmashut_name": "Verzauberte Winterhütte",
     "deco_winterStoneSpider_name": "Eistarantelquelle",
-    "deco_xmasRollercoaster_name": "Winterzeitschlittenbahn"
+    "deco_xmasRollercoaster_name": "Winterzeitschlittenbahn",
+    "ci_appearance_newKingGuardhouse": "Kaiserliches Wachhaus",
+    "ci_appearance_newKingGuardhouse_flavour": "Diese Wächter tragen die Farben von König Erik voller Stolz. Ihr solltet Euch lieber von jedem Ärger fernhalten und keine Aufmerksamkeit auf Euch ziehen.",
+    "deco_newKingBridgeRed_name": "Herbstkronen-Monument",
+    "deco_newKingBridgeGreen_name": "Frühlingskronen-Monument",
+    "deco_xmasRollercoaster2_name": "Winter-Zuckerstangen-Achterbahn",
+    "deco_stPatricksWagon_name": "Kleeblattwagen",
+    "deco_valentinesLoveNest_name": "Flitterwochenversteck"
   },
   "dialogs": {
     "dialog_festival_desc": "Setzt Nahrung ein, um ein Fest für Eure Bürger zu feiern!\nSolange das Fest läuft, wird die Rekrutierungsgeschwindigkeit in all Euren Burgen deutlich erhöht. Je größer das Fest ist, desto größer ist auch der Effekt.",
@@ -2232,7 +2239,7 @@
     "dialog_newMessage_missingText": "Es wurde kein Text eingegeben.",
     "dialog_newMessage_sendMessage": "Nachricht versenden",
     "dialog_newMessage_yourText": "Euer Text:",
-    "dialog_noFightMessage_copy": "Eure Truppen haben nicht gekämpft, da das Ziel nicht mehr dem ursprünglichen Besitzer gehört oder es derzeit geschützt ist.",
+    "dialog_noFightMessage_copy": "Eure Truppen haben nicht gekämpft, da das Ziel nicht mehr dem ursprünglichen Besitzer gehört, an einen neuen Ort verschoben wurde oder es derzeit geschützt ist.",
     "dialog_noFightMessage_title": "Kein Kampf",
     "dialog_NoMoneyC1_copy": "Ihr habt keine Münzen mehr",
     "dialog_NoMoneyC1_goToCastle": "Kehrt in Eure Burg zurück und schickt den Steuereintreiber los, um neue Münzen einzusammeln!",
@@ -5844,7 +5851,10 @@
     "pointsEvent_longPointsEvent_alienInvasion_condition02": "Erringt zumindest {0} Ruhmpunkte, indem Ihr eine Burg der Fremden besiegt",
     "pointsEvent_longPointsEvent_nomadInvasion_condition01": "Sammelt mind. 1 Khanpunkt, indem Ihr ein Nomaden- oder Khanlager besiegt",
     "pointsEvent_longPointsEvent_nomadInvasion_condition02": "Sammelt mind. {0} Khanpunkte, indem Ihr Nomaden- oder Khanlager besiegt",
-    "pointsEvent_longPointsEvent_nomadInvasion_condition03": "Gebt {0} Khantafeln auf einmal aus",
+    "pointsEvent_longPointsEvent_nomadInvasion_condition03": [
+      "Gebt {0} Khantafeln auf einmal aus",
+      "Gebt Khantafeln aus. Verdient Punkte für alle {0} Marken in einem Kauf"
+    ],
     "pointsEvent_longPointsEvent_alienInvasion_condition03": "Erringt zumindest {0} Ruhmpunkte, indem Ihr eine Burg der Fremden besiegt",
     "dialog_longPointsEvent_rewards": "Belohnungen ({0}/{1})",
     "dialog_longPointsEvent_nextReward": "Nächste Belohnung: {0} Punkte",
@@ -11098,10 +11108,11 @@
     "dialog_generals_overview_noAbilityUnlocked": "Kein Talent aktiv. Schaltet Talente im Fertigkeitenbaum frei oder wählt sie von der Liste von Talenten aus.",
     "unitsInCourtyard_limit_support": "Kapazität für Innenhofunterstützung",
     "generic_timeSkips_inventoryFull_warning_desc": "Euer Inventar ist für die gewählte Art von Beschleunigern voll. Alle zusätzlichen Beschleuniger gehen verloren. Trotzdem fortfahren?",
-    "pointsEvent_longPointsEvent_nomadInvasion_condition03_new": "Gebt Khantafeln aus. Verdient Punkte für alle {0} Marken in einem Kauf",
     "pointsEvent_longPointsEvent_samuraiInvasion_condition03_new": "Gebt Samuraimarken aus. Verdient Punkte für alle {0} Marken in einem Kauf",
     "allianceDefenseUnitAmount": "Allianzunterstützungs-Truppenkapazität",
-    "equip_effect_description_allianceDefenseUnitAmountYardBonus": "+{0} für die Allianzunterstützungs-Truppenkapazität"
+    "equip_effect_description_allianceDefenseUnitAmountYardBonus": "+{0} für die Allianzunterstützungs-Truppenkapazität",
+    "dialog_stronghold_capacity": "Einheitenkapazität",
+    "dialog_stronghold_header": "Zuflucht für Einheiten"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% Reisetempo der Armee bei Eroberungen",
@@ -12135,7 +12146,9 @@
     "ci_effect_defenseUnitAmountYardBonus": "+{0} für die Truppenkapazität bei der Innenhof-Verteidigung",
     "ci_effect_attackUnitAmountReinforcementBonus": "+{0} für die Truppenkapazität für den letzten Ansturm",
     "ci_effect_attackUnitAmountReinforcementBoost": "+{0} % für Truppenkapazität für den letzten Ansturm",
-    "effect_description_defenseUnitAmountYardBonus": "Truppenkapazität bei der Innenhof-Verteidigung"
+    "effect_description_defenseUnitAmountYardBonus": "Truppenkapazität bei der Innenhof-Verteidigung",
+    "effect_description_allianceDefenseUnitAmountYardBonus": "+{0} für die Allianzunterstützungs-Truppenkapazität",
+    "effect_description_hiddenSoldiersSpace": "Einheitenkapazität der Zuflucht"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Held",
@@ -15813,7 +15826,27 @@
     "equipment_unique_1169": "Saat des Winters",
     "equipment_unique_1169_desc": "Verwandelt Eure Burg in eine gemütliche Holzhütte, die hohe Fichten vor den kalten Winden des Immerwinter-Gletschers schützen.",
     "equipment_unique_2622": "Saat des Winters",
-    "equipment_unique_2622_desc": "Verwandelt Eure Burg in eine gemütliche Holzhütte, die hohe Fichten vor den kalten Winden des Immerwinter-Gletschers schützen."
+    "equipment_unique_2622_desc": "Verwandelt Eure Burg in eine gemütliche Holzhütte, die hohe Fichten vor den kalten Winden des Immerwinter-Gletschers schützen.",
+    "equipment_unique_1170": "Glücksklee",
+    "equipment_unique_1170_desc": "Beim Smaragdfest solltet Ihr das Glück in die eigenen Hände nehmen. Verwandelt Eure Burg in eine kleebewachsene Festung. || 120 ||",
+    "equipment_unique_1172_desc": "Beim Smaragdfest solltet Ihr das Glück in die eigenen Hände nehmen. Verwandelt Eure Burg in eine kleebewachsene Festung. || 120 ||",
+    "equipment_unique_1172": "Glücksklee",
+    "equipment_unique_1171_desc": "Beim Smaragdfest solltet Ihr das Glück in die eigenen Hände nehmen. Verwandelt Eure Burg in eine kleebewachsene Festung. || 120 ||",
+    "equipment_unique_1171": "Glücksklee",
+    "equipment_unique_1173": "Karnevalsmaske",
+    "equipment_unique_1174": "Karnevalsmaske",
+    "equipment_unique_1175": "Karnevalsmaske",
+    "equipment_unique_1173_desc": "Ein Gegenstand aus der Festivalstadt. Verwandelt Eure Armee in die Wache des Karnevalsprinzen.",
+    "equipment_unique_1174_desc": "Ein Gegenstand aus der Festivalstadt. Verwandelt Eure Armee in die Wache des Karnevalsprinzen.",
+    "equipment_unique_1175_desc": "Ein Gegenstand aus der Festivalstadt. Verwandelt Eure Armee in die Wache des Karnevalsprinzen.",
+    "equipment_unique_1176": "Schmugglergondel",
+    "equipment_unique_1177": "Schmugglergondel",
+    "equipment_unique_1178": "Schmugglergondel",
+    "equipment_unique_1176_desc": "Die Boote haben eine wertvolle Fracht, sowohl Objekte als auch Menschen. Verwandelt Eure Burg in ein Ebenbild der Festivalstadt.",
+    "equipment_unique_1177_desc": "Die Boote haben eine wertvolle Fracht, sowohl Objekte als auch Menschen. Verwandelt Eure Burg in ein Ebenbild der Festivalstadt.",
+    "equipment_unique_1178_desc": "Die Boote haben eine wertvolle Fracht, sowohl Objekte als auch Menschen. Verwandelt Eure Burg in ein Ebenbild der Festivalstadt.",
+    "equipment_unique_1179": "Schachfiguren des Imperators",
+    "equipment_unique_1179_desc": "Verwandelt Eure Burg in ein wertvolles Schachbrett."
   },
   "generic": {
     "activity": "Aktivität",
@@ -17722,7 +17755,15 @@
     "filters_category_111": "Gletschermarke",
     "currency_description_IceLTPEToken": "Diese eiskalte Marke ist so wertvoll wie frostig. Kann beim Schmiedemeister für begrenzte Zeit gegen Belohnungen eingetauscht werden.",
     "currency_name_IceLTPEToken": "Gletschermarke",
-    "amountPerWave_limit_supportTool": "Maximale Anzahl von Werkzeugen in einer Angriffsunterstützungswelle"
+    "amountPerWave_limit_supportTool": "Maximale Anzahl von Werkzeugen in einer Angriffsunterstützungswelle",
+    "mysteryBox_boxName_WinterBox2022_4": "Legendäre mysteriöse Winterkiste",
+    "mysteryBox_boxName_WinterBox2022_3": "Epische mysteriöse Winterkiste",
+    "mysteryBox_boxName_WinterBox2022_2": "Seltene mysteriöse Winterkiste",
+    "mysteryBox_boxName_WinterBox2022_1": "Gewöhnliche mysteriöse Winterkiste",
+    "mysteryBox_boxName_SpringBox2023_4": "Legendary spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_3": "Epic spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_2": "Rare spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_1": "Common spring mystery box"
   },
   "help": {
     "help_location": "Hier seht Ihr eine globale Übersicht über die wichtigen \nBesitztümer Eurer Burg und aller Außenposten.",

@@ -1729,7 +1729,14 @@
     "deco_xmasUnicorn_name": "Fantastische feestdagen",
     "deco_christmashut_name": "Betoverde winterse hut",
     "deco_winterStoneSpider_name": "Bevoren vogelspinbron",
-    "deco_xmasRollercoaster_name": "Winterse slee-achtbaan"
+    "deco_xmasRollercoaster_name": "Winterse slee-achtbaan",
+    "ci_appearance_newKingGuardhouse": "Keizerlijk wachthuis",
+    "ci_appearance_newKingGuardhouse_flavour": "Deze wachters dragen vol trots de kleuren van koning Eric. Zorg dat je uit de problemen blijft en hun aandacht niet trekt.",
+    "deco_newKingBridgeRed_name": "Kroonmonument herfst",
+    "deco_newKingBridgeGreen_name": "Kroonmonument voorjaar",
+    "deco_xmasRollercoaster2_name": "Winterse zuurstokkenachtbaan",
+    "deco_stPatricksWagon_name": "Klaverwagen",
+    "deco_valentinesLoveNest_name": "Huwelijksreisstekkie"
   },
   "dialogs": {
     "dialog_festival_desc": "Gebruik voedsel om een festival te geven voor uw burgers! Zolang het festival duurt, wordt er in al uw kastelen aanmerkelijk sneller gerekruteerd. Hoe groter het festival, hoe groter het effect.",
@@ -2232,7 +2239,7 @@
     "dialog_newMessage_missingText": "Er is geen tekst ingevoerd.",
     "dialog_newMessage_sendMessage": "Bericht verzenden",
     "dialog_newMessage_yourText": "Uw tekst:",
-    "dialog_noFightMessage_copy": "Uw manschappen hebben niet gevochten omdat de bestemming niet langer in bezit was van de originele eigenaar of beschermd wordt.",
+    "dialog_noFightMessage_copy": "Je troepen hebben niet gevochten omdat het doelwit niet langer in bezit is van de oorspronkelijke eigenaar, is verplaatst naar een nieuwe locatie of beschermd wordt.",
     "dialog_noFightMessage_title": "Geen gevecht",
     "dialog_NoMoneyC1_copy": "Je hebt geen munten meer!",
     "dialog_NoMoneyC1_goToCastle": "Keer terug naar uw kasteel en stuur de belastinginner op pad voor meer munten.",
@@ -5844,7 +5851,10 @@
     "pointsEvent_longPointsEvent_alienInvasion_condition02": "Verdien ten minste {0} roempunten door een buitenlands kasteel te verslaan",
     "pointsEvent_longPointsEvent_nomadInvasion_condition01": "Verzamel ten minste 1 Khan-punt door een nomaden- of Khan-kamp te verslaan",
     "pointsEvent_longPointsEvent_nomadInvasion_condition02": "Verzamel ten minste {0} Khan-punten door nomaden- of Khan-kampen te verslaan",
-    "pointsEvent_longPointsEvent_nomadInvasion_condition03": "Geef {0} Khan-tabletten tegelijkertijd uit",
+    "pointsEvent_longPointsEvent_nomadInvasion_condition03": [
+      "Geef {0} Khan-tabletten tegelijkertijd uit",
+      "Geef Khan-tabletten uit. Verdien punten voor elke {0} munten in een aankoop"
+    ],
     "pointsEvent_longPointsEvent_alienInvasion_condition03": "Verdien ten minste {0} roempunten door een buitenlands kasteel te verslaan",
     "dialog_longPointsEvent_rewards": "Beloningen ({0}/{1})",
     "dialog_longPointsEvent_nextReward": "Volgende beloning: {0} punten",
@@ -11098,10 +11108,11 @@
     "dialog_generals_overview_noAbilityUnlocked": "Geen vermogen actief. Ontgrendel vermogens in het vaardighedenoverzicht of selecteer ze in de lijst met vermogens.",
     "unitsInCourtyard_limit_support": "Capaciteit ondersteuning binnenplaats",
     "generic_timeSkips_inventoryFull_warning_desc": "Je inventaris voor het geselecteerde soort tijdsprongen is vol. Eventuele extra tijdsprongen gaan verloren. Toch doorgaan?",
-    "pointsEvent_longPointsEvent_nomadInvasion_condition03_new": "Geef Khan-tabletten uit. Verdien punten voor elke {0} munten in een aankoop",
     "pointsEvent_longPointsEvent_samuraiInvasion_condition03_new": "Geef samoerai-munten uit. Verdien punten voor elke {0} munten in een aankoop",
     "allianceDefenseUnitAmount": "Troepencapaciteit bondgenootschapsondersteuning",
-    "equip_effect_description_allianceDefenseUnitAmountYardBonus": "Troepencapaciteit bondgenootschapsondersteuning"
+    "equip_effect_description_allianceDefenseUnitAmountYardBonus": "Troepencapaciteit bondgenootschapsondersteuning",
+    "dialog_stronghold_capacity": "Aantal eenheden",
+    "dialog_stronghold_header": "Eenhedenschuilplaats"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% reissnelheid leger tijdens veroveringen",
@@ -12135,7 +12146,9 @@
     "ci_effect_defenseUnitAmountYardBonus": "+{0} troepencapaciteit tijdens binnenplaatsverdediging",
     "ci_effect_attackUnitAmountReinforcementBonus": "+{0} troepencapaciteit voor eindaanval",
     "ci_effect_attackUnitAmountReinforcementBoost": "+{0}% troepencapaciteit voor eindaanval",
-    "effect_description_defenseUnitAmountYardBonus": "Capaciteit verdedigende troepen binnenplaats"
+    "effect_description_defenseUnitAmountYardBonus": "Capaciteit verdedigende troepen binnenplaats",
+    "effect_description_allianceDefenseUnitAmountYardBonus": "Troepencapaciteit bondgenootschapsondersteuning",
+    "effect_description_hiddenSoldiersSpace": "Capaciteit eenhedenschuilplaats"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Held",
@@ -15813,7 +15826,27 @@
     "equipment_unique_1169": "Winterzaad",
     "equipment_unique_1169_desc": "Transformeer je kasteel tot een gezellige blokhut, beschermd door grote dennenbomen tegen de ijskoude wind van De Eeuwige Gletsjer.",
     "equipment_unique_2622": "Winterzaad",
-    "equipment_unique_2622_desc": "Transformeer je kasteel tot een gezellige blokhut, beschermd door grote dennenbomen tegen de ijskoude wind van De Eeuwige Gletsjer."
+    "equipment_unique_2622_desc": "Transformeer je kasteel tot een gezellige blokhut, beschermd door grote dennenbomen tegen de ijskoude wind van De Eeuwige Gletsjer.",
+    "equipment_unique_1170": "Geluksklaver",
+    "equipment_unique_1170_desc": "Neem voor het Smaragdfestival het geluk in eigen handen. Transformeer je kasteel tot een met klavertjes bedekt fort. || 116 ||",
+    "equipment_unique_1172_desc": "Neem voor het Smaragdfestival het geluk in eigen handen. Transformeer je kasteel tot een met klavertjes bedekt fort. || 116 ||",
+    "equipment_unique_1172": "Geluksklaver",
+    "equipment_unique_1171_desc": "Neem voor het Smaragdfestival het geluk in eigen handen. Transformeer je kasteel tot een met klavertjes bedekt fort. || 116 ||",
+    "equipment_unique_1171": "Geluksklaver",
+    "equipment_unique_1173": "Carnavalsmasker",
+    "equipment_unique_1174": "Carnavalsmasker",
+    "equipment_unique_1175": "Carnavalsmasker",
+    "equipment_unique_1173_desc": "Een item van de festivalstad. Transformeert je leger in de wachter van de carnavalsprins.",
+    "equipment_unique_1174_desc": "Een item van de festivalstad. Transformeert je leger in de wachter van de carnavalsprins.",
+    "equipment_unique_1175_desc": "Een item van de festivalstad. Transformeert je leger in de wachter van de carnavalsprins.",
+    "equipment_unique_1176": "Smokkelaarsgondel",
+    "equipment_unique_1177": "Smokkelaarsgondel",
+    "equipment_unique_1178": "Smokkelaarsgondel",
+    "equipment_unique_1176_desc": "Een item van de festivalstad. Transformeert je leger in de wachter van de carnavalsprins.",
+    "equipment_unique_1177_desc": "Een item van de festivalstad. Transformeert je leger in de wachter van de carnavalsprins.",
+    "equipment_unique_1178_desc": "De boten vervoeren kostbare vracht, zowel voorwerpen als mensen. Transformeert je kasteel tot een weergave van de stad van duizend grachten.",
+    "equipment_unique_1179": "Schaakset van de keizer",
+    "equipment_unique_1179_desc": "Verandert je kasteel in de stijl van een kostbare schaakset."
   },
   "generic": {
     "activity": "Activiteit",
@@ -17722,7 +17755,15 @@
     "filters_category_111": "Gletsjeramulet",
     "currency_description_IceLTPEToken": "Deze koele amulet is even koud als kostbaar. Kan tijdelijk worden ingewisseld voor beloningen bij de meester-smid.",
     "currency_name_IceLTPEToken": "Gletsjeramulet",
-    "amountPerWave_limit_supportTool": "Maximumaantal tuigen in een ondersteunende aanvalsgolf"
+    "amountPerWave_limit_supportTool": "Maximumaantal tuigen in een ondersteunende aanvalsgolf",
+    "mysteryBox_boxName_WinterBox2022_4": "Legendarische winterse geheimzinnige kist",
+    "mysteryBox_boxName_WinterBox2022_3": "Epische winterse geheimzinnige kist",
+    "mysteryBox_boxName_WinterBox2022_2": "Zeldzame winterse geheimzinnige kist",
+    "mysteryBox_boxName_WinterBox2022_1": "Gewone winterse geheimzinnige kist",
+    "mysteryBox_boxName_SpringBox2023_4": "Legendary spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_3": "Epic spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_2": "Rare spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_1": "Common spring mystery box"
   },
   "help": {
     "help_location": "Hier krijg je een globaal overzicht van alle belangrijke inhoud van je kasteel en al je buitenposten.",

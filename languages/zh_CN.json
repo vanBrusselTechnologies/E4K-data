@@ -1729,7 +1729,14 @@
     "deco_xmasUnicorn_name": "美妙节日",
     "deco_christmashut_name": "附魔冬季小屋",
     "deco_winterStoneSpider_name": "冰封狼蛛泉",
-    "deco_xmasRollercoaster_name": "冬潮雪橇过山车"
+    "deco_xmasRollercoaster_name": "冬潮雪橇过山车",
+    "ci_appearance_newKingGuardhouse": "皇家哨所",
+    "ci_appearance_newKingGuardhouse_flavour": "这些守卫自豪地背负着埃里克王的旗帜颜色。最好远离麻烦，别引起他们的注意。",
+    "deco_newKingBridgeRed_name": "秋天王冠纪念碑",
+    "deco_newKingBridgeGreen_name": "春天王冠纪念碑",
+    "deco_xmasRollercoaster2_name": "冬季拐杖糖过山车",
+    "deco_stPatricksWagon_name": "三叶草车",
+    "deco_valentinesLoveNest_name": "蜜月保险库"
   },
   "dialogs": {
     "dialog_festival_desc": "用食物请您的市民大餐一顿吧！宴会持续期间，您所有城堡的招募速度会大大提高。宴会越丰盛，效果越好。",
@@ -2232,7 +2239,7 @@
     "dialog_newMessage_missingText": "尚未输入文本。",
     "dialog_newMessage_sendMessage": "发送",
     "dialog_newMessage_yourText": "您的文本：",
-    "dialog_noFightMessage_copy": "您的队伍没有参战，因为目的地已经易主，或者是受到保护。",
+    "dialog_noFightMessage_copy": "您的队伍没有参战，因为目标已经易主、已搬迁到新位置或是受到进攻保护。",
     "dialog_noFightMessage_title": "没有战斗",
     "dialog_NoMoneyC1_copy": "您没金币了！",
     "dialog_NoMoneyC1_goToCastle": "回到您的城堡，派税务官出去收取更多的金币。",
@@ -5844,7 +5851,10 @@
     "pointsEvent_longPointsEvent_alienInvasion_condition02": "击败外来城堡，至少获得{0}点荣耀值",
     "pointsEvent_longPointsEvent_nomadInvasion_condition01": "击败游牧部落营地或可汗大营，至少收集 1 点可汗积分",
     "pointsEvent_longPointsEvent_nomadInvasion_condition02": "击败游牧部落营地或可汗大营，至少收集 {0} 点可汗积分",
-    "pointsEvent_longPointsEvent_nomadInvasion_condition03": "立刻花费 {0} 个可汗碑",
+    "pointsEvent_longPointsEvent_nomadInvasion_condition03": [
+      "立刻花费 {0} 个可汗碑",
+      "花费可汗碑。单次购买中每花费 {0} 代币即可获得积分"
+    ],
     "pointsEvent_longPointsEvent_alienInvasion_condition03": "击败外来城堡，至少获得{0}点荣耀值",
     "dialog_longPointsEvent_rewards": "奖励({0}/{1})",
     "dialog_longPointsEvent_nextReward": "下个奖励：{0} 分",
@@ -11098,10 +11108,11 @@
     "dialog_generals_overview_noAbilityUnlocked": "无激活技能。请在技能树中解锁技能，或在技能列表中加以选择。",
     "unitsInCourtyard_limit_support": "内城支援容量",
     "generic_timeSkips_inventoryFull_warning_desc": "您物品栏中所选类型的跳过时间物品已满。额外获得的任何时间跳跃都将丢失。仍要继续吗？",
-    "pointsEvent_longPointsEvent_nomadInvasion_condition03_new": "花费可汗碑。单次购买中每花费 {0} 代币即可获得积分",
     "pointsEvent_longPointsEvent_samuraiInvasion_condition03_new": "花费武士币。单次购买中每花费 {0} 代币即可获得积分",
     "allianceDefenseUnitAmount": "联盟支援部队容量",
-    "equip_effect_description_allianceDefenseUnitAmountYardBonus": "+{0} 联盟支援部队容量"
+    "equip_effect_description_allianceDefenseUnitAmountYardBonus": "+{0} 联盟支援部队容量",
+    "dialog_stronghold_capacity": "部队能力",
+    "dialog_stronghold_header": "兵种庇护所"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% 征服期间的军队行军速度",
@@ -12135,7 +12146,9 @@
     "ci_effect_defenseUnitAmountYardBonus": "内城防守中的部队容量 +{0}",
     "ci_effect_attackUnitAmountReinforcementBonus": "最终突击的部队容量 +{0}",
     "ci_effect_attackUnitAmountReinforcementBoost": "最终突击的部队容量 +{0}%",
-    "effect_description_defenseUnitAmountYardBonus": "内城防守士兵容量"
+    "effect_description_defenseUnitAmountYardBonus": "内城防守士兵容量",
+    "effect_description_allianceDefenseUnitAmountYardBonus": "+{0} 联盟支援部队容量",
+    "effect_description_hiddenSoldiersSpace": "兵种庇护所容量"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "英雄",
@@ -15813,7 +15826,27 @@
     "equipment_unique_1169": "冬季种子",
     "equipment_unique_1169_desc": "将您的城堡变成一座舒适的小木屋，受到巨大云杉树的保护，能够抵御永冬冰川的寒风侵袭。",
     "equipment_unique_2622": "冬季种子",
-    "equipment_unique_2622_desc": "将您的城堡变成一座舒适的小木屋，受到巨大云杉树的保护，能够抵御永冬冰川的寒风侵袭。"
+    "equipment_unique_2622_desc": "将您的城堡变成一座舒适的小木屋，受到巨大云杉树的保护，能够抵御永冬冰川的寒风侵袭。",
+    "equipment_unique_1170": "幸运三叶草",
+    "equipment_unique_1170_desc": "为了翡翠节，把幸运掌控在自己手中吧。将您的城堡变成一座覆盖着三叶草的堡垒。",
+    "equipment_unique_1172_desc": "为了翡翠节，把幸运掌控在自己手中吧。将您的城堡变成一座覆盖着三叶草的堡垒。",
+    "equipment_unique_1172": "幸运三叶草",
+    "equipment_unique_1171_desc": "为了翡翠节，把幸运掌控在自己手中吧。将您的城堡变成一座覆盖着三叶草的堡垒。",
+    "equipment_unique_1171": "幸运三叶草",
+    "equipment_unique_1173": "狂欢节面具",
+    "equipment_unique_1174": "狂欢节面具",
+    "equipment_unique_1175": "狂欢节面具",
+    "equipment_unique_1173_desc": "节日城的一个物品。将您的军队变成狂欢节王子的护卫。",
+    "equipment_unique_1174_desc": "节日城的一个物品。将您的军队变成狂欢节王子的护卫。",
+    "equipment_unique_1175_desc": "节日城的一个物品。将您的军队变成狂欢节王子的护卫。",
+    "equipment_unique_1176": "走私者的贡多拉",
+    "equipment_unique_1177": "走私者的贡多拉",
+    "equipment_unique_1178": "走私者的贡多拉",
+    "equipment_unique_1176_desc": "节日城的一个物品。将您的军队变成狂欢节王子的护卫。",
+    "equipment_unique_1177_desc": "节日城的一个物品。将您的军队变成狂欢节王子的护卫。",
+    "equipment_unique_1178_desc": "船只能装载珍贵的货物，包括物品和人员。将您的城堡变成一幅千运河之城的画像。",
+    "equipment_unique_1179": "皇帝的棋具",
+    "equipment_unique_1179_desc": "将您的城堡变成珍贵棋具风格。"
   },
   "generic": {
     "activity": "活动",
@@ -17722,7 +17755,15 @@
     "filters_category_111": "冰川代币",
     "currency_description_IceLTPEToken": "这枚寒冷的代币如同它们的寒冷一般宝贵。可在限定时间内从铁匠大师处兑换奖励。",
     "currency_name_IceLTPEToken": "冰川代币",
-    "amountPerWave_limit_supportTool": "进攻支援波次中武器最大使用数量"
+    "amountPerWave_limit_supportTool": "进攻支援波次中武器最大使用数量",
+    "mysteryBox_boxName_WinterBox2022_4": "传奇冬日神秘宝盒",
+    "mysteryBox_boxName_WinterBox2022_3": "史诗冬日神秘宝盒",
+    "mysteryBox_boxName_WinterBox2022_2": "稀有冬日神秘宝盒",
+    "mysteryBox_boxName_WinterBox2022_1": "普通冬日神秘宝盒",
+    "mysteryBox_boxName_SpringBox2023_4": "Legendary spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_3": "Epic spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_2": "Rare spring mystery box",
+    "mysteryBox_boxName_SpringBox2023_1": "Common spring mystery box"
   },
   "help": {
     "help_location": "您可以在这里看到您城堡和所有前哨的重要信息。",
