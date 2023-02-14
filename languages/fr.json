@@ -1736,7 +1736,13 @@
     "deco_newKingBridgeGreen_name": "Monument vernal de la couronne",
     "deco_xmasRollercoaster2_name": "Manège du sucre dorge du frimas",
     "deco_stPatricksWagon_name": "Chariot du trèfle",
-    "deco_valentinesLoveNest_name": "Cachette de la lune de miel"
+    "deco_valentinesLoveNest_name": "Cachette de la lune de miel",
+    "deco_FallenGiantRed_name": "Downfall of the giants",
+    "deco_FallenGiant_name": "Giants agony",
+    "deco_StPatrickMagicCave_name": "Magical rainbow cave",
+    "deco_StPatrickGoldCave_name": "Leprechauns gold stack",
+    "ci_appearance_StPatrickStables_flavour": "Follow the rainbows to find those magical stables. The owners can consider themselves as lucky as wealthy.",
+    "ci_appearance_StPatrickStables": "Emerald Stables"
   },
   "dialogs": {
     "dialog_festival_desc": "Utilisez de la nourriture pour organiser une fête pour vos villageois ! Tant que la fête durera, la vitesse de recrutement sera considérablement augmentée dans tous vos châteaux. Plus la fête est grande, plus son effet est important.",
@@ -9456,7 +9462,7 @@
     "ci_appearance_pirateBakery": "Boulangerie des pirates",
     "ci_appearance_pirateBakery_flavour": "Prépare des biscuits de mer adaptés aux longs voyages en bateau.",
     "dialog_siegeMessage_outpostConqueredDistrict_header": "Avant-poste avec quartier capturé",
-    "dialog_legendTemple_unlockBuilding_conditionmultipleBuildingss": "Nécessite lun des suivants : {0}",
+    "dialog_legendTemple_unlockBuilding_conditionmultipleBuildings": "Nécessite lun des bâtiments suivants dans le Grand Empire : {0}",
     "merchantitem_resources_2104_name": "Pack de miel supérieur",
     "merchantitem_resources_2104_desc": "Contient {0} unités de miel qui seront envoyées immédiatement au grenier de votre château sans tenir compte de sa limite de stockage.",
     "merchantitem_resources_2105_name": "Pack dhydromel supérieur",
@@ -10835,7 +10841,7 @@
     "generals_abilities_desc_attack_1025": "Attaque : -{0} % à tous les effets des défenseurs qui réduisent la force de combat des unités dattaque à distance. Activation toutes les {1} vagues.",
     "generals_abilities_desc_attack_1026": "Attaque : octroie des unités pirates pour loffensive dans la cour en fonction de la quantité de défenseurs éliminés et de la capacité de pillage totale sur les flancs.",
     "generals_abilities_desc_attack_1027": "Attaque : augmente la force de combat des unités dattaque en fonction de la capacité de pillage totale de la vague. Activation toutes les {1} vagues.",
-    "generals_abilities_desc_attack_1030": "Attaque : augmente la force de combat des unités dattaque dans la cour en fonction du nombre dattaquants perdus pendant le combat sur les murs.",
+    "generals_abilities_desc_attack_1030": "Attaque : +{0} % de force de combat dans la cour pour les unités dattaque pour chaque tranche de 100 unités dattaque perdues lors du combat sur le mur, jusquà un maximum de 30 %.",
     "generals_abilities_desc_attack_1034": "Attaque : élimine {0} % des défenseurs de mêlée sur lavant et les flancs du mur au cours dune vague. Activation toutes les {1} vagues.",
     "generals_abilities_desc_attack_1035": "Attaque : -{0} % de puissance de défense en mêlée  et -{1} % de puissance de défense à distance pour les défenseurs ennemis. Activation toutes les {2} vagues.",
     "generals_abilities_desc_defense_1001": "Défense : +{0} % de force de combat pour les unités en défense lors dune seule vague offensive. Activation toutes les {1} vagues.",
@@ -10853,7 +10859,7 @@
     "generals_abilities_desc_defense_1025": "Défense : -{0} % à tous les effets des attaquants qui réduisent la force de combat des unités en défense à distance. Activation toutes les {1} vagues.",
     "generals_abilities_desc_defense_1026": "Défense : octroie des unités pirates pour la défense dans la cour, en fonction de la quantité dattaquants éliminés et de la capacité de pillage totale sur les flancs.",
     "generals_abilities_desc_defense_1027": "Défense : augmente la force de combat des unités en défense en fonction de la capacité de pillage totale de la vague. Activation toutes les {1} vagues.",
-    "generals_abilities_desc_defense_1030": "Défense : augmente la force de combat des unités en défense dans la cour en fonction du nombre de défenseurs perdus pendant le combat sur les murs.",
+    "generals_abilities_desc_defense_1030": "Défense : +{0} % de force de combat dans la cour pour les unités en défense pour chaque tranche de 100 unités en défense perdues lors du combat sur le mur, jusquà un maximum de 30 %.",
     "generals_abilities_desc_defense_1034": "Défense : élimine {0} % des attaquants de mêlée sur lavant et les flancs au cours dune vague. Activation toutes les {1} vagues.",
     "generals_abilities_desc_defense_1035": "Défense : -{0} % de puissance dattaque en mêlée  et -{1} % de puissance dattaque à distance pour les attaquants ennemis. Activation toutes les {2} vagues.",
     "generals_abilities_desc_short_attack_1001": "Force de combat pour les unités dattaque augmentée",
@@ -11112,7 +11118,11 @@
     "allianceDefenseUnitAmount": "Capacité en troupes du soutien dalliance",
     "equip_effect_description_allianceDefenseUnitAmountYardBonus": "+{0} en capacité en troupes du soutien dalliance",
     "dialog_stronghold_capacity": "Capacité en unités",
-    "dialog_stronghold_header": "Protection dunités"
+    "dialog_stronghold_header": "Protection dunités",
+    "stronghold_modifyUnits_desc": "Ajoutez ou retirez les unités sélectionnées dans le bastion",
+    "inStronghold": "Dans le bastion",
+    "videoAd_button": "Récompenses de publicité",
+    "dialog_offersDropdown_mbs_button": "Blog de la communauté"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "Vitesse de déplacement de larmée lors des conquêtes : +{0} %",
@@ -14887,7 +14897,7 @@
     "merchantItem_relicItem_2265_name": "Armure de bailli",
     "merchantItem_relicItem_2266_name": "Arme de bailli",
     "merchantItem_relicItem_2267_name": "Casque de bailli",
-    "merchantItem_relicItem_2268_name": "Relique de commandant",
+    "merchantItem_relicItem_2268_name": "Relique de bailli",
     "merchantItem_relicItem_2269_name": "Héros seigneur commandant",
     "merchantItem_relicGem_2270_name": "Gemme de seigneur commandant",
     "merchantItem_relicGem_2271_name": "Gemme de seigneur commandant",
@@ -15846,7 +15856,22 @@
     "equipment_unique_1177_desc": "Un objet de la ville du carnaval. Transforme votre armée en garde du prince du carnaval.",
     "equipment_unique_1178_desc": "Ce bateau transporte une précieuse cargaison composée aussi bien dobjets que dêtres humains. Transforme votre château en une image de la ville aux mille canaux.",
     "equipment_unique_1179": "Jeu déchecs de lempereur",
-    "equipment_unique_1179_desc": "Transforme votre château en un superbe jeu déchecs."
+    "equipment_unique_1179_desc": "Transforme votre château en un superbe jeu déchecs.",
+    "equipment_unique_952": "Hache de chasse",
+    "equipment_unique_1184_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1184": "Saphire butterfly",
+    "equipment_unique_1183_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1183": "Saphire butterfly",
+    "equipment_unique_1182_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1182": "Saphire butterfly",
+    "equipment_unique_1181_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1181": "Saphire butterfly",
+    "equipment_unique_1180_desc": "Transforme votre château en forteresse de leprechaun. Vous ne pouvez pas sertir de gemmes dans cet objet.",
+    "equipment_unique_1185_desc": "Transforme votre armée en cavaliers écureuils en charge.",
+    "equipment_unique_1186_desc": "Transforme votre château en une cachette dautomne pour écureuils.",
+    "equipment_unique_1180": "Masque de leprechaun",
+    "equipment_unique_1185": "Or dautomne",
+    "equipment_unique_1186": "Prime des saisons"
   },
   "generic": {
     "activity": "Activité",
@@ -17760,10 +17785,19 @@
     "mysteryBox_boxName_WinterBox2022_3": "Boîte mystérieuse hivernale épique",
     "mysteryBox_boxName_WinterBox2022_2": "Boîte mystérieuse hivernale rare",
     "mysteryBox_boxName_WinterBox2022_1": "Boîte mystérieuse hivernale commune",
-    "mysteryBox_boxName_SpringBox2023_4": "Legendary spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_3": "Epic spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_2": "Rare spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_1": "Common spring mystery box"
+    "mysteryBox_boxName_SpringBox2023_4": "Boîte mystérieuse printanière légendaire",
+    "mysteryBox_boxName_SpringBox2023_3": "Boîte mystérieuse printanière épique",
+    "mysteryBox_boxName_SpringBox2023_2": "Boîte mystérieuse printanière rare",
+    "mysteryBox_boxName_SpringBox2023_1": "Boîte mystérieuse printanière commune",
+    "required_colon": "Nécessaire :",
+    "upgrade_buildingLevel_kingdom_singleBuilding": "{0} niveau {1} dans {2}",
+    "placeholder_plus": "+ de {0}",
+    "requiredBuilding_inKingdom_Classic": "Nécessaire dans le Grand Empire :",
+    "condition_or_multiple_twoPlaceholders_notBold": "{0} ou {1}",
+    "noLootGained": "Aucun butin obtenu",
+    "filters_category_112": "Lucky gold pot",
+    "currency_description_StPatrickLTPEToken": "This enchanted token returns unfathomed luck and wealth to its beholders. Can be exchanged for rewards at the Master Blacksmith for a limited time.",
+    "currency_name_StPatrickLTPEToken": "Lucky gold pot"
   },
   "help": {
     "help_location": "Ici, vous avez un aperçu global des contenus importants de votre château et de tous vos avant-postes.",
@@ -22450,7 +22484,10 @@
       "generic_country_closedbeta": "Bêta fermée",
       "generic_country_tempserver": "Royaumes extérieurs",
       "generic_country_battle": "Par-delà lhorizon",
-      "language_native_ISO_XX": "International"
+      "language_native_ISO_XX": "International",
+      "generic_country_BE": "Belgique",
+      "generic_country_ID": "Indonésie",
+      "generic_country_PH": "Philippines"
     },
     "currency": {
       "currency_euro": "€",

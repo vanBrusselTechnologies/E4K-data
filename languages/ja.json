@@ -1736,7 +1736,13 @@
     "deco_newKingBridgeGreen_name": "春の王冠のモニュメント",
     "deco_xmasRollercoaster2_name": "冬のキャンディーケーンのコースター",
     "deco_stPatricksWagon_name": "シャムロックの荷車",
-    "deco_valentinesLoveNest_name": "ハネムーンの隠れ家"
+    "deco_valentinesLoveNest_name": "ハネムーンの隠れ家",
+    "deco_FallenGiantRed_name": "Downfall of the giants",
+    "deco_FallenGiant_name": "Giants agony",
+    "deco_StPatrickMagicCave_name": "Magical rainbow cave",
+    "deco_StPatrickGoldCave_name": "Leprechauns gold stack",
+    "ci_appearance_StPatrickStables_flavour": "Follow the rainbows to find those magical stables. The owners can consider themselves as lucky as wealthy.",
+    "ci_appearance_StPatrickStables": "Emerald Stables"
   },
   "dialogs": {
     "dialog_festival_desc": "食料を集めて宴会を開きましょう！\n宴会が続く限り、兵の雇用スピードがすべての城で速くなります。宴会が豪華になるほど、効果も大きくなります。",
@@ -9456,7 +9462,7 @@
     "ci_appearance_pirateBakery": "海賊のパン屋",
     "ci_appearance_pirateBakery_flavour": "長い航海にぴったりの固い乾パンを製造する",
     "dialog_siegeMessage_outpostConqueredDistrict_header": "区域がある基地を占領しました",
-    "dialog_legendTemple_unlockBuilding_conditionmultipleBuildingss": "これらのいずれかが必要: {0}",
+    "dialog_legendTemple_unlockBuilding_conditionmultipleBuildings": "大帝国に次のいずれかが必要：{0}",
     "merchantitem_resources_2104_name": "高級蜂蜜パック",
     "merchantitem_resources_2104_desc": "すぐに城の貯蔵庫に届く蜂蜜が{0}個入っています。貯蔵庫の収納量の上限は無視されます。",
     "merchantitem_resources_2105_name": "高級蜂蜜酒パック",
@@ -10835,7 +10841,7 @@
     "generals_abilities_desc_attack_1025": "攻撃: 攻撃部隊の遠距離戦闘力を低下させる防御側の全効果が-{0}%。波状攻撃{1}回ごとに発動。",
     "generals_abilities_desc_attack_1026": "攻撃：中庭の攻撃に必要な海賊部隊を、防衛部隊のキル数と側面の戦利品容量の合計に応じて獲得する。",
     "generals_abilities_desc_attack_1027": "攻撃: 波状攻撃の略奪物を運べる総量に基づいて、攻撃部隊の戦闘力を強化する。波状攻撃{1}回ごとに発動。",
-    "generals_abilities_desc_attack_1030": "攻撃: 中庭の戦闘で、壁の戦闘で失った攻撃部隊数に基づいて攻撃部隊の戦闘力を強化する。",
+    "generals_abilities_desc_attack_1030": "攻撃：城壁での戦いで攻撃部隊を100喪失するごとに、中庭の戦いでの攻撃部隊の戦闘力が+{0}%。上限は30%。",
     "generals_abilities_desc_attack_1034": "攻撃: 波状攻撃の間に、壁の正面と側面の乱闘防御兵の{0}%を倒す。波状攻撃{1}回ごとに発動。",
     "generals_abilities_desc_attack_1035": "攻撃: 敵防御兵の乱闘防御力-{0}%、 遠距離防御力-{1}%。波状攻撃{2}回ごとに発動。",
     "generals_abilities_desc_defense_1001": "防御: 1回の波状攻撃の間の防御部隊の戦闘力+{0}%。波状攻撃{1}回ごとに発動。",
@@ -10853,7 +10859,7 @@
     "generals_abilities_desc_defense_1025": "防御: 防御部隊の遠距離戦闘力を低下させる攻撃側の全効果が-{0}%。波状攻撃{1}回ごとに発動。",
     "generals_abilities_desc_defense_1026": "防御: 中庭の防御に必要な海賊部隊を、攻撃部隊のキル数と側面の戦利品容量の合計に応じて獲得する。",
     "generals_abilities_desc_defense_1027": "防御: 波状攻撃の略奪物を運べる総量に基づいて、防御部隊の戦闘力を強化する。波状攻撃{1}回ごとに発動。",
-    "generals_abilities_desc_defense_1030": "防御: 中庭の戦闘で、壁の戦闘で失った防御部隊数に基づいて防御部隊の戦闘力を強化する。",
+    "generals_abilities_desc_defense_1030": "防御：城壁での戦いで防御部隊を100喪失するごとに、中庭の戦いでの防御部隊の戦闘力が+{0}%。上限は30%。",
     "generals_abilities_desc_defense_1034": "防御: 波状攻撃の間に、正面と側面の乱闘攻撃兵の{0}%を倒す。波状攻撃{1}回ごとに発動。",
     "generals_abilities_desc_defense_1035": "防御: 敵攻撃兵の乱闘攻撃力-{0}%、 遠距離攻撃力-{1}%。波状攻撃{2}回ごとに発動。",
     "generals_abilities_desc_short_attack_1001": "攻撃部隊の戦闘力を強化",
@@ -11112,7 +11118,11 @@
     "allianceDefenseUnitAmount": "同盟支援の部隊の定員",
     "equip_effect_description_allianceDefenseUnitAmountYardBonus": "同盟支援の部隊の定員が+{0}",
     "dialog_stronghold_capacity": "部隊数",
-    "dialog_stronghold_header": "部隊シェルター"
+    "dialog_stronghold_header": "部隊シェルター",
+    "stronghold_modifyUnits_desc": "選択した部隊を砦に追加または削除",
+    "inStronghold": "砦の中にいます",
+    "videoAd_button": "動画広告の報酬",
+    "dialog_offersDropdown_mbs_button": "コミュニティハブ"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "占領中の軍の移動スピード　+{0}%",
@@ -14887,7 +14897,7 @@
     "merchantItem_relicItem_2265_name": "城代の鎧",
     "merchantItem_relicItem_2266_name": "城代の武器",
     "merchantItem_relicItem_2267_name": "城代の兜",
-    "merchantItem_relicItem_2268_name": "司令官の聖遺物",
+    "merchantItem_relicItem_2268_name": "城代の聖遺物",
     "merchantItem_relicItem_2269_name": "城主の司令官（英雄）",
     "merchantItem_relicGem_2270_name": "城主の司令官のジェム",
     "merchantItem_relicGem_2271_name": "城主の司令官のジェム",
@@ -15846,7 +15856,22 @@
     "equipment_unique_1177_desc": "祝宴の街からやってきたアイテム。軍隊をカーニバルの王子の護衛に変えます。",
     "equipment_unique_1178_desc": "大切な荷物として、物と人の両方を運ぶ船。 城を千の運河を持つ街のイメージに変えます。",
     "equipment_unique_1179": "皇帝のチェスセット",
-    "equipment_unique_1179_desc": "城を貴重なチェスセットに変えます。"
+    "equipment_unique_1179_desc": "城を貴重なチェスセットに変えます。",
+    "equipment_unique_952": "ハンターの斧",
+    "equipment_unique_1184_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1184": "Saphire butterfly",
+    "equipment_unique_1183_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1183": "Saphire butterfly",
+    "equipment_unique_1182_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1182": "Saphire butterfly",
+    "equipment_unique_1181_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1181": "Saphire butterfly",
+    "equipment_unique_1180_desc": "城をレプラコーンの要塞に変えます。ジェムは合わせられません。",
+    "equipment_unique_1185_desc": "軍隊を突撃するリスの騎兵に変えます。",
+    "equipment_unique_1186_desc": "城を秋のリスの隠れ家に変えます。",
+    "equipment_unique_1180": "レプラコーンのマスク",
+    "equipment_unique_1185": "秋の金",
+    "equipment_unique_1186": "季節の収穫"
   },
   "generic": {
     "activity": "アクティビティ",
@@ -17760,10 +17785,19 @@
     "mysteryBox_boxName_WinterBox2022_3": "不朽の冬のミステリーボックス",
     "mysteryBox_boxName_WinterBox2022_2": "貴重な冬のミステリーボックス",
     "mysteryBox_boxName_WinterBox2022_1": "普通の冬のミステリーボックス",
-    "mysteryBox_boxName_SpringBox2023_4": "Legendary spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_3": "Epic spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_2": "Rare spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_1": "Common spring mystery box"
+    "mysteryBox_boxName_SpringBox2023_4": "伝説の春のミステリーボックス",
+    "mysteryBox_boxName_SpringBox2023_3": "不朽の春のミステリーボックス",
+    "mysteryBox_boxName_SpringBox2023_2": "貴重な春のミステリーボックス",
+    "mysteryBox_boxName_SpringBox2023_1": "普通の春のミステリーボックス",
+    "required_colon": "必要：",
+    "upgrade_buildingLevel_kingdom_singleBuilding": "{2}でレベル{1}の{0}",
+    "placeholder_plus": "{0}+",
+    "requiredBuilding_inKingdom_Classic": "大帝国に次のものが必要：",
+    "condition_or_multiple_twoPlaceholders_notBold": "{0} または {1}",
+    "noLootGained": "獲得したアイテムがありません",
+    "filters_category_112": "Lucky gold pot",
+    "currency_description_StPatrickLTPEToken": "This enchanted token returns unfathomed luck and wealth to its beholders. Can be exchanged for rewards at the Master Blacksmith for a limited time.",
+    "currency_name_StPatrickLTPEToken": "Lucky gold pot"
   },
   "help": {
     "help_location": "ここから、城や基地の\n重要な情報を見ることができます。",
@@ -22450,7 +22484,10 @@
       "generic_country_closedbeta": "クローズドベータ",
       "generic_country_tempserver": "外領域",
       "generic_country_battle": "地平線の彼方",
-      "language_native_ISO_XX": "International"
+      "language_native_ISO_XX": "International",
+      "generic_country_BE": "ベルギー",
+      "generic_country_ID": "インドネシア",
+      "generic_country_PH": "フィリピン"
     },
     "currency": {
       "currency_euro": "€",

@@ -7650,6 +7650,36 @@
     ],
     "fx": []
   },
+  "Deco_Building_FallenGiant": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_FallenGiant/Deco_Building_FallenGiant.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 144,
+        "h": 120,
+        "rx": 911,
+        "ry": 948
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_FallenGiantRed": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_FallenGiantRed/Deco_Building_FallenGiantRed.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 141,
+        "h": 120,
+        "rx": 911,
+        "ry": 948
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_Fieldkitchen": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_Fieldkitchen/Deco_Building_Fieldkitchen.png",
@@ -10039,6 +10069,36 @@
         "h": 131,
         "rx": 907,
         "ry": 937
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_StPatrickGoldCave": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_StPatrickGoldCave/Deco_Building_StPatrickGoldCave.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 137,
+        "h": 91,
+        "rx": 916,
+        "ry": 974
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_StPatrickMagicCave": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_StPatrickMagicCave/Deco_Building_StPatrickMagicCave.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 137,
+        "h": 91,
+        "rx": 916,
+        "ry": 974
       }
     ],
     "fx": []
@@ -22749,6 +22809,29 @@
       {
         "x": 15,
         "y": -55,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "StPatrickStables": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/StPatrickStables/StPatrickStables.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 159,
+        "rx": 948,
+        "ry": 888
+      }
+    ],
+    "fx": [
+      {
+        "x": 17,
+        "y": -30,
         "scale": 0.25,
         "name": "damageHolder",
         "rotation": 0
@@ -57091,10 +57174,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 38,
-        "h": 13,
-        "rx": 999,
-        "ry": 998
+        "w": 65,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
       }
     ],
     "fx": []
@@ -57106,10 +57189,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 38,
-        "h": 13,
-        "rx": 999,
-        "ry": 998
+        "w": 65,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
       }
     ],
     "fx": []
@@ -57121,10 +57204,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 38,
-        "h": 13,
-        "rx": 999,
-        "ry": 998
+        "w": 65,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
       }
     ],
     "fx": []
@@ -57136,10 +57219,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 38,
-        "h": 13,
-        "rx": 999,
-        "ry": 998
+        "w": 65,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
       }
     ],
     "fx": []
@@ -58647,6 +58730,111 @@
   "items_unique_1167": {
     "pid": 0,
     "url": "x384/Equipment/EquipmentShared/items_unique_1167_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1172": {
+    "pid": 0,
+    "url": "x384/Equipment/EquipmentShared/items_unique_1170_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1171": {
+    "pid": 0,
+    "url": "x384/Equipment/EquipmentShared/items_unique_1170_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1170": {
+    "pid": 0,
+    "url": "x384/Equipment/EquipmentShared/items_unique_1170_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1184": {
+    "pid": 0,
+    "url": "x384/Equipment/EquipmentShared/items_unique_1181_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1183": {
+    "pid": 0,
+    "url": "x384/Equipment/EquipmentShared/items_unique_1181_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1182": {
+    "pid": 0,
+    "url": "x384/Equipment/EquipmentShared/items_unique_1181_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1181": {
+    "pid": 0,
+    "url": "x384/Equipment/EquipmentShared/items_unique_1181_Shared.png",
     "frames": [
       {
         "x": 0,
@@ -68387,6 +68575,21 @@
     ],
     "fx": []
   },
+  "icon_ci_effect_stpatrick": {
+    "pid": 0,
+    "url": "x384/Icons/CI_Icons/icon_ci_effect_stpatrick.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 47,
+        "rx": 976,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
   "icon_ci_effect_summer": {
     "pid": 2,
     "url": "x384/Icons/CI_Icons/icon_ci_effect_summer.png",
@@ -76772,10 +76975,25 @@
       {
         "x": 0,
         "y": 0,
-        "w": 26,
-        "h": 17,
-        "rx": 987,
-        "ry": 991
+        "w": 55,
+        "h": 35,
+        "rx": 972,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_PegasusTicket_medium": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_PegasusTicket_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 43,
+        "h": 27,
+        "rx": 978,
+        "ry": 986
       }
     ],
     "fx": []
@@ -77380,6 +77598,21 @@
     ],
     "fx": []
   },
+  "icon_currency_ResourceVillageToken_medium": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_ResourceVillageToken_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 45,
+        "rx": 977,
+        "ry": 977
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_ResourceVillageToken": {
     "pid": 1,
     "url": "x384/Icons/Icons/icon_currency_ResourceVillageToken.png",
@@ -77406,6 +77639,21 @@
         "h": 61,
         "rx": 981,
         "ry": 969
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_SaleDaysLuckyWheelTicket_medium": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_SaleDaysLuckyWheelTicket_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 27,
+        "h": 43,
+        "rx": 986,
+        "ry": 978
       }
     ],
     "fx": []
@@ -78801,6 +79049,111 @@
         "h": 29,
         "rx": 980,
         "ry": 985
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_StPatrickLTPEToken_big": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_StPatrickLTPEToken_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 57,
+        "rx": 971,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_StPatrickLTPEToken_ds": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_StPatrickLTPEToken_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 29,
+        "rx": 985,
+        "ry": 985
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_StPatrickLTPEToken_medium_ds": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_StPatrickLTPEToken_medium_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 39,
+        "rx": 980,
+        "ry": 980
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_StPatrickLTPEToken_medium": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_StPatrickLTPEToken_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 46,
+        "rx": 976,
+        "ry": 977
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_StPatrickLTPEToken_small": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_StPatrickLTPEToken_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 20,
+        "h": 19,
+        "rx": 990,
+        "ry": 990
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_StPatrickLTPEToken_xl": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_StPatrickLTPEToken_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 85,
+        "h": 84,
+        "rx": 957,
+        "ry": 958
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_StPatrickLTPEToken": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_StPatrickLTPEToken.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 35,
+        "rx": 982,
+        "ry": 982
       }
     ],
     "fx": []
@@ -82632,6 +82985,21 @@
         "w": 49,
         "h": 60,
         "rx": 975,
+        "ry": 970
+      }
+    ],
+    "fx": []
+  },
+  "icon_hud_mobilewebshop": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_hud_mobilewebshop.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 59,
+        "rx": 970,
         "ry": 970
       }
     ],
@@ -87152,6 +87520,21 @@
     ],
     "fx": []
   },
+  "icon_settings_dark_flat": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_settings_dark_flat.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 101,
+        "h": 101,
+        "rx": 949,
+        "ry": 949
+      }
+    ],
+    "fx": []
+  },
   "icon_settings_flat_small": {
     "pid": 0,
     "url": "x384/Icons/Icons/icon_settings_flat_small.png",
@@ -88063,6 +88446,21 @@
         "h": 33,
         "rx": 982,
         "ry": 983
+      }
+    ],
+    "fx": []
+  },
+  "icon_stronghold_xs": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_stronghold_xs.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 21,
+        "h": 21,
+        "rx": 989,
+        "ry": 989
       }
     ],
     "fx": []
@@ -91175,6 +91573,36 @@
   "icon_currency_SpringLTPEToken_big_ds": {
     "pid": 0,
     "url": "x384/Icons/IconsShared/icon_currency_SpringLTPEToken_big_ds_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 45,
+        "rx": 977,
+        "ry": 977
+      }
+    ],
+    "fx": []
+  },
+  "icon_package_category_112": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_currency_StPatrickLTPEToken_big_ds_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 45,
+        "rx": 977,
+        "ry": 977
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_StPatrickLTPEToken_big_ds": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_currency_StPatrickLTPEToken_big_ds_Shared.png",
     "frames": [
       {
         "x": 0,
@@ -104382,6 +104810,21 @@
         "w": 769,
         "h": 333,
         "rx": 615,
+        "ry": 833
+      }
+    ],
+    "fx": []
+  },
+  "Teaser_OffersHub_Big_35": {
+    "pid": 0,
+    "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_35.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 770,
+        "h": 333,
+        "rx": 614,
         "ry": 833
       }
     ],
@@ -122045,6 +122488,29 @@
       }
     ]
   },
+  "Castle_Mapobject_Special_ButterflyBaron": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_ButterflyBaron.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 58,
+        "h": 51,
+        "rx": 996,
+        "ry": 989
+      }
+    ],
+    "fx": [
+      {
+        "x": 35,
+        "y": -5,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Castle_Mapobject_Special_CarnivalMask": {
     "pid": 0,
     "url": "x384/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_CarnivalMask.png",
@@ -125485,6 +125951,29 @@
       }
     ]
   },
+  "Castle_Mapobject_Capital_Classic_Special_ButterflyBaron": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_ButterflyBaron.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 81,
+        "h": 95,
+        "rx": 982,
+        "ry": 964
+      }
+    ],
+    "fx": [
+      {
+        "x": -3,
+        "y": -12,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Castle_Mapobject_Capital_Classic_Special_CarnivalMask": {
     "pid": 0,
     "url": "x384/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_CarnivalMask.png",
@@ -126955,6 +127444,29 @@
       }
     ]
   },
+  "Metropol_Mapobject_Basic_Special_ButterflyBaron": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_ButterflyBaron.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 70,
+        "rx": 982,
+        "ry": 988
+      }
+    ],
+    "fx": [
+      {
+        "x": 4,
+        "y": 2,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Metropol_Mapobject_Basic_Special_CarnivalMask": {
     "pid": 0,
     "url": "x384/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_CarnivalMask.png",
@@ -127630,7 +128142,7 @@
         "x": 0,
         "y": 0,
         "w": 60,
-        "h": 69,
+        "h": 68,
         "rx": 989,
         "ry": 998
       }
@@ -128387,6 +128899,29 @@
       {
         "x": 21,
         "y": 8,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "Outpost_Mapobject_Level_Special_ButterflyBaron": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Outposts/Outpost_Mapobject_Level_Special_ButterflyBaron/Outpost_Mapobject_Level_Special_ButterflyBaron.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 31,
+        "h": 39,
+        "rx": 1006,
+        "ry": 994
+      }
+    ],
+    "fx": [
+      {
+        "x": 15,
+        "y": -1,
         "scale": 0.52,
         "name": "flagHolder",
         "rotation": 0
@@ -130443,6 +130978,21 @@
         "h": 97,
         "rx": 944,
         "ry": 951
+      }
+    ],
+    "fx": []
+  },
+  "Preview_Castle_Mapobject_Special_ButterflyBaron": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Previews/Mapobjects_Preview/Preview_Castle_Mapobject_Special_ButterflyBaron.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 123,
+        "h": 111,
+        "rx": 946,
+        "ry": 939
       }
     ],
     "fx": []

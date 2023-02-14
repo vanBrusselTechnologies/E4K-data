@@ -1736,7 +1736,13 @@
     "deco_newKingBridgeGreen_name": "Весенний монумент с короной",
     "deco_xmasRollercoaster2_name": "Зимние горки с конфетами",
     "deco_stPatricksWagon_name": "Повозка с трилистником",
-    "deco_valentinesLoveNest_name": "Убежище влюбленных"
+    "deco_valentinesLoveNest_name": "Убежище влюбленных",
+    "deco_FallenGiantRed_name": "Downfall of the giants",
+    "deco_FallenGiant_name": "Giants agony",
+    "deco_StPatrickMagicCave_name": "Magical rainbow cave",
+    "deco_StPatrickGoldCave_name": "Leprechauns gold stack",
+    "ci_appearance_StPatrickStables_flavour": "Follow the rainbows to find those magical stables. The owners can consider themselves as lucky as wealthy.",
+    "ci_appearance_StPatrickStables": "Emerald Stables"
   },
   "dialogs": {
     "dialog_festival_desc": "Используй еду, чтобы устроить пир для твоих горожан! Во время проведения пира, скорость найма во всех твоих замках заметно увеличится. Чем больше пир, тем больше эффект.",
@@ -9456,7 +9462,7 @@
     "ci_appearance_pirateBakery": "Пиратская пекарня",
     "ci_appearance_pirateBakery_flavour": "Выпекает твердые галеты, которые очень удобны, если корабль надолго уходит в плавание.",
     "dialog_siegeMessage_outpostConqueredDistrict_header": "Захвачен аванпост с укрепленным районом",
-    "dialog_legendTemple_unlockBuilding_conditionmultipleBuildingss": "Требуется одна из этих построек: {0}",
+    "dialog_legendTemple_unlockBuilding_conditionmultipleBuildings": "В Великой Империи должна быть хотя бы одна из таких построек: {0}",
     "merchantitem_resources_2104_name": "Превосходный набор мёда",
     "merchantitem_resources_2104_desc": "Содержит {0} порций мёда, который будет отправлен в твой замок незамедлительно. Ограничение на вместимость хранилища учитываться не будет.",
     "merchantitem_resources_2105_name": "Превосходный набор медовухи",
@@ -10835,7 +10841,7 @@
     "generals_abilities_desc_attack_1025": "Нападение: ослабляет на {0}% все эффекты защитников, снижающие боевую мощь стрельбы нападающих юнитов. Срабатывает для каждой {1} волны.",
     "generals_abilities_desc_attack_1026": "Нападение: дает дополнительные пиратские юниты для атаки внутреннего двора; количество юнитов зависит от числа убитых защитников и общей способности к переноске добычи войск на флангах.",
     "generals_abilities_desc_attack_1027": "Нападение: повышение боевой мощи атакующих юнитов, зависящее от их общей способности к переноске добычи в этой волне. Срабатывает для каждой {1} волны.",
-    "generals_abilities_desc_attack_1030": "Нападение: в битве во внутреннем дворе повышает боевую мощь атакующих юнитов. Бонус зависит от потерь атакующих юнитов в ходе штурма стен.",
+    "generals_abilities_desc_attack_1030": "Нападение: +{0}% боевой мощи атакующих юнитов в битве во внутреннем дворе за каждые 100 атакующих юнитов, погибших при штурме стен. Максимальное значение – 30%.",
     "generals_abilities_desc_attack_1034": "Нападение: убивает {0}% всех защитников ближнего боя, находившихся по центру и на флангах на стене в ходе этой волны. Срабатывает для каждой {1} волны.",
     "generals_abilities_desc_attack_1035": "Нападение: -{0}% защиты от атак ближнего боя  и -{1}% защиты от стрельбы обороняющихся врагов. Срабатывает для каждой {2} волны.",
     "generals_abilities_desc_defense_1001": "Оборона: +{0}% боевой мощи оборонительных юнитов в ходе одной волны нападения. Срабатывает для каждой {1} волны.",
@@ -10853,7 +10859,7 @@
     "generals_abilities_desc_defense_1025": "Оборона: ослабляет на {0}% все эффекты нападающих, снижающие боевую мощь стрельбы оборонительных юнитов. Срабатывает для каждой {1} волны.",
     "generals_abilities_desc_defense_1026": "Оборона: дает пиратские юниты для обороны внутреннего двора. Численность юнитов зависит от числа убитых нападающих и общей способности к переноске добычи войск на флангах.",
     "generals_abilities_desc_defense_1027": "Оборона: повышение боевой мощи оборонительных юнитов, зависящее от их общей способности к переноске добычи в этой волне. Срабатывает для каждой {1} волны.",
-    "generals_abilities_desc_defense_1030": "Оборона: в битве во внутреннем дворе повышает боевую мощь оборонительных юнитов. Бонус зависит от потерь оборонительных юнитов в ходе штурма стен.",
+    "generals_abilities_desc_defense_1030": "Оборона: +{0}% боевой мощи оборонительных юнитов в битве во внутреннем дворе за каждые 100 оборонительных юнитов, погибших при штурме стен. Максимальное значение – 30%.",
     "generals_abilities_desc_defense_1034": "Оборона: убивает {0}% всех нападающих ближнего боя, находившихся по центру и на флангах на стене в ходе этой волны. Срабатывает для каждой {1} волны.",
     "generals_abilities_desc_defense_1035": "Оборона: -{0}% силы атак ближнего боя  и -{1}% силы атак стрелков для нападающих врагов. Срабатывает для каждой {2} волны",
     "generals_abilities_desc_short_attack_1001": "Повышение боевой мощи атакующих юнитов",
@@ -11112,7 +11118,11 @@
     "allianceDefenseUnitAmount": "Макс. численность войск поддержки альянса",
     "equip_effect_description_allianceDefenseUnitAmountYardBonus": "+{0} к макс. численности войск поддержки альянса",
     "dialog_stronghold_capacity": "Вместимость",
-    "dialog_stronghold_header": "Убежище для войск"
+    "dialog_stronghold_header": "Убежище для войск",
+    "stronghold_modifyUnits_desc": "Добавь выбранные юниты в оплот или выведи их из оплота",
+    "inStronghold": "В оплоте",
+    "videoAd_button": "Награды за видеоролики",
+    "dialog_offersDropdown_mbs_button": "Блог сообщества игроков"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% скорость передвижения армии при завоеваниях",
@@ -14887,7 +14897,7 @@
     "merchantItem_relicItem_2265_name": "Доспехи наместника",
     "merchantItem_relicItem_2266_name": "Оружие наместника",
     "merchantItem_relicItem_2267_name": "Шлем наместника",
-    "merchantItem_relicItem_2268_name": "Артефакт военачальника",
+    "merchantItem_relicItem_2268_name": "Артефакт наместника",
     "merchantItem_relicItem_2269_name": "Герой военачальника для борьбы с владельцами замков",
     "merchantItem_relicGem_2270_name": "Самоцвет военачальника владельца замка",
     "merchantItem_relicGem_2271_name": "Самоцвет военачальника владельца замка",
@@ -15846,7 +15856,22 @@
     "equipment_unique_1177_desc": "Предмет из города карнавалов. Превращает твою армию в стражу принца карнавала.",
     "equipment_unique_1178_desc": "Такие лодки используются для перевозки людей и ценных грузов. Меняет внешний вид твоего замка, превращая его в город тысячи каналов.",
     "equipment_unique_1179": "Шахматы императора",
-    "equipment_unique_1179_desc": "Превращает твой замок в драгоценный набор шахмат."
+    "equipment_unique_1179_desc": "Превращает твой замок в драгоценный набор шахмат.",
+    "equipment_unique_952": "Топор охотника",
+    "equipment_unique_1184_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1184": "Saphire butterfly",
+    "equipment_unique_1183_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1183": "Saphire butterfly",
+    "equipment_unique_1182_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1182": "Saphire butterfly",
+    "equipment_unique_1181_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1181": "Saphire butterfly",
+    "equipment_unique_1180_desc": "Превращает твой замок в крепость лепреконов. В этот предмет самоцветы вставлять нельзя.",
+    "equipment_unique_1185_desc": "Превращает твои войска в неудержимую беличью кавалерию.",
+    "equipment_unique_1186_desc": "Превращает твой замок в осеннее жилище белок.",
+    "equipment_unique_1180": "Маска лепрекона",
+    "equipment_unique_1185": "Осеннее золото",
+    "equipment_unique_1186": "Дары времен года"
   },
   "generic": {
     "activity": "Активность",
@@ -17760,10 +17785,19 @@
     "mysteryBox_boxName_WinterBox2022_3": "Эпический зимний ящик",
     "mysteryBox_boxName_WinterBox2022_2": "Редкий зимний ящик",
     "mysteryBox_boxName_WinterBox2022_1": "Обычный зимний ящик",
-    "mysteryBox_boxName_SpringBox2023_4": "Legendary spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_3": "Epic spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_2": "Rare spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_1": "Common spring mystery box"
+    "mysteryBox_boxName_SpringBox2023_4": "Легендарный весенний ящик",
+    "mysteryBox_boxName_SpringBox2023_3": "Эпический весенний ящик",
+    "mysteryBox_boxName_SpringBox2023_2": "Редкий весенний ящик",
+    "mysteryBox_boxName_SpringBox2023_1": "Обычный весенний ящик",
+    "required_colon": "Требуется:",
+    "upgrade_buildingLevel_kingdom_singleBuilding": "{0} {1} ур. в локации {2}",
+    "placeholder_plus": "{0}+",
+    "requiredBuilding_inKingdom_Classic": "Требуется в Великой Империи:",
+    "condition_or_multiple_twoPlaceholders_notBold": "{0} или {1}",
+    "noLootGained": "Трофеев нет",
+    "filters_category_112": "Lucky gold pot",
+    "currency_description_StPatrickLTPEToken": "This enchanted token returns unfathomed luck and wealth to its beholders. Can be exchanged for rewards at the Master Blacksmith for a limited time.",
+    "currency_name_StPatrickLTPEToken": "Lucky gold pot"
   },
   "help": {
     "help_location": "Здесь представлен глобальный обзор важного содержимого твоего замка и всех твоих аванпостов.",
@@ -22450,7 +22484,10 @@
       "generic_country_closedbeta": "Закрытый бета-тест",
       "generic_country_tempserver": "Внешние миры",
       "generic_country_battle": "За горизонтом",
-      "language_native_ISO_XX": "International"
+      "language_native_ISO_XX": "International",
+      "generic_country_BE": "Бельгия",
+      "generic_country_ID": "Индонезия",
+      "generic_country_PH": "Филиппины"
     },
     "currency": {
       "currency_euro": "€",

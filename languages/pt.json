@@ -1736,7 +1736,13 @@
     "deco_newKingBridgeGreen_name": "Monumento da coroa primaveril",
     "deco_xmasRollercoaster2_name": "Montanha russa invernal",
     "deco_stPatricksWagon_name": "Carroça do trevo",
-    "deco_valentinesLoveNest_name": "Esconderijo da lua de mel"
+    "deco_valentinesLoveNest_name": "Esconderijo da lua de mel",
+    "deco_FallenGiantRed_name": "Downfall of the giants",
+    "deco_FallenGiant_name": "Giants agony",
+    "deco_StPatrickMagicCave_name": "Magical rainbow cave",
+    "deco_StPatrickGoldCave_name": "Leprechauns gold stack",
+    "ci_appearance_StPatrickStables_flavour": "Follow the rainbows to find those magical stables. The owners can consider themselves as lucky as wealthy.",
+    "ci_appearance_StPatrickStables": "Emerald Stables"
   },
   "dialogs": {
     "dialog_festival_desc": "Use comida para organizar um banquete para os cidadãos! A velocidade de recrutamento aumentará consideravelmente em todos os seus castelos durante o banquete. Quanto maior o banquete, maior o efeito.",
@@ -9456,7 +9462,7 @@
     "ci_appearance_pirateBakery": "Padaria dos piratas",
     "ci_appearance_pirateBakery_flavour": "Faz biscoitos duráveis feitos para longas jornadas pelo oceano.",
     "dialog_siegeMessage_outpostConqueredDistrict_header": "Posto avançado com distrito capturado",
-    "dialog_legendTemple_unlockBuilding_conditionmultipleBuildingss": "Requer qualquer um desses: {0}",
+    "dialog_legendTemple_unlockBuilding_conditionmultipleBuildings": "Requer qualquer um desses em O Grande Império: {0}",
     "merchantitem_resources_2104_name": "Pacote de mel superior",
     "merchantitem_resources_2104_desc": "Contém {0} de mel, que será enviado para o armazém do seu castelo imediatamente. O limite de armazenagem do armazém será ignorado.",
     "merchantitem_resources_2105_name": "Pacote de hidromel superior",
@@ -10835,7 +10841,7 @@
     "generals_abilities_desc_attack_1025": "Ataque: -{0}% a todos os efeitos do defensor que reduzem a força de combate a distância de unidade de ataque. Ativa a cada {1}ª onda.",
     "generals_abilities_desc_attack_1026": "Ataque: concede unidades piratas para o ataque no pátio de acordo com o número de defensores mortos e a capacidade de saque total nos flancos.",
     "generals_abilities_desc_attack_1027": "Ataque: aumenta a força de combate para unidades de ataque baseado em sua capacidade de saque total na onda. Ativa a cada {1}ª onda.",
-    "generals_abilities_desc_attack_1030": "Ataque: na batalha no pátio, aumenta a força de combate de unidades de ataque baseado na quantidade de unidades de ataque perdidas durante a luta na muralha.",
+    "generals_abilities_desc_attack_1030": "Ataque: +{0}% de força de combate de unidade de ataque na batalha do pátio a cada 100 unidades de ataque perdidas durante a luta na muralha. Máximo de 30%.",
     "generals_abilities_desc_attack_1034": "Ataque: mata {0}% de todos os defensores corpo a corpo na frente e flancos da muralha durante uma onda. Ativa a cada {1}ª onda.",
     "generals_abilities_desc_attack_1035": "Ataque: -{0}% de poder de defesa corpo a corpo  e -{1}% de poder de defesa a distância para defensores inimigos. Ativa a cada {2}ª onda.",
     "generals_abilities_desc_defense_1001": "Defesa: +{0}% de força de combate para unidades de defesa durante uma única onda de ataque. Ativa a cada {1}ª onda.",
@@ -10853,7 +10859,7 @@
     "generals_abilities_desc_defense_1025": "Defesa: -{0}% a todos os efeitos do atacante que reduzem a força de combate a distância de unidade de defesa. Ativa a cada {1}ª onda.",
     "generals_abilities_desc_defense_1026": "Defesa: concede unidades piratas para a defesa no pátio de acordo com o número de unidades atacantes mortas e a capacidade de saque total nos flancos.",
     "generals_abilities_desc_defense_1027": "Defesa: aumenta a força de combate para unidades de defesa baseado em sua capacidade de saque total na onda. Ativa a cada {1}ª onda.",
-    "generals_abilities_desc_defense_1030": "Defesa: na batalha no pátio, aumenta a força de combate de unidades de defesa baseado na quantidade de unidades de defesa perdidas durante a luta na muralha.",
+    "generals_abilities_desc_defense_1030": "Defesa: +{0}% de força de combate de unidade de defesa na batalha do pátio a cada 100 unidades de defesa perdidas durante a luta na muralha. Máximo de 30%.",
     "generals_abilities_desc_defense_1034": "Defesa: mata {0}% de todos os atacantes corpo a corpo na frente e flancos da muralha durante uma onda. Ativa a cada {1}ª onda.",
     "generals_abilities_desc_defense_1035": "Defesa: -{0}% de poder de ataque corpo a corpo  e -{1}% de poder de ataque a distância para atacantes inimigos. Ativa a cada {2}ª onda.",
     "generals_abilities_desc_short_attack_1001": "Aumentou a força de combate para unidades de ataque",
@@ -11112,7 +11118,11 @@
     "allianceDefenseUnitAmount": "Capacidade de tropa de apoio de aliança",
     "equip_effect_description_allianceDefenseUnitAmountYardBonus": "+{0} na capacidade de tropa de apoio de aliança",
     "dialog_stronghold_capacity": "Unidades armazenadas",
-    "dialog_stronghold_header": "Abrigo de unidades"
+    "dialog_stronghold_header": "Abrigo de unidades",
+    "stronghold_modifyUnits_desc": "Adicionar ou remover as unidades selecionadas da torre forte",
+    "inStronghold": "Na torre forte",
+    "videoAd_button": "Recompensas de anúncios",
+    "dialog_offersDropdown_mbs_button": "Central da comunidade"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% velocidade de viagem do exército durante conquistas",
@@ -14887,7 +14897,7 @@
     "merchantItem_relicItem_2265_name": "Armadura de governador",
     "merchantItem_relicItem_2266_name": "Arma de governador",
     "merchantItem_relicItem_2267_name": "Elmo de governador",
-    "merchantItem_relicItem_2268_name": "Artefato de comandante",
+    "merchantItem_relicItem_2268_name": "Artefato de governador",
     "merchantItem_relicItem_2269_name": "Herói comandante de senhor de castelo",
     "merchantItem_relicGem_2270_name": "Gema de comandante de senhor de castelo",
     "merchantItem_relicGem_2271_name": "Gema de comandante de senhor de castelo",
@@ -15846,7 +15856,22 @@
     "equipment_unique_1177_desc": "Um item da cidade do festival. Transforma seu exército em guarda do Príncipe do Carnaval.",
     "equipment_unique_1178_desc": "O barco carrega cargas preciosas, tanto objetos quanto seres humanos. Transforma seu castelo em uma imagem da cidade dos mil canais.",
     "equipment_unique_1179": "Peças de xadrez do imperador",
-    "equipment_unique_1179_desc": "Dá ao seu castelo um estilo de peça de xadrez."
+    "equipment_unique_1179_desc": "Dá ao seu castelo um estilo de peça de xadrez.",
+    "equipment_unique_952": "Machado do caçador",
+    "equipment_unique_1184_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1184": "Saphire butterfly",
+    "equipment_unique_1183_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1183": "Saphire butterfly",
+    "equipment_unique_1182_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1182": "Saphire butterfly",
+    "equipment_unique_1181_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1181": "Saphire butterfly",
+    "equipment_unique_1180_desc": "Transforma seu castelo em uma fortaleza de duende. Gemas não podem ser inseridas.",
+    "equipment_unique_1185_desc": "Transforma seu exército em uma cavalaria de esquilos avançando.",
+    "equipment_unique_1186_desc": "Transforma seu castelo em esconderijo de esquilos de outono.",
+    "equipment_unique_1180": "Máscara de duende",
+    "equipment_unique_1185": "Ouro de outono",
+    "equipment_unique_1186": "Dádiva das estações"
   },
   "generic": {
     "activity": "Atividade",
@@ -17760,10 +17785,19 @@
     "mysteryBox_boxName_WinterBox2022_3": "Caixa Surpresa inverno épica",
     "mysteryBox_boxName_WinterBox2022_2": "Caixa Surpresa inverno rara",
     "mysteryBox_boxName_WinterBox2022_1": "Caixa Surpresa inverno comum",
-    "mysteryBox_boxName_SpringBox2023_4": "Legendary spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_3": "Epic spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_2": "Rare spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_1": "Common spring mystery box"
+    "mysteryBox_boxName_SpringBox2023_4": "Caixa surpresa primavera lendária",
+    "mysteryBox_boxName_SpringBox2023_3": "Caixa surpresa primavera épica",
+    "mysteryBox_boxName_SpringBox2023_2": "Caixa surpresa primavera rara",
+    "mysteryBox_boxName_SpringBox2023_1": "Caixa surpresa primavera comum",
+    "required_colon": "Necessário:",
+    "upgrade_buildingLevel_kingdom_singleBuilding": "{0} nível {1} em {2}",
+    "placeholder_plus": "{0}+",
+    "requiredBuilding_inKingdom_Classic": "Necessário em O Grande Império:",
+    "condition_or_multiple_twoPlaceholders_notBold": "{0} ou {1}",
+    "noLootGained": "Nenhum espólio obtido",
+    "filters_category_112": "Lucky gold pot",
+    "currency_description_StPatrickLTPEToken": "This enchanted token returns unfathomed luck and wealth to its beholders. Can be exchanged for rewards at the Master Blacksmith for a limited time.",
+    "currency_name_StPatrickLTPEToken": "Lucky gold pot"
   },
   "help": {
     "help_location": "Aqui você tem uma visão geral global do conteúdo importante do seu castelo e de todos os seus postos avançados.",
@@ -22450,7 +22484,10 @@
       "generic_country_closedbeta": "Beta fechado",
       "generic_country_tempserver": "Reinos Exteriores",
       "generic_country_battle": "Além do horizonte",
-      "language_native_ISO_XX": "International"
+      "language_native_ISO_XX": "International",
+      "generic_country_BE": "Bélgica",
+      "generic_country_ID": "Indonésia",
+      "generic_country_PH": "Filipinas"
     },
     "currency": {
       "currency_euro": "€",

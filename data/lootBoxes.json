@@ -5,30 +5,120 @@
       "lootBoxTypeID": "1",
       "name": "MysteryBoxBronze",
       "rarity": "1",
-      "lootBoxTombolaID": "1",
+      "lootBoxTombolaID": "11",
       "draws": "1",
       "lootBoxKeyTombolaID": "1",
       "sortOrder": "1"
+    },
+    {
+      "lootBoxID": "2",
+      "lootBoxTypeID": "1",
+      "name": "MysteryBoxBronze",
+      "rarity": "2",
+      "lootBoxTombolaID": "12",
+      "draws": "1",
+      "lootBoxKeyTombolaID": "1",
+      "sortOrder": "2"
+    },
+    {
+      "lootBoxID": "3",
+      "lootBoxTypeID": "1",
+      "name": "MysteryBoxBronze",
+      "rarity": "3",
+      "lootBoxTombolaID": "13",
+      "draws": "1",
+      "lootBoxKeyTombolaID": "1",
+      "sortOrder": "3"
+    },
+    {
+      "lootBoxID": "4",
+      "lootBoxTypeID": "1",
+      "name": "MysteryBoxBronze",
+      "rarity": "4",
+      "lootBoxTombolaID": "14",
+      "draws": "1",
+      "lootBoxKeyTombolaID": "1",
+      "sortOrder": "4"
     },
     {
       "lootBoxID": "5",
       "lootBoxTypeID": "1",
       "name": "MysteryBoxSilver",
       "rarity": "1",
-      "lootBoxTombolaID": "2",
+      "lootBoxTombolaID": "21",
       "draws": "1",
       "lootBoxKeyTombolaID": "2",
       "sortOrder": "5"
+    },
+    {
+      "lootBoxID": "6",
+      "lootBoxTypeID": "1",
+      "name": "MysteryBoxSilver",
+      "rarity": "2",
+      "lootBoxTombolaID": "22",
+      "draws": "1",
+      "lootBoxKeyTombolaID": "2",
+      "sortOrder": "6"
+    },
+    {
+      "lootBoxID": "7",
+      "lootBoxTypeID": "1",
+      "name": "MysteryBoxSilver",
+      "rarity": "3",
+      "lootBoxTombolaID": "23",
+      "draws": "1",
+      "lootBoxKeyTombolaID": "2",
+      "sortOrder": "7"
+    },
+    {
+      "lootBoxID": "8",
+      "lootBoxTypeID": "1",
+      "name": "MysteryBoxSilver",
+      "rarity": "4",
+      "lootBoxTombolaID": "24",
+      "draws": "1",
+      "lootBoxKeyTombolaID": "2",
+      "sortOrder": "8"
     },
     {
       "lootBoxID": "9",
       "lootBoxTypeID": "1",
       "name": "MysteryBoxGold",
       "rarity": "1",
-      "lootBoxTombolaID": "3",
+      "lootBoxTombolaID": "31",
       "draws": "1",
       "lootBoxKeyTombolaID": "3",
       "sortOrder": "9"
+    },
+    {
+      "lootBoxID": "10",
+      "lootBoxTypeID": "1",
+      "name": "MysteryBoxGold",
+      "rarity": "2",
+      "lootBoxTombolaID": "32",
+      "draws": "1",
+      "lootBoxKeyTombolaID": "3",
+      "sortOrder": "10"
+    },
+    {
+      "lootBoxID": "11",
+      "lootBoxTypeID": "1",
+      "name": "MysteryBoxGold",
+      "rarity": "3",
+      "lootBoxTombolaID": "33",
+      "draws": "1",
+      "lootBoxKeyTombolaID": "3",
+      "sortOrder": "11"
+    },
+    {
+      "lootBoxID": "12",
+      "lootBoxTypeID": "1",
+      "name": "MysteryBoxGold",
+      "rarity": "4",
+      "lootBoxTombolaID": "34",
+      "draws": "1",
+      "lootBoxKeyTombolaID": "3",
+      "sortOrder": "12"
     },
     {
       "lootBoxID": "13",
@@ -149,6 +239,46 @@
       "draws": "4",
       "lootBoxKeyTombolaID": "4",
       "sortOrder": "24"
+    },
+    {
+      "lootBoxID": "25",
+      "lootBoxTypeID": "1",
+      "name": "WinterBox2022",
+      "rarity": "1",
+      "lootBoxTombolaID": "7",
+      "draws": "1",
+      "lootBoxKeyTombolaID": "5",
+      "sortOrder": "25"
+    },
+    {
+      "lootBoxID": "26",
+      "lootBoxTypeID": "1",
+      "name": "WinterBox2022",
+      "rarity": "2",
+      "lootBoxTombolaID": "7",
+      "draws": "2",
+      "lootBoxKeyTombolaID": "6",
+      "sortOrder": "26"
+    },
+    {
+      "lootBoxID": "27",
+      "lootBoxTypeID": "1",
+      "name": "WinterBox2022",
+      "rarity": "3",
+      "lootBoxTombolaID": "7",
+      "draws": "3",
+      "lootBoxKeyTombolaID": "7",
+      "sortOrder": "27"
+    },
+    {
+      "lootBoxID": "28",
+      "lootBoxTypeID": "1",
+      "name": "WinterBox2022",
+      "rarity": "4",
+      "lootBoxTombolaID": "7",
+      "draws": "4",
+      "lootBoxKeyTombolaID": "8",
+      "sortOrder": "28"
     }
   ]
 }

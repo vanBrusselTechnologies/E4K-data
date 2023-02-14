@@ -1736,7 +1736,13 @@
     "deco_newKingBridgeGreen_name": "Vårligt kronmonument",
     "deco_xmasRollercoaster2_name": "Vintrig polkaberg- och dalbana",
     "deco_stPatricksWagon_name": "Klövervagn",
-    "deco_valentinesLoveNest_name": "Smekmånadslya"
+    "deco_valentinesLoveNest_name": "Smekmånadslya",
+    "deco_FallenGiantRed_name": "Downfall of the giants",
+    "deco_FallenGiant_name": "Giants agony",
+    "deco_StPatrickMagicCave_name": "Magical rainbow cave",
+    "deco_StPatrickGoldCave_name": "Leprechauns gold stack",
+    "ci_appearance_StPatrickStables_flavour": "Follow the rainbows to find those magical stables. The owners can consider themselves as lucky as wealthy.",
+    "ci_appearance_StPatrickStables": "Emerald Stables"
   },
   "dialogs": {
     "dialog_festival_desc": "Använd mat för att anordna en fest för dina medborgare! Rekryteringshastigheten ökar betydligt i alla dina slott så länge festen försiggår. Ju större festen är, desto större effekt.",
@@ -9456,7 +9462,7 @@
     "ci_appearance_pirateBakery": "Piraternas bageri",
     "ci_appearance_pirateBakery_flavour": "Här bakas rediga skeppsskorpor inför långa färder på havet",
     "dialog_siegeMessage_outpostConqueredDistrict_header": "Utpost med distrikt erövrat",
-    "dialog_legendTemple_unlockBuilding_conditionmultipleBuildingss": "Kräver någon av följande byggnader: {0}",
+    "dialog_legendTemple_unlockBuilding_conditionmultipleBuildings": "Kräver någon av följande byggnader i Storriket: {0}",
     "merchantitem_resources_2104_name": "Överlägset honungspaket",
     "merchantitem_resources_2104_desc": "Innehåller {0} honung som skickas direkt till slottets lagerutrymme. Lagrets förvaringsgräns ignoreras.",
     "merchantitem_resources_2105_name": "Överlägset mjödpaket",
@@ -10835,7 +10841,7 @@
     "generals_abilities_desc_attack_1025": "Anfall: -{0} % till alla försvarareffekter som minskar anfallsenheters distansstridskraft. Aktiveras en gång varje {1}-vågorsintervall.",
     "generals_abilities_desc_attack_1026": "Anfall: Få piratenheter till borggårdsanfallet, baserat på antalet dödade försvarare samt total plundringskapacitet på flankerna.",
     "generals_abilities_desc_attack_1027": "Anfall: Anfallsenheter får mer stridskraft baserat på deras totala plundringskapacitet i vågen. Aktiveras en gång varje {1}-vågorsintervall.",
-    "generals_abilities_desc_attack_1030": "Anfall: Anfallsenheter får mer stridskraft i borggårdsstriden baserat på antalet förlorade anfallsenheter i murstriden.",
+    "generals_abilities_desc_attack_1030": "Anfall: +{0} % stridskraft till anfallsenheter under borggårdstriden för varje 100 anfallsenheter som förloras under murstriden. Maximalt 30 %.",
     "generals_abilities_desc_attack_1034": "Anfall: Döda {0} % av alla närstridsförsvarare på murens front och flanker under en våg. Aktiveras en gång varje {1}-vågorsintervall.",
     "generals_abilities_desc_attack_1035": "Anfall: Fiendeförsvarare får -{0} % försvarsstyrka i närstrid  och -{1} % försvarsstyrka på avstånd. Aktiveras varje {2}-vågorsintervall.",
     "generals_abilities_desc_defense_1001": "Försvar: Försvarsenheter får +{0} % stridskraft under en anfallsvåg. Aktiveras en gång varje {1}-vågorsintervall.",
@@ -10853,7 +10859,7 @@
     "generals_abilities_desc_defense_1025": "Försvar: -{0} % till alla anfallareffekter som minskar försvarsenheters distansstridskraft. Aktiveras en gång varje {1}-vågorsintervall.",
     "generals_abilities_desc_defense_1026": "Försvar: Få piratenheter till borggårdsförsvaret, baserat på antalet dödade anfallare samt total plundringskapacitet på flankerna.",
     "generals_abilities_desc_defense_1027": "Försvar: Försvarsenheter får mer stridskraft baserat på deras totala plundringskapacitet i vågen. Aktiveras en gång varje {1}-vågorsintervall.",
-    "generals_abilities_desc_defense_1030": "Försvar: Försvarsenheter får mer stridskraft i borggårdsstriden baserat på antalet förlorade försvarsenheter i murstriden.",
+    "generals_abilities_desc_defense_1030": "Försvar: +{0} % stridskraft till försvarsenheter under borggårdstriden för varje 100 försvarsenheter som förloras under murstriden. Maximalt 30 %.",
     "generals_abilities_desc_defense_1034": "Försvar: Döda {0} % av alla närstridsanfallare på murens front och flanker under en våg. Aktiveras en gång varje {1}-vågorsintervall.",
     "generals_abilities_desc_defense_1035": "Försvar: Fiendeanfallare får -{0} % attackstyrka i närstrid  och -{1} % attackstyrka på avstånd. Aktiveras varje {2}-vågorsintervall.",
     "generals_abilities_desc_short_attack_1001": "Mer stridskraft åt anfallsenheter",
@@ -11112,7 +11118,11 @@
     "allianceDefenseUnitAmount": "Truppkapacitet för allianssupport",
     "equip_effect_description_allianceDefenseUnitAmountYardBonus": "+{0} till truppkapacitet för allianssupport",
     "dialog_stronghold_capacity": "Enhetskapacitet",
-    "dialog_stronghold_header": "Skyddsrum för enheter"
+    "dialog_stronghold_header": "Skyddsrum för enheter",
+    "stronghold_modifyUnits_desc": "Lägg till eller ta bort valda enheter från fortet",
+    "inStronghold": "I fortet",
+    "videoAd_button": "Belöningar för videoreklam",
+    "dialog_offersDropdown_mbs_button": "Communitynav"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0} % resehastighet för armén under erövringar",
@@ -14887,7 +14897,7 @@
     "merchantItem_relicItem_2265_name": "Slottsvaktrustning",
     "merchantItem_relicItem_2266_name": "Slottsvaktvapen",
     "merchantItem_relicItem_2267_name": "Slottsvakthjälm",
-    "merchantItem_relicItem_2268_name": "Anförarartefakt",
+    "merchantItem_relicItem_2268_name": "Slottsvaktartefakt",
     "merchantItem_relicItem_2269_name": "Slottsherreanförarhjälte",
     "merchantItem_relicGem_2270_name": "Ädelsten för slottsherreanförare",
     "merchantItem_relicGem_2271_name": "Ädelsten för slottsherreanförare",
@@ -15846,7 +15856,22 @@
     "equipment_unique_1177_desc": "Ett föremål från festivalstaden. Gör din armé till karnevalprinsens garde.",
     "equipment_unique_1178_desc": "Båtar med dyrbar last i form av både saker och människor. Ditt slott blir en avbild av de tusen kanalernas stad.",
     "equipment_unique_1179": "Kejsarens schack",
-    "equipment_unique_1179_desc": "Gör ditt slott till en schackfästning."
+    "equipment_unique_1179_desc": "Gör ditt slott till en schackfästning.",
+    "equipment_unique_952": "Jaktyxa",
+    "equipment_unique_1184_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1184": "Saphire butterfly",
+    "equipment_unique_1183_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1183": "Saphire butterfly",
+    "equipment_unique_1182_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1182": "Saphire butterfly",
+    "equipment_unique_1181_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1181": "Saphire butterfly",
+    "equipment_unique_1180_desc": "Gör ditt slott till en leprechaun-fästning. Ädelstenar kan inte läggas in.",
+    "equipment_unique_1185_desc": "Gör din armé till ett anstormande ekorrkavalleri.",
+    "equipment_unique_1186_desc": "Gör ditt slott till ett höstligt tillhåll för ekorrar.",
+    "equipment_unique_1180": "Leprechaun-mask",
+    "equipment_unique_1185": "Höstguld",
+    "equipment_unique_1186": "Höstens skatter"
   },
   "generic": {
     "activity": "Aktivera",
@@ -17760,10 +17785,19 @@
     "mysteryBox_boxName_WinterBox2022_3": "Episk hemlig vinterlåda",
     "mysteryBox_boxName_WinterBox2022_2": "Sällsynt hemlig vinterlåda",
     "mysteryBox_boxName_WinterBox2022_1": "Vanlig hemlig vinterlåda",
-    "mysteryBox_boxName_SpringBox2023_4": "Legendary spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_3": "Epic spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_2": "Rare spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_1": "Common spring mystery box"
+    "mysteryBox_boxName_SpringBox2023_4": "Legendarisk hemlig vårlåda",
+    "mysteryBox_boxName_SpringBox2023_3": "Episk hemlig vårlåda",
+    "mysteryBox_boxName_SpringBox2023_2": "Sällsynt hemlig vårlåda",
+    "mysteryBox_boxName_SpringBox2023_1": "Vanlig hemlig vårlåda",
+    "required_colon": "Krävs:",
+    "upgrade_buildingLevel_kingdom_singleBuilding": "{0} nivå {1} i {2}",
+    "placeholder_plus": "{0}+",
+    "requiredBuilding_inKingdom_Classic": "Krävs i Storriket:",
+    "condition_or_multiple_twoPlaceholders_notBold": "{0} eller {1}",
+    "noLootGained": "Inget insamlat byte",
+    "filters_category_112": "Lucky gold pot",
+    "currency_description_StPatrickLTPEToken": "This enchanted token returns unfathomed luck and wealth to its beholders. Can be exchanged for rewards at the Master Blacksmith for a limited time.",
+    "currency_name_StPatrickLTPEToken": "Lucky gold pot"
   },
   "help": {
     "help_location": "Här har du en global översikt över ditt slotts viktiga innehåll och alla dina utposter.",
@@ -22450,7 +22484,10 @@
       "generic_country_closedbeta": "Stängd beta",
       "generic_country_tempserver": "Yttre rikena",
       "generic_country_battle": "Bortom horisonten",
-      "language_native_ISO_XX": "International"
+      "language_native_ISO_XX": "International",
+      "generic_country_BE": "Belgien",
+      "generic_country_ID": "Indonesien",
+      "generic_country_PH": "Filippinerna"
     },
     "currency": {
       "currency_euro": "€",

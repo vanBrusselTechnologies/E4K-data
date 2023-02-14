@@ -1736,7 +1736,13 @@
     "deco_newKingBridgeGreen_name": "봄의 왕관 기념비",
     "deco_xmasRollercoaster2_name": "겨울 막대사탕 코스터",
     "deco_stPatricksWagon_name": "샴록 짐차",
-    "deco_valentinesLoveNest_name": "밀월 은신처"
+    "deco_valentinesLoveNest_name": "밀월 은신처",
+    "deco_FallenGiantRed_name": "Downfall of the giants",
+    "deco_FallenGiant_name": "Giants agony",
+    "deco_StPatrickMagicCave_name": "Magical rainbow cave",
+    "deco_StPatrickGoldCave_name": "Leprechauns gold stack",
+    "ci_appearance_StPatrickStables_flavour": "Follow the rainbows to find those magical stables. The owners can consider themselves as lucky as wealthy.",
+    "ci_appearance_StPatrickStables": "Emerald Stables"
   },
   "dialogs": {
     "dialog_festival_desc": "식량으로 잔치를 열어 백성들을 배불리 먹이십시오! 잔치가 계속되는 동안 모든 성의 모집 속도가 눈에 띄게 증가합니다. 더 큰 잔치를 벌일수록 효과도 더 증가합니다.",
@@ -9456,7 +9462,7 @@
     "ci_appearance_pirateBakery": "해적의 제빵소",
     "ci_appearance_pirateBakery_flavour": "장거리 항해용으로 쓸 수 있는 딱딱한 건빵을 굽습니다.",
     "dialog_siegeMessage_outpostConqueredDistrict_header": "점령된 구역이 있는 전초기지",
-    "dialog_legendTemple_unlockBuilding_conditionmultipleBuildingss": "최소 요구 사항: {0}",
+    "dialog_legendTemple_unlockBuilding_conditionmultipleBuildings": "대제국에 필요한 건물 목록: {0}",
     "merchantitem_resources_2104_name": "고급 벌꿀 패키지",
     "merchantitem_resources_2104_desc": "성의 창고로 즉시 보내지는 벌꿀 {0}개가 들어 있습니다. 창고의 저장 한도는 무시합니다.",
     "merchantitem_resources_2105_name": "고급 벌꿀 술 패키지",
@@ -10835,7 +10841,7 @@
     "generals_abilities_desc_attack_1025": "공격: 공격 유닛의 원거리 전투력을 줄이는 모든 방어자의 효과가 -{0}% 감소합니다. {1}차 공격대마다 활성화됩니다.",
     "generals_abilities_desc_attack_1026": "공격: 안뜰 공격 시 해적 유닛을 얻습니다. 얻는 유닛의 양은 처치한 방어 유닛의 수와 측면의 총 전리품 용량에 따라 달라집니다.",
     "generals_abilities_desc_attack_1027": "공격: 공격대의 총 전리품 용량에 따라 공격 유닛의 전투력이 증가합니다. {1}차 공격대마다 활성화됩니다.",
-    "generals_abilities_desc_attack_1030": "공격: 안뜰 전투 시, 성벽 전투에서 잃은 공격 유닛의 양만큼 공격 유닛의 전투력이 증가합니다.",
+    "generals_abilities_desc_attack_1030": "공격: 성벽 전투 동안 공격 유닛 100명을 잃을 때마다 공격 유닛 전투력 +{0}%. 최대 30%.",
     "generals_abilities_desc_attack_1034": "공격: 공격대 전투 동안 성벽의 정면과 측면에 있는 모든 근접 방어 유닛의 {0}%를 처치합니다. {1}차 공격대마다 활성화됩니다.",
     "generals_abilities_desc_attack_1035": "공격: 적 방어 유닛의 근접 방어력이 -{0}% 감소하고  원거리 방어력이 -{1}% 감소합니다. {2}차 공격대마다 활성화됩니다.",
     "generals_abilities_desc_defense_1001": "방어: 단일 공격대 전투 동안 방어 유닛의 전투력이 +{0}% 증가합니다. {1}차 공격대마다 활성화됩니다.",
@@ -10853,7 +10859,7 @@
     "generals_abilities_desc_defense_1025": "방어: 방어 유닛의 원거리 전투력을 줄이는 모든 공격자의 효과가 -{0}% 감소합니다. {1}차 공격대마다 활성화됩니다.",
     "generals_abilities_desc_defense_1026": "방어: 안뜰 공격 시 해적 유닛을 얻습니다. 얻는 유닛의 양은 처치한 공격 유닛의 수와 측면의 총 전리품 용량에 따라 달라집니다.",
     "generals_abilities_desc_defense_1027": "방어: 공격대의 총 전리품 용량에 따라 방어 유닛의 전투력이 증가합니다. {1}차 공격대마다 활성화됩니다.",
-    "generals_abilities_desc_defense_1030": "방어: 안뜰 전투 시, 성벽 전투에서 잃은 방어 유닛의 양만큼 방어 유닛의 전투력이 증가합니다.",
+    "generals_abilities_desc_defense_1030": "방어: 성벽 전투 동안 방어 유닛 100명을 잃을 때마다 방어 유닛 전투력 +{0}%. 최대 30%.",
     "generals_abilities_desc_defense_1034": "방어: 공격대 전투 동안 성벽의 정면과 측면에 있는 모든 근접 공격 유닛의 {0}%를 처치합니다. {1}차 공격대마다 활성화됩니다.",
     "generals_abilities_desc_defense_1035": "방어: 적 공격 유닛의 근접 공격력이 -{0}% 감소하고  원거리 공격력이 -{1}% 감소합니다. {2}차 공격대마다 활성화됩니다.",
     "generals_abilities_desc_short_attack_1001": "공격 유닛의 전투력이 증가됨",
@@ -11112,7 +11118,11 @@
     "allianceDefenseUnitAmount": "동맹 지원 병력 정원",
     "equip_effect_description_allianceDefenseUnitAmountYardBonus": "동맹 지원 병력 정원 +{0}",
     "dialog_stronghold_capacity": "유닛 용량",
-    "dialog_stronghold_header": "유닛 보호소"
+    "dialog_stronghold_header": "유닛 보호소",
+    "stronghold_modifyUnits_desc": "선택한 유닛을 성채에 추가하거나 제거합니다",
+    "inStronghold": "성채 내부",
+    "videoAd_button": "동영상 광고 보상",
+    "dialog_offersDropdown_mbs_button": "커뮤니티 허브"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "정복 중 군대 이동 속도 +{0}%",
@@ -14887,7 +14897,7 @@
     "merchantItem_relicItem_2265_name": "대리인 방어구",
     "merchantItem_relicItem_2266_name": "대리인 무기",
     "merchantItem_relicItem_2267_name": "대리인 투구",
-    "merchantItem_relicItem_2268_name": "지휘관 아티팩트",
+    "merchantItem_relicItem_2268_name": "대리인 아티팩트",
     "merchantItem_relicItem_2269_name": "성주 지휘관 영웅",
     "merchantItem_relicGem_2270_name": "성주 지휘관 보석",
     "merchantItem_relicGem_2271_name": "성주 지휘관 보석",
@@ -15846,7 +15856,22 @@
     "equipment_unique_1177_desc": "축제 도시의 아이템입니다. 부대를 축제 왕자의 경비대로 변신시킵니다.",
     "equipment_unique_1178_desc": "귀중한 화물을 운반하는 배이며 물건과 사람을 모두 실어 옮깁니다. 성을 수많은 운하가 있는 도시의 모습으로 변신시킵니다.",
     "equipment_unique_1179": "황제의 체스 세트",
-    "equipment_unique_1179_desc": "성을 고급스러운 체스 세트로 변신시킵니다."
+    "equipment_unique_1179_desc": "성을 고급스러운 체스 세트로 변신시킵니다.",
+    "equipment_unique_952": "사냥꾼의 도끼",
+    "equipment_unique_1184_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1184": "Saphire butterfly",
+    "equipment_unique_1183_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1183": "Saphire butterfly",
+    "equipment_unique_1182_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1182": "Saphire butterfly",
+    "equipment_unique_1181_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1181": "Saphire butterfly",
+    "equipment_unique_1180_desc": "성을 레프리콘 요새로 변신시킵니다. 보석은 장착할 수 없습니다.",
+    "equipment_unique_1185_desc": "부대를 돌격하는 다람쥐 기병으로 변신시킵니다.",
+    "equipment_unique_1186_desc": "성을 가을 다람쥐 비밀창고로 변신시킵니다.",
+    "equipment_unique_1180": "레프리콘 가면",
+    "equipment_unique_1185": "가을 황금",
+    "equipment_unique_1186": "계절의 결실"
   },
   "generic": {
     "activity": "활동",
@@ -17760,10 +17785,19 @@
     "mysteryBox_boxName_WinterBox2022_3": "에픽 겨울 신비한 상자",
     "mysteryBox_boxName_WinterBox2022_2": "레어 겨울 신비한 상자",
     "mysteryBox_boxName_WinterBox2022_1": "일반 겨울 신비한 상자",
-    "mysteryBox_boxName_SpringBox2023_4": "Legendary spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_3": "Epic spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_2": "Rare spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_1": "Common spring mystery box"
+    "mysteryBox_boxName_SpringBox2023_4": "전설 봄 신비한 상자",
+    "mysteryBox_boxName_SpringBox2023_3": "에픽 봄 신비한 상자",
+    "mysteryBox_boxName_SpringBox2023_2": "레어 봄 신비한 상자",
+    "mysteryBox_boxName_SpringBox2023_1": "일반 봄 신비한 상자",
+    "required_colon": "조건:",
+    "upgrade_buildingLevel_kingdom_singleBuilding": "{2}의 {0} 레벨 {1}",
+    "placeholder_plus": "{0}+",
+    "requiredBuilding_inKingdom_Classic": "대제국에 필요한 건물:",
+    "condition_or_multiple_twoPlaceholders_notBold": "{0} 또는 {1}",
+    "noLootGained": "획득한 전리품 없음",
+    "filters_category_112": "Lucky gold pot",
+    "currency_description_StPatrickLTPEToken": "This enchanted token returns unfathomed luck and wealth to its beholders. Can be exchanged for rewards at the Master Blacksmith for a limited time.",
+    "currency_name_StPatrickLTPEToken": "Lucky gold pot"
   },
   "help": {
     "help_location": "여기에서 성과 전초기지의 중요한 정보를 대략 찾아볼 수 있습니다.",
@@ -22450,7 +22484,10 @@
       "generic_country_closedbeta": "비공개 베타",
       "generic_country_tempserver": "외부 왕국",
       "generic_country_battle": "지평선 너머",
-      "language_native_ISO_XX": "International"
+      "language_native_ISO_XX": "International",
+      "generic_country_BE": "벨기에",
+      "generic_country_ID": "인도네시아",
+      "generic_country_PH": "필리핀"
     },
     "currency": {
       "currency_euro": "€",

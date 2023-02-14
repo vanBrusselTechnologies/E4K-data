@@ -1736,7 +1736,13 @@
     "deco_newKingBridgeGreen_name": "Bahar tacı anıtı",
     "deco_xmasRollercoaster2_name": "Kışlık baston şeker treni",
     "deco_stPatricksWagon_name": "Yonca arabası",
-    "deco_valentinesLoveNest_name": "Balayı saklanma yeri"
+    "deco_valentinesLoveNest_name": "Balayı saklanma yeri",
+    "deco_FallenGiantRed_name": "Downfall of the giants",
+    "deco_FallenGiant_name": "Giants agony",
+    "deco_StPatrickMagicCave_name": "Magical rainbow cave",
+    "deco_StPatrickGoldCave_name": "Leprechauns gold stack",
+    "ci_appearance_StPatrickStables_flavour": "Follow the rainbows to find those magical stables. The owners can consider themselves as lucky as wealthy.",
+    "ci_appearance_StPatrickStables": "Emerald Stables"
   },
   "dialogs": {
     "dialog_festival_desc": "Yurttaşlarınıza bir şenlik düzenlemek için yiyecek kullanın!\nŞenlik devam ettiği sürece askere alma hızı tüm kalelerinizde belirgin şekilde artacak. Şenlik ne kadar büyük olursa, etkisi de o kadar büyük olur.",
@@ -9456,7 +9462,7 @@
     "ci_appearance_pirateBakery": "Korsan fırını",
     "ci_appearance_pirateBakery_flavour": "Uzun okyanus yolculuklarına uygun olan dayanıklı peksimetler pişirir",
     "dialog_siegeMessage_outpostConqueredDistrict_header": "Bölgeye sahip ileri karakol ele geçirildi",
-    "dialog_legendTemple_unlockBuilding_conditionmultipleBuildingss": "Bunlardan herhangi birini gerektiriyor: {0}",
+    "dialog_legendTemple_unlockBuilding_conditionmultipleBuildings": "Büyük İmparatorlukta bunlardan herhangi birini gerektiriyor: {0}",
     "merchantitem_resources_2104_name": "Üstün bal paketi",
     "merchantitem_resources_2104_desc": "Hemen kalenin deposuna gönderilecek {0} baş içeriyor. Deponun depolama limiti dikkate alınmayacak.",
     "merchantitem_resources_2105_name": "Üstün bal şarabı paketi",
@@ -10835,7 +10841,7 @@
     "generals_abilities_desc_attack_1025": "Saldırı: Saldırı birimlerinin menzilli savaş gücünü azaltan tüm savunmacı etkileri %{0} azaltılır. Her {1}. dalgada bir etkinleşir.",
     "generals_abilities_desc_attack_1026": "Saldırı: Öldürülen savunmacı sayısına ve kanatlardaki toplam ganimet kapasitesine dayalı olarak avlu saldırısı için korsan birimleri kazan.",
     "generals_abilities_desc_attack_1027": "Saldırı: Dalgadaki toplam ganimet kapasitelerine göre saldırı birimlerinin savaş gücünü artır. Her {1}. dalgada bir etkinleşir.",
-    "generals_abilities_desc_attack_1030": "Saldırı: Avlu savaşında, duvar çarpışması sırasında kaybedilen saldırı birimi miktarına göre saldırı birimlerinin savaş gücünü artır.",
+    "generals_abilities_desc_attack_1030": "Saldırı: Avlu savaşında duvar çarpışması sırasında kaybedilen her saldırı birimi için +%{0} saldırı birimleri savaş gücü. En fazla %30 olabilir.",
     "generals_abilities_desc_attack_1034": "Saldırı: Bir dalga sırasında duvarın cephesindeki ve kanatlarındaki tüm yakın dövüş savunma birimlerinin %{0} kadarını öldür. Her {1}. dalgada bir etkinleşir.",
     "generals_abilities_desc_attack_1035": "Saldırı: Yakın dövüş savunma gücü %{0},  düşman savunmacılarının menzilli savunma gücü ise %{1} azalır. Her {2}. dalgada bir etkinleşir.",
     "generals_abilities_desc_defense_1001": "Savunma: Tek bir savunma dalgası sırasında savunma birimleri için +%{0} savaş gücü. Her {1}. dalgada bir etkinleşir.",
@@ -10853,7 +10859,7 @@
     "generals_abilities_desc_defense_1025": "Savunma: Savunma birimlerinin menzilli savaş gücünü azaltan tüm taarruzcu etkileri %{0} azaltılır. Her {1}. dalgada bir etkinleşir.",
     "generals_abilities_desc_defense_1026": "Savunma: Öldürülen saldırı birimi sayısına ve kanatlardaki toplam ganimet kapasitesine dayalı olarak avlu savunması için korsan birimleri kazan.",
     "generals_abilities_desc_defense_1027": "Savunma: Dalgadaki toplam ganimet kapasitelerine göre savunma birimlerinin savaş gücünü artır. Her {1}. dalgada bir etkinleşir.",
-    "generals_abilities_desc_defense_1030": "Savunma: Avlu savaşında, duvar çarpışması sırasında kaybedilen savunma birimi miktarına göre savunma birimlerinin savaş gücünü artır.",
+    "generals_abilities_desc_defense_1030": "Savunma: Avlu savaşında duvar çarpışması sırasında kaybedilen her savunma birimi için +%{0} savunma birimleri savaş gücü. En fazla %30 olabilir.",
     "generals_abilities_desc_defense_1034": "Savunma: Bir dalga sırasında cephedeki ve iki kanattaki tüm yakın dövüş saldırı birimlerinin %{0} kadarını öldür. Her {1}. dalgada bir etkinleşir.",
     "generals_abilities_desc_defense_1035": "Savunma: Yakın dövüş saldırı gücü %{0},  düşman taarruzcularının menzilli saldırı gücü ise %{1} azalır. Her {2}. dalgada bir etkinleşir.",
     "generals_abilities_desc_short_attack_1001": "Saldırı birimleri için savaş gücü artırılır",
@@ -11112,7 +11118,11 @@
     "allianceDefenseUnitAmount": "İttifak desteği birlik kapasitesi",
     "equip_effect_description_allianceDefenseUnitAmountYardBonus": "+{0} ittifak desteği birlik kapasitesi",
     "dialog_stronghold_capacity": "Birim kapasitesi",
-    "dialog_stronghold_header": "Birlik sığınağı"
+    "dialog_stronghold_header": "Birlik sığınağı",
+    "stronghold_modifyUnits_desc": "Seçili birimleri sığınağa ekle veya sığınaktan kaldır",
+    "inStronghold": "Sığınakta",
+    "videoAd_button": "Reklam videosu ödülleri",
+    "dialog_offersDropdown_mbs_button": "Topluluk merkezi"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+%{0} - Fetihlerde ordu yolculuk hızı",
@@ -14887,7 +14897,7 @@
     "merchantItem_relicItem_2265_name": "Kale kumandanı zırhı",
     "merchantItem_relicItem_2266_name": "Kale kumandanı silahı",
     "merchantItem_relicItem_2267_name": "Kale kumandanı miğferi",
-    "merchantItem_relicItem_2268_name": "Komutan kalıntısı",
+    "merchantItem_relicItem_2268_name": "Kale kumandanı kalıntısı",
     "merchantItem_relicItem_2269_name": "Kale lordu komutanı kahramanı",
     "merchantItem_relicGem_2270_name": "Kale lordu komutanı kıymetli taşı",
     "merchantItem_relicGem_2271_name": "Kale lordu komutanı kıymetli taşı",
@@ -15846,7 +15856,22 @@
     "equipment_unique_1177_desc": "Festival şehrinden bir öğe. Ordunu, Karnaval Prensinin muhafızlarına dönüştürür.",
     "equipment_unique_1178_desc": "Tekneler hem nesneler hem de insan içeren değerli kargolar taşır. Kaleni, bin kanallı şehrin görüntüsüne dönüştürür.",
     "equipment_unique_1179": "İmparatorun satranç takımı",
-    "equipment_unique_1179_desc": "Kaleni değerli bir satranç takımı tarzındaki bir kaleye dönüştürür."
+    "equipment_unique_1179_desc": "Kaleni değerli bir satranç takımı tarzındaki bir kaleye dönüştürür.",
+    "equipment_unique_952": "Avcı baltası",
+    "equipment_unique_1184_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1184": "Saphire butterfly",
+    "equipment_unique_1183_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1183": "Saphire butterfly",
+    "equipment_unique_1182_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1182": "Saphire butterfly",
+    "equipment_unique_1181_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1181": "Saphire butterfly",
+    "equipment_unique_1180_desc": "Kaleni bir cin cüce hisarına dönüştürür. Kıymetli taşlar yerleştirilemez.",
+    "equipment_unique_1185_desc": "Ordunu görevdeki bir sincap süvarisine dönüştürür.",
+    "equipment_unique_1186_desc": "Kaleni bir güz sincap saklanma yerine dönüştürür.",
+    "equipment_unique_1180": "Cin cüce maskesi",
+    "equipment_unique_1185": "Güz Altını",
+    "equipment_unique_1186": "Mevsimlerin Cömertliği"
   },
   "generic": {
     "activity": "Etkinlik",
@@ -17760,10 +17785,19 @@
     "mysteryBox_boxName_WinterBox2022_3": "Epik kış temalı esrarengiz sandık",
     "mysteryBox_boxName_WinterBox2022_2": "Nadir kış temalı esrarengiz sandık",
     "mysteryBox_boxName_WinterBox2022_1": "Sıradan kış temalı esrarengiz sandık",
-    "mysteryBox_boxName_SpringBox2023_4": "Legendary spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_3": "Epic spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_2": "Rare spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_1": "Common spring mystery box"
+    "mysteryBox_boxName_SpringBox2023_4": "Efsanevi bahar esrarengiz sandığı",
+    "mysteryBox_boxName_SpringBox2023_3": "Epik bahar esrarengiz sandığı",
+    "mysteryBox_boxName_SpringBox2023_2": "Ender bahar esrarengiz sandığı",
+    "mysteryBox_boxName_SpringBox2023_1": "Sıradan bahar esrarengiz sandığı",
+    "required_colon": "Gerekli:",
+    "upgrade_buildingLevel_kingdom_singleBuilding": "Şurada {1}. seviye {0}: {2}",
+    "placeholder_plus": "{0}+",
+    "requiredBuilding_inKingdom_Classic": "Büyük İmparatorlukta gerekli:",
+    "condition_or_multiple_twoPlaceholders_notBold": "{0} veya {1}",
+    "noLootGained": "Yağma kazanılmadı",
+    "filters_category_112": "Lucky gold pot",
+    "currency_description_StPatrickLTPEToken": "This enchanted token returns unfathomed luck and wealth to its beholders. Can be exchanged for rewards at the Master Blacksmith for a limited time.",
+    "currency_name_StPatrickLTPEToken": "Lucky gold pot"
   },
   "help": {
     "help_location": "Buradan kalenin tüm önemli ögelerine ve ileri karakollara genel olarak bakabilirsin.",
@@ -22450,7 +22484,10 @@
       "generic_country_closedbeta": "Kapalı beta",
       "generic_country_tempserver": "Dış Krallıklar",
       "generic_country_battle": "Ufuk Ötesi",
-      "language_native_ISO_XX": "International"
+      "language_native_ISO_XX": "International",
+      "generic_country_BE": "Belçika",
+      "generic_country_ID": "Endonezya",
+      "generic_country_PH": "Filipinler"
     },
     "currency": {
       "currency_euro": "€",

@@ -1736,7 +1736,13 @@
     "deco_newKingBridgeGreen_name": "Monument wiosennej korony",
     "deco_xmasRollercoaster2_name": "Cukierkowa kolejka Zimowej Pory",
     "deco_stPatricksWagon_name": "Koniczynowy wóz",
-    "deco_valentinesLoveNest_name": "Miodowa kryjówka"
+    "deco_valentinesLoveNest_name": "Miodowa kryjówka",
+    "deco_FallenGiantRed_name": "Downfall of the giants",
+    "deco_FallenGiant_name": "Giants agony",
+    "deco_StPatrickMagicCave_name": "Magical rainbow cave",
+    "deco_StPatrickGoldCave_name": "Leprechauns gold stack",
+    "ci_appearance_StPatrickStables_flavour": "Follow the rainbows to find those magical stables. The owners can consider themselves as lucky as wealthy.",
+    "ci_appearance_StPatrickStables": "Emerald Stables"
   },
   "dialogs": {
     "dialog_festival_desc": "Użyj jedzenia, aby zorganizować święto dla Twoich obywateli! Szybkość rekrutacji znacznie będzie rosła we wszystkich twoich zamkach przez czas obchodów święta. Im większe święto, tym większe efekty.",
@@ -9456,7 +9462,7 @@
     "ci_appearance_pirateBakery": "Piracka piekarnia",
     "ci_appearance_pirateBakery_flavour": "Produkuje suchary w sam raz na długie przeprawy przez ocean.",
     "dialog_siegeMessage_outpostConqueredDistrict_header": "Zdobyto posterunek z dzielnicą",
-    "dialog_legendTemple_unlockBuilding_conditionmultipleBuildingss": "Wymagane spełnienie jednego z warunków: {0}",
+    "dialog_legendTemple_unlockBuilding_conditionmultipleBuildings": "Wymagane spełnienie jednego z warunków w Wielkim Cesarstwie: {0}",
     "merchantitem_resources_2104_name": "Wspaniały pakiet miodu",
     "merchantitem_resources_2104_desc": "Zawiera {0} jedn. miodu, które natychmiast powędrują do twojego magazynu zamkowego. Limit pojemności magazynu jest ignorowany.",
     "merchantitem_resources_2105_name": "Wspaniały pakiet miodu pitnego",
@@ -10835,7 +10841,7 @@
     "generals_abilities_desc_attack_1025": "Atak: -{0}% do wszystkich efektów obrońców, które redukują dystansową siłę bojową jednostek atakujących. Aktywacja co {1}. falę.",
     "generals_abilities_desc_attack_1026": "Atak: Zapewnia jednostki pirackie podczas ataku na dziedziniec – ich liczba zależy od liczby zabitych obrońców i łącznej pojemności rabunkowej na skrzydłach.",
     "generals_abilities_desc_attack_1027": "Atak: Zwiększa siłę bojową jednostek atakujących w oparciu o ich łączną pojemność rabunkową w ramach fali. Aktywacja co {1}. falę.",
-    "generals_abilities_desc_attack_1030": "Atak: Zwiększa siłę bojową jednostek atakujących w bitwie o dziedziniec w oparciu o liczbę jednostek atakujących, które utracono podczas walki na murach.",
+    "generals_abilities_desc_attack_1030": "Atak: +{0}% siły bojowej jednostek atakujących w bitwie na dziedzińcu za każde 100 jednostek atakujących utraconych podczas walk na murach. Limit: 30%.",
     "generals_abilities_desc_attack_1034": "Atak: Zabija {0}% obrońców walczących wręcz na skrzydłach i frontalnej części muru podczas fali. Aktywacja co {1}. falę.",
     "generals_abilities_desc_attack_1035": "Atak: -{0}% potęgi w obronie wręcz  i -{1}% potęgi w obronie na dystans wrogich obrońców. Aktywacja co {2}. falę.",
     "generals_abilities_desc_defense_1001": "Obrona: +{0}% siły bojowej jednostek broniących w pojedynczej fali ataku. Aktywacja co {1}. falę.",
@@ -10853,7 +10859,7 @@
     "generals_abilities_desc_defense_1025": "Obrona: -{0}% do wszystkich efektów atakujących, które redukują dystansową siłę bojową jednostek broniących. Aktywacja co {1}. falę.",
     "generals_abilities_desc_defense_1026": "Obrona: Zapewnia jednostki pirackie podczas obrony dziedzińca – ich liczba zależy od liczby zabitych jednostek atakujących i łącznej pojemności rabunkowej na skrzydłach.",
     "generals_abilities_desc_defense_1027": "Obrona: Zwiększa siłę bojową jednostek broniących w oparciu o ich łączną pojemność rabunkową w ramach fali. Aktywacja co {1}. falę.",
-    "generals_abilities_desc_defense_1030": "Obrona: Zwiększa siłę bojową jednostek broniących w bitwie o dziedziniec w oparciu o liczbę jednostek broniących, które utracono podczas walki na murach.",
+    "generals_abilities_desc_defense_1030": "Obrona: +{0}% siły bojowej jednostek broniących w bitwie na dziedzińcu za każde 100 jednostek broniących utraconych podczas walk na murach. Limit: 30%.",
     "generals_abilities_desc_defense_1034": "Obrona: Zabija {0}% napastników walczących wręcz na obu skrzydłach i frontalnej części muru podczas fali. Aktywacja co {1}. falę.",
     "generals_abilities_desc_defense_1035": "Obrona: -{0}% potęgi w ataku wręcz  i -{1}% potęgi w ataku na dystans wrogich napastników. Aktywacja co {2}. falę.",
     "generals_abilities_desc_short_attack_1001": "Zwiększona siła bojowa jednostek atakujących",
@@ -11112,7 +11118,11 @@
     "allianceDefenseUnitAmount": "Limit wojsk wsparcia sojuszu",
     "equip_effect_description_allianceDefenseUnitAmountYardBonus": "+{0} do limitu wojsk wsparcia sojuszu",
     "dialog_stronghold_capacity": "Pojemność cytadeli (jedn.)",
-    "dialog_stronghold_header": "Schronienie dla jednostek"
+    "dialog_stronghold_header": "Schronienie dla jednostek",
+    "stronghold_modifyUnits_desc": "Dodaj jednostki do cytadeli lub usuń je z jej obsady",
+    "inStronghold": "W cytadeli",
+    "videoAd_button": "Nagrody za klipy reklamowe",
+    "dialog_offersDropdown_mbs_button": "Centrum społecznościowe"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% prędkości przemieszczania armii podczas podbojów",
@@ -14887,7 +14897,7 @@
     "merchantItem_relicItem_2265_name": "Zbroja kasztelana",
     "merchantItem_relicItem_2266_name": "Broń kasztelana",
     "merchantItem_relicItem_2267_name": "Hełm kasztelana",
-    "merchantItem_relicItem_2268_name": "Artefakt dowódcy",
+    "merchantItem_relicItem_2268_name": "Artefakt kasztelana",
     "merchantItem_relicItem_2269_name": "Bohater dowódcy władcy zamku",
     "merchantItem_relicGem_2270_name": "Klejnot dowódcy władcy zamku",
     "merchantItem_relicGem_2271_name": "Klejnot dowódcy władcy zamku",
@@ -15846,7 +15856,22 @@
     "equipment_unique_1177_desc": "Artefakt z miasta festiwali. Przekształca twoją armię w straż Księcia Karnawału.",
     "equipment_unique_1178_desc": "Łodzie te przewożą cenne ładunki – czasem towary, a czasem ludzi. Przekształca twój zamek w oblicze miasta tysiąca kanałów.",
     "equipment_unique_1179": "Zestaw szachowy Cesarza",
-    "equipment_unique_1179_desc": "Przekształca twój zamek w elegancki zestaw szachowy."
+    "equipment_unique_1179_desc": "Przekształca twój zamek w elegancki zestaw szachowy.",
+    "equipment_unique_952": "Topór myśliwski",
+    "equipment_unique_1184_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1184": "Saphire butterfly",
+    "equipment_unique_1183_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1183": "Saphire butterfly",
+    "equipment_unique_1182_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1182": "Saphire butterfly",
+    "equipment_unique_1181_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1181": "Saphire butterfly",
+    "equipment_unique_1180_desc": "Przekształca twój zamek w fortecę leprechaunów. Nie można osadzać klejnotów.",
+    "equipment_unique_1185_desc": "Przekształca twoją armię w szarżującą kawalerię wiewiórek.",
+    "equipment_unique_1186_desc": "Przekształca twój zamek w jesienną kryjówkę wiewiórek.",
+    "equipment_unique_1180": "Maska leprechauna",
+    "equipment_unique_1185": "Jesienne złoto",
+    "equipment_unique_1186": "Piękno jesieni"
   },
   "generic": {
     "activity": "Działania",
@@ -17760,10 +17785,19 @@
     "mysteryBox_boxName_WinterBox2022_3": "Epicka tajemnicza skrzynia (zima)",
     "mysteryBox_boxName_WinterBox2022_2": "Rzadka tajemnicza skrzynia (zima)",
     "mysteryBox_boxName_WinterBox2022_1": "Zwykła tajemnicza skrzynia (zima)",
-    "mysteryBox_boxName_SpringBox2023_4": "Legendary spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_3": "Epic spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_2": "Rare spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_1": "Common spring mystery box"
+    "mysteryBox_boxName_SpringBox2023_4": "Legendarna tajemnicza skrzynia (wiosna)",
+    "mysteryBox_boxName_SpringBox2023_3": "Epicka tajemnicza skrzynia (wiosna)",
+    "mysteryBox_boxName_SpringBox2023_2": "Niezwykła tajemnicza skrzynia (wiosna)",
+    "mysteryBox_boxName_SpringBox2023_1": "Zwykła tajemnicza skrzynia (wiosna)",
+    "required_colon": "Wymagane:",
+    "upgrade_buildingLevel_kingdom_singleBuilding": "{0} poz. {1} w {2}",
+    "placeholder_plus": "+ {0}",
+    "requiredBuilding_inKingdom_Classic": "Wymagane w Wielkim Cesarstwie:",
+    "condition_or_multiple_twoPlaceholders_notBold": "{0} lub {1}",
+    "noLootGained": "Nie zdobyto żadnych łupów",
+    "filters_category_112": "Lucky gold pot",
+    "currency_description_StPatrickLTPEToken": "This enchanted token returns unfathomed luck and wealth to its beholders. Can be exchanged for rewards at the Master Blacksmith for a limited time.",
+    "currency_name_StPatrickLTPEToken": "Lucky gold pot"
   },
   "help": {
     "help_location": "W tym miejscu masz globalny przegląd ważnych elementów zamku oraz wszystkich posterunków.",
@@ -22450,7 +22484,10 @@
       "generic_country_closedbeta": "Zamknięta beta",
       "generic_country_tempserver": "Zewnętrzne Krainy",
       "generic_country_battle": "Za horyzontem",
-      "language_native_ISO_XX": "International"
+      "language_native_ISO_XX": "International",
+      "generic_country_BE": "Belgia",
+      "generic_country_ID": "Indonezja",
+      "generic_country_PH": "Filipiny"
     },
     "currency": {
       "currency_euro": "€",

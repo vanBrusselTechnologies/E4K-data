@@ -1736,7 +1736,13 @@
     "deco_newKingBridgeGreen_name": "Vårlig kronemonument",
     "deco_xmasRollercoaster2_name": "Vinterlig sukkerstang-attraksjon",
     "deco_stPatricksWagon_name": "Shamrock-vogn",
-    "deco_valentinesLoveNest_name": "Kjærlighetsrede"
+    "deco_valentinesLoveNest_name": "Kjærlighetsrede",
+    "deco_FallenGiantRed_name": "Downfall of the giants",
+    "deco_FallenGiant_name": "Giants agony",
+    "deco_StPatrickMagicCave_name": "Magical rainbow cave",
+    "deco_StPatrickGoldCave_name": "Leprechauns gold stack",
+    "ci_appearance_StPatrickStables_flavour": "Follow the rainbows to find those magical stables. The owners can consider themselves as lucky as wealthy.",
+    "ci_appearance_StPatrickStables": "Emerald Stables"
   },
   "dialogs": {
     "dialog_festival_desc": "Bruk mat til å holde en festival for folket! Rekrutteringshastigheten vil markant økes ved alle slottene dine så lenge festivalen varer. Desto større festival, jo bedre effekt.",
@@ -9456,7 +9462,7 @@
     "ci_appearance_pirateBakery": "Sjørøvernes bakeri",
     "ci_appearance_pirateBakery_flavour": "Her bakes det kjeks med lang holdbarhet til lange sjøreiser.",
     "dialog_siegeMessage_outpostConqueredDistrict_header": "Utpost med distrikt erobret",
-    "dialog_legendTemple_unlockBuilding_conditionmultipleBuildingss": "Krever en av disse: {0}",
+    "dialog_legendTemple_unlockBuilding_conditionmultipleBuildings": "Krever en av disse i Det store riket: {0}",
     "merchantitem_resources_2104_name": "Overordnet honningpakke",
     "merchantitem_resources_2104_desc": "Inneholder {0} honning som blir sendt til slottets lager med det samme. Plassbegrensninger på lageret gjelder ikke.",
     "merchantitem_resources_2105_name": "Overordnet mjødpakke",
@@ -10835,7 +10841,7 @@
     "generals_abilities_desc_attack_1025": "Angrep: -{0} % for alle forsvarerens effekter som reduserer angrepsenhetenes avstandskampstyrke. Aktiveres hver {1}. bølge.",
     "generals_abilities_desc_attack_1026": "Angrep: Få piratenheter til angrepet på gårdsplassen, basert på antallet drepte forsvarere og total byttekapasitet på flankene.",
     "generals_abilities_desc_attack_1027": "Angrep: Økt kampstyrke for angrepsenheter basert på den totale byttekapasiteten deres i bølgen. Aktiveres hver {1}. bølge.",
-    "generals_abilities_desc_attack_1030": "Angrep: I kampen på gårdsplassen økes kampstyrken til angrepsenheter basert på antallet angrepsenheter som gikk tapt under kampen på muren.",
+    "generals_abilities_desc_attack_1030": "Angrep: +{0} % kampstyrke for angrepsenheter i gårdsplasskampen for hver 100. angrepsenhet som går tapt i murkampen. Begrenset til 30 %.",
     "generals_abilities_desc_attack_1034": "Angrep: Drep {0} % av alle nærkampforsvarere på fronten og flankene på muren under en bølge. Aktiveres hver {1}. bølge.",
     "generals_abilities_desc_attack_1035": "Angrep: -{0} % nærkampforsvarsmakt  og -{1} % avstandsforsvarsmakt for fiendtlige forsvarere. Aktiveres hver {2}. bølge.",
     "generals_abilities_desc_defense_1001": "Forsvar: +{0} % kampstyrke for forsvarsenheter under en enkelt angrepsbølge. Aktiveres hver {1}. bølge.",
@@ -10853,7 +10859,7 @@
     "generals_abilities_desc_defense_1025": "Forsvar: -{0} % for alle angriperens effekter som reduserer forsvarsenhetenes avstandskampstyrke. Aktiveres hver {1}. bølge.",
     "generals_abilities_desc_defense_1026": "Forsvar: Få piratenheter til forsvaret på gårdsplassen, basert på antallet drepte angripere og total byttekapasitet på flankene.",
     "generals_abilities_desc_defense_1027": "Forsvar: Økt kampstyrke for forsvarsenheter basert på den totale byttekapasiteten deres i bølgen. Aktiveres hver {1}. bølge.",
-    "generals_abilities_desc_defense_1030": "Forsvar: I kampen på gårdsplassen økes kampstyrken til forsvarsenheter basert på antallet forsvarsenheter som gikk tapt under kampen på muren.",
+    "generals_abilities_desc_defense_1030": "Forsvar: +{0} % kampstyrke for forsvarsenheter i gårdsplasskampen for hver 100. forsvarsenhet som går tapt i murkampen. Begrenset til 30 %.",
     "generals_abilities_desc_defense_1034": "Forsvar: Drep {0} % av alle nærkampangripere på fronten og flankene på muren under en bølge. Aktiveres hver {1}. bølge.",
     "generals_abilities_desc_defense_1035": "Forsvar: -{0} % nærkampangrepsmakt  og -{1} % avstandsangrepsmakt for fiendtlige angripere. Aktiveres hver {2}. bølge.",
     "generals_abilities_desc_short_attack_1001": "Økt kampstyrke for angrepsenheter",
@@ -11112,7 +11118,11 @@
     "allianceDefenseUnitAmount": "Kapasitet for alliansestøttetropper",
     "equip_effect_description_allianceDefenseUnitAmountYardBonus": "+{0} i kapasitet for alliansestøttetropper",
     "dialog_stronghold_capacity": "Enhetskapasitet",
-    "dialog_stronghold_header": "Ly for enheter"
+    "dialog_stronghold_header": "Ly for enheter",
+    "stronghold_modifyUnits_desc": "Legg til eller fjern valgte enheter fra borgen",
+    "inStronghold": "I borg",
+    "videoAd_button": "Videoreklame-belønninger",
+    "dialog_offersDropdown_mbs_button": "Fellesskapsside"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0} % reisehastighet for hær under erobringer",
@@ -14887,7 +14897,7 @@
     "merchantItem_relicItem_2265_name": "Slottsforvalterrustning",
     "merchantItem_relicItem_2266_name": "Slottsforvaltervåpen",
     "merchantItem_relicItem_2267_name": "Slottsforvalterhjelm",
-    "merchantItem_relicItem_2268_name": "Kommandørartefakt",
+    "merchantItem_relicItem_2268_name": "Slottsforvalterartefakt",
     "merchantItem_relicItem_2269_name": "Slottsherrekommandørhelt",
     "merchantItem_relicGem_2270_name": "Slottsherrekommandør-edelstein",
     "merchantItem_relicGem_2271_name": "Slottsherrekommandør-edelstein",
@@ -15846,7 +15856,22 @@
     "equipment_unique_1177_desc": "En gjenstand fra festivalbyen. Gjør hæren din om til karnevalprinsens garde.",
     "equipment_unique_1178_desc": "Båtene rommer kostbar last i form av både ting og mennesker. Gjør slottet ditt om til et bilde av byen med tusen kanaler.",
     "equipment_unique_1179": "Keiserens sjakkspill",
-    "equipment_unique_1179_desc": "Gjør slottet ditt om til et sjakkspill."
+    "equipment_unique_1179_desc": "Gjør slottet ditt om til et sjakkspill.",
+    "equipment_unique_952": "Jegerøks",
+    "equipment_unique_1184_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1184": "Saphire butterfly",
+    "equipment_unique_1183_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1183": "Saphire butterfly",
+    "equipment_unique_1182_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1182": "Saphire butterfly",
+    "equipment_unique_1181_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1181": "Saphire butterfly",
+    "equipment_unique_1180_desc": "Gjør slottet ditt til et leprechaun-fort. Edelsteiner kan ikke legges inn i gjenstanden.",
+    "equipment_unique_1185_desc": "Gjør hæren din om til et angripende ekornkavaleri.",
+    "equipment_unique_1186_desc": "Gjør slottet ditt om til et høstlig skjulested for ekorn.",
+    "equipment_unique_1180": "Leprechaun-maske",
+    "equipment_unique_1185": "Høstgull",
+    "equipment_unique_1186": "Årstidenes gavmildhet"
   },
   "generic": {
     "activity": "Aktivitet",
@@ -17760,10 +17785,19 @@
     "mysteryBox_boxName_WinterBox2022_3": "Episk vintermysterieboks",
     "mysteryBox_boxName_WinterBox2022_2": "Sjelden vintermysterieboks",
     "mysteryBox_boxName_WinterBox2022_1": "Vanlig vintermysterieboks",
-    "mysteryBox_boxName_SpringBox2023_4": "Legendary spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_3": "Epic spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_2": "Rare spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_1": "Common spring mystery box"
+    "mysteryBox_boxName_SpringBox2023_4": "Legendarisk vårmysterieboks",
+    "mysteryBox_boxName_SpringBox2023_3": "Episk vårmysterieboks",
+    "mysteryBox_boxName_SpringBox2023_2": "Sjelden vårmysterieboks",
+    "mysteryBox_boxName_SpringBox2023_1": "Vanlig vårmysterieboks",
+    "required_colon": "Påkrevd:",
+    "upgrade_buildingLevel_kingdom_singleBuilding": "{0} nivå {1} i {2}",
+    "placeholder_plus": "{0}+",
+    "requiredBuilding_inKingdom_Classic": "Påkrevd i Det store riket:",
+    "condition_or_multiple_twoPlaceholders_notBold": "{0} eller {1}",
+    "noLootGained": "Ingen bytte anskaffet",
+    "filters_category_112": "Lucky gold pot",
+    "currency_description_StPatrickLTPEToken": "This enchanted token returns unfathomed luck and wealth to its beholders. Can be exchanged for rewards at the Master Blacksmith for a limited time.",
+    "currency_name_StPatrickLTPEToken": "Lucky gold pot"
   },
   "help": {
     "help_location": "Her har du en global oversikt over viktig innhold fra slottet ditt og utpostene.",
@@ -22450,7 +22484,10 @@
       "generic_country_closedbeta": "Lukket beta",
       "generic_country_tempserver": "De ytre riker",
       "generic_country_battle": "Forbi horisonten",
-      "language_native_ISO_XX": "International"
+      "language_native_ISO_XX": "International",
+      "generic_country_BE": "Belgia",
+      "generic_country_ID": "Indonesia",
+      "generic_country_PH": "Filippinene"
     },
     "currency": {
       "currency_euro": "€",

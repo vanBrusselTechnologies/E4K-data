@@ -1736,7 +1736,13 @@
     "deco_newKingBridgeGreen_name": "Εαρινό μνημείο στέμματος",
     "deco_xmasRollercoaster2_name": "Χειμερινό τρενάκι ζαχαρωτών",
     "deco_stPatricksWagon_name": "Βαγόνι τριφυλλιού",
-    "deco_valentinesLoveNest_name": "Κρησφύγετο Μήνα μέλιτος"
+    "deco_valentinesLoveNest_name": "Κρησφύγετο Μήνα μέλιτος",
+    "deco_FallenGiantRed_name": "Downfall of the giants",
+    "deco_FallenGiant_name": "Giants agony",
+    "deco_StPatrickMagicCave_name": "Magical rainbow cave",
+    "deco_StPatrickGoldCave_name": "Leprechauns gold stack",
+    "ci_appearance_StPatrickStables_flavour": "Follow the rainbows to find those magical stables. The owners can consider themselves as lucky as wealthy.",
+    "ci_appearance_StPatrickStables": "Emerald Stables"
   },
   "dialogs": {
     "dialog_festival_desc": "Χρησιμοποιήστε τρόφιμα, για να διοργανώσετε μία γιορτή για τους πολίτες σας!\nΌσο διαρκεί η γιορτή, η ταχύτητα στρατολόγησης σ όλα τα κάστρα σας θ αυξηθεί. Όσο μεγαλύτερη είναι η γιορτή, τόσο μεγαλύτερη είναι και η επίδραση.",
@@ -9456,7 +9462,7 @@
     "ci_appearance_pirateBakery": "Φούρνος πειρατών",
     "ci_appearance_pirateBakery_flavour": "Φτιάχνει ανθεκτικές γαλέτες για τα μεγάλα ταξίδια στους ωκεανούς",
     "dialog_siegeMessage_outpostConqueredDistrict_header": "Καταλήφθηκε οχυρό με συνοικία",
-    "dialog_legendTemple_unlockBuilding_conditionmultipleBuildingss": "Απαιτεί οποιοδήποτε από τα παρακάτω: {0}",
+    "dialog_legendTemple_unlockBuilding_conditionmultipleBuildings": "Απαιτεί στο Η Μεγάλη Αυτοκρατορία οποιοδήποτε από αυτά: {0}",
     "merchantitem_resources_2104_name": "Πακέτο ανώτερου μελιού",
     "merchantitem_resources_2104_desc": "Περιέχει {0} μονάδες μελιού που θα πάνε κατευθείαν στην αποθήκη του κάστρου. Το όριο της αποθήκης του κάστρου δεν θα λαμβάνεται υπόψη.",
     "merchantitem_resources_2105_name": "Πακέτο ανώτερου υδρομελιού",
@@ -10835,7 +10841,7 @@
     "generals_abilities_desc_attack_1025": "Επίθεση: -{0}% σε όλες τις επιδράσεις υπερασπιστή που μειώνουν τη δύναμη μάχης εμβέλειας των μονάδων επίθεσης. Ενεργοποιείται κάθε {1}. κύμα.",
     "generals_abilities_desc_attack_1026": "Επίθεση: Κέρδισε μονάδες πειρατών για την επίθεση στην αυλή, με βάση τον αριθμό των υπερασπιστών που έχουν σκοτωθεί και τον συνολικό χώρο λείας στις πλευρές.",
     "generals_abilities_desc_attack_1027": "Επίθεση: Αύξησε τη δύναμη μάχης για μονάδες επίθεσης με βάση τον συνολικό τους χώρο λείας στο κύμα. Ενεργοποιείται κάθε {1}. κύμα.",
-    "generals_abilities_desc_attack_1030": "Επίθεση: Στη μάχη στην αυλή, αύξησε τη δύναμη μάχης για μονάδες επίθεσης, με βάση τον αριθμό των μονάδων επίθεσης που χάθηκαν στη διάρκεια της μάχης στο τείχος.",
+    "generals_abilities_desc_attack_1030": "Επίθεση: +{0}% δύναμη μάχης μονάδων επίθεσης στη μάχη στην αυλή για κάθε 100 μονάδες επίθεσης που χάνονται στη διάρκεια της μάχης στα τείχη. Όριο στο 30%.",
     "generals_abilities_desc_attack_1034": "Επίθεση: Σκότωσε {0}% όλων των υπερασπιστών κοντινής απόστασης στο μέτωπο και τις πλευρές του τείχους στη διάρκεια ενός κύματος. Ενεργοποιείται κάθε {1}. κύμα.",
     "generals_abilities_desc_attack_1035": "Επίθεση: -{0}% δύναμη άμυνας κοντινής απόστασης  και -{1}% δύναμη άμυνας εμβέλειας για εχθρικούς υπερασπιστές. Ενεργοποιείται κάθε{2}. κύμα.",
     "generals_abilities_desc_defense_1001": "Άμυνα: +{0}% δύναμη μάχης για μονάδες άμυνας στη διάρκεια ενός κύματος επίθεσης. Ενεργοποιείται κάθε {1}. κύμα.",
@@ -10853,7 +10859,7 @@
     "generals_abilities_desc_defense_1025": "Άμυνα: -{0}% σε όλες τις επιδράσεις επιτιθέμενου που μειώνουν τη δύναμη μάχης εμβέλειας των μονάδων άμυνας. Ενεργοποιείται κάθε{1}. κύμα.",
     "generals_abilities_desc_defense_1026": "Άμυνα: Κέρδισε πρόσθετες μονάδες πειρατών για την άμυνα στην αυλή, με βάση τον αριθμό των μονάδων επίθεσης που έχουν σκοτωθεί και τον συνολικό χώρο λείας στις πλευρές.",
     "generals_abilities_desc_defense_1027": "Άμυνα: Αύξησε τη δύναμη μάχης για μονάδες άμυνας με βάση τον συνολικό τους χώρο λείας στο κύμα. Ενεργοποιείται κάθε {1}. κύμα.",
-    "generals_abilities_desc_defense_1030": "Άμυνα: Στη μάχη στην αυλή, αύξησε τη δύναμη μάχης για μονάδες άμυνας, με βάση τον αριθμό των μονάδων άμυνας που χάθηκαν στη διάρκεια της μάχης στο τείχος.",
+    "generals_abilities_desc_defense_1030": "Άμυνα: +{0}% δύναμη μάχης μονάδων άμυνας στη μάχη στην αυλή για κάθε 100 μονάδες άμυνας που χάνονται στη διάρκεια της μάχης στα τείχη. Όριο στο 30%.",
     "generals_abilities_desc_defense_1034": "Άμυνα: Σκότωσε {0}% όλων των επιτιθέμενων κοντινής απόστασης στο μέτωπο και τις δύο πλευρές στη διάρκεια ενός κύματος. Ενεργοποιείται κάθε {1}. κύμα.",
     "generals_abilities_desc_defense_1035": "Άμυνα: -{0}% δύναμη επίθεσης κοντινής απόστασης  και -{1}% δύναμη επίθεσης εμβέλειας για εχθρικούς επιτιθέμενους. Ενεργοποιείται κάθε{2}. κύμα.",
     "generals_abilities_desc_short_attack_1001": "Αυξημένη δύναμη μάχης για μονάδες επίθεσης",
@@ -11112,7 +11118,11 @@
     "allianceDefenseUnitAmount": "Χωρητικότητα στρατευμάτων υποστήριξης συμμαχίας",
     "equip_effect_description_allianceDefenseUnitAmountYardBonus": "+{0} στη χωρητικότητα στρατευμάτων υποστήριξης συμμαχίας",
     "dialog_stronghold_capacity": "Xωρητικότητα μονάδωv",
-    "dialog_stronghold_header": "Καταφύγιο μονάδων"
+    "dialog_stronghold_header": "Καταφύγιο μονάδων",
+    "stronghold_modifyUnits_desc": "Προσθήκη ή αφαίρεση επιλεγμένων μονάδων από το πυργόσπιτο",
+    "inStronghold": "Στο πυργόσπιτο",
+    "videoAd_button": "Ανταμοιβές διαφημίσεων",
+    "dialog_offersDropdown_mbs_button": "Κόμβος της κοινότητας"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% ταχύτητα ταξιδιού στρατού κατά τη διάρκεια κατακτήσεων",
@@ -14887,7 +14897,7 @@
     "merchantItem_relicItem_2265_name": "Πανοπλία πυργοδεσπότη",
     "merchantItem_relicItem_2266_name": "Όπλο πυργοδεσπότη",
     "merchantItem_relicItem_2267_name": "Κράνος πυργοδεσπότη",
-    "merchantItem_relicItem_2268_name": "Αντικείμενο διοικητή",
+    "merchantItem_relicItem_2268_name": "Αντικείμενο πυργοδεσπότη",
     "merchantItem_relicItem_2269_name": "Ήρωας διοικητή άρχοντα κάστρου",
     "merchantItem_relicGem_2270_name": "Πετράδι διοικητή άρχοντα κάστρου",
     "merchantItem_relicGem_2271_name": "Πετράδι διοικητή άρχοντα κάστρου",
@@ -15846,7 +15856,22 @@
     "equipment_unique_1177_desc": "Αντικείμενο από την πόλη καρναβαλιού. Μετατρέπει τον στρατό σου στη φρουρά του Πρίγκιπα καρναβαλιού.",
     "equipment_unique_1178_desc": "Τα πλοία μεταφέρουν πολύτιμο φορτίο, αντικείμενα και ανθρώπους. Μετατρέπει το κάστρο σου σε εικόνα της πόλης των χιλίων καναλιών.",
     "equipment_unique_1179": "Σετ σκακιού αυτοκράτορα",
-    "equipment_unique_1179_desc": "Μετατρέπει το κάστρο σου σε στυλ πολύτιμης σκακιέρας."
+    "equipment_unique_1179_desc": "Μετατρέπει το κάστρο σου σε στυλ πολύτιμης σκακιέρας.",
+    "equipment_unique_952": "Τσεκούρι κυνηγού",
+    "equipment_unique_1184_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1184": "Saphire butterfly",
+    "equipment_unique_1183_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1183": "Saphire butterfly",
+    "equipment_unique_1182_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1182": "Saphire butterfly",
+    "equipment_unique_1181_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1181": "Saphire butterfly",
+    "equipment_unique_1180_desc": "Μεταμορφώνει το κάστρο σου σε φρούριο ξωτικών. Δεν μπορείς να ενσωματώσεις πετράδια.",
+    "equipment_unique_1185_desc": "Μετατρέπει τον στρατό σου σε επιτιθέμενο ιππικό σκίουρων.",
+    "equipment_unique_1186_desc": "Μετατρέπει το κάστρο σου σε φθινοπωρινό κρησφύγετο σκίουρων.",
+    "equipment_unique_1180": "Μάσκα του ξωτικού",
+    "equipment_unique_1185": "Φθινοπωρινός χρυσός",
+    "equipment_unique_1186": "Επικήρυξη των εποχών"
   },
   "generic": {
     "activity": "Δραστηριότητα",
@@ -17760,10 +17785,19 @@
     "mysteryBox_boxName_WinterBox2022_3": "Επικό χειμερινό μυστηριώδες κιβώτιο",
     "mysteryBox_boxName_WinterBox2022_2": "Σπάνιο χειμερινό μυστηριώδες κιβώτιο",
     "mysteryBox_boxName_WinterBox2022_1": "Κοινό χειμερινό μυστηριώδες κιβώτιο",
-    "mysteryBox_boxName_SpringBox2023_4": "Legendary spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_3": "Epic spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_2": "Rare spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_1": "Common spring mystery box"
+    "mysteryBox_boxName_SpringBox2023_4": "Θρυλικό εαρινό μυστηριώδες κιβώτιο",
+    "mysteryBox_boxName_SpringBox2023_3": "Επικό εαρινό μυστηριώδες κιβώτιο",
+    "mysteryBox_boxName_SpringBox2023_2": "Σπάνιο εαρινό μυστηριώδες κιβώτιο",
+    "mysteryBox_boxName_SpringBox2023_1": "Κοινό εαρινό μυστηριώδες κιβώτιο",
+    "required_colon": "Απαιτείται:",
+    "upgrade_buildingLevel_kingdom_singleBuilding": "{0} επιπέδου {1} στο {2}",
+    "placeholder_plus": "{0}+",
+    "requiredBuilding_inKingdom_Classic": "Απαιτείται στο Η Μεγάλη Αυτοκρατορία:",
+    "condition_or_multiple_twoPlaceholders_notBold": "{0} ή {1}",
+    "noLootGained": "Δεν κέρδισες λεία",
+    "filters_category_112": "Lucky gold pot",
+    "currency_description_StPatrickLTPEToken": "This enchanted token returns unfathomed luck and wealth to its beholders. Can be exchanged for rewards at the Master Blacksmith for a limited time.",
+    "currency_name_StPatrickLTPEToken": "Lucky gold pot"
   },
   "help": {
     "help_location": "Εδώ έχετε παγκόσμια επισκόπηση των σημαντικών περιεχομένων του κάστρου σας και των οχυρών σας.",
@@ -22450,7 +22484,10 @@
       "generic_country_closedbeta": "Έκλεισε το beta",
       "generic_country_tempserver": "Απώτερα Βασίλεια",
       "generic_country_battle": "Πέρα από τον Ορίζοντα",
-      "language_native_ISO_XX": "International"
+      "language_native_ISO_XX": "International",
+      "generic_country_BE": "Βέλγιο",
+      "generic_country_ID": "Ινδονησία",
+      "generic_country_PH": "Φιλιππίνες"
     },
     "currency": {
       "currency_euro": "€",

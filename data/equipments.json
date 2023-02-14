@@ -11365,6 +11365,19 @@
       "skinID": "54"
     },
     {
+      "equipmentID": "1179",
+      "comment1": "New King LTPE 2023",
+      "comment2": "EmperorsChessSet",
+      "wearerID": "1",
+      "slotID": "5",
+      "reuseAssetOfEquipmentID": "750",
+      "effects": "335&amp;7",
+      "duration": "336",
+      "mightValue": "10",
+      "canSlotGem": "1",
+      "skinID": "42"
+    },
+    {
       "equipmentID": "1151",
       "comment1": "Sales Days Content October 2022",
       "comment2": "SinglesDay22General",
@@ -11577,6 +11590,122 @@
       "mightValue": "0",
       "canSlotGem": "1",
       "skinID": "100"
+    },
+    {
+      "equipmentID": "1170",
+      "comment1": "Sales Days Content January 2023",
+      "comment2": "StPatrickBaron",
+      "wearerID": "1",
+      "slotID": "5",
+      "effects": "201&amp;20,202&amp;15,13&amp;20",
+      "duration": "12",
+      "mightValue": "0",
+      "canSlotGem": "1",
+      "skinID": "101"
+    },
+    {
+      "equipmentID": "1171",
+      "comment1": "Sales Days Content January 2023",
+      "comment2": "StPatrickBaron",
+      "wearerID": "1",
+      "slotID": "5",
+      "reuseAssetOfEquipmentID": "1170",
+      "effects": "201&amp;20,202&amp;15,13&amp;20",
+      "duration": "168",
+      "mightValue": "0",
+      "canSlotGem": "1",
+      "skinID": "101"
+    },
+    {
+      "equipmentID": "1172",
+      "comment1": "Sales Days Content January 2023",
+      "comment2": "StPatrickBaron",
+      "wearerID": "1",
+      "slotID": "5",
+      "reuseAssetOfEquipmentID": "1170",
+      "effects": "201&amp;20,202&amp;15,13&amp;20",
+      "duration": "336",
+      "mightValue": "0",
+      "canSlotGem": "1",
+      "skinID": "101"
+    },
+    {
+      "equipmentID": "1173",
+      "comment1": "Sales Days Content January 2023",
+      "comment2": "GeneralCarnival",
+      "wearerID": "2",
+      "slotID": "5",
+      "reuseAssetOfEquipmentID": "967",
+      "effects": "24&amp;4,23&amp;15,66&amp;5",
+      "duration": "12",
+      "mightValue": "0",
+      "canSlotGem": "1",
+      "skinID": "83"
+    },
+    {
+      "equipmentID": "1174",
+      "comment1": "Sales Days Content January 2023",
+      "comment2": "GeneralCarnival",
+      "wearerID": "2",
+      "slotID": "5",
+      "reuseAssetOfEquipmentID": "967",
+      "effects": "24&amp;4,23&amp;15,66&amp;5",
+      "duration": "48",
+      "mightValue": "0",
+      "canSlotGem": "1",
+      "skinID": "83"
+    },
+    {
+      "equipmentID": "1175",
+      "comment1": "Sales Days Content January 2023",
+      "comment2": "GeneralCarnival",
+      "wearerID": "2",
+      "slotID": "5",
+      "reuseAssetOfEquipmentID": "967",
+      "effects": "24&amp;4,23&amp;15,66&amp;5",
+      "duration": "336",
+      "mightValue": "0",
+      "canSlotGem": "1",
+      "skinID": "83"
+    },
+    {
+      "equipmentID": "1176",
+      "comment1": "Sales Days Content January 2023",
+      "comment2": "BaronCarnival",
+      "wearerID": "1",
+      "slotID": "5",
+      "reuseAssetOfEquipmentID": "970",
+      "effects": "41&amp;50000,37&amp;5000,38&amp;3",
+      "duration": "12",
+      "mightValue": "0",
+      "canSlotGem": "1",
+      "skinID": "84"
+    },
+    {
+      "equipmentID": "1177",
+      "comment1": "Sales Days Content January 2023",
+      "comment2": "BaronCarnival",
+      "wearerID": "1",
+      "slotID": "5",
+      "reuseAssetOfEquipmentID": "970",
+      "effects": "41&amp;50000,37&amp;5000,38&amp;3",
+      "duration": "48",
+      "mightValue": "0",
+      "canSlotGem": "1",
+      "skinID": "84"
+    },
+    {
+      "equipmentID": "1178",
+      "comment1": "Sales Days Content January 2023",
+      "comment2": "BaronCarnival",
+      "wearerID": "1",
+      "slotID": "5",
+      "reuseAssetOfEquipmentID": "970",
+      "effects": "41&amp;50000,37&amp;5000,38&amp;3",
+      "duration": "336",
+      "mightValue": "0",
+      "canSlotGem": "1",
+      "skinID": "84"
     }
   ]
 }

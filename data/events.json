@@ -973,6 +973,22 @@
       "eventType": "Loyalty",
       "minLevel": "2",
       "maxLevel": "99"
+    },
+    {
+      "eventID": "119",
+      "comment1": "Loyalty",
+      "comment2": "Mobile Browser Shop - Standard",
+      "eventType": "MobileBrowserShopStandard",
+      "minLevel": "20",
+      "maxLevel": "99"
+    },
+    {
+      "eventID": "120",
+      "comment1": "Loyalty",
+      "comment2": "Mobile Browser Shop - Special",
+      "eventType": "MobileBrowserShopSpecial",
+      "minLevel": "20",
+      "maxLevel": "99"
     }
   ]
 }

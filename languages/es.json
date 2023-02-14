@@ -1736,7 +1736,13 @@
     "deco_newKingBridgeGreen_name": "Monumento vernal a la corona",
     "deco_xmasRollercoaster2_name": "Montaña rusa con bastones de caramelo del invierno",
     "deco_stPatricksWagon_name": "Carro de tréboles",
-    "deco_valentinesLoveNest_name": "Nidito de luna de miel"
+    "deco_valentinesLoveNest_name": "Nidito de luna de miel",
+    "deco_FallenGiantRed_name": "Downfall of the giants",
+    "deco_FallenGiant_name": "Giants agony",
+    "deco_StPatrickMagicCave_name": "Magical rainbow cave",
+    "deco_StPatrickGoldCave_name": "Leprechauns gold stack",
+    "ci_appearance_StPatrickStables_flavour": "Follow the rainbows to find those magical stables. The owners can consider themselves as lucky as wealthy.",
+    "ci_appearance_StPatrickStables": "Emerald Stables"
   },
   "dialogs": {
     "dialog_festival_desc": "¡Usa comida para celebrar un festín para tus ciudadanos! La velocidad de reclutamiento aumentará considerablemente en todos tus castillos mientras dure el festín. Mientras más grande sea el festín, mayor será el efecto.",
@@ -9456,7 +9462,7 @@
     "ci_appearance_pirateBakery": "Panadería pirata",
     "ci_appearance_pirateBakery_flavour": "Aquí se hornean galletas saladas bien duras para las largas travesías marinas.",
     "dialog_siegeMessage_outpostConqueredDistrict_header": "Fortín con distrito capturado",
-    "dialog_legendTemple_unlockBuilding_conditionmultipleBuildingss": "Requiere cualquiera de estos: {0}",
+    "dialog_legendTemple_unlockBuilding_conditionmultipleBuildings": "Se necesita cualquiera de estos en el Gran Imperio: {0}",
     "merchantitem_resources_2104_name": "Paquete de miel superior",
     "merchantitem_resources_2104_desc": "Contiene {0} de miel que se enviará inmediatamente al depósito. No se tendrá en cuenta su límite de almacenamiento.",
     "merchantitem_resources_2105_name": "Paquete de hidromiel superior",
@@ -10835,7 +10841,7 @@
     "generals_abilities_desc_attack_1025": "Ataque: -{0} % para todos los efectos de defensa que reducen la fuerza de combate a distancia de las unidades de ataque. Se activa cada {1}.ª oleada.",
     "generals_abilities_desc_attack_1026": "Ataque: Obtienes unidades piratas en el ataque al patio en función del número de defensores eliminados y la capacidad de saqueo total en los flancos.",
     "generals_abilities_desc_attack_1027": "Ataque: Aumenta la fuerza de combate de las unidades de ataque según su capacidad de saqueo total en la oleada. Se activa cada {1}.ª oleada.",
-    "generals_abilities_desc_attack_1030": "Ataque: En la batalla del patio, aumenta la fuerza de combate de las unidades de ataque según la cantidad de ellas que se perdió en el combate en los muros.",
+    "generals_abilities_desc_attack_1030": "Ataque: +{0} % de fuerza de combate para las unidades de ataque en la batalla del patio por cada 100 unidades de ataque perdidas en el combate en los muros. Limitado al 30 %.",
     "generals_abilities_desc_attack_1034": "Ataque: Mata al {0} % de todos los defensores cuerpo a cuerpo en el frente y los flancos del muro durante una oleada. Se activa cada {1}.ª oleada.",
     "generals_abilities_desc_attack_1035": "Ataque: -{0} % de poder de defensa cuerpo a cuerpo y -{1} % de poder de defensa a distancia para los defensores enemigos. Se activa cada {2}.ª oleada.",
     "generals_abilities_desc_defense_1001": "Defensa: +{0} % de fuerza de combate para las unidades de defensa durante una oleada de ataque. Se activa cada {1}.ª oleada.",
@@ -10853,7 +10859,7 @@
     "generals_abilities_desc_defense_1025": "Defensa: -{0} % para todos los efectos de ataque que reducen la fuerza de combate a distancia de las unidades de defensa. Se activa cada {1}.ª oleada.",
     "generals_abilities_desc_defense_1026": "Defensa: Obtienes unidades piratas para la defensa del patio en función del número de unidades de ataque eliminadas y la capacidad de saqueo total en los flancos.",
     "generals_abilities_desc_defense_1027": "Defensa: Aumenta la fuerza de combate de las unidades de defensa según su capacidad de saqueo total en la oleada. Se activa cada {1}.ª oleada.",
-    "generals_abilities_desc_defense_1030": "Defensa: En la batalla del patio, aumenta la fuerza de combate de las unidades de defensa según la cantidad de ellas que se perdió en el combate en los muros.",
+    "generals_abilities_desc_defense_1030": "Defensa: +{0} % de fuerza de combate para las unidades de defensa en la batalla del patio por cada 100 unidades de defensa perdidas en el combate en los muros. Limitado al 30 %.",
     "generals_abilities_desc_defense_1034": "Defensa: Mata al {0} % de todos los atacantes cuerpo a cuerpo en el frente y los flancos del muro durante una oleada. Se activa cada {1}.ª oleada.",
     "generals_abilities_desc_defense_1035": "Defensa: -{0} % de poder de ataque cuerpo a cuerpo y -{1} % de poder de ataque a distancia para los atacantes enemigos. Se activa cada {2}.ª oleada.",
     "generals_abilities_desc_short_attack_1001": "Aumenta la fuerza de combate de las unidades de ataque.",
@@ -11112,7 +11118,11 @@
     "allianceDefenseUnitAmount": "Capacidad de tropas de ayudas de alianza",
     "equip_effect_description_allianceDefenseUnitAmountYardBonus": "Capacidad de tropas de ayudas de alianza: +{0}",
     "dialog_stronghold_capacity": "Capacidad de unidades",
-    "dialog_stronghold_header": "Refugio para unidades"
+    "dialog_stronghold_header": "Refugio para unidades",
+    "stronghold_modifyUnits_desc": "Añade o elimina las unidades seleccionadas de la fortificación.",
+    "inStronghold": "En fortificación",
+    "videoAd_button": "Recompensas de anuncios",
+    "dialog_offersDropdown_mbs_button": "Centro comunitario"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "Velocidad de viaje del ejército en las conquistas: +{0} %",
@@ -14887,7 +14897,7 @@
     "merchantItem_relicItem_2265_name": "Armadura de castellano",
     "merchantItem_relicItem_2266_name": "Arma de castellano",
     "merchantItem_relicItem_2267_name": "Yelmo de castellano",
-    "merchantItem_relicItem_2268_name": "Artefacto de comandante",
+    "merchantItem_relicItem_2268_name": "Artefacto de castellano",
     "merchantItem_relicItem_2269_name": "Héroe comandante Lord de castillo",
     "merchantItem_relicGem_2270_name": "Gema de comandante Lord de castillo",
     "merchantItem_relicGem_2271_name": "Gema de comandante Lord de castillo",
@@ -15846,7 +15856,22 @@
     "equipment_unique_1177_desc": "Un objeto de la ciudad del festival. Transforma tus tropas en la guardia del príncipe del carnaval.",
     "equipment_unique_1178_desc": "Estos botes transportan cargamentos de valor, tanto objetos como seres humanos. Transforma tu castillo en un reflejo de la ciudad de los mil canales.",
     "equipment_unique_1179": "Piezas de ajedrez del emperador",
-    "equipment_unique_1179_desc": "Transforma tu castillo en un precioso tablero de ajedrez."
+    "equipment_unique_1179_desc": "Transforma tu castillo en un precioso tablero de ajedrez.",
+    "equipment_unique_952": "Hacha de caza",
+    "equipment_unique_1184_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1184": "Saphire butterfly",
+    "equipment_unique_1183_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1183": "Saphire butterfly",
+    "equipment_unique_1182_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1182": "Saphire butterfly",
+    "equipment_unique_1181_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1181": "Saphire butterfly",
+    "equipment_unique_1180_desc": "Tu castillo adopta el aspecto de la fortaleza que tendría un duende. No se pueden incrustar gemas.",
+    "equipment_unique_1185_desc": "Transforma tus tropas en una audaz caballería de ardillas.",
+    "equipment_unique_1186_desc": "Transforma tu castillo en un escondrijo de ardillas otoñal.",
+    "equipment_unique_1180": "Máscara de duende",
+    "equipment_unique_1185": "Oro otoñal",
+    "equipment_unique_1186": "Regalo de las estaciones"
   },
   "generic": {
     "activity": "Actividad",
@@ -17760,10 +17785,19 @@
     "mysteryBox_boxName_WinterBox2022_3": "Caja misteriosa invernal épica",
     "mysteryBox_boxName_WinterBox2022_2": "Caja misteriosa invernal rara",
     "mysteryBox_boxName_WinterBox2022_1": "Caja misteriosa invernal común",
-    "mysteryBox_boxName_SpringBox2023_4": "Legendary spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_3": "Epic spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_2": "Rare spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_1": "Common spring mystery box"
+    "mysteryBox_boxName_SpringBox2023_4": "Caja misteriosa vernal legendaria",
+    "mysteryBox_boxName_SpringBox2023_3": "Caja misteriosa vernal épica",
+    "mysteryBox_boxName_SpringBox2023_2": "Caja misteriosa vernal rara",
+    "mysteryBox_boxName_SpringBox2023_1": "Caja misteriosa vernal común",
+    "required_colon": "Requisito:",
+    "upgrade_buildingLevel_kingdom_singleBuilding": "{0} de nivel {1} aquí: {2}",
+    "placeholder_plus": "Más de {0}",
+    "requiredBuilding_inKingdom_Classic": "Se necesita en el Gran Imperio:",
+    "condition_or_multiple_twoPlaceholders_notBold": "{0} o {1}",
+    "noLootGained": "No se ha obtenido botín",
+    "filters_category_112": "Lucky gold pot",
+    "currency_description_StPatrickLTPEToken": "This enchanted token returns unfathomed luck and wealth to its beholders. Can be exchanged for rewards at the Master Blacksmith for a limited time.",
+    "currency_name_StPatrickLTPEToken": "Lucky gold pot"
   },
   "help": {
     "help_location": "Aquí tienes una vista global del contenido importante de tu castillo y de todas tus bases remotas.",
@@ -22450,7 +22484,10 @@
       "generic_country_closedbeta": "Beta cerrada",
       "generic_country_tempserver": "Reinos lejanos",
       "generic_country_battle": "Más allá del horizonte",
-      "language_native_ISO_XX": "International"
+      "language_native_ISO_XX": "International",
+      "generic_country_BE": "Bélgica",
+      "generic_country_ID": "Indonesia",
+      "generic_country_PH": "Filipinas"
     },
     "currency": {
       "currency_euro": "€",

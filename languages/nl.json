@@ -1736,7 +1736,13 @@
     "deco_newKingBridgeGreen_name": "Kroonmonument voorjaar",
     "deco_xmasRollercoaster2_name": "Winterse zuurstokkenachtbaan",
     "deco_stPatricksWagon_name": "Klaverwagen",
-    "deco_valentinesLoveNest_name": "Huwelijksreisstekkie"
+    "deco_valentinesLoveNest_name": "Huwelijksreisstekkie",
+    "deco_FallenGiantRed_name": "Downfall of the giants",
+    "deco_FallenGiant_name": "Giants agony",
+    "deco_StPatrickMagicCave_name": "Magical rainbow cave",
+    "deco_StPatrickGoldCave_name": "Leprechauns gold stack",
+    "ci_appearance_StPatrickStables_flavour": "Follow the rainbows to find those magical stables. The owners can consider themselves as lucky as wealthy.",
+    "ci_appearance_StPatrickStables": "Emerald Stables"
   },
   "dialogs": {
     "dialog_festival_desc": "Gebruik voedsel om een festival te geven voor uw burgers! Zolang het festival duurt, wordt er in al uw kastelen aanmerkelijk sneller gerekruteerd. Hoe groter het festival, hoe groter het effect.",
@@ -9456,7 +9462,7 @@
     "ci_appearance_pirateBakery": "Piratenbakkerij",
     "ci_appearance_pirateBakery_flavour": "Bakt stevig scheepsbeschuit voor de lange oceaanreizen",
     "dialog_siegeMessage_outpostConqueredDistrict_header": "Buitenpost met district veroverd",
-    "dialog_legendTemple_unlockBuilding_conditionmultipleBuildingss": "Vereist een van de volgende: {0}",
+    "dialog_legendTemple_unlockBuilding_conditionmultipleBuildings": "Vereist een van de volgende in het Grote Rijk: {0}",
     "merchantitem_resources_2104_name": "Superieur honingpakket",
     "merchantitem_resources_2104_desc": "Bevat {0} honing die rechtstreeks naar de opslag van je kasteel gestuurd wordt. De opslaglimiet wordt hierbij genegeerd.",
     "merchantitem_resources_2105_name": "Superieur honingwijnpakket",
@@ -10835,7 +10841,7 @@
     "generals_abilities_desc_attack_1025": "Aanval: -{0}% voor alle effecten van de verdedigers die de afstandsvechtkracht van de aanvallende eenheden verlagen. Wordt elke {1}e golf geactiveerd.",
     "generals_abilities_desc_attack_1026": "Aanval: krijg pirateneenheden voor de binnenplaatsaanval, gebaseerd op het aantal verdedigende eenheden dat wordt gedood en de totale buitcapaciteit op de flanken.",
     "generals_abilities_desc_attack_1027": "Aanval: verhoog de vechtkracht van aanvallende eenheden op basis van hun totale buitcapaciteit in de golf. Wordt elke {1}e golf geactiveerd.",
-    "generals_abilities_desc_attack_1030": "Aanval: verhoog bij het binnenplaatsgevecht de vechtkracht van aanvallende eenheden op basis van het aantal aanvallende eenheden dat sneuvelt tijdens het muurgevecht.",
+    "generals_abilities_desc_attack_1030": "Aanval: +{0}% aanvallende vechtkracht in het binnenplaatsgevecht voor elke 100 aanvallende eenheden die verloren gaan tijdens het muurgevecht. Limiet op 30%.",
     "generals_abilities_desc_attack_1034": "Aanval: dood {0}% van alle mêleeverdedigers op de voorkant en flanken van de muur tijdens een golf. Wordt elke {1}e golf geactiveerd.",
     "generals_abilities_desc_attack_1035": "Aanval: -{0}% mêleeverdedigingskracht  en -{1}% afstandsverdedigingskracht voor vijandelijke verdedigers. Wordt elke {2}e golf geactiveerd.",
     "generals_abilities_desc_defense_1001": "Verdediging: +{0}% vechtkracht voor verdedigende eenheden tijdens een enkele aanvalsgolf. Wordt elke {1}e golf geactiveerd.",
@@ -10853,7 +10859,7 @@
     "generals_abilities_desc_defense_1025": "Verdediging: -{0}% voor alle effecten van de aanvallers die de afstandsvechtkracht van de verdedigende eenheden verlagen. Wordt elke {1}e golf geactiveerd.",
     "generals_abilities_desc_defense_1026": "Verdediging: krijg pirateneenheden voor de binnenplaatsaanval, gebaseerd op het aantal aanvallende eenheden dat wordt gedood en de totale buitcapaciteit op de flanken.",
     "generals_abilities_desc_defense_1027": "Verdediging: verhoog de vechtkracht van verdedigende eenheden op basis van hun totale buitcapaciteit in de golf. Wordt elke {1}e golf geactiveerd.",
-    "generals_abilities_desc_defense_1030": "Verdediging: verhoog bij het binnenplaatsgevecht de vechtkracht van verdedigende eenheden op basis van het aantal verdedigende eenheden dat sneuvelt tijdens het muurgevecht.",
+    "generals_abilities_desc_defense_1030": "Verdediging: +{0}% verdedigende vechtkracht in het binnenplaatsgevecht voor elke 100 verdedigende eenheden die verloren gaan tijdens het muurgevecht. Limiet op 30%.",
     "generals_abilities_desc_defense_1034": "Verdediging: dood {0}% van alle mêlee-aanvallers op de voorkant en beide flanken van de muur tijdens een golf. Wordt elke {1}e golf geactiveerd.",
     "generals_abilities_desc_defense_1035": "Verdediging: -{0}% mêlee-aanvalskracht  en -{1}% afstandsaanvalskracht voor vijandelijke aanvallers. Wordt elke {2}e golf geactiveerd.",
     "generals_abilities_desc_short_attack_1001": "Meer vechtkracht voor aanvallende eenheden",
@@ -11112,7 +11118,11 @@
     "allianceDefenseUnitAmount": "Troepencapaciteit bondgenootschapsondersteuning",
     "equip_effect_description_allianceDefenseUnitAmountYardBonus": "Troepencapaciteit bondgenootschapsondersteuning",
     "dialog_stronghold_capacity": "Aantal eenheden",
-    "dialog_stronghold_header": "Eenhedenschuilplaats"
+    "dialog_stronghold_header": "Eenhedenschuilplaats",
+    "stronghold_modifyUnits_desc": "Voeg geselecteerde eenheden toe aan het bastion of verwijder ze",
+    "inStronghold": "In bastion",
+    "videoAd_button": "Beloningen advertenties",
+    "dialog_offersDropdown_mbs_button": "Communitycentrum"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% reissnelheid leger tijdens veroveringen",
@@ -14887,7 +14897,7 @@
     "merchantItem_relicItem_2265_name": "Burchtvoogdenpantser",
     "merchantItem_relicItem_2266_name": "Burchtvoogdenwapen",
     "merchantItem_relicItem_2267_name": "Burchtvoogdenhelm",
-    "merchantItem_relicItem_2268_name": "Commandantenartefact",
+    "merchantItem_relicItem_2268_name": "Burchtvoogdenartefact",
     "merchantItem_relicItem_2269_name": "Kasteelheercommandantheld",
     "merchantItem_relicGem_2270_name": "Kasteelheercommandantedelsteen",
     "merchantItem_relicGem_2271_name": "Kasteelheercommandantedelsteen",
@@ -15846,7 +15856,22 @@
     "equipment_unique_1177_desc": "Een item van de festivalstad. Transformeert je leger in de wachter van de carnavalsprins.",
     "equipment_unique_1178_desc": "De boten vervoeren kostbare vracht, zowel voorwerpen als mensen. Transformeert je kasteel tot een weergave van de stad van duizend grachten.",
     "equipment_unique_1179": "Schaakset van de keizer",
-    "equipment_unique_1179_desc": "Verandert je kasteel in de stijl van een kostbare schaakset."
+    "equipment_unique_1179_desc": "Verandert je kasteel in de stijl van een kostbare schaakset.",
+    "equipment_unique_952": "Jagersbijl",
+    "equipment_unique_1184_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1184": "Saphire butterfly",
+    "equipment_unique_1183_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1183": "Saphire butterfly",
+    "equipment_unique_1182_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1182": "Saphire butterfly",
+    "equipment_unique_1181_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1181": "Saphire butterfly",
+    "equipment_unique_1180_desc": "Transformeert je kasteel in een fort van de leprechauns. Edelstenen kunnen niet worden ingelegd.",
+    "equipment_unique_1185_desc": "Verandert je kasteel in een aanvallende eekhoorncavalerie.",
+    "equipment_unique_1186_desc": "Verandert je kasteel in een eekhoornschuilplaats voor de herfst.",
+    "equipment_unique_1180": "Masker van de Ierse kabouter",
+    "equipment_unique_1185": "Herfstgoud",
+    "equipment_unique_1186": "Premie der seizoenen"
   },
   "generic": {
     "activity": "Activiteit",
@@ -17760,10 +17785,19 @@
     "mysteryBox_boxName_WinterBox2022_3": "Epische winterse geheimzinnige kist",
     "mysteryBox_boxName_WinterBox2022_2": "Zeldzame winterse geheimzinnige kist",
     "mysteryBox_boxName_WinterBox2022_1": "Gewone winterse geheimzinnige kist",
-    "mysteryBox_boxName_SpringBox2023_4": "Legendary spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_3": "Epic spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_2": "Rare spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_1": "Common spring mystery box"
+    "mysteryBox_boxName_SpringBox2023_4": "Legendarische geheimzinnige voorjaarskist",
+    "mysteryBox_boxName_SpringBox2023_3": "Epische geheimzinnige voorjaarskist",
+    "mysteryBox_boxName_SpringBox2023_2": "Zeldzame geheimzinnige voorjaarskist",
+    "mysteryBox_boxName_SpringBox2023_1": "Gewone geheimzinnige voorjaarskist",
+    "required_colon": "Vereist:",
+    "upgrade_buildingLevel_kingdom_singleBuilding": "{0} level {1} in {2}",
+    "placeholder_plus": "{0}+",
+    "requiredBuilding_inKingdom_Classic": "Vereist in het Grote Rijk:",
+    "condition_or_multiple_twoPlaceholders_notBold": "{0} of {1}",
+    "noLootGained": "Geen buit erbij",
+    "filters_category_112": "Lucky gold pot",
+    "currency_description_StPatrickLTPEToken": "This enchanted token returns unfathomed luck and wealth to its beholders. Can be exchanged for rewards at the Master Blacksmith for a limited time.",
+    "currency_name_StPatrickLTPEToken": "Lucky gold pot"
   },
   "help": {
     "help_location": "Hier krijg je een globaal overzicht van alle belangrijke inhoud van je kasteel en al je buitenposten.",
@@ -22450,7 +22484,10 @@
       "generic_country_closedbeta": "Besloten bèta",
       "generic_country_tempserver": "Buitenrijken",
       "generic_country_battle": "Voorbij de horizon",
-      "language_native_ISO_XX": "International"
+      "language_native_ISO_XX": "International",
+      "generic_country_BE": "België",
+      "generic_country_ID": "Indonesië",
+      "generic_country_PH": "Filipijnen"
     },
     "currency": {
       "currency_euro": "€",

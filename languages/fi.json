@@ -1736,7 +1736,13 @@
     "deco_newKingBridgeGreen_name": "Keväinen kruunumonumentti",
     "deco_xmasRollercoaster2_name": "Talviajan karkkikeppirata",
     "deco_stPatricksWagon_name": "Kolmiapilavankkurit",
-    "deco_valentinesLoveNest_name": "Häämatkan piilopaikka"
+    "deco_valentinesLoveNest_name": "Häämatkan piilopaikka",
+    "deco_FallenGiantRed_name": "Downfall of the giants",
+    "deco_FallenGiant_name": "Giants agony",
+    "deco_StPatrickMagicCave_name": "Magical rainbow cave",
+    "deco_StPatrickGoldCave_name": "Leprechauns gold stack",
+    "ci_appearance_StPatrickStables_flavour": "Follow the rainbows to find those magical stables. The owners can consider themselves as lucky as wealthy.",
+    "ci_appearance_StPatrickStables": "Emerald Stables"
   },
   "dialogs": {
     "dialog_festival_desc": "Järjestä kansalaisillesi kestit ruokaa käyttämällä! Värväys nopeutuu kaikissa linnoissasi huomattavasti, niin kauan kuin kestit jatkuvat. Mitä isommat kestit järjestät, sitä suurempi niiden vaikutus on.",
@@ -9456,7 +9462,7 @@
     "ci_appearance_pirateBakery": "Merirosvojen leipomo",
     "ci_appearance_pirateBakery_flavour": "Leipoo pitkille merimatkoille sopivaa laivakorppua",
     "dialog_siegeMessage_outpostConqueredDistrict_header": "Korttelin sisältävä etuvartio vallattu",
-    "dialog_legendTemple_unlockBuilding_conditionmultipleBuildingss": "Vaatii jonkin näistä: {0}",
+    "dialog_legendTemple_unlockBuilding_conditionmultipleBuildings": "Vaatii Suuressa keisarikunnassa jonkin näistä: {0}",
     "merchantitem_resources_2104_name": "Ylivertainen hunajapakkaus",
     "merchantitem_resources_2104_desc": "Sisältää {0} yksikköä hunajaa, jotka lähetetään linnasi varastoon välittömästi. Voi ylittää varaston kapasiteetin.",
     "merchantitem_resources_2105_name": "Ylivertainen simapakkaus",
@@ -10835,7 +10841,7 @@
     "generals_abilities_desc_attack_1025": "Hyökkäys: -{0} % kaikkiin puolustajien vaikutuksiin, jotka heikentävät hyökkäysyksiköiden etätaisteluvahvuutta. Aktivoituu {1} aallon välein.",
     "generals_abilities_desc_attack_1026": "Hyökkäys: Saat merirosvoyksiköitä sisäpihan hyökkäykseen. Niiden määrä riippuu surmattujen puolustajien määrästä ja sivustojen kokonaissaaliskapasiteetista.",
     "generals_abilities_desc_attack_1027": "Hyökkäys: Nostaa aallon hyökkäysyksiköiden taisteluvahvuutta niiden kokonaissaaliskapasiteetin mukaan. Aktivoituu {1} aallon välein.",
-    "generals_abilities_desc_attack_1030": "Hyökkäys: Nostaa sisäpihan taistelun hyökkäysyksiköiden taisteluvahvuutta muurin taistelussa menetettyjen hyökkäysyksiköiden määrän mukaan.",
+    "generals_abilities_desc_attack_1030": "Hyökkäys: +{0} % hyökkäysyksiköiden taisteluvahvuuteen sisäpihan taistelussa jokaista muurin taistelussa menetettyä 100:aa hyökkäysyksikköä kohti. Enintään +30 %.",
     "generals_abilities_desc_attack_1034": "Hyökkäys: Tappaa {0} % muureilla, eturintamassa ja sivustoilla olevista lähipuolustajista aallon aikana. Aktivoituu {1} aallon välein.",
     "generals_abilities_desc_attack_1035": "Hyökkäys: vihollispuolustajat saavat -{0} % lähipuolustusvahvuuteen  ja -{1} % etäpuolustusvahvuuteen. Aktivoituu {2} aallon välein.",
     "generals_abilities_desc_defense_1001": "Puolustus: +{0} % puolustusyksiköiden taisteluvahvuuteen yhden hyökkäysaallon aikana. Aktivoituu {1} aallon välein.",
@@ -10853,7 +10859,7 @@
     "generals_abilities_desc_defense_1025": "Puolustus: -{0} % kaikkiin hyökkääjien vaikutuksiin, jotka heikentävät puolustusyksiköiden etätaisteluvahvuutta. Aktivoituu {1} aallon välein.",
     "generals_abilities_desc_defense_1026": "Puolustus: Saat merirosvoyksiköitä sisäpihan puolustukseen. Niiden määrä riippuu surmattujen hyökkääjien määrästä ja sivustojen kokonaissaaliskapasiteetista.",
     "generals_abilities_desc_defense_1027": "Puolustus: Nostaa aallon puolustusyksiköiden taisteluvahvuutta niiden kokonaissaaliskapasiteetin mukaan. Aktivoituu {1} aallon välein.",
-    "generals_abilities_desc_defense_1030": "Puolustus: Nostaa sisäpihan taistelun puolustusyksiköiden taisteluvahvuutta muurin taistelussa menetettyjen puolustusyksiköiden määrän mukaan.",
+    "generals_abilities_desc_defense_1030": "Puolustus: +{0} % puolustusyksiköiden taisteluvahvuuteen sisäpihan taistelussa jokaista muurin taistelussa menetettyä 100:aa puolustusyksikköä kohti. Enintään +30 %.",
     "generals_abilities_desc_defense_1034": "Puolustus: Tappaa {0} % eturintamassa ja sivustoilla olevista lähihyökkääjistä aallon aikana. Aktivoituu {1} aallon välein.",
     "generals_abilities_desc_defense_1035": "Puolustus: vihollishyökkääjät saavat -{0} % lähihyökkäysvahvuuteen  ja -{1} % etähyökkäysvahvuuteen. Aktivoituu {2} aallon välein.",
     "generals_abilities_desc_short_attack_1001": "Nostaa hyökkäysyksiköiden taisteluvahvuutta",
@@ -11112,7 +11118,11 @@
     "allianceDefenseUnitAmount": "Liittouman tukijoukkojen kapasiteetti",
     "equip_effect_description_allianceDefenseUnitAmountYardBonus": "+{0} liittouman tukijoukkojen kapasiteettiin",
     "dialog_stronghold_capacity": "Yksikkökapasiteetti",
-    "dialog_stronghold_header": "Yksikkösuoja"
+    "dialog_stronghold_header": "Yksikkösuoja",
+    "stronghold_modifyUnits_desc": "Lisää valittuja yksiköitä suojalinnaan tai poista niitä sieltä",
+    "inStronghold": "Suojalinnassa",
+    "videoAd_button": "Videomainosten palkkiot",
+    "dialog_offersDropdown_mbs_button": "Yhteisökeskus"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0} % armeijan matkanopeuteen valloitusten aikana",
@@ -14887,7 +14897,7 @@
     "merchantItem_relicItem_2265_name": "Linnanhaltijan haarniska",
     "merchantItem_relicItem_2266_name": "Linnanhaltijan ase",
     "merchantItem_relicItem_2267_name": "Linnanhaltijan kypärä",
-    "merchantItem_relicItem_2268_name": "Komentajan artefakti",
+    "merchantItem_relicItem_2268_name": "Linnanhaltijan artefakti",
     "merchantItem_relicItem_2269_name": "Linnanherran komentajasankari",
     "merchantItem_relicGem_2270_name": "Linnanherran komentajan jalokivi",
     "merchantItem_relicGem_2271_name": "Linnanherran komentajan jalokivi",
@@ -15846,7 +15856,22 @@
     "equipment_unique_1177_desc": "Esine festivaalikaupungista. Muuttaa armeijasi Karnevaaliprinssin kaartiksi.",
     "equipment_unique_1178_desc": "Veneet kuljettavat arvokasta lastia, niin tavaraa kuin ihmisiäkin. Muuttaa linnasi tuhannen kanavan kaupungin näköiseksi.",
     "equipment_unique_1179": "Keisarin shakkisetti",
-    "equipment_unique_1179_desc": "Muuttaa linnasi arvokkaan shakkisetin näköiseksi."
+    "equipment_unique_1179_desc": "Muuttaa linnasi arvokkaan shakkisetin näköiseksi.",
+    "equipment_unique_952": "Metsästäjän kirves",
+    "equipment_unique_1184_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1184": "Saphire butterfly",
+    "equipment_unique_1183_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1183": "Saphire butterfly",
+    "equipment_unique_1182_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1182": "Saphire butterfly",
+    "equipment_unique_1181_desc": "Transform your castle into a magical flower-covered meadow, attracting the most beautiful butterflies.",
+    "equipment_unique_1181": "Saphire butterfly",
+    "equipment_unique_1180_desc": "Muuttaa linnasi menninkäisen linnakkeeksi. Esineeseen ei voi upottaa jalokiviä.",
+    "equipment_unique_1185_desc": "Muuttaa armeijasi hyökkääväksi oravaväeksi.",
+    "equipment_unique_1186_desc": "Muuttaa linnasi oravien syksyiseksi piiloksi.",
+    "equipment_unique_1180": "Menninkäisnaamari",
+    "equipment_unique_1185": "Syksyn kulta",
+    "equipment_unique_1186": "Vuodenaikojen satoa"
   },
   "generic": {
     "activity": "Toiminta",
@@ -17760,10 +17785,19 @@
     "mysteryBox_boxName_WinterBox2022_3": "Eeppinen talvinen arvoituslaatikko",
     "mysteryBox_boxName_WinterBox2022_2": "Harvinainen talvinen arvoituslaatikko",
     "mysteryBox_boxName_WinterBox2022_1": "Yleinen talvinen arvoituslaatikko",
-    "mysteryBox_boxName_SpringBox2023_4": "Legendary spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_3": "Epic spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_2": "Rare spring mystery box",
-    "mysteryBox_boxName_SpringBox2023_1": "Common spring mystery box"
+    "mysteryBox_boxName_SpringBox2023_4": "Legendaarinen keväinen arvoituslaatikko",
+    "mysteryBox_boxName_SpringBox2023_3": "Eeppinen keväinen arvoituslaatikko",
+    "mysteryBox_boxName_SpringBox2023_2": "Harvinainen keväinen arvoituslaatikko",
+    "mysteryBox_boxName_SpringBox2023_1": "Yleinen keväinen arvoituslaatikko",
+    "required_colon": "Vaaditaan:",
+    "upgrade_buildingLevel_kingdom_singleBuilding": "{0} taso {1} paikassa {2}",
+    "placeholder_plus": "{0}+",
+    "requiredBuilding_inKingdom_Classic": "Vaaditaan Suuressa keisarikunnassa:",
+    "condition_or_multiple_twoPlaceholders_notBold": "{0} tai {1}",
+    "noLootGained": "Et saanut saalista",
+    "filters_category_112": "Lucky gold pot",
+    "currency_description_StPatrickLTPEToken": "This enchanted token returns unfathomed luck and wealth to its beholders. Can be exchanged for rewards at the Master Blacksmith for a limited time.",
+    "currency_name_StPatrickLTPEToken": "Lucky gold pot"
   },
   "help": {
     "help_location": "Täältä saat yleiskatsauksen linnaasi ja etuvartioihisi liittyvään sisältöön.",
@@ -22450,7 +22484,10 @@
       "generic_country_closedbeta": "Suljettu beeta",
       "generic_country_tempserver": "Kaukomaat",
       "generic_country_battle": "Horisontin tuolla puolen",
-      "language_native_ISO_XX": "International"
+      "language_native_ISO_XX": "International",
+      "generic_country_BE": "Belgia",
+      "generic_country_ID": "Indonesia",
+      "generic_country_PH": "Filippiinit"
     },
     "currency": {
       "currency_euro": "€",
