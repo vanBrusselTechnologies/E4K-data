@@ -1,31 +1,31 @@
 {
   "currencyCollectTaskType": [
     {
-      "currencyID": "1",
+      "currencyID": 1,
       "taskType": "collectKhanTablets"
     },
     {
-      "currencyID": "3",
+      "currencyID": 3,
       "taskType": "collectPearlRelics"
     },
     {
-      "currencyID": "4",
+      "currencyID": 4,
       "taskType": "collectSilverRunes"
     },
     {
-      "currencyID": "5",
+      "currencyID": 5,
       "taskType": "collectGoldRunes"
     },
     {
-      "currencyID": "7",
+      "currencyID": 7,
       "taskType": "collectSamuraiTokens"
     },
     {
-      "currencyID": "10",
+      "currencyID": 10,
       "taskType": "collectKhanMedals"
     },
     {
-      "currencyID": "13",
+      "currencyID": 13,
       "taskType": "collectSamuraiMedals"
     }
   ]

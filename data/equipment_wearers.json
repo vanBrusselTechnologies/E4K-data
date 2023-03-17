@@ -1,13 +1,13 @@
 {
   "equipment_wearer": [
     {
-      "wearerID": "1",
-      "dropRate": "47",
+      "wearerID": 1,
+      "dropRate": 47,
       "name": "baron"
     },
     {
-      "wearerID": "2",
-      "dropRate": "53",
+      "wearerID": 2,
+      "dropRate": 53,
       "name": "general"
     }
   ]

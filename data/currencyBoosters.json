@@ -1,27 +1,27 @@
 {
   "currencyBooster": [
     {
-      "currencyID": "1",
+      "currencyID": 1,
       "currencyBoosterName": "khanTabletBooster"
     },
     {
-      "currencyID": "7",
+      "currencyID": 7,
       "currencyBoosterName": "samuraiTokenBooster"
     },
     {
-      "currencyID": "10",
+      "currencyID": 10,
       "currencyBoosterName": "khanMedalBooster"
     },
     {
-      "currencyID": "11",
+      "currencyID": 11,
       "currencyBoosterName": "shapeShifterCharmBooster"
     },
     {
-      "currencyID": "12",
+      "currencyID": 12,
       "currencyBoosterName": "shapeShifterInsigniaBooster"
     },
     {
-      "currencyID": "3",
+      "currencyID": 3,
       "currencyBoosterName": "pearlBooster"
     }
   ]

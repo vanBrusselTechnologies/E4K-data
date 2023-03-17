@@ -1,28 +1,28 @@
 {
   "isoResource": [
     {
-      "wodID": "901150",
+      "wodID": 901150,
       "group": "Resources",
       "name": "Forest",
       "type": "-"
     },
     {
-      "wodID": "901151",
+      "wodID": 901151,
       "group": "Resources",
       "name": "Iso",
       "resourceType": "Food",
       "type": "-",
-      "gridOffsetX": "-2",
-      "gridOffsetY": "8"
+      "gridOffsetX": -2,
+      "gridOffsetY": 8
     },
     {
-      "wodID": "901152",
+      "wodID": 901152,
       "group": "Resources",
       "name": "Iso",
       "resourceType": "Stone",
       "type": "-",
-      "gridOffsetX": "8",
-      "gridOffsetY": "-2"
+      "gridOffsetX": 8,
+      "gridOffsetY": -2
     }
   ]
 }

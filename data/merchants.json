@@ -1,99 +1,39 @@
 {
+  "4": "CollectorShop",
+  "5": "ShapeshifterActivityShop",
+  "6": "ShapeshifterRankingShop",
+  "7": "Merchant",
+  "8": "UnitDealer",
+  "9": "UnitDealer",
+  "10": "UnitDealer",
+  "11": "UnitDealer",
+  "12": "NomadHunter",
+  "13": "NomadInvasionVendor",
+  "14": "DaimyoShop",
+  "15": "SamuraiInvasionVendor",
+  "16": "UnitDealer",
+  "17": "FactionArmorer",
+  "18": "SamuraiHunter",
+  "19": "Armorer",
+  "20": "PlayerGiftMerchant",
+  "21": "ShadowUnit",
+  "22": "Merchant",
+  "23": "EquipmentMerchant",
   "merchant": [
     {
-      "id": "2",
+      "id": 2,
       "packageCategories": "101,102,103",
       "name": "apprenticeTokenVendor"
     },
     {
-      "id": "1",
-      "packageCategories": "101,102,103,104,105,106,107,108,109,110,111",
+      "id": 1,
+      "packageCategories": "101,102,103,104,105,106,107,108,109,110,111,112",
       "name": "apprenticeSmith"
     },
     {
-      "id": "3",
+      "id": 3,
       "packageCategories": "101,102,103",
       "name": "wishingWellCoinVendor"
-    },
-    {
-      "id": "4",
-      "name": "CollectorShop"
-    },
-    {
-      "id": "5",
-      "name": "ShapeshifterActivityShop"
-    },
-    {
-      "id": "6",
-      "name": "ShapeshifterRankingShop"
-    },
-    {
-      "id": "7",
-      "name": "Merchant"
-    },
-    {
-      "id": "8",
-      "name": "UnitDealer"
-    },
-    {
-      "id": "9",
-      "name": "UnitDealer"
-    },
-    {
-      "id": "10",
-      "name": "UnitDealer"
-    },
-    {
-      "id": "11",
-      "name": "UnitDealer"
-    },
-    {
-      "id": "12",
-      "name": "NomadHunter"
-    },
-    {
-      "id": "13",
-      "name": "NomadInvasionVendor"
-    },
-    {
-      "id": "14",
-      "name": "DaimyoShop"
-    },
-    {
-      "id": "15",
-      "name": "SamuraiInvasionVendor"
-    },
-    {
-      "id": "16",
-      "name": "UnitDealer"
-    },
-    {
-      "id": "17",
-      "name": "FactionArmorer"
-    },
-    {
-      "id": "18",
-      "name": "SamuraiHunter"
-    },
-    {
-      "id": "19",
-      "name": "Armorer"
-    },
-    {
-      "id": "20",
-      "name": "PlayerGiftMerchant"
-    },
-    {
-      "id": "21",
-      "name": "ShadowUnit"
-    },
-    {
-      "id": "22",
-      "name": "Merchant"
-    },
-    {
-      "id": "23",
-      "name": "EquipmentMerchant"
     }
   ]
 }

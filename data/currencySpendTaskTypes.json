@@ -1,15 +1,15 @@
 {
   "currencySpendTaskType": [
     {
-      "currencyID": "1",
+      "currencyID": 1,
       "taskType": "spendKhanTablets"
     },
     {
-      "currencyID": "7",
+      "currencyID": 7,
       "taskType": "spendSamuraiTokens"
     },
     {
-      "currencyID": "10",
+      "currencyID": 10,
       "taskType": "spendKhanMedals"
     }
   ]

@@ -1,31 +1,31 @@
 {
   "currencyRandomBonus": [
     {
-      "currencyID": "1",
+      "currencyID": 1,
       "RandomBonusName": "khanTabletDiff"
     },
     {
-      "currencyID": "2",
+      "currencyID": 2,
       "RandomBonusName": "skullRelicDiff"
     },
     {
-      "currencyID": "3",
+      "currencyID": 3,
       "RandomBonusName": "pearlRelicDiff"
     },
     {
-      "currencyID": "4",
+      "currencyID": 4,
       "RandomBonusName": "silverRuneDiff"
     },
     {
-      "currencyID": "5",
+      "currencyID": 5,
       "RandomBonusName": "goldRuneDiff"
     },
     {
-      "currencyID": "6",
+      "currencyID": 6,
       "RandomBonusName": "greenSkullRelicDiff"
     },
     {
-      "currencyID": "7",
+      "currencyID": 7,
       "RandomBonusName": "samuraiTokenDiff"
     }
   ]

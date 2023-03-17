@@ -1,14 +1,14 @@
 {
   "fusionSystem": {
-    "id": "1",
-    "minLevel": "70",
-    "fusionCurrencyID": "24",
-    "energyRechargeIntervalInSeconds": "21600",
-    "assembleCatalystEnergyCost": "900",
-    "disassembleCatalystEnergyCost": "300",
-    "baseBonusFusionXPChance": "10",
-    "premiumBonusFusionXPChance": "100",
-    "skipRechargeHardCurrencyCost": "500",
-    "skipRechargeHardCurrencyCostFactor": "2"
+    "id": 1,
+    "minLevel": 70,
+    "fusionCurrencyID": 24,
+    "energyRechargeIntervalInSeconds": 21600,
+    "assembleCatalystEnergyCost": 900,
+    "disassembleCatalystEnergyCost": 300,
+    "baseBonusFusionXPChance": 10,
+    "premiumBonusFusionXPChance": 100,
+    "skipRechargeHardCurrencyCost": 500,
+    "skipRechargeHardCurrencyCostFactor": 2
   }
 }

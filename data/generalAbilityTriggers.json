@@ -1,19 +1,19 @@
 {
   "generalAbilityTrigger": [
     {
-      "abilityTriggerID": "1",
+      "abilityTriggerID": 1,
       "name": "preCombat"
     },
     {
-      "abilityTriggerID": "2",
+      "abilityTriggerID": 2,
       "name": "everyXWaves"
     },
     {
-      "abilityTriggerID": "3",
+      "abilityTriggerID": 3,
       "name": "yard"
     },
     {
-      "abilityTriggerID": "4",
+      "abilityTriggerID": 4,
       "name": "postCombat"
     }
   ]

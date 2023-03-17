@@ -1,677 +1,677 @@
 {
   "subscriptionsBuff": [
     {
-      "subscriptionBuffID": "1",
-      "subscriptionTypeID": "1",
-      "tier": "10",
+      "subscriptionBuffID": 1,
+      "subscriptionTypeID": 1,
+      "tier": 10,
       "effects": "140&amp;-15",
-      "displayOrder": "1"
+      "displayOrder": 1
     },
     {
-      "subscriptionBuffID": "2",
-      "subscriptionTypeID": "1",
-      "tier": "10",
+      "subscriptionBuffID": 2,
+      "subscriptionTypeID": 1,
+      "tier": 10,
       "effects": "141&amp;40",
-      "displayOrder": "2"
+      "displayOrder": 2
     },
     {
-      "subscriptionBuffID": "3",
-      "subscriptionTypeID": "1",
-      "tier": "10",
+      "subscriptionBuffID": 3,
+      "subscriptionTypeID": 1,
+      "tier": 10,
       "effects": "142&amp;-10",
-      "displayOrder": "3"
+      "displayOrder": 3
     },
     {
-      "subscriptionBuffID": "4",
-      "subscriptionTypeID": "1",
-      "tier": "10",
+      "subscriptionBuffID": 4,
+      "subscriptionTypeID": 1,
+      "tier": 10,
       "effects": "143&amp;-1",
-      "displayOrder": "4"
+      "displayOrder": 4
     },
     {
-      "subscriptionBuffID": "5",
-      "subscriptionTypeID": "1",
-      "tier": "10",
+      "subscriptionBuffID": 5,
+      "subscriptionTypeID": 1,
+      "tier": 10,
       "effects": "67&amp;5",
-      "displayOrder": "5"
+      "displayOrder": 5
     },
     {
-      "subscriptionBuffID": "6",
-      "subscriptionTypeID": "1",
-      "tier": "10",
+      "subscriptionBuffID": 6,
+      "subscriptionTypeID": 1,
+      "tier": 10,
       "effects": "86&amp;10",
-      "displayOrder": "6"
+      "displayOrder": 6
     },
     {
-      "subscriptionBuffID": "7",
-      "subscriptionTypeID": "1",
-      "tier": "10",
+      "subscriptionBuffID": 7,
+      "subscriptionTypeID": 1,
+      "tier": 10,
       "effects": "87&amp;10",
-      "displayOrder": "7"
+      "displayOrder": 7
     },
     {
-      "subscriptionBuffID": "8",
-      "subscriptionTypeID": "1",
-      "tier": "10",
+      "subscriptionBuffID": 8,
+      "subscriptionTypeID": 1,
+      "tier": 10,
       "effects": "90&amp;10",
-      "displayOrder": "8"
+      "displayOrder": 8
     },
     {
-      "subscriptionBuffID": "9",
-      "subscriptionTypeID": "1",
-      "tier": "10",
+      "subscriptionBuffID": 9,
+      "subscriptionTypeID": 1,
+      "tier": 10,
       "effects": "103&amp;5",
-      "displayOrder": "9"
+      "displayOrder": 9
     },
     {
-      "subscriptionBuffID": "10",
-      "subscriptionTypeID": "1",
-      "tier": "10",
+      "subscriptionBuffID": 10,
+      "subscriptionTypeID": 1,
+      "tier": 10,
       "effects": "49&amp;611+100#614+100#617+100#620+100#660+100#653+100#626+100#637+100#634+100#629+100#632+100#633+100",
-      "displayOrder": "10"
+      "displayOrder": 10
     },
     {
-      "subscriptionBuffID": "11",
-      "subscriptionTypeID": "1",
-      "tier": "10",
+      "subscriptionBuffID": 11,
+      "subscriptionTypeID": 1,
+      "tier": 10,
       "effects": "129&amp;150",
-      "displayOrder": "11"
+      "displayOrder": 11
     },
     {
-      "subscriptionBuffID": "12",
-      "subscriptionTypeID": "1",
-      "tier": "10",
+      "subscriptionBuffID": 12,
+      "subscriptionTypeID": 1,
+      "tier": 10,
       "effects": "130&amp;150",
-      "displayOrder": "12"
+      "displayOrder": 12
     },
     {
-      "subscriptionBuffID": "13",
-      "subscriptionTypeID": "1",
-      "tier": "10",
+      "subscriptionBuffID": 13,
+      "subscriptionTypeID": 1,
+      "tier": 10,
       "effects": "135&amp;5",
-      "displayOrder": "13"
+      "displayOrder": 13
     },
     {
-      "subscriptionBuffID": "14",
-      "subscriptionTypeID": "1",
-      "tier": "10",
+      "subscriptionBuffID": 14,
+      "subscriptionTypeID": 1,
+      "tier": 10,
       "effects": "60&amp;100",
-      "displayOrder": "14"
+      "displayOrder": 14
     },
     {
-      "subscriptionBuffID": "15",
-      "subscriptionTypeID": "1",
-      "tier": "10",
+      "subscriptionBuffID": 15,
+      "subscriptionTypeID": 1,
+      "tier": 10,
       "effects": "146&amp;10",
-      "displayOrder": "15"
+      "displayOrder": 15
     },
     {
-      "subscriptionBuffID": "88",
-      "subscriptionTypeID": "3",
-      "tier": "10",
+      "subscriptionBuffID": 88,
+      "subscriptionTypeID": 3,
+      "tier": 10,
       "effects": "199&amp;50000",
-      "displayOrder": "18"
+      "displayOrder": 18
     },
     {
-      "subscriptionBuffID": "16",
-      "subscriptionTypeID": "1",
-      "tier": "10",
+      "subscriptionBuffID": 16,
+      "subscriptionTypeID": 1,
+      "tier": 10,
       "effects": "82&amp;25",
-      "displayOrder": "16"
+      "displayOrder": 16
     },
     {
-      "subscriptionBuffID": "17",
-      "seriesID": "0",
-      "requiredMembers": "1",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 17,
+      "seriesID": 0,
+      "requiredMembers": 1,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "138&amp;600",
-      "displayOrder": "1"
+      "displayOrder": 1
     },
     {
-      "subscriptionBuffID": "18",
-      "seriesID": "0",
-      "requiredMembers": "7",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 18,
+      "seriesID": 0,
+      "requiredMembers": 7,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "138&amp;1200",
-      "displayOrder": "1"
+      "displayOrder": 1
     },
     {
-      "subscriptionBuffID": "19",
-      "seriesID": "0",
-      "requiredMembers": "15",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 19,
+      "seriesID": 0,
+      "requiredMembers": 15,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "138&amp;1800",
-      "displayOrder": "1"
+      "displayOrder": 1
     },
     {
-      "subscriptionBuffID": "20",
-      "seriesID": "1",
-      "requiredMembers": "1",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 20,
+      "seriesID": 1,
+      "requiredMembers": 1,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "139&amp;-5",
-      "displayOrder": "2"
+      "displayOrder": 2
     },
     {
-      "subscriptionBuffID": "21",
-      "seriesID": "1",
-      "requiredMembers": "7",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 21,
+      "seriesID": 1,
+      "requiredMembers": 7,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "139&amp;-10",
-      "displayOrder": "2"
+      "displayOrder": 2
     },
     {
-      "subscriptionBuffID": "22",
-      "seriesID": "2",
-      "requiredMembers": "1",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 22,
+      "seriesID": 2,
+      "requiredMembers": 1,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "104&amp;10",
-      "displayOrder": "2"
+      "displayOrder": 2
     },
     {
-      "subscriptionBuffID": "23",
-      "seriesID": "2",
-      "requiredMembers": "7",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 23,
+      "seriesID": 2,
+      "requiredMembers": 7,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "104&amp;20",
-      "displayOrder": "2"
+      "displayOrder": 2
     },
     {
-      "subscriptionBuffID": "24",
-      "seriesID": "2",
-      "requiredMembers": "15",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 24,
+      "seriesID": 2,
+      "requiredMembers": 15,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "104&amp;30",
-      "displayOrder": "2"
+      "displayOrder": 2
     },
     {
-      "subscriptionBuffID": "25",
-      "seriesID": "2",
-      "requiredMembers": "25",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 25,
+      "seriesID": 2,
+      "requiredMembers": 25,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "104&amp;50",
-      "displayOrder": "2"
+      "displayOrder": 2
     },
     {
-      "subscriptionBuffID": "26",
-      "seriesID": "3",
-      "requiredMembers": "3",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 26,
+      "seriesID": 3,
+      "requiredMembers": 3,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "131&amp;1",
-      "displayOrder": "3"
+      "displayOrder": 3
     },
     {
-      "subscriptionBuffID": "27",
-      "seriesID": "3",
-      "requiredMembers": "9",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 27,
+      "seriesID": 3,
+      "requiredMembers": 9,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "131&amp;2",
-      "displayOrder": "3"
+      "displayOrder": 3
     },
     {
-      "subscriptionBuffID": "28",
-      "seriesID": "3",
-      "requiredMembers": "18",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 28,
+      "seriesID": 3,
+      "requiredMembers": 18,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "131&amp;3",
-      "displayOrder": "3"
+      "displayOrder": 3
     },
     {
-      "subscriptionBuffID": "29",
-      "seriesID": "3",
-      "requiredMembers": "25",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 29,
+      "seriesID": 3,
+      "requiredMembers": 25,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "131&amp;5",
-      "displayOrder": "3"
+      "displayOrder": 3
     },
     {
-      "subscriptionBuffID": "30",
-      "seriesID": "4",
-      "requiredMembers": "3",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 30,
+      "seriesID": 4,
+      "requiredMembers": 3,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "132&amp;1",
-      "displayOrder": "4"
+      "displayOrder": 4
     },
     {
-      "subscriptionBuffID": "31",
-      "seriesID": "4",
-      "requiredMembers": "9",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 31,
+      "seriesID": 4,
+      "requiredMembers": 9,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "132&amp;2",
-      "displayOrder": "4"
+      "displayOrder": 4
     },
     {
-      "subscriptionBuffID": "32",
-      "seriesID": "4",
-      "requiredMembers": "18",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 32,
+      "seriesID": 4,
+      "requiredMembers": 18,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "132&amp;3",
-      "displayOrder": "4"
+      "displayOrder": 4
     },
     {
-      "subscriptionBuffID": "33",
-      "seriesID": "4",
-      "requiredMembers": "25",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 33,
+      "seriesID": 4,
+      "requiredMembers": 25,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "132&amp;5",
-      "displayOrder": "4"
+      "displayOrder": 4
     },
     {
-      "subscriptionBuffID": "34",
-      "seriesID": "5",
-      "requiredMembers": "3",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 34,
+      "seriesID": 5,
+      "requiredMembers": 3,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "133&amp;1",
-      "displayOrder": "5"
+      "displayOrder": 5
     },
     {
-      "subscriptionBuffID": "35",
-      "seriesID": "5",
-      "requiredMembers": "9",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 35,
+      "seriesID": 5,
+      "requiredMembers": 9,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "133&amp;2",
-      "displayOrder": "5"
+      "displayOrder": 5
     },
     {
-      "subscriptionBuffID": "36",
-      "seriesID": "5",
-      "requiredMembers": "18",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 36,
+      "seriesID": 5,
+      "requiredMembers": 18,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "133&amp;3",
-      "displayOrder": "5"
+      "displayOrder": 5
     },
     {
-      "subscriptionBuffID": "37",
-      "seriesID": "5",
-      "requiredMembers": "25",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 37,
+      "seriesID": 5,
+      "requiredMembers": 25,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "133&amp;5",
-      "displayOrder": "5"
+      "displayOrder": 5
     },
     {
-      "subscriptionBuffID": "38",
-      "seriesID": "6",
-      "requiredMembers": "3",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 38,
+      "seriesID": 6,
+      "requiredMembers": 3,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "134&amp;1",
-      "displayOrder": "6"
+      "displayOrder": 6
     },
     {
-      "subscriptionBuffID": "39",
-      "seriesID": "6",
-      "requiredMembers": "9",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 39,
+      "seriesID": 6,
+      "requiredMembers": 9,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "134&amp;2",
-      "displayOrder": "6"
+      "displayOrder": 6
     },
     {
-      "subscriptionBuffID": "40",
-      "seriesID": "6",
-      "requiredMembers": "18",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 40,
+      "seriesID": 6,
+      "requiredMembers": 18,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "134&amp;3",
-      "displayOrder": "6"
+      "displayOrder": 6
     },
     {
-      "subscriptionBuffID": "41",
-      "seriesID": "6",
-      "requiredMembers": "25",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 41,
+      "seriesID": 6,
+      "requiredMembers": 25,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "134&amp;5",
-      "displayOrder": "6"
+      "displayOrder": 6
     },
     {
-      "subscriptionBuffID": "42",
-      "seriesID": "7",
-      "requiredMembers": "5",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 42,
+      "seriesID": 7,
+      "requiredMembers": 5,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "1&amp;10",
-      "displayOrder": "7"
+      "displayOrder": 7
     },
     {
-      "subscriptionBuffID": "43",
-      "seriesID": "7",
-      "requiredMembers": "12",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 43,
+      "seriesID": 7,
+      "requiredMembers": 12,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "1&amp;20",
-      "displayOrder": "7"
+      "displayOrder": 7
     },
     {
-      "subscriptionBuffID": "44",
-      "seriesID": "7",
-      "requiredMembers": "21",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 44,
+      "seriesID": 7,
+      "requiredMembers": 21,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "1&amp;30",
-      "displayOrder": "7"
+      "displayOrder": 7
     },
     {
-      "subscriptionBuffID": "45",
-      "seriesID": "7",
-      "requiredMembers": "30",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 45,
+      "seriesID": 7,
+      "requiredMembers": 30,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "1&amp;50",
-      "displayOrder": "7"
+      "displayOrder": 7
     },
     {
-      "subscriptionBuffID": "46",
-      "seriesID": "8",
-      "requiredMembers": "5",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 46,
+      "seriesID": 8,
+      "requiredMembers": 5,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "51&amp;10",
-      "displayOrder": "8"
+      "displayOrder": 8
     },
     {
-      "subscriptionBuffID": "47",
-      "seriesID": "8",
-      "requiredMembers": "12",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 47,
+      "seriesID": 8,
+      "requiredMembers": 12,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "51&amp;20",
-      "displayOrder": "8"
+      "displayOrder": 8
     },
     {
-      "subscriptionBuffID": "48",
-      "seriesID": "8",
-      "requiredMembers": "21",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 48,
+      "seriesID": 8,
+      "requiredMembers": 21,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "51&amp;30",
-      "displayOrder": "8"
+      "displayOrder": 8
     },
     {
-      "subscriptionBuffID": "49",
-      "seriesID": "8",
-      "requiredMembers": "30",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 49,
+      "seriesID": 8,
+      "requiredMembers": 30,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "51&amp;50",
-      "displayOrder": "8"
+      "displayOrder": 8
     },
     {
-      "subscriptionBuffID": "50",
-      "seriesID": "9",
-      "requiredMembers": "5",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 50,
+      "seriesID": 9,
+      "requiredMembers": 5,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "52&amp;10",
-      "displayOrder": "9"
+      "displayOrder": 9
     },
     {
-      "subscriptionBuffID": "51",
-      "seriesID": "9",
-      "requiredMembers": "12",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 51,
+      "seriesID": 9,
+      "requiredMembers": 12,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "52&amp;20",
-      "displayOrder": "9"
+      "displayOrder": 9
     },
     {
-      "subscriptionBuffID": "52",
-      "seriesID": "9",
-      "requiredMembers": "21",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 52,
+      "seriesID": 9,
+      "requiredMembers": 21,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "52&amp;25",
-      "displayOrder": "9"
+      "displayOrder": 9
     },
     {
-      "subscriptionBuffID": "53",
-      "seriesID": "10",
-      "requiredMembers": "5",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 53,
+      "seriesID": 10,
+      "requiredMembers": 5,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "144&amp;1",
-      "displayOrder": "10"
+      "displayOrder": 10
     },
     {
-      "subscriptionBuffID": "54",
-      "seriesID": "10",
-      "requiredMembers": "12",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 54,
+      "seriesID": 10,
+      "requiredMembers": 12,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "144&amp;2",
-      "displayOrder": "10"
+      "displayOrder": 10
     },
     {
-      "subscriptionBuffID": "55",
-      "seriesID": "10",
-      "requiredMembers": "21",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 55,
+      "seriesID": 10,
+      "requiredMembers": 21,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "144&amp;3",
-      "displayOrder": "10"
+      "displayOrder": 10
     },
     {
-      "subscriptionBuffID": "56",
-      "seriesID": "10",
-      "requiredMembers": "30",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 56,
+      "seriesID": 10,
+      "requiredMembers": 30,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "144&amp;5",
-      "displayOrder": "10"
+      "displayOrder": 10
     },
     {
-      "subscriptionBuffID": "57",
-      "seriesID": "11",
-      "requiredMembers": "3",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 57,
+      "seriesID": 11,
+      "requiredMembers": 3,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "15&amp;20",
-      "displayOrder": "11"
+      "displayOrder": 11
     },
     {
-      "subscriptionBuffID": "58",
-      "seriesID": "11",
-      "requiredMembers": "9",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 58,
+      "seriesID": 11,
+      "requiredMembers": 9,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "15&amp;40",
-      "displayOrder": "11"
+      "displayOrder": 11
     },
     {
-      "subscriptionBuffID": "59",
-      "seriesID": "11",
-      "requiredMembers": "18",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 59,
+      "seriesID": 11,
+      "requiredMembers": 18,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "15&amp;60",
-      "displayOrder": "11"
+      "displayOrder": 11
     },
     {
-      "subscriptionBuffID": "60",
-      "seriesID": "11",
-      "requiredMembers": "30",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 60,
+      "seriesID": 11,
+      "requiredMembers": 30,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "15&amp;100",
-      "displayOrder": "11"
+      "displayOrder": 11
     },
     {
-      "subscriptionBuffID": "61",
-      "seriesID": "12",
-      "requiredMembers": "3",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 61,
+      "seriesID": 12,
+      "requiredMembers": 3,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "16&amp;20",
-      "displayOrder": "12"
+      "displayOrder": 12
     },
     {
-      "subscriptionBuffID": "62",
-      "seriesID": "12",
-      "requiredMembers": "9",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 62,
+      "seriesID": 12,
+      "requiredMembers": 9,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "16&amp;40",
-      "displayOrder": "12"
+      "displayOrder": 12
     },
     {
-      "subscriptionBuffID": "63",
-      "seriesID": "12",
-      "requiredMembers": "18",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 63,
+      "seriesID": 12,
+      "requiredMembers": 18,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "16&amp;60",
-      "displayOrder": "12"
+      "displayOrder": 12
     },
     {
-      "subscriptionBuffID": "64",
-      "seriesID": "12",
-      "requiredMembers": "30",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 64,
+      "seriesID": 12,
+      "requiredMembers": 30,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "16&amp;100",
-      "displayOrder": "12"
+      "displayOrder": 12
     },
     {
-      "subscriptionBuffID": "65",
-      "seriesID": "13",
-      "requiredMembers": "1",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 65,
+      "seriesID": 13,
+      "requiredMembers": 1,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "145&amp;50",
-      "displayOrder": "13"
+      "displayOrder": 13
     },
     {
-      "subscriptionBuffID": "66",
-      "seriesID": "13",
-      "requiredMembers": "7",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 66,
+      "seriesID": 13,
+      "requiredMembers": 7,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "145&amp;100",
-      "displayOrder": "13"
+      "displayOrder": 13
     },
     {
-      "subscriptionBuffID": "67",
-      "seriesID": "13",
-      "requiredMembers": "15",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 67,
+      "seriesID": 13,
+      "requiredMembers": 15,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "145&amp;150",
-      "displayOrder": "13"
+      "displayOrder": 13
     },
     {
-      "subscriptionBuffID": "68",
-      "seriesID": "13",
-      "requiredMembers": "25",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 68,
+      "seriesID": 13,
+      "requiredMembers": 25,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "145&amp;250",
-      "displayOrder": "13"
+      "displayOrder": 13
     },
     {
-      "subscriptionBuffID": "69",
-      "seriesID": "14",
-      "requiredMembers": "1",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 69,
+      "seriesID": 14,
+      "requiredMembers": 1,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "506&amp;20",
-      "displayOrder": "14"
+      "displayOrder": 14
     },
     {
-      "subscriptionBuffID": "70",
-      "seriesID": "14",
-      "requiredMembers": "7",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 70,
+      "seriesID": 14,
+      "requiredMembers": 7,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "506&amp;40",
-      "displayOrder": "14"
+      "displayOrder": 14
     },
     {
-      "subscriptionBuffID": "71",
-      "seriesID": "14",
-      "requiredMembers": "15",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 71,
+      "seriesID": 14,
+      "requiredMembers": 15,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "506&amp;60",
-      "displayOrder": "14"
+      "displayOrder": 14
     },
     {
-      "subscriptionBuffID": "72",
-      "seriesID": "14",
-      "requiredMembers": "25",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 72,
+      "seriesID": 14,
+      "requiredMembers": 25,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "506&amp;100",
-      "displayOrder": "14"
+      "displayOrder": 14
     },
     {
-      "subscriptionBuffID": "73",
-      "seriesID": "15",
-      "requiredMembers": "5",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 73,
+      "seriesID": 15,
+      "requiredMembers": 5,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "22&amp;10",
-      "displayOrder": "15"
+      "displayOrder": 15
     },
     {
-      "subscriptionBuffID": "74",
-      "seriesID": "15",
-      "requiredMembers": "12",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 74,
+      "seriesID": 15,
+      "requiredMembers": 12,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "22&amp;15",
-      "displayOrder": "15"
+      "displayOrder": 15
     },
     {
-      "subscriptionBuffID": "75",
-      "seriesID": "15",
-      "requiredMembers": "21",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 75,
+      "seriesID": 15,
+      "requiredMembers": 21,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "22&amp;20",
-      "displayOrder": "15"
+      "displayOrder": 15
     },
     {
-      "subscriptionBuffID": "76",
-      "seriesID": "15",
-      "requiredMembers": "30",
-      "subscriptionTypeID": "2",
-      "tier": "1",
+      "subscriptionBuffID": 76,
+      "seriesID": 15,
+      "requiredMembers": 30,
+      "subscriptionTypeID": 2,
+      "tier": 1,
       "effects": "22&amp;25",
-      "displayOrder": "15"
+      "displayOrder": 15
     },
     {
-      "subscriptionBuffID": "77",
-      "subscriptionTypeID": "3",
-      "tier": "20",
+      "subscriptionBuffID": 77,
+      "subscriptionTypeID": 3,
+      "tier": 20,
       "effects": "186&amp;1",
-      "displayOrder": "1"
+      "displayOrder": 1
     },
     {
-      "subscriptionBuffID": "78",
-      "subscriptionTypeID": "3",
-      "tier": "20",
+      "subscriptionBuffID": 78,
+      "subscriptionTypeID": 3,
+      "tier": 20,
       "effects": "187&amp;1",
-      "displayOrder": "2"
+      "displayOrder": 2
     }
   ]
 }

@@ -1,15 +1,15 @@
 {
   "districtType": [
     {
-      "districtTypeID": "1",
+      "districtTypeID": 1,
       "district": "military"
     },
     {
-      "districtTypeID": "3",
+      "districtTypeID": 3,
       "district": "inner"
     },
     {
-      "districtTypeID": "4",
+      "districtTypeID": 4,
       "district": "trade"
     }
   ]

@@ -1,400 +1,404 @@
 {
   "worldmapskin": [
     {
-      "skinID": "1",
+      "skinID": 1,
       "name": "Sundial"
     },
     {
-      "skinID": "2",
+      "skinID": 2,
       "name": "Saxophone"
     },
     {
-      "skinID": "4",
+      "skinID": 4,
       "name": "Hourglass"
     },
     {
-      "skinID": "5",
+      "skinID": 5,
       "name": "Demon",
-      "definesMoat": "1"
+      "definesMoat": 1
     },
     {
-      "skinID": "6",
+      "skinID": 6,
       "name": "Underworld",
-      "definesAllCastleLevels": "1"
+      "definesAllCastleLevels": 1
     },
     {
-      "skinID": "7",
+      "skinID": 7,
       "name": "Cloudmaker",
-      "definesResources": "1"
+      "definesResources": 1
     },
     {
-      "skinID": "8",
+      "skinID": 8,
       "name": "Kiltoffreedom"
     },
     {
-      "skinID": "9",
+      "skinID": 9,
       "name": "Block"
     },
     {
-      "skinID": "10",
+      "skinID": 10,
       "name": "Sand",
-      "definesResources": "1"
+      "definesResources": 1
     },
     {
-      "skinID": "11",
+      "skinID": 11,
       "name": "Chtuhullu"
     },
     {
-      "skinID": "12",
+      "skinID": 12,
       "name": "WitchCastle"
     },
     {
-      "skinID": "14",
+      "skinID": 14,
       "name": "StPatricks"
     },
     {
-      "skinID": "15",
+      "skinID": 15,
       "name": "Easter"
     },
     {
-      "skinID": "16",
+      "skinID": 16,
       "name": "Emblem"
     },
     {
-      "skinID": "17",
+      "skinID": 17,
       "name": "HalloweenTrap"
     },
     {
-      "skinID": "18",
+      "skinID": 18,
       "name": "HalloweenPoster"
     },
     {
-      "skinID": "19",
+      "skinID": 19,
       "name": "HalloweenRing"
     },
     {
-      "skinID": "20",
+      "skinID": 20,
       "name": "ChristmasAxe"
     },
     {
-      "skinID": "21",
+      "skinID": 21,
       "name": "ChristmasTotem"
     },
     {
-      "skinID": "22",
+      "skinID": 22,
       "name": "ChristmasKnife"
     },
     {
-      "skinID": "23",
+      "skinID": 23,
       "name": "IceJug"
     },
     {
-      "skinID": "24",
+      "skinID": 24,
       "name": "CarnivalCouldron"
     },
     {
-      "skinID": "25",
+      "skinID": 25,
       "name": "CarnivalBird"
     },
     {
-      "skinID": "26",
+      "skinID": 26,
       "name": "CarnivalMask"
     },
     {
-      "skinID": "27",
+      "skinID": 27,
       "name": "SpringFrozenBlossom"
     },
     {
-      "skinID": "28",
+      "skinID": 28,
       "name": "SpringBlossom"
     },
     {
-      "skinID": "29",
+      "skinID": 29,
       "name": "SpringHoneycomb"
     },
     {
-      "skinID": "30",
+      "skinID": 30,
       "name": "DragonEgg"
     },
     {
-      "skinID": "31",
+      "skinID": 31,
       "name": "WoodAxe"
     },
     {
-      "skinID": "32",
+      "skinID": 32,
       "name": "MetalMask"
     },
     {
-      "skinID": "33",
+      "skinID": 33,
       "name": "LostAnchor"
     },
     {
-      "skinID": "34",
+      "skinID": 34,
       "name": "TreasureChest"
     },
     {
-      "skinID": "35",
+      "skinID": 35,
       "name": "MudGolem"
     },
     {
-      "skinID": "36",
+      "skinID": 36,
       "name": "Whirlwind"
     },
     {
-      "skinID": "37",
+      "skinID": 37,
       "name": "IcedLava"
     },
     {
-      "skinID": "38",
+      "skinID": 38,
       "name": "Anubis"
     },
     {
-      "skinID": "39",
+      "skinID": 39,
       "name": "FlowerBracelet"
     },
     {
-      "skinID": "40",
+      "skinID": 40,
       "name": "BeerBarrel"
     },
     {
-      "skinID": "41",
+      "skinID": 41,
       "name": "MayaInsignia"
     },
     {
-      "skinID": "42",
+      "skinID": 42,
       "name": "EmperorsChessSet"
     },
     {
-      "skinID": "43",
+      "skinID": 43,
       "name": "Nutcracker"
     },
     {
-      "skinID": "44",
+      "skinID": 44,
       "name": "SpringBell"
     },
     {
-      "skinID": "45",
+      "skinID": 45,
       "name": "TeaLeaf"
     },
     {
-      "skinID": "46",
+      "skinID": 46,
       "name": "MosaicPlate"
     },
     {
-      "skinID": "47",
+      "skinID": 47,
       "name": "FreshTea"
     },
     {
-      "skinID": "48",
+      "skinID": 48,
       "name": "Birdhouse"
     },
     {
-      "skinID": "49",
+      "skinID": 49,
       "name": "SeaShell"
     },
     {
-      "skinID": "50",
+      "skinID": 50,
       "name": "Elephant"
     },
     {
-      "skinID": "51",
+      "skinID": 51,
       "name": "StarCompass"
     },
     {
-      "skinID": "52",
+      "skinID": 52,
       "name": "MistyShroud"
     },
     {
-      "skinID": "53",
+      "skinID": 53,
       "name": "SoulCandle"
     },
     {
-      "skinID": "54",
+      "skinID": 54,
       "name": "snowflakehouse"
     },
     {
-      "skinID": "55",
+      "skinID": 55,
       "name": "VikingGeneral"
     },
     {
-      "skinID": "56",
+      "skinID": 56,
       "name": "VikingBaron"
     },
     {
-      "skinID": "57",
+      "skinID": 57,
       "name": "EvergreenClover"
     },
     {
-      "skinID": "58",
+      "skinID": 58,
       "name": "SpringtimeBlossom"
     },
     {
-      "skinID": "59",
+      "skinID": 59,
       "name": "MistwoodFern"
     },
     {
-      "skinID": "60",
+      "skinID": 60,
       "name": "MistwoodBastion"
     },
     {
-      "skinID": "61",
+      "skinID": 61,
       "name": "RingtailHat"
     },
     {
-      "skinID": "62",
+      "skinID": 62,
       "name": "RosewoodBud"
     },
     {
-      "skinID": "63",
+      "skinID": 63,
       "name": "GeneralPinacolada"
     },
     {
-      "skinID": "64",
+      "skinID": 64,
       "name": "BaronDucky"
     },
     {
-      "skinID": "65",
+      "skinID": 65,
       "name": "GeneralBanana"
     },
     {
-      "skinID": "66",
+      "skinID": 66,
       "name": "BaronWatermelon"
     },
     {
-      "skinID": "67",
+      "skinID": 67,
       "name": "10YearsAnniversaryGeneralRed"
     },
     {
-      "skinID": "68",
+      "skinID": 68,
       "name": "10YearsAnniversaryBaronRed"
     },
     {
-      "skinID": "69",
+      "skinID": 69,
       "name": "AnniversaryCake"
     },
     {
-      "skinID": "70",
+      "skinID": 70,
       "name": "AnniversaryPartyBadge"
     },
     {
-      "skinID": "71",
+      "skinID": 71,
       "name": "AnniversaryPartyCannon"
     },
     {
-      "skinID": "72",
+      "skinID": 72,
       "name": "GeneralSquirrel"
     },
     {
-      "skinID": "73",
+      "skinID": 73,
       "name": "BaronNuts"
     },
     {
-      "skinID": "74",
+      "skinID": 74,
       "name": "Generalcthulhu"
     },
     {
-      "skinID": "75",
+      "skinID": 75,
       "name": "BaronCthulhu"
     },
     {
-      "skinID": "76",
+      "skinID": 76,
       "name": "GeneralSamurai"
     },
     {
-      "skinID": "77",
+      "skinID": 77,
       "name": "BaronSamurai"
     },
     {
-      "skinID": "78",
+      "skinID": 78,
       "name": "GeneralCandyCane"
     },
     {
-      "skinID": "80",
+      "skinID": 80,
       "name": "WinterBaron"
     },
     {
-      "skinID": "81",
+      "skinID": 81,
       "name": "GeneralofLove"
     },
     {
-      "skinID": "82",
+      "skinID": 82,
       "name": "BaronTortureofLove"
     },
     {
-      "skinID": "83",
+      "skinID": 83,
       "name": "GeneralCarnival"
     },
     {
-      "skinID": "84",
+      "skinID": 84,
       "name": "BaronCarnival"
     },
     {
-      "skinID": "85",
+      "skinID": 85,
       "name": "GeneralViking"
     },
     {
-      "skinID": "86",
+      "skinID": 86,
       "name": "BaronViking"
     },
     {
-      "skinID": "87",
+      "skinID": 87,
       "name": "GeneralFishKite"
     },
     {
-      "skinID": "88",
+      "skinID": 88,
       "name": "BaronEasterTree"
     },
     {
-      "skinID": "89",
+      "skinID": 89,
       "name": "GeneralSpring"
     },
     {
-      "skinID": "90",
+      "skinID": 90,
       "name": "BaronSpring"
     },
     {
-      "skinID": "91",
+      "skinID": 91,
       "name": "Generalsummer"
     },
     {
-      "skinID": "92",
+      "skinID": 92,
       "name": "BaronSummer"
     },
     {
-      "skinID": "93",
+      "skinID": 93,
       "name": "GeneralCupcake"
     },
     {
-      "skinID": "94",
+      "skinID": 94,
       "name": "GeneralOctoberfest"
     },
     {
-      "skinID": "95",
+      "skinID": 95,
       "name": "GeneralGenericAnniversary"
     },
     {
-      "skinID": "96",
+      "skinID": 96,
       "name": "CyberBaron"
     },
     {
-      "skinID": "97",
+      "skinID": 97,
       "name": "HalloweenGeneral"
     },
     {
-      "skinID": "98",
+      "skinID": 98,
       "name": "SinglesDay22General"
     },
     {
-      "skinID": "99",
+      "skinID": 99,
       "name": "BaronDeathMask"
     },
     {
-      "skinID": "100",
+      "skinID": 100,
       "name": "PineconeBaron"
     },
     {
-      "skinID": "101",
+      "skinID": 101,
       "name": "StPatrickBaron"
+    },
+    {
+      "skinID": 102,
+      "name": "ButterflyBaron"
     }
   ]
 }

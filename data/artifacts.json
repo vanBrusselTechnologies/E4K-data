@@ -1,29 +1,29 @@
 {
   "artifact": [
     {
-      "artifactID": "1",
+      "artifactID": 1,
       "artifactType": "Grail",
-      "artifactParts": "8"
+      "artifactParts": 8
     },
     {
-      "artifactID": "2",
+      "artifactID": 2,
       "artifactType": "GrailReloaded",
-      "artifactParts": "11"
+      "artifactParts": 11
     },
     {
-      "artifactID": "3",
+      "artifactID": 3,
       "artifactType": "Map",
-      "artifactParts": "11"
+      "artifactParts": 11
     },
     {
-      "artifactID": "4",
+      "artifactID": 4,
       "artifactType": "Portrait",
-      "artifactParts": "11"
+      "artifactParts": 11
     },
     {
-      "artifactID": "5",
+      "artifactID": 5,
       "artifactType": "Cheese",
-      "artifactParts": "10"
+      "artifactParts": 10
     }
   ]
 }

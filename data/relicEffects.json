@@ -1,2309 +1,2309 @@
 {
   "relicEffect": [
     {
-      "id": "1",
-      "effectID": "2101",
-      "minimumValue": "82",
-      "maximumValue": "87",
+      "id": 1,
+      "effectID": 2101,
+      "minimumValue": 82,
+      "maximumValue": 87,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "2",
-      "effectID": "2102",
-      "minimumValue": "82",
-      "maximumValue": "87",
+      "id": 2,
+      "effectID": 2102,
+      "minimumValue": 82,
+      "maximumValue": 87,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "3",
-      "effectID": "2103",
-      "minimumValue": "112",
-      "maximumValue": "117",
+      "id": 3,
+      "effectID": 2103,
+      "minimumValue": 112,
+      "maximumValue": 117,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "4",
-      "effectID": "2104",
-      "minimumValue": "112",
-      "maximumValue": "117",
+      "id": 4,
+      "effectID": 2104,
+      "minimumValue": 112,
+      "maximumValue": 117,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "5",
-      "effectID": "2105",
-      "minimumValue": "72",
-      "maximumValue": "77",
+      "id": 5,
+      "effectID": 2105,
+      "minimumValue": 72,
+      "maximumValue": 77,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "6",
-      "effectID": "2106",
-      "minimumValue": "72",
-      "maximumValue": "77",
+      "id": 6,
+      "effectID": 2106,
+      "minimumValue": 72,
+      "maximumValue": 77,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "7",
-      "effectID": "2107",
-      "minimumValue": "12",
-      "maximumValue": "17",
+      "id": 7,
+      "effectID": 2107,
+      "minimumValue": 12,
+      "maximumValue": 17,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "101",
-      "effectID": "2101",
-      "minimumValue": "7.5",
-      "maximumValue": "30",
+      "id": 101,
+      "effectID": 2101,
+      "minimumValue": 7.5,
+      "maximumValue": 30,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "102",
-      "effectID": "2102",
-      "minimumValue": "7.5",
-      "maximumValue": "30",
+      "id": 102,
+      "effectID": 2102,
+      "minimumValue": 7.5,
+      "maximumValue": 30,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "103",
-      "effectID": "2103",
-      "minimumValue": "4.5",
-      "maximumValue": "18",
+      "id": 103,
+      "effectID": 2103,
+      "minimumValue": 4.5,
+      "maximumValue": 18,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "104",
-      "effectID": "2104",
-      "minimumValue": "4.5",
-      "maximumValue": "18",
+      "id": 104,
+      "effectID": 2104,
+      "minimumValue": 4.5,
+      "maximumValue": 18,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "105",
-      "effectID": "2105",
-      "minimumValue": "4.5",
-      "maximumValue": "18",
+      "id": 105,
+      "effectID": 2105,
+      "minimumValue": 4.5,
+      "maximumValue": 18,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "106",
-      "effectID": "2106",
-      "minimumValue": "1.5",
-      "maximumValue": "6",
+      "id": 106,
+      "effectID": 2106,
+      "minimumValue": 1.5,
+      "maximumValue": 6,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "107",
-      "effectID": "2107",
-      "minimumValue": "4.5",
-      "maximumValue": "18",
+      "id": 107,
+      "effectID": 2107,
+      "minimumValue": 4.5,
+      "maximumValue": 18,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "108",
-      "effectID": "2101",
-      "minimumValue": "8",
-      "maximumValue": "48",
+      "id": 108,
+      "effectID": 2101,
+      "minimumValue": 8,
+      "maximumValue": 48,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "109",
-      "effectID": "2102",
-      "minimumValue": "8",
-      "maximumValue": "48",
+      "id": 109,
+      "effectID": 2102,
+      "minimumValue": 8,
+      "maximumValue": 48,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "110",
-      "effectID": "2103",
-      "minimumValue": "8",
-      "maximumValue": "38",
+      "id": 110,
+      "effectID": 2103,
+      "minimumValue": 8,
+      "maximumValue": 38,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "111",
-      "effectID": "2104",
-      "minimumValue": "8",
-      "maximumValue": "38",
+      "id": 111,
+      "effectID": 2104,
+      "minimumValue": 8,
+      "maximumValue": 38,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "112",
-      "effectID": "2105",
-      "minimumValue": "8",
-      "maximumValue": "38",
+      "id": 112,
+      "effectID": 2105,
+      "minimumValue": 8,
+      "maximumValue": 38,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "113",
-      "effectID": "2106",
-      "minimumValue": "3",
-      "maximumValue": "18",
+      "id": 113,
+      "effectID": 2106,
+      "minimumValue": 3,
+      "maximumValue": 18,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "114",
-      "effectID": "2107",
-      "minimumValue": "5",
-      "maximumValue": "28",
+      "id": 114,
+      "effectID": 2107,
+      "minimumValue": 5,
+      "maximumValue": 28,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "115",
-      "effectID": "2108",
-      "minimumValue": "5",
-      "maximumValue": "45",
+      "id": 115,
+      "effectID": 2108,
+      "minimumValue": 5,
+      "maximumValue": 45,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "116",
-      "effectID": "2109",
-      "minimumValue": "15",
-      "maximumValue": "95",
+      "id": 116,
+      "effectID": 2109,
+      "minimumValue": 15,
+      "maximumValue": 95,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "117",
-      "effectID": "2110",
-      "minimumValue": "5",
-      "maximumValue": "45",
+      "id": 117,
+      "effectID": 2110,
+      "minimumValue": 5,
+      "maximumValue": 45,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "118",
-      "effectID": "2111",
-      "minimumValue": "1",
-      "maximumValue": "15",
+      "id": 118,
+      "effectID": 2111,
+      "minimumValue": 1,
+      "maximumValue": 15,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "119",
-      "effectID": "2112",
-      "minimumValue": "1",
-      "maximumValue": "15",
+      "id": 119,
+      "effectID": 2112,
+      "minimumValue": 1,
+      "maximumValue": 15,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "120",
-      "effectID": "2113",
-      "minimumValue": "1",
-      "maximumValue": "15",
+      "id": 120,
+      "effectID": 2113,
+      "minimumValue": 1,
+      "maximumValue": 15,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "121",
-      "effectID": "2114",
-      "minimumValue": "10",
-      "maximumValue": "1000",
+      "id": 121,
+      "effectID": 2114,
+      "minimumValue": 10,
+      "maximumValue": 1000,
       "relicEffectType": "normal",
       "valueTextType": "relicIncreaseInt",
-      "effectValueKeys": "204"
+      "effectValueKeys": 204
     },
     {
-      "id": "201",
-      "effectID": "2108",
-      "minimumValue": "3.5",
-      "maximumValue": "14",
+      "id": 201,
+      "effectID": 2108,
+      "minimumValue": 3.5,
+      "maximumValue": 14,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "202",
-      "effectID": "2109",
-      "minimumValue": "12.25",
-      "maximumValue": "49",
+      "id": 202,
+      "effectID": 2109,
+      "minimumValue": 12.25,
+      "maximumValue": 49,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "203",
-      "effectID": "2201",
-      "minimumValue": "1.75",
-      "maximumValue": "7",
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": "204",
-      "effectID": "2202",
-      "minimumValue": "1.75",
-      "maximumValue": "7",
+      "id": 203,
+      "effectID": 2201,
+      "minimumValue": 1.75,
+      "maximumValue": 7,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "205",
-      "effectID": "2203",
-      "minimumValue": "3.5",
-      "maximumValue": "14",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "206",
-      "effectID": "2204",
-      "minimumValue": "3.5",
-      "maximumValue": "14",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "207",
-      "effectID": "2205",
-      "minimumValue": "1.75",
-      "maximumValue": "7",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "208",
-      "effectID": "2206",
-      "minimumValue": "5.25",
-      "maximumValue": "21",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "209",
-      "effectID": "2201",
-      "minimumValue": "2",
-      "maximumValue": "25",
+      "id": 204,
+      "effectID": 2202,
+      "minimumValue": 1.75,
+      "maximumValue": 7,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "210",
-      "effectID": "2202",
-      "minimumValue": "2",
-      "maximumValue": "25",
+      "id": 205,
+      "effectID": 2203,
+      "minimumValue": 3.5,
+      "maximumValue": 14,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 206,
+      "effectID": 2204,
+      "minimumValue": 3.5,
+      "maximumValue": 14,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 207,
+      "effectID": 2205,
+      "minimumValue": 1.75,
+      "maximumValue": 7,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 208,
+      "effectID": 2206,
+      "minimumValue": 5.25,
+      "maximumValue": 21,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 209,
+      "effectID": 2201,
+      "minimumValue": 2,
+      "maximumValue": 25,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "211",
-      "effectID": "2203",
-      "minimumValue": "4",
-      "maximumValue": "20",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "212",
-      "effectID": "2204",
-      "minimumValue": "4",
-      "maximumValue": "20",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "213",
-      "effectID": "2205",
-      "minimumValue": "2",
-      "maximumValue": "15",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "214",
-      "effectID": "2206",
-      "minimumValue": "6",
-      "maximumValue": "25",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "215",
-      "effectID": "2207",
-      "minimumValue": "2",
-      "maximumValue": "15",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "216",
-      "effectID": "2208",
-      "minimumValue": "1",
-      "maximumValue": "10",
+      "id": 210,
+      "effectID": 2202,
+      "minimumValue": 2,
+      "maximumValue": 25,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "217",
-      "effectID": "2209",
-      "minimumValue": "4",
-      "maximumValue": "20",
+      "id": 211,
+      "effectID": 2203,
+      "minimumValue": 4,
+      "maximumValue": 20,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "218",
-      "effectID": "2210",
-      "minimumValue": "1",
-      "maximumValue": "5",
+      "id": 212,
+      "effectID": 2204,
+      "minimumValue": 4,
+      "maximumValue": 20,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "219",
-      "effectID": "2211",
-      "minimumValue": "1",
-      "maximumValue": "5",
+      "id": 213,
+      "effectID": 2205,
+      "minimumValue": 2,
+      "maximumValue": 15,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "220",
-      "effectID": "2212",
-      "minimumValue": "1",
-      "maximumValue": "5",
+      "id": 214,
+      "effectID": 2206,
+      "minimumValue": 6,
+      "maximumValue": 25,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "301",
-      "effectID": "2108",
-      "minimumValue": "3.5",
-      "maximumValue": "14",
+      "id": 215,
+      "effectID": 2207,
+      "minimumValue": 2,
+      "maximumValue": 15,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "302",
-      "effectID": "2109",
-      "minimumValue": "12.25",
-      "maximumValue": "49",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "303",
-      "effectID": "2301",
-      "minimumValue": "1.75",
-      "maximumValue": "7",
+      "id": 216,
+      "effectID": 2208,
+      "minimumValue": 1,
+      "maximumValue": 10,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "304",
-      "effectID": "2302",
-      "minimumValue": "1.75",
-      "maximumValue": "7",
+      "id": 217,
+      "effectID": 2209,
+      "minimumValue": 4,
+      "maximumValue": 20,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 218,
+      "effectID": 2210,
+      "minimumValue": 1,
+      "maximumValue": 5,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 219,
+      "effectID": 2211,
+      "minimumValue": 1,
+      "maximumValue": 5,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 220,
+      "effectID": 2212,
+      "minimumValue": 1,
+      "maximumValue": 5,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 301,
+      "effectID": 2108,
+      "minimumValue": 3.5,
+      "maximumValue": 14,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 302,
+      "effectID": 2109,
+      "minimumValue": 12.25,
+      "maximumValue": 49,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 303,
+      "effectID": 2301,
+      "minimumValue": 1.75,
+      "maximumValue": 7,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "305",
-      "effectID": "2303",
-      "minimumValue": "3.5",
-      "maximumValue": "14",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "306",
-      "effectID": "2304",
-      "minimumValue": "3.5",
-      "maximumValue": "14",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "307",
-      "effectID": "2305",
-      "minimumValue": "1.75",
-      "maximumValue": "7",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "308",
-      "effectID": "2306",
-      "minimumValue": "1.75",
-      "maximumValue": "7",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "309",
-      "effectID": "2301",
-      "minimumValue": "2",
-      "maximumValue": "25",
+      "id": 304,
+      "effectID": 2302,
+      "minimumValue": 1.75,
+      "maximumValue": 7,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "310",
-      "effectID": "2302",
-      "minimumValue": "2",
-      "maximumValue": "25",
+      "id": 305,
+      "effectID": 2303,
+      "minimumValue": 3.5,
+      "maximumValue": 14,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 306,
+      "effectID": 2304,
+      "minimumValue": 3.5,
+      "maximumValue": 14,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 307,
+      "effectID": 2305,
+      "minimumValue": 1.75,
+      "maximumValue": 7,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 308,
+      "effectID": 2306,
+      "minimumValue": 1.75,
+      "maximumValue": 7,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 309,
+      "effectID": 2301,
+      "minimumValue": 2,
+      "maximumValue": 25,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "311",
-      "effectID": "2303",
-      "minimumValue": "4",
-      "maximumValue": "20",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "312",
-      "effectID": "2304",
-      "minimumValue": "4",
-      "maximumValue": "20",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "313",
-      "effectID": "2305",
-      "minimumValue": "2",
-      "maximumValue": "15",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "314",
-      "effectID": "2306",
-      "minimumValue": "6",
-      "maximumValue": "25",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "315",
-      "effectID": "2307",
-      "minimumValue": "2",
-      "maximumValue": "15",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "316",
-      "effectID": "2308",
-      "minimumValue": "5",
-      "maximumValue": "40",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "317",
-      "effectID": "2309",
-      "minimumValue": "1",
-      "maximumValue": "10",
+      "id": 310,
+      "effectID": 2302,
+      "minimumValue": 2,
+      "maximumValue": 25,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "318",
-      "effectID": "2310",
-      "minimumValue": "2",
-      "maximumValue": "20",
+      "id": 311,
+      "effectID": 2303,
+      "minimumValue": 4,
+      "maximumValue": 20,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "319",
-      "effectID": "2311",
-      "minimumValue": "1",
-      "maximumValue": "10",
+      "id": 312,
+      "effectID": 2304,
+      "minimumValue": 4,
+      "maximumValue": 20,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "320",
-      "effectID": "2312",
-      "minimumValue": "2",
-      "maximumValue": "20",
+      "id": 313,
+      "effectID": 2305,
+      "minimumValue": 2,
+      "maximumValue": 15,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "401",
-      "effectID": "2401",
-      "minimumValue": "10.5",
-      "maximumValue": "42",
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": "402",
-      "effectID": "2402",
-      "minimumValue": "10.5",
-      "maximumValue": "42",
-      "relicEffectType": "normal",
-      "valueTextType": "relicDecrease"
-    },
-    {
-      "id": "403",
-      "effectID": "2403",
-      "minimumValue": "7.5",
-      "maximumValue": "30",
+      "id": 314,
+      "effectID": 2306,
+      "minimumValue": 6,
+      "maximumValue": 25,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "404",
-      "effectID": "2404",
-      "minimumValue": "7.5",
-      "maximumValue": "30",
+      "id": 315,
+      "effectID": 2307,
+      "minimumValue": 2,
+      "maximumValue": 15,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "405",
-      "effectID": "2405",
-      "minimumValue": "4.5",
-      "maximumValue": "18",
+      "id": 316,
+      "effectID": 2308,
+      "minimumValue": 5,
+      "maximumValue": 40,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "406",
-      "effectID": "2406",
-      "minimumValue": "10.5",
-      "maximumValue": "42",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "407",
-      "effectID": "2401",
-      "minimumValue": "11",
-      "maximumValue": "55",
+      "id": 317,
+      "effectID": 2309,
+      "minimumValue": 1,
+      "maximumValue": 10,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "408",
-      "effectID": "2402",
-      "minimumValue": "11",
-      "maximumValue": "55",
+      "id": 318,
+      "effectID": 2310,
+      "minimumValue": 2,
+      "maximumValue": 20,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 319,
+      "effectID": 2311,
+      "minimumValue": 1,
+      "maximumValue": 10,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 320,
+      "effectID": 2312,
+      "minimumValue": 2,
+      "maximumValue": 20,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 401,
+      "effectID": 2401,
+      "minimumValue": 10.5,
+      "maximumValue": 42,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "409",
-      "effectID": "2403",
-      "minimumValue": "8",
-      "maximumValue": "45",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "410",
-      "effectID": "2404",
-      "minimumValue": "8",
-      "maximumValue": "45",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "411",
-      "effectID": "2405",
-      "minimumValue": "5",
-      "maximumValue": "35",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "412",
-      "effectID": "2406",
-      "minimumValue": "11",
-      "maximumValue": "55",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "413",
-      "effectID": "2407",
-      "minimumValue": "5",
-      "maximumValue": "35",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "414",
-      "effectID": "2408",
-      "minimumValue": "5",
-      "maximumValue": "25",
+      "id": 402,
+      "effectID": 2402,
+      "minimumValue": 10.5,
+      "maximumValue": 42,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "415",
-      "effectID": "2409",
-      "minimumValue": "2",
-      "maximumValue": "15",
+      "id": 403,
+      "effectID": 2403,
+      "minimumValue": 7.5,
+      "maximumValue": 30,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "501",
-      "effectID": "2501",
-      "minimumValue": "10.5",
-      "maximumValue": "42",
+      "id": 404,
+      "effectID": 2404,
+      "minimumValue": 7.5,
+      "maximumValue": 30,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 405,
+      "effectID": 2405,
+      "minimumValue": 4.5,
+      "maximumValue": 18,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 406,
+      "effectID": 2406,
+      "minimumValue": 10.5,
+      "maximumValue": 42,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 407,
+      "effectID": 2401,
+      "minimumValue": 11,
+      "maximumValue": 55,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "502",
-      "effectID": "2502",
-      "minimumValue": "10.5",
-      "maximumValue": "42",
+      "id": 408,
+      "effectID": 2402,
+      "minimumValue": 11,
+      "maximumValue": 55,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "503",
-      "effectID": "2503",
-      "minimumValue": "7.5",
-      "maximumValue": "30",
+      "id": 409,
+      "effectID": 2403,
+      "minimumValue": 8,
+      "maximumValue": 45,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "504",
-      "effectID": "2504",
-      "minimumValue": "7.5",
-      "maximumValue": "30",
+      "id": 410,
+      "effectID": 2404,
+      "minimumValue": 8,
+      "maximumValue": 45,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "505",
-      "effectID": "2505",
-      "minimumValue": "4.5",
-      "maximumValue": "18",
+      "id": 411,
+      "effectID": 2405,
+      "minimumValue": 5,
+      "maximumValue": 35,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "506",
-      "effectID": "2506",
-      "minimumValue": "10.5",
-      "maximumValue": "42",
+      "id": 412,
+      "effectID": 2406,
+      "minimumValue": 11,
+      "maximumValue": 55,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "507",
-      "effectID": "2501",
-      "minimumValue": "11",
-      "maximumValue": "55",
+      "id": 413,
+      "effectID": 2407,
+      "minimumValue": 5,
+      "maximumValue": 35,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 414,
+      "effectID": 2408,
+      "minimumValue": 5,
+      "maximumValue": 25,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "508",
-      "effectID": "2502",
-      "minimumValue": "11",
-      "maximumValue": "55",
+      "id": 415,
+      "effectID": 2409,
+      "minimumValue": 2,
+      "maximumValue": 15,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 501,
+      "effectID": 2501,
+      "minimumValue": 10.5,
+      "maximumValue": 42,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "509",
-      "effectID": "2503",
-      "minimumValue": "8",
-      "maximumValue": "45",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "510",
-      "effectID": "2504",
-      "minimumValue": "8",
-      "maximumValue": "45",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "511",
-      "effectID": "2505",
-      "minimumValue": "5",
-      "maximumValue": "35",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "512",
-      "effectID": "2506",
-      "minimumValue": "11",
-      "maximumValue": "55",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "513",
-      "effectID": "2507",
-      "minimumValue": "5",
-      "maximumValue": "35",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "514",
-      "effectID": "2508",
-      "minimumValue": "5",
-      "maximumValue": "25",
+      "id": 502,
+      "effectID": 2502,
+      "minimumValue": 10.5,
+      "maximumValue": 42,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "515",
-      "effectID": "2509",
-      "minimumValue": "2",
-      "maximumValue": "15",
+      "id": 503,
+      "effectID": 2503,
+      "minimumValue": 7.5,
+      "maximumValue": 30,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "601",
-      "effectID": "2601",
-      "minimumValue": "28.5",
-      "maximumValue": "114",
+      "id": 504,
+      "effectID": 2504,
+      "minimumValue": 7.5,
+      "maximumValue": 30,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "602",
-      "effectID": "2602",
-      "minimumValue": "10.5",
-      "maximumValue": "42",
+      "id": 505,
+      "effectID": 2505,
+      "minimumValue": 4.5,
+      "maximumValue": 18,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 506,
+      "effectID": 2506,
+      "minimumValue": 10.5,
+      "maximumValue": 42,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 507,
+      "effectID": 2501,
+      "minimumValue": 11,
+      "maximumValue": 55,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "603",
-      "effectID": "2603",
-      "minimumValue": "10.5",
-      "maximumValue": "42",
+      "id": 508,
+      "effectID": 2502,
+      "minimumValue": 11,
+      "maximumValue": 55,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "604",
-      "effectID": "2604",
-      "minimumValue": "4.5",
-      "maximumValue": "18",
+      "id": 509,
+      "effectID": 2503,
+      "minimumValue": 8,
+      "maximumValue": 45,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 510,
+      "effectID": 2504,
+      "minimumValue": 8,
+      "maximumValue": 45,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 511,
+      "effectID": 2505,
+      "minimumValue": 5,
+      "maximumValue": 35,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 512,
+      "effectID": 2506,
+      "minimumValue": 11,
+      "maximumValue": 55,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 513,
+      "effectID": 2507,
+      "minimumValue": 5,
+      "maximumValue": 35,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 514,
+      "effectID": 2508,
+      "minimumValue": 5,
+      "maximumValue": 25,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "605",
-      "effectID": "2605",
-      "minimumValue": "7.5",
-      "maximumValue": "30",
+      "id": 515,
+      "effectID": 2509,
+      "minimumValue": 2,
+      "maximumValue": 15,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "606",
-      "effectID": "2606",
-      "minimumValue": "7.5",
-      "maximumValue": "30",
+      "id": 601,
+      "effectID": 2601,
+      "minimumValue": 28.5,
+      "maximumValue": 114,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "607",
-      "effectID": "2607",
-      "minimumValue": "4.5",
-      "maximumValue": "18",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "608",
-      "effectID": "2608",
-      "minimumValue": "10.5",
-      "maximumValue": "42",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "609",
-      "effectID": "2601",
-      "minimumValue": "29",
-      "maximumValue": "115",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "610",
-      "effectID": "2602",
-      "minimumValue": "11",
-      "maximumValue": "55",
+      "id": 602,
+      "effectID": 2602,
+      "minimumValue": 10.5,
+      "maximumValue": 42,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "611",
-      "effectID": "2603",
-      "minimumValue": "11",
-      "maximumValue": "55",
+      "id": 603,
+      "effectID": 2603,
+      "minimumValue": 10.5,
+      "maximumValue": 42,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "612",
-      "effectID": "2604",
-      "minimumValue": "5",
-      "maximumValue": "25",
+      "id": 604,
+      "effectID": 2604,
+      "minimumValue": 4.5,
+      "maximumValue": 18,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "613",
-      "effectID": "2605",
-      "minimumValue": "8",
-      "maximumValue": "45",
+      "id": 605,
+      "effectID": 2605,
+      "minimumValue": 7.5,
+      "maximumValue": 30,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "614",
-      "effectID": "2606",
-      "minimumValue": "8",
-      "maximumValue": "45",
+      "id": 606,
+      "effectID": 2606,
+      "minimumValue": 7.5,
+      "maximumValue": 30,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "615",
-      "effectID": "2607",
-      "minimumValue": "5",
-      "maximumValue": "35",
+      "id": 607,
+      "effectID": 2607,
+      "minimumValue": 4.5,
+      "maximumValue": 18,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "616",
-      "effectID": "2608",
-      "minimumValue": "11",
-      "maximumValue": "55",
+      "id": 608,
+      "effectID": 2608,
+      "minimumValue": 10.5,
+      "maximumValue": 42,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "617",
-      "effectID": "2609",
-      "minimumValue": "5",
-      "maximumValue": "35",
+      "id": 609,
+      "effectID": 2601,
+      "minimumValue": 29,
+      "maximumValue": 115,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "701",
-      "effectID": "2701",
-      "minimumValue": "10.5",
-      "maximumValue": "42",
+      "id": 610,
+      "effectID": 2602,
+      "minimumValue": 11,
+      "maximumValue": 55,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "702",
-      "effectID": "2702",
-      "minimumValue": "10.5",
-      "maximumValue": "42",
+      "id": 611,
+      "effectID": 2603,
+      "minimumValue": 11,
+      "maximumValue": 55,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "703",
-      "effectID": "2703",
-      "minimumValue": "7.5",
-      "maximumValue": "30",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "704",
-      "effectID": "2704",
-      "minimumValue": "7.5",
-      "maximumValue": "30",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "705",
-      "effectID": "2705",
-      "minimumValue": "4.5",
-      "maximumValue": "18",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "706",
-      "effectID": "2706",
-      "minimumValue": "10.5",
-      "maximumValue": "42",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "707",
-      "effectID": "2701",
-      "minimumValue": "11",
-      "maximumValue": "55",
+      "id": 612,
+      "effectID": 2604,
+      "minimumValue": 5,
+      "maximumValue": 25,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "708",
-      "effectID": "2702",
-      "minimumValue": "11",
-      "maximumValue": "55",
+      "id": 613,
+      "effectID": 2605,
+      "minimumValue": 8,
+      "maximumValue": 45,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 614,
+      "effectID": 2606,
+      "minimumValue": 8,
+      "maximumValue": 45,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 615,
+      "effectID": 2607,
+      "minimumValue": 5,
+      "maximumValue": 35,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 616,
+      "effectID": 2608,
+      "minimumValue": 11,
+      "maximumValue": 55,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 617,
+      "effectID": 2609,
+      "minimumValue": 5,
+      "maximumValue": 35,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 701,
+      "effectID": 2701,
+      "minimumValue": 10.5,
+      "maximumValue": 42,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "709",
-      "effectID": "2703",
-      "minimumValue": "8",
-      "maximumValue": "45",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "710",
-      "effectID": "2704",
-      "minimumValue": "8",
-      "maximumValue": "45",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "711",
-      "effectID": "2705",
-      "minimumValue": "5",
-      "maximumValue": "35",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "712",
-      "effectID": "2706",
-      "minimumValue": "11",
-      "maximumValue": "55",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "713",
-      "effectID": "2707",
-      "minimumValue": "5",
-      "maximumValue": "35",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "714",
-      "effectID": "2708",
-      "minimumValue": "5",
-      "maximumValue": "25",
+      "id": 702,
+      "effectID": 2702,
+      "minimumValue": 10.5,
+      "maximumValue": 42,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "715",
-      "effectID": "2709",
-      "minimumValue": "2",
-      "maximumValue": "15",
+      "id": 703,
+      "effectID": 2703,
+      "minimumValue": 7.5,
+      "maximumValue": 30,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "801",
-      "effectID": "2801",
-      "minimumValue": "75",
-      "maximumValue": "90",
+      "id": 704,
+      "effectID": 2704,
+      "minimumValue": 7.5,
+      "maximumValue": 30,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "802",
-      "effectID": "2802",
-      "minimumValue": "5",
-      "maximumValue": "20",
+      "id": 705,
+      "effectID": 2705,
+      "minimumValue": 4.5,
+      "maximumValue": 18,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 706,
+      "effectID": 2706,
+      "minimumValue": 10.5,
+      "maximumValue": 42,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 707,
+      "effectID": 2701,
+      "minimumValue": 11,
+      "maximumValue": 55,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "803",
-      "effectID": "2803",
-      "minimumValue": "4.5",
-      "maximumValue": "18",
+      "id": 708,
+      "effectID": 2702,
+      "minimumValue": 11,
+      "maximumValue": 55,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "804",
-      "effectID": "2804",
-      "minimumValue": "4.5",
-      "maximumValue": "18",
+      "id": 709,
+      "effectID": 2703,
+      "minimumValue": 8,
+      "maximumValue": 45,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 710,
+      "effectID": 2704,
+      "minimumValue": 8,
+      "maximumValue": 45,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 711,
+      "effectID": 2705,
+      "minimumValue": 5,
+      "maximumValue": 35,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 712,
+      "effectID": 2706,
+      "minimumValue": 11,
+      "maximumValue": 55,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 713,
+      "effectID": 2707,
+      "minimumValue": 5,
+      "maximumValue": 35,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 714,
+      "effectID": 2708,
+      "minimumValue": 5,
+      "maximumValue": 25,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "805",
-      "effectID": "2805",
-      "minimumValue": "4.5",
-      "maximumValue": "18",
+      "id": 715,
+      "effectID": 2709,
+      "minimumValue": 2,
+      "maximumValue": 15,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "806",
-      "effectID": "2801",
-      "minimumValue": "75",
-      "maximumValue": "90",
+      "id": 801,
+      "effectID": 2801,
+      "minimumValue": 75,
+      "maximumValue": 90,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "807",
-      "effectID": "2802",
-      "minimumValue": "5",
-      "maximumValue": "25",
+      "id": 802,
+      "effectID": 2802,
+      "minimumValue": 5,
+      "maximumValue": 20,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "808",
-      "effectID": "2803",
-      "minimumValue": "11",
-      "maximumValue": "55",
+      "id": 803,
+      "effectID": 2803,
+      "minimumValue": 4.5,
+      "maximumValue": 18,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "809",
-      "effectID": "2804",
-      "minimumValue": "11",
-      "maximumValue": "55",
+      "id": 804,
+      "effectID": 2804,
+      "minimumValue": 4.5,
+      "maximumValue": 18,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "810",
-      "effectID": "2805",
-      "minimumValue": "11",
-      "maximumValue": "55",
+      "id": 805,
+      "effectID": 2805,
+      "minimumValue": 4.5,
+      "maximumValue": 18,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "811",
-      "effectID": "2806",
-      "minimumValue": "5",
-      "maximumValue": "35",
+      "id": 806,
+      "effectID": 2801,
+      "minimumValue": 75,
+      "maximumValue": 90,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "812",
-      "effectID": "2807",
-      "minimumValue": "5",
-      "maximumValue": "35",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "813",
-      "effectID": "2808",
-      "minimumValue": "8",
-      "maximumValue": "45",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "814",
-      "effectID": "2809",
-      "minimumValue": "8",
-      "maximumValue": "45",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "815",
-      "effectID": "2810",
-      "minimumValue": "4",
-      "maximumValue": "45",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "816",
-      "effectID": "2811",
-      "minimumValue": "2",
-      "maximumValue": "25",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10001",
-      "effectID": "12101",
-      "minimumValue": "12",
-      "maximumValue": "17",
+      "id": 807,
+      "effectID": 2802,
+      "minimumValue": 5,
+      "maximumValue": 25,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "10002",
-      "effectID": "12102",
-      "minimumValue": "112",
-      "maximumValue": "117",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10003",
-      "effectID": "12103",
-      "minimumValue": "112",
-      "maximumValue": "117",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10004",
-      "effectID": "12104",
-      "minimumValue": "72",
-      "maximumValue": "77",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10005",
-      "effectID": "12105",
-      "minimumValue": "82",
-      "maximumValue": "87",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10006",
-      "effectID": "12106",
-      "minimumValue": "82",
-      "maximumValue": "87",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10101",
-      "effectID": "12101",
-      "minimumValue": "4.5",
-      "maximumValue": "18",
+      "id": 808,
+      "effectID": 2803,
+      "minimumValue": 11,
+      "maximumValue": 55,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "10102",
-      "effectID": "12102",
-      "minimumValue": "4.5",
-      "maximumValue": "18",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10103",
-      "effectID": "12103",
-      "minimumValue": "4.5",
-      "maximumValue": "18",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10104",
-      "effectID": "12104",
-      "minimumValue": "4.5",
-      "maximumValue": "18",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10105",
-      "effectID": "12105",
-      "minimumValue": "7.5",
-      "maximumValue": "30",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10106",
-      "effectID": "12106",
-      "minimumValue": "7.5",
-      "maximumValue": "30",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10107",
-      "effectID": "12101",
-      "minimumValue": "5",
-      "maximumValue": "28",
+      "id": 809,
+      "effectID": 2804,
+      "minimumValue": 11,
+      "maximumValue": 55,
       "relicEffectType": "normal",
       "valueTextType": "relicDecrease"
     },
     {
-      "id": "10108",
-      "effectID": "12102",
-      "minimumValue": "8",
-      "maximumValue": "38",
+      "id": 810,
+      "effectID": 2805,
+      "minimumValue": 11,
+      "maximumValue": 55,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10109",
-      "effectID": "12103",
-      "minimumValue": "8",
-      "maximumValue": "38",
+      "id": 811,
+      "effectID": 2806,
+      "minimumValue": 5,
+      "maximumValue": 35,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10110",
-      "effectID": "12104",
-      "minimumValue": "8",
-      "maximumValue": "38",
+      "id": 812,
+      "effectID": 2807,
+      "minimumValue": 5,
+      "maximumValue": 35,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10111",
-      "effectID": "12105",
-      "minimumValue": "8",
-      "maximumValue": "48",
+      "id": 813,
+      "effectID": 2808,
+      "minimumValue": 8,
+      "maximumValue": 45,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10112",
-      "effectID": "12106",
-      "minimumValue": "8",
-      "maximumValue": "48",
+      "id": 814,
+      "effectID": 2809,
+      "minimumValue": 8,
+      "maximumValue": 45,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10113",
-      "effectID": "12107",
-      "minimumValue": "5",
-      "maximumValue": "45",
+      "id": 815,
+      "effectID": 2810,
+      "minimumValue": 4,
+      "maximumValue": 45,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10114",
-      "effectID": "12108",
-      "minimumValue": "15",
-      "maximumValue": "95",
+      "id": 816,
+      "effectID": 2811,
+      "minimumValue": 2,
+      "maximumValue": 25,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10115",
-      "effectID": "12109",
-      "minimumValue": "1",
-      "maximumValue": "15",
+      "id": 10001,
+      "effectID": 12101,
+      "minimumValue": 12,
+      "maximumValue": 17,
+      "relicEffectType": "normal",
+      "valueTextType": "relicDecrease"
+    },
+    {
+      "id": 10002,
+      "effectID": 12102,
+      "minimumValue": 112,
+      "maximumValue": 117,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10116",
-      "effectID": "12110",
-      "minimumValue": "1",
-      "maximumValue": "15",
+      "id": 10003,
+      "effectID": 12103,
+      "minimumValue": 112,
+      "maximumValue": 117,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10117",
-      "effectID": "12111",
-      "minimumValue": "1",
-      "maximumValue": "15",
+      "id": 10004,
+      "effectID": 12104,
+      "minimumValue": 72,
+      "maximumValue": 77,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10118",
-      "effectID": "12112",
-      "minimumValue": "10",
-      "maximumValue": "1000",
+      "id": 10005,
+      "effectID": 12105,
+      "minimumValue": 82,
+      "maximumValue": 87,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10006,
+      "effectID": 12106,
+      "minimumValue": 82,
+      "maximumValue": 87,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10101,
+      "effectID": 12101,
+      "minimumValue": 4.5,
+      "maximumValue": 18,
+      "relicEffectType": "normal",
+      "valueTextType": "relicDecrease"
+    },
+    {
+      "id": 10102,
+      "effectID": 12102,
+      "minimumValue": 4.5,
+      "maximumValue": 18,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10103,
+      "effectID": 12103,
+      "minimumValue": 4.5,
+      "maximumValue": 18,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10104,
+      "effectID": 12104,
+      "minimumValue": 4.5,
+      "maximumValue": 18,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10105,
+      "effectID": 12105,
+      "minimumValue": 7.5,
+      "maximumValue": 30,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10106,
+      "effectID": 12106,
+      "minimumValue": 7.5,
+      "maximumValue": 30,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10107,
+      "effectID": 12101,
+      "minimumValue": 5,
+      "maximumValue": 28,
+      "relicEffectType": "normal",
+      "valueTextType": "relicDecrease"
+    },
+    {
+      "id": 10108,
+      "effectID": 12102,
+      "minimumValue": 8,
+      "maximumValue": 38,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10109,
+      "effectID": 12103,
+      "minimumValue": 8,
+      "maximumValue": 38,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10110,
+      "effectID": 12104,
+      "minimumValue": 8,
+      "maximumValue": 38,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10111,
+      "effectID": 12105,
+      "minimumValue": 8,
+      "maximumValue": 48,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10112,
+      "effectID": 12106,
+      "minimumValue": 8,
+      "maximumValue": 48,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10113,
+      "effectID": 12107,
+      "minimumValue": 5,
+      "maximumValue": 45,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10114,
+      "effectID": 12108,
+      "minimumValue": 15,
+      "maximumValue": 95,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10115,
+      "effectID": 12109,
+      "minimumValue": 1,
+      "maximumValue": 15,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10116,
+      "effectID": 12110,
+      "minimumValue": 1,
+      "maximumValue": 15,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10117,
+      "effectID": 12111,
+      "minimumValue": 1,
+      "maximumValue": 15,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10118,
+      "effectID": 12112,
+      "minimumValue": 10,
+      "maximumValue": 1000,
       "relicEffectType": "normal",
       "valueTextType": "relicIncreaseInt",
-      "effectValueKeys": "227"
+      "effectValueKeys": 227
     },
     {
-      "id": "10119",
-      "effectID": "2115",
-      "minimumValue": "120",
-      "maximumValue": "750",
+      "id": 10119,
+      "effectID": 2115,
+      "minimumValue": 120,
+      "maximumValue": 750,
       "relicEffectType": "normal",
       "valueTextType": "relicIncreaseInt"
     },
     {
-      "id": "10120",
-      "effectID": "12113",
-      "minimumValue": "120",
-      "maximumValue": "750",
+      "id": 10120,
+      "effectID": 12113,
+      "minimumValue": 120,
+      "maximumValue": 750,
       "relicEffectType": "normal",
       "valueTextType": "relicIncreaseInt"
     },
     {
-      "id": "10201",
-      "effectID": "12107",
-      "minimumValue": "3.5",
-      "maximumValue": "14",
+      "id": 10201,
+      "effectID": 12107,
+      "minimumValue": 3.5,
+      "maximumValue": 14,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10202",
-      "effectID": "12108",
-      "minimumValue": "12.25",
-      "maximumValue": "49",
+      "id": 10202,
+      "effectID": 12108,
+      "minimumValue": 12.25,
+      "maximumValue": 49,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10203",
-      "effectID": "12201",
-      "minimumValue": "1.75",
-      "maximumValue": "7",
+      "id": 10203,
+      "effectID": 12201,
+      "minimumValue": 1.75,
+      "maximumValue": 7,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10204",
-      "effectID": "12202",
-      "minimumValue": "1.75",
-      "maximumValue": "7",
+      "id": 10204,
+      "effectID": 12202,
+      "minimumValue": 1.75,
+      "maximumValue": 7,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10205",
-      "effectID": "12203",
-      "minimumValue": "3.5",
-      "maximumValue": "14",
+      "id": 10205,
+      "effectID": 12203,
+      "minimumValue": 3.5,
+      "maximumValue": 14,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10206",
-      "effectID": "12204",
-      "minimumValue": "3.5",
-      "maximumValue": "14",
+      "id": 10206,
+      "effectID": 12204,
+      "minimumValue": 3.5,
+      "maximumValue": 14,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10207",
-      "effectID": "12205",
-      "minimumValue": "1.75",
-      "maximumValue": "7",
+      "id": 10207,
+      "effectID": 12205,
+      "minimumValue": 1.75,
+      "maximumValue": 7,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10208",
-      "effectID": "12206",
-      "minimumValue": "1.75",
-      "maximumValue": "7",
+      "id": 10208,
+      "effectID": 12206,
+      "minimumValue": 1.75,
+      "maximumValue": 7,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10209",
-      "effectID": "12201",
-      "minimumValue": "2",
-      "maximumValue": "25",
+      "id": 10209,
+      "effectID": 12201,
+      "minimumValue": 2,
+      "maximumValue": 25,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10210",
-      "effectID": "12202",
-      "minimumValue": "2",
-      "maximumValue": "25",
+      "id": 10210,
+      "effectID": 12202,
+      "minimumValue": 2,
+      "maximumValue": 25,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10211",
-      "effectID": "12203",
-      "minimumValue": "4",
-      "maximumValue": "20",
+      "id": 10211,
+      "effectID": 12203,
+      "minimumValue": 4,
+      "maximumValue": 20,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10212",
-      "effectID": "12204",
-      "minimumValue": "4",
-      "maximumValue": "20",
+      "id": 10212,
+      "effectID": 12204,
+      "minimumValue": 4,
+      "maximumValue": 20,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10213",
-      "effectID": "12205",
-      "minimumValue": "2",
-      "maximumValue": "15",
+      "id": 10213,
+      "effectID": 12205,
+      "minimumValue": 2,
+      "maximumValue": 15,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10214",
-      "effectID": "12206",
-      "minimumValue": "6",
-      "maximumValue": "25",
+      "id": 10214,
+      "effectID": 12206,
+      "minimumValue": 6,
+      "maximumValue": 25,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10215",
-      "effectID": "12207",
-      "minimumValue": "1",
-      "maximumValue": "10",
+      "id": 10215,
+      "effectID": 12207,
+      "minimumValue": 1,
+      "maximumValue": 10,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10216",
-      "effectID": "12208",
-      "minimumValue": "1",
-      "maximumValue": "5",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease",
-      "effectValueKeys": "1"
-    },
-    {
-      "id": "10217",
-      "effectID": "12209",
-      "minimumValue": "1",
-      "maximumValue": "5",
+      "id": 10216,
+      "effectID": 12208,
+      "minimumValue": 1,
+      "maximumValue": 5,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease",
-      "effectValueKeys": "7"
+      "effectValueKeys": 1
     },
     {
-      "id": "10218",
-      "effectID": "12210",
-      "minimumValue": "1",
-      "maximumValue": "5",
+      "id": 10217,
+      "effectID": 12209,
+      "minimumValue": 1,
+      "maximumValue": 5,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease",
-      "effectValueKeys": "10"
+      "effectValueKeys": 7
     },
     {
-      "id": "10219",
-      "effectID": "12211",
-      "minimumValue": "1",
-      "maximumValue": "5",
+      "id": 10218,
+      "effectID": 12210,
+      "minimumValue": 1,
+      "maximumValue": 5,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease",
-      "effectValueKeys": "13"
+      "effectValueKeys": 10
     },
     {
-      "id": "10301",
-      "effectID": "12107",
-      "minimumValue": "3.5",
-      "maximumValue": "14",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10302",
-      "effectID": "12108",
-      "minimumValue": "12.25",
-      "maximumValue": "49",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10303",
-      "effectID": "12301",
-      "minimumValue": "1.75",
-      "maximumValue": "7",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10304",
-      "effectID": "12302",
-      "minimumValue": "1.75",
-      "maximumValue": "7",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10305",
-      "effectID": "12303",
-      "minimumValue": "3.5",
-      "maximumValue": "14",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10306",
-      "effectID": "12304",
-      "minimumValue": "3.5",
-      "maximumValue": "14",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10307",
-      "effectID": "12305",
-      "minimumValue": "1.75",
-      "maximumValue": "7",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10308",
-      "effectID": "12306",
-      "minimumValue": "1.75",
-      "maximumValue": "7",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10309",
-      "effectID": "12301",
-      "minimumValue": "2",
-      "maximumValue": "25",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10310",
-      "effectID": "12302",
-      "minimumValue": "2",
-      "maximumValue": "25",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10311",
-      "effectID": "12303",
-      "minimumValue": "4",
-      "maximumValue": "20",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10312",
-      "effectID": "12304",
-      "minimumValue": "4",
-      "maximumValue": "20",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10313",
-      "effectID": "12305",
-      "minimumValue": "2",
-      "maximumValue": "15",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10314",
-      "effectID": "12306",
-      "minimumValue": "6",
-      "maximumValue": "25",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10315",
-      "effectID": "12307",
-      "minimumValue": "5",
-      "maximumValue": "40",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10316",
-      "effectID": "12308",
-      "minimumValue": "1",
-      "maximumValue": "10",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10317",
-      "effectID": "12309",
-      "minimumValue": "2",
-      "maximumValue": "20",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10318",
-      "effectID": "12310",
-      "minimumValue": "1",
-      "maximumValue": "10",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10401",
-      "effectID": "12401",
-      "minimumValue": "4.5",
-      "maximumValue": "18",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10402",
-      "effectID": "12402",
-      "minimumValue": "4.5",
-      "maximumValue": "18",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10403",
-      "effectID": "12403",
-      "minimumValue": "4.5",
-      "maximumValue": "18",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10404",
-      "effectID": "12404",
-      "minimumValue": "4.5",
-      "maximumValue": "18",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10405",
-      "effectID": "12405",
-      "minimumValue": "4.5",
-      "maximumValue": "18",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10406",
-      "effectID": "12401",
-      "minimumValue": "5",
-      "maximumValue": "20",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10407",
-      "effectID": "12402",
-      "minimumValue": "5",
-      "maximumValue": "20",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10408",
-      "effectID": "12403",
-      "minimumValue": "5",
-      "maximumValue": "25",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10409",
-      "effectID": "12404",
-      "minimumValue": "11",
-      "maximumValue": "55",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10410",
-      "effectID": "12405",
-      "minimumValue": "11",
-      "maximumValue": "55",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10411",
-      "effectID": "12406",
-      "minimumValue": "8",
-      "maximumValue": "45",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10412",
-      "effectID": "12407",
-      "minimumValue": "8",
-      "maximumValue": "45",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10413",
-      "effectID": "12408",
-      "minimumValue": "5",
-      "maximumValue": "35",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10414",
-      "effectID": "12409",
-      "minimumValue": "11",
-      "maximumValue": "55",
-      "relicEffectType": "normal",
-      "valueTextType": "relicIncrease"
-    },
-    {
-      "id": "10415",
-      "effectID": "12410",
-      "minimumValue": "2",
-      "maximumValue": "15",
+      "id": 10219,
+      "effectID": 12211,
+      "minimumValue": 1,
+      "maximumValue": 5,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease",
-      "effectValueKeys": "1"
+      "effectValueKeys": 13
     },
     {
-      "id": "10416",
-      "effectID": "12411",
-      "minimumValue": "2",
-      "maximumValue": "15",
+      "id": 10301,
+      "effectID": 12107,
+      "minimumValue": 3.5,
+      "maximumValue": 14,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10302,
+      "effectID": 12108,
+      "minimumValue": 12.25,
+      "maximumValue": 49,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10303,
+      "effectID": 12301,
+      "minimumValue": 1.75,
+      "maximumValue": 7,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10304,
+      "effectID": 12302,
+      "minimumValue": 1.75,
+      "maximumValue": 7,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10305,
+      "effectID": 12303,
+      "minimumValue": 3.5,
+      "maximumValue": 14,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10306,
+      "effectID": 12304,
+      "minimumValue": 3.5,
+      "maximumValue": 14,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10307,
+      "effectID": 12305,
+      "minimumValue": 1.75,
+      "maximumValue": 7,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10308,
+      "effectID": 12306,
+      "minimumValue": 1.75,
+      "maximumValue": 7,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10309,
+      "effectID": 12301,
+      "minimumValue": 2,
+      "maximumValue": 25,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10310,
+      "effectID": 12302,
+      "minimumValue": 2,
+      "maximumValue": 25,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10311,
+      "effectID": 12303,
+      "minimumValue": 4,
+      "maximumValue": 20,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10312,
+      "effectID": 12304,
+      "minimumValue": 4,
+      "maximumValue": 20,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10313,
+      "effectID": 12305,
+      "minimumValue": 2,
+      "maximumValue": 15,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10314,
+      "effectID": 12306,
+      "minimumValue": 6,
+      "maximumValue": 25,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10315,
+      "effectID": 12307,
+      "minimumValue": 5,
+      "maximumValue": 40,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10316,
+      "effectID": 12308,
+      "minimumValue": 1,
+      "maximumValue": 10,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10317,
+      "effectID": 12309,
+      "minimumValue": 2,
+      "maximumValue": 20,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10318,
+      "effectID": 12310,
+      "minimumValue": 1,
+      "maximumValue": 10,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10401,
+      "effectID": 12401,
+      "minimumValue": 4.5,
+      "maximumValue": 18,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10402,
+      "effectID": 12402,
+      "minimumValue": 4.5,
+      "maximumValue": 18,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10403,
+      "effectID": 12403,
+      "minimumValue": 4.5,
+      "maximumValue": 18,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10404,
+      "effectID": 12404,
+      "minimumValue": 4.5,
+      "maximumValue": 18,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10405,
+      "effectID": 12405,
+      "minimumValue": 4.5,
+      "maximumValue": 18,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10406,
+      "effectID": 12401,
+      "minimumValue": 5,
+      "maximumValue": 20,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10407,
+      "effectID": 12402,
+      "minimumValue": 5,
+      "maximumValue": 20,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10408,
+      "effectID": 12403,
+      "minimumValue": 5,
+      "maximumValue": 25,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10409,
+      "effectID": 12404,
+      "minimumValue": 11,
+      "maximumValue": 55,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10410,
+      "effectID": 12405,
+      "minimumValue": 11,
+      "maximumValue": 55,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10411,
+      "effectID": 12406,
+      "minimumValue": 8,
+      "maximumValue": 45,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10412,
+      "effectID": 12407,
+      "minimumValue": 8,
+      "maximumValue": 45,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10413,
+      "effectID": 12408,
+      "minimumValue": 5,
+      "maximumValue": 35,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10414,
+      "effectID": 12409,
+      "minimumValue": 11,
+      "maximumValue": 55,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease"
+    },
+    {
+      "id": 10415,
+      "effectID": 12410,
+      "minimumValue": 2,
+      "maximumValue": 15,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease",
-      "effectValueKeys": "7"
+      "effectValueKeys": 1
     },
     {
-      "id": "10417",
-      "effectID": "12412",
-      "minimumValue": "2",
-      "maximumValue": "15",
+      "id": 10416,
+      "effectID": 12411,
+      "minimumValue": 2,
+      "maximumValue": 15,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease",
-      "effectValueKeys": "10"
+      "effectValueKeys": 7
     },
     {
-      "id": "10418",
-      "effectID": "12413",
-      "minimumValue": "2",
-      "maximumValue": "15",
+      "id": 10417,
+      "effectID": 12412,
+      "minimumValue": 2,
+      "maximumValue": 15,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease",
-      "effectValueKeys": "13"
+      "effectValueKeys": 10
     },
     {
-      "id": "10501",
-      "effectID": "12501",
-      "minimumValue": "4.5",
-      "maximumValue": "18",
+      "id": 10418,
+      "effectID": 12413,
+      "minimumValue": 2,
+      "maximumValue": 15,
+      "relicEffectType": "normal",
+      "valueTextType": "relicIncrease",
+      "effectValueKeys": 13
+    },
+    {
+      "id": 10501,
+      "effectID": 12501,
+      "minimumValue": 4.5,
+      "maximumValue": 18,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10502",
-      "effectID": "12502",
-      "minimumValue": "4.5",
-      "maximumValue": "18",
+      "id": 10502,
+      "effectID": 12502,
+      "minimumValue": 4.5,
+      "maximumValue": 18,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10503",
-      "effectID": "12503",
-      "minimumValue": "75",
-      "maximumValue": "90",
+      "id": 10503,
+      "effectID": 12503,
+      "minimumValue": 75,
+      "maximumValue": 90,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10504",
-      "effectID": "12504",
-      "minimumValue": "5",
-      "maximumValue": "20",
+      "id": 10504,
+      "effectID": 12504,
+      "minimumValue": 5,
+      "maximumValue": 20,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10505",
-      "effectID": "12505",
-      "minimumValue": "4.5",
-      "maximumValue": "18",
+      "id": 10505,
+      "effectID": 12505,
+      "minimumValue": 4.5,
+      "maximumValue": 18,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10506",
-      "effectID": "12506",
-      "minimumValue": "4.5",
-      "maximumValue": "18",
+      "id": 10506,
+      "effectID": 12506,
+      "minimumValue": 4.5,
+      "maximumValue": 18,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10507",
-      "effectID": "12501",
-      "minimumValue": "5",
-      "maximumValue": "20",
+      "id": 10507,
+      "effectID": 12501,
+      "minimumValue": 5,
+      "maximumValue": 20,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10508",
-      "effectID": "12502",
-      "minimumValue": "5",
-      "maximumValue": "20",
+      "id": 10508,
+      "effectID": 12502,
+      "minimumValue": 5,
+      "maximumValue": 20,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10509",
-      "effectID": "12503",
-      "minimumValue": "75",
-      "maximumValue": "90",
+      "id": 10509,
+      "effectID": 12503,
+      "minimumValue": 75,
+      "maximumValue": 90,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10510",
-      "effectID": "12504",
-      "minimumValue": "5",
-      "maximumValue": "25",
+      "id": 10510,
+      "effectID": 12504,
+      "minimumValue": 5,
+      "maximumValue": 25,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10511",
-      "effectID": "12505",
-      "minimumValue": "11",
-      "maximumValue": "55",
+      "id": 10511,
+      "effectID": 12505,
+      "minimumValue": 11,
+      "maximumValue": 55,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10512",
-      "effectID": "12506",
-      "minimumValue": "11",
-      "maximumValue": "55",
+      "id": 10512,
+      "effectID": 12506,
+      "minimumValue": 11,
+      "maximumValue": 55,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10513",
-      "effectID": "12507",
-      "minimumValue": "8",
-      "maximumValue": "45",
+      "id": 10513,
+      "effectID": 12507,
+      "minimumValue": 8,
+      "maximumValue": 45,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10514",
-      "effectID": "12508",
-      "minimumValue": "8",
-      "maximumValue": "45",
+      "id": 10514,
+      "effectID": 12508,
+      "minimumValue": 8,
+      "maximumValue": 45,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10515",
-      "effectID": "12509",
-      "minimumValue": "5",
-      "maximumValue": "35",
+      "id": 10515,
+      "effectID": 12509,
+      "minimumValue": 5,
+      "maximumValue": 35,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10516",
-      "effectID": "12510",
-      "minimumValue": "11",
-      "maximumValue": "55",
+      "id": 10516,
+      "effectID": 12510,
+      "minimumValue": 11,
+      "maximumValue": 55,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10517",
-      "effectID": "12511",
-      "minimumValue": "4",
-      "maximumValue": "45",
+      "id": 10517,
+      "effectID": 12511,
+      "minimumValue": 4,
+      "maximumValue": 45,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "10518",
-      "effectID": "12512",
-      "minimumValue": "2",
-      "maximumValue": "25",
+      "id": 10518,
+      "effectID": 12512,
+      "minimumValue": 2,
+      "maximumValue": 25,
       "relicEffectType": "normal",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "20001",
-      "effectID": "22001",
-      "minimumValue": "4",
-      "maximumValue": "12",
+      "id": 20001,
+      "effectID": 22001,
+      "minimumValue": 4,
+      "maximumValue": 12,
       "relicEffectType": "unitTool",
       "valueTextType": "relicIncreaseInt",
       "effectValueKeys": "672,664,686,687,75,76"
     },
     {
-      "id": "20002",
-      "effectID": "22002",
-      "minimumValue": "4",
-      "maximumValue": "12",
+      "id": 20002,
+      "effectID": 22002,
+      "minimumValue": 4,
+      "maximumValue": 12,
       "relicEffectType": "unitTool",
       "valueTextType": "relicIncreaseInt",
       "effectValueKeys": "9,10,714,715,58,59"
     },
     {
-      "id": "20003",
-      "effectID": "22003",
-      "minimumValue": "4",
-      "maximumValue": "12",
+      "id": 20003,
+      "effectID": 22003,
+      "minimumValue": 4,
+      "maximumValue": 12,
       "relicEffectType": "unitTool",
       "valueTextType": "relicIncreaseInt",
       "effectValueKeys": "18,19,20,21"
     },
     {
-      "id": "20004",
-      "effectID": "22004",
-      "minimumValue": "4",
-      "maximumValue": "12",
+      "id": 20004,
+      "effectID": 22004,
+      "minimumValue": 4,
+      "maximumValue": 12,
       "relicEffectType": "unitTool",
       "valueTextType": "relicIncreaseInt",
       "effectValueKeys": "22,23"
     },
     {
-      "id": "20005",
-      "effectID": "22005",
-      "minimumValue": "4",
-      "maximumValue": "12",
+      "id": 20005,
+      "effectID": 22005,
+      "minimumValue": 4,
+      "maximumValue": 12,
       "relicEffectType": "unitTool",
       "valueTextType": "relicIncreaseInt",
       "effectValueKeys": "148,2020,2021,2022,2023,2024,2025,2026,2027,2028,2029,150,2030,2031,2032,2033,2034,2035,2036,2037,2038,2039,149,2060,2061,2062,2063,2064,2065,2066,2067,2068,2069,151,2070,2071,2072,2073,2074,2075,2076,2077,2078,2079"
     },
     {
-      "id": "20006",
-      "effectID": "22006",
-      "minimumValue": "30",
-      "maximumValue": "120",
+      "id": 20006,
+      "effectID": 22006,
+      "minimumValue": 30,
+      "maximumValue": 120,
       "relicEffectType": "unitTool",
       "valueTextType": "relicIncrease",
-      "effectValueKeys": "620"
+      "effectValueKeys": 620
     },
     {
-      "id": "20007",
-      "effectID": "22007",
-      "minimumValue": "9",
-      "maximumValue": "36",
+      "id": 20007,
+      "effectID": 22007,
+      "minimumValue": 9,
+      "maximumValue": 36,
       "relicEffectType": "unitTool",
       "valueTextType": "relicIncrease",
       "effectValueKeys": "672,664,686,687,75,76"
     },
     {
-      "id": "20008",
-      "effectID": "22008",
-      "minimumValue": "9",
-      "maximumValue": "36",
+      "id": 20008,
+      "effectID": 22008,
+      "minimumValue": 9,
+      "maximumValue": 36,
       "relicEffectType": "unitTool",
       "valueTextType": "relicIncrease",
       "effectValueKeys": "9,10,714,715,58,59"
     },
     {
-      "id": "20009",
-      "effectID": "22009",
-      "minimumValue": "9",
-      "maximumValue": "36",
+      "id": 20009,
+      "effectID": 22009,
+      "minimumValue": 9,
+      "maximumValue": 36,
       "relicEffectType": "unitTool",
       "valueTextType": "relicIncrease",
       "effectValueKeys": "18,19,20,21"
     },
     {
-      "id": "20010",
-      "effectID": "22010",
-      "minimumValue": "9",
-      "maximumValue": "36",
+      "id": 20010,
+      "effectID": 22010,
+      "minimumValue": 9,
+      "maximumValue": 36,
       "relicEffectType": "unitTool",
       "valueTextType": "relicIncrease",
       "effectValueKeys": "22,23"
     },
     {
-      "id": "20011",
-      "effectID": "22011",
-      "minimumValue": "9",
-      "maximumValue": "36",
+      "id": 20011,
+      "effectID": 22011,
+      "minimumValue": 9,
+      "maximumValue": 36,
       "relicEffectType": "unitTool",
       "valueTextType": "relicIncrease",
       "effectValueKeys": "148,2020,2021,2022,2023,2024,2025,2026,2027,2028,2029,150,2030,2031,2032,2033,2034,2035,2036,2037,2038,2039,149,2060,2061,2062,2063,2064,2065,2066,2067,2068,2069,151,2070,2071,2072,2073,2074,2075,2076,2077,2078,2079"
     },
     {
-      "id": "20012",
-      "effectID": "22001",
-      "minimumValue": "20",
-      "maximumValue": "60",
+      "id": 20012,
+      "effectID": 22001,
+      "minimumValue": 20,
+      "maximumValue": 60,
       "relicEffectType": "unitTool",
       "valueTextType": "relicIncreaseInt",
       "effectValueKeys": "672,664,686,687,75,76"
     },
     {
-      "id": "20013",
-      "effectID": "22002",
-      "minimumValue": "10",
-      "maximumValue": "40",
+      "id": 20013,
+      "effectID": 22002,
+      "minimumValue": 10,
+      "maximumValue": 40,
       "relicEffectType": "unitTool",
       "valueTextType": "relicIncreaseInt",
       "effectValueKeys": "9,10,714,715,58,59"
     },
     {
-      "id": "20014",
-      "effectID": "22003",
-      "minimumValue": "20",
-      "maximumValue": "60",
+      "id": 20014,
+      "effectID": 22003,
+      "minimumValue": 20,
+      "maximumValue": 60,
       "relicEffectType": "unitTool",
       "valueTextType": "relicIncreaseInt",
       "effectValueKeys": "18,19,20,21"
     },
     {
-      "id": "20015",
-      "effectID": "22004",
-      "minimumValue": "20",
-      "maximumValue": "60",
+      "id": 20015,
+      "effectID": 22004,
+      "minimumValue": 20,
+      "maximumValue": 60,
       "relicEffectType": "unitTool",
       "valueTextType": "relicIncreaseInt",
       "effectValueKeys": "22,23"
     },
     {
-      "id": "20016",
-      "effectID": "22005",
-      "minimumValue": "10",
-      "maximumValue": "40",
+      "id": 20016,
+      "effectID": 22005,
+      "minimumValue": 10,
+      "maximumValue": 40,
       "relicEffectType": "unitTool",
       "valueTextType": "relicIncreaseInt",
       "effectValueKeys": "148,2020,2021,2022,2023,2024,2025,2026,2027,2028,2029,150,2030,2031,2032,2033,2034,2035,2036,2037,2038,2039,149,2060,2061,2062,2063,2064,2065,2066,2067,2068,2069,151,2070,2071,2072,2073,2074,2075,2076,2077,2078,2079"
     },
     {
-      "id": "20017",
-      "effectID": "22012",
-      "minimumValue": "5",
-      "maximumValue": "20",
+      "id": 20017,
+      "effectID": 22012,
+      "minimumValue": 5,
+      "maximumValue": 20,
       "relicEffectType": "unitTool",
       "valueTextType": "relicIncreaseInt",
       "effectValueKeys": "195,196,197,198,199,200,201,202,203,204,215,205,206,207,208,209,210,211,212,213,214,216,217,218,219,220,221,222,223,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238"
     },
     {
-      "id": "20018",
-      "effectID": "22013",
-      "minimumValue": "1",
-      "maximumValue": "1",
+      "id": 20018,
+      "effectID": 22013,
+      "minimumValue": 1,
+      "maximumValue": 1,
       "relicEffectType": "unitTool",
       "valueTextType": "relicIncreaseInt"
     },
     {
-      "id": "20019",
-      "effectID": "22014",
-      "minimumValue": "5",
-      "maximumValue": "15",
+      "id": 20019,
+      "effectID": 22014,
+      "minimumValue": 5,
+      "maximumValue": 15,
       "relicEffectType": "unitTool",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "20020",
-      "effectID": "22015",
-      "minimumValue": "10",
-      "maximumValue": "25",
+      "id": 20020,
+      "effectID": 22015,
+      "minimumValue": 10,
+      "maximumValue": 25,
       "relicEffectType": "unitTool",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "30001",
-      "effectID": "32001",
-      "minimumValue": "60",
-      "maximumValue": "240",
+      "id": 30001,
+      "effectID": 32001,
+      "minimumValue": 60,
+      "maximumValue": 240,
       "relicEffectType": "economy",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "30002",
-      "effectID": "32002",
-      "minimumValue": "30",
-      "maximumValue": "120",
+      "id": 30002,
+      "effectID": 32002,
+      "minimumValue": 30,
+      "maximumValue": 120,
       "relicEffectType": "economy",
       "valueTextType": "relicIncreaseInt"
     },
     {
-      "id": "30003",
-      "effectID": "32003",
-      "minimumValue": "15",
-      "maximumValue": "60",
+      "id": 30003,
+      "effectID": 32003,
+      "minimumValue": 15,
+      "maximumValue": 60,
       "relicEffectType": "economy",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "30004",
-      "effectID": "32004",
-      "minimumValue": "300",
-      "maximumValue": "1200",
+      "id": 30004,
+      "effectID": 32004,
+      "minimumValue": 300,
+      "maximumValue": 1200,
       "relicEffectType": "economy",
       "valueTextType": "relicIncreaseInt"
     },
     {
-      "id": "30005",
-      "effectID": "32005",
-      "minimumValue": "150",
-      "maximumValue": "600",
+      "id": 30005,
+      "effectID": 32005,
+      "minimumValue": 150,
+      "maximumValue": 600,
       "relicEffectType": "economy",
       "valueTextType": "relicIncreaseInt"
     },
     {
-      "id": "30006",
-      "effectID": "32006",
-      "minimumValue": "300",
-      "maximumValue": "1200",
+      "id": 30006,
+      "effectID": 32006,
+      "minimumValue": 300,
+      "maximumValue": 1200,
       "relicEffectType": "economy",
       "valueTextType": "relicIncreaseInt"
     },
     {
-      "id": "30007",
-      "effectID": "32007",
-      "minimumValue": "15",
-      "maximumValue": "60",
+      "id": 30007,
+      "effectID": 32007,
+      "minimumValue": 15,
+      "maximumValue": 60,
       "relicEffectType": "economy",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "30008",
-      "effectID": "32008",
-      "minimumValue": "22.5",
-      "maximumValue": "90",
+      "id": 30008,
+      "effectID": 32008,
+      "minimumValue": 22.5,
+      "maximumValue": 90,
       "relicEffectType": "economy",
       "valueTextType": "relicIncreaseInt"
     },
     {
-      "id": "30009",
-      "effectID": "32001",
-      "minimumValue": "100",
-      "maximumValue": "300",
+      "id": 30009,
+      "effectID": 32001,
+      "minimumValue": 100,
+      "maximumValue": 300,
       "relicEffectType": "economy",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "30010",
-      "effectID": "32002",
-      "minimumValue": "60",
-      "maximumValue": "200",
+      "id": 30010,
+      "effectID": 32002,
+      "minimumValue": 60,
+      "maximumValue": 200,
       "relicEffectType": "economy",
       "valueTextType": "relicIncreaseInt"
     },
     {
-      "id": "30011",
-      "effectID": "32003",
-      "minimumValue": "30",
-      "maximumValue": "75",
+      "id": 30011,
+      "effectID": 32003,
+      "minimumValue": 30,
+      "maximumValue": 75,
       "relicEffectType": "economy",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "30012",
-      "effectID": "32004",
-      "minimumValue": "600",
-      "maximumValue": "2400",
+      "id": 30012,
+      "effectID": 32004,
+      "minimumValue": 600,
+      "maximumValue": 2400,
       "relicEffectType": "economy",
       "valueTextType": "relicIncreaseInt"
     },
     {
-      "id": "30013",
-      "effectID": "32005",
-      "minimumValue": "300",
-      "maximumValue": "1200",
+      "id": 30013,
+      "effectID": 32005,
+      "minimumValue": 300,
+      "maximumValue": 1200,
       "relicEffectType": "economy",
       "valueTextType": "relicIncreaseInt"
     },
     {
-      "id": "30014",
-      "effectID": "32006",
-      "minimumValue": "3000",
-      "maximumValue": "10000",
+      "id": 30014,
+      "effectID": 32006,
+      "minimumValue": 3000,
+      "maximumValue": 10000,
       "relicEffectType": "economy",
       "valueTextType": "relicIncreaseInt"
     },
     {
-      "id": "30015",
-      "effectID": "32007",
-      "minimumValue": "30",
-      "maximumValue": "75",
+      "id": 30015,
+      "effectID": 32007,
+      "minimumValue": 30,
+      "maximumValue": 75,
       "relicEffectType": "economy",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "30016",
-      "effectID": "32008",
-      "minimumValue": "50",
-      "maximumValue": "300",
+      "id": 30016,
+      "effectID": 32008,
+      "minimumValue": 50,
+      "maximumValue": 300,
       "relicEffectType": "economy",
       "valueTextType": "relicIncreaseInt"
     },
     {
-      "id": "30017",
-      "effectID": "32009",
-      "minimumValue": "5",
-      "maximumValue": "25",
+      "id": 30017,
+      "effectID": 32009,
+      "minimumValue": 5,
+      "maximumValue": 25,
       "relicEffectType": "economy",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "30018",
-      "effectID": "32010",
-      "minimumValue": "5",
-      "maximumValue": "25",
+      "id": 30018,
+      "effectID": 32010,
+      "minimumValue": 5,
+      "maximumValue": 25,
       "relicEffectType": "economy",
       "valueTextType": "relicIncrease"
     },
     {
-      "id": "30019",
-      "effectID": "32011",
-      "minimumValue": "50000",
-      "maximumValue": "200000",
+      "id": 30019,
+      "effectID": 32011,
+      "minimumValue": 50000,
+      "maximumValue": 200000,
       "relicEffectType": "economy",
       "valueTextType": "relicIncreaseInt"
     },
     {
-      "id": "30020",
-      "effectID": "32012",
-      "minimumValue": "50000",
-      "maximumValue": "200000",
+      "id": 30020,
+      "effectID": 32012,
+      "minimumValue": 50000,
+      "maximumValue": 200000,
       "relicEffectType": "economy",
       "valueTextType": "relicIncreaseInt"
     }

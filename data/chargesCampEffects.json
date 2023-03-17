@@ -1,46 +1,46 @@
 {
   "chargesCampEffect": [
     {
-      "chargeCampEffectID": "1",
-      "effectID": "31",
-      "levelIncrease": "3",
-      "maxValue": "450"
+      "chargeCampEffectID": 1,
+      "effectID": 31,
+      "levelIncrease": 3,
+      "maxValue": 450
     },
     {
-      "chargeCampEffectID": "2",
-      "effectID": "32",
-      "levelIncrease": "3",
-      "maxValue": "450"
+      "chargeCampEffectID": 2,
+      "effectID": 32,
+      "levelIncrease": 3,
+      "maxValue": 450
     },
     {
-      "chargeCampEffectID": "3",
-      "effectID": "33",
-      "levelIncrease": "1",
-      "maxValue": "200"
+      "chargeCampEffectID": 3,
+      "effectID": 33,
+      "levelIncrease": 1,
+      "maxValue": 200
     },
     {
-      "chargeCampEffectID": "4",
-      "effectID": "34",
-      "levelIncrease": "3",
-      "maxValue": "450"
+      "chargeCampEffectID": 4,
+      "effectID": 34,
+      "levelIncrease": 3,
+      "maxValue": 450
     },
     {
-      "chargeCampEffectID": "5",
-      "effectID": "35",
-      "levelIncrease": "3",
-      "maxValue": "450"
+      "chargeCampEffectID": 5,
+      "effectID": 35,
+      "levelIncrease": 3,
+      "maxValue": 450
     },
     {
-      "chargeCampEffectID": "6",
-      "effectID": "36",
-      "levelIncrease": "2",
-      "maxValue": "400"
+      "chargeCampEffectID": 6,
+      "effectID": 36,
+      "levelIncrease": 2,
+      "maxValue": 400
     },
     {
-      "chargeCampEffectID": "7",
-      "effectID": "37",
-      "levelIncrease": "1",
-      "maxValue": "150"
+      "chargeCampEffectID": 7,
+      "effectID": 37,
+      "levelIncrease": 1,
+      "maxValue": 150
     }
   ]
 }
