@@ -11391,6 +11391,19 @@
       "skinID": 14
     },
     {
+      "equipmentID": 1191,
+      "comment1": "Spring LTPE 2023",
+      "comment2": "BaronSpring",
+      "wearerID": 1,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 1105,
+      "effects": "335&amp;7",
+      "duration": 336,
+      "mightValue": 10,
+      "canSlotGem": 1,
+      "skinID": 90
+    },
+    {
       "equipmentID": 1151,
       "comment1": "Sales Days Content October 2022",
       "comment2": "SinglesDay22General",
@@ -11795,6 +11808,55 @@
       "mightValue": 0,
       "canSlotGem": 1,
       "skinID": 73
+    },
+    {
+      "equipmentID": 1187,
+      "comment1": "Sales Days Content April 2023",
+      "comment2": "SnakeGeneral",
+      "wearerID": 2,
+      "slotID": 5,
+      "mightValue": 0,
+      "canSlotGem": 0,
+      "skinID": 103
+    },
+    {
+      "equipmentID": 1188,
+      "comment1": "Sales Days Content April 2023",
+      "comment2": "SnakeGeneral",
+      "wearerID": 2,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 1187,
+      "effects": "24&amp;4,23&amp;15,66&amp;5",
+      "duration": 12,
+      "mightValue": 0,
+      "canSlotGem": 1,
+      "skinID": 103
+    },
+    {
+      "equipmentID": 1189,
+      "comment1": "Sales Days Content April 2023",
+      "comment2": "SnakeGeneral",
+      "wearerID": 2,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 1187,
+      "effects": "24&amp;4,23&amp;15,66&amp;5",
+      "duration": 168,
+      "mightValue": 0,
+      "canSlotGem": 1,
+      "skinID": 103
+    },
+    {
+      "equipmentID": 1190,
+      "comment1": "Sales Days Content April 2023",
+      "comment2": "SnakeGeneral",
+      "wearerID": 2,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 1187,
+      "effects": "24&amp;4,23&amp;15,66&amp;5",
+      "duration": 336,
+      "mightValue": 0,
+      "canSlotGem": 1,
+      "skinID": 103
     }
   ]
 }

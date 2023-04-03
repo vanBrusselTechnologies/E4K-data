@@ -51,6 +51,11 @@
       "currencyID": 5003,
       "softCap": 5,
       "hardCap": 5
+    },
+    {
+      "currencyID": 15,
+      "softCap": 10000,
+      "hardCap": 100000
     }
   ]
 }

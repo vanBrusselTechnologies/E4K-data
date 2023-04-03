@@ -81,8 +81,14 @@
       "name": "StPatrickLTPEToken"
     },
     {
+      "categoryID": 113,
+      "name": "sceatToken",
+      "sortOrder": 2
+    },
+    {
       "categoryID": 999,
-      "name": "Overall"
+      "name": "Overall",
+      "sortOrder": 1
     }
   ]
 }

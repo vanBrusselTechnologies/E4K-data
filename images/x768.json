@@ -10013,6 +10013,36 @@
     ],
     "fx": []
   },
+  "Deco_Building_SpringTower": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_SpringTower/Deco_Building_SpringTower.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 292,
+        "h": 353,
+        "rx": 823,
+        "ry": 786
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_SpringTower2": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_SpringTower2/Deco_Building_SpringTower2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 284,
+        "h": 353,
+        "rx": 830,
+        "ry": 785
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_statuePond": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_StatuePond/Deco_Building_statuePond.png",
@@ -22844,6 +22874,21 @@
         "rotation": 0
       }
     ]
+  },
+  "SpringStronghold": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/SpringStronghold/SpringStronghold.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 185,
+        "h": 328,
+        "rx": 927,
+        "ry": 767
+      }
+    ],
+    "fx": []
   },
   "StPatrickStables": {
     "pid": 0,
@@ -91701,6 +91746,21 @@
         "h": 35,
         "rx": 982,
         "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "icon_package_category_113": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_currency_SceatToken_ds_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 103,
+        "h": 89,
+        "rx": 948,
+        "ry": 955
       }
     ],
     "fx": []
