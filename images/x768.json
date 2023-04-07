@@ -69310,6 +69310,21 @@
     ],
     "fx": []
   },
+  "icon_general_abilitycount_big": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_abilitycount_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 89,
+        "h": 90,
+        "rx": 955,
+        "ry": 955
+      }
+    ],
+    "fx": []
+  },
   "icon_general_Alyssa_xl": {
     "pid": 0,
     "url": "x768/Icons/GeneralIcons/icon_general_Alyssa_xl.png",
@@ -76923,6 +76938,51 @@
     ],
     "fx": []
   },
+  "icon_currency_LuckyWheelTicket_big": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_LuckyWheelTicket_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 121,
+        "rx": 964,
+        "ry": 939
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_LuckyWheelTicket_medium": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_LuckyWheelTicket_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 61,
+        "h": 103,
+        "rx": 969,
+        "ry": 948
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_LuckyWheelTicket_xl": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_LuckyWheelTicket_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 241,
+        "rx": 928,
+        "ry": 879
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_LuckyWheelTicket": {
     "pid": 1,
     "url": "x768/Icons/Icons/icon_currency_LuckyWheelTicket.png",
@@ -83005,6 +83065,21 @@
     ],
     "fx": []
   },
+  "icon_hamburger_menu_white_big": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_hamburger_menu_white_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 71,
+        "h": 57,
+        "rx": 964,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
   "icon_hc_vendor_hub_discount": {
     "pid": 1,
     "url": "x768/Icons/Icons/icon_hc_vendor_hub_discount.png",
@@ -85735,6 +85810,21 @@
     ],
     "fx": []
   },
+  "icon_post_flat_dark": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_post_flat_dark.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 67,
+        "rx": 966,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
   "icon_power_rank_big": {
     "pid": 1,
     "url": "x768/Icons/Icons/icon_power_rank_big.png",
@@ -85776,6 +85866,21 @@
         "h": 109,
         "rx": 945,
         "ry": 945
+      }
+    ],
+    "fx": []
+  },
+  "icon_pre_flat_dark": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_pre_flat_dark.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 67,
+        "rx": 966,
+        "ry": 966
       }
     ],
     "fx": []
@@ -88570,6 +88675,21 @@
     ],
     "fx": []
   },
+  "icon_soldiercount_big": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_soldiercount_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 89,
+        "h": 87,
+        "rx": 955,
+        "ry": 956
+      }
+    ],
+    "fx": []
+  },
   "icon_soldiers_tab": {
     "pid": 1,
     "url": "x768/Icons/Icons/icon_soldiers_tab.png",
@@ -88701,6 +88821,21 @@
         "h": 68,
         "rx": 964,
         "ry": 966
+      }
+    ],
+    "fx": []
+  },
+  "icon_star_flat_dark": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_star_flat_dark.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 64,
+        "rx": 966,
+        "ry": 968
       }
     ],
     "fx": []
@@ -88911,6 +89046,21 @@
         "h": 118,
         "rx": 941,
         "ry": 941
+      }
+    ],
+    "fx": []
+  },
+  "icon_support_tool_flat_dark": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_support_tool_flat_dark.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 68,
+        "rx": 966,
+        "ry": 966
       }
     ],
     "fx": []
@@ -89675,6 +89825,21 @@
         "w": 89,
         "h": 89,
         "rx": 955,
+        "ry": 955
+      }
+    ],
+    "fx": []
+  },
+  "icon_toolcount_big": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_toolcount_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 71,
+        "h": 89,
+        "rx": 964,
         "ry": 955
       }
     ],
@@ -91750,7 +91915,7 @@
     ],
     "fx": []
   },
-  "icon_package_category_113": {
+  "icon_currency_SceatToken_ds": {
     "pid": 0,
     "url": "x768/Icons/IconsShared/icon_currency_SceatToken_ds_Shared.png",
     "frames": [
@@ -91765,7 +91930,7 @@
     ],
     "fx": []
   },
-  "icon_currency_SceatToken_ds": {
+  "icon_package_category_113": {
     "pid": 0,
     "url": "x768/Icons/IconsShared/icon_currency_SceatToken_ds_Shared.png",
     "frames": [
@@ -112002,6 +112167,21 @@
     ],
     "fx": []
   },
+  "bottomBox_SpringBox2023": {
+    "pid": 0,
+    "url": "x768/MysteryBox/MysteryBoxSkins/bottomBox_SpringBox2023.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 376,
+        "h": 247,
+        "rx": 805,
+        "ry": 919
+      }
+    ],
+    "fx": []
+  },
   "bottomBox_SummerBox2022": {
     "pid": 0,
     "url": "x768/MysteryBox/MysteryBoxSkins/bottomBox_SummerBox2022.png",
@@ -112497,6 +112677,51 @@
     ],
     "fx": []
   },
+  "loot_box_SpringBox2023_small": {
+    "pid": 0,
+    "url": "x768/MysteryBox/MysteryBoxSkins/loot_box_SpringBox2023_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 205,
+        "h": 174,
+        "rx": 896,
+        "ry": 912
+      }
+    ],
+    "fx": []
+  },
+  "loot_box_SpringBox2023_xs": {
+    "pid": 0,
+    "url": "x768/MysteryBox/MysteryBoxSkins/loot_box_SpringBox2023_xs.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 131,
+        "rx": 923,
+        "ry": 934
+      }
+    ],
+    "fx": []
+  },
+  "loot_box_SpringBox2023": {
+    "pid": 0,
+    "url": "x768/MysteryBox/MysteryBoxSkins/loot_box_SpringBox2023.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 253,
+        "h": 215,
+        "rx": 872,
+        "ry": 891
+      }
+    ],
+    "fx": []
+  },
   "loot_box_SummerBox2022_small": {
     "pid": 0,
     "url": "x768/MysteryBox/MysteryBoxSkins/loot_box_SummerBox2022_small.png",
@@ -112673,6 +112898,21 @@
         "h": 94,
         "rx": 897,
         "ry": 957
+      }
+    ],
+    "fx": []
+  },
+  "topBox_SpringBox2023": {
+    "pid": 0,
+    "url": "x768/MysteryBox/MysteryBoxSkins/topBox_SpringBox2023.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 413,
+        "h": 195,
+        "rx": 777,
+        "ry": 821
       }
     ],
     "fx": []

@@ -270,7 +270,7 @@ export interface Data {
     seasonSettings: SeasonSetting[],
     sectors: Sector[],
     shapeshifterActivityRewards: ShapeShifterActivityReward[],
-    shapeshifterHardcoreModeEffect: ShapeShifterHardcoreModeEffect[],
+    shapeshifterHardcoreModeEffects: ShapeShifterHardcoreModeEffect[],
     shapeshifterPermittedEffects: ShapeShifterPermittedEffect[],
     shapeshifterRankingRewards: ShapeShifterRankingReward[],
     shapeshifterTickets: ShapeShifterTicket[],
@@ -289,7 +289,7 @@ export interface Data {
     tempServerSettings: TempServerSetting[],
     titles: Title[],
     tmapnodes: TMapNode[],
-    tmap: TMap[],
+    tmaps: TMap[],
     toolCategories: ToolCategory[],
     townsfolk: Townsfolk[],
     units: Unit[],
@@ -2044,7 +2044,7 @@ export interface LootBoxKeyTombola {
 export interface LootBoxTombola {
     entryID: number;
     tombolaID: number;
-    rewardCategory: string;
+    rewardCategory: number;
     rewardIDs: number | string;
     shares: number;
 }
@@ -2205,6 +2205,7 @@ export interface OfficersSchoolUnitPair {
 export interface PackageCategory {
     categoryID: number;
     name: string;
+    sortOrder: number;
 }
 
 export interface PackageCategoryCurrencyRelation {
