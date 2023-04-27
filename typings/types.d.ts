@@ -1741,7 +1741,6 @@ export interface GeneralSkillTier {
     generalID: number;
     tier: number;
     previousTierRequiredSkillPoints: number;
-    hidden?: number;
 }
 
 export interface GeneralSkipFinishQuest {

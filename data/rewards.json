@@ -24407,6 +24407,73 @@
       "relicEquipments": "16102@0,100"
     },
     {
+      "rewardID": 50659,
+      "comment1": "Spring Box 2023",
+      "comment2": "Common",
+      "addLegendaryToken": 30
+    },
+    {
+      "rewardID": 50660,
+      "comment1": "Spring Box 2023",
+      "comment2": "Common",
+      "addLegendaryMaterial": 60
+    },
+    {
+      "rewardID": 50661,
+      "comment1": "Spring Box 2023",
+      "comment2": "Common",
+      "addSceatToken": 15
+    },
+    {
+      "rewardID": 50662,
+      "comment1": "Spring Box 2023",
+      "comment2": "Common",
+      "add24HourSkip": 10,
+      "ignoreResourceStorageCapacity": 1
+    },
+    {
+      "rewardID": 50663,
+      "comment1": "Spring Box 2023",
+      "comment2": "Common",
+      "addSaleDaysLuckyWheelTicket": 2
+    },
+    {
+      "rewardID": 50664,
+      "comment1": "Spring Box 2023",
+      "comment2": "Rare",
+      "relicEquipments": "2@20,100"
+    },
+    {
+      "rewardID": 50665,
+      "comment1": "Spring Box 2023",
+      "comment2": "Rare",
+      "relicEquipments": "102@20,100"
+    },
+    {
+      "rewardID": 50666,
+      "comment1": "Spring Box 2023",
+      "comment2": "Rare",
+      "relicEquipments": "202@20,100"
+    },
+    {
+      "rewardID": 50667,
+      "comment1": "Spring Box 2023",
+      "comment2": "Rare",
+      "relicEquipments": "302@20,100"
+    },
+    {
+      "rewardID": 50668,
+      "comment1": "Spring Box 2023",
+      "comment2": "Epic",
+      "relicEquipments": "3102@0,100"
+    },
+    {
+      "rewardID": 50669,
+      "comment1": "Spring Box 2023",
+      "comment2": "Legendary",
+      "relicEquipments": "6302@0,100"
+    },
+    {
       "rewardID": 1290,
       "comment2": "Drop Chance Normal",
       "currency1": 3750
@@ -25758,227 +25825,227 @@
     },
     {
       "rewardID": 6255,
-      "comment2": "MeadShieldMaiden - L2",
-      "ignoreResourceStorageCapacity": 1,
-      "hiddenMead": 12000,
-      "units": "196+1000"
-    },
-    {
-      "rewardID": 6256,
-      "comment2": "MeadRanger - L2",
-      "ignoreResourceStorageCapacity": 1,
-      "hiddenMead": 12000,
-      "units": "206+1000"
-    },
-    {
-      "rewardID": 6257,
-      "comment2": "MeadMace - L2",
-      "ignoreResourceStorageCapacity": 1,
-      "hiddenMead": 12000,
-      "units": "219+1000"
-    },
-    {
-      "rewardID": 6258,
-      "comment2": "MeadBow - L2",
-      "ignoreResourceStorageCapacity": 1,
-      "hiddenMead": 12000,
-      "units": "230+1000"
-    },
-    {
-      "rewardID": 6259,
       "comment2": "MeadShieldMaiden - L3",
       "ignoreResourceStorageCapacity": 1,
       "hiddenMead": 12000,
       "units": "197+1000"
     },
     {
-      "rewardID": 6260,
+      "rewardID": 6256,
       "comment2": "MeadRanger - L3",
       "ignoreResourceStorageCapacity": 1,
       "hiddenMead": 12000,
       "units": "207+1000"
     },
     {
-      "rewardID": 6261,
+      "rewardID": 6257,
       "comment2": "MeadMace - L3",
       "ignoreResourceStorageCapacity": 1,
       "hiddenMead": 12000,
       "units": "220+1000"
     },
     {
-      "rewardID": 6262,
+      "rewardID": 6258,
       "comment2": "MeadBow - L3",
       "ignoreResourceStorageCapacity": 1,
       "hiddenMead": 12000,
       "units": "231+1000"
     },
     {
-      "rewardID": 6263,
+      "rewardID": 6259,
       "comment2": "MeadShieldMaiden - L4",
       "ignoreResourceStorageCapacity": 1,
       "hiddenMead": 12000,
       "units": "198+1000"
     },
     {
-      "rewardID": 6264,
+      "rewardID": 6260,
       "comment2": "MeadRanger - L4",
       "ignoreResourceStorageCapacity": 1,
       "hiddenMead": 12000,
       "units": "208+1000"
     },
     {
-      "rewardID": 6265,
+      "rewardID": 6261,
       "comment2": "MeadMace - L4",
       "ignoreResourceStorageCapacity": 1,
       "hiddenMead": 12000,
       "units": "221+1000"
     },
     {
-      "rewardID": 6266,
+      "rewardID": 6262,
       "comment2": "MeadBow - L4",
       "ignoreResourceStorageCapacity": 1,
       "hiddenMead": 12000,
       "units": "232+1000"
     },
     {
-      "rewardID": 5185,
+      "rewardID": 6263,
       "comment2": "MeadShieldMaiden - L5",
       "ignoreResourceStorageCapacity": 1,
       "hiddenMead": 12000,
       "units": "199+1000"
     },
     {
-      "rewardID": 5186,
+      "rewardID": 6264,
       "comment2": "MeadRanger - L5",
       "ignoreResourceStorageCapacity": 1,
       "hiddenMead": 12000,
       "units": "209+1000"
     },
     {
-      "rewardID": 5187,
+      "rewardID": 6265,
       "comment2": "MeadMace - L5",
       "ignoreResourceStorageCapacity": 1,
       "hiddenMead": 12000,
       "units": "222+1000"
     },
     {
-      "rewardID": 5188,
+      "rewardID": 6266,
       "comment2": "MeadBow - L5",
       "ignoreResourceStorageCapacity": 1,
       "hiddenMead": 12000,
       "units": "233+1000"
     },
     {
-      "rewardID": 6267,
+      "rewardID": 5185,
       "comment2": "MeadShieldMaiden - L6",
       "ignoreResourceStorageCapacity": 1,
       "hiddenMead": 12000,
       "units": "200+1000"
     },
     {
-      "rewardID": 6268,
+      "rewardID": 5186,
       "comment2": "MeadRanger - L6",
       "ignoreResourceStorageCapacity": 1,
       "hiddenMead": 12000,
       "units": "210+1000"
     },
     {
-      "rewardID": 6269,
+      "rewardID": 5187,
       "comment2": "MeadMace - L6",
       "ignoreResourceStorageCapacity": 1,
       "hiddenMead": 12000,
       "units": "223+1000"
     },
     {
-      "rewardID": 6270,
+      "rewardID": 5188,
       "comment2": "MeadBow - L6",
       "ignoreResourceStorageCapacity": 1,
       "hiddenMead": 12000,
       "units": "234+1000"
     },
     {
-      "rewardID": 6271,
+      "rewardID": 6267,
       "comment2": "MeadShieldMaiden - L7",
       "ignoreResourceStorageCapacity": 1,
       "hiddenMead": 12000,
       "units": "201+1000"
     },
     {
-      "rewardID": 6272,
+      "rewardID": 6268,
       "comment2": "MeadRanger - L7",
       "ignoreResourceStorageCapacity": 1,
       "hiddenMead": 12000,
       "units": "211+1000"
     },
     {
-      "rewardID": 6273,
+      "rewardID": 6269,
       "comment2": "MeadMace - L7",
       "ignoreResourceStorageCapacity": 1,
       "hiddenMead": 12000,
       "units": "224+1000"
     },
     {
-      "rewardID": 6274,
+      "rewardID": 6270,
       "comment2": "MeadBow - L7",
       "ignoreResourceStorageCapacity": 1,
       "hiddenMead": 12000,
       "units": "235+1000"
     },
     {
-      "rewardID": 6275,
+      "rewardID": 6271,
       "comment2": "MeadShieldMaiden - L8",
       "ignoreResourceStorageCapacity": 1,
       "hiddenMead": 12000,
       "units": "202+1000"
     },
     {
-      "rewardID": 6276,
+      "rewardID": 6272,
       "comment2": "MeadRanger - L8",
       "ignoreResourceStorageCapacity": 1,
       "hiddenMead": 12000,
       "units": "212+1000"
     },
     {
-      "rewardID": 6277,
+      "rewardID": 6273,
       "comment2": "MeadMace - L8",
       "ignoreResourceStorageCapacity": 1,
       "hiddenMead": 12000,
       "units": "225+1000"
     },
     {
-      "rewardID": 6278,
+      "rewardID": 6274,
       "comment2": "MeadBow - L8",
       "ignoreResourceStorageCapacity": 1,
       "hiddenMead": 12000,
       "units": "236+1000"
     },
     {
-      "rewardID": 6279,
+      "rewardID": 6275,
       "comment2": "MeadShieldMaiden - L9",
       "ignoreResourceStorageCapacity": 1,
       "hiddenMead": 12000,
       "units": "203+1000"
     },
     {
-      "rewardID": 6280,
+      "rewardID": 6276,
       "comment2": "MeadRanger - L9",
       "ignoreResourceStorageCapacity": 1,
       "hiddenMead": 12000,
       "units": "213+1000"
     },
     {
-      "rewardID": 6281,
+      "rewardID": 6277,
       "comment2": "MeadMace - L9",
       "ignoreResourceStorageCapacity": 1,
       "hiddenMead": 12000,
       "units": "226+1000"
     },
     {
-      "rewardID": 6464,
+      "rewardID": 6278,
       "comment2": "MeadBow - L9",
       "ignoreResourceStorageCapacity": 1,
       "hiddenMead": 12000,
       "units": "237+1000"
+    },
+    {
+      "rewardID": 6279,
+      "comment2": "MeadShieldMaiden - L10",
+      "ignoreResourceStorageCapacity": 1,
+      "hiddenMead": 12000,
+      "units": "204+1000"
+    },
+    {
+      "rewardID": 6280,
+      "comment2": "MeadRanger - L10",
+      "ignoreResourceStorageCapacity": 1,
+      "hiddenMead": 12000,
+      "units": "214+1000"
+    },
+    {
+      "rewardID": 6281,
+      "comment2": "MeadMace - L10",
+      "ignoreResourceStorageCapacity": 1,
+      "hiddenMead": 12000,
+      "units": "227+1000"
+    },
+    {
+      "rewardID": 6464,
+      "comment2": "MeadBow - L10",
+      "ignoreResourceStorageCapacity": 1,
+      "hiddenMead": 12000,
+      "units": "238+1000"
     },
     {
       "rewardID": 5189,
@@ -26032,18 +26099,18 @@
     },
     {
       "rewardID": 5199,
-      "comment2": "Samurai Booster Tools 6%",
-      "units": "166+1000"
+      "comment2": "RageBoost",
+      "units": "106+1000"
     },
     {
       "rewardID": 5224,
-      "comment2": "Samurai Booster Tools 7%",
-      "units": "406+1000"
+      "comment2": "NomadEliteDefenseRanged",
+      "units": "110+1000"
     },
     {
       "rewardID": 5225,
-      "comment2": "Samurai Booster Tools 8%",
-      "units": "407+1000"
+      "comment2": "NomadRageTabletBoost",
+      "units": "107+1000"
     },
     {
       "rewardID": 5226,
@@ -28752,55 +28819,55 @@
       "rewardID": 7227,
       "comment1": "Jackpot 1",
       "comment2": "Deco",
-      "decoWodID": 2408
+      "decoWodID": 2688
     },
     {
       "rewardID": 7228,
       "comment1": "Jackpot 2",
       "comment2": "Deco",
-      "decoWodID": 2410
+      "decoWodID": 2689
     },
     {
       "rewardID": 7229,
       "comment1": "Jackpot 3",
       "comment2": "Deco",
-      "decoWodID": 2411
+      "decoWodID": 2690
     },
     {
       "rewardID": 7230,
       "comment1": "Jackpot 4",
       "comment2": "Deco",
-      "decoWodID": 2412
+      "decoWodID": 2691
     },
     {
       "rewardID": 7231,
       "comment1": "Jackpot 5",
       "comment2": "Deco",
-      "decoWodID": 2515
+      "decoWodID": 2692
     },
     {
       "rewardID": 7232,
       "comment1": "Jackpot 6",
       "comment2": "Deco",
-      "decoWodID": 2413
+      "decoWodID": 2693
     },
     {
       "rewardID": 7233,
       "comment1": "Jackpot 7",
       "comment2": "Deco",
-      "decoWodID": 2516
+      "decoWodID": 2694
     },
     {
       "rewardID": 7234,
       "comment1": "Jackpot 8",
       "comment2": "Deco",
-      "decoWodID": 2414
+      "decoWodID": 2695
     },
     {
       "rewardID": 7235,
       "comment1": "Jackpot 9",
       "comment2": "Deco",
-      "decoWodID": 2524
+      "decoWodID": 2696
     },
     {
       "rewardID": 7236,
@@ -29076,19 +29143,19 @@
       "rewardID": 7281,
       "comment1": "Jackpot 1",
       "comment2": "Common Autumn Mystery Box",
-      "lootBox": "17+2"
+      "lootBox": "29+2"
     },
     {
       "rewardID": 7282,
       "comment1": "Jackpot 2",
       "comment2": "Common Autumn Mystery Box",
-      "lootBox": "17+3"
+      "lootBox": "29+3"
     },
     {
       "rewardID": 7283,
       "comment1": "Jackpot 3",
       "comment2": "Common Autumn Mystery Box",
-      "lootBox": "17+4"
+      "lootBox": "29+4"
     },
     {
       "rewardID": 7284,
@@ -29130,103 +29197,103 @@
       "rewardID": 7290,
       "comment1": "Jackpot 1",
       "comment2": "Rare Autumn Mystery Box",
-      "lootBox": "18+1"
+      "lootBox": "30+1"
     },
     {
       "rewardID": 7291,
       "comment1": "Jackpot 2",
       "comment2": "Rare Autumn Mystery Box",
-      "lootBox": "18+2"
+      "lootBox": "30+2"
     },
     {
       "rewardID": 7292,
       "comment1": "Jackpot 3",
       "comment2": "Rare Autumn Mystery Box",
-      "lootBox": "18+3"
+      "lootBox": "30+3"
     },
     {
       "rewardID": 7293,
       "comment1": "Jackpot 4",
       "comment2": "Rare Autumn Mystery Box",
-      "lootBox": "18+4"
+      "lootBox": "30+4"
     },
     {
       "rewardID": 7294,
       "comment1": "Jackpot 5",
       "comment2": "Rare Autumn Mystery Box",
-      "lootBox": "18+5"
+      "lootBox": "30+5"
     },
     {
       "rewardID": 7295,
       "comment1": "Jackpot 6",
       "comment2": "KnightToken",
-      "addKnightToken": 2
+      "addKnightToken": 1
     },
     {
       "rewardID": 7296,
       "comment1": "Jackpot 7",
       "comment2": "KnightToken",
-      "addKnightToken": 2
+      "addKnightToken": 1
     },
     {
       "rewardID": 7297,
       "comment1": "Jackpot 8",
       "comment2": "KnightToken",
-      "addKnightToken": 1
+      "addKnightToken": 2
     },
     {
       "rewardID": 7298,
       "comment1": "Jackpot 9",
       "comment2": "KnightToken",
-      "addKnightToken": 1
+      "addKnightToken": 2
     },
     {
       "rewardID": 7299,
       "comment1": "Jackpot 1",
       "comment2": "Epic Autumn Mystery Box",
-      "lootBox": "19+1"
+      "lootBox": "31+1"
     },
     {
       "rewardID": 7300,
       "comment1": "Jackpot 2",
       "comment2": "Epic Autumn Mystery Box",
-      "lootBox": "19+2"
+      "lootBox": "31+2"
     },
     {
       "rewardID": 7301,
       "comment1": "Jackpot 3",
       "comment2": "Epic Autumn Mystery Box",
-      "lootBox": "19+3"
+      "lootBox": "31+3"
     },
     {
       "rewardID": 7302,
       "comment1": "Jackpot 4",
       "comment2": "Epic Autumn Mystery Box",
-      "lootBox": "19+4"
+      "lootBox": "31+4"
     },
     {
       "rewardID": 7303,
       "comment1": "Jackpot 5",
       "comment2": "Epic Autumn Mystery Box",
-      "lootBox": "19+5"
+      "lootBox": "31+5"
     },
     {
       "rewardID": 7304,
       "comment1": "Jackpot 6",
       "comment2": "Epic Autumn Mystery Box",
-      "lootBox": "19+6"
+      "lootBox": "31+7"
     },
     {
       "rewardID": 7305,
       "comment1": "Jackpot 7",
       "comment2": "Epic Autumn Mystery Box",
-      "lootBox": "19+7"
+      "lootBox": "31+8"
     },
     {
       "rewardID": 7306,
       "comment1": "Jackpot 8",
       "comment2": "Epic Autumn Mystery Box",
-      "lootBox": "19+8"
+      "lootBox": "31+10"
     },
     {
       "rewardID": 7307,
@@ -29238,55 +29305,55 @@
       "rewardID": 7308,
       "comment1": "Jackpot 1",
       "comment2": "Legendary Autumn Mystery Box",
-      "lootBox": "20+1"
+      "lootBox": "32+1"
     },
     {
       "rewardID": 7309,
       "comment1": "Jackpot 2",
       "comment2": "Legendary Autumn Mystery Box",
-      "lootBox": "20+1"
+      "lootBox": "32+1"
     },
     {
       "rewardID": 7310,
       "comment1": "Jackpot 3",
       "comment2": "Legendary Autumn Mystery Box",
-      "lootBox": "20+2"
+      "lootBox": "32+2"
     },
     {
       "rewardID": 7311,
       "comment1": "Jackpot 4",
       "comment2": "Legendary Autumn Mystery Box",
-      "lootBox": "20+2"
+      "lootBox": "32+2"
     },
     {
       "rewardID": 7312,
       "comment1": "Jackpot 5",
       "comment2": "Legendary Autumn Mystery Box",
-      "lootBox": "20+3"
+      "lootBox": "32+3"
     },
     {
       "rewardID": 7313,
       "comment1": "Jackpot 6",
       "comment2": "Legendary Autumn Mystery Box",
-      "lootBox": "20+4"
+      "lootBox": "32+5"
     },
     {
       "rewardID": 7314,
       "comment1": "Jackpot 7",
       "comment2": "Legendary Autumn Mystery Box",
-      "lootBox": "20+5"
+      "lootBox": "32+6"
     },
     {
       "rewardID": 7315,
       "comment1": "Jackpot 8",
       "comment2": "Legendary Autumn Mystery Box",
-      "lootBox": "20+6"
+      "lootBox": "32+8"
     },
     {
       "rewardID": 7316,
       "comment1": "Jackpot 9",
       "comment2": "Legendary Autumn Mystery Box",
-      "lootBox": "20+8"
+      "lootBox": "32+10"
     },
     {
       "rewardID": 7317,
@@ -48973,6 +49040,501 @@
       "comment2": "Lvl 50-69",
       "addSpringLTPEToken": 7500,
       "addLegendaryMaterial": 300
+    },
+    {
+      "rewardID": 8076,
+      "comment1": "Reward 1",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 100
+    },
+    {
+      "rewardID": 8077,
+      "comment1": "Reward 2",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 100
+    },
+    {
+      "rewardID": 8078,
+      "comment1": "Reward 3",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 100
+    },
+    {
+      "rewardID": 8079,
+      "comment1": "Reward 4",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 100
+    },
+    {
+      "rewardID": 8080,
+      "comment1": "Reward 5",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 100
+    },
+    {
+      "rewardID": 8081,
+      "comment1": "Reward 6",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 100
+    },
+    {
+      "rewardID": 8082,
+      "comment1": "Reward 7",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 100
+    },
+    {
+      "rewardID": 8083,
+      "comment1": "Reward 8",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 100
+    },
+    {
+      "rewardID": 8084,
+      "comment1": "Reward 9",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 200
+    },
+    {
+      "rewardID": 8085,
+      "comment1": "Reward 10",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 125
+    },
+    {
+      "rewardID": 8086,
+      "comment1": "Reward 11",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 125
+    },
+    {
+      "rewardID": 8087,
+      "comment1": "Reward 12",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 125
+    },
+    {
+      "rewardID": 8088,
+      "comment1": "Reward 13",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 125
+    },
+    {
+      "rewardID": 8089,
+      "comment1": "Reward 14",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 125
+    },
+    {
+      "rewardID": 8090,
+      "comment1": "Reward 15",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 125
+    },
+    {
+      "rewardID": 8091,
+      "comment1": "Reward 16",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 125
+    },
+    {
+      "rewardID": 8092,
+      "comment1": "Reward 17",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 125
+    },
+    {
+      "rewardID": 8093,
+      "comment1": "Reward 18",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 250
+    },
+    {
+      "rewardID": 8094,
+      "comment1": "Reward 19",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 150
+    },
+    {
+      "rewardID": 8095,
+      "comment1": "Reward 20",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 150
+    },
+    {
+      "rewardID": 8096,
+      "comment1": "Reward 21",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 150
+    },
+    {
+      "rewardID": 8097,
+      "comment1": "Reward 22",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 150
+    },
+    {
+      "rewardID": 8098,
+      "comment1": "Reward 23",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 150
+    },
+    {
+      "rewardID": 8099,
+      "comment1": "Reward 24",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 150
+    },
+    {
+      "rewardID": 8100,
+      "comment1": "Reward 25",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 150
+    },
+    {
+      "rewardID": 8101,
+      "comment1": "Reward 26",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 150
+    },
+    {
+      "rewardID": 8102,
+      "comment1": "Reward 27",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 300
+    },
+    {
+      "rewardID": 8103,
+      "comment1": "Reward 28",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 175
+    },
+    {
+      "rewardID": 8104,
+      "comment1": "Reward 29",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 175
+    },
+    {
+      "rewardID": 8105,
+      "comment1": "Reward 30",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 175
+    },
+    {
+      "rewardID": 8106,
+      "comment1": "Reward 31",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 175
+    },
+    {
+      "rewardID": 8107,
+      "comment1": "Reward 32",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 175
+    },
+    {
+      "rewardID": 8108,
+      "comment1": "Reward 33",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 175
+    },
+    {
+      "rewardID": 8109,
+      "comment1": "Reward 34",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 175
+    },
+    {
+      "rewardID": 8110,
+      "comment1": "Reward 35",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 175
+    },
+    {
+      "rewardID": 8111,
+      "comment1": "Reward 36",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 350
+    },
+    {
+      "rewardID": 8112,
+      "comment1": "Reward 37",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 200
+    },
+    {
+      "rewardID": 8113,
+      "comment1": "Reward 38",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 200
+    },
+    {
+      "rewardID": 8114,
+      "comment1": "Reward 39",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 200
+    },
+    {
+      "rewardID": 8115,
+      "comment1": "Reward 40",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 200
+    },
+    {
+      "rewardID": 8116,
+      "comment1": "Reward 41",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 200
+    },
+    {
+      "rewardID": 8117,
+      "comment1": "Reward 42",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 200
+    },
+    {
+      "rewardID": 8118,
+      "comment1": "Reward 43",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 200
+    },
+    {
+      "rewardID": 8119,
+      "comment1": "Reward 44",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 200
+    },
+    {
+      "rewardID": 8120,
+      "comment1": "Reward 45",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 1000
+    },
+    {
+      "rewardID": 8121,
+      "comment1": "Reward 46",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 225
+    },
+    {
+      "rewardID": 8122,
+      "comment1": "Reward 47",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 225
+    },
+    {
+      "rewardID": 8123,
+      "comment1": "Reward 48",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 225
+    },
+    {
+      "rewardID": 8124,
+      "comment1": "Reward 49",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 225
+    },
+    {
+      "rewardID": 8125,
+      "comment1": "Reward 50",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 225
+    },
+    {
+      "rewardID": 8126,
+      "comment1": "Reward 51",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 225
+    },
+    {
+      "rewardID": 8127,
+      "comment1": "Reward 52",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 225
+    },
+    {
+      "rewardID": 8128,
+      "comment1": "Reward 53",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 225
+    },
+    {
+      "rewardID": 8129,
+      "comment1": "Reward 54",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 450
+    },
+    {
+      "rewardID": 8130,
+      "comment1": "Reward 55",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 250
+    },
+    {
+      "rewardID": 8131,
+      "comment1": "Reward 56",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 250
+    },
+    {
+      "rewardID": 8132,
+      "comment1": "Reward 57",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 250
+    },
+    {
+      "rewardID": 8133,
+      "comment1": "Reward 58",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 250
+    },
+    {
+      "rewardID": 8134,
+      "comment1": "Reward 59",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 250
+    },
+    {
+      "rewardID": 8135,
+      "comment1": "Reward 60",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 250
+    },
+    {
+      "rewardID": 8136,
+      "comment1": "Reward 61",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 250
+    },
+    {
+      "rewardID": 8137,
+      "comment1": "Reward 62",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 250
+    },
+    {
+      "rewardID": 8138,
+      "comment1": "Reward 63",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 500
+    },
+    {
+      "rewardID": 8139,
+      "comment1": "Reward 64",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 250
+    },
+    {
+      "rewardID": 8140,
+      "comment1": "Reward 65",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 250
+    },
+    {
+      "rewardID": 8141,
+      "comment1": "Reward 66",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 250
+    },
+    {
+      "rewardID": 8142,
+      "comment1": "Reward 67",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 250
+    },
+    {
+      "rewardID": 8143,
+      "comment1": "Reward 68",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 250
+    },
+    {
+      "rewardID": 8144,
+      "comment1": "Reward 69",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 250
+    },
+    {
+      "rewardID": 8145,
+      "comment1": "Reward 70",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 250
+    },
+    {
+      "rewardID": 8146,
+      "comment1": "Reward 71",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 250
+    },
+    {
+      "rewardID": 8147,
+      "comment1": "Reward 72",
+      "comment2": "Activity Reward India May 23",
+      "addLotusFlowerLTPEToken": 2500
+    },
+    {
+      "rewardID": 8148,
+      "comment1": "Top1 - India May 23",
+      "comment2": "Lvl 870",
+      "constructionItemIDs": 31203,
+      "decoWodID": 2697
+    },
+    {
+      "rewardID": 8149,
+      "comment1": "TopX1",
+      "comment2": "Lvl 870",
+      "constructionItemIDs": 30117,
+      "addPrincessToken": 3
+    },
+    {
+      "rewardID": 8150,
+      "comment1": "TopX2",
+      "comment2": "Lvl 870",
+      "addLotusFlowerLTPEToken": 7500,
+      "addSaleDaysLuckyWheelTicket": 25
+    },
+    {
+      "rewardID": 8151,
+      "comment1": "Top1",
+      "comment2": "Lvl 70-869",
+      "constructionItemIDs": 31204,
+      "decoWodID": 2698
+    },
+    {
+      "rewardID": 8152,
+      "comment1": "TopX1",
+      "comment2": "Lvl 70-869",
+      "constructionItemIDs": 30116,
+      "addPrincessToken": 3
+    },
+    {
+      "rewardID": 8153,
+      "comment1": "TopX2",
+      "comment2": "Lvl 70-869",
+      "addLotusFlowerLTPEToken": 7500,
+      "addSaleDaysLuckyWheelTicket": 15
+    },
+    {
+      "rewardID": 8154,
+      "comment1": "Top1",
+      "comment2": "Lvl 50-69",
+      "constructionItemIDs": 30116,
+      "decoWodID": 2700
+    },
+    {
+      "rewardID": 8155,
+      "comment1": "TopX1",
+      "comment2": "Lvl 50-69",
+      "constructionItemIDs": 30115,
+      "addPrincessToken": 2
+    },
+    {
+      "rewardID": 8156,
+      "comment1": "TopX2",
+      "comment2": "Lvl 50-69",
+      "addLotusFlowerLTPEToken": 7500,
+      "constructionItemIDs": 30114
     },
     {
       "rewardID": 2753,
@@ -93480,6 +94042,495 @@
     {
       "rewardID": 22164,
       "units": "145+817"
+    },
+    {
+      "rewardID": 22191,
+      "addPegasusTicket": 24
+    },
+    {
+      "rewardID": 22192,
+      "addPegasusTicket": 111
+    },
+    {
+      "rewardID": 22193,
+      "addPegasusTicket": 185
+    },
+    {
+      "rewardID": 22194,
+      "addPegasusTicket": 314
+    },
+    {
+      "rewardID": 22196,
+      "ignoreMinuteSkipCapacity": 1,
+      "add60MinSkip": 20
+    },
+    {
+      "rewardID": 22197,
+      "ignoreMinuteSkipCapacity": 1,
+      "add60MinSkip": 93
+    },
+    {
+      "rewardID": 22198,
+      "ignoreMinuteSkipCapacity": 1,
+      "add60MinSkip": 154
+    },
+    {
+      "rewardID": 22199,
+      "ignoreMinuteSkipCapacity": 1,
+      "add60MinSkip": 262
+    },
+    {
+      "rewardID": 22201,
+      "ignoreMinuteSkipCapacity": 1,
+      "add10MinSkip": 120
+    },
+    {
+      "rewardID": 22202,
+      "ignoreMinuteSkipCapacity": 1,
+      "add10MinSkip": 555
+    },
+    {
+      "rewardID": 22203,
+      "ignoreMinuteSkipCapacity": 1,
+      "add10MinSkip": 925
+    },
+    {
+      "rewardID": 22204,
+      "ignoreMinuteSkipCapacity": 1,
+      "add10MinSkip": 1574
+    },
+    {
+      "rewardID": 22206,
+      "ignoreMinuteSkipCapacity": 1,
+      "add5HourSkip": 4
+    },
+    {
+      "rewardID": 22207,
+      "ignoreMinuteSkipCapacity": 1,
+      "add5HourSkip": 19
+    },
+    {
+      "rewardID": 22208,
+      "ignoreMinuteSkipCapacity": 1,
+      "add5HourSkip": 31
+    },
+    {
+      "rewardID": 22209,
+      "ignoreMinuteSkipCapacity": 1,
+      "add5HourSkip": 53
+    },
+    {
+      "rewardID": 22211,
+      "ignoreMinuteSkipCapacity": 1,
+      "add30MinSkip": 40
+    },
+    {
+      "rewardID": 22212,
+      "ignoreMinuteSkipCapacity": 1,
+      "add30MinSkip": 185
+    },
+    {
+      "rewardID": 22213,
+      "ignoreMinuteSkipCapacity": 1,
+      "add30MinSkip": 308
+    },
+    {
+      "rewardID": 22214,
+      "ignoreMinuteSkipCapacity": 1,
+      "add30MinSkip": 525
+    },
+    {
+      "rewardID": 22216,
+      "ignoreMinuteSkipCapacity": 1,
+      "add24HourSkip": 1
+    },
+    {
+      "rewardID": 22217,
+      "ignoreMinuteSkipCapacity": 1,
+      "add24HourSkip": 4
+    },
+    {
+      "rewardID": 22218,
+      "ignoreMinuteSkipCapacity": 1,
+      "add24HourSkip": 6
+    },
+    {
+      "rewardID": 22219,
+      "ignoreMinuteSkipCapacity": 1,
+      "add24HourSkip": 11
+    },
+    {
+      "rewardID": 22221,
+      "ignoreResourceStorageCapacity": 1,
+      "units": "11+365",
+      "hiddenFood": 10950
+    },
+    {
+      "rewardID": 22222,
+      "ignoreResourceStorageCapacity": 1,
+      "units": "11+1684",
+      "hiddenFood": 50520
+    },
+    {
+      "rewardID": 22223,
+      "ignoreResourceStorageCapacity": 1,
+      "units": "11+2806",
+      "hiddenFood": 84180
+    },
+    {
+      "rewardID": 22224,
+      "ignoreResourceStorageCapacity": 1,
+      "units": "11+4770",
+      "hiddenFood": 143100
+    },
+    {
+      "rewardID": 22226,
+      "ignoreResourceStorageCapacity": 1,
+      "units": "9+365",
+      "hiddenFood": 10950
+    },
+    {
+      "rewardID": 22227,
+      "ignoreResourceStorageCapacity": 1,
+      "units": "9+1684",
+      "hiddenFood": 50520
+    },
+    {
+      "rewardID": 22228,
+      "ignoreResourceStorageCapacity": 1,
+      "units": "9+2806",
+      "hiddenFood": 84180
+    },
+    {
+      "rewardID": 22229,
+      "ignoreResourceStorageCapacity": 1,
+      "units": "9+4770",
+      "hiddenFood": 143100
+    },
+    {
+      "rewardID": 22231,
+      "ignoreResourceStorageCapacity": 1,
+      "units": "12+365",
+      "hiddenFood": 10950
+    },
+    {
+      "rewardID": 22232,
+      "ignoreResourceStorageCapacity": 1,
+      "units": "12+1684",
+      "hiddenFood": 50520
+    },
+    {
+      "rewardID": 22233,
+      "ignoreResourceStorageCapacity": 1,
+      "units": "12+2806",
+      "hiddenFood": 84180
+    },
+    {
+      "rewardID": 22234,
+      "ignoreResourceStorageCapacity": 1,
+      "units": "12+4770",
+      "hiddenFood": 143100
+    },
+    {
+      "rewardID": 22236,
+      "ignoreResourceStorageCapacity": 1,
+      "units": "10+365",
+      "hiddenFood": 10950
+    },
+    {
+      "rewardID": 22237,
+      "ignoreResourceStorageCapacity": 1,
+      "units": "10+1684",
+      "hiddenFood": 50520
+    },
+    {
+      "rewardID": 22238,
+      "ignoreResourceStorageCapacity": 1,
+      "units": "10+2806",
+      "hiddenFood": 84180
+    },
+    {
+      "rewardID": 22239,
+      "ignoreResourceStorageCapacity": 1,
+      "units": "10+4770",
+      "hiddenFood": 143100
+    },
+    {
+      "rewardID": 22241,
+      "ignoreResourceStorageCapacity": 1,
+      "food": 10943
+    },
+    {
+      "rewardID": 22242,
+      "ignoreResourceStorageCapacity": 1,
+      "food": 50506
+    },
+    {
+      "rewardID": 22243,
+      "ignoreResourceStorageCapacity": 1,
+      "food": 84176
+    },
+    {
+      "rewardID": 22244,
+      "ignoreResourceStorageCapacity": 1,
+      "food": 143100
+    },
+    {
+      "rewardID": 22246,
+      "addLuckyWheelTicket": 360
+    },
+    {
+      "rewardID": 22247,
+      "addLuckyWheelTicket": 1800
+    },
+    {
+      "rewardID": 22248,
+      "addLuckyWheelTicket": 3000
+    },
+    {
+      "rewardID": 22249,
+      "addLuckyWheelTicket": 5100
+    },
+    {
+      "rewardID": 22251,
+      "addSaleDaysLuckyWheelTicket": 1
+    },
+    {
+      "rewardID": 22252,
+      "addSaleDaysLuckyWheelTicket": 2
+    },
+    {
+      "rewardID": 22253,
+      "addSaleDaysLuckyWheelTicket": 4
+    },
+    {
+      "rewardID": 22255,
+      "ignoreResourceStorageCapacity": 1,
+      "mead": 2735
+    },
+    {
+      "rewardID": 22256,
+      "ignoreResourceStorageCapacity": 1,
+      "mead": 12621
+    },
+    {
+      "rewardID": 22257,
+      "ignoreResourceStorageCapacity": 1,
+      "mead": 21035
+    },
+    {
+      "rewardID": 22258,
+      "ignoreResourceStorageCapacity": 1,
+      "mead": 35760
+    },
+    {
+      "rewardID": 22260,
+      "ignoreMinuteSkipCapacity": 1,
+      "add5MinSkip": 312
+    },
+    {
+      "rewardID": 22261,
+      "ignoreMinuteSkipCapacity": 1,
+      "add5MinSkip": 1440
+    },
+    {
+      "rewardID": 22263,
+      "ignoreMinuteSkipCapacity": 1,
+      "add60MinSkip": 26
+    },
+    {
+      "rewardID": 22264,
+      "ignoreMinuteSkipCapacity": 1,
+      "add60MinSkip": 120
+    },
+    {
+      "rewardID": 22265,
+      "ignoreMinuteSkipCapacity": 1,
+      "add60MinSkip": 215
+    },
+    {
+      "rewardID": 22266,
+      "ignoreMinuteSkipCapacity": 1,
+      "add60MinSkip": 349
+    },
+    {
+      "rewardID": 22268,
+      "ignoreMinuteSkipCapacity": 1,
+      "add10MinSkip": 156
+    },
+    {
+      "rewardID": 22269,
+      "ignoreMinuteSkipCapacity": 1,
+      "add10MinSkip": 720
+    },
+    {
+      "rewardID": 22270,
+      "ignoreMinuteSkipCapacity": 1,
+      "add10MinSkip": 1290
+    },
+    {
+      "rewardID": 22271,
+      "ignoreMinuteSkipCapacity": 1,
+      "add10MinSkip": 2098
+    },
+    {
+      "rewardID": 22273,
+      "ignoreMinuteSkipCapacity": 1,
+      "add5HourSkip": 5
+    },
+    {
+      "rewardID": 22274,
+      "ignoreMinuteSkipCapacity": 1,
+      "add5HourSkip": 24
+    },
+    {
+      "rewardID": 22275,
+      "ignoreMinuteSkipCapacity": 1,
+      "add5HourSkip": 43
+    },
+    {
+      "rewardID": 22276,
+      "ignoreMinuteSkipCapacity": 1,
+      "add5HourSkip": 71
+    },
+    {
+      "rewardID": 22278,
+      "ignoreMinuteSkipCapacity": 1,
+      "add30MinSkip": 52
+    },
+    {
+      "rewardID": 22279,
+      "ignoreMinuteSkipCapacity": 1,
+      "add30MinSkip": 240
+    },
+    {
+      "rewardID": 22280,
+      "ignoreMinuteSkipCapacity": 1,
+      "add30MinSkip": 430
+    },
+    {
+      "rewardID": 22281,
+      "ignoreMinuteSkipCapacity": 1,
+      "add30MinSkip": 700
+    },
+    {
+      "rewardID": 22283,
+      "ignoreMinuteSkipCapacity": 1,
+      "add24HourSkip": 5
+    },
+    {
+      "rewardID": 22284,
+      "ignoreMinuteSkipCapacity": 1,
+      "add24HourSkip": 9
+    },
+    {
+      "rewardID": 22285,
+      "ignoreMinuteSkipCapacity": 1,
+      "add24HourSkip": 15
+    },
+    {
+      "rewardID": 22287,
+      "addSaleDaysLuckyWheelTicket": 1
+    },
+    {
+      "rewardID": 22288,
+      "addSaleDaysLuckyWheelTicket": 2
+    },
+    {
+      "rewardID": 22290,
+      "ignoreResourceStorageCapacity": 1,
+      "units": "227+228",
+      "hiddenMead": 4560
+    },
+    {
+      "rewardID": 22291,
+      "ignoreResourceStorageCapacity": 1,
+      "units": "227+1052",
+      "hiddenMead": 21040
+    },
+    {
+      "rewardID": 22292,
+      "ignoreResourceStorageCapacity": 1,
+      "units": "227+1753",
+      "hiddenMead": 35060
+    },
+    {
+      "rewardID": 22293,
+      "ignoreResourceStorageCapacity": 1,
+      "units": "227+2980",
+      "hiddenMead": 59600
+    },
+    {
+      "rewardID": 22295,
+      "ignoreResourceStorageCapacity": 1,
+      "units": "215+228",
+      "hiddenMead": 4560
+    },
+    {
+      "rewardID": 22296,
+      "ignoreResourceStorageCapacity": 1,
+      "units": "215+1052",
+      "hiddenMead": 21040
+    },
+    {
+      "rewardID": 22297,
+      "ignoreResourceStorageCapacity": 1,
+      "units": "215+1753",
+      "hiddenMead": 35060
+    },
+    {
+      "rewardID": 22298,
+      "ignoreResourceStorageCapacity": 1,
+      "units": "215+2980",
+      "hiddenMead": 59600
+    },
+    {
+      "rewardID": 22300,
+      "ignoreResourceStorageCapacity": 1,
+      "units": "238+228",
+      "hiddenMead": 4560
+    },
+    {
+      "rewardID": 22301,
+      "ignoreResourceStorageCapacity": 1,
+      "units": "238+1052",
+      "hiddenMead": 21040
+    },
+    {
+      "rewardID": 22302,
+      "ignoreResourceStorageCapacity": 1,
+      "units": "238+1753",
+      "hiddenMead": 35060
+    },
+    {
+      "rewardID": 22303,
+      "ignoreResourceStorageCapacity": 1,
+      "units": "238+2980",
+      "hiddenMead": 59600
+    },
+    {
+      "rewardID": 22305,
+      "ignoreResourceStorageCapacity": 1,
+      "units": "216+228",
+      "hiddenMead": 4560
+    },
+    {
+      "rewardID": 22306,
+      "ignoreResourceStorageCapacity": 1,
+      "units": "216+1052",
+      "hiddenMead": 21040
+    },
+    {
+      "rewardID": 22307,
+      "ignoreResourceStorageCapacity": 1,
+      "units": "216+1753",
+      "hiddenMead": 35060
+    },
+    {
+      "rewardID": 22308,
+      "ignoreResourceStorageCapacity": 1,
+      "units": "216+2980",
+      "hiddenMead": 59600
     }
   ]
 }

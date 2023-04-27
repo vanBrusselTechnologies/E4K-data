@@ -136,10 +136,12 @@
     },
     {
       "effectTypeID": 49,
+      "combatType": 2,
       "name": "DefenseBoostFront"
     },
     {
       "effectTypeID": 50,
+      "combatType": 2,
       "name": "DefenseBoostFlank"
     },
     {
@@ -154,10 +156,12 @@
     },
     {
       "effectTypeID": 53,
+      "combatType": 1,
       "name": "AttackBoostFront"
     },
     {
       "effectTypeID": 54,
+      "combatType": 1,
       "name": "AttackBoostFlank"
     },
     {
@@ -583,6 +587,7 @@
     },
     {
       "effectTypeID": 156,
+      "combatType": 1,
       "name": "additionalWaves"
     },
     {
@@ -711,19 +716,9 @@
       "name": "Intimidate"
     },
     {
-      "effectTypeID": 1006,
-      "combatType": 3,
-      "name": "StrenghtinNumbers"
-    },
-    {
       "effectTypeID": 1007,
       "combatType": 3,
       "name": "Hordebreaker"
-    },
-    {
-      "effectTypeID": 1008,
-      "combatType": 3,
-      "name": "OutnumberednotOutmatched"
     },
     {
       "effectTypeID": 1012,

@@ -8431,6 +8431,36 @@
     ],
     "fx": []
   },
+  "Deco_Building_IndianWaterTempleBrown": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_IndianWaterTempleBrown/Deco_Building_IndianWaterTempleBrown.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 277,
+        "h": 231,
+        "rx": 825,
+        "ry": 902
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_IndianWaterTempleWhite": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_IndianWaterTempleWhite/Deco_Building_IndianWaterTempleWhite.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 276,
+        "h": 231,
+        "rx": 825,
+        "ry": 902
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_InvadersGlory": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_InvadersGlory/Deco_Building_InvadersGlory.png",
@@ -10828,6 +10858,36 @@
         "h": 317,
         "rx": 833,
         "ry": 813
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_WaterfallHarp1": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_WaterfallHarp1/Deco_Building_WaterfallHarp1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 292,
+        "h": 282,
+        "rx": 826,
+        "ry": 863
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_WaterfallHarp2": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_WaterfallHarp2/Deco_Building_WaterfallHarp2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 279,
+        "h": 257,
+        "rx": 828,
+        "ry": 875
       }
     ],
     "fx": []
@@ -22322,6 +22382,21 @@
         "h": 439,
         "rx": 850,
         "ry": 697
+      }
+    ],
+    "fx": []
+  },
+  "IndiaDrillground": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/IndiaDrillground/IndiaDrillground.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 319,
+        "h": 278,
+        "rx": 823,
+        "ry": 865
       }
     ],
     "fx": []
@@ -41175,6 +41250,21 @@
       }
     ]
   },
+  "General_Level100Effect_Wave": {
+    "pid": 0,
+    "url": "x768/Characters/Generals/AnimationEffects/General_Level100Effect/General_Level100Effect_Wave.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 121,
+        "h": 409,
+        "rx": 939,
+        "ry": 614
+      }
+    ],
+    "fx": []
+  },
   "FatKing_Arm_Left": {
     "pid": 0,
     "url": "x768/Characters/Generals/FatKing/FatKing_Arm_Left.png",
@@ -59012,6 +59102,21 @@
     ],
     "fx": []
   },
+  "items_unique_1193": {
+    "pid": 0,
+    "url": "x768/Equipment/EquipmentShared/items_unique_1193_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 129,
+        "rx": 935,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
   "relic_equipment_1_3": {
     "pid": 1,
     "url": "x768/Equipment/EquipmentShared/relic_equipment_1_2_Shared.png",
@@ -66115,6 +66220,21 @@
     ],
     "fx": []
   },
+  "icon_general_ability_1001_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1001_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
+      }
+    ],
+    "fx": []
+  },
   "icon_general_ability_1001": {
     "pid": 0,
     "url": "x768/Icons/AbilityIcons/icon_general_ability_1001.png",
@@ -66171,6 +66291,21 @@
         "h": 102,
         "rx": 949,
         "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_ability_1002_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1002_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
       }
     ],
     "fx": []
@@ -66235,6 +66370,21 @@
     ],
     "fx": []
   },
+  "icon_general_ability_1003_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1003_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
+      }
+    ],
+    "fx": []
+  },
   "icon_general_ability_1003": {
     "pid": 0,
     "url": "x768/Icons/AbilityIcons/icon_general_ability_1003.png",
@@ -66291,6 +66441,21 @@
         "h": 102,
         "rx": 949,
         "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_ability_1004_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1004_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
       }
     ],
     "fx": []
@@ -66355,6 +66520,21 @@
     ],
     "fx": []
   },
+  "icon_general_ability_1005_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1005_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
+      }
+    ],
+    "fx": []
+  },
   "icon_general_ability_1005": {
     "pid": 0,
     "url": "x768/Icons/AbilityIcons/icon_general_ability_1005.png",
@@ -66411,6 +66591,21 @@
         "h": 102,
         "rx": 949,
         "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_ability_1006_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1006_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
       }
     ],
     "fx": []
@@ -66475,6 +66670,21 @@
     ],
     "fx": []
   },
+  "icon_general_ability_1007_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1007_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
+      }
+    ],
+    "fx": []
+  },
   "icon_general_ability_1007": {
     "pid": 0,
     "url": "x768/Icons/AbilityIcons/icon_general_ability_1007.png",
@@ -66531,6 +66741,21 @@
         "h": 102,
         "rx": 949,
         "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_ability_1008_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1008_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
       }
     ],
     "fx": []
@@ -66595,6 +66820,21 @@
     ],
     "fx": []
   },
+  "icon_general_ability_1009_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1009_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
+      }
+    ],
+    "fx": []
+  },
   "icon_general_ability_1009": {
     "pid": 0,
     "url": "x768/Icons/AbilityIcons/icon_general_ability_1009.png",
@@ -66651,6 +66891,21 @@
         "h": 102,
         "rx": 949,
         "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_ability_1010_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1010_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
       }
     ],
     "fx": []
@@ -66715,6 +66970,21 @@
     ],
     "fx": []
   },
+  "icon_general_ability_1011_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1011_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
+      }
+    ],
+    "fx": []
+  },
   "icon_general_ability_1011": {
     "pid": 0,
     "url": "x768/Icons/AbilityIcons/icon_general_ability_1011.png",
@@ -66771,6 +67041,21 @@
         "h": 102,
         "rx": 949,
         "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_ability_1012_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1012_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
       }
     ],
     "fx": []
@@ -66835,6 +67120,21 @@
     ],
     "fx": []
   },
+  "icon_general_ability_1013_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1013_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
+      }
+    ],
+    "fx": []
+  },
   "icon_general_ability_1013": {
     "pid": 0,
     "url": "x768/Icons/AbilityIcons/icon_general_ability_1013.png",
@@ -66891,6 +67191,21 @@
         "h": 102,
         "rx": 949,
         "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_ability_1014_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1014_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
       }
     ],
     "fx": []
@@ -66955,6 +67270,21 @@
     ],
     "fx": []
   },
+  "icon_general_ability_1015_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1015_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
+      }
+    ],
+    "fx": []
+  },
   "icon_general_ability_1015": {
     "pid": 0,
     "url": "x768/Icons/AbilityIcons/icon_general_ability_1015.png",
@@ -67011,6 +67341,21 @@
         "h": 102,
         "rx": 949,
         "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_ability_1016_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1016_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
       }
     ],
     "fx": []
@@ -67075,6 +67420,21 @@
     ],
     "fx": []
   },
+  "icon_general_ability_1017_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1017_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
+      }
+    ],
+    "fx": []
+  },
   "icon_general_ability_1017": {
     "pid": 0,
     "url": "x768/Icons/AbilityIcons/icon_general_ability_1017.png",
@@ -67131,6 +67491,21 @@
         "h": 102,
         "rx": 949,
         "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_ability_1018_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1018_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
       }
     ],
     "fx": []
@@ -67195,6 +67570,21 @@
     ],
     "fx": []
   },
+  "icon_general_ability_1019_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1019_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
+      }
+    ],
+    "fx": []
+  },
   "icon_general_ability_1019": {
     "pid": 0,
     "url": "x768/Icons/AbilityIcons/icon_general_ability_1019.png",
@@ -67251,6 +67641,21 @@
         "h": 102,
         "rx": 949,
         "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_ability_1020_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1020_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
       }
     ],
     "fx": []
@@ -67315,6 +67720,21 @@
     ],
     "fx": []
   },
+  "icon_general_ability_1021_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1021_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
+      }
+    ],
+    "fx": []
+  },
   "icon_general_ability_1021": {
     "pid": 0,
     "url": "x768/Icons/AbilityIcons/icon_general_ability_1021.png",
@@ -67371,6 +67791,21 @@
         "h": 102,
         "rx": 949,
         "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_ability_1022_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1022_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
       }
     ],
     "fx": []
@@ -67435,6 +67870,21 @@
     ],
     "fx": []
   },
+  "icon_general_ability_1023_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1023_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
+      }
+    ],
+    "fx": []
+  },
   "icon_general_ability_1023": {
     "pid": 0,
     "url": "x768/Icons/AbilityIcons/icon_general_ability_1023.png",
@@ -67491,6 +67941,21 @@
         "h": 102,
         "rx": 949,
         "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_ability_1024_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1024_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
       }
     ],
     "fx": []
@@ -67555,6 +68020,21 @@
     ],
     "fx": []
   },
+  "icon_general_ability_1025_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1025_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
+      }
+    ],
+    "fx": []
+  },
   "icon_general_ability_1025": {
     "pid": 0,
     "url": "x768/Icons/AbilityIcons/icon_general_ability_1025.png",
@@ -67611,6 +68091,21 @@
         "h": 102,
         "rx": 949,
         "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_ability_1026_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1026_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
       }
     ],
     "fx": []
@@ -67675,6 +68170,21 @@
     ],
     "fx": []
   },
+  "icon_general_ability_1027_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1027_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
+      }
+    ],
+    "fx": []
+  },
   "icon_general_ability_1027": {
     "pid": 0,
     "url": "x768/Icons/AbilityIcons/icon_general_ability_1027.png",
@@ -67731,6 +68241,21 @@
         "h": 102,
         "rx": 949,
         "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_ability_1028_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1028_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
       }
     ],
     "fx": []
@@ -67795,6 +68320,21 @@
     ],
     "fx": []
   },
+  "icon_general_ability_1029_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1029_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
+      }
+    ],
+    "fx": []
+  },
   "icon_general_ability_1029": {
     "pid": 0,
     "url": "x768/Icons/AbilityIcons/icon_general_ability_1029.png",
@@ -67851,6 +68391,21 @@
         "h": 102,
         "rx": 949,
         "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_ability_1030_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1030_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
       }
     ],
     "fx": []
@@ -67915,6 +68470,21 @@
     ],
     "fx": []
   },
+  "icon_general_ability_1031_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1031_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
+      }
+    ],
+    "fx": []
+  },
   "icon_general_ability_1031": {
     "pid": 0,
     "url": "x768/Icons/AbilityIcons/icon_general_ability_1031.png",
@@ -67971,6 +68541,21 @@
         "h": 102,
         "rx": 949,
         "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_ability_1032_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1032_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
       }
     ],
     "fx": []
@@ -68035,6 +68620,21 @@
     ],
     "fx": []
   },
+  "icon_general_ability_1033_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1033_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
+      }
+    ],
+    "fx": []
+  },
   "icon_general_ability_1033": {
     "pid": 0,
     "url": "x768/Icons/AbilityIcons/icon_general_ability_1033.png",
@@ -68091,6 +68691,21 @@
         "h": 102,
         "rx": 949,
         "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_ability_1034_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1034_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
       }
     ],
     "fx": []
@@ -68155,6 +68770,21 @@
     ],
     "fx": []
   },
+  "icon_general_ability_1035_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1035_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
+      }
+    ],
+    "fx": []
+  },
   "icon_general_ability_1035": {
     "pid": 0,
     "url": "x768/Icons/AbilityIcons/icon_general_ability_1035.png",
@@ -68211,6 +68841,21 @@
         "h": 102,
         "rx": 949,
         "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_ability_1036_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1036_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
       }
     ],
     "fx": []
@@ -68275,6 +68920,21 @@
     ],
     "fx": []
   },
+  "icon_general_ability_1037_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1037_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
+      }
+    ],
+    "fx": []
+  },
   "icon_general_ability_1037": {
     "pid": 0,
     "url": "x768/Icons/AbilityIcons/icon_general_ability_1037.png",
@@ -68331,6 +68991,21 @@
         "h": 102,
         "rx": 949,
         "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_ability_1038_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1038_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
       }
     ],
     "fx": []
@@ -68395,6 +69070,21 @@
     ],
     "fx": []
   },
+  "icon_general_ability_1039_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1039_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
+      }
+    ],
+    "fx": []
+  },
   "icon_general_ability_1039": {
     "pid": 0,
     "url": "x768/Icons/AbilityIcons/icon_general_ability_1039.png",
@@ -68451,6 +69141,21 @@
         "h": 102,
         "rx": 949,
         "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_ability_1040_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1040_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
       }
     ],
     "fx": []
@@ -68515,6 +69220,21 @@
     ],
     "fx": []
   },
+  "icon_general_ability_1041_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_1041_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 230,
+        "rx": 885,
+        "ry": 885
+      }
+    ],
+    "fx": []
+  },
   "icon_general_ability_1041": {
     "pid": 0,
     "url": "x768/Icons/AbilityIcons/icon_general_ability_1041.png",
@@ -68571,6 +69291,21 @@
         "h": 101,
         "rx": 949,
         "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_ability_overlay_attack_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_overlay_attack_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 229,
+        "h": 229,
+        "rx": 885,
+        "ry": 885
       }
     ],
     "fx": []
@@ -68635,6 +69370,21 @@
     ],
     "fx": []
   },
+  "icon_general_ability_overlay_both_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_overlay_both_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 229,
+        "h": 229,
+        "rx": 885,
+        "ry": 885
+      }
+    ],
+    "fx": []
+  },
   "icon_general_ability_overlay_both": {
     "pid": 0,
     "url": "x768/Icons/AbilityIcons/icon_general_ability_overlay_both.png",
@@ -68691,6 +69441,21 @@
         "h": 101,
         "rx": 949,
         "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_ability_overlay_defense_xl": {
+    "pid": 0,
+    "url": "x768/Icons/AbilityIcons/icon_general_ability_overlay_defense_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 229,
+        "h": 229,
+        "rx": 885,
+        "ry": 885
       }
     ],
     "fx": []
@@ -68856,6 +69621,21 @@
         "h": 113,
         "rx": 949,
         "ry": 943
+      }
+    ],
+    "fx": []
+  },
+  "icon_ci_effect_indian": {
+    "pid": 0,
+    "url": "x768/Icons/CI_Icons/icon_ci_effect_indian.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 93,
+        "h": 92,
+        "rx": 953,
+        "ry": 954
       }
     ],
     "fx": []
@@ -69520,6 +70300,21 @@
     ],
     "fx": []
   },
+  "icon_general_effect_passive_attack_medium": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_effect_passive_attack_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 111,
+        "rx": 944,
+        "ry": 944
+      }
+    ],
+    "fx": []
+  },
   "icon_general_effect_passive_attack": {
     "pid": 0,
     "url": "x768/Icons/GeneralIcons/icon_general_effect_passive_attack.png",
@@ -69531,6 +70326,21 @@
         "h": 93,
         "rx": 953,
         "ry": 953
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_effect_passive_both_medium": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_effect_passive_both_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 112,
+        "rx": 944,
+        "ry": 944
       }
     ],
     "fx": []
@@ -69550,9 +70360,39 @@
     ],
     "fx": []
   },
+  "icon_general_effect_passive_defense_medium": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_effect_passive_defense_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 111,
+        "rx": 944,
+        "ry": 944
+      }
+    ],
+    "fx": []
+  },
   "icon_general_effect_passive_defense": {
     "pid": 0,
     "url": "x768/Icons/GeneralIcons/icon_general_effect_passive_defense.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 93,
+        "h": 93,
+        "rx": 953,
+        "ry": 953
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_enemy": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_enemy.png",
     "frames": [
       {
         "x": 0,
@@ -69741,6 +70581,21 @@
         "h": 115,
         "rx": 942,
         "ry": 942
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_player": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_player.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 93,
+        "h": 93,
+        "rx": 953,
+        "ry": 953
       }
     ],
     "fx": []
@@ -70475,6 +71330,21 @@
         "w": 91,
         "h": 94,
         "rx": 954,
+        "ry": 953
+      }
+    ],
+    "fx": []
+  },
+  "icon_add_flat": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_add_flat.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 93,
+        "h": 93,
+        "rx": 953,
         "ry": 953
       }
     ],
@@ -84205,6 +85075,21 @@
     ],
     "fx": []
   },
+  "icon_level_up_btn_c": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_level_up_btn_c.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 93,
+        "rx": 958,
+        "ry": 953
+      }
+    ],
+    "fx": []
+  },
   "icon_lock_b_medium": {
     "pid": 1,
     "url": "x768/Icons/Icons/icon_lock_b_medium.png",
@@ -88836,6 +89721,21 @@
         "h": 64,
         "rx": 966,
         "ry": 968
+      }
+    ],
+    "fx": []
+  },
+  "icon_star_flat_white_small": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_star_flat_white_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 43,
+        "rx": 977,
+        "ry": 978
       }
     ],
     "fx": []
@@ -123440,6 +124340,29 @@
       }
     ]
   },
+  "Castle_Mapobject_Special_HarpBaron": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_HarpBaron.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 74,
+        "h": 76,
+        "rx": 998,
+        "ry": 984
+      }
+    ],
+    "fx": [
+      {
+        "x": 20,
+        "y": 3,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Castle_Mapobject_Special_IcedLava": {
     "pid": 0,
     "url": "x768/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_IcedLava.png",
@@ -126903,6 +127826,29 @@
       }
     ]
   },
+  "Castle_Mapobject_Capital_Classic_Special_HarpBaron": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_HarpBaron.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 118,
+        "h": 124,
+        "rx": 973,
+        "ry": 960
+      }
+    ],
+    "fx": [
+      {
+        "x": 61,
+        "y": -18,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Castle_Mapobject_Capital_Classic_Special_IcedLava": {
     "pid": 0,
     "url": "x768/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_IcedLava.png",
@@ -128396,6 +129342,29 @@
       }
     ]
   },
+  "Metropol_Mapobject_Basic_Special_HarpBaron": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_HarpBaron.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 111,
+        "rx": 984,
+        "ry": 989
+      }
+    ],
+    "fx": [
+      {
+        "x": 28,
+        "y": 7,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Metropol_Mapobject_Basic_Special_IcedLava": {
     "pid": 0,
     "url": "x768/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_IcedLava.png",
@@ -129820,6 +130789,29 @@
       {
         "x": 35,
         "y": -1,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "Outpost_Mapobject_Level_Special_HarpBaron": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Outposts/Outpost_Mapobject_Level_Special_HarpBaron/Outpost_Mapobject_Level_Special_HarpBaron.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 69,
+        "h": 60,
+        "rx": 994,
+        "ry": 989
+      }
+    ],
+    "fx": [
+      {
+        "x": 35,
+        "y": 8,
         "scale": 0.75,
         "name": "flagHolder",
         "rotation": 0
@@ -131818,6 +132810,21 @@
         "h": 138,
         "rx": 942,
         "ry": 931
+      }
+    ],
+    "fx": []
+  },
+  "Preview_Castle_Mapobject_Special_HarpBaron": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Previews/Mapobjects_Preview/Preview_Castle_Mapobject_Special_HarpBaron.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 137,
+        "h": 141,
+        "rx": 937,
+        "ry": 927
       }
     ],
     "fx": []

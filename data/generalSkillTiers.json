@@ -16,15 +16,20 @@
       "tierID": 3,
       "generalID": 104,
       "tier": 3,
-      "previousTierRequiredSkillPoints": 10,
-      "hidden": 1
+      "previousTierRequiredSkillPoints": 35
     },
     {
       "tierID": 4,
       "generalID": 104,
       "tier": 4,
-      "previousTierRequiredSkillPoints": 10,
-      "hidden": 1
+      "previousTierRequiredSkillPoints": 70
+    },
+    {
+      "tierID": 17,
+      "generalID": 104,
+      "tier": 5,
+      "previousTierRequiredSkillPoints": 90,
+      "minGeneralStarTier": 10
     },
     {
       "tierID": 5,
@@ -42,15 +47,20 @@
       "tierID": 7,
       "generalID": 101,
       "tier": 3,
-      "previousTierRequiredSkillPoints": 10,
-      "hidden": 1
+      "previousTierRequiredSkillPoints": 35
     },
     {
       "tierID": 8,
       "generalID": 101,
       "tier": 4,
-      "previousTierRequiredSkillPoints": 6,
-      "hidden": 1
+      "previousTierRequiredSkillPoints": 70
+    },
+    {
+      "tierID": 18,
+      "generalID": 101,
+      "tier": 5,
+      "previousTierRequiredSkillPoints": 90,
+      "minGeneralStarTier": 10
     },
     {
       "tierID": 9,
@@ -68,15 +78,20 @@
       "tierID": 11,
       "generalID": 102,
       "tier": 3,
-      "previousTierRequiredSkillPoints": 10,
-      "hidden": 1
+      "previousTierRequiredSkillPoints": 35
     },
     {
       "tierID": 12,
       "generalID": 102,
       "tier": 4,
-      "previousTierRequiredSkillPoints": 6,
-      "hidden": 1
+      "previousTierRequiredSkillPoints": 70
+    },
+    {
+      "tierID": 19,
+      "generalID": 102,
+      "tier": 5,
+      "previousTierRequiredSkillPoints": 90,
+      "minGeneralStarTier": 10
     },
     {
       "tierID": 13,
@@ -94,15 +109,20 @@
       "tierID": 15,
       "generalID": 103,
       "tier": 3,
-      "previousTierRequiredSkillPoints": 10,
-      "hidden": 1
+      "previousTierRequiredSkillPoints": 35
     },
     {
       "tierID": 16,
       "generalID": 103,
       "tier": 4,
-      "previousTierRequiredSkillPoints": 6,
-      "hidden": 1
+      "previousTierRequiredSkillPoints": 70
+    },
+    {
+      "tierID": 20,
+      "generalID": 103,
+      "tier": 5,
+      "previousTierRequiredSkillPoints": 90,
+      "minGeneralStarTier": 10
     }
   ]
 }

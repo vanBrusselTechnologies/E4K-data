@@ -86,11 +86,27 @@
     },
     {
       "slotID": 101047,
-      "abilityGroupIDs": "1002,1018"
+      "abilityGroupIDs": "1001,1002,1018"
     },
     {
       "slotID": 101048,
       "abilityGroupIDs": 1007
+    },
+    {
+      "slotID": 101023,
+      "abilityGroupIDs": 1013
+    },
+    {
+      "slotID": 101032
+    },
+    {
+      "slotID": 101037
+    },
+    {
+      "slotID": 101044
+    },
+    {
+      "slotID": 101049
     }
   ]
 }

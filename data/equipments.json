@@ -11404,6 +11404,19 @@
       "skinID": 90
     },
     {
+      "equipmentID": 1192,
+      "comment1": "India LTPE 2023",
+      "comment2": "BaronSummer",
+      "wearerID": 1,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 1117,
+      "effects": "13&amp;7",
+      "duration": 336,
+      "mightValue": 10,
+      "canSlotGem": 1,
+      "skinID": 92
+    },
+    {
       "equipmentID": 1151,
       "comment1": "Sales Days Content October 2022",
       "comment2": "SinglesDay22General",
@@ -11857,6 +11870,17 @@
       "mightValue": 0,
       "canSlotGem": 1,
       "skinID": 103
+    },
+    {
+      "equipmentID": 1193,
+      "comment1": "Sales Days Content May 2023",
+      "comment2": "HarpBaron",
+      "wearerID": 1,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 1193,
+      "mightValue": 0,
+      "canSlotGem": 0,
+      "skinID": 104
     }
   ]
 }

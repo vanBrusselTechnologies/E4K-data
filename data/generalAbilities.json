@@ -91,36 +91,6 @@
       "abilityDefenseEffectID": 100535
     },
     {
-      "abilityID": 10061,
-      "name": "StrenghtinNumbers",
-      "abilityGroupID": 1006,
-      "level": 1,
-      "abilityTriggerID": 2,
-      "triggerPerWave": 3,
-      "abilityAttackEffectID": 100610,
-      "abilityDefenseEffectID": 100615
-    },
-    {
-      "abilityID": 10062,
-      "name": "StrenghtinNumbers",
-      "abilityGroupID": 1006,
-      "level": 2,
-      "abilityTriggerID": 2,
-      "triggerPerWave": 3,
-      "abilityAttackEffectID": 100620,
-      "abilityDefenseEffectID": 100625
-    },
-    {
-      "abilityID": 10063,
-      "name": "StrenghtinNumbers",
-      "abilityGroupID": 1006,
-      "level": 3,
-      "abilityTriggerID": 2,
-      "triggerPerWave": 3,
-      "abilityAttackEffectID": 100630,
-      "abilityDefenseEffectID": 100635
-    },
-    {
       "abilityID": 10071,
       "name": "Hordebreaker",
       "abilityGroupID": 1007,
@@ -149,36 +119,6 @@
       "triggerPerWave": 3,
       "abilityAttackEffectID": 100730,
       "abilityDefenseEffectID": 100735
-    },
-    {
-      "abilityID": 10081,
-      "name": "OutnumberednotOutmatched",
-      "abilityGroupID": 1008,
-      "level": 1,
-      "abilityTriggerID": 2,
-      "triggerPerWave": 2,
-      "abilityAttackEffectID": 100810,
-      "abilityDefenseEffectID": 100815
-    },
-    {
-      "abilityID": 10082,
-      "name": "OutnumberednotOutmatched",
-      "abilityGroupID": 1008,
-      "level": 2,
-      "abilityTriggerID": 2,
-      "triggerPerWave": 2,
-      "abilityAttackEffectID": 100820,
-      "abilityDefenseEffectID": 100825
-    },
-    {
-      "abilityID": 10083,
-      "name": "OutnumberednotOutmatched",
-      "abilityGroupID": 1008,
-      "level": 3,
-      "abilityTriggerID": 2,
-      "triggerPerWave": 2,
-      "abilityAttackEffectID": 100830,
-      "abilityDefenseEffectID": 100835
     },
     {
       "abilityID": 10121,
