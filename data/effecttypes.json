@@ -711,6 +711,11 @@
       "name": "RisetotheTask"
     },
     {
+      "effectTypeID": 1003,
+      "combatType": 3,
+      "name": "GiantSlayer"
+    },
+    {
       "effectTypeID": 1005,
       "combatType": 3,
       "name": "Intimidate"
@@ -731,9 +736,19 @@
       "name": "Sabotage"
     },
     {
+      "effectTypeID": 1014,
+      "combatType": 3,
+      "name": "HeartofaWarrior"
+    },
+    {
       "effectTypeID": 1015,
       "combatType": 3,
       "name": "ToweringShield"
+    },
+    {
+      "effectTypeID": 1016,
+      "combatType": 2,
+      "name": "WallAmount"
     },
     {
       "effectTypeID": 1018,
@@ -746,6 +761,16 @@
       "name": "AspectoftheDragon"
     },
     {
+      "effectTypeID": 1021,
+      "combatType": 3,
+      "name": "Ayala(Falcon)"
+    },
+    {
+      "effectTypeID": 1022,
+      "combatType": 3,
+      "name": "Ambush"
+    },
+    {
       "effectTypeID": 1023,
       "combatType": 3,
       "name": "Longbows"
@@ -756,14 +781,29 @@
       "name": "ReinforcedArrows"
     },
     {
+      "effectTypeID": 1026,
+      "combatType": 3,
+      "name": "Plunder"
+    },
+    {
       "effectTypeID": 1027,
       "combatType": 3,
       "name": "YourCut"
     },
     {
+      "effectTypeID": 1028,
+      "combatType": 3,
+      "name": "HiddenTreasures"
+    },
+    {
       "effectTypeID": 1030,
       "combatType": 3,
       "name": "Vengence"
+    },
+    {
+      "effectTypeID": 1033,
+      "combatType": 3,
+      "name": "WingsWhirlwind"
     },
     {
       "effectTypeID": 1034,
@@ -774,6 +814,16 @@
       "effectTypeID": 1035,
       "combatType": 3,
       "name": "DragonscaleArmor"
+    },
+    {
+      "effectTypeID": 1038,
+      "combatType": 3,
+      "name": "Exhalted"
+    },
+    {
+      "effectTypeID": 1039,
+      "combatType": 3,
+      "name": "LastingWounds"
     }
   ]
 }

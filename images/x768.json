@@ -8917,6 +8917,36 @@
     ],
     "fx": []
   },
+  "Deco_Building_MayaRuinsBlue": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_MayaRuinsBlue/Deco_Building_MayaRuinsBlue.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 300,
+        "h": 252,
+        "rx": 827,
+        "ry": 883
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_MayaRuinsRed": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_MayaRuinsRed/Deco_Building_MayaRuinsRed.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 292,
+        "h": 252,
+        "rx": 827,
+        "ry": 883
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_MemorialTomb": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_MemorialTomb/Deco_Building_MemorialTomb.png",
@@ -10377,6 +10407,36 @@
         "h": 155,
         "rx": 987,
         "ry": 881
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_TikiVolcano": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_TikiVolcano/Deco_Building_TikiVolcano.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 292,
+        "h": 229,
+        "rx": 839,
+        "ry": 901
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_TikiVolcanoRed": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_TikiVolcanoRed/Deco_Building_TikiVolcanoRed.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 292,
+        "h": 230,
+        "rx": 839,
+        "ry": 901
       }
     ],
     "fx": []
@@ -13746,6 +13806,29 @@
       {
         "x": 121,
         "y": 2,
+        "scale": 0.5,
+        "name": "fx_exclamationmark",
+        "rotation": 0
+      }
+    ]
+  },
+  "Event_Building_MayaLTPECamp": {
+    "pid": 0,
+    "url": "x768/Buildings/Event/Event_Building_MayaLTPECamp/Event_Building_MayaLTPECamp.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 301,
+        "h": 290,
+        "rx": 857,
+        "ry": 853
+      }
+    ],
+    "fx": [
+      {
+        "x": 62,
+        "y": 45,
         "scale": 0.5,
         "name": "fx_exclamationmark",
         "rotation": 0
@@ -22400,6 +22483,29 @@
       }
     ],
     "fx": []
+  },
+  "MayaHunter": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/MayaHunter/MayaHunter.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 240,
+        "h": 240,
+        "rx": 894,
+        "ry": 868
+      }
+    ],
+    "fx": [
+      {
+        "x": -4,
+        "y": -117,
+        "scale": 0.5,
+        "name": "smokeHolder",
+        "rotation": 0
+      }
+    ]
   },
   "mistwoodBarracks": {
     "pid": 0,
@@ -41250,21 +41356,6 @@
       }
     ]
   },
-  "General_Level100Effect_Wave": {
-    "pid": 0,
-    "url": "x768/Characters/Generals/AnimationEffects/General_Level100Effect/General_Level100Effect_Wave.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 121,
-        "h": 409,
-        "rx": 939,
-        "ry": 614
-      }
-    ],
-    "fx": []
-  },
   "FatKing_Arm_Left": {
     "pid": 0,
     "url": "x768/Characters/Generals/FatKing/FatKing_Arm_Left.png",
@@ -42247,10 +42338,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 455,
-        "h": 387,
-        "rx": 744,
-        "ry": 959
+        "w": 423,
+        "h": 360,
+        "rx": 762,
+        "ry": 962
       }
     ],
     "fx": []
@@ -42262,10 +42353,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 222,
-        "h": 247,
-        "rx": 889,
-        "ry": 876
+        "w": 207,
+        "h": 229,
+        "rx": 896,
+        "ry": 885
       }
     ],
     "fx": []
@@ -42277,10 +42368,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 197,
-        "h": 230,
-        "rx": 901,
-        "ry": 885
+        "w": 183,
+        "h": 214,
+        "rx": 908,
+        "ry": 893
       }
     ],
     "fx": []
@@ -42292,10 +42383,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 440,
-        "h": 53,
-        "rx": 775,
-        "ry": 970
+        "w": 410,
+        "h": 49,
+        "rx": 790,
+        "ry": 972
       }
     ],
     "fx": []
@@ -42307,10 +42398,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 352,
-        "h": 456,
-        "rx": 868,
-        "ry": 772
+        "w": 328,
+        "h": 424,
+        "rx": 877,
+        "ry": 788
       }
     ],
     "fx": []
@@ -42322,10 +42413,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 226,
-        "h": 233,
-        "rx": 881,
-        "ry": 922
+        "w": 211,
+        "h": 218,
+        "rx": 889,
+        "ry": 927
       }
     ],
     "fx": []
@@ -42337,9 +42428,9 @@
       {
         "x": 0,
         "y": 0,
-        "w": 37,
-        "h": 79,
-        "rx": 981,
+        "w": 35,
+        "h": 74,
+        "rx": 982,
         "ry": 997
       }
     ],
@@ -42352,9 +42443,9 @@
       {
         "x": 0,
         "y": 0,
-        "w": 33,
-        "h": 98,
-        "rx": 983,
+        "w": 31,
+        "h": 92,
+        "rx": 984,
         "ry": 997
       }
     ],
@@ -42368,7 +42459,7 @@
         "x": 0,
         "y": 0,
         "w": 22,
-        "h": 70,
+        "h": 65,
         "rx": 986,
         "ry": 997
       }
@@ -42382,10 +42473,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 453,
-        "h": 108,
-        "rx": 773,
-        "ry": 945
+        "w": 422,
+        "h": 101,
+        "rx": 789,
+        "ry": 948
       }
     ],
     "fx": []
@@ -42397,10 +42488,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 469,
-        "h": 338,
-        "rx": 765,
-        "ry": 831
+        "w": 437,
+        "h": 314,
+        "rx": 781,
+        "ry": 843
       }
     ],
     "fx": []
@@ -42412,10 +42503,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 368,
-        "h": 565,
-        "rx": 816,
-        "ry": 500
+        "w": 343,
+        "h": 628,
+        "rx": 828,
+        "ry": 433
       }
     ],
     "fx": []
@@ -42427,10 +42518,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 26,
-        "h": 127,
+        "w": 25,
+        "h": 118,
         "rx": 987,
-        "ry": 983
+        "ry": 984
       }
     ],
     "fx": []
@@ -42442,10 +42533,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 51,
-        "h": 144,
-        "rx": 974,
-        "ry": 992
+        "w": 48,
+        "h": 134,
+        "rx": 976,
+        "ry": 993
       }
     ],
     "fx": []
@@ -42457,10 +42548,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 419,
-        "h": 23,
-        "rx": 790,
-        "ry": 988
+        "w": 391,
+        "h": 21,
+        "rx": 804,
+        "ry": 989
       }
     ],
     "fx": []
@@ -42472,10 +42563,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 267,
-        "h": 134,
-        "rx": 866,
-        "ry": 933
+        "w": 248,
+        "h": 124,
+        "rx": 876,
+        "ry": 938
       }
     ],
     "fx": []
@@ -42487,10 +42578,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 146,
-        "h": 240,
-        "rx": 927,
-        "ry": 880
+        "w": 135,
+        "h": 223,
+        "rx": 932,
+        "ry": 888
       }
     ],
     "fx": []
@@ -42502,10 +42593,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 237,
-        "h": 773,
-        "rx": 798,
-        "ry": 955
+        "w": 220,
+        "h": 719,
+        "rx": 812,
+        "ry": 958
       }
     ],
     "fx": []
@@ -42885,6 +42976,21 @@
     ],
     "fx": []
   },
+  "Background_Generals_Overview_Preview_Alice": {
+    "pid": 0,
+    "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_Alice.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2420,
+        "h": 2434,
+        "rx": 999,
+        "ry": 998
+      }
+    ],
+    "fx": []
+  },
   "Background_Generals_Overview_Preview_Alyssa": {
     "pid": 0,
     "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_Alyssa.png",
@@ -42939,6 +43045,21 @@
         "y": 0,
         "w": 2421,
         "h": 2434,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Background_Generals_Overview_Preview_Tom": {
+    "pid": 0,
+    "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_Tom.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2420,
+        "h": 2433,
         "rx": 999,
         "ry": 999
       }
@@ -59117,6 +59238,66 @@
     ],
     "fx": []
   },
+  "items_unique_1195": {
+    "pid": 0,
+    "url": "x768/Equipment/EquipmentShared/items_unique_1195_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 129,
+        "rx": 935,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1198": {
+    "pid": 0,
+    "url": "x768/Equipment/EquipmentShared/items_unique_1196_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 129,
+        "rx": 935,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1197": {
+    "pid": 0,
+    "url": "x768/Equipment/EquipmentShared/items_unique_1196_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 129,
+        "rx": 935,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1196": {
+    "pid": 0,
+    "url": "x768/Equipment/EquipmentShared/items_unique_1196_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 129,
+        "rx": 935,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
   "relic_equipment_1_3": {
     "pid": 1,
     "url": "x768/Equipment/EquipmentShared/relic_equipment_1_2_Shared.png",
@@ -66902,7 +67083,7 @@
       {
         "x": 0,
         "y": 0,
-        "w": 230,
+        "w": 229,
         "h": 230,
         "rx": 885,
         "ry": 885
@@ -66918,7 +67099,7 @@
         "x": 0,
         "y": 0,
         "w": 129,
-        "h": 129,
+        "h": 130,
         "rx": 935,
         "ry": 935
       }
@@ -66977,7 +67158,7 @@
       {
         "x": 0,
         "y": 0,
-        "w": 230,
+        "w": 229,
         "h": 230,
         "rx": 885,
         "ry": 885
@@ -66993,7 +67174,7 @@
         "x": 0,
         "y": 0,
         "w": 129,
-        "h": 129,
+        "h": 130,
         "rx": 935,
         "ry": 935
       }
@@ -67052,7 +67233,7 @@
       {
         "x": 0,
         "y": 0,
-        "w": 230,
+        "w": 229,
         "h": 230,
         "rx": 885,
         "ry": 885
@@ -67068,7 +67249,7 @@
         "x": 0,
         "y": 0,
         "w": 129,
-        "h": 129,
+        "h": 130,
         "rx": 935,
         "ry": 935
       }
@@ -67577,8 +67758,8 @@
       {
         "x": 0,
         "y": 0,
-        "w": 230,
-        "h": 230,
+        "w": 229,
+        "h": 229,
         "rx": 885,
         "ry": 885
       }
@@ -67593,7 +67774,7 @@
         "x": 0,
         "y": 0,
         "w": 129,
-        "h": 129,
+        "h": 130,
         "rx": 935,
         "ry": 935
       }
@@ -68327,7 +68508,7 @@
       {
         "x": 0,
         "y": 0,
-        "w": 230,
+        "w": 229,
         "h": 230,
         "rx": 885,
         "ry": 885
@@ -68343,7 +68524,7 @@
         "x": 0,
         "y": 0,
         "w": 129,
-        "h": 129,
+        "h": 130,
         "rx": 935,
         "ry": 935
       }
@@ -69640,6 +69821,21 @@
     ],
     "fx": []
   },
+  "icon_ci_effect_mayan": {
+    "pid": 0,
+    "url": "x768/Icons/CI_Icons/icon_ci_effect_mayan.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 91,
+        "h": 93,
+        "rx": 954,
+        "ry": 953
+      }
+    ],
+    "fx": []
+  },
   "icon_ci_effect_nature": {
     "pid": 2,
     "url": "x768/Icons/CI_Icons/icon_ci_effect_nature.png",
@@ -70600,6 +70796,51 @@
     ],
     "fx": []
   },
+  "icon_general_preview_Alice_xl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_Alice_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 181,
+        "h": 209,
+        "rx": 909,
+        "ry": 896
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Alice_xxl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_Alice_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 240,
+        "h": 280,
+        "rx": 879,
+        "ry": 861
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Alice": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_Alice.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 121,
+        "h": 141,
+        "rx": 939,
+        "ry": 930
+      }
+    ],
+    "fx": []
+  },
   "icon_general_preview_Alyssa_xl": {
     "pid": 0,
     "url": "x768/Icons/GeneralIcons/icon_general_preview_Alyssa_xl.png",
@@ -70780,6 +71021,51 @@
     ],
     "fx": []
   },
+  "icon_general_preview_Tom_xl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_Tom_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 166,
+        "h": 213,
+        "rx": 918,
+        "ry": 894
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Tom_xxl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_Tom_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 220,
+        "h": 283,
+        "rx": 888,
+        "ry": 856
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Tom": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_Tom.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 143,
+        "rx": 945,
+        "ry": 929
+      }
+    ],
+    "fx": []
+  },
   "icon_general_preview_Toril_xl": {
     "pid": 0,
     "url": "x768/Icons/GeneralIcons/icon_general_preview_Toril_xl.png",
@@ -70892,10 +71178,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 214,
-        "h": 212,
-        "rx": 893,
-        "ry": 895
+        "w": 215,
+        "h": 213,
+        "rx": 892,
+        "ry": 893
       }
     ],
     "fx": []
@@ -70909,8 +71195,8 @@
         "y": 0,
         "w": 283,
         "h": 280,
-        "rx": 858,
-        "ry": 861
+        "rx": 857,
+        "ry": 859
       }
     ],
     "fx": []
@@ -70923,9 +71209,9 @@
         "x": 0,
         "y": 0,
         "w": 143,
-        "h": 141,
+        "h": 142,
         "rx": 928,
-        "ry": 930
+        "ry": 928
       }
     ],
     "fx": []
@@ -77864,6 +78150,81 @@
         "h": 61,
         "rx": 981,
         "ry": 969
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_MayaLTPEToken_big": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_MayaLTPEToken_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 112,
+        "h": 107,
+        "rx": 944,
+        "ry": 946
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_MayaLTPEToken_medium": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_MayaLTPEToken_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 90,
+        "h": 86,
+        "rx": 955,
+        "ry": 957
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_MayaLTPEToken_small": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_MayaLTPEToken_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 37,
+        "rx": 980,
+        "ry": 981
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_MayaLTPEToken_xl": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_MayaLTPEToken_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 167,
+        "h": 161,
+        "rx": 916,
+        "ry": 919
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_MayaLTPEToken": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_MayaLTPEToken.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 68,
+        "h": 65,
+        "rx": 966,
+        "ry": 967
       }
     ],
     "fx": []
@@ -85360,6 +85721,21 @@
     ],
     "fx": []
   },
+  "icon_ltp_event_mayan": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_ltp_event_mayan.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 203,
+        "h": 217,
+        "rx": 898,
+        "ry": 891
+      }
+    ],
+    "fx": []
+  },
   "icon_ltp_event_midas": {
     "pid": 1,
     "url": "x768/Icons/Icons/icon_ltp_event_midas.png",
@@ -89740,6 +90116,21 @@
     ],
     "fx": []
   },
+  "icon_star_flat_white_xs": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_star_flat_white_xs.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 37,
+        "h": 36,
+        "rx": 981,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
   "icon_star_light_medium": {
     "pid": 0,
     "url": "x768/Icons/Icons/icon_star_light_medium.png",
@@ -92391,6 +92782,51 @@
         "h": 89,
         "rx": 956,
         "ry": 955
+      }
+    ],
+    "fx": []
+  },
+  "icon_package_category_115": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_currency_MayaLTPEToken_big_ds_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 94,
+        "h": 90,
+        "rx": 953,
+        "ry": 955
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_MayaLTPEToken_big_ds": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_currency_MayaLTPEToken_big_ds_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 94,
+        "h": 90,
+        "rx": 953,
+        "ry": 955
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_MayaLTPEToken_ds": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_currency_MayaLTPEToken_ds_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 69,
+        "rx": 964,
+        "ry": 965
       }
     ],
     "fx": []
@@ -103431,6 +103867,21 @@
         "h": 259,
         "rx": 780,
         "ry": 870
+      }
+    ],
+    "fx": []
+  },
+  "teaser_event_mayan": {
+    "pid": 0,
+    "url": "x768/Misc/EventTeasers/teaser_event_mayan.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 437,
+        "h": 257,
+        "rx": 781,
+        "ry": 871
       }
     ],
     "fx": []
@@ -124271,6 +124722,29 @@
       }
     ]
   },
+  "Castle_Mapobject_Special_FireworkBaron": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_FireworkBaron.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 63,
+        "h": 67,
+        "rx": 998,
+        "ry": 992
+      }
+    ],
+    "fx": [
+      {
+        "x": 19,
+        "y": 0,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Castle_Mapobject_Special_FlowerBracelet": {
     "pid": 0,
     "url": "x768/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_FlowerBracelet.png",
@@ -127757,6 +128231,29 @@
       }
     ]
   },
+  "Castle_Mapobject_Capital_Classic_Special_FireworkBaron": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_FireworkBaron.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 118,
+        "h": 134,
+        "rx": 973,
+        "ry": 951
+      }
+    ],
+    "fx": [
+      {
+        "x": -2,
+        "y": -21,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Castle_Mapobject_Capital_Classic_Special_FlowerBracelet": {
     "pid": 0,
     "url": "x768/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_FlowerBracelet.png",
@@ -129273,6 +129770,29 @@
       }
     ]
   },
+  "Metropol_Mapobject_Basic_Special_FireworkBaron": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_FireworkBaron.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 104,
+        "h": 92,
+        "rx": 976,
+        "ry": 992
+      }
+    ],
+    "fx": [
+      {
+        "x": 33,
+        "y": 2,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Metropol_Mapobject_Basic_Special_FlowerBracelet": {
     "pid": 0,
     "url": "x768/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_FlowerBracelet.png",
@@ -130720,6 +131240,29 @@
       {
         "x": 28,
         "y": 4,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "Outpost_Mapobject_Level_Special_FireworkBaron": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Outposts/Outpost_Mapobject_Level_Special_FireworkBaron/Outpost_Mapobject_Level_Special_FireworkBaron.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 43,
+        "h": 61,
+        "rx": 1012,
+        "ry": 989
+      }
+    ],
+    "fx": [
+      {
+        "x": 40,
+        "y": -6,
         "scale": 0.75,
         "name": "flagHolder",
         "rotation": 0
@@ -132765,6 +133308,21 @@
         "h": 137,
         "rx": 947,
         "ry": 931
+      }
+    ],
+    "fx": []
+  },
+  "Preview_Castle_Mapobject_Special_FireworkBaron": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Previews/Mapobjects_Preview/Preview_Castle_Mapobject_Special_FireworkBaron.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 139,
+        "h": 147,
+        "rx": 929,
+        "ry": 920
       }
     ],
     "fx": []

@@ -672,9 +672,7 @@
       "burnable": 0,
       "tempServerBurnable": 1,
       "smashable": 0,
-      "maximumCount": 1,
-      "sceatSkillLocked": 50,
-      "effectLocked": 1
+      "maximumCount": 1
     },
     {
       "wodID": 2546,
@@ -789,9 +787,7 @@
       "tempServerBurnable": 1,
       "smashable": 0,
       "maximumCount": 1,
-      "canBePrimeSaleOffer": 1,
-      "sceatSkillLocked": 50,
-      "effectLocked": 1
+      "canBePrimeSaleOffer": 1
     },
     {
       "wodID": 2547,
@@ -1127,9 +1123,7 @@
       "tempServerBurnable": 1,
       "smashable": 0,
       "maximumCount": 1,
-      "sortOrder": 72.1,
-      "sceatSkillLocked": 49,
-      "effectLocked": 1
+      "sortOrder": 72.1
     },
     {
       "wodID": 2543,
@@ -71485,9 +71479,9 @@
     {
       "wodID": 2451,
       "comment1": "Sales Days Content June 2022",
-      "comment2": "abyssgold",
+      "comment2": "abyssblue",
       "group": "Building",
-      "type": "abyssgold",
+      "type": "abyssblue",
       "width": 5,
       "height": 10,
       "storeable": 1,
@@ -71509,9 +71503,9 @@
     {
       "wodID": 2452,
       "comment1": "Sales Days Content June 2022",
-      "comment2": "abyssgold",
+      "comment2": "abyssblue",
       "group": "Building",
-      "type": "abyssgold",
+      "type": "abyssblue",
       "width": 5,
       "height": 10,
       "storeable": 1,
@@ -71533,9 +71527,9 @@
     {
       "wodID": 2453,
       "comment1": "Sales Days Content June 2022",
-      "comment2": "abyssgold",
+      "comment2": "abyssblue",
       "group": "Building",
-      "type": "abyssgold",
+      "type": "abyssblue",
       "width": 5,
       "height": 10,
       "storeable": 1,

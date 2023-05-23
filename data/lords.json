@@ -265,6 +265,20 @@
       "lordID": -212,
       "type": "Dungeonbaron",
       "wearerID": 1
+    },
+    {
+      "lordID": -213,
+      "type": "WolfKingCommander",
+      "wearerID": 2,
+      "generalID": 106,
+      "effects": "57&amp;14,58&amp;12,61&amp;12,62&amp;10"
+    },
+    {
+      "lordID": -214,
+      "type": "WolfKingBaron",
+      "wearerID": 1,
+      "generalID": 106,
+      "effects": "7&amp;20,8&amp;15,10&amp;15,11&amp;15"
     }
   ]
 }

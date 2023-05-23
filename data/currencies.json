@@ -3,682 +3,818 @@
     {
       "currencyID": 1,
       "Name": "KhanTablet",
-      "JSONKey": "KT"
+      "JSONKey": "KT",
+      "assetName": "KhanTablet"
     },
     {
       "currencyID": 2,
       "Name": "SkullRelic",
-      "JSONKey": "TS"
+      "JSONKey": "TS",
+      "assetName": "SkullRelic"
     },
     {
       "currencyID": 3,
       "Name": "PearlRelic",
-      "JSONKey": "PR"
+      "JSONKey": "PR",
+      "assetName": "PearlRelic"
     },
     {
       "currencyID": 4,
       "Name": "SilverRune",
-      "JSONKey": "USR"
+      "JSONKey": "USR",
+      "assetName": "SilverRune"
     },
     {
       "currencyID": 5,
       "Name": "GoldRune",
-      "JSONKey": "UGR"
+      "JSONKey": "UGR",
+      "assetName": "GoldRune"
     },
     {
       "currencyID": 6,
       "Name": "GreenSkullRelic",
-      "JSONKey": "GTS"
+      "JSONKey": "GTS",
+      "assetName": "GreenSkullRelic"
     },
     {
       "currencyID": 7,
       "Name": "SamuraiToken",
-      "JSONKey": "ST"
+      "JSONKey": "ST",
+      "assetName": "SamuraiToken"
     },
     {
       "currencyID": 10,
       "Name": "KhanMedal",
-      "JSONKey": "KM"
+      "JSONKey": "KM",
+      "assetName": "KhanMedal"
     },
     {
       "currencyID": 11,
       "Name": "ShapeShifterCharm",
-      "JSONKey": "SC"
+      "JSONKey": "SC",
+      "assetName": "ShapeShifterCharm"
     },
     {
       "currencyID": 12,
       "Name": "ShapeShifterInsignia",
-      "JSONKey": "SI"
+      "JSONKey": "SI",
+      "assetName": "ShapeShifterInsignia"
     },
     {
       "currencyID": 13,
       "Name": "SamuraiMedal",
-      "JSONKey": "SM"
+      "JSONKey": "SM",
+      "assetName": "SamuraiMedal"
     },
     {
       "currencyID": 14,
       "Name": "ShogunPoint",
-      "JSONKey": "SP"
+      "JSONKey": "SP",
+      "assetName": "ShogunPoint"
     },
     {
       "currencyID": 27,
       "Name": "ResourceVillageToken",
-      "JSONKey": "RVT"
+      "JSONKey": "RVT",
+      "assetName": "ResourceVillageToken"
     },
     {
       "currencyID": 20,
       "Name": "LuckyWheelTicket",
-      "JSONKey": "LWT"
+      "JSONKey": "LWT",
+      "assetName": "LuckyWheelTicket"
     },
     {
       "currencyID": 45,
       "Name": "SaleDaysLuckyWheelTicket",
-      "JSONKey": "SLWT"
+      "JSONKey": "SLWT",
+      "assetName": "SaleDaysLuckyWheelTicket"
     },
     {
       "currencyID": 21,
       "Name": "WishingWellCoin",
-      "JSONKey": "WWC"
+      "JSONKey": "WWC",
+      "assetName": "WishingWellCoin"
     },
     {
       "currencyID": 22,
       "Name": "PegasusTicket",
-      "JSONKey": "PTT"
+      "JSONKey": "PTT",
+      "assetName": "PegasusTicket"
     },
     {
       "currencyID": 23,
       "Name": "ApprenticeToken",
-      "JSONKey": "APT"
+      "JSONKey": "APT",
+      "assetName": "ApprenticeToken"
     },
     {
       "currencyID": 24,
       "Name": "FusionCurrency",
-      "JSONKey": "FC"
+      "JSONKey": "FC",
+      "assetName": "FusionCurrency"
     },
     {
       "currencyID": 1001,
       "Name": "1MinSkip",
-      "JSONKey": "MS1"
+      "JSONKey": "MS1",
+      "assetName": "1MinSkip"
     },
     {
       "currencyID": 1002,
       "Name": "5MinSkip",
-      "JSONKey": "MS2"
+      "JSONKey": "MS2",
+      "assetName": "5MinSkip"
     },
     {
       "currencyID": 1003,
       "Name": "10MinSkip",
-      "JSONKey": "MS3"
+      "JSONKey": "MS3",
+      "assetName": "10MinSkip"
     },
     {
       "currencyID": 1004,
       "Name": "30MinSkip",
-      "JSONKey": "MS4"
+      "JSONKey": "MS4",
+      "assetName": "30MinSkip"
     },
     {
       "currencyID": 1005,
       "Name": "60MinSkip",
-      "JSONKey": "MS5"
+      "JSONKey": "MS5",
+      "assetName": "60MinSkip"
     },
     {
       "currencyID": 1006,
       "Name": "5HourSkip",
-      "JSONKey": "MS6"
+      "JSONKey": "MS6",
+      "assetName": "5HourSkip"
     },
     {
       "currencyID": 1007,
       "Name": "24HourSkip",
-      "JSONKey": "MS7"
+      "JSONKey": "MS7",
+      "assetName": "24HourSkip"
     },
     {
       "currencyID": 25,
       "Name": "ShapeShifterCharmBoosterKey",
-      "JSONKey": "CB"
+      "JSONKey": "CB",
+      "assetName": "ShapeShifterCharmBoosterKey"
     },
     {
       "currencyID": 26,
       "Name": "ShapeShifterBloodpointBoosterKey",
-      "JSONKey": "BB"
+      "JSONKey": "BB",
+      "assetName": "ShapeShifterBloodpointBoosterKey"
     },
     {
       "currencyID": 28,
       "Name": "LegendaryToken",
-      "JSONKey": "LT"
+      "JSONKey": "LT",
+      "assetName": "LegendaryToken"
     },
     {
       "currencyID": 29,
       "Name": "LegendaryMaterial",
-      "JSONKey": "LM"
+      "JSONKey": "LM",
+      "assetName": "LegendaryMaterial"
     },
     {
       "currencyID": 15,
       "Name": "SceatToken",
-      "JSONKey": "STP"
+      "JSONKey": "STP",
+      "assetName": "SceatToken"
     },
     {
       "currencyID": 30,
       "Name": "RelicFragment",
-      "JSONKey": "RF"
+      "JSONKey": "RF",
+      "assetName": "RelicFragment"
     },
     {
       "currencyID": 31,
       "Name": "SamuraiMedalBoosterKey",
-      "JSONKey": "SMB"
+      "JSONKey": "SMB",
+      "assetName": "SamuraiMedalBoosterKey"
     },
     {
       "currencyID": 32,
       "Name": "ShogunPointBoosterKey",
-      "JSONKey": "SPB"
+      "JSONKey": "SPB",
+      "assetName": "ShogunPointBoosterKey"
     },
     {
       "currencyID": 33,
       "Name": "FuryDoubloon",
-      "JSONKey": "FD"
+      "JSONKey": "FD",
+      "assetName": "FuryDoubloon"
     },
     {
       "currencyID": 34,
       "Name": "TimeDoubloon",
-      "JSONKey": "TD"
+      "JSONKey": "TD",
+      "assetName": "TimeDoubloon"
     },
     {
       "currencyID": 30001,
       "Name": "CommonFinesand",
-      "JSONKey": "MCF"
+      "JSONKey": "MCF",
+      "assetName": "CommonFinesand"
     },
     {
       "currencyID": 30002,
       "Name": "CommonBricks",
-      "JSONKey": "MCB"
+      "JSONKey": "MCB",
+      "assetName": "CommonBricks"
     },
     {
       "currencyID": 30003,
       "Name": "RareFlint",
-      "JSONKey": "MRF"
+      "JSONKey": "MRF",
+      "assetName": "RareFlint"
     },
     {
       "currencyID": 30004,
       "Name": "RareFarmingtools",
-      "JSONKey": "MFT"
+      "JSONKey": "MFT",
+      "assetName": "RareFarmingtools"
     },
     {
       "currencyID": 30005,
       "Name": "EpicResin",
-      "JSONKey": "MER"
+      "JSONKey": "MER",
+      "assetName": "EpicResin"
     },
     {
       "currencyID": 30006,
       "Name": "LegendarySoulstone",
-      "JSONKey": "MLS"
+      "JSONKey": "MLS",
+      "assetName": "LegendarySoulstone"
     },
     {
       "currencyID": 30007,
       "Name": "CommonPurifiedwater",
-      "JSONKey": "MCP"
+      "JSONKey": "MCP",
+      "assetName": "CommonPurifiedwater"
     },
     {
       "currencyID": 30008,
       "Name": "CommonClay",
-      "JSONKey": "MCC"
+      "JSONKey": "MCC",
+      "assetName": "CommonClay"
     },
     {
       "currencyID": 30009,
       "Name": "RarePaint",
-      "JSONKey": "MRP"
+      "JSONKey": "MRP",
+      "assetName": "RarePaint"
     },
     {
       "currencyID": 30010,
       "Name": "RareRope",
-      "JSONKey": "MRR"
+      "JSONKey": "MRR",
+      "assetName": "RareRope"
     },
     {
       "currencyID": 30011,
       "Name": "EpicPreciousmetals",
-      "JSONKey": "MEP"
+      "JSONKey": "MEP",
+      "assetName": "EpicPreciousmetals"
     },
     {
       "currencyID": 30012,
       "Name": "LegendaryMagmastone",
-      "JSONKey": "MLM"
+      "JSONKey": "MLM",
+      "assetName": "LegendaryMagmastone"
     },
     {
       "currencyID": 30013,
       "Name": "CommonTimber",
-      "JSONKey": "MCT"
+      "JSONKey": "MCT",
+      "assetName": "CommonTimber"
     },
     {
       "currencyID": 30014,
       "Name": "CommonStraw",
-      "JSONKey": "MCS"
+      "JSONKey": "MCS",
+      "assetName": "CommonStraw"
     },
     {
       "currencyID": 30015,
       "Name": "RareNails",
-      "JSONKey": "MRN"
+      "JSONKey": "MRN",
+      "assetName": "RareNails"
     },
     {
       "currencyID": 30016,
       "Name": "RareGlue",
-      "JSONKey": "MRG"
+      "JSONKey": "MRG",
+      "assetName": "RareGlue"
     },
     {
       "currencyID": 30017,
       "Name": "EpicCobblestone",
-      "JSONKey": "MEG"
+      "JSONKey": "MEG",
+      "assetName": "EpicCobblestone"
     },
     {
       "currencyID": 30018,
       "Name": "LegendaryFabric",
-      "JSONKey": "MLF"
+      "JSONKey": "MLF",
+      "assetName": "LegendaryFabric"
     },
     {
       "currencyID": 100,
       "Name": "Souls",
-      "JSONKey": "SOUL"
+      "JSONKey": "SOUL",
+      "assetName": "Souls"
     },
     {
       "currencyID": 101,
       "Name": "SoulSuckerBoosterKey",
-      "JSONKey": "SOB"
+      "JSONKey": "SOB",
+      "assetName": "SoulSuckerBoosterKey"
     },
     {
       "currencyID": 102,
       "Name": "Furs",
-      "JSONKey": "FU"
+      "JSONKey": "FU",
+      "assetName": "Furs"
     },
     {
       "currencyID": 103,
       "Name": "FurSkinnerBoosterKey",
-      "JSONKey": "FUB"
+      "JSONKey": "FUB",
+      "assetName": "FurSkinnerBoosterKey"
     },
     {
       "currencyID": 104,
       "Name": "Beads",
-      "JSONKey": "BE"
+      "JSONKey": "BE",
+      "assetName": "Beads"
     },
     {
       "currencyID": 105,
       "Name": "BeadBowlBoosterKey",
-      "JSONKey": "BEB"
+      "JSONKey": "BEB",
+      "assetName": "BeadBowlBoosterKey"
     },
     {
       "currencyID": 106,
       "Name": "Bees",
-      "JSONKey": "BEE"
+      "JSONKey": "BEE",
+      "assetName": "Bees"
     },
     {
       "currencyID": 107,
       "Name": "BusyBeesBoosterKey",
-      "JSONKey": "BUB"
+      "JSONKey": "BUB",
+      "assetName": "BusyBeesBoosterKey"
     },
     {
       "currencyID": 112,
       "Name": "Essence",
-      "JSONKey": "ES"
+      "JSONKey": "ES",
+      "assetName": "Essence"
     },
     {
       "currencyID": 111,
       "Name": "EssenceBoosterKey",
-      "JSONKey": "ESB"
+      "JSONKey": "ESB",
+      "assetName": "EssenceBoosterKey"
     },
     {
       "currencyID": 119,
       "Name": "Tea",
-      "JSONKey": "TEA"
+      "JSONKey": "TEA",
+      "assetName": "Tea"
     },
     {
       "currencyID": 120,
       "Name": "TeaTimeBoosterKey",
-      "JSONKey": "TEAT"
+      "JSONKey": "TEAT",
+      "assetName": "TeaTimeBoosterKey"
     },
     {
       "currencyID": 121,
       "Name": "Balloons",
-      "JSONKey": "BA"
+      "JSONKey": "BA",
+      "assetName": "Balloons"
     },
     {
       "currencyID": 122,
       "Name": "BalloonsBoosterKey",
-      "JSONKey": "BAB"
+      "JSONKey": "BAB",
+      "assetName": "BalloonsBoosterKey"
     },
     {
       "currencyID": 108,
       "Name": "Heritage",
-      "JSONKey": "HE"
+      "JSONKey": "HE",
+      "assetName": "Heritage"
     },
     {
       "currencyID": 109,
       "Name": "HeritageBoosterKey",
-      "JSONKey": "HEB"
+      "JSONKey": "HEB",
+      "assetName": "HeritageBoosterKey"
     },
     {
       "currencyID": 110,
       "Name": "DailyDutyPoints",
-      "JSONKey": "DDP"
+      "JSONKey": "DDP",
+      "assetName": "DailyDutyPoints"
     },
     {
       "currencyID": 113,
       "Name": "Tonic",
-      "JSONKey": "TO"
+      "JSONKey": "TO",
+      "assetName": "Tonic"
     },
     {
       "currencyID": 114,
       "Name": "TonicBooster",
-      "JSONKey": "TOB"
+      "JSONKey": "TOB",
+      "assetName": "TonicBooster"
     },
     {
       "currencyID": 115,
       "Name": "Statuette",
-      "JSONKey": "STA"
+      "JSONKey": "STA",
+      "assetName": "Statuette"
     },
     {
       "currencyID": 116,
       "Name": "StatuetteBooster",
-      "JSONKey": "STAB"
+      "JSONKey": "STAB",
+      "assetName": "StatuetteBooster"
     },
     {
       "currencyID": 117,
       "Name": "AllianceStatuette",
-      "JSONKey": "AS"
+      "JSONKey": "AS",
+      "assetName": "AllianceStatuette"
     },
     {
       "currencyID": 118,
       "Name": "StatuetteMalus",
-      "JSONKey": "SMA"
+      "JSONKey": "SMA",
+      "assetName": "StatuetteMalus"
     },
     {
       "currencyID": 35,
       "Name": "GoldToken",
-      "JSONKey": "GTO"
+      "JSONKey": "GTO",
+      "assetName": "GoldToken"
     },
     {
       "currencyID": 36,
       "Name": "SilverToken",
-      "JSONKey": "STO"
+      "JSONKey": "STO",
+      "assetName": "SilverToken"
     },
     {
       "currencyID": 37,
       "Name": "BronzeToken",
-      "JSONKey": "BTO"
+      "JSONKey": "BTO",
+      "assetName": "BronzeToken"
     },
     {
       "currencyID": 38,
       "Name": "Influence",
-      "JSONKey": "IN"
+      "JSONKey": "IN",
+      "assetName": "Influence"
     },
     {
       "currencyID": 39,
       "Name": "AllianceInfluence",
-      "JSONKey": "AIN"
+      "JSONKey": "AIN",
+      "assetName": "AllianceInfluence"
     },
     {
       "currencyID": 40,
       "Name": "InfluenceBooster",
-      "JSONKey": "INB"
+      "JSONKey": "INB",
+      "assetName": "InfluenceBooster"
     },
     {
       "currencyID": 41,
       "Name": "SpiritDoubloon",
-      "JSONKey": "SD"
+      "JSONKey": "SD",
+      "assetName": "SpiritDoubloon"
     },
     {
       "currencyID": 42,
       "Name": "VigorDoubloon",
-      "JSONKey": "VD"
+      "JSONKey": "VD",
+      "assetName": "VigorDoubloon"
     },
     {
       "currencyID": 43,
       "Name": "BastionDoubloon",
-      "JSONKey": "BD"
+      "JSONKey": "BD",
+      "assetName": "BastionDoubloon"
     },
     {
       "currencyID": 44,
       "Name": "RampartDoubloon",
-      "JSONKey": "RD"
+      "JSONKey": "RD",
+      "assetName": "RampartDoubloon"
     },
     {
       "currencyID": 50,
       "Name": "AnniversaryToken",
-      "JSONKey": "ACO"
+      "JSONKey": "ACO",
+      "assetName": "AnniversaryToken"
     },
     {
       "currencyID": 51,
       "Name": "XmasLTPEToken",
-      "JSONKey": "XST"
+      "JSONKey": "XST",
+      "assetName": "XmasLTPEToken"
     },
     {
       "currencyID": 52,
       "Name": "SpringLTPEToken",
-      "JSONKey": "SPT"
+      "JSONKey": "SPT",
+      "assetName": "SpringLTPEToken"
     },
     {
       "currencyID": 53,
       "Name": "NewKingLTPEToken",
-      "JSONKey": "NKT"
+      "JSONKey": "NKT",
+      "assetName": "NewKingLTPEToken"
     },
     {
       "currencyID": 54,
       "Name": "LotusFlowerLTPEToken",
-      "JSONKey": "LFT"
+      "JSONKey": "LFT",
+      "assetName": "LotusFlowerLTPEToken"
     },
     {
       "currencyID": 55,
       "Name": "OctoberfestLTPEToken",
-      "JSONKey": "OFT"
+      "JSONKey": "OFT",
+      "assetName": "OctoberfestLTPEToken"
     },
     {
       "currencyID": 56,
       "Name": "HalloweenLTPEToken",
-      "JSONKey": "HWT"
+      "JSONKey": "HWT",
+      "assetName": "HalloweenLTPEToken"
     },
     {
       "currencyID": 57,
       "Name": "IceLTPEToken",
-      "JSONKey": "IT"
+      "JSONKey": "IT",
+      "assetName": "IceLTPEToken"
     },
     {
       "currencyID": 58,
       "Name": "StPatrickLTPEToken",
-      "JSONKey": "STPT"
+      "JSONKey": "STPT",
+      "assetName": "StPatrickLTPEToken"
     },
     {
       "currencyID": 6001,
       "Name": "FatKingToken",
-      "JSONKey": "FKT"
+      "JSONKey": "FKT",
+      "assetName": "FatKingToken"
     },
     {
       "currencyID": 6002,
       "Name": "KnightToken",
-      "JSONKey": "KTK"
+      "JSONKey": "KTK",
+      "assetName": "KnightToken"
     },
     {
       "currencyID": 6003,
       "Name": "PrincessToken",
-      "JSONKey": "PTK"
+      "JSONKey": "PTK",
+      "assetName": "PrincessToken"
     },
     {
       "currencyID": 10000,
       "Name": "ShardUniversal",
-      "JSONKey": "SUN"
+      "JSONKey": "SUN",
+      "assetName": "ShardUniversal"
     },
     {
       "currencyID": 10001,
       "Name": "ShardToril",
-      "JSONKey": "STL"
+      "JSONKey": "STL",
+      "assetName": "ShardToril"
     },
     {
       "currencyID": 10002,
       "Name": "ShardLeo",
-      "JSONKey": "SLE"
+      "JSONKey": "SLE",
+      "assetName": "ShardLeo"
     },
     {
       "currencyID": 10003,
       "Name": "ShardAlyssa",
-      "JSONKey": "SAL"
+      "JSONKey": "SAL",
+      "assetName": "ShardAlyssa"
     },
     {
       "currencyID": 10004,
       "Name": "ShardHoratio",
-      "JSONKey": "SHT"
+      "JSONKey": "SHT",
+      "assetName": "ShardHoratio"
     },
     {
       "currencyID": 10005,
       "Name": "ShardSasaki",
-      "JSONKey": "SSK"
+      "JSONKey": "SSK",
+      "assetName": "ShardSasaki"
     },
     {
       "currencyID": 10006,
       "Name": "ShardDiana",
-      "JSONKey": "SDN"
+      "JSONKey": "SDN",
+      "assetName": "ShardDiana"
     },
     {
       "currencyID": 9999,
       "Name": "GeneralsSkillsResetToken",
-      "JSONKey": "GRT"
+      "JSONKey": "GRT",
+      "assetName": "GeneralsSkillsResetToken"
     },
     {
       "currencyID": 7001,
       "Name": "GenXP250",
-      "JSONKey": "GXP1"
+      "JSONKey": "GXP1",
+      "assetName": "GenXP250"
     },
     {
       "currencyID": 7002,
       "Name": "GenXP500",
-      "JSONKey": "GXP2"
+      "JSONKey": "GXP2",
+      "assetName": "GenXP500"
     },
     {
       "currencyID": 7003,
       "Name": "GenXP1000",
-      "JSONKey": "GXP3"
+      "JSONKey": "GXP3",
+      "assetName": "GenXP1000"
     },
     {
       "currencyID": 7004,
       "Name": "GenXP2500",
-      "JSONKey": "GXP4"
+      "JSONKey": "GXP4",
+      "assetName": "GenXP2500"
     },
     {
       "currencyID": 7005,
       "Name": "GenXP5000",
-      "JSONKey": "GXP5"
+      "JSONKey": "GXP5",
+      "assetName": "GenXP5000"
     },
     {
       "currencyID": 7006,
       "Name": "GenXP7500",
-      "JSONKey": "GXP6"
+      "JSONKey": "GXP6",
+      "assetName": "GenXP7500"
     },
     {
       "currencyID": 7007,
       "Name": "GenXP10000",
-      "JSONKey": "GXP7"
+      "JSONKey": "GXP7",
+      "assetName": "GenXP10000"
     },
     {
       "currencyID": 7008,
       "Name": "GenXP12500",
-      "JSONKey": "GXP8"
+      "JSONKey": "GXP8",
+      "assetName": "GenXP12500"
     },
     {
       "currencyID": 7009,
       "Name": "GenXP15000",
-      "JSONKey": "GXP9"
+      "JSONKey": "GXP9",
+      "assetName": "GenXP15000"
     },
     {
       "currencyID": 8,
       "Name": "CastlePassageToken",
-      "JSONKey": "CPT"
+      "JSONKey": "CPT",
+      "assetName": "CastlePassageToken"
     },
     {
       "currencyID": 2000,
       "Name": "RareBoosterConsumable",
-      "JSONKey": "BC1"
+      "JSONKey": "BC1",
+      "assetName": "RareBoosterConsumable"
     },
     {
       "currencyID": 2001,
       "Name": "EpicBoosterConsumable",
-      "JSONKey": "BC2"
+      "JSONKey": "BC2",
+      "assetName": "EpicBoosterConsumable"
     },
     {
       "currencyID": 2002,
       "Name": "LegendaryBoosterConsumable",
-      "JSONKey": "BC3"
+      "JSONKey": "BC3",
+      "assetName": "LegendaryBoosterConsumable"
     },
     {
       "currencyID": 46,
       "Name": "CargoPoints",
-      "JSONKey": "IAP"
+      "JSONKey": "IAP",
+      "assetName": "CargoPoints"
     },
     {
       "currencyID": 3001,
       "Name": "RefinedLumber",
-      "JSONKey": "RL"
+      "JSONKey": "RL",
+      "assetName": "RefinedLumber"
     },
     {
       "currencyID": 3002,
       "Name": "RefinedStone",
-      "JSONKey": "RS"
+      "JSONKey": "RS",
+      "assetName": "RefinedStone"
     },
     {
       "currencyID": 3003,
       "Name": "Component1",
-      "JSONKey": "CO1"
+      "JSONKey": "CO1",
+      "assetName": "Component1"
     },
     {
       "currencyID": 3004,
       "Name": "Component2",
-      "JSONKey": "CO2"
+      "JSONKey": "CO2",
+      "assetName": "Component2"
     },
     {
       "currencyID": 3005,
       "Name": "Component3",
-      "JSONKey": "CO3"
+      "JSONKey": "CO3",
+      "assetName": "Component3"
     },
     {
       "currencyID": 3006,
       "Name": "Component4",
-      "JSONKey": "CO4"
+      "JSONKey": "CO4",
+      "assetName": "Component4"
     },
     {
       "currencyID": 3007,
       "Name": "Component5",
-      "JSONKey": "CO5"
+      "JSONKey": "CO5",
+      "assetName": "Component5"
     },
     {
       "currencyID": 3008,
       "Name": "Component6",
-      "JSONKey": "CO6"
+      "JSONKey": "CO6",
+      "assetName": "Component6"
     },
     {
       "currencyID": 3009,
       "Name": "Component7",
-      "JSONKey": "CO7"
+      "JSONKey": "CO7",
+      "assetName": "Component7"
     },
     {
       "currencyID": 3010,
       "Name": "Component8",
-      "JSONKey": "CO8"
+      "JSONKey": "CO8",
+      "assetName": "Component8"
     },
     {
       "currencyID": 5000,
       "Name": "CommonMysteryBoxKey",
-      "JSONKey": "CMBK"
+      "JSONKey": "CMBK",
+      "assetName": "CommonMysteryBoxKey"
     },
     {
       "currencyID": 5001,
       "Name": "RareMysteryBoxKey",
-      "JSONKey": "RMBK"
+      "JSONKey": "RMBK",
+      "assetName": "RareMysteryBoxKey"
     },
     {
       "currencyID": 5002,
       "Name": "EpicMysteryBoxKey",
-      "JSONKey": "EMBK"
+      "JSONKey": "EMBK",
+      "assetName": "EpicMysteryBoxKey"
     },
     {
       "currencyID": 5003,
       "Name": "LegendaryMysteryBoxKey",
-      "JSONKey": "LMBK"
+      "JSONKey": "LMBK",
+      "assetName": "LegendaryMysteryBoxKey"
     },
     {
       "currencyID": 100000,
       "Name": "DecoDust",
-      "JSONKey": "DD"
+      "JSONKey": "DD",
+      "assetName": "DecoDust"
     },
     {
       "currencyID": 100001,

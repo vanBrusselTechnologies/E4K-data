@@ -2790,6 +2790,12 @@
       "capID": 99
     },
     {
+      "effectID": 21003,
+      "name": "GiantSlayer",
+      "effectTypeID": 1003,
+      "capID": 99
+    },
+    {
       "effectID": 21005,
       "name": "Intimidate",
       "effectTypeID": 1005,
@@ -2814,9 +2820,21 @@
       "capID": 99
     },
     {
+      "effectID": 21014,
+      "name": "HeartofaWarrior",
+      "effectTypeID": 1014,
+      "capID": 99
+    },
+    {
       "effectID": 21015,
       "name": "ToweringShield",
       "effectTypeID": 1015,
+      "capID": 99
+    },
+    {
+      "effectID": 21016,
+      "name": "WallAmount",
+      "effectTypeID": 1016,
       "capID": 99
     },
     {
@@ -2832,6 +2850,18 @@
       "capID": 99
     },
     {
+      "effectID": 21021,
+      "name": "Ayala(Falcon)",
+      "effectTypeID": 1021,
+      "capID": 99
+    },
+    {
+      "effectID": 21022,
+      "name": "Ambush",
+      "effectTypeID": 1022,
+      "capID": 99
+    },
+    {
       "effectID": 21023,
       "name": "Longbows",
       "effectTypeID": 1023,
@@ -2844,15 +2874,33 @@
       "capID": 99
     },
     {
+      "effectID": 21026,
+      "name": "Plunder",
+      "effectTypeID": 1026,
+      "capID": 99
+    },
+    {
       "effectID": 21027,
       "name": "YourCut",
       "effectTypeID": 1027,
       "capID": 99
     },
     {
+      "effectID": 21028,
+      "name": "HiddenTreasures",
+      "effectTypeID": 1028,
+      "capID": 99
+    },
+    {
       "effectID": 21030,
       "name": "Vengence",
       "effectTypeID": 1030,
+      "capID": 99
+    },
+    {
+      "effectID": 21033,
+      "name": "WingsWhirlwind",
+      "effectTypeID": 1033,
       "capID": 99
     },
     {
@@ -2865,6 +2913,18 @@
       "effectID": 21035,
       "name": "DragonscaleArmor",
       "effectTypeID": 1035,
+      "capID": 99
+    },
+    {
+      "effectID": 21038,
+      "name": "Exhalted",
+      "effectTypeID": 1038,
+      "capID": 99
+    },
+    {
+      "effectID": 21039,
+      "name": "LastingWounds",
+      "effectTypeID": 1039,
       "capID": 99
     },
     {

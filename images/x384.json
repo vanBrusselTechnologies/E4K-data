@@ -8917,6 +8917,36 @@
     ],
     "fx": []
   },
+  "Deco_Building_MayaRuinsBlue": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_MayaRuinsBlue/Deco_Building_MayaRuinsBlue.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 151,
+        "h": 127,
+        "rx": 913,
+        "ry": 941
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_MayaRuinsRed": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_MayaRuinsRed/Deco_Building_MayaRuinsRed.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 147,
+        "h": 127,
+        "rx": 913,
+        "ry": 941
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_MemorialTomb": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_MemorialTomb/Deco_Building_MemorialTomb.png",
@@ -10377,6 +10407,36 @@
         "h": 78,
         "rx": 993,
         "ry": 940
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_TikiVolcano": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_TikiVolcano/Deco_Building_TikiVolcano.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 147,
+        "h": 115,
+        "rx": 919,
+        "ry": 950
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_TikiVolcanoRed": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_TikiVolcanoRed/Deco_Building_TikiVolcanoRed.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 147,
+        "h": 116,
+        "rx": 919,
+        "ry": 950
       }
     ],
     "fx": []
@@ -13746,6 +13806,29 @@
       {
         "x": 61,
         "y": 1,
+        "scale": 0.25,
+        "name": "fx_exclamationmark",
+        "rotation": 0
+      }
+    ]
+  },
+  "Event_Building_MayaLTPECamp": {
+    "pid": 0,
+    "url": "x384/Buildings/Event/Event_Building_MayaLTPECamp/Event_Building_MayaLTPECamp.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 151,
+        "h": 146,
+        "rx": 928,
+        "ry": 926
+      }
+    ],
+    "fx": [
+      {
+        "x": 31,
+        "y": 23,
         "scale": 0.25,
         "name": "fx_exclamationmark",
         "rotation": 0
@@ -22400,6 +22483,29 @@
       }
     ],
     "fx": []
+  },
+  "MayaHunter": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/MayaHunter/MayaHunter.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 121,
+        "h": 121,
+        "rx": 946,
+        "ry": 933
+      }
+    ],
+    "fx": [
+      {
+        "x": -2,
+        "y": -58,
+        "scale": 0.25,
+        "name": "smokeHolder",
+        "rotation": 0
+      }
+    ]
   },
   "mistwoodBarracks": {
     "pid": 0,
@@ -41250,21 +41356,6 @@
       }
     ]
   },
-  "General_Level100Effect_Wave": {
-    "pid": 0,
-    "url": "x384/Characters/Generals/AnimationEffects/General_Level100Effect/General_Level100Effect_Wave.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 62,
-        "h": 205,
-        "rx": 969,
-        "ry": 807
-      }
-    ],
-    "fx": []
-  },
   "FatKing_Arm_Left": {
     "pid": 0,
     "url": "x384/Characters/Generals/FatKing/FatKing_Arm_Left.png",
@@ -42247,10 +42338,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 229,
-        "h": 194,
-        "rx": 871,
-        "ry": 979
+        "w": 213,
+        "h": 181,
+        "rx": 880,
+        "ry": 980
       }
     ],
     "fx": []
@@ -42262,10 +42353,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 112,
-        "h": 124,
-        "rx": 944,
-        "ry": 938
+        "w": 105,
+        "h": 115,
+        "rx": 947,
+        "ry": 942
       }
     ],
     "fx": []
@@ -42277,10 +42368,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 99,
-        "h": 116,
-        "rx": 950,
-        "ry": 942
+        "w": 93,
+        "h": 108,
+        "rx": 953,
+        "ry": 946
       }
     ],
     "fx": []
@@ -42292,10 +42383,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 221,
-        "h": 28,
-        "rx": 887,
-        "ry": 984
+        "w": 206,
+        "h": 26,
+        "rx": 894,
+        "ry": 985
       }
     ],
     "fx": []
@@ -42307,10 +42398,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 176,
-        "h": 229,
-        "rx": 934,
-        "ry": 885
+        "w": 165,
+        "h": 213,
+        "rx": 938,
+        "ry": 893
       }
     ],
     "fx": []
@@ -42322,10 +42413,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 114,
-        "h": 118,
-        "rx": 940,
-        "ry": 960
+        "w": 106,
+        "h": 110,
+        "rx": 944,
+        "ry": 963
       }
     ],
     "fx": []
@@ -42337,9 +42428,9 @@
       {
         "x": 0,
         "y": 0,
-        "w": 19,
-        "h": 40,
-        "rx": 990,
+        "w": 18,
+        "h": 38,
+        "rx": 991,
         "ry": 998
       }
     ],
@@ -42353,7 +42444,7 @@
         "x": 0,
         "y": 0,
         "w": 17,
-        "h": 50,
+        "h": 47,
         "rx": 991,
         "ry": 998
       }
@@ -42368,7 +42459,7 @@
         "x": 0,
         "y": 0,
         "w": 12,
-        "h": 36,
+        "h": 33,
         "rx": 992,
         "ry": 998
       }
@@ -42382,10 +42473,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 227,
-        "h": 55,
-        "rx": 886,
-        "ry": 972
+        "w": 212,
+        "h": 51,
+        "rx": 894,
+        "ry": 974
       }
     ],
     "fx": []
@@ -42397,10 +42488,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 235,
-        "h": 170,
-        "rx": 882,
-        "ry": 915
+        "w": 219,
+        "h": 158,
+        "rx": 890,
+        "ry": 921
       }
     ],
     "fx": []
@@ -42412,10 +42503,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 185,
-        "h": 284,
-        "rx": 907,
-        "ry": 749
+        "w": 173,
+        "h": 315,
+        "rx": 913,
+        "ry": 716
       }
     ],
     "fx": []
@@ -42427,10 +42518,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 14,
-        "h": 64,
+        "w": 13,
+        "h": 59,
         "rx": 993,
-        "ry": 991
+        "ry": 992
       }
     ],
     "fx": []
@@ -42442,9 +42533,9 @@
       {
         "x": 0,
         "y": 0,
-        "w": 27,
-        "h": 72,
-        "rx": 986,
+        "w": 25,
+        "h": 68,
+        "rx": 987,
         "ry": 996
       }
     ],
@@ -42457,9 +42548,9 @@
       {
         "x": 0,
         "y": 0,
-        "w": 211,
-        "h": 12,
-        "rx": 894,
+        "w": 197,
+        "h": 11,
+        "rx": 901,
         "ry": 994
       }
     ],
@@ -42472,10 +42563,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 135,
-        "h": 68,
-        "rx": 932,
-        "ry": 966
+        "w": 125,
+        "h": 63,
+        "rx": 937,
+        "ry": 968
       }
     ],
     "fx": []
@@ -42487,10 +42578,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 74,
-        "h": 121,
-        "rx": 963,
-        "ry": 939
+        "w": 69,
+        "h": 112,
+        "rx": 965,
+        "ry": 944
       }
     ],
     "fx": []
@@ -42502,10 +42593,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 120,
-        "h": 387,
-        "rx": 898,
-        "ry": 977
+        "w": 111,
+        "h": 361,
+        "rx": 905,
+        "ry": 978
       }
     ],
     "fx": []
@@ -42885,6 +42976,21 @@
     ],
     "fx": []
   },
+  "Background_Generals_Overview_Preview_Alice": {
+    "pid": 0,
+    "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_Alice.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1211,
+        "h": 1217,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
   "Background_Generals_Overview_Preview_Alyssa": {
     "pid": 0,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_Alyssa.png",
@@ -42939,6 +43045,21 @@
         "y": 0,
         "w": 1211,
         "h": 1218,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Background_Generals_Overview_Preview_Tom": {
+    "pid": 0,
+    "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_Tom.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1211,
+        "h": 1217,
         "rx": 999,
         "ry": 999
       }
@@ -59117,6 +59238,66 @@
     ],
     "fx": []
   },
+  "items_unique_1195": {
+    "pid": 0,
+    "url": "x384/Equipment/EquipmentShared/items_unique_1195_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1198": {
+    "pid": 0,
+    "url": "x384/Equipment/EquipmentShared/items_unique_1196_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1197": {
+    "pid": 0,
+    "url": "x384/Equipment/EquipmentShared/items_unique_1196_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1196": {
+    "pid": 0,
+    "url": "x384/Equipment/EquipmentShared/items_unique_1196_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
   "relic_equipment_1_3": {
     "pid": 1,
     "url": "x384/Equipment/EquipmentShared/relic_equipment_1_2_Shared.png",
@@ -66902,7 +67083,7 @@
       {
         "x": 0,
         "y": 0,
-        "w": 116,
+        "w": 115,
         "h": 116,
         "rx": 942,
         "ry": 942
@@ -66918,7 +67099,7 @@
         "x": 0,
         "y": 0,
         "w": 65,
-        "h": 65,
+        "h": 66,
         "rx": 967,
         "ry": 967
       }
@@ -66977,7 +67158,7 @@
       {
         "x": 0,
         "y": 0,
-        "w": 116,
+        "w": 115,
         "h": 116,
         "rx": 942,
         "ry": 942
@@ -66993,7 +67174,7 @@
         "x": 0,
         "y": 0,
         "w": 65,
-        "h": 65,
+        "h": 66,
         "rx": 967,
         "ry": 967
       }
@@ -67052,7 +67233,7 @@
       {
         "x": 0,
         "y": 0,
-        "w": 116,
+        "w": 115,
         "h": 116,
         "rx": 942,
         "ry": 942
@@ -67068,7 +67249,7 @@
         "x": 0,
         "y": 0,
         "w": 65,
-        "h": 65,
+        "h": 66,
         "rx": 967,
         "ry": 967
       }
@@ -67577,8 +67758,8 @@
       {
         "x": 0,
         "y": 0,
-        "w": 116,
-        "h": 116,
+        "w": 115,
+        "h": 115,
         "rx": 942,
         "ry": 942
       }
@@ -67593,7 +67774,7 @@
         "x": 0,
         "y": 0,
         "w": 65,
-        "h": 65,
+        "h": 66,
         "rx": 967,
         "ry": 967
       }
@@ -68327,7 +68508,7 @@
       {
         "x": 0,
         "y": 0,
-        "w": 116,
+        "w": 115,
         "h": 116,
         "rx": 942,
         "ry": 942
@@ -68343,7 +68524,7 @@
         "x": 0,
         "y": 0,
         "w": 65,
-        "h": 65,
+        "h": 66,
         "rx": 967,
         "ry": 967
       }
@@ -69640,6 +69821,21 @@
     ],
     "fx": []
   },
+  "icon_ci_effect_mayan": {
+    "pid": 0,
+    "url": "x384/Icons/CI_Icons/icon_ci_effect_mayan.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 47,
+        "rx": 976,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
   "icon_ci_effect_nature": {
     "pid": 2,
     "url": "x384/Icons/CI_Icons/icon_ci_effect_nature.png",
@@ -70600,6 +70796,51 @@
     ],
     "fx": []
   },
+  "icon_general_preview_Alice_xl": {
+    "pid": 0,
+    "url": "x384/Icons/GeneralIcons/icon_general_preview_Alice_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 91,
+        "h": 106,
+        "rx": 954,
+        "ry": 947
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Alice_xxl": {
+    "pid": 0,
+    "url": "x384/Icons/GeneralIcons/icon_general_preview_Alice_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 121,
+        "h": 141,
+        "rx": 939,
+        "ry": 930
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Alice": {
+    "pid": 0,
+    "url": "x384/Icons/GeneralIcons/icon_general_preview_Alice.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 61,
+        "h": 71,
+        "rx": 969,
+        "ry": 965
+      }
+    ],
+    "fx": []
+  },
   "icon_general_preview_Alyssa_xl": {
     "pid": 0,
     "url": "x384/Icons/GeneralIcons/icon_general_preview_Alyssa_xl.png",
@@ -70780,6 +71021,51 @@
     ],
     "fx": []
   },
+  "icon_general_preview_Tom_xl": {
+    "pid": 0,
+    "url": "x384/Icons/GeneralIcons/icon_general_preview_Tom_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 108,
+        "rx": 958,
+        "ry": 946
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Tom_xxl": {
+    "pid": 0,
+    "url": "x384/Icons/GeneralIcons/icon_general_preview_Tom_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 143,
+        "rx": 943,
+        "ry": 927
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Tom": {
+    "pid": 0,
+    "url": "x384/Icons/GeneralIcons/icon_general_preview_Tom.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 56,
+        "h": 72,
+        "rx": 972,
+        "ry": 964
+      }
+    ],
+    "fx": []
+  },
   "icon_general_preview_Toril_xl": {
     "pid": 0,
     "url": "x384/Icons/GeneralIcons/icon_general_preview_Toril_xl.png",
@@ -70892,10 +71178,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 108,
+        "w": 109,
         "h": 107,
-        "rx": 946,
-        "ry": 947
+        "rx": 945,
+        "ry": 946
       }
     ],
     "fx": []
@@ -70907,10 +71193,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 143,
+        "w": 142,
         "h": 141,
         "rx": 928,
-        "ry": 930
+        "ry": 929
       }
     ],
     "fx": []
@@ -70923,7 +71209,7 @@
         "x": 0,
         "y": 0,
         "w": 73,
-        "h": 72,
+        "h": 71,
         "rx": 963,
         "ry": 964
       }
@@ -77864,6 +78150,81 @@
         "h": 31,
         "rx": 990,
         "ry": 984
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_MayaLTPEToken_big": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_MayaLTPEToken_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 55,
+        "rx": 971,
+        "ry": 972
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_MayaLTPEToken_medium": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_MayaLTPEToken_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 46,
+        "h": 44,
+        "rx": 977,
+        "ry": 978
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_MayaLTPEToken_small": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_MayaLTPEToken_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 21,
+        "h": 19,
+        "rx": 989,
+        "ry": 990
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_MayaLTPEToken_xl": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_MayaLTPEToken_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 85,
+        "h": 81,
+        "rx": 957,
+        "ry": 959
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_MayaLTPEToken": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_MayaLTPEToken.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 33,
+        "rx": 982,
+        "ry": 983
       }
     ],
     "fx": []
@@ -85360,6 +85721,21 @@
     ],
     "fx": []
   },
+  "icon_ltp_event_mayan": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_ltp_event_mayan.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 103,
+        "h": 109,
+        "rx": 948,
+        "ry": 945
+      }
+    ],
+    "fx": []
+  },
   "icon_ltp_event_midas": {
     "pid": 1,
     "url": "x384/Icons/Icons/icon_ltp_event_midas.png",
@@ -89740,6 +90116,21 @@
     ],
     "fx": []
   },
+  "icon_star_flat_white_xs": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_star_flat_white_xs.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 19,
+        "h": 18,
+        "rx": 990,
+        "ry": 991
+      }
+    ],
+    "fx": []
+  },
   "icon_star_light_medium": {
     "pid": 0,
     "url": "x384/Icons/Icons/icon_star_light_medium.png",
@@ -92391,6 +92782,51 @@
         "h": 45,
         "rx": 977,
         "ry": 977
+      }
+    ],
+    "fx": []
+  },
+  "icon_package_category_115": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_currency_MayaLTPEToken_big_ds_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 46,
+        "rx": 976,
+        "ry": 977
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_MayaLTPEToken_big_ds": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_currency_MayaLTPEToken_big_ds_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 46,
+        "rx": 976,
+        "ry": 977
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_MayaLTPEToken_ds": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_currency_MayaLTPEToken_ds_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 37,
+        "h": 35,
+        "rx": 981,
+        "ry": 982
       }
     ],
     "fx": []
@@ -103431,6 +103867,21 @@
         "h": 131,
         "rx": 889,
         "ry": 934
+      }
+    ],
+    "fx": []
+  },
+  "teaser_event_mayan": {
+    "pid": 0,
+    "url": "x384/Misc/EventTeasers/teaser_event_mayan.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 219,
+        "h": 129,
+        "rx": 890,
+        "ry": 935
       }
     ],
     "fx": []
@@ -124271,6 +124722,29 @@
       }
     ]
   },
+  "Castle_Mapobject_Special_FireworkBaron": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_FireworkBaron.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 47,
+        "rx": 998,
+        "ry": 994
+      }
+    ],
+    "fx": [
+      {
+        "x": 13,
+        "y": 0,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Castle_Mapobject_Special_FlowerBracelet": {
     "pid": 0,
     "url": "x384/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_FlowerBracelet.png",
@@ -127757,6 +128231,29 @@
       }
     ]
   },
+  "Castle_Mapobject_Capital_Classic_Special_FireworkBaron": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_FireworkBaron.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 95,
+        "rx": 981,
+        "ry": 965
+      }
+    ],
+    "fx": [
+      {
+        "x": -2,
+        "y": -15,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Castle_Mapobject_Capital_Classic_Special_FlowerBracelet": {
     "pid": 0,
     "url": "x384/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_FlowerBracelet.png",
@@ -129273,6 +129770,29 @@
       }
     ]
   },
+  "Metropol_Mapobject_Basic_Special_FireworkBaron": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_FireworkBaron.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 73,
+        "h": 65,
+        "rx": 983,
+        "ry": 994
+      }
+    ],
+    "fx": [
+      {
+        "x": 23,
+        "y": 1,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Metropol_Mapobject_Basic_Special_FlowerBracelet": {
     "pid": 0,
     "url": "x384/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_FlowerBracelet.png",
@@ -130720,6 +131240,29 @@
       {
         "x": 19,
         "y": 3,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "Outpost_Mapobject_Level_Special_FireworkBaron": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Outposts/Outpost_Mapobject_Level_Special_FireworkBaron/Outpost_Mapobject_Level_Special_FireworkBaron.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 31,
+        "h": 43,
+        "rx": 1008,
+        "ry": 992
+      }
+    ],
+    "fx": [
+      {
+        "x": 28,
+        "y": -4,
         "scale": 0.52,
         "name": "flagHolder",
         "rotation": 0
@@ -132765,6 +133308,21 @@
         "h": 97,
         "rx": 962,
         "ry": 951
+      }
+    ],
+    "fx": []
+  },
+  "Preview_Castle_Mapobject_Special_FireworkBaron": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Previews/Mapobjects_Preview/Preview_Castle_Mapobject_Special_FireworkBaron.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 98,
+        "h": 103,
+        "rx": 950,
+        "ry": 944
       }
     ],
     "fx": []

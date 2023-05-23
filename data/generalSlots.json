@@ -6,15 +6,15 @@
     },
     {
       "slotID": 101012,
-      "abilityGroupIDs": 1034
+      "abilityGroupIDs": "1034,1038"
     },
     {
       "slotID": 101013,
-      "abilityGroupIDs": "1005,1035"
+      "abilityGroupIDs": "1005,1035,1039"
     },
     {
       "slotID": 101014,
-      "abilityGroupIDs": 1030
+      "abilityGroupIDs": "1033,1030"
     },
     {
       "slotID": 101016,
@@ -22,15 +22,15 @@
     },
     {
       "slotID": 101017,
-      "abilityGroupIDs": 1034
+      "abilityGroupIDs": "1034,1038"
     },
     {
       "slotID": 101018,
-      "abilityGroupIDs": "1005,1035"
+      "abilityGroupIDs": "1005,1035,1039"
     },
     {
       "slotID": 101019,
-      "abilityGroupIDs": 1030
+      "abilityGroupIDs": "1033,1030"
     },
     {
       "slotID": 101021,
@@ -39,6 +39,10 @@
     {
       "slotID": 101022,
       "abilityGroupIDs": "1023,1001"
+    },
+    {
+      "slotID": 101023,
+      "abilityGroupIDs": "1021,1013,1022"
     },
     {
       "slotID": 101026,
@@ -50,23 +54,31 @@
     },
     {
       "slotID": 101028,
-      "abilityGroupIDs": 1013
+      "abilityGroupIDs": "1021,1013,1022"
+    },
+    {
+      "slotID": 101032,
+      "abilityGroupIDs": 1026
     },
     {
       "slotID": 101031,
-      "abilityGroupIDs": 1007
+      "abilityGroupIDs": "1028,1007"
     },
     {
       "slotID": 101033,
-      "abilityGroupIDs": "1030,1001"
+      "abilityGroupIDs": "1027,1030,1001"
+    },
+    {
+      "slotID": 101037,
+      "abilityGroupIDs": 1026
     },
     {
       "slotID": 101036,
-      "abilityGroupIDs": 1007
+      "abilityGroupIDs": "1028,1007"
     },
     {
       "slotID": 101038,
-      "abilityGroupIDs": "1030,1001"
+      "abilityGroupIDs": "1027,1030,1001"
     },
     {
       "slotID": 101041,
@@ -78,7 +90,11 @@
     },
     {
       "slotID": 101043,
-      "abilityGroupIDs": 1007
+      "abilityGroupIDs": "1007,1014"
+    },
+    {
+      "slotID": 101044,
+      "abilityGroupIDs": 1003
     },
     {
       "slotID": 101046,
@@ -90,23 +106,11 @@
     },
     {
       "slotID": 101048,
-      "abilityGroupIDs": 1007
+      "abilityGroupIDs": "1007,1014"
     },
     {
-      "slotID": 101023,
-      "abilityGroupIDs": 1013
-    },
-    {
-      "slotID": 101032
-    },
-    {
-      "slotID": 101037
-    },
-    {
-      "slotID": 101044
-    },
-    {
-      "slotID": 101049
+      "slotID": 101049,
+      "abilityGroupIDs": "1003,1016"
     }
   ]
 }
