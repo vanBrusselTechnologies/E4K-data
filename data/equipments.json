@@ -11417,6 +11417,19 @@
       "skinID": 92
     },
     {
+      "equipmentID": 1194,
+      "comment1": "Maya LTPE 2023",
+      "comment2": "MayaInsignia",
+      "wearerID": 1,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 745,
+      "effects": "13&amp;7",
+      "duration": 336,
+      "mightValue": 10,
+      "canSlotGem": 1,
+      "skinID": 41
+    },
+    {
       "equipmentID": 1151,
       "comment1": "Sales Days Content October 2022",
       "comment2": "SinglesDay22General",
@@ -11881,6 +11894,54 @@
       "mightValue": 0,
       "canSlotGem": 0,
       "skinID": 104
+    },
+    {
+      "equipmentID": 1195,
+      "comment1": "Sales Days Content June 2023",
+      "comment2": "FireworkBaron",
+      "wearerID": 1,
+      "slotID": 5,
+      "mightValue": 0,
+      "canSlotGem": 0,
+      "skinID": 105
+    },
+    {
+      "equipmentID": 1196,
+      "comment1": "Sales Days Content June 2023",
+      "comment2": "FireworkGeneral",
+      "wearerID": 2,
+      "slotID": 5,
+      "effects": "24&amp;4,23&amp;15,66&amp;5",
+      "duration": 12,
+      "mightValue": 0,
+      "canSlotGem": 1,
+      "skinID": 106
+    },
+    {
+      "equipmentID": 1197,
+      "comment1": "Sales Days Content June 2023",
+      "comment2": "FireworkGeneral",
+      "wearerID": 2,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 1197,
+      "effects": "24&amp;4,23&amp;15,66&amp;5",
+      "duration": 168,
+      "mightValue": 0,
+      "canSlotGem": 1,
+      "skinID": 106
+    },
+    {
+      "equipmentID": 1198,
+      "comment1": "Sales Days Content June 2023",
+      "comment2": "FireworkGeneral",
+      "wearerID": 2,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 1197,
+      "effects": "24&amp;4,23&amp;15,66&amp;5",
+      "duration": 336,
+      "mightValue": 0,
+      "canSlotGem": 1,
+      "skinID": 106
     }
   ]
 }

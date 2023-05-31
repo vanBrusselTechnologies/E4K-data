@@ -57093,6 +57093,21 @@
     ],
     "fx": []
   },
+  "items_unique_745": {
+    "pid": 0,
+    "url": "x384/Equipment/EquipmentShared/items_unique_745_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
   "items_unique_979": {
     "pid": 0,
     "url": "x384/Equipment/EquipmentShared/items_unique_827_Shared.png",
@@ -125736,10 +125751,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 49,
-        "h": 45,
-        "rx": 1000,
-        "ry": 999
+        "w": 81,
+        "h": 79,
+        "rx": 984,
+        "ry": 990
       }
     ],
     "fx": []
@@ -125961,10 +125976,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 81,
-        "h": 79,
-        "rx": 984,
-        "ry": 990
+        "w": 47,
+        "h": 42,
+        "rx": 999,
+        "ry": 999
       }
     ],
     "fx": []

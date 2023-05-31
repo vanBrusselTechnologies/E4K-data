@@ -61,6 +61,33 @@
       "abilityDefenseEffectID": 100235
     },
     {
+      "abilityID": 10031,
+      "name": "GiantSlayer",
+      "abilityGroupID": 1003,
+      "level": 1,
+      "abilityTriggerID": 3,
+      "abilityAttackEffectID": 100310,
+      "abilityDefenseEffectID": 100315
+    },
+    {
+      "abilityID": 10032,
+      "name": "GiantSlayer",
+      "abilityGroupID": 1003,
+      "level": 2,
+      "abilityTriggerID": 3,
+      "abilityAttackEffectID": 100320,
+      "abilityDefenseEffectID": 100325
+    },
+    {
+      "abilityID": 10033,
+      "name": "GiantSlayer",
+      "abilityGroupID": 1003,
+      "level": 3,
+      "abilityTriggerID": 3,
+      "abilityAttackEffectID": 100330,
+      "abilityDefenseEffectID": 100335
+    },
+    {
       "abilityID": 10051,
       "name": "Intimidate",
       "abilityGroupID": 1005,
@@ -121,36 +148,6 @@
       "abilityDefenseEffectID": 100735
     },
     {
-      "abilityID": 10121,
-      "name": "Reinforcements",
-      "abilityGroupID": 1012,
-      "level": 1,
-      "abilityTriggerID": 2,
-      "triggerPerWave": 3,
-      "abilityAttackEffectID": 101210,
-      "abilityDefenseEffectID": 101215
-    },
-    {
-      "abilityID": 10122,
-      "name": "Reinforcements",
-      "abilityGroupID": 1012,
-      "level": 2,
-      "abilityTriggerID": 2,
-      "triggerPerWave": 3,
-      "abilityAttackEffectID": 101220,
-      "abilityDefenseEffectID": 101225
-    },
-    {
-      "abilityID": 10123,
-      "name": "Reinforcements",
-      "abilityGroupID": 1012,
-      "level": 3,
-      "abilityTriggerID": 2,
-      "triggerPerWave": 3,
-      "abilityAttackEffectID": 101230,
-      "abilityDefenseEffectID": 101235
-    },
-    {
       "abilityID": 10131,
       "name": "Sabotage",
       "abilityGroupID": 1013,
@@ -181,6 +178,36 @@
       "abilityDefenseEffectID": 101335
     },
     {
+      "abilityID": 10141,
+      "name": "HeartofaWarrior",
+      "abilityGroupID": 1014,
+      "level": 1,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 2,
+      "abilityAttackEffectID": 101410,
+      "abilityDefenseEffectID": 101415
+    },
+    {
+      "abilityID": 10142,
+      "name": "HeartofaWarrior",
+      "abilityGroupID": 1014,
+      "level": 2,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 2,
+      "abilityAttackEffectID": 101420,
+      "abilityDefenseEffectID": 101425
+    },
+    {
+      "abilityID": 10143,
+      "name": "HeartofaWarrior",
+      "abilityGroupID": 1014,
+      "level": 3,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 2,
+      "abilityAttackEffectID": 101430,
+      "abilityDefenseEffectID": 101435
+    },
+    {
       "abilityID": 10151,
       "name": "ToweringShield",
       "abilityGroupID": 1015,
@@ -209,6 +236,30 @@
       "triggerPerWave": 3,
       "abilityAttackEffectID": 101530,
       "abilityDefenseEffectID": 101535
+    },
+    {
+      "abilityID": 10161,
+      "name": "WallAmount",
+      "abilityGroupID": 1016,
+      "level": 1,
+      "abilityTriggerID": 1,
+      "abilityDefenseEffectID": 101615
+    },
+    {
+      "abilityID": 10162,
+      "name": "WallAmount",
+      "abilityGroupID": 1016,
+      "level": 2,
+      "abilityTriggerID": 1,
+      "abilityDefenseEffectID": 101625
+    },
+    {
+      "abilityID": 10163,
+      "name": "WallAmount",
+      "abilityGroupID": 1016,
+      "level": 3,
+      "abilityTriggerID": 1,
+      "abilityDefenseEffectID": 101635
     },
     {
       "abilityID": 10181,
@@ -266,6 +317,63 @@
       "triggerPerWave": 2,
       "abilityAttackEffectID": 102030,
       "abilityDefenseEffectID": 102035
+    },
+    {
+      "abilityID": 10211,
+      "name": "Ayala(Falcon)",
+      "abilityGroupID": 1021,
+      "level": 1,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 1,
+      "abilityAttackEffectID": 102110,
+      "abilityDefenseEffectID": 102115
+    },
+    {
+      "abilityID": 10212,
+      "name": "Ayala(Falcon)",
+      "abilityGroupID": 1021,
+      "level": 2,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 1,
+      "abilityAttackEffectID": 102120,
+      "abilityDefenseEffectID": 102125
+    },
+    {
+      "abilityID": 10213,
+      "name": "Ayala(Falcon)",
+      "abilityGroupID": 1021,
+      "level": 3,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 1,
+      "abilityAttackEffectID": 102130,
+      "abilityDefenseEffectID": 102135
+    },
+    {
+      "abilityID": 10221,
+      "name": "Ambush",
+      "abilityGroupID": 1022,
+      "level": 1,
+      "abilityTriggerID": 1,
+      "abilityAttackEffectID": 102210,
+      "abilityDefenseEffectID": 102215
+    },
+    {
+      "abilityID": 10222,
+      "name": "Ambush",
+      "abilityGroupID": 1022,
+      "level": 2,
+      "abilityTriggerID": 1,
+      "abilityAttackEffectID": 102220,
+      "abilityDefenseEffectID": 102225
+    },
+    {
+      "abilityID": 10223,
+      "name": "Ambush",
+      "abilityGroupID": 1022,
+      "level": 3,
+      "abilityTriggerID": 1,
+      "abilityAttackEffectID": 102230,
+      "abilityDefenseEffectID": 102235
     },
     {
       "abilityID": 10231,
@@ -328,6 +436,33 @@
       "abilityDefenseEffectID": 102535
     },
     {
+      "abilityID": 10261,
+      "name": "Plunder",
+      "abilityGroupID": 1026,
+      "level": 1,
+      "abilityTriggerID": 3,
+      "abilityAttackEffectID": 102610,
+      "abilityDefenseEffectID": 102615
+    },
+    {
+      "abilityID": 10262,
+      "name": "Plunder",
+      "abilityGroupID": 1026,
+      "level": 2,
+      "abilityTriggerID": 3,
+      "abilityAttackEffectID": 102620,
+      "abilityDefenseEffectID": 102625
+    },
+    {
+      "abilityID": 10263,
+      "name": "Plunder",
+      "abilityGroupID": 1026,
+      "level": 3,
+      "abilityTriggerID": 3,
+      "abilityAttackEffectID": 102630,
+      "abilityDefenseEffectID": 102635
+    },
+    {
       "abilityID": 10271,
       "name": "YourCut",
       "abilityGroupID": 1027,
@@ -358,6 +493,33 @@
       "abilityDefenseEffectID": 102735
     },
     {
+      "abilityID": 10281,
+      "name": "HiddenTreasures",
+      "abilityGroupID": 1028,
+      "level": 1,
+      "abilityTriggerID": 4,
+      "abilityAttackEffectID": 102810,
+      "abilityDefenseEffectID": 102815
+    },
+    {
+      "abilityID": 10282,
+      "name": "HiddenTreasures",
+      "abilityGroupID": 1028,
+      "level": 2,
+      "abilityTriggerID": 4,
+      "abilityAttackEffectID": 102820,
+      "abilityDefenseEffectID": 102825
+    },
+    {
+      "abilityID": 10283,
+      "name": "HiddenTreasures",
+      "abilityGroupID": 1028,
+      "level": 3,
+      "abilityTriggerID": 4,
+      "abilityAttackEffectID": 102830,
+      "abilityDefenseEffectID": 102835
+    },
+    {
       "abilityID": 10301,
       "name": "Vengence",
       "abilityGroupID": 1030,
@@ -383,6 +545,36 @@
       "abilityTriggerID": 3,
       "abilityAttackEffectID": 103030,
       "abilityDefenseEffectID": 103035
+    },
+    {
+      "abilityID": 10331,
+      "name": "WingsWhirlwind",
+      "abilityGroupID": 1033,
+      "level": 1,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 2,
+      "abilityAttackEffectID": 103310,
+      "abilityDefenseEffectID": 103315
+    },
+    {
+      "abilityID": 10332,
+      "name": "WingsWhirlwind",
+      "abilityGroupID": 1033,
+      "level": 2,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 2,
+      "abilityAttackEffectID": 103320,
+      "abilityDefenseEffectID": 103325
+    },
+    {
+      "abilityID": 10333,
+      "name": "WingsWhirlwind",
+      "abilityGroupID": 1033,
+      "level": 3,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 2,
+      "abilityAttackEffectID": 103330,
+      "abilityDefenseEffectID": 103335
     },
     {
       "abilityID": 10341,
@@ -443,228 +635,6 @@
       "triggerPerWave": 2,
       "abilityAttackEffectID": 103530,
       "abilityDefenseEffectID": 103535
-    },
-    {
-      "abilityID": 10031,
-      "name": "GiantSlayer",
-      "abilityGroupID": 1003,
-      "level": 1,
-      "abilityTriggerID": 3,
-      "abilityAttackEffectID": 100310,
-      "abilityDefenseEffectID": 100315
-    },
-    {
-      "abilityID": 10032,
-      "name": "GiantSlayer",
-      "abilityGroupID": 1003,
-      "level": 2,
-      "abilityTriggerID": 3,
-      "abilityAttackEffectID": 100320,
-      "abilityDefenseEffectID": 100325
-    },
-    {
-      "abilityID": 10033,
-      "name": "GiantSlayer",
-      "abilityGroupID": 1003,
-      "level": 3,
-      "abilityTriggerID": 3,
-      "abilityAttackEffectID": 100330,
-      "abilityDefenseEffectID": 100335
-    },
-    {
-      "abilityID": 10141,
-      "name": "HeartofaWarrior",
-      "abilityGroupID": 1014,
-      "level": 1,
-      "abilityTriggerID": 2,
-      "triggerPerWave": 2,
-      "abilityAttackEffectID": 101410,
-      "abilityDefenseEffectID": 101415
-    },
-    {
-      "abilityID": 10142,
-      "name": "HeartofaWarrior",
-      "abilityGroupID": 1014,
-      "level": 2,
-      "abilityTriggerID": 2,
-      "triggerPerWave": 2,
-      "abilityAttackEffectID": 101420,
-      "abilityDefenseEffectID": 101425
-    },
-    {
-      "abilityID": 10143,
-      "name": "HeartofaWarrior",
-      "abilityGroupID": 1014,
-      "level": 3,
-      "abilityTriggerID": 2,
-      "triggerPerWave": 2,
-      "abilityAttackEffectID": 101430,
-      "abilityDefenseEffectID": 101435
-    },
-    {
-      "abilityID": 10161,
-      "name": "WallAmount",
-      "abilityGroupID": 1016,
-      "level": 1,
-      "abilityTriggerID": 1,
-      "abilityDefenseEffectID": 101615
-    },
-    {
-      "abilityID": 10162,
-      "name": "WallAmount",
-      "abilityGroupID": 1016,
-      "level": 2,
-      "abilityTriggerID": 1,
-      "abilityDefenseEffectID": 101625
-    },
-    {
-      "abilityID": 10163,
-      "name": "WallAmount",
-      "abilityGroupID": 1016,
-      "level": 3,
-      "abilityTriggerID": 1,
-      "abilityDefenseEffectID": 101635
-    },
-    {
-      "abilityID": 10211,
-      "name": "Ayala(Falcon)",
-      "abilityGroupID": 1021,
-      "level": 1,
-      "abilityTriggerID": 2,
-      "triggerPerWave": 1,
-      "abilityAttackEffectID": 102110,
-      "abilityDefenseEffectID": 102115
-    },
-    {
-      "abilityID": 10212,
-      "name": "Ayala(Falcon)",
-      "abilityGroupID": 1021,
-      "level": 2,
-      "abilityTriggerID": 2,
-      "triggerPerWave": 1,
-      "abilityAttackEffectID": 102120,
-      "abilityDefenseEffectID": 102125
-    },
-    {
-      "abilityID": 10213,
-      "name": "Ayala(Falcon)",
-      "abilityGroupID": 1021,
-      "level": 3,
-      "abilityTriggerID": 2,
-      "triggerPerWave": 1,
-      "abilityAttackEffectID": 102130,
-      "abilityDefenseEffectID": 102135
-    },
-    {
-      "abilityID": 10221,
-      "name": "Ambush",
-      "abilityGroupID": 1022,
-      "level": 1,
-      "abilityTriggerID": 1,
-      "abilityAttackEffectID": 102210,
-      "abilityDefenseEffectID": 102215
-    },
-    {
-      "abilityID": 10222,
-      "name": "Ambush",
-      "abilityGroupID": 1022,
-      "level": 2,
-      "abilityTriggerID": 1,
-      "abilityAttackEffectID": 102220,
-      "abilityDefenseEffectID": 102225
-    },
-    {
-      "abilityID": 10223,
-      "name": "Ambush",
-      "abilityGroupID": 1022,
-      "level": 3,
-      "abilityTriggerID": 1,
-      "abilityAttackEffectID": 102230,
-      "abilityDefenseEffectID": 102235
-    },
-    {
-      "abilityID": 10261,
-      "name": "Plunder",
-      "abilityGroupID": 1026,
-      "level": 1,
-      "abilityTriggerID": 3,
-      "abilityAttackEffectID": 102610,
-      "abilityDefenseEffectID": 102615
-    },
-    {
-      "abilityID": 10262,
-      "name": "Plunder",
-      "abilityGroupID": 1026,
-      "level": 2,
-      "abilityTriggerID": 3,
-      "abilityAttackEffectID": 102620,
-      "abilityDefenseEffectID": 102625
-    },
-    {
-      "abilityID": 10263,
-      "name": "Plunder",
-      "abilityGroupID": 1026,
-      "level": 3,
-      "abilityTriggerID": 3,
-      "abilityAttackEffectID": 102630,
-      "abilityDefenseEffectID": 102635
-    },
-    {
-      "abilityID": 10281,
-      "name": "HiddenTreasures",
-      "abilityGroupID": 1028,
-      "level": 1,
-      "abilityTriggerID": 4,
-      "abilityAttackEffectID": 102810,
-      "abilityDefenseEffectID": 102815
-    },
-    {
-      "abilityID": 10282,
-      "name": "HiddenTreasures",
-      "abilityGroupID": 1028,
-      "level": 2,
-      "abilityTriggerID": 4,
-      "abilityAttackEffectID": 102820,
-      "abilityDefenseEffectID": 102825
-    },
-    {
-      "abilityID": 10283,
-      "name": "HiddenTreasures",
-      "abilityGroupID": 1028,
-      "level": 3,
-      "abilityTriggerID": 4,
-      "abilityAttackEffectID": 102830,
-      "abilityDefenseEffectID": 102835
-    },
-    {
-      "abilityID": 10331,
-      "name": "WingsWhirlwind",
-      "abilityGroupID": 1033,
-      "level": 1,
-      "abilityTriggerID": 2,
-      "triggerPerWave": 2,
-      "abilityAttackEffectID": 103310,
-      "abilityDefenseEffectID": 103315
-    },
-    {
-      "abilityID": 10332,
-      "name": "WingsWhirlwind",
-      "abilityGroupID": 1033,
-      "level": 2,
-      "abilityTriggerID": 2,
-      "triggerPerWave": 2,
-      "abilityAttackEffectID": 103320,
-      "abilityDefenseEffectID": 103325
-    },
-    {
-      "abilityID": 10333,
-      "name": "WingsWhirlwind",
-      "abilityGroupID": 1033,
-      "level": 3,
-      "abilityTriggerID": 2,
-      "triggerPerWave": 2,
-      "abilityAttackEffectID": 103330,
-      "abilityDefenseEffectID": 103335
     },
     {
       "abilityID": 10381,

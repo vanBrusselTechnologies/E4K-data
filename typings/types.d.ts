@@ -2401,6 +2401,7 @@ export interface Package {
     costHalloweenLTPEToken?: number;
     costIceLTPEToken?: number;
     costStPatrickLTPEToken?: number;
+    costMayaLTPEToken?: number;
 }
 
 export interface PackageSubFilter {
@@ -2880,6 +2881,7 @@ export interface Reward {
     ignoreMinuteSkipCapacity?: number;
     glass?: number;
     xp?: number;
+    addMayaLTPEToken?: number;
 }
 
 export interface SaleDaysLuckyWheelClass {

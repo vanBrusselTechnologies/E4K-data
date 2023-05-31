@@ -31,6 +31,21 @@
       "priority": 6
     },
     {
+      "abilityEffectID": 100310,
+      "effects": "21003&amp;5",
+      "priority": 7
+    },
+    {
+      "abilityEffectID": 100320,
+      "effects": "21003&amp;7",
+      "priority": 8
+    },
+    {
+      "abilityEffectID": 100330,
+      "effects": "21003&amp;9",
+      "priority": 9
+    },
+    {
       "abilityEffectID": 100510,
       "effects": "21005&amp;1",
       "priority": 13
@@ -61,21 +76,6 @@
       "priority": 21
     },
     {
-      "abilityEffectID": 101210,
-      "effects": "21012&amp;1",
-      "priority": 33
-    },
-    {
-      "abilityEffectID": 101220,
-      "effects": "21012&amp;2",
-      "priority": 34
-    },
-    {
-      "abilityEffectID": 101230,
-      "effects": "21012&amp;3",
-      "priority": 35
-    },
-    {
       "abilityEffectID": 101310,
       "effects": "21013&amp;20",
       "priority": 36
@@ -89,6 +89,21 @@
       "abilityEffectID": 101330,
       "effects": "21013&amp;30",
       "priority": 38
+    },
+    {
+      "abilityEffectID": 101410,
+      "effects": "21014&amp;30",
+      "priority": 39
+    },
+    {
+      "abilityEffectID": 101420,
+      "effects": "21014&amp;35",
+      "priority": 40
+    },
+    {
+      "abilityEffectID": 101430,
+      "effects": "21014&amp;40",
+      "priority": 41
     },
     {
       "abilityEffectID": 101510,
@@ -106,21 +121,6 @@
       "priority": 44
     },
     {
-      "abilityEffectID": 101810,
-      "effects": "21018&amp;10",
-      "priority": 51
-    },
-    {
-      "abilityEffectID": 101820,
-      "effects": "21018&amp;12",
-      "priority": 52
-    },
-    {
-      "abilityEffectID": 101830,
-      "effects": "21018&amp;14",
-      "priority": 53
-    },
-    {
       "abilityEffectID": 102010,
       "effects": "21020&amp;1",
       "priority": 51
@@ -134,6 +134,36 @@
       "abilityEffectID": 102030,
       "effects": "21020&amp;1.6",
       "priority": 53
+    },
+    {
+      "abilityEffectID": 102110,
+      "effects": "21021&amp;0",
+      "priority": 54
+    },
+    {
+      "abilityEffectID": 102120,
+      "effects": "21021&amp;1",
+      "priority": 55
+    },
+    {
+      "abilityEffectID": 102130,
+      "effects": "21021&amp;2",
+      "priority": 56
+    },
+    {
+      "abilityEffectID": 102210,
+      "effects": "21022&amp;5",
+      "priority": 57
+    },
+    {
+      "abilityEffectID": 102220,
+      "effects": "21022&amp;6",
+      "priority": 58
+    },
+    {
+      "abilityEffectID": 102230,
+      "effects": "21022&amp;7",
+      "priority": 59
     },
     {
       "abilityEffectID": 102310,
@@ -181,9 +211,19 @@
       "priority": 74
     },
     {
+      "abilityEffectID": 102810,
+      "effects": "21028&amp;15",
+      "priority": 75
+    },
+    {
+      "abilityEffectID": 102820,
+      "effects": "21028&amp;20",
+      "priority": 76
+    },
+    {
       "abilityEffectID": 102830,
       "effects": "21028&amp;25",
-      "priority": 83
+      "priority": 77
     },
     {
       "abilityEffectID": 103010,
@@ -199,6 +239,21 @@
       "abilityEffectID": 103030,
       "effects": "21030&amp;0.7",
       "priority": 83
+    },
+    {
+      "abilityEffectID": 103310,
+      "effects": "21033&amp;15",
+      "priority": 90
+    },
+    {
+      "abilityEffectID": 103320,
+      "effects": "21033&amp;18",
+      "priority": 91
+    },
+    {
+      "abilityEffectID": 103330,
+      "effects": "21033&amp;21",
+      "priority": 92
     },
     {
       "abilityEffectID": 103410,
@@ -231,6 +286,36 @@
       "priority": 98
     },
     {
+      "abilityEffectID": 103810,
+      "effects": "21038&amp;0.1",
+      "priority": 103
+    },
+    {
+      "abilityEffectID": 103820,
+      "effects": "21038&amp;0.15",
+      "priority": 104
+    },
+    {
+      "abilityEffectID": 103830,
+      "effects": "21038&amp;0.2",
+      "priority": 105
+    },
+    {
+      "abilityEffectID": 103910,
+      "effects": "21039&amp;15",
+      "priority": 106
+    },
+    {
+      "abilityEffectID": 103920,
+      "effects": "21039&amp;20",
+      "priority": 107
+    },
+    {
+      "abilityEffectID": 103930,
+      "effects": "21039&amp;25",
+      "priority": 108
+    },
+    {
       "abilityEffectID": 100115,
       "effects": "21001&amp;6",
       "priority": 112
@@ -259,6 +344,21 @@
       "abilityEffectID": 100235,
       "effects": "21002&amp;55",
       "priority": 117
+    },
+    {
+      "abilityEffectID": 100315,
+      "effects": "21003&amp;5",
+      "priority": 118
+    },
+    {
+      "abilityEffectID": 100325,
+      "effects": "21003&amp;7",
+      "priority": 119
+    },
+    {
+      "abilityEffectID": 100335,
+      "effects": "21003&amp;9",
+      "priority": 120
     },
     {
       "abilityEffectID": 100515,
@@ -291,21 +391,6 @@
       "priority": 132
     },
     {
-      "abilityEffectID": 101215,
-      "effects": "21012&amp;15",
-      "priority": 153
-    },
-    {
-      "abilityEffectID": 101225,
-      "effects": "21012&amp;20",
-      "priority": 154
-    },
-    {
-      "abilityEffectID": 101235,
-      "effects": "21012&amp;25",
-      "priority": 155
-    },
-    {
       "abilityEffectID": 101315,
       "effects": "21013&amp;20",
       "priority": 148
@@ -321,6 +406,21 @@
       "priority": 150
     },
     {
+      "abilityEffectID": 101415,
+      "effects": "21014&amp;50",
+      "priority": 151
+    },
+    {
+      "abilityEffectID": 101425,
+      "effects": "21014&amp;56",
+      "priority": 152
+    },
+    {
+      "abilityEffectID": 101435,
+      "effects": "21014&amp;62",
+      "priority": 153
+    },
+    {
       "abilityEffectID": 101515,
       "effects": "21015&amp;10",
       "priority": 154
@@ -334,6 +434,21 @@
       "abilityEffectID": 101535,
       "effects": "21015&amp;14",
       "priority": 156
+    },
+    {
+      "abilityEffectID": 101615,
+      "effects": "21016&amp;15",
+      "priority": 157
+    },
+    {
+      "abilityEffectID": 101625,
+      "effects": "21016&amp;18",
+      "priority": 158
+    },
+    {
+      "abilityEffectID": 101635,
+      "effects": "21016&amp;21",
+      "priority": 159
     },
     {
       "abilityEffectID": 101815,
@@ -364,6 +479,36 @@
       "abilityEffectID": 102035,
       "effects": "21020&amp;1.8",
       "priority": 168
+    },
+    {
+      "abilityEffectID": 102115,
+      "effects": "21021&amp;0",
+      "priority": 169
+    },
+    {
+      "abilityEffectID": 102125,
+      "effects": "21021&amp;1",
+      "priority": 170
+    },
+    {
+      "abilityEffectID": 102135,
+      "effects": "21021&amp;2",
+      "priority": 171
+    },
+    {
+      "abilityEffectID": 102215,
+      "effects": "21022&amp;5",
+      "priority": 172
+    },
+    {
+      "abilityEffectID": 102225,
+      "effects": "21022&amp;6",
+      "priority": 173
+    },
+    {
+      "abilityEffectID": 102235,
+      "effects": "21022&amp;7",
+      "priority": 174
     },
     {
       "abilityEffectID": 102315,
@@ -411,6 +556,21 @@
       "priority": 189
     },
     {
+      "abilityEffectID": 102815,
+      "effects": "21028&amp;15",
+      "priority": 190
+    },
+    {
+      "abilityEffectID": 102825,
+      "effects": "21028&amp;20",
+      "priority": 191
+    },
+    {
+      "abilityEffectID": 102835,
+      "effects": "21028&amp;25",
+      "priority": 192
+    },
+    {
       "abilityEffectID": 103015,
       "effects": "21030&amp;0.3",
       "priority": 196
@@ -424,6 +584,21 @@
       "abilityEffectID": 103035,
       "effects": "21030&amp;0.7",
       "priority": 198
+    },
+    {
+      "abilityEffectID": 103315,
+      "effects": "21033&amp;15",
+      "priority": 205
+    },
+    {
+      "abilityEffectID": 103325,
+      "effects": "21033&amp;18",
+      "priority": 206
+    },
+    {
+      "abilityEffectID": 103335,
+      "effects": "21033&amp;21",
+      "priority": 207
     },
     {
       "abilityEffectID": 103415,
@@ -454,226 +629,6 @@
       "abilityEffectID": 103535,
       "effects": "21035&amp;25",
       "priority": 213
-    },
-    {
-      "abilityEffectID": 100310,
-      "effects": "21003&amp;5",
-      "priority": 7
-    },
-    {
-      "abilityEffectID": 100320,
-      "effects": "21003&amp;7",
-      "priority": 8
-    },
-    {
-      "abilityEffectID": 100330,
-      "effects": "21003&amp;9",
-      "priority": 9
-    },
-    {
-      "abilityEffectID": 101410,
-      "effects": "21014&amp;30",
-      "priority": 39
-    },
-    {
-      "abilityEffectID": 101420,
-      "effects": "21014&amp;35",
-      "priority": 40
-    },
-    {
-      "abilityEffectID": 101430,
-      "effects": "21014&amp;40",
-      "priority": 41
-    },
-    {
-      "abilityEffectID": 102110,
-      "effects": "21021&amp;0",
-      "priority": 54
-    },
-    {
-      "abilityEffectID": 102120,
-      "effects": "21021&amp;1",
-      "priority": 55
-    },
-    {
-      "abilityEffectID": 102130,
-      "effects": "21021&amp;2",
-      "priority": 56
-    },
-    {
-      "abilityEffectID": 102210,
-      "effects": "21022&amp;5",
-      "priority": 57
-    },
-    {
-      "abilityEffectID": 102220,
-      "effects": "21022&amp;6",
-      "priority": 58
-    },
-    {
-      "abilityEffectID": 102230,
-      "effects": "21022&amp;7",
-      "priority": 59
-    },
-    {
-      "abilityEffectID": 102810,
-      "effects": "21028&amp;15",
-      "priority": 75
-    },
-    {
-      "abilityEffectID": 102820,
-      "effects": "21028&amp;20",
-      "priority": 76
-    },
-    {
-      "abilityEffectID": 103310,
-      "effects": "21033&amp;15",
-      "priority": 90
-    },
-    {
-      "abilityEffectID": 103320,
-      "effects": "21033&amp;18",
-      "priority": 91
-    },
-    {
-      "abilityEffectID": 103330,
-      "effects": "21033&amp;21",
-      "priority": 92
-    },
-    {
-      "abilityEffectID": 103810,
-      "effects": "21038&amp;0.1",
-      "priority": 103
-    },
-    {
-      "abilityEffectID": 103820,
-      "effects": "21038&amp;0.15",
-      "priority": 104
-    },
-    {
-      "abilityEffectID": 103830,
-      "effects": "21038&amp;0.2",
-      "priority": 105
-    },
-    {
-      "abilityEffectID": 103910,
-      "effects": "21039&amp;15",
-      "priority": 106
-    },
-    {
-      "abilityEffectID": 103920,
-      "effects": "21039&amp;20",
-      "priority": 107
-    },
-    {
-      "abilityEffectID": 103930,
-      "effects": "21039&amp;25",
-      "priority": 108
-    },
-    {
-      "abilityEffectID": 100315,
-      "effects": "21003&amp;5",
-      "priority": 118
-    },
-    {
-      "abilityEffectID": 100325,
-      "effects": "21003&amp;7",
-      "priority": 119
-    },
-    {
-      "abilityEffectID": 100335,
-      "effects": "21003&amp;9",
-      "priority": 120
-    },
-    {
-      "abilityEffectID": 101415,
-      "effects": "21014&amp;50",
-      "priority": 151
-    },
-    {
-      "abilityEffectID": 101425,
-      "effects": "21014&amp;56",
-      "priority": 152
-    },
-    {
-      "abilityEffectID": 101435,
-      "effects": "21014&amp;62",
-      "priority": 153
-    },
-    {
-      "abilityEffectID": 101615,
-      "effects": "21016&amp;15",
-      "priority": 157
-    },
-    {
-      "abilityEffectID": 101625,
-      "effects": "21016&amp;18",
-      "priority": 158
-    },
-    {
-      "abilityEffectID": 101635,
-      "effects": "21016&amp;21",
-      "priority": 159
-    },
-    {
-      "abilityEffectID": 102115,
-      "effects": "21021&amp;0",
-      "priority": 169
-    },
-    {
-      "abilityEffectID": 102125,
-      "effects": "21021&amp;1",
-      "priority": 170
-    },
-    {
-      "abilityEffectID": 102135,
-      "effects": "21021&amp;2",
-      "priority": 171
-    },
-    {
-      "abilityEffectID": 102215,
-      "effects": "21022&amp;5",
-      "priority": 172
-    },
-    {
-      "abilityEffectID": 102225,
-      "effects": "21022&amp;6",
-      "priority": 173
-    },
-    {
-      "abilityEffectID": 102235,
-      "effects": "21022&amp;7",
-      "priority": 174
-    },
-    {
-      "abilityEffectID": 102815,
-      "effects": "21028&amp;15",
-      "priority": 190
-    },
-    {
-      "abilityEffectID": 102825,
-      "effects": "21028&amp;20",
-      "priority": 191
-    },
-    {
-      "abilityEffectID": 102835,
-      "effects": "21028&amp;25",
-      "priority": 192
-    },
-    {
-      "abilityEffectID": 103315,
-      "effects": "21033&amp;15",
-      "priority": 205
-    },
-    {
-      "abilityEffectID": 103325,
-      "effects": "21033&amp;18",
-      "priority": 206
-    },
-    {
-      "abilityEffectID": 103335,
-      "effects": "21033&amp;21",
-      "priority": 207
     },
     {
       "abilityEffectID": 103815,
