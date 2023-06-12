@@ -1686,6 +1686,7 @@ export interface GeneralAbility {
     triggerPerWave?: number;
     abilityAttackEffectID: number;
     abilityDefenseEffectID: number;
+    affectsEnemyArmy: number;
 }
 
 export interface GeneralAbilityEffect {
@@ -2402,6 +2403,7 @@ export interface Package {
     costIceLTPEToken?: number;
     costStPatrickLTPEToken?: number;
     costMayaLTPEToken?: number;
+    addSasakiToken?: number
 }
 
 export interface PackageSubFilter {
@@ -2770,6 +2772,7 @@ export interface Reward {
     addShardAlyssa?: number;
     addShardLeo?: number;
     addShardToril?: number;
+    addShardSasaki?: number;
     addFatKingToken?: number;
     addGeneralsSkillsResetToken?: number;
     relicEquipments?: string;
@@ -2882,6 +2885,7 @@ export interface Reward {
     glass?: number;
     xp?: number;
     addMayaLTPEToken?: number;
+    addSasakiToken?: number;
 }
 
 export interface SaleDaysLuckyWheelClass {

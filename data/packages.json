@@ -36393,6 +36393,15 @@
       "costMayaLTPEToken": 5000,
       "minLevel": 50,
       "stock": 1
+    },
+    {
+      "packageID": 10908,
+      "packageType": "currency",
+      "comment1": "addSasakiToken",
+      "comment2": "addSasakiToken",
+      "addSasakiToken": 1,
+      "relationIDs": 999,
+      "packagePriceC2": 99999
     }
   ]
 }

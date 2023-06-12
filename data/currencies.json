@@ -601,6 +601,12 @@
       "assetName": "PrincessToken"
     },
     {
+      "currencyID": 6004,
+      "Name": "SasakiToken",
+      "JSONKey": "STK",
+      "assetName": "SasakiToken"
+    },
+    {
       "currencyID": 10000,
       "Name": "ShardUniversal",
       "JSONKey": "SUN",

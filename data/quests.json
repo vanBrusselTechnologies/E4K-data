@@ -22456,6 +22456,7 @@
     {
       "questID": 3495,
       "comment1": "Newsletter Subscription Quest",
+      "hiddenBattleGround": 1,
       "questbookTabID": 0,
       "questSeriesID": 5202,
       "questSeriesNumber": 1,
@@ -22463,6 +22464,7 @@
       "requiredLevel": 10,
       "questGiverID": 4,
       "conditions": "optinNewsletter+1",
+      "hiddenTempServer": 1,
       "shownKingdomID": -1,
       "triggerKingdomID": -1,
       "maxQuest": 1,

@@ -8,7 +8,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 2,
       "abilityAttackEffectID": 100110,
-      "abilityDefenseEffectID": 100115
+      "abilityDefenseEffectID": 100115,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10012,
@@ -18,7 +19,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 2,
       "abilityAttackEffectID": 100120,
-      "abilityDefenseEffectID": 100125
+      "abilityDefenseEffectID": 100125,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10013,
@@ -28,7 +30,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 2,
       "abilityAttackEffectID": 100130,
-      "abilityDefenseEffectID": 100135
+      "abilityDefenseEffectID": 100135,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10021,
@@ -38,7 +41,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 2,
       "abilityAttackEffectID": 100210,
-      "abilityDefenseEffectID": 100215
+      "abilityDefenseEffectID": 100215,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10022,
@@ -48,7 +52,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 2,
       "abilityAttackEffectID": 100220,
-      "abilityDefenseEffectID": 100225
+      "abilityDefenseEffectID": 100225,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10023,
@@ -58,7 +63,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 2,
       "abilityAttackEffectID": 100230,
-      "abilityDefenseEffectID": 100235
+      "abilityDefenseEffectID": 100235,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10031,
@@ -67,7 +73,8 @@
       "level": 1,
       "abilityTriggerID": 3,
       "abilityAttackEffectID": 100310,
-      "abilityDefenseEffectID": 100315
+      "abilityDefenseEffectID": 100315,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10032,
@@ -76,7 +83,8 @@
       "level": 2,
       "abilityTriggerID": 3,
       "abilityAttackEffectID": 100320,
-      "abilityDefenseEffectID": 100325
+      "abilityDefenseEffectID": 100325,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10033,
@@ -85,7 +93,8 @@
       "level": 3,
       "abilityTriggerID": 3,
       "abilityAttackEffectID": 100330,
-      "abilityDefenseEffectID": 100335
+      "abilityDefenseEffectID": 100335,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10051,
@@ -95,7 +104,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 3,
       "abilityAttackEffectID": 100510,
-      "abilityDefenseEffectID": 100515
+      "abilityDefenseEffectID": 100515,
+      "affectsEnemyArmy": 1
     },
     {
       "abilityID": 10052,
@@ -105,7 +115,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 3,
       "abilityAttackEffectID": 100520,
-      "abilityDefenseEffectID": 100525
+      "abilityDefenseEffectID": 100525,
+      "affectsEnemyArmy": 1
     },
     {
       "abilityID": 10053,
@@ -115,7 +126,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 3,
       "abilityAttackEffectID": 100530,
-      "abilityDefenseEffectID": 100535
+      "abilityDefenseEffectID": 100535,
+      "affectsEnemyArmy": 1
     },
     {
       "abilityID": 10071,
@@ -125,7 +137,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 3,
       "abilityAttackEffectID": 100710,
-      "abilityDefenseEffectID": 100715
+      "abilityDefenseEffectID": 100715,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10072,
@@ -135,7 +148,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 3,
       "abilityAttackEffectID": 100720,
-      "abilityDefenseEffectID": 100725
+      "abilityDefenseEffectID": 100725,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10073,
@@ -145,7 +159,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 3,
       "abilityAttackEffectID": 100730,
-      "abilityDefenseEffectID": 100735
+      "abilityDefenseEffectID": 100735,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10131,
@@ -155,7 +170,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 3,
       "abilityAttackEffectID": 101310,
-      "abilityDefenseEffectID": 101315
+      "abilityDefenseEffectID": 101315,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10132,
@@ -165,7 +181,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 3,
       "abilityAttackEffectID": 101320,
-      "abilityDefenseEffectID": 101325
+      "abilityDefenseEffectID": 101325,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10133,
@@ -175,7 +192,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 3,
       "abilityAttackEffectID": 101330,
-      "abilityDefenseEffectID": 101335
+      "abilityDefenseEffectID": 101335,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10141,
@@ -185,7 +203,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 2,
       "abilityAttackEffectID": 101410,
-      "abilityDefenseEffectID": 101415
+      "abilityDefenseEffectID": 101415,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10142,
@@ -195,7 +214,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 2,
       "abilityAttackEffectID": 101420,
-      "abilityDefenseEffectID": 101425
+      "abilityDefenseEffectID": 101425,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10143,
@@ -205,7 +225,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 2,
       "abilityAttackEffectID": 101430,
-      "abilityDefenseEffectID": 101435
+      "abilityDefenseEffectID": 101435,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10151,
@@ -215,7 +236,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 3,
       "abilityAttackEffectID": 101510,
-      "abilityDefenseEffectID": 101515
+      "abilityDefenseEffectID": 101515,
+      "affectsEnemyArmy": 1
     },
     {
       "abilityID": 10152,
@@ -225,7 +247,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 3,
       "abilityAttackEffectID": 101520,
-      "abilityDefenseEffectID": 101525
+      "abilityDefenseEffectID": 101525,
+      "affectsEnemyArmy": 1
     },
     {
       "abilityID": 10153,
@@ -235,7 +258,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 3,
       "abilityAttackEffectID": 101530,
-      "abilityDefenseEffectID": 101535
+      "abilityDefenseEffectID": 101535,
+      "affectsEnemyArmy": 1
     },
     {
       "abilityID": 10161,
@@ -243,7 +267,8 @@
       "abilityGroupID": 1016,
       "level": 1,
       "abilityTriggerID": 1,
-      "abilityDefenseEffectID": 101615
+      "abilityDefenseEffectID": 101615,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10162,
@@ -251,7 +276,8 @@
       "abilityGroupID": 1016,
       "level": 2,
       "abilityTriggerID": 1,
-      "abilityDefenseEffectID": 101625
+      "abilityDefenseEffectID": 101625,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10163,
@@ -259,7 +285,8 @@
       "abilityGroupID": 1016,
       "level": 3,
       "abilityTriggerID": 1,
-      "abilityDefenseEffectID": 101635
+      "abilityDefenseEffectID": 101635,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10181,
@@ -268,7 +295,8 @@
       "level": 1,
       "abilityTriggerID": 2,
       "triggerPerWave": 2,
-      "abilityDefenseEffectID": 101815
+      "abilityDefenseEffectID": 101815,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10182,
@@ -277,7 +305,8 @@
       "level": 2,
       "abilityTriggerID": 2,
       "triggerPerWave": 2,
-      "abilityDefenseEffectID": 101825
+      "abilityDefenseEffectID": 101825,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10183,
@@ -286,7 +315,8 @@
       "level": 3,
       "abilityTriggerID": 2,
       "triggerPerWave": 2,
-      "abilityDefenseEffectID": 101835
+      "abilityDefenseEffectID": 101835,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10201,
@@ -296,7 +326,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 2,
       "abilityAttackEffectID": 102010,
-      "abilityDefenseEffectID": 102015
+      "abilityDefenseEffectID": 102015,
+      "affectsEnemyArmy": 1
     },
     {
       "abilityID": 10202,
@@ -306,7 +337,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 2,
       "abilityAttackEffectID": 102020,
-      "abilityDefenseEffectID": 102025
+      "abilityDefenseEffectID": 102025,
+      "affectsEnemyArmy": 1
     },
     {
       "abilityID": 10203,
@@ -316,7 +348,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 2,
       "abilityAttackEffectID": 102030,
-      "abilityDefenseEffectID": 102035
+      "abilityDefenseEffectID": 102035,
+      "affectsEnemyArmy": 1
     },
     {
       "abilityID": 10211,
@@ -326,7 +359,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 1,
       "abilityAttackEffectID": 102110,
-      "abilityDefenseEffectID": 102115
+      "abilityDefenseEffectID": 102115,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10212,
@@ -336,7 +370,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 1,
       "abilityAttackEffectID": 102120,
-      "abilityDefenseEffectID": 102125
+      "abilityDefenseEffectID": 102125,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10213,
@@ -346,7 +381,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 1,
       "abilityAttackEffectID": 102130,
-      "abilityDefenseEffectID": 102135
+      "abilityDefenseEffectID": 102135,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10221,
@@ -355,7 +391,8 @@
       "level": 1,
       "abilityTriggerID": 1,
       "abilityAttackEffectID": 102210,
-      "abilityDefenseEffectID": 102215
+      "abilityDefenseEffectID": 102215,
+      "affectsEnemyArmy": 1
     },
     {
       "abilityID": 10222,
@@ -364,7 +401,8 @@
       "level": 2,
       "abilityTriggerID": 1,
       "abilityAttackEffectID": 102220,
-      "abilityDefenseEffectID": 102225
+      "abilityDefenseEffectID": 102225,
+      "affectsEnemyArmy": 1
     },
     {
       "abilityID": 10223,
@@ -373,7 +411,8 @@
       "level": 3,
       "abilityTriggerID": 1,
       "abilityAttackEffectID": 102230,
-      "abilityDefenseEffectID": 102235
+      "abilityDefenseEffectID": 102235,
+      "affectsEnemyArmy": 1
     },
     {
       "abilityID": 10231,
@@ -383,7 +422,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 2,
       "abilityAttackEffectID": 102310,
-      "abilityDefenseEffectID": 102315
+      "abilityDefenseEffectID": 102315,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10232,
@@ -393,7 +433,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 2,
       "abilityAttackEffectID": 102320,
-      "abilityDefenseEffectID": 102325
+      "abilityDefenseEffectID": 102325,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10233,
@@ -403,7 +444,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 2,
       "abilityAttackEffectID": 102330,
-      "abilityDefenseEffectID": 102335
+      "abilityDefenseEffectID": 102335,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10251,
@@ -413,7 +455,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 2,
       "abilityAttackEffectID": 102510,
-      "abilityDefenseEffectID": 102515
+      "abilityDefenseEffectID": 102515,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10252,
@@ -423,7 +466,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 2,
       "abilityAttackEffectID": 102520,
-      "abilityDefenseEffectID": 102525
+      "abilityDefenseEffectID": 102525,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10253,
@@ -433,7 +477,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 2,
       "abilityAttackEffectID": 102530,
-      "abilityDefenseEffectID": 102535
+      "abilityDefenseEffectID": 102535,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10261,
@@ -442,7 +487,8 @@
       "level": 1,
       "abilityTriggerID": 3,
       "abilityAttackEffectID": 102610,
-      "abilityDefenseEffectID": 102615
+      "abilityDefenseEffectID": 102615,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10262,
@@ -451,7 +497,8 @@
       "level": 2,
       "abilityTriggerID": 3,
       "abilityAttackEffectID": 102620,
-      "abilityDefenseEffectID": 102625
+      "abilityDefenseEffectID": 102625,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10263,
@@ -460,7 +507,8 @@
       "level": 3,
       "abilityTriggerID": 3,
       "abilityAttackEffectID": 102630,
-      "abilityDefenseEffectID": 102635
+      "abilityDefenseEffectID": 102635,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10271,
@@ -470,7 +518,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 2,
       "abilityAttackEffectID": 102710,
-      "abilityDefenseEffectID": 102715
+      "abilityDefenseEffectID": 102715,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10272,
@@ -480,7 +529,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 2,
       "abilityAttackEffectID": 102720,
-      "abilityDefenseEffectID": 102725
+      "abilityDefenseEffectID": 102725,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10273,
@@ -490,7 +540,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 2,
       "abilityAttackEffectID": 102730,
-      "abilityDefenseEffectID": 102735
+      "abilityDefenseEffectID": 102735,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10281,
@@ -499,7 +550,8 @@
       "level": 1,
       "abilityTriggerID": 4,
       "abilityAttackEffectID": 102810,
-      "abilityDefenseEffectID": 102815
+      "abilityDefenseEffectID": 102815,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10282,
@@ -508,7 +560,8 @@
       "level": 2,
       "abilityTriggerID": 4,
       "abilityAttackEffectID": 102820,
-      "abilityDefenseEffectID": 102825
+      "abilityDefenseEffectID": 102825,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10283,
@@ -517,7 +570,8 @@
       "level": 3,
       "abilityTriggerID": 4,
       "abilityAttackEffectID": 102830,
-      "abilityDefenseEffectID": 102835
+      "abilityDefenseEffectID": 102835,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10301,
@@ -526,7 +580,8 @@
       "level": 1,
       "abilityTriggerID": 3,
       "abilityAttackEffectID": 103010,
-      "abilityDefenseEffectID": 103015
+      "abilityDefenseEffectID": 103015,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10302,
@@ -535,7 +590,8 @@
       "level": 2,
       "abilityTriggerID": 3,
       "abilityAttackEffectID": 103020,
-      "abilityDefenseEffectID": 103025
+      "abilityDefenseEffectID": 103025,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10303,
@@ -544,7 +600,8 @@
       "level": 3,
       "abilityTriggerID": 3,
       "abilityAttackEffectID": 103030,
-      "abilityDefenseEffectID": 103035
+      "abilityDefenseEffectID": 103035,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10331,
@@ -554,7 +611,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 2,
       "abilityAttackEffectID": 103310,
-      "abilityDefenseEffectID": 103315
+      "abilityDefenseEffectID": 103315,
+      "affectsEnemyArmy": 1
     },
     {
       "abilityID": 10332,
@@ -564,7 +622,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 2,
       "abilityAttackEffectID": 103320,
-      "abilityDefenseEffectID": 103325
+      "abilityDefenseEffectID": 103325,
+      "affectsEnemyArmy": 1
     },
     {
       "abilityID": 10333,
@@ -574,7 +633,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 2,
       "abilityAttackEffectID": 103330,
-      "abilityDefenseEffectID": 103335
+      "abilityDefenseEffectID": 103335,
+      "affectsEnemyArmy": 1
     },
     {
       "abilityID": 10341,
@@ -584,7 +644,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 3,
       "abilityAttackEffectID": 103410,
-      "abilityDefenseEffectID": 103415
+      "abilityDefenseEffectID": 103415,
+      "affectsEnemyArmy": 1
     },
     {
       "abilityID": 10342,
@@ -594,7 +655,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 3,
       "abilityAttackEffectID": 103420,
-      "abilityDefenseEffectID": 103425
+      "abilityDefenseEffectID": 103425,
+      "affectsEnemyArmy": 1
     },
     {
       "abilityID": 10343,
@@ -604,7 +666,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 3,
       "abilityAttackEffectID": 103430,
-      "abilityDefenseEffectID": 103435
+      "abilityDefenseEffectID": 103435,
+      "affectsEnemyArmy": 1
     },
     {
       "abilityID": 10351,
@@ -614,7 +677,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 2,
       "abilityAttackEffectID": 103510,
-      "abilityDefenseEffectID": 103515
+      "abilityDefenseEffectID": 103515,
+      "affectsEnemyArmy": 1
     },
     {
       "abilityID": 10352,
@@ -624,7 +688,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 2,
       "abilityAttackEffectID": 103520,
-      "abilityDefenseEffectID": 103525
+      "abilityDefenseEffectID": 103525,
+      "affectsEnemyArmy": 1
     },
     {
       "abilityID": 10353,
@@ -634,7 +699,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 2,
       "abilityAttackEffectID": 103530,
-      "abilityDefenseEffectID": 103535
+      "abilityDefenseEffectID": 103535,
+      "affectsEnemyArmy": 1
     },
     {
       "abilityID": 10381,
@@ -643,7 +709,8 @@
       "level": 1,
       "abilityTriggerID": 3,
       "abilityAttackEffectID": 103810,
-      "abilityDefenseEffectID": 103815
+      "abilityDefenseEffectID": 103815,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10382,
@@ -652,7 +719,8 @@
       "level": 2,
       "abilityTriggerID": 3,
       "abilityAttackEffectID": 103820,
-      "abilityDefenseEffectID": 103825
+      "abilityDefenseEffectID": 103825,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10383,
@@ -661,7 +729,8 @@
       "level": 3,
       "abilityTriggerID": 3,
       "abilityAttackEffectID": 103830,
-      "abilityDefenseEffectID": 103835
+      "abilityDefenseEffectID": 103835,
+      "affectsEnemyArmy": 0
     },
     {
       "abilityID": 10391,
@@ -671,7 +740,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 3,
       "abilityAttackEffectID": 103910,
-      "abilityDefenseEffectID": 103915
+      "abilityDefenseEffectID": 103915,
+      "affectsEnemyArmy": 1
     },
     {
       "abilityID": 10392,
@@ -681,7 +751,8 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 3,
       "abilityAttackEffectID": 103920,
-      "abilityDefenseEffectID": 103925
+      "abilityDefenseEffectID": 103925,
+      "affectsEnemyArmy": 1
     },
     {
       "abilityID": 10393,
@@ -691,7 +762,170 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 3,
       "abilityAttackEffectID": 103930,
-      "abilityDefenseEffectID": 103935
+      "abilityDefenseEffectID": 103935,
+      "affectsEnemyArmy": 1
+    },
+    {
+      "abilityID": 10101,
+      "name": "EndlessPractice",
+      "abilityGroupID": 1010,
+      "level": 1,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 1,
+      "abilityAttackEffectID": 101010,
+      "abilityDefenseEffectID": 101015,
+      "affectsEnemyArmy": 0
+    },
+    {
+      "abilityID": 10102,
+      "name": "EndlessPractice",
+      "abilityGroupID": 1010,
+      "level": 2,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 1,
+      "abilityAttackEffectID": 101020,
+      "abilityDefenseEffectID": 101025,
+      "affectsEnemyArmy": 0
+    },
+    {
+      "abilityID": 10103,
+      "name": "EndlessPractice",
+      "abilityGroupID": 1010,
+      "level": 3,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 1,
+      "abilityAttackEffectID": 101030,
+      "abilityDefenseEffectID": 101035,
+      "affectsEnemyArmy": 0
+    },
+    {
+      "abilityID": 10111,
+      "name": "WayoftheSword",
+      "abilityGroupID": 1011,
+      "level": 1,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 1,
+      "abilityAttackEffectID": 101110,
+      "abilityDefenseEffectID": 101115,
+      "affectsEnemyArmy": 0
+    },
+    {
+      "abilityID": 10112,
+      "name": "WayoftheSword",
+      "abilityGroupID": 1011,
+      "level": 2,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 1,
+      "abilityAttackEffectID": 101120,
+      "abilityDefenseEffectID": 101125,
+      "affectsEnemyArmy": 0
+    },
+    {
+      "abilityID": 10113,
+      "name": "WayoftheSword",
+      "abilityGroupID": 1011,
+      "level": 3,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 1,
+      "abilityAttackEffectID": 101130,
+      "abilityDefenseEffectID": 101135,
+      "affectsEnemyArmy": 0
+    },
+    {
+      "abilityID": 10121,
+      "name": "IronWill",
+      "abilityGroupID": 1012,
+      "level": 1,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 1,
+      "abilityAttackEffectID": 101210,
+      "abilityDefenseEffectID": 101215,
+      "affectsEnemyArmy": 0
+    },
+    {
+      "abilityID": 10122,
+      "name": "IronWill",
+      "abilityGroupID": 1012,
+      "level": 2,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 1,
+      "abilityAttackEffectID": 101220,
+      "abilityDefenseEffectID": 101225,
+      "affectsEnemyArmy": 0
+    },
+    {
+      "abilityID": 10123,
+      "name": "IronWill",
+      "abilityGroupID": 1012,
+      "level": 3,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 1,
+      "abilityAttackEffectID": 101230,
+      "abilityDefenseEffectID": 101235,
+      "affectsEnemyArmy": 0
+    },
+    {
+      "abilityID": 10191,
+      "name": "MindClarity",
+      "abilityGroupID": 1019,
+      "level": 1,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 1,
+      "abilityAttackEffectID": 101910,
+      "affectsEnemyArmy": 0
+    },
+    {
+      "abilityID": 10192,
+      "name": "MindClarity",
+      "abilityGroupID": 1019,
+      "level": 2,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 1,
+      "abilityAttackEffectID": 101920,
+      "affectsEnemyArmy": 0
+    },
+    {
+      "abilityID": 10193,
+      "name": "MindClarity",
+      "abilityGroupID": 1019,
+      "level": 3,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 1,
+      "abilityAttackEffectID": 101930,
+      "affectsEnemyArmy": 0
+    },
+    {
+      "abilityID": 10291,
+      "name": "TheWayofPerfection",
+      "abilityGroupID": 1029,
+      "level": 1,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 1,
+      "abilityAttackEffectID": 102910,
+      "abilityDefenseEffectID": 102915,
+      "affectsEnemyArmy": 0
+    },
+    {
+      "abilityID": 10292,
+      "name": "TheWayofPerfection",
+      "abilityGroupID": 1029,
+      "level": 2,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 1,
+      "abilityAttackEffectID": 102920,
+      "abilityDefenseEffectID": 102925,
+      "affectsEnemyArmy": 0
+    },
+    {
+      "abilityID": 10293,
+      "name": "TheWayofPerfection",
+      "abilityGroupID": 1029,
+      "level": 3,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 1,
+      "abilityAttackEffectID": 102930,
+      "abilityDefenseEffectID": 102935,
+      "affectsEnemyArmy": 0
     }
   ]
 }

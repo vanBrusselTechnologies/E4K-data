@@ -2808,8 +2808,20 @@
       "capID": 99
     },
     {
+      "effectID": 21010,
+      "name": "EndlessPractice",
+      "effectTypeID": 1010,
+      "capID": 99
+    },
+    {
+      "effectID": 21011,
+      "name": "WayoftheSword",
+      "effectTypeID": 1011,
+      "capID": 99
+    },
+    {
       "effectID": 21012,
-      "name": "Reinforcements",
+      "name": "Iron Will",
       "effectTypeID": 1012,
       "capID": 99
     },
@@ -2841,6 +2853,12 @@
       "effectID": 21018,
       "name": "HeroicDefense",
       "effectTypeID": 1018,
+      "capID": 99
+    },
+    {
+      "effectID": 21019,
+      "name": "MindClarityEvenWave",
+      "effectTypeID": 1019,
       "capID": 99
     },
     {
@@ -2892,6 +2910,12 @@
       "capID": 99
     },
     {
+      "effectID": 21029,
+      "name": "TheWayofPerfection",
+      "effectTypeID": 1029,
+      "capID": 99
+    },
+    {
       "effectID": 21030,
       "name": "Vengence",
       "effectTypeID": 1030,
@@ -2925,6 +2949,12 @@
       "effectID": 21039,
       "name": "LastingWounds",
       "effectTypeID": 1039,
+      "capID": 99
+    },
+    {
+      "effectID": 21040,
+      "name": "MindClarityOddWave",
+      "effectTypeID": 1040,
       "capID": 99
     },
     {

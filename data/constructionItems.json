@@ -18830,7 +18830,7 @@
     {
       "constructionItemID": 30745,
       "comment1": "Temporary",
-      "comment2": "elvenKeep - defenseUnitAmountYardBonus 1200",
+      "comment2": "elvenKeep - defenseUnitAmountYardBonus 12000",
       "name": "elvenKeep",
       "constructionItemGroupID": 3140,
       "level": 4,
@@ -18840,12 +18840,12 @@
       "constructionItemEffectGroupID": 51,
       "addCommonFinesand": 15,
       "disassemblingTombolaID": 4,
-      "effects": "702&amp;120000"
+      "effects": "702&amp;12000"
     },
     {
       "constructionItemID": 30748,
       "comment1": "Temporary",
-      "comment2": "elvenBarrack - defenseUnitAmountYardBonus 1200",
+      "comment2": "elvenBarrack - defenseUnitAmountYardBonus 12000",
       "name": "elvenBarrack",
       "constructionItemGroupID": 3133,
       "level": 4,
@@ -18854,12 +18854,12 @@
       "duration": 86400,
       "constructionItemEffectGroupID": 51,
       "disassemblingTombolaID": 4,
-      "effects": "702&amp;120000"
+      "effects": "702&amp;12000"
     },
     {
       "constructionItemID": 30749,
       "comment1": "Temporary",
-      "comment2": "elvenHospital - defenseUnitAmountYardBonus 1200",
+      "comment2": "elvenHospital - defenseUnitAmountYardBonus 12000",
       "name": "elvenHospital",
       "constructionItemGroupID": 3138,
       "level": 4,
@@ -18868,7 +18868,7 @@
       "duration": 86400,
       "constructionItemEffectGroupID": 51,
       "disassemblingTombolaID": 4,
-      "effects": "702&amp;120000"
+      "effects": "702&amp;12000"
     },
     {
       "constructionItemID": 30750,

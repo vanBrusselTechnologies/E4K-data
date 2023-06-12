@@ -2932,6 +2932,310 @@
       "decoWodID": 2458
     },
     {
+      "rewardID": 70160,
+      "comment1": "Sasaki 75",
+      "comment2": "Legendary",
+      "addShardSasaki": 75
+    },
+    {
+      "rewardID": 70161,
+      "comment1": "Sasaki 40",
+      "comment2": "Epic",
+      "addShardSasaki": 40
+    },
+    {
+      "rewardID": 70162,
+      "comment1": "Sasaki 25",
+      "comment2": "Rare",
+      "addShardSasaki": 25
+    },
+    {
+      "rewardID": 70163,
+      "comment1": "Sasaki 15",
+      "comment2": "Rare",
+      "addShardSasaki": 15
+    },
+    {
+      "rewardID": 70164,
+      "comment1": "WoF",
+      "comment2": "Common",
+      "addSaleDaysLuckyWheelTicket": 3
+    },
+    {
+      "rewardID": 70165,
+      "comment1": "VDeathlyH",
+      "comment2": "Common",
+      "units": "10+2000",
+      "hiddenFood": 12000,
+      "ignoreResourceStorageCapacity": 1
+    },
+    {
+      "rewardID": 70166,
+      "comment1": "VDemonH",
+      "comment2": "Common",
+      "units": "9+2000",
+      "hiddenFood": 12000,
+      "ignoreResourceStorageCapacity": 1
+    },
+    {
+      "rewardID": 70167,
+      "comment1": "VFlameB",
+      "comment2": "Common",
+      "units": "11+1500",
+      "hiddenFood": 9000,
+      "ignoreResourceStorageCapacity": 1
+    },
+    {
+      "rewardID": 70168,
+      "comment1": "VCompositB",
+      "comment2": "Common",
+      "units": "12+1500",
+      "hiddenFood": 9000,
+      "ignoreResourceStorageCapacity": 1
+    },
+    {
+      "rewardID": 70169,
+      "comment1": "GloryBooster8",
+      "comment2": "Common",
+      "units": "153+400"
+    },
+    {
+      "rewardID": 70170,
+      "comment1": "SamuraiTool8",
+      "comment2": "Common",
+      "units": "407+400"
+    },
+    {
+      "rewardID": 70171,
+      "comment1": "NomadTool8",
+      "comment2": "Common",
+      "units": "244+400"
+    },
+    {
+      "rewardID": 70172,
+      "comment1": "Portcullis",
+      "comment2": "Common",
+      "units": "622+100"
+    },
+    {
+      "rewardID": 70173,
+      "comment1": "QuickLimeBomb",
+      "comment2": "Common",
+      "units": "105+100"
+    },
+    {
+      "rewardID": 70174,
+      "comment1": "MurderHole",
+      "comment2": "Common",
+      "units": "627+100"
+    },
+    {
+      "rewardID": 70175,
+      "comment1": "ArrowSlit",
+      "comment2": "Common",
+      "units": "624+100"
+    },
+    {
+      "rewardID": 70176,
+      "comment1": "FireMoat",
+      "comment2": "Common",
+      "units": "625+100"
+    },
+    {
+      "rewardID": 70177,
+      "comment1": "HeavyRam",
+      "comment2": "Common",
+      "units": "648+200"
+    },
+    {
+      "rewardID": 70178,
+      "comment1": "Boulders",
+      "comment2": "Common",
+      "units": "650+200"
+    },
+    {
+      "rewardID": 70179,
+      "comment1": "ShiledWall",
+      "comment2": "Common",
+      "units": "651+200"
+    },
+    {
+      "rewardID": 70180,
+      "comment1": "BreachingTower",
+      "comment2": "Common",
+      "units": "649+200"
+    },
+    {
+      "rewardID": 70181,
+      "comment1": "ArmoredRam",
+      "comment2": "Common",
+      "units": "245+50"
+    },
+    {
+      "rewardID": 70182,
+      "comment1": "ArmoredSiegeTower",
+      "comment2": "Common",
+      "units": "256+75"
+    },
+    {
+      "rewardID": 70183,
+      "comment1": "FireBomb",
+      "comment2": "Common",
+      "units": "300+25"
+    },
+    {
+      "rewardID": 70184,
+      "comment1": "Trebuchet",
+      "comment2": "Common",
+      "units": "315+15"
+    },
+    {
+      "rewardID": 70185,
+      "comment1": "24HourSkip",
+      "comment2": "Common",
+      "add24HourSkip": 3,
+      "ignoreResourceStorageCapacity": 1
+    },
+    {
+      "rewardID": 70186,
+      "comment1": "travelFeathers",
+      "comment2": "Common",
+      "addPegasusTicket": 250
+    },
+    {
+      "rewardID": 70187,
+      "comment1": "randomRelic",
+      "comment2": "Common",
+      "relicEquipments": "-100@0,100"
+    },
+    {
+      "rewardID": 70188,
+      "comment1": "RespecToken",
+      "comment2": "Common",
+      "addGeneralsSkillsResetToken": 2
+    },
+    {
+      "rewardID": 70189,
+      "comment1": "CourtYard",
+      "comment2": "Common",
+      "equipmentIDs": 992
+    },
+    {
+      "rewardID": 70190,
+      "comment1": "ReinfWave",
+      "comment2": "Common",
+      "equipmentIDs": 991
+    },
+    {
+      "rewardID": 70191,
+      "comment1": "UnitAmountWall",
+      "comment2": "Common",
+      "equipmentIDs": 993,
+      "reward2": "de"
+    },
+    {
+      "rewardID": 70192,
+      "comment1": "Deco3.25k",
+      "comment2": "Common",
+      "decoWodID": 2725
+    },
+    {
+      "rewardID": 70193,
+      "comment1": "Deco3.6k",
+      "comment2": "Common",
+      "decoWodID": 2726
+    },
+    {
+      "rewardID": 70194,
+      "comment1": "Deco3k",
+      "comment2": "Common",
+      "decoWodID": 2406
+    },
+    {
+      "rewardID": 70195,
+      "comment1": "Deco3.5k",
+      "comment2": "Common",
+      "decoWodID": 2458
+    },
+    {
+      "rewardID": 70196,
+      "comment1": "Deco3.9k",
+      "comment2": "Common",
+      "decoWodID": 2526
+    },
+    {
+      "rewardID": 70197,
+      "comment1": "elvenFarm - defenseUnitAmountYardMinorBoost 2",
+      "comment2": "Common",
+      "constructionItemIDs": 30750
+    },
+    {
+      "rewardID": 70198,
+      "comment1": "elvenEstate - attackUnitAmountReinforcementBonus 1000",
+      "comment2": "Common",
+      "constructionItemIDs": 30744
+    },
+    {
+      "rewardID": 70199,
+      "comment1": "elvenBarrack - UnitAmountWall 350",
+      "comment2": "Common",
+      "constructionItemIDs": 30743
+    },
+    {
+      "rewardID": 70200,
+      "comment1": "elvenKeep - defenseUnitAmountYardBonus 1200",
+      "comment2": "Common",
+      "constructionItemIDs": 30745
+    },
+    {
+      "rewardID": 70201,
+      "comment1": "elvenBarrack - defenseUnitAmountYardBonus 1200",
+      "comment2": "Common",
+      "constructionItemIDs": 30748
+    },
+    {
+      "rewardID": 70202,
+      "comment1": "elvenHospital - defenseUnitAmountYardBonus 1200",
+      "comment2": "Common",
+      "constructionItemIDs": 30749
+    },
+    {
+      "rewardID": 70203,
+      "comment1": "elvenBarrack - attackUnitAmountReinforcementBoost 10",
+      "comment2": "Common",
+      "constructionItemIDs": 30751
+    },
+    {
+      "rewardID": 70204,
+      "comment1": "elvenHospital - attackUnitAmountReinforcementBonus 1000",
+      "comment2": "Common",
+      "constructionItemIDs": 30752
+    },
+    {
+      "rewardID": 70205,
+      "comment1": "FatKingToken",
+      "comment2": "Common",
+      "addFatKingToken": 2
+    },
+    {
+      "rewardID": 70206,
+      "comment1": "KnightToken",
+      "comment2": "Common",
+      "addKnightToken": 1
+    },
+    {
+      "rewardID": 70207,
+      "comment1": "PrincessToken",
+      "comment2": "Common",
+      "addPrincessToken": 1
+    },
+    {
+      "rewardID": 70208,
+      "comment1": "SasakiToken",
+      "comment2": "Common",
+      "addSasakiToken": 1
+    },
+    {
       "rewardID": 8,
       "comment1": "WWCs added to sub",
       "comment2": "10 WWCs",
@@ -20741,55 +21045,55 @@
       "rewardID": 50048,
       "comment1": "Summber Box 2022",
       "comment2": "Common",
-      "addLegendaryToken": 11
+      "addLegendaryToken": 30
     },
     {
       "rewardID": 50049,
       "comment1": "Summber Box 2022",
       "comment2": "Common",
-      "addLegendaryMaterial": 44
+      "addLegendaryMaterial": 60
     },
     {
       "rewardID": 50050,
       "comment1": "Summber Box 2022",
       "comment2": "Common",
-      "addSceatToken": 5
+      "addSceatToken": 15
     },
     {
       "rewardID": 50051,
       "comment1": "Summber Box 2022",
       "comment2": "Common",
-      "add24HourSkip": 3
+      "add24HourSkip": 10
     },
     {
       "rewardID": 50052,
       "comment1": "Summber Box 2022",
       "comment2": "Common",
-      "addSaleDaysLuckyWheelTicket": 1
+      "addSaleDaysLuckyWheelTicket": 2
     },
     {
       "rewardID": 50053,
       "comment1": "Summber Box 2022",
       "comment2": "Rare",
-      "relicEquipments": "2@0,100"
+      "relicEquipments": "2@20,100"
     },
     {
       "rewardID": 50054,
       "comment1": "Summber Box 2022",
       "comment2": "Rare",
-      "relicEquipments": "102@0,100"
+      "relicEquipments": "102@20,100"
     },
     {
       "rewardID": 50055,
       "comment1": "Summber Box 2022",
       "comment2": "Rare",
-      "relicEquipments": "202@0,100"
+      "relicEquipments": "202@20,100"
     },
     {
       "rewardID": 50056,
       "comment1": "Summber Box 2022",
       "comment2": "Rare",
-      "relicEquipments": "302@0,100"
+      "relicEquipments": "302@20,100"
     },
     {
       "rewardID": 50057,
@@ -26114,18 +26418,18 @@
     },
     {
       "rewardID": 5226,
-      "comment2": "Relic, Castellan, 70 - 100",
-      "relicEquipments": "-7@80,100"
+      "comment2": "Relic Gen2, Castellan, 0 - 60",
+      "relicEquipments": "16102@0,60"
     },
     {
       "rewardID": 5227,
-      "comment2": "Relic, Commander, 70 - 100",
-      "relicEquipments": "-6@80,100"
+      "comment2": "Relic Gen2, Castellan ND, 0 - 60",
+      "relicEquipments": "-101@0,60"
     },
     {
       "rewardID": 5278,
-      "comment2": "Relic, ND, 70 - 100",
-      "relicEquipments": "-24@80,100"
+      "comment2": "Relic Gen2, Castellan ND, 0 - 80",
+      "relicEquipments": "-102@0,80"
     },
     {
       "rewardID": 5228,
@@ -29142,20 +29446,20 @@
     {
       "rewardID": 7281,
       "comment1": "Jackpot 1",
-      "comment2": "Common Autumn Mystery Box",
-      "lootBox": "29+2"
+      "comment2": "Common Summer Mystery Box",
+      "lootBox": "13+2"
     },
     {
       "rewardID": 7282,
       "comment1": "Jackpot 2",
-      "comment2": "Common Autumn Mystery Box",
-      "lootBox": "29+3"
+      "comment2": "Common Summer Mystery Box",
+      "lootBox": "13+3"
     },
     {
       "rewardID": 7283,
       "comment1": "Jackpot 3",
-      "comment2": "Common Autumn Mystery Box",
-      "lootBox": "29+4"
+      "comment2": "Common Summer Mystery Box",
+      "lootBox": "13+4"
     },
     {
       "rewardID": 7284,
@@ -29197,31 +29501,31 @@
       "rewardID": 7290,
       "comment1": "Jackpot 1",
       "comment2": "Rare Autumn Mystery Box",
-      "lootBox": "30+1"
+      "lootBox": "14+1"
     },
     {
       "rewardID": 7291,
       "comment1": "Jackpot 2",
       "comment2": "Rare Autumn Mystery Box",
-      "lootBox": "30+2"
+      "lootBox": "14+2"
     },
     {
       "rewardID": 7292,
       "comment1": "Jackpot 3",
       "comment2": "Rare Autumn Mystery Box",
-      "lootBox": "30+3"
+      "lootBox": "14+3"
     },
     {
       "rewardID": 7293,
       "comment1": "Jackpot 4",
       "comment2": "Rare Autumn Mystery Box",
-      "lootBox": "30+4"
+      "lootBox": "14+4"
     },
     {
       "rewardID": 7294,
       "comment1": "Jackpot 5",
       "comment2": "Rare Autumn Mystery Box",
-      "lootBox": "30+5"
+      "lootBox": "14+5"
     },
     {
       "rewardID": 7295,
@@ -29251,49 +29555,49 @@
       "rewardID": 7299,
       "comment1": "Jackpot 1",
       "comment2": "Epic Autumn Mystery Box",
-      "lootBox": "31+1"
+      "lootBox": "15+1"
     },
     {
       "rewardID": 7300,
       "comment1": "Jackpot 2",
       "comment2": "Epic Autumn Mystery Box",
-      "lootBox": "31+2"
+      "lootBox": "15+2"
     },
     {
       "rewardID": 7301,
       "comment1": "Jackpot 3",
       "comment2": "Epic Autumn Mystery Box",
-      "lootBox": "31+3"
+      "lootBox": "15+3"
     },
     {
       "rewardID": 7302,
       "comment1": "Jackpot 4",
       "comment2": "Epic Autumn Mystery Box",
-      "lootBox": "31+4"
+      "lootBox": "15+4"
     },
     {
       "rewardID": 7303,
       "comment1": "Jackpot 5",
       "comment2": "Epic Autumn Mystery Box",
-      "lootBox": "31+5"
+      "lootBox": "15+5"
     },
     {
       "rewardID": 7304,
       "comment1": "Jackpot 6",
       "comment2": "Epic Autumn Mystery Box",
-      "lootBox": "31+7"
+      "lootBox": "15+7"
     },
     {
       "rewardID": 7305,
       "comment1": "Jackpot 7",
       "comment2": "Epic Autumn Mystery Box",
-      "lootBox": "31+8"
+      "lootBox": "15+8"
     },
     {
       "rewardID": 7306,
       "comment1": "Jackpot 8",
       "comment2": "Epic Autumn Mystery Box",
-      "lootBox": "31+10"
+      "lootBox": "15+10"
     },
     {
       "rewardID": 7307,
@@ -29305,79 +29609,79 @@
       "rewardID": 7308,
       "comment1": "Jackpot 1",
       "comment2": "Legendary Autumn Mystery Box",
-      "lootBox": "32+1"
+      "lootBox": "16+1"
     },
     {
       "rewardID": 7309,
       "comment1": "Jackpot 2",
       "comment2": "Legendary Autumn Mystery Box",
-      "lootBox": "32+1"
+      "lootBox": "16+1"
     },
     {
       "rewardID": 7310,
       "comment1": "Jackpot 3",
       "comment2": "Legendary Autumn Mystery Box",
-      "lootBox": "32+2"
+      "lootBox": "16+2"
     },
     {
       "rewardID": 7311,
       "comment1": "Jackpot 4",
       "comment2": "Legendary Autumn Mystery Box",
-      "lootBox": "32+2"
+      "lootBox": "16+2"
     },
     {
       "rewardID": 7312,
       "comment1": "Jackpot 5",
       "comment2": "Legendary Autumn Mystery Box",
-      "lootBox": "32+3"
+      "lootBox": "16+3"
     },
     {
       "rewardID": 7313,
       "comment1": "Jackpot 6",
       "comment2": "Legendary Autumn Mystery Box",
-      "lootBox": "32+5"
+      "lootBox": "16+5"
     },
     {
       "rewardID": 7314,
       "comment1": "Jackpot 7",
       "comment2": "Legendary Autumn Mystery Box",
-      "lootBox": "32+6"
+      "lootBox": "16+6"
     },
     {
       "rewardID": 7315,
       "comment1": "Jackpot 8",
       "comment2": "Legendary Autumn Mystery Box",
-      "lootBox": "32+8"
+      "lootBox": "16+8"
     },
     {
       "rewardID": 7316,
       "comment1": "Jackpot 9",
       "comment2": "Legendary Autumn Mystery Box",
-      "lootBox": "32+10"
+      "lootBox": "16+10"
     },
     {
       "rewardID": 7317,
       "comment1": "Jackpot 1",
       "comment2": "Relic Commander PvP Hero - Gen 2",
-      "relicEquipments": "6402@0,100"
+      "relicEquipments": "6402@20,100"
     },
     {
       "rewardID": 7318,
       "comment1": "Jackpot 2",
       "comment2": "Relic Commander PvP Hero - Gen 2",
-      "relicEquipments": "6402@0,100"
+      "relicEquipments": "6402@20,100"
     },
     {
       "rewardID": 7319,
       "comment1": "Jackpot 3",
       "comment2": "Relic Commander PvP Hero - Gen 2",
-      "relicEquipments": "6402@0,100"
+      "relicEquipments": "6402@30,100"
     },
     {
       "rewardID": 7320,
       "comment1": "Jackpot 4",
       "comment2": "Relic Commander PvP Hero - Gen 2",
-      "relicEquipments": "6402@0,100"
+      "relicEquipments": "6402@30,100"
     },
     {
       "rewardID": 7321,
@@ -29395,19 +29699,19 @@
       "rewardID": 7323,
       "comment1": "Jackpot 7",
       "comment2": "Relic Commander PvP Hero - Gen 2",
-      "relicEquipments": "6402@40,100"
+      "relicEquipments": "6402@50,100"
     },
     {
       "rewardID": 7324,
       "comment1": "Jackpot 8",
       "comment2": "Relic Commander PvP Hero - Gen 2",
-      "relicEquipments": "6402@40,100"
+      "relicEquipments": "6402@60,100"
     },
     {
       "rewardID": 7325,
       "comment1": "Jackpot 9",
       "comment2": "Relic Commander PvP Hero - Gen 2",
-      "relicEquipments": "6402@60,100"
+      "relicEquipments": "6402@80,100"
     },
     {
       "rewardID": 7326,
@@ -29467,25 +29771,25 @@
       "rewardID": 7335,
       "comment1": "Jackpot 1",
       "comment2": "Relic Commander PvP Gem - Gen 2",
-      "relicEquipments": "3102@0,100"
+      "relicEquipments": "3102@20,100"
     },
     {
       "rewardID": 7336,
       "comment1": "Jackpot 2",
       "comment2": "Relic Commander PvP Gem - Gen 2",
-      "relicEquipments": "3102@0,100"
+      "relicEquipments": "3102@20,100"
     },
     {
       "rewardID": 7337,
       "comment1": "Jackpot 3",
       "comment2": "Relic Commander PvP Gem - Gen 2",
-      "relicEquipments": "3102@0,100"
+      "relicEquipments": "3102@30,100"
     },
     {
       "rewardID": 7338,
       "comment1": "Jackpot 4",
       "comment2": "Relic Commander PvP Gem - Gen 2",
-      "relicEquipments": "3102@0,100"
+      "relicEquipments": "3102@30,100"
     },
     {
       "rewardID": 7339,
@@ -29503,43 +29807,43 @@
       "rewardID": 7341,
       "comment1": "Jackpot 7",
       "comment2": "Relic Commander PvP Gem - Gen 2",
-      "relicEquipments": "3102@40,100"
+      "relicEquipments": "3102@50,100"
     },
     {
       "rewardID": 7342,
       "comment1": "Jackpot 8",
       "comment2": "Relic Commander PvP Gem - Gen 2",
-      "relicEquipments": "3102@40,100"
+      "relicEquipments": "3102@60,100"
     },
     {
       "rewardID": 7343,
       "comment1": "Jackpot 9",
       "comment2": "Relic Commander PvP Gem - Gen 2",
-      "relicEquipments": "3102@60,100"
+      "relicEquipments": "3102@80,100"
     },
     {
       "rewardID": 7344,
       "comment1": "Jackpot 1",
       "comment2": "Relic Commander Armor - Gen 2",
-      "relicEquipments": "2@0,100"
+      "relicEquipments": "2@20,100"
     },
     {
       "rewardID": 7345,
       "comment1": "Jackpot 2",
       "comment2": "Relic Commander Armor - Gen 2",
-      "relicEquipments": "2@0,100"
+      "relicEquipments": "2@20,100"
     },
     {
       "rewardID": 7346,
       "comment1": "Jackpot 3",
       "comment2": "Relic Commander Armor - Gen 2",
-      "relicEquipments": "2@0,100"
+      "relicEquipments": "2@30,100"
     },
     {
       "rewardID": 7347,
       "comment1": "Jackpot 4",
       "comment2": "Relic Commander Armor - Gen 2",
-      "relicEquipments": "2@0,100"
+      "relicEquipments": "2@30,100"
     },
     {
       "rewardID": 7348,
@@ -29557,43 +29861,43 @@
       "rewardID": 7350,
       "comment1": "Jackpot 7",
       "comment2": "Relic Commander Armor - Gen 2",
-      "relicEquipments": "2@40,100"
+      "relicEquipments": "2@50,100"
     },
     {
       "rewardID": 7351,
       "comment1": "Jackpot 8",
       "comment2": "Relic Commander Armor - Gen 2",
-      "relicEquipments": "2@40,100"
+      "relicEquipments": "2@60,100"
     },
     {
       "rewardID": 7352,
       "comment1": "Jackpot 9",
       "comment2": "Relic Commander Armor - Gen 2",
-      "relicEquipments": "2@60,100"
+      "relicEquipments": "2@80,100"
     },
     {
       "rewardID": 7353,
       "comment1": "Jackpot 1",
       "comment2": "Relic Commander Weapon - Gen 2",
-      "relicEquipments": "102@0,100"
+      "relicEquipments": "102@20,100"
     },
     {
       "rewardID": 7354,
       "comment1": "Jackpot 2",
       "comment2": "Relic Commander Weapon - Gen 2",
-      "relicEquipments": "102@0,100"
+      "relicEquipments": "102@20,100"
     },
     {
       "rewardID": 7355,
       "comment1": "Jackpot 3",
       "comment2": "Relic Commander Weapon - Gen 2",
-      "relicEquipments": "102@0,100"
+      "relicEquipments": "102@30,100"
     },
     {
       "rewardID": 7356,
       "comment1": "Jackpot 4",
       "comment2": "Relic Commander Weapon - Gen 2",
-      "relicEquipments": "102@0,100"
+      "relicEquipments": "102@30,100"
     },
     {
       "rewardID": 7357,
@@ -29611,43 +29915,43 @@
       "rewardID": 7359,
       "comment1": "Jackpot 7",
       "comment2": "Relic Commander Weapon - Gen 2",
-      "relicEquipments": "102@40,100"
+      "relicEquipments": "102@50,100"
     },
     {
       "rewardID": 7360,
       "comment1": "Jackpot 8",
       "comment2": "Relic Commander Weapon - Gen 2",
-      "relicEquipments": "102@40,100"
+      "relicEquipments": "102@60,100"
     },
     {
       "rewardID": 7361,
       "comment1": "Jackpot 9",
       "comment2": "Relic Commander Weapon - Gen 2",
-      "relicEquipments": "102@60,100"
+      "relicEquipments": "102@80,100"
     },
     {
       "rewardID": 7362,
       "comment1": "Jackpot 1",
       "comment2": "Relic Commander Artifact - Gen 2",
-      "relicEquipments": "302@0,100"
+      "relicEquipments": "302@20,100"
     },
     {
       "rewardID": 7363,
       "comment1": "Jackpot 2",
       "comment2": "Relic Commander Artifact - Gen 2",
-      "relicEquipments": "302@0,100"
+      "relicEquipments": "302@20,100"
     },
     {
       "rewardID": 7364,
       "comment1": "Jackpot 3",
       "comment2": "Relic Commander Artifact - Gen 2",
-      "relicEquipments": "302@0,100"
+      "relicEquipments": "302@30,100"
     },
     {
       "rewardID": 7365,
       "comment1": "Jackpot 4",
       "comment2": "Relic Commander Artifact - Gen 2",
-      "relicEquipments": "302@0,100"
+      "relicEquipments": "302@30,100"
     },
     {
       "rewardID": 7366,
@@ -29665,43 +29969,43 @@
       "rewardID": 7368,
       "comment1": "Jackpot 7",
       "comment2": "Relic Commander Artifact - Gen 2",
-      "relicEquipments": "302@40,100"
+      "relicEquipments": "302@50,100"
     },
     {
       "rewardID": 7369,
       "comment1": "Jackpot 8",
       "comment2": "Relic Commander Artifact - Gen 2",
-      "relicEquipments": "302@40,100"
+      "relicEquipments": "302@60,100"
     },
     {
       "rewardID": 7370,
       "comment1": "Jackpot 9",
       "comment2": "Relic Commander Artifact - Gen 2",
-      "relicEquipments": "302@60,100"
+      "relicEquipments": "302@80,100"
     },
     {
       "rewardID": 7371,
       "comment1": "Jackpot 1",
       "comment2": "Relic Commander Helmet - Gen 2",
-      "relicEquipments": "202@0,100"
+      "relicEquipments": "202@20,100"
     },
     {
       "rewardID": 7372,
       "comment1": "Jackpot 2",
       "comment2": "Relic Commander Helmet - Gen 2",
-      "relicEquipments": "202@0,100"
+      "relicEquipments": "202@20,100"
     },
     {
       "rewardID": 7373,
       "comment1": "Jackpot 3",
       "comment2": "Relic Commander Helmet - Gen 2",
-      "relicEquipments": "202@0,100"
+      "relicEquipments": "202@30,100"
     },
     {
       "rewardID": 7374,
       "comment1": "Jackpot 4",
       "comment2": "Relic Commander Helmet - Gen 2",
-      "relicEquipments": "202@0,100"
+      "relicEquipments": "202@30,100"
     },
     {
       "rewardID": 7375,
@@ -29719,19 +30023,19 @@
       "rewardID": 7377,
       "comment1": "Jackpot 7",
       "comment2": "Relic Commander Helmet - Gen 2",
-      "relicEquipments": "202@40,100"
+      "relicEquipments": "202@50,100"
     },
     {
       "rewardID": 7378,
       "comment1": "Jackpot 8",
       "comment2": "Relic Commander Helmet - Gen 2",
-      "relicEquipments": "202@40,100"
+      "relicEquipments": "202@60,100"
     },
     {
       "rewardID": 7379,
       "comment1": "Jackpot 9",
       "comment2": "Relic Commander Helmet - Gen 2",
-      "relicEquipments": "202@60,100"
+      "relicEquipments": "202@80,100"
     },
     {
       "rewardID": 7380,

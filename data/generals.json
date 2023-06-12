@@ -55,14 +55,14 @@
     {
       "generalID": 105,
       "generalName": "Sasaki",
-      "attackSlots": "101051,101052,101053,101054,101055",
-      "defenseSlots": "101056,101057,101058,101059,101060",
-      "generalRarityID": 3,
+      "attackSlots": "101051,101052,101053,101054",
+      "defenseSlots": "101056,101057,101058,101059",
+      "generalRarityID": 4,
       "maxLevel": 100,
       "maxStarLevel": 10,
       "unlockCurrencyID": 10005,
       "upgradeCurrencyIDs": "10000,10005",
-      "isPreview": 1,
+      "isPreview": 0,
       "isNPCGeneral": 0
     },
     {
@@ -74,6 +74,32 @@
       "upgradeCurrencyIDs": "10000,",
       "isPreview": 0,
       "isNPCGeneral": 1
+    },
+    {
+      "generalID": 107,
+      "generalName": "Tom",
+      "attackSlots": "101071,101072,101073",
+      "defenseSlots": "101076,101077,101078",
+      "generalRarityID": 2,
+      "maxLevel": 60,
+      "maxStarLevel": 5,
+      "unlockCurrencyID": 10007,
+      "upgradeCurrencyIDs": "10000,10007",
+      "isPreview": 1,
+      "isNPCGeneral": 0
+    },
+    {
+      "generalID": 108,
+      "generalName": "Alice",
+      "attackSlots": "101081,101082,101083",
+      "defenseSlots": "101086,101087,101088",
+      "generalRarityID": 2,
+      "maxLevel": 60,
+      "maxStarLevel": 5,
+      "unlockCurrencyID": 10008,
+      "upgradeCurrencyIDs": "10000,10008",
+      "isPreview": 1,
+      "isNPCGeneral": 0
     }
   ]
 }

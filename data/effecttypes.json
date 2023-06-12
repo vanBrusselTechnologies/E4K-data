@@ -726,9 +726,19 @@
       "name": "Hordebreaker"
     },
     {
+      "effectTypeID": 1010,
+      "combatType": 3,
+      "name": "EndlessPractice"
+    },
+    {
+      "effectTypeID": 1011,
+      "combatType": 3,
+      "name": "WayoftheSword"
+    },
+    {
       "effectTypeID": 1012,
-      "combatType": 2,
-      "name": "Reinforcements"
+      "combatType": 3,
+      "name": "IronWill"
     },
     {
       "effectTypeID": 1013,
@@ -754,6 +764,11 @@
       "effectTypeID": 1018,
       "combatType": 2,
       "name": "HeroicDefense"
+    },
+    {
+      "effectTypeID": 1019,
+      "combatType": 1,
+      "name": "MindClarityEvenWave"
     },
     {
       "effectTypeID": 1020,
@@ -796,6 +811,11 @@
       "name": "HiddenTreasures"
     },
     {
+      "effectTypeID": 1029,
+      "combatType": 3,
+      "name": "TheWayofPerfection"
+    },
+    {
       "effectTypeID": 1030,
       "combatType": 3,
       "name": "Vengence"
@@ -824,6 +844,11 @@
       "effectTypeID": 1039,
       "combatType": 3,
       "name": "LastingWounds"
+    },
+    {
+      "effectTypeID": 1040,
+      "combatType": 1,
+      "name": "MindClarityOddWave"
     }
   ]
 }

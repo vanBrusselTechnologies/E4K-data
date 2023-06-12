@@ -29,14 +29,14 @@
     {
       "characterID": 3,
       "name": "gamblingPrincess",
-      "spinRarities": "1,1,1,1",
-      "tombolas": "6003+10003",
+      "spinRarities": "1,1,1,2",
+      "tombolas": "6003+10003#6004+10004",
       "coolDownInSeconds": 1296000,
       "maxFreeOpenings": 1,
       "freeOpeningTombolaID": 10003,
       "unluckyTotalPoints": 18,
       "badLuckProtectionDrawAmount": 10,
-      "packageIDs": 10517,
+      "packageIDs": "10517+10908",
       "badLuckSpinRarities": "1,1,2,4"
     }
   ]
