@@ -54,8 +54,8 @@
     },
     {
       "currencyID": 15,
-      "softCap": 10000,
-      "hardCap": 100000
+      "softCap": 99999,
+      "hardCap": 125000
     }
   ]
 }

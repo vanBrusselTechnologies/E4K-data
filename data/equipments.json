@@ -11430,6 +11430,19 @@
       "skinID": 41
     },
     {
+      "equipmentID": 2002,
+      "comment1": "Pirates LTPE 2023",
+      "comment2": "LostAnchor",
+      "wearerID": 1,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 733,
+      "effects": "13&amp;7",
+      "duration": 336,
+      "mightValue": 10,
+      "canSlotGem": 1,
+      "skinID": 33
+    },
+    {
       "equipmentID": 1151,
       "comment1": "Sales Days Content October 2022",
       "comment2": "SinglesDay22General",
@@ -11942,6 +11955,51 @@
       "mightValue": 0,
       "canSlotGem": 1,
       "skinID": 106
+    },
+    {
+      "equipmentID": 1999,
+      "comment1": "Appearance item - Wave Capacity &amp; Front and Flank, Goldshop",
+      "comment2": "appearance",
+      "wearerID": 2,
+      "slotID": 5,
+      "starRarity": 1,
+      "starLevel": 6,
+      "reuseAssetOfEquipmentID": 42,
+      "effects": "24&amp;3,22&amp;30,23&amp;30",
+      "duration": 48,
+      "mightValue": 2250,
+      "canSlotGem": 0,
+      "skinID": 1
+    },
+    {
+      "equipmentID": 2000,
+      "comment1": "Appearance item - Wave Capacity &amp; Front and Flank, Goldshop",
+      "comment2": "appearance",
+      "wearerID": 2,
+      "slotID": 5,
+      "starRarity": 1,
+      "starLevel": 7,
+      "reuseAssetOfEquipmentID": 42,
+      "effects": "24&amp;3,22&amp;35,23&amp;35",
+      "duration": 48,
+      "mightValue": 2500,
+      "canSlotGem": 0,
+      "skinID": 1
+    },
+    {
+      "equipmentID": 2001,
+      "comment1": "Appearance item - Wave Capacity &amp; Front and Flank, Goldshop",
+      "comment2": "appearance",
+      "wearerID": 2,
+      "slotID": 5,
+      "starRarity": 1,
+      "starLevel": 8,
+      "reuseAssetOfEquipmentID": 42,
+      "effects": "24&amp;4,22&amp;40,23&amp;40",
+      "duration": 48,
+      "mightValue": 2750,
+      "canSlotGem": 0,
+      "skinID": 1
     }
   ]
 }

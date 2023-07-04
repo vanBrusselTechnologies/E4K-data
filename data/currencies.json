@@ -583,6 +583,12 @@
       "assetName": "MayaLTPEToken"
     },
     {
+      "currencyID": 60,
+      "Name": "PiratesLTPEToken",
+      "JSONKey": "PPT",
+      "assetName": "PiratesLTPEToken"
+    },
+    {
       "currencyID": 6001,
       "Name": "FatKingToken",
       "JSONKey": "FKT",

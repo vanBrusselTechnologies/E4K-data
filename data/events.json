@@ -880,7 +880,7 @@
       "eventType": "apprenticeSmith",
       "hubType": "Trader",
       "merchantID": 1,
-      "minLevel": 50,
+      "minLevel": 20,
       "maxLevel": 99
     },
     {
@@ -891,7 +891,7 @@
       "eventType": "apprenticeTokenVendor",
       "hubType": "Trader",
       "merchantID": 2,
-      "minLevel": 50,
+      "minLevel": 20,
       "maxLevel": 99
     },
     {
@@ -988,6 +988,22 @@
       "comment2": "Mobile Browser Shop - Special",
       "eventType": "MobileBrowserShopSpecial",
       "minLevel": 20,
+      "maxLevel": 99
+    },
+    {
+      "eventID": 121,
+      "comment1": "Loyalty",
+      "comment2": "Mobile Browser Shop Tempserver- Standard",
+      "eventType": "MobileBrowserShopTempserverStandard",
+      "minLevel": 11,
+      "maxLevel": 99
+    },
+    {
+      "eventID": 122,
+      "comment1": "Loyalty",
+      "comment2": "Mobile Browser Shop Tempserver- Special",
+      "eventType": "MobileBrowserShopTempserverSpecial",
+      "minLevel": 11,
       "maxLevel": 99
     }
   ]

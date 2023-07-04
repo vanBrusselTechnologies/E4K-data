@@ -163,6 +163,105 @@
       "affectsEnemyArmy": 0
     },
     {
+      "abilityID": 10101,
+      "name": "EndlessPractice",
+      "abilityGroupID": 1010,
+      "level": 1,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 1,
+      "abilityAttackEffectID": 101010,
+      "abilityDefenseEffectID": 101015,
+      "affectsEnemyArmy": 0
+    },
+    {
+      "abilityID": 10102,
+      "name": "EndlessPractice",
+      "abilityGroupID": 1010,
+      "level": 2,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 1,
+      "abilityAttackEffectID": 101020,
+      "abilityDefenseEffectID": 101025,
+      "affectsEnemyArmy": 0
+    },
+    {
+      "abilityID": 10103,
+      "name": "EndlessPractice",
+      "abilityGroupID": 1010,
+      "level": 3,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 1,
+      "abilityAttackEffectID": 101030,
+      "abilityDefenseEffectID": 101035,
+      "affectsEnemyArmy": 0
+    },
+    {
+      "abilityID": 10111,
+      "name": "WayoftheSword",
+      "abilityGroupID": 1011,
+      "level": 1,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 1,
+      "abilityAttackEffectID": 101110,
+      "abilityDefenseEffectID": 101115,
+      "affectsEnemyArmy": 0
+    },
+    {
+      "abilityID": 10112,
+      "name": "WayoftheSword",
+      "abilityGroupID": 1011,
+      "level": 2,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 1,
+      "abilityAttackEffectID": 101120,
+      "abilityDefenseEffectID": 101125,
+      "affectsEnemyArmy": 0
+    },
+    {
+      "abilityID": 10113,
+      "name": "WayoftheSword",
+      "abilityGroupID": 1011,
+      "level": 3,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 1,
+      "abilityAttackEffectID": 101130,
+      "abilityDefenseEffectID": 101135,
+      "affectsEnemyArmy": 0
+    },
+    {
+      "abilityID": 10121,
+      "name": "IronWill",
+      "abilityGroupID": 1012,
+      "level": 1,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 1,
+      "abilityAttackEffectID": 101210,
+      "abilityDefenseEffectID": 101215,
+      "affectsEnemyArmy": 0
+    },
+    {
+      "abilityID": 10122,
+      "name": "IronWill",
+      "abilityGroupID": 1012,
+      "level": 2,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 1,
+      "abilityAttackEffectID": 101220,
+      "abilityDefenseEffectID": 101225,
+      "affectsEnemyArmy": 0
+    },
+    {
+      "abilityID": 10123,
+      "name": "IronWill",
+      "abilityGroupID": 1012,
+      "level": 3,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 1,
+      "abilityAttackEffectID": 101230,
+      "abilityDefenseEffectID": 101235,
+      "affectsEnemyArmy": 0
+    },
+    {
       "abilityID": 10131,
       "name": "Sabotage",
       "abilityGroupID": 1013,
@@ -316,6 +415,36 @@
       "abilityTriggerID": 2,
       "triggerPerWave": 2,
       "abilityDefenseEffectID": 101835,
+      "affectsEnemyArmy": 0
+    },
+    {
+      "abilityID": 10191,
+      "name": "MindClarity",
+      "abilityGroupID": 1019,
+      "level": 1,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 1,
+      "abilityAttackEffectID": 101910,
+      "affectsEnemyArmy": 0
+    },
+    {
+      "abilityID": 10192,
+      "name": "MindClarity",
+      "abilityGroupID": 1019,
+      "level": 2,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 1,
+      "abilityAttackEffectID": 101920,
+      "affectsEnemyArmy": 0
+    },
+    {
+      "abilityID": 10193,
+      "name": "MindClarity",
+      "abilityGroupID": 1019,
+      "level": 3,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 1,
+      "abilityAttackEffectID": 101930,
       "affectsEnemyArmy": 0
     },
     {
@@ -574,6 +703,39 @@
       "affectsEnemyArmy": 0
     },
     {
+      "abilityID": 10291,
+      "name": "TheWayofPerfection",
+      "abilityGroupID": 1029,
+      "level": 1,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 1,
+      "abilityAttackEffectID": 102910,
+      "abilityDefenseEffectID": 102915,
+      "affectsEnemyArmy": 0
+    },
+    {
+      "abilityID": 10292,
+      "name": "TheWayofPerfection",
+      "abilityGroupID": 1029,
+      "level": 2,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 1,
+      "abilityAttackEffectID": 102920,
+      "abilityDefenseEffectID": 102925,
+      "affectsEnemyArmy": 0
+    },
+    {
+      "abilityID": 10293,
+      "name": "TheWayofPerfection",
+      "abilityGroupID": 1029,
+      "level": 3,
+      "abilityTriggerID": 2,
+      "triggerPerWave": 1,
+      "abilityAttackEffectID": 102930,
+      "abilityDefenseEffectID": 102935,
+      "affectsEnemyArmy": 0
+    },
+    {
       "abilityID": 10301,
       "name": "Vengence",
       "abilityGroupID": 1030,
@@ -764,168 +926,6 @@
       "abilityAttackEffectID": 103930,
       "abilityDefenseEffectID": 103935,
       "affectsEnemyArmy": 1
-    },
-    {
-      "abilityID": 10101,
-      "name": "EndlessPractice",
-      "abilityGroupID": 1010,
-      "level": 1,
-      "abilityTriggerID": 2,
-      "triggerPerWave": 1,
-      "abilityAttackEffectID": 101010,
-      "abilityDefenseEffectID": 101015,
-      "affectsEnemyArmy": 0
-    },
-    {
-      "abilityID": 10102,
-      "name": "EndlessPractice",
-      "abilityGroupID": 1010,
-      "level": 2,
-      "abilityTriggerID": 2,
-      "triggerPerWave": 1,
-      "abilityAttackEffectID": 101020,
-      "abilityDefenseEffectID": 101025,
-      "affectsEnemyArmy": 0
-    },
-    {
-      "abilityID": 10103,
-      "name": "EndlessPractice",
-      "abilityGroupID": 1010,
-      "level": 3,
-      "abilityTriggerID": 2,
-      "triggerPerWave": 1,
-      "abilityAttackEffectID": 101030,
-      "abilityDefenseEffectID": 101035,
-      "affectsEnemyArmy": 0
-    },
-    {
-      "abilityID": 10111,
-      "name": "WayoftheSword",
-      "abilityGroupID": 1011,
-      "level": 1,
-      "abilityTriggerID": 2,
-      "triggerPerWave": 1,
-      "abilityAttackEffectID": 101110,
-      "abilityDefenseEffectID": 101115,
-      "affectsEnemyArmy": 0
-    },
-    {
-      "abilityID": 10112,
-      "name": "WayoftheSword",
-      "abilityGroupID": 1011,
-      "level": 2,
-      "abilityTriggerID": 2,
-      "triggerPerWave": 1,
-      "abilityAttackEffectID": 101120,
-      "abilityDefenseEffectID": 101125,
-      "affectsEnemyArmy": 0
-    },
-    {
-      "abilityID": 10113,
-      "name": "WayoftheSword",
-      "abilityGroupID": 1011,
-      "level": 3,
-      "abilityTriggerID": 2,
-      "triggerPerWave": 1,
-      "abilityAttackEffectID": 101130,
-      "abilityDefenseEffectID": 101135,
-      "affectsEnemyArmy": 0
-    },
-    {
-      "abilityID": 10121,
-      "name": "IronWill",
-      "abilityGroupID": 1012,
-      "level": 1,
-      "abilityTriggerID": 2,
-      "triggerPerWave": 1,
-      "abilityAttackEffectID": 101210,
-      "abilityDefenseEffectID": 101215,
-      "affectsEnemyArmy": 0
-    },
-    {
-      "abilityID": 10122,
-      "name": "IronWill",
-      "abilityGroupID": 1012,
-      "level": 2,
-      "abilityTriggerID": 2,
-      "triggerPerWave": 1,
-      "abilityAttackEffectID": 101220,
-      "abilityDefenseEffectID": 101225,
-      "affectsEnemyArmy": 0
-    },
-    {
-      "abilityID": 10123,
-      "name": "IronWill",
-      "abilityGroupID": 1012,
-      "level": 3,
-      "abilityTriggerID": 2,
-      "triggerPerWave": 1,
-      "abilityAttackEffectID": 101230,
-      "abilityDefenseEffectID": 101235,
-      "affectsEnemyArmy": 0
-    },
-    {
-      "abilityID": 10191,
-      "name": "MindClarity",
-      "abilityGroupID": 1019,
-      "level": 1,
-      "abilityTriggerID": 2,
-      "triggerPerWave": 1,
-      "abilityAttackEffectID": 101910,
-      "affectsEnemyArmy": 0
-    },
-    {
-      "abilityID": 10192,
-      "name": "MindClarity",
-      "abilityGroupID": 1019,
-      "level": 2,
-      "abilityTriggerID": 2,
-      "triggerPerWave": 1,
-      "abilityAttackEffectID": 101920,
-      "affectsEnemyArmy": 0
-    },
-    {
-      "abilityID": 10193,
-      "name": "MindClarity",
-      "abilityGroupID": 1019,
-      "level": 3,
-      "abilityTriggerID": 2,
-      "triggerPerWave": 1,
-      "abilityAttackEffectID": 101930,
-      "affectsEnemyArmy": 0
-    },
-    {
-      "abilityID": 10291,
-      "name": "TheWayofPerfection",
-      "abilityGroupID": 1029,
-      "level": 1,
-      "abilityTriggerID": 2,
-      "triggerPerWave": 1,
-      "abilityAttackEffectID": 102910,
-      "abilityDefenseEffectID": 102915,
-      "affectsEnemyArmy": 0
-    },
-    {
-      "abilityID": 10292,
-      "name": "TheWayofPerfection",
-      "abilityGroupID": 1029,
-      "level": 2,
-      "abilityTriggerID": 2,
-      "triggerPerWave": 1,
-      "abilityAttackEffectID": 102920,
-      "abilityDefenseEffectID": 102925,
-      "affectsEnemyArmy": 0
-    },
-    {
-      "abilityID": 10293,
-      "name": "TheWayofPerfection",
-      "abilityGroupID": 1029,
-      "level": 3,
-      "abilityTriggerID": 2,
-      "triggerPerWave": 1,
-      "abilityAttackEffectID": 102930,
-      "abilityDefenseEffectID": 102935,
-      "affectsEnemyArmy": 0
     }
   ]
 }

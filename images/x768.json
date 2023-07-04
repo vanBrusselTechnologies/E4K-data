@@ -7891,6 +7891,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_frozenShipwreckCove": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_frozenShipwreckCove/Deco_Building_frozenShipwreckCove.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 285,
+        "h": 202,
+        "rx": 836,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_FruitPleasures": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_FruitPleasures/Deco_Building_FruitPleasures.png",
@@ -9768,6 +9783,21 @@
         "h": 235,
         "rx": 838,
         "ry": 897
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_shipwreckCove": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_shipwreckCove/Deco_Building_shipwreckCove.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 283,
+        "h": 202,
+        "rx": 838,
+        "ry": 935
       }
     ],
     "fx": []
@@ -13974,6 +14004,29 @@
       {
         "x": 20,
         "y": 16,
+        "scale": 0.5,
+        "name": "fx_exclamationmark",
+        "rotation": 0
+      }
+    ]
+  },
+  "Event_Building_PiratesLTPECamp": {
+    "pid": 0,
+    "url": "x768/Buildings/Event/Event_Building_PiratesLTPECamp/Event_Building_PiratesLTPECamp.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 342,
+        "h": 299,
+        "rx": 880,
+        "ry": 842
+      }
+    ],
+    "fx": [
+      {
+        "x": 117,
+        "y": 37,
         "scale": 0.5,
         "name": "fx_exclamationmark",
         "rotation": 0
@@ -22798,6 +22851,29 @@
       {
         "x": 183,
         "y": -83,
+        "scale": 0.5,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "piratesMill": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/piratesMill/piratesMill.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 302,
+        "h": 275,
+        "rx": 858,
+        "ry": 862
+      }
+    ],
+    "fx": [
+      {
+        "x": 31,
+        "y": -35,
         "scale": 0.5,
         "name": "damageHolder",
         "rotation": 0
@@ -72506,6 +72582,21 @@
     ],
     "fx": []
   },
+  "icon_autoskip_costs_big": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_autoskip_costs_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 91,
+        "h": 93,
+        "rx": 954,
+        "ry": 953
+      }
+    ],
+    "fx": []
+  },
   "icon_autoskip_costs": {
     "pid": 0,
     "url": "x768/Icons/Icons/icon_autoskip_costs.png",
@@ -78825,6 +78916,81 @@
         "h": 29,
         "rx": 977,
         "ry": 985
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_PiratesLTPEToken_big": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_PiratesLTPEToken_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 103,
+        "h": 107,
+        "rx": 948,
+        "ry": 946
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_PiratesLTPEToken_medium": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_PiratesLTPEToken_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 85,
+        "h": 89,
+        "rx": 957,
+        "ry": 955
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_PiratesLTPEToken_small": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_PiratesLTPEToken_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 37,
+        "h": 37,
+        "rx": 981,
+        "ry": 981
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_PiratesLTPEToken_xl": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_PiratesLTPEToken_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 161,
+        "rx": 923,
+        "ry": 919
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_PiratesLTPEToken": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_PiratesLTPEToken.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 67,
+        "rx": 967,
+        "ry": 966
       }
     ],
     "fx": []
@@ -86104,6 +86270,21 @@
     ],
     "fx": []
   },
+  "icon_ltp_event_pirate": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_ltp_event_pirate.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 204,
+        "h": 217,
+        "rx": 898,
+        "ry": 891
+      }
+    ],
+    "fx": []
+  },
   "icon_ltp_event_samurai_invasion": {
     "pid": 1,
     "url": "x768/Icons/Icons/icon_ltp_event_samurai_invasion.png",
@@ -86925,6 +87106,21 @@
         "h": 89,
         "rx": 955,
         "ry": 955
+      }
+    ],
+    "fx": []
+  },
+  "icon_package_category_116": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_package_category_116.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 89,
+        "h": 93,
+        "rx": 955,
+        "ry": 953
       }
     ],
     "fx": []
@@ -93210,6 +93406,36 @@
         "h": 89,
         "rx": 957,
         "ry": 955
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_PiratesLTPEToken_big_ds": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_currency_PiratesLTPEToken_big_ds_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 89,
+        "h": 93,
+        "rx": 955,
+        "ry": 953
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_PiratesLTPEToken_ds": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_currency_PiratesLTPEToken_ds_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 69,
+        "rx": 966,
+        "ry": 965
       }
     ],
     "fx": []
@@ -104264,6 +104490,21 @@
         "w": 437,
         "h": 258,
         "rx": 781,
+        "ry": 871
+      }
+    ],
+    "fx": []
+  },
+  "teaser_event_pirates": {
+    "pid": 0,
+    "url": "x768/Misc/EventTeasers/teaser_event_pirates.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 439,
+        "h": 257,
+        "rx": 780,
         "ry": 871
       }
     ],
@@ -120738,6 +120979,21 @@
     ],
     "fx": []
   },
+  "Eventunit_Unit_EliteRankrewardmeleeUSA": {
+    "pid": 0,
+    "url": "x768/Units/UnitAssets/Eventunit_Unit_EliteRankrewardmeleeUSA.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 163,
+        "h": 199,
+        "rx": 918,
+        "ry": 900
+      }
+    ],
+    "fx": []
+  },
   "Eventunit_Unit_EliteRankrewardrange": {
     "pid": 0,
     "url": "x768/Units/UnitAssets/Eventunit_Unit_EliteRankrewardrange.png",
@@ -120749,6 +121005,21 @@
         "h": 213,
         "rx": 916,
         "ry": 893
+      }
+    ],
+    "fx": []
+  },
+  "Eventunit_Unit_EliteRankrewardrangeUSA": {
+    "pid": 0,
+    "url": "x768/Units/UnitAssets/Eventunit_Unit_EliteRankrewardrangeUSA.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 163,
+        "h": 210,
+        "rx": 918,
+        "ry": 895
       }
     ],
     "fx": []
