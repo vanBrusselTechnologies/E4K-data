@@ -2766,6 +2766,13 @@
       "sortOrder": "1.8.2"
     },
     {
+      "effectID": 708,
+      "name": "featureAutoSkipCooldown",
+      "effectTypeID": 185,
+      "capID": 99,
+      "areaTypeID": "27,29"
+    },
+    {
       "effectID": 21001,
       "name": "PowerSurge",
       "effectTypeID": 1001,

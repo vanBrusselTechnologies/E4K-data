@@ -701,6 +701,10 @@
       "name": "allianceDefenseUnitAmountYardBoost"
     },
     {
+      "effectTypeID": 185,
+      "name": "featureAutoSkipCooldown"
+    },
+    {
       "effectTypeID": 1001,
       "combatType": 3,
       "name": "PowerSurge"

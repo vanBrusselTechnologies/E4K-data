@@ -6314,6 +6314,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_alicesWorkshop": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_alicesWorkshop/Deco_Building_alicesWorkshop.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 145,
+        "h": 117,
+        "rx": 917,
+        "ry": 945
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_AlienStatuePond": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_AlienStatuePond/Deco_Building_AlienStatuePond.png",
@@ -6685,6 +6700,36 @@
         "h": 161,
         "rx": 909,
         "ry": 906
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_anniversaryParty": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_anniversaryParty/Deco_Building_anniversaryParty.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 99,
+        "rx": 897,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_anniversaryPartyEnd": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_anniversaryPartyEnd/Deco_Building_anniversaryPartyEnd.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 136,
+        "h": 99,
+        "rx": 916,
+        "ry": 967
       }
     ],
     "fx": []
@@ -10527,6 +10572,21 @@
         "h": 85,
         "rx": 916,
         "ry": 979
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_tomsWorkshop": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_tomsWorkshop/Deco_Building_tomsWorkshop.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 146,
+        "h": 120,
+        "rx": 914,
+        "ry": 948
       }
     ],
     "fx": []
@@ -21970,10 +22030,17 @@
     ],
     "fx": [
       {
-        "x": -14,
-        "y": -113,
+        "x": 71,
+        "y": -43,
         "scale": 0.25,
         "name": "damageHolder",
+        "rotation": 0
+      },
+      {
+        "x": -14,
+        "y": -131,
+        "scale": 0.25,
+        "name": "flagHolder",
         "rotation": 0
       }
     ]
@@ -22219,6 +22286,13 @@
       }
     ],
     "fx": [
+      {
+        "x": 69,
+        "y": -74,
+        "scale": 0.25,
+        "name": "flagHolder",
+        "rotation": 0
+      },
       {
         "x": 70,
         "y": -47,
@@ -22560,6 +22634,52 @@
       }
     ]
   },
+  "MayaRelicBeekeeper": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/MayaRelicBeekeeper/MayaRelicBeekeeper.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 118,
+        "h": 176,
+        "rx": 947,
+        "ry": 865
+      }
+    ],
+    "fx": [
+      {
+        "x": 20,
+        "y": -38,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "MayaRelicBrewery": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/MayaRelicBrewery/MayaRelicBrewery.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 121,
+        "h": 174,
+        "rx": 948,
+        "ry": 871
+      }
+    ],
+    "fx": [
+      {
+        "x": 15,
+        "y": -52,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "mistwoodBarracks": {
     "pid": 0,
     "url": "x384/BuildingSkins/mistwoodBarracks/mistwoodBarracks.png",
@@ -22688,6 +22808,29 @@
       }
     ],
     "fx": []
+  },
+  "partyGuardhouse": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/partyGuardhouse/partyGuardhouse.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 117,
+        "h": 157,
+        "rx": 949,
+        "ry": 896
+      }
+    ],
+    "fx": [
+      {
+        "x": -25,
+        "y": -46,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
   },
   "pirateBakery": {
     "pid": 0,
@@ -23024,6 +23167,13 @@
       }
     ],
     "fx": [
+      {
+        "x": 8,
+        "y": -105,
+        "scale": 0.25,
+        "name": "flagHolder",
+        "rotation": 0
+      },
       {
         "x": 65,
         "y": -51,
@@ -23565,6 +23715,13 @@
       }
     ],
     "fx": [
+      {
+        "x": -25,
+        "y": -130,
+        "scale": 0.25,
+        "name": "flagHolder",
+        "rotation": 0
+      },
       {
         "x": 70,
         "y": -40,
@@ -70446,7 +70603,7 @@
         "y": 0,
         "w": 157,
         "h": 201,
-        "rx": 920,
+        "rx": 921,
         "ry": 899
       }
     ],
@@ -70489,9 +70646,9 @@
       {
         "x": 0,
         "y": 0,
-        "w": 158,
+        "w": 157,
         "h": 201,
-        "rx": 920,
+        "rx": 921,
         "ry": 899
       }
     ],
@@ -70519,9 +70676,9 @@
       {
         "x": 0,
         "y": 0,
-        "w": 158,
+        "w": 157,
         "h": 201,
-        "rx": 920,
+        "rx": 921,
         "ry": 899
       }
     ],
@@ -70534,9 +70691,9 @@
       {
         "x": 0,
         "y": 0,
-        "w": 158,
+        "w": 157,
         "h": 201,
-        "rx": 920,
+        "rx": 921,
         "ry": 899
       }
     ],
@@ -70549,9 +70706,9 @@
       {
         "x": 0,
         "y": 0,
-        "w": 159,
+        "w": 157,
         "h": 201,
-        "rx": 920,
+        "rx": 921,
         "ry": 899
       }
     ],
@@ -70564,9 +70721,9 @@
       {
         "x": 0,
         "y": 0,
-        "w": 159,
+        "w": 157,
         "h": 201,
-        "rx": 920,
+        "rx": 921,
         "ry": 899
       }
     ],
@@ -70579,9 +70736,9 @@
       {
         "x": 0,
         "y": 0,
-        "w": 158,
+        "w": 157,
         "h": 201,
-        "rx": 920,
+        "rx": 921,
         "ry": 899
       }
     ],
@@ -74209,10 +74366,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 33,
-        "h": 33,
-        "rx": 983,
-        "ry": 983
+        "w": 31,
+        "h": 35,
+        "rx": 984,
+        "ry": 982
       }
     ],
     "fx": []
@@ -74224,10 +74381,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 33,
-        "h": 33,
+        "w": 32,
+        "h": 35,
         "rx": 983,
-        "ry": 983
+        "ry": 982
       }
     ],
     "fx": []
@@ -74239,21 +74396,13 @@
       {
         "x": 0,
         "y": 0,
-        "w": 33,
-        "h": 33,
-        "rx": 983,
-        "ry": 983
+        "w": 31,
+        "h": 35,
+        "rx": 984,
+        "ry": 982
       }
     ],
-    "fx": [
-      {
-        "x": 0,
-        "y": -4,
-        "scale": 0.25,
-        "name": "txt_amount",
-        "rotation": 0
-      }
-    ]
+    "fx": []
   },
   "icon_currency_10MinSkip": {
     "pid": 0,
@@ -74262,10 +74411,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 33,
-        "h": 33,
-        "rx": 983,
-        "ry": 983
+        "w": 31,
+        "h": 35,
+        "rx": 984,
+        "ry": 982
       }
     ],
     "fx": []
@@ -74277,10 +74426,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 33,
-        "h": 33,
+        "w": 32,
+        "h": 35,
         "rx": 983,
-        "ry": 983
+        "ry": 982
       }
     ],
     "fx": []
@@ -74292,10 +74441,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 33,
-        "h": 33,
-        "rx": 983,
-        "ry": 983
+        "w": 31,
+        "h": 35,
+        "rx": 984,
+        "ry": 982
       }
     ],
     "fx": []
@@ -74307,10 +74456,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 34,
-        "h": 33,
+        "w": 32,
+        "h": 35,
         "rx": 983,
-        "ry": 983
+        "ry": 982
       }
     ],
     "fx": []
@@ -77090,6 +77239,21 @@
     ],
     "fx": []
   },
+  "icon_currency_GenXP250_xl": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_GenXP250_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 101,
+        "rx": 956,
+        "ry": 949
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_GenXP250": {
     "pid": 0,
     "url": "x384/Icons/Icons/icon_currency_GenXP250.png",
@@ -77101,6 +77265,21 @@
         "h": 35,
         "rx": 984,
         "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_GenXP500_xl": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_GenXP500_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 101,
+        "rx": 956,
+        "ry": 949
       }
     ],
     "fx": []
@@ -77120,6 +77299,21 @@
     ],
     "fx": []
   },
+  "icon_currency_GenXP1000_xl": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_GenXP1000_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 101,
+        "rx": 956,
+        "ry": 949
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_GenXP1000": {
     "pid": 0,
     "url": "x384/Icons/Icons/icon_currency_GenXP1000.png",
@@ -77131,6 +77325,21 @@
         "h": 35,
         "rx": 984,
         "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_GenXP2500_xl": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_GenXP2500_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 101,
+        "rx": 956,
+        "ry": 949
       }
     ],
     "fx": []
@@ -77150,6 +77359,21 @@
     ],
     "fx": []
   },
+  "icon_currency_GenXP5000_xl": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_GenXP5000_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 101,
+        "rx": 956,
+        "ry": 949
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_GenXP5000": {
     "pid": 0,
     "url": "x384/Icons/Icons/icon_currency_GenXP5000.png",
@@ -77161,6 +77385,21 @@
         "h": 35,
         "rx": 984,
         "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_GenXP7500_xl": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_GenXP7500_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 101,
+        "rx": 956,
+        "ry": 949
       }
     ],
     "fx": []
@@ -77180,6 +77419,21 @@
     ],
     "fx": []
   },
+  "icon_currency_GenXP10000_xl": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_GenXP10000_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 101,
+        "rx": 956,
+        "ry": 949
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_GenXP10000": {
     "pid": 0,
     "url": "x384/Icons/Icons/icon_currency_GenXP10000.png",
@@ -77195,6 +77449,21 @@
     ],
     "fx": []
   },
+  "icon_currency_GenXP12500_xl": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_GenXP12500_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 101,
+        "rx": 956,
+        "ry": 949
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_GenXP12500": {
     "pid": 0,
     "url": "x384/Icons/Icons/icon_currency_GenXP12500.png",
@@ -77206,6 +77475,21 @@
         "h": 35,
         "rx": 984,
         "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_GenXP15000_xl": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_GenXP15000_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 101,
+        "rx": 956,
+        "ry": 949
       }
     ],
     "fx": []
@@ -82970,6 +83254,21 @@
     ],
     "fx": []
   },
+  "icon_discord_extended": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_discord_extended.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 35,
+        "rx": 915,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
   "icon_discord": {
     "pid": 0,
     "url": "x384/Icons/Icons/icon_discord.png",
@@ -86431,6 +86730,21 @@
         "h": 87,
         "rx": 949,
         "ry": 956
+      }
+    ],
+    "fx": []
+  },
+  "icon_maintenance_hourglass": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_maintenance_hourglass.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 131,
+        "h": 132,
+        "rx": 935,
+        "ry": 932
       }
     ],
     "fx": []
@@ -105875,6 +106189,21 @@
     ],
     "fx": []
   },
+  "teaser_maintenance_additional_info": {
+    "pid": 0,
+    "url": "x384/Misc/GenericTeasers/teaser_maintenance_additional_info.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 575,
+        "h": 267,
+        "rx": 712,
+        "ry": 866
+      }
+    ],
+    "fx": []
+  },
   "teaser_samurai_bgmap": {
     "pid": 1,
     "url": "x384/Misc/GenericTeasers/teaser_samurai_bgmap.png",
@@ -108458,7 +108787,7 @@
         "x": 48,
         "y": -6,
         "scale": 0.25,
-        "name": "flagHolder",
+        "name": "flagHolderStatic",
         "rotation": 0
       }
     ]
@@ -108479,9 +108808,9 @@
     "fx": [
       {
         "x": 51,
-        "y": -5,
+        "y": -3,
         "scale": 0.25,
-        "name": "flagHolder",
+        "name": "flagHolderStatic",
         "rotation": 0
       }
     ]
@@ -108523,10 +108852,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 80,
-        "h": 46,
-        "rx": 970,
-        "ry": 1010
+        "w": 81,
+        "h": 47,
+        "rx": 969,
+        "ry": 1009
       }
     ],
     "fx": []
@@ -108629,9 +108958,9 @@
         "x": 0,
         "y": 0,
         "w": 11,
-        "h": 11,
+        "h": 12,
         "rx": 1038,
-        "ry": 1024
+        "ry": 1023
       }
     ],
     "fx": []
@@ -108644,7 +108973,7 @@
         "x": 0,
         "y": 0,
         "w": 11,
-        "h": 10,
+        "h": 11,
         "rx": 1038,
         "ry": 1025
       }
@@ -108658,9 +108987,9 @@
       {
         "x": 0,
         "y": 0,
-        "w": 6,
-        "h": 11,
-        "rx": 1044,
+        "w": 7,
+        "h": 12,
+        "rx": 1043,
         "ry": 1017
       }
     ],
@@ -108733,10 +109062,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 39,
-        "h": 30,
-        "rx": 1020,
-        "ry": 1010
+        "w": 40,
+        "h": 31,
+        "rx": 1019,
+        "ry": 1009
       }
     ],
     "fx": []
@@ -108763,10 +109092,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 38,
-        "h": 29,
+        "w": 39,
+        "h": 30,
         "rx": 1019,
-        "ry": 1010
+        "ry": 1009
       }
     ],
     "fx": []
@@ -108804,7 +109133,7 @@
         "x": 48,
         "y": -6,
         "scale": 0.25,
-        "name": "flagHolder",
+        "name": "flagHolderStatic",
         "rotation": 0
       }
     ]
@@ -108825,9 +109154,9 @@
     "fx": [
       {
         "x": 51,
-        "y": -5,
+        "y": -3,
         "scale": 0.25,
-        "name": "flagHolder",
+        "name": "flagHolderStatic",
         "rotation": 0
       }
     ]
@@ -109150,7 +109479,7 @@
         "x": 48,
         "y": -6,
         "scale": 0.25,
-        "name": "flagHolder",
+        "name": "flagHolderStatic",
         "rotation": 0
       }
     ]
@@ -109171,9 +109500,9 @@
     "fx": [
       {
         "x": 51,
-        "y": -5,
+        "y": -2,
         "scale": 0.25,
-        "name": "flagHolder",
+        "name": "flagHolderStatic",
         "rotation": 0
       }
     ]
@@ -109496,7 +109825,7 @@
         "x": 48,
         "y": -6,
         "scale": 0.25,
-        "name": "flagHolder",
+        "name": "flagHolderStatic",
         "rotation": 0
       }
     ]
@@ -109517,9 +109846,9 @@
     "fx": [
       {
         "x": 51,
-        "y": -5,
+        "y": -2,
         "scale": 0.25,
-        "name": "flagHolder",
+        "name": "flagHolderStatic",
         "rotation": 0
       }
     ]
@@ -109842,7 +110171,7 @@
         "x": 41,
         "y": 4,
         "scale": 0.25,
-        "name": "flagHolder",
+        "name": "flagHolderStatic",
         "rotation": 0
       }
     ]
@@ -110000,7 +110329,7 @@
         "x": 41,
         "y": 4,
         "scale": 0.25,
-        "name": "flagHolder",
+        "name": "flagHolderStatic",
         "rotation": 0
       }
     ]
@@ -110158,7 +110487,7 @@
         "x": 41,
         "y": 4,
         "scale": 0.25,
-        "name": "flagHolder",
+        "name": "flagHolderStatic",
         "rotation": 0
       }
     ]
@@ -110451,7 +110780,7 @@
         "x": 41,
         "y": 4,
         "scale": 0.25,
-        "name": "flagHolder",
+        "name": "flagHolderStatic",
         "rotation": 0
       }
     ]
@@ -110609,7 +110938,7 @@
         "x": 41,
         "y": 4,
         "scale": 0.25,
-        "name": "flagHolder",
+        "name": "flagHolderStatic",
         "rotation": 0
       }
     ]
@@ -110765,9 +111094,9 @@
     "fx": [
       {
         "x": 48,
-        "y": -6,
+        "y": -5,
         "scale": 0.25,
-        "name": "flagHolder",
+        "name": "flagHolderStatic",
         "rotation": 0
       }
     ]
@@ -111109,7 +111438,7 @@
       {
         "x": 0,
         "y": 0,
-        "w": 78,
+        "w": 79,
         "h": 54,
         "rx": 947,
         "ry": 984
@@ -111124,7 +111453,7 @@
       {
         "x": 0,
         "y": 0,
-        "w": 78,
+        "w": 79,
         "h": 54,
         "rx": 947,
         "ry": 984
@@ -111139,7 +111468,7 @@
       {
         "x": 0,
         "y": 0,
-        "w": 78,
+        "w": 79,
         "h": 54,
         "rx": 947,
         "ry": 984
@@ -111154,10 +111483,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 80,
-        "h": 63,
+        "w": 81,
+        "h": 64,
         "rx": 1029,
-        "ry": 980
+        "ry": 979
       }
     ],
     "fx": []
@@ -111169,10 +111498,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 80,
-        "h": 63,
+        "w": 81,
+        "h": 64,
         "rx": 1029,
-        "ry": 980
+        "ry": 979
       }
     ],
     "fx": []
@@ -111184,10 +111513,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 92,
-        "h": 63,
+        "w": 93,
+        "h": 64,
         "rx": 1029,
-        "ry": 980
+        "ry": 979
       }
     ],
     "fx": []
@@ -111214,9 +111543,9 @@
       {
         "x": 0,
         "y": 0,
-        "w": 14,
+        "w": 16,
         "h": 8,
-        "rx": 960,
+        "rx": 959,
         "ry": 984
       }
     ],
@@ -111244,9 +111573,9 @@
       {
         "x": 0,
         "y": 0,
-        "w": 14,
-        "h": 10,
-        "rx": 960,
+        "w": 16,
+        "h": 11,
+        "rx": 959,
         "ry": 984
       }
     ],
@@ -111274,10 +111603,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 14,
-        "h": 14,
-        "rx": 958,
-        "ry": 980
+        "w": 16,
+        "h": 16,
+        "rx": 957,
+        "ry": 979
       }
     ],
     "fx": []
@@ -111304,9 +111633,9 @@
       {
         "x": 0,
         "y": 0,
-        "w": 14,
+        "w": 16,
         "h": 8,
-        "rx": 960,
+        "rx": 959,
         "ry": 984
       }
     ],
@@ -111334,9 +111663,9 @@
       {
         "x": 0,
         "y": 0,
-        "w": 14,
-        "h": 10,
-        "rx": 960,
+        "w": 16,
+        "h": 11,
+        "rx": 959,
         "ry": 984
       }
     ],
@@ -111364,10 +111693,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 14,
-        "h": 14,
-        "rx": 958,
-        "ry": 980
+        "w": 16,
+        "h": 16,
+        "rx": 957,
+        "ry": 979
       }
     ],
     "fx": []
@@ -111394,9 +111723,9 @@
       {
         "x": 0,
         "y": 0,
-        "w": 14,
+        "w": 16,
         "h": 8,
-        "rx": 960,
+        "rx": 959,
         "ry": 984
       }
     ],
@@ -111424,9 +111753,9 @@
       {
         "x": 0,
         "y": 0,
-        "w": 14,
-        "h": 10,
-        "rx": 960,
+        "w": 16,
+        "h": 11,
+        "rx": 959,
         "ry": 984
       }
     ],
@@ -111454,10 +111783,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 14,
-        "h": 14,
-        "rx": 958,
-        "ry": 980
+        "w": 16,
+        "h": 16,
+        "rx": 957,
+        "ry": 979
       }
     ],
     "fx": []
@@ -111484,116 +111813,18 @@
       {
         "x": 0,
         "y": 0,
-        "w": 88,
+        "w": 89,
         "h": 58,
-        "rx": 970,
+        "rx": 969,
         "ry": 992
       }
     ],
     "fx": [
       {
-        "x": 22,
-        "y": -4,
-        "scale": 2,
-        "name": "flag0",
-        "rotation": 0
-      },
-      {
-        "x": 14,
-        "y": 0,
-        "scale": 2,
-        "name": "flag0",
-        "rotation": 0
-      },
-      {
-        "x": 22,
-        "y": -4,
-        "scale": 2,
-        "name": "flag0",
-        "rotation": 0
-      },
-      {
-        "x": 22,
-        "y": -4,
-        "scale": 2,
-        "name": "flag0",
-        "rotation": 0
-      },
-      {
-        "x": 22,
-        "y": -4,
-        "scale": 2,
-        "name": "flag0",
-        "rotation": 0
-      },
-      {
-        "x": 14,
-        "y": 0,
-        "scale": 2,
-        "name": "flag0",
-        "rotation": 0
-      },
-      {
-        "x": 14,
-        "y": 0,
-        "scale": 2,
-        "name": "flag0",
-        "rotation": 0
-      },
-      {
-        "x": 14,
-        "y": 0,
-        "scale": 2,
-        "name": "flag0",
-        "rotation": 0
-      },
-      {
-        "x": 18,
-        "y": 1,
-        "scale": 1,
-        "name": "flag0",
-        "rotation": 0
-      },
-      {
-        "x": 14,
-        "y": -3,
-        "scale": 1,
-        "name": "flag0",
-        "rotation": 0
-      },
-      {
-        "x": 14,
-        "y": -4,
-        "scale": 1,
-        "name": "flag0",
-        "rotation": 0
-      },
-      {
-        "x": 16,
-        "y": 3,
-        "scale": 2,
-        "name": "flag0",
-        "rotation": 0
-      },
-      {
-        "x": 16,
-        "y": -1,
-        "scale": 2,
-        "name": "flag0",
-        "rotation": 0
-      },
-      {
-        "x": 20,
-        "y": -3,
-        "scale": 2,
-        "name": "flag0",
-        "rotation": 0
-      },
-      {
-        "x": 18,
-        "y": 1,
-        "scale": 2,
-        "name": "flag0",
+        "x": 48,
+        "y": -5,
+        "scale": 0.25,
+        "name": "flagHolderStatic",
         "rotation": 0
       }
     ]
@@ -111755,39 +111986,18 @@
       {
         "x": 0,
         "y": 0,
-        "w": 86,
-        "h": 47,
-        "rx": 970,
-        "ry": 1000
+        "w": 87,
+        "h": 48,
+        "rx": 969,
+        "ry": 999
       }
     ],
     "fx": [
       {
-        "x": 4,
-        "y": 11,
-        "scale": 1,
-        "name": "flag0",
-        "rotation": 0
-      },
-      {
-        "x": 2,
-        "y": 4,
-        "scale": 2,
-        "name": "flag0",
-        "rotation": 0
-      },
-      {
-        "x": 2,
-        "y": 6,
-        "scale": 2,
-        "name": "flag0",
-        "rotation": 0
-      },
-      {
-        "x": 5,
-        "y": 10,
-        "scale": 1,
-        "name": "flag0",
+        "x": 41,
+        "y": 3,
+        "scale": 0.25,
+        "name": "flagHolderStatic",
         "rotation": 0
       }
     ]
@@ -111934,46 +112144,18 @@
       {
         "x": 0,
         "y": 0,
-        "w": 94,
+        "w": 95,
         "h": 56,
-        "rx": 970,
+        "rx": 969,
         "ry": 992
       }
     ],
     "fx": [
       {
-        "x": 3,
-        "y": 13,
-        "scale": 1,
-        "name": "flag0",
-        "rotation": 0
-      },
-      {
-        "x": 1,
-        "y": 4,
-        "scale": 1,
-        "name": "flag0",
-        "rotation": 0
-      },
-      {
-        "x": 1,
-        "y": 2,
-        "scale": 1,
-        "name": "flag0",
-        "rotation": 0
-      },
-      {
-        "x": 3,
-        "y": 13,
-        "scale": 2,
-        "name": "flag0",
-        "rotation": 0
-      },
-      {
-        "x": 2,
-        "y": 14,
-        "scale": 2,
-        "name": "flag0",
+        "x": 51,
+        "y": -5,
+        "scale": 0.25,
+        "name": "flagHolderStatic",
         "rotation": 0
       }
     ]
@@ -112141,7 +112323,15 @@
         "ry": 992
       }
     ],
-    "fx": []
+    "fx": [
+      {
+        "x": 51,
+        "y": -2,
+        "scale": 0.25,
+        "name": "flagHolderStatic",
+        "rotation": 0
+      }
+    ]
   },
   "FactionPMoat_Moat_Bridge_Level2_Faction": {
     "pid": 2,
@@ -112156,7 +112346,15 @@
         "ry": 992
       }
     ],
-    "fx": []
+    "fx": [
+      {
+        "x": 51,
+        "y": -2,
+        "scale": 0.25,
+        "name": "flagHolderStatic",
+        "rotation": 0
+      }
+    ]
   },
   "FactionPMoat_Moat_Bridge_Level1_Faction": {
     "pid": 2,
@@ -112171,7 +112369,15 @@
         "ry": 992
       }
     ],
-    "fx": []
+    "fx": [
+      {
+        "x": 51,
+        "y": -2,
+        "scale": 0.25,
+        "name": "flagHolderStatic",
+        "rotation": 0
+      }
+    ]
   },
   "FactionPMoat_Moat_Corner0_Level3_Faction": {
     "pid": 2,
@@ -112624,7 +112830,7 @@
     "fx": [
       {
         "x": 51,
-        "y": -5,
+        "y": -2,
         "scale": 0.25,
         "name": "flagHolderStatic",
         "rotation": 0
@@ -112647,7 +112853,7 @@
     "fx": [
       {
         "x": 51,
-        "y": -5,
+        "y": -2,
         "scale": 0.25,
         "name": "flagHolderStatic",
         "rotation": 0
@@ -112970,9 +113176,9 @@
     "fx": [
       {
         "x": 51,
-        "y": -5,
+        "y": -2,
         "scale": 0.25,
-        "name": "flagHolder",
+        "name": "flagHolderStatic",
         "rotation": 0
       }
     ]
@@ -112993,9 +113199,9 @@
     "fx": [
       {
         "x": 51,
-        "y": -5,
+        "y": -2,
         "scale": 0.25,
-        "name": "flagHolder",
+        "name": "flagHolderStatic",
         "rotation": 0
       }
     ]
@@ -113316,9 +113522,9 @@
     "fx": [
       {
         "x": 51,
-        "y": -5,
+        "y": -2,
         "scale": 0.25,
-        "name": "flagHolder",
+        "name": "flagHolderStatic",
         "rotation": 0
       }
     ]
@@ -113339,9 +113545,9 @@
     "fx": [
       {
         "x": 51,
-        "y": -5,
+        "y": -2,
         "scale": 0.25,
-        "name": "flagHolder",
+        "name": "flagHolderStatic",
         "rotation": 0
       }
     ]
@@ -113662,9 +113868,9 @@
     "fx": [
       {
         "x": 51,
-        "y": -5,
+        "y": -2,
         "scale": 0.25,
-        "name": "flagHolder",
+        "name": "flagHolderStatic",
         "rotation": 0
       }
     ]
@@ -113685,9 +113891,9 @@
     "fx": [
       {
         "x": 51,
-        "y": -5,
+        "y": -2,
         "scale": 0.25,
-        "name": "flagHolder",
+        "name": "flagHolderStatic",
         "rotation": 0
       }
     ]
@@ -126192,10 +126398,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 51,
-        "h": 46,
-        "rx": 990,
-        "ry": 991
+        "w": 81,
+        "h": 79,
+        "rx": 984,
+        "ry": 990
       }
     ],
     "fx": [
@@ -126215,10 +126421,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 42,
-        "h": 38,
-        "rx": 1000,
-        "ry": 999
+        "w": 81,
+        "h": 79,
+        "rx": 984,
+        "ry": 990
       }
     ],
     "fx": [
@@ -126238,10 +126444,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 42,
-        "h": 38,
-        "rx": 1000,
-        "ry": 999
+        "w": 81,
+        "h": 79,
+        "rx": 984,
+        "ry": 990
       }
     ],
     "fx": [
@@ -126261,10 +126467,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 42,
-        "h": 38,
-        "rx": 1000,
-        "ry": 999
+        "w": 81,
+        "h": 79,
+        "rx": 984,
+        "ry": 990
       }
     ],
     "fx": [
@@ -126284,10 +126490,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 43,
-        "h": 38,
-        "rx": 1000,
-        "ry": 999
+        "w": 81,
+        "h": 79,
+        "rx": 984,
+        "ry": 990
       }
     ],
     "fx": [
@@ -126307,10 +126513,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 41,
-        "h": 47,
-        "rx": 1002,
-        "ry": 991
+        "w": 81,
+        "h": 79,
+        "rx": 984,
+        "ry": 990
       }
     ],
     "fx": [
@@ -126555,9 +126761,9 @@
       {
         "x": 0,
         "y": 0,
-        "w": 47,
-        "h": 42,
-        "rx": 999,
+        "w": 57,
+        "h": 48,
+        "rx": 996,
         "ry": 999
       }
     ],
@@ -129522,10 +129728,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 59,
+        "w": 61,
         "h": 33,
-        "rx": 991,
-        "ry": 1018
+        "rx": 986,
+        "ry": 1011
       }
     ],
     "fx": []
@@ -129605,10 +129811,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 69,
-        "h": 61,
-        "rx": 998,
-        "ry": 988
+        "w": 113,
+        "h": 93,
+        "rx": 977,
+        "ry": 985
       }
     ],
     "fx": [
@@ -129628,10 +129834,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 112,
-        "h": 92,
-        "rx": 978,
-        "ry": 986
+        "w": 61,
+        "h": 33,
+        "rx": 1000,
+        "ry": 1015
       }
     ],
     "fx": []
@@ -129666,10 +129872,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 81,
-        "h": 72,
-        "rx": 989,
-        "ry": 998
+        "w": 83,
+        "h": 75,
+        "rx": 988,
+        "ry": 995
       }
     ],
     "fx": [
@@ -129689,10 +129895,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 73,
-        "h": 69,
-        "rx": 996,
-        "ry": 995
+        "w": 49,
+        "h": 26,
+        "rx": 1009,
+        "ry": 1021
       }
     ],
     "fx": []
@@ -134707,9 +134913,9 @@
         "x": 0,
         "y": 0,
         "w": 74,
-        "h": 64,
+        "h": 72,
         "rx": 988,
-        "ry": 989
+        "ry": 981
       }
     ],
     "fx": []
@@ -134722,9 +134928,9 @@
         "x": 0,
         "y": 0,
         "w": 74,
-        "h": 64,
+        "h": 72,
         "rx": 988,
-        "ry": 989
+        "ry": 981
       }
     ],
     "fx": []
@@ -134737,9 +134943,9 @@
         "x": 0,
         "y": 0,
         "w": 74,
-        "h": 64,
+        "h": 72,
         "rx": 988,
-        "ry": 989
+        "ry": 981
       }
     ],
     "fx": []
@@ -134752,9 +134958,9 @@
         "x": 0,
         "y": 0,
         "w": 74,
-        "h": 64,
+        "h": 72,
         "rx": 988,
-        "ry": 989
+        "ry": 981
       }
     ],
     "fx": []
@@ -134767,9 +134973,9 @@
         "x": 0,
         "y": 0,
         "w": 74,
-        "h": 64,
+        "h": 72,
         "rx": 988,
-        "ry": 989
+        "ry": 981
       }
     ],
     "fx": []
@@ -134782,9 +134988,9 @@
         "x": 0,
         "y": 0,
         "w": 74,
-        "h": 64,
+        "h": 72,
         "rx": 988,
-        "ry": 989
+        "ry": 981
       }
     ],
     "fx": []
@@ -134797,9 +135003,9 @@
         "x": 0,
         "y": 0,
         "w": 74,
-        "h": 64,
+        "h": 72,
         "rx": 988,
-        "ry": 989
+        "ry": 981
       }
     ],
     "fx": []
@@ -134812,9 +135018,9 @@
         "x": 0,
         "y": 0,
         "w": 74,
-        "h": 64,
+        "h": 72,
         "rx": 988,
-        "ry": 989
+        "ry": 981
       }
     ],
     "fx": []
