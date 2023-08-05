@@ -189,7 +189,7 @@ export interface Data {
     kingdoms: Kingdom[],
     kingsMarkets: KingsMarket[],
     landmarks: Landmark[],
-    leaguetypeevents: LeagueTypeEvent[],
+    leaguetypeEvents: LeagueTypeEvent[],
     leaguetypes: LeagueType[],
     leaguetypeTopXSizes: LeagueTypeTopXSize[],
     legendskills: LegendSkill[],
@@ -291,7 +291,7 @@ export interface Data {
     tmapnodes: TMapNode[],
     tmaps: TMap[],
     toolCategories: ToolCategory[],
-    townsfolk: Townsfolk[],
+    townsfolks: Townsfolk[],
     units: Unit[],
     version: Version,
     versionInfo: VersionInfo,
@@ -3066,10 +3066,6 @@ export interface ShoppingCart {
     c2LifetimeSpentMax?: number;
     C290daysMin?: number;
     C290daysMax?: number;
-}
-
-export interface Slums {
-    slum: Slum[];
 }
 
 export interface Slum {
