@@ -1796,16 +1796,29 @@
     "deco_anniversaryParty_name": "Празднование юбилея",
     "deco_tomsWorkshop_name": "Половина мастерской Тома",
     "deco_alicesWorkshop_name": "Половина мастерской Элли",
-    "ci_effect_componentProductionBoost": "+{0}% к производству компонентов цехом инструментальщика",
-    "ci_effect_refinedResourceProductionBoost": "+{0}% к производству ресурсов шлифовальным цехом",
-    "ci_effect_componentProductionBoost_tt": "Бонус к производству цеха инструментальщика:",
-    "ci_effect_refinedResourceProductionBoost_tt": "Бонус к производству шлифовального цеха:",
+    "ci_effect_componentQueueBoost": "+{0}% к производству компонентов цехом инструментальщика",
+    "ci_effect_refinedResourceQueueBoost": "+{0}% к производству ресурсов шлифовальным цехом",
+    "ci_effect_componentQueueBoost_tt": "Бонус к производству цеха инструментальщика:",
+    "ci_effect_refinedResourceQueueBoost_tt": "Бонус к производству шлифовального цеха:",
     "ci_blueprint_refinery": "Чертеж элемента постройки (производительность шлифовального цеха)",
     "ci_blueprint_toolsmith": "Чертеж элемента постройки (производительность цеха инструментальщика)",
     "ci_secondary_refinery": "Древний элемент (шлифовальный цех)",
     "ci_secondary_refinery_premium": "Премиум-элемент (шлифовальный цех)",
     "ci_secondary_toolsmith": "Древний элемент (цех инструментальщика)",
-    "ci_secondary_toolsmith_premium": "Премиум-элемент (цех инструментальщика)"
+    "ci_secondary_toolsmith_premium": "Премиум-элемент (цех инструментальщика)",
+    "deco_OktoberfestStrength_name": "Павильон кренделей силы",
+    "deco_octoberfestPartyEnd_name": "Беспорядок после празднования Октоберфеста",
+    "deco_octoberfestParty_name": "Пивной сад Октоберфеста",
+    "ci_appearance_octoberfestTower_flavour": "Выпьем за новаторские идеи! Здесь в бочках бродит знание и пенная струя новых замыслов наполняет кружки!",
+    "ci_appearance_octoberfestTower": "Пивная башня",
+    "ci_appearance_nomadTavern_flavour": "The nomads cherish the rules of hospitality. Guests feasts on fermented mares milk and juicy yak roast.",
+    "ci_appearance_nomadTavern": "Nomads tavern",
+    "ci_appearance_nomadGuardhouse_flavour": "While the nomads treat defeated foes with honor, saboteurs, spies, and traitors should not expect any mercy.",
+    "ci_appearance_nomadGuardhouse": "Nomads Guardhouse",
+    "ci_appearance_samuraiTavern_flavour": "&quot;Lanterns soft glow - Samurais sake flows - Old tales of war.&quot;",
+    "ci_appearance_samuraiTavern": "Samurai tavern",
+    "ci_appearance_samuraiGuardhouse_flavour": "The Sunrise Kingdoms dreaded Rōshigumi guard force is known for its relentlessness and brutal efficency.",
+    "ci_appearance_samuraiGuardhouse": "Samurai Guardhouse"
   },
   "dialogs": {
     "dialog_festival_desc": "Используй еду, чтобы устроить пир для твоих горожан! Во время проведения пира, скорость найма во всех твоих замках заметно увеличится. Чем больше пир, тем больше эффект.",
@@ -11564,10 +11577,21 @@
     "maintenance_discord_desc": "Нажмите кнопку ниже, чтобы присоединиться к серверу Empire в Discord и быть в курсе последних новостей и свежих обновлений.",
     "maintenance_freeze_desc": "Потребление еды и медовухи, а также оставшееся время действия активных бонусов временно заморожены для всех игроков.",
     "dialog_tempServer_overview_crossServerLive_desc": "В данном событии &quot;Внешние миры&quot; участвуют серверы обеих игр: Empire и Empire: Four Kingdoms. Вам предстоит помериться силами с игроками обеих версий игры. Некоторые функции могут быть временно отключены, чтобы сделать возможной такую игру между серверами.\n\n&quot;Внешние миры&quot; – особое событие, в ходе которого владельцы замков со всего мира могут состязаться друг с другом на временном сервере события.\n\n\nСобытие &quot;Внешние миры&quot; дает отважным владельцам замков шанс каждый день повышать свой рейтинг, используя силу, стратегию и навыки, чтобы покорить эти неизведанные земли и заполучить престижные награды.\n\nСпособы получения очков ранга в каждом событии свои, поэтому не забудьте ознакомиться с обзором системы начисления очков в начале каждого события.\n\n\nВо Внешних мирах полно заманчивых сокровищ, но не так много места: поторопитесь попасть туда, пока есть такая возможность!",
-    "alert_writeNewMessage_blocked_lowLevel": "Доступно с 16 уровня",
-    "alert_writeNewMessage_blocked_dailyLimit": "Достигнут суточный лимит",
+    "alert_writeNewMessage_blocked_lowLevel": "Ты сможешь отправлять сообщения другим игрокам, когда достигнешь 16 уровня. Повысь свой уровень",
+    "alert_writeNewMessage_blocked_dailyLimit": "Тобой достигнут суточный лимит. Больше сообщений сегодня отправить нельзя. Повтори попытку завтра.",
     "ci_effect_Meadreduction_tt": "Потребление медовухи в час:",
-    "panel_collector_HUDButton_Anniversary": "Рыцари стихий"
+    "panel_collector_HUDButton_Anniversary": "Рыцари \nстихий",
+    "research_need_three": "Требуется: {0} {1} ур., {2} {3} ур. и {4} {5} ур.",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction_desc": "Reduces the cooldown time of Daimyo castles. The costs are paid using the alliance funds.",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction_desc": "Reduces the cooldown time of samurai camps. The costs are paid using the alliance funds.",
+    "dialog_alliance_chronic44_22": "Attack cooldown forDaimyo castles temporarily decreased",
+    "dialog_alliance_chronic44_21": "Attack cooldown for Samurai camps temporarily decreased",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction_percentage": "Attack cooldown for for Daimyo castles: -{0}%",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction": "Attack cooldown for for Daimyo castles",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction_percentage": "Attack cooldown for samurai camps: -{0}%",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction": "Attack cooldown for samurai camps",
+    "dialog_generals_overview_selectPvEGeneral_tab": "Your generals",
+    "dialog_generals_overview_selectGeneral_tab": "Your generals"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% скорость передвижения армии при завоеваниях",
@@ -12605,7 +12629,8 @@
     "effect_description_allianceDefenseUnitAmountYardBonus": "+{0} к макс. численности войск поддержки альянса",
     "effect_description_hiddenSoldiersSpace": "Вместимость убежища для войск",
     "subscription_convenience_description_AutoCooldownSkip": "Включи эту функцию, чтобы автоматически использовать ускорители для сокращения времени отдыха между нападениями на определенных противников-NPC.",
-    "ci_effect_Meadreduction": "-{0}% потребления медовухи в час"
+    "ci_effect_Meadreduction": "-{0}% потребления медовухи в час",
+    "equip_effect_description_attackUnitAmountReinforcementBoost": "+{0}% к макс. числу воинов для последнего штурма"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Герой",
@@ -16354,7 +16379,15 @@
     "equipment_unique_2001": "Солнечные часы хитрости",
     "equipment_unique_2001_desc": "Превращает твою армию в отряд ослепительных солнечных воинов.",
     "equipment_unique_2002": "Потерянный якорь",
-    "equipment_unique_2002_desc": "Превращает твой замок в крепость из обломков кораблекрушения."
+    "equipment_unique_2002_desc": "Превращает твой замок в крепость из обломков кораблекрушения.",
+    "equipment_unique_2004": "Знамя хитрого тактика",
+    "equipment_unique_2004_desc": "Этот флаг привлекает посетителей со всего мира. Превращает твою армию в праздничную процессию баварцев, готовых штурмовать очередную пивную палатку.",
+    "equipment_unique_2005": "Знамя хитрого тактика",
+    "equipment_unique_2005_desc": "Этот флаг привлекает посетителей со всего мира. Превращает твою армию в праздничную процессию баварцев, готовых штурмовать очередную пивную палатку.",
+    "equipment_unique_2006": "Соленый оплот",
+    "equipment_unique_2006_desc": "Эта великолепная свежая выпечка покроет твой замок слоем щелочных кренделей. Пусть все знают, что твои подданные прониклись духом Октоберфеста!",
+    "equipment_unique_2003": "Пивной бочонок",
+    "equipment_unique_2003_desc": "Превращает твой замок в пенящуюся крепость."
   },
   "generic": {
     "activity": "Активность",
@@ -18297,7 +18330,7 @@
     "rewards_colon": "Награды:",
     "offerings_colon": "Дары:",
     "btn_discord_loginScreen_desc": "Присоединяйтесь к нашему сообществу, чтобы быть в курсе последних новостей",
-    "Messages_answer_prefix": "Re:"
+    "Messages_answer_prefix": "Re: {0}"
   },
   "help": {
     "help_location": "Здесь представлен глобальный обзор важного содержимого твоего замка и всех твоих аванпостов.",

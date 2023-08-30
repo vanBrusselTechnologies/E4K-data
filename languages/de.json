@@ -1796,16 +1796,29 @@
     "deco_anniversaryParty_name": "Jubiläumsparty",
     "deco_tomsWorkshop_name": "Toms Zwillingswerkstatt",
     "deco_alicesWorkshop_name": "Alices Zwillingswerkstatt",
-    "ci_effect_componentProductionBoost": "+{0} % Bonusertrag für Werkzeugschmiedkomponenten",
-    "ci_effect_refinedResourceProductionBoost": "+{0} % Bonusertrag für Raffinerieprodukte",
-    "ci_effect_componentProductionBoost_tt": "Werkzeugschmiedproduktionsbonus:",
-    "ci_effect_refinedResourceProductionBoost_tt": "Raffinerieproduktionsbonus:",
+    "ci_effect_componentQueueBoost": "+{0} % Bonusertrag für Werkzeugschmiedkomponenten",
+    "ci_effect_refinedResourceQueueBoost": "+{0} % Bonusertrag für Raffinerieprodukte",
+    "ci_effect_componentQueueBoost_tt": "Werkzeugschmiedproduktionsbonus:",
+    "ci_effect_refinedResourceQueueBoost_tt": "Raffinerieproduktionsbonus:",
     "ci_blueprint_refinery": "Raffinerieproduktionsplan",
     "ci_blueprint_toolsmith": "Werkzeugschmiedproduktionsplan",
     "ci_secondary_refinery": "Relikt-Raffinerieproduktions-Konstrukt",
     "ci_secondary_refinery_premium": "Premium-Raffinerieproduktions-Konstrukt",
     "ci_secondary_toolsmith": "Relikt-Werkzeugschmiedproduktions-Konstrukt",
-    "ci_secondary_toolsmith_premium": "Premium-Werkzeugschmiedproduktions-Konstrukt"
+    "ci_secondary_toolsmith_premium": "Premium-Werkzeugschmiedproduktions-Konstrukt",
+    "deco_OktoberfestStrength_name": "Brezel-Krafttest",
+    "deco_octoberfestPartyEnd_name": "Durcheinander nach dem Oktoberfest",
+    "deco_octoberfestParty_name": "Oktoberfest-Biergarten",
+    "ci_appearance_octoberfestTower_flavour": "Auf die Innovation! Hier lagern Fässer der Weisheit und Ideen fließen.",
+    "ci_appearance_octoberfestTower": "Bierturm",
+    "ci_appearance_nomadTavern_flavour": "The nomads cherish the rules of hospitality. Guests feasts on fermented mares milk and juicy yak roast.",
+    "ci_appearance_nomadTavern": "Nomads tavern",
+    "ci_appearance_nomadGuardhouse_flavour": "While the nomads treat defeated foes with honor, saboteurs, spies, and traitors should not expect any mercy.",
+    "ci_appearance_nomadGuardhouse": "Nomads Guardhouse",
+    "ci_appearance_samuraiTavern_flavour": "&quot;Lanterns soft glow - Samurais sake flows - Old tales of war.&quot;",
+    "ci_appearance_samuraiTavern": "Samurai tavern",
+    "ci_appearance_samuraiGuardhouse_flavour": "The Sunrise Kingdoms dreaded Rōshigumi guard force is known for its relentlessness and brutal efficency.",
+    "ci_appearance_samuraiGuardhouse": "Samurai Guardhouse"
   },
   "dialogs": {
     "dialog_festival_desc": "Setzt Nahrung ein, um ein Fest für Eure Bürger zu feiern!\nSolange das Fest läuft, wird die Rekrutierungsgeschwindigkeit in all Euren Burgen deutlich erhöht. Je größer das Fest ist, desto größer ist auch der Effekt.",
@@ -11564,10 +11577,21 @@
     "maintenance_discord_desc": "Klickt auf den Button unten, um den Discord-Server von Empire zu besuchen und alle Neuigkeiten und Updates zu erfahren.",
     "maintenance_freeze_desc": "Der Verbrauch von Nahrung und Met sowie die verbleibende Zeit von aktiven Boostern werden für alle Spieler vorübergehend angehalten.",
     "dialog_tempServer_overview_crossServerLive_desc": "Dieser Durchgang des Außenwelten-Events ist ein serverübergreifendes Event für Empire Web und Empire: Four Kingdoms. Ihr könnt Euch Spielern aus beiden Spielversionen stellen. Einige Spielfunktionen könnten deaktiviert sein, um das serverübergreifende Spielen zu ermöglichen.\n\nDas Außenwelten-Event ist ein besonderes Event, in dem Ihr gegen Burgherren aus aller Welt auf einem temporären Event-Server antreten könnt.\n\n\nDie Außenwelten locken mit prestigeträchtigen Belohnungen und testen Geschick, Strategie und Stärke von Burgherren, die ihre Position in der Rangliste verbessern und diese unerforschten Lande beherrschen müssen.\n\nMit jedem neuen Eventdurchgang ändert sich die Art, wie Ihr Punkte sammelt, seht Euch also die Regeln vor jedem Event an.\n\n\nAuch wenn es in den Außenwelten viele lukrative Schätze gibt, ist der Platz dort beschränkt. Betretet sie also, bevor sie zu voll sind.",
-    "alert_writeNewMessage_blocked_lowLevel": "Verfügbar ab Stufe 16",
-    "alert_writeNewMessage_blocked_dailyLimit": "Tägliches Limit erreicht",
+    "alert_writeNewMessage_blocked_lowLevel": "Ihr könnt anderen Spielern Nachrichten schicken, sobald Ihr Level 16 erreicht habt. Bitte erhöht Euer Erfahrungslevel.",
+    "alert_writeNewMessage_blocked_dailyLimit": "Ihr habt das Tageslimit erreicht. Ihr könnt heute keine weiteren Nachrichten verschicken. Bitte versucht es morgen erneut.",
     "ci_effect_Meadreduction_tt": "Metverbrauch pro Stunde:",
-    "panel_collector_HUDButton_Anniversary": "Elementarritter"
+    "panel_collector_HUDButton_Anniversary": "Elementar- \nRitter",
+    "research_need_three": "Benötigt: {0} auf Stufe {1}, {2} auf Stufe {3} und {4} auf Stufe {5}",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction_desc": "Reduces the cooldown time of Daimyo castles. The costs are paid using the alliance funds.",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction_desc": "Reduces the cooldown time of samurai camps. The costs are paid using the alliance funds.",
+    "dialog_alliance_chronic44_22": "Attack cooldown forDaimyo castles temporarily decreased",
+    "dialog_alliance_chronic44_21": "Attack cooldown for Samurai camps temporarily decreased",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction_percentage": "Attack cooldown for for Daimyo castles: -{0}%",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction": "Attack cooldown for for Daimyo castles",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction_percentage": "Attack cooldown for samurai camps: -{0}%",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction": "Attack cooldown for samurai camps",
+    "dialog_generals_overview_selectPvEGeneral_tab": "Your generals",
+    "dialog_generals_overview_selectGeneral_tab": "Your generals"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% Reisetempo der Armee bei Eroberungen",
@@ -12605,7 +12629,8 @@
     "effect_description_allianceDefenseUnitAmountYardBonus": "+{0} für die Allianzunterstützungs-Truppenkapazität",
     "effect_description_hiddenSoldiersSpace": "Einheitenkapazität der Zuflucht",
     "subscription_convenience_description_AutoCooldownSkip": "Aktiviert die Option, um mit Beschleunigern automatisch Cooldowns bei bestimmten NPC-Zielen zu überspringen.",
-    "ci_effect_Meadreduction": "-{0} % Metverbrauch pro Stunde"
+    "ci_effect_Meadreduction": "-{0} % Metverbrauch pro Stunde",
+    "equip_effect_description_attackUnitAmountReinforcementBoost": "+{0} % für Truppenkapazität für den letzten Ansturm"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Held",
@@ -16354,7 +16379,15 @@
     "equipment_unique_2001": "Sonnenuhr des Gerissenen",
     "equipment_unique_2001_desc": "Verwandelt Eure Armee in einen strahlenden Zug von Sonnenkriegern.",
     "equipment_unique_2002": "Verlorener Anker",
-    "equipment_unique_2002_desc": "Verwandelt Eure Burg in eine Schiffbruchfestung."
+    "equipment_unique_2002_desc": "Verwandelt Eure Burg in eine Schiffbruchfestung.",
+    "equipment_unique_2004": "Fahne des verworrenen Taktikers",
+    "equipment_unique_2004_desc": "Mit dieser Flagge werden Gäste aus aller Welt angelockt. Verwandelt Eure Armee in eine feierwütige Truppe von Bayern, die den nächsten Biergarten stürmen werden.",
+    "equipment_unique_2005": "Fahne des verworrenen Taktikers",
+    "equipment_unique_2005_desc": "Mit dieser Flagge werden Gäste aus aller Welt angelockt. Verwandelt Eure Armee in eine feierwütige Truppe von Bayern, die den nächsten Biergarten stürmen werden.",
+    "equipment_unique_2006": "Gesalzene Trutzburg",
+    "equipment_unique_2006_desc": "Mit diesem feinen, frischen Gebäck wird Eure Burg von Laugenbrötchen bedeckt. Alle sollen wissen, dass Euer Volk in Oktoberfeststimmung ist.",
+    "equipment_unique_2003": "Bierfass",
+    "equipment_unique_2003_desc": "Verwandelt Eure Burg in eine Schaumfestung."
   },
   "generic": {
     "activity": "Aktivität",
@@ -18297,7 +18330,7 @@
     "rewards_colon": "Belohnungen:",
     "offerings_colon": "Angebote:",
     "btn_discord_loginScreen_desc": "Schließt Euch der Community an und erfahrt alle Neuigkeiten",
-    "Messages_answer_prefix": "Re:"
+    "Messages_answer_prefix": "AW: {0}"
   },
   "help": {
     "help_location": "Hier seht Ihr eine globale Übersicht über die wichtigen \nBesitztümer Eurer Burg und aller Außenposten.",

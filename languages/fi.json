@@ -1796,16 +1796,29 @@
     "deco_anniversaryParty_name": "Vuosijuhlan vietto",
     "deco_tomsWorkshop_name": "Tomin kaksoispaja",
     "deco_alicesWorkshop_name": "Alicen kaksoispaja",
-    "ci_effect_componentProductionBoost": "+{0} % työkalusepän komponenttien bonustuotantoa",
-    "ci_effect_refinedResourceProductionBoost": "+{0} % jalostamon resurssien bonustuotantoa",
-    "ci_effect_componentProductionBoost_tt": "Työkalusepän tuotannon bonus:",
-    "ci_effect_refinedResourceProductionBoost_tt": "Jalostamotuotannon bonus:",
+    "ci_effect_componentQueueBoost": "+{0} % työkalusepän komponenttien bonustuotantoa",
+    "ci_effect_refinedResourceQueueBoost": "+{0} % jalostamon resurssien bonustuotantoa",
+    "ci_effect_componentQueueBoost_tt": "Työkalusepän tuotannon bonus:",
+    "ci_effect_refinedResourceQueueBoost_tt": "Jalostamotuotannon bonus:",
     "ci_blueprint_refinery": "Jalostamotuotannon piirustukset",
     "ci_blueprint_toolsmith": "Työkalusepän tuotannon piirustukset",
     "ci_secondary_refinery": "Jalostamotuotannon pyhäinjäännöslisäosa",
     "ci_secondary_refinery_premium": "Jalostamotuotannon premium-pyhäinjäännöslisäosa",
     "ci_secondary_toolsmith": "Työkalusepän tuotannon pyhäinjäännöslisäosa",
-    "ci_secondary_toolsmith_premium": "Työkalusepän tuotannon premium-pyhäinjäännöslisäosa"
+    "ci_secondary_toolsmith_premium": "Työkalusepän tuotannon premium-pyhäinjäännöslisäosa",
+    "deco_OktoberfestStrength_name": "Rinkelipaviljonki",
+    "deco_octoberfestPartyEnd_name": "Oktoberfestin jälkisotku",
+    "deco_octoberfestParty_name": "Oktoberfestin olutterassi",
+    "ci_appearance_octoberfestTower_flavour": "Kippis innovaatiolle! Täällä tiedon tynnyrit käyvät kohisten ja ideat virtaavat vapaasti.",
+    "ci_appearance_octoberfestTower": "Oluttorni",
+    "ci_appearance_nomadTavern_flavour": "The nomads cherish the rules of hospitality. Guests feasts on fermented mares milk and juicy yak roast.",
+    "ci_appearance_nomadTavern": "Nomads tavern",
+    "ci_appearance_nomadGuardhouse_flavour": "While the nomads treat defeated foes with honor, saboteurs, spies, and traitors should not expect any mercy.",
+    "ci_appearance_nomadGuardhouse": "Nomads Guardhouse",
+    "ci_appearance_samuraiTavern_flavour": "&quot;Lanterns soft glow - Samurais sake flows - Old tales of war.&quot;",
+    "ci_appearance_samuraiTavern": "Samurai tavern",
+    "ci_appearance_samuraiGuardhouse_flavour": "The Sunrise Kingdoms dreaded Rōshigumi guard force is known for its relentlessness and brutal efficency.",
+    "ci_appearance_samuraiGuardhouse": "Samurai Guardhouse"
   },
   "dialogs": {
     "dialog_festival_desc": "Järjestä kansalaisillesi kestit ruokaa käyttämällä! Värväys nopeutuu kaikissa linnoissasi huomattavasti, niin kauan kuin kestit jatkuvat. Mitä isommat kestit järjestät, sitä suurempi niiden vaikutus on.",
@@ -11564,10 +11577,21 @@
     "maintenance_discord_desc": "Valitsemalla alla olevan painikkeen voit liittyä Empiren Discord-palvelimelle, josta saat tuoreimmat uutiset ja päivitykset.",
     "maintenance_freeze_desc": "Kaikkien pelaajien ruoan ja siman kulutus sekä toiminnassa olevien tehosteiden jäljellä oleva aika pysähtyvät tilapäisesti.",
     "dialog_tempServer_overview_crossServerLive_desc": "Tämä Kaukomaiden versio on Empire Web- ja Empire: Four Kingdoms -pelien yhteispalvelintapahtuma. Kohtaat pelaajia pelin kummastakin versiosta. Joitakin pelitoimintoja on voitu poistaa käytöstä, jotta usean palvelimen yhteispeli on mahdollinen.\n\nKaukomaat on erikoistapahtuma, jossa voi kilpailla eri puolilla maailmaa asuvien linnanherrojen kanssa tilapäisellä tapahtumapalvelimella.\n\n\nTarjolla on arvovaltaisia palkintoja, joten Kaukomailla urheiden linnanherrojen on parannettava sijoitustaan ja dominoitava näitä kartoittamattomia maita taidon, strategian ja voiman avulla.\n\nSijoituspisteiden keruuperusteet muuttuvat tapahtuman jokaisessa versiossa, joten muista tutustua pisteytyksen yhteenvetoon kunkin tapahtuman alussa.\n\n\nVaikka Kaukomailla saattaa kuhista tuottoisia aarteita, tilaa on rajallisesti – joten osallistu ennen kuin Kaukomaat täyttyvät!",
-    "alert_writeNewMessage_blocked_lowLevel": "Saatavana tasolla 16",
-    "alert_writeNewMessage_blocked_dailyLimit": "Päiväraja saavutettu",
+    "alert_writeNewMessage_blocked_lowLevel": "Voit lähettää viestejä muille pelaajille päästyäsi tasolle 16. Nosta kokemustasoasi",
+    "alert_writeNewMessage_blocked_dailyLimit": "Olet saavuttanut päivittäisen rajan. Et voi lähettää enempää viestejä tänään. Yritä huomenna uudelleen.",
     "ci_effect_Meadreduction_tt": "Simankulutus tunnissa:",
-    "panel_collector_HUDButton_Anniversary": "Elementtiritarit"
+    "panel_collector_HUDButton_Anniversary": "Elementaali \nRitarit",
+    "research_need_three": "Vaatii: {0} - taso {1}, {2} - taso {3} ja {4} -taso {5}",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction_desc": "Reduces the cooldown time of Daimyo castles. The costs are paid using the alliance funds.",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction_desc": "Reduces the cooldown time of samurai camps. The costs are paid using the alliance funds.",
+    "dialog_alliance_chronic44_22": "Attack cooldown forDaimyo castles temporarily decreased",
+    "dialog_alliance_chronic44_21": "Attack cooldown for Samurai camps temporarily decreased",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction_percentage": "Attack cooldown for for Daimyo castles: -{0}%",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction": "Attack cooldown for for Daimyo castles",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction_percentage": "Attack cooldown for samurai camps: -{0}%",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction": "Attack cooldown for samurai camps",
+    "dialog_generals_overview_selectPvEGeneral_tab": "Your generals",
+    "dialog_generals_overview_selectGeneral_tab": "Your generals"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0} % armeijan matkanopeuteen valloitusten aikana",
@@ -12605,7 +12629,8 @@
     "effect_description_allianceDefenseUnitAmountYardBonus": "+{0} liittouman tukijoukkojen kapasiteettiin",
     "effect_description_hiddenSoldiersSpace": "Yksikkösuojan kapasiteetti",
     "subscription_convenience_description_AutoCooldownSkip": "Ota käyttöön ajanohitusten automaattinen käyttäminen tiettyjen ei-pelaaja-kohteiden odotusajan ohittamiseen.",
-    "ci_effect_Meadreduction": "-{0} % simankulutukseen tunnissa"
+    "ci_effect_Meadreduction": "-{0} % simankulutukseen tunnissa",
+    "equip_effect_description_attackUnitAmountReinforcementBoost": "+{0} % lopullisen hyökkäyksen joukkokapasiteettiin"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Sankari",
@@ -16354,7 +16379,15 @@
     "equipment_unique_2001": "Ovelien aurinkokello",
     "equipment_unique_2001_desc": "Muuttaa armeijasi häikäiseväksi aurinkosotureiden joukoksi.",
     "equipment_unique_2002": "Kadonnut ankkuri",
-    "equipment_unique_2002_desc": "Muuttaa linnasi haaksirikkoiseksi linnakkeeksi."
+    "equipment_unique_2002_desc": "Muuttaa linnasi haaksirikkoiseksi linnakkeeksi.",
+    "equipment_unique_2004": "Kieroutuneen taktikon sotalippu",
+    "equipment_unique_2004_desc": "Tämän lipun avulla nostatetaan kansainvälisten vieraiden henkeä. Muuta armeijasi baijerilaisten juhlakaravaaniksi, joka on valmis rynnäköimään seuraavalle olutterassille.",
+    "equipment_unique_2005": "Kieroutuneen taktikon sotalippu",
+    "equipment_unique_2005_desc": "Tämän lipun avulla nostatetaan kansainvälisten vieraiden henkeä. Muuta armeijasi baijerilaisten juhlakaravaaniksi, joka on valmis rynnäköimään seuraavalle olutterassille.",
+    "equipment_unique_2006": "Suolattu suojalinna",
+    "equipment_unique_2006_desc": "Tämä hieno ja tuore leivonnainen peittää linnasi rinkeleillä. Tee kaikille selväksi, että sinun väestäsi löytyy Oktoberfestin henkeä.",
+    "equipment_unique_2003": "Oluttynnyri",
+    "equipment_unique_2003_desc": "Muuttaa linnasi kuohuvaksi linnakkeeksi."
   },
   "generic": {
     "activity": "Toiminta",
@@ -18297,7 +18330,7 @@
     "rewards_colon": "Palkinnot:",
     "offerings_colon": "Lahjat:",
     "btn_discord_loginScreen_desc": "Liity yhteisöömme tuoreimpia uutisia varten",
-    "Messages_answer_prefix": "Vs:"
+    "Messages_answer_prefix": "Vs: {0}"
   },
   "help": {
     "help_location": "Täältä saat yleiskatsauksen linnaasi ja etuvartioihisi liittyvään sisältöön.",

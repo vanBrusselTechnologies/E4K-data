@@ -1796,16 +1796,29 @@
     "deco_anniversaryParty_name": "週年紀念派對慶祝活動",
     "deco_tomsWorkshop_name": "湯姆的雙子工坊",
     "deco_alicesWorkshop_name": "艾莉絲的雙子公坊",
-    "ci_effect_componentProductionBoost": "+{0}% 鍛工匠組件額外輸出",
-    "ci_effect_refinedResourceProductionBoost": "+{0}% 精煉廠資源額外輸出",
-    "ci_effect_componentProductionBoost_tt": "鍛工匠生產加成：",
-    "ci_effect_refinedResourceProductionBoost_tt": "精煉廠生產加成：",
+    "ci_effect_componentQueueBoost": "+{0}% 鍛工匠組件額外輸出",
+    "ci_effect_refinedResourceQueueBoost": "+{0}% 精煉廠資源額外輸出",
+    "ci_effect_componentQueueBoost_tt": "鍛工匠生產加成：",
+    "ci_effect_refinedResourceQueueBoost_tt": "精煉廠生產加成：",
     "ci_blueprint_refinery": "精煉廠生產藍圖",
     "ci_blueprint_toolsmith": "鍛工匠生產藍圖",
     "ci_secondary_refinery": "聖物精煉廠生產建築物品",
     "ci_secondary_refinery_premium": "頂級精煉廠生產建築物品",
     "ci_secondary_toolsmith": "聖物鍛工匠生產建築物品",
-    "ci_secondary_toolsmith_premium": "頂級鍛工匠生產建築物品"
+    "ci_secondary_toolsmith_premium": "頂級鍛工匠生產建築物品",
+    "deco_OktoberfestStrength_name": "蝴蝶餅鬥力亭",
+    "deco_octoberfestPartyEnd_name": "十月節派對後的狼藉場地",
+    "deco_octoberfestParty_name": "十月節啤酒園",
+    "ci_appearance_octoberfestTower_flavour": "敬創新一杯！在這裡，知識的美酒發酵，各種想法自由流動發展。",
+    "ci_appearance_octoberfestTower": "啤酒塔",
+    "ci_appearance_nomadTavern_flavour": "The nomads cherish the rules of hospitality. Guests feasts on fermented mares milk and juicy yak roast.",
+    "ci_appearance_nomadTavern": "Nomads tavern",
+    "ci_appearance_nomadGuardhouse_flavour": "While the nomads treat defeated foes with honor, saboteurs, spies, and traitors should not expect any mercy.",
+    "ci_appearance_nomadGuardhouse": "Nomads Guardhouse",
+    "ci_appearance_samuraiTavern_flavour": "&quot;Lanterns soft glow - Samurais sake flows - Old tales of war.&quot;",
+    "ci_appearance_samuraiTavern": "Samurai tavern",
+    "ci_appearance_samuraiGuardhouse_flavour": "The Sunrise Kingdoms dreaded Rōshigumi guard force is known for its relentlessness and brutal efficency.",
+    "ci_appearance_samuraiGuardhouse": "Samurai Guardhouse"
   },
   "dialogs": {
     "dialog_festival_desc": "用食物幫你的居民舉辦一場盛宴吧！在盛宴期間，你所有城堡的招募速度會大幅提高。宴會越大，效果越好。",
@@ -11564,10 +11577,21 @@
     "maintenance_discord_desc": "請點擊下方的按鈕來加入《Empire》的 Discord 伺服器，以掌握最新消息和最新狀態。",
     "maintenance_freeze_desc": "所有玩家的食物和蜜酒消耗，以及生效中強化品的剩餘時間均已暫時凍結。",
     "dialog_tempServer_overview_crossServerLive_desc": "此版本的域外活動是一場網頁版《Empire》和《帝國：四國霸戰》的跨伺服器活動。你將會與此兩版遊戲的玩家正面對決。為實現跨伺服器遊戲，某些遊戲功能可能會被停用。\n\n域外國度是一項特別活動，你可和世界各地的城堡領主在一個臨時活動伺服器上競爭。\n\n\n域外國度充滿崇高的獎勵，但需要英勇的城堡領主運用技巧、戰略和力量來收集每日排名得分，才能稱霸這些人跡未至的土地。\n\n如何收集每日排名得分的方式則會隨每一版活動變化，因此請務必在每場活動開始時查看得分概要。\n\n\n雖然域外國度充滿了誘人的寶藏，但當地空間有限，因此請務必在域外人滿為患之前進入！",
-    "alert_writeNewMessage_blocked_lowLevel": "於等級 16 開放",
-    "alert_writeNewMessage_blocked_dailyLimit": "已達每日訊息上限",
+    "alert_writeNewMessage_blocked_lowLevel": "等你達到等級 16，就可發送訊息給其他玩家。請提升你的經驗等級。",
+    "alert_writeNewMessage_blocked_dailyLimit": "你已達到每日上限。你今天已無法再發送更多訊息。請明天再試。",
     "ci_effect_Meadreduction_tt": "每小時蜜酒消耗量：",
-    "panel_collector_HUDButton_Anniversary": "元素騎士"
+    "panel_collector_HUDButton_Anniversary": "元素 \n騎士",
+    "research_need_three": "需要等級 {1} 的 {0}、等級 {3} 的 {2}，以及等級 {5} 的 {4}",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction_desc": "Reduces the cooldown time of Daimyo castles. The costs are paid using the alliance funds.",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction_desc": "Reduces the cooldown time of samurai camps. The costs are paid using the alliance funds.",
+    "dialog_alliance_chronic44_22": "Attack cooldown forDaimyo castles temporarily decreased",
+    "dialog_alliance_chronic44_21": "Attack cooldown for Samurai camps temporarily decreased",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction_percentage": "Attack cooldown for for Daimyo castles: -{0}%",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction": "Attack cooldown for for Daimyo castles",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction_percentage": "Attack cooldown for samurai camps: -{0}%",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction": "Attack cooldown for samurai camps",
+    "dialog_generals_overview_selectPvEGeneral_tab": "Your generals",
+    "dialog_generals_overview_selectGeneral_tab": "Your generals"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% 出征時的軍隊巡游速度",
@@ -12605,7 +12629,8 @@
     "effect_description_allianceDefenseUnitAmountYardBonus": "同盟支援部隊容量 +{0}",
     "effect_description_hiddenSoldiersSpace": "部隊照護所容量",
     "subscription_convenience_description_AutoCooldownSkip": "啟用自動使用略過時間的選項來略過對某些 NPC 目標的進攻冷卻時間。",
-    "ci_effect_Meadreduction": "-{0}% 每小時蜜酒消耗量"
+    "ci_effect_Meadreduction": "-{0}% 每小時蜜酒消耗量",
+    "equip_effect_description_attackUnitAmountReinforcementBoost": "最終突擊的部隊容量 +{0}%"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "英雄",
@@ -16354,7 +16379,15 @@
     "equipment_unique_2001": "狡智日晷",
     "equipment_unique_2001_desc": "將你的軍隊變成閃亮的太陽戰士野戰排。",
     "equipment_unique_2002": "失落之錨",
-    "equipment_unique_2002_desc": "將你的城堡變成船艦殘骸要塞。"
+    "equipment_unique_2002_desc": "將你的城堡變成船艦殘骸要塞。",
+    "equipment_unique_2004": "壞心眼策略家的旗幟",
+    "equipment_unique_2004_desc": "這面旗是用來召集來自世界各地的訪客。會將你的軍隊變成巴伐利亞的慶祝車隊，準備突擊下一座最上等的啤酒園。",
+    "equipment_unique_2005": "壞心眼策略家的旗幟",
+    "equipment_unique_2005_desc": "這面旗是用來召集來自世界各地的訪客。會將你的軍隊變成巴伐利亞的慶祝車隊，準備突擊下一座最上等的啤酒花園。",
+    "equipment_unique_2006": "風味據點",
+    "equipment_unique_2006_desc": "這個新鮮美味的糕點會用鹼水麵包覆蓋你的城堡。讓每個人都知道，十月節的精神就在你的子民身上。",
+    "equipment_unique_2003": "啤酒桶",
+    "equipment_unique_2003_desc": "將你的城堡變成泡沫般的要塞。"
   },
   "generic": {
     "activity": "活動",
@@ -18297,7 +18330,7 @@
     "rewards_colon": "獎勵：",
     "offerings_colon": "獻禮：",
     "btn_discord_loginScreen_desc": "請加入我們的社群以掌握最新消息",
-    "Messages_answer_prefix": "Re: {0}"
+    "Messages_answer_prefix": "回覆：{0}"
   },
   "help": {
     "help_location": "在這裡，你可以看到關於你的城堡和所有前哨重要內容的總體概況。",

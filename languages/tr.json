@@ -1796,16 +1796,29 @@
     "deco_anniversaryParty_name": "Yıl dönümü partisi kutlaması",
     "deco_tomsWorkshop_name": "Tomun ikiz atölyesi",
     "deco_alicesWorkshop_name": "Alicein ikiz atölyesi",
-    "ci_effect_componentProductionBoost": "Alet atölyesi parçaları için +%{0} bonus verim",
-    "ci_effect_refinedResourceProductionBoost": "Rafineri ham maddeleri için +%{0} bonus verim",
-    "ci_effect_componentProductionBoost_tt": "Alet atölyesi üretim bonusu",
-    "ci_effect_refinedResourceProductionBoost_tt": "Rafineri üretim bonusu:",
+    "ci_effect_componentQueueBoost": "Alet atölyesi parçaları için +%{0} bonus verim",
+    "ci_effect_refinedResourceQueueBoost": "Rafineri ham maddeleri için +%{0} bonus verim",
+    "ci_effect_componentQueueBoost_tt": "Alet atölyesi üretim bonusu",
+    "ci_effect_refinedResourceQueueBoost_tt": "Rafineri üretim bonusu:",
     "ci_blueprint_refinery": "Rafineri üretim tasarımı",
     "ci_blueprint_toolsmith": "Alet atölyesi üretim tasarımı",
     "ci_secondary_refinery": "Kalıntı rafineri üretimi inşa öğesi",
     "ci_secondary_refinery_premium": "Premium kalıntı rafineri üretimi inşa öğesi",
     "ci_secondary_toolsmith": "Kalıntı alet atölyesi üretimi inşa öğesi",
-    "ci_secondary_toolsmith_premium": "Premium kalıntı alet atölyesi üretimi inşa öğesi"
+    "ci_secondary_toolsmith_premium": "Premium kalıntı alet atölyesi üretimi inşa öğesi",
+    "deco_OktoberfestStrength_name": "Kraker Gücü Çadırı",
+    "deco_octoberfestPartyEnd_name": "Octoberfest parti sonrası dağınıklığı",
+    "deco_octoberfestParty_name": "Octoberfest bira bahçesi",
+    "ci_appearance_octoberfestTower_flavour": "Yeniliğe kadeh kaldıralım! Burada bilgi fıçıları fermente olur ve düşünceler serbestçe dolaşır.",
+    "ci_appearance_octoberfestTower": "Bira Kulesi",
+    "ci_appearance_nomadTavern_flavour": "The nomads cherish the rules of hospitality. Guests feasts on fermented mares milk and juicy yak roast.",
+    "ci_appearance_nomadTavern": "Nomads tavern",
+    "ci_appearance_nomadGuardhouse_flavour": "While the nomads treat defeated foes with honor, saboteurs, spies, and traitors should not expect any mercy.",
+    "ci_appearance_nomadGuardhouse": "Nomads Guardhouse",
+    "ci_appearance_samuraiTavern_flavour": "&quot;Lanterns soft glow - Samurais sake flows - Old tales of war.&quot;",
+    "ci_appearance_samuraiTavern": "Samurai tavern",
+    "ci_appearance_samuraiGuardhouse_flavour": "The Sunrise Kingdoms dreaded Rōshigumi guard force is known for its relentlessness and brutal efficency.",
+    "ci_appearance_samuraiGuardhouse": "Samurai Guardhouse"
   },
   "dialogs": {
     "dialog_festival_desc": "Yurttaşlarınıza bir şenlik düzenlemek için yiyecek kullanın!\nŞenlik devam ettiği sürece askere alma hızı tüm kalelerinizde belirgin şekilde artacak. Şenlik ne kadar büyük olursa, etkisi de o kadar büyük olur.",
@@ -11564,10 +11577,21 @@
     "maintenance_discord_desc": "Aşağıdaki düğmeye tıklayarak en son haberler ve güncellemeler için Empire Discord sunucusuna katıl.",
     "maintenance_freeze_desc": "Yiyecek ve bal şarabı tüketiminin yanı sıra kalan etkin güçlendirici sayısı, tüm oyuncular için geçici olarak dondurulmuştur.",
     "dialog_tempServer_overview_crossServerLive_desc": "Dış Krallıkların tekrarı, Empire Web ve Empire: Four Kingdoms sunucuları arasındaki bir etkinliktir. İki oyundan da oyuncularla karşı karşıya geleceksin. Sunuculararası oyuna imkân tanımak için bazı oyun özellikleri devre dışı bırakılabilir.\n\nDış Krallıklar, geçici bir etkinlik sunucusunda dünyanın dört bir tarafından kale lortlarıyla mücadele etme imkânı sağlayan özel bir etkinliktir.\n\n\nPrestijli ödülleri kapmak sana kalmış, Dış Krallıklar, cesur kale lortlarının sıralamada yükselmek ve bu keşfedilmemiş topraklara hükmetmek için yetenek, strateji ve güç kullanmasını gerektirir.\n\nSıralama için nasıl puan toplayacağın, etkinliğin her sürümünde değişir; bu yüzden her etkinliğin başında skora genel bakışa göz atmayı unutma.\n\n\nDış Krallıklar kazançlı hazinelerle dolup taşıyor olsa da oradaki alan sınırlıdır, kontenjan dolmadan önce girmeyi unutma!",
-    "alert_writeNewMessage_blocked_lowLevel": "16. seviyede mevcut",
-    "alert_writeNewMessage_blocked_dailyLimit": "Günlük sınıra ulaşıldı",
+    "alert_writeNewMessage_blocked_lowLevel": "16. seviyeye ulaşınca diğer oyunculara mesaj gönderebilirsin. Lütfen deneyim seviyeni artır",
+    "alert_writeNewMessage_blocked_dailyLimit": "Günlük sınıra ulaştın. Bugün daha fazla mesaj gönderemezsin. Lütfen yarın tekrar dene.",
     "ci_effect_Meadreduction_tt": "Saat başına bal şarabı tüketimi:",
-    "panel_collector_HUDButton_Anniversary": "Elementsel Şövalyeler"
+    "panel_collector_HUDButton_Anniversary": "Elementsel \nŞövalyeler",
+    "research_need_three": "Gereksinimler: {1}. seviye {0}, {3}. seviye {2} ve {5}. seviye {4}",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction_desc": "Reduces the cooldown time of Daimyo castles. The costs are paid using the alliance funds.",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction_desc": "Reduces the cooldown time of samurai camps. The costs are paid using the alliance funds.",
+    "dialog_alliance_chronic44_22": "Attack cooldown forDaimyo castles temporarily decreased",
+    "dialog_alliance_chronic44_21": "Attack cooldown for Samurai camps temporarily decreased",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction_percentage": "Attack cooldown for for Daimyo castles: -{0}%",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction": "Attack cooldown for for Daimyo castles",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction_percentage": "Attack cooldown for samurai camps: -{0}%",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction": "Attack cooldown for samurai camps",
+    "dialog_generals_overview_selectPvEGeneral_tab": "Your generals",
+    "dialog_generals_overview_selectGeneral_tab": "Your generals"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+%{0} - Fetihlerde ordu yolculuk hızı",
@@ -12605,7 +12629,8 @@
     "effect_description_allianceDefenseUnitAmountYardBonus": "+{0} ittifak desteği birlik kapasitesi",
     "effect_description_hiddenSoldiersSpace": "Birlik sığınağı kapasitesi",
     "subscription_convenience_description_AutoCooldownSkip": "Seçeneği etkinleştirerek belirli NPC hedeflerin saldırı bekleme süresini atlamak için otomatik olarak süre atlama kullan.",
-    "ci_effect_Meadreduction": "Saat başına -%{0} bal şarabı tüketimi"
+    "ci_effect_Meadreduction": "Saat başına -%{0} bal şarabı tüketimi",
+    "equip_effect_description_attackUnitAmountReinforcementBoost": "Son saldırı için +%{0} birlik kapasitesi"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Kahraman",
@@ -16354,7 +16379,15 @@
     "equipment_unique_2001": "Kurnazlık güneş saati",
     "equipment_unique_2001_desc": "Ordunu güneş savaşçılarından oluşan büyüleyici bir müfrezeye dönüştürür.",
     "equipment_unique_2002": "Kayıp çapa",
-    "equipment_unique_2002_desc": "Kaleni batık bir gemi hisarına dönüştürür."
+    "equipment_unique_2002_desc": "Kaleni batık bir gemi hisarına dönüştürür.",
+    "equipment_unique_2004": "Kıvrımlı Taktik Uzmanı Bayrağı",
+    "equipment_unique_2004_desc": "Bu bayrak, dünyanın dört bir yanından gelen ziyaretçileri toplamak için kullanılır. Ordunu kutlama yapan bir Bavyeralı kervanına dönüştür, sıradaki en iyi bira bahçesini talan etmeye hazır ol.",
+    "equipment_unique_2005": "Kıvrımlı Taktik Uzmanı Bayrağı",
+    "equipment_unique_2005_desc": "Bu bayrak, dünyanın dört bir yanından gelen ziyaretçileri toplamak için kullanılır. Ordunu kutlama yapan bir Bavyeralı kervanına dönüştür, sıradaki en iyi bira bahçesini talan etmeye hazır ol.",
+    "equipment_unique_2006": "Tuzlu Sığınak",
+    "equipment_unique_2006_desc": "Bu kaliteli ve taze hamur işi kaleni krakerlerle kaplar. Herkese Oktoberfest ruhunun, halkının içinde yattığını göster.",
+    "equipment_unique_2003": "Bira varili",
+    "equipment_unique_2003_desc": "Kaleni köpüklü bir hisara dönüştürür."
   },
   "generic": {
     "activity": "Etkinlik",
@@ -18297,7 +18330,7 @@
     "rewards_colon": "Ödüller:",
     "offerings_colon": "İkramlar:",
     "btn_discord_loginScreen_desc": "En son haberler için topluluğumuza katıl",
-    "Messages_answer_prefix": "Tekrar:"
+    "Messages_answer_prefix": "Ynt: {0}"
   },
   "help": {
     "help_location": "Buradan kalenin tüm önemli ögelerine ve ileri karakollara genel olarak bakabilirsin.",

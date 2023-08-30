@@ -16,9 +16,9 @@ readdirSync(__dirname + '/country/').forEach(function (file) {
 readdirSync(__dirname + '/data/').forEach(function (file) {
     let _data = require('./data/' + file);
     const _keys = Object.keys(_data);
-    if(_keys.length === 1)
-        if(Array.isArray(_data[_keys[0]]))
-            _data = _data[_keys[0]];
+    if (_keys.length === 1 && typeof _data[_keys[0]] === 'object') {
+        _data = Array.isArray(_data[_keys[0]]) ? _data[_keys[0]] : [_data[_keys[0]]];
+    }
     module.exports.data[file.replace('.json', '')] = _data;
 });
 

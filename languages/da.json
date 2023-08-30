@@ -1796,16 +1796,29 @@
     "deco_anniversaryParty_name": "Jubilæumsfest",
     "deco_tomsWorkshop_name": "Toms tvillingeværksted",
     "deco_alicesWorkshop_name": "Alices tvillingeværksted",
-    "ci_effect_componentProductionBoost": "+{0} % bonus på værktøjsmagerens produktion af komponenter",
-    "ci_effect_refinedResourceProductionBoost": "+{0} % bonus på raffinaderiets ressourceoutput",
-    "ci_effect_componentProductionBoost_tt": "Værktøjsmagerens produktionsbonus:",
-    "ci_effect_refinedResourceProductionBoost_tt": "Raffinaderiets produktionsbonus:",
+    "ci_effect_componentQueueBoost": "+{0} % bonus på værktøjsmagerens produktion af komponenter",
+    "ci_effect_refinedResourceQueueBoost": "+{0} % bonus på raffinaderiets ressourceoutput",
+    "ci_effect_componentQueueBoost_tt": "Værktøjsmagerens produktionsbonus:",
+    "ci_effect_refinedResourceQueueBoost_tt": "Raffinaderiets produktionsbonus:",
     "ci_blueprint_refinery": "Raffinaderiets produktionsblueprint",
     "ci_blueprint_toolsmith": "Værktøjsmagerens produktionsblueprint",
     "ci_secondary_refinery": "Relikviebyggeartikel til raffinaderiet",
     "ci_secondary_refinery_premium": "Premium-byggeartikel til raffinaderiet",
     "ci_secondary_toolsmith": "Relikviebyggeartikel til værktøjsmagerens værksted",
-    "ci_secondary_toolsmith_premium": "Premium-byggeartikel til værktøjsmagerens værksted"
+    "ci_secondary_toolsmith_premium": "Premium-byggeartikel til værktøjsmagerens værksted",
+    "deco_OktoberfestStrength_name": "Hammermaskine med kringle",
+    "deco_octoberfestPartyEnd_name": "Oktoberfesten dagen derpå",
+    "deco_octoberfestParty_name": "Oktoberfest-ølhave",
+    "ci_appearance_octoberfestTower_flavour": "Skål for innovation! Her flyder idéerne og entusiasmen frit fra hjertet.",
+    "ci_appearance_octoberfestTower": "Øltårn",
+    "ci_appearance_nomadTavern_flavour": "The nomads cherish the rules of hospitality. Guests feasts on fermented mares milk and juicy yak roast.",
+    "ci_appearance_nomadTavern": "Nomads tavern",
+    "ci_appearance_nomadGuardhouse_flavour": "While the nomads treat defeated foes with honor, saboteurs, spies, and traitors should not expect any mercy.",
+    "ci_appearance_nomadGuardhouse": "Nomads Guardhouse",
+    "ci_appearance_samuraiTavern_flavour": "&quot;Lanterns soft glow - Samurais sake flows - Old tales of war.&quot;",
+    "ci_appearance_samuraiTavern": "Samurai tavern",
+    "ci_appearance_samuraiGuardhouse_flavour": "The Sunrise Kingdoms dreaded Rōshigumi guard force is known for its relentlessness and brutal efficency.",
+    "ci_appearance_samuraiGuardhouse": "Samurai Guardhouse"
   },
   "dialogs": {
     "dialog_festival_desc": "Brug mad til at holde en fest for dine borgere! Rekrutteringshastigheden vil forøges på i jeres borge, så længe festen varer. Jo større festen er, jo større er effekten.",
@@ -11564,10 +11577,21 @@
     "maintenance_discord_desc": "Klik på knappen nedenfor for at tilmelde dig Empires Discord-server og modtage de seneste nyheder og opdateringer.",
     "maintenance_freeze_desc": "Forbruget af mad og mjød plus de aktive boosteres resterende tid er midlertidigt sat på pause for alle spillere.",
     "dialog_tempServer_overview_crossServerLive_desc": "Denne udgave af Det Yderste Rige spilles på tværs af Empires og Empire: Four Kingdoms servere. Du vil møde spillere fra begge versioner af spillet. Noget indhold kan være slået fra for at gøre det muligt at spille på tværs af serverne.\n\nDet Yderste Rige er en særlig begivenhed, hvori du kan konkurrere med borgherrer fra hele verden på en ny midlertidig begivenhedsserver.\n\n\nI Det Yderste Rige er der prestigefyldte belønninger på højkant, så det kræver mod og dygtighed at stige op ad ranglisten og tage kontrol over disse fjerne territorier.\n\nOptjeningen af ranglistepoint er forskellig i hver udgave af begivenheden, så sørg for at tjekke pointoversigten ud i starten af hver begivenhed.\n\n\nSelv om det vrimler med skatte i Det Yderste Rige, er pladsen trang, så sørg for at skynde dig derhen, før der ikke længere er plads!",
-    "alert_writeNewMessage_blocked_lowLevel": "Fås på niveau 16",
-    "alert_writeNewMessage_blocked_dailyLimit": "Daglig grænse nået",
+    "alert_writeNewMessage_blocked_lowLevel": "Du kan sende beskeder til andre spillere fra niveau 16. Øg dit erfaringsniveau",
+    "alert_writeNewMessage_blocked_dailyLimit": "Du har nået den daglige grænse. Du kan ikke sende flere beskeder i dag. Prøv igen i morgen.",
     "ci_effect_Meadreduction_tt": "Mjødforbrug i timen:",
-    "panel_collector_HUDButton_Anniversary": "Elementære riddere"
+    "panel_collector_HUDButton_Anniversary": "Elementære \nriddere",
+    "research_need_three": "Kræver: {0} på niveau {1}, {2} på niveau {3}, og {4} på niveau {5}",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction_desc": "Reduces the cooldown time of Daimyo castles. The costs are paid using the alliance funds.",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction_desc": "Reduces the cooldown time of samurai camps. The costs are paid using the alliance funds.",
+    "dialog_alliance_chronic44_22": "Attack cooldown forDaimyo castles temporarily decreased",
+    "dialog_alliance_chronic44_21": "Attack cooldown for Samurai camps temporarily decreased",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction_percentage": "Attack cooldown for for Daimyo castles: -{0}%",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction": "Attack cooldown for for Daimyo castles",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction_percentage": "Attack cooldown for samurai camps: -{0}%",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction": "Attack cooldown for samurai camps",
+    "dialog_generals_overview_selectPvEGeneral_tab": "Your generals",
+    "dialog_generals_overview_selectGeneral_tab": "Your generals"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0} % hærens rejsehastighed under erobringer",
@@ -12605,7 +12629,8 @@
     "effect_description_allianceDefenseUnitAmountYardBonus": "+{0} til kapaciteten for alliancens hjælpetropper",
     "effect_description_hiddenSoldiersSpace": "Kapacitet for beskyttelsesrum til enheder",
     "subscription_convenience_description_AutoCooldownSkip": "Aktivér denne indstilling for automatisk at bruge tidstilbud til at springe nedkølingstid over for bestemte fiktive mål.",
-    "ci_effect_Meadreduction": "-{0} % mjødforbrug i timen"
+    "ci_effect_Meadreduction": "-{0} % mjødforbrug i timen",
+    "equip_effect_description_attackUnitAmountReinforcementBoost": "+{0} % på troppekapaciteten for slutangreb"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Helt",
@@ -16354,7 +16379,15 @@
     "equipment_unique_2001": "Snedighedens solur",
     "equipment_unique_2001_desc": "Forvandler din hær til en blændende flok solkrigere.",
     "equipment_unique_2002": "Forsvundet anker",
-    "equipment_unique_2002_desc": "Forvandler din borg til et skibsvrag."
+    "equipment_unique_2002_desc": "Forvandler din borg til et skibsvrag.",
+    "equipment_unique_2004": "Den kringlede taktikers banner",
+    "equipment_unique_2004_desc": "Med dette flag kan du tiltrække gæster fra hele verden. Forvandler din hær til en flok bayerske svirebrødre, der er klar til at storme det næste øltelt.",
+    "equipment_unique_2005": "Den kringlede taktikers banner",
+    "equipment_unique_2005_desc": "Med dette flag kan du tiltrække gæster fra hele verden. Forvandler din hær til en flok bayerske svirebrødre, der er klar til at storme det næste øltelt.",
+    "equipment_unique_2006": "Saltet fæstningsværk",
+    "equipment_unique_2006_desc": "Denne fine og friske kringle indhyller din borg i et fint lag ludruller. Lad alle vide, at oktoberfestens ånd har et stærkt greb i dit folk.",
+    "equipment_unique_2003": "Øltønde",
+    "equipment_unique_2003_desc": "Forvandler din borg til et skummende fæstningsværk."
   },
   "generic": {
     "activity": "Aktivitet",
@@ -18297,7 +18330,7 @@
     "rewards_colon": "Belønninger:",
     "offerings_colon": "Gaver:",
     "btn_discord_loginScreen_desc": "Besøg vores fællesskab for at få de seneste nyheder",
-    "Messages_answer_prefix": "Vedr.:"
+    "Messages_answer_prefix": "Vedr.: {0}"
   },
   "help": {
     "help_location": "Her har I en global oversigt over det vigtige indhold i jeres borg og alle jeres forposter.",

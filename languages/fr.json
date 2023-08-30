@@ -1796,16 +1796,29 @@
     "deco_anniversaryParty_name": "Fête danniversaire",
     "deco_tomsWorkshop_name": "Atelier jumeau de Tom",
     "deco_alicesWorkshop_name": "Atelier jumeau dAlice",
-    "ci_effect_componentProductionBoost": "Bonus de rendement pour les composants de loutilleur : +{0}%",
-    "ci_effect_refinedResourceProductionBoost": "Bonus de rendement pour les ressources de la raffinerie : +{0}%",
-    "ci_effect_componentProductionBoost_tt": "Bonus de production doutilleur :",
-    "ci_effect_refinedResourceProductionBoost_tt": "Bonus de production de raffinerie :",
+    "ci_effect_componentQueueBoost": "Bonus de rendement pour les composants de loutilleur : +{0}%",
+    "ci_effect_refinedResourceQueueBoost": "Bonus de rendement pour les ressources de la raffinerie : +{0}%",
+    "ci_effect_componentQueueBoost_tt": "Bonus de production doutilleur :",
+    "ci_effect_refinedResourceQueueBoost_tt": "Bonus de production de raffinerie :",
     "ci_blueprint_refinery": "Plan de production de raffinerie",
     "ci_blueprint_toolsmith": "Plan de production doutilleur",
     "ci_secondary_refinery": "Objet de construction relique (raffinerie)",
     "ci_secondary_refinery_premium": "Objet de construction premium (raffinerie)",
     "ci_secondary_toolsmith": "Objet de construction relique (outilleur)",
-    "ci_secondary_toolsmith_premium": "Objet de construction premium (outilleur)"
+    "ci_secondary_toolsmith_premium": "Objet de construction premium (outilleur)",
+    "deco_OktoberfestStrength_name": "Mailloche foraine aux bretzels",
+    "deco_octoberfestPartyEnd_name": "Désorde post-Oktoberfest",
+    "deco_octoberfestParty_name": "Jardin de la bière de lOktoberfest",
+    "ci_appearance_octoberfestTower_flavour": "Vive linnovation ! Ici, les fûts du savoir fermentent et les idées sécoulent librement.",
+    "ci_appearance_octoberfestTower": "Tour de bière",
+    "ci_appearance_nomadTavern_flavour": "The nomads cherish the rules of hospitality. Guests feasts on fermented mares milk and juicy yak roast.",
+    "ci_appearance_nomadTavern": "Nomads tavern",
+    "ci_appearance_nomadGuardhouse_flavour": "While the nomads treat defeated foes with honor, saboteurs, spies, and traitors should not expect any mercy.",
+    "ci_appearance_nomadGuardhouse": "Nomads Guardhouse",
+    "ci_appearance_samuraiTavern_flavour": "&quot;Lanterns soft glow - Samurais sake flows - Old tales of war.&quot;",
+    "ci_appearance_samuraiTavern": "Samurai tavern",
+    "ci_appearance_samuraiGuardhouse_flavour": "The Sunrise Kingdoms dreaded Rōshigumi guard force is known for its relentlessness and brutal efficency.",
+    "ci_appearance_samuraiGuardhouse": "Samurai Guardhouse"
   },
   "dialogs": {
     "dialog_festival_desc": "Utilisez de la nourriture pour organiser une fête pour vos villageois ! Tant que la fête durera, la vitesse de recrutement sera considérablement augmentée dans tous vos châteaux. Plus la fête est grande, plus son effet est important.",
@@ -11564,10 +11577,21 @@
     "maintenance_discord_desc": "Cliquez sur le bouton ci-dessous pour rejoindre le serveur Discord dEmpire afin de découvrir les actualités et les mises à jour.",
     "maintenance_freeze_desc": "La consommation de nourriture et dhydromel, ainsi que le temps restant des boosts actifs sont momentanément interrompus pour tous les joueurs.",
     "dialog_tempServer_overview_crossServerLive_desc": "Cette itération des Royaumes extérieurs est un événement interserveurs joignant la version web dEmpire et Empire: Four Kingdoms. Vous affronterez des joueurs venant des deux versions du jeu. Il se peut que certaines fonctionnalités en jeu soient désactivées pour permettre de jouer en interserveur.\n\nLes Royaumes extérieurs représentent un événement spécial au cours duquel vous pouvez affronter des seigneurs du monde entier sur un serveur dévénement temporaire.\n\n\nAvec de prestigieuses récompenses à la clé, les Royaumes extérieurs mettent en scène de courageux seigneurs qui doivent utiliser leurs compétences, et faire preuve de force et stratégie afin de se hisser en haut du classement et dominer ces terres encore inconnues.\n\nLa façon dobtenir des points dans le classement varie à chaque nouvelle version de lévénement. Noubliez donc pas de vérifier laperçu des points au début de chacun deux.\n\n\nSil est vrai que les Royaumes extérieurs grouillent de trésors inestimables, la place, quant à elle, est limitée. Alors, allez-y vite avant quils ne soient pleins !",
-    "alert_writeNewMessage_blocked_lowLevel": "Disponible au niveau 16",
-    "alert_writeNewMessage_blocked_dailyLimit": "Limite par jour atteinte",
+    "alert_writeNewMessage_blocked_lowLevel": "Vous pourrez envoyer des messages aux autres joueurs une fois que vous aurez atteint le niveau 16. Veuillez améliorer votre niveau dexpérience.",
+    "alert_writeNewMessage_blocked_dailyLimit": "Vous avez atteint la limite quotidienne. Vous ne pouvez plus envoyer de messages aujourdhui. Veuillez réessayer demain.",
     "ci_effect_Meadreduction_tt": "Consommation dhydromel par heure :",
-    "panel_collector_HUDButton_Anniversary": "Chevaliers élémentaires"
+    "panel_collector_HUDButton_Anniversary": "Chevaliers \ndéléments",
+    "research_need_three": "Requis : {0} niveau {1}, {2} niveau {3}, et {4} niveau {5}",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction_desc": "Reduces the cooldown time of Daimyo castles. The costs are paid using the alliance funds.",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction_desc": "Reduces the cooldown time of samurai camps. The costs are paid using the alliance funds.",
+    "dialog_alliance_chronic44_22": "Attack cooldown forDaimyo castles temporarily decreased",
+    "dialog_alliance_chronic44_21": "Attack cooldown for Samurai camps temporarily decreased",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction_percentage": "Attack cooldown for for Daimyo castles: -{0}%",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction": "Attack cooldown for for Daimyo castles",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction_percentage": "Attack cooldown for samurai camps: -{0}%",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction": "Attack cooldown for samurai camps",
+    "dialog_generals_overview_selectPvEGeneral_tab": "Your generals",
+    "dialog_generals_overview_selectGeneral_tab": "Your generals"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "Vitesse de déplacement de larmée lors des conquêtes : +{0} %",
@@ -12605,7 +12629,8 @@
     "effect_description_allianceDefenseUnitAmountYardBonus": "+{0} en capacité en troupes du soutien dalliance",
     "effect_description_hiddenSoldiersSpace": "Capacité de protection dunités",
     "subscription_convenience_description_AutoCooldownSkip": "Activez loption pour utiliser automatiquement des accélérateurs pour passer le temps de recharge de certaines cibles PNJ.",
-    "ci_effect_Meadreduction": "Consommation dhydromel par heure : -{0} %"
+    "ci_effect_Meadreduction": "Consommation dhydromel par heure : -{0} %",
+    "equip_effect_description_attackUnitAmountReinforcementBoost": "Capacité des troupes pour lassaut final : +{0} %"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Héros",
@@ -16354,7 +16379,15 @@
     "equipment_unique_2001": "Cadran solaire du Rusé",
     "equipment_unique_2001_desc": "Transforme votre armée en éblouissant peloton de guerriers du soleil.",
     "equipment_unique_2002": "Ancre perdue",
-    "equipment_unique_2002_desc": "Transforme votre château en forteresse en ruine."
+    "equipment_unique_2002_desc": "Transforme votre château en forteresse en ruine.",
+    "equipment_unique_2004": "Bannière du tacticien corrompu",
+    "equipment_unique_2004_desc": "Ce drapeau sert à rallier les visiteurs du monde entier. Transformez votre armée en une caravane festive de Bavarois, prêts à dévaster le prochain jardin de bière quils croiseront.",
+    "equipment_unique_2005": "Bannière du tacticien corrompu",
+    "equipment_unique_2005_desc": "Ce drapeau sert à rallier les visiteurs du monde entier. Transformez votre armée en une caravane festive de Bavarois, prêts à dévaster le prochain jardin de bière quils croiseront.",
+    "equipment_unique_2006": "Bastion salé",
+    "equipment_unique_2006_desc": "Cette délicieuse et délicate pâtisserie recouvre votre château de pain salé. Prouvez à tout le monde que lesprit de lOktoberfest vibre en vous.",
+    "equipment_unique_2003": "Fût de bière",
+    "equipment_unique_2003_desc": "Transforme votre château en fort mousseux."
   },
   "generic": {
     "activity": "Activité",
@@ -18297,7 +18330,7 @@
     "rewards_colon": "Récompenses :",
     "offerings_colon": "Offres :",
     "btn_discord_loginScreen_desc": "Rejoignez la communauté pour découvrir les dernières nouveautés",
-    "Messages_answer_prefix": "Re :"
+    "Messages_answer_prefix": "Re : {0}"
   },
   "help": {
     "help_location": "Ici, vous avez un aperçu global des contenus importants de votre château et de tous vos avant-postes.",

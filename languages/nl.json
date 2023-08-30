@@ -1796,16 +1796,29 @@
     "deco_anniversaryParty_name": "Verjaardagsfeestje",
     "deco_tomsWorkshop_name": "Toms halve werkplaats",
     "deco_alicesWorkshop_name": "Alice halve werkplaats",
-    "ci_effect_componentProductionBoost": "+{0}% bonusproductie voor tuigsmidcomponenten",
-    "ci_effect_refinedResourceProductionBoost": "+{0}% bonusproductie voor bouwstoffen verrijkingsfabriek",
-    "ci_effect_componentProductionBoost_tt": "Bonus tuigsmidproductie:",
-    "ci_effect_refinedResourceProductionBoost_tt": "Bonus verrijkingsfabriekproductie:",
+    "ci_effect_componentQueueBoost": "+{0}% bonusproductie voor tuigsmidcomponenten",
+    "ci_effect_refinedResourceQueueBoost": "+{0}% bonusproductie voor bouwstoffen verrijkingsfabriek",
+    "ci_effect_componentQueueBoost_tt": "Bonus tuigsmidproductie:",
+    "ci_effect_refinedResourceQueueBoost_tt": "Bonus verrijkingsfabriekproductie:",
     "ci_blueprint_refinery": "Productie-ontwerp verrijkingsfabriek",
     "ci_blueprint_toolsmith": "Productie-ontwerp tuigsmidproductie",
     "ci_secondary_refinery": "Bouwitem relikwie-verrijkingsfabriekproductie",
     "ci_secondary_refinery_premium": "Bouwitem premium verrijkingsfabriekproductie",
     "ci_secondary_toolsmith": "Bouwitem relikwie-tuigsmidproductie",
-    "ci_secondary_toolsmith_premium": "Bouwitem premium tuigsmidproductie"
+    "ci_secondary_toolsmith_premium": "Bouwitem premium tuigsmidproductie",
+    "deco_OktoberfestStrength_name": "Paviljoen pretzelpower",
+    "deco_octoberfestPartyEnd_name": "Puinhoop na Oktoberfest-afterparty",
+    "deco_octoberfestParty_name": "Biertuin Oktoberfest",
+    "ci_appearance_octoberfestTower_flavour": "Proost op innovatie! Hier fermenteren de vaten van kennis en ideeën naar hartenlust.",
+    "ci_appearance_octoberfestTower": "Biertoren",
+    "ci_appearance_nomadTavern_flavour": "The nomads cherish the rules of hospitality. Guests feasts on fermented mares milk and juicy yak roast.",
+    "ci_appearance_nomadTavern": "Nomads tavern",
+    "ci_appearance_nomadGuardhouse_flavour": "While the nomads treat defeated foes with honor, saboteurs, spies, and traitors should not expect any mercy.",
+    "ci_appearance_nomadGuardhouse": "Nomads Guardhouse",
+    "ci_appearance_samuraiTavern_flavour": "&quot;Lanterns soft glow - Samurais sake flows - Old tales of war.&quot;",
+    "ci_appearance_samuraiTavern": "Samurai tavern",
+    "ci_appearance_samuraiGuardhouse_flavour": "The Sunrise Kingdoms dreaded Rōshigumi guard force is known for its relentlessness and brutal efficency.",
+    "ci_appearance_samuraiGuardhouse": "Samurai Guardhouse"
   },
   "dialogs": {
     "dialog_festival_desc": "Gebruik voedsel om een festival te geven voor uw burgers! Zolang het festival duurt, wordt er in al uw kastelen aanmerkelijk sneller gerekruteerd. Hoe groter het festival, hoe groter het effect.",
@@ -11564,10 +11577,21 @@
     "maintenance_discord_desc": "Klik op de onderstaande knop lid te worden van de Empire-Discordserver voor het laatste nieuws en updates.",
     "maintenance_freeze_desc": "Consumptie van voedsel en honingwijn en de overblijvende tijd van actieve boosters zijn tijdelijk gepauzeerd voor alle spelers.",
     "dialog_tempServer_overview_crossServerLive_desc": "Deze versie van de Buitenrijken is een cross-server-event voor Empire Web en Empire: Four Kingdoms. Je neemt het op tegen spelers van beide versies van het spel. Sommige spelfuncties kunnen uitgeschakeld worden om cross-server gameplay mogelijk te maken.\n\nDe Buitenrijken is een speciaal event waarin je het kunt opnemen tegen kasteelheren van over de hele wereld op een tijdelijke eventserver.\n\n\nIn de Buitenrijken zijn waardevolle beloningen te winnen, waarvoor kasteelheren vaardigheden, strategie en kracht moeten gebruiken om hun positie in het klassement te verbeteren en deze onbekende streken te overheersen.\n\nHoe je punten verzamelt voor het klassement verandert met elke editie van het event. Zorg dat je het puntenoverzicht bekijkt bij de start van elk event.\n\n\nDe Buitenrijken mogen dan wemelen van de schatten, het aantal plaatsen is beperkt. Zorg ervoor dat je deelneemt voordat alle plaatsen zijn ingenomen!",
-    "alert_writeNewMessage_blocked_lowLevel": "Beschikbaar op level 16",
-    "alert_writeNewMessage_blocked_dailyLimit": "Dagelijkse limiet bereikt",
+    "alert_writeNewMessage_blocked_lowLevel": "Je kunt berichten sturen naar andere spelers wanneer je level 16 hebt bereikt. Verhoog je ervaringsniveau",
+    "alert_writeNewMessage_blocked_dailyLimit": "Je hebt de dagelijkse limiet bereikt. Je kunt vandaag geen berichten meer versturen. Probeer het morgen opnieuw.",
     "ci_effect_Meadreduction_tt": "Honingwijnconsumptie per uur:",
-    "panel_collector_HUDButton_Anniversary": "Elementaire ridders"
+    "panel_collector_HUDButton_Anniversary": "Natuurgeest \nRidders",
+    "research_need_three": "Vereist: {0} op level {1}, {2} op level {3} en {4} op level {5}",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction_desc": "Reduces the cooldown time of Daimyo castles. The costs are paid using the alliance funds.",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction_desc": "Reduces the cooldown time of samurai camps. The costs are paid using the alliance funds.",
+    "dialog_alliance_chronic44_22": "Attack cooldown forDaimyo castles temporarily decreased",
+    "dialog_alliance_chronic44_21": "Attack cooldown for Samurai camps temporarily decreased",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction_percentage": "Attack cooldown for for Daimyo castles: -{0}%",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction": "Attack cooldown for for Daimyo castles",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction_percentage": "Attack cooldown for samurai camps: -{0}%",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction": "Attack cooldown for samurai camps",
+    "dialog_generals_overview_selectPvEGeneral_tab": "Your generals",
+    "dialog_generals_overview_selectGeneral_tab": "Your generals"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% reissnelheid leger tijdens veroveringen",
@@ -12605,7 +12629,8 @@
     "effect_description_allianceDefenseUnitAmountYardBonus": "+{0} voor troepencapaciteit bondgenootschapsondersteuning",
     "effect_description_hiddenSoldiersSpace": "Capaciteit eenhedenschuilplaats",
     "subscription_convenience_description_AutoCooldownSkip": "Schakel deze optie in om automatisch tijdsprongen te gebruiken om de aanvalsafkoeling van bepaalde NPC-doelwitten over te slaan.",
-    "ci_effect_Meadreduction": "-{0}% honingwijnconsumptie per uur"
+    "ci_effect_Meadreduction": "-{0}% honingwijnconsumptie per uur",
+    "equip_effect_description_attackUnitAmountReinforcementBoost": "+{0}% troepencapaciteit voor eindaanval"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Held",
@@ -16354,7 +16379,15 @@
     "equipment_unique_2001": "Zonnewijzer van de sluwen",
     "equipment_unique_2001_desc": "Verandert je leger in een duizelingwekkend peloton vol zonnekrijgers.",
     "equipment_unique_2002": "Verloren anker",
-    "equipment_unique_2002_desc": "Verandert je kasteel in een fortwrak."
+    "equipment_unique_2002_desc": "Verandert je kasteel in een fortwrak.",
+    "equipment_unique_2004": "Banier van de verwrongen tacticus",
+    "equipment_unique_2004_desc": "Deze vlag wordt gebruikt om bezoekers uit de hele wereld te verzamelen. Transformeer je leger in een feestkaravaan vol inwoners van Beieren, klaar om de volgende biertuin te bestormen.",
+    "equipment_unique_2005": "Banier van de verwrongen tacticus",
+    "equipment_unique_2005_desc": "Deze vlag wordt gebruikt om bezoekers uit de hele wereld te verzamelen. Transformeer je leger in een feestkaravaan vol inwoners van Beieren, klaar om de volgende biertuin te bestormen.",
+    "equipment_unique_2006": "Gezouten vesting",
+    "equipment_unique_2006_desc": "Dit heerlijke en verse gebak bedekt je kasteel met zoute krakelingen. Laat iedereen weten dat de geest van Oktoberfest in je mensen huist.",
+    "equipment_unique_2003": "Biervat",
+    "equipment_unique_2003_desc": "Verandert je kasteel in een schuimfort."
   },
   "generic": {
     "activity": "Activiteit",
@@ -18297,7 +18330,7 @@
     "rewards_colon": "Beloningen:",
     "offerings_colon": "Aanbod:",
     "btn_discord_loginScreen_desc": "Word lid van onze community voor het laatste nieuws",
-    "Messages_answer_prefix": "Re:"
+    "Messages_answer_prefix": "Re: {0}"
   },
   "help": {
     "help_location": "Hier krijg je een globaal overzicht van alle belangrijke inhoud van je kasteel en al je buitenposten.",

@@ -1796,16 +1796,29 @@
     "deco_anniversaryParty_name": "기념일 파티 행사",
     "deco_tomsWorkshop_name": "톰의 쌍둥이 제작소",
     "deco_alicesWorkshop_name": "앨리스의 쌍둥이 제작소",
-    "ci_effect_componentProductionBoost": "공구상 부품의 보너스 생산량 +{0}%",
-    "ci_effect_refinedResourceProductionBoost": "정제소 자원의 보너스 생산량 +{0}%",
-    "ci_effect_componentProductionBoost_tt": "공구상 생산 보너스:",
-    "ci_effect_refinedResourceProductionBoost_tt": "정제소 생산 보너스:",
+    "ci_effect_componentQueueBoost": "공구상 부품의 보너스 생산량 +{0}%",
+    "ci_effect_refinedResourceQueueBoost": "정제소 자원의 보너스 생산량 +{0}%",
+    "ci_effect_componentQueueBoost_tt": "공구상 생산 보너스:",
+    "ci_effect_refinedResourceQueueBoost_tt": "정제소 생산 보너스:",
     "ci_blueprint_refinery": "정제소 생산 설계도",
     "ci_blueprint_toolsmith": "공구상 생산 설계도",
     "ci_secondary_refinery": "유물 정제소 생산 건설 아이템",
     "ci_secondary_refinery_premium": "프리미엄 정제소 생산 건설 아이템",
     "ci_secondary_toolsmith": "유물 공구상 생산 건설 아이템",
-    "ci_secondary_toolsmith_premium": "프리미엄 공구상 생산 건설 아이템"
+    "ci_secondary_toolsmith_premium": "프리미엄 공구상 생산 건설 아이템",
+    "deco_OktoberfestStrength_name": "프레첼 파워 오락관",
+    "deco_octoberfestPartyEnd_name": "옥토버페스트 애프터 파티 아수라장",
+    "deco_octoberfestParty_name": "옥토버페스트 맥주 정원",
+    "ci_appearance_octoberfestTower_flavour": "혁신을 향해 건배! 이곳의 맥주 통에서 지식이 발효되고 아이디어가 자유롭게 흐릅니다.",
+    "ci_appearance_octoberfestTower": "맥주 탑",
+    "ci_appearance_nomadTavern_flavour": "The nomads cherish the rules of hospitality. Guests feasts on fermented mares milk and juicy yak roast.",
+    "ci_appearance_nomadTavern": "Nomads tavern",
+    "ci_appearance_nomadGuardhouse_flavour": "While the nomads treat defeated foes with honor, saboteurs, spies, and traitors should not expect any mercy.",
+    "ci_appearance_nomadGuardhouse": "Nomads Guardhouse",
+    "ci_appearance_samuraiTavern_flavour": "&quot;Lanterns soft glow - Samurais sake flows - Old tales of war.&quot;",
+    "ci_appearance_samuraiTavern": "Samurai tavern",
+    "ci_appearance_samuraiGuardhouse_flavour": "The Sunrise Kingdoms dreaded Rōshigumi guard force is known for its relentlessness and brutal efficency.",
+    "ci_appearance_samuraiGuardhouse": "Samurai Guardhouse"
   },
   "dialogs": {
     "dialog_festival_desc": "식량으로 잔치를 열어 백성들을 배불리 먹이십시오! 잔치가 계속되는 동안 모든 성의 모집 속도가 눈에 띄게 증가합니다. 더 큰 잔치를 벌일수록 효과도 더 증가합니다.",
@@ -11564,10 +11577,21 @@
     "maintenance_discord_desc": "최신 소식과 업데이트가 필요하면 아래의 버튼을 클릭해 Empire Discord 서버에 참가하십시오.",
     "maintenance_freeze_desc": "식량 및 벌꿀 술의 소비뿐만 아니라 활성화된 부스터의 남은 시간이 모든 플레이어에 대하여 일시적으로 정지됩니다.",
     "dialog_tempServer_overview_crossServerLive_desc": "이번 외부 왕국은 Empire 웹과 엠파이어: 네 개의 왕국 간의 크로스 서버 이벤트입니다. 두 가지 버전 게임의 플레이어를 상대로 경쟁하게 됩니다. 크로스 서버 게임플레이를 위하여 일부 게임 기능은 비활성화됩니다.\n\n외부 왕국은 임시 이벤트 서버에서 전 세계의 성주들과 경쟁할 수 있는 특별 이벤트입니다.\n\n\n귀중한 보상을 차지하기 위해, 용감한 성주님들은 외부 왕국에서 기술과 전략, 그리고 힘을 동원해 순위를 올리고 이 미지의 대륙을 지배해야 합니다.\n\n순위를 올리기 위해 점수를 모으는 방법은 이벤트가 거듭되며 달라지니, 각 이벤트 시작 시 득점 개요를 반드시 확인하세요.\n\n\n외부 왕국에는 많은 보물이 준비되어 있지만 참여 공간에 제한이 있습니다. 그러니 인원이 다 차기 전에 참여하십시오!",
-    "alert_writeNewMessage_blocked_lowLevel": "16 레벨에 이용 가능",
-    "alert_writeNewMessage_blocked_dailyLimit": "일간 한도 도달",
+    "alert_writeNewMessage_blocked_lowLevel": "레벨 16에 도달하면 다른 플레이어에게 메시지를 보낼 수 있습니다. 레벨을 올려 주십시오.",
+    "alert_writeNewMessage_blocked_dailyLimit": "일간 한도에 도달했습니다. 오늘은 더 이상 메시지를 보낼 수 없습니다. 내일 다시 시도해 주십시오.",
     "ci_effect_Meadreduction_tt": "시간당 벌꿀 술 소비량:",
-    "panel_collector_HUDButton_Anniversary": "원소의 기사"
+    "panel_collector_HUDButton_Anniversary": "원소의 \n기사",
+    "research_need_three": "요구 사항: {0} 레벨 {1}, {2} 레벨 {3}, {4} 레벨 {5}",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction_desc": "Reduces the cooldown time of Daimyo castles. The costs are paid using the alliance funds.",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction_desc": "Reduces the cooldown time of samurai camps. The costs are paid using the alliance funds.",
+    "dialog_alliance_chronic44_22": "Attack cooldown forDaimyo castles temporarily decreased",
+    "dialog_alliance_chronic44_21": "Attack cooldown for Samurai camps temporarily decreased",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction_percentage": "Attack cooldown for for Daimyo castles: -{0}%",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction": "Attack cooldown for for Daimyo castles",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction_percentage": "Attack cooldown for samurai camps: -{0}%",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction": "Attack cooldown for samurai camps",
+    "dialog_generals_overview_selectPvEGeneral_tab": "Your generals",
+    "dialog_generals_overview_selectGeneral_tab": "Your generals"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "정복 중 군대 이동 속도 +{0}%",
@@ -12605,7 +12629,8 @@
     "effect_description_allianceDefenseUnitAmountYardBonus": "동맹 지원 병력 정원 +{0}",
     "effect_description_hiddenSoldiersSpace": "유닛 보호소 정원",
     "subscription_convenience_description_AutoCooldownSkip": "옵션 활성화 시 특정 NPC 대상의 공격 대기 시간을 건너뛰기 위해 시간 건너뛰기를 자동으로 사용합니다.",
-    "ci_effect_Meadreduction": "시간당 벌꿀 술 소비량 -{0}%"
+    "ci_effect_Meadreduction": "시간당 벌꿀 술 소비량 -{0}%",
+    "equip_effect_description_attackUnitAmountReinforcementBoost": "최후의 공격 시 병력 정원 +{0}%"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "영웅",
@@ -16354,7 +16379,15 @@
     "equipment_unique_2001": "교활의 해시계",
     "equipment_unique_2001_desc": "부대를 빛나는 태양 전사의 군대로 변신시킵니다.",
     "equipment_unique_2002": "잃어버린 닻",
-    "equipment_unique_2002_desc": "성을 난파된 요새로 변신시킵니다."
+    "equipment_unique_2002_desc": "성을 난파된 요새로 변신시킵니다.",
+    "equipment_unique_2004": "뒤틀린 전술가의 기치",
+    "equipment_unique_2004_desc": "전 세계의 방문객들을 결집시키던 깃발입니다. 부대를 바이에른 축제 카라반으로 변신시키고 다음 맥주 정원을 습격할 준비를 합니다.",
+    "equipment_unique_2005": "뒤틀린 전술가의 기치",
+    "equipment_unique_2005_desc": "전 세계의 방문객들을 결집시키던 깃발입니다. 부대를 바이에른 축제 카라반으로 변신시키고 또 다른 맥주 정원을 습격할 준비를 합니다.",
+    "equipment_unique_2006": "소금 뿌린 성채",
+    "equipment_unique_2006_desc": "고급스럽고 신선한 반죽의 라이 롤빵으로 성을 뒤덮습니다. 옥토버페스트의 정신이 우리들 마음속에 살아 있다는 걸 보여 주십시오.",
+    "equipment_unique_2003": "맥주 통",
+    "equipment_unique_2003_desc": "성을 거품 요새로 변신시킵니다."
   },
   "generic": {
     "activity": "활동",
@@ -18297,7 +18330,7 @@
     "rewards_colon": "보상:",
     "offerings_colon": "공물:",
     "btn_discord_loginScreen_desc": "최신 소식이 필요하면 커뮤니티에 참가하세요",
-    "Messages_answer_prefix": "Re: {0}"
+    "Messages_answer_prefix": "답장: {0}"
   },
   "help": {
     "help_location": "여기에서 성과 전초기지의 중요한 정보를 대략 찾아볼 수 있습니다.",

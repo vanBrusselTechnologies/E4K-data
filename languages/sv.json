@@ -1796,16 +1796,29 @@
     "deco_anniversaryParty_name": "Jubileumsfirande",
     "deco_tomsWorkshop_name": "Toms tvillingverkstad",
     "deco_alicesWorkshop_name": "Alice tvillingverkstad",
-    "ci_effect_componentProductionBoost": "+{0} % bonusproduktion av delar till verktygssmed",
-    "ci_effect_refinedResourceProductionBoost": "+{0} % bonusproduktion för resurser till raffinaderi",
-    "ci_effect_componentProductionBoost_tt": "Verktygssmedproduktionsbonus:",
-    "ci_effect_refinedResourceProductionBoost_tt": "Raffinaderiproduktionsbonus:",
+    "ci_effect_componentQueueBoost": "+{0} % bonusproduktion av delar till verktygssmed",
+    "ci_effect_refinedResourceQueueBoost": "+{0} % bonusproduktion för resurser till raffinaderi",
+    "ci_effect_componentQueueBoost_tt": "Verktygssmedproduktionsbonus:",
+    "ci_effect_refinedResourceQueueBoost_tt": "Raffinaderiproduktionsbonus:",
     "ci_blueprint_refinery": "Ritning över raffinaderiproduktion",
     "ci_blueprint_toolsmith": "Ritning över verktygssmedproduktion",
     "ci_secondary_refinery": "Relikbyggföremål för raffinaderiproduktion",
     "ci_secondary_refinery_premium": "Premiumrelikbyggföremål för raffinaderiproduktion",
     "ci_secondary_toolsmith": "Relikbyggföremål för verktygssmedproduktion",
-    "ci_secondary_toolsmith_premium": "Premiumrelikbyggföremål för verktygssmedproduktion"
+    "ci_secondary_toolsmith_premium": "Premiumrelikbyggföremål för verktygssmedproduktion",
+    "deco_OktoberfestStrength_name": "Kringelkraftpaviljong",
+    "deco_octoberfestPartyEnd_name": "Oktoberfest efterfestspillror",
+    "deco_octoberfestParty_name": "Oktoberfest ölträdgård",
+    "ci_appearance_octoberfestTower_flavour": "Skål för uppfinningar! Här jäser kunskapens fat och idéerna flödar fritt.",
+    "ci_appearance_octoberfestTower": "Öltorn",
+    "ci_appearance_nomadTavern_flavour": "The nomads cherish the rules of hospitality. Guests feasts on fermented mares milk and juicy yak roast.",
+    "ci_appearance_nomadTavern": "Nomads tavern",
+    "ci_appearance_nomadGuardhouse_flavour": "While the nomads treat defeated foes with honor, saboteurs, spies, and traitors should not expect any mercy.",
+    "ci_appearance_nomadGuardhouse": "Nomads Guardhouse",
+    "ci_appearance_samuraiTavern_flavour": "&quot;Lanterns soft glow - Samurais sake flows - Old tales of war.&quot;",
+    "ci_appearance_samuraiTavern": "Samurai tavern",
+    "ci_appearance_samuraiGuardhouse_flavour": "The Sunrise Kingdoms dreaded Rōshigumi guard force is known for its relentlessness and brutal efficency.",
+    "ci_appearance_samuraiGuardhouse": "Samurai Guardhouse"
   },
   "dialogs": {
     "dialog_festival_desc": "Använd mat för att anordna en fest för dina medborgare! Rekryteringshastigheten ökar betydligt i alla dina slott så länge festen försiggår. Ju större festen är, desto större effekt.",
@@ -11564,10 +11577,21 @@
     "maintenance_discord_desc": "Klicka på knappen nedan för att ansluta till Empire Discord-servern och få de senaste nyheterna och uppdateringarna.",
     "maintenance_freeze_desc": "Konsumtion av mat och mjöd samt återstående tid av aktiva boosters är tillfälligt frysta för alla spelare.",
     "dialog_tempServer_overview_crossServerLive_desc": "Den här omgången av Yttre rikena är ett serveröverskridande evenemang för Empire Web och Empire: Four Kingdoms. Du kommer att möta spelare från båda versioner av spelet. Vissa spelfunktioner kan inaktiveras för att möjliggöra korsspel mellan servrarna.\n\nYttre rikena är ett specialevenemang där du tävlar med slottsherrar från hela världen på en tillfällig evenemangsserver.\n\n\nHär finns prestigefyllda priser i potten, och Yttre rikena tvingar tappra slottsherrar att använda färdigheter, strategi och styrka för att klättra i ranglistan och dominera dessa outforskade områden.\n\nDu samlar poäng till ranglistan på olika sätt beroende på evenemangets utgåva, så kom ihåg att titta på poängöversikten i början av varje evenemang.\n\n\nÄven om Yttre rikena kryllar av värdefulla skatter så är utrymmet begränsat. Kom ihåg att gå in innan det blir fullt!",
-    "alert_writeNewMessage_blocked_lowLevel": "Tillgänglig på nivå 16",
-    "alert_writeNewMessage_blocked_dailyLimit": "Daglig gräns uppnådd",
+    "alert_writeNewMessage_blocked_lowLevel": "Du kan skicka meddelanden till andra spelare när du når nivå 16. Öka din erfarenhetsnivå",
+    "alert_writeNewMessage_blocked_dailyLimit": "Du har nått den dagliga gränsen. Du kan inte skicka fler meddelanden idag. Försök igen imorgon.",
     "ci_effect_Meadreduction_tt": "Mjödkonsumtion per timme:",
-    "panel_collector_HUDButton_Anniversary": "Elementriddarna"
+    "panel_collector_HUDButton_Anniversary": "Elementära \nRiddare",
+    "research_need_three": "Kräver: {0} på nivå {1}, {2} på nivå {3} och {4} på nivå {5}",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction_desc": "Reduces the cooldown time of Daimyo castles. The costs are paid using the alliance funds.",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction_desc": "Reduces the cooldown time of samurai camps. The costs are paid using the alliance funds.",
+    "dialog_alliance_chronic44_22": "Attack cooldown forDaimyo castles temporarily decreased",
+    "dialog_alliance_chronic44_21": "Attack cooldown for Samurai camps temporarily decreased",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction_percentage": "Attack cooldown for for Daimyo castles: -{0}%",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction": "Attack cooldown for for Daimyo castles",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction_percentage": "Attack cooldown for samurai camps: -{0}%",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction": "Attack cooldown for samurai camps",
+    "dialog_generals_overview_selectPvEGeneral_tab": "Your generals",
+    "dialog_generals_overview_selectGeneral_tab": "Your generals"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0} % resehastighet för armén under erövringar",
@@ -12605,7 +12629,8 @@
     "effect_description_allianceDefenseUnitAmountYardBonus": "+{0} till truppkapacitet för allianssupport",
     "effect_description_hiddenSoldiersSpace": "Kapacitet i skyddsrum för enheter",
     "subscription_convenience_description_AutoCooldownSkip": "Aktivera alternativet för att automatiskt använda tidskipp och skippa återhämtningen vid anfall mot särskilda NPC-mål.",
-    "ci_effect_Meadreduction": "-{0} % mjödkonsumtion per timme"
+    "ci_effect_Meadreduction": "-{0} % mjödkonsumtion per timme",
+    "equip_effect_description_attackUnitAmountReinforcementBoost": "+{0} % truppkapacitet i sista anfallet"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Hjälte",
@@ -16354,7 +16379,15 @@
     "equipment_unique_2001": "De slugas solur",
     "equipment_unique_2001_desc": "Gör din armé till en bländande pluton med solkrigare.",
     "equipment_unique_2002": "Bortglömt ankare",
-    "equipment_unique_2002_desc": "Gör ditt slott till en skeppsbruten fästning."
+    "equipment_unique_2002_desc": "Gör ditt slott till en skeppsbruten fästning.",
+    "equipment_unique_2004": "Den skruvade taktikerns fana",
+    "equipment_unique_2004_desc": "Den här flaggan används för att samla besökare från hela världen. Förvandla din armé till en festkaravan av bajrare, redo att storma första bästa ölträdgård.",
+    "equipment_unique_2005": "Den skruvade taktikerns fana",
+    "equipment_unique_2005_desc": "Den här flaggan används för att samla besökare från hela världen. Förvandla din armé till en festkaravan av bajrare, redo att storma första bästa ölträdgård.",
+    "equipment_unique_2006": "Saltat fort",
+    "equipment_unique_2006_desc": "Detta fina och nygräddade bakverk täcker ditt slott i lutrullar. Visa för alla att Oktoberfestandan finns hos ditt folk.",
+    "equipment_unique_2003": "Öltunna",
+    "equipment_unique_2003_desc": "Gör ditt slott till en skummig fästning."
   },
   "generic": {
     "activity": "Aktivera",
@@ -18297,7 +18330,7 @@
     "rewards_colon": "Belöningar:",
     "offerings_colon": "Gåvor:",
     "btn_discord_loginScreen_desc": "Gå med i vårt community för att få de senaste nyheterna",
-    "Messages_answer_prefix": "Ang:"
+    "Messages_answer_prefix": "Sv: {0}"
   },
   "help": {
     "help_location": "Här har du en global översikt över ditt slotts viktiga innehåll och alla dina utposter.",

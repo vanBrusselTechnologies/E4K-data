@@ -1796,16 +1796,29 @@
     "deco_anniversaryParty_name": "Rocznicowe uroczystości",
     "deco_tomsWorkshop_name": "Bliźniaczy warsztat Toma",
     "deco_alicesWorkshop_name": "Bliźniaczy warsztat Alicji",
-    "ci_effect_componentProductionBoost": "+{0}% premii wydajności za składniki wytwórni narzędzi",
-    "ci_effect_refinedResourceProductionBoost": "+{0}% premii wydajności za zasoby przetwórni",
-    "ci_effect_componentProductionBoost_tt": "Premia do produkcji wytwórni narzędzi:",
-    "ci_effect_refinedResourceProductionBoost_tt": "Premia do produkcji przetwórni:",
+    "ci_effect_componentQueueBoost": "+{0}% premii wydajności za składniki wytwórni narzędzi",
+    "ci_effect_refinedResourceQueueBoost": "+{0}% premii wydajności za zasoby przetwórni",
+    "ci_effect_componentQueueBoost_tt": "Premia do produkcji wytwórni narzędzi:",
+    "ci_effect_refinedResourceQueueBoost_tt": "Premia do produkcji przetwórni:",
     "ci_blueprint_refinery": "Plan produkcji przetwórni",
     "ci_blueprint_toolsmith": "Plan produkcji wytwórni narzędzi",
     "ci_secondary_refinery": "Element budynku produk. – przetwórnia sprzed wieków",
     "ci_secondary_refinery_premium": "Element budynku produkcyjnego – przetwórnia premium",
     "ci_secondary_toolsmith": "Elem. bud. prod. – wytwórnia narzędzi sprzed wieków",
-    "ci_secondary_toolsmith_premium": "Elem. bud. prod. – wytwórnia narzędzi premium"
+    "ci_secondary_toolsmith_premium": "Elem. bud. prod. – wytwórnia narzędzi premium",
+    "deco_OktoberfestStrength_name": "Pawilon potęgi precli",
+    "deco_octoberfestPartyEnd_name": "Pozostałości po uroczystościach Oktoberfest",
+    "deco_octoberfestParty_name": "Ogródek piwny Oktoberfest",
+    "ci_appearance_octoberfestTower_flavour": "Niech żyje pomysłowość! Oto miejsce, w którym myśl płynie wartkimi strumieniami, a beczki wiedzy leżakują w najlepsze.",
+    "ci_appearance_octoberfestTower": "Piwna wieża",
+    "ci_appearance_nomadTavern_flavour": "The nomads cherish the rules of hospitality. Guests feasts on fermented mares milk and juicy yak roast.",
+    "ci_appearance_nomadTavern": "Nomads tavern",
+    "ci_appearance_nomadGuardhouse_flavour": "While the nomads treat defeated foes with honor, saboteurs, spies, and traitors should not expect any mercy.",
+    "ci_appearance_nomadGuardhouse": "Nomads Guardhouse",
+    "ci_appearance_samuraiTavern_flavour": "&quot;Lanterns soft glow - Samurais sake flows - Old tales of war.&quot;",
+    "ci_appearance_samuraiTavern": "Samurai tavern",
+    "ci_appearance_samuraiGuardhouse_flavour": "The Sunrise Kingdoms dreaded Rōshigumi guard force is known for its relentlessness and brutal efficency.",
+    "ci_appearance_samuraiGuardhouse": "Samurai Guardhouse"
   },
   "dialogs": {
     "dialog_festival_desc": "Użyj jedzenia, aby zorganizować święto dla Twoich obywateli! Szybkość rekrutacji znacznie będzie rosła we wszystkich twoich zamkach przez czas obchodów święta. Im większe święto, tym większe efekty.",
@@ -11564,10 +11577,21 @@
     "maintenance_discord_desc": "Kliknij poniższy przycisk, aby dołączyć do serwera Empire w serwisie Discord i być zawsze na bieżąco z najnowszymi wydarzeniami.",
     "maintenance_freeze_desc": "Konsumpcja żywności i miodu pitnego oraz pozostały czas aktywnych boosterów są tymczasowo wstrzymane dla wszystkich graczy.",
     "dialog_tempServer_overview_crossServerLive_desc": "Ta wersja Zewnętrznych Krain to międzyplatformowe wydarzenie łączące przeglądarkową edycję Empire z Empire: Four Kingdoms. Stawisz czoło graczom z obu wersji gry. Niektóre funkcje gry będą wyłączone w celu umożliwienia rozgrywki międzyplatformowej.\n\nZewnętrzne Krainy to wyjątkowe wydarzenie, w którym możesz stawić czoło damom i władcom zamków z całego świata na serwerze tymczasowym.\n\n\nZewnętrzne Krainy oferują prestiżowe nagrody i wymagają talentu, zdolności strategicznych oraz siły od uczestników pragnących awansować w rankingu i zdominować te dzikie ziemie.\n\nSposób gromadzenia punktów rankingowych zmienia się z każdą edycją wydarzenia, toteż przed przystąpieniem do rozgrywki zawsze warto zapoznać się z aktualnym podsumowaniem zasad.\n\n\nO ile bogactwa Zewnętrznych Krain są olśniewające, o tyle miejsce jest tu ograniczone – zadbaj więc o swoją pozycję, zanim zrobi się zbyt tłoczno!",
-    "alert_writeNewMessage_blocked_lowLevel": "Dostępne od 16. poziomu",
-    "alert_writeNewMessage_blocked_dailyLimit": "Osiągnięto dzienny limit",
+    "alert_writeNewMessage_blocked_lowLevel": "Możesz wysyłać wiadomości innym graczom po osiągnięciu poziomu 16. Zwiększ swój poziom doświadczenia",
+    "alert_writeNewMessage_blocked_dailyLimit": "Osiągnięto limit dzienny. Nie możesz wysłać dziś więcej wiadomości. Spróbuj ponownie jutro.",
     "ci_effect_Meadreduction_tt": "Konsumpcja miodu pitnego na godzinę:",
-    "panel_collector_HUDButton_Anniversary": "Rycerze Żywiołów"
+    "panel_collector_HUDButton_Anniversary": "Rycerze\nŻywiołów",
+    "research_need_three": "Wymagania: {0} na poziomie {1}, {2} na poziomie {3}, a także {4} na poziomie {5}",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction_desc": "Reduces the cooldown time of Daimyo castles. The costs are paid using the alliance funds.",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction_desc": "Reduces the cooldown time of samurai camps. The costs are paid using the alliance funds.",
+    "dialog_alliance_chronic44_22": "Attack cooldown forDaimyo castles temporarily decreased",
+    "dialog_alliance_chronic44_21": "Attack cooldown for Samurai camps temporarily decreased",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction_percentage": "Attack cooldown for for Daimyo castles: -{0}%",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction": "Attack cooldown for for Daimyo castles",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction_percentage": "Attack cooldown for samurai camps: -{0}%",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction": "Attack cooldown for samurai camps",
+    "dialog_generals_overview_selectPvEGeneral_tab": "Your generals",
+    "dialog_generals_overview_selectGeneral_tab": "Your generals"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% prędkości przemieszczania armii podczas podbojów",
@@ -12605,7 +12629,8 @@
     "effect_description_allianceDefenseUnitAmountYardBonus": "+{0} do limitu wojsk wsparcia sojuszu",
     "effect_description_hiddenSoldiersSpace": "Pojemność schronienia dla jednostek",
     "subscription_convenience_description_AutoCooldownSkip": "Aktywuj funkcję automatycznego pominięcia przy użyciu pominięć czasu, aby pominąć czas ochłonięcia określonych celów NPC.",
-    "ci_effect_Meadreduction": "Konsumpcja miodu pitnego na godzinę: -{0}%"
+    "ci_effect_Meadreduction": "Konsumpcja miodu pitnego na godzinę: -{0}%",
+    "equip_effect_description_attackUnitAmountReinforcementBoost": "+{0}% do limitu wojsk podczas ostatecznego ataku"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Bohater",
@@ -16354,7 +16379,15 @@
     "equipment_unique_2001": "Zegar słoneczny Przebiegłości",
     "equipment_unique_2001_desc": "Przekształca twoją armię w olśniewający oddział słonecznych wojowników.",
     "equipment_unique_2002": "Zaginiona kotwica",
-    "equipment_unique_2002_desc": "Przekształca twój zamek w fortecę rozbitków."
+    "equipment_unique_2002_desc": "Przekształca twój zamek w fortecę rozbitków.",
+    "equipment_unique_2004": "Chorągiew Trzepniętego Taktyka",
+    "equipment_unique_2004_desc": "Flaga ta służy do zwoływania gości z całego świata. Przekształca twoją armię w świąteczną karawanę Bawarczyków zmierzającą ku najbliższemu ogródkowi piwnemu.",
+    "equipment_unique_2005": "Chorągiew Trzepniętego Taktyka",
+    "equipment_unique_2005_desc": "Flaga ta służy do zwoływania gości z całego świata. Przekształca twoją armię w świąteczną karawanę Bawarczyków zmierzającą ku najbliższemu ogródkowi piwnemu.",
+    "equipment_unique_2006": "Słona cytadela",
+    "equipment_unique_2006_desc": "To pyszne, delikatne ciasto rozrasta się w twoim zamku niczym pieczywo. Pokaż całemu światu, iż duch Oktoberfest ma się dobrze w sercach twoich poddanych.",
+    "equipment_unique_2003": "Beczka piwa",
+    "equipment_unique_2003_desc": "Przekształca twój zamek w spienioną fortecę."
   },
   "generic": {
     "activity": "Działania",
@@ -18297,7 +18330,7 @@
     "rewards_colon": "Nagrody:",
     "offerings_colon": "Oferty:",
     "btn_discord_loginScreen_desc": "Dołącz do naszej społeczności i bądź zawsze na bieżąco",
-    "Messages_answer_prefix": "Odp:"
+    "Messages_answer_prefix": "Odp: {0}"
   },
   "help": {
     "help_location": "W tym miejscu masz globalny przegląd ważnych elementów zamku oraz wszystkich posterunków.",

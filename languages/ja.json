@@ -1796,16 +1796,29 @@
     "deco_anniversaryParty_name": "アニバーサリーパーティーのお祝い",
     "deco_tomsWorkshop_name": "トムの双子のワークショップ",
     "deco_alicesWorkshop_name": "アリスの双子のワークショップ",
-    "ci_effect_componentProductionBoost": "兵器工房部品の生産量ボーナス +{0}%",
-    "ci_effect_refinedResourceProductionBoost": "精製所資源の生産量ボーナス +{0}%",
-    "ci_effect_componentProductionBoost_tt": "兵器工房の生産ボーナス：",
-    "ci_effect_refinedResourceProductionBoost_tt": "精製所の生産ボーナス：",
+    "ci_effect_componentQueueBoost": "兵器工房部品の生産量ボーナス +{0}%",
+    "ci_effect_refinedResourceQueueBoost": "精製所資源の生産量ボーナス +{0}%",
+    "ci_effect_componentQueueBoost_tt": "兵器工房の生産ボーナス：",
+    "ci_effect_refinedResourceQueueBoost_tt": "精製所の生産ボーナス：",
     "ci_blueprint_refinery": "精製所の生産設計図",
     "ci_blueprint_toolsmith": "兵器工房の生産設計図",
     "ci_secondary_refinery": "聖遺物建設アイテム：精製所",
     "ci_secondary_refinery_premium": "プレミアム聖遺物建設アイテム：精製所",
     "ci_secondary_toolsmith": "聖遺物建設アイテム：兵器工房",
-    "ci_secondary_toolsmith_premium": "プレミアム聖遺物建設アイテム：兵器工房"
+    "ci_secondary_toolsmith_premium": "プレミアム聖遺物建設アイテム：兵器工房",
+    "deco_OktoberfestStrength_name": "プレッツェルの力試しのパビリオン",
+    "deco_octoberfestPartyEnd_name": "オクトーバーフェスト後の惨状",
+    "deco_octoberfestParty_name": "オクトーバーフェストのビアガーデン",
+    "ci_appearance_octoberfestTower_flavour": "発明に乾杯！ここでは知識の樽が熟成され、アイディアが自由に流れ出します。",
+    "ci_appearance_octoberfestTower": "ビールの塔",
+    "ci_appearance_nomadTavern_flavour": "The nomads cherish the rules of hospitality. Guests feasts on fermented mares milk and juicy yak roast.",
+    "ci_appearance_nomadTavern": "Nomads tavern",
+    "ci_appearance_nomadGuardhouse_flavour": "While the nomads treat defeated foes with honor, saboteurs, spies, and traitors should not expect any mercy.",
+    "ci_appearance_nomadGuardhouse": "Nomads Guardhouse",
+    "ci_appearance_samuraiTavern_flavour": "&quot;Lanterns soft glow - Samurais sake flows - Old tales of war.&quot;",
+    "ci_appearance_samuraiTavern": "Samurai tavern",
+    "ci_appearance_samuraiGuardhouse_flavour": "The Sunrise Kingdoms dreaded Rōshigumi guard force is known for its relentlessness and brutal efficency.",
+    "ci_appearance_samuraiGuardhouse": "Samurai Guardhouse"
   },
   "dialogs": {
     "dialog_festival_desc": "食料を集めて宴会を開きましょう！\n宴会が続く限り、兵の雇用スピードがすべての城で速くなります。宴会が豪華になるほど、効果も大きくなります。",
@@ -11564,10 +11577,21 @@
     "maintenance_discord_desc": "下のボタンをクリックすると、エンパイアのDiscordサーバーに参加して、最新ニュースやアップデートを確認できます。",
     "maintenance_freeze_desc": "全プレイヤーの食料と蜂蜜酒の消費、およびアクティブなブースターの残り時間が、一時的に停止されます。",
     "dialog_tempServer_overview_crossServerLive_desc": "今回の外領域は、Web版エンパイアとエンパイア・フォーキングダムのクロスサーバーイベントです。両ゲームのプレイヤーと戦うことになります。クロスサーバーでのゲームプレイを可能にするため、一部のゲーム機能が無効になる場合があります。\n\n外領域イベントは、世界中の城主と期間限定のイベントサーバーで対戦できる特別なイベントです。\n\n\n豪華報酬が手に入る外領域では、勇敢な城主たちがスキル、戦略、力を駆使してランキングの順位を上げ、未知の土地を支配します。\n\n階級ポイントの集め方はイベントによって異なるため、各イベントの開始時に「スコア取得に関する概要」をご覧ください。\n\n\n外領域にはたくさんの財宝が眠っているはずですが、その土地は限られています。満員になってしまう前に参加しましょう！",
-    "alert_writeNewMessage_blocked_lowLevel": "レベル16で利用可能",
-    "alert_writeNewMessage_blocked_dailyLimit": "一日の上限に到達しました",
+    "alert_writeNewMessage_blocked_lowLevel": "レベル16になると、他のプレイヤーにメッセージを送ることができます。レベルを上げてください。",
+    "alert_writeNewMessage_blocked_dailyLimit": "1日の上限に達しました。今日はもうメッセージを送れません。明日もう一度お試しください。",
     "ci_effect_Meadreduction_tt": "1時間あたりの蜂蜜酒の消費量：",
-    "panel_collector_HUDButton_Anniversary": "四大元素の騎士"
+    "panel_collector_HUDButton_Anniversary": "四大元素の \n騎士",
+    "research_need_three": "必要：レベル{1}の{0}、レベル{3}の{2}、レベル{5}の{4}",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction_desc": "Reduces the cooldown time of Daimyo castles. The costs are paid using the alliance funds.",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction_desc": "Reduces the cooldown time of samurai camps. The costs are paid using the alliance funds.",
+    "dialog_alliance_chronic44_22": "Attack cooldown forDaimyo castles temporarily decreased",
+    "dialog_alliance_chronic44_21": "Attack cooldown for Samurai camps temporarily decreased",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction_percentage": "Attack cooldown for for Daimyo castles: -{0}%",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction": "Attack cooldown for for Daimyo castles",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction_percentage": "Attack cooldown for samurai camps: -{0}%",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction": "Attack cooldown for samurai camps",
+    "dialog_generals_overview_selectPvEGeneral_tab": "Your generals",
+    "dialog_generals_overview_selectGeneral_tab": "Your generals"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "占領中の軍の移動スピード　+{0}%",
@@ -12605,7 +12629,8 @@
     "effect_description_allianceDefenseUnitAmountYardBonus": "同盟支援の部隊の定員が+{0}",
     "effect_description_hiddenSoldiersSpace": "部隊シェルターの容量",
     "subscription_convenience_description_AutoCooldownSkip": "オプションを有効にすると、タイムスキップを自動的に使用して、特定のNPCターゲットの攻撃クールダウンをスキップします。",
-    "ci_effect_Meadreduction": "1時間あたりの蜂蜜酒の消費量 -{0}%"
+    "ci_effect_Meadreduction": "1時間あたりの蜂蜜酒の消費量 -{0}%",
+    "equip_effect_description_attackUnitAmountReinforcementBoost": "最終攻撃の最大部隊数 +{0}%"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "英雄",
@@ -16354,7 +16379,15 @@
     "equipment_unique_2001": "狡猾の日時計",
     "equipment_unique_2001_desc": "軍隊をまばゆい太陽の戦士の小隊に変えます。",
     "equipment_unique_2002": "失われた錨",
-    "equipment_unique_2002_desc": "城を難破した要塞に変えます。"
+    "equipment_unique_2002_desc": "城を難破した要塞に変えます。",
+    "equipment_unique_2004": "ねじれた戦術家の旗",
+    "equipment_unique_2004_desc": "この旗は、世界中から訪問者を集めるために使われます。軍隊をバイエルンのお祝いのキャラバンに変えます。次なる最高のビアガーデンになだれこむ準備万端。",
+    "equipment_unique_2005": "ねじれた戦術家の旗",
+    "equipment_unique_2005_desc": "この旗は、世界中から訪問者を集めるために使われます。軍隊をバイエルンのお祝いのキャラバンに変えます。次なる最高のビアガーデンになだれこむ準備万端。",
+    "equipment_unique_2006": "塩味の砦",
+    "equipment_unique_2006_desc": "上等で新鮮なパンが、お城をライ麦のロールで覆いつくします。あなたの民にもオクトーバーフェストの精神が秘められていることを知らしめましょう。",
+    "equipment_unique_2003": "ビール樽",
+    "equipment_unique_2003_desc": "城を泡の砦に変えます。"
   },
   "generic": {
     "activity": "アクティビティ",
@@ -18297,7 +18330,7 @@
     "rewards_colon": "報酬：",
     "offerings_colon": "捧げ物：",
     "btn_discord_loginScreen_desc": "コミュニティに参加して最新ニュースをチェック",
-    "Messages_answer_prefix": "Re："
+    "Messages_answer_prefix": "Re: {0}"
   },
   "help": {
     "help_location": "ここから、城や基地の\n重要な情報を見ることができます。",

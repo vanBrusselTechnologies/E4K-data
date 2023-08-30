@@ -1796,16 +1796,29 @@
     "deco_anniversaryParty_name": "Comemoração de aniversário",
     "deco_tomsWorkshop_name": "Oficina gêmea de Tom",
     "deco_alicesWorkshop_name": "Oficina gêmea de Alice",
-    "ci_effect_componentProductionBoost": "+{0}% de bônus de rendimento de componentes de artífice",
-    "ci_effect_refinedResourceProductionBoost": "+{0}% de bônus de rendimento de recurso de refinaria",
-    "ci_effect_componentProductionBoost_tt": "Bônus de produção de artífice:",
-    "ci_effect_refinedResourceProductionBoost_tt": "Bônus de produção de refinaria:",
+    "ci_effect_componentQueueBoost": "+{0}% de bônus de rendimento de componentes de artífice",
+    "ci_effect_refinedResourceQueueBoost": "+{0}% de bônus de rendimento de recurso de refinaria",
+    "ci_effect_componentQueueBoost_tt": "Bônus de produção de artífice:",
+    "ci_effect_refinedResourceQueueBoost_tt": "Bônus de produção de refinaria:",
     "ci_blueprint_refinery": "Projeto de produção de refinaria",
     "ci_blueprint_toolsmith": "Projeto de produção de artífice",
     "ci_secondary_refinery": "Item de constr. de produção de refinaria relíquia",
     "ci_secondary_refinery_premium": "Item de constr. de produção de refinaria premium",
     "ci_secondary_toolsmith": "Item de constr. de produção de artífice relíquia",
-    "ci_secondary_toolsmith_premium": "Item de constr. de produção de artífice premium"
+    "ci_secondary_toolsmith_premium": "Item de constr. de produção de artífice premium",
+    "deco_OktoberfestStrength_name": "Pavilhão do poder do pretzel",
+    "deco_octoberfestPartyEnd_name": "Pós-festa da Octoberfest",
+    "deco_octoberfestParty_name": "Jardim da cerveja da Octoberfest",
+    "ci_appearance_octoberfestTower_flavour": "Um brinde à inovação! Aqui os tonéis do conhecimento fermentam litros e litros de ideias.",
+    "ci_appearance_octoberfestTower": "Torre da cerveja",
+    "ci_appearance_nomadTavern_flavour": "The nomads cherish the rules of hospitality. Guests feasts on fermented mares milk and juicy yak roast.",
+    "ci_appearance_nomadTavern": "Nomads tavern",
+    "ci_appearance_nomadGuardhouse_flavour": "While the nomads treat defeated foes with honor, saboteurs, spies, and traitors should not expect any mercy.",
+    "ci_appearance_nomadGuardhouse": "Nomads Guardhouse",
+    "ci_appearance_samuraiTavern_flavour": "&quot;Lanterns soft glow - Samurais sake flows - Old tales of war.&quot;",
+    "ci_appearance_samuraiTavern": "Samurai tavern",
+    "ci_appearance_samuraiGuardhouse_flavour": "The Sunrise Kingdoms dreaded Rōshigumi guard force is known for its relentlessness and brutal efficency.",
+    "ci_appearance_samuraiGuardhouse": "Samurai Guardhouse"
   },
   "dialogs": {
     "dialog_festival_desc": "Use comida para organizar um banquete para os cidadãos! A velocidade de recrutamento aumentará consideravelmente em todos os seus castelos durante o banquete. Quanto maior o banquete, maior o efeito.",
@@ -11564,10 +11577,21 @@
     "maintenance_discord_desc": "Clique no botão abaixo para entrar no servidor de Discord de Empire e conferir as últimas notícias e novidades.",
     "maintenance_freeze_desc": "O consumo de comida e hidromel, além do tempo restante dos reforços ativos, foram temporariamente congelados para todos os jogadores.",
     "dialog_tempServer_overview_crossServerLive_desc": "Esta edição dos Reinos Exteriores será um evento multiplataforma com Empire Web e Empire: Four Kingdoms. Você enfrentará jogadores de ambas as versões do jogo. Certas funcionalidades ficarão desativadas para permitir o jogo multiplataforma.\n\nOs Reinos Exteriores são um evento especial no qual você pode competir contra outros senhores de castelo do mundo todo em um servidor de evento temporário.\n\n\nCom recompensas generosas, os Reinos Exteriores exigem que os senhores de castelo utilizem habilidades, estratégias e força para subir no ranking e dominar essa região inexplorada.\n\nA forma como você obtém pontos para os rankings muda em cada edição do evento, então não deixe de conferir a visão geral da pontuação no início de cada evento.\n\n\nEmbora os Reinos Exteriores ofereçam muitos tesouros lucrativos, o espaço é limitado, então não deixe de entrar antes que fiquem totalmente lotados!",
-    "alert_writeNewMessage_blocked_lowLevel": "Disponível no nível 16",
-    "alert_writeNewMessage_blocked_dailyLimit": "Limite diário alcançado",
+    "alert_writeNewMessage_blocked_lowLevel": "Você pode enviar mensagens para outros jogadores quando alcançar o nível 16. Aumente o seu nível de experiência.",
+    "alert_writeNewMessage_blocked_dailyLimit": "Você alcançou o limite diário. Você não pode enviar mais mensagens hoje. Tente de novo amanhã.",
     "ci_effect_Meadreduction_tt": "Consumo de hidromel por hora:",
-    "panel_collector_HUDButton_Anniversary": "Cavaleiros elementais"
+    "panel_collector_HUDButton_Anniversary": "Elemental \nCavaleiros",
+    "research_need_three": "Requer: {0} no nível {1}, {2} no nível {3}, e {4} no nível {5}",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction_desc": "Reduces the cooldown time of Daimyo castles. The costs are paid using the alliance funds.",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction_desc": "Reduces the cooldown time of samurai camps. The costs are paid using the alliance funds.",
+    "dialog_alliance_chronic44_22": "Attack cooldown forDaimyo castles temporarily decreased",
+    "dialog_alliance_chronic44_21": "Attack cooldown for Samurai camps temporarily decreased",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction_percentage": "Attack cooldown for for Daimyo castles: -{0}%",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction": "Attack cooldown for for Daimyo castles",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction_percentage": "Attack cooldown for samurai camps: -{0}%",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction": "Attack cooldown for samurai camps",
+    "dialog_generals_overview_selectPvEGeneral_tab": "Your generals",
+    "dialog_generals_overview_selectGeneral_tab": "Your generals"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% velocidade de viagem do exército durante conquistas",
@@ -12605,7 +12629,8 @@
     "effect_description_allianceDefenseUnitAmountYardBonus": "+{0} na capacidade de tropa de apoio de aliança",
     "effect_description_hiddenSoldiersSpace": "Capacidade de abrigo de unidades",
     "subscription_convenience_description_AutoCooldownSkip": "Habilite a opção para utilizar automaticamente avanços de tempo para ignorar o tempo de espera de ataque de certos alvos NPC.",
-    "ci_effect_Meadreduction": "-{0}% de consumo de hidromel por hora"
+    "ci_effect_Meadreduction": "-{0}% de consumo de hidromel por hora",
+    "equip_effect_description_attackUnitAmountReinforcementBoost": "+{0}% de capacidade de tropa no assalto final"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Herói",
@@ -16354,7 +16379,15 @@
     "equipment_unique_2001": "Relógio de sol dos astutos",
     "equipment_unique_2001_desc": "Transforma seu exército em guerreiros do sol resplandecente.",
     "equipment_unique_2002": "Âncora perdida",
-    "equipment_unique_2002_desc": "Transforma seu castelo em uma fortaleza naufragada."
+    "equipment_unique_2002_desc": "Transforma seu castelo em uma fortaleza naufragada.",
+    "equipment_unique_2004": "Bandeira da tática distorcida",
+    "equipment_unique_2004_desc": "Esta bandeira é usada para atrair visitantes do mundo todo. Transforma seu exército em uma caravana festeira da Bavária, pronta para invadir a próxima festa da cerveja.",
+    "equipment_unique_2005": "Bandeira da tática distorcida",
+    "equipment_unique_2005_desc": "Esta bandeira é usada para atrair visitantes do mundo todo. Transforma seu exército em uma caravana festeira da Bavária, pronta para invadir a próxima festa da cerveja.",
+    "equipment_unique_2006": "Torre forte e salgada",
+    "equipment_unique_2006_desc": "Esta guloseima refinada cobre seu castelo com delícias típicas. Deixe que todos saibam que o espírito da Octoberfest vive no coração do seu povo.",
+    "equipment_unique_2003": "Barril de cerveja",
+    "equipment_unique_2003_desc": "Transforma seu castelo em fortaleza de espuma."
   },
   "generic": {
     "activity": "Atividade",
@@ -18297,7 +18330,7 @@
     "rewards_colon": "Recompensas:",
     "offerings_colon": "Oferendas:",
     "btn_discord_loginScreen_desc": "Junte-se à nossa comunidade para conferir as últimas novidades",
-    "Messages_answer_prefix": "Re:"
+    "Messages_answer_prefix": "Re: {0}"
   },
   "help": {
     "help_location": "Aqui você tem uma visão geral global do conteúdo importante do seu castelo e de todos os seus postos avançados.",

@@ -1796,16 +1796,29 @@
     "deco_anniversaryParty_name": "Celebración de fiesta de aniversario",
     "deco_tomsWorkshop_name": "Taller gemelo de Tom",
     "deco_alicesWorkshop_name": "Taller gemelo de Alice",
-    "ci_effect_componentProductionBoost": "Producción de componentes de la forja de herramientas: +{0} %",
-    "ci_effect_refinedResourceProductionBoost": "Producción de recursos de la refinería: +{0} %",
-    "ci_effect_componentProductionBoost_tt": "Bonus de producción de forja de herramientas:",
-    "ci_effect_refinedResourceProductionBoost_tt": "Bonus de producción de refinería:",
+    "ci_effect_componentQueueBoost": "Producción de componentes de la forja de herramientas: +{0} %",
+    "ci_effect_refinedResourceQueueBoost": "Producción de recursos de la refinería: +{0} %",
+    "ci_effect_componentQueueBoost_tt": "Bonus de producción de forja de herramientas:",
+    "ci_effect_refinedResourceQueueBoost_tt": "Bonus de producción de refinería:",
     "ci_blueprint_refinery": "Plano de producción de refinería",
     "ci_blueprint_toolsmith": "Plano de producción de forja de herramientas",
     "ci_secondary_refinery": "Objeto construc. reliquia (producción de refinería)",
     "ci_secondary_refinery_premium": "Objeto construc. premium (producción de refinería)",
     "ci_secondary_toolsmith": "Objeto construc. reliquia (prod. forja herramient.)",
-    "ci_secondary_toolsmith_premium": "Objeto construc. premium (prod. forja herramientas)"
+    "ci_secondary_toolsmith_premium": "Objeto construc. premium (prod. forja herramientas)",
+    "deco_OktoberfestStrength_name": "Martillo de fuerza del Oktoberfest",
+    "deco_octoberfestPartyEnd_name": "Resaca del Oktoberfest",
+    "deco_octoberfestParty_name": "Jardín de la cerveza del Oktoberfest",
+    "ci_appearance_octoberfestTower_flavour": "¡Brindemos por la innovación! Aquí fermentan los barriles de conocimiento y las ideas fluyen libremente.",
+    "ci_appearance_octoberfestTower": "Torre de la cerveza",
+    "ci_appearance_nomadTavern_flavour": "The nomads cherish the rules of hospitality. Guests feasts on fermented mares milk and juicy yak roast.",
+    "ci_appearance_nomadTavern": "Nomads tavern",
+    "ci_appearance_nomadGuardhouse_flavour": "While the nomads treat defeated foes with honor, saboteurs, spies, and traitors should not expect any mercy.",
+    "ci_appearance_nomadGuardhouse": "Nomads Guardhouse",
+    "ci_appearance_samuraiTavern_flavour": "&quot;Lanterns soft glow - Samurais sake flows - Old tales of war.&quot;",
+    "ci_appearance_samuraiTavern": "Samurai tavern",
+    "ci_appearance_samuraiGuardhouse_flavour": "The Sunrise Kingdoms dreaded Rōshigumi guard force is known for its relentlessness and brutal efficency.",
+    "ci_appearance_samuraiGuardhouse": "Samurai Guardhouse"
   },
   "dialogs": {
     "dialog_festival_desc": "¡Usa comida para celebrar un festín para tus ciudadanos! La velocidad de reclutamiento aumentará considerablemente en todos tus castillos mientras dure el festín. Mientras más grande sea el festín, mayor será el efecto.",
@@ -11564,10 +11577,21 @@
     "maintenance_discord_desc": "Haz clic en el botón de abajo para unirte al servidor de Discord de Empire y enterarte de todas las noticias y novedades.",
     "maintenance_freeze_desc": "Se ha congelado temporalmente el consumo de comida y de hidromiel, así como el tiempo restante de los potenciadores activos, de todos los jugadores.",
     "dialog_tempServer_overview_crossServerLive_desc": "Esta iteración de los reinos lejanos es un evento en el que los jugadores de Empire y Empire: Four Kingdoms compiten en un mismo servidor. Te enfrentarás a jugadores de ambas versiones del juego. Puede que algunas funciones del juego estén desactivadas para permitir el juego entre plataformas.\n\nReinos lejanos es un evento especial en el que puedes competir contra Lords de castillo del mundo entero en un servidor temporal del evento.\n\n\nCon prestigiosas recompensas en juego, en reinos lejanos los valientes Lords de castillo deberán poner a prueba sus habilidades, sus dotes estratégicas y su fuerza para subir puestos en la clasificación y dominar estas tierras inexploradas.\n\nLa forma en la que puedes obtener puntos para la clasificación cambia en cada edición del evento, así que asegúrate de comprobar el sistema de puntuación al principio del mismo.\n\n\nAunque los reinos lejanos estén repletos de tesoros lucrativos, hay un espacio limitado, así que asegúrate de entrar antes de que se llene.",
-    "alert_writeNewMessage_blocked_lowLevel": "Disponible en nivel 16",
-    "alert_writeNewMessage_blocked_dailyLimit": "Límite diario alcanzado",
+    "alert_writeNewMessage_blocked_lowLevel": "Cuando alcances el nivel 16 podrás enviar mensajes a otros jugadores. Aumenta tu nivel de experiencia.",
+    "alert_writeNewMessage_blocked_dailyLimit": "Has alcanzado el límite diario. Hoy ya no puedes enviar más mensajes. Vuelve a intentarlo mañana.",
     "ci_effect_Meadreduction_tt": "Consumo de hidromiel por hora:",
-    "panel_collector_HUDButton_Anniversary": "Caballeros elementales"
+    "panel_collector_HUDButton_Anniversary": "Caballeros \nelementales",
+    "research_need_three": "Requiere: {0} de nivel {1}, {2} de nivel {3} y {4} de nivel {5}.",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction_desc": "Reduces the cooldown time of Daimyo castles. The costs are paid using the alliance funds.",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction_desc": "Reduces the cooldown time of samurai camps. The costs are paid using the alliance funds.",
+    "dialog_alliance_chronic44_22": "Attack cooldown forDaimyo castles temporarily decreased",
+    "dialog_alliance_chronic44_21": "Attack cooldown for Samurai camps temporarily decreased",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction_percentage": "Attack cooldown for for Daimyo castles: -{0}%",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction": "Attack cooldown for for Daimyo castles",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction_percentage": "Attack cooldown for samurai camps: -{0}%",
+    "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction": "Attack cooldown for samurai camps",
+    "dialog_generals_overview_selectPvEGeneral_tab": "Your generals",
+    "dialog_generals_overview_selectGeneral_tab": "Your generals"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "Velocidad de viaje del ejército en las conquistas: +{0} %",
@@ -12605,7 +12629,8 @@
     "effect_description_allianceDefenseUnitAmountYardBonus": "Capacidad de tropas de ayudas de alianza: +{0}",
     "effect_description_hiddenSoldiersSpace": "Capacidad del refugio para unidades",
     "subscription_convenience_description_AutoCooldownSkip": "Activa la opción para usar omisiones de tiempo automáticamente y omitir el tiempo de espera de ataque de ciertos PNJ objetivo.",
-    "ci_effect_Meadreduction": "Consumo de hidromiel por hora: -{0}%"
+    "ci_effect_Meadreduction": "Consumo de hidromiel por hora: -{0}%",
+    "equip_effect_description_attackUnitAmountReinforcementBoost": "Capacidad de tropas para el asalto final: +{0} %."
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Héroe",
@@ -16354,7 +16379,15 @@
     "equipment_unique_2001": "Reloj de sol del astuto",
     "equipment_unique_2001_desc": "Transforma tus tropas en un ejército deslumbrante bajo el sol.",
     "equipment_unique_2002": "Ancla perdida",
-    "equipment_unique_2002_desc": "Transforma tu castillo en un naufragio."
+    "equipment_unique_2002_desc": "Transforma tu castillo en un naufragio.",
+    "equipment_unique_2004": "Estandarte del estratega retorcido",
+    "equipment_unique_2004_desc": "Esta bandera sirve para congregar a visitantes de todo el mundo. Transforma tu ejército en una festiva caravana de bávaros lista para irrumpir en el próximo jardín de la cerveza.",
+    "equipment_unique_2005": "Estandarte del estratega retorcido",
+    "equipment_unique_2005_desc": "Esta bandera sirve para congregar a visitantes de todo el mundo. Transforma tu ejército en una festiva caravana de bávaros lista para irrumpir en el próximo jardín de la cerveza.",
+    "equipment_unique_2006": "Fortificación salada",
+    "equipment_unique_2006_desc": "Este aperitivo fresco cubre tu castillo de rollitos de sosa cáustica. Muéstrales a todos cómo siente tu pueblo el espíritu del Oktoberfest.",
+    "equipment_unique_2003": "Barril de cerveza",
+    "equipment_unique_2003_desc": "Transforma tu castillo en una fortaleza espumosa."
   },
   "generic": {
     "activity": "Actividad",
@@ -18297,7 +18330,7 @@
     "rewards_colon": "Recompensas:",
     "offerings_colon": "Ofrecimientos",
     "btn_discord_loginScreen_desc": "Únete a la comunidad para enterarte de las novedades.",
-    "Messages_answer_prefix": "RV:"
+    "Messages_answer_prefix": "Re: {0}"
   },
   "help": {
     "help_location": "Aquí tienes una vista global del contenido importante de tu castillo y de todas tus bases remotas.",
