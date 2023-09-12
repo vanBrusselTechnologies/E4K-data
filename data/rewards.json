@@ -47015,7 +47015,8 @@
       "rewardID": 7697,
       "comment1": "Reward 45",
       "comment2": "Activity Reward Octoberfest 2022",
-      "addOctoberfestLTPEToken": 1000
+      "addOctoberfestLTPEToken": 1000,
+      "addSasakiToken": 1
     },
     {
       "rewardID": 7698,
@@ -50894,6 +50895,69 @@
       "comment2": "Lvl 50-69",
       "addAnniversaryToken": 7500,
       "addLegendaryMaterial": 300
+    },
+    {
+      "rewardID": 8328,
+      "comment1": "Octoberfest September 23 Top1",
+      "comment2": "Lvl 870",
+      "constructionItemIDs": 31428,
+      "decoWodID": 2758
+    },
+    {
+      "rewardID": 8329,
+      "comment1": "TopX1",
+      "comment2": "Lvl 870",
+      "constructionItemIDs": 30117,
+      "addSasakiToken": 1
+    },
+    {
+      "rewardID": 8330,
+      "comment1": "TopX2",
+      "comment2": "Lvl 870",
+      "addOctoberfestLTPEToken": 7500,
+      "addSaleDaysLuckyWheelTicket": 25
+    },
+    {
+      "rewardID": 8331,
+      "comment1": "Top1",
+      "comment2": "Lvl 70-869",
+      "constructionItemIDs": 31429,
+      "decoWodID": 2759
+    },
+    {
+      "rewardID": 8332,
+      "comment1": "TopX1",
+      "comment2": "Lvl 70-869",
+      "constructionItemIDs": 30116,
+      "addSasakiToken": 1
+    },
+    {
+      "rewardID": 8333,
+      "comment1": "TopX2",
+      "comment2": "Lvl 70-869",
+      "addOctoberfestLTPEToken": 7500,
+      "addSaleDaysLuckyWheelTicket": 15
+    },
+    {
+      "rewardID": 8334,
+      "comment1": "Top1",
+      "comment2": "Lvl 50-69",
+      "constructionItemIDs": 30116,
+      "decoWodID": 2761
+    },
+    {
+      "rewardID": 8335,
+      "comment1": "TopX1",
+      "comment2": "Lvl 50-69",
+      "constructionItemIDs": 30115,
+      "addSasakiToken": 1
+    },
+    {
+      "rewardID": 8336,
+      "comment1": "TopX2",
+      "comment2": "Lvl 50-69",
+      "addOctoberfestLTPEToken": 7500,
+      "constructionItemIDs": 30114
     },
     {
       "rewardID": 2753,

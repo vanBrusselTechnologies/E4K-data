@@ -628,6 +628,7 @@ export interface Images {
     "Castle_Mapobject_Capital_Classic_Special_MistwoodBastion": ImageData;
     "Castle_Mapobject_Capital_Classic_Special_MistyShroud": ImageData;
     "Castle_Mapobject_Capital_Classic_Special_PineconeBaron": ImageData;
+    "Castle_Mapobject_Capital_Classic_Special_PretzelCastellan": ImageData;
     "Castle_Mapobject_Capital_Classic_Special_RosewoodBud": ImageData;
     "Castle_Mapobject_Capital_Classic_Special_Sand": ImageData;
     "Castle_Mapobject_Capital_Classic_Special_Saxophone": ImageData;
@@ -693,6 +694,7 @@ export interface Images {
     "Castle_Mapobject_Special_MistwoodBastion": ImageData;
     "Castle_Mapobject_Special_MistyShroud": ImageData;
     "Castle_Mapobject_Special_PineconeBaron": ImageData;
+    "Castle_Mapobject_Special_PretzelCastellan": ImageData;
     "Castle_Mapobject_Special_RosewoodBud": ImageData;
     "Castle_Mapobject_Special_Sand": ImageData;
     "Castle_Mapobject_Special_Saxophone": ImageData;
@@ -1010,6 +1012,7 @@ export interface Images {
     "Deco_Building_NomadHorseStatue": ImageData;
     "Deco_Building_NutcrackersGrotto": ImageData;
     "Deco_Building_OktoberfestForestPond": ImageData;
+    "Deco_Building_OktoberfestStrength": ImageData;
     "Deco_Building_OnceAndFutureKings": ImageData;
     "Deco_Building_Outhouse": ImageData;
     "Deco_Building_PagodaGarden": ImageData;
@@ -1161,6 +1164,8 @@ export interface Images {
     "Deco_Building_loverParkour": ImageData;
     "Deco_Building_newKingBridgeGreen": ImageData;
     "Deco_Building_newKingBridgeRed": ImageData;
+    "Deco_Building_octoberfestParty": ImageData;
+    "Deco_Building_octoberfestPartyEnd": ImageData;
     "Deco_Building_octopusCarouselCyan": ImageData;
     "Deco_Building_octopusCarouselRed": ImageData;
     "Deco_Building_octopusGarden": ImageData;
@@ -2690,6 +2695,7 @@ export interface Images {
     "Metropol_Mapobject_Basic_Special_MistwoodBastion": ImageData;
     "Metropol_Mapobject_Basic_Special_MistyShroud": ImageData;
     "Metropol_Mapobject_Basic_Special_PineconeBaron": ImageData;
+    "Metropol_Mapobject_Basic_Special_PretzelCastellan": ImageData;
     "Metropol_Mapobject_Basic_Special_RosewoodBud": ImageData;
     "Metropol_Mapobject_Basic_Special_Sand": ImageData;
     "Metropol_Mapobject_Basic_Special_Saxophone": ImageData;
@@ -2878,6 +2884,7 @@ export interface Images {
     "Outpost_Mapobject_Level_Special_MistwoodBastion": ImageData;
     "Outpost_Mapobject_Level_Special_MistyShroud": ImageData;
     "Outpost_Mapobject_Level_Special_PineconeBaron": ImageData;
+    "Outpost_Mapobject_Level_Special_PretzelCastellan": ImageData;
     "Outpost_Mapobject_Level_Special_RosewoodBud": ImageData;
     "Outpost_Mapobject_Level_Special_Sand": ImageData;
     "Outpost_Mapobject_Level_Special_Saxophone": ImageData;
@@ -3111,6 +3118,7 @@ export interface Images {
     "Preview_Castle_Mapobject_Special_MistwoodBastion": ImageData;
     "Preview_Castle_Mapobject_Special_MistyShroud": ImageData;
     "Preview_Castle_Mapobject_Special_PineconeBaron": ImageData;
+    "Preview_Castle_Mapobject_Special_PretzelCastellan": ImageData;
     "Preview_Castle_Mapobject_Special_RosewoodBud": ImageData;
     "Preview_Castle_Mapobject_Special_Sand": ImageData;
     "Preview_Castle_Mapobject_Special_Saxophone": ImageData;
@@ -4234,10 +4242,13 @@ export interface Images {
     "icon_ci_effect_mayan": ImageData;
     "icon_ci_effect_nature": ImageData;
     "icon_ci_effect_newking": ImageData;
+    "icon_ci_effect_octoberfest": ImageData;
     "icon_ci_effect_pirates": ImageData;
+    "icon_ci_effect_refinery": ImageData;
     "icon_ci_effect_spring": ImageData;
     "icon_ci_effect_stpatrick": ImageData;
     "icon_ci_effect_summer": ImageData;
+    "icon_ci_effect_toolsmith": ImageData;
     "icon_ci_effect_venicecarnival": ImageData;
     "icon_ci_effect_winter": ImageData;
     "icon_ci_effect_wood": ImageData;
@@ -5704,6 +5715,9 @@ export interface Images {
     "icon_lock_xl": ImageData;
     "icon_locked_buy_coin": ImageData;
     "icon_locked_buy_rubie": ImageData;
+    "icon_login_apple_flat": ImageData;
+    "icon_login_facebook_flat": ImageData;
+    "icon_login_google_flat": ImageData;
     "icon_logo_e4k": ImageData;
     "icon_lootingcapacity": ImageData;
     "icon_lost_and_found": ImageData;
@@ -6231,6 +6245,8 @@ export interface Images {
     "icon_traveloverview_tab": ImageData;
     "icon_travelspee": ImageData;
     "icon_travelspeed": ImageData;
+    "icon_unit_militia": ImageData;
+    "icon_unit_peasant": ImageData;
     "icon_usa": ImageData;
     "icon_valentine": ImageData;
     "icon_versus": ImageData;
@@ -6420,6 +6436,9 @@ export interface Images {
     "items_unique_19": ImageData;
     "items_unique_2": ImageData;
     "items_unique_20": ImageData;
+    "items_unique_2004": ImageData;
+    "items_unique_2005": ImageData;
+    "items_unique_2006": ImageData;
     "items_unique_21": ImageData;
     "items_unique_22": ImageData;
     "items_unique_23": ImageData;
@@ -6909,6 +6928,7 @@ export interface Images {
     "natureResearchtower": ImageData;
     "newKingGuardhouse": ImageData;
     "nomadDrillGround": ImageData;
+    "octoberfestTower": ImageData;
     "partyGuardhouse": ImageData;
     "pirateBakery": ImageData;
     "pirateEstate": ImageData;
@@ -7052,6 +7072,8 @@ export interface Images {
     "relic_equipment_all_6": ImageData;
     "relic_equipment_all_7": ImageData;
     "research_categories_bg": ImageData;
+    "research_categories_bg_2": ImageData;
+    "research_categories_bg_3": ImageData;
     "research_tree_bg_1": ImageData;
     "research_tree_bg_2": ImageData;
     "research_tree_bg_3": ImageData;

@@ -12000,6 +12000,56 @@
       "mightValue": 2750,
       "canSlotGem": 0,
       "skinID": 1
+    },
+    {
+      "equipmentID": 2003,
+      "comment1": "Oktoberfest LTPE September 2023",
+      "comment2": "Beer Barrel",
+      "wearerID": 1,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 742,
+      "effects": "13&amp;7",
+      "duration": 336,
+      "mightValue": 0,
+      "canSlotGem": 1,
+      "skinID": 40
+    },
+    {
+      "equipmentID": 2004,
+      "comment1": "Sales Days Content September 2023",
+      "comment2": "PretzelCommander",
+      "wearerID": 2,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 2004,
+      "effects": "24&amp;4,23&amp;15,66&amp;5",
+      "duration": 12,
+      "mightValue": 0,
+      "canSlotGem": 1,
+      "skinID": 107
+    },
+    {
+      "equipmentID": 2005,
+      "comment1": "Sales Days Content September 2023",
+      "comment2": "PretzelCommander",
+      "wearerID": 2,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 2004,
+      "effects": "24&amp;4,23&amp;15,66&amp;5",
+      "duration": 168,
+      "mightValue": 0,
+      "canSlotGem": 1,
+      "skinID": 107
+    },
+    {
+      "equipmentID": 2006,
+      "comment1": "Sales Days Content September 2023",
+      "comment2": "PretzelCastellan",
+      "wearerID": 1,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 2006,
+      "mightValue": 0,
+      "canSlotGem": 0,
+      "skinID": 108
     }
   ]
 }

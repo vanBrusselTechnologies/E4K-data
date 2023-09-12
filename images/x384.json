@@ -9217,6 +9217,36 @@
     ],
     "fx": []
   },
+  "Deco_Building_octoberfestParty": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_octoberfestParty/Deco_Building_octoberfestParty.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 154,
+        "h": 104,
+        "rx": 913,
+        "ry": 965
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_octoberfestPartyEnd": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_octoberfestPartyEnd/Deco_Building_octoberfestPartyEnd.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 154,
+        "h": 121,
+        "rx": 913,
+        "ry": 948
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_octopusCarouselCyan": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_octopusCarouselCyan/Deco_Building_octopusCarouselCyan.png",
@@ -9318,6 +9348,21 @@
         "h": 135,
         "rx": 917,
         "ry": 932
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_OktoberfestStrength": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_OktoberfestStrength/Deco_Building_OktoberfestStrength.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 138,
+        "h": 129,
+        "rx": 915,
+        "ry": 934
       }
     ],
     "fx": []
@@ -14055,14 +14100,14 @@
         "x": 0,
         "y": 0,
         "w": 145,
-        "h": 138,
+        "h": 137,
         "rx": 936,
-        "ry": 933
+        "ry": 934
       }
     ],
     "fx": [
       {
-        "x": 10,
+        "x": 12,
         "y": 8,
         "scale": 0.25,
         "name": "fx_exclamationmark",
@@ -22808,6 +22853,29 @@
       }
     ],
     "fx": []
+  },
+  "octoberfestTower": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/octoberfestTower/octoberfestTower.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 89,
+        "h": 229,
+        "rx": 958,
+        "ry": 797
+      }
+    ],
+    "fx": [
+      {
+        "x": 1,
+        "y": -155,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
   },
   "partyGuardhouse": {
     "pid": 0,
@@ -59546,6 +59614,51 @@
     ],
     "fx": []
   },
+  "items_unique_2005": {
+    "pid": 0,
+    "url": "x384/Equipment/EquipmentShared/items_unique_2004_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_2004": {
+    "pid": 0,
+    "url": "x384/Equipment/EquipmentShared/items_unique_2004_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_2006": {
+    "pid": 0,
+    "url": "x384/Equipment/EquipmentShared/items_unique_2006_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
   "relic_equipment_1_3": {
     "pid": 1,
     "url": "x384/Equipment/EquipmentShared/relic_equipment_1_2_Shared.png",
@@ -69906,7 +70019,7 @@
   },
   "icon_ci_effect_alien": {
     "pid": 0,
-    "url": "x384/Icons/CI_Icons/icon_ci_effect_alien.png",
+    "url": "x384/Misc/CI_Icons/icon_ci_effect_alien.png",
     "frames": [
       {
         "x": 0,
@@ -69921,7 +70034,7 @@
   },
   "icon_ci_effect_anniversary": {
     "pid": 2,
-    "url": "x384/Icons/CI_Icons/icon_ci_effect_anniversary.png",
+    "url": "x384/Misc/CI_Icons/icon_ci_effect_anniversary.png",
     "frames": [
       {
         "x": 0,
@@ -69936,7 +70049,7 @@
   },
   "icon_ci_effect_autumn": {
     "pid": 2,
-    "url": "x384/Icons/CI_Icons/icon_ci_effect_autumn.png",
+    "url": "x384/Misc/CI_Icons/icon_ci_effect_autumn.png",
     "frames": [
       {
         "x": 0,
@@ -69951,7 +70064,7 @@
   },
   "icon_ci_effect_blackleague": {
     "pid": 2,
-    "url": "x384/Icons/CI_Icons/icon_ci_effect_blackleague.png",
+    "url": "x384/Misc/CI_Icons/icon_ci_effect_blackleague.png",
     "frames": [
       {
         "x": 0,
@@ -69966,7 +70079,7 @@
   },
   "icon_ci_effect_christmas": {
     "pid": 0,
-    "url": "x384/Icons/CI_Icons/icon_ci_effect_christmas.png",
+    "url": "x384/Misc/CI_Icons/icon_ci_effect_christmas.png",
     "frames": [
       {
         "x": 0,
@@ -69981,7 +70094,7 @@
   },
   "icon_ci_effect_easter": {
     "pid": 0,
-    "url": "x384/Icons/CI_Icons/icon_ci_effect_easter.png",
+    "url": "x384/Misc/CI_Icons/icon_ci_effect_easter.png",
     "frames": [
       {
         "x": 0,
@@ -69996,7 +70109,7 @@
   },
   "icon_ci_effect_elven": {
     "pid": 2,
-    "url": "x384/Icons/CI_Icons/icon_ci_effect_elven.png",
+    "url": "x384/Misc/CI_Icons/icon_ci_effect_elven.png",
     "frames": [
       {
         "x": 0,
@@ -70011,7 +70124,7 @@
   },
   "icon_ci_effect_goat": {
     "pid": 2,
-    "url": "x384/Icons/CI_Icons/icon_ci_effect_goat.png",
+    "url": "x384/Misc/CI_Icons/icon_ci_effect_goat.png",
     "frames": [
       {
         "x": 0,
@@ -70026,7 +70139,7 @@
   },
   "icon_ci_effect_granite": {
     "pid": 2,
-    "url": "x384/Icons/CI_Icons/icon_ci_effect_granite.png",
+    "url": "x384/Misc/CI_Icons/icon_ci_effect_granite.png",
     "frames": [
       {
         "x": 0,
@@ -70041,7 +70154,7 @@
   },
   "icon_ci_effect_halloween": {
     "pid": 2,
-    "url": "x384/Icons/CI_Icons/icon_ci_effect_halloween.png",
+    "url": "x384/Misc/CI_Icons/icon_ci_effect_halloween.png",
     "frames": [
       {
         "x": 0,
@@ -70056,7 +70169,7 @@
   },
   "icon_ci_effect_indian": {
     "pid": 0,
-    "url": "x384/Icons/CI_Icons/icon_ci_effect_indian.png",
+    "url": "x384/Misc/CI_Icons/icon_ci_effect_indian.png",
     "frames": [
       {
         "x": 0,
@@ -70071,7 +70184,7 @@
   },
   "icon_ci_effect_mayan": {
     "pid": 0,
-    "url": "x384/Icons/CI_Icons/icon_ci_effect_mayan.png",
+    "url": "x384/Misc/CI_Icons/icon_ci_effect_mayan.png",
     "frames": [
       {
         "x": 0,
@@ -70086,7 +70199,7 @@
   },
   "icon_ci_effect_nature": {
     "pid": 2,
-    "url": "x384/Icons/CI_Icons/icon_ci_effect_nature.png",
+    "url": "x384/Misc/CI_Icons/icon_ci_effect_nature.png",
     "frames": [
       {
         "x": 0,
@@ -70101,7 +70214,7 @@
   },
   "icon_ci_effect_newking": {
     "pid": 0,
-    "url": "x384/Icons/CI_Icons/icon_ci_effect_newking.png",
+    "url": "x384/Misc/CI_Icons/icon_ci_effect_newking.png",
     "frames": [
       {
         "x": 0,
@@ -70114,9 +70227,24 @@
     ],
     "fx": []
   },
+  "icon_ci_effect_octoberfest": {
+    "pid": 0,
+    "url": "x384/Misc/CI_Icons/icon_ci_effect_octoberfest.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 41,
+        "rx": 976,
+        "ry": 979
+      }
+    ],
+    "fx": []
+  },
   "icon_ci_effect_pirates": {
     "pid": 2,
-    "url": "x384/Icons/CI_Icons/icon_ci_effect_pirates.png",
+    "url": "x384/Misc/CI_Icons/icon_ci_effect_pirates.png",
     "frames": [
       {
         "x": 0,
@@ -70129,9 +70257,24 @@
     ],
     "fx": []
   },
+  "icon_ci_effect_refinery": {
+    "pid": 0,
+    "url": "x384/Icons/CI_Icons/icon_ci_effect_refinery.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 53,
+        "rx": 973,
+        "ry": 973
+      }
+    ],
+    "fx": []
+  },
   "icon_ci_effect_spring": {
     "pid": 2,
-    "url": "x384/Icons/CI_Icons/icon_ci_effect_spring.png",
+    "url": "x384/Misc/CI_Icons/icon_ci_effect_spring.png",
     "frames": [
       {
         "x": 0,
@@ -70146,7 +70289,7 @@
   },
   "icon_ci_effect_stpatrick": {
     "pid": 0,
-    "url": "x384/Icons/CI_Icons/icon_ci_effect_stpatrick.png",
+    "url": "x384/Misc/CI_Icons/icon_ci_effect_stpatrick.png",
     "frames": [
       {
         "x": 0,
@@ -70161,7 +70304,7 @@
   },
   "icon_ci_effect_summer": {
     "pid": 2,
-    "url": "x384/Icons/CI_Icons/icon_ci_effect_summer.png",
+    "url": "x384/Misc/CI_Icons/icon_ci_effect_summer.png",
     "frames": [
       {
         "x": 0,
@@ -70174,16 +70317,31 @@
     ],
     "fx": []
   },
+  "icon_ci_effect_toolsmith": {
+    "pid": 0,
+    "url": "x384/Icons/CI_Icons/icon_ci_effect_toolsmith.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 55,
+        "rx": 972,
+        "ry": 972
+      }
+    ],
+    "fx": []
+  },
   "icon_ci_effect_venicecarnival": {
     "pid": 0,
-    "url": "x384/Icons/CI_Icons/icon_ci_effect_venicecarnival.png",
+    "url": "x384/Misc/CI_Icons/icon_ci_effect_venicecarnival.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
         "w": 46,
         "h": 59,
-        "rx": 976,
+        "rx": 977,
         "ry": 970
       }
     ],
@@ -70191,7 +70349,7 @@
   },
   "icon_ci_effect_winter": {
     "pid": 2,
-    "url": "x384/Icons/CI_Icons/icon_ci_effect_winter.png",
+    "url": "x384/Misc/CI_Icons/icon_ci_effect_winter.png",
     "frames": [
       {
         "x": 0,
@@ -70206,7 +70364,7 @@
   },
   "icon_ci_effect_wood": {
     "pid": 2,
-    "url": "x384/Icons/CI_Icons/icon_ci_effect_wood.png",
+    "url": "x384/Misc/CI_Icons/icon_ci_effect_wood.png",
     "frames": [
       {
         "x": 0,
@@ -86339,6 +86497,51 @@
         "w": 35,
         "h": 33,
         "rx": 982,
+        "ry": 983
+      }
+    ],
+    "fx": []
+  },
+  "icon_login_apple_flat": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_login_apple_flat.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 31,
+        "h": 36,
+        "rx": 984,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "icon_login_facebook_flat": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_login_facebook_flat.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 21,
+        "h": 39,
+        "rx": 989,
+        "ry": 980
+      }
+    ],
+    "fx": []
+  },
+  "icon_login_google_flat": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_login_google_flat.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 33,
+        "h": 33,
+        "rx": 983,
         "ry": 983
       }
     ],
@@ -106744,6 +106947,36 @@
     ],
     "fx": []
   },
+  "research_categories_bg_2": {
+    "pid": 2,
+    "url": "x384/Misc/Miscellaneous/research_categories_bg_2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 769,
+        "h": 291,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "research_categories_bg_3": {
+    "pid": 2,
+    "url": "x384/Misc/Miscellaneous/research_categories_bg_3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 769,
+        "h": 437,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
   "research_categories_bg": {
     "pid": 2,
     "url": "x384/Misc/Miscellaneous/research_categories_bg.png",
@@ -123390,6 +123623,36 @@
     ],
     "fx": []
   },
+  "icon_unit_militia": {
+    "pid": 0,
+    "url": "x384/Units/UnitIcons/icon_unit_militia.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 27,
+        "h": 41,
+        "rx": 986,
+        "ry": 979
+      }
+    ],
+    "fx": []
+  },
+  "icon_unit_peasant": {
+    "pid": 0,
+    "url": "x384/Units/UnitIcons/icon_unit_peasant.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 29,
+        "h": 41,
+        "rx": 985,
+        "ry": 979
+      }
+    ],
+    "fx": []
+  },
   "WinterOffensive_Empty_Mapobject_Bush1x1_1_Classic": {
     "pid": 0,
     "url": "x384/Worldmap/Events/WinterOffensive_WorldmapAssets_Classic/WinterOffensive_Empty_Mapobject_Bush1x1_1_Classic.png",
@@ -125815,6 +126078,29 @@
       {
         "x": 3,
         "y": 10,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "Castle_Mapobject_Special_PretzelCastellan": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_PretzelCastellan.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 43,
+        "h": 40,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": [
+      {
+        "x": 27,
+        "y": 0,
         "scale": 0.52,
         "name": "flagHolder",
         "rotation": 0
@@ -129330,6 +129616,29 @@
       }
     ]
   },
+  "Castle_Mapobject_Capital_Classic_Special_PretzelCastellan": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_PretzelCastellan.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 82,
+        "rx": 981,
+        "ry": 978
+      }
+    ],
+    "fx": [
+      {
+        "x": 30,
+        "y": -20,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Castle_Mapobject_Capital_Classic_Special_RosewoodBud": {
     "pid": 0,
     "url": "x384/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_RosewoodBud.png",
@@ -130869,6 +131178,29 @@
       }
     ]
   },
+  "Metropol_Mapobject_Basic_Special_PretzelCastellan": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_PretzelCastellan.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 58,
+        "rx": 991,
+        "ry": 1002
+      }
+    ],
+    "fx": [
+      {
+        "x": 5,
+        "y": 4,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Metropol_Mapobject_Basic_Special_RosewoodBud": {
     "pid": 0,
     "url": "x384/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_RosewoodBud.png",
@@ -132316,6 +132648,29 @@
       {
         "x": 26,
         "y": 6,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "Outpost_Mapobject_Level_Special_PretzelCastellan": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Outposts/Outpost_Mapobject_Level_Special_PretzelCastellan/Outpost_Mapobject_Level_Special_PretzelCastellan.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 26,
+        "h": 33,
+        "rx": 1007,
+        "ry": 1002
+      }
+    ],
+    "fx": [
+      {
+        "x": 28,
+        "y": 4,
         "scale": 0.52,
         "name": "flagHolder",
         "rotation": 0
@@ -134303,6 +134658,21 @@
         "h": 95,
         "rx": 953,
         "ry": 952
+      }
+    ],
+    "fx": []
+  },
+  "Preview_Castle_Mapobject_Special_PretzelCastellan": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Previews/Mapobjects_Preview/Preview_Castle_Mapobject_Special_PretzelCastellan.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 91,
+        "rx": 954,
+        "ry": 956
       }
     ],
     "fx": []

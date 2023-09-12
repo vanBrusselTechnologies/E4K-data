@@ -4337,12 +4337,12 @@
       "questSeriesID": 8,
       "questSeriesNumber": 1,
       "numberOfQuestsInSeries": 1,
-      "requiredLevel": 45,
-      "questGiverID": 34,
+      "requiredLevel": 11,
+      "questGiverID": 0,
       "conditions": "buildings+1+756",
       "xp": 300,
-      "shownKingdomID": -1,
-      "triggerKingdomID": -1,
+      "shownKingdomID": 0,
+      "triggerKingdomID": 0,
       "constructionItemIDs": 45
     },
     {

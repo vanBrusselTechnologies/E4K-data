@@ -145,6 +145,7 @@ export interface Data {
     luckywheelrewardsets: LuckyWheelRewardSet[];
     mainquests: MainQuest[];
     merchants: Merchant[];
+    messageRestrictions: MessageRestriction[];
     mightranks: MightRank[];
     mineTypes: MineType[];
     monuments: Monument[];
@@ -2072,6 +2073,13 @@ export interface Merchant {
     "id": number;
     "name": string;
     "packageCategories"?: string;
+}
+
+export interface MessageRestriction {
+    "dailyLimitPerPlayer": number;
+    "messageRestrictionID": number;
+    "messageType": number;
+    "minLevel": number;
 }
 
 export interface MightRank {
