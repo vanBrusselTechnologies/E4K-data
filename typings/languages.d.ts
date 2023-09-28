@@ -486,6 +486,7 @@ export interface Language {
         "ALLI_IS_NOT_AUTO_JOIN_ENABLED": string;
         "ALLI_IS_NOT_AUTO_JOIN_ENABLED_HEADER": string;
         "alert_AchievementLevelTooLow": string;
+        "alert_C2PurchaseNotEnabled": string;
         "alert_OverwriteOldAccount_copy": string;
         "alert_PlayerRuin": string;
         "alert_account_deleted_newaccount": string;
@@ -1014,6 +1015,8 @@ export interface Language {
         "ci_appearance_elvenStorage_flavour": string;
         "ci_appearance_estateAlien": string;
         "ci_appearance_estateAlien_flavour": string;
+        "ci_appearance_halloweenHunter": string;
+        "ci_appearance_halloweenHunter_flavour": string;
         "ci_appearance_mistwoodBarracks": string;
         "ci_appearance_mistwoodBarracks_flavour": string;
         "ci_appearance_natureResearchTower": string;
@@ -1100,9 +1103,11 @@ export interface Language {
         "ci_blueprint_offensiveRangeBonus": string;
         "ci_blueprint_refineryBoost": string;
         "ci_blueprint_refineryBoost_secondary": string;
+        "ci_blueprint_refineryBoost_secondary_premium": string;
         "ci_blueprint_stoneProduction": string;
         "ci_blueprint_toolsmithBoost": string;
         "ci_blueprint_toolsmithBoost_secondary": string;
+        "ci_blueprint_toolsmithBoost_secondary_premium": string;
         "ci_blueprint_unboostedFoodProduction": string;
         "ci_blueprint_unboostedFoodProduction_secondary": string;
         "ci_blueprint_unboostedFoodProduction_secondary_premium": string;
@@ -1255,6 +1260,7 @@ export interface Language {
         "deco_HuntersRest_name": string;
         "deco_IndianWaterTempleBrown_name": string;
         "deco_IndianWaterTempleWhite_name": string;
+        "deco_InfernalTurtleHut_name": string;
         "deco_KingOfCommunity_name": string;
         "deco_LeprechaunFloat_name": string;
         "deco_LizardSlide_name": string;
@@ -1353,6 +1359,7 @@ export interface Language {
         "deco_christmashut_name": string;
         "deco_christmastower_name": string;
         "deco_classicdovecote_name": string;
+        "deco_corruptedgoddessOfNature_name": string;
         "deco_crowBloodCavern_name": string;
         "deco_crowsCrypt_name": string;
         "deco_crusadelarge_name": string;
@@ -1404,6 +1411,8 @@ export interface Language {
         "deco_guardOfHonor_name": string;
         "deco_guardianOfTheEmpire_name": string;
         "deco_guardiansOfDeath_name": string;
+        "deco_halloweenCrypt_name": string;
+        "deco_halloweenSludgeCrypt_name": string;
         "deco_halloweenTree_name": string;
         "deco_halloween_name": string;
         "deco_hanamiTeahouse_name": string;
@@ -1538,6 +1547,7 @@ export interface Language {
         "deco_wcampfire_name": string;
         "deco_weaponrack_name": string;
         "deco_wellOfDarkness_name": string;
+        "deco_wellofmadness_name": string;
         "deco_whiteladystatue_name": string;
         "deco_wickerBunny_name": string;
         "deco_winterStoneSpider_name": string;
@@ -2257,6 +2267,8 @@ export interface Language {
         "ci_appearance_wofBakery": string;
         "ci_appearance_wofBakery_flavour": string;
         "ci_blueprint_reduceResearchResourceCosts": string;
+        "ci_blueprint_relicRefineryBoost": string;
+        "ci_blueprint_relicToolsmithBoost": string;
         "ci_blueprint_xpBoostBuildBuildings": string;
         "ci_effect_HoneyProductionincrease_tt": string;
         "ci_effect_MeadProductionincrease_tt": string;
@@ -2304,6 +2316,8 @@ export interface Language {
         "ci_effect_winterMill": string;
         "ci_effect_winterStonemason": string;
         "ci_effect_winterStorehouse": string;
+        "ci_secondary_relicRefineryBoost_premium": string;
+        "ci_secondary_relicToolsmithBoost_premium": string;
         "ciblueprint_tooltip_firstLevel": string;
         "ciblueprint_tooltip_maxLevel": string;
         "coalStorage_capacityBonus_tt": string;
@@ -2964,9 +2978,8 @@ export interface Language {
         "dialog_alliance_chronic44_17": string;
         "dialog_alliance_chronic44_18": string;
         "dialog_alliance_chronic44_19": string;
-        "dialog_alliance_chronic44_20": string;
+        "dialog_alliance_chronic44_20": object;
         "dialog_alliance_chronic44_21": string;
-        "dialog_alliance_chronic44_22": string;
         "dialog_alliance_chronic45": string;
         "dialog_alliance_chronic45_16": string;
         "dialog_alliance_chronic46": string;
@@ -5870,6 +5883,7 @@ export interface Language {
         "dialog_levelup_description": string;
         "dialog_levelup_description_legend": string;
         "dialog_levelup_unlockInfo": string;
+        "dialog_listOverview_castleBurning_desc": string;
         "dialog_listOverview_title": string;
         "dialog_loc_laboratory_bonus": string;
         "dialog_loc_laboratory_reset": string;
@@ -7349,6 +7363,18 @@ export interface Language {
         "dialog_renegadeFoundMap_copy": string;
         "dialog_renegadeFoundMap_title": string;
         "dialog_renegadeFoundPiece_desc": string;
+        "dialog_repairAll_confirmationPopup_desc": string;
+        "dialog_repairAll_confirmationPopup_subHeader": string;
+        "dialog_repairAll_confirmation_header": string;
+        "dialog_repairAll_costReduction_countdown_desc": string;
+        "dialog_repairAll_desc": string;
+        "dialog_repairAll_finalPrice_desc": string;
+        "dialog_repairAll_header": string;
+        "dialog_repairAll_repairCoins_countdown_desc": string;
+        "dialog_repairAll_subHeader_openGate": string;
+        "dialog_repairAll_subHeader_peaceProtection": string;
+        "dialog_repairAll_subHeader_repairAll_gold": string;
+        "dialog_repairAll_subHeader_repairAll_rubies": string;
         "dialog_repairBridge_copy": string;
         "dialog_repairBridge_copy_2": string;
         "dialog_repairBridge_payNormal": string;
@@ -10077,6 +10103,7 @@ export interface Language {
         "panel_option_restoreSub": string;
         "panel_state_levelCap": string;
         "peaceMode": string;
+        "peaceProtection_active": string;
         "percentage_range_minusMinus_desc": string;
         "percentage_range_minusPlus_desc": string;
         "percentage_range_neutral_desc": string;
@@ -11339,6 +11366,7 @@ export interface Language {
         "webshop_eventName_samuraiInvasion_placeholder": string;
         "webshop_fieldcannon_desc": string;
         "webshop_firebomb_desc": string;
+        "webshop_fortifiedram_desc": string;
         "webshop_genericSaleDays_extraLarge_name": string;
         "webshop_genericSaleDays_giant_name": string;
         "webshop_genericSaleDays_huge_name": string;
@@ -11347,6 +11375,7 @@ export interface Language {
         "webshop_genericSaleDays_small_name": string;
         "webshop_generic_errorOccured": string;
         "webshop_global_discount_notice": string;
+        "webshop_glorytower_desc": string;
         "webshop_goldenWeek_extraLarge_name": string;
         "webshop_goldenWeek_giant_name": string;
         "webshop_goldenWeek_huge_name": string;
@@ -11360,6 +11389,8 @@ export interface Language {
         "webshop_halloween_large_name": string;
         "webshop_halloween_medium_name": string;
         "webshop_halloween_small_name": string;
+        "webshop_hookshotcannon_desc": string;
+        "webshop_hwacha_desc": string;
         "webshop_itemtemporary_desc_812": string;
         "webshop_itemtemporary_desc_813": string;
         "webshop_itemtemporary_desc_814": string;
@@ -11526,6 +11557,7 @@ export interface Language {
         "webshop_sidepanel_paymentShop": string;
         "webshop_sidepanel_promoPackages": string;
         "webshop_sidepanel_subscriptions": string;
+        "webshop_siegemortar_desc": string;
         "webshop_singlesDay_large_name": string;
         "webshop_singlesDay_medium_name": string;
         "webshop_singlesDay_small_name": string;
@@ -13656,6 +13688,8 @@ export interface Language {
         "equipment_unique_2005_desc": string;
         "equipment_unique_2006": string;
         "equipment_unique_2006_desc": string;
+        "equipment_unique_2007": string;
+        "equipment_unique_2007_desc": string;
         "equipment_unique_20_desc": string;
         "equipment_unique_21": string;
         "equipment_unique_21_desc": string;
@@ -18072,6 +18106,7 @@ export interface Language {
         "spies": string;
         "spylog": string;
         "standard": string;
+        "startsIn_colon": string;
         "stats_attackAmountEnemyAllianceTower": string;
         "stats_attackAmountResourceTower": string;
         "stats_buffActivationAllianceCastle": string;
@@ -22585,6 +22620,10 @@ export interface Language {
         "EmperorBerimondPointBoost_short_info": string;
         "EmperorKhanChest_name": string;
         "EmperorKhanChest_short_info": string;
+        "ForlornRanger_name": string;
+        "ForlornRanger_short_info": string;
+        "ForsakenMaiden_name": string;
+        "ForsakenMaiden_short_info": string;
         "MayaArrow_name": string;
         "MayaArrow_short_info": string;
         "MayaEliteMelee_name": string;

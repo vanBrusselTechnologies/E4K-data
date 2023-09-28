@@ -1636,6 +1636,18 @@
       "capID": 99
     },
     {
+      "effectID": 341,
+      "name": "refinedResourceQueueBoost",
+      "effectTypeID": 186,
+      "capID": 99
+    },
+    {
+      "effectID": 342,
+      "name": "componentQueueBoost",
+      "effectTypeID": 187,
+      "capID": 99
+    },
+    {
       "effectID": 129,
       "name": "healingSpeedIncreaseBoostPremium",
       "effectTypeID": 120,
@@ -2215,6 +2227,20 @@
       "effectTypeID": 27,
       "capID": 99,
       "areaTypeID": 27
+    },
+    {
+      "effectID": 365,
+      "name": "allianceSamuraiCooldownReduction",
+      "effectTypeID": 27,
+      "capID": 99,
+      "areaTypeID": 29
+    },
+    {
+      "effectID": 366,
+      "name": "allianceDaimyoCooldownReduction",
+      "effectTypeID": 27,
+      "capID": 99,
+      "areaTypeID": 37
     },
     {
       "effectID": 285,

@@ -878,7 +878,8 @@
     "errorCode_222": "General is travelling with a commander/castellan.",
     "errorCode_311": "This process has already been completed.",
     "errorCode_446": "You cant purchase this currency right now, because you dont have enough space.",
-    "needMoatUpgrade": "Moat upgrade needed"
+    "needMoatUpgrade": "Moat upgrade needed",
+    "alert_C2PurchaseNotEnabled": "The purchase of rubies is currently not enabled."
   },
   "buildings_and_decorations": {
     "bakery_name": "Bakery",
@@ -1824,7 +1825,16 @@
     "ci_blueprint_toolsmithBoost_secondary": "Relic toolsmith production blueprint",
     "ci_blueprint_refineryBoost_secondary": "Relic refinery production blueprint",
     "ci_effect_toolsmithBoost_blueprint": "Toolsmith production bonus",
-    "ci_effect_refineryBoost_blueprint": "Refinery production bonus"
+    "ci_effect_refineryBoost_blueprint": "Refinery production bonus",
+    "deco_InfernalTurtleHut_name": "Hut of the infernal shaman",
+    "deco_corruptedgoddessOfNature_name": "Corrupted nature goddess",
+    "deco_wellofmadness_name": "Well of madness",
+    "ci_appearance_halloweenHunter_flavour": "Terrible beasts stalk through the foggy autumn forests... only the most courageous hunters dare to face them.",
+    "ci_appearance_halloweenHunter": "Spooky Hunting Lodge",
+    "deco_halloweenSludgeCrypt_name": "Defiled crypt",
+    "deco_halloweenCrypt_name": "Spooky crypt",
+    "ci_blueprint_toolsmithBoost_secondary_premium": "Premium relic toolsmith production blueprint",
+    "ci_blueprint_refineryBoost_secondary_premium": "Premium relic refinery production blueprint"
   },
   "dialogs": {
     "dialog_festival_desc": "Use your food to hold a feast for your citizens!\nSoldiers will be recruited much more quickly in all of your castles for as long as the feast lasts. The bigger the feast, the greater the effect.",
@@ -9169,7 +9179,10 @@
     "dialog_beyondTheHorizon_main_performance_title": "Performance",
     "dialog_alliance_temporaryBoost_healingSpeedIncreaseBoostPremium_desc": "Increases healing speed bonus for ruby &amp; coin units. The costs are paid using the alliance funds.",
     "dialog_alliance_temporaryBoost_healingSpeedIncreaseBoostPremium_percentage": "Healing speed bonus for ruby &amp; coin units: +{0}%",
-    "dialog_alliance_chronic44_20": "Healing speed bonus for ruby &amp; coin units temporarily increased",
+    "dialog_alliance_chronic44_20": [
+      "Healing speed bonus for ruby &amp; coin units temporarily increased",
+      "Attack cooldown for Samurai camps temporarily decreased"
+    ],
     "dialog_alliance_chronic44_19": "Healing speed bonus for ruby &amp; coin units temporarily increased",
     "dialog_tempServer_scoring_desc_rankSwap": "Collect daily ranking points by launching attacks on the main castle of your enemies in the Great Empire and swap ranking positions with them. Eligible players are marked in the daily ranking list.",
     "dialog_primeDayPO_desc_07": "Bask in the shimmering riches of summer!",
@@ -11590,10 +11603,9 @@
     "research_need_three": "Requires: {0} at level {1}, {2} at level {3}, and {4} at level {5}",
     "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction_desc": "Reduces the cooldown time of Daimyo castles. The costs are paid using alliance funds.",
     "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction_desc": "Reduces the cooldown time of samurai camps. The costs are paid using alliance funds.",
-    "dialog_alliance_chronic44_22": "Attack cooldown for Daimyo castles temporarily decreased",
-    "dialog_alliance_chronic44_21": "Attack cooldown for Samurai camps temporarily decreased",
+    "dialog_alliance_chronic44_21": "Attack cooldown for Daimyo castles temporarily decreased",
     "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction_percentage": "Attack cooldown for Daimyo castles: -{0}%",
-    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction": "Attack cooldown for for Daimyo castles",
+    "dialog_alliance_temporaryBoost_allianceDaimyoCooldownReduction": "Attack cooldown for Daimyo castles",
     "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction_percentage": "Attack cooldown for samurai camps: -{0}%",
     "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction": "Attack cooldown for samurai camps",
     "dialog_generals_overview_selectPvEGeneral_tab": "Your generals",
@@ -11601,7 +11613,30 @@
     "effect_description_attackBonusUnitBloodcrowsCI": "+{0} combat strength when attacking Bloodcrow castles (build item effect)",
     "effect_description_attackBonusUnitAlienCI": "+{0} combat strength when attacking Foreign castles (build item effect)",
     "ci_effect_attackBonusUnitBloodcrows_tt": "Combat strength when attacking Bloodcrow castles:",
-    "ci_effect_attackBonusUnitAlien_tt": "Combat strength when attacking foreign castles:"
+    "ci_effect_attackBonusUnitAlien_tt": "Combat strength when attacking foreign castles:",
+    "dialog_listOverview_castleBurning_desc": "Damaged buildings in this castle",
+    "dialog_repairAll_confirmationPopup_desc": "Repair all damage in your main castle instantly! All existing damage to your buildings caused by attacks, sabotage, and plague doctors will be fixed immediately! Production and public order will be fully restored! Only applies to the selected castle.",
+    "dialog_repairAll_confirmationPopup_subHeader": "Fix damage immediately!",
+    "dialog_repairAll_confirmation_header": "Repair all buildings",
+    "dialog_repairAll_costReduction_countdown_desc": "Cost reduction in:",
+    "dialog_repairAll_desc": "Your castle has been attacked or sabotaged, and some of the buildings are burning! Burning buildings have a lower output and also decrease public order! Repair them as fast as possible!",
+    "dialog_repairAll_finalPrice_desc": "Final price!",
+    "dialog_repairAll_header": "Repair damage",
+    "dialog_repairAll_repairCoins_countdown_desc": "Switch cost to coins in:",
+    "dialog_repairAll_subHeader_openGate": "Buy Open Gate",
+    "dialog_repairAll_subHeader_peaceProtection": "Buy protection mode",
+    "dialog_repairAll_subHeader_repairAll_gold": "Repair all for coins",
+    "dialog_repairAll_subHeader_repairAll_rubies": "Repair all for rubies",
+    "peaceProtection_active": "Protection mode active:",
+    "webshop_fortifiedram_desc": "Gain fortified ram level {0} siege tools.",
+    "webshop_hookshotcannon_desc": "Gain hookshot cannon level {0} siege tools.",
+    "webshop_hwacha_desc": "Gain hwacha level {0} siege tools.",
+    "webshop_glorytower_desc": "Gain glory tower level {0} siege tools.",
+    "webshop_siegemortar_desc": "Gain siege mortar level {0} siege tools.",
+    "ci_blueprint_relicToolsmithBoost": "Premium relic toolsmith production blueprint",
+    "ci_blueprint_relicRefineryBoost": "Premium relic refinery production blueprint",
+    "ci_secondary_relicRefineryBoost_premium": "Premium relic refinery production build item",
+    "ci_secondary_relicToolsmithBoost_premium": "Premium relic toolsmith production build item"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% army travel speed during conquests",
@@ -16397,7 +16432,9 @@
     "equipment_unique_2006": "Salted Stronghold",
     "equipment_unique_2006_desc": "This fine and fresh dough covers your castle in lye rolls. Let everyone know that the spirit of Octoberfest lies within your people.",
     "equipment_unique_2003": "Beer barrel",
-    "equipment_unique_2003_desc": "Transforms your castle into a foamy fortress."
+    "equipment_unique_2003_desc": "Transforms your castle into a foamy fortress.",
+    "equipment_unique_2007_desc": "Transforms your castle into a Fortress of the Dead.",
+    "equipment_unique_2007": "Ring of ruin"
   },
   "generic": {
     "activity": "Activity",
@@ -18340,7 +18377,8 @@
     "rewards_colon": "Rewards:",
     "offerings_colon": "Offerings:",
     "btn_discord_loginScreen_desc": "Join our community for the latest news",
-    "Messages_answer_prefix": "Re: {0}"
+    "Messages_answer_prefix": "Re: {0}",
+    "startsIn_colon": "Starts in:"
   },
   "help": {
     "help_location": "Here you have a global overview of the important contents of your castle and all your outposts.",
@@ -22795,7 +22833,11 @@
     "EliteRankrewardmeleeUSA_short_info": "Extremely powerful melee attacker. Ideal against ranged defenders.",
     "EliteRankrewardmeleeUSA_name": "Star-Spangled Veteran demon horror",
     "RenegadeMayaRange_short_info": "Very powerful in defense. Ideal against ranged attackers.",
-    "RenegadeMayaEliteRange_short_info": "Very powerful in defense. Ideal against ranged attackers."
+    "RenegadeMayaEliteRange_short_info": "Very powerful in defense. Ideal against ranged attackers.",
+    "ForlornRanger_short_info": "Extremely powerful ranged attacker",
+    "ForlornRanger_name": "Forlorn ranger",
+    "ForsakenMaiden_short_info": "Extremely powerful melee attacker",
+    "ForsakenMaiden_name": "Forsaken maiden"
   },
   "generic_flash": {
     "Footer": {

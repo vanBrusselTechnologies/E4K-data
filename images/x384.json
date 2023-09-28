@@ -7335,6 +7335,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_corruptedgoddessOfNature": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_corruptedgoddessOfNature/Deco_Building_corruptedgoddessOfNature.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 142,
+        "h": 136,
+        "rx": 917,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_CrowBloodCavern": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_CrowBloodCavern/Deco_Building_CrowBloodCavern.png",
@@ -8341,6 +8356,36 @@
     ],
     "fx": []
   },
+  "Deco_Building_halloweenCrypt": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_halloweenCrypt/Deco_Building_halloweenCrypt.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 144,
+        "h": 133,
+        "rx": 906,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_halloweenSludgeCrypt": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_halloweenSludgeCrypt/Deco_Building_halloweenSludgeCrypt.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 144,
+        "h": 133,
+        "rx": 906,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_HalloweenTree": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_HalloweenTree/Deco_Building_HalloweenTree.png",
@@ -8517,6 +8562,21 @@
         "h": 116,
         "rx": 912,
         "ry": 951
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_InfernalTurtleHut": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_InfernalTurtleHut/Deco_Building_InfernalTurtleHut.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 129,
+        "h": 114,
+        "rx": 922,
+        "ry": 949
       }
     ],
     "fx": []
@@ -11158,6 +11218,21 @@
         "h": 124,
         "rx": 924,
         "ry": 936
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_wellofmadness": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_wellofmadness/Deco_Building_wellofmadness.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 135,
+        "rx": 918,
+        "ry": 931
       }
     ],
     "fx": []
@@ -22640,6 +22715,29 @@
       }
     ],
     "fx": []
+  },
+  "halloweenHunter": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/halloweenHunter/halloweenHunter.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 123,
+        "rx": 952,
+        "ry": 930
+      }
+    ],
+    "fx": [
+      {
+        "x": -1,
+        "y": -63,
+        "scale": 0.25,
+        "name": "smokeHolder",
+        "rotation": 0
+      }
+    ]
   },
   "IndiaDrillground": {
     "pid": 0,
@@ -83419,7 +83517,7 @@
       {
         "x": 0,
         "y": 0,
-        "w": 170,
+        "w": 169,
         "h": 35,
         "rx": 915,
         "ry": 982
@@ -86497,51 +86595,6 @@
         "w": 35,
         "h": 33,
         "rx": 982,
-        "ry": 983
-      }
-    ],
-    "fx": []
-  },
-  "icon_login_apple_flat": {
-    "pid": 0,
-    "url": "x384/Icons/Icons/icon_login_apple_flat.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 31,
-        "h": 36,
-        "rx": 984,
-        "ry": 982
-      }
-    ],
-    "fx": []
-  },
-  "icon_login_facebook_flat": {
-    "pid": 0,
-    "url": "x384/Icons/Icons/icon_login_facebook_flat.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 21,
-        "h": 39,
-        "rx": 989,
-        "ry": 980
-      }
-    ],
-    "fx": []
-  },
-  "icon_login_google_flat": {
-    "pid": 0,
-    "url": "x384/Icons/Icons/icon_login_google_flat.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 33,
-        "h": 33,
-        "rx": 983,
         "ry": 983
       }
     ],
@@ -118189,6 +118242,36 @@
         "h": 96,
         "rx": 967,
         "ry": 952
+      }
+    ],
+    "fx": []
+  },
+  "Barracks_Unit_ForlornRanger": {
+    "pid": 0,
+    "url": "x384/Units/UnitAssets/Barracks_Unit_ForlornRanger.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 88,
+        "h": 106,
+        "rx": 956,
+        "ry": 948
+      }
+    ],
+    "fx": []
+  },
+  "Barracks_Unit_ForsakenMaiden": {
+    "pid": 0,
+    "url": "x384/Units/UnitAssets/Barracks_Unit_ForsakenMaiden.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 88,
+        "h": 108,
+        "rx": 956,
+        "ry": 946
       }
     ],
     "fx": []

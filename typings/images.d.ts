@@ -162,6 +162,8 @@ export interface Images {
     "Barracks_Unit_Elitespeerman": ImageData;
     "Barracks_Unit_Eliteswordman": ImageData;
     "Barracks_Unit_Elitetwohandedsword": ImageData;
+    "Barracks_Unit_ForlornRanger": ImageData;
+    "Barracks_Unit_ForsakenMaiden": ImageData;
     "Barracks_Unit_Halberd": ImageData;
     "Barracks_Unit_Heavycrossbowman": ImageData;
     "Barracks_Unit_Kingsbowman": ImageData;
@@ -972,6 +974,7 @@ export interface Images {
     "Deco_Building_HuntersRest": ImageData;
     "Deco_Building_IndianWaterTempleBrown": ImageData;
     "Deco_Building_IndianWaterTempleWhite": ImageData;
+    "Deco_Building_InfernalTurtleHut": ImageData;
     "Deco_Building_InvadersGlory": ImageData;
     "Deco_Building_JestersMask": ImageData;
     "Deco_Building_KhanShrine": ImageData;
@@ -1149,6 +1152,7 @@ export interface Images {
     "Deco_Building_chineseTiger": ImageData;
     "Deco_Building_christmashut": ImageData;
     "Deco_Building_christmastower": ImageData;
+    "Deco_Building_corruptedgoddessOfNature": ImageData;
     "Deco_Building_crystalPalace": ImageData;
     "Deco_Building_elephantsFountain": ImageData;
     "Deco_Building_fieldOfGlory": ImageData;
@@ -1159,6 +1163,8 @@ export interface Images {
     "Deco_Building_grandAnniversaryBanquet": ImageData;
     "Deco_Building_grandpaNomNom": ImageData;
     "Deco_Building_guardOfHonor": ImageData;
+    "Deco_Building_halloweenCrypt": ImageData;
+    "Deco_Building_halloweenSludgeCrypt": ImageData;
     "Deco_Building_lovepedestalpurple": ImageData;
     "Deco_Building_lovepedestalred": ImageData;
     "Deco_Building_loverParkour": ImageData;
@@ -1188,6 +1194,7 @@ export interface Images {
     "Deco_Building_valentinesLoveNest": ImageData;
     "Deco_Building_vitalisedElephantsFountain": ImageData;
     "Deco_Building_vitalisedTimelessKing": ImageData;
+    "Deco_Building_wellofmadness": ImageData;
     "Deco_Building_xmasFruitCart": ImageData;
     "Deco_Building_xmasRollercoaster": ImageData;
     "Deco_Building_xmasRollercoaster2": ImageData;
@@ -3953,6 +3960,7 @@ export interface Images {
     "goatTavern": ImageData;
     "graniteRockQuarry": ImageData;
     "graniteRockStonemason": ImageData;
+    "halloweenHunter": ImageData;
     "ice_bronze": ImageData;
     "ice_gold": ImageData;
     "ice_silver": ImageData;
@@ -5715,9 +5723,6 @@ export interface Images {
     "icon_lock_xl": ImageData;
     "icon_locked_buy_coin": ImageData;
     "icon_locked_buy_rubie": ImageData;
-    "icon_login_apple_flat": ImageData;
-    "icon_login_facebook_flat": ImageData;
-    "icon_login_google_flat": ImageData;
     "icon_logo_e4k": ImageData;
     "icon_lootingcapacity": ImageData;
     "icon_lost_and_found": ImageData;

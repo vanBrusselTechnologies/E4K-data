@@ -623,6 +623,14 @@
       "name": "honeyProductionBoost"
     },
     {
+      "effectTypeID": 186,
+      "name": "refinedResourceQueueBoost"
+    },
+    {
+      "effectTypeID": 187,
+      "name": "componentQueueBoost"
+    },
+    {
       "effectTypeID": 166,
       "name": "meadCapacityBonus"
     },

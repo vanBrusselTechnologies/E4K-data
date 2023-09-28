@@ -12050,6 +12050,19 @@
       "mightValue": 0,
       "canSlotGem": 0,
       "skinID": 108
+    },
+    {
+      "equipmentID": 2007,
+      "comment1": "Halloween LTPE Oktober 2023",
+      "comment2": "HalloweenRing",
+      "wearerID": 1,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 700,
+      "effects": "335&amp;7",
+      "duration": 336,
+      "mightValue": 10,
+      "canSlotGem": 1,
+      "skinID": 19
     }
   ]
 }
