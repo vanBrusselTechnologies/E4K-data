@@ -372,8 +372,6 @@ export interface AllianceBuff {
     "costC1"?: number;
     "costC2"?: number;
     "costFuryDoubloon"?: number;
-    "costGlass"?: number;
-    "costOil"?: number;
     "costRampartDoubloon"?: number;
     "costSpiritDoubloon"?: number;
     "costStone"?: number;

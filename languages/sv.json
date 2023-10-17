@@ -879,7 +879,13 @@
     "errorCode_311": "Den här processen har redan slutförts.",
     "errorCode_446": "Du kan inte köpa den här valutan just nu för du har inte tillräckligt med utrymme.",
     "needMoatUpgrade": "Uppgradering av vallgrav krävs",
-    "alert_C2PurchaseNotEnabled": "Köp av rubiner är inte aktiverat för tillfället."
+    "alert_C2PurchaseNotEnabled": "Köp av rubiner är inte aktiverat för tillfället.",
+    "email_current_confirm_validation_successful": "Din nuvarande e-postadress har blivit bekräftad. Kontrollera nu din nya e-postadress för en ny bekräftelselänk.",
+    "email_validation_multiple_clicks_error": "Den här bekräftelselänken har redan klickats på.",
+    "email_confirm_old_request_error": "Detta verkar vara en gammal bekräftelselänk.",
+    "email_change_cancelation_old_request_error": "Detta verkar vara en gammal annulleringslänk.",
+    "email_change_cancelation_successful": "Din begäran om ändring av e-postadress har annullerats.",
+    "email_change_cancelation_multiple_clicks_error": "Denna annulleringslänk har redan valts."
   },
   "buildings_and_decorations": {
     "bakery_name": "Bageri",
@@ -1834,7 +1840,13 @@
     "deco_halloweenSludgeCrypt_name": "Vanhelgad krypta",
     "deco_halloweenCrypt_name": "Kuslig krypta",
     "ci_blueprint_toolsmithBoost_secondary_premium": "Premiumrelikritning över verktygssmedproduktion",
-    "ci_blueprint_refineryBoost_secondary_premium": "Premiumrelikritning över raffinaderiproduktion"
+    "ci_blueprint_refineryBoost_secondary_premium": "Premiumrelikritning över raffinaderiproduktion",
+    "ci_effect_relicRefineryBoost_blueprint": "Raffinaderiproduktionsbonus",
+    "ci_effect_relicToolsmithBoost_tt": "Verktygssmedproduktionsbonus:",
+    "ci_effect_relicRefineryBoost_tt": "Raffinaderiproduktionsbonus:",
+    "ci_effect_relicToolsmithBoost_blueprint": "Verktygssmedproduktionsbonus",
+    "deco_blueSalesFountain_name": "Spring of elation",
+    "deco_goldenEggHut_name": "Autumn gobblers refuge"
   },
   "dialogs": {
     "dialog_festival_desc": "Använd mat för att anordna en fest för dina medborgare! Rekryteringshastigheten ökar betydligt i alla dina slott så länge festen försiggår. Ju större festen är, desto större effekt.",
@@ -11636,7 +11648,20 @@
     "ci_blueprint_relicToolsmithBoost": "Premiumrelikritning över verktygssmedproduktion",
     "ci_blueprint_relicRefineryBoost": "Premiumrelikritning över raffinaderiproduktion",
     "ci_secondary_relicRefineryBoost_premium": "Premiumrelikbyggföremål för raffinaderiproduktion",
-    "ci_secondary_relicToolsmithBoost_premium": "Premiumrelikbyggföremål för verktygssmedproduktion"
+    "ci_secondary_relicToolsmithBoost_premium": "Premiumrelikbyggföremål för verktygssmedproduktion",
+    "dialog_longPointsEvent_eventEnd_dragonrider": "As the dragon flames dim and the festivities wane, the Majestic Dragon Mingle comes to its conclusion. Youve earned {0} season points in the contest and secured place {1} in the rankings. But fret not, more majestic adventures are on the horizon!",
+    "dialog_longPointsEvent_eventEnd_dragonrider_singular": "As the last dragon roars fade, the Majestic Dragon Mingle draws to a close. Youve obtained {0} season point and secured place {1} in the rankings. Keep your spirits high, for new legendary quests await!",
+    "dialog_longPointsEvent_eventEnd_title_dragonrider": "Mingles End!",
+    "dialog_longPointsEvent_eventcamp_header_dragonrider": "Majestic Dragon Mingle",
+    "dialog_longPointsEvent_eventcamp_message_dragonrider": "Welcome to the Majestic Dragon Mingle, the grandest assembly of dragon riders in all the realms! If you undertake the challenges of specific events during this fiery occasion, youll be graced with treasures fit for a dragons hoard!",
+    "dialog_longPointsEvent_gotRoyalReward_copy_dragonrider": "Marvelous! You have amassed {0} season points in the Majestic Dragon Mingle! To commemorate your achievement, a royal dragon treasure is now yours!",
+    "dialog_longPointsEvent_gotRoyalReward_title_title_dragonrider": "Victory!",
+    "dialog_longPointsEvent_gotTopxReward_copy_dragonrider": "Dragon Rider Reward",
+    "dialog_longPointsEvent_gotTopxReward_copy_dragonrider_singular": "Splendid! Youve gathered {0} season points in the Majestic Dragon Mingle, placing you among the top {1} lords in the event. A glorious treasure befitting your efforts awaits!",
+    "dialog_longPointsEvent_hardMode_info_dragonrider": "Bravo, esteemed lord! Youve secured all the Majestic Dragon Mingles rewards. But the adventure isnt over! More treasures await, and exceptional prizes are reserved for the festivities top lords.",
+    "dialog_longPointsEvent_message_copy_dragonrider": "Welcome to the Majestic Dragon Mingle, the grandest assembly of dragon riders in all the realms! If you undertake the challenges of specific events during this fiery occasion, youll be graced with treasures fit for a dragons hoard!",
+    "dialog_longPointsEvent_message_header_dragonrider": "Majestic Dragon Mingle",
+    "eventBuilding_longPointEvent_dragonrider": "Majestic Dragon Mingle"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0} % resehastighet för armén under erövringar",
@@ -16434,7 +16459,13 @@
     "equipment_unique_2003": "Öltunna",
     "equipment_unique_2003_desc": "Gör ditt slott till en skummig fästning.",
     "equipment_unique_2007_desc": "Gör ditt slott till en dödens fästning.",
-    "equipment_unique_2007": "Fördärvets ring"
+    "equipment_unique_2007": "Fördärvets ring",
+    "equipment_unique_2009": "Harvest feast gobbler",
+    "equipment_unique_2009_desc": "Only foolish heroes needlessly antagonize these fowls. Nowadays the birds from Beyond the Horizon serve as imperial shock troops and are served at imperial banquets. Transforms your army into a band of charging gobblers.",
+    "equipment_unique_2010": "Harvest feast gobbler",
+    "equipment_unique_2010_desc": "Only foolish heroes needlessly antagonize these fowls. Nowadays the birds from Beyond the Horizon serve as imperial shock troops and are served at imperial banquets. Transforms your army into a band of charging gobblers.",
+    "equipment_unique_2011": "Autumn egg",
+    "equipment_unique_2011_desc": "The Emperor himself grants these valuable eggs to his most loyal vassals. Once hatched, the birds are a guarantor of prosperity and a a plentiful harvest. Transforms your castle into a prosperous gobbler stronghold."
   },
   "generic": {
     "activity": "Aktivera",

@@ -669,6 +669,12 @@ export interface Language {
         "dialog_upgradeRequired_title": string;
         "dialog_warning_sendAllFood": string;
         "elitebrazier_short_info": string;
+        "email_change_cancelation_multiple_clicks_error": string;
+        "email_change_cancelation_old_request_error": string;
+        "email_change_cancelation_successful": string;
+        "email_confirm_old_request_error": string;
+        "email_current_confirm_validation_successful": string;
+        "email_validation_multiple_clicks_error": string;
         "errorCode_1": string;
         "errorCode_10": string;
         "errorCode_100": string;
@@ -1132,6 +1138,10 @@ export interface Language {
         "ci_effect_refinedResourceQueueBoost": string;
         "ci_effect_refineryBoost_blueprint": string;
         "ci_effect_refineryBoost_tt": string;
+        "ci_effect_relicRefineryBoost_blueprint": string;
+        "ci_effect_relicRefineryBoost_tt": string;
+        "ci_effect_relicToolsmithBoost_blueprint": string;
+        "ci_effect_relicToolsmithBoost_tt": string;
         "ci_effect_toolsmithBoost_blueprint": string;
         "ci_effect_toolsmithBoost_tt": string;
         "ci_effect_unboostedHoneyProduction_blueprint": string;
@@ -1347,6 +1357,7 @@ export interface Language {
         "deco_blackfriday_name": string;
         "deco_blackladystatue_name": string;
         "deco_bloodWell_name": string;
+        "deco_blueSalesFountain_name": string;
         "deco_cage1_name": string;
         "deco_cage2_name": string;
         "deco_carriagegood_name": string;
@@ -1404,6 +1415,7 @@ export interface Language {
         "deco_gluhweinstand_name": string;
         "deco_goddessOfNature_name": string;
         "deco_goldFountain_name": string;
+        "deco_goldenEggHut_name": string;
         "deco_goldenglobe_name": string;
         "deco_grailOfTheDefensiveRock_name": string;
         "deco_grandAnniversaryBanquet_name": string;
@@ -5924,6 +5936,8 @@ export interface Language {
         "dialog_longPointsEvent_eventEnd_christmasLTPE": string;
         "dialog_longPointsEvent_eventEnd_christmasLTPE_singular": string;
         "dialog_longPointsEvent_eventEnd_christmas_singular": string;
+        "dialog_longPointsEvent_eventEnd_dragonrider": string;
+        "dialog_longPointsEvent_eventEnd_dragonrider_singular": string;
         "dialog_longPointsEvent_eventEnd_halloween": string;
         "dialog_longPointsEvent_eventEnd_halloween_singular": string;
         "dialog_longPointsEvent_eventEnd_india": string;
@@ -5946,6 +5960,7 @@ export interface Language {
         "dialog_longPointsEvent_eventEnd_title": string;
         "dialog_longPointsEvent_eventEnd_title_anniversaryLTPE": string;
         "dialog_longPointsEvent_eventEnd_title_christmas": string;
+        "dialog_longPointsEvent_eventEnd_title_dragonrider": string;
         "dialog_longPointsEvent_eventEnd_title_halloween": string;
         "dialog_longPointsEvent_eventEnd_title_india": string;
         "dialog_longPointsEvent_eventEnd_title_maya": string;
@@ -5964,6 +5979,7 @@ export interface Language {
         "dialog_longPointsEvent_eventcamp_header_anniversaryLTPE": string;
         "dialog_longPointsEvent_eventcamp_header_christmas": string;
         "dialog_longPointsEvent_eventcamp_header_christmasLTPE": string;
+        "dialog_longPointsEvent_eventcamp_header_dragonrider": string;
         "dialog_longPointsEvent_eventcamp_header_halloween": string;
         "dialog_longPointsEvent_eventcamp_header_india": string;
         "dialog_longPointsEvent_eventcamp_header_maya": string;
@@ -5978,6 +5994,7 @@ export interface Language {
         "dialog_longPointsEvent_eventcamp_message_anniversaryLTPE": string;
         "dialog_longPointsEvent_eventcamp_message_christmas": string;
         "dialog_longPointsEvent_eventcamp_message_christmasLTPE": string;
+        "dialog_longPointsEvent_eventcamp_message_dragonrider": string;
         "dialog_longPointsEvent_eventcamp_message_halloween": string;
         "dialog_longPointsEvent_eventcamp_message_india": string;
         "dialog_longPointsEvent_eventcamp_message_maya": string;
@@ -5992,6 +6009,7 @@ export interface Language {
         "dialog_longPointsEvent_gotRoyalReward_copy": string;
         "dialog_longPointsEvent_gotRoyalReward_copy_anniversaryLTPE": string;
         "dialog_longPointsEvent_gotRoyalReward_copy_christmasLTPE": string;
+        "dialog_longPointsEvent_gotRoyalReward_copy_dragonrider": string;
         "dialog_longPointsEvent_gotRoyalReward_copy_halloween": string;
         "dialog_longPointsEvent_gotRoyalReward_copy_india": string;
         "dialog_longPointsEvent_gotRoyalReward_copy_maya": string;
@@ -6016,12 +6034,15 @@ export interface Language {
         "dialog_longPointsEvent_gotRoyalReward_title_pirates": string;
         "dialog_longPointsEvent_gotRoyalReward_title_spring": string;
         "dialog_longPointsEvent_gotRoyalReward_title_stPatrick": string;
+        "dialog_longPointsEvent_gotRoyalReward_title_title_dragonrider": string;
         "dialog_longPointsEvent_gotRoyalReward_title_winter": string;
         "dialog_longPointsEvent_gotRoyalReward_title_winter_christmas": string;
         "dialog_longPointsEvent_gotTopxReward_copy": string;
         "dialog_longPointsEvent_gotTopxReward_copy_anniversaryLTPE": string;
         "dialog_longPointsEvent_gotTopxReward_copy_christmas": string;
         "dialog_longPointsEvent_gotTopxReward_copy_christmasLTPE": string;
+        "dialog_longPointsEvent_gotTopxReward_copy_dragonrider": string;
+        "dialog_longPointsEvent_gotTopxReward_copy_dragonrider_singular": string;
         "dialog_longPointsEvent_gotTopxReward_copy_halloween": string;
         "dialog_longPointsEvent_gotTopxReward_copy_india": string;
         "dialog_longPointsEvent_gotTopxReward_copy_maya": string;
@@ -6051,6 +6072,7 @@ export interface Language {
         "dialog_longPointsEvent_hardMode_info": string;
         "dialog_longPointsEvent_hardMode_info_anniversaryLTPE": string;
         "dialog_longPointsEvent_hardMode_info_christmasLTPE": string;
+        "dialog_longPointsEvent_hardMode_info_dragonrider": string;
         "dialog_longPointsEvent_hardMode_info_halloween": string;
         "dialog_longPointsEvent_hardMode_info_india": string;
         "dialog_longPointsEvent_hardMode_info_maya": string;
@@ -6065,6 +6087,7 @@ export interface Language {
         "dialog_longPointsEvent_message_copy": string;
         "dialog_longPointsEvent_message_copy_anniversaryLTPE": string;
         "dialog_longPointsEvent_message_copy_christmasLTPE": string;
+        "dialog_longPointsEvent_message_copy_dragonrider": string;
         "dialog_longPointsEvent_message_copy_halloween": string;
         "dialog_longPointsEvent_message_copy_india": string;
         "dialog_longPointsEvent_message_copy_maya": string;
@@ -6079,6 +6102,7 @@ export interface Language {
         "dialog_longPointsEvent_message_header_anniversaryLTPE": string;
         "dialog_longPointsEvent_message_header_christmas": string;
         "dialog_longPointsEvent_message_header_christmasLTPE": string;
+        "dialog_longPointsEvent_message_header_dragonrider": string;
         "dialog_longPointsEvent_message_header_halloween": string;
         "dialog_longPointsEvent_message_header_india": string;
         "dialog_longPointsEvent_message_header_maya": string;
@@ -8884,6 +8908,7 @@ export interface Language {
         "eventBuilding_longPointEvent": string;
         "eventBuilding_longPointEvent_anniversaryLTPE": string;
         "eventBuilding_longPointEvent_christmasLTPE": string;
+        "eventBuilding_longPointEvent_dragonrider": string;
         "eventBuilding_longPointEvent_india": string;
         "eventBuilding_longPointEvent_maya": string;
         "eventBuilding_longPointEvent_midas": string;
@@ -13690,6 +13715,12 @@ export interface Language {
         "equipment_unique_2006_desc": string;
         "equipment_unique_2007": string;
         "equipment_unique_2007_desc": string;
+        "equipment_unique_2009": string;
+        "equipment_unique_2009_desc": string;
+        "equipment_unique_2010": string;
+        "equipment_unique_2010_desc": string;
+        "equipment_unique_2011": string;
+        "equipment_unique_2011_desc": string;
         "equipment_unique_20_desc": string;
         "equipment_unique_21": string;
         "equipment_unique_21_desc": string;

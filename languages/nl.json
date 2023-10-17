@@ -879,7 +879,13 @@
     "errorCode_311": "Dit proces is al voltooid.",
     "errorCode_446": "Je kunt deze valuta momenteel niet kopen omdat je niet genoeg ruimte hebt.",
     "needMoatUpgrade": "Upgrade gracht nodig",
-    "alert_C2PurchaseNotEnabled": "De aankoop van robijnen is momenteel niet ingeschakeld."
+    "alert_C2PurchaseNotEnabled": "De aankoop van robijnen is momenteel niet ingeschakeld.",
+    "email_current_confirm_validation_successful": "Je huidige e-mailadres is bevestigd. Check je nieuwe e-mailadres voor een andere bevestigingslink.",
+    "email_validation_multiple_clicks_error": "Er is al op deze bevestigingslink geklikt.",
+    "email_confirm_old_request_error": "Dit lijkt een verouderde bevestigingslink te zijn.",
+    "email_change_cancelation_old_request_error": "Deze annuleringslink is verlopen.",
+    "email_change_cancelation_successful": "Je verzoek om je e-mailadres te wijzigen is geannuleerd.",
+    "email_change_cancelation_multiple_clicks_error": "Deze annuleringslink is al gebruikt."
   },
   "buildings_and_decorations": {
     "bakery_name": "Bakkerij",
@@ -1834,7 +1840,13 @@
     "deco_halloweenSludgeCrypt_name": "Bezoedelde tombe",
     "deco_halloweenCrypt_name": "Griezelige tombe",
     "ci_blueprint_toolsmithBoost_secondary_premium": "Productie-ontwerp premium relikwie-tuigsmidproductie",
-    "ci_blueprint_refineryBoost_secondary_premium": "Productie-ontwerp premium relikwie-verrijkingsfabriek"
+    "ci_blueprint_refineryBoost_secondary_premium": "Productie-ontwerp premium relikwie-verrijkingsfabriek",
+    "ci_effect_relicRefineryBoost_blueprint": "Verrijkingsfabriekproductiebonus",
+    "ci_effect_relicToolsmithBoost_tt": "Bonus tuigsmidproductie:",
+    "ci_effect_relicRefineryBoost_tt": "Bonus verrijkingsfabriekproductie:",
+    "ci_effect_relicToolsmithBoost_blueprint": "Tuigsmidproductiebonus",
+    "deco_blueSalesFountain_name": "Spring of elation",
+    "deco_goldenEggHut_name": "Autumn gobblers refuge"
   },
   "dialogs": {
     "dialog_festival_desc": "Gebruik voedsel om een festival te geven voor uw burgers! Zolang het festival duurt, wordt er in al uw kastelen aanmerkelijk sneller gerekruteerd. Hoe groter het festival, hoe groter het effect.",
@@ -11636,7 +11648,20 @@
     "ci_blueprint_relicToolsmithBoost": "Productie-ontwerp premium relikwie-tuigsmidproductie",
     "ci_blueprint_relicRefineryBoost": "Productie-ontwerp premium relikwie-verrijkingsfabriek",
     "ci_secondary_relicRefineryBoost_premium": "Bouwitem premium relikwie-verrijkingsproductie",
-    "ci_secondary_relicToolsmithBoost_premium": "Bouwitem premium relikwie-tuigsmidproductie"
+    "ci_secondary_relicToolsmithBoost_premium": "Bouwitem premium relikwie-tuigsmidproductie",
+    "dialog_longPointsEvent_eventEnd_dragonrider": "As the dragon flames dim and the festivities wane, the Majestic Dragon Mingle comes to its conclusion. Youve earned {0} season points in the contest and secured place {1} in the rankings. But fret not, more majestic adventures are on the horizon!",
+    "dialog_longPointsEvent_eventEnd_dragonrider_singular": "As the last dragon roars fade, the Majestic Dragon Mingle draws to a close. Youve obtained {0} season point and secured place {1} in the rankings. Keep your spirits high, for new legendary quests await!",
+    "dialog_longPointsEvent_eventEnd_title_dragonrider": "Mingles End!",
+    "dialog_longPointsEvent_eventcamp_header_dragonrider": "Majestic Dragon Mingle",
+    "dialog_longPointsEvent_eventcamp_message_dragonrider": "Welcome to the Majestic Dragon Mingle, the grandest assembly of dragon riders in all the realms! If you undertake the challenges of specific events during this fiery occasion, youll be graced with treasures fit for a dragons hoard!",
+    "dialog_longPointsEvent_gotRoyalReward_copy_dragonrider": "Marvelous! You have amassed {0} season points in the Majestic Dragon Mingle! To commemorate your achievement, a royal dragon treasure is now yours!",
+    "dialog_longPointsEvent_gotRoyalReward_title_title_dragonrider": "Victory!",
+    "dialog_longPointsEvent_gotTopxReward_copy_dragonrider": "Dragon Rider Reward",
+    "dialog_longPointsEvent_gotTopxReward_copy_dragonrider_singular": "Splendid! Youve gathered {0} season points in the Majestic Dragon Mingle, placing you among the top {1} lords in the event. A glorious treasure befitting your efforts awaits!",
+    "dialog_longPointsEvent_hardMode_info_dragonrider": "Bravo, esteemed lord! Youve secured all the Majestic Dragon Mingles rewards. But the adventure isnt over! More treasures await, and exceptional prizes are reserved for the festivities top lords.",
+    "dialog_longPointsEvent_message_copy_dragonrider": "Welcome to the Majestic Dragon Mingle, the grandest assembly of dragon riders in all the realms! If you undertake the challenges of specific events during this fiery occasion, youll be graced with treasures fit for a dragons hoard!",
+    "dialog_longPointsEvent_message_header_dragonrider": "Majestic Dragon Mingle",
+    "eventBuilding_longPointEvent_dragonrider": "Majestic Dragon Mingle"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% reissnelheid leger tijdens veroveringen",
@@ -16434,7 +16459,13 @@
     "equipment_unique_2003": "Biervat",
     "equipment_unique_2003_desc": "Verandert je kasteel in een schuimfort.",
     "equipment_unique_2007_desc": "Verandert je kasteel in een fort van de doden.",
-    "equipment_unique_2007": "Ring van ruïne"
+    "equipment_unique_2007": "Ring van ruïne",
+    "equipment_unique_2009": "Harvest feast gobbler",
+    "equipment_unique_2009_desc": "Only foolish heroes needlessly antagonize these fowls. Nowadays the birds from Beyond the Horizon serve as imperial shock troops and are served at imperial banquets. Transforms your army into a band of charging gobblers.",
+    "equipment_unique_2010": "Harvest feast gobbler",
+    "equipment_unique_2010_desc": "Only foolish heroes needlessly antagonize these fowls. Nowadays the birds from Beyond the Horizon serve as imperial shock troops and are served at imperial banquets. Transforms your army into a band of charging gobblers.",
+    "equipment_unique_2011": "Autumn egg",
+    "equipment_unique_2011_desc": "The Emperor himself grants these valuable eggs to his most loyal vassals. Once hatched, the birds are a guarantor of prosperity and a a plentiful harvest. Transforms your castle into a prosperous gobbler stronghold."
   },
   "generic": {
     "activity": "Activiteit",

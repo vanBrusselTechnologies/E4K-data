@@ -879,7 +879,13 @@
     "errorCode_311": "此過程已完成。",
     "errorCode_446": "你現在無法購買此貨幣，因為你沒有足夠的空間。",
     "needMoatUpgrade": "護城河需要升級",
-    "alert_C2PurchaseNotEnabled": "目前尚未啟用購買紅寶石。"
+    "alert_C2PurchaseNotEnabled": "目前尚未啟用購買紅寶石。",
+    "email_current_confirm_validation_successful": "你目前的電子郵件已獲得確認。現在你應查看你的新電子郵件尋找另一條確認連結。",
+    "email_validation_multiple_clicks_error": "此確認連結已被點擊過。",
+    "email_confirm_old_request_error": "此確認連結似乎已經過期。",
+    "email_change_cancelation_old_request_error": "此取消連結似乎已經逾期。",
+    "email_change_cancelation_successful": "你的電子郵件更改要求已被取消。",
+    "email_change_cancelation_multiple_clicks_error": "此取消連結已被選取過。"
   },
   "buildings_and_decorations": {
     "bakery_name": "麵包房",
@@ -1834,7 +1840,13 @@
     "deco_halloweenSludgeCrypt_name": "殘汙墓窖",
     "deco_halloweenCrypt_name": "陰森墓窖",
     "ci_blueprint_toolsmithBoost_secondary_premium": "頂級聖物鍛工匠生產藍圖",
-    "ci_blueprint_refineryBoost_secondary_premium": "頂級聖物精煉廠生產藍圖"
+    "ci_blueprint_refineryBoost_secondary_premium": "頂級聖物精煉廠生產藍圖",
+    "ci_effect_relicRefineryBoost_blueprint": "精煉廠生產加成",
+    "ci_effect_relicToolsmithBoost_tt": "鍛工匠生產加成：",
+    "ci_effect_relicRefineryBoost_tt": "精煉廠生產加成：",
+    "ci_effect_relicToolsmithBoost_blueprint": "鍛工匠生產加成",
+    "deco_blueSalesFountain_name": "Spring of elation",
+    "deco_goldenEggHut_name": "Autumn gobblers refuge"
   },
   "dialogs": {
     "dialog_festival_desc": "用食物幫你的居民舉辦一場盛宴吧！在盛宴期間，你所有城堡的招募速度會大幅提高。宴會越大，效果越好。",
@@ -11636,7 +11648,20 @@
     "ci_blueprint_relicToolsmithBoost": "頂級聖物鍛工匠生產藍圖",
     "ci_blueprint_relicRefineryBoost": "頂級聖物精煉廠生產藍圖",
     "ci_secondary_relicRefineryBoost_premium": "頂級聖物精煉廠生物建築物品",
-    "ci_secondary_relicToolsmithBoost_premium": "頂級聖物鍛工匠生產建築物品"
+    "ci_secondary_relicToolsmithBoost_premium": "頂級聖物鍛工匠生產建築物品",
+    "dialog_longPointsEvent_eventEnd_dragonrider": "As the dragon flames dim and the festivities wane, the Majestic Dragon Mingle comes to its conclusion. Youve earned {0} season points in the contest and secured place {1} in the rankings. But fret not, more majestic adventures are on the horizon!",
+    "dialog_longPointsEvent_eventEnd_dragonrider_singular": "As the last dragon roars fade, the Majestic Dragon Mingle draws to a close. Youve obtained {0} season point and secured place {1} in the rankings. Keep your spirits high, for new legendary quests await!",
+    "dialog_longPointsEvent_eventEnd_title_dragonrider": "Mingles End!",
+    "dialog_longPointsEvent_eventcamp_header_dragonrider": "Majestic Dragon Mingle",
+    "dialog_longPointsEvent_eventcamp_message_dragonrider": "Welcome to the Majestic Dragon Mingle, the grandest assembly of dragon riders in all the realms! If you undertake the challenges of specific events during this fiery occasion, youll be graced with treasures fit for a dragons hoard!",
+    "dialog_longPointsEvent_gotRoyalReward_copy_dragonrider": "Marvelous! You have amassed {0} season points in the Majestic Dragon Mingle! To commemorate your achievement, a royal dragon treasure is now yours!",
+    "dialog_longPointsEvent_gotRoyalReward_title_title_dragonrider": "Victory!",
+    "dialog_longPointsEvent_gotTopxReward_copy_dragonrider": "Dragon Rider Reward",
+    "dialog_longPointsEvent_gotTopxReward_copy_dragonrider_singular": "Splendid! Youve gathered {0} season points in the Majestic Dragon Mingle, placing you among the top {1} lords in the event. A glorious treasure befitting your efforts awaits!",
+    "dialog_longPointsEvent_hardMode_info_dragonrider": "Bravo, esteemed lord! Youve secured all the Majestic Dragon Mingles rewards. But the adventure isnt over! More treasures await, and exceptional prizes are reserved for the festivities top lords.",
+    "dialog_longPointsEvent_message_copy_dragonrider": "Welcome to the Majestic Dragon Mingle, the grandest assembly of dragon riders in all the realms! If you undertake the challenges of specific events during this fiery occasion, youll be graced with treasures fit for a dragons hoard!",
+    "dialog_longPointsEvent_message_header_dragonrider": "Majestic Dragon Mingle",
+    "eventBuilding_longPointEvent_dragonrider": "Majestic Dragon Mingle"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% 出征時的軍隊巡游速度",
@@ -16434,7 +16459,13 @@
     "equipment_unique_2003": "啤酒桶",
     "equipment_unique_2003_desc": "將你的城堡變成泡沫般的要塞。",
     "equipment_unique_2007_desc": "將你的城堡變成死者的要塞。",
-    "equipment_unique_2007": "毀壞之戒"
+    "equipment_unique_2007": "毀壞之戒",
+    "equipment_unique_2009": "Harvest feast gobbler",
+    "equipment_unique_2009_desc": "Only foolish heroes needlessly antagonize these fowls. Nowadays the birds from Beyond the Horizon serve as imperial shock troops and are served at imperial banquets. Transforms your army into a band of charging gobblers.",
+    "equipment_unique_2010": "Harvest feast gobbler",
+    "equipment_unique_2010_desc": "Only foolish heroes needlessly antagonize these fowls. Nowadays the birds from Beyond the Horizon serve as imperial shock troops and are served at imperial banquets. Transforms your army into a band of charging gobblers.",
+    "equipment_unique_2011": "Autumn egg",
+    "equipment_unique_2011_desc": "The Emperor himself grants these valuable eggs to his most loyal vassals. Once hatched, the birds are a guarantor of prosperity and a a plentiful harvest. Transforms your castle into a prosperous gobbler stronghold."
   },
   "generic": {
     "activity": "活動",
