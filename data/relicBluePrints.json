@@ -2,6 +2,7 @@
   "relicBluePrint": [
     {
       "id": 1,
+      "crossplayID": 1,
       "relicTypeID": 1,
       "normalAmount": 3,
       "specialAmount": 0,
@@ -10,6 +11,7 @@
     },
     {
       "id": 101,
+      "crossplayID": 101,
       "relicTypeID": 2,
       "normalAmount": 3,
       "specialAmount": 0,
@@ -18,6 +20,7 @@
     },
     {
       "id": 201,
+      "crossplayID": 201,
       "relicTypeID": 3,
       "normalAmount": 3,
       "specialAmount": 0,
@@ -26,6 +29,7 @@
     },
     {
       "id": 301,
+      "crossplayID": 301,
       "relicTypeID": 4,
       "normalAmount": 3,
       "specialAmount": 0,
@@ -34,6 +38,7 @@
     },
     {
       "id": 3001,
+      "crossplayID": 3001,
       "relicTypeID": 31,
       "normalAmount": 3,
       "specialAmount": 0,
@@ -41,6 +46,7 @@
     },
     {
       "id": 3101,
+      "crossplayID": 3101,
       "relicTypeID": 32,
       "normalAmount": 3,
       "specialAmount": 0,
@@ -48,6 +54,7 @@
     },
     {
       "id": 6001,
+      "crossplayID": 6001,
       "relicTypeID": 61,
       "normalAmount": 3,
       "specialAmount": 2,
@@ -56,6 +63,7 @@
     },
     {
       "id": 6101,
+      "crossplayID": 6101,
       "relicTypeID": 62,
       "normalAmount": 3,
       "specialAmount": 2,
@@ -64,6 +72,7 @@
     },
     {
       "id": 6201,
+      "crossplayID": 6201,
       "relicTypeID": 63,
       "normalAmount": 3,
       "specialAmount": 2,
@@ -72,6 +81,7 @@
     },
     {
       "id": 6301,
+      "crossplayID": 6301,
       "relicTypeID": 64,
       "normalAmount": 3,
       "specialAmount": 2,
@@ -80,6 +90,7 @@
     },
     {
       "id": 6401,
+      "crossplayID": 6401,
       "relicTypeID": 65,
       "normalAmount": 3,
       "specialAmount": 2,
@@ -88,6 +99,7 @@
     },
     {
       "id": 10001,
+      "crossplayID": 10001,
       "relicTypeID": 101,
       "normalAmount": 3,
       "specialAmount": 0,
@@ -96,6 +108,7 @@
     },
     {
       "id": 10101,
+      "crossplayID": 10101,
       "relicTypeID": 102,
       "normalAmount": 3,
       "specialAmount": 0,
@@ -104,6 +117,7 @@
     },
     {
       "id": 10201,
+      "crossplayID": 10201,
       "relicTypeID": 103,
       "normalAmount": 3,
       "specialAmount": 0,
@@ -112,6 +126,7 @@
     },
     {
       "id": 10301,
+      "crossplayID": 10301,
       "relicTypeID": 104,
       "normalAmount": 3,
       "specialAmount": 0,
@@ -120,6 +135,7 @@
     },
     {
       "id": 13001,
+      "crossplayID": 13001,
       "relicTypeID": 131,
       "normalAmount": 3,
       "specialAmount": 0,
@@ -127,6 +143,7 @@
     },
     {
       "id": 13101,
+      "crossplayID": 13101,
       "relicTypeID": 132,
       "normalAmount": 3,
       "specialAmount": 0,
@@ -134,6 +151,7 @@
     },
     {
       "id": 16001,
+      "crossplayID": 16001,
       "relicTypeID": 161,
       "normalAmount": 3,
       "specialAmount": 2,
@@ -142,6 +160,7 @@
     },
     {
       "id": 16101,
+      "crossplayID": 16101,
       "relicTypeID": 162,
       "normalAmount": 3,
       "specialAmount": 2,
@@ -150,6 +169,7 @@
     },
     {
       "id": 2,
+      "crossplayID": 2,
       "relicTypeID": 1,
       "normalAmount": 4,
       "specialAmount": 0,
@@ -158,6 +178,7 @@
     },
     {
       "id": 102,
+      "crossplayID": 102,
       "relicTypeID": 2,
       "normalAmount": 4,
       "specialAmount": 0,
@@ -166,6 +187,7 @@
     },
     {
       "id": 202,
+      "crossplayID": 202,
       "relicTypeID": 3,
       "normalAmount": 4,
       "specialAmount": 0,
@@ -174,6 +196,7 @@
     },
     {
       "id": 302,
+      "crossplayID": 302,
       "relicTypeID": 4,
       "normalAmount": 4,
       "specialAmount": 0,
@@ -182,6 +205,7 @@
     },
     {
       "id": 3002,
+      "crossplayID": 3002,
       "relicTypeID": 31,
       "normalAmount": 4,
       "specialAmount": 0,
@@ -189,6 +213,7 @@
     },
     {
       "id": 3102,
+      "crossplayID": 3102,
       "relicTypeID": 32,
       "normalAmount": 4,
       "specialAmount": 0,
@@ -196,6 +221,7 @@
     },
     {
       "id": 6002,
+      "crossplayID": 6002,
       "relicTypeID": 61,
       "normalAmount": 4,
       "specialAmount": 2,
@@ -204,6 +230,7 @@
     },
     {
       "id": 6102,
+      "crossplayID": 6102,
       "relicTypeID": 62,
       "normalAmount": 4,
       "specialAmount": 2,
@@ -212,6 +239,7 @@
     },
     {
       "id": 6202,
+      "crossplayID": 6202,
       "relicTypeID": 63,
       "normalAmount": 4,
       "specialAmount": 2,
@@ -220,6 +248,7 @@
     },
     {
       "id": 6302,
+      "crossplayID": 6302,
       "relicTypeID": 64,
       "normalAmount": 4,
       "specialAmount": 2,
@@ -228,6 +257,7 @@
     },
     {
       "id": 6402,
+      "crossplayID": 6402,
       "relicTypeID": 65,
       "normalAmount": 4,
       "specialAmount": 2,
@@ -236,6 +266,7 @@
     },
     {
       "id": 10002,
+      "crossplayID": 10002,
       "relicTypeID": 101,
       "normalAmount": 4,
       "specialAmount": 0,
@@ -244,6 +275,7 @@
     },
     {
       "id": 10102,
+      "crossplayID": 10102,
       "relicTypeID": 102,
       "normalAmount": 4,
       "specialAmount": 0,
@@ -252,6 +284,7 @@
     },
     {
       "id": 10202,
+      "crossplayID": 10202,
       "relicTypeID": 103,
       "normalAmount": 4,
       "specialAmount": 0,
@@ -260,6 +293,7 @@
     },
     {
       "id": 10302,
+      "crossplayID": 10302,
       "relicTypeID": 104,
       "normalAmount": 4,
       "specialAmount": 0,
@@ -268,6 +302,7 @@
     },
     {
       "id": 13002,
+      "crossplayID": 13002,
       "relicTypeID": 131,
       "normalAmount": 4,
       "specialAmount": 0,
@@ -275,6 +310,7 @@
     },
     {
       "id": 13102,
+      "crossplayID": 13102,
       "relicTypeID": 132,
       "normalAmount": 4,
       "specialAmount": 0,
@@ -282,6 +318,7 @@
     },
     {
       "id": 16002,
+      "crossplayID": 16002,
       "relicTypeID": 161,
       "normalAmount": 4,
       "specialAmount": 2,
@@ -290,6 +327,7 @@
     },
     {
       "id": 16102,
+      "crossplayID": 16102,
       "relicTypeID": 162,
       "normalAmount": 4,
       "specialAmount": 2,

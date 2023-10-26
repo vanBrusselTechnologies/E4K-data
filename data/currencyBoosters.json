@@ -2,26 +2,32 @@
   "currencyBooster": [
     {
       "currencyID": 1,
+      "crossplayID": 1,
       "currencyBoosterName": "khanTabletBooster"
     },
     {
       "currencyID": 7,
+      "crossplayID": 7,
       "currencyBoosterName": "samuraiTokenBooster"
     },
     {
       "currencyID": 10,
+      "crossplayID": 10,
       "currencyBoosterName": "khanMedalBooster"
     },
     {
       "currencyID": 11,
+      "crossplayID": 11,
       "currencyBoosterName": "shapeShifterCharmBooster"
     },
     {
       "currencyID": 12,
+      "crossplayID": 12,
       "currencyBoosterName": "shapeShifterInsigniaBooster"
     },
     {
       "currencyID": 3,
+      "crossplayID": 3,
       "currencyBoosterName": "pearlBooster"
     }
   ]

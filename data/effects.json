@@ -2,6 +2,7 @@
   "effect": [
     {
       "effectID": 501,
+      "crossplayID": 501,
       "name": "defenseBoostYard",
       "effectTypeID": 32,
       "capID": 99,
@@ -9,6 +10,7 @@
     },
     {
       "effectID": 502,
+      "crossplayID": 502,
       "name": "hideoutCapacity",
       "effectTypeID": 35,
       "capID": 99,
@@ -16,6 +18,7 @@
     },
     {
       "effectID": 503,
+      "crossplayID": 503,
       "name": "AttackUnitAmountFront",
       "effectTypeID": 34,
       "capID": 99,
@@ -24,6 +27,7 @@
     },
     {
       "effectID": 504,
+      "crossplayID": 504,
       "name": "AttackBoostYard",
       "effectTypeID": 33,
       "capID": 99,
@@ -31,6 +35,7 @@
     },
     {
       "effectID": 505,
+      "crossplayID": 505,
       "name": "LootCapacity",
       "effectTypeID": 37,
       "capID": 99,
@@ -38,6 +43,7 @@
     },
     {
       "effectID": 506,
+      "crossplayID": 506,
       "name": "ReturnTravelBoost",
       "effectTypeID": 38,
       "capID": 99,
@@ -45,6 +51,7 @@
     },
     {
       "effectID": 507,
+      "crossplayID": 507,
       "name": "DefenseSupportUnitsWeak",
       "effectTypeID": 47,
       "capID": 99,
@@ -52,6 +59,7 @@
     },
     {
       "effectID": 508,
+      "crossplayID": 508,
       "name": "DefenseSupportUnitsStrong",
       "effectTypeID": 47,
       "capID": 99,
@@ -59,6 +67,7 @@
     },
     {
       "effectID": 509,
+      "crossplayID": 509,
       "name": "DefenseBoostFront",
       "effectTypeID": 49,
       "capID": 99,
@@ -66,6 +75,7 @@
     },
     {
       "effectID": 510,
+      "crossplayID": 510,
       "name": "DefenseBoostFlank",
       "effectTypeID": 50,
       "capID": 99,
@@ -73,6 +83,7 @@
     },
     {
       "effectID": 511,
+      "crossplayID": 511,
       "name": "AttackSupportUnitsWeak",
       "effectTypeID": 51,
       "capID": 99,
@@ -80,6 +91,7 @@
     },
     {
       "effectID": 512,
+      "crossplayID": 512,
       "name": "AttackSupportUnitsStrong",
       "effectTypeID": 51,
       "capID": 99,
@@ -87,6 +99,7 @@
     },
     {
       "effectID": 513,
+      "crossplayID": 513,
       "name": "AttackBoostFront",
       "effectTypeID": 53,
       "capID": 99,
@@ -94,6 +107,7 @@
     },
     {
       "effectID": 514,
+      "crossplayID": 514,
       "name": "AttackBoostFlank",
       "effectTypeID": 54,
       "capID": 99,
@@ -101,6 +115,7 @@
     },
     {
       "effectID": 990,
+      "crossplayID": 23,
       "name": "AttackBoostFront2",
       "effectTypeID": 34,
       "capID": 99,
@@ -108,6 +123,7 @@
     },
     {
       "effectID": 991,
+      "crossplayID": 24,
       "name": "AttackBoostFlank2",
       "effectTypeID": 28,
       "capID": 99,
@@ -115,6 +131,7 @@
     },
     {
       "effectID": 1,
+      "crossplayID": 1,
       "name": "fameDefenseBonus",
       "effectTypeID": 0,
       "capID": 0,
@@ -122,6 +139,7 @@
     },
     {
       "effectID": 2,
+      "crossplayID": 2,
       "name": "conquerSpeedBonus",
       "effectTypeID": 1,
       "capID": 1,
@@ -129,6 +147,7 @@
     },
     {
       "effectID": 3,
+      "crossplayID": 3,
       "name": "lootReduction",
       "effectTypeID": 2,
       "capID": 2,
@@ -136,6 +155,7 @@
     },
     {
       "effectID": 4,
+      "crossplayID": 4,
       "name": "perceptionBonus",
       "effectTypeID": 3,
       "capID": 3,
@@ -143,6 +163,7 @@
     },
     {
       "effectID": 5,
+      "crossplayID": 5,
       "name": "fireBrigadeBoost",
       "effectTypeID": 4,
       "capID": 4,
@@ -150,6 +171,7 @@
     },
     {
       "effectID": 6,
+      "crossplayID": 6,
       "name": "occupationTimeReduction",
       "effectTypeID": 5,
       "capID": 5,
@@ -157,6 +179,7 @@
     },
     {
       "effectID": 7,
+      "crossplayID": 7,
       "name": "wallBonus",
       "effectTypeID": 6,
       "capID": 6,
@@ -164,6 +187,7 @@
     },
     {
       "effectID": 8,
+      "crossplayID": 8,
       "name": "gateBonus",
       "effectTypeID": 7,
       "capID": 7,
@@ -171,6 +195,7 @@
     },
     {
       "effectID": 9,
+      "crossplayID": 9,
       "name": "moatBonus",
       "effectTypeID": 8,
       "capID": 8,
@@ -178,6 +203,7 @@
     },
     {
       "effectID": 10,
+      "crossplayID": 10,
       "name": "meleeBonus",
       "effectTypeID": 9,
       "capID": 9,
@@ -185,6 +211,7 @@
     },
     {
       "effectID": 11,
+      "crossplayID": 11,
       "name": "rangeBonus",
       "effectTypeID": 10,
       "capID": 10,
@@ -192,6 +219,7 @@
     },
     {
       "effectID": 12,
+      "crossplayID": 12,
       "name": "npcDefenseBonus",
       "effectTypeID": 11,
       "capID": 11,
@@ -199,6 +227,7 @@
     },
     {
       "effectID": 13,
+      "crossplayID": 13,
       "name": "defenseUnitAmountWall",
       "effectTypeID": 12,
       "capID": 12,
@@ -206,6 +235,7 @@
     },
     {
       "effectID": 51,
+      "crossplayID": 51,
       "name": "fameOffenseBonus",
       "effectTypeID": 13,
       "capID": 13,
@@ -213,6 +243,7 @@
     },
     {
       "effectID": 52,
+      "crossplayID": 52,
       "name": "honorBonus",
       "effectTypeID": 14,
       "capID": 14,
@@ -220,6 +251,7 @@
     },
     {
       "effectID": 53,
+      "crossplayID": 53,
       "name": "speedBonus",
       "effectTypeID": 15,
       "capID": 15,
@@ -227,6 +259,7 @@
     },
     {
       "effectID": 54,
+      "crossplayID": 54,
       "name": "lootBonus",
       "effectTypeID": 16,
       "capID": 16,
@@ -234,6 +267,7 @@
     },
     {
       "effectID": 55,
+      "crossplayID": 55,
       "name": "stealthBonus",
       "effectTypeID": 17,
       "capID": 17,
@@ -241,6 +275,7 @@
     },
     {
       "effectID": 56,
+      "crossplayID": 56,
       "name": "fireBoost",
       "effectTypeID": 18,
       "capID": 18,
@@ -248,6 +283,7 @@
     },
     {
       "effectID": 57,
+      "crossplayID": 57,
       "name": "wallReduction",
       "effectTypeID": 19,
       "capID": 19,
@@ -255,6 +291,7 @@
     },
     {
       "effectID": 58,
+      "crossplayID": 58,
       "name": "gateReduction",
       "effectTypeID": 20,
       "capID": 20,
@@ -262,6 +299,7 @@
     },
     {
       "effectID": 59,
+      "crossplayID": 59,
       "name": "moatReduction",
       "effectTypeID": 21,
       "capID": 21,
@@ -269,6 +307,7 @@
     },
     {
       "effectID": 60,
+      "crossplayID": 60,
       "name": "magicFindBonus",
       "effectTypeID": 22,
       "capID": 22,
@@ -276,6 +315,7 @@
     },
     {
       "effectID": 61,
+      "crossplayID": 61,
       "name": "offensiveMeleeBonus",
       "effectTypeID": 23,
       "capID": 23,
@@ -283,6 +323,7 @@
     },
     {
       "effectID": 62,
+      "crossplayID": 62,
       "name": "offensiveRangeBonus",
       "effectTypeID": 24,
       "capID": 24,
@@ -290,6 +331,7 @@
     },
     {
       "effectID": 63,
+      "crossplayID": 63,
       "name": "smashChance",
       "effectTypeID": 25,
       "capID": 25,
@@ -297,6 +339,7 @@
     },
     {
       "effectID": 64,
+      "crossplayID": 64,
       "name": "travelCostReduction",
       "effectTypeID": 26,
       "capID": 26,
@@ -304,6 +347,7 @@
     },
     {
       "effectID": 65,
+      "crossplayID": 65,
       "name": "cooldownReduction",
       "effectTypeID": 27,
       "capID": 27,
@@ -311,6 +355,7 @@
     },
     {
       "effectID": 66,
+      "crossplayID": 66,
       "name": "attackUnitAmountFlank",
       "effectTypeID": 28,
       "capID": 99,
@@ -319,6 +364,7 @@
     },
     {
       "effectID": 151,
+      "crossplayID": 151,
       "name": "cooldownReductionDungeons",
       "effectTypeID": 27,
       "capID": 27,
@@ -326,18 +372,21 @@
     },
     {
       "effectID": 101,
+      "crossplayID": 101,
       "name": "skin",
       "effectTypeID": 29,
       "capID": 99
     },
     {
       "effectID": 102,
+      "crossplayID": 102,
       "name": "skinBaron",
       "effectTypeID": 30,
       "capID": 99
     },
     {
       "effectID": 201,
+      "crossplayID": 201,
       "name": "defenseBonusMainCastle",
       "effectTypeID": 31,
       "capID": 99,
@@ -346,6 +395,7 @@
     },
     {
       "effectID": 202,
+      "crossplayID": 202,
       "name": "defenseBonusNotMainCastle",
       "effectTypeID": 31,
       "capID": 99,
@@ -354,6 +404,7 @@
     },
     {
       "effectID": 203,
+      "crossplayID": 203,
       "name": "wallBonusBaron",
       "effectTypeID": 6,
       "capID": 6,
@@ -362,6 +413,7 @@
     },
     {
       "effectID": 204,
+      "crossplayID": 204,
       "name": "gateBonusBaron",
       "effectTypeID": 7,
       "capID": 7,
@@ -370,6 +422,7 @@
     },
     {
       "effectID": 205,
+      "crossplayID": 205,
       "name": "moatBonusBaron",
       "effectTypeID": 8,
       "capID": 8,
@@ -378,6 +431,7 @@
     },
     {
       "effectID": 206,
+      "crossplayID": 206,
       "name": "defenseUnitAmountWallMainCastle",
       "effectTypeID": 12,
       "capID": 12,
@@ -386,6 +440,7 @@
     },
     {
       "effectID": 207,
+      "crossplayID": 207,
       "name": "defenseUnitAmountWallNotMainCastle",
       "effectTypeID": 12,
       "capID": 12,
@@ -394,6 +449,7 @@
     },
     {
       "effectID": 267,
+      "crossplayID": 267,
       "name": "defenseUnitAmountWallPVP",
       "effectTypeID": 46,
       "capID": 99,
@@ -401,6 +457,7 @@
     },
     {
       "effectID": 208,
+      "crossplayID": 208,
       "name": "defenseBoostYardBaron",
       "effectTypeID": 32,
       "capID": 99,
@@ -409,6 +466,7 @@
     },
     {
       "effectID": 209,
+      "crossplayID": 209,
       "name": "occupationTimeReductionBaron",
       "effectTypeID": 5,
       "capID": 5,
@@ -417,6 +475,7 @@
     },
     {
       "effectID": 210,
+      "crossplayID": 210,
       "name": "offensiveMeleeBonusConquerBaron",
       "effectTypeID": 23,
       "capID": 23,
@@ -425,6 +484,7 @@
     },
     {
       "effectID": 211,
+      "crossplayID": 211,
       "name": "offensiveRangeBonusConquerBaron",
       "effectTypeID": 24,
       "capID": 24,
@@ -433,6 +493,7 @@
     },
     {
       "effectID": 212,
+      "crossplayID": 212,
       "name": "speedBonusConquerBaron",
       "effectTypeID": 15,
       "capID": 15,
@@ -441,6 +502,7 @@
     },
     {
       "effectID": 213,
+      "crossplayID": 213,
       "name": "stealthBonusConquerBaron",
       "effectTypeID": 17,
       "capID": 17,
@@ -449,6 +511,7 @@
     },
     {
       "effectID": 214,
+      "crossplayID": 214,
       "name": "attackBoostYardConquerBaron",
       "effectTypeID": 33,
       "capID": 99,
@@ -457,6 +520,7 @@
     },
     {
       "effectID": 215,
+      "crossplayID": 215,
       "name": "wallReductionConquerBaron",
       "effectTypeID": 19,
       "capID": 19,
@@ -465,6 +529,7 @@
     },
     {
       "effectID": 216,
+      "crossplayID": 216,
       "name": "attackUnitAmountFrontConquerBaron",
       "effectTypeID": 34,
       "capID": 99,
@@ -473,6 +538,7 @@
     },
     {
       "effectID": 217,
+      "crossplayID": 217,
       "name": "attackUnitAmountFlankConquerBaron",
       "effectTypeID": 28,
       "capID": 99,
@@ -481,6 +547,7 @@
     },
     {
       "effectID": 218,
+      "crossplayID": 218,
       "name": "fameDefenseBonusBaron",
       "effectTypeID": 0,
       "capID": 0,
@@ -489,6 +556,7 @@
     },
     {
       "effectID": 219,
+      "crossplayID": 219,
       "name": "fireBrigadeBoostBaron",
       "effectTypeID": 4,
       "capID": 4,
@@ -497,6 +565,7 @@
     },
     {
       "effectID": 220,
+      "crossplayID": 220,
       "name": "hideoutCapacityBaron",
       "effectTypeID": 35,
       "capID": 99,
@@ -505,6 +574,7 @@
     },
     {
       "effectID": 221,
+      "crossplayID": 221,
       "name": "lootReductionBaron",
       "effectTypeID": 2,
       "capID": 2,
@@ -513,6 +583,7 @@
     },
     {
       "effectID": 222,
+      "crossplayID": 222,
       "name": "perceptionBonusBaron",
       "effectTypeID": 3,
       "capID": 3,
@@ -521,6 +592,7 @@
     },
     {
       "effectID": 223,
+      "crossplayID": 223,
       "name": "offensiveMeleeBonusConquerGeneral",
       "effectTypeID": 23,
       "capID": 23,
@@ -529,6 +601,7 @@
     },
     {
       "effectID": 224,
+      "crossplayID": 224,
       "name": "offensiveRangeBonusConquerGeneral",
       "effectTypeID": 24,
       "capID": 24,
@@ -537,6 +610,7 @@
     },
     {
       "effectID": 225,
+      "crossplayID": 225,
       "name": "speedBonusConquerGeneral",
       "effectTypeID": 15,
       "capID": 15,
@@ -545,6 +619,7 @@
     },
     {
       "effectID": 226,
+      "crossplayID": 226,
       "name": "stealthBonusConquerGeneral",
       "effectTypeID": 17,
       "capID": 17,
@@ -553,6 +628,7 @@
     },
     {
       "effectID": 227,
+      "crossplayID": 227,
       "name": "attackBoostYardConquerGeneral",
       "effectTypeID": 33,
       "capID": 99,
@@ -561,6 +637,7 @@
     },
     {
       "effectID": 228,
+      "crossplayID": 228,
       "name": "wallReductionConquerGeneral",
       "effectTypeID": 19,
       "capID": 19,
@@ -569,6 +646,7 @@
     },
     {
       "effectID": 229,
+      "crossplayID": 229,
       "name": "attackUnitAmountFrontConquerGeneral",
       "effectTypeID": 34,
       "capID": 99,
@@ -577,6 +655,7 @@
     },
     {
       "effectID": 230,
+      "crossplayID": 230,
       "name": "attackUnitAmountFlankConquerGeneral",
       "effectTypeID": 28,
       "capID": 99,
@@ -585,6 +664,7 @@
     },
     {
       "effectID": 231,
+      "crossplayID": 231,
       "name": "attackBonusMainCastle",
       "effectTypeID": 36,
       "capID": 99,
@@ -593,6 +673,7 @@
     },
     {
       "effectID": 232,
+      "crossplayID": 232,
       "name": "attackBonusNotMainCastle",
       "effectTypeID": 36,
       "capID": 99,
@@ -601,6 +682,7 @@
     },
     {
       "effectID": 233,
+      "crossplayID": 233,
       "name": "stealthBonusGeneral",
       "effectTypeID": 17,
       "capID": 17,
@@ -609,6 +691,7 @@
     },
     {
       "effectID": 234,
+      "crossplayID": 234,
       "name": "attackBoostYardPVP",
       "effectTypeID": 33,
       "capID": 99,
@@ -617,6 +700,7 @@
     },
     {
       "effectID": 235,
+      "crossplayID": 235,
       "name": "wallReductionPVP",
       "effectTypeID": 19,
       "capID": 19,
@@ -625,6 +709,7 @@
     },
     {
       "effectID": 236,
+      "crossplayID": 236,
       "name": "gateReductionPVP",
       "effectTypeID": 20,
       "capID": 20,
@@ -633,6 +718,7 @@
     },
     {
       "effectID": 237,
+      "crossplayID": 237,
       "name": "moatReductionPVP",
       "effectTypeID": 21,
       "capID": 21,
@@ -641,6 +727,7 @@
     },
     {
       "effectID": 238,
+      "crossplayID": 238,
       "name": "attackUnitAmountFrontPVP",
       "effectTypeID": 34,
       "capID": 99,
@@ -649,6 +736,7 @@
     },
     {
       "effectID": 239,
+      "crossplayID": 239,
       "name": "attackUnitAmountFlankPVP",
       "effectTypeID": 28,
       "capID": 99,
@@ -657,6 +745,7 @@
     },
     {
       "effectID": 152,
+      "crossplayID": 152,
       "name": "offensiveMeleeBonusPVP",
       "effectTypeID": 23,
       "capID": 23,
@@ -665,6 +754,7 @@
     },
     {
       "effectID": 153,
+      "crossplayID": 153,
       "name": "offensiveRangeBonusPVP",
       "effectTypeID": 24,
       "capID": 24,
@@ -673,6 +763,7 @@
     },
     {
       "effectID": 240,
+      "crossplayID": 240,
       "name": "offensiveMeleeBonusPVE",
       "effectTypeID": 23,
       "capID": 23,
@@ -681,6 +772,7 @@
     },
     {
       "effectID": 241,
+      "crossplayID": 241,
       "name": "offensiveRangeBonusPVE",
       "effectTypeID": 24,
       "capID": 24,
@@ -689,6 +781,7 @@
     },
     {
       "effectID": 242,
+      "crossplayID": 242,
       "name": "speedBonusPVE",
       "effectTypeID": 15,
       "capID": 15,
@@ -697,6 +790,7 @@
     },
     {
       "effectID": 243,
+      "crossplayID": 243,
       "name": "attackBoostYardPVE",
       "effectTypeID": 33,
       "capID": 99,
@@ -705,6 +799,7 @@
     },
     {
       "effectID": 244,
+      "crossplayID": 244,
       "name": "wallReductionPVE",
       "effectTypeID": 19,
       "capID": 19,
@@ -713,6 +808,7 @@
     },
     {
       "effectID": 245,
+      "crossplayID": 245,
       "name": "gateReductionPVE",
       "effectTypeID": 20,
       "capID": 20,
@@ -721,6 +817,7 @@
     },
     {
       "effectID": 246,
+      "crossplayID": 246,
       "name": "attackUnitAmountFrontPVE",
       "effectTypeID": 34,
       "capID": 99,
@@ -729,6 +826,7 @@
     },
     {
       "effectID": 247,
+      "crossplayID": 247,
       "name": "attackUnitAmountFlankPVE",
       "effectTypeID": 28,
       "capID": 99,
@@ -737,6 +835,7 @@
     },
     {
       "effectID": 248,
+      "crossplayID": 248,
       "name": "fameOffenseBonusGeneral",
       "effectTypeID": 13,
       "capID": 13,
@@ -745,6 +844,7 @@
     },
     {
       "effectID": 249,
+      "crossplayID": 249,
       "name": "honorBonusGeneral",
       "effectTypeID": 14,
       "capID": 14,
@@ -753,6 +853,7 @@
     },
     {
       "effectID": 250,
+      "crossplayID": 250,
       "name": "lootCapacityPVP",
       "effectTypeID": 37,
       "capID": 99,
@@ -761,6 +862,7 @@
     },
     {
       "effectID": 251,
+      "crossplayID": 251,
       "name": "returnTravelBoostPVP",
       "effectTypeID": 45,
       "capID": 99,
@@ -769,6 +871,7 @@
     },
     {
       "effectID": 252,
+      "crossplayID": 252,
       "name": "speedBonusPVP",
       "effectTypeID": 44,
       "capID": 99,
@@ -777,6 +880,7 @@
     },
     {
       "effectID": 253,
+      "crossplayID": 253,
       "name": "travelCostReductionPVP",
       "effectTypeID": 43,
       "capID": 99,
@@ -785,6 +889,7 @@
     },
     {
       "effectID": 254,
+      "crossplayID": 254,
       "name": "smashChanceGeneral",
       "effectTypeID": 25,
       "capID": 25,
@@ -793,6 +898,7 @@
     },
     {
       "effectID": 255,
+      "crossplayID": 255,
       "name": "fireBoostGeneral",
       "effectTypeID": 18,
       "capID": 18,
@@ -801,6 +907,7 @@
     },
     {
       "effectID": 256,
+      "crossplayID": 256,
       "name": "cooldownReductionPVP",
       "effectTypeID": 27,
       "capID": 27,
@@ -809,6 +916,7 @@
     },
     {
       "effectID": 257,
+      "crossplayID": 257,
       "name": "cooldownReductionPVE",
       "effectTypeID": 27,
       "capID": 27,
@@ -817,6 +925,7 @@
     },
     {
       "effectID": 258,
+      "crossplayID": 258,
       "name": "magicFindBonusGeneral",
       "effectTypeID": 22,
       "capID": 22,
@@ -825,6 +934,7 @@
     },
     {
       "effectID": 259,
+      "crossplayID": 259,
       "name": "lootBonusPVE",
       "effectTypeID": 16,
       "capID": 16,
@@ -833,6 +943,7 @@
     },
     {
       "effectID": 260,
+      "crossplayID": 260,
       "name": "lootCapacityPVE",
       "effectTypeID": 37,
       "capID": 99,
@@ -841,6 +952,7 @@
     },
     {
       "effectID": 261,
+      "crossplayID": 261,
       "name": "returnTravelBoostPVE",
       "effectTypeID": 38,
       "capID": 99,
@@ -849,6 +961,7 @@
     },
     {
       "effectID": 262,
+      "crossplayID": 262,
       "name": "travelCostReductionPVE",
       "effectTypeID": 26,
       "capID": 26,
@@ -857,6 +970,7 @@
     },
     {
       "effectID": 263,
+      "crossplayID": 263,
       "name": "supportSpeedBonus",
       "effectTypeID": 39,
       "capID": 99,
@@ -865,6 +979,7 @@
     },
     {
       "effectID": 264,
+      "crossplayID": 264,
       "name": "stationingSpeedBonus",
       "effectTypeID": 40,
       "capID": 99,
@@ -873,6 +988,7 @@
     },
     {
       "effectID": 265,
+      "crossplayID": 265,
       "name": "supportTravelCostReduction",
       "effectTypeID": 42,
       "capID": 99,
@@ -881,6 +997,7 @@
     },
     {
       "effectID": 266,
+      "crossplayID": 266,
       "name": "stationingTravelCostReduction",
       "effectTypeID": 41,
       "capID": 99,
@@ -889,6 +1006,7 @@
     },
     {
       "effectID": 301,
+      "crossplayID": 301,
       "name": "fameDefenseMalusBaron",
       "effectTypeID": 0,
       "capID": 0,
@@ -897,6 +1015,7 @@
     },
     {
       "effectID": 302,
+      "crossplayID": 302,
       "name": "gateMalusBaron",
       "effectTypeID": 7,
       "capID": 7,
@@ -905,6 +1024,7 @@
     },
     {
       "effectID": 303,
+      "crossplayID": 303,
       "name": "wallMalusBaron",
       "effectTypeID": 6,
       "capID": 6,
@@ -913,6 +1033,7 @@
     },
     {
       "effectID": 304,
+      "crossplayID": 304,
       "name": "lootIncreaseBaron",
       "effectTypeID": 2,
       "capID": 2,
@@ -921,6 +1042,7 @@
     },
     {
       "effectID": 305,
+      "crossplayID": 305,
       "name": "wallIncreasePVE",
       "effectTypeID": 19,
       "capID": 19,
@@ -929,6 +1051,7 @@
     },
     {
       "effectID": 306,
+      "crossplayID": 306,
       "name": "wallIncreasePVP",
       "effectTypeID": 19,
       "capID": 19,
@@ -937,6 +1060,7 @@
     },
     {
       "effectID": 307,
+      "crossplayID": 307,
       "name": "stealthMalusGeneral",
       "effectTypeID": 17,
       "capID": 17,
@@ -945,6 +1069,7 @@
     },
     {
       "effectID": 308,
+      "crossplayID": 308,
       "name": "gateIncreasePVE",
       "effectTypeID": 20,
       "capID": 20,
@@ -953,6 +1078,7 @@
     },
     {
       "effectID": 309,
+      "crossplayID": 309,
       "name": "gateIncreasePVP",
       "effectTypeID": 20,
       "capID": 20,
@@ -961,6 +1087,7 @@
     },
     {
       "effectID": 310,
+      "crossplayID": 310,
       "name": "perceptionMalusBaron",
       "effectTypeID": 3,
       "capID": 3,
@@ -969,6 +1096,7 @@
     },
     {
       "effectID": 311,
+      "crossplayID": 311,
       "name": "moatMalusBaron",
       "effectTypeID": 8,
       "capID": 8,
@@ -977,6 +1105,7 @@
     },
     {
       "effectID": 312,
+      "crossplayID": 312,
       "name": "attackMalusConquerBaron",
       "effectTypeID": 36,
       "capID": 99,
@@ -985,6 +1114,7 @@
     },
     {
       "effectID": 313,
+      "crossplayID": 313,
       "name": "attackMalusPVE",
       "effectTypeID": 36,
       "capID": 99,
@@ -993,6 +1123,7 @@
     },
     {
       "effectID": 314,
+      "crossplayID": 314,
       "name": "attackMalusPVP",
       "effectTypeID": 36,
       "capID": 99,
@@ -1001,6 +1132,7 @@
     },
     {
       "effectID": 315,
+      "crossplayID": 315,
       "name": "fireBrigadeMalusBaron",
       "effectTypeID": 4,
       "capID": 4,
@@ -1009,6 +1141,7 @@
     },
     {
       "effectID": 316,
+      "crossplayID": 316,
       "name": "defenseMalusBaron",
       "effectTypeID": 31,
       "capID": 99,
@@ -1017,6 +1150,7 @@
     },
     {
       "effectID": 317,
+      "crossplayID": 317,
       "name": "speedMalusGeneral",
       "effectTypeID": 15,
       "capID": 15,
@@ -1025,6 +1159,7 @@
     },
     {
       "effectID": 318,
+      "crossplayID": 318,
       "name": "attackUnitAmountFrontMalusPVE",
       "effectTypeID": 34,
       "capID": 99,
@@ -1033,6 +1168,7 @@
     },
     {
       "effectID": 319,
+      "crossplayID": 319,
       "name": "attackUnitAmountFlankMalusPVE",
       "effectTypeID": 28,
       "capID": 99,
@@ -1041,6 +1177,7 @@
     },
     {
       "effectID": 320,
+      "crossplayID": 320,
       "name": "attackUnitAmountFrontMalusPVP",
       "effectTypeID": 34,
       "capID": 99,
@@ -1049,6 +1186,7 @@
     },
     {
       "effectID": 321,
+      "crossplayID": 321,
       "name": "attackUnitAmountFlankMalusPVP",
       "effectTypeID": 28,
       "capID": 99,
@@ -1057,6 +1195,7 @@
     },
     {
       "effectID": 322,
+      "crossplayID": 322,
       "name": "defenseUnitAmountwallMalusBaron",
       "effectTypeID": 12,
       "capID": 12,
@@ -1065,6 +1204,7 @@
     },
     {
       "effectID": 323,
+      "crossplayID": 323,
       "name": "fameMalusGeneral",
       "effectTypeID": 13,
       "capID": 13,
@@ -1073,6 +1213,7 @@
     },
     {
       "effectID": 324,
+      "crossplayID": 324,
       "name": "lootDecreaseGeneral",
       "effectTypeID": 16,
       "capID": 16,
@@ -1081,6 +1222,7 @@
     },
     {
       "effectID": 325,
+      "crossplayID": 325,
       "name": "occupationTimeIncreaseBaron",
       "effectTypeID": 5,
       "capID": 5,
@@ -1089,6 +1231,7 @@
     },
     {
       "effectID": 327,
+      "crossplayID": 327,
       "name": "returnTravelMalusGeneral",
       "effectTypeID": 38,
       "capID": 99,
@@ -1097,6 +1240,7 @@
     },
     {
       "effectID": 328,
+      "crossplayID": 328,
       "name": "offensiveMeleeMalusPVP",
       "effectTypeID": 23,
       "capID": 23,
@@ -1105,6 +1249,7 @@
     },
     {
       "effectID": 329,
+      "crossplayID": 329,
       "name": "offensiveMeleeMalusPVE",
       "effectTypeID": 23,
       "capID": 23,
@@ -1113,6 +1258,7 @@
     },
     {
       "effectID": 330,
+      "crossplayID": 330,
       "name": "travelCostIncreaseGeneral",
       "effectTypeID": 26,
       "capID": 26,
@@ -1121,6 +1267,7 @@
     },
     {
       "effectID": 331,
+      "crossplayID": 331,
       "name": "offensiveRangeMalusPVP",
       "effectTypeID": 24,
       "capID": 24,
@@ -1129,6 +1276,7 @@
     },
     {
       "effectID": 332,
+      "crossplayID": 332,
       "name": "moatIncreasePVP",
       "effectTypeID": 21,
       "capID": 21,
@@ -1137,6 +1285,7 @@
     },
     {
       "effectID": 333,
+      "crossplayID": 333,
       "name": "offensiveRangeMalusPVE",
       "effectTypeID": 24,
       "capID": 24,
@@ -1145,12 +1294,14 @@
     },
     {
       "effectID": 14,
+      "crossplayID": 14,
       "name": "memberCount",
       "effectTypeID": 56,
       "capID": 99
     },
     {
       "effectID": 15,
+      "crossplayID": 15,
       "name": "allianceTravelSupportBoost",
       "effectTypeID": 39,
       "capID": 99,
@@ -1160,6 +1311,7 @@
     },
     {
       "effectID": 16,
+      "crossplayID": 16,
       "name": "allianceTravelMarketBoost",
       "effectTypeID": 48,
       "capID": 99,
@@ -1168,12 +1320,14 @@
     },
     {
       "effectID": 17,
+      "crossplayID": 17,
       "name": "resourceDepositBoost",
       "effectTypeID": 52,
       "capID": 99
     },
     {
       "effectID": 18,
+      "crossplayID": 18,
       "name": "warLootBoost",
       "effectTypeID": 55,
       "capID": 99,
@@ -1183,6 +1337,7 @@
     },
     {
       "effectID": 19,
+      "crossplayID": 19,
       "name": "travelWarAttackBoost",
       "effectTypeID": 44,
       "capID": 99,
@@ -1192,6 +1347,7 @@
     },
     {
       "effectID": 20,
+      "crossplayID": 20,
       "name": "allianceAttackBoost",
       "effectTypeID": 36,
       "capID": 99,
@@ -1200,6 +1356,7 @@
     },
     {
       "effectID": 21,
+      "crossplayID": 21,
       "name": "allianceDefenseBoost",
       "effectTypeID": 31,
       "capID": 99,
@@ -1208,6 +1365,7 @@
     },
     {
       "effectID": 22,
+      "crossplayID": 22,
       "name": "allianceFameBoost",
       "effectTypeID": 13,
       "capID": 13,
@@ -1216,6 +1374,7 @@
     },
     {
       "effectID": 43,
+      "crossplayID": 43,
       "name": "coinLootBoost",
       "effectTypeID": 75,
       "capID": 99,
@@ -1223,12 +1382,14 @@
     },
     {
       "effectID": 44,
+      "crossplayID": 44,
       "name": "recruitmentCostDecrease",
       "effectTypeID": 70,
       "capID": 99
     },
     {
       "effectID": 45,
+      "crossplayID": 45,
       "name": "allianceFameGainBoost",
       "effectTypeID": 77,
       "capID": 99,
@@ -1236,12 +1397,14 @@
     },
     {
       "effectID": 46,
+      "crossplayID": 46,
       "name": "enableUnits",
       "effectTypeID": 79,
       "capID": 99
     },
     {
       "effectID": 47,
+      "crossplayID": 47,
       "name": "attackBonusPvP",
       "effectTypeID": 36,
       "capID": 99,
@@ -1250,6 +1413,7 @@
     },
     {
       "effectID": 48,
+      "crossplayID": 48,
       "name": "attackBonus",
       "effectTypeID": 36,
       "capID": 99,
@@ -1257,18 +1421,21 @@
     },
     {
       "effectID": 49,
+      "crossplayID": 49,
       "name": "toolProductionSpeedBoost",
       "effectTypeID": 72,
       "capID": 99
     },
     {
       "effectID": 50,
+      "crossplayID": 50,
       "name": "islandKing",
       "effectTypeID": 81,
       "capID": 99
     },
     {
       "effectID": 67,
+      "crossplayID": 67,
       "name": "foodProductionBoost",
       "effectTypeID": 80,
       "capID": 99,
@@ -1277,18 +1444,21 @@
     },
     {
       "effectID": 68,
+      "crossplayID": 68,
       "name": "recruitmentSpeedBoost",
       "effectTypeID": 71,
       "capID": 99
     },
     {
       "effectID": 69,
+      "crossplayID": 69,
       "name": "spyCountBoost",
       "effectTypeID": 73,
       "capID": 99
     },
     {
       "effectID": 70,
+      "crossplayID": 70,
       "name": "publicOrderBoost",
       "effectTypeID": 74,
       "capID": 99,
@@ -1297,6 +1467,7 @@
     },
     {
       "effectID": 71,
+      "crossplayID": 71,
       "name": "enemyFameBoost",
       "effectTypeID": 83,
       "capID": 99,
@@ -1304,6 +1475,7 @@
     },
     {
       "effectID": 72,
+      "crossplayID": 72,
       "name": "enemyLootBoost",
       "effectTypeID": 84,
       "capID": 99,
@@ -1311,6 +1483,7 @@
     },
     {
       "effectID": 73,
+      "crossplayID": 73,
       "name": "speedBonusBerimond",
       "effectTypeID": 15,
       "capID": 15,
@@ -1319,6 +1492,7 @@
     },
     {
       "effectID": 74,
+      "crossplayID": 74,
       "name": "auxiliaryCapacityBoost",
       "effectTypeID": 78,
       "capID": 99,
@@ -1327,6 +1501,7 @@
     },
     {
       "effectID": 75,
+      "crossplayID": 75,
       "name": "moraleBoost",
       "effectTypeID": 82,
       "capID": 99,
@@ -1335,6 +1510,7 @@
     },
     {
       "effectID": 76,
+      "crossplayID": 76,
       "name": "factionPointGainBoost",
       "effectTypeID": 76,
       "capID": 99,
@@ -1344,6 +1520,7 @@
     },
     {
       "effectID": 77,
+      "crossplayID": 77,
       "name": "foodProductionBoostKingdoms",
       "effectTypeID": 80,
       "capID": 99,
@@ -1352,6 +1529,7 @@
     },
     {
       "effectID": 78,
+      "crossplayID": 78,
       "name": "foodProductionBoostMain",
       "effectTypeID": 80,
       "capID": 99,
@@ -1360,36 +1538,42 @@
     },
     {
       "effectID": 79,
+      "crossplayID": 79,
       "name": "recruitmentCostDecreaseAll",
       "effectTypeID": 85,
       "capID": 99
     },
     {
       "effectID": 80,
+      "crossplayID": 80,
       "name": "recruitmentSpeedBoostAll",
       "effectTypeID": 86,
       "capID": 99
     },
     {
       "effectID": 81,
+      "crossplayID": 81,
       "name": "unlockSkinIDs",
       "effectTypeID": 87,
       "capID": 99
     },
     {
       "effectID": 400,
+      "crossplayID": 400,
       "name": "unlockAbility",
       "effectTypeID": 178,
       "capID": 99
     },
     {
       "effectID": 180,
+      "crossplayID": 180,
       "name": "enableBuildings",
       "effectTypeID": 57,
       "capID": 99
     },
     {
       "effectID": 82,
+      "crossplayID": 82,
       "name": "battleXPBoost",
       "effectTypeID": 88,
       "capID": 99,
@@ -1397,24 +1581,28 @@
     },
     {
       "effectID": 83,
+      "crossplayID": 83,
       "name": "buildingXPBoost",
       "effectTypeID": 89,
       "capID": 99
     },
     {
       "effectID": 84,
+      "crossplayID": 84,
       "name": "disableUnits",
       "effectTypeID": 90,
       "capID": 99
     },
     {
       "effectID": 85,
+      "crossplayID": 85,
       "name": "espionageSpeedBoost",
       "effectTypeID": 91,
       "capID": 99
     },
     {
       "effectID": 86,
+      "crossplayID": 86,
       "name": "woodProductionBoost",
       "effectTypeID": 92,
       "capID": 99,
@@ -1423,6 +1611,7 @@
     },
     {
       "effectID": 87,
+      "crossplayID": 87,
       "name": "stoneProductionBoost",
       "effectTypeID": 93,
       "capID": 99,
@@ -1431,24 +1620,28 @@
     },
     {
       "effectID": 88,
+      "crossplayID": 88,
       "name": "taxCollectorBoost",
       "effectTypeID": 94,
       "capID": 99
     },
     {
       "effectID": 89,
+      "crossplayID": 89,
       "name": "taxCollectorNoRubies",
       "effectTypeID": 95,
       "capID": 99
     },
     {
       "effectID": 90,
+      "crossplayID": 90,
       "name": "marketCarriageCapacityBoost",
       "effectTypeID": 96,
       "capID": 99
     },
     {
       "effectID": 91,
+      "crossplayID": 91,
       "name": "marketSpeedOwnBoost",
       "effectTypeID": 48,
       "capID": 99,
@@ -1456,36 +1649,42 @@
     },
     {
       "effectID": 92,
+      "crossplayID": 92,
       "name": "amountGuardsBoost",
       "effectTypeID": 97,
       "capID": 99
     },
     {
       "effectID": 93,
+      "crossplayID": 93,
       "name": "amountSpiesBonus",
       "effectTypeID": 98,
       "capID": 99
     },
     {
       "effectID": 94,
+      "crossplayID": 94,
       "name": "amountPeasantBoost",
       "effectTypeID": 99,
       "capID": 99
     },
     {
       "effectID": 95,
+      "crossplayID": 95,
       "name": "amountPopulationBoost",
       "effectTypeID": 100,
       "capID": 99
     },
     {
       "effectID": 96,
+      "crossplayID": 96,
       "name": "amountPopulationBonus",
       "effectTypeID": 101,
       "capID": 99
     },
     {
       "effectID": 97,
+      "crossplayID": 97,
       "name": "unitSpeedBoost",
       "effectTypeID": 102,
       "capID": 99,
@@ -1493,18 +1692,21 @@
     },
     {
       "effectID": 98,
+      "crossplayID": 98,
       "name": "travelKingdomTroopTimeBoost",
       "effectTypeID": 103,
       "capID": 99
     },
     {
       "effectID": 99,
+      "crossplayID": 99,
       "name": "travelKingdomMarketTimeBoost",
       "effectTypeID": 104,
       "capID": 99
     },
     {
       "effectID": 100,
+      "crossplayID": 100,
       "name": "fameBoost",
       "effectTypeID": 105,
       "capID": 99,
@@ -1512,42 +1714,49 @@
     },
     {
       "effectID": 103,
+      "crossplayID": 103,
       "name": "hospitalSlotBonus",
       "effectTypeID": 106,
       "capID": 99
     },
     {
       "effectID": 104,
+      "crossplayID": 104,
       "name": "researchBoost",
       "effectTypeID": 107,
       "capID": 99
     },
     {
       "effectID": 105,
+      "crossplayID": 105,
       "name": "researchBonus",
       "effectTypeID": 108,
       "capID": 99
     },
     {
       "effectID": 106,
+      "crossplayID": 106,
       "name": "forgeCostBoost",
       "effectTypeID": 109,
       "capID": 99
     },
     {
       "effectID": 107,
+      "crossplayID": 107,
       "name": "recruitmentTimeBonus",
       "effectTypeID": 110,
       "capID": 99
     },
     {
       "effectID": 108,
+      "crossplayID": 108,
       "name": "toolProductionTimeBonus",
       "effectTypeID": 111,
       "capID": 99
     },
     {
       "effectID": 109,
+      "crossplayID": 109,
       "name": "woodProductionBonusMain",
       "effectTypeID": 112,
       "capID": 99,
@@ -1555,6 +1764,7 @@
     },
     {
       "effectID": 110,
+      "crossplayID": 110,
       "name": "stoneProductionBonusMain",
       "effectTypeID": 113,
       "capID": 99,
@@ -1562,6 +1772,7 @@
     },
     {
       "effectID": 111,
+      "crossplayID": 111,
       "name": "lootCapacityBoost",
       "effectTypeID": 114,
       "capID": 99,
@@ -1569,6 +1780,7 @@
     },
     {
       "effectID": 112,
+      "crossplayID": 112,
       "name": "battleXPBonus",
       "effectTypeID": 115,
       "capID": 99,
@@ -1576,24 +1788,28 @@
     },
     {
       "effectID": 113,
+      "crossplayID": 113,
       "name": "enableConstructionItemRecipes",
       "effectTypeID": 116,
       "capID": 99
     },
     {
       "effectID": 114,
+      "crossplayID": 114,
       "name": "toolProductionSpeedBoostAll",
       "effectTypeID": 117,
       "capID": 99
     },
     {
       "effectID": 115,
+      "crossplayID": 115,
       "name": "strongerPeasant",
       "effectTypeID": 118,
       "capID": 99
     },
     {
       "effectID": 116,
+      "crossplayID": 116,
       "name": "foodProductionBonusMain",
       "effectTypeID": 69,
       "capID": 99,
@@ -1601,66 +1817,77 @@
     },
     {
       "effectID": 295,
+      "crossplayID": 295,
       "name": "MeadProductionIncrease",
       "effectTypeID": 160,
       "capID": 99
     },
     {
       "effectID": 296,
+      "crossplayID": 296,
       "name": "unboostedMeadProduction",
       "effectTypeID": 161,
       "capID": 99
     },
     {
       "effectID": 297,
+      "crossplayID": 297,
       "name": "HoneyProductionIncrease",
       "effectTypeID": 162,
       "capID": 99
     },
     {
       "effectID": 298,
+      "crossplayID": 298,
       "name": "unboostedHoneyProduction",
       "effectTypeID": 163,
       "capID": 99
     },
     {
       "effectID": 299,
+      "crossplayID": 299,
       "name": "meadProductionBoost",
       "effectTypeID": 164,
       "capID": 99
     },
     {
       "effectID": 300,
+      "crossplayID": 300,
       "name": "honeyProductionBoost",
       "effectTypeID": 165,
       "capID": 99
     },
     {
       "effectID": 341,
+      "crossplayID": 341,
       "name": "refinedResourceQueueBoost",
       "effectTypeID": 186,
       "capID": 99
     },
     {
       "effectID": 342,
+      "crossplayID": 342,
       "name": "componentQueueBoost",
       "effectTypeID": 187,
       "capID": 99
     },
     {
       "effectID": 129,
+      "crossplayID": 129,
       "name": "healingSpeedIncreaseBoostPremium",
       "effectTypeID": 120,
       "capID": 99
     },
     {
       "effectID": 130,
+      "crossplayID": 130,
       "name": "healingSpeedIncreaseBoostNonPremium",
       "effectTypeID": 121,
       "capID": 99
     },
     {
       "effectID": 131,
+      "crossplayID": 131,
       "name": "transportTaxDecreaseBoostIce",
       "effectTypeID": 122,
       "capID": 99,
@@ -1668,6 +1895,7 @@
     },
     {
       "effectID": 132,
+      "crossplayID": 132,
       "name": "transportTaxDecreaseBoostSand",
       "effectTypeID": 122,
       "capID": 99,
@@ -1675,6 +1903,7 @@
     },
     {
       "effectID": 133,
+      "crossplayID": 133,
       "name": "transportTaxDecreaseBoostVulcano",
       "effectTypeID": 122,
       "capID": 99,
@@ -1682,6 +1911,7 @@
     },
     {
       "effectID": 134,
+      "crossplayID": 134,
       "name": "transportTaxDecreaseBoostIsland",
       "effectTypeID": 122,
       "capID": 99,
@@ -1689,6 +1919,7 @@
     },
     {
       "effectID": 135,
+      "crossplayID": 135,
       "name": "transportTaxDecreaseBoostGreen",
       "effectTypeID": 122,
       "capID": 99,
@@ -1696,42 +1927,49 @@
     },
     {
       "effectID": 138,
+      "crossplayID": 186,
       "name": "freeSkipBonus",
       "effectTypeID": 124,
       "capID": 99
     },
     {
       "effectID": 139,
+      "crossplayID": 187,
       "name": "researchCostsBoost",
       "effectTypeID": 125,
       "capID": 99
     },
     {
       "effectID": 140,
+      "crossplayID": 188,
       "name": "baseRecruitmentTimeBoost",
       "effectTypeID": 126,
       "capID": 99
     },
     {
       "effectID": 141,
+      "crossplayID": 189,
       "name": "recruitmentSlotsBonus",
       "effectTypeID": 127,
       "capID": 99
     },
     {
       "effectID": 142,
+      "crossplayID": 190,
       "name": "buildingCostsBoost",
       "effectTypeID": 128,
       "capID": 99
     },
     {
       "effectID": 143,
+      "crossplayID": 191,
       "name": "gloryDecayBoost",
       "effectTypeID": 129,
       "capID": 99
     },
     {
       "effectID": 144,
+      "crossplayID": 192,
       "name": "coinLootBoostNomad",
       "effectTypeID": 75,
       "capID": 99,
@@ -1739,6 +1977,7 @@
     },
     {
       "effectID": 145,
+      "crossplayID": 193,
       "name": "PublicOrderBonusMain",
       "effectTypeID": 123,
       "capID": 99,
@@ -1746,6 +1985,7 @@
     },
     {
       "effectID": 146,
+      "crossplayID": 200,
       "name": "cooldownReductionNomad",
       "effectTypeID": 27,
       "capID": 27,
@@ -1753,6 +1993,7 @@
     },
     {
       "effectID": 600,
+      "crossplayID": 600,
       "name": "woodProductionBoost",
       "effectTypeID": 92,
       "capID": 99,
@@ -1761,6 +2002,7 @@
     },
     {
       "effectID": 601,
+      "crossplayID": 601,
       "name": "woodProductionBoost",
       "effectTypeID": 92,
       "capID": 99,
@@ -1769,6 +2011,7 @@
     },
     {
       "effectID": 602,
+      "crossplayID": 602,
       "name": "woodProductionBoost",
       "effectTypeID": 92,
       "capID": 99,
@@ -1777,6 +2020,7 @@
     },
     {
       "effectID": 603,
+      "crossplayID": 603,
       "name": "stoneProductionBoost",
       "effectTypeID": 93,
       "capID": 99,
@@ -1785,6 +2029,7 @@
     },
     {
       "effectID": 604,
+      "crossplayID": 604,
       "name": "stoneProductionBoost",
       "effectTypeID": 93,
       "capID": 99,
@@ -1793,6 +2038,7 @@
     },
     {
       "effectID": 605,
+      "crossplayID": 605,
       "name": "stoneProductionBoost",
       "effectTypeID": 93,
       "capID": 99,
@@ -1801,6 +2047,7 @@
     },
     {
       "effectID": 606,
+      "crossplayID": 606,
       "name": "foodProductionBoost",
       "effectTypeID": 80,
       "capID": 99,
@@ -1809,6 +2056,7 @@
     },
     {
       "effectID": 607,
+      "crossplayID": 607,
       "name": "foodProductionBoost",
       "effectTypeID": 80,
       "capID": 99,
@@ -1817,6 +2065,7 @@
     },
     {
       "effectID": 608,
+      "crossplayID": 608,
       "name": "foodProductionBoost",
       "effectTypeID": 80,
       "capID": 99,
@@ -1825,6 +2074,7 @@
     },
     {
       "effectID": 609,
+      "crossplayID": 609,
       "name": "ironProductionBoost",
       "effectTypeID": 143,
       "capID": 99,
@@ -1833,6 +2083,7 @@
     },
     {
       "effectID": 610,
+      "crossplayID": 610,
       "name": "coalProductionBoost",
       "effectTypeID": 140,
       "capID": 99,
@@ -1841,6 +2092,7 @@
     },
     {
       "effectID": 611,
+      "crossplayID": 611,
       "name": "oilProductionBoost",
       "effectTypeID": 141,
       "capID": 99,
@@ -1849,6 +2101,7 @@
     },
     {
       "effectID": 612,
+      "crossplayID": 612,
       "name": "glassProductionBoost",
       "effectTypeID": 142,
       "capID": 99,
@@ -1857,6 +2110,7 @@
     },
     {
       "effectID": 154,
+      "crossplayID": 154,
       "name": "charmBoost",
       "effectTypeID": 130,
       "capID": 99,
@@ -1864,6 +2118,7 @@
     },
     {
       "effectID": 155,
+      "crossplayID": 155,
       "name": "attackUnitAmountFlankShapeshifter",
       "effectTypeID": 28,
       "capID": 99,
@@ -1871,6 +2126,7 @@
     },
     {
       "effectID": 156,
+      "crossplayID": 156,
       "name": "attackBoostYardShapeshifter",
       "effectTypeID": 33,
       "capID": 99,
@@ -1878,18 +2134,21 @@
     },
     {
       "effectID": 158,
+      "crossplayID": 158,
       "name": "nomadTabletBoost",
       "effectTypeID": 131,
       "capID": 99
     },
     {
       "effectID": 159,
+      "crossplayID": 159,
       "name": "reputationPointGainBoost",
       "effectTypeID": 132,
       "capID": 99
     },
     {
       "effectID": 160,
+      "crossplayID": 160,
       "name": "samuraiTokenBoost",
       "effectTypeID": 133,
       "capID": 99,
@@ -1897,24 +2156,28 @@
     },
     {
       "effectID": 161,
+      "crossplayID": 161,
       "name": "khanMedalBoost",
       "effectTypeID": 134,
       "capID": 99
     },
     {
       "effectID": 162,
+      "crossplayID": 162,
       "name": "ragePointGainBoost",
       "effectTypeID": 135,
       "capID": 99
     },
     {
       "effectID": 344,
+      "crossplayID": 162,
       "name": "ragePointGainBoost",
       "effectTypeID": 135,
       "capID": 99
     },
     {
       "effectID": 147,
+      "crossplayID": 147,
       "name": "attackBoostYardNomad",
       "effectTypeID": 33,
       "capID": 99,
@@ -1922,6 +2185,7 @@
     },
     {
       "effectID": 148,
+      "crossplayID": 148,
       "name": "wallReductionNomad",
       "effectTypeID": 19,
       "capID": 19,
@@ -1929,6 +2193,7 @@
     },
     {
       "effectID": 149,
+      "crossplayID": 149,
       "name": "attackUnitAmountFlankNomad",
       "effectTypeID": 28,
       "capID": 99,
@@ -1936,6 +2201,7 @@
     },
     {
       "effectID": 150,
+      "crossplayID": 150,
       "name": "gateReductionNomad",
       "effectTypeID": 20,
       "capID": 20,
@@ -1943,6 +2209,7 @@
     },
     {
       "effectID": 157,
+      "crossplayID": 157,
       "name": "offensiveRangeBonusNomad",
       "effectTypeID": 24,
       "capID": 24,
@@ -1950,6 +2217,7 @@
     },
     {
       "effectID": 345,
+      "crossplayID": 345,
       "name": "attackBoostYardAlien",
       "effectTypeID": 33,
       "capID": 99,
@@ -1957,6 +2225,7 @@
     },
     {
       "effectID": 346,
+      "crossplayID": 346,
       "name": "attackUnitAmountFlankAlien",
       "effectTypeID": 28,
       "capID": 99,
@@ -1964,6 +2233,7 @@
     },
     {
       "effectID": 347,
+      "crossplayID": 347,
       "name": "moatReductionAlien",
       "effectTypeID": 21,
       "capID": 21,
@@ -1971,6 +2241,7 @@
     },
     {
       "effectID": 350,
+      "crossplayID": 350,
       "name": "offensiveMeleeBonusAlien",
       "effectTypeID": 23,
       "capID": 23,
@@ -1978,6 +2249,7 @@
     },
     {
       "effectID": 351,
+      "crossplayID": 351,
       "name": "offensiveRangeBonusAlien",
       "effectTypeID": 24,
       "capID": 24,
@@ -1985,6 +2257,7 @@
     },
     {
       "effectID": 364,
+      "crossplayID": 364,
       "name": "fameOffenseBonusAlien",
       "effectTypeID": 105,
       "capID": 99,
@@ -1992,6 +2265,7 @@
     },
     {
       "effectID": 348,
+      "crossplayID": 166,
       "name": "offensiveMeleeBonusBerimondKingdom",
       "effectTypeID": 23,
       "capID": 23,
@@ -1999,6 +2273,7 @@
     },
     {
       "effectID": 349,
+      "crossplayID": 167,
       "name": "offensiveRangeBonusBerimondKingdom",
       "effectTypeID": 24,
       "capID": 24,
@@ -2006,6 +2281,7 @@
     },
     {
       "effectID": 352,
+      "crossplayID": 170,
       "name": "attackUnitAmountFlankBerimondKingdom",
       "effectTypeID": 28,
       "capID": 99,
@@ -2013,6 +2289,7 @@
     },
     {
       "effectID": 353,
+      "crossplayID": 171,
       "name": "factionPointGainBoostBerimondKingdom",
       "effectTypeID": 76,
       "capID": 99,
@@ -2020,6 +2297,7 @@
     },
     {
       "effectID": 354,
+      "crossplayID": 172,
       "name": "attackBoostYardBerimondKingdom",
       "effectTypeID": 33,
       "capID": 99,
@@ -2027,6 +2305,7 @@
     },
     {
       "effectID": 355,
+      "crossplayID": 173,
       "name": "attackBoostYardSamurai",
       "effectTypeID": 53,
       "capID": 99,
@@ -2034,6 +2313,7 @@
     },
     {
       "effectID": 356,
+      "crossplayID": 174,
       "name": "attackUnitAmountFlankSamurai",
       "effectTypeID": 28,
       "capID": 99,
@@ -2041,6 +2321,7 @@
     },
     {
       "effectID": 357,
+      "crossplayID": 175,
       "name": "gateReductionSamurai",
       "effectTypeID": 20,
       "capID": 20,
@@ -2048,6 +2329,7 @@
     },
     {
       "effectID": 358,
+      "crossplayID": 176,
       "name": "wallReductionSamurai",
       "effectTypeID": 19,
       "capID": 19,
@@ -2055,6 +2337,7 @@
     },
     {
       "effectID": 359,
+      "crossplayID": 177,
       "name": "offensiveRangeBonusSamurai",
       "effectTypeID": 24,
       "capID": 24,
@@ -2062,6 +2345,7 @@
     },
     {
       "effectID": 183,
+      "crossplayID": 183,
       "name": "meleeBonusPVP",
       "effectTypeID": 9,
       "capID": 9,
@@ -2070,6 +2354,7 @@
     },
     {
       "effectID": 184,
+      "crossplayID": 184,
       "name": "rangeBonusPVP",
       "effectTypeID": 10,
       "capID": 10,
@@ -2078,6 +2363,7 @@
     },
     {
       "effectID": 185,
+      "crossplayID": 185,
       "name": "defenseBoostYardPvP",
       "effectTypeID": 32,
       "capID": 99,
@@ -2086,12 +2372,14 @@
     },
     {
       "effectID": 186,
+      "crossplayID": 195,
       "name": "featureAutoSell",
       "effectTypeID": 136,
       "capID": 99
     },
     {
       "effectID": 187,
+      "crossplayID": 196,
       "name": "featureAutoSpy",
       "effectTypeID": 137,
       "capID": 99,
@@ -2099,6 +2387,7 @@
     },
     {
       "effectID": 199,
+      "crossplayID": 199,
       "name": "foodCapacityBonusGreen",
       "effectTypeID": 138,
       "capID": 99,
@@ -2106,6 +2395,7 @@
     },
     {
       "effectID": 268,
+      "crossplayID": 268,
       "name": "CollectorBoostSouls",
       "effectTypeID": 139,
       "capID": 99,
@@ -2113,6 +2403,7 @@
     },
     {
       "effectID": 269,
+      "crossplayID": 269,
       "name": "CollectorBoostFurs",
       "effectTypeID": 139,
       "capID": 99,
@@ -2120,6 +2411,7 @@
     },
     {
       "effectID": 270,
+      "crossplayID": 270,
       "name": "CollectorBoostBeads",
       "effectTypeID": 139,
       "capID": 99,
@@ -2127,6 +2419,7 @@
     },
     {
       "effectID": 274,
+      "crossplayID": 274,
       "name": "CollectorBoostBees",
       "effectTypeID": 139,
       "capID": 99,
@@ -2134,6 +2427,7 @@
     },
     {
       "effectID": 275,
+      "crossplayID": 275,
       "name": "CollectorBoostEssence",
       "effectTypeID": 139,
       "capID": 99,
@@ -2141,6 +2435,7 @@
     },
     {
       "effectID": 293,
+      "crossplayID": 293,
       "name": "CollectorBoostTea",
       "effectTypeID": 139,
       "capID": 99,
@@ -2148,6 +2443,7 @@
     },
     {
       "effectID": 338,
+      "crossplayID": 338,
       "name": "CollectorBoostPartyAnimal",
       "effectTypeID": 139,
       "capID": 99,
@@ -2155,6 +2451,7 @@
     },
     {
       "effectID": 271,
+      "crossplayID": 271,
       "name": "tempServerCollectorBoost",
       "effectTypeID": 144,
       "capID": 99,
@@ -2162,18 +2459,21 @@
     },
     {
       "effectID": 272,
+      "crossplayID": 272,
       "name": "foodConsumptionBoost",
       "effectTypeID": 152,
       "capID": 99
     },
     {
       "effectID": 273,
+      "crossplayID": 273,
       "name": "attackBonusUnit",
       "effectTypeID": 148,
       "capID": 99
     },
     {
       "effectID": 276,
+      "crossplayID": 276,
       "name": "attackBonusUnitNomad",
       "effectTypeID": 148,
       "capID": 99,
@@ -2181,6 +2481,7 @@
     },
     {
       "effectID": 277,
+      "crossplayID": 277,
       "name": "attackBonusUnitSamurai",
       "effectTypeID": 148,
       "capID": 99,
@@ -2188,6 +2489,7 @@
     },
     {
       "effectID": 278,
+      "crossplayID": 278,
       "name": "attackBonusUnitAlien",
       "effectTypeID": 148,
       "capID": 99,
@@ -2195,6 +2497,7 @@
     },
     {
       "effectID": 279,
+      "crossplayID": 279,
       "name": "attackBonusUnitBloodcrows",
       "effectTypeID": 148,
       "capID": 99,
@@ -2202,6 +2505,7 @@
     },
     {
       "effectID": 280,
+      "crossplayID": 280,
       "name": "attackBonusUnitBerimondInvasion",
       "effectTypeID": 148,
       "capID": 99,
@@ -2209,6 +2513,7 @@
     },
     {
       "effectID": 281,
+      "crossplayID": 281,
       "name": "allianceRageBoost",
       "effectTypeID": 135,
       "capID": 99,
@@ -2216,6 +2521,7 @@
     },
     {
       "effectID": 282,
+      "crossplayID": 282,
       "name": "allianceKhanCooldownReduction",
       "effectTypeID": 27,
       "capID": 99,
@@ -2223,6 +2529,7 @@
     },
     {
       "effectID": 283,
+      "crossplayID": 283,
       "name": "allianceNomadCooldownReduction",
       "effectTypeID": 27,
       "capID": 99,
@@ -2230,6 +2537,7 @@
     },
     {
       "effectID": 365,
+      "crossplayID": 365,
       "name": "allianceSamuraiCooldownReduction",
       "effectTypeID": 27,
       "capID": 99,
@@ -2237,6 +2545,7 @@
     },
     {
       "effectID": 366,
+      "crossplayID": 366,
       "name": "allianceDaimyoCooldownReduction",
       "effectTypeID": 27,
       "capID": 99,
@@ -2244,6 +2553,7 @@
     },
     {
       "effectID": 285,
+      "crossplayID": 285,
       "name": "fameBoostUnitAlienBC",
       "effectTypeID": 154,
       "capID": 99,
@@ -2251,6 +2561,7 @@
     },
     {
       "effectID": 286,
+      "crossplayID": 286,
       "name": "BGCollectorBoost",
       "effectTypeID": 155,
       "capID": 99,
@@ -2258,6 +2569,7 @@
     },
     {
       "effectID": 25,
+      "crossplayID": 25,
       "name": "allianceAttackBoostAliens",
       "effectTypeID": 36,
       "capID": 99,
@@ -2266,6 +2578,7 @@
     },
     {
       "effectID": 26,
+      "crossplayID": 26,
       "name": "allianceAttackBoostDaimyo",
       "effectTypeID": 36,
       "capID": 99,
@@ -2274,6 +2587,7 @@
     },
     {
       "effectID": 27,
+      "crossplayID": 27,
       "name": "allianceDefenseBoostKhan",
       "effectTypeID": 31,
       "capID": 99,
@@ -2282,6 +2596,7 @@
     },
     {
       "effectID": 28,
+      "crossplayID": 28,
       "name": "allianceDefenseBoostDaimyo",
       "effectTypeID": 120,
       "capID": 99,
@@ -2289,6 +2604,7 @@
     },
     {
       "effectID": 29,
+      "crossplayID": 29,
       "name": "additionalWaves",
       "effectTypeID": 156,
       "capID": 99,
@@ -2296,12 +2612,14 @@
     },
     {
       "effectID": 30,
+      "crossplayID": 30,
       "name": "burningChanceBonus",
       "effectTypeID": 157,
       "capID": 99
     },
     {
       "effectID": 31,
+      "crossplayID": 31,
       "name": "wallBonusCharge",
       "effectTypeID": 6,
       "capID": 99,
@@ -2309,6 +2627,7 @@
     },
     {
       "effectID": 32,
+      "crossplayID": 32,
       "name": "gateBonusCharge",
       "effectTypeID": 7,
       "capID": 99,
@@ -2316,6 +2635,7 @@
     },
     {
       "effectID": 33,
+      "crossplayID": 33,
       "name": "defenseUnitAmountWallCharge",
       "effectTypeID": 12,
       "capID": 99,
@@ -2323,6 +2643,7 @@
     },
     {
       "effectID": 34,
+      "crossplayID": 34,
       "name": "meleeBonusCharge",
       "effectTypeID": 9,
       "capID": 99,
@@ -2330,6 +2651,7 @@
     },
     {
       "effectID": 35,
+      "crossplayID": 35,
       "name": "rangeBonusCharge",
       "effectTypeID": 10,
       "capID": 99,
@@ -2337,6 +2659,7 @@
     },
     {
       "effectID": 36,
+      "crossplayID": 36,
       "name": "defenseBonusCharge",
       "effectTypeID": 31,
       "capID": 99,
@@ -2344,6 +2667,7 @@
     },
     {
       "effectID": 37,
+      "crossplayID": 37,
       "name": "defenseBoostYardCharge",
       "effectTypeID": 32,
       "capID": 99,
@@ -2351,6 +2675,7 @@
     },
     {
       "effectID": 38,
+      "crossplayID": 38,
       "name": "attackBonusCharge",
       "effectTypeID": 36,
       "capID": 99,
@@ -2358,6 +2683,7 @@
     },
     {
       "effectID": 39,
+      "crossplayID": 39,
       "name": "offensiveMeleeBonusCharge",
       "effectTypeID": 23,
       "capID": 99,
@@ -2365,6 +2691,7 @@
     },
     {
       "effectID": 40,
+      "crossplayID": 40,
       "name": "offensiveRangeBonusCharge",
       "effectTypeID": 24,
       "capID": 99,
@@ -2372,6 +2699,7 @@
     },
     {
       "effectID": 41,
+      "crossplayID": 41,
       "name": "wallReductionCharge",
       "effectTypeID": 19,
       "capID": 99,
@@ -2379,6 +2707,7 @@
     },
     {
       "effectID": 42,
+      "crossplayID": 42,
       "name": "gateReductionCharge",
       "effectTypeID": 20,
       "capID": 99,
@@ -2386,6 +2715,7 @@
     },
     {
       "effectID": 23,
+      "crossplayID": 139,
       "name": "attackBoostYardCharge",
       "effectTypeID": 33,
       "capID": 99,
@@ -2393,6 +2723,7 @@
     },
     {
       "effectID": 24,
+      "crossplayID": 138,
       "name": "tonicBoost",
       "effectTypeID": 158,
       "capID": 99,
@@ -2400,6 +2731,7 @@
     },
     {
       "effectID": 168,
+      "crossplayID": 141,
       "name": "wallBonusTower",
       "effectTypeID": 6,
       "capID": 99,
@@ -2408,6 +2740,7 @@
     },
     {
       "effectID": 169,
+      "crossplayID": 142,
       "name": "gateBonusTower",
       "effectTypeID": 7,
       "capID": 99,
@@ -2416,6 +2749,7 @@
     },
     {
       "effectID": 170,
+      "crossplayID": 143,
       "name": "defenseBoostYardTower",
       "effectTypeID": 32,
       "capID": 99,
@@ -2424,6 +2758,7 @@
     },
     {
       "effectID": 171,
+      "crossplayID": 144,
       "name": "meleeBonusTower",
       "effectTypeID": 9,
       "capID": 99,
@@ -2432,6 +2767,7 @@
     },
     {
       "effectID": 172,
+      "crossplayID": 145,
       "name": "rangeBonusTower",
       "effectTypeID": 10,
       "capID": 99,
@@ -2440,6 +2776,7 @@
     },
     {
       "effectID": 173,
+      "crossplayID": 146,
       "name": "offensiveMeleeBonusResourceTower",
       "effectTypeID": 23,
       "capID": 99,
@@ -2448,6 +2785,7 @@
     },
     {
       "effectID": 174,
+      "crossplayID": 287,
       "name": "offensiveRangeBonusResourceTower",
       "effectTypeID": 24,
       "capID": 99,
@@ -2456,6 +2794,7 @@
     },
     {
       "effectID": 175,
+      "crossplayID": 288,
       "name": "lootBonusResourceTower",
       "effectTypeID": 16,
       "capID": 99,
@@ -2464,6 +2803,7 @@
     },
     {
       "effectID": 176,
+      "crossplayID": 289,
       "name": "lootCapacityResourceTower",
       "effectTypeID": 37,
       "capID": 99,
@@ -2472,6 +2812,7 @@
     },
     {
       "effectID": 177,
+      "crossplayID": 290,
       "name": "travelCostReductionResourceTower",
       "effectTypeID": 26,
       "capID": 99,
@@ -2480,6 +2821,7 @@
     },
     {
       "effectID": 178,
+      "crossplayID": 291,
       "name": "speedBonusResourceTower",
       "effectTypeID": 15,
       "capID": 99,
@@ -2488,6 +2830,7 @@
     },
     {
       "effectID": 179,
+      "crossplayID": 292,
       "name": "cooldownReductionResourceTower",
       "effectTypeID": 27,
       "capID": 99,
@@ -2496,6 +2839,7 @@
     },
     {
       "effectID": 326,
+      "crossplayID": 326,
       "name": "foodProductionBonusBaronEconomy",
       "effectTypeID": 69,
       "capID": 99,
@@ -2503,6 +2847,7 @@
     },
     {
       "effectID": 334,
+      "crossplayID": 334,
       "name": "foodProductionBoostBaronEconomy",
       "effectTypeID": 80,
       "capID": 99,
@@ -2510,6 +2855,7 @@
     },
     {
       "effectID": 335,
+      "crossplayID": 335,
       "name": "foodCapacityBonusBaronEconomy",
       "effectTypeID": 138,
       "capID": 99,
@@ -2517,6 +2863,7 @@
     },
     {
       "effectID": 336,
+      "crossplayID": 336,
       "name": "meadCapacityBonusBaronEconomy",
       "effectTypeID": 166,
       "capID": 99,
@@ -2524,6 +2871,7 @@
     },
     {
       "effectID": 337,
+      "crossplayID": 337,
       "name": "currencyLootBoostBaronEconomy",
       "effectTypeID": 168,
       "capID": 99,
@@ -2531,6 +2879,7 @@
     },
     {
       "effectID": 613,
+      "crossplayID": 613,
       "name": "offensiveMeleeBonusTCI",
       "effectTypeID": 23,
       "capID": 99,
@@ -2538,6 +2887,7 @@
     },
     {
       "effectID": 614,
+      "crossplayID": 614,
       "name": "offensiveRangeBonusTCI",
       "effectTypeID": 24,
       "capID": 99,
@@ -2545,72 +2895,84 @@
     },
     {
       "effectID": 615,
+      "crossplayID": 615,
       "name": "enableExpansion",
       "effectTypeID": 169,
       "capID": 99
     },
     {
       "effectID": 616,
+      "crossplayID": 616,
       "name": "enableCraftingRecipes",
       "effectTypeID": 170,
       "capID": 99
     },
     {
       "effectID": 618,
+      "crossplayID": 618,
       "name": "bonusWallCapacity",
       "effectTypeID": 12,
       "capID": 99
     },
     {
       "effectID": 619,
+      "crossplayID": 619,
       "name": "bonusDefencePower",
       "effectTypeID": 31,
       "capID": 99
     },
     {
       "effectID": 620,
+      "crossplayID": 620,
       "name": "bonusYardDefensePower",
       "effectTypeID": 32,
       "capID": 99
     },
     {
       "effectID": 621,
+      "crossplayID": 621,
       "name": "killAttackingTroopsYard",
       "effectTypeID": 172,
       "capID": 99
     },
     {
       "effectID": 622,
+      "crossplayID": 622,
       "name": "killAttackingRangedTroopsYard",
       "effectTypeID": 173,
       "capID": 99
     },
     {
       "effectID": 632,
+      "crossplayID": 632,
       "name": "killDefendingMeleeTroopsYard",
       "effectTypeID": 175,
       "capID": 99
     },
     {
       "effectID": 633,
+      "crossplayID": 633,
       "name": "killDefendingRangedTroopsYard",
       "effectTypeID": 176,
       "capID": 99
     },
     {
       "effectID": 634,
+      "crossplayID": 634,
       "name": "killAttackingAnyTroopsYard",
       "effectTypeID": 174,
       "capID": 99
     },
     {
       "effectID": 635,
+      "crossplayID": 635,
       "name": "killDefendingAnyTroopsYard",
       "effectTypeID": 177,
       "capID": 99
     },
     {
       "effectID": 339,
+      "crossplayID": 339,
       "name": "meleeBonusTCI",
       "effectTypeID": 9,
       "capID": 99,
@@ -2618,6 +2980,7 @@
     },
     {
       "effectID": 340,
+      "crossplayID": 340,
       "name": "rangeBonusTCI",
       "effectTypeID": 10,
       "capID": 99,
@@ -2625,6 +2988,7 @@
     },
     {
       "effectID": 10000,
+      "crossplayID": 10000,
       "name": "difficultyScalingWallBonus",
       "effectTypeID": 6,
       "capID": 99,
@@ -2632,6 +2996,7 @@
     },
     {
       "effectID": 10001,
+      "crossplayID": 10001,
       "name": "difficultyScalingGateBonus",
       "effectTypeID": 7,
       "capID": 99,
@@ -2639,6 +3004,7 @@
     },
     {
       "effectID": 10002,
+      "crossplayID": 10002,
       "name": "difficultyScalingMoatBonus",
       "effectTypeID": 8,
       "capID": 99,
@@ -2646,6 +3012,7 @@
     },
     {
       "effectID": 10003,
+      "crossplayID": 10003,
       "name": "difficultyScalingMeleeBonus",
       "effectTypeID": 9,
       "capID": 99,
@@ -2653,6 +3020,7 @@
     },
     {
       "effectID": 10004,
+      "crossplayID": 10004,
       "name": "difficultyScalingRangeBonus",
       "effectTypeID": 10,
       "capID": 99,
@@ -2660,6 +3028,7 @@
     },
     {
       "effectID": 10005,
+      "crossplayID": 10005,
       "name": "difficultyScalingDefenseUnitAmountWall",
       "effectTypeID": 12,
       "capID": 99,
@@ -2667,6 +3036,7 @@
     },
     {
       "effectID": 10006,
+      "crossplayID": 10006,
       "name": "difficultyScalingDefenseBoostYard",
       "effectTypeID": 32,
       "capID": 99,
@@ -2674,6 +3044,7 @@
     },
     {
       "effectID": 10007,
+      "crossplayID": 10007,
       "name": "difficultyScalingDefenseBonus",
       "effectTypeID": 31,
       "capID": 99,
@@ -2681,6 +3052,7 @@
     },
     {
       "effectID": 10008,
+      "crossplayID": 10008,
       "name": "difficultyScalingWallReduction",
       "effectTypeID": 19,
       "capID": 99,
@@ -2688,6 +3060,7 @@
     },
     {
       "effectID": 10009,
+      "crossplayID": 10009,
       "name": "difficultyScalingGateReduction",
       "effectTypeID": 20,
       "capID": 99,
@@ -2695,6 +3068,7 @@
     },
     {
       "effectID": 10010,
+      "crossplayID": 10010,
       "name": "difficultyScalingMoatReduction",
       "effectTypeID": 21,
       "capID": 99,
@@ -2702,6 +3076,7 @@
     },
     {
       "effectID": 10011,
+      "crossplayID": 10011,
       "name": "difficultyScalingOffensiveMeleeBonus",
       "effectTypeID": 23,
       "capID": 99,
@@ -2709,6 +3084,7 @@
     },
     {
       "effectID": 10012,
+      "crossplayID": 10012,
       "name": "difficultyScalingOffensiveRangedBonus",
       "effectTypeID": 24,
       "capID": 99,
@@ -2716,6 +3092,7 @@
     },
     {
       "effectID": 10013,
+      "crossplayID": 10013,
       "name": "difficultyScalingAttackBoostYard",
       "effectTypeID": 33,
       "capID": 99,
@@ -2723,6 +3100,7 @@
     },
     {
       "effectID": 10014,
+      "crossplayID": 10014,
       "name": "difficultyScalingAttackBoostFront",
       "effectTypeID": 53,
       "capID": 99,
@@ -2730,6 +3108,7 @@
     },
     {
       "effectID": 10015,
+      "crossplayID": 10015,
       "name": "difficultyScalingAttackBoostFlank",
       "effectTypeID": 54,
       "capID": 99,
@@ -2737,6 +3116,7 @@
     },
     {
       "effectID": 700,
+      "crossplayID": 700,
       "name": "attackUnitAmountReinforcementBonus",
       "effectTypeID": 179,
       "capID": 99,
@@ -2744,6 +3124,7 @@
     },
     {
       "effectID": 701,
+      "crossplayID": 701,
       "name": "attackUnitAmountReinforcementBoost",
       "effectTypeID": 180,
       "capID": 33,
@@ -2751,6 +3132,7 @@
     },
     {
       "effectID": 702,
+      "crossplayID": 702,
       "name": "defenseUnitAmountYardBonus",
       "effectTypeID": 181,
       "capID": 99,
@@ -2758,6 +3140,7 @@
     },
     {
       "effectID": 703,
+      "crossplayID": 703,
       "name": "defenseUnitAmountYardBoost",
       "effectTypeID": 182,
       "capID": 32,
@@ -2765,6 +3148,7 @@
     },
     {
       "effectID": 704,
+      "crossplayID": 704,
       "name": "rangeBonus",
       "effectTypeID": 10,
       "capID": 99,
@@ -2772,6 +3156,7 @@
     },
     {
       "effectID": 705,
+      "crossplayID": 705,
       "name": "defenseUnitAmountYardMinorBoost",
       "effectTypeID": 182,
       "capID": 34,
@@ -2779,6 +3164,7 @@
     },
     {
       "effectID": 706,
+      "crossplayID": 706,
       "name": "allianceDefenseUnitAmountYardBonus",
       "effectTypeID": 183,
       "capID": 99,
@@ -2786,6 +3172,7 @@
     },
     {
       "effectID": 707,
+      "crossplayID": 707,
       "name": "allianceDefenseUnitAmountYardBoost",
       "effectTypeID": 184,
       "capID": 32,
@@ -2793,6 +3180,7 @@
     },
     {
       "effectID": 708,
+      "crossplayID": 708,
       "name": "featureAutoSkipCooldown",
       "effectTypeID": 185,
       "capID": 99,
@@ -2800,180 +3188,210 @@
     },
     {
       "effectID": 21001,
+      "crossplayID": 21001,
       "name": "PowerSurge",
       "effectTypeID": 1001,
       "capID": 99
     },
     {
       "effectID": 21002,
+      "crossplayID": 21002,
       "name": "RisetotheTask",
       "effectTypeID": 1002,
       "capID": 99
     },
     {
       "effectID": 21003,
+      "crossplayID": 21003,
       "name": "GiantSlayer",
       "effectTypeID": 1003,
       "capID": 99
     },
     {
       "effectID": 21005,
+      "crossplayID": 21005,
       "name": "Intimidate",
       "effectTypeID": 1005,
       "capID": 99
     },
     {
       "effectID": 21007,
+      "crossplayID": 21007,
       "name": "Hordebreaker",
       "effectTypeID": 1007,
       "capID": 99
     },
     {
       "effectID": 21010,
+      "crossplayID": 21010,
       "name": "EndlessPractice",
       "effectTypeID": 1010,
       "capID": 99
     },
     {
       "effectID": 21011,
+      "crossplayID": 21011,
       "name": "WayoftheSword",
       "effectTypeID": 1011,
       "capID": 99
     },
     {
       "effectID": 21012,
+      "crossplayID": 21012,
       "name": "Iron Will",
       "effectTypeID": 1012,
       "capID": 99
     },
     {
       "effectID": 21013,
+      "crossplayID": 21013,
       "name": "Sabotage",
       "effectTypeID": 1013,
       "capID": 99
     },
     {
       "effectID": 21014,
+      "crossplayID": 21014,
       "name": "HeartofaWarrior",
       "effectTypeID": 1014,
       "capID": 99
     },
     {
       "effectID": 21015,
+      "crossplayID": 21015,
       "name": "ToweringShield",
       "effectTypeID": 1015,
       "capID": 99
     },
     {
       "effectID": 21016,
+      "crossplayID": 21016,
       "name": "WallAmount",
       "effectTypeID": 1016,
       "capID": 99
     },
     {
       "effectID": 21018,
+      "crossplayID": 21018,
       "name": "HeroicDefense",
       "effectTypeID": 1018,
       "capID": 99
     },
     {
       "effectID": 21019,
+      "crossplayID": 21019,
       "name": "MindClarityEvenWave",
       "effectTypeID": 1019,
       "capID": 99
     },
     {
       "effectID": 21020,
+      "crossplayID": 21020,
       "name": "AspectoftheDragon",
       "effectTypeID": 1020,
       "capID": 99
     },
     {
       "effectID": 21021,
+      "crossplayID": 21021,
       "name": "Ayala(Falcon)",
       "effectTypeID": 1021,
       "capID": 99
     },
     {
       "effectID": 21022,
+      "crossplayID": 21022,
       "name": "Ambush",
       "effectTypeID": 1022,
       "capID": 99
     },
     {
       "effectID": 21023,
+      "crossplayID": 21023,
       "name": "Longbows",
       "effectTypeID": 1023,
       "capID": 99
     },
     {
       "effectID": 21025,
+      "crossplayID": 21025,
       "name": "ReinforcedArrows",
       "effectTypeID": 1025,
       "capID": 99
     },
     {
       "effectID": 21026,
+      "crossplayID": 21026,
       "name": "Plunder",
       "effectTypeID": 1026,
       "capID": 99
     },
     {
       "effectID": 21027,
+      "crossplayID": 21027,
       "name": "YourCut",
       "effectTypeID": 1027,
       "capID": 99
     },
     {
       "effectID": 21028,
+      "crossplayID": 21028,
       "name": "HiddenTreasures",
       "effectTypeID": 1028,
       "capID": 99
     },
     {
       "effectID": 21029,
+      "crossplayID": 21029,
       "name": "TheWayofPerfection",
       "effectTypeID": 1029,
       "capID": 99
     },
     {
       "effectID": 21030,
+      "crossplayID": 21030,
       "name": "Vengence",
       "effectTypeID": 1030,
       "capID": 99
     },
     {
       "effectID": 21033,
+      "crossplayID": 21033,
       "name": "WingsWhirlwind",
       "effectTypeID": 1033,
       "capID": 99
     },
     {
       "effectID": 21034,
+      "crossplayID": 21034,
       "name": "Tailwhip",
       "effectTypeID": 1034,
       "capID": 99
     },
     {
       "effectID": 21035,
+      "crossplayID": 21035,
       "name": "DragonscaleArmor",
       "effectTypeID": 1035,
       "capID": 99
     },
     {
       "effectID": 21038,
+      "crossplayID": 21038,
       "name": "Exhalted",
       "effectTypeID": 1038,
       "capID": 99
     },
     {
       "effectID": 21039,
+      "crossplayID": 21039,
       "name": "LastingWounds",
       "effectTypeID": 1039,
       "capID": 99
     },
     {
       "effectID": 21040,
+      "crossplayID": 21040,
       "name": "MindClarityOddWave",
       "effectTypeID": 1040,
       "capID": 99

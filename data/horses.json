@@ -2,6 +2,7 @@
   "horse": [
     {
       "wodID": 1001,
+      "crossplayID": 1001,
       "comment2": "Horselevel1",
       "group": "Travelbooster",
       "name": "Horse",
@@ -14,6 +15,7 @@
     },
     {
       "wodID": 1002,
+      "crossplayID": 1002,
       "comment2": "Phorse1level1",
       "group": "Travelbooster",
       "name": "Horse",
@@ -26,6 +28,7 @@
     },
     {
       "wodID": 1003,
+      "crossplayID": 1003,
       "comment2": "Phorse2level1",
       "group": "Travelbooster",
       "name": "Horse",
@@ -39,6 +42,7 @@
     },
     {
       "wodID": 1004,
+      "crossplayID": 1004,
       "comment2": "Horselevel2",
       "group": "Travelbooster",
       "name": "Horse",
@@ -51,6 +55,7 @@
     },
     {
       "wodID": 1005,
+      "crossplayID": 1005,
       "comment2": "Phorse1level2",
       "group": "Travelbooster",
       "name": "Horse",
@@ -63,6 +68,7 @@
     },
     {
       "wodID": 1006,
+      "crossplayID": 1006,
       "comment2": "Phorse2level2",
       "group": "Travelbooster",
       "name": "Horse",
@@ -76,6 +82,7 @@
     },
     {
       "wodID": 1007,
+      "crossplayID": 1007,
       "comment2": "Horselevel3",
       "group": "Travelbooster",
       "name": "Horse",
@@ -88,6 +95,7 @@
     },
     {
       "wodID": 1008,
+      "crossplayID": 1008,
       "comment2": "Phorse1level3",
       "group": "Travelbooster",
       "name": "Horse",
@@ -100,6 +108,7 @@
     },
     {
       "wodID": 1009,
+      "crossplayID": 1009,
       "comment2": "Phorse2level3",
       "group": "Travelbooster",
       "name": "Horse",
@@ -113,6 +122,7 @@
     },
     {
       "wodID": 1021,
+      "crossplayID": 1021,
       "comment1": "FactionStable1",
       "comment2": "Horse",
       "group": "Travelbooster",
@@ -126,6 +136,7 @@
     },
     {
       "wodID": 1022,
+      "crossplayID": 1022,
       "comment1": "FactionStable1",
       "comment2": "Warhorse",
       "group": "Travelbooster",
@@ -139,6 +150,7 @@
     },
     {
       "wodID": 1023,
+      "crossplayID": 1023,
       "comment1": "FactionStable1",
       "comment2": "Courser",
       "group": "Travelbooster",
@@ -153,6 +165,7 @@
     },
     {
       "wodID": 1039,
+      "crossplayID": 1039,
       "comment1": "FactionStable2",
       "comment2": "Horse",
       "group": "Travelbooster",
@@ -166,6 +179,7 @@
     },
     {
       "wodID": 1040,
+      "crossplayID": 1040,
       "comment1": "FactionStable2",
       "comment2": "Warhorse",
       "group": "Travelbooster",
@@ -179,6 +193,7 @@
     },
     {
       "wodID": 1041,
+      "crossplayID": 1041,
       "comment1": "FactionStable2",
       "comment2": "Courser",
       "group": "Travelbooster",
@@ -193,6 +208,7 @@
     },
     {
       "wodID": 1024,
+      "crossplayID": 1024,
       "comment1": "FactionStable3",
       "comment2": "Horse",
       "group": "Travelbooster",
@@ -206,6 +222,7 @@
     },
     {
       "wodID": 1025,
+      "crossplayID": 1025,
       "comment1": "FactionStable3",
       "comment2": "Warhorse",
       "group": "Travelbooster",
@@ -219,6 +236,7 @@
     },
     {
       "wodID": 1026,
+      "crossplayID": 1026,
       "comment1": "FactionStable3",
       "comment2": "Courser",
       "group": "Travelbooster",
@@ -233,6 +251,7 @@
     },
     {
       "wodID": 1042,
+      "crossplayID": 1042,
       "comment1": "FactionStable4",
       "comment2": "Horse",
       "group": "Travelbooster",
@@ -246,6 +265,7 @@
     },
     {
       "wodID": 1043,
+      "crossplayID": 1043,
       "comment1": "FactionStable4",
       "comment2": "Warhorse",
       "group": "Travelbooster",
@@ -259,6 +279,7 @@
     },
     {
       "wodID": 1044,
+      "crossplayID": 1044,
       "comment1": "FactionStable4",
       "comment2": "Courser",
       "group": "Travelbooster",
@@ -273,6 +294,7 @@
     },
     {
       "wodID": 1027,
+      "crossplayID": 1027,
       "comment1": "FactionStable5",
       "comment2": "Horse",
       "group": "Travelbooster",
@@ -286,6 +308,7 @@
     },
     {
       "wodID": 1028,
+      "crossplayID": 1028,
       "comment1": "FactionStable5",
       "comment2": "Warhorse",
       "group": "Travelbooster",
@@ -299,6 +322,7 @@
     },
     {
       "wodID": 1029,
+      "crossplayID": 1029,
       "comment1": "FactionStable5",
       "comment2": "Courser",
       "group": "Travelbooster",
@@ -313,6 +337,7 @@
     },
     {
       "wodID": 1030,
+      "crossplayID": 1030,
       "comment1": "Harbor1",
       "comment2": "Ship",
       "group": "Travelbooster",
@@ -326,6 +351,7 @@
     },
     {
       "wodID": 1031,
+      "crossplayID": 1031,
       "comment1": "Harbor1",
       "comment2": "Fast Ship",
       "group": "Travelbooster",
@@ -339,6 +365,7 @@
     },
     {
       "wodID": 1032,
+      "crossplayID": 1032,
       "comment1": "Harbor1",
       "comment2": "Very Fast Ship",
       "group": "Travelbooster",
@@ -353,6 +380,7 @@
     },
     {
       "wodID": 1033,
+      "crossplayID": 1033,
       "comment1": "Harbor2",
       "comment2": "Ship",
       "group": "Travelbooster",
@@ -366,6 +394,7 @@
     },
     {
       "wodID": 1034,
+      "crossplayID": 1034,
       "comment1": "Harbor2",
       "comment2": "Fast Ship",
       "group": "Travelbooster",
@@ -379,6 +408,7 @@
     },
     {
       "wodID": 1035,
+      "crossplayID": 1035,
       "comment1": "Harbor2",
       "comment2": "Very Fast Ship",
       "group": "Travelbooster",
@@ -393,6 +423,7 @@
     },
     {
       "wodID": 1036,
+      "crossplayID": 1036,
       "comment1": "Harbor3",
       "comment2": "Ship",
       "group": "Travelbooster",
@@ -406,6 +437,7 @@
     },
     {
       "wodID": 1037,
+      "crossplayID": 1037,
       "comment1": "Harbor3",
       "comment2": "Fast Ship",
       "group": "Travelbooster",
@@ -419,6 +451,7 @@
     },
     {
       "wodID": 1038,
+      "crossplayID": 1038,
       "comment1": "Harbor3",
       "comment2": "Very Fast Ship",
       "group": "Travelbooster",

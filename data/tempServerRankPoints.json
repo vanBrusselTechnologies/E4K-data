@@ -2,6 +2,7 @@
   "tempServerRankPoint": [
     {
       "tempServerRankID": 1,
+      "crossplayID": 1,
       "eventID": 106,
       "minRank": 50000,
       "maxRank": 45001,
@@ -9,6 +10,7 @@
     },
     {
       "tempServerRankID": 2,
+      "crossplayID": 2,
       "eventID": 106,
       "minRank": 45000,
       "maxRank": 40001,
@@ -16,6 +18,7 @@
     },
     {
       "tempServerRankID": 3,
+      "crossplayID": 3,
       "eventID": 106,
       "minRank": 40000,
       "maxRank": 35001,
@@ -23,6 +26,7 @@
     },
     {
       "tempServerRankID": 4,
+      "crossplayID": 4,
       "eventID": 106,
       "minRank": 35000,
       "maxRank": 30001,
@@ -30,6 +34,7 @@
     },
     {
       "tempServerRankID": 5,
+      "crossplayID": 5,
       "eventID": 106,
       "minRank": 30000,
       "maxRank": 25001,
@@ -37,6 +42,7 @@
     },
     {
       "tempServerRankID": 6,
+      "crossplayID": 6,
       "eventID": 106,
       "minRank": 25000,
       "maxRank": 20001,
@@ -44,6 +50,7 @@
     },
     {
       "tempServerRankID": 7,
+      "crossplayID": 7,
       "eventID": 106,
       "minRank": 20000,
       "maxRank": 15001,
@@ -51,6 +58,7 @@
     },
     {
       "tempServerRankID": 8,
+      "crossplayID": 8,
       "eventID": 106,
       "minRank": 15000,
       "maxRank": 10001,
@@ -58,6 +66,7 @@
     },
     {
       "tempServerRankID": 9,
+      "crossplayID": 9,
       "eventID": 106,
       "minRank": 10000,
       "maxRank": 9001,
@@ -65,6 +74,7 @@
     },
     {
       "tempServerRankID": 10,
+      "crossplayID": 10,
       "eventID": 106,
       "minRank": 9000,
       "maxRank": 8001,
@@ -72,6 +82,7 @@
     },
     {
       "tempServerRankID": 11,
+      "crossplayID": 11,
       "eventID": 106,
       "minRank": 8000,
       "maxRank": 7001,
@@ -79,6 +90,7 @@
     },
     {
       "tempServerRankID": 12,
+      "crossplayID": 12,
       "eventID": 106,
       "minRank": 7000,
       "maxRank": 6501,
@@ -86,6 +98,7 @@
     },
     {
       "tempServerRankID": 13,
+      "crossplayID": 13,
       "eventID": 106,
       "minRank": 6500,
       "maxRank": 6001,
@@ -93,6 +106,7 @@
     },
     {
       "tempServerRankID": 14,
+      "crossplayID": 14,
       "eventID": 106,
       "minRank": 6000,
       "maxRank": 5751,
@@ -100,6 +114,7 @@
     },
     {
       "tempServerRankID": 15,
+      "crossplayID": 15,
       "eventID": 106,
       "minRank": 5750,
       "maxRank": 5501,
@@ -107,6 +122,7 @@
     },
     {
       "tempServerRankID": 16,
+      "crossplayID": 16,
       "eventID": 106,
       "minRank": 5500,
       "maxRank": 5251,
@@ -114,6 +130,7 @@
     },
     {
       "tempServerRankID": 17,
+      "crossplayID": 17,
       "eventID": 106,
       "minRank": 5250,
       "maxRank": 5001,
@@ -121,6 +138,7 @@
     },
     {
       "tempServerRankID": 18,
+      "crossplayID": 18,
       "eventID": 106,
       "minRank": 5000,
       "maxRank": 4751,
@@ -128,6 +146,7 @@
     },
     {
       "tempServerRankID": 19,
+      "crossplayID": 19,
       "eventID": 106,
       "minRank": 4750,
       "maxRank": 4501,
@@ -135,6 +154,7 @@
     },
     {
       "tempServerRankID": 20,
+      "crossplayID": 20,
       "eventID": 106,
       "minRank": 4500,
       "maxRank": 4251,
@@ -142,6 +162,7 @@
     },
     {
       "tempServerRankID": 21,
+      "crossplayID": 21,
       "eventID": 106,
       "minRank": 4250,
       "maxRank": 4001,
@@ -149,6 +170,7 @@
     },
     {
       "tempServerRankID": 22,
+      "crossplayID": 22,
       "eventID": 106,
       "minRank": 4000,
       "maxRank": 3751,
@@ -156,6 +178,7 @@
     },
     {
       "tempServerRankID": 23,
+      "crossplayID": 23,
       "eventID": 106,
       "minRank": 3750,
       "maxRank": 3501,
@@ -163,6 +186,7 @@
     },
     {
       "tempServerRankID": 24,
+      "crossplayID": 24,
       "eventID": 106,
       "minRank": 3500,
       "maxRank": 3251,
@@ -170,6 +194,7 @@
     },
     {
       "tempServerRankID": 25,
+      "crossplayID": 25,
       "eventID": 106,
       "minRank": 3250,
       "maxRank": 3001,
@@ -177,6 +202,7 @@
     },
     {
       "tempServerRankID": 26,
+      "crossplayID": 26,
       "eventID": 106,
       "minRank": 3000,
       "maxRank": 2751,
@@ -184,6 +210,7 @@
     },
     {
       "tempServerRankID": 27,
+      "crossplayID": 27,
       "eventID": 106,
       "minRank": 2750,
       "maxRank": 2501,
@@ -191,6 +218,7 @@
     },
     {
       "tempServerRankID": 28,
+      "crossplayID": 28,
       "eventID": 106,
       "minRank": 2500,
       "maxRank": 2251,
@@ -198,6 +226,7 @@
     },
     {
       "tempServerRankID": 29,
+      "crossplayID": 29,
       "eventID": 106,
       "minRank": 2250,
       "maxRank": 2001,
@@ -205,6 +234,7 @@
     },
     {
       "tempServerRankID": 30,
+      "crossplayID": 30,
       "eventID": 106,
       "minRank": 2000,
       "maxRank": 1751,
@@ -212,6 +242,7 @@
     },
     {
       "tempServerRankID": 31,
+      "crossplayID": 31,
       "eventID": 106,
       "minRank": 1750,
       "maxRank": 1501,
@@ -219,6 +250,7 @@
     },
     {
       "tempServerRankID": 32,
+      "crossplayID": 32,
       "eventID": 106,
       "minRank": 1500,
       "maxRank": 1251,
@@ -226,6 +258,7 @@
     },
     {
       "tempServerRankID": 33,
+      "crossplayID": 33,
       "eventID": 106,
       "minRank": 1250,
       "maxRank": 1001,
@@ -233,6 +266,7 @@
     },
     {
       "tempServerRankID": 34,
+      "crossplayID": 34,
       "eventID": 106,
       "minRank": 1000,
       "maxRank": 751,
@@ -240,6 +274,7 @@
     },
     {
       "tempServerRankID": 35,
+      "crossplayID": 35,
       "eventID": 106,
       "minRank": 750,
       "maxRank": 501,
@@ -247,6 +282,7 @@
     },
     {
       "tempServerRankID": 36,
+      "crossplayID": 36,
       "eventID": 106,
       "minRank": 500,
       "maxRank": 251,
@@ -254,6 +290,7 @@
     },
     {
       "tempServerRankID": 37,
+      "crossplayID": 37,
       "eventID": 106,
       "minRank": 250,
       "maxRank": 151,
@@ -261,6 +298,7 @@
     },
     {
       "tempServerRankID": 38,
+      "crossplayID": 38,
       "eventID": 106,
       "minRank": 150,
       "maxRank": 101,
@@ -268,6 +306,7 @@
     },
     {
       "tempServerRankID": 39,
+      "crossplayID": 39,
       "eventID": 106,
       "minRank": 100,
       "maxRank": 71,
@@ -275,6 +314,7 @@
     },
     {
       "tempServerRankID": 40,
+      "crossplayID": 40,
       "eventID": 106,
       "minRank": 70,
       "maxRank": 41,
@@ -282,6 +322,7 @@
     },
     {
       "tempServerRankID": 41,
+      "crossplayID": 41,
       "eventID": 106,
       "minRank": 40,
       "maxRank": 21,
@@ -289,6 +330,7 @@
     },
     {
       "tempServerRankID": 42,
+      "crossplayID": 42,
       "eventID": 106,
       "minRank": 20,
       "maxRank": 11,
@@ -296,6 +338,7 @@
     },
     {
       "tempServerRankID": 43,
+      "crossplayID": 43,
       "eventID": 106,
       "minRank": 10,
       "maxRank": 6,
@@ -303,6 +346,7 @@
     },
     {
       "tempServerRankID": 44,
+      "crossplayID": 44,
       "eventID": 106,
       "minRank": 5,
       "maxRank": 4,
@@ -310,6 +354,7 @@
     },
     {
       "tempServerRankID": 45,
+      "crossplayID": 45,
       "eventID": 106,
       "minRank": 3,
       "maxRank": 3,
@@ -317,6 +362,7 @@
     },
     {
       "tempServerRankID": 46,
+      "crossplayID": 46,
       "eventID": 106,
       "minRank": 2,
       "maxRank": 2,
@@ -324,6 +370,7 @@
     },
     {
       "tempServerRankID": 47,
+      "crossplayID": 47,
       "eventID": 106,
       "minRank": 1,
       "maxRank": 1,

@@ -2,6 +2,7 @@
   "generalSkill": [
     {
       "skillID": 10110201,
+      "crossplayID": 10110201,
       "name": "AspectoftheDragon",
       "generalID": 101,
       "skillGroupID": 1011020,
@@ -14,6 +15,7 @@
     },
     {
       "skillID": 10110202,
+      "crossplayID": 10110202,
       "name": "AspectoftheDragon",
       "generalID": 101,
       "skillGroupID": 1011020,
@@ -26,6 +28,7 @@
     },
     {
       "skillID": 10110203,
+      "crossplayID": 10110203,
       "name": "AspectoftheDragon",
       "generalID": 101,
       "skillGroupID": 1011020,
@@ -37,6 +40,7 @@
     },
     {
       "skillID": 10110341,
+      "crossplayID": 10110341,
       "name": "Tailwhip",
       "generalID": 101,
       "skillGroupID": 1011034,
@@ -49,6 +53,7 @@
     },
     {
       "skillID": 10110342,
+      "crossplayID": 10110342,
       "name": "Tailwhip",
       "generalID": 101,
       "skillGroupID": 1011034,
@@ -61,6 +66,7 @@
     },
     {
       "skillID": 10110343,
+      "crossplayID": 10110343,
       "name": "Tailwhip",
       "generalID": 101,
       "skillGroupID": 1011034,
@@ -72,6 +78,7 @@
     },
     {
       "skillID": 10110051,
+      "crossplayID": 10110051,
       "name": "Intimidate",
       "generalID": 101,
       "skillGroupID": 1011005,
@@ -84,6 +91,7 @@
     },
     {
       "skillID": 10110052,
+      "crossplayID": 10110052,
       "name": "Intimidate",
       "generalID": 101,
       "skillGroupID": 1011005,
@@ -96,6 +104,7 @@
     },
     {
       "skillID": 10110053,
+      "crossplayID": 10110053,
       "name": "Intimidate",
       "generalID": 101,
       "skillGroupID": 1011005,
@@ -107,6 +116,7 @@
     },
     {
       "skillID": 10110351,
+      "crossplayID": 10110351,
       "name": "DragonscaleArmor",
       "generalID": 101,
       "skillGroupID": 1011035,
@@ -119,6 +129,7 @@
     },
     {
       "skillID": 10110352,
+      "crossplayID": 10110352,
       "name": "DragonscaleArmor",
       "generalID": 101,
       "skillGroupID": 1011035,
@@ -131,6 +142,7 @@
     },
     {
       "skillID": 10110353,
+      "crossplayID": 10110353,
       "name": "DragonscaleArmor",
       "generalID": 101,
       "skillGroupID": 1011035,
@@ -142,6 +154,7 @@
     },
     {
       "skillID": 10110301,
+      "crossplayID": 10110301,
       "name": "Vengence",
       "generalID": 101,
       "skillGroupID": 1011030,
@@ -154,6 +167,7 @@
     },
     {
       "skillID": 10110302,
+      "crossplayID": 10110302,
       "name": "Vengence",
       "generalID": 101,
       "skillGroupID": 1011030,
@@ -166,6 +180,7 @@
     },
     {
       "skillID": 10110303,
+      "crossplayID": 10110303,
       "name": "Vengence",
       "generalID": 101,
       "skillGroupID": 1011030,
@@ -177,6 +192,7 @@
     },
     {
       "skillID": 10110391,
+      "crossplayID": 10110391,
       "name": "LastingWounds",
       "generalID": 101,
       "skillGroupID": 1011039,
@@ -189,6 +205,7 @@
     },
     {
       "skillID": 10110392,
+      "crossplayID": 10110392,
       "name": "LastingWounds",
       "generalID": 101,
       "skillGroupID": 1011039,
@@ -201,6 +218,7 @@
     },
     {
       "skillID": 10110393,
+      "crossplayID": 10110393,
       "name": "LastingWounds",
       "generalID": 101,
       "skillGroupID": 1011039,
@@ -212,6 +230,7 @@
     },
     {
       "skillID": 10110381,
+      "crossplayID": 10110381,
       "name": "Exhalted",
       "generalID": 101,
       "skillGroupID": 1011038,
@@ -224,6 +243,7 @@
     },
     {
       "skillID": 10110382,
+      "crossplayID": 10110382,
       "name": "Exhalted",
       "generalID": 101,
       "skillGroupID": 1011038,
@@ -236,6 +256,7 @@
     },
     {
       "skillID": 10110383,
+      "crossplayID": 10110383,
       "name": "Exhalted",
       "generalID": 101,
       "skillGroupID": 1011038,
@@ -247,6 +268,7 @@
     },
     {
       "skillID": 10110331,
+      "crossplayID": 10110331,
       "name": "WingsWhirlwind",
       "generalID": 101,
       "skillGroupID": 1011033,
@@ -259,6 +281,7 @@
     },
     {
       "skillID": 10110332,
+      "crossplayID": 10110332,
       "name": "WingsWhirlwind",
       "generalID": 101,
       "skillGroupID": 1011033,
@@ -271,6 +294,7 @@
     },
     {
       "skillID": 10110333,
+      "crossplayID": 10110333,
       "name": "WingsWhirlwind",
       "generalID": 101,
       "skillGroupID": 1011033,
@@ -282,6 +306,7 @@
     },
     {
       "skillID": 101001,
+      "crossplayID": 101001,
       "name": "CourtyardSizeLegendary",
       "generalID": 101,
       "skillGroupID": 101001,
@@ -294,6 +319,7 @@
     },
     {
       "skillID": 101002,
+      "crossplayID": 101002,
       "name": "CourtyardSizeLegendary",
       "generalID": 101,
       "skillGroupID": 101001,
@@ -306,6 +332,7 @@
     },
     {
       "skillID": 101003,
+      "crossplayID": 101003,
       "name": "CourtyardSizeLegendary",
       "generalID": 101,
       "skillGroupID": 101001,
@@ -318,6 +345,7 @@
     },
     {
       "skillID": 101004,
+      "crossplayID": 101004,
       "name": "CourtyardSizeLegendary",
       "generalID": 101,
       "skillGroupID": 101001,
@@ -330,6 +358,7 @@
     },
     {
       "skillID": 101005,
+      "crossplayID": 101005,
       "name": "CourtyardSizeLegendary",
       "generalID": 101,
       "skillGroupID": 101001,
@@ -342,6 +371,7 @@
     },
     {
       "skillID": 101006,
+      "crossplayID": 101006,
       "name": "CourtyardSizeLegendary",
       "generalID": 101,
       "skillGroupID": 101001,
@@ -354,6 +384,7 @@
     },
     {
       "skillID": 101007,
+      "crossplayID": 101007,
       "name": "CourtyardSizeLegendary",
       "generalID": 101,
       "skillGroupID": 101001,
@@ -366,6 +397,7 @@
     },
     {
       "skillID": 101008,
+      "crossplayID": 101008,
       "name": "CourtyardSizeLegendary",
       "generalID": 101,
       "skillGroupID": 101001,
@@ -378,6 +410,7 @@
     },
     {
       "skillID": 101009,
+      "crossplayID": 101009,
       "name": "CourtyardSizeLegendary",
       "generalID": 101,
       "skillGroupID": 101001,
@@ -390,6 +423,7 @@
     },
     {
       "skillID": 101010,
+      "crossplayID": 101010,
       "name": "CourtyardSizeLegendary",
       "generalID": 101,
       "skillGroupID": 101001,
@@ -402,6 +436,7 @@
     },
     {
       "skillID": 101011,
+      "crossplayID": 101011,
       "name": "CourtyardSizeLegendary",
       "generalID": 101,
       "skillGroupID": 101001,
@@ -414,6 +449,7 @@
     },
     {
       "skillID": 101012,
+      "crossplayID": 101012,
       "name": "CourtyardSizeLegendary",
       "generalID": 101,
       "skillGroupID": 101001,
@@ -425,6 +461,7 @@
     },
     {
       "skillID": 101013,
+      "crossplayID": 101013,
       "name": "ReinforcementWaveLegendary",
       "generalID": 101,
       "skillGroupID": 101013,
@@ -437,6 +474,7 @@
     },
     {
       "skillID": 101014,
+      "crossplayID": 101014,
       "name": "ReinforcementWaveLegendary",
       "generalID": 101,
       "skillGroupID": 101013,
@@ -449,6 +487,7 @@
     },
     {
       "skillID": 101015,
+      "crossplayID": 101015,
       "name": "ReinforcementWaveLegendary",
       "generalID": 101,
       "skillGroupID": 101013,
@@ -461,6 +500,7 @@
     },
     {
       "skillID": 101016,
+      "crossplayID": 101016,
       "name": "ReinforcementWaveLegendary",
       "generalID": 101,
       "skillGroupID": 101013,
@@ -473,6 +513,7 @@
     },
     {
       "skillID": 101017,
+      "crossplayID": 101017,
       "name": "ReinforcementWaveLegendary",
       "generalID": 101,
       "skillGroupID": 101013,
@@ -485,6 +526,7 @@
     },
     {
       "skillID": 101018,
+      "crossplayID": 101018,
       "name": "ReinforcementWaveLegendary",
       "generalID": 101,
       "skillGroupID": 101013,
@@ -497,6 +539,7 @@
     },
     {
       "skillID": 101019,
+      "crossplayID": 101019,
       "name": "ReinforcementWaveLegendary",
       "generalID": 101,
       "skillGroupID": 101013,
@@ -509,6 +552,7 @@
     },
     {
       "skillID": 101020,
+      "crossplayID": 101020,
       "name": "ReinforcementWaveLegendary",
       "generalID": 101,
       "skillGroupID": 101013,
@@ -521,6 +565,7 @@
     },
     {
       "skillID": 101021,
+      "crossplayID": 101021,
       "name": "ReinforcementWaveLegendary",
       "generalID": 101,
       "skillGroupID": 101013,
@@ -533,6 +578,7 @@
     },
     {
       "skillID": 101022,
+      "crossplayID": 101022,
       "name": "ReinforcementWaveLegendary",
       "generalID": 101,
       "skillGroupID": 101013,
@@ -545,6 +591,7 @@
     },
     {
       "skillID": 101023,
+      "crossplayID": 101023,
       "name": "ReinforcementWaveLegendary",
       "generalID": 101,
       "skillGroupID": 101013,
@@ -557,6 +604,7 @@
     },
     {
       "skillID": 101024,
+      "crossplayID": 101024,
       "name": "ReinforcementWaveLegendary",
       "generalID": 101,
       "skillGroupID": 101013,
@@ -568,6 +616,7 @@
     },
     {
       "skillID": 101025,
+      "crossplayID": 101025,
       "name": "UnitAmountFlankLegendary",
       "generalID": 101,
       "skillGroupID": 101025,
@@ -580,6 +629,7 @@
     },
     {
       "skillID": 101026,
+      "crossplayID": 101026,
       "name": "UnitAmountFlankLegendary",
       "generalID": 101,
       "skillGroupID": 101025,
@@ -592,6 +642,7 @@
     },
     {
       "skillID": 101027,
+      "crossplayID": 101027,
       "name": "UnitAmountFlankLegendary",
       "generalID": 101,
       "skillGroupID": 101025,
@@ -604,6 +655,7 @@
     },
     {
       "skillID": 101028,
+      "crossplayID": 101028,
       "name": "UnitAmountFlankLegendary",
       "generalID": 101,
       "skillGroupID": 101025,
@@ -616,6 +668,7 @@
     },
     {
       "skillID": 101029,
+      "crossplayID": 101029,
       "name": "UnitAmountFlankLegendary",
       "generalID": 101,
       "skillGroupID": 101025,
@@ -628,6 +681,7 @@
     },
     {
       "skillID": 101030,
+      "crossplayID": 101030,
       "name": "UnitAmountFlankLegendary",
       "generalID": 101,
       "skillGroupID": 101025,
@@ -640,6 +694,7 @@
     },
     {
       "skillID": 101031,
+      "crossplayID": 101031,
       "name": "UnitAmountFlankLegendary",
       "generalID": 101,
       "skillGroupID": 101025,
@@ -652,6 +707,7 @@
     },
     {
       "skillID": 101032,
+      "crossplayID": 101032,
       "name": "UnitAmountFlankLegendary",
       "generalID": 101,
       "skillGroupID": 101025,
@@ -664,6 +720,7 @@
     },
     {
       "skillID": 101033,
+      "crossplayID": 101033,
       "name": "UnitAmountFlankLegendary",
       "generalID": 101,
       "skillGroupID": 101025,
@@ -676,6 +733,7 @@
     },
     {
       "skillID": 101034,
+      "crossplayID": 101034,
       "name": "UnitAmountFlankLegendary",
       "generalID": 101,
       "skillGroupID": 101025,
@@ -688,6 +746,7 @@
     },
     {
       "skillID": 101035,
+      "crossplayID": 101035,
       "name": "UnitAmountFlankLegendary",
       "generalID": 101,
       "skillGroupID": 101025,
@@ -700,6 +759,7 @@
     },
     {
       "skillID": 101036,
+      "crossplayID": 101036,
       "name": "UnitAmountFlankLegendary",
       "generalID": 101,
       "skillGroupID": 101025,
@@ -711,6 +771,7 @@
     },
     {
       "skillID": 101037,
+      "crossplayID": 101037,
       "name": "BonusPowerYardLegendary",
       "generalID": 101,
       "skillGroupID": 101037,
@@ -723,6 +784,7 @@
     },
     {
       "skillID": 101038,
+      "crossplayID": 101038,
       "name": "BonusPowerYardLegendary",
       "generalID": 101,
       "skillGroupID": 101037,
@@ -735,6 +797,7 @@
     },
     {
       "skillID": 101039,
+      "crossplayID": 101039,
       "name": "BonusPowerYardLegendary",
       "generalID": 101,
       "skillGroupID": 101037,
@@ -747,6 +810,7 @@
     },
     {
       "skillID": 101040,
+      "crossplayID": 101040,
       "name": "BonusPowerYardLegendary",
       "generalID": 101,
       "skillGroupID": 101037,
@@ -759,6 +823,7 @@
     },
     {
       "skillID": 101041,
+      "crossplayID": 101041,
       "name": "BonusPowerYardLegendary",
       "generalID": 101,
       "skillGroupID": 101037,
@@ -771,6 +836,7 @@
     },
     {
       "skillID": 101042,
+      "crossplayID": 101042,
       "name": "BonusPowerYardLegendary",
       "generalID": 101,
       "skillGroupID": 101037,
@@ -783,6 +849,7 @@
     },
     {
       "skillID": 101043,
+      "crossplayID": 101043,
       "name": "BonusPowerYardLegendary",
       "generalID": 101,
       "skillGroupID": 101037,
@@ -795,6 +862,7 @@
     },
     {
       "skillID": 101044,
+      "crossplayID": 101044,
       "name": "BonusPowerYardLegendary",
       "generalID": 101,
       "skillGroupID": 101037,
@@ -807,6 +875,7 @@
     },
     {
       "skillID": 101045,
+      "crossplayID": 101045,
       "name": "BonusPowerYardLegendary",
       "generalID": 101,
       "skillGroupID": 101037,
@@ -819,6 +888,7 @@
     },
     {
       "skillID": 101046,
+      "crossplayID": 101046,
       "name": "BonusPowerYardLegendary",
       "generalID": 101,
       "skillGroupID": 101037,
@@ -831,6 +901,7 @@
     },
     {
       "skillID": 101047,
+      "crossplayID": 101047,
       "name": "BonusPowerYardLegendary",
       "generalID": 101,
       "skillGroupID": 101037,
@@ -843,6 +914,7 @@
     },
     {
       "skillID": 101048,
+      "crossplayID": 101048,
       "name": "BonusPowerYardLegendary",
       "generalID": 101,
       "skillGroupID": 101037,
@@ -854,6 +926,7 @@
     },
     {
       "skillID": 10210251,
+      "crossplayID": 10210251,
       "name": "ReinforcedArrows",
       "generalID": 102,
       "skillGroupID": 1021025,
@@ -866,6 +939,7 @@
     },
     {
       "skillID": 10210252,
+      "crossplayID": 10210252,
       "name": "ReinforcedArrows",
       "generalID": 102,
       "skillGroupID": 1021025,
@@ -878,6 +952,7 @@
     },
     {
       "skillID": 10210253,
+      "crossplayID": 10210253,
       "name": "ReinforcedArrows",
       "generalID": 102,
       "skillGroupID": 1021025,
@@ -889,6 +964,7 @@
     },
     {
       "skillID": 10210011,
+      "crossplayID": 10210011,
       "name": "PowerSurge",
       "generalID": 102,
       "skillGroupID": 1021001,
@@ -901,6 +977,7 @@
     },
     {
       "skillID": 10210012,
+      "crossplayID": 10210012,
       "name": "PowerSurge",
       "generalID": 102,
       "skillGroupID": 1021001,
@@ -913,6 +990,7 @@
     },
     {
       "skillID": 10210013,
+      "crossplayID": 10210013,
       "name": "PowerSurge",
       "generalID": 102,
       "skillGroupID": 1021001,
@@ -924,6 +1002,7 @@
     },
     {
       "skillID": 10210131,
+      "crossplayID": 10210131,
       "name": "Sabotage",
       "generalID": 102,
       "skillGroupID": 1021013,
@@ -936,6 +1015,7 @@
     },
     {
       "skillID": 10210132,
+      "crossplayID": 10210132,
       "name": "Sabotage",
       "generalID": 102,
       "skillGroupID": 1021013,
@@ -948,6 +1028,7 @@
     },
     {
       "skillID": 10210133,
+      "crossplayID": 10210133,
       "name": "Sabotage",
       "generalID": 102,
       "skillGroupID": 1021013,
@@ -959,6 +1040,7 @@
     },
     {
       "skillID": 10210231,
+      "crossplayID": 10210231,
       "name": "Longbows",
       "generalID": 102,
       "skillGroupID": 1021023,
@@ -971,6 +1053,7 @@
     },
     {
       "skillID": 10210232,
+      "crossplayID": 10210232,
       "name": "Longbows",
       "generalID": 102,
       "skillGroupID": 1021023,
@@ -983,6 +1066,7 @@
     },
     {
       "skillID": 10210233,
+      "crossplayID": 10210233,
       "name": "Longbows",
       "generalID": 102,
       "skillGroupID": 1021023,
@@ -994,6 +1078,7 @@
     },
     {
       "skillID": 10210221,
+      "crossplayID": 10210221,
       "name": "Ambush",
       "generalID": 102,
       "skillGroupID": 1021022,
@@ -1006,6 +1091,7 @@
     },
     {
       "skillID": 10210222,
+      "crossplayID": 10210222,
       "name": "Ambush",
       "generalID": 102,
       "skillGroupID": 1021022,
@@ -1018,6 +1104,7 @@
     },
     {
       "skillID": 10210223,
+      "crossplayID": 10210223,
       "name": "Ambush",
       "generalID": 102,
       "skillGroupID": 1021022,
@@ -1029,6 +1116,7 @@
     },
     {
       "skillID": 10210211,
+      "crossplayID": 10210211,
       "name": "Ayala(Falcon)",
       "generalID": 102,
       "skillGroupID": 1021021,
@@ -1041,6 +1129,7 @@
     },
     {
       "skillID": 10210212,
+      "crossplayID": 10210212,
       "name": "Ayala(Falcon)",
       "generalID": 102,
       "skillGroupID": 1021021,
@@ -1053,6 +1142,7 @@
     },
     {
       "skillID": 10210213,
+      "crossplayID": 10210213,
       "name": "Ayala(Falcon)",
       "generalID": 102,
       "skillGroupID": 1021021,
@@ -1064,6 +1154,7 @@
     },
     {
       "skillID": 102001,
+      "crossplayID": 102001,
       "name": "CourtyardSizeRare",
       "generalID": 102,
       "skillGroupID": 102001,
@@ -1076,6 +1167,7 @@
     },
     {
       "skillID": 102002,
+      "crossplayID": 102002,
       "name": "CourtyardSizeRare",
       "generalID": 102,
       "skillGroupID": 102001,
@@ -1088,6 +1180,7 @@
     },
     {
       "skillID": 102003,
+      "crossplayID": 102003,
       "name": "CourtyardSizeRare",
       "generalID": 102,
       "skillGroupID": 102001,
@@ -1100,6 +1193,7 @@
     },
     {
       "skillID": 102004,
+      "crossplayID": 102004,
       "name": "CourtyardSizeRare",
       "generalID": 102,
       "skillGroupID": 102001,
@@ -1112,6 +1206,7 @@
     },
     {
       "skillID": 102005,
+      "crossplayID": 102005,
       "name": "CourtyardSizeRare",
       "generalID": 102,
       "skillGroupID": 102001,
@@ -1124,6 +1219,7 @@
     },
     {
       "skillID": 102006,
+      "crossplayID": 102006,
       "name": "CourtyardSizeRare",
       "generalID": 102,
       "skillGroupID": 102001,
@@ -1136,6 +1232,7 @@
     },
     {
       "skillID": 102007,
+      "crossplayID": 102007,
       "name": "CourtyardSizeRare",
       "generalID": 102,
       "skillGroupID": 102001,
@@ -1148,6 +1245,7 @@
     },
     {
       "skillID": 102008,
+      "crossplayID": 102008,
       "name": "CourtyardSizeRare",
       "generalID": 102,
       "skillGroupID": 102001,
@@ -1160,6 +1258,7 @@
     },
     {
       "skillID": 102009,
+      "crossplayID": 102009,
       "name": "CourtyardSizeRare",
       "generalID": 102,
       "skillGroupID": 102001,
@@ -1172,6 +1271,7 @@
     },
     {
       "skillID": 102010,
+      "crossplayID": 102010,
       "name": "CourtyardSizeRare",
       "generalID": 102,
       "skillGroupID": 102001,
@@ -1184,6 +1284,7 @@
     },
     {
       "skillID": 102011,
+      "crossplayID": 102011,
       "name": "CourtyardSizeRare",
       "generalID": 102,
       "skillGroupID": 102001,
@@ -1196,6 +1297,7 @@
     },
     {
       "skillID": 102012,
+      "crossplayID": 102012,
       "name": "CourtyardSizeRare",
       "generalID": 102,
       "skillGroupID": 102001,
@@ -1207,6 +1309,7 @@
     },
     {
       "skillID": 102013,
+      "crossplayID": 102013,
       "name": "ReinforcementWaveRare",
       "generalID": 102,
       "skillGroupID": 102013,
@@ -1219,6 +1322,7 @@
     },
     {
       "skillID": 102014,
+      "crossplayID": 102014,
       "name": "ReinforcementWaveRare",
       "generalID": 102,
       "skillGroupID": 102013,
@@ -1231,6 +1335,7 @@
     },
     {
       "skillID": 102015,
+      "crossplayID": 102015,
       "name": "ReinforcementWaveRare",
       "generalID": 102,
       "skillGroupID": 102013,
@@ -1243,6 +1348,7 @@
     },
     {
       "skillID": 102016,
+      "crossplayID": 102016,
       "name": "ReinforcementWaveRare",
       "generalID": 102,
       "skillGroupID": 102013,
@@ -1255,6 +1361,7 @@
     },
     {
       "skillID": 102017,
+      "crossplayID": 102017,
       "name": "ReinforcementWaveRare",
       "generalID": 102,
       "skillGroupID": 102013,
@@ -1267,6 +1374,7 @@
     },
     {
       "skillID": 102018,
+      "crossplayID": 102018,
       "name": "ReinforcementWaveRare",
       "generalID": 102,
       "skillGroupID": 102013,
@@ -1279,6 +1387,7 @@
     },
     {
       "skillID": 102019,
+      "crossplayID": 102019,
       "name": "ReinforcementWaveRare",
       "generalID": 102,
       "skillGroupID": 102013,
@@ -1291,6 +1400,7 @@
     },
     {
       "skillID": 102020,
+      "crossplayID": 102020,
       "name": "ReinforcementWaveRare",
       "generalID": 102,
       "skillGroupID": 102013,
@@ -1303,6 +1413,7 @@
     },
     {
       "skillID": 102021,
+      "crossplayID": 102021,
       "name": "ReinforcementWaveRare",
       "generalID": 102,
       "skillGroupID": 102013,
@@ -1315,6 +1426,7 @@
     },
     {
       "skillID": 102022,
+      "crossplayID": 102022,
       "name": "ReinforcementWaveRare",
       "generalID": 102,
       "skillGroupID": 102013,
@@ -1327,6 +1439,7 @@
     },
     {
       "skillID": 102023,
+      "crossplayID": 102023,
       "name": "ReinforcementWaveRare",
       "generalID": 102,
       "skillGroupID": 102013,
@@ -1339,6 +1452,7 @@
     },
     {
       "skillID": 102024,
+      "crossplayID": 102024,
       "name": "ReinforcementWaveRare",
       "generalID": 102,
       "skillGroupID": 102013,
@@ -1350,6 +1464,7 @@
     },
     {
       "skillID": 102025,
+      "crossplayID": 102025,
       "name": "UnitAmountWallRare",
       "generalID": 102,
       "skillGroupID": 102025,
@@ -1362,6 +1477,7 @@
     },
     {
       "skillID": 102026,
+      "crossplayID": 102026,
       "name": "UnitAmountWallRare",
       "generalID": 102,
       "skillGroupID": 102025,
@@ -1374,6 +1490,7 @@
     },
     {
       "skillID": 102027,
+      "crossplayID": 102027,
       "name": "UnitAmountWallRare",
       "generalID": 102,
       "skillGroupID": 102025,
@@ -1386,6 +1503,7 @@
     },
     {
       "skillID": 102028,
+      "crossplayID": 102028,
       "name": "UnitAmountWallRare",
       "generalID": 102,
       "skillGroupID": 102025,
@@ -1398,6 +1516,7 @@
     },
     {
       "skillID": 102029,
+      "crossplayID": 102029,
       "name": "UnitAmountWallRare",
       "generalID": 102,
       "skillGroupID": 102025,
@@ -1410,6 +1529,7 @@
     },
     {
       "skillID": 102030,
+      "crossplayID": 102030,
       "name": "UnitAmountWallRare",
       "generalID": 102,
       "skillGroupID": 102025,
@@ -1422,6 +1542,7 @@
     },
     {
       "skillID": 102031,
+      "crossplayID": 102031,
       "name": "UnitAmountWallRare",
       "generalID": 102,
       "skillGroupID": 102025,
@@ -1434,6 +1555,7 @@
     },
     {
       "skillID": 102032,
+      "crossplayID": 102032,
       "name": "UnitAmountWallRare",
       "generalID": 102,
       "skillGroupID": 102025,
@@ -1446,6 +1568,7 @@
     },
     {
       "skillID": 102033,
+      "crossplayID": 102033,
       "name": "UnitAmountWallRare",
       "generalID": 102,
       "skillGroupID": 102025,
@@ -1458,6 +1581,7 @@
     },
     {
       "skillID": 102034,
+      "crossplayID": 102034,
       "name": "UnitAmountWallRare",
       "generalID": 102,
       "skillGroupID": 102025,
@@ -1470,6 +1594,7 @@
     },
     {
       "skillID": 102035,
+      "crossplayID": 102035,
       "name": "UnitAmountWallRare",
       "generalID": 102,
       "skillGroupID": 102025,
@@ -1482,6 +1607,7 @@
     },
     {
       "skillID": 102036,
+      "crossplayID": 102036,
       "name": "UnitAmountWallRare",
       "generalID": 102,
       "skillGroupID": 102025,
@@ -1493,6 +1619,7 @@
     },
     {
       "skillID": 102037,
+      "crossplayID": 102037,
       "name": "UnitAmountFlankRare",
       "generalID": 102,
       "skillGroupID": 102037,
@@ -1505,6 +1632,7 @@
     },
     {
       "skillID": 102038,
+      "crossplayID": 102038,
       "name": "UnitAmountFlankRare",
       "generalID": 102,
       "skillGroupID": 102037,
@@ -1517,6 +1645,7 @@
     },
     {
       "skillID": 102039,
+      "crossplayID": 102039,
       "name": "UnitAmountFlankRare",
       "generalID": 102,
       "skillGroupID": 102037,
@@ -1529,6 +1658,7 @@
     },
     {
       "skillID": 102040,
+      "crossplayID": 102040,
       "name": "UnitAmountFlankRare",
       "generalID": 102,
       "skillGroupID": 102037,
@@ -1541,6 +1671,7 @@
     },
     {
       "skillID": 102041,
+      "crossplayID": 102041,
       "name": "UnitAmountFlankRare",
       "generalID": 102,
       "skillGroupID": 102037,
@@ -1553,6 +1684,7 @@
     },
     {
       "skillID": 102042,
+      "crossplayID": 102042,
       "name": "UnitAmountFlankRare",
       "generalID": 102,
       "skillGroupID": 102037,
@@ -1565,6 +1697,7 @@
     },
     {
       "skillID": 102043,
+      "crossplayID": 102043,
       "name": "UnitAmountFlankRare",
       "generalID": 102,
       "skillGroupID": 102037,
@@ -1577,6 +1710,7 @@
     },
     {
       "skillID": 102044,
+      "crossplayID": 102044,
       "name": "UnitAmountFlankRare",
       "generalID": 102,
       "skillGroupID": 102037,
@@ -1589,6 +1723,7 @@
     },
     {
       "skillID": 102045,
+      "crossplayID": 102045,
       "name": "UnitAmountFlankRare",
       "generalID": 102,
       "skillGroupID": 102037,
@@ -1601,6 +1736,7 @@
     },
     {
       "skillID": 102046,
+      "crossplayID": 102046,
       "name": "UnitAmountFlankRare",
       "generalID": 102,
       "skillGroupID": 102037,
@@ -1613,6 +1749,7 @@
     },
     {
       "skillID": 102047,
+      "crossplayID": 102047,
       "name": "UnitAmountFlankRare",
       "generalID": 102,
       "skillGroupID": 102037,
@@ -1625,6 +1762,7 @@
     },
     {
       "skillID": 102048,
+      "crossplayID": 102048,
       "name": "UnitAmountFlankRare",
       "generalID": 102,
       "skillGroupID": 102037,
@@ -1636,6 +1774,7 @@
     },
     {
       "skillID": 10310071,
+      "crossplayID": 10310071,
       "name": "Hordebreaker",
       "generalID": 103,
       "skillGroupID": 1031007,
@@ -1648,6 +1787,7 @@
     },
     {
       "skillID": 10310072,
+      "crossplayID": 10310072,
       "name": "Hordebreaker",
       "generalID": 103,
       "skillGroupID": 1031007,
@@ -1660,6 +1800,7 @@
     },
     {
       "skillID": 10310073,
+      "crossplayID": 10310073,
       "name": "Hordebreaker",
       "generalID": 103,
       "skillGroupID": 1031007,
@@ -1671,6 +1812,7 @@
     },
     {
       "skillID": 10310011,
+      "crossplayID": 10310011,
       "name": "PowerSurge",
       "generalID": 103,
       "skillGroupID": 1031001,
@@ -1683,6 +1825,7 @@
     },
     {
       "skillID": 10310012,
+      "crossplayID": 10310012,
       "name": "PowerSurge",
       "generalID": 103,
       "skillGroupID": 1031001,
@@ -1695,6 +1838,7 @@
     },
     {
       "skillID": 10310013,
+      "crossplayID": 10310013,
       "name": "PowerSurge",
       "generalID": 103,
       "skillGroupID": 1031001,
@@ -1706,6 +1850,7 @@
     },
     {
       "skillID": 10310301,
+      "crossplayID": 10310301,
       "name": "Vengence",
       "generalID": 103,
       "skillGroupID": 1031030,
@@ -1718,6 +1863,7 @@
     },
     {
       "skillID": 10310302,
+      "crossplayID": 10310302,
       "name": "Vengence",
       "generalID": 103,
       "skillGroupID": 1031030,
@@ -1730,6 +1876,7 @@
     },
     {
       "skillID": 10310303,
+      "crossplayID": 10310303,
       "name": "Vengence",
       "generalID": 103,
       "skillGroupID": 1031030,
@@ -1741,6 +1888,7 @@
     },
     {
       "skillID": 10310261,
+      "crossplayID": 10310261,
       "name": "Plunder",
       "generalID": 103,
       "skillGroupID": 1031026,
@@ -1753,6 +1901,7 @@
     },
     {
       "skillID": 10310262,
+      "crossplayID": 10310262,
       "name": "Plunder",
       "generalID": 103,
       "skillGroupID": 1031026,
@@ -1765,6 +1914,7 @@
     },
     {
       "skillID": 10310263,
+      "crossplayID": 10310263,
       "name": "Plunder",
       "generalID": 103,
       "skillGroupID": 1031026,
@@ -1776,6 +1926,7 @@
     },
     {
       "skillID": 10310281,
+      "crossplayID": 10310281,
       "name": "HiddenTreasures",
       "generalID": 103,
       "skillGroupID": 1031028,
@@ -1788,6 +1939,7 @@
     },
     {
       "skillID": 10310282,
+      "crossplayID": 10310282,
       "name": "HiddenTreasures",
       "generalID": 103,
       "skillGroupID": 1031028,
@@ -1800,6 +1952,7 @@
     },
     {
       "skillID": 10310283,
+      "crossplayID": 10310283,
       "name": "HiddenTreasures",
       "generalID": 103,
       "skillGroupID": 1031028,
@@ -1811,6 +1964,7 @@
     },
     {
       "skillID": 10310271,
+      "crossplayID": 10310271,
       "name": "YourCut",
       "generalID": 103,
       "skillGroupID": 1031027,
@@ -1823,6 +1977,7 @@
     },
     {
       "skillID": 10310272,
+      "crossplayID": 10310272,
       "name": "YourCut",
       "generalID": 103,
       "skillGroupID": 1031027,
@@ -1835,6 +1990,7 @@
     },
     {
       "skillID": 10310273,
+      "crossplayID": 10310273,
       "name": "YourCut",
       "generalID": 103,
       "skillGroupID": 1031027,
@@ -1846,6 +2002,7 @@
     },
     {
       "skillID": 103001,
+      "crossplayID": 103001,
       "name": "CourtyardSizeRare",
       "generalID": 103,
       "skillGroupID": 103001,
@@ -1858,6 +2015,7 @@
     },
     {
       "skillID": 103002,
+      "crossplayID": 103002,
       "name": "CourtyardSizeRare",
       "generalID": 103,
       "skillGroupID": 103001,
@@ -1870,6 +2028,7 @@
     },
     {
       "skillID": 103003,
+      "crossplayID": 103003,
       "name": "CourtyardSizeRare",
       "generalID": 103,
       "skillGroupID": 103001,
@@ -1882,6 +2041,7 @@
     },
     {
       "skillID": 103004,
+      "crossplayID": 103004,
       "name": "CourtyardSizeRare",
       "generalID": 103,
       "skillGroupID": 103001,
@@ -1894,6 +2054,7 @@
     },
     {
       "skillID": 103005,
+      "crossplayID": 103005,
       "name": "CourtyardSizeRare",
       "generalID": 103,
       "skillGroupID": 103001,
@@ -1906,6 +2067,7 @@
     },
     {
       "skillID": 103006,
+      "crossplayID": 103006,
       "name": "CourtyardSizeRare",
       "generalID": 103,
       "skillGroupID": 103001,
@@ -1918,6 +2080,7 @@
     },
     {
       "skillID": 103007,
+      "crossplayID": 103007,
       "name": "CourtyardSizeRare",
       "generalID": 103,
       "skillGroupID": 103001,
@@ -1930,6 +2093,7 @@
     },
     {
       "skillID": 103008,
+      "crossplayID": 103008,
       "name": "CourtyardSizeRare",
       "generalID": 103,
       "skillGroupID": 103001,
@@ -1942,6 +2106,7 @@
     },
     {
       "skillID": 103009,
+      "crossplayID": 103009,
       "name": "CourtyardSizeRare",
       "generalID": 103,
       "skillGroupID": 103001,
@@ -1954,6 +2119,7 @@
     },
     {
       "skillID": 103010,
+      "crossplayID": 103010,
       "name": "CourtyardSizeRare",
       "generalID": 103,
       "skillGroupID": 103001,
@@ -1966,6 +2132,7 @@
     },
     {
       "skillID": 103011,
+      "crossplayID": 103011,
       "name": "CourtyardSizeRare",
       "generalID": 103,
       "skillGroupID": 103001,
@@ -1978,6 +2145,7 @@
     },
     {
       "skillID": 103012,
+      "crossplayID": 103012,
       "name": "CourtyardSizeRare",
       "generalID": 103,
       "skillGroupID": 103001,
@@ -1989,6 +2157,7 @@
     },
     {
       "skillID": 103013,
+      "crossplayID": 103013,
       "name": "ReinforcementWaveRare",
       "generalID": 103,
       "skillGroupID": 103013,
@@ -2001,6 +2170,7 @@
     },
     {
       "skillID": 103014,
+      "crossplayID": 103014,
       "name": "ReinforcementWaveRare",
       "generalID": 103,
       "skillGroupID": 103013,
@@ -2013,6 +2183,7 @@
     },
     {
       "skillID": 103015,
+      "crossplayID": 103015,
       "name": "ReinforcementWaveRare",
       "generalID": 103,
       "skillGroupID": 103013,
@@ -2025,6 +2196,7 @@
     },
     {
       "skillID": 103016,
+      "crossplayID": 103016,
       "name": "ReinforcementWaveRare",
       "generalID": 103,
       "skillGroupID": 103013,
@@ -2037,6 +2209,7 @@
     },
     {
       "skillID": 103017,
+      "crossplayID": 103017,
       "name": "ReinforcementWaveRare",
       "generalID": 103,
       "skillGroupID": 103013,
@@ -2049,6 +2222,7 @@
     },
     {
       "skillID": 103018,
+      "crossplayID": 103018,
       "name": "ReinforcementWaveRare",
       "generalID": 103,
       "skillGroupID": 103013,
@@ -2061,6 +2235,7 @@
     },
     {
       "skillID": 103019,
+      "crossplayID": 103019,
       "name": "ReinforcementWaveRare",
       "generalID": 103,
       "skillGroupID": 103013,
@@ -2073,6 +2248,7 @@
     },
     {
       "skillID": 103020,
+      "crossplayID": 103020,
       "name": "ReinforcementWaveRare",
       "generalID": 103,
       "skillGroupID": 103013,
@@ -2085,6 +2261,7 @@
     },
     {
       "skillID": 103021,
+      "crossplayID": 103021,
       "name": "ReinforcementWaveRare",
       "generalID": 103,
       "skillGroupID": 103013,
@@ -2097,6 +2274,7 @@
     },
     {
       "skillID": 103022,
+      "crossplayID": 103022,
       "name": "ReinforcementWaveRare",
       "generalID": 103,
       "skillGroupID": 103013,
@@ -2109,6 +2287,7 @@
     },
     {
       "skillID": 103023,
+      "crossplayID": 103023,
       "name": "ReinforcementWaveRare",
       "generalID": 103,
       "skillGroupID": 103013,
@@ -2121,6 +2300,7 @@
     },
     {
       "skillID": 103024,
+      "crossplayID": 103024,
       "name": "ReinforcementWaveRare",
       "generalID": 103,
       "skillGroupID": 103013,
@@ -2132,6 +2312,7 @@
     },
     {
       "skillID": 103025,
+      "crossplayID": 103025,
       "name": "UnitAmountFlankRare",
       "generalID": 103,
       "skillGroupID": 103025,
@@ -2144,6 +2325,7 @@
     },
     {
       "skillID": 103026,
+      "crossplayID": 103026,
       "name": "UnitAmountFlankRare",
       "generalID": 103,
       "skillGroupID": 103025,
@@ -2156,6 +2338,7 @@
     },
     {
       "skillID": 103027,
+      "crossplayID": 103027,
       "name": "UnitAmountFlankRare",
       "generalID": 103,
       "skillGroupID": 103025,
@@ -2168,6 +2351,7 @@
     },
     {
       "skillID": 103028,
+      "crossplayID": 103028,
       "name": "UnitAmountFlankRare",
       "generalID": 103,
       "skillGroupID": 103025,
@@ -2180,6 +2364,7 @@
     },
     {
       "skillID": 103029,
+      "crossplayID": 103029,
       "name": "UnitAmountFlankRare",
       "generalID": 103,
       "skillGroupID": 103025,
@@ -2192,6 +2377,7 @@
     },
     {
       "skillID": 103030,
+      "crossplayID": 103030,
       "name": "UnitAmountFlankRare",
       "generalID": 103,
       "skillGroupID": 103025,
@@ -2204,6 +2390,7 @@
     },
     {
       "skillID": 103031,
+      "crossplayID": 103031,
       "name": "UnitAmountFlankRare",
       "generalID": 103,
       "skillGroupID": 103025,
@@ -2216,6 +2403,7 @@
     },
     {
       "skillID": 103032,
+      "crossplayID": 103032,
       "name": "UnitAmountFlankRare",
       "generalID": 103,
       "skillGroupID": 103025,
@@ -2228,6 +2416,7 @@
     },
     {
       "skillID": 103033,
+      "crossplayID": 103033,
       "name": "UnitAmountFlankRare",
       "generalID": 103,
       "skillGroupID": 103025,
@@ -2240,6 +2429,7 @@
     },
     {
       "skillID": 103034,
+      "crossplayID": 103034,
       "name": "UnitAmountFlankRare",
       "generalID": 103,
       "skillGroupID": 103025,
@@ -2252,6 +2442,7 @@
     },
     {
       "skillID": 103035,
+      "crossplayID": 103035,
       "name": "UnitAmountFlankRare",
       "generalID": 103,
       "skillGroupID": 103025,
@@ -2264,6 +2455,7 @@
     },
     {
       "skillID": 103036,
+      "crossplayID": 103036,
       "name": "UnitAmountFlankRare",
       "generalID": 103,
       "skillGroupID": 103025,
@@ -2275,6 +2467,7 @@
     },
     {
       "skillID": 103037,
+      "crossplayID": 103037,
       "name": "defenseBoostYardRare",
       "generalID": 103,
       "skillGroupID": 103037,
@@ -2287,6 +2480,7 @@
     },
     {
       "skillID": 103038,
+      "crossplayID": 103038,
       "name": "defenseBoostYardRare",
       "generalID": 103,
       "skillGroupID": 103037,
@@ -2299,6 +2493,7 @@
     },
     {
       "skillID": 103039,
+      "crossplayID": 103039,
       "name": "defenseBoostYardRare",
       "generalID": 103,
       "skillGroupID": 103037,
@@ -2311,6 +2506,7 @@
     },
     {
       "skillID": 103040,
+      "crossplayID": 103040,
       "name": "defenseBoostYardRare",
       "generalID": 103,
       "skillGroupID": 103037,
@@ -2323,6 +2519,7 @@
     },
     {
       "skillID": 103041,
+      "crossplayID": 103041,
       "name": "defenseBoostYardRare",
       "generalID": 103,
       "skillGroupID": 103037,
@@ -2335,6 +2532,7 @@
     },
     {
       "skillID": 103042,
+      "crossplayID": 103042,
       "name": "defenseBoostYardRare",
       "generalID": 103,
       "skillGroupID": 103037,
@@ -2347,6 +2545,7 @@
     },
     {
       "skillID": 103043,
+      "crossplayID": 103043,
       "name": "defenseBoostYardRare",
       "generalID": 103,
       "skillGroupID": 103037,
@@ -2359,6 +2558,7 @@
     },
     {
       "skillID": 103044,
+      "crossplayID": 103044,
       "name": "defenseBoostYardRare",
       "generalID": 103,
       "skillGroupID": 103037,
@@ -2371,6 +2571,7 @@
     },
     {
       "skillID": 103045,
+      "crossplayID": 103045,
       "name": "defenseBoostYardRare",
       "generalID": 103,
       "skillGroupID": 103037,
@@ -2383,6 +2584,7 @@
     },
     {
       "skillID": 103046,
+      "crossplayID": 103046,
       "name": "defenseBoostYardRare",
       "generalID": 103,
       "skillGroupID": 103037,
@@ -2395,6 +2597,7 @@
     },
     {
       "skillID": 103047,
+      "crossplayID": 103047,
       "name": "defenseBoostYardRare",
       "generalID": 103,
       "skillGroupID": 103037,
@@ -2407,6 +2610,7 @@
     },
     {
       "skillID": 103048,
+      "crossplayID": 103048,
       "name": "defenseBoostYardRare",
       "generalID": 103,
       "skillGroupID": 103037,
@@ -2418,6 +2622,7 @@
     },
     {
       "skillID": 10410151,
+      "crossplayID": 10410151,
       "name": "ToweringShield",
       "generalID": 104,
       "skillGroupID": 1041015,
@@ -2430,6 +2635,7 @@
     },
     {
       "skillID": 10410152,
+      "crossplayID": 10410152,
       "name": "ToweringShield",
       "generalID": 104,
       "skillGroupID": 1041015,
@@ -2442,6 +2648,7 @@
     },
     {
       "skillID": 10410153,
+      "crossplayID": 10410153,
       "name": "ToweringShield",
       "generalID": 104,
       "skillGroupID": 1041015,
@@ -2453,6 +2660,7 @@
     },
     {
       "skillID": 10410011,
+      "crossplayID": 10410011,
       "name": "PowerSurge",
       "generalID": 104,
       "skillGroupID": 1041001,
@@ -2465,6 +2673,7 @@
     },
     {
       "skillID": 10410012,
+      "crossplayID": 10410012,
       "name": "PowerSurge",
       "generalID": 104,
       "skillGroupID": 1041001,
@@ -2477,6 +2686,7 @@
     },
     {
       "skillID": 10410013,
+      "crossplayID": 10410013,
       "name": "PowerSurge",
       "generalID": 104,
       "skillGroupID": 1041001,
@@ -2488,6 +2698,7 @@
     },
     {
       "skillID": 10410181,
+      "crossplayID": 10410181,
       "name": "HeroicDefense",
       "generalID": 104,
       "skillGroupID": 1041018,
@@ -2500,6 +2711,7 @@
     },
     {
       "skillID": 10410182,
+      "crossplayID": 10410182,
       "name": "HeroicDefense",
       "generalID": 104,
       "skillGroupID": 1041018,
@@ -2512,6 +2724,7 @@
     },
     {
       "skillID": 10410183,
+      "crossplayID": 10410183,
       "name": "HeroicDefense",
       "generalID": 104,
       "skillGroupID": 1041018,
@@ -2523,6 +2736,7 @@
     },
     {
       "skillID": 10410021,
+      "crossplayID": 10410021,
       "name": "RisetotheTask",
       "generalID": 104,
       "skillGroupID": 1041002,
@@ -2535,6 +2749,7 @@
     },
     {
       "skillID": 10410022,
+      "crossplayID": 10410022,
       "name": "RisetotheTask",
       "generalID": 104,
       "skillGroupID": 1041002,
@@ -2547,6 +2762,7 @@
     },
     {
       "skillID": 10410023,
+      "crossplayID": 10410023,
       "name": "RisetotheTask",
       "generalID": 104,
       "skillGroupID": 1041002,
@@ -2558,6 +2774,7 @@
     },
     {
       "skillID": 10410071,
+      "crossplayID": 10410071,
       "name": "Hordebreaker",
       "generalID": 104,
       "skillGroupID": 1041007,
@@ -2570,6 +2787,7 @@
     },
     {
       "skillID": 10410072,
+      "crossplayID": 10410072,
       "name": "Hordebreaker",
       "generalID": 104,
       "skillGroupID": 1041007,
@@ -2582,6 +2800,7 @@
     },
     {
       "skillID": 10410073,
+      "crossplayID": 10410073,
       "name": "Hordebreaker",
       "generalID": 104,
       "skillGroupID": 1041007,
@@ -2593,6 +2812,7 @@
     },
     {
       "skillID": 10410141,
+      "crossplayID": 10410141,
       "name": "HeartofaWarrior",
       "generalID": 104,
       "skillGroupID": 1041014,
@@ -2605,6 +2825,7 @@
     },
     {
       "skillID": 10410142,
+      "crossplayID": 10410142,
       "name": "HeartofaWarrior",
       "generalID": 104,
       "skillGroupID": 1041014,
@@ -2617,6 +2838,7 @@
     },
     {
       "skillID": 10410143,
+      "crossplayID": 10410143,
       "name": "HeartofaWarrior",
       "generalID": 104,
       "skillGroupID": 1041014,
@@ -2628,6 +2850,7 @@
     },
     {
       "skillID": 10410161,
+      "crossplayID": 10410161,
       "name": "WallAmount",
       "generalID": 104,
       "skillGroupID": 1041016,
@@ -2640,6 +2863,7 @@
     },
     {
       "skillID": 10410162,
+      "crossplayID": 10410162,
       "name": "WallAmount",
       "generalID": 104,
       "skillGroupID": 1041016,
@@ -2652,6 +2876,7 @@
     },
     {
       "skillID": 10410163,
+      "crossplayID": 10410163,
       "name": "WallAmount",
       "generalID": 104,
       "skillGroupID": 1041016,
@@ -2663,6 +2888,7 @@
     },
     {
       "skillID": 10410031,
+      "crossplayID": 10410031,
       "name": "GiantSlayer",
       "generalID": 104,
       "skillGroupID": 1041003,
@@ -2675,6 +2901,7 @@
     },
     {
       "skillID": 10410032,
+      "crossplayID": 10410032,
       "name": "GiantSlayer",
       "generalID": 104,
       "skillGroupID": 1041003,
@@ -2687,6 +2914,7 @@
     },
     {
       "skillID": 10410033,
+      "crossplayID": 10410033,
       "name": "GiantSlayer",
       "generalID": 104,
       "skillGroupID": 1041003,
@@ -2698,6 +2926,7 @@
     },
     {
       "skillID": 104001,
+      "crossplayID": 104001,
       "name": "CourtyardSizeEpic",
       "generalID": 104,
       "skillGroupID": 104001,
@@ -2710,6 +2939,7 @@
     },
     {
       "skillID": 104002,
+      "crossplayID": 104002,
       "name": "CourtyardSizeEpic",
       "generalID": 104,
       "skillGroupID": 104001,
@@ -2722,6 +2952,7 @@
     },
     {
       "skillID": 104003,
+      "crossplayID": 104003,
       "name": "CourtyardSizeEpic",
       "generalID": 104,
       "skillGroupID": 104001,
@@ -2734,6 +2965,7 @@
     },
     {
       "skillID": 104004,
+      "crossplayID": 104004,
       "name": "CourtyardSizeEpic",
       "generalID": 104,
       "skillGroupID": 104001,
@@ -2746,6 +2978,7 @@
     },
     {
       "skillID": 104005,
+      "crossplayID": 104005,
       "name": "CourtyardSizeEpic",
       "generalID": 104,
       "skillGroupID": 104001,
@@ -2758,6 +2991,7 @@
     },
     {
       "skillID": 104006,
+      "crossplayID": 104006,
       "name": "CourtyardSizeEpic",
       "generalID": 104,
       "skillGroupID": 104001,
@@ -2770,6 +3004,7 @@
     },
     {
       "skillID": 104007,
+      "crossplayID": 104007,
       "name": "CourtyardSizeEpic",
       "generalID": 104,
       "skillGroupID": 104001,
@@ -2782,6 +3017,7 @@
     },
     {
       "skillID": 104008,
+      "crossplayID": 104008,
       "name": "CourtyardSizeEpic",
       "generalID": 104,
       "skillGroupID": 104001,
@@ -2794,6 +3030,7 @@
     },
     {
       "skillID": 104009,
+      "crossplayID": 104009,
       "name": "CourtyardSizeEpic",
       "generalID": 104,
       "skillGroupID": 104001,
@@ -2806,6 +3043,7 @@
     },
     {
       "skillID": 104010,
+      "crossplayID": 104010,
       "name": "CourtyardSizeEpic",
       "generalID": 104,
       "skillGroupID": 104001,
@@ -2818,6 +3056,7 @@
     },
     {
       "skillID": 104011,
+      "crossplayID": 104011,
       "name": "CourtyardSizeEpic",
       "generalID": 104,
       "skillGroupID": 104001,
@@ -2830,6 +3069,7 @@
     },
     {
       "skillID": 104012,
+      "crossplayID": 104012,
       "name": "CourtyardSizeEpic",
       "generalID": 104,
       "skillGroupID": 104001,
@@ -2841,6 +3081,7 @@
     },
     {
       "skillID": 104013,
+      "crossplayID": 104013,
       "name": "ReinforcementWaveEpic",
       "generalID": 104,
       "skillGroupID": 104013,
@@ -2853,6 +3094,7 @@
     },
     {
       "skillID": 104014,
+      "crossplayID": 104014,
       "name": "ReinforcementWaveEpic",
       "generalID": 104,
       "skillGroupID": 104013,
@@ -2865,6 +3107,7 @@
     },
     {
       "skillID": 104015,
+      "crossplayID": 104015,
       "name": "ReinforcementWaveEpic",
       "generalID": 104,
       "skillGroupID": 104013,
@@ -2877,6 +3120,7 @@
     },
     {
       "skillID": 104016,
+      "crossplayID": 104016,
       "name": "ReinforcementWaveEpic",
       "generalID": 104,
       "skillGroupID": 104013,
@@ -2889,6 +3133,7 @@
     },
     {
       "skillID": 104017,
+      "crossplayID": 104017,
       "name": "ReinforcementWaveEpic",
       "generalID": 104,
       "skillGroupID": 104013,
@@ -2901,6 +3146,7 @@
     },
     {
       "skillID": 104018,
+      "crossplayID": 104018,
       "name": "ReinforcementWaveEpic",
       "generalID": 104,
       "skillGroupID": 104013,
@@ -2913,6 +3159,7 @@
     },
     {
       "skillID": 104019,
+      "crossplayID": 104019,
       "name": "ReinforcementWaveEpic",
       "generalID": 104,
       "skillGroupID": 104013,
@@ -2925,6 +3172,7 @@
     },
     {
       "skillID": 104020,
+      "crossplayID": 104020,
       "name": "ReinforcementWaveEpic",
       "generalID": 104,
       "skillGroupID": 104013,
@@ -2937,6 +3185,7 @@
     },
     {
       "skillID": 104021,
+      "crossplayID": 104021,
       "name": "ReinforcementWaveEpic",
       "generalID": 104,
       "skillGroupID": 104013,
@@ -2949,6 +3198,7 @@
     },
     {
       "skillID": 104022,
+      "crossplayID": 104022,
       "name": "ReinforcementWaveEpic",
       "generalID": 104,
       "skillGroupID": 104013,
@@ -2961,6 +3211,7 @@
     },
     {
       "skillID": 104023,
+      "crossplayID": 104023,
       "name": "ReinforcementWaveEpic",
       "generalID": 104,
       "skillGroupID": 104013,
@@ -2973,6 +3224,7 @@
     },
     {
       "skillID": 104024,
+      "crossplayID": 104024,
       "name": "ReinforcementWaveEpic",
       "generalID": 104,
       "skillGroupID": 104013,
@@ -2984,6 +3236,7 @@
     },
     {
       "skillID": 104025,
+      "crossplayID": 104025,
       "name": "UnitAmountWallEpic",
       "generalID": 104,
       "skillGroupID": 104025,
@@ -2996,6 +3249,7 @@
     },
     {
       "skillID": 104026,
+      "crossplayID": 104026,
       "name": "UnitAmountWallEpic",
       "generalID": 104,
       "skillGroupID": 104025,
@@ -3008,6 +3262,7 @@
     },
     {
       "skillID": 104027,
+      "crossplayID": 104027,
       "name": "UnitAmountWallEpic",
       "generalID": 104,
       "skillGroupID": 104025,
@@ -3020,6 +3275,7 @@
     },
     {
       "skillID": 104028,
+      "crossplayID": 104028,
       "name": "UnitAmountWallEpic",
       "generalID": 104,
       "skillGroupID": 104025,
@@ -3032,6 +3288,7 @@
     },
     {
       "skillID": 104029,
+      "crossplayID": 104029,
       "name": "UnitAmountWallEpic",
       "generalID": 104,
       "skillGroupID": 104025,
@@ -3044,6 +3301,7 @@
     },
     {
       "skillID": 104030,
+      "crossplayID": 104030,
       "name": "UnitAmountWallEpic",
       "generalID": 104,
       "skillGroupID": 104025,
@@ -3056,6 +3314,7 @@
     },
     {
       "skillID": 104031,
+      "crossplayID": 104031,
       "name": "UnitAmountWallEpic",
       "generalID": 104,
       "skillGroupID": 104025,
@@ -3068,6 +3327,7 @@
     },
     {
       "skillID": 104032,
+      "crossplayID": 104032,
       "name": "UnitAmountWallEpic",
       "generalID": 104,
       "skillGroupID": 104025,
@@ -3080,6 +3340,7 @@
     },
     {
       "skillID": 104033,
+      "crossplayID": 104033,
       "name": "UnitAmountWallEpic",
       "generalID": 104,
       "skillGroupID": 104025,
@@ -3092,6 +3353,7 @@
     },
     {
       "skillID": 104034,
+      "crossplayID": 104034,
       "name": "UnitAmountWallEpic",
       "generalID": 104,
       "skillGroupID": 104025,
@@ -3104,6 +3366,7 @@
     },
     {
       "skillID": 104035,
+      "crossplayID": 104035,
       "name": "UnitAmountWallEpic",
       "generalID": 104,
       "skillGroupID": 104025,
@@ -3116,6 +3379,7 @@
     },
     {
       "skillID": 104036,
+      "crossplayID": 104036,
       "name": "UnitAmountWallEpic",
       "generalID": 104,
       "skillGroupID": 104025,
@@ -3127,6 +3391,7 @@
     },
     {
       "skillID": 104037,
+      "crossplayID": 104037,
       "name": "UnitAmountFrontEpic",
       "generalID": 104,
       "skillGroupID": 104037,
@@ -3139,6 +3404,7 @@
     },
     {
       "skillID": 104038,
+      "crossplayID": 104038,
       "name": "UnitAmountFrontEpic",
       "generalID": 104,
       "skillGroupID": 104037,
@@ -3151,6 +3417,7 @@
     },
     {
       "skillID": 104039,
+      "crossplayID": 104039,
       "name": "UnitAmountFrontEpic",
       "generalID": 104,
       "skillGroupID": 104037,
@@ -3163,6 +3430,7 @@
     },
     {
       "skillID": 104040,
+      "crossplayID": 104040,
       "name": "UnitAmountFrontEpic",
       "generalID": 104,
       "skillGroupID": 104037,
@@ -3175,6 +3443,7 @@
     },
     {
       "skillID": 104041,
+      "crossplayID": 104041,
       "name": "UnitAmountFrontEpic",
       "generalID": 104,
       "skillGroupID": 104037,
@@ -3187,6 +3456,7 @@
     },
     {
       "skillID": 104042,
+      "crossplayID": 104042,
       "name": "UnitAmountFrontEpic",
       "generalID": 104,
       "skillGroupID": 104037,
@@ -3199,6 +3469,7 @@
     },
     {
       "skillID": 104043,
+      "crossplayID": 104043,
       "name": "UnitAmountFrontEpic",
       "generalID": 104,
       "skillGroupID": 104037,
@@ -3211,6 +3482,7 @@
     },
     {
       "skillID": 104044,
+      "crossplayID": 104044,
       "name": "UnitAmountFrontEpic",
       "generalID": 104,
       "skillGroupID": 104037,
@@ -3223,6 +3495,7 @@
     },
     {
       "skillID": 104045,
+      "crossplayID": 104045,
       "name": "UnitAmountFrontEpic",
       "generalID": 104,
       "skillGroupID": 104037,
@@ -3235,6 +3508,7 @@
     },
     {
       "skillID": 104046,
+      "crossplayID": 104046,
       "name": "UnitAmountFrontEpic",
       "generalID": 104,
       "skillGroupID": 104037,
@@ -3247,6 +3521,7 @@
     },
     {
       "skillID": 104047,
+      "crossplayID": 104047,
       "name": "UnitAmountFrontEpic",
       "generalID": 104,
       "skillGroupID": 104037,
@@ -3259,6 +3534,7 @@
     },
     {
       "skillID": 104048,
+      "crossplayID": 104048,
       "name": "UnitAmountFrontEpic",
       "generalID": 104,
       "skillGroupID": 104037,
@@ -3270,6 +3546,7 @@
     },
     {
       "skillID": 101049,
+      "crossplayID": 101049,
       "name": "defenseBoostYardLegendary",
       "generalID": 101,
       "skillGroupID": 101049,
@@ -3282,6 +3559,7 @@
     },
     {
       "skillID": 101050,
+      "crossplayID": 101050,
       "name": "defenseBoostYardLegendary",
       "generalID": 101,
       "skillGroupID": 101049,
@@ -3294,6 +3572,7 @@
     },
     {
       "skillID": 101051,
+      "crossplayID": 101051,
       "name": "defenseBoostYardLegendary",
       "generalID": 101,
       "skillGroupID": 101049,
@@ -3306,6 +3585,7 @@
     },
     {
       "skillID": 101052,
+      "crossplayID": 101052,
       "name": "defenseBoostYardLegendary",
       "generalID": 101,
       "skillGroupID": 101049,
@@ -3318,6 +3598,7 @@
     },
     {
       "skillID": 101053,
+      "crossplayID": 101053,
       "name": "defenseBoostYardLegendary",
       "generalID": 101,
       "skillGroupID": 101049,
@@ -3330,6 +3611,7 @@
     },
     {
       "skillID": 101054,
+      "crossplayID": 101054,
       "name": "defenseBoostYardLegendary",
       "generalID": 101,
       "skillGroupID": 101049,
@@ -3342,6 +3624,7 @@
     },
     {
       "skillID": 101055,
+      "crossplayID": 101055,
       "name": "defenseBoostYardLegendary",
       "generalID": 101,
       "skillGroupID": 101049,
@@ -3354,6 +3637,7 @@
     },
     {
       "skillID": 101056,
+      "crossplayID": 101056,
       "name": "defenseBoostYardLegendary",
       "generalID": 101,
       "skillGroupID": 101049,
@@ -3366,6 +3650,7 @@
     },
     {
       "skillID": 101057,
+      "crossplayID": 101057,
       "name": "defenseBoostYardLegendary",
       "generalID": 101,
       "skillGroupID": 101049,
@@ -3378,6 +3663,7 @@
     },
     {
       "skillID": 101058,
+      "crossplayID": 101058,
       "name": "defenseBoostYardLegendary",
       "generalID": 101,
       "skillGroupID": 101049,
@@ -3390,6 +3676,7 @@
     },
     {
       "skillID": 101059,
+      "crossplayID": 101059,
       "name": "defenseBoostYardLegendary",
       "generalID": 101,
       "skillGroupID": 101049,
@@ -3402,6 +3689,7 @@
     },
     {
       "skillID": 101060,
+      "crossplayID": 101060,
       "name": "defenseBoostYardLegendary",
       "generalID": 101,
       "skillGroupID": 101049,
@@ -3413,6 +3701,7 @@
     },
     {
       "skillID": 101061,
+      "crossplayID": 101061,
       "name": "UnitAmountFrontLegendary",
       "generalID": 101,
       "skillGroupID": 101061,
@@ -3425,6 +3714,7 @@
     },
     {
       "skillID": 101062,
+      "crossplayID": 101062,
       "name": "UnitAmountFrontLegendary",
       "generalID": 101,
       "skillGroupID": 101061,
@@ -3437,6 +3727,7 @@
     },
     {
       "skillID": 101063,
+      "crossplayID": 101063,
       "name": "UnitAmountFrontLegendary",
       "generalID": 101,
       "skillGroupID": 101061,
@@ -3449,6 +3740,7 @@
     },
     {
       "skillID": 101064,
+      "crossplayID": 101064,
       "name": "UnitAmountFrontLegendary",
       "generalID": 101,
       "skillGroupID": 101061,
@@ -3461,6 +3753,7 @@
     },
     {
       "skillID": 101065,
+      "crossplayID": 101065,
       "name": "UnitAmountFrontLegendary",
       "generalID": 101,
       "skillGroupID": 101061,
@@ -3473,6 +3766,7 @@
     },
     {
       "skillID": 101066,
+      "crossplayID": 101066,
       "name": "UnitAmountFrontLegendary",
       "generalID": 101,
       "skillGroupID": 101061,
@@ -3485,6 +3779,7 @@
     },
     {
       "skillID": 101067,
+      "crossplayID": 101067,
       "name": "UnitAmountFrontLegendary",
       "generalID": 101,
       "skillGroupID": 101061,
@@ -3497,6 +3792,7 @@
     },
     {
       "skillID": 101068,
+      "crossplayID": 101068,
       "name": "UnitAmountFrontLegendary",
       "generalID": 101,
       "skillGroupID": 101061,
@@ -3509,6 +3805,7 @@
     },
     {
       "skillID": 101069,
+      "crossplayID": 101069,
       "name": "UnitAmountFrontLegendary",
       "generalID": 101,
       "skillGroupID": 101061,
@@ -3521,6 +3818,7 @@
     },
     {
       "skillID": 101070,
+      "crossplayID": 101070,
       "name": "UnitAmountFrontLegendary",
       "generalID": 101,
       "skillGroupID": 101061,
@@ -3533,6 +3831,7 @@
     },
     {
       "skillID": 101071,
+      "crossplayID": 101071,
       "name": "UnitAmountFrontLegendary",
       "generalID": 101,
       "skillGroupID": 101061,
@@ -3545,6 +3844,7 @@
     },
     {
       "skillID": 101072,
+      "crossplayID": 101072,
       "name": "UnitAmountFrontLegendary",
       "generalID": 101,
       "skillGroupID": 101061,
@@ -3556,6 +3856,7 @@
     },
     {
       "skillID": 101073,
+      "crossplayID": 101073,
       "name": "AttackBoostFlankLegendary",
       "generalID": 101,
       "skillGroupID": 101073,
@@ -3568,6 +3869,7 @@
     },
     {
       "skillID": 101074,
+      "crossplayID": 101074,
       "name": "AttackBoostFlankLegendary",
       "generalID": 101,
       "skillGroupID": 101073,
@@ -3580,6 +3882,7 @@
     },
     {
       "skillID": 101075,
+      "crossplayID": 101075,
       "name": "AttackBoostFlankLegendary",
       "generalID": 101,
       "skillGroupID": 101073,
@@ -3592,6 +3895,7 @@
     },
     {
       "skillID": 101076,
+      "crossplayID": 101076,
       "name": "AttackBoostFlankLegendary",
       "generalID": 101,
       "skillGroupID": 101073,
@@ -3604,6 +3908,7 @@
     },
     {
       "skillID": 101077,
+      "crossplayID": 101077,
       "name": "AttackBoostFlankLegendary",
       "generalID": 101,
       "skillGroupID": 101073,
@@ -3616,6 +3921,7 @@
     },
     {
       "skillID": 101078,
+      "crossplayID": 101078,
       "name": "AttackBoostFlankLegendary",
       "generalID": 101,
       "skillGroupID": 101073,
@@ -3628,6 +3934,7 @@
     },
     {
       "skillID": 101079,
+      "crossplayID": 101079,
       "name": "AttackBoostFlankLegendary",
       "generalID": 101,
       "skillGroupID": 101073,
@@ -3640,6 +3947,7 @@
     },
     {
       "skillID": 101080,
+      "crossplayID": 101080,
       "name": "AttackBoostFlankLegendary",
       "generalID": 101,
       "skillGroupID": 101073,
@@ -3652,6 +3960,7 @@
     },
     {
       "skillID": 101081,
+      "crossplayID": 101081,
       "name": "AttackBoostFlankLegendary",
       "generalID": 101,
       "skillGroupID": 101073,
@@ -3664,6 +3973,7 @@
     },
     {
       "skillID": 101082,
+      "crossplayID": 101082,
       "name": "AttackBoostFlankLegendary",
       "generalID": 101,
       "skillGroupID": 101073,
@@ -3676,6 +3986,7 @@
     },
     {
       "skillID": 101083,
+      "crossplayID": 101083,
       "name": "AttackBoostFlankLegendary",
       "generalID": 101,
       "skillGroupID": 101073,
@@ -3688,6 +3999,7 @@
     },
     {
       "skillID": 101084,
+      "crossplayID": 101084,
       "name": "AttackBoostFlankLegendary",
       "generalID": 101,
       "skillGroupID": 101073,
@@ -3700,6 +4012,7 @@
     },
     {
       "skillID": 101085,
+      "crossplayID": 101085,
       "name": "AttackBoostFlankLegendary",
       "generalID": 101,
       "skillGroupID": 101073,
@@ -3712,6 +4025,7 @@
     },
     {
       "skillID": 101086,
+      "crossplayID": 101086,
       "name": "AttackBoostFlankLegendary",
       "generalID": 101,
       "skillGroupID": 101073,
@@ -3724,6 +4038,7 @@
     },
     {
       "skillID": 101087,
+      "crossplayID": 101087,
       "name": "AttackBoostFlankLegendary",
       "generalID": 101,
       "skillGroupID": 101073,
@@ -3736,6 +4051,7 @@
     },
     {
       "skillID": 101088,
+      "crossplayID": 101088,
       "name": "AttackBoostFlankLegendary",
       "generalID": 101,
       "skillGroupID": 101073,
@@ -3748,6 +4064,7 @@
     },
     {
       "skillID": 101089,
+      "crossplayID": 101089,
       "name": "AttackBoostFlankLegendary",
       "generalID": 101,
       "skillGroupID": 101073,
@@ -3760,6 +4077,7 @@
     },
     {
       "skillID": 101090,
+      "crossplayID": 101090,
       "name": "AttackBoostFlankLegendary",
       "generalID": 101,
       "skillGroupID": 101073,
@@ -3772,6 +4090,7 @@
     },
     {
       "skillID": 101091,
+      "crossplayID": 101091,
       "name": "AttackBoostFlankLegendary",
       "generalID": 101,
       "skillGroupID": 101073,
@@ -3784,6 +4103,7 @@
     },
     {
       "skillID": 101092,
+      "crossplayID": 101092,
       "name": "AttackBoostFlankLegendary",
       "generalID": 101,
       "skillGroupID": 101073,
@@ -3796,6 +4116,7 @@
     },
     {
       "skillID": 101093,
+      "crossplayID": 101093,
       "name": "AttackBoostFlankLegendary",
       "generalID": 101,
       "skillGroupID": 101073,
@@ -3808,6 +4129,7 @@
     },
     {
       "skillID": 101094,
+      "crossplayID": 101094,
       "name": "AttackBoostFlankLegendary",
       "generalID": 101,
       "skillGroupID": 101073,
@@ -3820,6 +4142,7 @@
     },
     {
       "skillID": 101095,
+      "crossplayID": 101095,
       "name": "AttackBoostFlankLegendary",
       "generalID": 101,
       "skillGroupID": 101073,
@@ -3832,6 +4155,7 @@
     },
     {
       "skillID": 101096,
+      "crossplayID": 101096,
       "name": "AttackBoostFlankLegendary",
       "generalID": 101,
       "skillGroupID": 101073,
@@ -3843,6 +4167,7 @@
     },
     {
       "skillID": 101097,
+      "crossplayID": 101097,
       "name": "AttackBoostFrontLegendary",
       "generalID": 101,
       "skillGroupID": 101097,
@@ -3855,6 +4180,7 @@
     },
     {
       "skillID": 101098,
+      "crossplayID": 101098,
       "name": "AttackBoostFrontLegendary",
       "generalID": 101,
       "skillGroupID": 101097,
@@ -3867,6 +4193,7 @@
     },
     {
       "skillID": 101099,
+      "crossplayID": 101099,
       "name": "AttackBoostFrontLegendary",
       "generalID": 101,
       "skillGroupID": 101097,
@@ -3879,6 +4206,7 @@
     },
     {
       "skillID": 101100,
+      "crossplayID": 101100,
       "name": "AttackBoostFrontLegendary",
       "generalID": 101,
       "skillGroupID": 101097,
@@ -3891,6 +4219,7 @@
     },
     {
       "skillID": 101101,
+      "crossplayID": 101101,
       "name": "AttackBoostFrontLegendary",
       "generalID": 101,
       "skillGroupID": 101097,
@@ -3903,6 +4232,7 @@
     },
     {
       "skillID": 101102,
+      "crossplayID": 101102,
       "name": "AttackBoostFrontLegendary",
       "generalID": 101,
       "skillGroupID": 101097,
@@ -3915,6 +4245,7 @@
     },
     {
       "skillID": 101103,
+      "crossplayID": 101103,
       "name": "AttackBoostFrontLegendary",
       "generalID": 101,
       "skillGroupID": 101097,
@@ -3927,6 +4258,7 @@
     },
     {
       "skillID": 101104,
+      "crossplayID": 101104,
       "name": "AttackBoostFrontLegendary",
       "generalID": 101,
       "skillGroupID": 101097,
@@ -3939,6 +4271,7 @@
     },
     {
       "skillID": 101105,
+      "crossplayID": 101105,
       "name": "AttackBoostFrontLegendary",
       "generalID": 101,
       "skillGroupID": 101097,
@@ -3951,6 +4284,7 @@
     },
     {
       "skillID": 101106,
+      "crossplayID": 101106,
       "name": "AttackBoostFrontLegendary",
       "generalID": 101,
       "skillGroupID": 101097,
@@ -3963,6 +4297,7 @@
     },
     {
       "skillID": 101107,
+      "crossplayID": 101107,
       "name": "AttackBoostFrontLegendary",
       "generalID": 101,
       "skillGroupID": 101097,
@@ -3975,6 +4310,7 @@
     },
     {
       "skillID": 101108,
+      "crossplayID": 101108,
       "name": "AttackBoostFrontLegendary",
       "generalID": 101,
       "skillGroupID": 101097,
@@ -3987,6 +4323,7 @@
     },
     {
       "skillID": 101109,
+      "crossplayID": 101109,
       "name": "AttackBoostFrontLegendary",
       "generalID": 101,
       "skillGroupID": 101097,
@@ -3999,6 +4336,7 @@
     },
     {
       "skillID": 101110,
+      "crossplayID": 101110,
       "name": "AttackBoostFrontLegendary",
       "generalID": 101,
       "skillGroupID": 101097,
@@ -4011,6 +4349,7 @@
     },
     {
       "skillID": 101111,
+      "crossplayID": 101111,
       "name": "AttackBoostFrontLegendary",
       "generalID": 101,
       "skillGroupID": 101097,
@@ -4023,6 +4362,7 @@
     },
     {
       "skillID": 101112,
+      "crossplayID": 101112,
       "name": "AttackBoostFrontLegendary",
       "generalID": 101,
       "skillGroupID": 101097,
@@ -4035,6 +4375,7 @@
     },
     {
       "skillID": 101113,
+      "crossplayID": 101113,
       "name": "AttackBoostFrontLegendary",
       "generalID": 101,
       "skillGroupID": 101097,
@@ -4047,6 +4388,7 @@
     },
     {
       "skillID": 101114,
+      "crossplayID": 101114,
       "name": "AttackBoostFrontLegendary",
       "generalID": 101,
       "skillGroupID": 101097,
@@ -4059,6 +4401,7 @@
     },
     {
       "skillID": 101115,
+      "crossplayID": 101115,
       "name": "AttackBoostFrontLegendary",
       "generalID": 101,
       "skillGroupID": 101097,
@@ -4071,6 +4414,7 @@
     },
     {
       "skillID": 101116,
+      "crossplayID": 101116,
       "name": "AttackBoostFrontLegendary",
       "generalID": 101,
       "skillGroupID": 101097,
@@ -4083,6 +4427,7 @@
     },
     {
       "skillID": 101117,
+      "crossplayID": 101117,
       "name": "AttackBoostFrontLegendary",
       "generalID": 101,
       "skillGroupID": 101097,
@@ -4095,6 +4440,7 @@
     },
     {
       "skillID": 101118,
+      "crossplayID": 101118,
       "name": "AttackBoostFrontLegendary",
       "generalID": 101,
       "skillGroupID": 101097,
@@ -4107,6 +4453,7 @@
     },
     {
       "skillID": 101119,
+      "crossplayID": 101119,
       "name": "AttackBoostFrontLegendary",
       "generalID": 101,
       "skillGroupID": 101097,
@@ -4119,6 +4466,7 @@
     },
     {
       "skillID": 101120,
+      "crossplayID": 101120,
       "name": "AttackBoostFrontLegendary",
       "generalID": 101,
       "skillGroupID": 101097,
@@ -4130,6 +4478,7 @@
     },
     {
       "skillID": 101121,
+      "crossplayID": 101121,
       "name": "additionalWaves",
       "generalID": 101,
       "skillGroupID": 101121,
@@ -4141,6 +4490,7 @@
     },
     {
       "skillID": 104049,
+      "crossplayID": 104049,
       "name": "UnitAmountFlankEpic",
       "generalID": 104,
       "skillGroupID": 104049,
@@ -4153,6 +4503,7 @@
     },
     {
       "skillID": 104050,
+      "crossplayID": 104050,
       "name": "UnitAmountFlankEpic",
       "generalID": 104,
       "skillGroupID": 104049,
@@ -4165,6 +4516,7 @@
     },
     {
       "skillID": 104051,
+      "crossplayID": 104051,
       "name": "UnitAmountFlankEpic",
       "generalID": 104,
       "skillGroupID": 104049,
@@ -4177,6 +4529,7 @@
     },
     {
       "skillID": 104052,
+      "crossplayID": 104052,
       "name": "UnitAmountFlankEpic",
       "generalID": 104,
       "skillGroupID": 104049,
@@ -4189,6 +4542,7 @@
     },
     {
       "skillID": 104053,
+      "crossplayID": 104053,
       "name": "UnitAmountFlankEpic",
       "generalID": 104,
       "skillGroupID": 104049,
@@ -4201,6 +4555,7 @@
     },
     {
       "skillID": 104054,
+      "crossplayID": 104054,
       "name": "UnitAmountFlankEpic",
       "generalID": 104,
       "skillGroupID": 104049,
@@ -4213,6 +4568,7 @@
     },
     {
       "skillID": 104055,
+      "crossplayID": 104055,
       "name": "UnitAmountFlankEpic",
       "generalID": 104,
       "skillGroupID": 104049,
@@ -4225,6 +4581,7 @@
     },
     {
       "skillID": 104056,
+      "crossplayID": 104056,
       "name": "UnitAmountFlankEpic",
       "generalID": 104,
       "skillGroupID": 104049,
@@ -4237,6 +4594,7 @@
     },
     {
       "skillID": 104057,
+      "crossplayID": 104057,
       "name": "UnitAmountFlankEpic",
       "generalID": 104,
       "skillGroupID": 104049,
@@ -4249,6 +4607,7 @@
     },
     {
       "skillID": 104058,
+      "crossplayID": 104058,
       "name": "UnitAmountFlankEpic",
       "generalID": 104,
       "skillGroupID": 104049,
@@ -4261,6 +4620,7 @@
     },
     {
       "skillID": 104059,
+      "crossplayID": 104059,
       "name": "UnitAmountFlankEpic",
       "generalID": 104,
       "skillGroupID": 104049,
@@ -4273,6 +4633,7 @@
     },
     {
       "skillID": 104060,
+      "crossplayID": 104060,
       "name": "UnitAmountFlankEpic",
       "generalID": 104,
       "skillGroupID": 104049,
@@ -4284,6 +4645,7 @@
     },
     {
       "skillID": 104061,
+      "crossplayID": 104061,
       "name": "defenseBoostYardEpic",
       "generalID": 104,
       "skillGroupID": 104061,
@@ -4296,6 +4658,7 @@
     },
     {
       "skillID": 104062,
+      "crossplayID": 104062,
       "name": "defenseBoostYardEpic",
       "generalID": 104,
       "skillGroupID": 104061,
@@ -4308,6 +4671,7 @@
     },
     {
       "skillID": 104063,
+      "crossplayID": 104063,
       "name": "defenseBoostYardEpic",
       "generalID": 104,
       "skillGroupID": 104061,
@@ -4320,6 +4684,7 @@
     },
     {
       "skillID": 104064,
+      "crossplayID": 104064,
       "name": "defenseBoostYardEpic",
       "generalID": 104,
       "skillGroupID": 104061,
@@ -4332,6 +4697,7 @@
     },
     {
       "skillID": 104065,
+      "crossplayID": 104065,
       "name": "defenseBoostYardEpic",
       "generalID": 104,
       "skillGroupID": 104061,
@@ -4344,6 +4710,7 @@
     },
     {
       "skillID": 104066,
+      "crossplayID": 104066,
       "name": "defenseBoostYardEpic",
       "generalID": 104,
       "skillGroupID": 104061,
@@ -4356,6 +4723,7 @@
     },
     {
       "skillID": 104067,
+      "crossplayID": 104067,
       "name": "defenseBoostYardEpic",
       "generalID": 104,
       "skillGroupID": 104061,
@@ -4368,6 +4736,7 @@
     },
     {
       "skillID": 104068,
+      "crossplayID": 104068,
       "name": "defenseBoostYardEpic",
       "generalID": 104,
       "skillGroupID": 104061,
@@ -4380,6 +4749,7 @@
     },
     {
       "skillID": 104069,
+      "crossplayID": 104069,
       "name": "defenseBoostYardEpic",
       "generalID": 104,
       "skillGroupID": 104061,
@@ -4392,6 +4762,7 @@
     },
     {
       "skillID": 104070,
+      "crossplayID": 104070,
       "name": "defenseBoostYardEpic",
       "generalID": 104,
       "skillGroupID": 104061,
@@ -4404,6 +4775,7 @@
     },
     {
       "skillID": 104071,
+      "crossplayID": 104071,
       "name": "defenseBoostYardEpic",
       "generalID": 104,
       "skillGroupID": 104061,
@@ -4416,6 +4788,7 @@
     },
     {
       "skillID": 104072,
+      "crossplayID": 104072,
       "name": "defenseBoostYardEpic",
       "generalID": 104,
       "skillGroupID": 104061,
@@ -4427,6 +4800,7 @@
     },
     {
       "skillID": 104073,
+      "crossplayID": 104073,
       "name": "DefenseBoostFrontEpic",
       "generalID": 104,
       "skillGroupID": 104073,
@@ -4439,6 +4813,7 @@
     },
     {
       "skillID": 104074,
+      "crossplayID": 104074,
       "name": "DefenseBoostFrontEpic",
       "generalID": 104,
       "skillGroupID": 104073,
@@ -4451,6 +4826,7 @@
     },
     {
       "skillID": 104075,
+      "crossplayID": 104075,
       "name": "DefenseBoostFrontEpic",
       "generalID": 104,
       "skillGroupID": 104073,
@@ -4463,6 +4839,7 @@
     },
     {
       "skillID": 104076,
+      "crossplayID": 104076,
       "name": "DefenseBoostFrontEpic",
       "generalID": 104,
       "skillGroupID": 104073,
@@ -4475,6 +4852,7 @@
     },
     {
       "skillID": 104077,
+      "crossplayID": 104077,
       "name": "DefenseBoostFrontEpic",
       "generalID": 104,
       "skillGroupID": 104073,
@@ -4487,6 +4865,7 @@
     },
     {
       "skillID": 104078,
+      "crossplayID": 104078,
       "name": "DefenseBoostFrontEpic",
       "generalID": 104,
       "skillGroupID": 104073,
@@ -4499,6 +4878,7 @@
     },
     {
       "skillID": 104079,
+      "crossplayID": 104079,
       "name": "DefenseBoostFrontEpic",
       "generalID": 104,
       "skillGroupID": 104073,
@@ -4511,6 +4891,7 @@
     },
     {
       "skillID": 104080,
+      "crossplayID": 104080,
       "name": "DefenseBoostFrontEpic",
       "generalID": 104,
       "skillGroupID": 104073,
@@ -4523,6 +4904,7 @@
     },
     {
       "skillID": 104081,
+      "crossplayID": 104081,
       "name": "DefenseBoostFrontEpic",
       "generalID": 104,
       "skillGroupID": 104073,
@@ -4535,6 +4917,7 @@
     },
     {
       "skillID": 104082,
+      "crossplayID": 104082,
       "name": "DefenseBoostFrontEpic",
       "generalID": 104,
       "skillGroupID": 104073,
@@ -4547,6 +4930,7 @@
     },
     {
       "skillID": 104083,
+      "crossplayID": 104083,
       "name": "DefenseBoostFrontEpic",
       "generalID": 104,
       "skillGroupID": 104073,
@@ -4559,6 +4943,7 @@
     },
     {
       "skillID": 104084,
+      "crossplayID": 104084,
       "name": "DefenseBoostFrontEpic",
       "generalID": 104,
       "skillGroupID": 104073,
@@ -4571,6 +4956,7 @@
     },
     {
       "skillID": 104085,
+      "crossplayID": 104085,
       "name": "DefenseBoostFrontEpic",
       "generalID": 104,
       "skillGroupID": 104073,
@@ -4583,6 +4969,7 @@
     },
     {
       "skillID": 104086,
+      "crossplayID": 104086,
       "name": "DefenseBoostFrontEpic",
       "generalID": 104,
       "skillGroupID": 104073,
@@ -4595,6 +4982,7 @@
     },
     {
       "skillID": 104087,
+      "crossplayID": 104087,
       "name": "DefenseBoostFrontEpic",
       "generalID": 104,
       "skillGroupID": 104073,
@@ -4607,6 +4995,7 @@
     },
     {
       "skillID": 104088,
+      "crossplayID": 104088,
       "name": "DefenseBoostFrontEpic",
       "generalID": 104,
       "skillGroupID": 104073,
@@ -4619,6 +5008,7 @@
     },
     {
       "skillID": 104089,
+      "crossplayID": 104089,
       "name": "DefenseBoostFrontEpic",
       "generalID": 104,
       "skillGroupID": 104073,
@@ -4631,6 +5021,7 @@
     },
     {
       "skillID": 104090,
+      "crossplayID": 104090,
       "name": "DefenseBoostFrontEpic",
       "generalID": 104,
       "skillGroupID": 104073,
@@ -4643,6 +5034,7 @@
     },
     {
       "skillID": 104091,
+      "crossplayID": 104091,
       "name": "DefenseBoostFrontEpic",
       "generalID": 104,
       "skillGroupID": 104073,
@@ -4655,6 +5047,7 @@
     },
     {
       "skillID": 104092,
+      "crossplayID": 104092,
       "name": "DefenseBoostFrontEpic",
       "generalID": 104,
       "skillGroupID": 104073,
@@ -4667,6 +5060,7 @@
     },
     {
       "skillID": 104093,
+      "crossplayID": 104093,
       "name": "DefenseBoostFrontEpic",
       "generalID": 104,
       "skillGroupID": 104073,
@@ -4679,6 +5073,7 @@
     },
     {
       "skillID": 104094,
+      "crossplayID": 104094,
       "name": "DefenseBoostFrontEpic",
       "generalID": 104,
       "skillGroupID": 104073,
@@ -4691,6 +5086,7 @@
     },
     {
       "skillID": 104095,
+      "crossplayID": 104095,
       "name": "DefenseBoostFrontEpic",
       "generalID": 104,
       "skillGroupID": 104073,
@@ -4703,6 +5099,7 @@
     },
     {
       "skillID": 104096,
+      "crossplayID": 104096,
       "name": "DefenseBoostFrontEpic",
       "generalID": 104,
       "skillGroupID": 104073,
@@ -4714,6 +5111,7 @@
     },
     {
       "skillID": 104097,
+      "crossplayID": 104097,
       "name": "DefenseBoostFlankEpic",
       "generalID": 104,
       "skillGroupID": 104097,
@@ -4726,6 +5124,7 @@
     },
     {
       "skillID": 104098,
+      "crossplayID": 104098,
       "name": "DefenseBoostFlankEpic",
       "generalID": 104,
       "skillGroupID": 104097,
@@ -4738,6 +5137,7 @@
     },
     {
       "skillID": 104099,
+      "crossplayID": 104099,
       "name": "DefenseBoostFlankEpic",
       "generalID": 104,
       "skillGroupID": 104097,
@@ -4750,6 +5150,7 @@
     },
     {
       "skillID": 104100,
+      "crossplayID": 104100,
       "name": "DefenseBoostFlankEpic",
       "generalID": 104,
       "skillGroupID": 104097,
@@ -4762,6 +5163,7 @@
     },
     {
       "skillID": 104101,
+      "crossplayID": 104101,
       "name": "DefenseBoostFlankEpic",
       "generalID": 104,
       "skillGroupID": 104097,
@@ -4774,6 +5176,7 @@
     },
     {
       "skillID": 104102,
+      "crossplayID": 104102,
       "name": "DefenseBoostFlankEpic",
       "generalID": 104,
       "skillGroupID": 104097,
@@ -4786,6 +5189,7 @@
     },
     {
       "skillID": 104103,
+      "crossplayID": 104103,
       "name": "DefenseBoostFlankEpic",
       "generalID": 104,
       "skillGroupID": 104097,
@@ -4798,6 +5202,7 @@
     },
     {
       "skillID": 104104,
+      "crossplayID": 104104,
       "name": "DefenseBoostFlankEpic",
       "generalID": 104,
       "skillGroupID": 104097,
@@ -4810,6 +5215,7 @@
     },
     {
       "skillID": 104105,
+      "crossplayID": 104105,
       "name": "DefenseBoostFlankEpic",
       "generalID": 104,
       "skillGroupID": 104097,
@@ -4822,6 +5228,7 @@
     },
     {
       "skillID": 104106,
+      "crossplayID": 104106,
       "name": "DefenseBoostFlankEpic",
       "generalID": 104,
       "skillGroupID": 104097,
@@ -4834,6 +5241,7 @@
     },
     {
       "skillID": 104107,
+      "crossplayID": 104107,
       "name": "DefenseBoostFlankEpic",
       "generalID": 104,
       "skillGroupID": 104097,
@@ -4846,6 +5254,7 @@
     },
     {
       "skillID": 104108,
+      "crossplayID": 104108,
       "name": "DefenseBoostFlankEpic",
       "generalID": 104,
       "skillGroupID": 104097,
@@ -4858,6 +5267,7 @@
     },
     {
       "skillID": 104109,
+      "crossplayID": 104109,
       "name": "DefenseBoostFlankEpic",
       "generalID": 104,
       "skillGroupID": 104097,
@@ -4870,6 +5280,7 @@
     },
     {
       "skillID": 104110,
+      "crossplayID": 104110,
       "name": "DefenseBoostFlankEpic",
       "generalID": 104,
       "skillGroupID": 104097,
@@ -4882,6 +5293,7 @@
     },
     {
       "skillID": 104111,
+      "crossplayID": 104111,
       "name": "DefenseBoostFlankEpic",
       "generalID": 104,
       "skillGroupID": 104097,
@@ -4894,6 +5306,7 @@
     },
     {
       "skillID": 104112,
+      "crossplayID": 104112,
       "name": "DefenseBoostFlankEpic",
       "generalID": 104,
       "skillGroupID": 104097,
@@ -4906,6 +5319,7 @@
     },
     {
       "skillID": 104113,
+      "crossplayID": 104113,
       "name": "DefenseBoostFlankEpic",
       "generalID": 104,
       "skillGroupID": 104097,
@@ -4918,6 +5332,7 @@
     },
     {
       "skillID": 104114,
+      "crossplayID": 104114,
       "name": "DefenseBoostFlankEpic",
       "generalID": 104,
       "skillGroupID": 104097,
@@ -4930,6 +5345,7 @@
     },
     {
       "skillID": 104115,
+      "crossplayID": 104115,
       "name": "DefenseBoostFlankEpic",
       "generalID": 104,
       "skillGroupID": 104097,
@@ -4942,6 +5358,7 @@
     },
     {
       "skillID": 104116,
+      "crossplayID": 104116,
       "name": "DefenseBoostFlankEpic",
       "generalID": 104,
       "skillGroupID": 104097,
@@ -4954,6 +5371,7 @@
     },
     {
       "skillID": 104117,
+      "crossplayID": 104117,
       "name": "DefenseBoostFlankEpic",
       "generalID": 104,
       "skillGroupID": 104097,
@@ -4966,6 +5384,7 @@
     },
     {
       "skillID": 104118,
+      "crossplayID": 104118,
       "name": "DefenseBoostFlankEpic",
       "generalID": 104,
       "skillGroupID": 104097,
@@ -4978,6 +5397,7 @@
     },
     {
       "skillID": 104119,
+      "crossplayID": 104119,
       "name": "DefenseBoostFlankEpic",
       "generalID": 104,
       "skillGroupID": 104097,
@@ -4990,6 +5410,7 @@
     },
     {
       "skillID": 104120,
+      "crossplayID": 104120,
       "name": "DefenseBoostFlankEpic",
       "generalID": 104,
       "skillGroupID": 104097,
@@ -5001,6 +5422,7 @@
     },
     {
       "skillID": 104121,
+      "crossplayID": 104121,
       "name": "additionalWaves",
       "generalID": 104,
       "skillGroupID": 104121,
@@ -5012,6 +5434,7 @@
     },
     {
       "skillID": 102049,
+      "crossplayID": 102049,
       "name": "defenseBoostYardRare",
       "generalID": 102,
       "skillGroupID": 102049,
@@ -5024,6 +5447,7 @@
     },
     {
       "skillID": 102050,
+      "crossplayID": 102050,
       "name": "defenseBoostYardRare",
       "generalID": 102,
       "skillGroupID": 102049,
@@ -5036,6 +5460,7 @@
     },
     {
       "skillID": 102051,
+      "crossplayID": 102051,
       "name": "defenseBoostYardRare",
       "generalID": 102,
       "skillGroupID": 102049,
@@ -5048,6 +5473,7 @@
     },
     {
       "skillID": 102052,
+      "crossplayID": 102052,
       "name": "defenseBoostYardRare",
       "generalID": 102,
       "skillGroupID": 102049,
@@ -5060,6 +5486,7 @@
     },
     {
       "skillID": 102053,
+      "crossplayID": 102053,
       "name": "defenseBoostYardRare",
       "generalID": 102,
       "skillGroupID": 102049,
@@ -5072,6 +5499,7 @@
     },
     {
       "skillID": 102054,
+      "crossplayID": 102054,
       "name": "defenseBoostYardRare",
       "generalID": 102,
       "skillGroupID": 102049,
@@ -5084,6 +5512,7 @@
     },
     {
       "skillID": 102055,
+      "crossplayID": 102055,
       "name": "defenseBoostYardRare",
       "generalID": 102,
       "skillGroupID": 102049,
@@ -5096,6 +5525,7 @@
     },
     {
       "skillID": 102056,
+      "crossplayID": 102056,
       "name": "defenseBoostYardRare",
       "generalID": 102,
       "skillGroupID": 102049,
@@ -5108,6 +5538,7 @@
     },
     {
       "skillID": 102057,
+      "crossplayID": 102057,
       "name": "defenseBoostYardRare",
       "generalID": 102,
       "skillGroupID": 102049,
@@ -5120,6 +5551,7 @@
     },
     {
       "skillID": 102058,
+      "crossplayID": 102058,
       "name": "defenseBoostYardRare",
       "generalID": 102,
       "skillGroupID": 102049,
@@ -5132,6 +5564,7 @@
     },
     {
       "skillID": 102059,
+      "crossplayID": 102059,
       "name": "defenseBoostYardRare",
       "generalID": 102,
       "skillGroupID": 102049,
@@ -5144,6 +5577,7 @@
     },
     {
       "skillID": 102060,
+      "crossplayID": 102060,
       "name": "defenseBoostYardRare",
       "generalID": 102,
       "skillGroupID": 102049,
@@ -5155,6 +5589,7 @@
     },
     {
       "skillID": 102061,
+      "crossplayID": 102061,
       "name": "UnitAmountFrontRare",
       "generalID": 102,
       "skillGroupID": 102061,
@@ -5167,6 +5602,7 @@
     },
     {
       "skillID": 102062,
+      "crossplayID": 102062,
       "name": "UnitAmountFrontRare",
       "generalID": 102,
       "skillGroupID": 102061,
@@ -5179,6 +5615,7 @@
     },
     {
       "skillID": 102063,
+      "crossplayID": 102063,
       "name": "UnitAmountFrontRare",
       "generalID": 102,
       "skillGroupID": 102061,
@@ -5191,6 +5628,7 @@
     },
     {
       "skillID": 102064,
+      "crossplayID": 102064,
       "name": "UnitAmountFrontRare",
       "generalID": 102,
       "skillGroupID": 102061,
@@ -5203,6 +5641,7 @@
     },
     {
       "skillID": 102065,
+      "crossplayID": 102065,
       "name": "UnitAmountFrontRare",
       "generalID": 102,
       "skillGroupID": 102061,
@@ -5215,6 +5654,7 @@
     },
     {
       "skillID": 102066,
+      "crossplayID": 102066,
       "name": "UnitAmountFrontRare",
       "generalID": 102,
       "skillGroupID": 102061,
@@ -5227,6 +5667,7 @@
     },
     {
       "skillID": 102067,
+      "crossplayID": 102067,
       "name": "UnitAmountFrontRare",
       "generalID": 102,
       "skillGroupID": 102061,
@@ -5239,6 +5680,7 @@
     },
     {
       "skillID": 102068,
+      "crossplayID": 102068,
       "name": "UnitAmountFrontRare",
       "generalID": 102,
       "skillGroupID": 102061,
@@ -5251,6 +5693,7 @@
     },
     {
       "skillID": 102069,
+      "crossplayID": 102069,
       "name": "UnitAmountFrontRare",
       "generalID": 102,
       "skillGroupID": 102061,
@@ -5263,6 +5706,7 @@
     },
     {
       "skillID": 102070,
+      "crossplayID": 102070,
       "name": "UnitAmountFrontRare",
       "generalID": 102,
       "skillGroupID": 102061,
@@ -5275,6 +5719,7 @@
     },
     {
       "skillID": 102071,
+      "crossplayID": 102071,
       "name": "UnitAmountFrontRare",
       "generalID": 102,
       "skillGroupID": 102061,
@@ -5287,6 +5732,7 @@
     },
     {
       "skillID": 102072,
+      "crossplayID": 102072,
       "name": "UnitAmountFrontRare",
       "generalID": 102,
       "skillGroupID": 102061,
@@ -5298,6 +5744,7 @@
     },
     {
       "skillID": 102073,
+      "crossplayID": 102073,
       "name": "AttackBoostFrontRare",
       "generalID": 102,
       "skillGroupID": 102073,
@@ -5310,6 +5757,7 @@
     },
     {
       "skillID": 102074,
+      "crossplayID": 102074,
       "name": "AttackBoostFrontRare",
       "generalID": 102,
       "skillGroupID": 102073,
@@ -5322,6 +5770,7 @@
     },
     {
       "skillID": 102075,
+      "crossplayID": 102075,
       "name": "AttackBoostFrontRare",
       "generalID": 102,
       "skillGroupID": 102073,
@@ -5334,6 +5783,7 @@
     },
     {
       "skillID": 102076,
+      "crossplayID": 102076,
       "name": "AttackBoostFrontRare",
       "generalID": 102,
       "skillGroupID": 102073,
@@ -5346,6 +5796,7 @@
     },
     {
       "skillID": 102077,
+      "crossplayID": 102077,
       "name": "AttackBoostFrontRare",
       "generalID": 102,
       "skillGroupID": 102073,
@@ -5358,6 +5809,7 @@
     },
     {
       "skillID": 102078,
+      "crossplayID": 102078,
       "name": "AttackBoostFrontRare",
       "generalID": 102,
       "skillGroupID": 102073,
@@ -5370,6 +5822,7 @@
     },
     {
       "skillID": 102079,
+      "crossplayID": 102079,
       "name": "AttackBoostFrontRare",
       "generalID": 102,
       "skillGroupID": 102073,
@@ -5382,6 +5835,7 @@
     },
     {
       "skillID": 102080,
+      "crossplayID": 102080,
       "name": "AttackBoostFrontRare",
       "generalID": 102,
       "skillGroupID": 102073,
@@ -5394,6 +5848,7 @@
     },
     {
       "skillID": 102081,
+      "crossplayID": 102081,
       "name": "AttackBoostFrontRare",
       "generalID": 102,
       "skillGroupID": 102073,
@@ -5406,6 +5861,7 @@
     },
     {
       "skillID": 102082,
+      "crossplayID": 102082,
       "name": "AttackBoostFrontRare",
       "generalID": 102,
       "skillGroupID": 102073,
@@ -5418,6 +5874,7 @@
     },
     {
       "skillID": 102083,
+      "crossplayID": 102083,
       "name": "AttackBoostFrontRare",
       "generalID": 102,
       "skillGroupID": 102073,
@@ -5430,6 +5887,7 @@
     },
     {
       "skillID": 102084,
+      "crossplayID": 102084,
       "name": "AttackBoostFrontRare",
       "generalID": 102,
       "skillGroupID": 102073,
@@ -5442,6 +5900,7 @@
     },
     {
       "skillID": 102085,
+      "crossplayID": 102085,
       "name": "AttackBoostFrontRare",
       "generalID": 102,
       "skillGroupID": 102073,
@@ -5454,6 +5913,7 @@
     },
     {
       "skillID": 102086,
+      "crossplayID": 102086,
       "name": "AttackBoostFrontRare",
       "generalID": 102,
       "skillGroupID": 102073,
@@ -5466,6 +5926,7 @@
     },
     {
       "skillID": 102087,
+      "crossplayID": 102087,
       "name": "AttackBoostFrontRare",
       "generalID": 102,
       "skillGroupID": 102073,
@@ -5478,6 +5939,7 @@
     },
     {
       "skillID": 102088,
+      "crossplayID": 102088,
       "name": "AttackBoostFrontRare",
       "generalID": 102,
       "skillGroupID": 102073,
@@ -5490,6 +5952,7 @@
     },
     {
       "skillID": 102089,
+      "crossplayID": 102089,
       "name": "AttackBoostFrontRare",
       "generalID": 102,
       "skillGroupID": 102073,
@@ -5502,6 +5965,7 @@
     },
     {
       "skillID": 102090,
+      "crossplayID": 102090,
       "name": "AttackBoostFrontRare",
       "generalID": 102,
       "skillGroupID": 102073,
@@ -5514,6 +5978,7 @@
     },
     {
       "skillID": 102091,
+      "crossplayID": 102091,
       "name": "AttackBoostFrontRare",
       "generalID": 102,
       "skillGroupID": 102073,
@@ -5526,6 +5991,7 @@
     },
     {
       "skillID": 102092,
+      "crossplayID": 102092,
       "name": "AttackBoostFrontRare",
       "generalID": 102,
       "skillGroupID": 102073,
@@ -5538,6 +6004,7 @@
     },
     {
       "skillID": 102093,
+      "crossplayID": 102093,
       "name": "AttackBoostFrontRare",
       "generalID": 102,
       "skillGroupID": 102073,
@@ -5550,6 +6017,7 @@
     },
     {
       "skillID": 102094,
+      "crossplayID": 102094,
       "name": "AttackBoostFrontRare",
       "generalID": 102,
       "skillGroupID": 102073,
@@ -5562,6 +6030,7 @@
     },
     {
       "skillID": 102095,
+      "crossplayID": 102095,
       "name": "AttackBoostFrontRare",
       "generalID": 102,
       "skillGroupID": 102073,
@@ -5574,6 +6043,7 @@
     },
     {
       "skillID": 102096,
+      "crossplayID": 102096,
       "name": "AttackBoostFrontRare",
       "generalID": 102,
       "skillGroupID": 102073,
@@ -5585,6 +6055,7 @@
     },
     {
       "skillID": 102097,
+      "crossplayID": 102097,
       "name": "AttackBoostFlankRare",
       "generalID": 102,
       "skillGroupID": 102097,
@@ -5597,6 +6068,7 @@
     },
     {
       "skillID": 102098,
+      "crossplayID": 102098,
       "name": "AttackBoostFlankRare",
       "generalID": 102,
       "skillGroupID": 102097,
@@ -5609,6 +6081,7 @@
     },
     {
       "skillID": 102099,
+      "crossplayID": 102099,
       "name": "AttackBoostFlankRare",
       "generalID": 102,
       "skillGroupID": 102097,
@@ -5621,6 +6094,7 @@
     },
     {
       "skillID": 102100,
+      "crossplayID": 102100,
       "name": "AttackBoostFlankRare",
       "generalID": 102,
       "skillGroupID": 102097,
@@ -5633,6 +6107,7 @@
     },
     {
       "skillID": 102101,
+      "crossplayID": 102101,
       "name": "AttackBoostFlankRare",
       "generalID": 102,
       "skillGroupID": 102097,
@@ -5645,6 +6120,7 @@
     },
     {
       "skillID": 102102,
+      "crossplayID": 102102,
       "name": "AttackBoostFlankRare",
       "generalID": 102,
       "skillGroupID": 102097,
@@ -5657,6 +6133,7 @@
     },
     {
       "skillID": 102103,
+      "crossplayID": 102103,
       "name": "AttackBoostFlankRare",
       "generalID": 102,
       "skillGroupID": 102097,
@@ -5669,6 +6146,7 @@
     },
     {
       "skillID": 102104,
+      "crossplayID": 102104,
       "name": "AttackBoostFlankRare",
       "generalID": 102,
       "skillGroupID": 102097,
@@ -5681,6 +6159,7 @@
     },
     {
       "skillID": 102105,
+      "crossplayID": 102105,
       "name": "AttackBoostFlankRare",
       "generalID": 102,
       "skillGroupID": 102097,
@@ -5693,6 +6172,7 @@
     },
     {
       "skillID": 102106,
+      "crossplayID": 102106,
       "name": "AttackBoostFlankRare",
       "generalID": 102,
       "skillGroupID": 102097,
@@ -5705,6 +6185,7 @@
     },
     {
       "skillID": 102107,
+      "crossplayID": 102107,
       "name": "AttackBoostFlankRare",
       "generalID": 102,
       "skillGroupID": 102097,
@@ -5717,6 +6198,7 @@
     },
     {
       "skillID": 102108,
+      "crossplayID": 102108,
       "name": "AttackBoostFlankRare",
       "generalID": 102,
       "skillGroupID": 102097,
@@ -5729,6 +6211,7 @@
     },
     {
       "skillID": 102109,
+      "crossplayID": 102109,
       "name": "AttackBoostFlankRare",
       "generalID": 102,
       "skillGroupID": 102097,
@@ -5741,6 +6224,7 @@
     },
     {
       "skillID": 102110,
+      "crossplayID": 102110,
       "name": "AttackBoostFlankRare",
       "generalID": 102,
       "skillGroupID": 102097,
@@ -5753,6 +6237,7 @@
     },
     {
       "skillID": 102111,
+      "crossplayID": 102111,
       "name": "AttackBoostFlankRare",
       "generalID": 102,
       "skillGroupID": 102097,
@@ -5765,6 +6250,7 @@
     },
     {
       "skillID": 102112,
+      "crossplayID": 102112,
       "name": "AttackBoostFlankRare",
       "generalID": 102,
       "skillGroupID": 102097,
@@ -5777,6 +6263,7 @@
     },
     {
       "skillID": 102113,
+      "crossplayID": 102113,
       "name": "AttackBoostFlankRare",
       "generalID": 102,
       "skillGroupID": 102097,
@@ -5789,6 +6276,7 @@
     },
     {
       "skillID": 102114,
+      "crossplayID": 102114,
       "name": "AttackBoostFlankRare",
       "generalID": 102,
       "skillGroupID": 102097,
@@ -5801,6 +6289,7 @@
     },
     {
       "skillID": 102115,
+      "crossplayID": 102115,
       "name": "AttackBoostFlankRare",
       "generalID": 102,
       "skillGroupID": 102097,
@@ -5813,6 +6302,7 @@
     },
     {
       "skillID": 102116,
+      "crossplayID": 102116,
       "name": "AttackBoostFlankRare",
       "generalID": 102,
       "skillGroupID": 102097,
@@ -5825,6 +6315,7 @@
     },
     {
       "skillID": 102117,
+      "crossplayID": 102117,
       "name": "AttackBoostFlankRare",
       "generalID": 102,
       "skillGroupID": 102097,
@@ -5837,6 +6328,7 @@
     },
     {
       "skillID": 102118,
+      "crossplayID": 102118,
       "name": "AttackBoostFlankRare",
       "generalID": 102,
       "skillGroupID": 102097,
@@ -5849,6 +6341,7 @@
     },
     {
       "skillID": 102119,
+      "crossplayID": 102119,
       "name": "AttackBoostFlankRare",
       "generalID": 102,
       "skillGroupID": 102097,
@@ -5861,6 +6354,7 @@
     },
     {
       "skillID": 102120,
+      "crossplayID": 102120,
       "name": "AttackBoostFlankRare",
       "generalID": 102,
       "skillGroupID": 102097,
@@ -5872,6 +6366,7 @@
     },
     {
       "skillID": 102121,
+      "crossplayID": 102121,
       "name": "additionalWaves",
       "generalID": 102,
       "skillGroupID": 102121,
@@ -5883,6 +6378,7 @@
     },
     {
       "skillID": 103049,
+      "crossplayID": 103049,
       "name": "BonusPowerYardRare",
       "generalID": 103,
       "skillGroupID": 103049,
@@ -5895,6 +6391,7 @@
     },
     {
       "skillID": 103050,
+      "crossplayID": 103050,
       "name": "BonusPowerYardRare",
       "generalID": 103,
       "skillGroupID": 103049,
@@ -5907,6 +6404,7 @@
     },
     {
       "skillID": 103051,
+      "crossplayID": 103051,
       "name": "BonusPowerYardRare",
       "generalID": 103,
       "skillGroupID": 103049,
@@ -5919,6 +6417,7 @@
     },
     {
       "skillID": 103052,
+      "crossplayID": 103052,
       "name": "BonusPowerYardRare",
       "generalID": 103,
       "skillGroupID": 103049,
@@ -5931,6 +6430,7 @@
     },
     {
       "skillID": 103053,
+      "crossplayID": 103053,
       "name": "BonusPowerYardRare",
       "generalID": 103,
       "skillGroupID": 103049,
@@ -5943,6 +6443,7 @@
     },
     {
       "skillID": 103054,
+      "crossplayID": 103054,
       "name": "BonusPowerYardRare",
       "generalID": 103,
       "skillGroupID": 103049,
@@ -5955,6 +6456,7 @@
     },
     {
       "skillID": 103055,
+      "crossplayID": 103055,
       "name": "BonusPowerYardRare",
       "generalID": 103,
       "skillGroupID": 103049,
@@ -5967,6 +6469,7 @@
     },
     {
       "skillID": 103056,
+      "crossplayID": 103056,
       "name": "BonusPowerYardRare",
       "generalID": 103,
       "skillGroupID": 103049,
@@ -5979,6 +6482,7 @@
     },
     {
       "skillID": 103057,
+      "crossplayID": 103057,
       "name": "BonusPowerYardRare",
       "generalID": 103,
       "skillGroupID": 103049,
@@ -5991,6 +6495,7 @@
     },
     {
       "skillID": 103058,
+      "crossplayID": 103058,
       "name": "BonusPowerYardRare",
       "generalID": 103,
       "skillGroupID": 103049,
@@ -6003,6 +6508,7 @@
     },
     {
       "skillID": 103059,
+      "crossplayID": 103059,
       "name": "BonusPowerYardRare",
       "generalID": 103,
       "skillGroupID": 103049,
@@ -6015,6 +6521,7 @@
     },
     {
       "skillID": 103060,
+      "crossplayID": 103060,
       "name": "BonusPowerYardRare",
       "generalID": 103,
       "skillGroupID": 103049,
@@ -6026,6 +6533,7 @@
     },
     {
       "skillID": 103061,
+      "crossplayID": 103061,
       "name": "UnitAmountFrontRare",
       "generalID": 103,
       "skillGroupID": 103061,
@@ -6038,6 +6546,7 @@
     },
     {
       "skillID": 103062,
+      "crossplayID": 103062,
       "name": "UnitAmountFrontRare",
       "generalID": 103,
       "skillGroupID": 103061,
@@ -6050,6 +6559,7 @@
     },
     {
       "skillID": 103063,
+      "crossplayID": 103063,
       "name": "UnitAmountFrontRare",
       "generalID": 103,
       "skillGroupID": 103061,
@@ -6062,6 +6572,7 @@
     },
     {
       "skillID": 103064,
+      "crossplayID": 103064,
       "name": "UnitAmountFrontRare",
       "generalID": 103,
       "skillGroupID": 103061,
@@ -6074,6 +6585,7 @@
     },
     {
       "skillID": 103065,
+      "crossplayID": 103065,
       "name": "UnitAmountFrontRare",
       "generalID": 103,
       "skillGroupID": 103061,
@@ -6086,6 +6598,7 @@
     },
     {
       "skillID": 103066,
+      "crossplayID": 103066,
       "name": "UnitAmountFrontRare",
       "generalID": 103,
       "skillGroupID": 103061,
@@ -6098,6 +6611,7 @@
     },
     {
       "skillID": 103067,
+      "crossplayID": 103067,
       "name": "UnitAmountFrontRare",
       "generalID": 103,
       "skillGroupID": 103061,
@@ -6110,6 +6624,7 @@
     },
     {
       "skillID": 103068,
+      "crossplayID": 103068,
       "name": "UnitAmountFrontRare",
       "generalID": 103,
       "skillGroupID": 103061,
@@ -6122,6 +6637,7 @@
     },
     {
       "skillID": 103069,
+      "crossplayID": 103069,
       "name": "UnitAmountFrontRare",
       "generalID": 103,
       "skillGroupID": 103061,
@@ -6134,6 +6650,7 @@
     },
     {
       "skillID": 103070,
+      "crossplayID": 103070,
       "name": "UnitAmountFrontRare",
       "generalID": 103,
       "skillGroupID": 103061,
@@ -6146,6 +6663,7 @@
     },
     {
       "skillID": 103071,
+      "crossplayID": 103071,
       "name": "UnitAmountFrontRare",
       "generalID": 103,
       "skillGroupID": 103061,
@@ -6158,6 +6676,7 @@
     },
     {
       "skillID": 103072,
+      "crossplayID": 103072,
       "name": "UnitAmountFrontRare",
       "generalID": 103,
       "skillGroupID": 103061,
@@ -6169,6 +6688,7 @@
     },
     {
       "skillID": 103073,
+      "crossplayID": 103073,
       "name": "AttackBoostFrontRare",
       "generalID": 103,
       "skillGroupID": 103073,
@@ -6181,6 +6701,7 @@
     },
     {
       "skillID": 103074,
+      "crossplayID": 103074,
       "name": "AttackBoostFrontRare",
       "generalID": 103,
       "skillGroupID": 103073,
@@ -6193,6 +6714,7 @@
     },
     {
       "skillID": 103075,
+      "crossplayID": 103075,
       "name": "AttackBoostFrontRare",
       "generalID": 103,
       "skillGroupID": 103073,
@@ -6205,6 +6727,7 @@
     },
     {
       "skillID": 103076,
+      "crossplayID": 103076,
       "name": "AttackBoostFrontRare",
       "generalID": 103,
       "skillGroupID": 103073,
@@ -6217,6 +6740,7 @@
     },
     {
       "skillID": 103077,
+      "crossplayID": 103077,
       "name": "AttackBoostFrontRare",
       "generalID": 103,
       "skillGroupID": 103073,
@@ -6229,6 +6753,7 @@
     },
     {
       "skillID": 103078,
+      "crossplayID": 103078,
       "name": "AttackBoostFrontRare",
       "generalID": 103,
       "skillGroupID": 103073,
@@ -6241,6 +6766,7 @@
     },
     {
       "skillID": 103079,
+      "crossplayID": 103079,
       "name": "AttackBoostFrontRare",
       "generalID": 103,
       "skillGroupID": 103073,
@@ -6253,6 +6779,7 @@
     },
     {
       "skillID": 103080,
+      "crossplayID": 103080,
       "name": "AttackBoostFrontRare",
       "generalID": 103,
       "skillGroupID": 103073,
@@ -6265,6 +6792,7 @@
     },
     {
       "skillID": 103081,
+      "crossplayID": 103081,
       "name": "AttackBoostFrontRare",
       "generalID": 103,
       "skillGroupID": 103073,
@@ -6277,6 +6805,7 @@
     },
     {
       "skillID": 103082,
+      "crossplayID": 103082,
       "name": "AttackBoostFrontRare",
       "generalID": 103,
       "skillGroupID": 103073,
@@ -6289,6 +6818,7 @@
     },
     {
       "skillID": 103083,
+      "crossplayID": 103083,
       "name": "AttackBoostFrontRare",
       "generalID": 103,
       "skillGroupID": 103073,
@@ -6301,6 +6831,7 @@
     },
     {
       "skillID": 103084,
+      "crossplayID": 103084,
       "name": "AttackBoostFrontRare",
       "generalID": 103,
       "skillGroupID": 103073,
@@ -6313,6 +6844,7 @@
     },
     {
       "skillID": 103085,
+      "crossplayID": 103085,
       "name": "AttackBoostFrontRare",
       "generalID": 103,
       "skillGroupID": 103073,
@@ -6325,6 +6857,7 @@
     },
     {
       "skillID": 103086,
+      "crossplayID": 103086,
       "name": "AttackBoostFrontRare",
       "generalID": 103,
       "skillGroupID": 103073,
@@ -6337,6 +6870,7 @@
     },
     {
       "skillID": 103087,
+      "crossplayID": 103087,
       "name": "AttackBoostFrontRare",
       "generalID": 103,
       "skillGroupID": 103073,
@@ -6349,6 +6883,7 @@
     },
     {
       "skillID": 103088,
+      "crossplayID": 103088,
       "name": "AttackBoostFrontRare",
       "generalID": 103,
       "skillGroupID": 103073,
@@ -6361,6 +6896,7 @@
     },
     {
       "skillID": 103089,
+      "crossplayID": 103089,
       "name": "AttackBoostFrontRare",
       "generalID": 103,
       "skillGroupID": 103073,
@@ -6373,6 +6909,7 @@
     },
     {
       "skillID": 103090,
+      "crossplayID": 103090,
       "name": "AttackBoostFrontRare",
       "generalID": 103,
       "skillGroupID": 103073,
@@ -6385,6 +6922,7 @@
     },
     {
       "skillID": 103091,
+      "crossplayID": 103091,
       "name": "AttackBoostFrontRare",
       "generalID": 103,
       "skillGroupID": 103073,
@@ -6397,6 +6935,7 @@
     },
     {
       "skillID": 103092,
+      "crossplayID": 103092,
       "name": "AttackBoostFrontRare",
       "generalID": 103,
       "skillGroupID": 103073,
@@ -6409,6 +6948,7 @@
     },
     {
       "skillID": 103093,
+      "crossplayID": 103093,
       "name": "AttackBoostFrontRare",
       "generalID": 103,
       "skillGroupID": 103073,
@@ -6421,6 +6961,7 @@
     },
     {
       "skillID": 103094,
+      "crossplayID": 103094,
       "name": "AttackBoostFrontRare",
       "generalID": 103,
       "skillGroupID": 103073,
@@ -6433,6 +6974,7 @@
     },
     {
       "skillID": 103095,
+      "crossplayID": 103095,
       "name": "AttackBoostFrontRare",
       "generalID": 103,
       "skillGroupID": 103073,
@@ -6445,6 +6987,7 @@
     },
     {
       "skillID": 103096,
+      "crossplayID": 103096,
       "name": "AttackBoostFrontRare",
       "generalID": 103,
       "skillGroupID": 103073,
@@ -6456,6 +6999,7 @@
     },
     {
       "skillID": 103097,
+      "crossplayID": 103097,
       "name": "AttackBoostFlankRare",
       "generalID": 103,
       "skillGroupID": 103097,
@@ -6468,6 +7012,7 @@
     },
     {
       "skillID": 103098,
+      "crossplayID": 103098,
       "name": "AttackBoostFlankRare",
       "generalID": 103,
       "skillGroupID": 103097,
@@ -6480,6 +7025,7 @@
     },
     {
       "skillID": 103099,
+      "crossplayID": 103099,
       "name": "AttackBoostFlankRare",
       "generalID": 103,
       "skillGroupID": 103097,
@@ -6492,6 +7038,7 @@
     },
     {
       "skillID": 103100,
+      "crossplayID": 103100,
       "name": "AttackBoostFlankRare",
       "generalID": 103,
       "skillGroupID": 103097,
@@ -6504,6 +7051,7 @@
     },
     {
       "skillID": 103101,
+      "crossplayID": 103101,
       "name": "AttackBoostFlankRare",
       "generalID": 103,
       "skillGroupID": 103097,
@@ -6516,6 +7064,7 @@
     },
     {
       "skillID": 103102,
+      "crossplayID": 103102,
       "name": "AttackBoostFlankRare",
       "generalID": 103,
       "skillGroupID": 103097,
@@ -6528,6 +7077,7 @@
     },
     {
       "skillID": 103103,
+      "crossplayID": 103103,
       "name": "AttackBoostFlankRare",
       "generalID": 103,
       "skillGroupID": 103097,
@@ -6540,6 +7090,7 @@
     },
     {
       "skillID": 103104,
+      "crossplayID": 103104,
       "name": "AttackBoostFlankRare",
       "generalID": 103,
       "skillGroupID": 103097,
@@ -6552,6 +7103,7 @@
     },
     {
       "skillID": 103105,
+      "crossplayID": 103105,
       "name": "AttackBoostFlankRare",
       "generalID": 103,
       "skillGroupID": 103097,
@@ -6564,6 +7116,7 @@
     },
     {
       "skillID": 103106,
+      "crossplayID": 103106,
       "name": "AttackBoostFlankRare",
       "generalID": 103,
       "skillGroupID": 103097,
@@ -6576,6 +7129,7 @@
     },
     {
       "skillID": 103107,
+      "crossplayID": 103107,
       "name": "AttackBoostFlankRare",
       "generalID": 103,
       "skillGroupID": 103097,
@@ -6588,6 +7142,7 @@
     },
     {
       "skillID": 103108,
+      "crossplayID": 103108,
       "name": "AttackBoostFlankRare",
       "generalID": 103,
       "skillGroupID": 103097,
@@ -6600,6 +7155,7 @@
     },
     {
       "skillID": 103109,
+      "crossplayID": 103109,
       "name": "AttackBoostFlankRare",
       "generalID": 103,
       "skillGroupID": 103097,
@@ -6612,6 +7168,7 @@
     },
     {
       "skillID": 103110,
+      "crossplayID": 103110,
       "name": "AttackBoostFlankRare",
       "generalID": 103,
       "skillGroupID": 103097,
@@ -6624,6 +7181,7 @@
     },
     {
       "skillID": 103111,
+      "crossplayID": 103111,
       "name": "AttackBoostFlankRare",
       "generalID": 103,
       "skillGroupID": 103097,
@@ -6636,6 +7194,7 @@
     },
     {
       "skillID": 103112,
+      "crossplayID": 103112,
       "name": "AttackBoostFlankRare",
       "generalID": 103,
       "skillGroupID": 103097,
@@ -6648,6 +7207,7 @@
     },
     {
       "skillID": 103113,
+      "crossplayID": 103113,
       "name": "AttackBoostFlankRare",
       "generalID": 103,
       "skillGroupID": 103097,
@@ -6660,6 +7220,7 @@
     },
     {
       "skillID": 103114,
+      "crossplayID": 103114,
       "name": "AttackBoostFlankRare",
       "generalID": 103,
       "skillGroupID": 103097,
@@ -6672,6 +7233,7 @@
     },
     {
       "skillID": 103115,
+      "crossplayID": 103115,
       "name": "AttackBoostFlankRare",
       "generalID": 103,
       "skillGroupID": 103097,
@@ -6684,6 +7246,7 @@
     },
     {
       "skillID": 103116,
+      "crossplayID": 103116,
       "name": "AttackBoostFlankRare",
       "generalID": 103,
       "skillGroupID": 103097,
@@ -6696,6 +7259,7 @@
     },
     {
       "skillID": 103117,
+      "crossplayID": 103117,
       "name": "AttackBoostFlankRare",
       "generalID": 103,
       "skillGroupID": 103097,
@@ -6708,6 +7272,7 @@
     },
     {
       "skillID": 103118,
+      "crossplayID": 103118,
       "name": "AttackBoostFlankRare",
       "generalID": 103,
       "skillGroupID": 103097,
@@ -6720,6 +7285,7 @@
     },
     {
       "skillID": 103119,
+      "crossplayID": 103119,
       "name": "AttackBoostFlankRare",
       "generalID": 103,
       "skillGroupID": 103097,
@@ -6732,6 +7298,7 @@
     },
     {
       "skillID": 103120,
+      "crossplayID": 103120,
       "name": "AttackBoostFlankRare",
       "generalID": 103,
       "skillGroupID": 103097,
@@ -6743,6 +7310,7 @@
     },
     {
       "skillID": 103121,
+      "crossplayID": 103121,
       "name": "additionalWaves",
       "generalID": 103,
       "skillGroupID": 103121,
@@ -6754,6 +7322,7 @@
     },
     {
       "skillID": 10510101,
+      "crossplayID": 10510101,
       "name": "EndlessPractice",
       "generalID": 105,
       "skillGroupID": 1051010,
@@ -6766,6 +7335,7 @@
     },
     {
       "skillID": 10510102,
+      "crossplayID": 10510102,
       "name": "EndlessPractice",
       "generalID": 105,
       "skillGroupID": 1051010,
@@ -6778,6 +7348,7 @@
     },
     {
       "skillID": 10510103,
+      "crossplayID": 10510103,
       "name": "EndlessPractice",
       "generalID": 105,
       "skillGroupID": 1051010,
@@ -6789,6 +7360,7 @@
     },
     {
       "skillID": 10510011,
+      "crossplayID": 10510011,
       "name": "PowerSurge",
       "generalID": 105,
       "skillGroupID": 1051001,
@@ -6801,6 +7373,7 @@
     },
     {
       "skillID": 10510012,
+      "crossplayID": 10510012,
       "name": "PowerSurge",
       "generalID": 105,
       "skillGroupID": 1051001,
@@ -6813,6 +7386,7 @@
     },
     {
       "skillID": 10510013,
+      "crossplayID": 10510013,
       "name": "PowerSurge",
       "generalID": 105,
       "skillGroupID": 1051001,
@@ -6824,6 +7398,7 @@
     },
     {
       "skillID": 10510111,
+      "crossplayID": 10510111,
       "name": "WayoftheSword",
       "generalID": 105,
       "skillGroupID": 1051011,
@@ -6836,6 +7411,7 @@
     },
     {
       "skillID": 10510112,
+      "crossplayID": 10510112,
       "name": "WayoftheSword",
       "generalID": 105,
       "skillGroupID": 1051011,
@@ -6848,6 +7424,7 @@
     },
     {
       "skillID": 10510113,
+      "crossplayID": 10510113,
       "name": "WayoftheSword",
       "generalID": 105,
       "skillGroupID": 1051011,
@@ -6859,6 +7436,7 @@
     },
     {
       "skillID": 10510391,
+      "crossplayID": 10510391,
       "name": "LastingWounds",
       "generalID": 105,
       "skillGroupID": 1051039,
@@ -6871,6 +7449,7 @@
     },
     {
       "skillID": 10510392,
+      "crossplayID": 10510392,
       "name": "LastingWounds",
       "generalID": 105,
       "skillGroupID": 1051039,
@@ -6883,6 +7462,7 @@
     },
     {
       "skillID": 10510393,
+      "crossplayID": 10510393,
       "name": "LastingWounds",
       "generalID": 105,
       "skillGroupID": 1051039,
@@ -6894,6 +7474,7 @@
     },
     {
       "skillID": 10510191,
+      "crossplayID": 10510191,
       "name": "MindClarity",
       "generalID": 105,
       "skillGroupID": 1051019,
@@ -6906,6 +7487,7 @@
     },
     {
       "skillID": 10510192,
+      "crossplayID": 10510192,
       "name": "MindClarity",
       "generalID": 105,
       "skillGroupID": 1051019,
@@ -6918,6 +7500,7 @@
     },
     {
       "skillID": 10510193,
+      "crossplayID": 10510193,
       "name": "MindClarity",
       "generalID": 105,
       "skillGroupID": 1051019,
@@ -6929,6 +7512,7 @@
     },
     {
       "skillID": 10510121,
+      "crossplayID": 10510121,
       "name": "IronWill",
       "generalID": 105,
       "skillGroupID": 1051012,
@@ -6941,6 +7525,7 @@
     },
     {
       "skillID": 10510122,
+      "crossplayID": 10510122,
       "name": "IronWill",
       "generalID": 105,
       "skillGroupID": 1051012,
@@ -6953,6 +7538,7 @@
     },
     {
       "skillID": 10510123,
+      "crossplayID": 10510123,
       "name": "IronWill",
       "generalID": 105,
       "skillGroupID": 1051012,
@@ -6964,6 +7550,7 @@
     },
     {
       "skillID": 10510291,
+      "crossplayID": 10510291,
       "name": "TheWayofPerfection",
       "generalID": 105,
       "skillGroupID": 1051029,
@@ -6976,6 +7563,7 @@
     },
     {
       "skillID": 10510292,
+      "crossplayID": 10510292,
       "name": "TheWayofPerfection",
       "generalID": 105,
       "skillGroupID": 1051029,
@@ -6988,6 +7576,7 @@
     },
     {
       "skillID": 10510293,
+      "crossplayID": 10510293,
       "name": "TheWayofPerfection",
       "generalID": 105,
       "skillGroupID": 1051029,
@@ -6999,6 +7588,7 @@
     },
     {
       "skillID": 10510071,
+      "crossplayID": 10510071,
       "name": "Hordebreaker",
       "generalID": 105,
       "skillGroupID": 1051007,
@@ -7011,6 +7601,7 @@
     },
     {
       "skillID": 10510072,
+      "crossplayID": 10510072,
       "name": "Hordebreaker",
       "generalID": 105,
       "skillGroupID": 1051007,
@@ -7023,6 +7614,7 @@
     },
     {
       "skillID": 10510073,
+      "crossplayID": 10510073,
       "name": "Hordebreaker",
       "generalID": 105,
       "skillGroupID": 1051007,
@@ -7034,6 +7626,7 @@
     },
     {
       "skillID": 105001,
+      "crossplayID": 105001,
       "name": "CourtyardSizeLegendary",
       "generalID": 105,
       "skillGroupID": 105001,
@@ -7046,6 +7639,7 @@
     },
     {
       "skillID": 105002,
+      "crossplayID": 105002,
       "name": "CourtyardSizeLegendary",
       "generalID": 105,
       "skillGroupID": 105001,
@@ -7058,6 +7652,7 @@
     },
     {
       "skillID": 105003,
+      "crossplayID": 105003,
       "name": "CourtyardSizeLegendary",
       "generalID": 105,
       "skillGroupID": 105001,
@@ -7070,6 +7665,7 @@
     },
     {
       "skillID": 105004,
+      "crossplayID": 105004,
       "name": "CourtyardSizeLegendary",
       "generalID": 105,
       "skillGroupID": 105001,
@@ -7082,6 +7678,7 @@
     },
     {
       "skillID": 105005,
+      "crossplayID": 105005,
       "name": "CourtyardSizeLegendary",
       "generalID": 105,
       "skillGroupID": 105001,
@@ -7094,6 +7691,7 @@
     },
     {
       "skillID": 105006,
+      "crossplayID": 105006,
       "name": "CourtyardSizeLegendary",
       "generalID": 105,
       "skillGroupID": 105001,
@@ -7106,6 +7704,7 @@
     },
     {
       "skillID": 105007,
+      "crossplayID": 105007,
       "name": "CourtyardSizeLegendary",
       "generalID": 105,
       "skillGroupID": 105001,
@@ -7118,6 +7717,7 @@
     },
     {
       "skillID": 105008,
+      "crossplayID": 105008,
       "name": "CourtyardSizeLegendary",
       "generalID": 105,
       "skillGroupID": 105001,
@@ -7130,6 +7730,7 @@
     },
     {
       "skillID": 105009,
+      "crossplayID": 105009,
       "name": "CourtyardSizeLegendary",
       "generalID": 105,
       "skillGroupID": 105001,
@@ -7142,6 +7743,7 @@
     },
     {
       "skillID": 105010,
+      "crossplayID": 105010,
       "name": "CourtyardSizeLegendary",
       "generalID": 105,
       "skillGroupID": 105001,
@@ -7154,6 +7756,7 @@
     },
     {
       "skillID": 105011,
+      "crossplayID": 105011,
       "name": "CourtyardSizeLegendary",
       "generalID": 105,
       "skillGroupID": 105001,
@@ -7166,6 +7769,7 @@
     },
     {
       "skillID": 105012,
+      "crossplayID": 105012,
       "name": "CourtyardSizeLegendary",
       "generalID": 105,
       "skillGroupID": 105001,
@@ -7177,6 +7781,7 @@
     },
     {
       "skillID": 105013,
+      "crossplayID": 105013,
       "name": "ReinforcementWaveLegendary",
       "generalID": 105,
       "skillGroupID": 105013,
@@ -7189,6 +7794,7 @@
     },
     {
       "skillID": 105014,
+      "crossplayID": 105014,
       "name": "ReinforcementWaveLegendary",
       "generalID": 105,
       "skillGroupID": 105013,
@@ -7201,6 +7807,7 @@
     },
     {
       "skillID": 105015,
+      "crossplayID": 105015,
       "name": "ReinforcementWaveLegendary",
       "generalID": 105,
       "skillGroupID": 105013,
@@ -7213,6 +7820,7 @@
     },
     {
       "skillID": 105016,
+      "crossplayID": 105016,
       "name": "ReinforcementWaveLegendary",
       "generalID": 105,
       "skillGroupID": 105013,
@@ -7225,6 +7833,7 @@
     },
     {
       "skillID": 105017,
+      "crossplayID": 105017,
       "name": "ReinforcementWaveLegendary",
       "generalID": 105,
       "skillGroupID": 105013,
@@ -7237,6 +7846,7 @@
     },
     {
       "skillID": 105018,
+      "crossplayID": 105018,
       "name": "ReinforcementWaveLegendary",
       "generalID": 105,
       "skillGroupID": 105013,
@@ -7249,6 +7859,7 @@
     },
     {
       "skillID": 105019,
+      "crossplayID": 105019,
       "name": "ReinforcementWaveLegendary",
       "generalID": 105,
       "skillGroupID": 105013,
@@ -7261,6 +7872,7 @@
     },
     {
       "skillID": 105020,
+      "crossplayID": 105020,
       "name": "ReinforcementWaveLegendary",
       "generalID": 105,
       "skillGroupID": 105013,
@@ -7273,6 +7885,7 @@
     },
     {
       "skillID": 105021,
+      "crossplayID": 105021,
       "name": "ReinforcementWaveLegendary",
       "generalID": 105,
       "skillGroupID": 105013,
@@ -7285,6 +7898,7 @@
     },
     {
       "skillID": 105022,
+      "crossplayID": 105022,
       "name": "ReinforcementWaveLegendary",
       "generalID": 105,
       "skillGroupID": 105013,
@@ -7297,6 +7911,7 @@
     },
     {
       "skillID": 105023,
+      "crossplayID": 105023,
       "name": "ReinforcementWaveLegendary",
       "generalID": 105,
       "skillGroupID": 105013,
@@ -7309,6 +7924,7 @@
     },
     {
       "skillID": 105024,
+      "crossplayID": 105024,
       "name": "ReinforcementWaveLegendary",
       "generalID": 105,
       "skillGroupID": 105013,
@@ -7320,6 +7936,7 @@
     },
     {
       "skillID": 105025,
+      "crossplayID": 105025,
       "name": "defenseBoostYardLegendary",
       "generalID": 105,
       "skillGroupID": 105025,
@@ -7332,6 +7949,7 @@
     },
     {
       "skillID": 105026,
+      "crossplayID": 105026,
       "name": "defenseBoostYardLegendary",
       "generalID": 105,
       "skillGroupID": 105025,
@@ -7344,6 +7962,7 @@
     },
     {
       "skillID": 105027,
+      "crossplayID": 105027,
       "name": "defenseBoostYardLegendary",
       "generalID": 105,
       "skillGroupID": 105025,
@@ -7356,6 +7975,7 @@
     },
     {
       "skillID": 105028,
+      "crossplayID": 105028,
       "name": "defenseBoostYardLegendary",
       "generalID": 105,
       "skillGroupID": 105025,
@@ -7368,6 +7988,7 @@
     },
     {
       "skillID": 105029,
+      "crossplayID": 105029,
       "name": "defenseBoostYardLegendary",
       "generalID": 105,
       "skillGroupID": 105025,
@@ -7380,6 +8001,7 @@
     },
     {
       "skillID": 105030,
+      "crossplayID": 105030,
       "name": "defenseBoostYardLegendary",
       "generalID": 105,
       "skillGroupID": 105025,
@@ -7392,6 +8014,7 @@
     },
     {
       "skillID": 105031,
+      "crossplayID": 105031,
       "name": "defenseBoostYardLegendary",
       "generalID": 105,
       "skillGroupID": 105025,
@@ -7404,6 +8027,7 @@
     },
     {
       "skillID": 105032,
+      "crossplayID": 105032,
       "name": "defenseBoostYardLegendary",
       "generalID": 105,
       "skillGroupID": 105025,
@@ -7416,6 +8040,7 @@
     },
     {
       "skillID": 105033,
+      "crossplayID": 105033,
       "name": "defenseBoostYardLegendary",
       "generalID": 105,
       "skillGroupID": 105025,
@@ -7428,6 +8053,7 @@
     },
     {
       "skillID": 105034,
+      "crossplayID": 105034,
       "name": "defenseBoostYardLegendary",
       "generalID": 105,
       "skillGroupID": 105025,
@@ -7440,6 +8066,7 @@
     },
     {
       "skillID": 105035,
+      "crossplayID": 105035,
       "name": "defenseBoostYardLegendary",
       "generalID": 105,
       "skillGroupID": 105025,
@@ -7452,6 +8079,7 @@
     },
     {
       "skillID": 105036,
+      "crossplayID": 105036,
       "name": "defenseBoostYardLegendary",
       "generalID": 105,
       "skillGroupID": 105025,
@@ -7463,6 +8091,7 @@
     },
     {
       "skillID": 105037,
+      "crossplayID": 105037,
       "name": "BonusPowerYardLegendary",
       "generalID": 105,
       "skillGroupID": 105037,
@@ -7475,6 +8104,7 @@
     },
     {
       "skillID": 105038,
+      "crossplayID": 105038,
       "name": "BonusPowerYardLegendary",
       "generalID": 105,
       "skillGroupID": 105037,
@@ -7487,6 +8117,7 @@
     },
     {
       "skillID": 105039,
+      "crossplayID": 105039,
       "name": "BonusPowerYardLegendary",
       "generalID": 105,
       "skillGroupID": 105037,
@@ -7499,6 +8130,7 @@
     },
     {
       "skillID": 105040,
+      "crossplayID": 105040,
       "name": "BonusPowerYardLegendary",
       "generalID": 105,
       "skillGroupID": 105037,
@@ -7511,6 +8143,7 @@
     },
     {
       "skillID": 105041,
+      "crossplayID": 105041,
       "name": "BonusPowerYardLegendary",
       "generalID": 105,
       "skillGroupID": 105037,
@@ -7523,6 +8156,7 @@
     },
     {
       "skillID": 105042,
+      "crossplayID": 105042,
       "name": "BonusPowerYardLegendary",
       "generalID": 105,
       "skillGroupID": 105037,
@@ -7535,6 +8169,7 @@
     },
     {
       "skillID": 105043,
+      "crossplayID": 105043,
       "name": "BonusPowerYardLegendary",
       "generalID": 105,
       "skillGroupID": 105037,
@@ -7547,6 +8182,7 @@
     },
     {
       "skillID": 105044,
+      "crossplayID": 105044,
       "name": "BonusPowerYardLegendary",
       "generalID": 105,
       "skillGroupID": 105037,
@@ -7559,6 +8195,7 @@
     },
     {
       "skillID": 105045,
+      "crossplayID": 105045,
       "name": "BonusPowerYardLegendary",
       "generalID": 105,
       "skillGroupID": 105037,
@@ -7571,6 +8208,7 @@
     },
     {
       "skillID": 105046,
+      "crossplayID": 105046,
       "name": "BonusPowerYardLegendary",
       "generalID": 105,
       "skillGroupID": 105037,
@@ -7583,6 +8221,7 @@
     },
     {
       "skillID": 105047,
+      "crossplayID": 105047,
       "name": "BonusPowerYardLegendary",
       "generalID": 105,
       "skillGroupID": 105037,
@@ -7595,6 +8234,7 @@
     },
     {
       "skillID": 105048,
+      "crossplayID": 105048,
       "name": "BonusPowerYardLegendary",
       "generalID": 105,
       "skillGroupID": 105037,
@@ -7606,6 +8246,7 @@
     },
     {
       "skillID": 105049,
+      "crossplayID": 105049,
       "name": "UnitAmountWallLegendary",
       "generalID": 105,
       "skillGroupID": 105049,
@@ -7618,6 +8259,7 @@
     },
     {
       "skillID": 105050,
+      "crossplayID": 105050,
       "name": "UnitAmountWallLegendary",
       "generalID": 105,
       "skillGroupID": 105049,
@@ -7630,6 +8272,7 @@
     },
     {
       "skillID": 105051,
+      "crossplayID": 105051,
       "name": "UnitAmountWallLegendary",
       "generalID": 105,
       "skillGroupID": 105049,
@@ -7642,6 +8285,7 @@
     },
     {
       "skillID": 105052,
+      "crossplayID": 105052,
       "name": "UnitAmountWallLegendary",
       "generalID": 105,
       "skillGroupID": 105049,
@@ -7654,6 +8298,7 @@
     },
     {
       "skillID": 105053,
+      "crossplayID": 105053,
       "name": "UnitAmountWallLegendary",
       "generalID": 105,
       "skillGroupID": 105049,
@@ -7666,6 +8311,7 @@
     },
     {
       "skillID": 105054,
+      "crossplayID": 105054,
       "name": "UnitAmountWallLegendary",
       "generalID": 105,
       "skillGroupID": 105049,
@@ -7678,6 +8324,7 @@
     },
     {
       "skillID": 105055,
+      "crossplayID": 105055,
       "name": "UnitAmountWallLegendary",
       "generalID": 105,
       "skillGroupID": 105049,
@@ -7690,6 +8337,7 @@
     },
     {
       "skillID": 105056,
+      "crossplayID": 105056,
       "name": "UnitAmountWallLegendary",
       "generalID": 105,
       "skillGroupID": 105049,
@@ -7702,6 +8350,7 @@
     },
     {
       "skillID": 105057,
+      "crossplayID": 105057,
       "name": "UnitAmountWallLegendary",
       "generalID": 105,
       "skillGroupID": 105049,
@@ -7714,6 +8363,7 @@
     },
     {
       "skillID": 105058,
+      "crossplayID": 105058,
       "name": "UnitAmountWallLegendary",
       "generalID": 105,
       "skillGroupID": 105049,
@@ -7726,6 +8376,7 @@
     },
     {
       "skillID": 105059,
+      "crossplayID": 105059,
       "name": "UnitAmountWallLegendary",
       "generalID": 105,
       "skillGroupID": 105049,
@@ -7738,6 +8389,7 @@
     },
     {
       "skillID": 105060,
+      "crossplayID": 105060,
       "name": "UnitAmountWallLegendary",
       "generalID": 105,
       "skillGroupID": 105049,
@@ -7749,6 +8401,7 @@
     },
     {
       "skillID": 105061,
+      "crossplayID": 105061,
       "name": "UnitAmountFrontLegendary",
       "generalID": 105,
       "skillGroupID": 105061,
@@ -7761,6 +8414,7 @@
     },
     {
       "skillID": 105062,
+      "crossplayID": 105062,
       "name": "UnitAmountFrontLegendary",
       "generalID": 105,
       "skillGroupID": 105061,
@@ -7773,6 +8427,7 @@
     },
     {
       "skillID": 105063,
+      "crossplayID": 105063,
       "name": "UnitAmountFrontLegendary",
       "generalID": 105,
       "skillGroupID": 105061,
@@ -7785,6 +8440,7 @@
     },
     {
       "skillID": 105064,
+      "crossplayID": 105064,
       "name": "UnitAmountFrontLegendary",
       "generalID": 105,
       "skillGroupID": 105061,
@@ -7797,6 +8453,7 @@
     },
     {
       "skillID": 105065,
+      "crossplayID": 105065,
       "name": "UnitAmountFrontLegendary",
       "generalID": 105,
       "skillGroupID": 105061,
@@ -7809,6 +8466,7 @@
     },
     {
       "skillID": 105066,
+      "crossplayID": 105066,
       "name": "UnitAmountFrontLegendary",
       "generalID": 105,
       "skillGroupID": 105061,
@@ -7821,6 +8479,7 @@
     },
     {
       "skillID": 105067,
+      "crossplayID": 105067,
       "name": "UnitAmountFrontLegendary",
       "generalID": 105,
       "skillGroupID": 105061,
@@ -7833,6 +8492,7 @@
     },
     {
       "skillID": 105068,
+      "crossplayID": 105068,
       "name": "UnitAmountFrontLegendary",
       "generalID": 105,
       "skillGroupID": 105061,
@@ -7845,6 +8505,7 @@
     },
     {
       "skillID": 105069,
+      "crossplayID": 105069,
       "name": "UnitAmountFrontLegendary",
       "generalID": 105,
       "skillGroupID": 105061,
@@ -7857,6 +8518,7 @@
     },
     {
       "skillID": 105070,
+      "crossplayID": 105070,
       "name": "UnitAmountFrontLegendary",
       "generalID": 105,
       "skillGroupID": 105061,
@@ -7869,6 +8531,7 @@
     },
     {
       "skillID": 105071,
+      "crossplayID": 105071,
       "name": "UnitAmountFrontLegendary",
       "generalID": 105,
       "skillGroupID": 105061,
@@ -7881,6 +8544,7 @@
     },
     {
       "skillID": 105072,
+      "crossplayID": 105072,
       "name": "UnitAmountFrontLegendary",
       "generalID": 105,
       "skillGroupID": 105061,
@@ -7892,6 +8556,7 @@
     },
     {
       "skillID": 105073,
+      "crossplayID": 105073,
       "name": "AttackBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105073,
@@ -7904,6 +8569,7 @@
     },
     {
       "skillID": 105074,
+      "crossplayID": 105074,
       "name": "AttackBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105073,
@@ -7916,6 +8582,7 @@
     },
     {
       "skillID": 105075,
+      "crossplayID": 105075,
       "name": "AttackBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105073,
@@ -7928,6 +8595,7 @@
     },
     {
       "skillID": 105076,
+      "crossplayID": 105076,
       "name": "AttackBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105073,
@@ -7940,6 +8608,7 @@
     },
     {
       "skillID": 105077,
+      "crossplayID": 105077,
       "name": "AttackBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105073,
@@ -7952,6 +8621,7 @@
     },
     {
       "skillID": 105078,
+      "crossplayID": 105078,
       "name": "AttackBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105073,
@@ -7964,6 +8634,7 @@
     },
     {
       "skillID": 105079,
+      "crossplayID": 105079,
       "name": "AttackBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105073,
@@ -7976,6 +8647,7 @@
     },
     {
       "skillID": 105080,
+      "crossplayID": 105080,
       "name": "AttackBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105073,
@@ -7988,6 +8660,7 @@
     },
     {
       "skillID": 105081,
+      "crossplayID": 105081,
       "name": "AttackBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105073,
@@ -8000,6 +8673,7 @@
     },
     {
       "skillID": 105082,
+      "crossplayID": 105082,
       "name": "AttackBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105073,
@@ -8012,6 +8686,7 @@
     },
     {
       "skillID": 105083,
+      "crossplayID": 105083,
       "name": "AttackBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105073,
@@ -8024,6 +8699,7 @@
     },
     {
       "skillID": 105084,
+      "crossplayID": 105084,
       "name": "AttackBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105073,
@@ -8036,6 +8712,7 @@
     },
     {
       "skillID": 105085,
+      "crossplayID": 105085,
       "name": "AttackBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105073,
@@ -8048,6 +8725,7 @@
     },
     {
       "skillID": 105086,
+      "crossplayID": 105086,
       "name": "AttackBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105073,
@@ -8060,6 +8738,7 @@
     },
     {
       "skillID": 105087,
+      "crossplayID": 105087,
       "name": "AttackBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105073,
@@ -8072,6 +8751,7 @@
     },
     {
       "skillID": 105088,
+      "crossplayID": 105088,
       "name": "AttackBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105073,
@@ -8084,6 +8764,7 @@
     },
     {
       "skillID": 105089,
+      "crossplayID": 105089,
       "name": "AttackBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105073,
@@ -8096,6 +8777,7 @@
     },
     {
       "skillID": 105090,
+      "crossplayID": 105090,
       "name": "AttackBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105073,
@@ -8108,6 +8790,7 @@
     },
     {
       "skillID": 105091,
+      "crossplayID": 105091,
       "name": "AttackBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105073,
@@ -8120,6 +8803,7 @@
     },
     {
       "skillID": 105092,
+      "crossplayID": 105092,
       "name": "AttackBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105073,
@@ -8132,6 +8816,7 @@
     },
     {
       "skillID": 105093,
+      "crossplayID": 105093,
       "name": "AttackBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105073,
@@ -8144,6 +8829,7 @@
     },
     {
       "skillID": 105094,
+      "crossplayID": 105094,
       "name": "AttackBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105073,
@@ -8156,6 +8842,7 @@
     },
     {
       "skillID": 105095,
+      "crossplayID": 105095,
       "name": "AttackBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105073,
@@ -8168,6 +8855,7 @@
     },
     {
       "skillID": 105096,
+      "crossplayID": 105096,
       "name": "AttackBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105073,
@@ -8179,6 +8867,7 @@
     },
     {
       "skillID": 105097,
+      "crossplayID": 105097,
       "name": "DefenseBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105097,
@@ -8191,6 +8880,7 @@
     },
     {
       "skillID": 105098,
+      "crossplayID": 105098,
       "name": "DefenseBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105097,
@@ -8203,6 +8893,7 @@
     },
     {
       "skillID": 105099,
+      "crossplayID": 105099,
       "name": "DefenseBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105097,
@@ -8215,6 +8906,7 @@
     },
     {
       "skillID": 105100,
+      "crossplayID": 105100,
       "name": "DefenseBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105097,
@@ -8227,6 +8919,7 @@
     },
     {
       "skillID": 105101,
+      "crossplayID": 105101,
       "name": "DefenseBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105097,
@@ -8239,6 +8932,7 @@
     },
     {
       "skillID": 105102,
+      "crossplayID": 105102,
       "name": "DefenseBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105097,
@@ -8251,6 +8945,7 @@
     },
     {
       "skillID": 105103,
+      "crossplayID": 105103,
       "name": "DefenseBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105097,
@@ -8263,6 +8958,7 @@
     },
     {
       "skillID": 105104,
+      "crossplayID": 105104,
       "name": "DefenseBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105097,
@@ -8275,6 +8971,7 @@
     },
     {
       "skillID": 105105,
+      "crossplayID": 105105,
       "name": "DefenseBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105097,
@@ -8287,6 +8984,7 @@
     },
     {
       "skillID": 105106,
+      "crossplayID": 105106,
       "name": "DefenseBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105097,
@@ -8299,6 +8997,7 @@
     },
     {
       "skillID": 105107,
+      "crossplayID": 105107,
       "name": "DefenseBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105097,
@@ -8311,6 +9010,7 @@
     },
     {
       "skillID": 105108,
+      "crossplayID": 105108,
       "name": "DefenseBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105097,
@@ -8323,6 +9023,7 @@
     },
     {
       "skillID": 105109,
+      "crossplayID": 105109,
       "name": "DefenseBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105097,
@@ -8335,6 +9036,7 @@
     },
     {
       "skillID": 105110,
+      "crossplayID": 105110,
       "name": "DefenseBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105097,
@@ -8347,6 +9049,7 @@
     },
     {
       "skillID": 105111,
+      "crossplayID": 105111,
       "name": "DefenseBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105097,
@@ -8359,6 +9062,7 @@
     },
     {
       "skillID": 105112,
+      "crossplayID": 105112,
       "name": "DefenseBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105097,
@@ -8371,6 +9075,7 @@
     },
     {
       "skillID": 105113,
+      "crossplayID": 105113,
       "name": "DefenseBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105097,
@@ -8383,6 +9088,7 @@
     },
     {
       "skillID": 105114,
+      "crossplayID": 105114,
       "name": "DefenseBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105097,
@@ -8395,6 +9101,7 @@
     },
     {
       "skillID": 105115,
+      "crossplayID": 105115,
       "name": "DefenseBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105097,
@@ -8407,6 +9114,7 @@
     },
     {
       "skillID": 105116,
+      "crossplayID": 105116,
       "name": "DefenseBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105097,
@@ -8419,6 +9127,7 @@
     },
     {
       "skillID": 105117,
+      "crossplayID": 105117,
       "name": "DefenseBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105097,
@@ -8431,6 +9140,7 @@
     },
     {
       "skillID": 105118,
+      "crossplayID": 105118,
       "name": "DefenseBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105097,
@@ -8443,6 +9153,7 @@
     },
     {
       "skillID": 105119,
+      "crossplayID": 105119,
       "name": "DefenseBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105097,
@@ -8455,6 +9166,7 @@
     },
     {
       "skillID": 105120,
+      "crossplayID": 105120,
       "name": "DefenseBoostFlankLegendary",
       "generalID": 105,
       "skillGroupID": 105097,
@@ -8466,6 +9178,7 @@
     },
     {
       "skillID": 105121,
+      "crossplayID": 105121,
       "name": "additionalWaves",
       "generalID": 105,
       "skillGroupID": 105121,

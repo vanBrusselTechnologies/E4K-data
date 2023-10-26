@@ -1982,96 +1982,112 @@
     },
     {
       "rewardID": 70001,
+      "crossplayID": 70001,
       "comment1": "fatKingRewards",
       "comment2": "Legendary",
       "addShardHoratio": 5
     },
     {
       "rewardID": 70002,
+      "crossplayID": 70002,
       "comment1": "fatKingRewards",
       "comment2": "Epic",
       "addShardAlyssa": 5
     },
     {
       "rewardID": 70003,
+      "crossplayID": 70003,
       "comment1": "fatKingRewards",
       "comment2": "Epic",
       "addShardLeo": 5
     },
     {
       "rewardID": 70004,
+      "crossplayID": 70004,
       "comment1": "fatKingRewards",
       "comment2": "Legendary",
       "addShardToril": 5
     },
     {
       "rewardID": 70005,
+      "crossplayID": 70005,
       "comment1": "fatKingRewards",
       "comment2": "Legendary",
       "addFatKingToken": 1
     },
     {
       "rewardID": 70008,
+      "crossplayID": 70008,
       "comment1": "fatKingRewards",
       "comment2": "Rare",
       "addGeneralsSkillsResetToken": 1
     },
     {
       "rewardID": 70009,
+      "crossplayID": 70009,
       "comment1": "fatKingRewards",
       "comment2": "Legendary",
       "relicEquipments": "-100@0,100"
     },
     {
       "rewardID": 70010,
+      "crossplayID": 70010,
       "comment1": "fatKingRewards",
       "comment2": "Rare",
       "add24HourSkip": 1
     },
     {
       "rewardID": 70011,
+      "crossplayID": 70011,
       "comment1": "fatKingRewards",
       "comment2": "Legendary",
       "currency2": 50
     },
     {
       "rewardID": 70012,
+      "crossplayID": 70012,
       "comment1": "fatKingRewards",
       "comment2": "Rare",
       "addGenXP500": 1
     },
     {
       "rewardID": 70013,
+      "crossplayID": 70013,
       "comment1": "fatKingRewards",
       "comment2": "Rare",
       "addGenXP1000": 1
     },
     {
       "rewardID": 70014,
+      "crossplayID": 70014,
       "comment1": "fatKingRewards",
       "comment2": "Rare",
       "addGenXP2500": 1
     },
     {
       "rewardID": 70015,
+      "crossplayID": 70015,
       "comment1": "fatKingRewards",
       "comment2": "Epic",
       "addGenXP5000": 1
     },
     {
       "rewardID": 70016,
+      "crossplayID": 70016,
       "comment1": "fatKingRewards",
       "comment2": "Legendary",
       "addGenXP10000": 1
     },
     {
       "rewardID": 70017,
+      "crossplayID": 70017,
       "comment1": "fatKingRewards",
       "comment2": "Common",
       "addPegasusTicket": 100
     },
     {
       "rewardID": 70018,
+      "crossplayID": 70018,
       "comment1": "fatKingRewards",
       "comment2": "Common",
       "food": 600,
@@ -2079,54 +2095,63 @@
     },
     {
       "rewardID": 70019,
+      "crossplayID": 70019,
       "comment1": "fatKingRewards",
       "comment2": "Legendary",
       "constructionItemIDs": 30744
     },
     {
       "rewardID": 70020,
+      "crossplayID": 70020,
       "comment1": "fatKingRewards",
       "comment2": "Legendary",
       "constructionItemIDs": 30743
     },
     {
       "rewardID": 70021,
+      "crossplayID": 70021,
       "comment1": "fatKingRewards",
       "comment2": "Legendary",
       "constructionItemIDs": 30745
     },
     {
       "rewardID": 70022,
+      "crossplayID": 70022,
       "comment1": "fatKingRewards",
       "comment2": "Legendary",
       "constructionItemIDs": 30748
     },
     {
       "rewardID": 70023,
+      "crossplayID": 70023,
       "comment1": "fatKingRewards",
       "comment2": "Legendary",
       "constructionItemIDs": 30749
     },
     {
       "rewardID": 70024,
+      "crossplayID": 70024,
       "comment1": "fatKingRewards",
       "comment2": "Rare",
       "constructionItemIDs": 30750
     },
     {
       "rewardID": 70025,
+      "crossplayID": 70025,
       "comment1": "fatKingRewards",
       "comment2": "Legendary",
       "constructionItemIDs": 30751
     },
     {
       "rewardID": 70026,
+      "crossplayID": 70026,
       "comment1": "fatKingRewards",
       "comment2": "Legendary",
       "constructionItemIDs": 30752
     },
     {
       "rewardID": 70027,
+      "crossplayID": 70027,
       "comment1": "fatKingRewards",
       "comment2": "Common",
       "units": "10+75",
@@ -2135,6 +2160,7 @@
     },
     {
       "rewardID": 70028,
+      "crossplayID": 70028,
       "comment1": "fatKingRewards",
       "comment2": "Common",
       "units": "9+75",
@@ -2143,6 +2169,7 @@
     },
     {
       "rewardID": 70029,
+      "crossplayID": 70029,
       "comment1": "fatKingRewards",
       "comment2": "Common",
       "units": "11+50",
@@ -2151,6 +2178,7 @@
     },
     {
       "rewardID": 70030,
+      "crossplayID": 70030,
       "comment1": "fatKingRewards",
       "comment2": "Common",
       "units": "12+50",
@@ -2159,102 +2187,119 @@
     },
     {
       "rewardID": 70031,
+      "crossplayID": 70031,
       "comment1": "fatKingRewards",
       "comment2": "Common",
       "units": "153+10"
     },
     {
       "rewardID": 70032,
+      "crossplayID": 70032,
       "comment1": "fatKingRewards",
       "comment2": "Common",
       "units": "407+15"
     },
     {
       "rewardID": 70033,
+      "crossplayID": 70033,
       "comment1": "fatKingRewards",
       "comment2": "Common",
       "units": "244+15"
     },
     {
       "rewardID": 70034,
+      "crossplayID": 70034,
       "comment1": "fatKingRewards",
       "comment2": "Common",
       "units": "622+8"
     },
     {
       "rewardID": 70035,
+      "crossplayID": 70035,
       "comment1": "fatKingRewards",
       "comment2": "Common",
       "units": "105+8"
     },
     {
       "rewardID": 70036,
+      "crossplayID": 70036,
       "comment1": "fatKingRewards",
       "comment2": "Common",
       "units": "627+8"
     },
     {
       "rewardID": 70037,
+      "crossplayID": 70037,
       "comment1": "fatKingRewards",
       "comment2": "Common",
       "units": "624+8"
     },
     {
       "rewardID": 70038,
+      "crossplayID": 70038,
       "comment1": "fatKingRewards",
       "comment2": "Common",
       "units": "625+8"
     },
     {
       "rewardID": 70039,
+      "crossplayID": 70039,
       "comment1": "fatKingRewards",
       "comment2": "Common",
       "units": "648+13"
     },
     {
       "rewardID": 70040,
+      "crossplayID": 70040,
       "comment1": "fatKingRewards",
       "comment2": "Common",
       "units": "650+13"
     },
     {
       "rewardID": 70041,
+      "crossplayID": 70041,
       "comment1": "fatKingRewards",
       "comment2": "Common",
       "units": "651+13"
     },
     {
       "rewardID": 70042,
+      "crossplayID": 70042,
       "comment1": "fatKingRewards",
       "comment2": "Common",
       "units": "649+13"
     },
     {
       "rewardID": 70043,
+      "crossplayID": 70043,
       "comment1": "fatKingRewards",
       "comment2": "Epic",
       "units": "245+5"
     },
     {
       "rewardID": 70044,
+      "crossplayID": 70044,
       "comment1": "fatKingRewards",
       "comment2": "Epic",
       "units": "256+8"
     },
     {
       "rewardID": 70045,
+      "crossplayID": 70045,
       "comment1": "fatKingRewards",
       "comment2": "Epic",
       "units": "300+2"
     },
     {
       "rewardID": 70046,
+      "crossplayID": 70046,
       "comment1": "fatKingRewards",
       "comment2": "Epic",
       "units": "315+1"
     },
     {
       "rewardID": 70047,
+      "crossplayID": 70047,
       "comment1": "fatKingRewards",
       "comment2": "Common",
       "stone": 500,
@@ -2262,6 +2307,7 @@
     },
     {
       "rewardID": 70048,
+      "crossplayID": 70048,
       "comment1": "fatKingRewards",
       "comment2": "Common",
       "wood": 500,
@@ -2269,126 +2315,147 @@
     },
     {
       "rewardID": 70049,
+      "crossplayID": 70049,
       "comment1": "fatKingRewards",
       "comment2": "Legendary",
       "equipmentIDs": 992
     },
     {
       "rewardID": 70050,
+      "crossplayID": 70050,
       "comment1": "fatKingRewards",
       "comment2": "Legendary",
       "equipmentIDs": 991
     },
     {
       "rewardID": 70051,
+      "crossplayID": 70051,
       "comment1": "fatKingRewards",
       "comment2": "Legendary",
       "equipmentIDs": 993
     },
     {
       "rewardID": 70052,
+      "crossplayID": 70052,
       "comment1": "fatKingRewards",
       "comment2": "Epic",
       "decoWodID": 2406
     },
     {
       "rewardID": 70053,
+      "crossplayID": 70053,
       "comment1": "fatKingRewards",
       "comment2": "Legendary",
       "decoWodID": 2458
     },
     {
       "rewardID": 70054,
+      "crossplayID": 70054,
       "comment1": "knightReward",
       "comment2": "Legendary",
       "addShardHoratio": 12
     },
     {
       "rewardID": 70055,
+      "crossplayID": 70055,
       "comment1": "knightReward",
       "comment2": "Epic",
       "addShardAlyssa": 12
     },
     {
       "rewardID": 70056,
+      "crossplayID": 70056,
       "comment1": "knightReward",
       "comment2": "Epic",
       "addShardLeo": 12
     },
     {
       "rewardID": 70057,
+      "crossplayID": 70057,
       "comment1": "knightReward",
       "comment2": "Legendary",
       "addShardToril": 12
     },
     {
       "rewardID": 70059,
+      "crossplayID": 70059,
       "comment1": "knightReward",
       "comment2": "Legendary",
       "addKnightToken": 1
     },
     {
       "rewardID": 70061,
+      "crossplayID": 70061,
       "comment1": "knightReward",
       "comment2": "Rare",
       "addGeneralsSkillsResetToken": 1
     },
     {
       "rewardID": 70062,
+      "crossplayID": 70062,
       "comment1": "knightReward",
       "comment2": "Epic",
       "relicEquipments": "-100@0,100"
     },
     {
       "rewardID": 70063,
+      "crossplayID": 70063,
       "comment1": "knightReward",
       "comment2": "Rare",
       "add24HourSkip": 1
     },
     {
       "rewardID": 70064,
+      "crossplayID": 70064,
       "comment1": "knightReward",
       "comment2": "Legendary",
       "currency2": 150
     },
     {
       "rewardID": 70065,
+      "crossplayID": 70065,
       "comment1": "knightReward",
       "comment2": "Common",
       "addGenXP500": 1
     },
     {
       "rewardID": 70066,
+      "crossplayID": 70066,
       "comment1": "knightReward",
       "comment2": "Rare",
       "addGenXP1000": 1
     },
     {
       "rewardID": 70067,
+      "crossplayID": 70067,
       "comment1": "knightReward",
       "comment2": "Rare",
       "addGenXP2500": 1
     },
     {
       "rewardID": 70068,
+      "crossplayID": 70068,
       "comment1": "knightReward",
       "comment2": "Rare",
       "addGenXP5000": 1
     },
     {
       "rewardID": 70069,
+      "crossplayID": 70069,
       "comment1": "knightReward",
       "comment2": "Legendary",
       "addGenXP10000": 1
     },
     {
       "rewardID": 70070,
+      "crossplayID": 70070,
       "comment1": "knightReward",
       "comment2": "Common",
       "addPegasusTicket": 200
     },
     {
       "rewardID": 70071,
+      "crossplayID": 70071,
       "comment1": "knightReward",
       "comment2": "Common",
       "food": 1200,
@@ -2396,54 +2463,63 @@
     },
     {
       "rewardID": 70072,
+      "crossplayID": 70072,
       "comment1": "knightReward",
       "comment2": "Epic",
       "constructionItemIDs": 30744
     },
     {
       "rewardID": 70073,
+      "crossplayID": 70073,
       "comment1": "knightReward",
       "comment2": "Epic",
       "constructionItemIDs": 30743
     },
     {
       "rewardID": 70074,
+      "crossplayID": 70074,
       "comment1": "knightReward",
       "comment2": "Epic",
       "constructionItemIDs": 30745
     },
     {
       "rewardID": 70075,
+      "crossplayID": 70075,
       "comment1": "knightReward",
       "comment2": "Common",
       "constructionItemIDs": 30748
     },
     {
       "rewardID": 70076,
+      "crossplayID": 70076,
       "comment1": "knightReward",
       "comment2": "Common",
       "constructionItemIDs": 30749
     },
     {
       "rewardID": 70077,
+      "crossplayID": 70077,
       "comment1": "knightReward",
       "comment2": "Common",
       "constructionItemIDs": 30750
     },
     {
       "rewardID": 70078,
+      "crossplayID": 70078,
       "comment1": "knightReward",
       "comment2": "Legendary",
       "constructionItemIDs": 30751
     },
     {
       "rewardID": 70079,
+      "crossplayID": 70079,
       "comment1": "knightReward",
       "comment2": "Legendary",
       "constructionItemIDs": 30752
     },
     {
       "rewardID": 70080,
+      "crossplayID": 70080,
       "comment1": "knightReward",
       "comment2": "Common",
       "units": "10+150",
@@ -2452,6 +2528,7 @@
     },
     {
       "rewardID": 70081,
+      "crossplayID": 70081,
       "comment1": "knightReward",
       "comment2": "Common",
       "units": "9+150",
@@ -2460,6 +2537,7 @@
     },
     {
       "rewardID": 70082,
+      "crossplayID": 70082,
       "comment1": "knightReward",
       "comment2": "Common",
       "units": "11+100",
@@ -2468,6 +2546,7 @@
     },
     {
       "rewardID": 70083,
+      "crossplayID": 70083,
       "comment1": "knightReward",
       "comment2": "Common",
       "units": "12+100",
@@ -2476,102 +2555,119 @@
     },
     {
       "rewardID": 70084,
+      "crossplayID": 70084,
       "comment1": "knightReward",
       "comment2": "Common",
       "units": "153+50"
     },
     {
       "rewardID": 70085,
+      "crossplayID": 70085,
       "comment1": "knightReward",
       "comment2": "Common",
       "units": "407+50"
     },
     {
       "rewardID": 70086,
+      "crossplayID": 70086,
       "comment1": "knightReward",
       "comment2": "Common",
       "units": "244+50"
     },
     {
       "rewardID": 70087,
+      "crossplayID": 70087,
       "comment1": "knightReward",
       "comment2": "Common",
       "units": "622+38"
     },
     {
       "rewardID": 70088,
+      "crossplayID": 70088,
       "comment1": "knightReward",
       "comment2": "Common",
       "units": "105+38"
     },
     {
       "rewardID": 70089,
+      "crossplayID": 70089,
       "comment1": "knightReward",
       "comment2": "Common",
       "units": "627+38"
     },
     {
       "rewardID": 70090,
+      "crossplayID": 70090,
       "comment1": "knightReward",
       "comment2": "Common",
       "units": "624+38"
     },
     {
       "rewardID": 70091,
+      "crossplayID": 70091,
       "comment1": "knightReward",
       "comment2": "Common",
       "units": "625+38"
     },
     {
       "rewardID": 70092,
+      "crossplayID": 70092,
       "comment1": "knightReward",
       "comment2": "Common",
       "units": "648+63"
     },
     {
       "rewardID": 70093,
+      "crossplayID": 70093,
       "comment1": "knightReward",
       "comment2": "Common",
       "units": "650+63"
     },
     {
       "rewardID": 70094,
+      "crossplayID": 70094,
       "comment1": "knightReward",
       "comment2": "Common",
       "units": "651+63"
     },
     {
       "rewardID": 70095,
+      "crossplayID": 70095,
       "comment1": "knightReward",
       "comment2": "Common",
       "units": "649+63"
     },
     {
       "rewardID": 70096,
+      "crossplayID": 70096,
       "comment1": "knightReward",
       "comment2": "Epic",
       "units": "245+10"
     },
     {
       "rewardID": 70097,
+      "crossplayID": 70097,
       "comment1": "knightReward",
       "comment2": "Epic",
       "units": "256+13"
     },
     {
       "rewardID": 70098,
+      "crossplayID": 70098,
       "comment1": "knightReward",
       "comment2": "Epic",
       "units": "300+5"
     },
     {
       "rewardID": 70099,
+      "crossplayID": 70099,
       "comment1": "knightReward",
       "comment2": "Epic",
       "units": "315+3"
     },
     {
       "rewardID": 70100,
+      "crossplayID": 70100,
       "comment1": "knightReward",
       "comment2": "Common",
       "stone": 2500,
@@ -2579,6 +2675,7 @@
     },
     {
       "rewardID": 70101,
+      "crossplayID": 70101,
       "comment1": "knightReward",
       "comment2": "Common",
       "wood": 2500,
@@ -2586,126 +2683,147 @@
     },
     {
       "rewardID": 70102,
+      "crossplayID": 70102,
       "comment1": "knightReward",
       "comment2": "Epic",
       "equipmentIDs": 992
     },
     {
       "rewardID": 70103,
+      "crossplayID": 70103,
       "comment1": "knightReward",
       "comment2": "Epic",
       "equipmentIDs": 991
     },
     {
       "rewardID": 70104,
+      "crossplayID": 70104,
       "comment1": "knightReward",
       "comment2": "Epic",
       "equipmentIDs": 993
     },
     {
       "rewardID": 70105,
+      "crossplayID": 70105,
       "comment1": "knightReward",
       "comment2": "Epic",
       "decoWodID": 2406
     },
     {
       "rewardID": 70106,
+      "crossplayID": 70106,
       "comment1": "knightReward",
       "comment2": "Epic",
       "decoWodID": 2458
     },
     {
       "rewardID": 70107,
+      "crossplayID": 70107,
       "comment1": "princessReward",
       "comment2": "Legendary",
       "addShardHoratio": 25
     },
     {
       "rewardID": 70108,
+      "crossplayID": 70108,
       "comment1": "princessReward",
       "comment2": "Epic",
       "addShardAlyssa": 25
     },
     {
       "rewardID": 70109,
+      "crossplayID": 70109,
       "comment1": "princessReward",
       "comment2": "Epic",
       "addShardLeo": 25
     },
     {
       "rewardID": 70110,
+      "crossplayID": 70110,
       "comment1": "princessReward",
       "comment2": "Legendary",
       "addShardToril": 25
     },
     {
       "rewardID": 70113,
+      "crossplayID": 70113,
       "comment1": "princessReward",
       "comment2": "Legendary",
       "addPrincessToken": 1
     },
     {
       "rewardID": 70114,
+      "crossplayID": 70114,
       "comment1": "princessReward",
       "comment2": "Rare",
       "addGeneralsSkillsResetToken": 1
     },
     {
       "rewardID": 70115,
+      "crossplayID": 70115,
       "comment1": "princessReward",
       "comment2": "Epic",
       "relicEquipments": "-100@0,100"
     },
     {
       "rewardID": 70116,
+      "crossplayID": 70116,
       "comment1": "princessReward",
       "comment2": "Rare",
       "add24HourSkip": 1
     },
     {
       "rewardID": 70117,
+      "crossplayID": 70117,
       "comment1": "princessReward",
       "comment2": "Legendary",
       "currency2": 250
     },
     {
       "rewardID": 70118,
+      "crossplayID": 70118,
       "comment1": "princessReward",
       "comment2": "Common",
       "addGenXP500": 2
     },
     {
       "rewardID": 70119,
+      "crossplayID": 70119,
       "comment1": "princessReward",
       "comment2": "Rare",
       "addGenXP1000": 2
     },
     {
       "rewardID": 70120,
+      "crossplayID": 70120,
       "comment1": "princessReward",
       "comment2": "Rare",
       "addGenXP2500": 2
     },
     {
       "rewardID": 70121,
+      "crossplayID": 70121,
       "comment1": "princessReward",
       "comment2": "Epic",
       "addGenXP5000": 2
     },
     {
       "rewardID": 70122,
+      "crossplayID": 70122,
       "comment1": "princessReward",
       "comment2": "Legendary",
       "addGenXP10000": 2
     },
     {
       "rewardID": 70123,
+      "crossplayID": 70123,
       "comment1": "princessReward",
       "comment2": "Common",
       "addPegasusTicket": 200
     },
     {
       "rewardID": 70124,
+      "crossplayID": 70124,
       "comment1": "princessReward",
       "comment2": "Common",
       "food": 5000,
@@ -2713,54 +2831,63 @@
     },
     {
       "rewardID": 70125,
+      "crossplayID": 70125,
       "comment1": "princessReward",
       "comment2": "Epic",
       "constructionItemIDs": 30744
     },
     {
       "rewardID": 70126,
+      "crossplayID": 70126,
       "comment1": "princessReward",
       "comment2": "Epic",
       "constructionItemIDs": 30743
     },
     {
       "rewardID": 70127,
+      "crossplayID": 70127,
       "comment1": "princessReward",
       "comment2": "Epic",
       "constructionItemIDs": 30745
     },
     {
       "rewardID": 70128,
+      "crossplayID": 70128,
       "comment1": "princessReward",
       "comment2": "Epic",
       "constructionItemIDs": 30748
     },
     {
       "rewardID": 70129,
+      "crossplayID": 70129,
       "comment1": "princessReward",
       "comment2": "Epic",
       "constructionItemIDs": 30749
     },
     {
       "rewardID": 70130,
+      "crossplayID": 70130,
       "comment1": "princessReward",
       "comment2": "Epic",
       "constructionItemIDs": 30750
     },
     {
       "rewardID": 70131,
+      "crossplayID": 70131,
       "comment1": "princessReward",
       "comment2": "Epic",
       "constructionItemIDs": 30751
     },
     {
       "rewardID": 70132,
+      "crossplayID": 70132,
       "comment1": "princessReward",
       "comment2": "Epic",
       "constructionItemIDs": 30752
     },
     {
       "rewardID": 70133,
+      "crossplayID": 70133,
       "comment1": "princessReward",
       "comment2": "Common",
       "units": "10+750",
@@ -2769,6 +2896,7 @@
     },
     {
       "rewardID": 70134,
+      "crossplayID": 70134,
       "comment1": "princessReward",
       "comment2": "Common",
       "units": "9+750",
@@ -2777,6 +2905,7 @@
     },
     {
       "rewardID": 70135,
+      "crossplayID": 70135,
       "comment1": "princessReward",
       "comment2": "Common",
       "units": "11+500",
@@ -2785,6 +2914,7 @@
     },
     {
       "rewardID": 70136,
+      "crossplayID": 70136,
       "comment1": "princessReward",
       "comment2": "Common",
       "units": "12+500",
@@ -2793,102 +2923,119 @@
     },
     {
       "rewardID": 70137,
+      "crossplayID": 70137,
       "comment1": "princessReward",
       "comment2": "Rare",
       "units": "153+250"
     },
     {
       "rewardID": 70138,
+      "crossplayID": 70138,
       "comment1": "princessReward",
       "comment2": "Common",
       "units": "407+250"
     },
     {
       "rewardID": 70139,
+      "crossplayID": 70139,
       "comment1": "princessReward",
       "comment2": "Common",
       "units": "244+250"
     },
     {
       "rewardID": 70140,
+      "crossplayID": 70140,
       "comment1": "princessReward",
       "comment2": "Common",
       "units": "622+60"
     },
     {
       "rewardID": 70141,
+      "crossplayID": 70141,
       "comment1": "princessReward",
       "comment2": "Common",
       "units": "105+60"
     },
     {
       "rewardID": 70142,
+      "crossplayID": 70142,
       "comment1": "princessReward",
       "comment2": "Common",
       "units": "627+60"
     },
     {
       "rewardID": 70143,
+      "crossplayID": 70143,
       "comment1": "princessReward",
       "comment2": "Common",
       "units": "624+60"
     },
     {
       "rewardID": 70144,
+      "crossplayID": 70144,
       "comment1": "princessReward",
       "comment2": "Common",
       "units": "625+60"
     },
     {
       "rewardID": 70145,
+      "crossplayID": 70145,
       "comment1": "princessReward",
       "comment2": "Common",
       "units": "648+120"
     },
     {
       "rewardID": 70146,
+      "crossplayID": 70146,
       "comment1": "princessReward",
       "comment2": "Common",
       "units": "650+120"
     },
     {
       "rewardID": 70147,
+      "crossplayID": 70147,
       "comment1": "princessReward",
       "comment2": "Common",
       "units": "651+120"
     },
     {
       "rewardID": 70148,
+      "crossplayID": 70148,
       "comment1": "princessReward",
       "comment2": "Common",
       "units": "649+120"
     },
     {
       "rewardID": 70149,
+      "crossplayID": 70149,
       "comment1": "princessReward",
       "comment2": "Rare",
       "units": "245+30"
     },
     {
       "rewardID": 70150,
+      "crossplayID": 70150,
       "comment1": "princessReward",
       "comment2": "Rare",
       "units": "256+50"
     },
     {
       "rewardID": 70151,
+      "crossplayID": 70151,
       "comment1": "princessReward",
       "comment2": "Rare",
       "units": "300+15"
     },
     {
       "rewardID": 70152,
+      "crossplayID": 70152,
       "comment1": "princessReward",
       "comment2": "Rare",
       "units": "315+10"
     },
     {
       "rewardID": 70153,
+      "crossplayID": 70153,
       "comment1": "princessReward",
       "comment2": "Common",
       "stone": 5000,
@@ -2896,6 +3043,7 @@
     },
     {
       "rewardID": 70154,
+      "crossplayID": 70154,
       "comment1": "princessReward",
       "comment2": "Common",
       "wood": 5000,
@@ -2903,66 +3051,77 @@
     },
     {
       "rewardID": 70155,
+      "crossplayID": 70155,
       "comment1": "princessReward",
       "comment2": "Epic",
       "equipmentIDs": 992
     },
     {
       "rewardID": 70156,
+      "crossplayID": 70156,
       "comment1": "princessReward",
       "comment2": "Epic",
       "equipmentIDs": 991
     },
     {
       "rewardID": 70157,
+      "crossplayID": 70157,
       "comment1": "princessReward",
       "comment2": "Rare",
       "equipmentIDs": 993
     },
     {
       "rewardID": 70158,
+      "crossplayID": 70158,
       "comment1": "princessReward",
       "comment2": "Epic",
       "decoWodID": 2406
     },
     {
       "rewardID": 70159,
+      "crossplayID": 70159,
       "comment1": "princessReward",
       "comment2": "Epic",
       "decoWodID": 2458
     },
     {
       "rewardID": 70160,
+      "crossplayID": 70160,
       "comment1": "Sasaki 75",
       "comment2": "Legendary",
       "addShardSasaki": 75
     },
     {
       "rewardID": 70161,
+      "crossplayID": 70161,
       "comment1": "Sasaki 40",
       "comment2": "Epic",
       "addShardSasaki": 40
     },
     {
       "rewardID": 70162,
+      "crossplayID": 70162,
       "comment1": "Sasaki 25",
       "comment2": "Rare",
       "addShardSasaki": 25
     },
     {
       "rewardID": 70163,
+      "crossplayID": 70163,
       "comment1": "Sasaki 15",
       "comment2": "Rare",
       "addShardSasaki": 15
     },
     {
       "rewardID": 70164,
+      "crossplayID": 70164,
       "comment1": "WoF",
       "comment2": "Common",
       "addSaleDaysLuckyWheelTicket": 3
     },
     {
       "rewardID": 70165,
+      "crossplayID": 70165,
       "comment1": "VDeathlyH",
       "comment2": "Common",
       "units": "10+2000",
@@ -2971,6 +3130,7 @@
     },
     {
       "rewardID": 70166,
+      "crossplayID": 70166,
       "comment1": "VDemonH",
       "comment2": "Common",
       "units": "9+2000",
@@ -2979,6 +3139,7 @@
     },
     {
       "rewardID": 70167,
+      "crossplayID": 70167,
       "comment1": "VFlameB",
       "comment2": "Common",
       "units": "11+1500",
@@ -2987,6 +3148,7 @@
     },
     {
       "rewardID": 70168,
+      "crossplayID": 70168,
       "comment1": "VCompositB",
       "comment2": "Common",
       "units": "12+1500",
@@ -2995,102 +3157,119 @@
     },
     {
       "rewardID": 70169,
+      "crossplayID": 70169,
       "comment1": "GloryBooster8",
       "comment2": "Common",
       "units": "153+400"
     },
     {
       "rewardID": 70170,
+      "crossplayID": 70170,
       "comment1": "SamuraiTool8",
       "comment2": "Common",
       "units": "407+400"
     },
     {
       "rewardID": 70171,
+      "crossplayID": 70171,
       "comment1": "NomadTool8",
       "comment2": "Common",
       "units": "244+400"
     },
     {
       "rewardID": 70172,
+      "crossplayID": 70172,
       "comment1": "Portcullis",
       "comment2": "Common",
       "units": "622+100"
     },
     {
       "rewardID": 70173,
+      "crossplayID": 70173,
       "comment1": "QuickLimeBomb",
       "comment2": "Common",
       "units": "105+100"
     },
     {
       "rewardID": 70174,
+      "crossplayID": 70174,
       "comment1": "MurderHole",
       "comment2": "Common",
       "units": "627+100"
     },
     {
       "rewardID": 70175,
+      "crossplayID": 70175,
       "comment1": "ArrowSlit",
       "comment2": "Common",
       "units": "624+100"
     },
     {
       "rewardID": 70176,
+      "crossplayID": 70176,
       "comment1": "FireMoat",
       "comment2": "Common",
       "units": "625+100"
     },
     {
       "rewardID": 70177,
+      "crossplayID": 70177,
       "comment1": "HeavyRam",
       "comment2": "Common",
       "units": "648+200"
     },
     {
       "rewardID": 70178,
+      "crossplayID": 70178,
       "comment1": "Boulders",
       "comment2": "Common",
       "units": "650+200"
     },
     {
       "rewardID": 70179,
+      "crossplayID": 70179,
       "comment1": "ShiledWall",
       "comment2": "Common",
       "units": "651+200"
     },
     {
       "rewardID": 70180,
+      "crossplayID": 70180,
       "comment1": "BreachingTower",
       "comment2": "Common",
       "units": "649+200"
     },
     {
       "rewardID": 70181,
+      "crossplayID": 70181,
       "comment1": "ArmoredRam",
       "comment2": "Common",
       "units": "245+50"
     },
     {
       "rewardID": 70182,
+      "crossplayID": 70182,
       "comment1": "ArmoredSiegeTower",
       "comment2": "Common",
       "units": "256+75"
     },
     {
       "rewardID": 70183,
+      "crossplayID": 70183,
       "comment1": "FireBomb",
       "comment2": "Common",
       "units": "300+25"
     },
     {
       "rewardID": 70184,
+      "crossplayID": 70184,
       "comment1": "Trebuchet",
       "comment2": "Common",
       "units": "315+15"
     },
     {
       "rewardID": 70185,
+      "crossplayID": 70185,
       "comment1": "24HourSkip",
       "comment2": "Common",
       "add24HourSkip": 3,
@@ -3098,36 +3277,42 @@
     },
     {
       "rewardID": 70186,
+      "crossplayID": 70186,
       "comment1": "travelFeathers",
       "comment2": "Common",
       "addPegasusTicket": 250
     },
     {
       "rewardID": 70187,
+      "crossplayID": 70187,
       "comment1": "randomRelic",
       "comment2": "Common",
       "relicEquipments": "-100@0,100"
     },
     {
       "rewardID": 70188,
+      "crossplayID": 70188,
       "comment1": "RespecToken",
       "comment2": "Common",
       "addGeneralsSkillsResetToken": 2
     },
     {
       "rewardID": 70189,
+      "crossplayID": 70189,
       "comment1": "CourtYard",
       "comment2": "Common",
       "equipmentIDs": 992
     },
     {
       "rewardID": 70190,
+      "crossplayID": 70190,
       "comment1": "ReinfWave",
       "comment2": "Common",
       "equipmentIDs": 991
     },
     {
       "rewardID": 70191,
+      "crossplayID": 70191,
       "comment1": "UnitAmountWall",
       "comment2": "Common",
       "equipmentIDs": 993,
@@ -3135,102 +3320,119 @@
     },
     {
       "rewardID": 70192,
+      "crossplayID": 70192,
       "comment1": "Deco3.25k",
       "comment2": "Common",
       "decoWodID": 2725
     },
     {
       "rewardID": 70193,
+      "crossplayID": 70193,
       "comment1": "Deco3.6k",
       "comment2": "Common",
       "decoWodID": 2726
     },
     {
       "rewardID": 70194,
+      "crossplayID": 70194,
       "comment1": "Deco3k",
       "comment2": "Common",
       "decoWodID": 2406
     },
     {
       "rewardID": 70195,
+      "crossplayID": 70195,
       "comment1": "Deco3.5k",
       "comment2": "Common",
       "decoWodID": 2458
     },
     {
       "rewardID": 70196,
+      "crossplayID": 70196,
       "comment1": "Deco3.9k",
       "comment2": "Common",
       "decoWodID": 2526
     },
     {
       "rewardID": 70197,
+      "crossplayID": 70197,
       "comment1": "elvenFarm - defenseUnitAmountYardMinorBoost 2",
       "comment2": "Common",
       "constructionItemIDs": 30750
     },
     {
       "rewardID": 70198,
+      "crossplayID": 70198,
       "comment1": "elvenEstate - attackUnitAmountReinforcementBonus 1000",
       "comment2": "Common",
       "constructionItemIDs": 30744
     },
     {
       "rewardID": 70199,
+      "crossplayID": 70199,
       "comment1": "elvenBarrack - UnitAmountWall 350",
       "comment2": "Common",
       "constructionItemIDs": 30743
     },
     {
       "rewardID": 70200,
+      "crossplayID": 70200,
       "comment1": "elvenKeep - defenseUnitAmountYardBonus 1200",
       "comment2": "Common",
       "constructionItemIDs": 30745
     },
     {
       "rewardID": 70201,
+      "crossplayID": 70201,
       "comment1": "elvenBarrack - defenseUnitAmountYardBonus 1200",
       "comment2": "Common",
       "constructionItemIDs": 30748
     },
     {
       "rewardID": 70202,
+      "crossplayID": 70202,
       "comment1": "elvenHospital - defenseUnitAmountYardBonus 1200",
       "comment2": "Common",
       "constructionItemIDs": 30749
     },
     {
       "rewardID": 70203,
+      "crossplayID": 70203,
       "comment1": "elvenBarrack - attackUnitAmountReinforcementBoost 10",
       "comment2": "Common",
       "constructionItemIDs": 30751
     },
     {
       "rewardID": 70204,
+      "crossplayID": 70204,
       "comment1": "elvenHospital - attackUnitAmountReinforcementBonus 1000",
       "comment2": "Common",
       "constructionItemIDs": 30752
     },
     {
       "rewardID": 70205,
+      "crossplayID": 70205,
       "comment1": "FatKingToken",
       "comment2": "Common",
       "addFatKingToken": 2
     },
     {
       "rewardID": 70206,
+      "crossplayID": 70206,
       "comment1": "KnightToken",
       "comment2": "Common",
       "addKnightToken": 1
     },
     {
       "rewardID": 70207,
+      "crossplayID": 70207,
       "comment1": "PrincessToken",
       "comment2": "Common",
       "addPrincessToken": 1
     },
     {
       "rewardID": 70208,
+      "crossplayID": 70208,
       "comment1": "SasakiToken",
       "comment2": "Common",
       "addSasakiToken": 1
@@ -20730,12 +20932,14 @@
     },
     {
       "rewardID": 50000,
+      "crossplayID": 50000,
       "comment1": "Mystery Box Bronze",
       "comment2": "Common",
       "units": "10+30"
     },
     {
       "rewardID": 50001,
+      "crossplayID": 50001,
       "comment1": "Mystery Box Bronze",
       "comment2": "Common",
       "units": "9+30",
@@ -20744,6 +20948,7 @@
     },
     {
       "rewardID": 50002,
+      "crossplayID": 50002,
       "comment1": "Mystery Box Bronze",
       "comment2": "Common",
       "food": 25000,
@@ -20751,48 +20956,56 @@
     },
     {
       "rewardID": 50003,
+      "crossplayID": 50003,
       "comment1": "Mystery Box Bronze",
       "comment2": "Common",
       "addPegasusTicket": 15
     },
     {
       "rewardID": 50004,
+      "crossplayID": 50004,
       "comment1": "Mystery Box Bronze",
       "comment2": "Common",
       "addSilverToken": 200
     },
     {
       "rewardID": 50005,
+      "crossplayID": 50005,
       "comment1": "Mystery Box Bronze",
       "comment2": "Rare",
       "add60MinSkip": 7
     },
     {
       "rewardID": 50006,
+      "crossplayID": 50006,
       "comment1": "Mystery Box Bronze",
       "comment2": "Rare",
       "units": "153+40"
     },
     {
       "rewardID": 50007,
+      "crossplayID": 50007,
       "comment1": "Mystery Box Bronze",
       "comment2": "Rare",
       "units": "244+40"
     },
     {
       "rewardID": 50008,
+      "crossplayID": 50008,
       "comment1": "Mystery Box Bronze",
       "comment2": "Rare",
       "units": "166+40"
     },
     {
       "rewardID": 50009,
+      "crossplayID": 50009,
       "comment1": "Mystery Box Bronze",
       "comment2": "Rare",
       "addGoldToken": 400
     },
     {
       "rewardID": 50010,
+      "crossplayID": 50010,
       "comment1": "Mystery Box Bronze",
       "comment2": "Epic",
       "addLegendaryToken": 10,
@@ -20800,6 +21013,7 @@
     },
     {
       "rewardID": 50011,
+      "crossplayID": 50011,
       "comment1": "Mystery Box Bronze",
       "comment2": "Epic",
       "addLegendaryMaterial": 40,
@@ -20807,6 +21021,7 @@
     },
     {
       "rewardID": 50012,
+      "crossplayID": 50012,
       "comment1": "Mystery Box Bronze",
       "comment2": "Legendary",
       "decoWodID": 2469,
@@ -20814,12 +21029,14 @@
     },
     {
       "rewardID": 50013,
+      "crossplayID": 50013,
       "comment1": "Mystery Box Silver",
       "comment2": "Common",
       "units": "10+100"
     },
     {
       "rewardID": 50014,
+      "crossplayID": 50014,
       "comment1": "Mystery Box Silver",
       "comment2": "Common",
       "units": "9+100",
@@ -20828,24 +21045,28 @@
     },
     {
       "rewardID": 50015,
+      "crossplayID": 50015,
       "comment1": "Mystery Box Silver",
       "comment2": "Common",
       "units": "153+40"
     },
     {
       "rewardID": 50016,
+      "crossplayID": 50016,
       "comment1": "Mystery Box Silver",
       "comment2": "Common",
       "units": "244+40"
     },
     {
       "rewardID": 50017,
+      "crossplayID": 50017,
       "comment1": "Mystery Box Silver",
       "comment2": "Common",
       "units": "166+40"
     },
     {
       "rewardID": 50018,
+      "crossplayID": 50018,
       "comment1": "Mystery Box Silver",
       "comment2": "Common",
       "addCommonTimber": 120,
@@ -20853,6 +21074,7 @@
     },
     {
       "rewardID": 50019,
+      "crossplayID": 50019,
       "comment1": "Mystery Box Silver",
       "comment2": "Common",
       "food": 25000,
@@ -20861,24 +21083,28 @@
     },
     {
       "rewardID": 50020,
+      "crossplayID": 50020,
       "comment1": "Mystery Box Silver",
       "comment2": "Common",
       "addSilverToken": 500
     },
     {
       "rewardID": 50021,
+      "crossplayID": 50021,
       "comment1": "Mystery Box Silver",
       "comment2": "Rare",
       "units": "651+40"
     },
     {
       "rewardID": 50022,
+      "crossplayID": 50022,
       "comment1": "Mystery Box Silver",
       "comment2": "Rare",
       "units": "649+40"
     },
     {
       "rewardID": 50023,
+      "crossplayID": 50023,
       "comment1": "Mystery Box Silver",
       "comment2": "Rare",
       "addRareNails": 176,
@@ -20886,18 +21112,21 @@
     },
     {
       "rewardID": 50024,
+      "crossplayID": 50024,
       "comment1": "Mystery Box Silver",
       "comment2": "Rare",
       "add60MinSkip": 15
     },
     {
       "rewardID": 50025,
+      "crossplayID": 50025,
       "comment1": "Mystery Box Silver",
       "comment2": "Rare",
       "addGoldToken": 1000
     },
     {
       "rewardID": 50026,
+      "crossplayID": 50026,
       "comment1": "Mystery Box Silver",
       "comment2": "Epic",
       "addLegendaryToken": 20,
@@ -20905,6 +21134,7 @@
     },
     {
       "rewardID": 50027,
+      "crossplayID": 50027,
       "comment1": "Mystery Box Silver",
       "comment2": "Epic",
       "addLegendaryMaterial": 80,
@@ -20912,6 +21142,7 @@
     },
     {
       "rewardID": 50028,
+      "crossplayID": 50028,
       "comment1": "Mystery Box Silver",
       "comment2": "Legendary",
       "decoWodID": 2470,
@@ -20919,12 +21150,14 @@
     },
     {
       "rewardID": 50029,
+      "crossplayID": 50029,
       "comment1": "Mystery Box Gold",
       "comment2": "Common",
       "units": "206+200"
     },
     {
       "rewardID": 50030,
+      "crossplayID": 50030,
       "comment1": "Mystery Box Gold",
       "comment2": "Common",
       "units": "196+200",
@@ -20933,24 +21166,28 @@
     },
     {
       "rewardID": 50031,
+      "crossplayID": 50031,
       "comment1": "Mystery Box Gold",
       "comment2": "Common",
       "units": "153+60"
     },
     {
       "rewardID": 50032,
+      "crossplayID": 50032,
       "comment1": "Mystery Box Gold",
       "comment2": "Common",
       "units": "244+60"
     },
     {
       "rewardID": 50033,
+      "crossplayID": 50033,
       "comment1": "Mystery Box Gold",
       "comment2": "Common",
       "units": "166+60"
     },
     {
       "rewardID": 50034,
+      "crossplayID": 50034,
       "comment1": "Mystery Box Gold",
       "comment2": "Common",
       "addCommonTimber": 240,
@@ -20958,6 +21195,7 @@
     },
     {
       "rewardID": 50035,
+      "crossplayID": 50035,
       "comment1": "Mystery Box Gold",
       "comment2": "Common",
       "food": 50000,
@@ -20966,30 +21204,35 @@
     },
     {
       "rewardID": 50036,
+      "crossplayID": 50036,
       "comment1": "Mystery Box Gold",
       "comment2": "Common",
       "addSilverToken": 1000
     },
     {
       "rewardID": 50037,
+      "crossplayID": 50037,
       "comment1": "Mystery Box Gold",
       "comment2": "Rare",
       "units": "651+60"
     },
     {
       "rewardID": 50038,
+      "crossplayID": 50038,
       "comment1": "Mystery Box Gold",
       "comment2": "Rare",
       "units": "649+60"
     },
     {
       "rewardID": 50039,
+      "crossplayID": 50039,
       "comment1": "Mystery Box Gold",
       "comment2": "Rare",
       "units": "648+60"
     },
     {
       "rewardID": 50040,
+      "crossplayID": 50040,
       "comment1": "Mystery Box Gold",
       "comment2": "Rare",
       "addRareNails": 416,
@@ -20997,24 +21240,28 @@
     },
     {
       "rewardID": 50041,
+      "crossplayID": 50041,
       "comment1": "Mystery Box Gold",
       "comment2": "Rare",
       "add5HourSkip": 7
     },
     {
       "rewardID": 50042,
+      "crossplayID": 50042,
       "comment1": "Mystery Box Gold",
       "comment2": "Rare",
       "addGoldToken": 2000
     },
     {
       "rewardID": 50043,
+      "crossplayID": 50043,
       "comment1": "Mystery Box Gold",
       "comment2": "Epic",
       "addEpicCobblestone": 550
     },
     {
       "rewardID": 50044,
+      "crossplayID": 50044,
       "comment1": "Mystery Box Gold",
       "comment2": "Epic",
       "addLegendaryToken": 40,
@@ -21022,6 +21269,7 @@
     },
     {
       "rewardID": 50045,
+      "crossplayID": 50045,
       "comment1": "Mystery Box Gold",
       "comment2": "Epic",
       "addLegendaryMaterial": 160,
@@ -21029,6 +21277,7 @@
     },
     {
       "rewardID": 50046,
+      "crossplayID": 50046,
       "comment1": "Mystery Box Gold",
       "comment2": "Legendary",
       "addSaleDaysLuckyWheelTicket": 3,
@@ -21036,6 +21285,7 @@
     },
     {
       "rewardID": 50047,
+      "crossplayID": 50047,
       "comment1": "Mystery Box Gold",
       "comment2": "Legendary",
       "decoWodID": 2471,
@@ -21043,144 +21293,168 @@
     },
     {
       "rewardID": 50048,
+      "crossplayID": 50048,
       "comment1": "Summber Box 2022",
       "comment2": "Common",
       "addLegendaryToken": 30
     },
     {
       "rewardID": 50049,
+      "crossplayID": 50049,
       "comment1": "Summber Box 2022",
       "comment2": "Common",
       "addLegendaryMaterial": 60
     },
     {
       "rewardID": 50050,
+      "crossplayID": 50050,
       "comment1": "Summber Box 2022",
       "comment2": "Common",
       "addSceatToken": 15
     },
     {
       "rewardID": 50051,
+      "crossplayID": 50051,
       "comment1": "Summber Box 2022",
       "comment2": "Common",
       "add24HourSkip": 10
     },
     {
       "rewardID": 50052,
+      "crossplayID": 50052,
       "comment1": "Summber Box 2022",
       "comment2": "Common",
       "addSaleDaysLuckyWheelTicket": 2
     },
     {
       "rewardID": 50053,
+      "crossplayID": 50053,
       "comment1": "Summber Box 2022",
       "comment2": "Rare",
       "relicEquipments": "2@20,100"
     },
     {
       "rewardID": 50054,
+      "crossplayID": 50054,
       "comment1": "Summber Box 2022",
       "comment2": "Rare",
       "relicEquipments": "102@20,100"
     },
     {
       "rewardID": 50055,
+      "crossplayID": 50055,
       "comment1": "Summber Box 2022",
       "comment2": "Rare",
       "relicEquipments": "202@20,100"
     },
     {
       "rewardID": 50056,
+      "crossplayID": 50056,
       "comment1": "Summber Box 2022",
       "comment2": "Rare",
       "relicEquipments": "302@20,100"
     },
     {
       "rewardID": 50057,
+      "crossplayID": 50057,
       "comment1": "Summber Box 2022",
       "comment2": "Epic",
       "relicEquipments": "3102@0,100"
     },
     {
       "rewardID": 50058,
+      "crossplayID": 50058,
       "comment1": "Summber Box 2022",
       "comment2": "Legendary",
       "relicEquipments": "6402@0,100"
     },
     {
       "rewardID": 50059,
+      "crossplayID": 50059,
       "comment1": "Autumn Box 2022",
       "comment2": "Common",
       "addLegendaryToken": 11
     },
     {
       "rewardID": 50060,
+      "crossplayID": 50060,
       "comment1": "Autumn Box 2022",
       "comment2": "Common",
       "addLegendaryMaterial": 44
     },
     {
       "rewardID": 50061,
+      "crossplayID": 50061,
       "comment1": "Autumn Box 2022",
       "comment2": "Common",
       "addSceatToken": 5
     },
     {
       "rewardID": 50062,
+      "crossplayID": 50062,
       "comment1": "Autumn Box 2022",
       "comment2": "Common",
       "add24HourSkip": 10
     },
     {
       "rewardID": 50063,
+      "crossplayID": 50063,
       "comment1": "Autumn Box 2022",
       "comment2": "Common",
       "addSaleDaysLuckyWheelTicket": 2
     },
     {
       "rewardID": 50064,
+      "crossplayID": 50064,
       "comment1": "Autumn Box 2022",
       "comment2": "Rare",
       "relicEquipments": "10002@0,100"
     },
     {
       "rewardID": 50065,
+      "crossplayID": 50065,
       "comment1": "Autumn Box 2022",
       "comment2": "Rare",
       "relicEquipments": "10102@0,100"
     },
     {
       "rewardID": 50066,
+      "crossplayID": 50066,
       "comment1": "Autumn Box 2022",
       "comment2": "Rare",
       "relicEquipments": "10202@0,100"
     },
     {
       "rewardID": 50067,
+      "crossplayID": 50067,
       "comment1": "Autumn Box 2022",
       "comment2": "Rare",
       "relicEquipments": "10302@0,100"
     },
     {
       "rewardID": 50068,
+      "crossplayID": 50068,
       "comment1": "Autumn Box 2022",
       "comment2": "Epic",
       "relicEquipments": "13102@0,100"
     },
     {
       "rewardID": 50069,
+      "crossplayID": 50069,
       "comment1": "Autumn Box 2022",
       "comment2": "Legendary",
       "relicEquipments": "16102@0,100"
     },
     {
       "rewardID": 50070,
+      "crossplayID": 50070,
       "comment1": "Sales Box 2022",
       "comment2": "Common",
       "units": "215+2000"
     },
     {
       "rewardID": 50071,
+      "crossplayID": 50071,
       "comment1": "Sales Box 2022",
       "comment2": "Common",
       "units": "216+2000",
@@ -21189,12 +21463,14 @@
     },
     {
       "rewardID": 50072,
+      "crossplayID": 50072,
       "comment1": "Sales Box 2022",
       "comment2": "Common",
       "units": "217+2000"
     },
     {
       "rewardID": 50073,
+      "crossplayID": 50073,
       "comment1": "Sales Box 2022",
       "comment2": "Common",
       "units": "228+2000",
@@ -21203,42 +21479,49 @@
     },
     {
       "rewardID": 50074,
+      "crossplayID": 50074,
       "comment1": "Sales Box 2022",
       "comment2": "Common",
       "units": "152+1000"
     },
     {
       "rewardID": 50075,
+      "crossplayID": 50075,
       "comment1": "Sales Box 2022",
       "comment2": "Common",
       "units": "164+1000"
     },
     {
       "rewardID": 50076,
+      "crossplayID": 50076,
       "comment1": "Sales Box 2022",
       "comment2": "Common",
       "units": "17+1000"
     },
     {
       "rewardID": 50077,
+      "crossplayID": 50077,
       "comment1": "Sales Box 2022",
       "comment2": "Common",
       "units": "165+1000"
     },
     {
       "rewardID": 50078,
+      "crossplayID": 50078,
       "comment1": "Sales Box 2022",
       "comment2": "Common",
       "addSaleDaysLuckyWheelTicket": 1
     },
     {
       "rewardID": 50079,
+      "crossplayID": 50079,
       "comment1": "Sales Box 2022",
       "comment2": "Rare",
       "units": "196+2000"
     },
     {
       "rewardID": 50080,
+      "crossplayID": 50080,
       "comment1": "Sales Box 2022",
       "comment2": "Rare",
       "units": "206+2000",
@@ -21247,12 +21530,14 @@
     },
     {
       "rewardID": 50081,
+      "crossplayID": 50081,
       "comment1": "Sales Box 2022",
       "comment2": "Rare",
       "units": "219+2000"
     },
     {
       "rewardID": 50082,
+      "crossplayID": 50082,
       "comment1": "Sales Box 2022",
       "comment2": "Rare",
       "units": "230+2000",
@@ -21261,42 +21546,49 @@
     },
     {
       "rewardID": 50083,
+      "crossplayID": 50083,
       "comment1": "Sales Box 2022",
       "comment2": "Rare",
       "units": "153+1000"
     },
     {
       "rewardID": 50084,
+      "crossplayID": 50084,
       "comment1": "Sales Box 2022",
       "comment2": "Rare",
       "units": "244+1000"
     },
     {
       "rewardID": 50085,
+      "crossplayID": 50085,
       "comment1": "Sales Box 2022",
       "comment2": "Rare",
       "units": "241+1000"
     },
     {
       "rewardID": 50086,
+      "crossplayID": 50086,
       "comment1": "Sales Box 2022",
       "comment2": "Rare",
       "units": "166+1000"
     },
     {
       "rewardID": 50087,
+      "crossplayID": 50087,
       "comment1": "Sales Box 2022",
       "comment2": "Rare",
       "addSaleDaysLuckyWheelTicket": 2
     },
     {
       "rewardID": 50088,
+      "crossplayID": 50088,
       "comment1": "Sales Box 2022",
       "comment2": "Epic",
       "units": "199+2000"
     },
     {
       "rewardID": 50089,
+      "crossplayID": 50089,
       "comment1": "Sales Box 2022",
       "comment2": "Epic",
       "units": "209+2000",
@@ -21305,12 +21597,14 @@
     },
     {
       "rewardID": 50090,
+      "crossplayID": 50090,
       "comment1": "Sales Box 2022",
       "comment2": "Epic",
       "units": "222+2000"
     },
     {
       "rewardID": 50091,
+      "crossplayID": 50091,
       "comment1": "Sales Box 2022",
       "comment2": "Epic",
       "units": "233+2000",
@@ -21319,42 +21613,49 @@
     },
     {
       "rewardID": 50092,
+      "crossplayID": 50092,
       "comment1": "Sales Box 2022",
       "comment2": "Epic",
       "units": "239+1000"
     },
     {
       "rewardID": 50093,
+      "crossplayID": 50093,
       "comment1": "Sales Box 2022",
       "comment2": "Epic",
       "units": "404+1000"
     },
     {
       "rewardID": 50094,
+      "crossplayID": 50094,
       "comment1": "Sales Box 2022",
       "comment2": "Epic",
       "units": "242+1000"
     },
     {
       "rewardID": 50095,
+      "crossplayID": 50095,
       "comment1": "Sales Box 2022",
       "comment2": "Epic",
       "units": "406+1000"
     },
     {
       "rewardID": 50096,
+      "crossplayID": 50096,
       "comment1": "Sales Box 2022",
       "comment2": "Epic",
       "addSaleDaysLuckyWheelTicket": 3
     },
     {
       "rewardID": 50097,
+      "crossplayID": 50097,
       "comment1": "Sales Box 2022",
       "comment2": "Legendary",
       "units": "204+2000"
     },
     {
       "rewardID": 50098,
+      "crossplayID": 50098,
       "comment1": "Sales Box 2022",
       "comment2": "Legendary",
       "units": "214+2000",
@@ -21363,12 +21664,14 @@
     },
     {
       "rewardID": 50099,
+      "crossplayID": 50099,
       "comment1": "Sales Box 2022",
       "comment2": "Legendary",
       "units": "227+2000"
     },
     {
       "rewardID": 50100,
+      "crossplayID": 50100,
       "comment1": "Sales Box 2022",
       "comment2": "Legendary",
       "units": "238+2000",
@@ -21377,66 +21680,77 @@
     },
     {
       "rewardID": 50101,
+      "crossplayID": 50101,
       "comment1": "Sales Box 2022",
       "comment2": "Legendary",
       "units": "240+1000"
     },
     {
       "rewardID": 50102,
+      "crossplayID": 50102,
       "comment1": "Sales Box 2022",
       "comment2": "Legendary",
       "units": "405+1000"
     },
     {
       "rewardID": 50103,
+      "crossplayID": 50103,
       "comment1": "Sales Box 2022",
       "comment2": "Legendary",
       "units": "242+1200"
     },
     {
       "rewardID": 50104,
+      "crossplayID": 50104,
       "comment1": "Sales Box 2022",
       "comment2": "Legendary",
       "units": "407+1000"
     },
     {
       "rewardID": 50105,
+      "crossplayID": 50105,
       "comment1": "Sales Box 2022",
       "comment2": "Legendary",
       "addSaleDaysLuckyWheelTicket": 5
     },
     {
       "rewardID": 50106,
+      "crossplayID": 50106,
       "comment1": "Sales Box 2022",
       "comment2": "Epic",
       "constructionItemIDs": 30746
     },
     {
       "rewardID": 50107,
+      "crossplayID": 50107,
       "comment1": "Sales Box 2022",
       "comment2": "Legendary",
       "constructionItemIDs": 30747
     },
     {
       "rewardID": 50108,
+      "crossplayID": 50108,
       "comment1": "Winter Box 2023",
       "comment2": "Common",
       "addLegendaryToken": 30
     },
     {
       "rewardID": 50109,
+      "crossplayID": 50109,
       "comment1": "Winter Box 2023",
       "comment2": "Common",
       "addLegendaryMaterial": 60
     },
     {
       "rewardID": 50110,
+      "crossplayID": 50110,
       "comment1": "Winter Box 2023",
       "comment2": "Common",
       "addSceatToken": 15
     },
     {
       "rewardID": 50111,
+      "crossplayID": 50111,
       "comment1": "Winter Box 2023",
       "comment2": "Common",
       "add24HourSkip": 10,
@@ -21444,54 +21758,63 @@
     },
     {
       "rewardID": 50112,
+      "crossplayID": 50112,
       "comment1": "Winter Box 2023",
       "comment2": "Common",
       "addSaleDaysLuckyWheelTicket": 2
     },
     {
       "rewardID": 50113,
+      "crossplayID": 50113,
       "comment1": "Winter Box 2023",
       "comment2": "Rare",
       "relicEquipments": "2@0,100"
     },
     {
       "rewardID": 50114,
+      "crossplayID": 50114,
       "comment1": "Winter Box 2023",
       "comment2": "Rare",
       "relicEquipments": "102@0,100"
     },
     {
       "rewardID": 50115,
+      "crossplayID": 50115,
       "comment1": "Winter Box 2023",
       "comment2": "Rare",
       "relicEquipments": "202@0,100"
     },
     {
       "rewardID": 50116,
+      "crossplayID": 50116,
       "comment1": "Winter Box 2023",
       "comment2": "Rare",
       "relicEquipments": "302@0,100"
     },
     {
       "rewardID": 50117,
+      "crossplayID": 50117,
       "comment1": "Winter Box 2023",
       "comment2": "Epic",
       "relicEquipments": "3002@0,100"
     },
     {
       "rewardID": 50118,
+      "crossplayID": 50118,
       "comment1": "Winter Box 2023",
       "comment2": "Legendary",
       "relicEquipments": "6002@0,100"
     },
     {
       "rewardID": 50120,
+      "crossplayID": 50120,
       "comment1": "Bronze L20-L69",
       "comment2": "Common",
       "units": "9+500"
     },
     {
       "rewardID": 50121,
+      "crossplayID": 50121,
       "comment1": "Bronze L20-L69",
       "comment2": "Common",
       "units": "10+500",
@@ -21500,12 +21823,14 @@
     },
     {
       "rewardID": 50122,
+      "crossplayID": 50122,
       "comment1": "Bronze L20-L69",
       "comment2": "Common",
       "units": "11+500"
     },
     {
       "rewardID": 50123,
+      "crossplayID": 50123,
       "comment1": "Bronze L20-L69",
       "comment2": "Common",
       "units": "12+500",
@@ -21514,6 +21839,7 @@
     },
     {
       "rewardID": 50124,
+      "crossplayID": 50124,
       "comment1": "Bronze L20-L69",
       "comment2": "Common",
       "food": 30000,
@@ -21521,6 +21847,7 @@
     },
     {
       "rewardID": 50125,
+      "crossplayID": 50125,
       "comment1": "Bronze L20-L69",
       "comment2": "Common",
       "wood": 15000,
@@ -21528,6 +21855,7 @@
     },
     {
       "rewardID": 50126,
+      "crossplayID": 50126,
       "comment1": "Bronze L20-L69",
       "comment2": "Common",
       "stone": 15000,
@@ -21535,12 +21863,14 @@
     },
     {
       "rewardID": 50127,
+      "crossplayID": 50127,
       "comment1": "Bronze L20-L69",
       "comment2": "Common",
       "add1MinSkip": 50
     },
     {
       "rewardID": 50128,
+      "crossplayID": 50128,
       "comment1": "Bronze L20-L69",
       "comment2": "Common",
       "addPegasusTicket": 30,
@@ -21548,252 +21878,294 @@
     },
     {
       "rewardID": 50129,
+      "crossplayID": 50129,
       "comment1": "Bronze L20-L69",
       "comment2": "Common",
       "vipPoints": 100
     },
     {
       "rewardID": 50130,
+      "crossplayID": 50130,
       "comment1": "Bronze L20-L69",
       "comment2": "Common",
       "vipTime": 10800
     },
     {
       "rewardID": 50131,
+      "crossplayID": 50131,
       "comment1": "Bronze L20-L69",
       "comment2": "Common",
       "addLuckyWheelTicket": 15
     },
     {
       "rewardID": 50132,
+      "crossplayID": 50132,
       "comment1": "Bronze L20-L69",
       "comment2": "Rare",
       "units": "648+100"
     },
     {
       "rewardID": 50133,
+      "crossplayID": 50133,
       "comment1": "Bronze L20-L69",
       "comment2": "Rare",
       "units": "622+50"
     },
     {
       "rewardID": 50134,
+      "crossplayID": 50134,
       "comment1": "Bronze L20-L69",
       "comment2": "Rare",
       "units": "650+100"
     },
     {
       "rewardID": 50135,
+      "crossplayID": 50135,
       "comment1": "Bronze L20-L69",
       "comment2": "Rare",
       "units": "625+50"
     },
     {
       "rewardID": 50136,
+      "crossplayID": 50136,
       "comment1": "Bronze L20-L69",
       "comment2": "Rare",
       "units": "651+100"
     },
     {
       "rewardID": 50137,
+      "crossplayID": 50137,
       "comment1": "Bronze L20-L69",
       "comment2": "Rare",
       "units": "624+50"
     },
     {
       "rewardID": 50138,
+      "crossplayID": 50138,
       "comment1": "Bronze L20-L69",
       "comment2": "Rare",
       "units": "649+100"
     },
     {
       "rewardID": 50139,
+      "crossplayID": 50139,
       "comment1": "Bronze L20-L69",
       "comment2": "Rare",
       "units": "627+50"
     },
     {
       "rewardID": 50140,
+      "crossplayID": 50140,
       "comment1": "Bronze L20-L69",
       "comment2": "Rare",
       "units": "734+200"
     },
     {
       "rewardID": 50141,
+      "crossplayID": 50141,
       "comment1": "Bronze L20-L69",
       "comment2": "Rare",
       "units": "165+100"
     },
     {
       "rewardID": 50142,
+      "crossplayID": 50142,
       "comment1": "Bronze L20-L69",
       "comment2": "Rare",
       "units": "152+200"
     },
     {
       "rewardID": 50143,
+      "crossplayID": 50143,
       "comment1": "Bronze L20-L69",
       "comment2": "Rare",
       "units": "166+100"
     },
     {
       "rewardID": 50144,
+      "crossplayID": 50144,
       "comment1": "Bronze L20-L69",
       "comment2": "Epic",
       "addFatKingToken": 2
     },
     {
       "rewardID": 50145,
+      "crossplayID": 50145,
       "comment1": "Bronze L20-L69",
       "comment2": "Epic",
       "addKnightToken": 1
     },
     {
       "rewardID": 50146,
+      "crossplayID": 50146,
       "comment1": "Bronze L20-L69",
       "comment2": "Epic",
       "addPrincessToken": 1
     },
     {
       "rewardID": 50147,
+      "crossplayID": 50147,
       "comment1": "Bronze L20-L69",
       "comment2": "Epic",
       "constructionItemIDs": 31161
     },
     {
       "rewardID": 50148,
+      "crossplayID": 50148,
       "comment1": "Bronze L20-L69",
       "comment2": "Epic",
       "constructionItemIDs": 31170
     },
     {
       "rewardID": 50149,
+      "crossplayID": 50149,
       "comment1": "Bronze L20-L69",
       "comment2": "Epic",
       "constructionItemIDs": 31149
     },
     {
       "rewardID": 50150,
+      "crossplayID": 50150,
       "comment1": "Bronze L20-L69",
       "comment2": "Epic",
       "constructionItemIDs": 31137
     },
     {
       "rewardID": 50151,
+      "crossplayID": 50151,
       "comment1": "Bronze L20-L69",
       "comment2": "Legendary",
       "enchantedEquipmentIDs": "667+20"
     },
     {
       "rewardID": 50152,
+      "crossplayID": 50152,
       "comment1": "Bronze L20-L69",
       "comment2": "Legendary",
       "enchantedEquipmentIDs": "668+20"
     },
     {
       "rewardID": 50153,
+      "crossplayID": 50153,
       "comment1": "Bronze L20-L69",
       "comment2": "Legendary",
       "enchantedEquipmentIDs": "669+20"
     },
     {
       "rewardID": 50154,
+      "crossplayID": 50154,
       "comment1": "Bronze L20-L69",
       "comment2": "Legendary",
       "enchantedEquipmentIDs": "670+20"
     },
     {
       "rewardID": 50155,
+      "crossplayID": 50155,
       "comment1": "Bronze L20-L69",
       "comment2": "Legendary",
       "equipmentIDs": 671
     },
     {
       "rewardID": 50156,
+      "crossplayID": 50156,
       "comment1": "Bronze L20-L69",
       "comment2": "Legendary",
       "gemIDs": 411
     },
     {
       "rewardID": 50157,
+      "crossplayID": 50157,
       "comment1": "Bronze L20-L69",
       "comment2": "Legendary",
       "gemIDs": 412
     },
     {
       "rewardID": 50158,
+      "crossplayID": 50158,
       "comment1": "Bronze L20-L69",
       "comment2": "Legendary",
       "gemIDs": 413
     },
     {
       "rewardID": 50159,
+      "crossplayID": 50159,
       "comment1": "Bronze L20-L69",
       "comment2": "Legendary",
       "gemIDs": 414
     },
     {
       "rewardID": 50160,
+      "crossplayID": 50160,
       "comment1": "Bronze L20-L69",
       "comment2": "Legendary",
       "enchantedEquipmentIDs": "672+20"
     },
     {
       "rewardID": 50161,
+      "crossplayID": 50161,
       "comment1": "Bronze L20-L69",
       "comment2": "Legendary",
       "enchantedEquipmentIDs": "673+20"
     },
     {
       "rewardID": 50162,
+      "crossplayID": 50162,
       "comment1": "Bronze L20-L69",
       "comment2": "Legendary",
       "enchantedEquipmentIDs": "674+20"
     },
     {
       "rewardID": 50163,
+      "crossplayID": 50163,
       "comment1": "Bronze L20-L69",
       "comment2": "Legendary",
       "enchantedEquipmentIDs": "675+20"
     },
     {
       "rewardID": 50164,
+      "crossplayID": 50164,
       "comment1": "Bronze L20-L69",
       "comment2": "Legendary",
       "equipmentIDs": 676
     },
     {
       "rewardID": 50165,
+      "crossplayID": 50165,
       "comment1": "Bronze L20-L69",
       "comment2": "Legendary",
       "gemIDs": 415
     },
     {
       "rewardID": 50166,
+      "crossplayID": 50166,
       "comment1": "Bronze L20-L69",
       "comment2": "Legendary",
       "gemIDs": 416
     },
     {
       "rewardID": 50167,
+      "crossplayID": 50167,
       "comment1": "Bronze L20-L69",
       "comment2": "Legendary",
       "gemIDs": 417
     },
     {
       "rewardID": 50168,
+      "crossplayID": 50168,
       "comment1": "Bronze L20-L69",
       "comment2": "Legendary",
       "gemIDs": 418
     },
     {
       "rewardID": 50170,
+      "crossplayID": 50170,
       "comment1": "Silver L20-L69",
       "comment2": "Common",
       "units": "9+1000"
     },
     {
       "rewardID": 50171,
+      "crossplayID": 50171,
       "comment1": "Silver L20-L69",
       "comment2": "Common",
       "units": "10+1000",
@@ -21802,12 +22174,14 @@
     },
     {
       "rewardID": 50172,
+      "crossplayID": 50172,
       "comment1": "Silver L20-L69",
       "comment2": "Common",
       "units": "11+1000"
     },
     {
       "rewardID": 50173,
+      "crossplayID": 50173,
       "comment1": "Silver L20-L69",
       "comment2": "Common",
       "units": "12+1000",
@@ -21816,6 +22190,7 @@
     },
     {
       "rewardID": 50174,
+      "crossplayID": 50174,
       "comment1": "Silver L20-L69",
       "comment2": "Common",
       "food": 45000,
@@ -21823,6 +22198,7 @@
     },
     {
       "rewardID": 50175,
+      "crossplayID": 50175,
       "comment1": "Silver L20-L69",
       "comment2": "Common",
       "wood": 22500,
@@ -21830,6 +22206,7 @@
     },
     {
       "rewardID": 50176,
+      "crossplayID": 50176,
       "comment1": "Silver L20-L69",
       "comment2": "Common",
       "stone": 22500,
@@ -21837,12 +22214,14 @@
     },
     {
       "rewardID": 50177,
+      "crossplayID": 50177,
       "comment1": "Silver L20-L69",
       "comment2": "Common",
       "add5MinSkip": 30
     },
     {
       "rewardID": 50178,
+      "crossplayID": 50178,
       "comment1": "Silver L20-L69",
       "comment2": "Common",
       "addPegasusTicket": 75,
@@ -21850,252 +22229,294 @@
     },
     {
       "rewardID": 50179,
+      "crossplayID": 50179,
       "comment1": "Silver L20-L69",
       "comment2": "Common",
       "vipPoints": 175
     },
     {
       "rewardID": 50180,
+      "crossplayID": 50180,
       "comment1": "Silver L20-L69",
       "comment2": "Common",
       "vipTime": 21600
     },
     {
       "rewardID": 50181,
+      "crossplayID": 50181,
       "comment1": "Silver L20-L69",
       "comment2": "Common",
       "addLuckyWheelTicket": 30
     },
     {
       "rewardID": 50182,
+      "crossplayID": 50182,
       "comment1": "Silver L20-L69",
       "comment2": "Rare",
       "units": "648+175"
     },
     {
       "rewardID": 50183,
+      "crossplayID": 50183,
       "comment1": "Silver L20-L69",
       "comment2": "Rare",
       "units": "622+75"
     },
     {
       "rewardID": 50184,
+      "crossplayID": 50184,
       "comment1": "Silver L20-L69",
       "comment2": "Rare",
       "units": "650+175"
     },
     {
       "rewardID": 50185,
+      "crossplayID": 50185,
       "comment1": "Silver L20-L69",
       "comment2": "Rare",
       "units": "625+75"
     },
     {
       "rewardID": 50186,
+      "crossplayID": 50186,
       "comment1": "Silver L20-L69",
       "comment2": "Rare",
       "units": "651+175"
     },
     {
       "rewardID": 50187,
+      "crossplayID": 50187,
       "comment1": "Silver L20-L69",
       "comment2": "Rare",
       "units": "624+75"
     },
     {
       "rewardID": 50188,
+      "crossplayID": 50188,
       "comment1": "Silver L20-L69",
       "comment2": "Rare",
       "units": "649+175"
     },
     {
       "rewardID": 50189,
+      "crossplayID": 50189,
       "comment1": "Silver L20-L69",
       "comment2": "Rare",
       "units": "627+75"
     },
     {
       "rewardID": 50190,
+      "crossplayID": 50190,
       "comment1": "Silver L20-L69",
       "comment2": "Rare",
       "units": "734+300"
     },
     {
       "rewardID": 50191,
+      "crossplayID": 50191,
       "comment1": "Silver L20-L69",
       "comment2": "Rare",
       "units": "165+150"
     },
     {
       "rewardID": 50192,
+      "crossplayID": 50192,
       "comment1": "Silver L20-L69",
       "comment2": "Rare",
       "units": "152+300"
     },
     {
       "rewardID": 50193,
+      "crossplayID": 50193,
       "comment1": "Silver L20-L69",
       "comment2": "Rare",
       "units": "166+150"
     },
     {
       "rewardID": 50194,
+      "crossplayID": 50194,
       "comment1": "Silver L20-L69",
       "comment2": "Epic",
       "addFatKingToken": 2
     },
     {
       "rewardID": 50195,
+      "crossplayID": 50195,
       "comment1": "Silver L20-L69",
       "comment2": "Epic",
       "addKnightToken": 2
     },
     {
       "rewardID": 50196,
+      "crossplayID": 50196,
       "comment1": "Silver L20-L69",
       "comment2": "Epic",
       "addPrincessToken": 1
     },
     {
       "rewardID": 50197,
+      "crossplayID": 50197,
       "comment1": "Silver L20-L69",
       "comment2": "Epic",
       "constructionItemIDs": 31164
     },
     {
       "rewardID": 50198,
+      "crossplayID": 50198,
       "comment1": "Silver L20-L69",
       "comment2": "Epic",
       "constructionItemIDs": 31173
     },
     {
       "rewardID": 50199,
+      "crossplayID": 50199,
       "comment1": "Silver L20-L69",
       "comment2": "Epic",
       "constructionItemIDs": 31153
     },
     {
       "rewardID": 50200,
+      "crossplayID": 50200,
       "comment1": "Silver L20-L69",
       "comment2": "Epic",
       "constructionItemIDs": 31141
     },
     {
       "rewardID": 50201,
+      "crossplayID": 50201,
       "comment1": "Silver L20-L69",
       "comment2": "Legendary",
       "enchantedEquipmentIDs": "667+20"
     },
     {
       "rewardID": 50202,
+      "crossplayID": 50202,
       "comment1": "Silver L20-L69",
       "comment2": "Legendary",
       "enchantedEquipmentIDs": "668+20"
     },
     {
       "rewardID": 50203,
+      "crossplayID": 50203,
       "comment1": "Silver L20-L69",
       "comment2": "Legendary",
       "enchantedEquipmentIDs": "669+20"
     },
     {
       "rewardID": 50204,
+      "crossplayID": 50204,
       "comment1": "Silver L20-L69",
       "comment2": "Legendary",
       "enchantedEquipmentIDs": "670+20"
     },
     {
       "rewardID": 50205,
+      "crossplayID": 50205,
       "comment1": "Silver L20-L69",
       "comment2": "Legendary",
       "equipmentIDs": 671
     },
     {
       "rewardID": 50206,
+      "crossplayID": 50206,
       "comment1": "Silver L20-L69",
       "comment2": "Legendary",
       "gemIDs": 411
     },
     {
       "rewardID": 50207,
+      "crossplayID": 50207,
       "comment1": "Silver L20-L69",
       "comment2": "Legendary",
       "gemIDs": 412
     },
     {
       "rewardID": 50208,
+      "crossplayID": 50208,
       "comment1": "Silver L20-L69",
       "comment2": "Legendary",
       "gemIDs": 413
     },
     {
       "rewardID": 50209,
+      "crossplayID": 50209,
       "comment1": "Silver L20-L69",
       "comment2": "Legendary",
       "gemIDs": 414
     },
     {
       "rewardID": 50210,
+      "crossplayID": 50210,
       "comment1": "Silver L20-L69",
       "comment2": "Legendary",
       "enchantedEquipmentIDs": "672+20"
     },
     {
       "rewardID": 50211,
+      "crossplayID": 50211,
       "comment1": "Silver L20-L69",
       "comment2": "Legendary",
       "enchantedEquipmentIDs": "673+20"
     },
     {
       "rewardID": 50212,
+      "crossplayID": 50212,
       "comment1": "Silver L20-L69",
       "comment2": "Legendary",
       "enchantedEquipmentIDs": "674+20"
     },
     {
       "rewardID": 50213,
+      "crossplayID": 50213,
       "comment1": "Silver L20-L69",
       "comment2": "Legendary",
       "enchantedEquipmentIDs": "675+20"
     },
     {
       "rewardID": 50214,
+      "crossplayID": 50214,
       "comment1": "Silver L20-L69",
       "comment2": "Legendary",
       "equipmentIDs": 676
     },
     {
       "rewardID": 50215,
+      "crossplayID": 50215,
       "comment1": "Silver L20-L69",
       "comment2": "Legendary",
       "gemIDs": 415
     },
     {
       "rewardID": 50216,
+      "crossplayID": 50216,
       "comment1": "Silver L20-L69",
       "comment2": "Legendary",
       "gemIDs": 416
     },
     {
       "rewardID": 50217,
+      "crossplayID": 50217,
       "comment1": "Silver L20-L69",
       "comment2": "Legendary",
       "gemIDs": 417
     },
     {
       "rewardID": 50218,
+      "crossplayID": 50218,
       "comment1": "Silver L20-L69",
       "comment2": "Legendary",
       "gemIDs": 418
     },
     {
       "rewardID": 50220,
+      "crossplayID": 50220,
       "comment1": "Gold L20-L69",
       "comment2": "Common",
       "units": "9+3000"
     },
     {
       "rewardID": 50221,
+      "crossplayID": 50221,
       "comment1": "Gold L20-L69",
       "comment2": "Common",
       "units": "10+3000",
@@ -22104,12 +22525,14 @@
     },
     {
       "rewardID": 50222,
+      "crossplayID": 50222,
       "comment1": "Gold L20-L69",
       "comment2": "Common",
       "units": "11+3000"
     },
     {
       "rewardID": 50223,
+      "crossplayID": 50223,
       "comment1": "Gold L20-L69",
       "comment2": "Common",
       "units": "12+3000",
@@ -22118,6 +22541,7 @@
     },
     {
       "rewardID": 50224,
+      "crossplayID": 50224,
       "comment1": "Gold L20-L69",
       "comment2": "Common",
       "food": 60000,
@@ -22125,6 +22549,7 @@
     },
     {
       "rewardID": 50225,
+      "crossplayID": 50225,
       "comment1": "Gold L20-L69",
       "comment2": "Common",
       "wood": 30000,
@@ -22132,6 +22557,7 @@
     },
     {
       "rewardID": 50226,
+      "crossplayID": 50226,
       "comment1": "Gold L20-L69",
       "comment2": "Common",
       "stone": 30000,
@@ -22139,12 +22565,14 @@
     },
     {
       "rewardID": 50227,
+      "crossplayID": 50227,
       "comment1": "Gold L20-L69",
       "comment2": "Common",
       "add10MinSkip": 30
     },
     {
       "rewardID": 50228,
+      "crossplayID": 50228,
       "comment1": "Gold L20-L69",
       "comment2": "Common",
       "addPegasusTicket": 100,
@@ -22152,252 +22580,294 @@
     },
     {
       "rewardID": 50229,
+      "crossplayID": 50229,
       "comment1": "Gold L20-L69",
       "comment2": "Common",
       "vipPoints": 500
     },
     {
       "rewardID": 50230,
+      "crossplayID": 50230,
       "comment1": "Gold L20-L69",
       "comment2": "Common",
       "vipTime": 864000
     },
     {
       "rewardID": 50231,
+      "crossplayID": 50231,
       "comment1": "Gold L20-L69",
       "comment2": "Common",
       "addLuckyWheelTicket": 60
     },
     {
       "rewardID": 50232,
+      "crossplayID": 50232,
       "comment1": "Gold L20-L69",
       "comment2": "Rare",
       "units": "648+250"
     },
     {
       "rewardID": 50233,
+      "crossplayID": 50233,
       "comment1": "Gold L20-L69",
       "comment2": "Rare",
       "units": "622+125"
     },
     {
       "rewardID": 50234,
+      "crossplayID": 50234,
       "comment1": "Gold L20-L69",
       "comment2": "Rare",
       "units": "650+250"
     },
     {
       "rewardID": 50235,
+      "crossplayID": 50235,
       "comment1": "Gold L20-L69",
       "comment2": "Rare",
       "units": "625+125"
     },
     {
       "rewardID": 50236,
+      "crossplayID": 50236,
       "comment1": "Gold L20-L69",
       "comment2": "Rare",
       "units": "651+250"
     },
     {
       "rewardID": 50237,
+      "crossplayID": 50237,
       "comment1": "Gold L20-L69",
       "comment2": "Rare",
       "units": "624+125"
     },
     {
       "rewardID": 50238,
+      "crossplayID": 50238,
       "comment1": "Gold L20-L69",
       "comment2": "Rare",
       "units": "649+250"
     },
     {
       "rewardID": 50239,
+      "crossplayID": 50239,
       "comment1": "Gold L20-L69",
       "comment2": "Rare",
       "units": "627+125"
     },
     {
       "rewardID": 50240,
+      "crossplayID": 50240,
       "comment1": "Gold L20-L69",
       "comment2": "Rare",
       "units": "734+500"
     },
     {
       "rewardID": 50241,
+      "crossplayID": 50241,
       "comment1": "Gold L20-L69",
       "comment2": "Rare",
       "units": "165+250"
     },
     {
       "rewardID": 50242,
+      "crossplayID": 50242,
       "comment1": "Gold L20-L69",
       "comment2": "Rare",
       "units": "152+500"
     },
     {
       "rewardID": 50243,
+      "crossplayID": 50243,
       "comment1": "Gold L20-L69",
       "comment2": "Rare",
       "units": "166+250"
     },
     {
       "rewardID": 50244,
+      "crossplayID": 50244,
       "comment1": "Gold L20-L69",
       "comment2": "Epic",
       "addFatKingToken": 5
     },
     {
       "rewardID": 50245,
+      "crossplayID": 50245,
       "comment1": "Gold L20-L69",
       "comment2": "Epic",
       "addKnightToken": 3
     },
     {
       "rewardID": 50246,
+      "crossplayID": 50246,
       "comment1": "Gold L20-L69",
       "comment2": "Epic",
       "addPrincessToken": 2
     },
     {
       "rewardID": 50247,
+      "crossplayID": 50247,
       "comment1": "Gold L20-L69",
       "comment2": "Epic",
       "constructionItemIDs": 31167
     },
     {
       "rewardID": 50248,
+      "crossplayID": 50248,
       "comment1": "Gold L20-L69",
       "comment2": "Epic",
       "constructionItemIDs": 31176
     },
     {
       "rewardID": 50249,
+      "crossplayID": 50249,
       "comment1": "Gold L20-L69",
       "comment2": "Epic",
       "constructionItemIDs": 31157
     },
     {
       "rewardID": 50250,
+      "crossplayID": 50250,
       "comment1": "Gold L20-L69",
       "comment2": "Epic",
       "constructionItemIDs": 31145
     },
     {
       "rewardID": 50251,
+      "crossplayID": 50251,
       "comment1": "Gold L20-L69",
       "comment2": "Legendary",
       "enchantedEquipmentIDs": "667+20"
     },
     {
       "rewardID": 50252,
+      "crossplayID": 50252,
       "comment1": "Gold L20-L69",
       "comment2": "Legendary",
       "enchantedEquipmentIDs": "668+20"
     },
     {
       "rewardID": 50253,
+      "crossplayID": 50253,
       "comment1": "Gold L20-L69",
       "comment2": "Legendary",
       "enchantedEquipmentIDs": "669+20"
     },
     {
       "rewardID": 50254,
+      "crossplayID": 50254,
       "comment1": "Gold L20-L69",
       "comment2": "Legendary",
       "enchantedEquipmentIDs": "670+20"
     },
     {
       "rewardID": 50255,
+      "crossplayID": 50255,
       "comment1": "Gold L20-L69",
       "comment2": "Legendary",
       "equipmentIDs": 671
     },
     {
       "rewardID": 50256,
+      "crossplayID": 50256,
       "comment1": "Gold L20-L69",
       "comment2": "Legendary",
       "gemIDs": 411
     },
     {
       "rewardID": 50257,
+      "crossplayID": 50257,
       "comment1": "Gold L20-L69",
       "comment2": "Legendary",
       "gemIDs": 412
     },
     {
       "rewardID": 50258,
+      "crossplayID": 50258,
       "comment1": "Gold L20-L69",
       "comment2": "Legendary",
       "gemIDs": 413
     },
     {
       "rewardID": 50259,
+      "crossplayID": 50259,
       "comment1": "Gold L20-L69",
       "comment2": "Legendary",
       "gemIDs": 414
     },
     {
       "rewardID": 50260,
+      "crossplayID": 50260,
       "comment1": "Gold L20-L69",
       "comment2": "Legendary",
       "enchantedEquipmentIDs": "672+20"
     },
     {
       "rewardID": 50261,
+      "crossplayID": 50261,
       "comment1": "Gold L20-L69",
       "comment2": "Legendary",
       "enchantedEquipmentIDs": "673+20"
     },
     {
       "rewardID": 50262,
+      "crossplayID": 50262,
       "comment1": "Gold L20-L69",
       "comment2": "Legendary",
       "enchantedEquipmentIDs": "674+20"
     },
     {
       "rewardID": 50263,
+      "crossplayID": 50263,
       "comment1": "Gold L20-L69",
       "comment2": "Legendary",
       "enchantedEquipmentIDs": "675+20"
     },
     {
       "rewardID": 50264,
+      "crossplayID": 50264,
       "comment1": "Gold L20-L69",
       "comment2": "Legendary",
       "equipmentIDs": 676
     },
     {
       "rewardID": 50265,
+      "crossplayID": 50265,
       "comment1": "Gold L20-L69",
       "comment2": "Legendary",
       "gemIDs": 415
     },
     {
       "rewardID": 50266,
+      "crossplayID": 50266,
       "comment1": "Gold L20-L69",
       "comment2": "Legendary",
       "gemIDs": 416
     },
     {
       "rewardID": 50267,
+      "crossplayID": 50267,
       "comment1": "Gold L20-L69",
       "comment2": "Legendary",
       "gemIDs": 417
     },
     {
       "rewardID": 50268,
+      "crossplayID": 50268,
       "comment1": "Gold L20-L69",
       "comment2": "Legendary",
       "gemIDs": 418
     },
     {
       "rewardID": 50270,
+      "crossplayID": 50270,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Common",
       "units": "9+1000"
     },
     {
       "rewardID": 50271,
+      "crossplayID": 50271,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Common",
       "units": "10+1000",
@@ -22406,12 +22876,14 @@
     },
     {
       "rewardID": 50272,
+      "crossplayID": 50272,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Common",
       "units": "11+1000"
     },
     {
       "rewardID": 50273,
+      "crossplayID": 50273,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Common",
       "units": "12+1000",
@@ -22420,12 +22892,14 @@
     },
     {
       "rewardID": 50274,
+      "crossplayID": 50274,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Common",
       "add10MinSkip": 25
     },
     {
       "rewardID": 50275,
+      "crossplayID": 50275,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Common",
       "addPegasusTicket": 50,
@@ -22433,216 +22907,252 @@
     },
     {
       "rewardID": 50276,
+      "crossplayID": 50276,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Common",
       "addLegendaryToken": 10
     },
     {
       "rewardID": 50277,
+      "crossplayID": 50277,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Common",
       "addLegendaryMaterial": 20
     },
     {
       "rewardID": 50278,
+      "crossplayID": 50278,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Common",
       "addSaleDaysLuckyWheelTicket": 1
     },
     {
       "rewardID": 50279,
+      "crossplayID": 50279,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Rare",
       "units": "648+250"
     },
     {
       "rewardID": 50280,
+      "crossplayID": 50280,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Rare",
       "units": "622+100"
     },
     {
       "rewardID": 50281,
+      "crossplayID": 50281,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Rare",
       "units": "650+250"
     },
     {
       "rewardID": 50282,
+      "crossplayID": 50282,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Rare",
       "units": "625+100"
     },
     {
       "rewardID": 50283,
+      "crossplayID": 50283,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Rare",
       "units": "651+250"
     },
     {
       "rewardID": 50284,
+      "crossplayID": 50284,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Rare",
       "units": "624+100"
     },
     {
       "rewardID": 50285,
+      "crossplayID": 50285,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Rare",
       "units": "649+250"
     },
     {
       "rewardID": 50286,
+      "crossplayID": 50286,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Rare",
       "units": "627+100"
     },
     {
       "rewardID": 50287,
+      "crossplayID": 50287,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Rare",
       "units": "152+350"
     },
     {
       "rewardID": 50288,
+      "crossplayID": 50288,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Rare",
       "units": "243+350"
     },
     {
       "rewardID": 50289,
+      "crossplayID": 50289,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Rare",
       "units": "153+350"
     },
     {
       "rewardID": 50290,
+      "crossplayID": 50290,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Rare",
       "units": "244+350"
     },
     {
       "rewardID": 50291,
+      "crossplayID": 50291,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Epic",
       "addFatKingToken": 2
     },
     {
       "rewardID": 50292,
+      "crossplayID": 50292,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Epic",
       "addKnightToken": 1
     },
     {
       "rewardID": 50293,
+      "crossplayID": 50293,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Epic",
       "addPrincessToken": 1
     },
     {
       "rewardID": 50294,
+      "crossplayID": 50294,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Epic",
       "constructionItemIDs": 31162
     },
     {
       "rewardID": 50295,
+      "crossplayID": 50295,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Epic",
       "constructionItemIDs": 31171
     },
     {
       "rewardID": 50296,
+      "crossplayID": 50296,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Epic",
       "constructionItemIDs": 31150
     },
     {
       "rewardID": 50297,
+      "crossplayID": 50297,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Epic",
       "constructionItemIDs": 31138
     },
     {
       "rewardID": 50298,
+      "crossplayID": 50298,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Legendary",
       "relicEquipments": "2@0,100"
     },
     {
       "rewardID": 50299,
+      "crossplayID": 50299,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Legendary",
       "relicEquipments": "102@0,100"
     },
     {
       "rewardID": 50300,
+      "crossplayID": 50300,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Legendary",
       "relicEquipments": "202@0,100"
     },
     {
       "rewardID": 50301,
+      "crossplayID": 50301,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Legendary",
       "relicEquipments": "302@0,100"
     },
     {
       "rewardID": 50302,
+      "crossplayID": 50302,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Legendary",
       "relicEquipments": "3102@0,100"
     },
     {
       "rewardID": 50303,
+      "crossplayID": 50303,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Legendary",
       "relicEquipments": "6402@0,100"
     },
     {
       "rewardID": 50304,
+      "crossplayID": 50304,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Legendary",
       "relicEquipments": "10002@0,100"
     },
     {
       "rewardID": 50305,
+      "crossplayID": 50305,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Legendary",
       "relicEquipments": "10102@0,100"
     },
     {
       "rewardID": 50306,
+      "crossplayID": 50306,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Legendary",
       "relicEquipments": "10202@0,100"
     },
     {
       "rewardID": 50307,
+      "crossplayID": 50307,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Legendary",
       "relicEquipments": "10302@0,100"
     },
     {
       "rewardID": 50308,
+      "crossplayID": 50308,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Legendary",
       "relicEquipments": "13102@0,100"
     },
     {
       "rewardID": 50309,
+      "crossplayID": 50309,
       "comment1": "Bronze LL1-LL649",
       "comment2": "Legendary",
       "relicEquipments": "16102@0,100"
     },
     {
       "rewardID": 50312,
+      "crossplayID": 50312,
       "comment1": "Silver LL1-LL649",
       "comment2": "Common",
       "units": "9+3000"
     },
     {
       "rewardID": 50313,
+      "crossplayID": 50313,
       "comment1": "Silver LL1-LL649",
       "comment2": "Common",
       "units": "10+3000",
@@ -22651,12 +23161,14 @@
     },
     {
       "rewardID": 50314,
+      "crossplayID": 50314,
       "comment1": "Silver LL1-LL649",
       "comment2": "Common",
       "units": "11+3000"
     },
     {
       "rewardID": 50315,
+      "crossplayID": 50315,
       "comment1": "Silver LL1-LL649",
       "comment2": "Common",
       "units": "12+3000",
@@ -22665,6 +23177,7 @@
     },
     {
       "rewardID": 50316,
+      "crossplayID": 50316,
       "comment1": "Silver LL1-LL649",
       "comment2": "Common",
       "add30MinSkip": 35,
@@ -22672,6 +23185,7 @@
     },
     {
       "rewardID": 50317,
+      "crossplayID": 50317,
       "comment1": "Silver LL1-LL649",
       "comment2": "Common",
       "addPegasusTicket": 125,
@@ -22679,216 +23193,252 @@
     },
     {
       "rewardID": 50318,
+      "crossplayID": 50318,
       "comment1": "Silver LL1-LL649",
       "comment2": "Common",
       "addLegendaryToken": 15
     },
     {
       "rewardID": 50319,
+      "crossplayID": 50319,
       "comment1": "Silver LL1-LL649",
       "comment2": "Common",
       "addLegendaryMaterial": 30
     },
     {
       "rewardID": 50320,
+      "crossplayID": 50320,
       "comment1": "Silver LL1-LL649",
       "comment2": "Common",
       "addSaleDaysLuckyWheelTicket": 3
     },
     {
       "rewardID": 50321,
+      "crossplayID": 50321,
       "comment1": "Silver LL1-LL649",
       "comment2": "Rare",
       "units": "648+350"
     },
     {
       "rewardID": 50322,
+      "crossplayID": 50322,
       "comment1": "Silver LL1-LL649",
       "comment2": "Rare",
       "units": "622+150"
     },
     {
       "rewardID": 50323,
+      "crossplayID": 50323,
       "comment1": "Silver LL1-LL649",
       "comment2": "Rare",
       "units": "650+350"
     },
     {
       "rewardID": 50324,
+      "crossplayID": 50324,
       "comment1": "Silver LL1-LL649",
       "comment2": "Rare",
       "units": "625+150"
     },
     {
       "rewardID": 50325,
+      "crossplayID": 50325,
       "comment1": "Silver LL1-LL649",
       "comment2": "Rare",
       "units": "651+350"
     },
     {
       "rewardID": 50326,
+      "crossplayID": 50326,
       "comment1": "Silver LL1-LL649",
       "comment2": "Rare",
       "units": "624+150"
     },
     {
       "rewardID": 50327,
+      "crossplayID": 50327,
       "comment1": "Silver LL1-LL649",
       "comment2": "Rare",
       "units": "649+350"
     },
     {
       "rewardID": 50328,
+      "crossplayID": 50328,
       "comment1": "Silver LL1-LL649",
       "comment2": "Rare",
       "units": "627+150"
     },
     {
       "rewardID": 50329,
+      "crossplayID": 50329,
       "comment1": "Silver LL1-LL649",
       "comment2": "Rare",
       "units": "152+600"
     },
     {
       "rewardID": 50330,
+      "crossplayID": 50330,
       "comment1": "Silver LL1-LL649",
       "comment2": "Rare",
       "units": "243+600"
     },
     {
       "rewardID": 50331,
+      "crossplayID": 50331,
       "comment1": "Silver LL1-LL649",
       "comment2": "Rare",
       "units": "153+600"
     },
     {
       "rewardID": 50332,
+      "crossplayID": 50332,
       "comment1": "Silver LL1-LL649",
       "comment2": "Rare",
       "units": "244+600"
     },
     {
       "rewardID": 50333,
+      "crossplayID": 50333,
       "comment1": "Silver LL1-LL649",
       "comment2": "Epic",
       "addFatKingToken": 3
     },
     {
       "rewardID": 50334,
+      "crossplayID": 50334,
       "comment1": "Silver LL1-LL649",
       "comment2": "Epic",
       "addKnightToken": 2
     },
     {
       "rewardID": 50335,
+      "crossplayID": 50335,
       "comment1": "Silver LL1-LL649",
       "comment2": "Epic",
       "addPrincessToken": 1
     },
     {
       "rewardID": 50336,
+      "crossplayID": 50336,
       "comment1": "Silver LL1-LL649",
       "comment2": "Epic",
       "constructionItemIDs": 31165
     },
     {
       "rewardID": 50337,
+      "crossplayID": 50337,
       "comment1": "Silver LL1-LL649",
       "comment2": "Epic",
       "constructionItemIDs": 31174
     },
     {
       "rewardID": 50338,
+      "crossplayID": 50338,
       "comment1": "Silver LL1-LL649",
       "comment2": "Epic",
       "constructionItemIDs": 31154
     },
     {
       "rewardID": 50339,
+      "crossplayID": 50339,
       "comment1": "Silver LL1-LL649",
       "comment2": "Epic",
       "constructionItemIDs": 31142
     },
     {
       "rewardID": 50340,
+      "crossplayID": 50340,
       "comment1": "Silver LL1-LL649",
       "comment2": "Legendary",
       "relicEquipments": "2@0,100"
     },
     {
       "rewardID": 50341,
+      "crossplayID": 50341,
       "comment1": "Silver LL1-LL649",
       "comment2": "Legendary",
       "relicEquipments": "102@0,100"
     },
     {
       "rewardID": 50342,
+      "crossplayID": 50342,
       "comment1": "Silver LL1-LL649",
       "comment2": "Legendary",
       "relicEquipments": "202@0,100"
     },
     {
       "rewardID": 50343,
+      "crossplayID": 50343,
       "comment1": "Silver LL1-LL649",
       "comment2": "Legendary",
       "relicEquipments": "302@0,100"
     },
     {
       "rewardID": 50344,
+      "crossplayID": 50344,
       "comment1": "Silver LL1-LL649",
       "comment2": "Legendary",
       "relicEquipments": "3102@0,100"
     },
     {
       "rewardID": 50345,
+      "crossplayID": 50345,
       "comment1": "Silver LL1-LL649",
       "comment2": "Legendary",
       "relicEquipments": "6402@0,100"
     },
     {
       "rewardID": 50346,
+      "crossplayID": 50346,
       "comment1": "Silver LL1-LL649",
       "comment2": "Legendary",
       "relicEquipments": "10002@0,100"
     },
     {
       "rewardID": 50347,
+      "crossplayID": 50347,
       "comment1": "Silver LL1-LL649",
       "comment2": "Legendary",
       "relicEquipments": "10102@0,100"
     },
     {
       "rewardID": 50348,
+      "crossplayID": 50348,
       "comment1": "Silver LL1-LL649",
       "comment2": "Legendary",
       "relicEquipments": "10202@0,100"
     },
     {
       "rewardID": 50349,
+      "crossplayID": 50349,
       "comment1": "Silver LL1-LL649",
       "comment2": "Legendary",
       "relicEquipments": "10302@0,100"
     },
     {
       "rewardID": 50350,
+      "crossplayID": 50350,
       "comment1": "Silver LL1-LL649",
       "comment2": "Legendary",
       "relicEquipments": "13102@0,100"
     },
     {
       "rewardID": 50351,
+      "crossplayID": 50351,
       "comment1": "Silver LL1-LL649",
       "comment2": "Legendary",
       "relicEquipments": "16102@0,100"
     },
     {
       "rewardID": 50354,
+      "crossplayID": 50354,
       "comment1": "Gold LL1-LL649",
       "comment2": "Common",
       "units": "9+10000"
     },
     {
       "rewardID": 50355,
+      "crossplayID": 50355,
       "comment1": "Gold LL1-LL649",
       "comment2": "Common",
       "units": "10+10000",
@@ -22897,12 +23447,14 @@
     },
     {
       "rewardID": 50356,
+      "crossplayID": 50356,
       "comment1": "Gold LL1-LL649",
       "comment2": "Common",
       "units": "11+10000"
     },
     {
       "rewardID": 50357,
+      "crossplayID": 50357,
       "comment1": "Gold LL1-LL649",
       "comment2": "Common",
       "units": "12+10000",
@@ -22911,6 +23463,7 @@
     },
     {
       "rewardID": 50358,
+      "crossplayID": 50358,
       "comment1": "Gold LL1-LL649",
       "comment2": "Common",
       "add5HourSkip": 10,
@@ -22918,6 +23471,7 @@
     },
     {
       "rewardID": 50359,
+      "crossplayID": 50359,
       "comment1": "Gold LL1-LL649",
       "comment2": "Common",
       "addPegasusTicket": 200,
@@ -22925,216 +23479,252 @@
     },
     {
       "rewardID": 50360,
+      "crossplayID": 50360,
       "comment1": "Gold LL1-LL649",
       "comment2": "Common",
       "addLegendaryToken": 25
     },
     {
       "rewardID": 50361,
+      "crossplayID": 50361,
       "comment1": "Gold LL1-LL649",
       "comment2": "Common",
       "addLegendaryMaterial": 60
     },
     {
       "rewardID": 50362,
+      "crossplayID": 50362,
       "comment1": "Gold LL1-LL649",
       "comment2": "Common",
       "addSaleDaysLuckyWheelTicket": 5
     },
     {
       "rewardID": 50363,
+      "crossplayID": 50363,
       "comment1": "Gold LL1-LL649",
       "comment2": "Rare",
       "units": "648+500"
     },
     {
       "rewardID": 50364,
+      "crossplayID": 50364,
       "comment1": "Gold LL1-LL649",
       "comment2": "Rare",
       "units": "622+250"
     },
     {
       "rewardID": 50365,
+      "crossplayID": 50365,
       "comment1": "Gold LL1-LL649",
       "comment2": "Rare",
       "units": "650+500"
     },
     {
       "rewardID": 50366,
+      "crossplayID": 50366,
       "comment1": "Gold LL1-LL649",
       "comment2": "Rare",
       "units": "625+250"
     },
     {
       "rewardID": 50367,
+      "crossplayID": 50367,
       "comment1": "Gold LL1-LL649",
       "comment2": "Rare",
       "units": "651+500"
     },
     {
       "rewardID": 50368,
+      "crossplayID": 50368,
       "comment1": "Gold LL1-LL649",
       "comment2": "Rare",
       "units": "624+250"
     },
     {
       "rewardID": 50369,
+      "crossplayID": 50369,
       "comment1": "Gold LL1-LL649",
       "comment2": "Rare",
       "units": "649+500"
     },
     {
       "rewardID": 50370,
+      "crossplayID": 50370,
       "comment1": "Gold LL1-LL649",
       "comment2": "Rare",
       "units": "627+250"
     },
     {
       "rewardID": 50371,
+      "crossplayID": 50371,
       "comment1": "Gold LL1-LL649",
       "comment2": "Rare",
       "units": "153+1250"
     },
     {
       "rewardID": 50372,
+      "crossplayID": 50372,
       "comment1": "Gold LL1-LL649",
       "comment2": "Rare",
       "units": "244+1250"
     },
     {
       "rewardID": 50373,
+      "crossplayID": 50373,
       "comment1": "Gold LL1-LL649",
       "comment2": "Rare",
       "units": "239+1250"
     },
     {
       "rewardID": 50374,
+      "crossplayID": 50374,
       "comment1": "Gold LL1-LL649",
       "comment2": "Rare",
       "units": "404+1250"
     },
     {
       "rewardID": 50375,
+      "crossplayID": 50375,
       "comment1": "Gold LL1-LL649",
       "comment2": "Epic",
       "addFatKingToken": 5
     },
     {
       "rewardID": 50376,
+      "crossplayID": 50376,
       "comment1": "Gold LL1-LL649",
       "comment2": "Epic",
       "addKnightToken": 3
     },
     {
       "rewardID": 50377,
+      "crossplayID": 50377,
       "comment1": "Gold LL1-LL649",
       "comment2": "Epic",
       "addPrincessToken": 3
     },
     {
       "rewardID": 50378,
+      "crossplayID": 50378,
       "comment1": "Gold LL1-LL649",
       "comment2": "Epic",
       "constructionItemIDs": 31165
     },
     {
       "rewardID": 50379,
+      "crossplayID": 50379,
       "comment1": "Gold LL1-LL649",
       "comment2": "Epic",
       "constructionItemIDs": 31174
     },
     {
       "rewardID": 50380,
+      "crossplayID": 50380,
       "comment1": "Gold LL1-LL649",
       "comment2": "Epic",
       "constructionItemIDs": 31154
     },
     {
       "rewardID": 50381,
+      "crossplayID": 50381,
       "comment1": "Gold LL1-LL649",
       "comment2": "Epic",
       "constructionItemIDs": 31142
     },
     {
       "rewardID": 50382,
+      "crossplayID": 50382,
       "comment1": "Gold LL1-LL649",
       "comment2": "Legendary",
       "relicEquipments": "2@0,100"
     },
     {
       "rewardID": 50383,
+      "crossplayID": 50383,
       "comment1": "Gold LL1-LL649",
       "comment2": "Legendary",
       "relicEquipments": "102@0,100"
     },
     {
       "rewardID": 50384,
+      "crossplayID": 50384,
       "comment1": "Gold LL1-LL649",
       "comment2": "Legendary",
       "relicEquipments": "202@0,100"
     },
     {
       "rewardID": 50385,
+      "crossplayID": 50385,
       "comment1": "Gold LL1-LL649",
       "comment2": "Legendary",
       "relicEquipments": "302@0,100"
     },
     {
       "rewardID": 50386,
+      "crossplayID": 50386,
       "comment1": "Gold LL1-LL649",
       "comment2": "Legendary",
       "relicEquipments": "3102@0,100"
     },
     {
       "rewardID": 50387,
+      "crossplayID": 50387,
       "comment1": "Gold LL1-LL649",
       "comment2": "Legendary",
       "relicEquipments": "6402@0,100"
     },
     {
       "rewardID": 50388,
+      "crossplayID": 50388,
       "comment1": "Gold LL1-LL649",
       "comment2": "Legendary",
       "relicEquipments": "10002@0,100"
     },
     {
       "rewardID": 50389,
+      "crossplayID": 50389,
       "comment1": "Gold LL1-LL649",
       "comment2": "Legendary",
       "relicEquipments": "10102@0,100"
     },
     {
       "rewardID": 50390,
+      "crossplayID": 50390,
       "comment1": "Gold LL1-LL649",
       "comment2": "Legendary",
       "relicEquipments": "10202@0,100"
     },
     {
       "rewardID": 50391,
+      "crossplayID": 50391,
       "comment1": "Gold LL1-LL649",
       "comment2": "Legendary",
       "relicEquipments": "10302@0,100"
     },
     {
       "rewardID": 50392,
+      "crossplayID": 50392,
       "comment1": "Gold LL1-LL649",
       "comment2": "Legendary",
       "relicEquipments": "13102@0,100"
     },
     {
       "rewardID": 50393,
+      "crossplayID": 50393,
       "comment1": "Gold LL1-LL649",
       "comment2": "Legendary",
       "relicEquipments": "16102@0,100"
     },
     {
       "rewardID": 50396,
+      "crossplayID": 50396,
       "comment1": "Bronze LL650-949",
       "comment2": "Common",
       "units": "197+1000"
     },
     {
       "rewardID": 50397,
+      "crossplayID": 50397,
       "comment1": "Bronze LL650-949",
       "comment2": "Common",
       "units": "207+1000",
@@ -23143,12 +23733,14 @@
     },
     {
       "rewardID": 50398,
+      "crossplayID": 50398,
       "comment1": "Bronze LL650-949",
       "comment2": "Common",
       "units": "220+1000"
     },
     {
       "rewardID": 50399,
+      "crossplayID": 50399,
       "comment1": "Bronze LL650-949",
       "comment2": "Common",
       "units": "231+1000",
@@ -23157,12 +23749,14 @@
     },
     {
       "rewardID": 50400,
+      "crossplayID": 50400,
       "comment1": "Bronze LL650-949",
       "comment2": "Common",
       "add10MinSkip": 25
     },
     {
       "rewardID": 50401,
+      "crossplayID": 50401,
       "comment1": "Bronze LL650-949",
       "comment2": "Common",
       "addPegasusTicket": 50,
@@ -23170,222 +23764,259 @@
     },
     {
       "rewardID": 50402,
+      "crossplayID": 50402,
       "comment1": "Bronze LL650-949",
       "comment2": "Common",
       "addLegendaryToken": 10
     },
     {
       "rewardID": 50403,
+      "crossplayID": 50403,
       "comment1": "Bronze LL650-949",
       "comment2": "Common",
       "addLegendaryMaterial": 20
     },
     {
       "rewardID": 50404,
+      "crossplayID": 50404,
       "comment1": "Bronze LL650-949",
       "comment2": "Common",
       "addSceatToken": 15
     },
     {
       "rewardID": 50405,
+      "crossplayID": 50405,
       "comment1": "Bronze LL650-949",
       "comment2": "Common",
       "addSaleDaysLuckyWheelTicket": 1
     },
     {
       "rewardID": 50406,
+      "crossplayID": 50406,
       "comment1": "Bronze LL650-949",
       "comment2": "Rare",
       "units": "648+300"
     },
     {
       "rewardID": 50407,
+      "crossplayID": 50407,
       "comment1": "Bronze LL650-949",
       "comment2": "Rare",
       "units": "622+150"
     },
     {
       "rewardID": 50408,
+      "crossplayID": 50408,
       "comment1": "Bronze LL650-949",
       "comment2": "Rare",
       "units": "650+300"
     },
     {
       "rewardID": 50409,
+      "crossplayID": 50409,
       "comment1": "Bronze LL650-949",
       "comment2": "Rare",
       "units": "625+150"
     },
     {
       "rewardID": 50410,
+      "crossplayID": 50410,
       "comment1": "Bronze LL650-949",
       "comment2": "Rare",
       "units": "651+300"
     },
     {
       "rewardID": 50411,
+      "crossplayID": 50411,
       "comment1": "Bronze LL650-949",
       "comment2": "Rare",
       "units": "624+150"
     },
     {
       "rewardID": 50412,
+      "crossplayID": 50412,
       "comment1": "Bronze LL650-949",
       "comment2": "Rare",
       "units": "649+300"
     },
     {
       "rewardID": 50413,
+      "crossplayID": 50413,
       "comment1": "Bronze LL650-949",
       "comment2": "Rare",
       "units": "627+150"
     },
     {
       "rewardID": 50414,
+      "crossplayID": 50414,
       "comment1": "Bronze LL650-949",
       "comment2": "Rare",
       "units": "152+450"
     },
     {
       "rewardID": 50415,
+      "crossplayID": 50415,
       "comment1": "Bronze LL650-949",
       "comment2": "Rare",
       "units": "243+450"
     },
     {
       "rewardID": 50416,
+      "crossplayID": 50416,
       "comment1": "Bronze LL650-949",
       "comment2": "Rare",
       "units": "153+450"
     },
     {
       "rewardID": 50417,
+      "crossplayID": 50417,
       "comment1": "Bronze LL650-949",
       "comment2": "Rare",
       "units": "244+450"
     },
     {
       "rewardID": 50418,
+      "crossplayID": 50418,
       "comment1": "Bronze LL650-949",
       "comment2": "Epic",
       "addFatKingToken": 2
     },
     {
       "rewardID": 50419,
+      "crossplayID": 50419,
       "comment1": "Bronze LL650-949",
       "comment2": "Epic",
       "addKnightToken": 1
     },
     {
       "rewardID": 50420,
+      "crossplayID": 50420,
       "comment1": "Bronze LL650-949",
       "comment2": "Epic",
       "addPrincessToken": 1
     },
     {
       "rewardID": 50421,
+      "crossplayID": 50421,
       "comment1": "Bronze LL650-949",
       "comment2": "Epic",
       "constructionItemIDs": 31162
     },
     {
       "rewardID": 50422,
+      "crossplayID": 50422,
       "comment1": "Bronze LL650-949",
       "comment2": "Epic",
       "constructionItemIDs": 31171
     },
     {
       "rewardID": 50423,
+      "crossplayID": 50423,
       "comment1": "Bronze LL650-949",
       "comment2": "Epic",
       "constructionItemIDs": 31151
     },
     {
       "rewardID": 50424,
+      "crossplayID": 50424,
       "comment1": "Bronze LL650-949",
       "comment2": "Epic",
       "constructionItemIDs": 31139
     },
     {
       "rewardID": 50425,
+      "crossplayID": 50425,
       "comment1": "Bronze LL650-949",
       "comment2": "Legendary",
       "relicEquipments": "2@0,100"
     },
     {
       "rewardID": 50426,
+      "crossplayID": 50426,
       "comment1": "Bronze LL650-949",
       "comment2": "Legendary",
       "relicEquipments": "102@0,100"
     },
     {
       "rewardID": 50427,
+      "crossplayID": 50427,
       "comment1": "Bronze LL650-949",
       "comment2": "Legendary",
       "relicEquipments": "202@0,100"
     },
     {
       "rewardID": 50428,
+      "crossplayID": 50428,
       "comment1": "Bronze LL650-949",
       "comment2": "Legendary",
       "relicEquipments": "302@0,100"
     },
     {
       "rewardID": 50429,
+      "crossplayID": 50429,
       "comment1": "Bronze LL650-949",
       "comment2": "Legendary",
       "relicEquipments": "3102@0,100"
     },
     {
       "rewardID": 50430,
+      "crossplayID": 50430,
       "comment1": "Bronze LL650-949",
       "comment2": "Legendary",
       "relicEquipments": "6402@0,100"
     },
     {
       "rewardID": 50431,
+      "crossplayID": 50431,
       "comment1": "Bronze LL650-949",
       "comment2": "Legendary",
       "relicEquipments": "10002@0,100"
     },
     {
       "rewardID": 50432,
+      "crossplayID": 50432,
       "comment1": "Bronze LL650-949",
       "comment2": "Legendary",
       "relicEquipments": "10102@0,100"
     },
     {
       "rewardID": 50433,
+      "crossplayID": 50433,
       "comment1": "Bronze LL650-949",
       "comment2": "Legendary",
       "relicEquipments": "10202@0,100"
     },
     {
       "rewardID": 50434,
+      "crossplayID": 50434,
       "comment1": "Bronze LL650-949",
       "comment2": "Legendary",
       "relicEquipments": "10302@0,100"
     },
     {
       "rewardID": 50435,
+      "crossplayID": 50435,
       "comment1": "Bronze LL650-949",
       "comment2": "Legendary",
       "relicEquipments": "13102@0,100"
     },
     {
       "rewardID": 50436,
+      "crossplayID": 50436,
       "comment1": "Bronze LL650-949",
       "comment2": "Legendary",
       "relicEquipments": "16102@0,100"
     },
     {
       "rewardID": 50438,
+      "crossplayID": 50438,
       "comment1": "Silver LL650-949",
       "comment2": "Common",
       "units": "199+3000"
     },
     {
       "rewardID": 50439,
+      "crossplayID": 50439,
       "comment1": "Silver LL650-949",
       "comment2": "Common",
       "units": "209+3000",
@@ -23394,12 +24025,14 @@
     },
     {
       "rewardID": 50440,
+      "crossplayID": 50440,
       "comment1": "Silver LL650-949",
       "comment2": "Common",
       "units": "222+3000"
     },
     {
       "rewardID": 50441,
+      "crossplayID": 50441,
       "comment1": "Silver LL650-949",
       "comment2": "Common",
       "units": "233+3000",
@@ -23408,6 +24041,7 @@
     },
     {
       "rewardID": 50442,
+      "crossplayID": 50442,
       "comment1": "Silver LL650-949",
       "comment2": "Common",
       "add30MinSkip": 50,
@@ -23415,6 +24049,7 @@
     },
     {
       "rewardID": 50443,
+      "crossplayID": 50443,
       "comment1": "Silver LL650-949",
       "comment2": "Common",
       "addPegasusTicket": 125,
@@ -23422,222 +24057,259 @@
     },
     {
       "rewardID": 50444,
+      "crossplayID": 50444,
       "comment1": "Silver LL650-949",
       "comment2": "Common",
       "addLegendaryToken": 15
     },
     {
       "rewardID": 50445,
+      "crossplayID": 50445,
       "comment1": "Silver LL650-949",
       "comment2": "Common",
       "addLegendaryMaterial": 30
     },
     {
       "rewardID": 50446,
+      "crossplayID": 50446,
       "comment1": "Silver LL650-949",
       "comment2": "Common",
       "addSceatToken": 25
     },
     {
       "rewardID": 50447,
+      "crossplayID": 50447,
       "comment1": "Silver LL650-949",
       "comment2": "Common",
       "addSaleDaysLuckyWheelTicket": 3
     },
     {
       "rewardID": 50448,
+      "crossplayID": 50448,
       "comment1": "Silver LL650-949",
       "comment2": "Rare",
       "units": "648+400"
     },
     {
       "rewardID": 50449,
+      "crossplayID": 50449,
       "comment1": "Silver LL650-949",
       "comment2": "Rare",
       "units": "622+200"
     },
     {
       "rewardID": 50450,
+      "crossplayID": 50450,
       "comment1": "Silver LL650-949",
       "comment2": "Rare",
       "units": "650+400"
     },
     {
       "rewardID": 50451,
+      "crossplayID": 50451,
       "comment1": "Silver LL650-949",
       "comment2": "Rare",
       "units": "625+200"
     },
     {
       "rewardID": 50452,
+      "crossplayID": 50452,
       "comment1": "Silver LL650-949",
       "comment2": "Rare",
       "units": "651+400"
     },
     {
       "rewardID": 50453,
+      "crossplayID": 50453,
       "comment1": "Silver LL650-949",
       "comment2": "Rare",
       "units": "624+200"
     },
     {
       "rewardID": 50454,
+      "crossplayID": 50454,
       "comment1": "Silver LL650-949",
       "comment2": "Rare",
       "units": "649+400"
     },
     {
       "rewardID": 50455,
+      "crossplayID": 50455,
       "comment1": "Silver LL650-949",
       "comment2": "Rare",
       "units": "627+200"
     },
     {
       "rewardID": 50456,
+      "crossplayID": 50456,
       "comment1": "Silver LL650-949",
       "comment2": "Rare",
       "units": "152+750"
     },
     {
       "rewardID": 50457,
+      "crossplayID": 50457,
       "comment1": "Silver LL650-949",
       "comment2": "Rare",
       "units": "243+750"
     },
     {
       "rewardID": 50458,
+      "crossplayID": 50458,
       "comment1": "Silver LL650-949",
       "comment2": "Rare",
       "units": "153+750"
     },
     {
       "rewardID": 50459,
+      "crossplayID": 50459,
       "comment1": "Silver LL650-949",
       "comment2": "Rare",
       "units": "244+750"
     },
     {
       "rewardID": 50460,
+      "crossplayID": 50460,
       "comment1": "Silver LL650-949",
       "comment2": "Epic",
       "addFatKingToken": 3
     },
     {
       "rewardID": 50461,
+      "crossplayID": 50461,
       "comment1": "Silver LL650-949",
       "comment2": "Epic",
       "addKnightToken": 2
     },
     {
       "rewardID": 50462,
+      "crossplayID": 50462,
       "comment1": "Silver LL650-949",
       "comment2": "Epic",
       "addPrincessToken": 1
     },
     {
       "rewardID": 50463,
+      "crossplayID": 50463,
       "comment1": "Silver LL650-949",
       "comment2": "Epic",
       "constructionItemIDs": 31165
     },
     {
       "rewardID": 50464,
+      "crossplayID": 50464,
       "comment1": "Silver LL650-949",
       "comment2": "Epic",
       "constructionItemIDs": 31174
     },
     {
       "rewardID": 50465,
+      "crossplayID": 50465,
       "comment1": "Silver LL650-949",
       "comment2": "Epic",
       "constructionItemIDs": 31155
     },
     {
       "rewardID": 50466,
+      "crossplayID": 50466,
       "comment1": "Silver LL650-949",
       "comment2": "Epic",
       "constructionItemIDs": 31143
     },
     {
       "rewardID": 50467,
+      "crossplayID": 50467,
       "comment1": "Silver LL650-949",
       "comment2": "Legendary",
       "relicEquipments": "2@0,100"
     },
     {
       "rewardID": 50468,
+      "crossplayID": 50468,
       "comment1": "Silver LL650-949",
       "comment2": "Legendary",
       "relicEquipments": "102@0,100"
     },
     {
       "rewardID": 50469,
+      "crossplayID": 50469,
       "comment1": "Silver LL650-949",
       "comment2": "Legendary",
       "relicEquipments": "202@0,100"
     },
     {
       "rewardID": 50470,
+      "crossplayID": 50470,
       "comment1": "Silver LL650-949",
       "comment2": "Legendary",
       "relicEquipments": "302@0,100"
     },
     {
       "rewardID": 50471,
+      "crossplayID": 50471,
       "comment1": "Silver LL650-949",
       "comment2": "Legendary",
       "relicEquipments": "3102@0,100"
     },
     {
       "rewardID": 50472,
+      "crossplayID": 50472,
       "comment1": "Silver LL650-949",
       "comment2": "Legendary",
       "relicEquipments": "6402@0,100"
     },
     {
       "rewardID": 50473,
+      "crossplayID": 50473,
       "comment1": "Silver LL650-949",
       "comment2": "Legendary",
       "relicEquipments": "10002@0,100"
     },
     {
       "rewardID": 50474,
+      "crossplayID": 50474,
       "comment1": "Silver LL650-949",
       "comment2": "Legendary",
       "relicEquipments": "10102@0,100"
     },
     {
       "rewardID": 50475,
+      "crossplayID": 50475,
       "comment1": "Silver LL650-949",
       "comment2": "Legendary",
       "relicEquipments": "10202@0,100"
     },
     {
       "rewardID": 50476,
+      "crossplayID": 50476,
       "comment1": "Silver LL650-949",
       "comment2": "Legendary",
       "relicEquipments": "10302@0,100"
     },
     {
       "rewardID": 50477,
+      "crossplayID": 50477,
       "comment1": "Silver LL650-949",
       "comment2": "Legendary",
       "relicEquipments": "13102@0,100"
     },
     {
       "rewardID": 50478,
+      "crossplayID": 50478,
       "comment1": "Silver LL650-949",
       "comment2": "Legendary",
       "relicEquipments": "16102@0,100"
     },
     {
       "rewardID": 50480,
+      "crossplayID": 50480,
       "comment1": "Gold LL650-949",
       "comment2": "Common",
       "units": "201+8000"
     },
     {
       "rewardID": 50481,
+      "crossplayID": 50481,
       "comment1": "Gold LL650-949",
       "comment2": "Common",
       "units": "211+8000",
@@ -23646,12 +24318,14 @@
     },
     {
       "rewardID": 50482,
+      "crossplayID": 50482,
       "comment1": "Gold LL650-949",
       "comment2": "Common",
       "units": "224+8000"
     },
     {
       "rewardID": 50483,
+      "crossplayID": 50483,
       "comment1": "Gold LL650-949",
       "comment2": "Common",
       "units": "235+8000",
@@ -23660,6 +24334,7 @@
     },
     {
       "rewardID": 50484,
+      "crossplayID": 50484,
       "comment1": "Gold LL650-949",
       "comment2": "Common",
       "add5HourSkip": 10,
@@ -23667,6 +24342,7 @@
     },
     {
       "rewardID": 50485,
+      "crossplayID": 50485,
       "comment1": "Gold LL650-949",
       "comment2": "Common",
       "addPegasusTicket": 250,
@@ -23674,222 +24350,259 @@
     },
     {
       "rewardID": 50486,
+      "crossplayID": 50486,
       "comment1": "Gold LL650-949",
       "comment2": "Common",
       "addLegendaryToken": 30
     },
     {
       "rewardID": 50487,
+      "crossplayID": 50487,
       "comment1": "Gold LL650-949",
       "comment2": "Common",
       "addLegendaryMaterial": 75
     },
     {
       "rewardID": 50488,
+      "crossplayID": 50488,
       "comment1": "Gold LL650-949",
       "comment2": "Common",
       "addSceatToken": 50
     },
     {
       "rewardID": 50489,
+      "crossplayID": 50489,
       "comment1": "Gold LL650-949",
       "comment2": "Common",
       "addSaleDaysLuckyWheelTicket": 5
     },
     {
       "rewardID": 50490,
+      "crossplayID": 50490,
       "comment1": "Gold LL650-949",
       "comment2": "Rare",
       "units": "648+600"
     },
     {
       "rewardID": 50491,
+      "crossplayID": 50491,
       "comment1": "Gold LL650-949",
       "comment2": "Rare",
       "units": "622+300"
     },
     {
       "rewardID": 50492,
+      "crossplayID": 50492,
       "comment1": "Gold LL650-949",
       "comment2": "Rare",
       "units": "650+600"
     },
     {
       "rewardID": 50493,
+      "crossplayID": 50493,
       "comment1": "Gold LL650-949",
       "comment2": "Rare",
       "units": "625+300"
     },
     {
       "rewardID": 50494,
+      "crossplayID": 50494,
       "comment1": "Gold LL650-949",
       "comment2": "Rare",
       "units": "651+600"
     },
     {
       "rewardID": 50495,
+      "crossplayID": 50495,
       "comment1": "Gold LL650-949",
       "comment2": "Rare",
       "units": "624+300"
     },
     {
       "rewardID": 50496,
+      "crossplayID": 50496,
       "comment1": "Gold LL650-949",
       "comment2": "Rare",
       "units": "649+600"
     },
     {
       "rewardID": 50497,
+      "crossplayID": 50497,
       "comment1": "Gold LL650-949",
       "comment2": "Rare",
       "units": "627+300"
     },
     {
       "rewardID": 50498,
+      "crossplayID": 50498,
       "comment1": "Gold LL650-949",
       "comment2": "Rare",
       "units": "153+1500"
     },
     {
       "rewardID": 50499,
+      "crossplayID": 50499,
       "comment1": "Gold LL650-949",
       "comment2": "Rare",
       "units": "244+1500"
     },
     {
       "rewardID": 50500,
+      "crossplayID": 50500,
       "comment1": "Gold LL650-949",
       "comment2": "Rare",
       "units": "239+1500"
     },
     {
       "rewardID": 50501,
+      "crossplayID": 50501,
       "comment1": "Gold LL650-949",
       "comment2": "Rare",
       "units": "404+1500"
     },
     {
       "rewardID": 50502,
+      "crossplayID": 50502,
       "comment1": "Gold LL650-949",
       "comment2": "Epic",
       "addFatKingToken": 5
     },
     {
       "rewardID": 50503,
+      "crossplayID": 50503,
       "comment1": "Gold LL650-949",
       "comment2": "Epic",
       "addKnightToken": 3
     },
     {
       "rewardID": 50504,
+      "crossplayID": 50504,
       "comment1": "Gold LL650-949",
       "comment2": "Epic",
       "addPrincessToken": 3
     },
     {
       "rewardID": 50505,
+      "crossplayID": 50505,
       "comment1": "Gold LL650-949",
       "comment2": "Epic",
       "constructionItemIDs": 31168
     },
     {
       "rewardID": 50506,
+      "crossplayID": 50506,
       "comment1": "Gold LL650-949",
       "comment2": "Epic",
       "constructionItemIDs": 31177
     },
     {
       "rewardID": 50507,
+      "crossplayID": 50507,
       "comment1": "Gold LL650-949",
       "comment2": "Epic",
       "constructionItemIDs": 31159
     },
     {
       "rewardID": 50508,
+      "crossplayID": 50508,
       "comment1": "Gold LL650-949",
       "comment2": "Epic",
       "constructionItemIDs": 31147
     },
     {
       "rewardID": 50509,
+      "crossplayID": 50509,
       "comment1": "Gold LL650-949",
       "comment2": "Legendary",
       "relicEquipments": "2@0,100"
     },
     {
       "rewardID": 50510,
+      "crossplayID": 50510,
       "comment1": "Gold LL650-949",
       "comment2": "Legendary",
       "relicEquipments": "102@0,100"
     },
     {
       "rewardID": 50511,
+      "crossplayID": 50511,
       "comment1": "Gold LL650-949",
       "comment2": "Legendary",
       "relicEquipments": "202@0,100"
     },
     {
       "rewardID": 50512,
+      "crossplayID": 50512,
       "comment1": "Gold LL650-949",
       "comment2": "Legendary",
       "relicEquipments": "302@0,100"
     },
     {
       "rewardID": 50513,
+      "crossplayID": 50513,
       "comment1": "Gold LL650-949",
       "comment2": "Legendary",
       "relicEquipments": "3102@0,100"
     },
     {
       "rewardID": 50514,
+      "crossplayID": 50514,
       "comment1": "Gold LL650-949",
       "comment2": "Legendary",
       "relicEquipments": "6402@0,100"
     },
     {
       "rewardID": 50515,
+      "crossplayID": 50515,
       "comment1": "Gold LL650-949",
       "comment2": "Legendary",
       "relicEquipments": "10002@0,100"
     },
     {
       "rewardID": 50516,
+      "crossplayID": 50516,
       "comment1": "Gold LL650-949",
       "comment2": "Legendary",
       "relicEquipments": "10102@0,100"
     },
     {
       "rewardID": 50517,
+      "crossplayID": 50517,
       "comment1": "Gold LL650-949",
       "comment2": "Legendary",
       "relicEquipments": "10202@0,100"
     },
     {
       "rewardID": 50518,
+      "crossplayID": 50518,
       "comment1": "Gold LL650-949",
       "comment2": "Legendary",
       "relicEquipments": "10302@0,100"
     },
     {
       "rewardID": 50519,
+      "crossplayID": 50519,
       "comment1": "Gold LL650-949",
       "comment2": "Legendary",
       "relicEquipments": "13102@0,100"
     },
     {
       "rewardID": 50520,
+      "crossplayID": 50520,
       "comment1": "Gold LL650-949",
       "comment2": "Legendary",
       "relicEquipments": "16102@0,100"
     },
     {
       "rewardID": 50522,
+      "crossplayID": 50522,
       "comment1": "Bronze LL950+",
       "comment2": "Common",
       "units": "199+1500"
     },
     {
       "rewardID": 50523,
+      "crossplayID": 50523,
       "comment1": "Bronze LL950+",
       "comment2": "Common",
       "units": "209+1500",
@@ -23898,12 +24611,14 @@
     },
     {
       "rewardID": 50524,
+      "crossplayID": 50524,
       "comment1": "Bronze LL950+",
       "comment2": "Common",
       "units": "222+1500"
     },
     {
       "rewardID": 50525,
+      "crossplayID": 50525,
       "comment1": "Bronze LL950+",
       "comment2": "Common",
       "units": "233+1500",
@@ -23912,6 +24627,7 @@
     },
     {
       "rewardID": 50526,
+      "crossplayID": 50526,
       "comment1": "Bronze LL950+",
       "comment2": "Common",
       "add30MinSkip": 25,
@@ -23919,6 +24635,7 @@
     },
     {
       "rewardID": 50527,
+      "crossplayID": 50527,
       "comment1": "Bronze LL950+",
       "comment2": "Common",
       "addPegasusTicket": 75,
@@ -23926,246 +24643,287 @@
     },
     {
       "rewardID": 50528,
+      "crossplayID": 50528,
       "comment1": "Bronze LL950+",
       "comment2": "Common",
       "addLegendaryToken": 15
     },
     {
       "rewardID": 50529,
+      "crossplayID": 50529,
       "comment1": "Bronze LL950+",
       "comment2": "Common",
       "addLegendaryMaterial": 30
     },
     {
       "rewardID": 50530,
+      "crossplayID": 50530,
       "comment1": "Bronze LL950+",
       "comment2": "Common",
       "addSceatToken": 20
     },
     {
       "rewardID": 50531,
+      "crossplayID": 50531,
       "comment1": "Bronze LL950+",
       "comment2": "Common",
       "addSaleDaysLuckyWheelTicket": 2
     },
     {
       "rewardID": 50532,
+      "crossplayID": 50532,
       "comment1": "Bronze LL950+",
       "comment2": "Rare",
       "units": "245+55"
     },
     {
       "rewardID": 50533,
+      "crossplayID": 50533,
       "comment1": "Bronze LL950+",
       "comment2": "Rare",
       "units": "300+20"
     },
     {
       "rewardID": 50534,
+      "crossplayID": 50534,
       "comment1": "Bronze LL950+",
       "comment2": "Rare",
       "units": "256+80"
     },
     {
       "rewardID": 50535,
+      "crossplayID": 50535,
       "comment1": "Bronze LL950+",
       "comment2": "Rare",
       "units": "315+15"
     },
     {
       "rewardID": 50536,
+      "crossplayID": 50536,
       "comment1": "Bronze LL950+",
       "comment2": "Rare",
       "units": "648+300"
     },
     {
       "rewardID": 50537,
+      "crossplayID": 50537,
       "comment1": "Bronze LL950+",
       "comment2": "Rare",
       "units": "622+150"
     },
     {
       "rewardID": 50538,
+      "crossplayID": 50538,
       "comment1": "Bronze LL950+",
       "comment2": "Rare",
       "units": "650+300"
     },
     {
       "rewardID": 50539,
+      "crossplayID": 50539,
       "comment1": "Bronze LL950+",
       "comment2": "Rare",
       "units": "625+150"
     },
     {
       "rewardID": 50540,
+      "crossplayID": 50540,
       "comment1": "Bronze LL950+",
       "comment2": "Rare",
       "units": "651+300"
     },
     {
       "rewardID": 50541,
+      "crossplayID": 50541,
       "comment1": "Bronze LL950+",
       "comment2": "Rare",
       "units": "624+150"
     },
     {
       "rewardID": 50542,
+      "crossplayID": 50542,
       "comment1": "Bronze LL950+",
       "comment2": "Rare",
       "units": "649+300"
     },
     {
       "rewardID": 50543,
+      "crossplayID": 50543,
       "comment1": "Bronze LL950+",
       "comment2": "Rare",
       "units": "627+150"
     },
     {
       "rewardID": 50544,
+      "crossplayID": 50544,
       "comment1": "Bronze LL950+",
       "comment2": "Rare",
       "units": "153+600"
     },
     {
       "rewardID": 50545,
+      "crossplayID": 50545,
       "comment1": "Bronze LL950+",
       "comment2": "Rare",
       "units": "244+600"
     },
     {
       "rewardID": 50546,
+      "crossplayID": 50546,
       "comment1": "Bronze LL950+",
       "comment2": "Rare",
       "units": "239+600"
     },
     {
       "rewardID": 50547,
+      "crossplayID": 50547,
       "comment1": "Bronze LL950+",
       "comment2": "Rare",
       "units": "404+600"
     },
     {
       "rewardID": 50548,
+      "crossplayID": 50548,
       "comment1": "Bronze LL950+",
       "comment2": "Epic",
       "addFatKingToken": 2
     },
     {
       "rewardID": 50549,
+      "crossplayID": 50549,
       "comment1": "Bronze LL950+",
       "comment2": "Epic",
       "addKnightToken": 1
     },
     {
       "rewardID": 50550,
+      "crossplayID": 50550,
       "comment1": "Bronze LL950+",
       "comment2": "Epic",
       "addPrincessToken": 1
     },
     {
       "rewardID": 50551,
+      "crossplayID": 50551,
       "comment1": "Bronze LL950+",
       "comment2": "Epic",
       "constructionItemIDs": 31163
     },
     {
       "rewardID": 50552,
+      "crossplayID": 50552,
       "comment1": "Bronze LL950+",
       "comment2": "Epic",
       "constructionItemIDs": 31172
     },
     {
       "rewardID": 50553,
+      "crossplayID": 50553,
       "comment1": "Bronze LL950+",
       "comment2": "Epic",
       "constructionItemIDs": 31152
     },
     {
       "rewardID": 50554,
+      "crossplayID": 50554,
       "comment1": "Bronze LL950+",
       "comment2": "Epic",
       "constructionItemIDs": 31140
     },
     {
       "rewardID": 50555,
+      "crossplayID": 50555,
       "comment1": "Bronze LL950+",
       "comment2": "Legendary",
       "relicEquipments": "2@0,100"
     },
     {
       "rewardID": 50556,
+      "crossplayID": 50556,
       "comment1": "Bronze LL950+",
       "comment2": "Legendary",
       "relicEquipments": "102@0,100"
     },
     {
       "rewardID": 50557,
+      "crossplayID": 50557,
       "comment1": "Bronze LL950+",
       "comment2": "Legendary",
       "relicEquipments": "202@0,100"
     },
     {
       "rewardID": 50558,
+      "crossplayID": 50558,
       "comment1": "Bronze LL950+",
       "comment2": "Legendary",
       "relicEquipments": "302@0,100"
     },
     {
       "rewardID": 50559,
+      "crossplayID": 50559,
       "comment1": "Bronze LL950+",
       "comment2": "Legendary",
       "relicEquipments": "3102@0,100"
     },
     {
       "rewardID": 50560,
+      "crossplayID": 50560,
       "comment1": "Bronze LL950+",
       "comment2": "Legendary",
       "relicEquipments": "6402@0,100"
     },
     {
       "rewardID": 50561,
+      "crossplayID": 50561,
       "comment1": "Bronze LL950+",
       "comment2": "Legendary",
       "relicEquipments": "10002@0,100"
     },
     {
       "rewardID": 50562,
+      "crossplayID": 50562,
       "comment1": "Bronze LL950+",
       "comment2": "Legendary",
       "relicEquipments": "10102@0,100"
     },
     {
       "rewardID": 50563,
+      "crossplayID": 50563,
       "comment1": "Bronze LL950+",
       "comment2": "Legendary",
       "relicEquipments": "10202@0,100"
     },
     {
       "rewardID": 50564,
+      "crossplayID": 50564,
       "comment1": "Bronze LL950+",
       "comment2": "Legendary",
       "relicEquipments": "10302@0,100"
     },
     {
       "rewardID": 50565,
+      "crossplayID": 50565,
       "comment1": "Bronze LL950+",
       "comment2": "Legendary",
       "relicEquipments": "13102@0,100"
     },
     {
       "rewardID": 50566,
+      "crossplayID": 50566,
       "comment1": "Bronze LL950+",
       "comment2": "Legendary",
       "relicEquipments": "16102@0,100"
     },
     {
       "rewardID": 50568,
+      "crossplayID": 50568,
       "comment1": "Silver LL950+",
       "comment2": "Common",
       "units": "201+3500"
     },
     {
       "rewardID": 50569,
+      "crossplayID": 50569,
       "comment1": "Silver LL950+",
       "comment2": "Common",
       "units": "211+3500",
@@ -24174,12 +24932,14 @@
     },
     {
       "rewardID": 50570,
+      "crossplayID": 50570,
       "comment1": "Silver LL950+",
       "comment2": "Common",
       "units": "224+3500"
     },
     {
       "rewardID": 50571,
+      "crossplayID": 50571,
       "comment1": "Silver LL950+",
       "comment2": "Common",
       "units": "235+3500",
@@ -24188,6 +24948,7 @@
     },
     {
       "rewardID": 50572,
+      "crossplayID": 50572,
       "comment1": "Silver LL950+",
       "comment2": "Common",
       "add5HourSkip": 15,
@@ -24195,6 +24956,7 @@
     },
     {
       "rewardID": 50573,
+      "crossplayID": 50573,
       "comment1": "Silver LL950+",
       "comment2": "Common",
       "addPegasusTicket": 150,
@@ -24202,246 +24964,287 @@
     },
     {
       "rewardID": 50574,
+      "crossplayID": 50574,
       "comment1": "Silver LL950+",
       "comment2": "Common",
       "addLegendaryToken": 20
     },
     {
       "rewardID": 50575,
+      "crossplayID": 50575,
       "comment1": "Silver LL950+",
       "comment2": "Common",
       "addLegendaryMaterial": 40
     },
     {
       "rewardID": 50576,
+      "crossplayID": 50576,
       "comment1": "Silver LL950+",
       "comment2": "Common",
       "addSceatToken": 25
     },
     {
       "rewardID": 50577,
+      "crossplayID": 50577,
       "comment1": "Silver LL950+",
       "comment2": "Common",
       "addSaleDaysLuckyWheelTicket": 5
     },
     {
       "rewardID": 50578,
+      "crossplayID": 50578,
       "comment1": "Silver LL950+",
       "comment2": "Rare",
       "units": "245+80"
     },
     {
       "rewardID": 50579,
+      "crossplayID": 50579,
       "comment1": "Silver LL950+",
       "comment2": "Rare",
       "units": "300+30"
     },
     {
       "rewardID": 50580,
+      "crossplayID": 50580,
       "comment1": "Silver LL950+",
       "comment2": "Rare",
       "units": "256+125"
     },
     {
       "rewardID": 50581,
+      "crossplayID": 50581,
       "comment1": "Silver LL950+",
       "comment2": "Rare",
       "units": "315+20"
     },
     {
       "rewardID": 50582,
+      "crossplayID": 50582,
       "comment1": "Silver LL950+",
       "comment2": "Rare",
       "units": "648+400"
     },
     {
       "rewardID": 50583,
+      "crossplayID": 50583,
       "comment1": "Silver LL950+",
       "comment2": "Rare",
       "units": "622+200"
     },
     {
       "rewardID": 50584,
+      "crossplayID": 50584,
       "comment1": "Silver LL950+",
       "comment2": "Rare",
       "units": "650+400"
     },
     {
       "rewardID": 50585,
+      "crossplayID": 50585,
       "comment1": "Silver LL950+",
       "comment2": "Rare",
       "units": "625+200"
     },
     {
       "rewardID": 50586,
+      "crossplayID": 50586,
       "comment1": "Silver LL950+",
       "comment2": "Rare",
       "units": "651+400"
     },
     {
       "rewardID": 50587,
+      "crossplayID": 50587,
       "comment1": "Silver LL950+",
       "comment2": "Rare",
       "units": "624+200"
     },
     {
       "rewardID": 50588,
+      "crossplayID": 50588,
       "comment1": "Silver LL950+",
       "comment2": "Rare",
       "units": "649+400"
     },
     {
       "rewardID": 50589,
+      "crossplayID": 50589,
       "comment1": "Silver LL950+",
       "comment2": "Rare",
       "units": "627+200"
     },
     {
       "rewardID": 50590,
+      "crossplayID": 50590,
       "comment1": "Silver LL950+",
       "comment2": "Rare",
       "units": "153+850"
     },
     {
       "rewardID": 50591,
+      "crossplayID": 50591,
       "comment1": "Silver LL950+",
       "comment2": "Rare",
       "units": "244+850"
     },
     {
       "rewardID": 50592,
+      "crossplayID": 50592,
       "comment1": "Silver LL950+",
       "comment2": "Rare",
       "units": "239+850"
     },
     {
       "rewardID": 50593,
+      "crossplayID": 50593,
       "comment1": "Silver LL950+",
       "comment2": "Rare",
       "units": "404+850"
     },
     {
       "rewardID": 50594,
+      "crossplayID": 50594,
       "comment1": "Silver LL950+",
       "comment2": "Epic",
       "addFatKingToken": 3
     },
     {
       "rewardID": 50595,
+      "crossplayID": 50595,
       "comment1": "Silver LL950+",
       "comment2": "Epic",
       "addKnightToken": 2
     },
     {
       "rewardID": 50596,
+      "crossplayID": 50596,
       "comment1": "Silver LL950+",
       "comment2": "Epic",
       "addPrincessToken": 1
     },
     {
       "rewardID": 50597,
+      "crossplayID": 50597,
       "comment1": "Silver LL950+",
       "comment2": "Epic",
       "constructionItemIDs": 31166
     },
     {
       "rewardID": 50598,
+      "crossplayID": 50598,
       "comment1": "Silver LL950+",
       "comment2": "Epic",
       "constructionItemIDs": 31175
     },
     {
       "rewardID": 50599,
+      "crossplayID": 50599,
       "comment1": "Silver LL950+",
       "comment2": "Epic",
       "constructionItemIDs": 31156
     },
     {
       "rewardID": 50600,
+      "crossplayID": 50600,
       "comment1": "Silver LL950+",
       "comment2": "Epic",
       "constructionItemIDs": 31144
     },
     {
       "rewardID": 50601,
+      "crossplayID": 50601,
       "comment1": "Silver LL950+",
       "comment2": "Legendary",
       "relicEquipments": "2@0,100"
     },
     {
       "rewardID": 50602,
+      "crossplayID": 50602,
       "comment1": "Silver LL950+",
       "comment2": "Legendary",
       "relicEquipments": "102@0,100"
     },
     {
       "rewardID": 50603,
+      "crossplayID": 50603,
       "comment1": "Silver LL950+",
       "comment2": "Legendary",
       "relicEquipments": "202@0,100"
     },
     {
       "rewardID": 50604,
+      "crossplayID": 50604,
       "comment1": "Silver LL950+",
       "comment2": "Legendary",
       "relicEquipments": "302@0,100"
     },
     {
       "rewardID": 50605,
+      "crossplayID": 50605,
       "comment1": "Silver LL950+",
       "comment2": "Legendary",
       "relicEquipments": "3102@0,100"
     },
     {
       "rewardID": 50606,
+      "crossplayID": 50606,
       "comment1": "Silver LL950+",
       "comment2": "Legendary",
       "relicEquipments": "6402@0,100"
     },
     {
       "rewardID": 50607,
+      "crossplayID": 50607,
       "comment1": "Silver LL950+",
       "comment2": "Legendary",
       "relicEquipments": "10002@0,100"
     },
     {
       "rewardID": 50608,
+      "crossplayID": 50608,
       "comment1": "Silver LL950+",
       "comment2": "Legendary",
       "relicEquipments": "10102@0,100"
     },
     {
       "rewardID": 50609,
+      "crossplayID": 50609,
       "comment1": "Silver LL950+",
       "comment2": "Legendary",
       "relicEquipments": "10202@0,100"
     },
     {
       "rewardID": 50610,
+      "crossplayID": 50610,
       "comment1": "Silver LL950+",
       "comment2": "Legendary",
       "relicEquipments": "10302@0,100"
     },
     {
       "rewardID": 50611,
+      "crossplayID": 50611,
       "comment1": "Silver LL950+",
       "comment2": "Legendary",
       "relicEquipments": "13102@0,100"
     },
     {
       "rewardID": 50612,
+      "crossplayID": 50612,
       "comment1": "Silver LL950+",
       "comment2": "Legendary",
       "relicEquipments": "16102@0,100"
     },
     {
       "rewardID": 50614,
+      "crossplayID": 50614,
       "comment1": "Gold LL950+",
       "comment2": "Common",
       "units": "203+10000"
     },
     {
       "rewardID": 50615,
+      "crossplayID": 50615,
       "comment1": "Gold LL950+",
       "comment2": "Common",
       "units": "213+10000",
@@ -24450,12 +25253,14 @@
     },
     {
       "rewardID": 50616,
+      "crossplayID": 50616,
       "comment1": "Gold LL950+",
       "comment2": "Common",
       "units": "226+10000"
     },
     {
       "rewardID": 50617,
+      "crossplayID": 50617,
       "comment1": "Gold LL950+",
       "comment2": "Common",
       "units": "237+10000",
@@ -24464,6 +25269,7 @@
     },
     {
       "rewardID": 50618,
+      "crossplayID": 50618,
       "comment1": "Gold LL950+",
       "comment2": "Common",
       "add24HourSkip": 5,
@@ -24471,6 +25277,7 @@
     },
     {
       "rewardID": 50619,
+      "crossplayID": 50619,
       "comment1": "Gold LL950+",
       "comment2": "Common",
       "addPegasusTicket": 300,
@@ -24478,258 +25285,301 @@
     },
     {
       "rewardID": 50620,
+      "crossplayID": 50620,
       "comment1": "Gold LL950+",
       "comment2": "Common",
       "addLegendaryToken": 30
     },
     {
       "rewardID": 50621,
+      "crossplayID": 50621,
       "comment1": "Gold LL950+",
       "comment2": "Common",
       "addLegendaryMaterial": 75
     },
     {
       "rewardID": 50622,
+      "crossplayID": 50622,
       "comment1": "Gold LL950+",
       "comment2": "Common",
       "addSceatToken": 35
     },
     {
       "rewardID": 50623,
+      "crossplayID": 50623,
       "comment1": "Gold LL950+",
       "comment2": "Common",
       "addSaleDaysLuckyWheelTicket": 10
     },
     {
       "rewardID": 50624,
+      "crossplayID": 50624,
       "comment1": "Gold LL950+",
       "comment2": "Rare",
       "units": "245+125"
     },
     {
       "rewardID": 50625,
+      "crossplayID": 50625,
       "comment1": "Gold LL950+",
       "comment2": "Rare",
       "units": "300+50"
     },
     {
       "rewardID": 50626,
+      "crossplayID": 50626,
       "comment1": "Gold LL950+",
       "comment2": "Rare",
       "units": "256+175"
     },
     {
       "rewardID": 50627,
+      "crossplayID": 50627,
       "comment1": "Gold LL950+",
       "comment2": "Rare",
       "units": "315+35"
     },
     {
       "rewardID": 50628,
+      "crossplayID": 50628,
       "comment1": "Gold LL950+",
       "comment2": "Rare",
       "units": "648+800"
     },
     {
       "rewardID": 50629,
+      "crossplayID": 50629,
       "comment1": "Gold LL950+",
       "comment2": "Rare",
       "units": "622+350"
     },
     {
       "rewardID": 50630,
+      "crossplayID": 50630,
       "comment1": "Gold LL950+",
       "comment2": "Rare",
       "units": "650+800"
     },
     {
       "rewardID": 50631,
+      "crossplayID": 50631,
       "comment1": "Gold LL950+",
       "comment2": "Rare",
       "units": "625+350"
     },
     {
       "rewardID": 50632,
+      "crossplayID": 50632,
       "comment1": "Gold LL950+",
       "comment2": "Rare",
       "units": "651+800"
     },
     {
       "rewardID": 50633,
+      "crossplayID": 50633,
       "comment1": "Gold LL950+",
       "comment2": "Rare",
       "units": "624+350"
     },
     {
       "rewardID": 50634,
+      "crossplayID": 50634,
       "comment1": "Gold LL950+",
       "comment2": "Rare",
       "units": "649+800"
     },
     {
       "rewardID": 50635,
+      "crossplayID": 50635,
       "comment1": "Gold LL950+",
       "comment2": "Rare",
       "units": "627+350"
     },
     {
       "rewardID": 50636,
+      "crossplayID": 50636,
       "comment1": "Gold LL950+",
       "comment2": "Rare",
       "units": "239+1750"
     },
     {
       "rewardID": 50637,
+      "crossplayID": 50637,
       "comment1": "Gold LL950+",
       "comment2": "Rare",
       "units": "404+1750"
     },
     {
       "rewardID": 50638,
+      "crossplayID": 50638,
       "comment1": "Gold LL950+",
       "comment2": "Rare",
       "units": "240+1750"
     },
     {
       "rewardID": 50639,
+      "crossplayID": 50639,
       "comment1": "Gold LL950+",
       "comment2": "Rare",
       "units": "405+1750"
     },
     {
       "rewardID": 50640,
+      "crossplayID": 50640,
       "comment1": "Gold LL950+",
       "comment2": "Epic",
       "addFatKingToken": 5
     },
     {
       "rewardID": 50641,
+      "crossplayID": 50641,
       "comment1": "Gold LL950+",
       "comment2": "Epic",
       "addKnightToken": 4
     },
     {
       "rewardID": 50642,
+      "crossplayID": 50642,
       "comment1": "Gold LL950+",
       "comment2": "Epic",
       "addPrincessToken": 3
     },
     {
       "rewardID": 50643,
+      "crossplayID": 50643,
       "comment1": "Gold LL950+",
       "comment2": "Epic",
       "constructionItemIDs": 31169
     },
     {
       "rewardID": 50644,
+      "crossplayID": 50644,
       "comment1": "Gold LL950+",
       "comment2": "Epic",
       "constructionItemIDs": 31178
     },
     {
       "rewardID": 50645,
+      "crossplayID": 50645,
       "comment1": "Gold LL950+",
       "comment2": "Epic",
       "constructionItemIDs": 31160
     },
     {
       "rewardID": 50646,
+      "crossplayID": 50646,
       "comment1": "Gold LL950+",
       "comment2": "Epic",
       "constructionItemIDs": 31148
     },
     {
       "rewardID": 50647,
+      "crossplayID": 50647,
       "comment1": "Gold LL950+",
       "comment2": "Legendary",
       "relicEquipments": "2@0,100"
     },
     {
       "rewardID": 50648,
+      "crossplayID": 50648,
       "comment1": "Gold LL950+",
       "comment2": "Legendary",
       "relicEquipments": "102@0,100"
     },
     {
       "rewardID": 50649,
+      "crossplayID": 50649,
       "comment1": "Gold LL950+",
       "comment2": "Legendary",
       "relicEquipments": "202@0,100"
     },
     {
       "rewardID": 50650,
+      "crossplayID": 50650,
       "comment1": "Gold LL950+",
       "comment2": "Legendary",
       "relicEquipments": "302@0,100"
     },
     {
       "rewardID": 50651,
+      "crossplayID": 50651,
       "comment1": "Gold LL950+",
       "comment2": "Legendary",
       "relicEquipments": "3102@0,100"
     },
     {
       "rewardID": 50652,
+      "crossplayID": 50652,
       "comment1": "Gold LL950+",
       "comment2": "Legendary",
       "relicEquipments": "6402@0,100"
     },
     {
       "rewardID": 50653,
+      "crossplayID": 50653,
       "comment1": "Gold LL950+",
       "comment2": "Legendary",
       "relicEquipments": "10002@0,100"
     },
     {
       "rewardID": 50654,
+      "crossplayID": 50654,
       "comment1": "Gold LL950+",
       "comment2": "Legendary",
       "relicEquipments": "10102@0,100"
     },
     {
       "rewardID": 50655,
+      "crossplayID": 50655,
       "comment1": "Gold LL950+",
       "comment2": "Legendary",
       "relicEquipments": "10202@0,100"
     },
     {
       "rewardID": 50656,
+      "crossplayID": 50656,
       "comment1": "Gold LL950+",
       "comment2": "Legendary",
       "relicEquipments": "10302@0,100"
     },
     {
       "rewardID": 50657,
+      "crossplayID": 50657,
       "comment1": "Gold LL950+",
       "comment2": "Legendary",
       "relicEquipments": "13102@0,100"
     },
     {
       "rewardID": 50658,
+      "crossplayID": 50658,
       "comment1": "Gold LL950+",
       "comment2": "Legendary",
       "relicEquipments": "16102@0,100"
     },
     {
       "rewardID": 50659,
+      "crossplayID": 50659,
       "comment1": "Spring Box 2023",
       "comment2": "Common",
       "addLegendaryToken": 30
     },
     {
       "rewardID": 50660,
+      "crossplayID": 50660,
       "comment1": "Spring Box 2023",
       "comment2": "Common",
       "addLegendaryMaterial": 60
     },
     {
       "rewardID": 50661,
+      "crossplayID": 50661,
       "comment1": "Spring Box 2023",
       "comment2": "Common",
       "addSceatToken": 15
     },
     {
       "rewardID": 50662,
+      "crossplayID": 50662,
       "comment1": "Spring Box 2023",
       "comment2": "Common",
       "add24HourSkip": 10,
@@ -24737,42 +25587,49 @@
     },
     {
       "rewardID": 50663,
+      "crossplayID": 50663,
       "comment1": "Spring Box 2023",
       "comment2": "Common",
       "addSaleDaysLuckyWheelTicket": 2
     },
     {
       "rewardID": 50664,
+      "crossplayID": 50664,
       "comment1": "Spring Box 2023",
       "comment2": "Rare",
       "relicEquipments": "2@20,100"
     },
     {
       "rewardID": 50665,
+      "crossplayID": 50665,
       "comment1": "Spring Box 2023",
       "comment2": "Rare",
       "relicEquipments": "102@20,100"
     },
     {
       "rewardID": 50666,
+      "crossplayID": 50666,
       "comment1": "Spring Box 2023",
       "comment2": "Rare",
       "relicEquipments": "202@20,100"
     },
     {
       "rewardID": 50667,
+      "crossplayID": 50667,
       "comment1": "Spring Box 2023",
       "comment2": "Rare",
       "relicEquipments": "302@20,100"
     },
     {
       "rewardID": 50668,
+      "crossplayID": 50668,
       "comment1": "Spring Box 2023",
       "comment2": "Epic",
       "relicEquipments": "3102@0,100"
     },
     {
       "rewardID": 50669,
+      "crossplayID": 50669,
       "comment1": "Spring Box 2023",
       "comment2": "Legendary",
       "relicEquipments": "6302@0,100"
@@ -69472,16 +70329,19 @@
     },
     {
       "rewardID": 1568,
+      "crossplayID": 1568,
       "comment1": "Rank 100000",
       "addLuckyWheelTicket": 150
     },
     {
       "rewardID": 1569,
+      "crossplayID": 1569,
       "comment1": "Rank 75000",
       "addLuckyWheelTicket": 210
     },
     {
       "rewardID": 1570,
+      "crossplayID": 1570,
       "comment1": "Rank 50000",
       "addDecoCatalyst9": 2,
       "addLegendaryToken": 60,
@@ -69492,6 +70352,7 @@
     },
     {
       "rewardID": 1571,
+      "crossplayID": 1571,
       "comment1": "Rank 25000",
       "addDecoCatalyst10": 2,
       "addLegendaryToken": 120,
@@ -69502,6 +70363,7 @@
     },
     {
       "rewardID": 1572,
+      "crossplayID": 1572,
       "comment1": "Rank 10000",
       "addDecoCatalyst10": 2,
       "addLegendaryToken": 180,
@@ -69512,6 +70374,7 @@
     },
     {
       "rewardID": 1573,
+      "crossplayID": 1573,
       "comment1": "Rank 5000",
       "addDecoCatalyst10": 2,
       "addLegendaryToken": 240,
@@ -69522,6 +70385,7 @@
     },
     {
       "rewardID": 1574,
+      "crossplayID": 1574,
       "comment1": "Rank 2500",
       "addDecoCatalyst11": 4,
       "addLegendaryToken": 280,
@@ -69532,6 +70396,7 @@
     },
     {
       "rewardID": 1575,
+      "crossplayID": 1575,
       "comment1": "Rank 1000",
       "addDecoCatalyst11": 4,
       "addLegendaryToken": 320,
@@ -69542,6 +70407,7 @@
     },
     {
       "rewardID": 1576,
+      "crossplayID": 1576,
       "comment1": "Rank 500",
       "addDecoCatalyst11": 4,
       "addLegendaryToken": 360,
@@ -69552,6 +70418,7 @@
     },
     {
       "rewardID": 1577,
+      "crossplayID": 1577,
       "comment1": "Rank 250",
       "addDecoCatalyst11": 4,
       "addLegendaryToken": 400,
@@ -69562,6 +70429,7 @@
     },
     {
       "rewardID": 1578,
+      "crossplayID": 1578,
       "comment1": "Rank 50",
       "addDecoCatalyst12": 6,
       "addLegendaryToken": 440,
@@ -69573,6 +70441,7 @@
     },
     {
       "rewardID": 1579,
+      "crossplayID": 1579,
       "comment1": "Rank 1",
       "addDecoCatalyst12": 6,
       "addLegendaryToken": 480,
@@ -69584,11 +70453,13 @@
     },
     {
       "rewardID": 1580,
+      "crossplayID": 1580,
       "comment1": "participation Reward",
       "addLuckyWheelTicket": 100
     },
     {
       "rewardID": 2318,
+      "crossplayID": 2318,
       "comment1": "Rank 100000 TESTRUN",
       "comment2": 1,
       "addLuckyWheelTicket": 50,
@@ -69596,6 +70467,7 @@
     },
     {
       "rewardID": 2306,
+      "crossplayID": 2306,
       "comment1": "Rank 75000 TESTRUN",
       "comment2": 2,
       "addLuckyWheelTicket": 100,
@@ -69603,6 +70475,7 @@
     },
     {
       "rewardID": 2307,
+      "crossplayID": 2307,
       "comment1": "Rank 50000 TESTRUN",
       "comment2": 3,
       "addLuckyWheelTicket": 150,
@@ -69610,6 +70483,7 @@
     },
     {
       "rewardID": 2308,
+      "crossplayID": 2308,
       "comment1": "Rank 25000 TESTRUN",
       "comment2": 4,
       "addLuckyWheelTicket": 200,
@@ -69617,6 +70491,7 @@
     },
     {
       "rewardID": 2309,
+      "crossplayID": 2309,
       "comment1": "Rank 10000 TESTRUN",
       "comment2": 5,
       "addLuckyWheelTicket": 250,
@@ -69624,6 +70499,7 @@
     },
     {
       "rewardID": 2310,
+      "crossplayID": 2310,
       "comment1": "Rank 5000 TESTRUN",
       "comment2": 6,
       "addLuckyWheelTicket": 300,
@@ -69631,6 +70507,7 @@
     },
     {
       "rewardID": 2311,
+      "crossplayID": 2311,
       "comment1": "Rank 2500 TESTRUN",
       "comment2": 7,
       "addLuckyWheelTicket": 350,
@@ -69638,6 +70515,7 @@
     },
     {
       "rewardID": 2312,
+      "crossplayID": 2312,
       "comment1": "Rank 1000 TESTRUN",
       "comment2": 8,
       "addLuckyWheelTicket": 400,
@@ -69645,6 +70523,7 @@
     },
     {
       "rewardID": 2313,
+      "crossplayID": 2313,
       "comment1": "Rank 500 TESTRUN",
       "comment2": 9,
       "addLuckyWheelTicket": 450,
@@ -69652,6 +70531,7 @@
     },
     {
       "rewardID": 2314,
+      "crossplayID": 2314,
       "comment1": "Rank 250 TESTRUN",
       "comment2": 10,
       "addLuckyWheelTicket": 500,
@@ -69659,6 +70539,7 @@
     },
     {
       "rewardID": 2315,
+      "crossplayID": 2315,
       "comment1": "Rank 50 TESTRUN",
       "comment2": 11,
       "addLuckyWheelTicket": 550,
@@ -69666,6 +70547,7 @@
     },
     {
       "rewardID": 2316,
+      "crossplayID": 2316,
       "comment1": "Rank 1 TESTRUN",
       "comment2": 12,
       "addLuckyWheelTicket": 600,
@@ -69673,6 +70555,7 @@
     },
     {
       "rewardID": 2317,
+      "crossplayID": 2317,
       "comment1": "participation Reward TESTRUN",
       "comment2": 13,
       "addLuckyWheelTicket": 50,
@@ -69680,12 +70563,14 @@
     },
     {
       "rewardID": 2643,
+      "crossplayID": 2643,
       "comment1": "Daily tasks",
       "comment2": 1,
       "relicEquipments": "13101@60,100#3101@60,100"
     },
     {
       "rewardID": 2644,
+      "crossplayID": 2644,
       "comment1": "Daily tasks",
       "comment2": 2,
       "addLegendaryToken": 5,
@@ -69694,6 +70579,7 @@
     },
     {
       "rewardID": 2645,
+      "crossplayID": 2645,
       "comment1": "Daily tasks",
       "comment2": 3,
       "addLegendaryToken": 5,
@@ -69702,6 +70588,7 @@
     },
     {
       "rewardID": 2646,
+      "crossplayID": 2646,
       "comment1": "Daily tasks",
       "comment2": 4,
       "addLegendaryToken": 15,
@@ -69710,6 +70597,7 @@
     },
     {
       "rewardID": 2647,
+      "crossplayID": 2647,
       "comment1": "Daily tasks",
       "comment2": 5,
       "addLegendaryToken": 20,
@@ -69718,6 +70606,7 @@
     },
     {
       "rewardID": 2649,
+      "crossplayID": 2649,
       "comment1": "Rank 40001 - 50000",
       "addDecoCatalyst13": 2,
       "addLegendaryToken": 60,
@@ -69728,6 +70617,7 @@
     },
     {
       "rewardID": 2650,
+      "crossplayID": 2650,
       "comment1": "Rank 30001 - 40000",
       "addDecoCatalyst13": 2,
       "addLegendaryToken": 80,
@@ -69738,6 +70628,7 @@
     },
     {
       "rewardID": 2651,
+      "crossplayID": 2651,
       "comment1": "Rank 25001 - 30000",
       "addDecoCatalyst14": 2,
       "addLegendaryToken": 100,
@@ -69748,6 +70639,7 @@
     },
     {
       "rewardID": 2652,
+      "crossplayID": 2652,
       "comment1": "Rank 20001 -  25000",
       "addDecoCatalyst14": 2,
       "addLegendaryToken": 120,
@@ -69758,6 +70650,7 @@
     },
     {
       "rewardID": 2653,
+      "crossplayID": 2653,
       "comment1": "Rank 17501 - 20000",
       "addDecoCatalyst14": 2,
       "addLegendaryToken": 130,
@@ -69768,6 +70661,7 @@
     },
     {
       "rewardID": 2654,
+      "crossplayID": 2654,
       "comment1": "Rank 15001 - 17500",
       "addDecoCatalyst14": 2,
       "addLegendaryToken": 140,
@@ -69778,6 +70672,7 @@
     },
     {
       "rewardID": 2655,
+      "crossplayID": 2655,
       "comment1": "Rank 12501 - 15000",
       "addDecoCatalyst14": 2,
       "addLegendaryToken": 150,
@@ -69788,6 +70683,7 @@
     },
     {
       "rewardID": 2656,
+      "crossplayID": 2656,
       "comment1": "Rank 10001 - 12500",
       "addDecoCatalyst14": 2,
       "addLegendaryToken": 160,
@@ -69798,6 +70694,7 @@
     },
     {
       "rewardID": 2657,
+      "crossplayID": 2657,
       "comment1": "Rank 9001 - 10000",
       "addDecoCatalyst14": 2,
       "addLegendaryToken": 180,
@@ -69808,6 +70705,7 @@
     },
     {
       "rewardID": 2658,
+      "crossplayID": 2658,
       "comment1": "Rank 8001 - 9000",
       "addDecoCatalyst14": 2,
       "addLegendaryToken": 190,
@@ -69818,6 +70716,7 @@
     },
     {
       "rewardID": 2659,
+      "crossplayID": 2659,
       "comment1": "Rank 7001 - 8000",
       "addDecoCatalyst14": 2,
       "addLegendaryToken": 200,
@@ -69828,6 +70727,7 @@
     },
     {
       "rewardID": 2660,
+      "crossplayID": 2660,
       "comment1": "Rank 6001 - 7000",
       "addDecoCatalyst14": 2,
       "addLegendaryToken": 210,
@@ -69838,6 +70738,7 @@
     },
     {
       "rewardID": 2661,
+      "crossplayID": 2661,
       "comment1": "Rank 5001 - 6000",
       "addDecoCatalyst14": 2,
       "addLegendaryToken": 220,
@@ -69848,6 +70749,7 @@
     },
     {
       "rewardID": 2662,
+      "crossplayID": 2662,
       "comment1": "Rank 4501 - 5000",
       "addDecoCatalyst14": 2,
       "addLegendaryToken": 240,
@@ -69858,6 +70760,7 @@
     },
     {
       "rewardID": 2663,
+      "crossplayID": 2663,
       "comment1": "Rank 4001 - 4500",
       "addDecoCatalyst14": 3,
       "addLegendaryToken": 250,
@@ -69868,6 +70771,7 @@
     },
     {
       "rewardID": 2664,
+      "crossplayID": 2664,
       "comment1": "Rank 3501 - 4000",
       "addDecoCatalyst14": 3,
       "addLegendaryToken": 250,
@@ -69878,6 +70782,7 @@
     },
     {
       "rewardID": 2665,
+      "crossplayID": 2665,
       "comment1": "Rank 3001 - 3500",
       "addDecoCatalyst15": 3,
       "addLegendaryToken": 260,
@@ -69888,6 +70793,7 @@
     },
     {
       "rewardID": 2666,
+      "crossplayID": 2666,
       "comment1": "Rank 2501 - 3000",
       "addDecoCatalyst15": 3,
       "addLegendaryToken": 270,
@@ -69898,6 +70804,7 @@
     },
     {
       "rewardID": 2667,
+      "crossplayID": 2667,
       "comment1": "Rank 2001 - 2500",
       "addDecoCatalyst15": 4,
       "addLegendaryToken": 280,
@@ -69908,6 +70815,7 @@
     },
     {
       "rewardID": 2668,
+      "crossplayID": 2668,
       "comment1": "Rank 1751 - 2000",
       "addDecoCatalyst15": 4,
       "addLegendaryToken": 290,
@@ -69918,6 +70826,7 @@
     },
     {
       "rewardID": 2669,
+      "crossplayID": 2669,
       "comment1": "Rank 1501 - 1750",
       "addDecoCatalyst15": 4,
       "addLegendaryToken": 300,
@@ -69928,6 +70837,7 @@
     },
     {
       "rewardID": 2670,
+      "crossplayID": 2670,
       "comment1": "Rank 1251 - 1500",
       "addDecoCatalyst15": 4,
       "addLegendaryToken": 300,
@@ -69938,6 +70848,7 @@
     },
     {
       "rewardID": 2671,
+      "crossplayID": 2671,
       "comment1": "Rank 1001 - 1250",
       "addDecoCatalyst15": 4,
       "addLegendaryToken": 310,
@@ -69948,6 +70859,7 @@
     },
     {
       "rewardID": 2672,
+      "crossplayID": 2672,
       "comment1": "Rank 901 - 1000",
       "addDecoCatalyst15": 4,
       "addLegendaryToken": 320,
@@ -69958,6 +70870,7 @@
     },
     {
       "rewardID": 2673,
+      "crossplayID": 2673,
       "comment1": "Rank 801 - 900",
       "addDecoCatalyst15": 4,
       "addLegendaryToken": 330,
@@ -69968,6 +70881,7 @@
     },
     {
       "rewardID": 2674,
+      "crossplayID": 2674,
       "comment1": "Rank 701 - 800",
       "addDecoCatalyst15": 4,
       "addLegendaryToken": 330,
@@ -69978,6 +70892,7 @@
     },
     {
       "rewardID": 2675,
+      "crossplayID": 2675,
       "comment1": "Rank 601 - 700",
       "addDecoCatalyst15": 4,
       "addLegendaryToken": 340,
@@ -69988,6 +70903,7 @@
     },
     {
       "rewardID": 2676,
+      "crossplayID": 2676,
       "comment1": "Rank 501 - 600",
       "addDecoCatalyst15": 4,
       "addLegendaryToken": 350,
@@ -69998,6 +70914,7 @@
     },
     {
       "rewardID": 2677,
+      "crossplayID": 2677,
       "comment1": "Rank 401 - 500",
       "addDecoCatalyst15": 4,
       "addLegendaryToken": 360,
@@ -70008,6 +70925,7 @@
     },
     {
       "rewardID": 2678,
+      "crossplayID": 2678,
       "comment1": "Rank 351 - 400",
       "addDecoCatalyst15": 4,
       "addLegendaryToken": 370,
@@ -70018,6 +70936,7 @@
     },
     {
       "rewardID": 2679,
+      "crossplayID": 2679,
       "comment1": "Rank 301 - 350",
       "addDecoCatalyst15": 4,
       "addLegendaryToken": 380,
@@ -70028,6 +70947,7 @@
     },
     {
       "rewardID": 2680,
+      "crossplayID": 2680,
       "comment1": "Rank 251 - 300",
       "addDecoCatalyst15": 4,
       "addLegendaryToken": 390,
@@ -70038,6 +70958,7 @@
     },
     {
       "rewardID": 2681,
+      "crossplayID": 2681,
       "comment1": "Rank 201 - 250",
       "addDecoCatalyst15": 4,
       "addLegendaryToken": 410,
@@ -70048,6 +70969,7 @@
     },
     {
       "rewardID": 2682,
+      "crossplayID": 2682,
       "comment1": "Rank 151-200",
       "addDecoCatalyst15": 5,
       "addLegendaryToken": 415,
@@ -70058,6 +70980,7 @@
     },
     {
       "rewardID": 2683,
+      "crossplayID": 2683,
       "comment1": "Rank 126-150",
       "addDecoCatalyst15": 5,
       "addLegendaryToken": 420,
@@ -70068,6 +70991,7 @@
     },
     {
       "rewardID": 2684,
+      "crossplayID": 2684,
       "comment1": "Rank 101-125",
       "addDecoCatalyst15": 5,
       "addLegendaryToken": 425,
@@ -70078,6 +71002,7 @@
     },
     {
       "rewardID": 2685,
+      "crossplayID": 2685,
       "comment1": "Rank 76-100",
       "addDecoCatalyst16": 5,
       "addLegendaryToken": 430,
@@ -70088,6 +71013,7 @@
     },
     {
       "rewardID": 2686,
+      "crossplayID": 2686,
       "comment1": "Rank 51-75",
       "addDecoCatalyst16": 5,
       "addLegendaryToken": 435,
@@ -70098,6 +71024,7 @@
     },
     {
       "rewardID": 3420,
+      "crossplayID": 3420,
       "comment1": "Rank 41 - 50",
       "addDecoCatalyst16": 6,
       "addLegendaryToken": 440,
@@ -70108,6 +71035,7 @@
     },
     {
       "rewardID": 3421,
+      "crossplayID": 3421,
       "comment1": "Rank 31-40",
       "addDecoCatalyst16": 6,
       "addLegendaryToken": 445,
@@ -70118,6 +71046,7 @@
     },
     {
       "rewardID": 3422,
+      "crossplayID": 3422,
       "comment1": "Rank 21-30",
       "addDecoCatalyst16": 6,
       "addLegendaryToken": 450,
@@ -70128,6 +71057,7 @@
     },
     {
       "rewardID": 3586,
+      "crossplayID": 3586,
       "comment1": "Rank 11 - 20",
       "addDecoCatalyst16": 6,
       "addLegendaryToken": 455,
@@ -70138,6 +71068,7 @@
     },
     {
       "rewardID": 3852,
+      "crossplayID": 3852,
       "comment1": "Rank 4 - 10",
       "addDecoCatalyst16": 6,
       "addLegendaryToken": 460,
@@ -70148,6 +71079,7 @@
     },
     {
       "rewardID": 3853,
+      "crossplayID": 3853,
       "comment1": "Rank 3",
       "addDecoCatalyst16": 6,
       "addLegendaryToken": 465,
@@ -70158,6 +71090,7 @@
     },
     {
       "rewardID": 3854,
+      "crossplayID": 3854,
       "comment1": "Rank 2",
       "addDecoCatalyst16": 6,
       "addLegendaryToken": 470,
@@ -70168,6 +71101,7 @@
     },
     {
       "rewardID": 3855,
+      "crossplayID": 3855,
       "comment1": "Rank 1",
       "addDecoCatalyst16": 6,
       "addLegendaryToken": 480,
@@ -70178,6 +71112,7 @@
     },
     {
       "rewardID": 624,
+      "crossplayID": 661,
       "comment1": "",
       "comment2": "Rank 50000 - 45001",
       "ignoreResourceStorageCapacity": 1,
@@ -70186,6 +71121,7 @@
     },
     {
       "rewardID": 625,
+      "crossplayID": 662,
       "comment1": "",
       "comment2": "Rank 45000 - 40001",
       "ignoreResourceStorageCapacity": 1,
@@ -70194,6 +71130,7 @@
     },
     {
       "rewardID": 626,
+      "crossplayID": 663,
       "comment1": "",
       "comment2": "Rank 40000 - 35001",
       "ignoreResourceStorageCapacity": 1,
@@ -70202,6 +71139,7 @@
     },
     {
       "rewardID": 627,
+      "crossplayID": 776,
       "comment1": "",
       "comment2": "Rank 35000 - 30001",
       "ignoreResourceStorageCapacity": 1,
@@ -70210,6 +71148,7 @@
     },
     {
       "rewardID": 701,
+      "crossplayID": 777,
       "comment1": "",
       "comment2": "Rank 30000 - 25001",
       "ignoreResourceStorageCapacity": 1,
@@ -70218,6 +71157,7 @@
     },
     {
       "rewardID": 702,
+      "crossplayID": 778,
       "comment1": "",
       "comment2": "Rank 25000 - 20001",
       "ignoreResourceStorageCapacity": 1,
@@ -70226,6 +71166,7 @@
     },
     {
       "rewardID": 703,
+      "crossplayID": 779,
       "comment1": "",
       "comment2": "Rank 20000 - 15001",
       "ignoreResourceStorageCapacity": 1,
@@ -70234,6 +71175,7 @@
     },
     {
       "rewardID": 704,
+      "crossplayID": 780,
       "comment1": "",
       "comment2": "Rank 15000 - 10001",
       "ignoreResourceStorageCapacity": 1,
@@ -70242,6 +71184,7 @@
     },
     {
       "rewardID": 705,
+      "crossplayID": 781,
       "comment1": "",
       "comment2": "Rank 10000 - 9001",
       "ignoreResourceStorageCapacity": 1,
@@ -70252,6 +71195,7 @@
     },
     {
       "rewardID": 706,
+      "crossplayID": 971,
       "comment1": "",
       "comment2": "Rank 9000 - 8001",
       "ignoreResourceStorageCapacity": 1,
@@ -70262,6 +71206,7 @@
     },
     {
       "rewardID": 707,
+      "crossplayID": 972,
       "comment1": "",
       "comment2": "Rank 8000 - 7001",
       "ignoreResourceStorageCapacity": 1,
@@ -70272,6 +71217,7 @@
     },
     {
       "rewardID": 708,
+      "crossplayID": 973,
       "comment1": "",
       "comment2": "Rank 7000 - 6501",
       "ignoreResourceStorageCapacity": 1,
@@ -70282,6 +71228,7 @@
     },
     {
       "rewardID": 709,
+      "crossplayID": 974,
       "comment1": "",
       "comment2": "Rank 6500 - 6001",
       "ignoreResourceStorageCapacity": 1,
@@ -70292,6 +71239,7 @@
     },
     {
       "rewardID": 710,
+      "crossplayID": 975,
       "comment1": "",
       "comment2": "Rank 6000 - 5751",
       "ignoreResourceStorageCapacity": 1,
@@ -70302,6 +71250,7 @@
     },
     {
       "rewardID": 711,
+      "crossplayID": 976,
       "comment1": "",
       "comment2": "Rank 5750 - 5501",
       "ignoreResourceStorageCapacity": 1,
@@ -70312,6 +71261,7 @@
     },
     {
       "rewardID": 712,
+      "crossplayID": 977,
       "comment1": "",
       "comment2": "Rank 5500 - 5251",
       "ignoreResourceStorageCapacity": 1,
@@ -70322,6 +71272,7 @@
     },
     {
       "rewardID": 713,
+      "crossplayID": 978,
       "comment1": "",
       "comment2": "Rank 5250 - 5001",
       "ignoreResourceStorageCapacity": 1,
@@ -70332,6 +71283,7 @@
     },
     {
       "rewardID": 714,
+      "crossplayID": 979,
       "comment1": "",
       "comment2": "Rank 5000 - 4751",
       "ignoreResourceStorageCapacity": 1,
@@ -70342,6 +71294,7 @@
     },
     {
       "rewardID": 715,
+      "crossplayID": 980,
       "comment1": "",
       "comment2": "Rank 4750 - 4501",
       "ignoreResourceStorageCapacity": 1,
@@ -70352,6 +71305,7 @@
     },
     {
       "rewardID": 716,
+      "crossplayID": 981,
       "comment1": "",
       "comment2": "Rank 4500 - 4251",
       "ignoreResourceStorageCapacity": 1,
@@ -70362,6 +71316,7 @@
     },
     {
       "rewardID": 717,
+      "crossplayID": 982,
       "comment1": "",
       "comment2": "Rank 4250 - 4001",
       "ignoreResourceStorageCapacity": 1,
@@ -70372,6 +71327,7 @@
     },
     {
       "rewardID": 718,
+      "crossplayID": 983,
       "comment1": "",
       "comment2": "Rank 4000 - 3751",
       "ignoreResourceStorageCapacity": 1,
@@ -70382,6 +71338,7 @@
     },
     {
       "rewardID": 719,
+      "crossplayID": 984,
       "comment1": "",
       "comment2": "Rank 3750 - 3501",
       "ignoreResourceStorageCapacity": 1,
@@ -70392,6 +71349,7 @@
     },
     {
       "rewardID": 720,
+      "crossplayID": 985,
       "comment1": "",
       "comment2": "Rank 3500 - 3251",
       "ignoreResourceStorageCapacity": 1,
@@ -70402,6 +71360,7 @@
     },
     {
       "rewardID": 721,
+      "crossplayID": 986,
       "comment1": "",
       "comment2": "Rank 3250 - 3001",
       "ignoreResourceStorageCapacity": 1,
@@ -70412,6 +71371,7 @@
     },
     {
       "rewardID": 722,
+      "crossplayID": 987,
       "comment1": "",
       "comment2": "Rank 3000 - 2751",
       "ignoreResourceStorageCapacity": 1,
@@ -70422,6 +71382,7 @@
     },
     {
       "rewardID": 723,
+      "crossplayID": 988,
       "comment1": "",
       "comment2": "Rank 2750 - 2501",
       "ignoreResourceStorageCapacity": 1,
@@ -70432,6 +71393,7 @@
     },
     {
       "rewardID": 724,
+      "crossplayID": 989,
       "comment1": "",
       "comment2": "Rank 2500 - 2251",
       "ignoreResourceStorageCapacity": 1,
@@ -70442,6 +71404,7 @@
     },
     {
       "rewardID": 725,
+      "crossplayID": 990,
       "comment1": "",
       "comment2": "Rank 2250 - 2001",
       "ignoreResourceStorageCapacity": 1,
@@ -70452,6 +71415,7 @@
     },
     {
       "rewardID": 726,
+      "crossplayID": 991,
       "comment1": "",
       "comment2": "Rank 2000 - 1751",
       "ignoreResourceStorageCapacity": 1,
@@ -70462,6 +71426,7 @@
     },
     {
       "rewardID": 727,
+      "crossplayID": 992,
       "comment1": "",
       "comment2": "Rank 1750 - 1501",
       "ignoreResourceStorageCapacity": 1,
@@ -70472,6 +71437,7 @@
     },
     {
       "rewardID": 728,
+      "crossplayID": 993,
       "comment1": "",
       "comment2": "Rank 1500 - 1251",
       "ignoreResourceStorageCapacity": 1,
@@ -70482,6 +71448,7 @@
     },
     {
       "rewardID": 729,
+      "crossplayID": 994,
       "comment1": "",
       "comment2": "Rank 1250 - 1001",
       "ignoreResourceStorageCapacity": 1,
@@ -70492,6 +71459,7 @@
     },
     {
       "rewardID": 730,
+      "crossplayID": 995,
       "comment1": "",
       "comment2": "Rank 1000 - 751",
       "ignoreResourceStorageCapacity": 1,
@@ -70502,6 +71470,7 @@
     },
     {
       "rewardID": 731,
+      "crossplayID": 996,
       "comment1": "",
       "comment2": "Rank 750 - 501",
       "ignoreResourceStorageCapacity": 1,
@@ -70512,6 +71481,7 @@
     },
     {
       "rewardID": 732,
+      "crossplayID": 997,
       "comment1": "",
       "comment2": "Rank 500 - 251",
       "ignoreResourceStorageCapacity": 1,
@@ -70522,6 +71492,7 @@
     },
     {
       "rewardID": 733,
+      "crossplayID": 998,
       "comment1": "",
       "comment2": "Rank 250 - 151",
       "ignoreResourceStorageCapacity": 1,
@@ -70532,6 +71503,7 @@
     },
     {
       "rewardID": 734,
+      "crossplayID": 999,
       "comment1": "",
       "comment2": "Rank 150 - 101",
       "ignoreResourceStorageCapacity": 1,
@@ -70542,6 +71514,7 @@
     },
     {
       "rewardID": 735,
+      "crossplayID": 1124,
       "comment1": "",
       "comment2": "Rank 100 - 71",
       "ignoreResourceStorageCapacity": 1,
@@ -70552,6 +71525,7 @@
     },
     {
       "rewardID": 736,
+      "crossplayID": 1125,
       "comment1": "",
       "comment2": "Rank 70 - 41",
       "ignoreResourceStorageCapacity": 1,
@@ -70562,6 +71536,7 @@
     },
     {
       "rewardID": 737,
+      "crossplayID": 1126,
       "comment1": "",
       "comment2": "Rank 40 - 21",
       "ignoreResourceStorageCapacity": 1,
@@ -70572,6 +71547,7 @@
     },
     {
       "rewardID": 738,
+      "crossplayID": 1127,
       "comment1": "",
       "comment2": "Rank 20 - 11",
       "ignoreResourceStorageCapacity": 1,
@@ -70582,6 +71558,7 @@
     },
     {
       "rewardID": 739,
+      "crossplayID": 1128,
       "comment1": "",
       "comment2": "Rank 10 - 5",
       "ignoreResourceStorageCapacity": 1,
@@ -70592,6 +71569,7 @@
     },
     {
       "rewardID": 740,
+      "crossplayID": 1176,
       "comment1": "",
       "comment2": "Rank 4 - 4",
       "ignoreResourceStorageCapacity": 1,
@@ -70602,6 +71580,7 @@
     },
     {
       "rewardID": 741,
+      "crossplayID": 1241,
       "comment1": "",
       "comment2": "Rank 3 - 3",
       "ignoreResourceStorageCapacity": 1,
@@ -70612,6 +71591,7 @@
     },
     {
       "rewardID": 742,
+      "crossplayID": 1242,
       "comment1": "",
       "comment2": "Rank 2 - 2",
       "ignoreResourceStorageCapacity": 1,
@@ -70622,6 +71602,7 @@
     },
     {
       "rewardID": 743,
+      "crossplayID": 1243,
       "comment1": "",
       "comment2": "Rank 1 - 1",
       "ignoreResourceStorageCapacity": 1,
@@ -70632,6 +71613,7 @@
     },
     {
       "rewardID": 5147,
+      "crossplayID": 5147,
       "comment1": "Castle Transportation - rewardSetID 5",
       "comment2": "Rank 6000 - 5751",
       "ignoreResourceStorageCapacity": 1,
@@ -70642,6 +71624,7 @@
     },
     {
       "rewardID": 5769,
+      "crossplayID": 5769,
       "comment1": "Castle Transportation - rewardSetID 5",
       "comment2": "Rank 5750 - 5501",
       "ignoreResourceStorageCapacity": 1,
@@ -70652,6 +71635,7 @@
     },
     {
       "rewardID": 5770,
+      "crossplayID": 5770,
       "comment1": "Castle Transportation - rewardSetID 5",
       "comment2": "Rank 5500 - 5251",
       "ignoreResourceStorageCapacity": 1,
@@ -70662,6 +71646,7 @@
     },
     {
       "rewardID": 5771,
+      "crossplayID": 5771,
       "comment1": "Castle Transportation - rewardSetID 5",
       "comment2": "Rank 5250 - 5001",
       "ignoreResourceStorageCapacity": 1,
@@ -70672,6 +71657,7 @@
     },
     {
       "rewardID": 5772,
+      "crossplayID": 5772,
       "comment1": "Castle Transportation - rewardSetID 5",
       "comment2": "Rank 5000 - 4751",
       "ignoreResourceStorageCapacity": 1,
@@ -70682,6 +71668,7 @@
     },
     {
       "rewardID": 5773,
+      "crossplayID": 5773,
       "comment1": "Castle Transportation - rewardSetID 5",
       "comment2": "Rank 4750 - 4501",
       "ignoreResourceStorageCapacity": 1,
@@ -70692,6 +71679,7 @@
     },
     {
       "rewardID": 5774,
+      "crossplayID": 5774,
       "comment1": "Castle Transportation - rewardSetID 5",
       "comment2": "Rank 4500 - 4251",
       "ignoreResourceStorageCapacity": 1,
@@ -70702,6 +71690,7 @@
     },
     {
       "rewardID": 5775,
+      "crossplayID": 5775,
       "comment1": "Castle Transportation - rewardSetID 5",
       "comment2": "Rank 4250 - 4001",
       "ignoreResourceStorageCapacity": 1,
@@ -70712,6 +71701,7 @@
     },
     {
       "rewardID": 5776,
+      "crossplayID": 5776,
       "comment1": "Castle Transportation - rewardSetID 5",
       "comment2": "Rank 4000 - 3751",
       "ignoreResourceStorageCapacity": 1,
@@ -70722,6 +71712,7 @@
     },
     {
       "rewardID": 5777,
+      "crossplayID": 5777,
       "comment1": "Castle Transportation - rewardSetID 5",
       "comment2": "Rank 3750 - 3501",
       "ignoreResourceStorageCapacity": 1,
@@ -70732,6 +71723,7 @@
     },
     {
       "rewardID": 5778,
+      "crossplayID": 5778,
       "comment1": "Castle Transportation - rewardSetID 5",
       "comment2": "Rank 3500 - 3251",
       "ignoreResourceStorageCapacity": 1,
@@ -70742,6 +71734,7 @@
     },
     {
       "rewardID": 5779,
+      "crossplayID": 5779,
       "comment1": "Castle Transportation - rewardSetID 5",
       "comment2": "Rank 3250 - 3001",
       "ignoreResourceStorageCapacity": 1,
@@ -70752,6 +71745,7 @@
     },
     {
       "rewardID": 5780,
+      "crossplayID": 5780,
       "comment1": "Castle Transportation - rewardSetID 5",
       "comment2": "Rank 3000 - 2751",
       "ignoreResourceStorageCapacity": 1,
@@ -70762,6 +71756,7 @@
     },
     {
       "rewardID": 5781,
+      "crossplayID": 5781,
       "comment1": "Castle Transportation - rewardSetID 5",
       "comment2": "Rank 2750 - 2501",
       "ignoreResourceStorageCapacity": 1,
@@ -70772,6 +71767,7 @@
     },
     {
       "rewardID": 5782,
+      "crossplayID": 5782,
       "comment1": "Castle Transportation - rewardSetID 5",
       "comment2": "Rank 2500 - 2251",
       "ignoreResourceStorageCapacity": 1,
@@ -70782,6 +71778,7 @@
     },
     {
       "rewardID": 5783,
+      "crossplayID": 5783,
       "comment1": "Castle Transportation - rewardSetID 5",
       "comment2": "Rank 2250 - 2001",
       "ignoreResourceStorageCapacity": 1,
@@ -70792,6 +71789,7 @@
     },
     {
       "rewardID": 5784,
+      "crossplayID": 5784,
       "comment1": "Castle Transportation - rewardSetID 5",
       "comment2": "Rank 2000 - 1751",
       "ignoreResourceStorageCapacity": 1,
@@ -70802,6 +71800,7 @@
     },
     {
       "rewardID": 5785,
+      "crossplayID": 5785,
       "comment1": "Castle Transportation - rewardSetID 5",
       "comment2": "Rank 1750 - 1501",
       "ignoreResourceStorageCapacity": 1,
@@ -70812,6 +71811,7 @@
     },
     {
       "rewardID": 5786,
+      "crossplayID": 5786,
       "comment1": "Castle Transportation - rewardSetID 5",
       "comment2": "Rank 1500 - 1251",
       "ignoreResourceStorageCapacity": 1,
@@ -70822,6 +71822,7 @@
     },
     {
       "rewardID": 5787,
+      "crossplayID": 5787,
       "comment1": "Castle Transportation - rewardSetID 5",
       "comment2": "Rank 1250 - 1001",
       "ignoreResourceStorageCapacity": 1,
@@ -70832,6 +71833,7 @@
     },
     {
       "rewardID": 5788,
+      "crossplayID": 5788,
       "comment1": "Castle Transportation - rewardSetID 5",
       "comment2": "Rank 1000 - 751",
       "ignoreResourceStorageCapacity": 1,
@@ -70842,6 +71844,7 @@
     },
     {
       "rewardID": 5789,
+      "crossplayID": 5789,
       "comment1": "Castle Transportation - rewardSetID 5",
       "comment2": "Rank 750 - 501",
       "ignoreResourceStorageCapacity": 1,
@@ -70852,6 +71855,7 @@
     },
     {
       "rewardID": 5790,
+      "crossplayID": 5790,
       "comment1": "Castle Transportation - rewardSetID 5",
       "comment2": "Rank 500 - 251",
       "ignoreResourceStorageCapacity": 1,
@@ -70862,6 +71866,7 @@
     },
     {
       "rewardID": 5791,
+      "crossplayID": 5791,
       "comment1": "Castle Transportation - rewardSetID 5",
       "comment2": "Rank 250 - 151",
       "ignoreResourceStorageCapacity": 1,
@@ -70872,6 +71877,7 @@
     },
     {
       "rewardID": 5792,
+      "crossplayID": 5792,
       "comment1": "Castle Transportation - rewardSetID 5",
       "comment2": "Rank 150 - 101",
       "ignoreResourceStorageCapacity": 1,
@@ -70882,6 +71888,7 @@
     },
     {
       "rewardID": 5793,
+      "crossplayID": 5793,
       "comment1": "Castle Transportation - rewardSetID 5",
       "comment2": "Rank 100 - 71",
       "ignoreResourceStorageCapacity": 1,
@@ -70893,6 +71900,7 @@
     },
     {
       "rewardID": 5794,
+      "crossplayID": 5794,
       "comment1": "Castle Transportation - rewardSetID 5",
       "comment2": "Rank 70 - 41",
       "ignoreResourceStorageCapacity": 1,
@@ -70904,6 +71912,7 @@
     },
     {
       "rewardID": 5795,
+      "crossplayID": 5795,
       "comment1": "Castle Transportation - rewardSetID 5",
       "comment2": "Rank 40 - 21",
       "ignoreResourceStorageCapacity": 1,
@@ -70915,6 +71924,7 @@
     },
     {
       "rewardID": 5796,
+      "crossplayID": 5796,
       "comment1": "Castle Transportation - rewardSetID 5",
       "comment2": "Rank 20 - 11",
       "ignoreResourceStorageCapacity": 1,
@@ -70926,6 +71936,7 @@
     },
     {
       "rewardID": 5797,
+      "crossplayID": 5797,
       "comment1": "Castle Transportation - rewardSetID 5",
       "comment2": "Rank 10 - 5",
       "ignoreResourceStorageCapacity": 1,
@@ -70937,6 +71948,7 @@
     },
     {
       "rewardID": 5798,
+      "crossplayID": 5798,
       "comment1": "Castle Transportation - rewardSetID 5",
       "comment2": "Rank 4 - 4",
       "ignoreResourceStorageCapacity": 1,
@@ -70948,6 +71960,7 @@
     },
     {
       "rewardID": 5799,
+      "crossplayID": 5799,
       "comment1": "Castle Transportation - rewardSetID 5",
       "comment2": "Rank 3 - 3",
       "ignoreResourceStorageCapacity": 1,
@@ -70959,6 +71972,7 @@
     },
     {
       "rewardID": 5836,
+      "crossplayID": 5836,
       "comment1": "Castle Transportation - rewardSetID 5",
       "comment2": "Rank 2 - 2",
       "ignoreResourceStorageCapacity": 1,
@@ -70970,6 +71984,7 @@
     },
     {
       "rewardID": 5837,
+      "crossplayID": 5837,
       "comment1": "Castle Transportation - rewardSetID 5",
       "comment2": "Rank 1 - 1",
       "ignoreResourceStorageCapacity": 1,
@@ -70981,6 +71996,7 @@
     },
     {
       "rewardID": 5916,
+      "crossplayID": 5916,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 50000 - 45001",
       "ignoreResourceStorageCapacity": 1,
@@ -70989,6 +72005,7 @@
     },
     {
       "rewardID": 5917,
+      "crossplayID": 5917,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 45000 - 40001",
       "ignoreResourceStorageCapacity": 1,
@@ -70997,6 +72014,7 @@
     },
     {
       "rewardID": 5918,
+      "crossplayID": 5918,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 40000 - 35001",
       "ignoreResourceStorageCapacity": 1,
@@ -71005,6 +72023,7 @@
     },
     {
       "rewardID": 5919,
+      "crossplayID": 5919,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 35000 - 30001",
       "ignoreResourceStorageCapacity": 1,
@@ -71013,6 +72032,7 @@
     },
     {
       "rewardID": 5920,
+      "crossplayID": 5920,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 30000 - 25001",
       "ignoreResourceStorageCapacity": 1,
@@ -71021,6 +72041,7 @@
     },
     {
       "rewardID": 5921,
+      "crossplayID": 5921,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 25000 - 20001",
       "ignoreResourceStorageCapacity": 1,
@@ -71029,6 +72050,7 @@
     },
     {
       "rewardID": 5922,
+      "crossplayID": 5922,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 20000 - 15001",
       "ignoreResourceStorageCapacity": 1,
@@ -71037,6 +72059,7 @@
     },
     {
       "rewardID": 5923,
+      "crossplayID": 5923,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 15000 - 10001",
       "ignoreResourceStorageCapacity": 1,
@@ -71045,6 +72068,7 @@
     },
     {
       "rewardID": 5924,
+      "crossplayID": 5924,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 10000 - 9001",
       "ignoreResourceStorageCapacity": 1,
@@ -71055,6 +72079,7 @@
     },
     {
       "rewardID": 5925,
+      "crossplayID": 5925,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 9000 - 8001",
       "ignoreResourceStorageCapacity": 1,
@@ -71065,6 +72090,7 @@
     },
     {
       "rewardID": 5926,
+      "crossplayID": 5926,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 8000 - 7001",
       "ignoreResourceStorageCapacity": 1,
@@ -71075,6 +72101,7 @@
     },
     {
       "rewardID": 5927,
+      "crossplayID": 5927,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 7000 - 6501",
       "ignoreResourceStorageCapacity": 1,
@@ -71085,6 +72112,7 @@
     },
     {
       "rewardID": 5928,
+      "crossplayID": 5928,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 6500 - 6001",
       "ignoreResourceStorageCapacity": 1,
@@ -71095,6 +72123,7 @@
     },
     {
       "rewardID": 5929,
+      "crossplayID": 5929,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 6000 - 5751",
       "ignoreResourceStorageCapacity": 1,
@@ -71105,6 +72134,7 @@
     },
     {
       "rewardID": 5930,
+      "crossplayID": 5930,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 5750 - 5501",
       "ignoreResourceStorageCapacity": 1,
@@ -71115,6 +72145,7 @@
     },
     {
       "rewardID": 5931,
+      "crossplayID": 5931,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 5500 - 5251",
       "ignoreResourceStorageCapacity": 1,
@@ -71125,6 +72156,7 @@
     },
     {
       "rewardID": 5932,
+      "crossplayID": 5932,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 5250 - 5001",
       "ignoreResourceStorageCapacity": 1,
@@ -71135,6 +72167,7 @@
     },
     {
       "rewardID": 5933,
+      "crossplayID": 5933,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 5000 - 4751",
       "ignoreResourceStorageCapacity": 1,
@@ -71145,6 +72178,7 @@
     },
     {
       "rewardID": 5934,
+      "crossplayID": 5934,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 4750 - 4501",
       "ignoreResourceStorageCapacity": 1,
@@ -71155,6 +72189,7 @@
     },
     {
       "rewardID": 5935,
+      "crossplayID": 5935,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 4500 - 4251",
       "ignoreResourceStorageCapacity": 1,
@@ -71165,6 +72200,7 @@
     },
     {
       "rewardID": 5936,
+      "crossplayID": 5936,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 4250 - 4001",
       "ignoreResourceStorageCapacity": 1,
@@ -71175,6 +72211,7 @@
     },
     {
       "rewardID": 5937,
+      "crossplayID": 5937,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 4000 - 3751",
       "ignoreResourceStorageCapacity": 1,
@@ -71185,6 +72222,7 @@
     },
     {
       "rewardID": 5938,
+      "crossplayID": 5938,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 3750 - 3501",
       "ignoreResourceStorageCapacity": 1,
@@ -71195,6 +72233,7 @@
     },
     {
       "rewardID": 5939,
+      "crossplayID": 5939,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 3500 - 3251",
       "ignoreResourceStorageCapacity": 1,
@@ -71205,6 +72244,7 @@
     },
     {
       "rewardID": 5940,
+      "crossplayID": 5940,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 3250 - 3001",
       "ignoreResourceStorageCapacity": 1,
@@ -71215,6 +72255,7 @@
     },
     {
       "rewardID": 5941,
+      "crossplayID": 5941,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 3000 - 2751",
       "ignoreResourceStorageCapacity": 1,
@@ -71225,6 +72266,7 @@
     },
     {
       "rewardID": 5942,
+      "crossplayID": 5942,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 2750 - 2501",
       "ignoreResourceStorageCapacity": 1,
@@ -71235,6 +72277,7 @@
     },
     {
       "rewardID": 5943,
+      "crossplayID": 5943,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 2500 - 2251",
       "ignoreResourceStorageCapacity": 1,
@@ -71245,6 +72288,7 @@
     },
     {
       "rewardID": 5944,
+      "crossplayID": 5944,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 2250 - 2001",
       "ignoreResourceStorageCapacity": 1,
@@ -71255,6 +72299,7 @@
     },
     {
       "rewardID": 5945,
+      "crossplayID": 5945,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 2000 - 1751",
       "ignoreResourceStorageCapacity": 1,
@@ -71265,6 +72310,7 @@
     },
     {
       "rewardID": 5946,
+      "crossplayID": 5946,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 1750 - 1501",
       "ignoreResourceStorageCapacity": 1,
@@ -71275,6 +72321,7 @@
     },
     {
       "rewardID": 5947,
+      "crossplayID": 5947,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 1500 - 1251",
       "ignoreResourceStorageCapacity": 1,
@@ -71285,6 +72332,7 @@
     },
     {
       "rewardID": 5948,
+      "crossplayID": 5948,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 1250 - 1001",
       "ignoreResourceStorageCapacity": 1,
@@ -71295,6 +72343,7 @@
     },
     {
       "rewardID": 5949,
+      "crossplayID": 5949,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 1000 - 751",
       "ignoreResourceStorageCapacity": 1,
@@ -71305,6 +72354,7 @@
     },
     {
       "rewardID": 5950,
+      "crossplayID": 5950,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 750 - 501",
       "ignoreResourceStorageCapacity": 1,
@@ -71315,6 +72365,7 @@
     },
     {
       "rewardID": 5951,
+      "crossplayID": 5951,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 500 - 251",
       "ignoreResourceStorageCapacity": 1,
@@ -71325,6 +72376,7 @@
     },
     {
       "rewardID": 5952,
+      "crossplayID": 5952,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 250 - 151",
       "ignoreResourceStorageCapacity": 1,
@@ -71335,6 +72387,7 @@
     },
     {
       "rewardID": 5953,
+      "crossplayID": 5953,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 150 - 101",
       "ignoreResourceStorageCapacity": 1,
@@ -71345,6 +72398,7 @@
     },
     {
       "rewardID": 5954,
+      "crossplayID": 5954,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 100 - 71",
       "ignoreResourceStorageCapacity": 1,
@@ -71355,6 +72409,7 @@
     },
     {
       "rewardID": 5955,
+      "crossplayID": 5955,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 70 - 41",
       "ignoreResourceStorageCapacity": 1,
@@ -71365,6 +72420,7 @@
     },
     {
       "rewardID": 5956,
+      "crossplayID": 5956,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 40 - 21",
       "ignoreResourceStorageCapacity": 1,
@@ -71375,6 +72431,7 @@
     },
     {
       "rewardID": 5957,
+      "crossplayID": 5957,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 20 - 11",
       "ignoreResourceStorageCapacity": 1,
@@ -71385,6 +72442,7 @@
     },
     {
       "rewardID": 5958,
+      "crossplayID": 5958,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 10 - 5",
       "ignoreResourceStorageCapacity": 1,
@@ -71395,6 +72453,7 @@
     },
     {
       "rewardID": 5959,
+      "crossplayID": 5959,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 4 - 4",
       "ignoreResourceStorageCapacity": 1,
@@ -71405,6 +72464,7 @@
     },
     {
       "rewardID": 5960,
+      "crossplayID": 5960,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 3 - 3",
       "ignoreResourceStorageCapacity": 1,
@@ -71415,6 +72475,7 @@
     },
     {
       "rewardID": 5961,
+      "crossplayID": 5961,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 2 - 2",
       "ignoreResourceStorageCapacity": 1,
@@ -71425,6 +72486,7 @@
     },
     {
       "rewardID": 5962,
+      "crossplayID": 5962,
       "comment1": "Rank Swap - rewardSetID 6",
       "comment2": "Rank 1 - 1",
       "ignoreResourceStorageCapacity": 1,
@@ -71671,6 +72733,13 @@
     {
       "rewardID": 2826,
       "comment1": "new Stage",
+      "comment2": "Islandkingdom",
+      "grantType": 2,
+      "addLegendaryToken": 175
+    },
+    {
+      "rewardID": 308,
+      "comment1": "new Stage, gems",
       "comment2": "Islandkingdom",
       "grantType": 2,
       "addLegendaryToken": 175

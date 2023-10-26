@@ -2,14 +2,17 @@
   "districtType": [
     {
       "districtTypeID": 1,
+      "crossplayID": 1,
       "district": "military"
     },
     {
       "districtTypeID": 3,
+      "crossplayID": 3,
       "district": "inner"
     },
     {
       "districtTypeID": 4,
+      "crossplayID": 4,
       "district": "trade"
     }
   ]

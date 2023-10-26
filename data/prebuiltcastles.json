@@ -2,6 +2,7 @@
   "prebuiltcastle": [
     {
       "preBuiltCastleID": 1,
+      "crossplayID": 1,
       "comment1": "FactionKingdom",
       "comment2": "CheapCamp",
       "spaceIDs": 10,
@@ -13,6 +14,7 @@
     },
     {
       "preBuiltCastleID": 2,
+      "crossplayID": 2,
       "comment1": "FactionKingdom",
       "comment2": "ResourceCamp",
       "spaceIDs": 10,
@@ -24,6 +26,7 @@
     },
     {
       "preBuiltCastleID": 3,
+      "crossplayID": 3,
       "comment1": "FactionKingdom",
       "comment2": "C2Camp",
       "spaceIDs": 10,
@@ -34,6 +37,7 @@
     },
     {
       "preBuiltCastleID": 4,
+      "crossplayID": 4,
       "comment1": "IceKingdom",
       "comment2": "CheapCamp",
       "spaceIDs": 2,
@@ -47,6 +51,7 @@
     },
     {
       "preBuiltCastleID": 5,
+      "crossplayID": 5,
       "comment1": "IceKingdom",
       "comment2": "ResourceCamp",
       "spaceIDs": 2,
@@ -60,6 +65,7 @@
     },
     {
       "preBuiltCastleID": 6,
+      "crossplayID": 6,
       "comment1": "IceKingdom",
       "comment2": "C2Camp",
       "spaceIDs": 2,
@@ -69,6 +75,7 @@
     },
     {
       "preBuiltCastleID": 7,
+      "crossplayID": 7,
       "comment1": "DessertKingdom",
       "comment2": "CheapCamp",
       "spaceIDs": 1,
@@ -82,6 +89,7 @@
     },
     {
       "preBuiltCastleID": 8,
+      "crossplayID": 8,
       "comment1": "DessertKingdom",
       "comment2": "ResourceCamp",
       "spaceIDs": 1,
@@ -95,6 +103,7 @@
     },
     {
       "preBuiltCastleID": 9,
+      "crossplayID": 9,
       "comment1": "DessertKingdom",
       "comment2": "C2Camp",
       "spaceIDs": 1,
@@ -104,6 +113,7 @@
     },
     {
       "preBuiltCastleID": 10,
+      "crossplayID": 10,
       "comment1": "VulcanoKingdom",
       "comment2": "CheapCamp",
       "spaceIDs": 3,
@@ -117,6 +127,7 @@
     },
     {
       "preBuiltCastleID": 11,
+      "crossplayID": 11,
       "comment1": "VulcanoKingdom",
       "comment2": "ResourceCamp",
       "spaceIDs": 3,
@@ -130,6 +141,7 @@
     },
     {
       "preBuiltCastleID": 12,
+      "crossplayID": 12,
       "comment1": "VulcanoKingdom",
       "comment2": "C2Camp",
       "spaceIDs": 3,
@@ -139,6 +151,7 @@
     },
     {
       "preBuiltCastleID": 28,
+      "crossplayID": 28,
       "comment1": "Bladecoast",
       "comment2": "CheapCamp",
       "spaceIDs": "22,27,28",
@@ -152,6 +165,7 @@
     },
     {
       "preBuiltCastleID": 29,
+      "crossplayID": 29,
       "comment1": "Bladecoast",
       "comment2": "ResourceCamp",
       "spaceIDs": "22,27,28",
@@ -165,6 +179,7 @@
     },
     {
       "preBuiltCastleID": 30,
+      "crossplayID": 30,
       "comment1": "Bladecoast",
       "comment2": "C2Camp",
       "spaceIDs": "22,27,28",
@@ -174,6 +189,7 @@
     },
     {
       "preBuiltCastleID": 16,
+      "crossplayID": 16,
       "comment1": "Storm Island",
       "comment2": "CheapCamp",
       "spaceIDs": 4,
@@ -186,6 +202,7 @@
     },
     {
       "preBuiltCastleID": 17,
+      "crossplayID": 17,
       "comment1": "Storm Island",
       "comment2": "ResourceCamp",
       "spaceIDs": 4,
@@ -198,6 +215,7 @@
     },
     {
       "preBuiltCastleID": 18,
+      "crossplayID": 18,
       "comment1": "Storm Island",
       "comment2": "C2Camp",
       "spaceIDs": 4,
@@ -207,6 +225,7 @@
     },
     {
       "preBuiltCastleID": 31,
+      "crossplayID": 31,
       "comment1": "temp Server",
       "comment2": "PreCamp",
       "spaceIDs": 0,
@@ -218,6 +237,7 @@
     },
     {
       "preBuiltCastleID": 32,
+      "crossplayID": 32,
       "comment1": "temp Server",
       "comment2": "PreCamp",
       "spaceIDs": 0,
@@ -230,6 +250,7 @@
     },
     {
       "preBuiltCastleID": 34,
+      "crossplayID": 34,
       "comment1": "Battle Ground",
       "comment2": "PreCamp",
       "spaceIDs": 0,
@@ -242,6 +263,7 @@
     },
     {
       "preBuiltCastleID": 35,
+      "crossplayID": 35,
       "comment1": "Battle Ground",
       "comment2": "PreCamp",
       "spaceIDs": 0,
@@ -255,6 +277,7 @@
     },
     {
       "preBuiltCastleID": 36,
+      "crossplayID": 36,
       "comment1": "Battle Ground",
       "comment2": "PreCamp",
       "spaceIDs": 0,
@@ -268,6 +291,7 @@
     },
     {
       "preBuiltCastleID": 39,
+      "crossplayID": 39,
       "comment1": "Battle Ground",
       "comment2": "PreCamp XL Premium",
       "spaceIDs": 0,
@@ -281,6 +305,7 @@
     },
     {
       "preBuiltCastleID": 40,
+      "crossplayID": 40,
       "comment1": "Temp Server",
       "comment2": "Castle Transportation",
       "spaceIDs": 0,

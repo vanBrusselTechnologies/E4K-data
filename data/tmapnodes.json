@@ -2,6 +2,7 @@
   "tmapnode": [
     {
       "tmapnodeID": 166,
+      "crossplayID": 166,
       "dungeonType": "main",
       "type": "DUNGEON",
       "countVictories": -45,
@@ -19,6 +20,7 @@
     },
     {
       "tmapnodeID": 167,
+      "crossplayID": 167,
       "orUnlockIDs": 166,
       "dungeonType": "sub",
       "type": "DUNGEON",
@@ -45,6 +47,7 @@
     },
     {
       "tmapnodeID": 168,
+      "crossplayID": 168,
       "orUnlockIDs": 166,
       "dungeonType": "sub",
       "type": "DUNGEON",
@@ -71,6 +74,7 @@
     },
     {
       "tmapnodeID": 169,
+      "crossplayID": 169,
       "orUnlockIDs": 166,
       "dungeonType": "sub",
       "type": "DUNGEON",
@@ -97,6 +101,7 @@
     },
     {
       "tmapnodeID": 170,
+      "crossplayID": 170,
       "orUnlockIDs": "166+174+178",
       "dungeonType": "main",
       "type": "DUNGEON",
@@ -115,6 +120,7 @@
     },
     {
       "tmapnodeID": 171,
+      "crossplayID": 171,
       "orUnlockIDs": 170,
       "dungeonType": "sub",
       "type": "DUNGEON",
@@ -143,6 +149,7 @@
     },
     {
       "tmapnodeID": 172,
+      "crossplayID": 172,
       "orUnlockIDs": "166+176+178",
       "dungeonType": "main",
       "type": "DUNGEON",
@@ -161,6 +168,7 @@
     },
     {
       "tmapnodeID": 173,
+      "crossplayID": 173,
       "orUnlockIDs": 172,
       "dungeonType": "sub",
       "type": "DUNGEON",
@@ -189,6 +197,7 @@
     },
     {
       "tmapnodeID": 174,
+      "crossplayID": 174,
       "orUnlockIDs": "170+181",
       "dungeonType": "main",
       "andUnlockIDs": 207,
@@ -209,6 +218,7 @@
     },
     {
       "tmapnodeID": 175,
+      "crossplayID": 175,
       "orUnlockIDs": 174,
       "dungeonType": "sub",
       "andUnlockIDs": 207,
@@ -238,6 +248,7 @@
     },
     {
       "tmapnodeID": 176,
+      "crossplayID": 176,
       "orUnlockIDs": "172+183",
       "dungeonType": "main",
       "andUnlockIDs": 207,
@@ -258,6 +269,7 @@
     },
     {
       "tmapnodeID": 177,
+      "crossplayID": 177,
       "orUnlockIDs": 176,
       "dungeonType": "sub",
       "andUnlockIDs": 207,
@@ -287,6 +299,7 @@
     },
     {
       "tmapnodeID": 178,
+      "crossplayID": 178,
       "orUnlockIDs": "170+172+181+183",
       "dungeonType": "main",
       "andUnlockIDs": 207,
@@ -307,6 +320,7 @@
     },
     {
       "tmapnodeID": 179,
+      "crossplayID": 179,
       "orUnlockIDs": 178,
       "dungeonType": "sub",
       "andUnlockIDs": 207,
@@ -336,6 +350,7 @@
     },
     {
       "tmapnodeID": 180,
+      "crossplayID": 180,
       "orUnlockIDs": 178,
       "dungeonType": "sub",
       "andUnlockIDs": 207,
@@ -365,6 +380,7 @@
     },
     {
       "tmapnodeID": 181,
+      "crossplayID": 181,
       "orUnlockIDs": "174+178+185",
       "dungeonType": "main",
       "andUnlockIDs": 207,
@@ -385,6 +401,7 @@
     },
     {
       "tmapnodeID": 182,
+      "crossplayID": 182,
       "orUnlockIDs": 181,
       "dungeonType": "sub",
       "andUnlockIDs": 207,
@@ -414,6 +431,7 @@
     },
     {
       "tmapnodeID": 183,
+      "crossplayID": 183,
       "orUnlockIDs": "176+178+187",
       "dungeonType": "main",
       "andUnlockIDs": 207,
@@ -434,6 +452,7 @@
     },
     {
       "tmapnodeID": 184,
+      "crossplayID": 184,
       "orUnlockIDs": 183,
       "dungeonType": "sub",
       "andUnlockIDs": 207,
@@ -463,6 +482,7 @@
     },
     {
       "tmapnodeID": 185,
+      "crossplayID": 185,
       "orUnlockIDs": "181+189",
       "dungeonType": "main",
       "andUnlockIDs": 208,
@@ -483,6 +503,7 @@
     },
     {
       "tmapnodeID": 186,
+      "crossplayID": 186,
       "orUnlockIDs": 185,
       "dungeonType": "sub",
       "andUnlockIDs": 208,
@@ -512,6 +533,7 @@
     },
     {
       "tmapnodeID": 187,
+      "crossplayID": 187,
       "orUnlockIDs": "183+189",
       "dungeonType": "main",
       "andUnlockIDs": 208,
@@ -532,6 +554,7 @@
     },
     {
       "tmapnodeID": 188,
+      "crossplayID": 188,
       "orUnlockIDs": 187,
       "dungeonType": "sub",
       "andUnlockIDs": 208,
@@ -561,6 +584,7 @@
     },
     {
       "tmapnodeID": 189,
+      "crossplayID": 189,
       "orUnlockIDs": "185+187+191+193",
       "dungeonType": "main",
       "andUnlockIDs": 208,
@@ -581,6 +605,7 @@
     },
     {
       "tmapnodeID": 190,
+      "crossplayID": 190,
       "orUnlockIDs": 189,
       "dungeonType": "sub",
       "andUnlockIDs": 208,
@@ -610,6 +635,7 @@
     },
     {
       "tmapnodeID": 191,
+      "crossplayID": 191,
       "orUnlockIDs": "189+195",
       "dungeonType": "main",
       "andUnlockIDs": 209,
@@ -630,6 +656,7 @@
     },
     {
       "tmapnodeID": 192,
+      "crossplayID": 192,
       "orUnlockIDs": 191,
       "dungeonType": "sub",
       "andUnlockIDs": 209,
@@ -659,6 +686,7 @@
     },
     {
       "tmapnodeID": 193,
+      "crossplayID": 193,
       "orUnlockIDs": "189+197",
       "dungeonType": "main",
       "andUnlockIDs": 209,
@@ -679,6 +707,7 @@
     },
     {
       "tmapnodeID": 194,
+      "crossplayID": 194,
       "orUnlockIDs": 193,
       "dungeonType": "sub",
       "andUnlockIDs": 209,
@@ -708,6 +737,7 @@
     },
     {
       "tmapnodeID": 195,
+      "crossplayID": 195,
       "orUnlockIDs": "191+199+201",
       "dungeonType": "main",
       "andUnlockIDs": 209,
@@ -728,6 +758,7 @@
     },
     {
       "tmapnodeID": 196,
+      "crossplayID": 196,
       "orUnlockIDs": 195,
       "dungeonType": "sub",
       "andUnlockIDs": 209,
@@ -757,6 +788,7 @@
     },
     {
       "tmapnodeID": 197,
+      "crossplayID": 197,
       "orUnlockIDs": "193+201+204",
       "dungeonType": "main",
       "andUnlockIDs": 209,
@@ -777,6 +809,7 @@
     },
     {
       "tmapnodeID": 198,
+      "crossplayID": 198,
       "orUnlockIDs": 197,
       "dungeonType": "sub",
       "andUnlockIDs": 209,
@@ -806,6 +839,7 @@
     },
     {
       "tmapnodeID": 199,
+      "crossplayID": 199,
       "orUnlockIDs": "195+206",
       "dungeonType": "main",
       "andUnlockIDs": 210,
@@ -826,6 +860,7 @@
     },
     {
       "tmapnodeID": 200,
+      "crossplayID": 200,
       "orUnlockIDs": 199,
       "dungeonType": "sub",
       "andUnlockIDs": 210,
@@ -855,6 +890,7 @@
     },
     {
       "tmapnodeID": 201,
+      "crossplayID": 201,
       "orUnlockIDs": "195+197+206",
       "dungeonType": "main",
       "andUnlockIDs": 210,
@@ -875,6 +911,7 @@
     },
     {
       "tmapnodeID": 202,
+      "crossplayID": 202,
       "orUnlockIDs": 201,
       "dungeonType": "sub",
       "andUnlockIDs": 210,
@@ -904,6 +941,7 @@
     },
     {
       "tmapnodeID": 203,
+      "crossplayID": 203,
       "orUnlockIDs": 201,
       "dungeonType": "sub",
       "andUnlockIDs": 210,
@@ -933,6 +971,7 @@
     },
     {
       "tmapnodeID": 204,
+      "crossplayID": 204,
       "orUnlockIDs": "197+206",
       "dungeonType": "main",
       "andUnlockIDs": 210,
@@ -953,6 +992,7 @@
     },
     {
       "tmapnodeID": 205,
+      "crossplayID": 205,
       "orUnlockIDs": 204,
       "dungeonType": "sub",
       "andUnlockIDs": 210,
@@ -982,6 +1022,7 @@
     },
     {
       "tmapnodeID": 206,
+      "crossplayID": 206,
       "orUnlockIDs": "199+201+204",
       "dungeonType": "main",
       "andUnlockIDs": 210,
@@ -1002,6 +1043,7 @@
     },
     {
       "tmapnodeID": 207,
+      "crossplayID": 207,
       "type": "PORT",
       "countVictories": 0,
       "partPayPriceID": 8,
@@ -1012,6 +1054,7 @@
     },
     {
       "tmapnodeID": 208,
+      "crossplayID": 208,
       "orUnlockIDs": 207,
       "type": "PORT",
       "countVictories": 0,
@@ -1023,6 +1066,7 @@
     },
     {
       "tmapnodeID": 209,
+      "crossplayID": 209,
       "orUnlockIDs": 208,
       "type": "PORT",
       "countVictories": 0,
@@ -1034,6 +1078,7 @@
     },
     {
       "tmapnodeID": 210,
+      "crossplayID": 210,
       "orUnlockIDs": 209,
       "type": "PORT",
       "countVictories": 0,
@@ -1045,6 +1090,7 @@
     },
     {
       "tmapnodeID": 701,
+      "crossplayID": 701,
       "dungeonType": "main",
       "type": "DUNGEON",
       "countVictories": -200,
@@ -1062,6 +1108,7 @@
     },
     {
       "tmapnodeID": 702,
+      "crossplayID": 702,
       "orUnlockIDs": 701,
       "dungeonType": "sub",
       "type": "DUNGEON",
@@ -1090,6 +1137,7 @@
     },
     {
       "tmapnodeID": 703,
+      "crossplayID": 703,
       "orUnlockIDs": 701,
       "dungeonType": "sub",
       "type": "DUNGEON",
@@ -1118,6 +1166,7 @@
     },
     {
       "tmapnodeID": 704,
+      "crossplayID": 704,
       "orUnlockIDs": 701,
       "dungeonType": "sub",
       "type": "DUNGEON",
@@ -1146,6 +1195,7 @@
     },
     {
       "tmapnodeID": 705,
+      "crossplayID": 705,
       "orUnlockIDs": "701+709+713",
       "dungeonType": "main",
       "type": "DUNGEON",
@@ -1164,6 +1214,7 @@
     },
     {
       "tmapnodeID": 706,
+      "crossplayID": 706,
       "orUnlockIDs": 705,
       "dungeonType": "sub",
       "type": "DUNGEON",
@@ -1192,6 +1243,7 @@
     },
     {
       "tmapnodeID": 707,
+      "crossplayID": 707,
       "orUnlockIDs": "701+711+713",
       "dungeonType": "main",
       "type": "DUNGEON",
@@ -1210,6 +1262,7 @@
     },
     {
       "tmapnodeID": 708,
+      "crossplayID": 708,
       "orUnlockIDs": 707,
       "dungeonType": "sub",
       "type": "DUNGEON",
@@ -1238,6 +1291,7 @@
     },
     {
       "tmapnodeID": 709,
+      "crossplayID": 709,
       "orUnlockIDs": "705+706",
       "dungeonType": "main",
       "andUnlockIDs": 742,
@@ -1258,6 +1312,7 @@
     },
     {
       "tmapnodeID": 710,
+      "crossplayID": 710,
       "orUnlockIDs": 709,
       "dungeonType": "sub",
       "andUnlockIDs": 742,
@@ -1287,6 +1342,7 @@
     },
     {
       "tmapnodeID": 711,
+      "crossplayID": 711,
       "orUnlockIDs": "707+718",
       "dungeonType": "main",
       "andUnlockIDs": 742,
@@ -1307,6 +1363,7 @@
     },
     {
       "tmapnodeID": 712,
+      "crossplayID": 712,
       "orUnlockIDs": 711,
       "dungeonType": "sub",
       "andUnlockIDs": 742,
@@ -1336,6 +1393,7 @@
     },
     {
       "tmapnodeID": 713,
+      "crossplayID": 713,
       "orUnlockIDs": "705+707+716+718",
       "dungeonType": "main",
       "andUnlockIDs": 742,
@@ -1356,6 +1414,7 @@
     },
     {
       "tmapnodeID": 714,
+      "crossplayID": 714,
       "orUnlockIDs": 713,
       "dungeonType": "sub",
       "andUnlockIDs": 742,
@@ -1385,6 +1444,7 @@
     },
     {
       "tmapnodeID": 715,
+      "crossplayID": 715,
       "orUnlockIDs": 713,
       "dungeonType": "sub",
       "andUnlockIDs": 742,
@@ -1414,6 +1474,7 @@
     },
     {
       "tmapnodeID": 716,
+      "crossplayID": 716,
       "orUnlockIDs": "709+713+720",
       "dungeonType": "main",
       "andUnlockIDs": 742,
@@ -1434,6 +1495,7 @@
     },
     {
       "tmapnodeID": 717,
+      "crossplayID": 717,
       "orUnlockIDs": 716,
       "dungeonType": "sub",
       "andUnlockIDs": 742,
@@ -1463,6 +1525,7 @@
     },
     {
       "tmapnodeID": 718,
+      "crossplayID": 718,
       "orUnlockIDs": "711+713+722",
       "dungeonType": "main",
       "andUnlockIDs": 742,
@@ -1483,6 +1546,7 @@
     },
     {
       "tmapnodeID": 719,
+      "crossplayID": 719,
       "orUnlockIDs": 718,
       "dungeonType": "sub",
       "andUnlockIDs": 742,
@@ -1512,6 +1576,7 @@
     },
     {
       "tmapnodeID": 720,
+      "crossplayID": 720,
       "orUnlockIDs": "716+724",
       "dungeonType": "main",
       "andUnlockIDs": 743,
@@ -1532,6 +1597,7 @@
     },
     {
       "tmapnodeID": 721,
+      "crossplayID": 721,
       "orUnlockIDs": 720,
       "dungeonType": "sub",
       "andUnlockIDs": 743,
@@ -1561,6 +1627,7 @@
     },
     {
       "tmapnodeID": 722,
+      "crossplayID": 722,
       "orUnlockIDs": "718+724",
       "dungeonType": "main",
       "andUnlockIDs": 743,
@@ -1581,6 +1648,7 @@
     },
     {
       "tmapnodeID": 723,
+      "crossplayID": 723,
       "orUnlockIDs": 722,
       "dungeonType": "sub",
       "andUnlockIDs": 743,
@@ -1610,6 +1678,7 @@
     },
     {
       "tmapnodeID": 724,
+      "crossplayID": 724,
       "orUnlockIDs": "720+722+726+728",
       "dungeonType": "main",
       "andUnlockIDs": 743,
@@ -1630,6 +1699,7 @@
     },
     {
       "tmapnodeID": 725,
+      "crossplayID": 725,
       "orUnlockIDs": 724,
       "dungeonType": "sub",
       "andUnlockIDs": 743,
@@ -1659,6 +1729,7 @@
     },
     {
       "tmapnodeID": 726,
+      "crossplayID": 726,
       "orUnlockIDs": "724+730",
       "dungeonType": "main",
       "andUnlockIDs": 744,
@@ -1679,6 +1750,7 @@
     },
     {
       "tmapnodeID": 727,
+      "crossplayID": 727,
       "orUnlockIDs": 726,
       "dungeonType": "sub",
       "andUnlockIDs": 744,
@@ -1708,6 +1780,7 @@
     },
     {
       "tmapnodeID": 728,
+      "crossplayID": 728,
       "orUnlockIDs": "724+732",
       "dungeonType": "main",
       "andUnlockIDs": 744,
@@ -1728,6 +1801,7 @@
     },
     {
       "tmapnodeID": 729,
+      "crossplayID": 729,
       "orUnlockIDs": 728,
       "dungeonType": "sub",
       "andUnlockIDs": 744,
@@ -1757,6 +1831,7 @@
     },
     {
       "tmapnodeID": 730,
+      "crossplayID": 730,
       "orUnlockIDs": "726+734+736",
       "dungeonType": "main",
       "andUnlockIDs": 744,
@@ -1777,6 +1852,7 @@
     },
     {
       "tmapnodeID": 731,
+      "crossplayID": 731,
       "orUnlockIDs": 730,
       "dungeonType": "sub",
       "andUnlockIDs": 744,
@@ -1806,6 +1882,7 @@
     },
     {
       "tmapnodeID": 732,
+      "crossplayID": 732,
       "orUnlockIDs": "728+736+739",
       "dungeonType": "main",
       "andUnlockIDs": 744,
@@ -1826,6 +1903,7 @@
     },
     {
       "tmapnodeID": 733,
+      "crossplayID": 733,
       "orUnlockIDs": 732,
       "dungeonType": "sub",
       "andUnlockIDs": 744,
@@ -1855,6 +1933,7 @@
     },
     {
       "tmapnodeID": 734,
+      "crossplayID": 734,
       "orUnlockIDs": "730+741",
       "dungeonType": "main",
       "andUnlockIDs": 745,
@@ -1875,6 +1954,7 @@
     },
     {
       "tmapnodeID": 735,
+      "crossplayID": 735,
       "orUnlockIDs": 734,
       "dungeonType": "sub",
       "andUnlockIDs": 745,
@@ -1904,6 +1984,7 @@
     },
     {
       "tmapnodeID": 736,
+      "crossplayID": 736,
       "orUnlockIDs": "730+732+741",
       "dungeonType": "main",
       "andUnlockIDs": 745,
@@ -1924,6 +2005,7 @@
     },
     {
       "tmapnodeID": 737,
+      "crossplayID": 737,
       "orUnlockIDs": 736,
       "dungeonType": "sub",
       "andUnlockIDs": 745,
@@ -1953,6 +2035,7 @@
     },
     {
       "tmapnodeID": 738,
+      "crossplayID": 738,
       "orUnlockIDs": 736,
       "dungeonType": "sub",
       "andUnlockIDs": 745,
@@ -1982,6 +2065,7 @@
     },
     {
       "tmapnodeID": 739,
+      "crossplayID": 739,
       "orUnlockIDs": "732+741",
       "dungeonType": "main",
       "andUnlockIDs": 745,
@@ -2002,6 +2086,7 @@
     },
     {
       "tmapnodeID": 740,
+      "crossplayID": 740,
       "orUnlockIDs": 739,
       "dungeonType": "sub",
       "andUnlockIDs": 745,
@@ -2031,6 +2116,7 @@
     },
     {
       "tmapnodeID": 741,
+      "crossplayID": 741,
       "orUnlockIDs": "734+736+739",
       "dungeonType": "main",
       "andUnlockIDs": 745,
@@ -2051,6 +2137,7 @@
     },
     {
       "tmapnodeID": 742,
+      "crossplayID": 742,
       "type": "PORT",
       "countVictories": 0,
       "partPayPriceID": 81,
@@ -2061,6 +2148,7 @@
     },
     {
       "tmapnodeID": 743,
+      "crossplayID": 743,
       "orUnlockIDs": 742,
       "type": "PORT",
       "countVictories": 0,
@@ -2072,6 +2160,7 @@
     },
     {
       "tmapnodeID": 744,
+      "crossplayID": 744,
       "orUnlockIDs": 743,
       "type": "PORT",
       "countVictories": 0,
@@ -2083,6 +2172,7 @@
     },
     {
       "tmapnodeID": 745,
+      "crossplayID": 745,
       "orUnlockIDs": 744,
       "type": "PORT",
       "countVictories": 0,
@@ -2094,6 +2184,7 @@
     },
     {
       "tmapnodeID": 746,
+      "crossplayID": 746,
       "dungeonType": "main",
       "type": "DUNGEON",
       "countVictories": -219,
@@ -2111,6 +2202,7 @@
     },
     {
       "tmapnodeID": 747,
+      "crossplayID": 747,
       "orUnlockIDs": 746,
       "dungeonType": "sub",
       "type": "DUNGEON",
@@ -2139,6 +2231,7 @@
     },
     {
       "tmapnodeID": 748,
+      "crossplayID": 748,
       "orUnlockIDs": 746,
       "dungeonType": "sub",
       "type": "DUNGEON",
@@ -2167,6 +2260,7 @@
     },
     {
       "tmapnodeID": 749,
+      "crossplayID": 749,
       "orUnlockIDs": 746,
       "dungeonType": "sub",
       "type": "DUNGEON",
@@ -2195,6 +2289,7 @@
     },
     {
       "tmapnodeID": 750,
+      "crossplayID": 750,
       "orUnlockIDs": "746+754+758",
       "dungeonType": "main",
       "type": "DUNGEON",
@@ -2213,6 +2308,7 @@
     },
     {
       "tmapnodeID": 751,
+      "crossplayID": 751,
       "orUnlockIDs": 750,
       "dungeonType": "sub",
       "type": "DUNGEON",
@@ -2241,6 +2337,7 @@
     },
     {
       "tmapnodeID": 752,
+      "crossplayID": 752,
       "orUnlockIDs": "746+756+788",
       "dungeonType": "main",
       "type": "DUNGEON",
@@ -2259,6 +2356,7 @@
     },
     {
       "tmapnodeID": 753,
+      "crossplayID": 753,
       "orUnlockIDs": 752,
       "dungeonType": "sub",
       "type": "DUNGEON",
@@ -2287,6 +2385,7 @@
     },
     {
       "tmapnodeID": 754,
+      "crossplayID": 754,
       "orUnlockIDs": "750+761",
       "dungeonType": "main",
       "andUnlockIDs": 787,
@@ -2307,6 +2406,7 @@
     },
     {
       "tmapnodeID": 755,
+      "crossplayID": 755,
       "orUnlockIDs": 754,
       "dungeonType": "sub",
       "andUnlockIDs": 787,
@@ -2336,6 +2436,7 @@
     },
     {
       "tmapnodeID": 756,
+      "crossplayID": 756,
       "orUnlockIDs": "752+763",
       "dungeonType": "main",
       "andUnlockIDs": 787,
@@ -2356,6 +2457,7 @@
     },
     {
       "tmapnodeID": 757,
+      "crossplayID": 757,
       "orUnlockIDs": 756,
       "dungeonType": "sub",
       "andUnlockIDs": 787,
@@ -2385,6 +2487,7 @@
     },
     {
       "tmapnodeID": 758,
+      "crossplayID": 758,
       "orUnlockIDs": "750+752+761+763",
       "dungeonType": "main",
       "andUnlockIDs": 787,
@@ -2405,6 +2508,7 @@
     },
     {
       "tmapnodeID": 759,
+      "crossplayID": 759,
       "orUnlockIDs": 758,
       "dungeonType": "sub",
       "andUnlockIDs": 787,
@@ -2434,6 +2538,7 @@
     },
     {
       "tmapnodeID": 760,
+      "crossplayID": 760,
       "orUnlockIDs": 758,
       "dungeonType": "sub",
       "andUnlockIDs": 787,
@@ -2463,6 +2568,7 @@
     },
     {
       "tmapnodeID": 761,
+      "crossplayID": 761,
       "orUnlockIDs": "754+758+765",
       "dungeonType": "main",
       "andUnlockIDs": 787,
@@ -2483,6 +2589,7 @@
     },
     {
       "tmapnodeID": 762,
+      "crossplayID": 762,
       "orUnlockIDs": 761,
       "dungeonType": "sub",
       "andUnlockIDs": 787,
@@ -2512,6 +2619,7 @@
     },
     {
       "tmapnodeID": 763,
+      "crossplayID": 763,
       "orUnlockIDs": "756+758+767",
       "dungeonType": "main",
       "andUnlockIDs": 787,
@@ -2532,6 +2640,7 @@
     },
     {
       "tmapnodeID": 764,
+      "crossplayID": 764,
       "orUnlockIDs": 763,
       "dungeonType": "sub",
       "andUnlockIDs": 787,
@@ -2561,6 +2670,7 @@
     },
     {
       "tmapnodeID": 765,
+      "crossplayID": 765,
       "orUnlockIDs": "761+769",
       "dungeonType": "main",
       "andUnlockIDs": 788,
@@ -2581,6 +2691,7 @@
     },
     {
       "tmapnodeID": 766,
+      "crossplayID": 766,
       "orUnlockIDs": 765,
       "dungeonType": "sub",
       "andUnlockIDs": 788,
@@ -2610,6 +2721,7 @@
     },
     {
       "tmapnodeID": 767,
+      "crossplayID": 767,
       "orUnlockIDs": "763+769",
       "dungeonType": "main",
       "andUnlockIDs": 788,
@@ -2630,6 +2742,7 @@
     },
     {
       "tmapnodeID": 768,
+      "crossplayID": 768,
       "orUnlockIDs": 767,
       "dungeonType": "sub",
       "andUnlockIDs": 788,
@@ -2659,6 +2772,7 @@
     },
     {
       "tmapnodeID": 769,
+      "crossplayID": 769,
       "orUnlockIDs": "765+767+771+773",
       "dungeonType": "main",
       "andUnlockIDs": 788,
@@ -2679,6 +2793,7 @@
     },
     {
       "tmapnodeID": 770,
+      "crossplayID": 770,
       "orUnlockIDs": 769,
       "dungeonType": "sub",
       "andUnlockIDs": 788,
@@ -2708,6 +2823,7 @@
     },
     {
       "tmapnodeID": 771,
+      "crossplayID": 771,
       "orUnlockIDs": "769+775",
       "dungeonType": "main",
       "andUnlockIDs": 789,
@@ -2728,6 +2844,7 @@
     },
     {
       "tmapnodeID": 772,
+      "crossplayID": 772,
       "orUnlockIDs": 771,
       "dungeonType": "sub",
       "andUnlockIDs": 789,
@@ -2757,6 +2874,7 @@
     },
     {
       "tmapnodeID": 773,
+      "crossplayID": 773,
       "orUnlockIDs": "769+777",
       "dungeonType": "main",
       "andUnlockIDs": 789,
@@ -2777,6 +2895,7 @@
     },
     {
       "tmapnodeID": 774,
+      "crossplayID": 774,
       "orUnlockIDs": 773,
       "dungeonType": "sub",
       "andUnlockIDs": 789,
@@ -2806,6 +2925,7 @@
     },
     {
       "tmapnodeID": 775,
+      "crossplayID": 775,
       "orUnlockIDs": "771+779+781",
       "dungeonType": "main",
       "andUnlockIDs": 789,
@@ -2826,6 +2946,7 @@
     },
     {
       "tmapnodeID": 776,
+      "crossplayID": 776,
       "orUnlockIDs": 775,
       "dungeonType": "sub",
       "andUnlockIDs": 789,
@@ -2855,6 +2976,7 @@
     },
     {
       "tmapnodeID": 777,
+      "crossplayID": 777,
       "orUnlockIDs": "773+781+784",
       "dungeonType": "main",
       "andUnlockIDs": 789,
@@ -2875,6 +2997,7 @@
     },
     {
       "tmapnodeID": 778,
+      "crossplayID": 778,
       "orUnlockIDs": 777,
       "dungeonType": "sub",
       "andUnlockIDs": 789,
@@ -2904,6 +3027,7 @@
     },
     {
       "tmapnodeID": 779,
+      "crossplayID": 779,
       "orUnlockIDs": "775+786",
       "dungeonType": "main",
       "andUnlockIDs": 790,
@@ -2924,6 +3048,7 @@
     },
     {
       "tmapnodeID": 780,
+      "crossplayID": 780,
       "orUnlockIDs": 779,
       "dungeonType": "sub",
       "andUnlockIDs": 790,
@@ -2953,6 +3078,7 @@
     },
     {
       "tmapnodeID": 781,
+      "crossplayID": 781,
       "orUnlockIDs": "775+777+786",
       "dungeonType": "main",
       "andUnlockIDs": 790,
@@ -2973,6 +3099,7 @@
     },
     {
       "tmapnodeID": 782,
+      "crossplayID": 782,
       "orUnlockIDs": 781,
       "dungeonType": "sub",
       "andUnlockIDs": 790,
@@ -3002,6 +3129,7 @@
     },
     {
       "tmapnodeID": 783,
+      "crossplayID": 783,
       "orUnlockIDs": 781,
       "dungeonType": "sub",
       "andUnlockIDs": 790,
@@ -3031,6 +3159,7 @@
     },
     {
       "tmapnodeID": 784,
+      "crossplayID": 784,
       "orUnlockIDs": "777+786",
       "dungeonType": "main",
       "andUnlockIDs": 790,
@@ -3051,6 +3180,7 @@
     },
     {
       "tmapnodeID": 785,
+      "crossplayID": 785,
       "orUnlockIDs": 784,
       "dungeonType": "sub",
       "andUnlockIDs": 790,
@@ -3080,6 +3210,7 @@
     },
     {
       "tmapnodeID": 786,
+      "crossplayID": 786,
       "orUnlockIDs": "779+781+784",
       "dungeonType": "main",
       "andUnlockIDs": 790,
@@ -3100,6 +3231,7 @@
     },
     {
       "tmapnodeID": 787,
+      "crossplayID": 787,
       "type": "PORT",
       "countVictories": 0,
       "partPayPriceID": 85,
@@ -3110,6 +3242,7 @@
     },
     {
       "tmapnodeID": 788,
+      "crossplayID": 788,
       "orUnlockIDs": 787,
       "type": "PORT",
       "countVictories": 0,
@@ -3121,6 +3254,7 @@
     },
     {
       "tmapnodeID": 789,
+      "crossplayID": 789,
       "orUnlockIDs": 788,
       "type": "PORT",
       "countVictories": 0,
@@ -3132,6 +3266,7 @@
     },
     {
       "tmapnodeID": 790,
+      "crossplayID": 790,
       "orUnlockIDs": 789,
       "type": "PORT",
       "countVictories": 0,

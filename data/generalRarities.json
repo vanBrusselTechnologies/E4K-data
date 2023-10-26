@@ -2,6 +2,7 @@
   "generalRarity": [
     {
       "generalRarityID": 2,
+      "crossplayID": 2,
       "maxStarLevel": 10,
       "unlockCosts": 100,
       "upgradeCosts": "150,200,300,400,500,800,1500,2500,4000,6000",
@@ -11,6 +12,7 @@
     },
     {
       "generalRarityID": 3,
+      "crossplayID": 3,
       "maxStarLevel": 10,
       "unlockCosts": 120,
       "upgradeCosts": "185,245,365,485,600,1000,2000,3200,4800,7000",
@@ -20,6 +22,7 @@
     },
     {
       "generalRarityID": 4,
+      "crossplayID": 4,
       "maxStarLevel": 10,
       "unlockCosts": 150,
       "upgradeCosts": "225,300,450,600,750,1200,2500,4000,6000,9000",

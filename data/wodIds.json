@@ -2,6 +2,7 @@
   "wod": [
     {
       "wodID": 900,
+      "cossplayID": 900,
       "group": "Mapobject",
       "name": "Castle",
       "type": "-",
@@ -13,6 +14,7 @@
     },
     {
       "wodID": 1000,
+      "cossplayID": 1000,
       "group": "Mapobject",
       "name": "Dungeon",
       "type": "Level1",
@@ -24,6 +26,7 @@
     },
     {
       "wodID": 1100,
+      "cossplayID": 1100,
       "group": "Mapobject",
       "name": "Outpost",
       "type": "Stone",
@@ -35,6 +38,7 @@
     },
     {
       "wodID": 1101,
+      "cossplayID": 1101,
       "group": "Mapobject",
       "name": "Outpost",
       "type": "Wood",
@@ -46,6 +50,7 @@
     },
     {
       "wodID": 1102,
+      "cossplayID": 1102,
       "group": "Mapobject",
       "name": "Outpost",
       "type": "Field",
@@ -57,6 +62,7 @@
     },
     {
       "wodID": 1200,
+      "cossplayID": 1200,
       "group": "Mapobject",
       "name": "Capital",
       "type": "Basic",
@@ -68,6 +74,7 @@
     },
     {
       "wodID": 1300,
+      "cossplayID": 1300,
       "group": "Mapobject",
       "name": "Empty",
       "type": "Bush1x1_1",
@@ -78,6 +85,7 @@
     },
     {
       "wodID": 1301,
+      "cossplayID": 1301,
       "group": "Mapobject",
       "name": "Empty",
       "type": "Bush1x1_2",
@@ -88,6 +96,7 @@
     },
     {
       "wodID": 1302,
+      "cossplayID": 1302,
       "group": "Mapobject",
       "name": "Empty",
       "type": "Bush1x2",
@@ -98,6 +107,7 @@
     },
     {
       "wodID": 1303,
+      "cossplayID": 1303,
       "group": "Mapobject",
       "name": "Empty",
       "type": "Bush2x1",
@@ -108,6 +118,7 @@
     },
     {
       "wodID": 1304,
+      "cossplayID": 1304,
       "group": "Mapobject",
       "name": "Empty",
       "type": "Bush2x2",
@@ -118,6 +129,7 @@
     },
     {
       "wodID": 1305,
+      "cossplayID": 1305,
       "group": "Mapobject",
       "name": "Empty",
       "type": "Forest2x2",
@@ -128,6 +140,7 @@
     },
     {
       "wodID": 1306,
+      "cossplayID": 1306,
       "group": "Mapobject",
       "name": "Empty",
       "type": "Gras1x1",
@@ -138,6 +151,7 @@
     },
     {
       "wodID": 1307,
+      "cossplayID": 1307,
       "group": "Mapobject",
       "name": "Empty",
       "type": "Gras2x2",
@@ -148,6 +162,7 @@
     },
     {
       "wodID": 1308,
+      "cossplayID": 1308,
       "group": "Mapobject",
       "name": "Empty",
       "type": "Gras3x1",
@@ -158,6 +173,7 @@
     },
     {
       "wodID": 1309,
+      "cossplayID": 1309,
       "group": "Mapobject",
       "name": "Empty",
       "type": "Hill1x1_1",
@@ -168,6 +184,7 @@
     },
     {
       "wodID": 1310,
+      "cossplayID": 1310,
       "group": "Mapobject",
       "name": "Empty",
       "type": "Hill1x1_2",
@@ -178,6 +195,7 @@
     },
     {
       "wodID": 1311,
+      "cossplayID": 1311,
       "group": "Mapobject",
       "name": "Empty",
       "type": "Hill2x1",
@@ -188,6 +206,7 @@
     },
     {
       "wodID": 1312,
+      "cossplayID": 1312,
       "group": "Mapobject",
       "name": "Empty",
       "type": "Mountain1x1_1",
@@ -198,6 +217,7 @@
     },
     {
       "wodID": 1313,
+      "cossplayID": 1313,
       "group": "Mapobject",
       "name": "Empty",
       "type": "Mountain1x1_2",
@@ -208,6 +228,7 @@
     },
     {
       "wodID": 1314,
+      "cossplayID": 1314,
       "group": "Mapobject",
       "name": "Empty",
       "type": "Mountain2x2",
@@ -218,6 +239,7 @@
     },
     {
       "wodID": 1315,
+      "cossplayID": 1315,
       "group": "Mapobject",
       "name": "Empty",
       "type": "Wood1x1_1",
@@ -228,6 +250,7 @@
     },
     {
       "wodID": 1316,
+      "cossplayID": 1316,
       "group": "Mapobject",
       "name": "Empty",
       "type": "Wood1x1_2",
@@ -238,6 +261,7 @@
     },
     {
       "wodID": 1317,
+      "cossplayID": 1317,
       "group": "Mapobject",
       "name": "Empty",
       "type": "Wood1x1_3",
@@ -248,6 +272,7 @@
     },
     {
       "wodID": 1318,
+      "cossplayID": 1318,
       "group": "Mapobject",
       "name": "Empty",
       "type": "Wood1x1_4",
@@ -258,6 +283,7 @@
     },
     {
       "wodID": 1319,
+      "cossplayID": 1319,
       "group": "Mapobject",
       "name": "Empty",
       "type": "Wood1x1_5",
@@ -268,6 +294,7 @@
     },
     {
       "wodID": 1320,
+      "cossplayID": 1320,
       "group": "Mapobject",
       "name": "Empty",
       "type": "Stonehead1x1",
@@ -279,6 +306,7 @@
     },
     {
       "wodID": 1321,
+      "cossplayID": 1321,
       "group": "Mapobject",
       "name": "Empty",
       "type": "Ruin1x1",
@@ -290,6 +318,7 @@
     },
     {
       "wodID": 1322,
+      "cossplayID": 1322,
       "group": "Mapobject",
       "name": "Empty",
       "type": "Ruin2x1_1",
@@ -301,6 +330,7 @@
     },
     {
       "wodID": 1323,
+      "cossplayID": 1323,
       "group": "Mapobject",
       "name": "Empty",
       "type": "Ruin2x1_2",

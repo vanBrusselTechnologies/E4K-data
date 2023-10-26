@@ -2,6 +2,7 @@
   "general": [
     {
       "generalID": 101,
+      "crossplayID": 101,
       "generalName": "Toril",
       "attackSlots": "101011,101012,101013,101014",
       "defenseSlots": "101016,101017,101018,101019",
@@ -15,6 +16,7 @@
     },
     {
       "generalID": 102,
+      "crossplayID": 102,
       "generalName": "Leo",
       "attackSlots": "101021,101022,101023",
       "defenseSlots": "101026,101027,101028",
@@ -28,6 +30,7 @@
     },
     {
       "generalID": 103,
+      "crossplayID": 103,
       "generalName": "Alyssa",
       "attackSlots": "101032,101031,101033",
       "defenseSlots": "101037,101036,101038",
@@ -41,6 +44,7 @@
     },
     {
       "generalID": 104,
+      "crossplayID": 104,
       "generalName": "Horatio",
       "attackSlots": "101041,101042,101043,101044",
       "defenseSlots": "101046,101047,101048,101049",
@@ -54,6 +58,7 @@
     },
     {
       "generalID": 105,
+      "crossplayID": 105,
       "generalName": "Sasaki",
       "attackSlots": "101051,101052,101053,101054",
       "defenseSlots": "101056,101057,101058,101059",
@@ -67,6 +72,7 @@
     },
     {
       "generalID": 106,
+      "crossplayID": 106,
       "generalName": "WolfKing",
       "generalRarityID": 4,
       "maxLevel": 100,
@@ -77,6 +83,7 @@
     },
     {
       "generalID": 107,
+      "crossplayID": 107,
       "generalName": "Tom",
       "attackSlots": "101071,101072,101073",
       "defenseSlots": "101076,101077,101078",
@@ -90,6 +97,7 @@
     },
     {
       "generalID": 108,
+      "crossplayID": 108,
       "generalName": "Alice",
       "attackSlots": "101081,101082,101083",
       "defenseSlots": "101086,101087,101088",

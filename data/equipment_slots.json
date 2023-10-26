@@ -2,6 +2,7 @@
   "equipment_slot": [
     {
       "slotID": 1,
+      "crossplayID": 1,
       "dropRate": 25,
       "name": "armor",
       "bonus": 100,
@@ -9,6 +10,7 @@
     },
     {
       "slotID": 2,
+      "crossplayID": 2,
       "dropRate": 25,
       "name": "weapon",
       "bonus": 90,
@@ -16,6 +18,7 @@
     },
     {
       "slotID": 3,
+      "crossplayID": 3,
       "dropRate": 25,
       "name": "helmet",
       "bonus": 80,
@@ -23,6 +26,7 @@
     },
     {
       "slotID": 4,
+      "crossplayID": 4,
       "dropRate": 25,
       "name": "artifact",
       "bonus": 70,
@@ -30,12 +34,14 @@
     },
     {
       "slotID": 5,
+      "crossplayID": 5,
       "name": "skin",
       "bonus": 1,
       "appearanceCount": 1
     },
     {
       "slotID": 6,
+      "crossplayID": 6,
       "name": "hero",
       "bonus": 100,
       "appearanceCount": 1

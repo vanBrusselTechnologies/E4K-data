@@ -116,8 +116,10 @@ export interface Images {
     "Background_Generals_Overview_Preview_Sasaki": ImageData;
     "Background_Generals_Overview_Preview_Tom": ImageData;
     "Background_Generals_Overview_Preview_Toril": ImageData;
+    "Background_Generals_Overview_Preview_WolfKing": ImageData;
     "Background_Generals_Overview_Sasaki": ImageData;
     "Background_Generals_Overview_Toril": ImageData;
+    "Background_Generals_Overview_WolfKing": ImageData;
     "Background_Mapobject_Piece0_Classic": ImageData;
     "Background_Mapobject_Piece0_Dessert": ImageData;
     "Background_Mapobject_Piece0_Faction": ImageData;
@@ -647,6 +649,7 @@ export interface Images {
     "Castle_Mapobject_Capital_Classic_Special_WitchCastle": ImageData;
     "Castle_Mapobject_Capital_Classic_Special_WoodAxe": ImageData;
     "Castle_Mapobject_Capital_Classic_Special_snowflakehouse": ImageData;
+    "Castle_Mapobject_Capital_Classic_Special_turkeyCastellan": ImageData;
     "Castle_Mapobject_Level1_Classic": ImageData;
     "Castle_Mapobject_Level2_Classic": ImageData;
     "Castle_Mapobject_Level3_Classic": ImageData;
@@ -717,6 +720,7 @@ export interface Images {
     "Castle_Mapobject_Special_WitchCastle": ImageData;
     "Castle_Mapobject_Special_WoodAxe": ImageData;
     "Castle_Mapobject_Special_snowflakehouse": ImageData;
+    "Castle_Mapobject_Special_turkeyCastellan": ImageData;
     "Castlepart_Moat_Classic": ImageData;
     "Castlepart_Moat_Classic_Special_Demon": ImageData;
     "Castlepart_Moat_Classic_Special_Sand": ImageData;
@@ -1148,6 +1152,7 @@ export interface Images {
     "Deco_Building_alicesWorkshop": ImageData;
     "Deco_Building_anniversaryParty": ImageData;
     "Deco_Building_anniversaryPartyEnd": ImageData;
+    "Deco_Building_blueSalesFountain": ImageData;
     "Deco_Building_chaliceOfTheHattrickHero": ImageData;
     "Deco_Building_chineseTiger": ImageData;
     "Deco_Building_christmashut": ImageData;
@@ -1159,6 +1164,7 @@ export interface Images {
     "Deco_Building_frozenShipwreckCove": ImageData;
     "Deco_Building_gluhweinstand": ImageData;
     "Deco_Building_goddessOfNature": ImageData;
+    "Deco_Building_goldenEggHut": ImageData;
     "Deco_Building_grailOfTheDefensiveRock": ImageData;
     "Deco_Building_grandAnniversaryBanquet": ImageData;
     "Deco_Building_grandpaNomNom": ImageData;
@@ -2073,6 +2079,25 @@ export interface Images {
     "General_Toril_Mask": ImageData;
     "General_Toril_Tabard": ImageData;
     "General_Toril_Weapon": ImageData;
+    "General_WolfKing_Armor_Bottom_Left": ImageData;
+    "General_WolfKing_Bag": ImageData;
+    "General_WolfKing_Belt": ImageData;
+    "General_WolfKing_Cloak": ImageData;
+    "General_WolfKing_Elbow_Right": ImageData;
+    "General_WolfKing_Foot_Left": ImageData;
+    "General_WolfKing_Foot_Right": ImageData;
+    "General_WolfKing_Fur_Left": ImageData;
+    "General_WolfKing_Fur_Right": ImageData;
+    "General_WolfKing_Hand_Left": ImageData;
+    "General_WolfKing_Hand_Right": ImageData;
+    "General_WolfKing_Head": ImageData;
+    "General_WolfKing_Leg_Left": ImageData;
+    "General_WolfKing_Leg_Right": ImageData;
+    "General_WolfKing_Shoulder_Left": ImageData;
+    "General_WolfKing_Shoulder_Right": ImageData;
+    "General_WolfKing_Stone": ImageData;
+    "General_WolfKing_Sword_Shadow": ImageData;
+    "General_WolfKing_Torso": ImageData;
     "GenericAnniversaryKeep": ImageData;
     "Glassboost_Building_Level1": ImageData;
     "Glassboost_Building_Level2": ImageData;
@@ -2719,6 +2744,7 @@ export interface Images {
     "Metropol_Mapobject_Basic_Special_WitchCastle": ImageData;
     "Metropol_Mapobject_Basic_Special_WoodAxe": ImageData;
     "Metropol_Mapobject_Basic_Special_snowflakehouse": ImageData;
+    "Metropol_Mapobject_Basic_Special_turkeyCastellan": ImageData;
     "MetropolisBooster_Building_Level1": ImageData;
     "MetropolisBooster_Building_Level2": ImageData;
     "MetropolisBooster_Building_Level3": ImageData;
@@ -2907,6 +2933,7 @@ export interface Images {
     "Outpost_Mapobject_Level_Special_WitchCastle": ImageData;
     "Outpost_Mapobject_Level_Special_WoodAxe": ImageData;
     "Outpost_Mapobject_Level_Special_snowflakehouse": ImageData;
+    "Outpost_Mapobject_Level_Special_turkeyCastellan": ImageData;
     "Outpost_Mapobject_Special_Cloudmaker_2_0_6_Icon": ImageData;
     "Outpost_Mapobject_Special_Cloudmaker_2_0_8_Icon": ImageData;
     "Outpost_Mapobject_Special_Cloudmaker_2_6_0_Icon": ImageData;
@@ -3146,6 +3173,7 @@ export interface Images {
     "Preview_Castle_Mapobject_Special_WitchCastle": ImageData;
     "Preview_Castle_Mapobject_Special_WoodAxe": ImageData;
     "Preview_Castle_Mapobject_Special_snowflakehouse": ImageData;
+    "Preview_Castle_Mapobject_Special_turkeyCastellan": ImageData;
     "Princess_Arm_Right": ImageData;
     "Princess_Chest": ImageData;
     "Princess_Eye_Right": ImageData;
@@ -4250,6 +4278,7 @@ export interface Images {
     "icon_ci_effect_mayan": ImageData;
     "icon_ci_effect_nature": ImageData;
     "icon_ci_effect_newking": ImageData;
+    "icon_ci_effect_nomads": ImageData;
     "icon_ci_effect_octoberfest": ImageData;
     "icon_ci_effect_pirates": ImageData;
     "icon_ci_effect_refinery": ImageData;
@@ -5308,6 +5337,7 @@ export interface Images {
     "icon_general_WolfKing": ImageData;
     "icon_general_WolfKing_xl": ImageData;
     "icon_general_WolfKing_xxl": ImageData;
+    "icon_general_ability": ImageData;
     "icon_general_ability_1001": ImageData;
     "icon_general_ability_1001_big": ImageData;
     "icon_general_ability_1001_medium": ImageData;
@@ -6444,6 +6474,9 @@ export interface Images {
     "items_unique_2004": ImageData;
     "items_unique_2005": ImageData;
     "items_unique_2006": ImageData;
+    "items_unique_2009": ImageData;
+    "items_unique_2010": ImageData;
+    "items_unique_2011": ImageData;
     "items_unique_21": ImageData;
     "items_unique_22": ImageData;
     "items_unique_23": ImageData;
@@ -6933,6 +6966,8 @@ export interface Images {
     "natureResearchtower": ImageData;
     "newKingGuardhouse": ImageData;
     "nomadDrillGround": ImageData;
+    "nomadGuardhouse": ImageData;
+    "nomadTavern": ImageData;
     "octoberfestTower": ImageData;
     "partyGuardhouse": ImageData;
     "pirateBakery": ImageData;

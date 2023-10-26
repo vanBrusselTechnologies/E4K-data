@@ -2,6 +2,7 @@
   "globalEffect": [
     {
       "ID": 1,
+      "crossplayID": 1,
       "globalEffectID": 1,
       "name": "CooldownReductionRBC",
       "effects": "257&amp;50",
@@ -13,6 +14,7 @@
     },
     {
       "ID": 10,
+      "crossplayID": 10,
       "globalEffectID": 2,
       "name": "SpeedBoost",
       "effects": "53&amp;60",
@@ -24,6 +26,7 @@
     },
     {
       "ID": 20,
+      "crossplayID": 20,
       "globalEffectID": 3,
       "name": "CollectorTempServerBoost",
       "effects": "271&amp;10",
@@ -35,6 +38,7 @@
     },
     {
       "ID": 30,
+      "crossplayID": 30,
       "globalEffectID": 4,
       "name": "foodConsumptionBoost",
       "effects": "272&amp;-1",
@@ -47,6 +51,7 @@
     },
     {
       "ID": 40,
+      "crossplayID": 40,
       "globalEffectID": 5,
       "name": "attackBoostSpeermanBowman",
       "effects": "273&amp;602+50#608+50",
@@ -60,6 +65,7 @@
     },
     {
       "ID": 50,
+      "crossplayID": 50,
       "globalEffectID": 6,
       "name": "attackBoostMaceCrossbowman",
       "effects": "273&amp;603+60#607+60",
@@ -73,6 +79,7 @@
     },
     {
       "ID": 60,
+      "crossplayID": 60,
       "globalEffectID": 7,
       "name": "attackBoostValkyrieMeleeValkyrieRange",
       "effects": "273&amp;22+70#23+70",
@@ -86,6 +93,7 @@
     },
     {
       "ID": 70,
+      "crossplayID": 70,
       "globalEffectID": 8,
       "name": "attackBoostMasterSwordsmanMasterArcher",
       "effects": "273&amp;781+80#782+80",
@@ -99,6 +107,7 @@
     },
     {
       "ID": 80,
+      "crossplayID": 80,
       "globalEffectID": 9,
       "name": "attackBoostEliteRankrewardMeleeEliteRankrewardRange",
       "effects": "273&amp;9+90#10+90",
@@ -112,6 +121,7 @@
     },
     {
       "ID": 90,
+      "crossplayID": 90,
       "globalEffectID": 10,
       "name": "recuitmentSpeedBoostAll",
       "effects": "80&amp;2000",
@@ -124,6 +134,7 @@
     },
     {
       "ID": 91,
+      "crossplayID": 91,
       "globalEffectID": 12,
       "name": "fameBonusUnitAlienBCKingsspeerman",
       "effects": "285&amp;686+50",
@@ -136,6 +147,7 @@
     },
     {
       "ID": 92,
+      "crossplayID": 92,
       "globalEffectID": 13,
       "name": "fameBonusUnitAlienBCKingsbowman",
       "effects": "285&amp;687+50",
@@ -148,6 +160,7 @@
     },
     {
       "ID": 93,
+      "crossplayID": 93,
       "globalEffectID": 14,
       "name": "fameBonusUnitAlienBCFlamethrower",
       "effects": "285&amp;723+50",
@@ -160,6 +173,7 @@
     },
     {
       "ID": 94,
+      "crossplayID": 94,
       "globalEffectID": 15,
       "name": "fameBonusUnitAlienBCArrowthrower",
       "effects": "285&amp;722+50",
@@ -172,6 +186,7 @@
     },
     {
       "ID": 95,
+      "crossplayID": 95,
       "globalEffectID": 16,
       "name": "fameBonusUnitAlienBCEliteFlamethrower",
       "effects": "285&amp;11+50",
@@ -184,6 +199,7 @@
     },
     {
       "ID": 96,
+      "crossplayID": 96,
       "globalEffectID": 17,
       "name": "fameBonusUnitAlienBCEliteArrowthrower",
       "effects": "285&amp;12+50",
@@ -196,6 +212,7 @@
     },
     {
       "ID": 200,
+      "crossplayID": 200,
       "globalEffectID": 18,
       "name": "burningChanceBonus",
       "effects": "30&amp;-100",
@@ -206,6 +223,7 @@
     },
     {
       "ID": 210,
+      "crossplayID": 210,
       "globalEffectID": 19,
       "name": "attackBoostYardPVP",
       "effects": "234&amp;5",

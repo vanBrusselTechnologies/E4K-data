@@ -2,6 +2,7 @@
   "lootBox": [
     {
       "lootBoxID": 1,
+      "crossplayID": 1,
       "lootBoxTypeID": 1,
       "name": "MysteryBoxBronze",
       "rarity": 1,
@@ -12,6 +13,7 @@
     },
     {
       "lootBoxID": 2,
+      "crossplayID": 2,
       "lootBoxTypeID": 1,
       "name": "MysteryBoxBronze",
       "rarity": 2,
@@ -22,6 +24,7 @@
     },
     {
       "lootBoxID": 3,
+      "crossplayID": 3,
       "lootBoxTypeID": 1,
       "name": "MysteryBoxBronze",
       "rarity": 3,
@@ -32,6 +35,7 @@
     },
     {
       "lootBoxID": 4,
+      "crossplayID": 4,
       "lootBoxTypeID": 1,
       "name": "MysteryBoxBronze",
       "rarity": 4,
@@ -42,6 +46,7 @@
     },
     {
       "lootBoxID": 5,
+      "crossplayID": 5,
       "lootBoxTypeID": 1,
       "name": "MysteryBoxSilver",
       "rarity": 1,
@@ -52,6 +57,7 @@
     },
     {
       "lootBoxID": 6,
+      "crossplayID": 6,
       "lootBoxTypeID": 1,
       "name": "MysteryBoxSilver",
       "rarity": 2,
@@ -62,6 +68,7 @@
     },
     {
       "lootBoxID": 7,
+      "crossplayID": 7,
       "lootBoxTypeID": 1,
       "name": "MysteryBoxSilver",
       "rarity": 3,
@@ -72,6 +79,7 @@
     },
     {
       "lootBoxID": 8,
+      "crossplayID": 8,
       "lootBoxTypeID": 1,
       "name": "MysteryBoxSilver",
       "rarity": 4,
@@ -82,6 +90,7 @@
     },
     {
       "lootBoxID": 9,
+      "crossplayID": 9,
       "lootBoxTypeID": 1,
       "name": "MysteryBoxGold",
       "rarity": 1,
@@ -92,6 +101,7 @@
     },
     {
       "lootBoxID": 10,
+      "crossplayID": 10,
       "lootBoxTypeID": 1,
       "name": "MysteryBoxGold",
       "rarity": 2,
@@ -102,6 +112,7 @@
     },
     {
       "lootBoxID": 11,
+      "crossplayID": 11,
       "lootBoxTypeID": 1,
       "name": "MysteryBoxGold",
       "rarity": 3,
@@ -112,6 +123,7 @@
     },
     {
       "lootBoxID": 12,
+      "crossplayID": 12,
       "lootBoxTypeID": 1,
       "name": "MysteryBoxGold",
       "rarity": 4,
@@ -122,6 +134,7 @@
     },
     {
       "lootBoxID": 13,
+      "crossplayID": 13,
       "lootBoxTypeID": 1,
       "name": "SummerBox2022",
       "rarity": 1,
@@ -132,6 +145,7 @@
     },
     {
       "lootBoxID": 14,
+      "crossplayID": 14,
       "lootBoxTypeID": 1,
       "name": "SummerBox2022",
       "rarity": 2,
@@ -142,6 +156,7 @@
     },
     {
       "lootBoxID": 15,
+      "crossplayID": 15,
       "lootBoxTypeID": 1,
       "name": "SummerBox2022",
       "rarity": 3,
@@ -152,6 +167,7 @@
     },
     {
       "lootBoxID": 16,
+      "crossplayID": 16,
       "lootBoxTypeID": 1,
       "name": "SummerBox2022",
       "rarity": 4,
@@ -162,6 +178,7 @@
     },
     {
       "lootBoxID": 17,
+      "crossplayID": 17,
       "lootBoxTypeID": 1,
       "name": "AutumnBox2022",
       "rarity": 1,
@@ -172,6 +189,7 @@
     },
     {
       "lootBoxID": 18,
+      "crossplayID": 18,
       "lootBoxTypeID": 1,
       "name": "AutumnBox2022",
       "rarity": 2,
@@ -182,6 +200,7 @@
     },
     {
       "lootBoxID": 19,
+      "crossplayID": 19,
       "lootBoxTypeID": 1,
       "name": "AutumnBox2022",
       "rarity": 3,
@@ -192,6 +211,7 @@
     },
     {
       "lootBoxID": 20,
+      "crossplayID": 20,
       "lootBoxTypeID": 1,
       "name": "AutumnBox2022",
       "rarity": 4,
@@ -202,6 +222,7 @@
     },
     {
       "lootBoxID": 21,
+      "crossplayID": 21,
       "lootBoxTypeID": 1,
       "name": "SalesBox2022",
       "rarity": 1,
@@ -212,6 +233,7 @@
     },
     {
       "lootBoxID": 22,
+      "crossplayID": 22,
       "lootBoxTypeID": 1,
       "name": "SalesBox2022",
       "rarity": 2,
@@ -222,6 +244,7 @@
     },
     {
       "lootBoxID": 23,
+      "crossplayID": 23,
       "lootBoxTypeID": 1,
       "name": "SalesBox2022",
       "rarity": 3,
@@ -232,6 +255,7 @@
     },
     {
       "lootBoxID": 24,
+      "crossplayID": 24,
       "lootBoxTypeID": 1,
       "name": "SalesBox2022",
       "rarity": 4,
@@ -242,6 +266,7 @@
     },
     {
       "lootBoxID": 25,
+      "crossplayID": 25,
       "lootBoxTypeID": 1,
       "name": "WinterBox2022",
       "rarity": 1,
@@ -252,6 +277,7 @@
     },
     {
       "lootBoxID": 26,
+      "crossplayID": 26,
       "lootBoxTypeID": 1,
       "name": "WinterBox2022",
       "rarity": 2,
@@ -262,6 +288,7 @@
     },
     {
       "lootBoxID": 27,
+      "crossplayID": 27,
       "lootBoxTypeID": 1,
       "name": "WinterBox2022",
       "rarity": 3,
@@ -272,6 +299,7 @@
     },
     {
       "lootBoxID": 28,
+      "crossplayID": 28,
       "lootBoxTypeID": 1,
       "name": "WinterBox2022",
       "rarity": 4,
@@ -282,6 +310,7 @@
     },
     {
       "lootBoxID": 29,
+      "crossplayID": 29,
       "lootBoxTypeID": 1,
       "name": "SpringBox2023",
       "rarity": 1,
@@ -292,6 +321,7 @@
     },
     {
       "lootBoxID": 30,
+      "crossplayID": 30,
       "lootBoxTypeID": 1,
       "name": "SpringBox2023",
       "rarity": 2,
@@ -302,6 +332,7 @@
     },
     {
       "lootBoxID": 31,
+      "crossplayID": 31,
       "lootBoxTypeID": 1,
       "name": "SpringBox2023",
       "rarity": 3,
@@ -312,6 +343,7 @@
     },
     {
       "lootBoxID": 32,
+      "crossplayID": 32,
       "lootBoxTypeID": 1,
       "name": "SpringBox2023",
       "rarity": 4,

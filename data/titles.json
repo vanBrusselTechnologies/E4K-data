@@ -2,6 +2,7 @@
   "title": [
     {
       "titleID": 0,
+      "crossplayID": 0,
       "type": "FAME",
       "threshold": 0,
       "decay": 0,
@@ -10,6 +11,7 @@
     },
     {
       "titleID": 1,
+      "crossplayID": 1,
       "previousTitleID": 0,
       "type": "FAME",
       "threshold": 20,
@@ -20,6 +22,7 @@
     },
     {
       "titleID": 2,
+      "crossplayID": 2,
       "previousTitleID": 1,
       "type": "FAME",
       "threshold": 110,
@@ -30,6 +33,7 @@
     },
     {
       "titleID": 3,
+      "crossplayID": 3,
       "previousTitleID": 2,
       "type": "FAME",
       "threshold": 870,
@@ -40,6 +44,7 @@
     },
     {
       "titleID": 4,
+      "crossplayID": 4,
       "previousTitleID": 3,
       "type": "FAME",
       "threshold": 1480,
@@ -50,6 +55,7 @@
     },
     {
       "titleID": 5,
+      "crossplayID": 5,
       "previousTitleID": 4,
       "type": "FAME",
       "threshold": 2260,
@@ -60,6 +66,7 @@
     },
     {
       "titleID": 6,
+      "crossplayID": 6,
       "previousTitleID": 5,
       "type": "FAME",
       "threshold": 3440,
@@ -70,6 +77,7 @@
     },
     {
       "titleID": 7,
+      "crossplayID": 7,
       "previousTitleID": 6,
       "type": "FAME",
       "threshold": 5230,
@@ -80,6 +88,7 @@
     },
     {
       "titleID": 8,
+      "crossplayID": 8,
       "previousTitleID": 7,
       "type": "FAME",
       "threshold": 7960,
@@ -90,6 +99,7 @@
     },
     {
       "titleID": 9,
+      "crossplayID": 9,
       "previousTitleID": 8,
       "type": "FAME",
       "threshold": 12110,
@@ -100,6 +110,7 @@
     },
     {
       "titleID": 10,
+      "crossplayID": 10,
       "previousTitleID": 9,
       "type": "FAME",
       "threshold": 18440,
@@ -110,6 +121,7 @@
     },
     {
       "titleID": 11,
+      "crossplayID": 11,
       "previousTitleID": 10,
       "type": "FAME",
       "threshold": 28060,
@@ -120,6 +132,7 @@
     },
     {
       "titleID": 12,
+      "crossplayID": 12,
       "previousTitleID": 11,
       "type": "FAME",
       "threshold": 42710,
@@ -130,6 +143,7 @@
     },
     {
       "titleID": 13,
+      "crossplayID": 13,
       "previousTitleID": 12,
       "type": "FAME",
       "threshold": 65000,
@@ -140,6 +154,7 @@
     },
     {
       "titleID": 14,
+      "crossplayID": 14,
       "previousTitleID": 13,
       "type": "FAME",
       "threshold": 87500,
@@ -150,6 +165,7 @@
     },
     {
       "titleID": 15,
+      "crossplayID": 15,
       "previousTitleID": 14,
       "type": "FAME",
       "threshold": 110200,
@@ -160,6 +176,7 @@
     },
     {
       "titleID": 16,
+      "crossplayID": 16,
       "previousTitleID": 15,
       "type": "FAME",
       "threshold": 133300,
@@ -170,6 +187,7 @@
     },
     {
       "titleID": 17,
+      "crossplayID": 17,
       "previousTitleID": 16,
       "type": "FAME",
       "threshold": 157700,
@@ -180,6 +198,7 @@
     },
     {
       "titleID": 28,
+      "crossplayID": 28,
       "previousTitleID": 17,
       "type": "FAME",
       "threshold": 183100,
@@ -190,6 +209,7 @@
     },
     {
       "titleID": 29,
+      "crossplayID": 29,
       "previousTitleID": 28,
       "type": "FAME",
       "threshold": 209700,
@@ -200,6 +220,7 @@
     },
     {
       "titleID": 30,
+      "crossplayID": 30,
       "previousTitleID": 29,
       "type": "FAME",
       "threshold": 237700,
@@ -210,6 +231,7 @@
     },
     {
       "titleID": 31,
+      "crossplayID": 31,
       "previousTitleID": 30,
       "type": "FAME",
       "threshold": 267300,
@@ -220,6 +242,7 @@
     },
     {
       "titleID": 32,
+      "crossplayID": 32,
       "previousTitleID": 31,
       "type": "FAME",
       "threshold": 298700,
@@ -230,6 +253,7 @@
     },
     {
       "titleID": 33,
+      "crossplayID": 33,
       "previousTitleID": 32,
       "type": "FAME",
       "threshold": 332100,
@@ -240,6 +264,7 @@
     },
     {
       "titleID": 18,
+      "crossplayID": 18,
       "previousTitleID": 33,
       "type": "FAME",
       "threshold": 367700,
@@ -250,6 +275,7 @@
     },
     {
       "titleID": 19,
+      "crossplayID": 19,
       "previousTitleID": 18,
       "type": "FAME",
       "threshold": 405700,
@@ -260,6 +286,7 @@
     },
     {
       "titleID": 20,
+      "crossplayID": 20,
       "previousTitleID": 19,
       "type": "FAME",
       "threshold": 446300,
@@ -270,6 +297,7 @@
     },
     {
       "titleID": 21,
+      "crossplayID": 21,
       "previousTitleID": 20,
       "type": "FAME",
       "threshold": 489700,
@@ -280,6 +308,7 @@
     },
     {
       "titleID": 22,
+      "crossplayID": 22,
       "previousTitleID": 21,
       "type": "FAME",
       "threshold": 536100,
@@ -290,6 +319,7 @@
     },
     {
       "titleID": 23,
+      "crossplayID": 23,
       "previousTitleID": 22,
       "type": "FAME",
       "threshold": 586100,
@@ -300,6 +330,7 @@
     },
     {
       "titleID": 24,
+      "crossplayID": 24,
       "previousTitleID": 23,
       "type": "FAME",
       "topX": 100,
@@ -310,6 +341,7 @@
     },
     {
       "titleID": 25,
+      "crossplayID": 25,
       "previousTitleID": 24,
       "type": "FAME",
       "topX": 50,
@@ -320,6 +352,7 @@
     },
     {
       "titleID": 26,
+      "crossplayID": 26,
       "previousTitleID": 25,
       "type": "FAME",
       "topX": 10,
@@ -330,6 +363,7 @@
     },
     {
       "titleID": 27,
+      "crossplayID": 27,
       "previousTitleID": 26,
       "type": "FAME",
       "topX": 1,
@@ -340,6 +374,7 @@
     },
     {
       "titleID": 50,
+      "crossplayID": 50,
       "previousTitleID": 51,
       "type": "ISLE",
       "topX": 1,
@@ -349,6 +384,7 @@
     },
     {
       "titleID": 51,
+      "crossplayID": 51,
       "previousTitleID": 52,
       "type": "ISLE",
       "topX": 2,
@@ -358,6 +394,7 @@
     },
     {
       "titleID": 52,
+      "crossplayID": 52,
       "previousTitleID": 53,
       "type": "ISLE",
       "topX": 3,
@@ -367,6 +404,7 @@
     },
     {
       "titleID": 53,
+      "crossplayID": 53,
       "previousTitleID": 54,
       "type": "ISLE",
       "topX": 4,
@@ -376,6 +414,7 @@
     },
     {
       "titleID": 54,
+      "crossplayID": 54,
       "type": "ISLE",
       "topX": 10,
       "displayType": "suffix",
@@ -384,6 +423,7 @@
     },
     {
       "titleID": 100,
+      "crossplayID": 100,
       "type": "FACTION",
       "threshold": 250,
       "decay": 0,
@@ -393,6 +433,7 @@
     },
     {
       "titleID": 101,
+      "crossplayID": 101,
       "previousTitleID": 100,
       "type": "FACTION",
       "threshold": 750,
@@ -403,6 +444,7 @@
     },
     {
       "titleID": 102,
+      "crossplayID": 102,
       "previousTitleID": 101,
       "type": "FACTION",
       "threshold": 1500,
@@ -413,6 +455,7 @@
     },
     {
       "titleID": 103,
+      "crossplayID": 103,
       "previousTitleID": 102,
       "type": "FACTION",
       "threshold": 2500,
@@ -423,6 +466,7 @@
     },
     {
       "titleID": 104,
+      "crossplayID": 104,
       "previousTitleID": 103,
       "type": "FACTION",
       "threshold": 5000,
@@ -433,6 +477,7 @@
     },
     {
       "titleID": 105,
+      "crossplayID": 105,
       "previousTitleID": 104,
       "type": "FACTION",
       "threshold": 7500,
@@ -443,6 +488,7 @@
     },
     {
       "titleID": 106,
+      "crossplayID": 106,
       "previousTitleID": 105,
       "type": "FACTION",
       "threshold": 10000,
@@ -453,6 +499,7 @@
     },
     {
       "titleID": 107,
+      "crossplayID": 107,
       "previousTitleID": 106,
       "type": "FACTION",
       "threshold": 15000,
@@ -463,6 +510,7 @@
     },
     {
       "titleID": 108,
+      "crossplayID": 108,
       "previousTitleID": 107,
       "type": "FACTION",
       "threshold": 25000,
@@ -473,6 +521,7 @@
     },
     {
       "titleID": 109,
+      "crossplayID": 109,
       "previousTitleID": 108,
       "type": "FACTION",
       "threshold": 35000,
@@ -483,6 +532,7 @@
     },
     {
       "titleID": 110,
+      "crossplayID": 110,
       "previousTitleID": 109,
       "type": "FACTION",
       "threshold": 37500,
@@ -493,6 +543,7 @@
     },
     {
       "titleID": 111,
+      "crossplayID": 111,
       "previousTitleID": 110,
       "type": "FACTION",
       "threshold": 40000,
@@ -503,6 +554,7 @@
     },
     {
       "titleID": 112,
+      "crossplayID": 112,
       "previousTitleID": 111,
       "type": "FACTION",
       "threshold": 45000,
@@ -513,6 +565,7 @@
     },
     {
       "titleID": 113,
+      "crossplayID": 113,
       "previousTitleID": 112,
       "type": "FACTION",
       "threshold": 95000,
@@ -523,6 +576,7 @@
     },
     {
       "titleID": 114,
+      "crossplayID": 114,
       "previousTitleID": 113,
       "type": "FACTION",
       "topX": 100,
@@ -533,6 +587,7 @@
     },
     {
       "titleID": 115,
+      "crossplayID": 115,
       "previousTitleID": 114,
       "type": "FACTION",
       "topX": 50,
@@ -543,6 +598,7 @@
     },
     {
       "titleID": 116,
+      "crossplayID": 116,
       "previousTitleID": 115,
       "type": "FACTION",
       "topX": 20,
@@ -553,6 +609,7 @@
     },
     {
       "titleID": 117,
+      "crossplayID": 117,
       "previousTitleID": 116,
       "type": "FACTION",
       "topX": 1,

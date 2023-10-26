@@ -2,863 +2,1067 @@
   "effecttype": [
     {
       "effectTypeID": 0,
+      "crossplayID": 0,
       "name": "fameDefenseBonus"
     },
     {
       "effectTypeID": 1,
+      "crossplayID": 1,
       "name": "conquerSpeedBonus"
     },
     {
       "effectTypeID": 2,
+      "crossplayID": 2,
       "name": "lootReduction"
     },
     {
       "effectTypeID": 3,
+      "crossplayID": 3,
       "name": "perceptionBonus"
     },
     {
       "effectTypeID": 4,
+      "crossplayID": 4,
       "name": "fireBrigadeBoost"
     },
     {
       "effectTypeID": 5,
+      "crossplayID": 5,
       "name": "occupationTimeReduction"
     },
     {
       "effectTypeID": 6,
+      "crossplayID": 6,
       "name": "wallBonus"
     },
     {
       "effectTypeID": 7,
+      "crossplayID": 7,
       "name": "gateBonus"
     },
     {
       "effectTypeID": 8,
+      "crossplayID": 8,
       "name": "moatBonus"
     },
     {
       "effectTypeID": 9,
+      "crossplayID": 9,
       "name": "meleeBonus"
     },
     {
       "effectTypeID": 10,
+      "crossplayID": 10,
       "name": "rangeBonus"
     },
     {
       "effectTypeID": 11,
+      "crossplayID": 11,
       "name": "npcDefenseBonus"
     },
     {
       "effectTypeID": 12,
+      "crossplayID": 12,
       "combatType": 2,
       "name": "defenseUnitAmountWall"
     },
     {
       "effectTypeID": 47,
+      "crossplayID": 47,
       "name": "DefenseSupportUnits"
     },
     {
       "effectTypeID": 13,
+      "crossplayID": 13,
       "name": "fameOffenseBonus"
     },
     {
       "effectTypeID": 14,
+      "crossplayID": 14,
       "name": "honorBonus"
     },
     {
       "effectTypeID": 15,
+      "crossplayID": 15,
       "name": "speedBonus"
     },
     {
       "effectTypeID": 16,
+      "crossplayID": 16,
       "name": "lootBonus"
     },
     {
       "effectTypeID": 17,
+      "crossplayID": 17,
       "name": "stealthBonus"
     },
     {
       "effectTypeID": 18,
+      "crossplayID": 18,
       "name": "fireBoost"
     },
     {
       "effectTypeID": 19,
+      "crossplayID": 19,
       "name": "wallReduction"
     },
     {
       "effectTypeID": 20,
+      "crossplayID": 20,
       "name": "gateReduction"
     },
     {
       "effectTypeID": 21,
+      "crossplayID": 21,
       "name": "moatReduction"
     },
     {
       "effectTypeID": 22,
+      "crossplayID": 22,
       "name": "magicFindBonus"
     },
     {
       "effectTypeID": 23,
+      "crossplayID": 23,
       "name": "offensiveMeleeBonus"
     },
     {
       "effectTypeID": 24,
+      "crossplayID": 24,
       "name": "offensiveRangeBonus"
     },
     {
       "effectTypeID": 25,
+      "crossplayID": 25,
       "name": "smashChance"
     },
     {
       "effectTypeID": 26,
+      "crossplayID": 26,
       "name": "travelCostReduction"
     },
     {
       "effectTypeID": 27,
+      "crossplayID": 27,
       "name": "cooldownReduction"
     },
     {
       "effectTypeID": 28,
+      "crossplayID": 28,
       "combatType": 1,
       "name": "attackUnitAmountFlank"
     },
     {
       "effectTypeID": 29,
+      "crossplayID": 29,
       "name": "skin"
     },
     {
       "effectTypeID": 30,
+      "crossplayID": 30,
       "name": "skinBaron"
     },
     {
       "effectTypeID": 31,
+      "crossplayID": 31,
       "name": "defenseBonus"
     },
     {
       "effectTypeID": 49,
+      "crossplayID": 49,
       "combatType": 2,
       "name": "DefenseBoostFront"
     },
     {
       "effectTypeID": 50,
+      "crossplayID": 50,
       "combatType": 2,
       "name": "DefenseBoostFlank"
     },
     {
       "effectTypeID": 32,
+      "crossplayID": 32,
       "combatType": 2,
       "name": "defenseBoostYard"
     },
     {
       "effectTypeID": 33,
+      "crossplayID": 33,
       "combatType": 1,
       "name": "attackBoostYard"
     },
     {
       "effectTypeID": 53,
+      "crossplayID": 53,
       "combatType": 1,
       "name": "AttackBoostFront"
     },
     {
       "effectTypeID": 54,
+      "crossplayID": 54,
       "combatType": 1,
       "name": "AttackBoostFlank"
     },
     {
       "effectTypeID": 34,
+      "crossplayID": 34,
       "combatType": 1,
       "name": "attackUnitAmountFront"
     },
     {
       "effectTypeID": 51,
+      "crossplayID": 51,
       "name": "AttackSupportUnits"
     },
     {
       "effectTypeID": 35,
+      "crossplayID": 35,
       "name": "hideoutCapacity"
     },
     {
       "effectTypeID": 36,
+      "crossplayID": 36,
       "name": "attackBonus"
     },
     {
       "effectTypeID": 37,
+      "crossplayID": 37,
       "name": "lootCapacity"
     },
     {
       "effectTypeID": 38,
+      "crossplayID": 38,
       "name": "returnTravelBoost"
     },
     {
       "effectTypeID": 39,
+      "crossplayID": 39,
       "name": "supportSpeedBonus"
     },
     {
       "effectTypeID": 40,
+      "crossplayID": 40,
       "name": "stationingSpeedBonus"
     },
     {
       "effectTypeID": 41,
+      "crossplayID": 41,
       "name": "stationingTravelCostReduction"
     },
     {
       "effectTypeID": 42,
+      "crossplayID": 42,
       "name": "supportTravelCostReduction"
     },
     {
       "effectTypeID": 43,
+      "crossplayID": 43,
       "name": "travelCostReductionPVP"
     },
     {
       "effectTypeID": 44,
+      "crossplayID": 44,
       "name": "speedBonusPVP"
     },
     {
       "effectTypeID": 45,
+      "crossplayID": 45,
       "name": "returnTravelBoostPVP"
     },
     {
       "effectTypeID": 46,
+      "crossplayID": 46,
       "name": "defenseUnitAmountWallPVP"
     },
     {
       "effectTypeID": 48,
+      "crossplayID": 48,
       "name": "marketSpeedBonus"
     },
     {
       "effectTypeID": 52,
+      "crossplayID": 52,
       "name": "resourceDepositBoost"
     },
     {
       "effectTypeID": 55,
+      "crossplayID": 55,
       "name": "lootBonusPvP"
     },
     {
       "effectTypeID": 56,
+      "crossplayID": 56,
       "name": "memberCount"
     },
     {
       "effectTypeID": 69,
+      "crossplayID": 69,
       "name": "foodProductionBonus"
     },
     {
       "effectTypeID": 70,
+      "crossplayID": 70,
       "name": "recruitmentCostDecrease"
     },
     {
       "effectTypeID": 71,
+      "crossplayID": 71,
       "name": "recuitmentSpeedBoost"
     },
     {
       "effectTypeID": 72,
+      "crossplayID": 72,
       "name": "toolProductionSpeedBoost"
     },
     {
       "effectTypeID": 73,
+      "crossplayID": 73,
       "name": "spyCountBoost"
     },
     {
       "effectTypeID": 74,
+      "crossplayID": 74,
       "name": "publicOrderBoost"
     },
     {
       "effectTypeID": 75,
+      "crossplayID": 75,
       "name": "coinLootBoost"
     },
     {
       "effectTypeID": 76,
+      "crossplayID": 76,
       "name": "factionPointGainBoost"
     },
     {
       "effectTypeID": 77,
+      "crossplayID": 77,
       "name": "allianceFameGainBoost"
     },
     {
       "effectTypeID": 78,
+      "crossplayID": 78,
       "name": "auxiliaryCapacityBoost"
     },
     {
       "effectTypeID": 79,
+      "crossplayID": 79,
       "name": "enableUnits"
     },
     {
       "effectTypeID": 57,
+      "crossplayID": 57,
       "name": "enableBuildings"
     },
     {
       "effectTypeID": 80,
+      "crossplayID": 80,
       "name": "foodProductionBoost"
     },
     {
       "effectTypeID": 81,
+      "crossplayID": 81,
       "name": "islandKing"
     },
     {
       "effectTypeID": 82,
+      "crossplayID": 82,
       "name": "moraleBoost"
     },
     {
       "effectTypeID": 83,
+      "crossplayID": 83,
       "name": "enemyFameBoost"
     },
     {
       "effectTypeID": 84,
+      "crossplayID": 84,
       "name": "enemyLootBoost"
     },
     {
       "effectTypeID": 85,
+      "crossplayID": 85,
       "name": "recruitmentCostDecreaseAll"
     },
     {
       "effectTypeID": 86,
+      "crossplayID": 86,
       "name": "recuitmentSpeedBoostAll"
     },
     {
       "effectTypeID": 87,
+      "crossplayID": 87,
       "name": "unlockSkinIDs"
     },
     {
       "effectTypeID": 88,
+      "crossplayID": 88,
       "name": "battleXPBoost"
     },
     {
       "effectTypeID": 89,
+      "crossplayID": 89,
       "name": "buildingXPBoost"
     },
     {
       "effectTypeID": 90,
+      "crossplayID": 90,
       "name": "disableUnits"
     },
     {
       "effectTypeID": 91,
+      "crossplayID": 91,
       "name": "espionageSpeedBoost"
     },
     {
       "effectTypeID": 92,
+      "crossplayID": 92,
       "name": "woodProductionBoost"
     },
     {
       "effectTypeID": 93,
+      "crossplayID": 93,
       "name": "stoneProductionBoost"
     },
     {
       "effectTypeID": 94,
+      "crossplayID": 94,
       "name": "taxCollectorBoost"
     },
     {
       "effectTypeID": 95,
+      "crossplayID": 95,
       "name": "taxCollectorNoRubies"
     },
     {
       "effectTypeID": 96,
+      "crossplayID": 96,
       "name": "marketCarriageCapacityBoost"
     },
     {
       "effectTypeID": 97,
+      "crossplayID": 97,
       "name": "amountGuardsBoost"
     },
     {
       "effectTypeID": 98,
+      "crossplayID": 98,
       "name": "amountSpiesBonus"
     },
     {
       "effectTypeID": 99,
+      "crossplayID": 99,
       "name": "amountPeasantBoost"
     },
     {
       "effectTypeID": 100,
+      "crossplayID": 100,
       "name": "amountPopulationBoost"
     },
     {
       "effectTypeID": 101,
+      "crossplayID": 101,
       "name": "amountPopulationBonus"
     },
     {
       "effectTypeID": 102,
+      "crossplayID": 102,
       "name": "unitSpeedBoost"
     },
     {
       "effectTypeID": 103,
+      "crossplayID": 103,
       "name": "travelKingdomTroopTimeBoost"
     },
     {
       "effectTypeID": 104,
+      "crossplayID": 104,
       "name": "travelKingdomMarketTimeBoost"
     },
     {
       "effectTypeID": 105,
+      "crossplayID": 105,
       "name": "fameBoost"
     },
     {
       "effectTypeID": 106,
+      "crossplayID": 106,
       "name": "hospitalSlotBonus"
     },
     {
       "effectTypeID": 107,
+      "crossplayID": 107,
       "name": "researchBoost"
     },
     {
       "effectTypeID": 108,
+      "crossplayID": 108,
       "name": "researchBonus"
     },
     {
       "effectTypeID": 109,
+      "crossplayID": 109,
       "name": "forgeCostBoost"
     },
     {
       "effectTypeID": 110,
+      "crossplayID": 110,
       "name": "recruitmentTimeBonus"
     },
     {
       "effectTypeID": 111,
+      "crossplayID": 111,
       "name": "toolProductionTimeBonus"
     },
     {
       "effectTypeID": 112,
+      "crossplayID": 112,
       "name": "woodProductionBonus"
     },
     {
       "effectTypeID": 113,
+      "crossplayID": 113,
       "name": "stoneProductionBonus"
     },
     {
       "effectTypeID": 114,
+      "crossplayID": 114,
       "name": "lootCapacityBoost"
     },
     {
       "effectTypeID": 115,
+      "crossplayID": 115,
       "name": "battleXPBonus"
     },
     {
       "effectTypeID": 116,
+      "crossplayID": 116,
       "name": "enableConstructionItemRecipes"
     },
     {
       "effectTypeID": 117,
+      "crossplayID": 117,
       "name": "toolProductionSpeedBoostAll"
     },
     {
       "effectTypeID": 118,
+      "crossplayID": 118,
       "name": "strongerPeasant"
     },
     {
       "effectTypeID": 119,
+      "crossplayID": 119,
       "name": "hospitalCapacityBonus"
     },
     {
       "effectTypeID": 120,
+      "crossplayID": 120,
       "name": "premiumUnitHealingBoost"
     },
     {
       "effectTypeID": 121,
+      "crossplayID": 121,
       "name": "nonPremiumUnitHealingBoost"
     },
     {
       "effectTypeID": 122,
+      "crossplayID": 122,
       "name": "transportTaxDecreaseBoost"
     },
     {
       "effectTypeID": 123,
+      "crossplayID": 123,
       "name": "publicOrderBonus"
     },
     {
       "effectTypeID": 124,
+      "crossplayID": 124,
       "name": "freeSkipBonus"
     },
     {
       "effectTypeID": 125,
+      "crossplayID": 125,
       "name": "researchCostsBoost"
     },
     {
       "effectTypeID": 126,
+      "crossplayID": 126,
       "name": "baseRecruitmentTimeBoost"
     },
     {
       "effectTypeID": 127,
+      "crossplayID": 127,
       "name": "recruitmentSlotsBonus"
     },
     {
       "effectTypeID": 128,
+      "crossplayID": 128,
       "name": "buildingCostsBoost"
     },
     {
       "effectTypeID": 129,
+      "crossplayID": 129,
       "name": "gloryDecayBoost"
     },
     {
       "effectTypeID": 143,
+      "crossplayID": 143,
       "name": "ironProductionBoost"
     },
     {
       "effectTypeID": 140,
+      "crossplayID": 140,
       "name": "coalProductionBoost"
     },
     {
       "effectTypeID": 141,
+      "crossplayID": 141,
       "name": "oilProductionBoost"
     },
     {
       "effectTypeID": 142,
+      "crossplayID": 142,
       "name": "glassProductionBoost"
     },
     {
       "effectTypeID": 130,
+      "crossplayID": 130,
       "name": "charmBoost"
     },
     {
       "effectTypeID": 131,
+      "crossplayID": 131,
       "name": "nomadTabletBoost"
     },
     {
       "effectTypeID": 132,
+      "crossplayID": 132,
       "name": "reputationPointGainBoost"
     },
     {
       "effectTypeID": 133,
+      "crossplayID": 133,
       "name": "samuraiTokenBoost"
     },
     {
       "effectTypeID": 134,
+      "crossplayID": 134,
       "name": "khanMedalBoost"
     },
     {
       "effectTypeID": 135,
+      "crossplayID": 135,
       "name": "ragePointGainBoost"
     },
     {
       "effectTypeID": 136,
+      "crossplayID": 136,
       "name": "featureAutoSell"
     },
     {
       "effectTypeID": 137,
+      "crossplayID": 137,
       "name": "featureAutoSpy"
     },
     {
       "effectTypeID": 138,
+      "crossplayID": 138,
       "name": "foodCapacityBonus"
     },
     {
       "effectTypeID": 139,
+      "crossplayID": 139,
       "name": "CollectorBoost"
     },
     {
       "effectTypeID": 144,
+      "crossplayID": 144,
       "name": "tempServerCollectorBoost"
     },
     {
       "effectTypeID": 145,
+      "crossplayID": 145,
       "name": "buildSpeedBoost"
     },
     {
       "effectTypeID": 146,
+      "crossplayID": 146,
       "name": "classicResourceProductionBonus"
     },
     {
       "effectTypeID": 147,
+      "crossplayID": 147,
       "name": "kingdomResourceProductionBonus"
     },
     {
       "effectTypeID": 148,
+      "crossplayID": 148,
       "name": "attackBonusUnit"
     },
     {
       "effectTypeID": 149,
+      "crossplayID": 149,
       "name": "speedBoostUnit"
     },
     {
       "effectTypeID": 150,
+      "crossplayID": 150,
       "name": "lootValueBoostUnit"
     },
     {
       "effectTypeID": 151,
+      "crossplayID": 151,
       "name": "marketCarriageCapacityBonus"
     },
     {
       "effectTypeID": 152,
+      "crossplayID": 152,
       "name": "foodConsumptionBoost"
     },
     {
       "effectTypeID": 154,
+      "crossplayID": 154,
       "name": "fameBoostUnit"
     },
     {
       "effectTypeID": 155,
+      "crossplayID": 155,
       "name": "BGCollectorBoost"
     },
     {
       "effectTypeID": 156,
+      "crossplayID": 156,
       "combatType": 1,
       "name": "additionalWaves"
     },
     {
       "effectTypeID": 157,
+      "crossplayID": 157,
       "name": "burningChanceBonus"
     },
     {
       "effectTypeID": 158,
+      "crossplayID": 158,
       "name": "tonicBoost"
     },
     {
       "effectTypeID": 160,
+      "crossplayID": 160,
       "name": "MeadProductionIncrease"
     },
     {
       "effectTypeID": 161,
+      "crossplayID": 161,
       "name": "unboostedMeadProduction"
     },
     {
       "effectTypeID": 162,
+      "crossplayID": 162,
       "name": "HoneyProductionIncrease"
     },
     {
       "effectTypeID": 163,
+      "crossplayID": 163,
       "name": "unboostedHoneyProduction"
     },
     {
       "effectTypeID": 164,
+      "crossplayID": 164,
       "name": "meadProductionBoost"
     },
     {
       "effectTypeID": 165,
+      "crossplayID": 165,
       "name": "honeyProductionBoost"
     },
     {
       "effectTypeID": 186,
+      "crossplayID": 186,
       "name": "refinedResourceQueueBoost"
     },
     {
       "effectTypeID": 187,
+      "crossplayID": 187,
       "name": "componentQueueBoost"
     },
     {
       "effectTypeID": 166,
+      "crossplayID": 166,
       "name": "meadCapacityBonus"
     },
     {
       "effectTypeID": 167,
+      "crossplayID": 167,
       "name": "honeyCapacityBonus"
     },
     {
       "effectTypeID": 168,
+      "crossplayID": 168,
       "name": "currencyLootBoost"
     },
     {
       "effectTypeID": 169,
+      "crossplayID": 169,
       "name": "enableExpansion"
     },
     {
       "effectTypeID": 170,
+      "crossplayID": 170,
       "name": "enableCraftingRecipes"
     },
     {
       "effectTypeID": 178,
+      "crossplayID": 178,
       "name": "unlockAbility"
     },
     {
       "effectTypeID": 172,
+      "crossplayID": 172,
       "name": "killAttackingMeleeTroopsYard"
     },
     {
       "effectTypeID": 173,
+      "crossplayID": 173,
       "name": "killAttackingRangedTroopsYard"
     },
     {
       "effectTypeID": 174,
+      "crossplayID": 174,
       "name": "killAttackingAnyTroopsYard"
     },
     {
       "effectTypeID": 175,
+      "crossplayID": 175,
       "name": "killDefendingMeleeTroopsYard"
     },
     {
       "effectTypeID": 176,
+      "crossplayID": 176,
       "name": "killDefendingRangedTroopsYard"
     },
     {
       "effectTypeID": 177,
+      "crossplayID": 177,
       "name": "killDefendingAnyTroopsYard"
     },
     {
       "effectTypeID": 179,
+      "crossplayID": 179,
       "combatType": 1,
       "name": "attackUnitAmountReinforcementBonus"
     },
     {
       "effectTypeID": 180,
+      "crossplayID": 180,
       "combatType": 1,
       "name": "attackUnitAmountReinforcementBoost"
     },
     {
       "effectTypeID": 181,
+      "crossplayID": 181,
       "combatType": 2,
       "name": "defenseUnitAmountYardBonus"
     },
     {
       "effectTypeID": 182,
+      "crossplayID": 182,
       "combatType": 2,
       "name": "defenseUnitAmountYardBoost"
     },
     {
       "effectTypeID": 183,
+      "crossplayID": 183,
       "combatType": 1,
       "name": "allianceDefenseUnitAmountYardBonus"
     },
     {
       "effectTypeID": 184,
+      "crossplayID": 184,
       "combatType": 1,
       "name": "allianceDefenseUnitAmountYardBoost"
     },
     {
       "effectTypeID": 185,
+      "crossplayID": 185,
       "name": "featureAutoSkipCooldown"
     },
     {
       "effectTypeID": 1001,
+      "crossplayID": 1001,
       "combatType": 3,
       "name": "PowerSurge"
     },
     {
       "effectTypeID": 1002,
+      "crossplayID": 1002,
       "combatType": 3,
       "name": "RisetotheTask"
     },
     {
       "effectTypeID": 1003,
+      "crossplayID": 1003,
       "combatType": 3,
       "name": "GiantSlayer"
     },
     {
       "effectTypeID": 1005,
+      "crossplayID": 1005,
       "combatType": 3,
       "name": "Intimidate"
     },
     {
       "effectTypeID": 1007,
+      "crossplayID": 1007,
       "combatType": 3,
       "name": "Hordebreaker"
     },
     {
       "effectTypeID": 1010,
+      "crossplayID": 1010,
       "combatType": 3,
       "name": "EndlessPractice"
     },
     {
       "effectTypeID": 1011,
+      "crossplayID": 1011,
       "combatType": 3,
       "name": "WayoftheSword"
     },
     {
       "effectTypeID": 1012,
+      "crossplayID": 1012,
       "combatType": 3,
       "name": "IronWill"
     },
     {
       "effectTypeID": 1013,
+      "crossplayID": 1013,
       "combatType": 3,
       "name": "Sabotage"
     },
     {
       "effectTypeID": 1014,
+      "crossplayID": 1014,
       "combatType": 3,
       "name": "HeartofaWarrior"
     },
     {
       "effectTypeID": 1015,
+      "crossplayID": 1015,
       "combatType": 3,
       "name": "ToweringShield"
     },
     {
       "effectTypeID": 1016,
+      "crossplayID": 1016,
       "combatType": 2,
       "name": "WallAmount"
     },
     {
       "effectTypeID": 1018,
+      "crossplayID": 1018,
       "combatType": 2,
       "name": "HeroicDefense"
     },
     {
       "effectTypeID": 1019,
+      "crossplayID": 1019,
       "combatType": 1,
       "name": "MindClarityEvenWave"
     },
     {
       "effectTypeID": 1020,
+      "crossplayID": 1020,
       "combatType": 3,
       "name": "AspectoftheDragon"
     },
     {
       "effectTypeID": 1021,
+      "crossplayID": 1021,
       "combatType": 3,
       "name": "Ayala(Falcon)"
     },
     {
       "effectTypeID": 1022,
+      "crossplayID": 1022,
       "combatType": 3,
       "name": "Ambush"
     },
     {
       "effectTypeID": 1023,
+      "crossplayID": 1023,
       "combatType": 3,
       "name": "Longbows"
     },
     {
       "effectTypeID": 1025,
+      "crossplayID": 1025,
       "combatType": 3,
       "name": "ReinforcedArrows"
     },
     {
       "effectTypeID": 1026,
+      "crossplayID": 1026,
       "combatType": 3,
       "name": "Plunder"
     },
     {
       "effectTypeID": 1027,
+      "crossplayID": 1027,
       "combatType": 3,
       "name": "YourCut"
     },
     {
       "effectTypeID": 1028,
+      "crossplayID": 1028,
       "combatType": 3,
       "name": "HiddenTreasures"
     },
     {
       "effectTypeID": 1029,
+      "crossplayID": 1029,
       "combatType": 3,
       "name": "TheWayofPerfection"
     },
     {
       "effectTypeID": 1030,
+      "crossplayID": 1030,
       "combatType": 3,
       "name": "Vengence"
     },
     {
       "effectTypeID": 1033,
+      "crossplayID": 1033,
       "combatType": 3,
       "name": "WingsWhirlwind"
     },
     {
       "effectTypeID": 1034,
+      "crossplayID": 1034,
       "combatType": 3,
       "name": "Tailwhip"
     },
     {
       "effectTypeID": 1035,
+      "crossplayID": 1035,
       "combatType": 3,
       "name": "DragonscaleArmor"
     },
     {
       "effectTypeID": 1038,
+      "crossplayID": 1038,
       "combatType": 3,
       "name": "Exhalted"
     },
     {
       "effectTypeID": 1039,
+      "crossplayID": 1039,
       "combatType": 3,
       "name": "LastingWounds"
     },
     {
       "effectTypeID": 1040,
+      "crossplayID": 1040,
       "combatType": 1,
       "name": "MindClarityOddWave"
     }

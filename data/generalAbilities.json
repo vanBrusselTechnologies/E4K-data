@@ -2,6 +2,7 @@
   "generalAbility": [
     {
       "abilityID": 10011,
+      "crossplayID": 10011,
       "name": "PowerSurge",
       "abilityGroupID": 1001,
       "level": 1,
@@ -13,6 +14,7 @@
     },
     {
       "abilityID": 10012,
+      "crossplayID": 10012,
       "name": "PowerSurge",
       "abilityGroupID": 1001,
       "level": 2,
@@ -24,6 +26,7 @@
     },
     {
       "abilityID": 10013,
+      "crossplayID": 10013,
       "name": "PowerSurge",
       "abilityGroupID": 1001,
       "level": 3,
@@ -35,6 +38,7 @@
     },
     {
       "abilityID": 10021,
+      "crossplayID": 10021,
       "name": "RisetotheTask",
       "abilityGroupID": 1002,
       "level": 1,
@@ -46,6 +50,7 @@
     },
     {
       "abilityID": 10022,
+      "crossplayID": 10022,
       "name": "RisetotheTask",
       "abilityGroupID": 1002,
       "level": 2,
@@ -57,6 +62,7 @@
     },
     {
       "abilityID": 10023,
+      "crossplayID": 10023,
       "name": "RisetotheTask",
       "abilityGroupID": 1002,
       "level": 3,
@@ -68,6 +74,7 @@
     },
     {
       "abilityID": 10031,
+      "crossplayID": 10031,
       "name": "GiantSlayer",
       "abilityGroupID": 1003,
       "level": 1,
@@ -78,6 +85,7 @@
     },
     {
       "abilityID": 10032,
+      "crossplayID": 10032,
       "name": "GiantSlayer",
       "abilityGroupID": 1003,
       "level": 2,
@@ -88,6 +96,7 @@
     },
     {
       "abilityID": 10033,
+      "crossplayID": 10033,
       "name": "GiantSlayer",
       "abilityGroupID": 1003,
       "level": 3,
@@ -98,6 +107,7 @@
     },
     {
       "abilityID": 10051,
+      "crossplayID": 10051,
       "name": "Intimidate",
       "abilityGroupID": 1005,
       "level": 1,
@@ -109,6 +119,7 @@
     },
     {
       "abilityID": 10052,
+      "crossplayID": 10052,
       "name": "Intimidate",
       "abilityGroupID": 1005,
       "level": 2,
@@ -120,6 +131,7 @@
     },
     {
       "abilityID": 10053,
+      "crossplayID": 10053,
       "name": "Intimidate",
       "abilityGroupID": 1005,
       "level": 3,
@@ -131,6 +143,7 @@
     },
     {
       "abilityID": 10071,
+      "crossplayID": 10071,
       "name": "Hordebreaker",
       "abilityGroupID": 1007,
       "level": 1,
@@ -142,6 +155,7 @@
     },
     {
       "abilityID": 10072,
+      "crossplayID": 10072,
       "name": "Hordebreaker",
       "abilityGroupID": 1007,
       "level": 2,
@@ -153,6 +167,7 @@
     },
     {
       "abilityID": 10073,
+      "crossplayID": 10073,
       "name": "Hordebreaker",
       "abilityGroupID": 1007,
       "level": 3,
@@ -164,6 +179,7 @@
     },
     {
       "abilityID": 10101,
+      "crossplayID": 10101,
       "name": "EndlessPractice",
       "abilityGroupID": 1010,
       "level": 1,
@@ -175,6 +191,7 @@
     },
     {
       "abilityID": 10102,
+      "crossplayID": 10102,
       "name": "EndlessPractice",
       "abilityGroupID": 1010,
       "level": 2,
@@ -186,6 +203,7 @@
     },
     {
       "abilityID": 10103,
+      "crossplayID": 10103,
       "name": "EndlessPractice",
       "abilityGroupID": 1010,
       "level": 3,
@@ -197,6 +215,7 @@
     },
     {
       "abilityID": 10111,
+      "crossplayID": 10111,
       "name": "WayoftheSword",
       "abilityGroupID": 1011,
       "level": 1,
@@ -208,6 +227,7 @@
     },
     {
       "abilityID": 10112,
+      "crossplayID": 10112,
       "name": "WayoftheSword",
       "abilityGroupID": 1011,
       "level": 2,
@@ -219,6 +239,7 @@
     },
     {
       "abilityID": 10113,
+      "crossplayID": 10113,
       "name": "WayoftheSword",
       "abilityGroupID": 1011,
       "level": 3,
@@ -230,6 +251,7 @@
     },
     {
       "abilityID": 10121,
+      "crossplayID": 10121,
       "name": "IronWill",
       "abilityGroupID": 1012,
       "level": 1,
@@ -241,6 +263,7 @@
     },
     {
       "abilityID": 10122,
+      "crossplayID": 10122,
       "name": "IronWill",
       "abilityGroupID": 1012,
       "level": 2,
@@ -252,6 +275,7 @@
     },
     {
       "abilityID": 10123,
+      "crossplayID": 10123,
       "name": "IronWill",
       "abilityGroupID": 1012,
       "level": 3,
@@ -263,6 +287,7 @@
     },
     {
       "abilityID": 10131,
+      "crossplayID": 10131,
       "name": "Sabotage",
       "abilityGroupID": 1013,
       "level": 1,
@@ -274,6 +299,7 @@
     },
     {
       "abilityID": 10132,
+      "crossplayID": 10132,
       "name": "Sabotage",
       "abilityGroupID": 1013,
       "level": 2,
@@ -285,6 +311,7 @@
     },
     {
       "abilityID": 10133,
+      "crossplayID": 10133,
       "name": "Sabotage",
       "abilityGroupID": 1013,
       "level": 3,
@@ -296,6 +323,7 @@
     },
     {
       "abilityID": 10141,
+      "crossplayID": 10141,
       "name": "HeartofaWarrior",
       "abilityGroupID": 1014,
       "level": 1,
@@ -307,6 +335,7 @@
     },
     {
       "abilityID": 10142,
+      "crossplayID": 10142,
       "name": "HeartofaWarrior",
       "abilityGroupID": 1014,
       "level": 2,
@@ -318,6 +347,7 @@
     },
     {
       "abilityID": 10143,
+      "crossplayID": 10143,
       "name": "HeartofaWarrior",
       "abilityGroupID": 1014,
       "level": 3,
@@ -329,6 +359,7 @@
     },
     {
       "abilityID": 10151,
+      "crossplayID": 10151,
       "name": "ToweringShield",
       "abilityGroupID": 1015,
       "level": 1,
@@ -340,6 +371,7 @@
     },
     {
       "abilityID": 10152,
+      "crossplayID": 10152,
       "name": "ToweringShield",
       "abilityGroupID": 1015,
       "level": 2,
@@ -351,6 +383,7 @@
     },
     {
       "abilityID": 10153,
+      "crossplayID": 10153,
       "name": "ToweringShield",
       "abilityGroupID": 1015,
       "level": 3,
@@ -362,6 +395,7 @@
     },
     {
       "abilityID": 10161,
+      "crossplayID": 10161,
       "name": "WallAmount",
       "abilityGroupID": 1016,
       "level": 1,
@@ -371,6 +405,7 @@
     },
     {
       "abilityID": 10162,
+      "crossplayID": 10162,
       "name": "WallAmount",
       "abilityGroupID": 1016,
       "level": 2,
@@ -380,6 +415,7 @@
     },
     {
       "abilityID": 10163,
+      "crossplayID": 10163,
       "name": "WallAmount",
       "abilityGroupID": 1016,
       "level": 3,
@@ -389,6 +425,7 @@
     },
     {
       "abilityID": 10181,
+      "crossplayID": 10181,
       "name": "HeroicDefense",
       "abilityGroupID": 1018,
       "level": 1,
@@ -399,6 +436,7 @@
     },
     {
       "abilityID": 10182,
+      "crossplayID": 10182,
       "name": "HeroicDefense",
       "abilityGroupID": 1018,
       "level": 2,
@@ -409,6 +447,7 @@
     },
     {
       "abilityID": 10183,
+      "crossplayID": 10183,
       "name": "HeroicDefense",
       "abilityGroupID": 1018,
       "level": 3,
@@ -419,6 +458,7 @@
     },
     {
       "abilityID": 10191,
+      "crossplayID": 10191,
       "name": "MindClarity",
       "abilityGroupID": 1019,
       "level": 1,
@@ -429,6 +469,7 @@
     },
     {
       "abilityID": 10192,
+      "crossplayID": 10192,
       "name": "MindClarity",
       "abilityGroupID": 1019,
       "level": 2,
@@ -439,6 +480,7 @@
     },
     {
       "abilityID": 10193,
+      "crossplayID": 10193,
       "name": "MindClarity",
       "abilityGroupID": 1019,
       "level": 3,
@@ -449,6 +491,7 @@
     },
     {
       "abilityID": 10201,
+      "crossplayID": 10201,
       "name": "AspectoftheDragon",
       "abilityGroupID": 1020,
       "level": 1,
@@ -460,6 +503,7 @@
     },
     {
       "abilityID": 10202,
+      "crossplayID": 10202,
       "name": "AspectoftheDragon",
       "abilityGroupID": 1020,
       "level": 2,
@@ -471,6 +515,7 @@
     },
     {
       "abilityID": 10203,
+      "crossplayID": 10203,
       "name": "AspectoftheDragon",
       "abilityGroupID": 1020,
       "level": 3,
@@ -482,6 +527,7 @@
     },
     {
       "abilityID": 10211,
+      "crossplayID": 10211,
       "name": "Ayala(Falcon)",
       "abilityGroupID": 1021,
       "level": 1,
@@ -493,6 +539,7 @@
     },
     {
       "abilityID": 10212,
+      "crossplayID": 10212,
       "name": "Ayala(Falcon)",
       "abilityGroupID": 1021,
       "level": 2,
@@ -504,6 +551,7 @@
     },
     {
       "abilityID": 10213,
+      "crossplayID": 10213,
       "name": "Ayala(Falcon)",
       "abilityGroupID": 1021,
       "level": 3,
@@ -515,6 +563,7 @@
     },
     {
       "abilityID": 10221,
+      "crossplayID": 10221,
       "name": "Ambush",
       "abilityGroupID": 1022,
       "level": 1,
@@ -525,6 +574,7 @@
     },
     {
       "abilityID": 10222,
+      "crossplayID": 10222,
       "name": "Ambush",
       "abilityGroupID": 1022,
       "level": 2,
@@ -535,6 +585,7 @@
     },
     {
       "abilityID": 10223,
+      "crossplayID": 10223,
       "name": "Ambush",
       "abilityGroupID": 1022,
       "level": 3,
@@ -545,6 +596,7 @@
     },
     {
       "abilityID": 10231,
+      "crossplayID": 10231,
       "name": "Longbows",
       "abilityGroupID": 1023,
       "level": 1,
@@ -556,6 +608,7 @@
     },
     {
       "abilityID": 10232,
+      "crossplayID": 10232,
       "name": "Longbows",
       "abilityGroupID": 1023,
       "level": 2,
@@ -567,6 +620,7 @@
     },
     {
       "abilityID": 10233,
+      "crossplayID": 10233,
       "name": "Longbows",
       "abilityGroupID": 1023,
       "level": 3,
@@ -578,6 +632,7 @@
     },
     {
       "abilityID": 10251,
+      "crossplayID": 10251,
       "name": "ReinforcedArrows",
       "abilityGroupID": 1025,
       "level": 1,
@@ -589,6 +644,7 @@
     },
     {
       "abilityID": 10252,
+      "crossplayID": 10252,
       "name": "ReinforcedArrows",
       "abilityGroupID": 1025,
       "level": 2,
@@ -600,6 +656,7 @@
     },
     {
       "abilityID": 10253,
+      "crossplayID": 10253,
       "name": "ReinforcedArrows",
       "abilityGroupID": 1025,
       "level": 3,
@@ -611,6 +668,7 @@
     },
     {
       "abilityID": 10261,
+      "crossplayID": 10261,
       "name": "Plunder",
       "abilityGroupID": 1026,
       "level": 1,
@@ -621,6 +679,7 @@
     },
     {
       "abilityID": 10262,
+      "crossplayID": 10262,
       "name": "Plunder",
       "abilityGroupID": 1026,
       "level": 2,
@@ -631,6 +690,7 @@
     },
     {
       "abilityID": 10263,
+      "crossplayID": 10263,
       "name": "Plunder",
       "abilityGroupID": 1026,
       "level": 3,
@@ -641,6 +701,7 @@
     },
     {
       "abilityID": 10271,
+      "crossplayID": 10271,
       "name": "YourCut",
       "abilityGroupID": 1027,
       "level": 1,
@@ -652,6 +713,7 @@
     },
     {
       "abilityID": 10272,
+      "crossplayID": 10272,
       "name": "YourCut",
       "abilityGroupID": 1027,
       "level": 2,
@@ -663,6 +725,7 @@
     },
     {
       "abilityID": 10273,
+      "crossplayID": 10273,
       "name": "YourCut",
       "abilityGroupID": 1027,
       "level": 3,
@@ -674,6 +737,7 @@
     },
     {
       "abilityID": 10281,
+      "crossplayID": 10281,
       "name": "HiddenTreasures",
       "abilityGroupID": 1028,
       "level": 1,
@@ -684,6 +748,7 @@
     },
     {
       "abilityID": 10282,
+      "crossplayID": 10282,
       "name": "HiddenTreasures",
       "abilityGroupID": 1028,
       "level": 2,
@@ -694,6 +759,7 @@
     },
     {
       "abilityID": 10283,
+      "crossplayID": 10283,
       "name": "HiddenTreasures",
       "abilityGroupID": 1028,
       "level": 3,
@@ -704,6 +770,7 @@
     },
     {
       "abilityID": 10291,
+      "crossplayID": 10291,
       "name": "TheWayofPerfection",
       "abilityGroupID": 1029,
       "level": 1,
@@ -715,6 +782,7 @@
     },
     {
       "abilityID": 10292,
+      "crossplayID": 10292,
       "name": "TheWayofPerfection",
       "abilityGroupID": 1029,
       "level": 2,
@@ -726,6 +794,7 @@
     },
     {
       "abilityID": 10293,
+      "crossplayID": 10293,
       "name": "TheWayofPerfection",
       "abilityGroupID": 1029,
       "level": 3,
@@ -737,6 +806,7 @@
     },
     {
       "abilityID": 10301,
+      "crossplayID": 10301,
       "name": "Vengence",
       "abilityGroupID": 1030,
       "level": 1,
@@ -747,6 +817,7 @@
     },
     {
       "abilityID": 10302,
+      "crossplayID": 10302,
       "name": "Vengence",
       "abilityGroupID": 1030,
       "level": 2,
@@ -757,6 +828,7 @@
     },
     {
       "abilityID": 10303,
+      "crossplayID": 10303,
       "name": "Vengence",
       "abilityGroupID": 1030,
       "level": 3,
@@ -767,6 +839,7 @@
     },
     {
       "abilityID": 10331,
+      "crossplayID": 10331,
       "name": "WingsWhirlwind",
       "abilityGroupID": 1033,
       "level": 1,
@@ -778,6 +851,7 @@
     },
     {
       "abilityID": 10332,
+      "crossplayID": 10332,
       "name": "WingsWhirlwind",
       "abilityGroupID": 1033,
       "level": 2,
@@ -789,6 +863,7 @@
     },
     {
       "abilityID": 10333,
+      "crossplayID": 10333,
       "name": "WingsWhirlwind",
       "abilityGroupID": 1033,
       "level": 3,
@@ -800,6 +875,7 @@
     },
     {
       "abilityID": 10341,
+      "crossplayID": 10341,
       "name": "Tailwhip",
       "abilityGroupID": 1034,
       "level": 1,
@@ -811,6 +887,7 @@
     },
     {
       "abilityID": 10342,
+      "crossplayID": 10342,
       "name": "Tailwhip",
       "abilityGroupID": 1034,
       "level": 2,
@@ -822,6 +899,7 @@
     },
     {
       "abilityID": 10343,
+      "crossplayID": 10343,
       "name": "Tailwhip",
       "abilityGroupID": 1034,
       "level": 3,
@@ -833,6 +911,7 @@
     },
     {
       "abilityID": 10351,
+      "crossplayID": 10351,
       "name": "DragonscaleArmor",
       "abilityGroupID": 1035,
       "level": 1,
@@ -844,6 +923,7 @@
     },
     {
       "abilityID": 10352,
+      "crossplayID": 10352,
       "name": "DragonscaleArmor",
       "abilityGroupID": 1035,
       "level": 2,
@@ -855,6 +935,7 @@
     },
     {
       "abilityID": 10353,
+      "crossplayID": 10353,
       "name": "DragonscaleArmor",
       "abilityGroupID": 1035,
       "level": 3,
@@ -866,6 +947,7 @@
     },
     {
       "abilityID": 10381,
+      "crossplayID": 10381,
       "name": "Exhalted",
       "abilityGroupID": 1038,
       "level": 1,
@@ -876,6 +958,7 @@
     },
     {
       "abilityID": 10382,
+      "crossplayID": 10382,
       "name": "Exhalted",
       "abilityGroupID": 1038,
       "level": 2,
@@ -886,6 +969,7 @@
     },
     {
       "abilityID": 10383,
+      "crossplayID": 10383,
       "name": "Exhalted",
       "abilityGroupID": 1038,
       "level": 3,
@@ -896,6 +980,7 @@
     },
     {
       "abilityID": 10391,
+      "crossplayID": 10391,
       "name": "LastingWounds",
       "abilityGroupID": 1039,
       "level": 1,
@@ -907,6 +992,7 @@
     },
     {
       "abilityID": 10392,
+      "crossplayID": 10392,
       "name": "LastingWounds",
       "abilityGroupID": 1039,
       "level": 2,
@@ -918,6 +1004,7 @@
     },
     {
       "abilityID": 10393,
+      "crossplayID": 10393,
       "name": "LastingWounds",
       "abilityGroupID": 1039,
       "level": 3,

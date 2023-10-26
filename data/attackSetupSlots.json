@@ -2,42 +2,52 @@
   "attackSetupSlot": [
     {
       "slotID": 0,
+      "crossplayID": 0,
       "costC2": 0
     },
     {
       "slotID": 1,
+      "crossplayID": 1,
       "costC2": 2200
     },
     {
       "slotID": 2,
+      "crossplayID": 2,
       "costC2": 4650
     },
     {
       "slotID": 3,
+      "crossplayID": 3,
       "costC2": 7100
     },
     {
       "slotID": 4,
+      "crossplayID": 4,
       "costC2": 9600
     },
     {
       "slotID": 5,
+      "crossplayID": 5,
       "costC2": 12100
     },
     {
       "slotID": 6,
+      "crossplayID": 6,
       "costC2": 14600
     },
     {
       "slotID": 7,
+      "crossplayID": 7,
       "costC2": 17100
     },
     {
       "slotID": 8,
+      "crossplayID": 8,
       "costC2": 19600
     },
     {
       "slotID": 9,
+      "crossplayID": 9,
       "costC2": 22100
     }
   ]

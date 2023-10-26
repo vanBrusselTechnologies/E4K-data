@@ -2,17 +2,20 @@
   "lord": [
     {
       "lordID": -12,
+      "crossplayID": -12,
       "type": "Treasuremap",
       "wearerID": 2
     },
     {
       "lordID": -13,
+      "crossplayID": -13,
       "type": "Shadow",
       "wearerID": 2,
       "effects": "57&amp;20,61&amp;21,62&amp;21"
     },
     {
       "lordID": -160,
+      "crossplayID": -160,
       "minLevel": 1,
       "maxLevel": 9,
       "shownLevel": 1,
@@ -22,6 +25,7 @@
     },
     {
       "lordID": -161,
+      "crossplayID": -161,
       "minLevel": 10,
       "maxLevel": 19,
       "shownLevel": 2,
@@ -31,6 +35,7 @@
     },
     {
       "lordID": -162,
+      "crossplayID": -162,
       "minLevel": 20,
       "maxLevel": 29,
       "shownLevel": 3,
@@ -40,6 +45,7 @@
     },
     {
       "lordID": -163,
+      "crossplayID": -163,
       "minLevel": 30,
       "maxLevel": 39,
       "shownLevel": 4,
@@ -49,6 +55,7 @@
     },
     {
       "lordID": -164,
+      "crossplayID": -164,
       "minLevel": 40,
       "maxLevel": 49,
       "shownLevel": 5,
@@ -58,6 +65,7 @@
     },
     {
       "lordID": -165,
+      "crossplayID": -165,
       "minLevel": 50,
       "maxLevel": 59,
       "shownLevel": 6,
@@ -67,6 +75,7 @@
     },
     {
       "lordID": -166,
+      "crossplayID": -166,
       "minLevel": 60,
       "maxLevel": 69,
       "shownLevel": 7,
@@ -76,6 +85,7 @@
     },
     {
       "lordID": -167,
+      "crossplayID": -167,
       "minLevel": 70,
       "maxLevel": 70,
       "shownLevel": 8,
@@ -85,12 +95,14 @@
     },
     {
       "lordID": -14,
+      "crossplayID": -14,
       "type": "Premium",
       "wearerID": 2,
       "effects": "57&amp;23,61&amp;19,62&amp;19"
     },
     {
       "lordID": -15,
+      "crossplayID": -15,
       "type": "Dungeongeneral",
       "wearerID": 2,
       "generalID": 106,
@@ -103,150 +115,175 @@
     },
     {
       "lordID": -21,
+      "crossplayID": -21,
       "type": "Dungeonbaron",
       "wearerID": 1,
       "effects": "10&amp;15,11&amp;15"
     },
     {
       "lordID": -22,
+      "crossplayID": -22,
       "type": "Dungeonbaron",
       "wearerID": 1,
       "effects": "10&amp;19,11&amp;19"
     },
     {
       "lordID": -23,
+      "crossplayID": -23,
       "type": "Dungeonbaron",
       "wearerID": 1,
       "effects": "7&amp;16,10&amp;19,11&amp;19"
     },
     {
       "lordID": -24,
+      "crossplayID": -24,
       "type": "Dungeonbaron",
       "wearerID": 1,
       "effects": "7&amp;16,8&amp;15,10&amp;20,11&amp;19"
     },
     {
       "lordID": -25,
+      "crossplayID": -25,
       "type": "Dungeonbaron",
       "wearerID": 1,
       "effects": "7&amp;20,8&amp;19,10&amp;26,11&amp;25"
     },
     {
       "lordID": -26,
+      "crossplayID": -26,
       "type": "Dungeonbaron",
       "wearerID": 1,
       "effects": "7&amp;36,8&amp;34,10&amp;50,11&amp;53"
     },
     {
       "lordID": -27,
+      "crossplayID": -27,
       "type": "Dungeonbaron",
       "wearerID": 1,
       "effects": "7&amp;60,8&amp;60,10&amp;70,11&amp;70"
     },
     {
       "lordID": -28,
+      "crossplayID": -28,
       "type": "Dungeonbaron",
       "wearerID": 1,
       "effects": "7&amp;30,8&amp;27,10&amp;38,11&amp;36"
     },
     {
       "lordID": -29,
+      "crossplayID": -29,
       "type": "Dungeonbaron",
       "wearerID": 1,
       "effects": "7&amp;40,8&amp;35,10&amp;50,11&amp;47"
     },
     {
       "lordID": -30,
+      "crossplayID": -30,
       "type": "Dungeonbaron",
       "wearerID": 1,
       "effects": "7&amp;40,8&amp;33,10&amp;42,11&amp;38"
     },
     {
       "lordID": -45,
+      "crossplayID": -45,
       "type": "Bossdungeongeneral",
       "wearerID": 2,
       "effects": "57&amp;20,58&amp;18,61&amp;16,62&amp;15"
     },
     {
       "lordID": -51,
+      "crossplayID": -51,
       "type": "Bossdungeonbaron",
       "wearerID": 1,
       "effects": "7&amp;20,8&amp;15,10&amp;15,11&amp;15"
     },
     {
       "lordID": -52,
+      "crossplayID": -52,
       "type": "Bossdungeonbaron",
       "wearerID": 1,
       "effects": "7&amp;17,8&amp;16,10&amp;21,11&amp;20"
     },
     {
       "lordID": -53,
+      "crossplayID": -53,
       "type": "Bossdungeonbaron",
       "wearerID": 1,
       "effects": "7&amp;28,8&amp;24,10&amp;25,11&amp;23"
     },
     {
       "lordID": -54,
+      "crossplayID": -54,
       "type": "Bossdungeonbaron",
       "wearerID": 1,
       "effects": "7&amp;39,8&amp;32,10&amp;34,11&amp;31"
     },
     {
       "lordID": -101,
+      "crossplayID": -101,
       "type": "Factionbaronred",
       "wearerID": 1,
       "effects": "7&amp;14,8&amp;16,10&amp;16,11&amp;19"
     },
     {
       "lordID": -102,
+      "crossplayID": -102,
       "type": "Factionbaronblue",
       "wearerID": 1,
       "effects": "7&amp;14,8&amp;16,10&amp;16,11&amp;19"
     },
     {
       "lordID": -103,
+      "crossplayID": -103,
       "type": "Factionbaronred",
       "wearerID": 1,
       "effects": "7&amp;41,8&amp;25,10&amp;32,11&amp;24"
     },
     {
       "lordID": -104,
+      "crossplayID": -104,
       "type": "Factionbaronblue",
       "wearerID": 1,
       "effects": "7&amp;41,8&amp;25,10&amp;32,11&amp;24"
     },
     {
       "lordID": -105,
+      "crossplayID": -105,
       "type": "Factionbaronred",
       "wearerID": 1,
       "effects": "7&amp;41,8&amp;25,10&amp;32,11&amp;24"
     },
     {
       "lordID": -106,
+      "crossplayID": -106,
       "type": "Factionbaronblue",
       "wearerID": 1,
       "effects": "7&amp;41,8&amp;25,10&amp;32,11&amp;24"
     },
     {
       "lordID": -151,
+      "crossplayID": -151,
       "type": "Dungeonbaron",
       "wearerID": 1,
       "effects": "7&amp;70,8&amp;70,10&amp;75,11&amp;75"
     },
     {
       "lordID": -152,
+      "crossplayID": -152,
       "type": "Dungeonbaron",
       "wearerID": 1,
       "effects": "7&amp;70,8&amp;70,10&amp;75,11&amp;75"
     },
     {
       "lordID": -153,
+      "crossplayID": -153,
       "type": "Dungeonbaron",
       "wearerID": 1,
       "effects": "7&amp;80,8&amp;80,10&amp;90,11&amp;90"
     },
     {
       "lordID": -154,
+      "crossplayID": -154,
       "type": "Dungeonbaron",
       "wearerID": 1,
       "effects": "7&amp;80,8&amp;80,10&amp;90,11&amp;90"
@@ -258,16 +295,19 @@
     },
     {
       "lordID": -211,
+      "crossplayID": -211,
       "type": "Dungeonbaron",
       "wearerID": 1
     },
     {
       "lordID": -212,
+      "crossplayID": -212,
       "type": "Dungeonbaron",
       "wearerID": 1
     },
     {
       "lordID": -213,
+      "crossplayID": -213,
       "type": "WolfKingCommander",
       "wearerID": 2,
       "generalID": 106,
@@ -275,6 +315,7 @@
     },
     {
       "lordID": -214,
+      "crossplayID": -214,
       "type": "WolfKingBaron",
       "wearerID": 1,
       "generalID": 106,

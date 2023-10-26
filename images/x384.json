@@ -7057,6 +7057,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_blueSalesFountain": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_blueSalesFountain/Deco_Building_blueSalesFountain.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 145,
+        "rx": 914,
+        "ry": 919
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_Cage1": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_Cage1/Deco_Building_Cage1.png",
@@ -8172,6 +8187,21 @@
         "h": 137,
         "rx": 919,
         "ry": 932
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_goldenEggHut": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_goldenEggHut/Deco_Building_goldenEggHut.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 125,
+        "h": 168,
+        "rx": 921,
+        "ry": 897
       }
     ],
     "fx": []
@@ -22951,6 +22981,52 @@
       }
     ],
     "fx": []
+  },
+  "nomadGuardhouse": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/nomadGuardhouse/nomadGuardhouse.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 114,
+        "h": 144,
+        "rx": 950,
+        "ry": 906
+      }
+    ],
+    "fx": [
+      {
+        "x": -27,
+        "y": -45,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "nomadTavern": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/nomadTavern/nomadTavern.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 114,
+        "h": 126,
+        "rx": 956,
+        "ry": 927
+      }
+    ],
+    "fx": [
+      {
+        "x": 5,
+        "y": -31,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
   },
   "octoberfestTower": {
     "pid": 0,
@@ -43285,6 +43361,291 @@
     ],
     "fx": []
   },
+  "General_WolfKing_Armor_Bottom_Left": {
+    "pid": 0,
+    "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Armor_Bottom_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 144,
+        "h": 88,
+        "rx": 954,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "General_WolfKing_Bag": {
+    "pid": 0,
+    "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Bag.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 75,
+        "h": 157,
+        "rx": 939,
+        "ry": 992
+      }
+    ],
+    "fx": []
+  },
+  "General_WolfKing_Belt": {
+    "pid": 0,
+    "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Belt.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 132,
+        "h": 99,
+        "rx": 949,
+        "ry": 910
+      }
+    ],
+    "fx": []
+  },
+  "General_WolfKing_Cloak": {
+    "pid": 0,
+    "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Cloak.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 269,
+        "h": 385,
+        "rx": 817,
+        "ry": 961
+      }
+    ],
+    "fx": []
+  },
+  "General_WolfKing_Elbow_Right": {
+    "pid": 0,
+    "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Elbow_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 81,
+        "rx": 961,
+        "ry": 959
+      }
+    ],
+    "fx": []
+  },
+  "General_WolfKing_Foot_Left": {
+    "pid": 0,
+    "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Foot_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 133,
+        "rx": 950,
+        "ry": 933
+      }
+    ],
+    "fx": []
+  },
+  "General_WolfKing_Foot_Right": {
+    "pid": 0,
+    "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Foot_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 71,
+        "h": 107,
+        "rx": 964,
+        "ry": 946
+      }
+    ],
+    "fx": []
+  },
+  "General_WolfKing_Fur_Left": {
+    "pid": 0,
+    "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Fur_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 228,
+        "rx": 944,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
+  "General_WolfKing_Fur_Right": {
+    "pid": 0,
+    "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Fur_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 198,
+        "rx": 898,
+        "ry": 979
+      }
+    ],
+    "fx": []
+  },
+  "General_WolfKing_Hand_Left": {
+    "pid": 0,
+    "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Hand_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 102,
+        "h": 132,
+        "rx": 970,
+        "ry": 959
+      }
+    ],
+    "fx": []
+  },
+  "General_WolfKing_Hand_Right": {
+    "pid": 0,
+    "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Hand_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 236,
+        "h": 313,
+        "rx": 943,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "General_WolfKing_Head": {
+    "pid": 0,
+    "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Head.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 75,
+        "h": 135,
+        "rx": 962,
+        "ry": 932
+      }
+    ],
+    "fx": []
+  },
+  "General_WolfKing_Leg_Left": {
+    "pid": 0,
+    "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Leg_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 245,
+        "rx": 923,
+        "ry": 979
+      }
+    ],
+    "fx": []
+  },
+  "General_WolfKing_Leg_Right": {
+    "pid": 0,
+    "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Leg_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 135,
+        "h": 302,
+        "rx": 932,
+        "ry": 849
+      }
+    ],
+    "fx": []
+  },
+  "General_WolfKing_Shoulder_Left": {
+    "pid": 0,
+    "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Shoulder_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 183,
+        "rx": 969,
+        "ry": 955
+      }
+    ],
+    "fx": []
+  },
+  "General_WolfKing_Shoulder_Right": {
+    "pid": 0,
+    "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Shoulder_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 143,
+        "rx": 945,
+        "ry": 928
+      }
+    ],
+    "fx": []
+  },
+  "General_WolfKing_Stone": {
+    "pid": 0,
+    "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Stone.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 312,
+        "h": 62,
+        "rx": 844,
+        "ry": 969
+      }
+    ],
+    "fx": []
+  },
+  "General_WolfKing_Sword_Shadow": {
+    "pid": 0,
+    "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Sword_Shadow.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 131,
+        "rx": 942,
+        "ry": 934
+      }
+    ],
+    "fx": []
+  },
+  "General_WolfKing_Torso": {
+    "pid": 0,
+    "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Torso.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 146,
+        "h": 209,
+        "rx": 918,
+        "ry": 803
+      }
+    ],
+    "fx": []
+  },
   "Background_Generals_Overview_Alyssa": {
     "pid": 0,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Alyssa.png",
@@ -43480,6 +43841,21 @@
     ],
     "fx": []
   },
+  "Background_Generals_Overview_Preview_WolfKing": {
+    "pid": 0,
+    "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_WolfKing.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1211,
+        "h": 1217,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
   "Background_Generals_Overview_Sasaki": {
     "pid": 0,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Sasaki.png",
@@ -43498,6 +43874,21 @@
   "Background_Generals_Overview_Toril": {
     "pid": 0,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Toril.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1211,
+        "h": 1217,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Background_Generals_Overview_WolfKing": {
+    "pid": 0,
+    "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_WolfKing.png",
     "frames": [
       {
         "x": 0,
@@ -59757,6 +60148,51 @@
     ],
     "fx": []
   },
+  "items_unique_2010": {
+    "pid": 0,
+    "url": "x384/Equipment/EquipmentShared/items_unique_2009_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_2009": {
+    "pid": 0,
+    "url": "x384/Equipment/EquipmentShared/items_unique_2009_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_2011": {
+    "pid": 0,
+    "url": "x384/Equipment/EquipmentShared/items_unique_2011_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
   "relic_equipment_1_3": {
     "pid": 1,
     "url": "x384/Equipment/EquipmentShared/relic_equipment_1_2_Shared.png",
@@ -70325,6 +70761,21 @@
     ],
     "fx": []
   },
+  "icon_ci_effect_nomads": {
+    "pid": 0,
+    "url": "x384/Icons/CI_Icons/icon_ci_effect_nomads.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 29,
+        "h": 47,
+        "rx": 985,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
   "icon_ci_effect_octoberfest": {
     "pid": 0,
     "url": "x384/Misc/CI_Icons/icon_ci_effect_octoberfest.png",
@@ -70786,6 +71237,21 @@
         "h": 41,
         "rx": 979,
         "ry": 979
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_ability": {
+    "pid": 0,
+    "url": "x384/Icons/GeneralIcons/icon_general_ability.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 47,
+        "rx": 976,
+        "ry": 976
       }
     ],
     "fx": []
@@ -71789,8 +72255,8 @@
         "y": 0,
         "w": 108,
         "h": 108,
-        "rx": 946,
-        "ry": 945
+        "rx": 945,
+        "ry": 946
       }
     ],
     "fx": []
@@ -126443,6 +126909,29 @@
       }
     ]
   },
+  "Castle_Mapobject_Special_turkeyCastellan": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_turkeyCastellan.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 49,
+        "h": 50,
+        "rx": 997,
+        "ry": 995
+      }
+    ],
+    "fx": [
+      {
+        "x": 14,
+        "y": -1,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Castle_Mapobject_Special_Underworld_1": {
     "pid": 2,
     "url": "x384/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_Underworld_1.png",
@@ -129975,6 +130464,29 @@
       }
     ]
   },
+  "Castle_Mapobject_Capital_Classic_Special_turkeyCastellan": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_turkeyCastellan.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 100,
+        "rx": 982,
+        "ry": 962
+      }
+    ],
+    "fx": [
+      {
+        "x": 0,
+        "y": -15,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Castle_Mapobject_Capital_Classic_Special_Underworld": {
     "pid": 2,
     "url": "x384/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_Underworld.png",
@@ -131537,6 +132049,29 @@
       }
     ]
   },
+  "Metropol_Mapobject_Basic_Special_turkeyCastellan": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_turkeyCastellan.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 67,
+        "rx": 989,
+        "ry": 998
+      }
+    ],
+    "fx": [
+      {
+        "x": 9,
+        "y": 0,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Metropol_Mapobject_Basic_Special_Underworld": {
     "pid": 2,
     "url": "x384/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_Underworld.png",
@@ -132938,6 +133473,29 @@
       {
         "x": 27,
         "y": 5,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "Outpost_Mapobject_Level_Special_turkeyCastellan": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Outposts/Outpost_Mapobject_Level_Special_turkeyCastellan/Outpost_Mapobject_Level_Special_turkeyCastellan.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 41,
+        "rx": 1007,
+        "ry": 994
+      }
+    ],
+    "fx": [
+      {
+        "x": 24,
+        "y": -1,
         "scale": 0.52,
         "name": "flagHolder",
         "rotation": 0
@@ -134921,6 +135479,21 @@
         "h": 97,
         "rx": 955,
         "ry": 951
+      }
+    ],
+    "fx": []
+  },
+  "Preview_Castle_Mapobject_Special_turkeyCastellan": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Previews/Mapobjects_Preview/Preview_Castle_Mapobject_Special_turkeyCastellan.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 92,
+        "h": 94,
+        "rx": 954,
+        "ry": 953
       }
     ],
     "fx": []

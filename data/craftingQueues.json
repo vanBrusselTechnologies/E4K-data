@@ -2,6 +2,7 @@
   "craftingQueue": [
     {
       "craftingQueueId": 1,
+      "crossplayID": 1,
       "queueTypeId": 1,
       "permanentProductionSlots": 1,
       "productionSlotUnlockCostC1": 5000000,
@@ -12,6 +13,7 @@
     },
     {
       "craftingQueueId": 2,
+      "crossplayID": 2,
       "queueTypeId": 2,
       "permanentProductionSlots": 1,
       "productionSlotUnlockCostC1": 5000000,

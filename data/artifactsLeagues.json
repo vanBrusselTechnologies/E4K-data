@@ -2,6 +2,7 @@
   "artifactsLeague": [
     {
       "artifactsLeagueID": 1,
+      "crossplayID": 1,
       "groupID": 1,
       "minLevel": 6,
       "maxLevel": 99,
@@ -15,6 +16,7 @@
     },
     {
       "artifactsLeagueID": 2,
+      "crossplayID": 2,
       "groupID": 2,
       "minLevel": 30,
       "maxLevel": 99,
@@ -28,6 +30,7 @@
     },
     {
       "artifactsLeagueID": 3,
+      "crossplayID": 3,
       "groupID": 2,
       "minLevel": 18,
       "maxLevel": 29,
@@ -41,6 +44,7 @@
     },
     {
       "artifactsLeagueID": 4,
+      "crossplayID": 4,
       "groupID": 2,
       "minLevel": 11,
       "maxLevel": 17,
@@ -54,6 +58,7 @@
     },
     {
       "artifactsLeagueID": 5,
+      "crossplayID": 5,
       "groupID": 2,
       "minLevel": 6,
       "maxLevel": 10,
@@ -67,6 +72,7 @@
     },
     {
       "artifactsLeagueID": 6,
+      "crossplayID": 6,
       "groupID": 3,
       "minLevel": 18,
       "maxLevel": 99,
@@ -79,6 +85,7 @@
     },
     {
       "artifactsLeagueID": 7,
+      "crossplayID": 7,
       "groupID": 5,
       "minLevel": 40,
       "maxLevel": 99,
@@ -91,6 +98,7 @@
     },
     {
       "artifactsLeagueID": 8,
+      "crossplayID": 8,
       "groupID": 6,
       "minLevel": 50,
       "maxLevel": 99,
@@ -103,6 +111,7 @@
     },
     {
       "artifactsLeagueID": 9,
+      "crossplayID": 9,
       "groupID": 4,
       "minLevel": 6,
       "maxLevel": 10,
@@ -116,6 +125,7 @@
     },
     {
       "artifactsLeagueID": 10,
+      "crossplayID": 10,
       "groupID": 4,
       "minLevel": 11,
       "maxLevel": 17,
@@ -129,6 +139,7 @@
     },
     {
       "artifactsLeagueID": 11,
+      "crossplayID": 11,
       "groupID": 4,
       "minLevel": 18,
       "maxLevel": 29,
@@ -142,6 +153,7 @@
     },
     {
       "artifactsLeagueID": 12,
+      "crossplayID": 12,
       "groupID": 4,
       "minLevel": 30,
       "maxLevel": 99,

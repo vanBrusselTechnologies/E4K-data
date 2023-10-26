@@ -262,6 +262,7 @@ export interface Achievement {
 
 export interface ActivityReward {
     "activityRewardID": number;
+    "crossplayID": number;
     "nextActivityRewardID"?: number;
     "rewardID": number;
     "waitingTime": number;
@@ -378,6 +379,7 @@ export interface AllianceBuff {
     "costTimeDoubloon"?: number;
     "costVigorDoubloon"?: number;
     "costWood"?: number;
+    "crossplayID"?: number;
     "duration"?: number;
     "effects"?: string;
     "forgingCostC1"?: number;
@@ -411,6 +413,7 @@ export interface AllianceForge {
 export interface AllianceHelpRequest {
     "allianceHelpRequestID": number;
     "allianceRepairBuilding"?: number;
+    "crossplayID": number;
     "decreaseBuildingTimeAbsolute"?: number;
     "maxHelpersCount": number;
     "unitCountBonus"?: number;
@@ -512,6 +515,7 @@ export interface Artifact {
     "artifactID": number;
     "artifactParts": number;
     "artifactType": string;
+    "crossplayID"?: number;
 }
 
 export interface ArtifactLeague {
@@ -519,6 +523,7 @@ export interface ArtifactLeague {
     "artifactPrice": number;
     "artifactsLeagueID": number;
     "averageDungeonLevel"?: number;
+    "crossplayID"?: number;
     "dropFactor": number;
     "exponent": number;
     "groupID": number;
@@ -530,6 +535,7 @@ export interface ArtifactLeague {
 
 export interface AttackSetupSlot {
     "costC2": number;
+    "crossplayID": number;
     "slotID": number;
 }
 
@@ -546,6 +552,7 @@ export interface BeginnerLoginReward {
 }
 
 export interface BoostConsumable {
+    "crossplayID": number;
     "currencyID": number;
 }
 
@@ -575,6 +582,7 @@ export interface BuildingPosition {
     "areaTypes": number;
     "buildingPositionID": number;
     "buildingWodID": number;
+    "crossplayID": number;
     "preBuiltCastleID"?: number;
     "rotation": number;
     "spaceIDs": number | string;
@@ -637,6 +645,7 @@ export interface Building {
     "costStone"?: number;
     "costWood"?: number;
     "craftingQueueId"?: number;
+    "crossplayID"?: number;
     "customDeco"?: number;
     "damageTreshold"?: number;
     "decoPoints"?: number;
@@ -759,6 +768,7 @@ export interface Character {
     "badLuckSpinRarities": string;
     "characterID": number;
     "coolDownInSeconds": number;
+    "crossplayID": number;
     "freeOpeningTombolaID": number;
     "maxFreeOpenings": number;
     "name": string;
@@ -821,6 +831,7 @@ export interface CollectorEventReward {
 
 export interface ConstructionItemDisassemblingTombola {
     "constructionItemDisassemblingTombolaID": number;
+    "crossplayID": number;
     "rewardID": number;
     "shares": number;
     "tombolaID": number;
@@ -849,6 +860,7 @@ export interface ConstructionItemRecipe {
     "costRarePaint"?: number;
     "costRareRope"?: number;
     "craftingDuration": number;
+    "crossplayID": number;
     "defaultUnlocked"?: number;
     "neededConstructionItemID"?: number;
 }
@@ -881,6 +893,7 @@ export interface ConstructionItem {
     "constructionItemEffectGroupID": number;
     "constructionItemGroupID": number;
     "constructionItemID": number;
+    "crossplayID": number;
     "decoPoints"?: number;
     "defensiveToolsCostsReduction"?: number;
     "defensiveToolsSpeedBoost"?: number;
@@ -922,10 +935,12 @@ export interface ConstructionItemsEffectGroup {
     "areaLimit": number;
     "constructionItemEffectGroupID": number;
     "constructionItemGroupID": number | string;
+    "crossplayID": number;
 }
 
 export interface CraftingQueue {
     "craftingQueueId": number;
+    "crossplayID": number;
     "permanentProductionSlots": number;
     "permanentQueueSlots": number;
     "productionSlotUnlockCostC1": number;
@@ -969,15 +984,18 @@ export interface Currency {
     "JSONKey": string;
     "Name": string;
     "assetName": string;
+    "crossplayID": number;
     "currencyID": number;
 }
 
 export interface CurrencyBooster {
+    "crossplayID": number;
     "currencyBoosterName": string;
     "currencyID": number;
 }
 
 export interface CurrencyCap {
+    "crossplayID": number;
     "currencyID": number;
     "hardCap": number;
     "hideClientCapDisplay"?: number;
@@ -992,6 +1010,7 @@ export interface CurrencyClearCompensation {
 }
 
 export interface CurrencyTaskType {
+    "crossplayID": number;
     "currencyID": number;
     "taskType": string;
 }
@@ -999,25 +1018,30 @@ export interface CurrencyTaskType {
 export interface CurrencyMinutesSkipValue {
     "MinuteSkipIndex": number;
     "MinutesSkipValue": number;
+    "crossplayID": number;
     "currencyID": number;
 }
 
 export interface CurrencyRandomBonus {
     "RandomBonusName": string;
+    "crossplayID": number;
     "currencyID": number;
 }
 
 export interface CurrencyRareness {
+    "crossplayID": number;
     "currencyID": number;
     "rareness": number;
 }
 
 export interface CurrencyTaskType {
+    "crossplayID": number;
     "currencyID": number;
     "taskType": string;
 }
 
 export interface CurrencyType {
+    "crossplayID": number;
     "currencyIDRange": string;
     "typeID": number;
     "typeName": string;
@@ -1139,6 +1163,7 @@ export interface DecoThreshold {
 }
 
 export interface DistrictType {
+    "crossplayID": number;
     "district": string;
     "districtTypeID": number;
 }
@@ -1159,12 +1184,14 @@ export interface Dungeon {
 
 export interface EffectCap {
     "capID": number;
+    "crossplayID": number;
     "maxTotalBonus"?: number;
 }
 
 export interface Effect {
     "areaTypeID"?: number | string;
     "capID": number;
+    "crossplayID"?: number;
     "effectID": number;
     "effectTypeID": number;
     "isPvEFight"?: number;
@@ -1177,6 +1204,7 @@ export interface Effect {
 
 export interface EffectType {
     "combatType"?: number;
+    "crossplayID": number;
     "effectTypeID": number;
     "name": string;
 }
@@ -1207,6 +1235,7 @@ export interface Equipment {
     "canSlotGem"?: number;
     "comment1"?: string;
     "comment2"?: string;
+    "crossplayID"?: number;
     "duration"?: number;
     "effects"?: string;
     "equipmentID": number;
@@ -1240,6 +1269,7 @@ export interface EquipmentDrop {
 export interface EquipmentEffect {
     "areaTypeID"?: number | string;
     "bonus"?: number;
+    "crossplayID": number;
     "dropRate"?: number;
     "effectID": number;
     "enchantmentPrimaryBonus"?: number;
@@ -1254,6 +1284,7 @@ export interface EquipmentEffect {
 
 export interface EquipmentEffectStrength {
     "bonus"?: number;
+    "crossplayID": number;
     "dropRate"?: number;
     "primary"?: number;
     "rarenessID"?: number;
@@ -1263,12 +1294,14 @@ export interface EquipmentEffectStrength {
 
 export interface EquipmentGemEffect {
     "areaTypeID"?: string;
+    "crossplayID": number;
     "effectID": number;
     "effectTypeID": number;
     "name": string;
 }
 
 export interface EquipmentGroup {
+    "crossplayID": number;
     "dropRate": number;
     "itemGroupID": number;
     "name": string;
@@ -1279,6 +1312,7 @@ export interface EquipmentGroup {
 
 export interface EquipmentRareness {
     "color": string;
+    "crossplayID"?: number;
     "isHero"?: number;
     "mightValue"?: number;
     "name": string;
@@ -1300,12 +1334,14 @@ export interface EquipmentSet {
 export interface EquipmentSlot {
     "appearanceCount": number;
     "bonus": number;
+    "crossplayID": number;
     "dropRate"?: number;
     "name": string;
     "slotID": number;
 }
 
 export interface EquipmentWearer {
+    "crossplayID": number;
     "dropRate": number;
     "name": string;
     "wearerID": number;
@@ -1511,6 +1547,7 @@ export interface Expansion {
     "costLegendaryToken"?: number;
     "costStone"?: number;
     "costWood"?: number;
+    "crossplayID"?: number;
     "effectLocked"?: number;
     "expansionID"?: number;
     "expansionLevel"?: number;
@@ -1589,6 +1626,7 @@ export interface FusionSystem {
 
 export interface GemColor {
     "colorCode": string;
+    "crossplayID": number;
     "gemColorID": number;
 }
 
@@ -1596,6 +1634,7 @@ export interface GemLevel {
     "craftCostC1"?: number;
     "craftCostC2"?: number;
     "craftSuccessChance"?: number;
+    "crossplayID": number;
     "gemLevelID": number;
     "insertCostC1": number;
     "removalCostC2": number;
@@ -1605,6 +1644,7 @@ export interface GemLevel {
 export interface Gem {
     "comment1": string;
     "comment2"?: string;
+    "crossplayID": number;
     "droppable": number;
     "effects": string;
     "followingGemID"?: number;
@@ -1627,6 +1667,7 @@ export interface GeneralAbility {
     "abilityID": number;
     "abilityTriggerID": number;
     "affectsEnemyArmy": number;
+    "crossplayID": number;
     "level": number;
     "name": string;
     "triggerPerWave"?: number;
@@ -1634,16 +1675,19 @@ export interface GeneralAbility {
 
 export interface GeneralAbilityEffect {
     "abilityEffectID": number;
+    "crossplayID": number;
     "effects": string;
     "priority": number;
 }
 
 export interface GeneralAbilityTrigger {
     "abilityTriggerID": number;
+    "crossplayID": number;
     "name": string;
 }
 
 export interface GeneralRarity {
+    "crossplayID": number;
     "generalRarityID": number;
     "maxStarLevel": number;
     "name": string;
@@ -1655,6 +1699,7 @@ export interface GeneralRarity {
 
 export interface General {
     "attackSlots"?: string;
+    "crossplayID": number;
     "defenseSlots"?: string;
     "generalID": number;
     "generalName": string;
@@ -1669,6 +1714,7 @@ export interface General {
 
 export interface GeneralSkill {
     "costSkillPoints": number;
+    "crossplayID": number;
     "effects": string;
     "followingSkillID"?: number;
     "generalID": number;
@@ -1681,6 +1727,7 @@ export interface GeneralSkill {
 }
 
 export interface GeneralSkillTier {
+    "crossplayID": number;
     "generalID": number;
     "minGeneralStarTier"?: number;
     "previousTierRequiredSkillPoints": number;
@@ -1689,6 +1736,7 @@ export interface GeneralSkillTier {
 }
 
 export interface GeneralSkipFinishQuest {
+    "crossplayID": number;
     "generalSkipFinishQuestID": number;
     "maxLevel"?: number;
     "minLevel": number;
@@ -1697,14 +1745,17 @@ export interface GeneralSkipFinishQuest {
 
 export interface GeneralSlot {
     "abilityGroupIDs": number | string;
+    "crossplayID": number;
     "slotID": number;
 }
 
 export interface GeneralsReSpecPackage {
+    "crossplayID": number;
     "packageIDs": number;
 }
 
 export interface GeneralXPItem {
+    "crossplayID": number;
     "currencyID": number;
     "xpAmount": number;
 }
@@ -1712,6 +1763,7 @@ export interface GeneralXPItem {
 export interface GlobalEffect {
     "ID": number;
     "boostValue": number;
+    "crossplayID": number;
     "displayEventIDs"?: number | string;
     "displayKingdomIDs": number | string;
     "effectValueKeys"?: number | string;
@@ -1740,6 +1792,7 @@ export interface Horse {
     "comment2"?: string;
     "costFactorC1": number;
     "costFactorC2": number;
+    "crossplayID"?: number;
     "group": string;
     "isInstantSpyHorse"?: number;
     "isPegasusHorse"?: number;
@@ -1830,6 +1883,7 @@ export interface ISOResource {
 }
 
 export interface Kingdom {
+    "crossplayID": number;
     "kID": number;
     "kingdomName": string;
     "minC2Level"?: number;
@@ -1945,6 +1999,7 @@ export interface LevelBracket {
 
 export interface LevelUpPrice {
     "c2Cost": number;
+    "crossplayID": number;
     "fromLevel": number;
     "levelUpPriceID": number;
     "toLevel": number;
@@ -1966,6 +2021,7 @@ export interface LongTermPointEventQuest {
 }
 
 export interface LootBox {
+    "crossplayID": number;
     "draws": number;
     "lootBoxID": number;
     "lootBoxKeyTombolaID": number;
@@ -1980,12 +2036,14 @@ export interface LootBoxKeyTombola {
     "addEpicMysteryBoxKey"?: number;
     "addLegendaryMysteryBoxKey"?: number;
     "addRareMysteryBoxKey"?: number;
+    "crossplayID": number;
     "entryID": number;
     "shares": number;
     "tombolaID": number;
 }
 
 export interface LootBoxTombola {
+    "crossplayID": number;
     "entryID": number;
     "rewardCategory": number;
     "rewardIDs": number | string;
@@ -1994,12 +2052,14 @@ export interface LootBoxTombola {
 }
 
 export interface LootBoxType {
+    "crossplayID": number;
     "lootBoxKeyPayoutThreshold": number;
     "lootBoxTheme": string;
     "lootBoxTypeID": number;
 }
 
 export interface Lord {
+    "crossplayID"?: number;
     "effects"?: string;
     "generalID"?: number;
     "lordID": number;
@@ -2066,6 +2126,7 @@ export interface MainQuest {
     "IDsForAnnounced"?: number;
     "IDsForDone"?: number;
     "IDsForRunning": number;
+    "crossplayID": number;
     "mainQuestID": number;
 }
 
@@ -2094,6 +2155,7 @@ export interface MineType {
     "amountLootable"?: number;
     "amountPerCollectC1"?: number;
     "amountPerCollectC2"?: number;
+    "crossplayID": number;
     "maxInfluencePoints"?: number;
     "mineTypeID": number;
     "reductionDisplay"?: number;
@@ -2101,6 +2163,7 @@ export interface MineType {
 }
 
 export interface Monument {
+    "crossplayID": number;
     "fameBoost": number;
     "level": number;
     "requiredPoints": number;
@@ -2186,6 +2249,7 @@ export interface PackageCategory {
 
 export interface PackageCategoryCurrencyRelation {
     "categoryID": number;
+    "crossplayID": number;
     "currencyID": number;
     "id": number;
 }
@@ -2198,6 +2262,7 @@ export interface PackageCategoryFilterRelation {
 }
 
 export interface PackageFilter {
+    "crossplayID": number;
     "filterID": number;
     "name": string;
 }
@@ -2398,6 +2463,7 @@ export interface PackageSubFilter {
 export interface PartPayPrice {
     "comment1": string;
     "comment2"?: string;
+    "crossplayID"?: number;
     "currency1": number;
     "currency2": number;
     "food": number;
@@ -2431,6 +2497,7 @@ export interface PaymentReward {
 
 export interface PlayerNameChange {
     "costC2": number;
+    "crossplayID": number;
     "nameChangeID": number;
 }
 
@@ -2469,6 +2536,7 @@ export interface PreBuiltCastle {
     "costFood"?: number;
     "costStone"?: number;
     "costWood"?: number;
+    "crossplayID": number;
     "isMainCastleCopy"?: number;
     "minLevel": number;
     "preBuiltCastleID": number;
@@ -2484,6 +2552,7 @@ export interface PrimeDay {
     "abGroupIDs"?: number;
     "c2LifetimeSpentMax"?: number;
     "c2LifetimeSpentMin"?: number;
+    "crossplayID"?: number;
     "currentC2StockMax"?: number;
     "currentC2StockMin"?: number;
     "daysSinceLastPaymentMax"?: number;
@@ -2533,6 +2602,7 @@ export interface Quest {
     "comment2"?: string;
     "conditions": string;
     "constructionItemIDs"?: number;
+    "crossplayID"?: number;
     "currency1"?: number;
     "currency2"?: number;
     "decoWodID"?: number;
@@ -2596,6 +2666,7 @@ export interface RandomGroup {
 
 export interface RelicBluePrint {
     "baseRelicEffectIDs"?: number | string;
+    "crossplayID": number;
     "id": number;
     "normalAmount": number;
     "normalRelicEffectListID": number;
@@ -2605,22 +2676,26 @@ export interface RelicBluePrint {
 }
 
 export interface RelicCategory {
+    "crossplayID": number;
     "id": number;
     "neededMinimum": number;
     "neededRatings": string;
 }
 
 export interface RelicEffectList {
+    "crossplayID": number;
     "id": number;
     "relicEffectIDs": string;
 }
 
 export interface RelicEffectPowerRating {
+    "crossplayID": number;
     "id": number;
     "threshold": number;
 }
 
 export interface RelicEffect {
+    "crossplayID": number;
     "effectID": number;
     "effectValueKeys"?: number | string;
     "id": number;
@@ -2640,6 +2715,7 @@ export interface RelicEnchanter {
 }
 
 export interface RelicLootOption {
+    "crossplayID": number;
     "id": number;
     "relicEquipments": string;
     "shares": number;
@@ -2647,12 +2723,14 @@ export interface RelicLootOption {
 }
 
 export interface RelicPowerDistribution {
+    "crossplayID": number;
     "power": number;
     "shares": number;
 }
 
 export interface RelicType {
     "canBeSlottedInSlotIDs"?: string;
+    "crossplayID": number;
     "id": number;
     "isGem"?: number;
     "name"?: string;
@@ -2689,6 +2767,7 @@ export interface Research {
     "costOil"?: number;
     "costStone"?: number;
     "costWood"?: number;
+    "crossplayID"?: number;
     "effectDisplay"?: number;
     "effects"?: string;
     "globalServerCostC1"?: number;
@@ -2837,6 +2916,7 @@ export interface Reward {
     "comment1"?: number | string;
     "comment2"?: number | string;
     "constructionItemIDs"?: number | string;
+    "crossplayID"?: number;
     "currency1"?: number;
     "currency2"?: number;
     "decoWodID"?: number;
@@ -2878,6 +2958,7 @@ export interface Reward {
 export interface SaleDaysLuckyWheelClass {
     "HighlightNormal": string;
     "activityRewardThreshold"?: number;
+    "crossplayID": number;
     "neededSpinsForNextClass"?: number;
     "saleDaysLuckyWheelClassID": number;
 }
@@ -2913,6 +2994,7 @@ export interface SaleDaysLuckyWheelInitialCategorySelection {
 }
 
 export interface SaleDaysLuckyWheelRewardSet {
+    "crossplayID": number;
     "rewardIDs": string;
     "saleDaysLuckyWheelRewardSetID": number;
 }
@@ -2938,6 +3020,7 @@ export interface SamuraiCamp {
 export interface SceatSkill {
     "activationTime": number;
     "costSceatToken": number;
+    "crossplayID"?: number;
     "effects": string;
     "followingSkillID"?: number;
     "level": number;
@@ -2953,6 +3036,7 @@ export interface SceatSkill {
 }
 
 export interface SceatSkillTier {
+    "crossplayID": number;
     "requiredBuildings"?: number | string;
     "skillTreeID": number;
     "tier": number;
@@ -2960,6 +3044,7 @@ export interface SceatSkillTier {
 }
 
 export interface SceatSkillTree {
+    "crossplayID": number;
     "keepDisplayLevel": number;
     "skillTreeID": number;
     "tabID": number;
@@ -3150,6 +3235,7 @@ export interface Surrounding {
 }
 
 export interface TempServerDailyTaskReward {
+    "crossplayID": number;
     "minDailyTaskPointsPerDay": number;
     "rewardID": number;
     "tempServerDailyTaskRewardID": number;
@@ -3159,6 +3245,7 @@ export interface TempServerPreBuiltCastle {
     "castlePassageTokenPackageID"?: number;
     "costC2"?: number;
     "costCastlePassageToken"?: number;
+    "crossplayID": number;
     "preBuiltCastleID": number;
     "questsToFinish": string;
     "startPlayerLegendLevel"?: number;
@@ -3167,6 +3254,7 @@ export interface TempServerPreBuiltCastle {
 }
 
 export interface TempServerRankPoint {
+    "crossplayID": number;
     "eventID": number;
     "maxRank": number;
     "minRank": number;
@@ -3175,6 +3263,7 @@ export interface TempServerRankPoint {
 }
 
 export interface TempServerRankReward {
+    "crossplayID": number;
     "eventID": number;
     "rank": number;
     "rewardID": number;
@@ -3189,6 +3278,7 @@ export interface TempServerSetting {
     "boosterCurrencyPackageID"?: number;
     "boosterCurrencyValue"?: number;
     "costTonic"?: number;
+    "crossplayID": number;
     "currencyID"?: number;
     "currencyLootFactorMax"?: number;
     "currencyLootFactorMin"?: number;
@@ -3206,6 +3296,7 @@ export interface TempServerSetting {
 }
 
 export interface Title {
+    "crossplayID": number;
     "decay"?: number;
     "displayType": string;
     "effects"?: string;
@@ -3224,6 +3315,7 @@ export interface TMapNode {
     "columnOnMap"?: number;
     "coolDown"?: number;
     "countVictories": number;
+    "crossplayID": number;
     "defStrength"?: number;
     "defenceTools"?: string;
     "defenceUnits"?: string;
@@ -3275,6 +3367,7 @@ export interface TMap {
 }
 
 export interface ToolCategory {
+    "crossplayID": number;
     "name": string;
     "toolCategoryID": number;
 }
@@ -3315,6 +3408,7 @@ export interface Unit {
     "costComponent8"?: number;
     "costStone"?: number;
     "costWood"?: number;
+    "crossplayID"?: number;
     "defMeleeBonus"?: number;
     "defRangeBonus"?: number;
     "deleteToolAfterBattle"?: number;
@@ -3444,6 +3538,7 @@ export interface WishingWell {
     "costStone"?: number;
     "costWishingWellCoin"?: number;
     "costWood"?: number;
+    "crossplayID": number;
     "destructable": number;
     "disabledOnAllianceBattleGrounds": number;
     "downgradeWodID"?: number;
@@ -3465,6 +3560,7 @@ export interface WishingWell {
 
 export interface Wod {
     "block"?: number;
+    "cossplayID"?: number;
     "group": string;
     "height"?: number;
     "kIDs"?: number | string;
@@ -3476,6 +3572,7 @@ export interface Wod {
 }
 
 export interface WorldmapSkin {
+    "crossplayID": number;
     "definesAllCastleLevels"?: number;
     "definesMoat"?: number;
     "definesResources"?: number;
