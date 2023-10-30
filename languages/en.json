@@ -1472,6 +1472,9 @@
     "deco_ThroneOfCommunity3_name": "Throne of the black house",
     "deco_ThroneOfCommunity4_name": "Throne of the teal house",
     "RelicFarmGreen_name": "Relic conservatory",
+    "MilitaryDistrict_name": "Military district",
+    "MilitaryDistrict_short_info": "Creates space for military buildings",
+    "MilitaryDistrict_upgrade_info": "Increases space for buildings inside the district",
     "deco_LoveWell_name": "Well of love",
     "ci_appearance_winterEstate": "Winter estate",
     "ci_appearance_winterEstate_flavour": "This icy estate offers a sanctuary for peaceful reflection during the biting winter season.",
@@ -1527,6 +1530,9 @@
     "deco_VirgosPark_name": "Virgos park",
     "deco_VirgosNature_name": "Virgos nature",
     "keep_upgrade_LegendTemple_info": "Unlocks sovereign tiers",
+    "TradeDistrict_name": "Trade district",
+    "TradeDistrict_short_info": "Creates space for trade buildings",
+    "TradeDistrict_upgrade_info": "Increases space inside the district",
     "deco_octopusGardenViolet_name": "Lord of the deep",
     "deco_octopusGardenBlack_name": "Spectre of the deep",
     "deco_TriumphalArchLoyal_name": "Triumph of loyalty",
@@ -1826,8 +1832,8 @@
     "ci_appearance_samuraiTavern": "Samurai tavern",
     "ci_appearance_samuraiGuardhouse_flavour": "The Sunrise Kingdoms dreaded Rōshigumi guard force is known for its relentlessness and brutal efficency.",
     "ci_appearance_samuraiGuardhouse": "Samurai Guardhouse",
-    "ci_effect_attackBonusUnitBloodcrows": "+{0} combat strength when attacking Bloodcrow castles",
-    "ci_effect_attackBonusUnitAlien": "+{0} combat strength when attacking Foreign castles",
+    "ci_effect_attackBoostUnitBloodcrows": "+{0}% combat strength when attacking Bloodcrow castles",
+    "ci_effect_attackBoostUnitAliens": "+{0}% combat strength when attacking Foreign castles",
     "ci_blueprint_toolsmithBoost_secondary": "Relic toolsmith production blueprint",
     "ci_blueprint_refineryBoost_secondary": "Relic refinery production blueprint",
     "ci_effect_toolsmithBoost_blueprint": "Toolsmith production bonus",
@@ -1846,7 +1852,14 @@
     "ci_effect_relicRefineryBoost_tt": "Refinery production bonus:",
     "ci_effect_relicToolsmithBoost_blueprint": "Toolsmith production bonus",
     "deco_blueSalesFountain_name": "Spring of elation",
-    "deco_goldenEggHut_name": "Autumn gobblers refuge"
+    "deco_goldenEggHut_name": "Autumn gobblers refuge",
+    "ci_appearance_dragonriderHospital": "Dragon rider hospital",
+    "ci_appearance_dragonriderHospital_flavour": "The healers are skilled in treating bite wounds, severe burns, and all kinds of fall damage.",
+    "deco_dragonridercabin_name": "Fire Peaks cabin",
+    "deco_dragonriderdragonnest_name": "Dragon hatchery",
+    "MeadDistrict_name": "Mead district",
+    "MeadDistrict_upgrade_info": "Increases space inside the district",
+    "MeadDistrict_short_info": "Creates space for mead buildings"
   },
   "dialogs": {
     "dialog_festival_desc": "Use your food to hold a feast for your citizens!\nSoldiers will be recruited much more quickly in all of your castles for as long as the feast lasts. The bigger the feast, the greater the effect.",
@@ -9544,9 +9557,6 @@
     "honeyStorage_capacityBonus_tt": "Honey storage capacity bonus",
     "dialog_legendTemple_title_keepSkill": "Keep level {0}: {1}",
     "help_legendTemple": "The Hall of Legends allows you to unlock powerful legendary skills for both attacking and defending. To do this, youll need legendary points, which are earnt by upgrading your Hall of Legends. Your legendary level determines the highest upgrade level available to you.\n\nLegendary skills are divided into several levels, but only the lowest will be available to you in the beginning. Once youve allocated a certain number of legendary points to one level, the next level will be automatically unlocked for you. Furthermore, after levels two and five, powerful master skills will be activated for free.\n\nYou also have the option to reset all of your legendary skills and redistribute your points. You will not lose any points by doing this, and the upgrade level of your Hall of Legends wont change. The first reset of a reset period is free, but each consecutive reset will cost rubies. The rubies required increases with each reset. After a set amount of days has passed the fee is reset to zero.\n\nMost legendary skills are only effective against castle lords with a legendary level. However, they are always effective against centers of command even if the owner of the center of command has not yet achieved legendary status.\n\nThe Hall of Legends also provides access to new forms of power the sovereign system. By collecting sceats from various events you can unlock powerful buildings and units. Those upgrades are not connected to your Hall of Legends level, but directly to your legendary level and can be used against any type of enemy. \n\nYou must progress through all the tier levels of an upgrade to unlock the following one. You also have to upgrade the keep in your main castle of the Great Empire to unlock additional tiers. Upgrading keeps in outposts or other castles does NOT unlock sovereign skill tiers. Some skills also have additional requirements, such having certain buildings on a defined level in your main castle. All conditions for unlocking a skill have to be met in the main castle, NOT in outposts or castles in other kingdoms!\n\nUnlike the legendary skill system, you will not be able to reset your points in the sovereign system.",
-    "TradeDistrict_name": "Trade district",
-    "TradeDistrict_short_info": "Creates space for trade buildings",
-    "TradeDistrict_upgrade_info": "Increases space inside the district",
     "dialog_siegeMessage_outpostConqueredDistrict": "Youve captured another outpost!\nThe district inside the outpost has been returned to the previous owner while the district buildings are now in the outpost inventory.",
     "dialog_crestSymbol_Effect_header": "Symbol effect",
     "dialog_crestSymbol_noEffect": "You currently have no symbols with effects on your coat of arms. You can unlock symbols with effects by completing achievements.",
@@ -11622,10 +11632,10 @@
     "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction": "Attack cooldown for samurai camps",
     "dialog_generals_overview_selectPvEGeneral_tab": "Your generals",
     "dialog_generals_overview_selectGeneral_tab": "Your generals",
-    "effect_description_attackBonusUnitBloodcrowsCI": "+{0} combat strength when attacking Bloodcrow castles (build item effect)",
-    "effect_description_attackBonusUnitAlienCI": "+{0} combat strength when attacking Foreign castles (build item effect)",
-    "ci_effect_attackBonusUnitBloodcrows_tt": "Combat strength when attacking Bloodcrow castles:",
-    "ci_effect_attackBonusUnitAlien_tt": "Combat strength when attacking foreign castles:",
+    "effect_description_attackBoostUnitBloodcrowsCI": "+{0} combat strength when attacking Bloodcrow castles (build item effect)",
+    "effect_description_attackBoostUnitAliensCI": "+{0} combat strength when attacking Foreign castles (build item effect)",
+    "ci_effect_attackBoostUnitBloodcrows_tt": "Combat strength when attacking Bloodcrow castles:",
+    "ci_effect_attackBoostUnitAliens_tt": "Combat strength when attacking foreign castles:",
     "dialog_listOverview_castleBurning_desc": "Damaged buildings in this castle",
     "dialog_repairAll_confirmationPopup_desc": "Repair all damage in your main castle instantly! All existing damage to your buildings caused by attacks, sabotage, and plague doctors will be fixed immediately! Production and public order will be fully restored! Only applies to the selected castle.",
     "dialog_repairAll_confirmationPopup_subHeader": "Fix damage immediately!",
@@ -11655,9 +11665,9 @@
     "dialog_longPointsEvent_eventcamp_header_dragonrider": "Majestic Dragon Mingle",
     "dialog_longPointsEvent_eventcamp_message_dragonrider": "Welcome to the Majestic Dragon Mingle, the grandest assembly of dragon riders in all the realms! If you undertake the challenges of specific events during this fiery occasion, youll be graced with treasures fit for a dragons hoard!",
     "dialog_longPointsEvent_gotRoyalReward_copy_dragonrider": "Marvelous! You have amassed {0} season points in the Majestic Dragon Mingle! To commemorate your achievement, a royal dragon treasure is now yours!",
-    "dialog_longPointsEvent_gotRoyalReward_title_title_dragonrider": "Victory!",
-    "dialog_longPointsEvent_gotTopxReward_copy_dragonrider": "Dragon Rider Reward",
-    "dialog_longPointsEvent_gotTopxReward_copy_dragonrider_singular": "Splendid! Youve gathered {0} season points in the Majestic Dragon Mingle, placing you among the top {1} lords in the event. A glorious treasure befitting your efforts awaits!",
+    "dialog_longPointsEvent_gotRoyalReward_title_dragonrider": "Victory!",
+    "dialog_longPointsEvent_gotTopxReward_title_dragonrider": "Dragon Rider Reward",
+    "dialog_longPointsEvent_gotTopxReward_copy_dragonrider": "Splendid! Youve gathered {0} season points in the Majestic Dragon Mingle, placing you among the top {1} lords in the event. A glorious treasure befitting your efforts awaits!",
     "dialog_longPointsEvent_hardMode_info_dragonrider": "Bravo, esteemed lord! Youve secured all the Majestic Dragon Mingles rewards. But the adventure isnt over! More treasures await, and exceptional prizes are reserved for the festivities top lords.",
     "dialog_longPointsEvent_message_copy_dragonrider": "Welcome to the Majestic Dragon Mingle, the grandest assembly of dragon riders in all the realms! If you undertake the challenges of specific events during this fiery occasion, youll be graced with treasures fit for a dragons hoard!",
     "dialog_longPointsEvent_message_header_dragonrider": "Majestic Dragon Mingle",
@@ -11696,7 +11706,10 @@
     "dialog_alliance_permanentBoost_lootCapacityBoost_desc": "Awards a bonus when looting members of alliances you have declared war on.",
     "dialog_alliance_permanentBoost_travelWarAttackBoost_desc": "Increases the speed of your armies attacking members of alliances youve declared war on.",
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_desc": "Increases healing speed bonus for ruby &amp; coin units. The costs are paid using the alliance funds.",
-    "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_percentage": "Healing speed bonus for ruby &amp; coin units: +{0}%"
+    "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_percentage": "Healing speed bonus for ruby &amp; coin units: +{0}%",
+    "dialog_alliance_temporaryBoost_allianceUnitHealingBoost": "Healing speed bonus for ruby &amp; coin units",
+    "dialog_specialOffer_copy2_3": "Get {0}% more rubies!",
+    "dialog_specialOffer_limitedTime_lineBreak": "LIMITED \nTIME!"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% army travel speed during conquests",
@@ -12735,7 +12748,13 @@
     "effect_description_hiddenSoldiersSpace": "Units shelter capacity",
     "subscription_convenience_description_AutoCooldownSkip": "Enable option to automatically use time skips to skip attack cooldown of certain NPC targets.",
     "ci_effect_Meadreduction": "-{0}% mead consumption per hour",
-    "equip_effect_description_attackUnitAmountReinforcementBoost": "+{0}% to troop capacity for final assault"
+    "equip_effect_description_attackUnitAmountReinforcementBoost": "+{0}% to troop capacity for final assault",
+    "ci_effect_attackBoostUnitBerimondKingdom": "+{0}% combat strength when attacking Berimond kingdom targets",
+    "ci_effect_attackBoostUnitBerimondKingdom_tt": "Combat strength when attacking Berimond kingdom targets:",
+    "ci_effect_attackBoostUnitNomad": "+{0}% combat strength when attacking nomad camps",
+    "ci_effect_attackBoostUnitNomad_tt": "Combat strength when attacking nomad camps:",
+    "effect_description_attackBoostUnitBerimondKingdomCI": "+{0} combat strength when attacking Berimond kingdom targets (build item effect)",
+    "effect_description_attackBoostUnitNomadCI": "+{0} combat strength when attacking nomad camps (build item effect)"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Hero",
@@ -16496,11 +16515,13 @@
     "equipment_unique_2007_desc": "Transforms your castle into a Fortress of the Dead.",
     "equipment_unique_2007": "Ring of ruin",
     "equipment_unique_2009": "Harvest feast gobbler",
-    "equipment_unique_2009_desc": "Only foolish heroes needlessly antagonize these fowls. Nowadays the birds from Beyond the Horizon serve as imperial shock troops and are served at imperial banquets. Transforms your army into a band of charging gobblers.",
+    "equipment_unique_2009_desc": "These fierce birds from Beyond the Horizon serve as imperial shock troops and are served at imperial banquets. Transforms your army into a band of charging gobblers.",
     "equipment_unique_2010": "Harvest feast gobbler",
-    "equipment_unique_2010_desc": "Only foolish heroes needlessly antagonize these fowls. Nowadays the birds from Beyond the Horizon serve as imperial shock troops and are served at imperial banquets. Transforms your army into a band of charging gobblers.",
+    "equipment_unique_2010_desc": "These fierce birds from Beyond the Horizon serve as imperial shock troops and are served at imperial banquets. Transforms your army into a band of charging gobblers.",
     "equipment_unique_2011": "Autumn egg",
-    "equipment_unique_2011_desc": "The Emperor himself grants these valuable eggs to his most loyal vassals. Once hatched, the birds are a guarantor of prosperity and a a plentiful harvest. Transforms your castle into a prosperous gobbler stronghold."
+    "equipment_unique_2011_desc": "The Emperor himself grants these valuable eggs to his most loyal vassals. Transforms your castle into a prosperous gobbler stronghold.",
+    "equipment_unique_2008": "Fylgja totem",
+    "equipment_unique_2008_desc": "The northmens homes must withstand the extreme cold and any enemy assault. Transforms your castle into a northmen fortress."
   },
   "generic": {
     "activity": "Activity",
@@ -18078,9 +18099,6 @@
     "seasonEvent_28_normal_dungeon": "Tower",
     "seasonEvent_28_middle_dungeon": "Fortress",
     "pearlBooster_name": "Pearl bonus",
-    "MilitaryDistrict_name": "Military district",
-    "MilitaryDistrict_short_info": "Creates space for military buildings",
-    "MilitaryDistrict_upgrade_info": "Increases space for buildings inside the district",
     "ringmenu_addToDistrict": "Place inside district",
     "ringmenu_enterDistrict": "Enter district",
     "capital_desc_Maya": "Stores the alliance influence of your alliance",
@@ -18445,7 +18463,11 @@
     "btn_discord_loginScreen_desc": "Join our community for the latest news",
     "Messages_answer_prefix": "Re: {0}",
     "startsIn_colon": "Starts in:",
-    "status": "Status"
+    "status": "Status",
+    "button_communityHub_short": "Community",
+    "currency_description_dragonriderLTPEToken": "This token was made from precious red gold, melted in dragon fire. Can be exchanged for rewards at the Master Blacksmith for a limited time.",
+    "currency_name_dragonriderLTPEToken": "Fire Wyrm tokens",
+    "filters_category_116": "Fire Wyrm tokens"
   },
   "help": {
     "help_location": "Here you have a global overview of the important contents of your castle and all your outposts.",
@@ -22904,7 +22926,8 @@
     "ForlornRanger_short_info": "Extremely powerful ranged attacker",
     "ForlornRanger_name": "Forlorn ranger",
     "ForsakenMaiden_short_info": "Extremely powerful melee attacker",
-    "ForsakenMaiden_name": "Forsaken maiden"
+    "ForsakenMaiden_name": "Forsaken maiden",
+    "dialog_specialOffer_copy2_2": "Get {0}% more rubies!"
   },
   "generic_flash": {
     "Footer": {

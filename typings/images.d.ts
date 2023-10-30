@@ -1159,6 +1159,8 @@ export interface Images {
     "Deco_Building_christmastower": ImageData;
     "Deco_Building_corruptedgoddessOfNature": ImageData;
     "Deco_Building_crystalPalace": ImageData;
+    "Deco_Building_dragonriderCabin": ImageData;
+    "Deco_Building_dragonriderDragonnest": ImageData;
     "Deco_Building_elephantsFountain": ImageData;
     "Deco_Building_fieldOfGlory": ImageData;
     "Deco_Building_frozenShipwreckCove": ImageData;
@@ -1540,6 +1542,7 @@ export interface Images {
     "Event_Building_Bountyhunter": ImageData;
     "Event_Building_ColossusConstructor": ImageData;
     "Event_Building_ConstructionExpert": ImageData;
+    "Event_Building_DragonriderLTPECamp": ImageData;
     "Event_Building_EquipmentEnhancer": ImageData;
     "Event_Building_EquipmentMerchant": ImageData;
     "Event_Building_Faction": ImageData;
@@ -3693,6 +3696,8 @@ export interface Images {
     "Teaser_OffersHub_Squared_2": ImageData;
     "Teaser_OffersHub_Squared_3": ImageData;
     "Teaser_OffersHub_Squared_4": ImageData;
+    "Teaser_OffersHub_Squared_5": ImageData;
+    "Teaser_OffersHub_Squared_Small_5": ImageData;
     "Teaser_SeaQueen_ShipDeco": ImageData;
     "Teaser_WeeklyHonor": ImageData;
     "Toolsmith_Building_Level1": ImageData;
@@ -3966,6 +3971,7 @@ export interface Images {
     "desert_bronze": ImageData;
     "desert_gold": ImageData;
     "desert_silver": ImageData;
+    "dragonriderHospital": ImageData;
     "easternTavern": ImageData;
     "elvenBakery": ImageData;
     "elvenBarrack": ImageData;
@@ -4269,6 +4275,7 @@ export interface Images {
     "icon_ci_effect_autumn": ImageData;
     "icon_ci_effect_blackleague": ImageData;
     "icon_ci_effect_christmas": ImageData;
+    "icon_ci_effect_dragonrider": ImageData;
     "icon_ci_effect_easter": ImageData;
     "icon_ci_effect_elven": ImageData;
     "icon_ci_effect_goat": ImageData;
@@ -4282,6 +4289,7 @@ export interface Images {
     "icon_ci_effect_octoberfest": ImageData;
     "icon_ci_effect_pirates": ImageData;
     "icon_ci_effect_refinery": ImageData;
+    "icon_ci_effect_samurai": ImageData;
     "icon_ci_effect_spring": ImageData;
     "icon_ci_effect_stpatrick": ImageData;
     "icon_ci_effect_summer": ImageData;
@@ -4538,6 +4546,13 @@ export interface Images {
     "icon_currency_DecoDust_big": ImageData;
     "icon_currency_DecoDust_medium": ImageData;
     "icon_currency_DecoDust_xl": ImageData;
+    "icon_currency_DragonriderLTPEToken": ImageData;
+    "icon_currency_DragonriderLTPEToken_big": ImageData;
+    "icon_currency_DragonriderLTPEToken_big_ds": ImageData;
+    "icon_currency_DragonriderLTPEToken_ds": ImageData;
+    "icon_currency_DragonriderLTPEToken_medium": ImageData;
+    "icon_currency_DragonriderLTPEToken_small": ImageData;
+    "icon_currency_DragonriderLTPEToken_xl": ImageData;
     "icon_currency_EpicBoosterConsumable": ImageData;
     "icon_currency_EpicBoosterConsumable_big": ImageData;
     "icon_currency_EpicBoosterConsumable_medium": ImageData;
@@ -5670,6 +5685,7 @@ export interface Images {
     "icon_hud_attack": ImageData;
     "icon_hud_defense": ImageData;
     "icon_hud_mobilewebshop": ImageData;
+    "icon_hud_mobilewebshop_small": ImageData;
     "icon_hud_offershub": ImageData;
     "icon_hud_offerswall": ImageData;
     "icon_hud_offerswall_big": ImageData;
@@ -5763,6 +5779,7 @@ export interface Images {
     "icon_ltp_event_alien_invasion": ImageData;
     "icon_ltp_event_alien_invasion_reskin": ImageData;
     "icon_ltp_event_christmas": ImageData;
+    "icon_ltp_event_dragonriders": ImageData;
     "icon_ltp_event_generic": ImageData;
     "icon_ltp_event_halloween": ImageData;
     "icon_ltp_event_mayan": ImageData;
@@ -5912,6 +5929,7 @@ export interface Images {
     "icon_package_category_113": ImageData;
     "icon_package_category_115": ImageData;
     "icon_package_category_116": ImageData;
+    "icon_package_category_117": ImageData;
     "icon_package_category_20": ImageData;
     "icon_package_category_30": ImageData;
     "icon_package_category_40": ImageData;
@@ -7126,6 +7144,8 @@ export interface Images {
     "research_tree_bg_start": ImageData;
     "roseKeep": ImageData;
     "rosewoodBarracks": ImageData;
+    "samuraiGuardhouse": ImageData;
+    "samuraiTavern": ImageData;
     "seaqueen_bronze": ImageData;
     "seaqueen_gold": ImageData;
     "seaqueen_silver": ImageData;
@@ -7177,6 +7197,7 @@ export interface Images {
     "teaser_event_alien": ImageData;
     "teaser_event_alien_reskin": ImageData;
     "teaser_event_christmas": ImageData;
+    "teaser_event_dragonriders": ImageData;
     "teaser_event_halloween": ImageData;
     "teaser_event_mayan": ImageData;
     "teaser_event_midas": ImageData;
@@ -7213,6 +7234,7 @@ export interface Images {
     "teaser_help_mail_4": ImageData;
     "teaser_ingame_ads": ImageData;
     "teaser_ingame_ads_offershub": ImageData;
+    "teaser_ingame_shop_communityhub": ImageData;
     "teaser_ingame_shop_offershub": ImageData;
     "teaser_island_end": ImageData;
     "teaser_island_introduction": ImageData;

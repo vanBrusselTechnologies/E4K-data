@@ -927,9 +927,15 @@ export interface Language {
         "MayaEmporium_upgrade_info": string;
         "MeadDistillery_short_info": string;
         "MeadDistillery_upgrade_info": string;
+        "MeadDistrict_name": string;
+        "MeadDistrict_short_info": string;
+        "MeadDistrict_upgrade_info": string;
         "MetropolisBooster_name": string;
         "MetropolisBooster_short_info": string;
         "MetropolisBooster_upgrade_info": string;
+        "MilitaryDistrict_name": string;
+        "MilitaryDistrict_short_info": string;
+        "MilitaryDistrict_upgrade_info": string;
         "RelicBeekeeper_name": string;
         "RelicBeekeeper_short_info": string;
         "RelicBeekeeper_upgrade_info": string;
@@ -942,6 +948,9 @@ export interface Language {
         "RelicFarm_name": string;
         "RelicQuarry_name": string;
         "RelicWoodcutter_name": string;
+        "TradeDistrict_name": string;
+        "TradeDistrict_short_info": string;
+        "TradeDistrict_upgrade_info": string;
         "aquamarinerelic_name": string;
         "aquamarinerelic_short_info": string;
         "aquamarinerelic_upgrade_info": string;
@@ -1009,6 +1018,8 @@ export interface Language {
         "ci_appearance_carnivalMill_flavour": string;
         "ci_appearance_daffodilWorkshop": string;
         "ci_appearance_daffodilWorkshop_flavour": string;
+        "ci_appearance_dragonriderHospital": string;
+        "ci_appearance_dragonriderHospital_flavour": string;
         "ci_appearance_easternTavern": string;
         "ci_appearance_easternTavern_flavour": string;
         "ci_appearance_elvenEstate": string;
@@ -1125,8 +1136,8 @@ export interface Language {
         "ci_effect_HoneyProductionIncrease_blueprint": string;
         "ci_effect_MeadProductionIncrease_blueprint": string;
         "ci_effect_MeadProductionincrease": string;
-        "ci_effect_attackBonusUnitAlien": string;
-        "ci_effect_attackBonusUnitBloodcrows": string;
+        "ci_effect_attackBoostUnitAliens": string;
+        "ci_effect_attackBoostUnitBloodcrows": string;
         "ci_effect_attackBoostYard_blueprint": string;
         "ci_effect_attackUnitAmountFlank_blueprint": string;
         "ci_effect_attackUnitAmountFront_blueprint": string;
@@ -1381,6 +1392,8 @@ export interface Language {
         "deco_crystalwaterfall_name": string;
         "deco_dancingknight_name": string;
         "deco_dragonhead_name": string;
+        "deco_dragonridercabin_name": string;
+        "deco_dragonriderdragonnest_name": string;
         "deco_elephantsFountain_name": string;
         "deco_eternalblossoms_name": string;
         "deco_eternityGarden_name": string;
@@ -1929,9 +1942,6 @@ export interface Language {
         "Reward_single_value_tenthAnniversary": string;
         "Reward_single_value_winter": string;
         "SaleDaysLuckyWheelTicket_name": string;
-        "TradeDistrict_name": string;
-        "TradeDistrict_short_info": string;
-        "TradeDistrict_upgrade_info": string;
         "a_package_16_72_001_copy": string;
         "a_package_16_72_001_p100_copy": string;
         "a_package_16_72_001_p100_title": string;
@@ -2285,8 +2295,8 @@ export interface Language {
         "ci_effect_HoneyProductionincrease_tt": string;
         "ci_effect_MeadProductionincrease_tt": string;
         "ci_effect_Meadreduction_tt": string;
-        "ci_effect_attackBonusUnitAlien_tt": string;
-        "ci_effect_attackBonusUnitBloodcrows_tt": string;
+        "ci_effect_attackBoostUnitAliens_tt": string;
+        "ci_effect_attackBoostUnitBloodcrows_tt": string;
         "ci_effect_attackBoostYard_tt": string;
         "ci_effect_attackUnitAmountFlank_tt": string;
         "ci_effect_attackUnitAmountFront_tt": string;
@@ -3280,6 +3290,7 @@ export interface Language {
         "dialog_alliance_temporaryBoost_allianceTravelSupportBoost_desc": string;
         "dialog_alliance_temporaryBoost_allianceTravelSupportBoost_percentage": string;
         "dialog_alliance_temporaryBoost_allianceTravelSupportBoost_prolong_desc": string;
+        "dialog_alliance_temporaryBoost_allianceUnitHealingBoost": string;
         "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_desc": string;
         "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_percentage": string;
         "dialog_alliance_temporaryBoost_attackPower": string;
@@ -6057,6 +6068,7 @@ export interface Language {
         "dialog_longPointsEvent_gotRoyalReward_title": string;
         "dialog_longPointsEvent_gotRoyalReward_title_anniversaryLTPE": string;
         "dialog_longPointsEvent_gotRoyalReward_title_christmasLTPE": string;
+        "dialog_longPointsEvent_gotRoyalReward_title_dragonrider": string;
         "dialog_longPointsEvent_gotRoyalReward_title_halloween": string;
         "dialog_longPointsEvent_gotRoyalReward_title_india": string;
         "dialog_longPointsEvent_gotRoyalReward_title_maya": string;
@@ -6066,7 +6078,6 @@ export interface Language {
         "dialog_longPointsEvent_gotRoyalReward_title_pirates": string;
         "dialog_longPointsEvent_gotRoyalReward_title_spring": string;
         "dialog_longPointsEvent_gotRoyalReward_title_stPatrick": string;
-        "dialog_longPointsEvent_gotRoyalReward_title_title_dragonrider": string;
         "dialog_longPointsEvent_gotRoyalReward_title_winter": string;
         "dialog_longPointsEvent_gotRoyalReward_title_winter_christmas": string;
         "dialog_longPointsEvent_gotTopxReward_copy": string;
@@ -6074,7 +6085,6 @@ export interface Language {
         "dialog_longPointsEvent_gotTopxReward_copy_christmas": string;
         "dialog_longPointsEvent_gotTopxReward_copy_christmasLTPE": string;
         "dialog_longPointsEvent_gotTopxReward_copy_dragonrider": string;
-        "dialog_longPointsEvent_gotTopxReward_copy_dragonrider_singular": string;
         "dialog_longPointsEvent_gotTopxReward_copy_halloween": string;
         "dialog_longPointsEvent_gotTopxReward_copy_india": string;
         "dialog_longPointsEvent_gotTopxReward_copy_maya": string;
@@ -6089,6 +6099,7 @@ export interface Language {
         "dialog_longPointsEvent_gotTopxReward_title_anniversaryLTPE": string;
         "dialog_longPointsEvent_gotTopxReward_title_christmas": string;
         "dialog_longPointsEvent_gotTopxReward_title_christmasLTPE": string;
+        "dialog_longPointsEvent_gotTopxReward_title_dragonrider": string;
         "dialog_longPointsEvent_gotTopxReward_title_halloween": string;
         "dialog_longPointsEvent_gotTopxReward_title_india": string;
         "dialog_longPointsEvent_gotTopxReward_title_maya": string;
@@ -8063,6 +8074,7 @@ export interface Language {
         "dialog_specialOffer_bonus_2": string;
         "dialog_specialOffer_copy1": string;
         "dialog_specialOffer_copy2": string;
+        "dialog_specialOffer_copy2_3": string;
         "dialog_specialOffer_copy3": string;
         "dialog_specialOffer_desc_1": string;
         "dialog_specialOffer_desc_2": string;
@@ -8071,6 +8083,7 @@ export interface Language {
         "dialog_specialOffer_easterDesc": string;
         "dialog_specialOffer_forFree": string;
         "dialog_specialOffer_limitedTime": string;
+        "dialog_specialOffer_limitedTime_lineBreak"?: string;
         "dialog_specialOffer_mostPopular": string;
         "dialog_specialOffer_oneTimeOnly": string;
         "dialog_specialOffer_paymentReward": string;
@@ -8750,8 +8763,8 @@ export interface Language {
         "divination_main_title": string;
         "divination_main_topreward": string;
         "dominionPoints": string;
-        "effect_description_attackBonusUnitAlienCI": string;
-        "effect_description_attackBonusUnitBloodcrowsCI": string;
+        "effect_description_attackBoostUnitAliensCI": string;
+        "effect_description_attackBoostUnitBloodcrowsCI": string;
         "empiretogo_description": string;
         "equip_effect_description_CollectorBoostPartyAnimal": string;
         "equip_effect_description_allianceDefenseUnitAmountYardBonus": string;
@@ -11716,6 +11729,10 @@ export interface Language {
         "ci_effect_alienKeep": string;
         "ci_effect_alienKeep_blueprint": string;
         "ci_effect_alienKeep_tt": string;
+        "ci_effect_attackBoostUnitBerimondKingdom": string;
+        "ci_effect_attackBoostUnitBerimondKingdom_tt": string;
+        "ci_effect_attackBoostUnitNomad": string;
+        "ci_effect_attackBoostUnitNomad_tt": string;
         "ci_effect_attackBoostYard": string;
         "ci_effect_attackBoostYardTCI": string;
         "ci_effect_attackUnitAmountFlank": string;
@@ -11846,6 +11863,8 @@ export interface Language {
         "effect_description_additionalWaves": string;
         "effect_description_allianceDefenseUnitAmountYardBonus": string;
         "effect_description_attackBonus": string;
+        "effect_description_attackBoostUnitBerimondKingdomCI": string;
+        "effect_description_attackBoostUnitNomadCI": string;
         "effect_description_attackBoostYard": string;
         "effect_description_attackBoostYardCI": string;
         "effect_description_attackBoostYardTCI": string;
@@ -13750,6 +13769,8 @@ export interface Language {
         "equipment_unique_2006_desc": string;
         "equipment_unique_2007": string;
         "equipment_unique_2007_desc": string;
+        "equipment_unique_2008": string;
+        "equipment_unique_2008_desc": string;
         "equipment_unique_2009": string;
         "equipment_unique_2009_desc": string;
         "equipment_unique_2010": string;
@@ -16487,9 +16508,6 @@ export interface Language {
         "MayaPalace_short_info": string;
         "MayaPalace_upgrade_info": string;
         "Messages_answer_prefix": string;
-        "MilitaryDistrict_name": string;
-        "MilitaryDistrict_short_info": string;
-        "MilitaryDistrict_upgrade_info": string;
         "Newsletter_2012-02-28_HighLevel_Betreff": string;
         "Newsletter_2012-02-28_HighLevel_Text": string;
         "Newsletter_2012-02-28_LowLevel_Betreff": string;
@@ -16653,6 +16671,7 @@ export interface Language {
         "building_with_level": string;
         "buildings": string;
         "buildslot_title": string;
+        "button_communityHub_short": string;
         "button_faction_ranking": string;
         "buy": string;
         "canNotAttackCastle": string;
@@ -16804,6 +16823,7 @@ export interface Language {
         "currency_description_XmasLTPEToken": string;
         "currency_description_anniversaryToken": string;
         "currency_description_bronzeToken": string;
+        "currency_description_dragonriderLTPEToken": string;
         "currency_description_goldToken": string;
         "currency_description_mayaLTPEToken": string;
         "currency_description_newKingLTPEToken": string;
@@ -16884,6 +16904,7 @@ export interface Language {
         "currency_name_commonStraw": string;
         "currency_name_commonTimber": string;
         "currency_name_currency2": string;
+        "currency_name_dragonriderLTPEToken": string;
         "currency_name_epicCobblestone": string;
         "currency_name_goldToken": string;
         "currency_name_legendaryFabric": string;
@@ -17068,6 +17089,7 @@ export interface Language {
         "filters_category_113": string;
         "filters_category_114": string;
         "filters_category_115": string;
+        "filters_category_116": string;
         "filters_category_20": string;
         "filters_category_30": string;
         "filters_category_40": string;
@@ -22954,6 +22976,7 @@ export interface Language {
         "dialog_noFightMessage_starvation_copy": string;
         "dialog_shadow_noTools": string;
         "dialog_shadow_noUnits": string;
+        "dialog_specialOffer_copy2_2": string;
         "dollmelee_name": string;
         "dollmelee_short_info": string;
         "dollrange_name": string;

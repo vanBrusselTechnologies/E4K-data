@@ -7530,6 +7530,36 @@
     ],
     "fx": []
   },
+  "Deco_Building_dragonriderCabin": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_dragonriderCabin/Deco_Building_dragonriderCabin.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 138,
+        "h": 156,
+        "rx": 918,
+        "ry": 908
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_dragonriderDragonnest": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_dragonriderDragonnest/Deco_Building_dragonriderDragonnest.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 131,
+        "h": 136,
+        "rx": 919,
+        "ry": 928
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_DwarfStatue": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_DwarfStatue/Deco_Building_DwarfStatue.png",
@@ -13786,6 +13816,29 @@
       {
         "x": 48,
         "y": 28,
+        "scale": 0.25,
+        "name": "fx_exclamationmark",
+        "rotation": 0
+      }
+    ]
+  },
+  "Event_Building_DragonriderLTPECamp": {
+    "pid": 0,
+    "url": "x384/Buildings/Event/Event_Building_DragonriderLTPECamp/Event_Building_DragonriderLTPECamp.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 144,
+        "h": 106,
+        "rx": 937,
+        "ry": 965
+      }
+    ],
+    "fx": [
+      {
+        "x": -7,
+        "y": 20,
         "scale": 0.25,
         "name": "fx_exclamationmark",
         "rotation": 0
@@ -22271,6 +22324,21 @@
       }
     ]
   },
+  "dragonriderHospital": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/dragonriderHospital/dragonriderHospital.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 106,
+        "h": 137,
+        "rx": 954,
+        "ry": 907
+      }
+    ],
+    "fx": []
+  },
   "easternTavern": {
     "pid": 0,
     "url": "x384/BuildingSkins/easternTavern/easternTavern.png",
@@ -23451,6 +23519,52 @@
         "y": -78,
         "scale": 0.25,
         "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "samuraiGuardhouse": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/samuraiGuardhouse/samuraiGuardhouse.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 117,
+        "h": 137,
+        "rx": 945,
+        "ry": 911
+      }
+    ],
+    "fx": [
+      {
+        "x": -29,
+        "y": -53,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "samuraiTavern": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/samuraiTavern/samuraiTavern.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 115,
+        "h": 116,
+        "rx": 951,
+        "ry": 932
+      }
+    ],
+    "fx": [
+      {
+        "x": 5,
+        "y": -38,
+        "scale": 0.25,
+        "name": "damageHolder",
         "rotation": 0
       }
     ]
@@ -70626,6 +70740,21 @@
     ],
     "fx": []
   },
+  "icon_ci_effect_dragonrider": {
+    "pid": 0,
+    "url": "x384/Icons/CI_Icons/icon_ci_effect_dragonrider.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 49,
+        "h": 47,
+        "rx": 975,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
   "icon_ci_effect_easter": {
     "pid": 0,
     "url": "x384/Misc/CI_Icons/icon_ci_effect_easter.png",
@@ -70817,6 +70946,21 @@
         "h": 53,
         "rx": 973,
         "ry": 973
+      }
+    ],
+    "fx": []
+  },
+  "icon_ci_effect_samurai": {
+    "pid": 0,
+    "url": "x384/Icons/CI_Icons/icon_ci_effect_samurai.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 44,
+        "rx": 976,
+        "ry": 978
       }
     ],
     "fx": []
@@ -77027,6 +77171,96 @@
         "h": 35,
         "rx": 982,
         "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_DragonriderLTPEToken_big": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_DragonriderLTPEToken_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 46,
+        "rx": 974,
+        "ry": 977
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_DragonriderLTPEToken_ds": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_DragonriderLTPEToken_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 33,
+        "rx": 982,
+        "ry": 983
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_DragonriderLTPEToken_medium": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_DragonriderLTPEToken_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 42,
+        "h": 39,
+        "rx": 979,
+        "ry": 980
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_DragonriderLTPEToken_small": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_DragonriderLTPEToken_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 19,
+        "h": 17,
+        "rx": 990,
+        "ry": 991
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_DragonriderLTPEToken_xl": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_DragonriderLTPEToken_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 75,
+        "rx": 958,
+        "ry": 962
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_DragonriderLTPEToken": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_DragonriderLTPEToken.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 32,
+        "rx": 982,
+        "ry": 984
       }
     ],
     "fx": []
@@ -86136,6 +86370,21 @@
     ],
     "fx": []
   },
+  "icon_hud_mobilewebshop_small": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_hud_mobilewebshop_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 37,
+        "h": 37,
+        "rx": 981,
+        "ry": 981
+      }
+    ],
+    "fx": []
+  },
   "icon_hud_mobilewebshop": {
     "pid": 0,
     "url": "x384/Icons/Icons/icon_hud_mobilewebshop.png",
@@ -86144,7 +86393,7 @@
         "x": 0,
         "y": 0,
         "w": 59,
-        "h": 59,
+        "h": 60,
         "rx": 970,
         "ry": 970
       }
@@ -87174,6 +87423,21 @@
   "icon_ltp_event_christmas": {
     "pid": 0,
     "url": "x384/Icons/Icons/icon_ltp_event_christmas.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 103,
+        "h": 109,
+        "rx": 948,
+        "ry": 945
+      }
+    ],
+    "fx": []
+  },
+  "icon_ltp_event_dragonriders": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_ltp_event_dragonriders.png",
     "frames": [
       {
         "x": 0,
@@ -93797,6 +94061,36 @@
         "h": 19,
         "rx": 990,
         "ry": 990
+      }
+    ],
+    "fx": []
+  },
+  "icon_package_category_117": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_currency_DragonriderLTPEToken_big_ds_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 44,
+        "rx": 976,
+        "ry": 978
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_DragonriderLTPEToken_big_ds": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_currency_DragonriderLTPEToken_big_ds_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 44,
+        "rx": 976,
+        "ry": 978
       }
     ],
     "fx": []
@@ -105441,6 +105735,21 @@
     ],
     "fx": []
   },
+  "teaser_event_dragonriders": {
+    "pid": 0,
+    "url": "x384/Misc/EventTeasers/teaser_event_dragonriders.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 219,
+        "h": 129,
+        "rx": 890,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
   "teaser_event_halloween": {
     "pid": 1,
     "url": "x384/Misc/EventTeasers/teaser_event_halloween.png",
@@ -106832,6 +107141,21 @@
         "h": 306,
         "rx": 694,
         "ry": 847
+      }
+    ],
+    "fx": []
+  },
+  "teaser_ingame_shop_communityhub": {
+    "pid": 0,
+    "url": "x384/Misc/GenericTeasers/teaser_ingame_shop_communityhub.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 739,
+        "h": 121,
+        "rx": 630,
+        "ry": 939
       }
     ],
     "fx": []
@@ -109382,6 +109706,36 @@
         "h": 667,
         "rx": 615,
         "ry": 666
+      }
+    ],
+    "fx": []
+  },
+  "Teaser_OffersHub_Squared_5": {
+    "pid": 0,
+    "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Squared_5.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 768,
+        "h": 666,
+        "rx": 616,
+        "ry": 667
+      }
+    ],
+    "fx": []
+  },
+  "Teaser_OffersHub_Squared_Small_5": {
+    "pid": 0,
+    "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Squared_Small_5.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 624,
+        "h": 493,
+        "rx": 688,
+        "ry": 753
       }
     ],
     "fx": []
