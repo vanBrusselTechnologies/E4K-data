@@ -2345,6 +2345,7 @@ export interface Package {
     "addResourceVillageToken"?: number;
     "addSaleDaysLuckyWheelTicket"?: number;
     "addSamuraiMedalBoosterKey"?: number;
+    "addSamuraiToken"?: number;
     "addSasakiToken"?: number;
     "addSceatToken"?: number;
     "addShapeShifterBloodpointBoosterKey"?: number;
@@ -2379,6 +2380,7 @@ export interface Package {
     "cost1MinSkip"?: number;
     "costAnniversaryToken"?: number;
     "costDecoDust"?: number;
+    "costDragonriderLTPEToken"?: number;
     "costFusionCurrency"?: number;
     "costGoldToken"?: number;
     "costHalloweenLTPEToken"?: number;
@@ -2858,6 +2860,7 @@ export interface Reward {
     "addDecoCatalyst8"?: number;
     "addDecoCatalyst9"?: number;
     "addDecoDust"?: number;
+    "addDragonriderLTPEToken"?: number;
     "addEpicBoosterConsumable"?: number;
     "addEpicCobblestone"?: number;
     "addFatKingToken"?: number;

@@ -13096,6 +13096,60 @@
       "mightValue": 10,
       "canSlotGem": 1,
       "skinID": 19
+    },
+    {
+      "equipmentID": 2008,
+      "crossplayID": 2008,
+      "comment1": "November Ice LTPE 2023",
+      "comment2": "Winterbrew - Baron",
+      "wearerID": 1,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 709,
+      "effects": "335&amp;7",
+      "duration": 336,
+      "mightValue": 10,
+      "canSlotGem": 1,
+      "skinID": 23
+    },
+    {
+      "equipmentID": 2009,
+      "crossplayID": 2009,
+      "comment1": "Sales Days Content November 2023",
+      "comment2": "turkeyCommander",
+      "wearerID": 2,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 2009,
+      "effects": "24&amp;4,23&amp;15,66&amp;5",
+      "duration": 12,
+      "mightValue": 0,
+      "canSlotGem": 1,
+      "skinID": 109
+    },
+    {
+      "equipmentID": 2010,
+      "crossplayID": 2010,
+      "comment1": "Sales Days Content November 2023",
+      "comment2": "turkeyCommander",
+      "wearerID": 2,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 2009,
+      "effects": "24&amp;4,23&amp;15,66&amp;5",
+      "duration": 168,
+      "mightValue": 0,
+      "canSlotGem": 1,
+      "skinID": 109
+    },
+    {
+      "equipmentID": 2011,
+      "crossplayID": 2011,
+      "comment1": "Sales Days Content November 2023",
+      "comment2": "turkeyCastellan",
+      "wearerID": 1,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 2011,
+      "mightValue": 0,
+      "canSlotGem": 0,
+      "skinID": 110
     }
   ]
 }

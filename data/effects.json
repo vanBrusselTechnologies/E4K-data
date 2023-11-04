@@ -2264,6 +2264,30 @@
       "areaTypeID": "21,34"
     },
     {
+      "effectID": 401,
+      "crossplayID": 401,
+      "name": "attackBoostUnitAliens",
+      "effectTypeID": 36,
+      "capID": 99,
+      "areaTypeID": 21
+    },
+    {
+      "effectID": 402,
+      "crossplayID": 402,
+      "name": "attackBoostUnitBloodcrows",
+      "effectTypeID": 36,
+      "capID": 99,
+      "areaTypeID": 34
+    },
+    {
+      "effectID": 403,
+      "crossplayID": 403,
+      "name": "attackBoostUnitNomad",
+      "effectTypeID": 36,
+      "capID": 99,
+      "areaTypeID": "27,35"
+    },
+    {
       "effectID": 348,
       "crossplayID": 166,
       "name": "offensiveMeleeBonusBerimondKingdom",
@@ -2597,7 +2621,7 @@
     {
       "effectID": 28,
       "crossplayID": 28,
-      "name": "allianceDefenseBoostDaimyo",
+      "name": "allianceUnitHealingBoost",
       "effectTypeID": 120,
       "capID": 99,
       "sortOrder": "1.13.4"
