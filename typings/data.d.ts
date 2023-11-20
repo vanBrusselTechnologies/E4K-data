@@ -924,7 +924,6 @@ export interface ConstructionItem {
     "stoneStorage"?: number;
     "surviveBoost"?: number;
     "unboostedFoodProduction"?: number;
-    "unboostedMeadProduction"?: number;
     "unboostedStoneProduction"?: number;
     "unboostedWoodProduction"?: number;
     "unitWallCount"?: number;

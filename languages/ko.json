@@ -1857,9 +1857,9 @@
     "ci_appearance_dragonriderHospital_flavour": "치료사들이 물린 상처, 심한 화상, 모든 종류의 낙하 피해를 처치하는 데 능숙합니다.",
     "deco_dragonridercabin_name": "불타는 산봉우리 오두막집",
     "deco_dragonriderdragonnest_name": "용 부화장",
-    "MeadDistrict_name": "Mead district",
-    "MeadDistrict_upgrade_info": "Increases space inside the district",
-    "MeadDistrict_short_info": "Creates space for mead buildings"
+    "MeadDistrict_name": "벌꿀 술 구역",
+    "MeadDistrict_upgrade_info": "구역 내 공간이 증가함",
+    "MeadDistrict_short_info": "벌꿀 술 건물을 위한 공간을 확보함"
   },
   "dialogs": {
     "dialog_festival_desc": "식량으로 잔치를 열어 백성들을 배불리 먹이십시오! 잔치가 계속되는 동안 모든 성의 모집 속도가 눈에 띄게 증가합니다. 더 큰 잔치를 벌일수록 효과도 더 증가합니다.",
@@ -11632,8 +11632,8 @@
     "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction": "사무라이 야영지에 대한 공격 대기 시간",
     "dialog_generals_overview_selectPvEGeneral_tab": "보유 중인 장군",
     "dialog_generals_overview_selectGeneral_tab": "보유 중인 장군",
-    "effect_description_attackBoostUnitBloodcrowsCI": "붉은까마귀 성 공격 시 전투력 +{0} (건설 아이템 효과)",
-    "effect_description_attackBoostUnitAliensCI": "외래 성 공격 시 전투력 +{0} (건설 아이템 효과)",
+    "effect_description_attackBoostUnitBloodcrowsCI": "붉은까마귀 성 공격 시 전투력 +{0}% (건설 아이템 효과)",
+    "effect_description_attackBoostUnitAliensCI": "외래 성 공격 시 전투력 +{0}% (건설 아이템 효과)",
     "ci_effect_attackBoostUnitBloodcrows_tt": "붉은까마귀 성 공격 시 전투력:",
     "ci_effect_attackBoostUnitAliens_tt": "외래 성 공격 시 전투력:",
     "dialog_listOverview_castleBurning_desc": "이 성의 피해를 받은 건물",
@@ -11708,7 +11708,9 @@
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_desc": "루비 및 금화 유닛에 대한 치료 속도 보너스가 증가합니다. 비용은 동맹 기금으로 지불됩니다.",
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_percentage": "루비 및 금화 유닛 치료 속도 보너스: +{0}%",
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost": "루비 및 금화 유닛 치료 속도 보너스",
-    "dialog_specialOffer_copy2_3": "루비를 {0}% 더 구하십시오."
+    "dialog_specialOffer_copy2_3": "루비를 {0}% 더 구하십시오.",
+    "dialog_specialOffer_limitedTime_lineBreak": "한정 판매!",
+    "dialog_saveAccount_emailSent_changedBeforeRegistration_desc": "이메일 주소가 변경되었습니다. 새 이메일 주소로 확인 이메일이 전송되었습니다. 등록을 확인하려면 이메일의 링크를 클릭하세요."
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "정복 중 군대 이동 속도 +{0}%",
@@ -12752,8 +12754,11 @@
     "ci_effect_attackBoostUnitBerimondKingdom_tt": "베리몬드 왕국 대상 공격 시 전투력:",
     "ci_effect_attackBoostUnitNomad": "유목민 야영지 공격 시 전투력 +{0}%",
     "ci_effect_attackBoostUnitNomad_tt": "유목민 야영지 공격 시 전투력:",
-    "effect_description_attackBoostUnitBerimondKingdomCI": "베리몬드 왕국 대상 공격 시 전투력 +{0} (건설 아이템 효과)",
-    "effect_description_attackBoostUnitNomadCI": "유목민 야영지 공격 시 전투력 +{0} (건설 아이템 효과)"
+    "effect_description_attackBoostUnitBerimondKingdomCI": "베리몬드 왕국 대상 공격 시 전투력 +{0}% (건설 아이템 효과)",
+    "effect_description_attackBoostUnitNomadCI": "유목민 야영지 공격 시 전투력 +{0}% (건설 아이템 효과)",
+    "equip_effect_description_attackBoostUnitAliens": "외래 성 공격 시 전투력 +{0}% (건설 아이템 효과)",
+    "equip_effect_description_attackBoostUnitNomad": "유목민 야영지 공격 시 전투력 +{0}% (건설 아이템 효과)",
+    "equip_effect_description_attackBoostUnitBloodcrows": "붉은까마귀 성 공격 시 전투력 +{0}% (건설 아이템 효과)"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "영웅",
@@ -16518,7 +16523,7 @@
     "equipment_unique_2010": "추수 감사절 칠면조",
     "equipment_unique_2010_desc": "어리석은 영웅들은 이 가금류를 불필요하게 적대시합니다. 요즘 지평선 너머의 새들은 제국의 돌격병으로 복무하고 제국의 만찬에서 요리로 제공됩니다. 부대를 돌격하는 칠면조 무리로 변신시킵니다.",
     "equipment_unique_2011": "가을 알",
-    "equipment_unique_2011_desc": "황제가 가장 충직한 신하에게 친히 하사하는 귀중한 알입니다. 새가 부화하고 나면 번영과 풍부한 수확을 보증합니다. 성을 풍요로운 칠면조 성채로 변신시킵니다.",
+    "equipment_unique_2011_desc": "황제가 가장 충직한 신하에게 친히 하사하는 귀중한 알입니다. 성을 풍요로운 칠면조 성채로 변신시킵니다.",
     "equipment_unique_2008": "필자 토템",
     "equipment_unique_2008_desc": "바이킹의 집은 혹독한 추위와 온갖 적의 공격을 버텨야 합니다. 성을 바이킹 요새로 변신시킵니다."
   },
@@ -23114,7 +23119,8 @@
       "value_seperate_add": "+{0} | +{1}",
       "value_or_add": "+{0} 또는 +{1}",
       "value_or_default": "{0} 또는 {1}",
-      "value_brackets_subtract": "(-{0})"
+      "value_brackets_subtract": "(-{0})",
+      "value_dash_split_paragraph": "{0} - \n{1}"
     },
     "country": {
       "generic_country_AU": "호주",

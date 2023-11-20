@@ -1857,9 +1857,9 @@
     "ci_appearance_dragonriderHospital_flavour": "Healerne er gode til at behandle bidsår, alvorlige forbrændinger og alle former for faldskader.",
     "deco_dragonridercabin_name": "Ildtindernes hytte",
     "deco_dragonriderdragonnest_name": "Dragernes rugeplads",
-    "MeadDistrict_name": "Mead district",
-    "MeadDistrict_upgrade_info": "Increases space inside the district",
-    "MeadDistrict_short_info": "Creates space for mead buildings"
+    "MeadDistrict_name": "Mjøddistrikt",
+    "MeadDistrict_upgrade_info": "Skaber mere plads i distriktet",
+    "MeadDistrict_short_info": "Skaber plads til mjødbygninger"
   },
   "dialogs": {
     "dialog_festival_desc": "Brug mad til at holde en fest for dine borgere! Rekrutteringshastigheden vil forøges på i jeres borge, så længe festen varer. Jo større festen er, jo større er effekten.",
@@ -11632,8 +11632,8 @@
     "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction": "Nedkølingstid for angreb mod samurailejre",
     "dialog_generals_overview_selectPvEGeneral_tab": "Dine generaler",
     "dialog_generals_overview_selectGeneral_tab": "Dine generaler",
-    "effect_description_attackBoostUnitBloodcrowsCI": "+{0} kampkræfter ved angreb på blodkrageborge (byggeartiklens effekt)",
-    "effect_description_attackBoostUnitAliensCI": "+{0} kampkræfter ved angreb på fremmede borge (byggeartiklens effekt)",
+    "effect_description_attackBoostUnitBloodcrowsCI": "+{0}% kampkræfter ved angreb på blodkrageborge (byggeartiklens effekt)",
+    "effect_description_attackBoostUnitAliensCI": "+{0}% kampkræfter ved angreb på fremmede borge (byggeartiklens effekt)",
     "ci_effect_attackBoostUnitBloodcrows_tt": "Kampkræfter ved angreb på blodkrageborge:",
     "ci_effect_attackBoostUnitAliens_tt": "Kampkræfter ved angreb på fremmede borge:",
     "dialog_listOverview_castleBurning_desc": "Beskadigede bygninger i denne borg",
@@ -11708,7 +11708,9 @@
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_desc": "Øger bonussen på helbredelsestiden for rubiner og møntenheder. Betales med alliancemidler.",
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_percentage": "Bonus på helbredelsestid for rubiner og møntenheder: +{0} %",
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost": "Bonus på helbredelsestid for rubiner og møntenheder",
-    "dialog_specialOffer_copy2_3": "Få {0} % flere rubiner."
+    "dialog_specialOffer_copy2_3": "Få {0} % flere rubiner.",
+    "dialog_specialOffer_limitedTime_lineBreak": "BEGRÆNSET \nTID!",
+    "dialog_saveAccount_emailSent_changedBeforeRegistration_desc": "Din e-mailadresse er blevet ændret. Der er blevet sendt en verifikations-e-mail til din nye e-mailadresse. Klik på linket i e-mailen for at bekræfte registreringen."
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0} % hærens rejsehastighed under erobringer",
@@ -12752,8 +12754,11 @@
     "ci_effect_attackBoostUnitBerimondKingdom_tt": "Kampkræfter ved angreb på mål i kongeriget Berimond:",
     "ci_effect_attackBoostUnitNomad": "+{0}% kampkræfter ved angreb på nomadelejre",
     "ci_effect_attackBoostUnitNomad_tt": "Kampkræfter ved angreb på nomadelejre:",
-    "effect_description_attackBoostUnitBerimondKingdomCI": "+{0} kampkræfter ved angreb på mål i kongeriget Berimond (byggeartiklens effekt)",
-    "effect_description_attackBoostUnitNomadCI": "+{0} kampkræfter ved angreb på nomadelejre (byggeartiklens effekt)"
+    "effect_description_attackBoostUnitBerimondKingdomCI": "+{0}% kampkræfter ved angreb på mål i kongeriget Berimond (byggeartiklens effekt)",
+    "effect_description_attackBoostUnitNomadCI": "+{0}% kampkræfter ved angreb på nomadelejre (byggeartiklens effekt)",
+    "equip_effect_description_attackBoostUnitAliens": "+{0}% kampkræfter ved angreb på fremmede borge (byggeartiklens effekt)",
+    "equip_effect_description_attackBoostUnitNomad": "+{0}% kampkræfter ved angreb på nomadelejre (byggeartiklens effekt)",
+    "equip_effect_description_attackBoostUnitBloodcrows": "+{0}% kampkræfter ved angreb på blodkrageborge (byggeartiklens effekt)"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Helt",
@@ -16518,7 +16523,7 @@
     "equipment_unique_2010": "Høstfestkalkun",
     "equipment_unique_2010_desc": "Kun tåbelige helte modsætter sig disse fugle unødigt. I dag tjener fuglene fra Bag Horisonten som kejserlige stødtropper, og de serveres ved kejserlige banketter. Forvandler din hær til en flok aggressive kalkunhaner.",
     "equipment_unique_2011": "Efterårsæg",
-    "equipment_unique_2011_desc": "Kejseren forærer disse kostbare æg til sine mest trofaste vasaller. Når fuglene er udklækket, er de en garant for velstand og en rigelig høst. Forvandler din borg til en blomstrende kalkunfæstning.",
+    "equipment_unique_2011_desc": "Kejseren forærer disse kostbare æg til sine mest trofaste vasaller. Forvandler din borg til en blomstrende kalkunfæstning.",
     "equipment_unique_2008": "Fylgjetotem",
     "equipment_unique_2008_desc": "Foruden at kunne modstå en isnende kulde skal nordlændingenes hjem også kunne beskytte mod fjendtlige angreb. Forvandler din borg til et nordlandsk fæstningsværk."
   },
@@ -23114,7 +23119,8 @@
       "value_seperate_add": "+{0} | +{1}",
       "value_or_add": "+{0} eller +{1}",
       "value_or_default": "{0} eller {1}",
-      "value_brackets_subtract": "(-{0})"
+      "value_brackets_subtract": "(-{0})",
+      "value_dash_split_paragraph": "{0} - \n{1}"
     },
     "country": {
       "generic_country_AU": "Australien",

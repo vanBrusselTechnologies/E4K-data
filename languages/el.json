@@ -1857,9 +1857,9 @@
     "ci_appearance_dragonriderHospital_flavour": "Οι θεραπευτές γνωρίζουν πώς να θεραπεύουν δήγματα, σοβαρά εγκαύματα και κάθε είδους τραύμα από πτώσεις.",
     "deco_dragonridercabin_name": "Καλύβα Πύρινων κορυφών",
     "deco_dragonriderdragonnest_name": "Εκκολαπτήριο δράκων",
-    "MeadDistrict_name": "Mead district",
-    "MeadDistrict_upgrade_info": "Increases space inside the district",
-    "MeadDistrict_short_info": "Creates space for mead buildings"
+    "MeadDistrict_name": "Συνοικία υδρομελιού",
+    "MeadDistrict_upgrade_info": "Αυξάνει τον χώρο μέσα στη συνοικία",
+    "MeadDistrict_short_info": "Δημιουργεί χώρο για κτίρια υδρομελιού"
   },
   "dialogs": {
     "dialog_festival_desc": "Χρησιμοποιήστε τρόφιμα, για να διοργανώσετε μία γιορτή για τους πολίτες σας!\nΌσο διαρκεί η γιορτή, η ταχύτητα στρατολόγησης σ όλα τα κάστρα σας θ αυξηθεί. Όσο μεγαλύτερη είναι η γιορτή, τόσο μεγαλύτερη είναι και η επίδραση.",
@@ -11632,8 +11632,8 @@
     "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction": "Αναμονή επίθεσης για στρατόπεδα Σαμουράι",
     "dialog_generals_overview_selectPvEGeneral_tab": "Οι στρατηγοί σου",
     "dialog_generals_overview_selectGeneral_tab": "Οι στρατηγοί σου",
-    "effect_description_attackBoostUnitBloodcrowsCI": "+{0} δύναμη μάχης κατά την επίθεση σε ξένα κάστρα (επίδραση αντικειμένου ενίσχυσης)",
-    "effect_description_attackBoostUnitAliensCI": "+{0} δύναμη μάχης κατά την επίθεση σε ξένα κάστρα (επίδραση αντικειμένου ενίσχυσης)",
+    "effect_description_attackBoostUnitBloodcrowsCI": "+{0}% δύναμη μάχης κατά την επίθεση σε ξένα κάστρα (επίδραση αντικειμένου ενίσχυσης)",
+    "effect_description_attackBoostUnitAliensCI": "+{0}% δύναμη μάχης κατά την επίθεση σε ξένα κάστρα (επίδραση αντικειμένου ενίσχυσης)",
     "ci_effect_attackBoostUnitBloodcrows_tt": "Δύναμη μάχης κατά την επίθεση σε κάστρα του Μπλαντκράου:",
     "ci_effect_attackBoostUnitAliens_tt": "Δύναμη μάχης κατά την επίθεση σε ξένα κάστρα:",
     "dialog_listOverview_castleBurning_desc": "Κτίρια με ζημιά σε αυτό το κάστρο",
@@ -11708,7 +11708,9 @@
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_desc": "Αυξάνει το μπόνους χρόνου ίασης για μονάδες ρουμπινιών &amp; νομισμάτων. Τα κόστη πληρώνονται χρησιμοποιώντας το ταμείο συμμαχίας.",
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_percentage": "Μπόνους ταχύτητας ίασης για μονάδες ρουμπινιών &amp; νομισμάτων: +{0}%",
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost": "Μπόνους ταχύτητας ίασης για μονάδες ρουμπινιών &amp; νομισμάτων",
-    "dialog_specialOffer_copy2_3": "Πάρε {0}% περισσότερα ρουμπίνια."
+    "dialog_specialOffer_copy2_3": "Πάρε {0}% περισσότερα ρουμπίνια.",
+    "dialog_specialOffer_limitedTime_lineBreak": "ΓΙΑ ΠΕΡΙΟΡΙΣΜΕΝΟ \nΧΡΟΝΟ!",
+    "dialog_saveAccount_emailSent_changedBeforeRegistration_desc": "Ο διεύθυνση email σας έχει αλλάξει. Ένα email επαλήθευσης έχει σταλεί στη νέα διεύθυνση email σας. Κάντε κλικ στον σύνδεσμο στο email για να επιβεβαιώσετε την εγγραφή."
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% ταχύτητα ταξιδιού στρατού κατά τη διάρκεια κατακτήσεων",
@@ -12752,8 +12754,11 @@
     "ci_effect_attackBoostUnitBerimondKingdom_tt": "Δύναμη μάχης κατά την επίθεση σε στόχους βασιλείου του Μπέριμοντ:",
     "ci_effect_attackBoostUnitNomad": "+{0}% δύναμη μάχης κατά την επίθεση σε στρατόπεδα νομάδων",
     "ci_effect_attackBoostUnitNomad_tt": "Δύναμη μάχης κατά την επίθεση σε στρατόπεδα νομάδων:",
-    "effect_description_attackBoostUnitBerimondKingdomCI": "+{0} δύναμη μάχης κατά την επίθεση σε στόχους βασιλείου του Μπέριμοντ (επίδραση αντικειμένου ενίσχυσης)",
-    "effect_description_attackBoostUnitNomadCI": "+{0} δύναμη μάχης κατά την επίθεση σε στρατόπεδα νομάδων (επίδραση αντικειμένου ενίσχυσης)"
+    "effect_description_attackBoostUnitBerimondKingdomCI": "+{0}% δύναμη μάχης κατά την επίθεση σε στόχους βασιλείου του Μπέριμοντ (επίδραση αντικειμένου ενίσχυσης)",
+    "effect_description_attackBoostUnitNomadCI": "+{0}% δύναμη μάχης κατά την επίθεση σε στρατόπεδα νομάδων (επίδραση αντικειμένου ενίσχυσης)",
+    "equip_effect_description_attackBoostUnitAliens": "+{0}% δύναμη μάχης κατά την επίθεση σε ξένα κάστρα (επίδραση αντικειμένου ενίσχυσης)",
+    "equip_effect_description_attackBoostUnitNomad": "+{0}% δύναμη μάχης κατά την επίθεση σε στρατόπεδα νομάδων (επίδραση αντικειμένου ενίσχυσης)",
+    "equip_effect_description_attackBoostUnitBloodcrows": "+{0}% δύναμη μάχης κατά την επίθεση σε ξένα κάστρα (επίδραση αντικειμένου ενίσχυσης)"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Ήρωας",
@@ -16518,7 +16523,7 @@
     "equipment_unique_2010": "Γαλοπούλα γιορτής συγκομιδής",
     "equipment_unique_2010_desc": "Μόνο ανόητοι ήρωες ανταγωνίζονται άσκοπα αυτά τα πουλερικά. Στην εποχή μας, τα πουλιά από το Πέρα από τον Ορίζοντα χρησιμεύουν ως επιθετικά στρατεύματα και σερβίρονται σε αυτοκρατορικά συμπόσια. Μετάτρεψε τον στρατό σου σε ομάδα από επιθετικές γαλοπούλες.",
     "equipment_unique_2011": "Φθινοπωρινό αυγό",
-    "equipment_unique_2011_desc": "Ο ίδιος ο Αυτοκράτορας χαρίζει αυτά τα πολύτιμα αυγά στους πιο πιστούς υπηκόους του. Μόλις εκκολαφθούν, τα πουλιά εγγυώνται ευημερία και πλούσια σοδειά. Μετάτρεψε το κάστρο σου σε ισχυρό πυργόσπιτο γαλοπούλων.",
+    "equipment_unique_2011_desc": "Ο ίδιος ο Αυτοκράτορας χαρίζει αυτά τα πολύτιμα αυγά στους πιο πιστούς υπηκόους του. Μετάτρεψε το κάστρο σου σε ισχυρό πυργόσπιτο γαλοπούλων.",
     "equipment_unique_2008": "Τοτέμ Φίλγια",
     "equipment_unique_2008_desc": "Τα σπίτια των Βόρειων πρέπει να αντέχουν το ακραίο ψύχος και όλες τις εχθρικές επιθέσεις. Μετατρέπει το κάστρο σου σε φρούριο των Βόρειων."
   },
@@ -23114,7 +23119,8 @@
       "value_seperate_add": "+{0} | +{1}",
       "value_or_add": "+{0} ή +{1}",
       "value_or_default": "{0} ή {1}",
-      "value_brackets_subtract": "(+{0})"
+      "value_brackets_subtract": "(+{0})",
+      "value_dash_split_paragraph": "{0} - \n{1}"
     },
     "country": {
       "generic_country_AU": "Αυστραλία",

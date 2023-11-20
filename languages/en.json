@@ -11632,8 +11632,8 @@
     "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction": "Attack cooldown for samurai camps",
     "dialog_generals_overview_selectPvEGeneral_tab": "Your generals",
     "dialog_generals_overview_selectGeneral_tab": "Your generals",
-    "effect_description_attackBoostUnitBloodcrowsCI": "+{0} combat strength when attacking Bloodcrow castles (build item effect)",
-    "effect_description_attackBoostUnitAliensCI": "+{0} combat strength when attacking Foreign castles (build item effect)",
+    "effect_description_attackBoostUnitBloodcrowsCI": "+{0}% combat strength when attacking Bloodcrow castles (build item effect)",
+    "effect_description_attackBoostUnitAliensCI": "+{0}% combat strength when attacking Foreign castles (build item effect)",
     "ci_effect_attackBoostUnitBloodcrows_tt": "Combat strength when attacking Bloodcrow castles:",
     "ci_effect_attackBoostUnitAliens_tt": "Combat strength when attacking foreign castles:",
     "dialog_listOverview_castleBurning_desc": "Damaged buildings in this castle",
@@ -11709,7 +11709,8 @@
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_percentage": "Healing speed bonus for ruby &amp; coin units: +{0}%",
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost": "Healing speed bonus for ruby &amp; coin units",
     "dialog_specialOffer_copy2_3": "Get {0}% more rubies!",
-    "dialog_specialOffer_limitedTime_lineBreak": "LIMITED \nTIME!"
+    "dialog_specialOffer_limitedTime_lineBreak": "LIMITED \nTIME!",
+    "dialog_saveAccount_emailSent_changedBeforeRegistration_desc": "Your email address has been changed. A verification email has been sent to your new email address. Click on the link in the email to confirm the registration."
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% army travel speed during conquests",
@@ -12753,8 +12754,11 @@
     "ci_effect_attackBoostUnitBerimondKingdom_tt": "Combat strength when attacking Berimond kingdom targets:",
     "ci_effect_attackBoostUnitNomad": "+{0}% combat strength when attacking nomad camps",
     "ci_effect_attackBoostUnitNomad_tt": "Combat strength when attacking nomad camps:",
-    "effect_description_attackBoostUnitBerimondKingdomCI": "+{0} combat strength when attacking Berimond kingdom targets (build item effect)",
-    "effect_description_attackBoostUnitNomadCI": "+{0} combat strength when attacking nomad camps (build item effect)"
+    "effect_description_attackBoostUnitBerimondKingdomCI": "+{0}% combat strength when attacking Berimond kingdom targets (build item effect)",
+    "effect_description_attackBoostUnitNomadCI": "+{0}% combat strength when attacking nomad camps (build item effect)",
+    "equip_effect_description_attackBoostUnitAliens": "+{0}% combat strength when attacking Foreign castles (build item effect)",
+    "equip_effect_description_attackBoostUnitNomad": "+{0}% combat strength when attacking nomad camps (build item effect)",
+    "equip_effect_description_attackBoostUnitBloodcrows": "+{0}% combat strength when attacking Bloodcrow castles (build item effect)"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Hero",
@@ -23115,7 +23119,8 @@
       "value_seperate_add": "+{0} | +{1}",
       "value_or_add": "+{0} or +{1}",
       "value_or_default": "{0} or {1}",
-      "value_brackets_subtract": "(-{0})"
+      "value_brackets_subtract": "(-{0})",
+      "value_dash_split_paragraph": "{0} - \n{1}"
     },
     "country": {
       "generic_country_AU": "Australia",

@@ -1857,9 +1857,9 @@
     "ci_appearance_dragonriderHospital_flavour": "Tutejsi medycy specjalizują się w leczeniu ugryzień, poparzeń oraz obrażeń wynikających z upadków ze znacznych wysokości.",
     "deco_dragonridercabin_name": "Chata z Ognistych Szczytów",
     "deco_dragonriderdragonnest_name": "Wylęgarnia smoków",
-    "MeadDistrict_name": "Mead district",
-    "MeadDistrict_upgrade_info": "Increases space inside the district",
-    "MeadDistrict_short_info": "Creates space for mead buildings"
+    "MeadDistrict_name": "Dzielnica miodu pitnego",
+    "MeadDistrict_upgrade_info": "Zwiększa ilość miejsca w obrębie dzielnicy",
+    "MeadDistrict_short_info": "Zapewnia miejsce na budynki miodu pitnego"
   },
   "dialogs": {
     "dialog_festival_desc": "Użyj jedzenia, aby zorganizować święto dla Twoich obywateli! Szybkość rekrutacji znacznie będzie rosła we wszystkich twoich zamkach przez czas obchodów święta. Im większe święto, tym większe efekty.",
@@ -11632,8 +11632,8 @@
     "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction": "Ochłonięcie po ataku na obóz samurajów",
     "dialog_generals_overview_selectPvEGeneral_tab": "Twoi generałowie",
     "dialog_generals_overview_selectGeneral_tab": "Twoi generałowie",
-    "effect_description_attackBoostUnitBloodcrowsCI": "+{0} pkt siły bojowej podczas ataków na zamki Krwawych Kruków (efekt elementu budynku)",
-    "effect_description_attackBoostUnitAliensCI": "+{0} pkt siły bojowej podczas ataków na obce zamki (efekt elementu budynku)",
+    "effect_description_attackBoostUnitBloodcrowsCI": "+{0}% pkt siły bojowej podczas ataków na zamki Krwawych Kruków (efekt elementu budynku)",
+    "effect_description_attackBoostUnitAliensCI": "+{0}% pkt siły bojowej podczas ataków na obce zamki (efekt elementu budynku)",
     "ci_effect_attackBoostUnitBloodcrows_tt": "Siła bojowa podczas ataków na zamki Krwawych Kruków:",
     "ci_effect_attackBoostUnitAliens_tt": "Siła bojowa podczas ataków na obce zamki:",
     "dialog_listOverview_castleBurning_desc": "Uszkodzone budynki w tym zamku",
@@ -11708,7 +11708,9 @@
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_desc": "Zwiększa premię do szybkości leczenia jednostek rubinowych i monetowych. Koszty pokrywane są z funduszów sojuszu.",
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_percentage": "Premia do leczenia jednostek rubinowych i monetowych: +{0}%",
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost": "Premia do szybkości leczenia jednostek rubinowych i monetowych",
-    "dialog_specialOffer_copy2_3": "Zdobądź {0}% rubinów więcej."
+    "dialog_specialOffer_copy2_3": "Zdobądź {0}% rubinów więcej.",
+    "dialog_specialOffer_limitedTime_lineBreak": "TYLKO \nTERAZ!",
+    "dialog_saveAccount_emailSent_changedBeforeRegistration_desc": "Twój adres email został zmieniony. Na twój nowy adres email została wysłana wiadomość weryfikacyjna. Kliknij na link w emailu, aby potwierdzić rejestrację."
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% prędkości przemieszczania armii podczas podbojów",
@@ -12752,8 +12754,11 @@
     "ci_effect_attackBoostUnitBerimondKingdom_tt": "Siła bojowa podczas ataków na cele z królestwa Berimondu:",
     "ci_effect_attackBoostUnitNomad": "+{0}% siły bojowej podczas ataków na obozy nomadów",
     "ci_effect_attackBoostUnitNomad_tt": "Siła bojowa podczas ataków na obozy nomadów:",
-    "effect_description_attackBoostUnitBerimondKingdomCI": "+{0} siły bojowej podczas ataków na cele z królestwa Berimondu (efekt elementu budynku)",
-    "effect_description_attackBoostUnitNomadCI": "+{0} siły bojowej podczas ataków na obozy nomadów (efekt elementu budynku)"
+    "effect_description_attackBoostUnitBerimondKingdomCI": "+{0}% siły bojowej podczas ataków na cele z królestwa Berimondu (efekt elementu budynku)",
+    "effect_description_attackBoostUnitNomadCI": "+{0}% siły bojowej podczas ataków na obozy nomadów (efekt elementu budynku)",
+    "equip_effect_description_attackBoostUnitAliens": "+{0}% pkt siły bojowej podczas ataków na obce zamki (efekt elementu budynku)",
+    "equip_effect_description_attackBoostUnitNomad": "+{0}% siły bojowej podczas ataków na obozy nomadów (efekt elementu budynku)",
+    "equip_effect_description_attackBoostUnitBloodcrows": "+{0}% pkt siły bojowej podczas ataków na zamki Krwawych Kruków (efekt elementu budynku)"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Bohater",
@@ -16518,7 +16523,7 @@
     "equipment_unique_2010": "Uczta z żarłocznym ptakiem",
     "equipment_unique_2010_desc": "Jedynie nieroztropni awanturnicy niepotrzebnie niepokoją to ptactwo. Owe ptaki z krain za horyzontem wykorzystywane są w formie wojsk uderzeniowych i serwowane są na cesarskich ucztach. Przekształca twoją armię w stado żarłocznych ptaków.",
     "equipment_unique_2011": "Jesienne jajko",
-    "equipment_unique_2011_desc": "Cesarz przekazuje te drogocenne jaja swoim najwierniejszym wasalom. Ptaki, które się z nich wykluwają, gwarantują pomyślność i obfite plony. Przekształca twój zamek w opływającą w bogactwa cytadelę żarłocznego ptaka.",
+    "equipment_unique_2011_desc": "Cesarz we własnej osobie przekazuje te drogocenne jaja swoim najwierniejszym wasalom. Przekształca twój zamek w opływającą w bogactwa cytadelę żarłocznego ptaka.",
     "equipment_unique_2008": "Totem Fylgii",
     "equipment_unique_2008_desc": "Domy wojowników z Północy muszą być dość solidne, aby sprostać ekstremalnym mrozom i zakusom wrogów. Przekształca twoją armię w fortecę wojowników z Północy."
   },
@@ -23114,7 +23119,8 @@
       "value_seperate_add": "+ {0} | + {1}",
       "value_or_add": "+ {0} lub + {1}",
       "value_or_default": "{0} lub {1}",
-      "value_brackets_subtract": "(- {0})"
+      "value_brackets_subtract": "(- {0})",
+      "value_dash_split_paragraph": "{0} - \n{1}"
     },
     "country": {
       "generic_country_AU": "Australia",

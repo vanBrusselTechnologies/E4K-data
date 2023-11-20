@@ -1857,9 +1857,9 @@
     "ci_appearance_dragonriderHospital_flavour": "Şifacılar; ısırıkları, ciddi yanıkları ve her türlü düşüş hasarını tedavi etmekte yeteneklidir.",
     "deco_dragonridercabin_name": "Ateş Tepeleri kulübesi",
     "deco_dragonriderdragonnest_name": "Ejderha kuluçkası",
-    "MeadDistrict_name": "Mead district",
-    "MeadDistrict_upgrade_info": "Increases space inside the district",
-    "MeadDistrict_short_info": "Creates space for mead buildings"
+    "MeadDistrict_name": "Bal şarabı bölgesi",
+    "MeadDistrict_upgrade_info": "Bölgenin içindeki alanı artırır",
+    "MeadDistrict_short_info": "Bal şarabı binaları için yer açar"
   },
   "dialogs": {
     "dialog_festival_desc": "Yurttaşlarınıza bir şenlik düzenlemek için yiyecek kullanın!\nŞenlik devam ettiği sürece askere alma hızı tüm kalelerinizde belirgin şekilde artacak. Şenlik ne kadar büyük olursa, etkisi de o kadar büyük olur.",
@@ -11632,8 +11632,8 @@
     "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction": "Samuray kampları için saldırı bekleme süresi",
     "dialog_generals_overview_selectPvEGeneral_tab": "Generallerin",
     "dialog_generals_overview_selectGeneral_tab": "Generallerin",
-    "effect_description_attackBoostUnitBloodcrowsCI": "+{0} - Kan Kargası kalelerine saldırırken savaş gücü (inşa öğesi etkisi)",
-    "effect_description_attackBoostUnitAliensCI": "+{0} - Yabancı kalelerine saldırırken savaş gücü (inşa öğesi etkisi)",
+    "effect_description_attackBoostUnitBloodcrowsCI": "+{0}% - Kan Kargası kalelerine saldırırken savaş gücü (inşa öğesi etkisi)",
+    "effect_description_attackBoostUnitAliensCI": "+{0}% - Yabancı kalelerine saldırırken savaş gücü (inşa öğesi etkisi)",
     "ci_effect_attackBoostUnitBloodcrows_tt": "Kan Kargası kalelerine saldırırken savaş gücü:",
     "ci_effect_attackBoostUnitAliens_tt": "Yabancı kalelerine saldırırken savaş gücü:",
     "dialog_listOverview_castleBurning_desc": "Bu kaledeki hasarlı binalar",
@@ -11708,7 +11708,9 @@
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_desc": "Yakut ve para birimleri için iyileşme hızı bonusunu artırır. Maliyetler, ittifak kasasından ödenir.",
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_percentage": "Yakut ve para birimleri için iyileşme hızı bonusu: +%{0}",
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost": "Yakut ve para birlikleri için iyileşme hızı bonusu",
-    "dialog_specialOffer_copy2_3": "%{0} daha fazla yakut al."
+    "dialog_specialOffer_copy2_3": "%{0} daha fazla yakut al.",
+    "dialog_specialOffer_limitedTime_lineBreak": "KISITLI \nSÜRE!",
+    "dialog_saveAccount_emailSent_changedBeforeRegistration_desc": "E-posta adresiniz değiştirildi. Yeni e-posta adresinize bir doğrulama e-postası gönderildi. Kaydı onaylamak için e-postadaki bağlantıya tıklayın."
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+%{0} - Fetihlerde ordu yolculuk hızı",
@@ -12752,8 +12754,11 @@
     "ci_effect_attackBoostUnitBerimondKingdom_tt": "Berimond krallık hedeflerine saldırırken savaş gücü:",
     "ci_effect_attackBoostUnitNomad": "+{0}% - Göçebe kamplarına saldırırken savaş gücü",
     "ci_effect_attackBoostUnitNomad_tt": "Göçebe kamplarına saldırırken savaş gücü:",
-    "effect_description_attackBoostUnitBerimondKingdomCI": "+{0} - Berimond krallık hedeflerine saldırırken savaş gücü (inşa öğesi etkisi)",
-    "effect_description_attackBoostUnitNomadCI": "+{0} - Göçebe kamplarına saldırırken savaş gücü (inşa öğesi etkisi)"
+    "effect_description_attackBoostUnitBerimondKingdomCI": "+{0}% - Berimond krallık hedeflerine saldırırken savaş gücü (inşa öğesi etkisi)",
+    "effect_description_attackBoostUnitNomadCI": "+{0}% - Göçebe kamplarına saldırırken savaş gücü (inşa öğesi etkisi)",
+    "equip_effect_description_attackBoostUnitAliens": "+{0}% - Yabancı kalelerine saldırırken savaş gücü (inşa öğesi etkisi)",
+    "equip_effect_description_attackBoostUnitNomad": "+{0}% - Göçebe kamplarına saldırırken savaş gücü (inşa öğesi etkisi)",
+    "equip_effect_description_attackBoostUnitBloodcrows": "+{0}% - Kan Kargası kalelerine saldırırken savaş gücü (inşa öğesi etkisi)"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Kahraman",
@@ -16518,7 +16523,7 @@
     "equipment_unique_2010": "Hasat ziyafeti hindisi",
     "equipment_unique_2010_desc": "Ancak ahmak kahramanlar bu hayvanlara boş yere düşman olur. Bugünlerde Ufuk Ötesinden gelen kuşlar, imparatorluğun hücum birlikleri olarak kullanılıyor ve imparatorluk ziyafetlerinde servis ediliyor. Ordunu hücum eden hindilerden oluşan bir gruba dönüştürür.",
     "equipment_unique_2011": "Sonbahar yumurtası",
-    "equipment_unique_2011_desc": "İmparator, bu değerli yumurtaları en sadık vatandaşlarına bizzat verir. Kuşlar, yumurtadan çıktıkları andan itibaren refahı ve bereketli hasadı temin eder. Kaleni müreffeh bir hindi sığınağına dönüştürür.",
+    "equipment_unique_2011_desc": "İmparator, bu değerli yumurtaları en sadık vatandaşlarına bizzat verir. Kaleni müreffeh bir hindi sığınağına dönüştürür.",
     "equipment_unique_2008": "Fylgja totemi",
     "equipment_unique_2008_desc": "Vikinglerin evleri, aşırı soğuğa ve düşman saldırılarına karşı dayanıklı olmalıdır. Kaleni bir Viking hisarına dönüştürür."
   },
@@ -23114,7 +23119,8 @@
       "value_seperate_add": "+{0} | +{1}",
       "value_or_add": "+{0} veya +{1}",
       "value_or_default": "{0} veya {1}",
-      "value_brackets_subtract": "(-{0})"
+      "value_brackets_subtract": "(-{0})",
+      "value_dash_split_paragraph": "{0} - \n{1}"
     },
     "country": {
       "generic_country_AU": "Avustralya",

@@ -1857,9 +1857,9 @@
     "ci_appearance_dragonriderHospital_flavour": "De genezers zijn vaardige verzorgers van bijtwonden, ernstige brandwonden en allerlei soorten valschade.",
     "deco_dragonridercabin_name": "Vuurtoppen-huisje",
     "deco_dragonriderdragonnest_name": "Drakenbroedplaats",
-    "MeadDistrict_name": "Mead district",
-    "MeadDistrict_upgrade_info": "Increases space inside the district",
-    "MeadDistrict_short_info": "Creates space for mead buildings"
+    "MeadDistrict_name": "Honingwijndistrict",
+    "MeadDistrict_upgrade_info": "Vergroot de ruimte binnen het district",
+    "MeadDistrict_short_info": "Creëert ruimte voor honingwijngebouwen"
   },
   "dialogs": {
     "dialog_festival_desc": "Gebruik voedsel om een festival te geven voor uw burgers! Zolang het festival duurt, wordt er in al uw kastelen aanmerkelijk sneller gerekruteerd. Hoe groter het festival, hoe groter het effect.",
@@ -11632,8 +11632,8 @@
     "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction": "Aanvalsafkoeling voor samoerai-kampen",
     "dialog_generals_overview_selectPvEGeneral_tab": "Jouw generaals",
     "dialog_generals_overview_selectGeneral_tab": "Jouw generaals",
-    "effect_description_attackBoostUnitBloodcrowsCI": "+{0} vechtkracht bij aanvallen op Bloedkraai-kastelen (bouwitem-effect)",
-    "effect_description_attackBoostUnitAliensCI": "+{0} vechtkracht bij aanvallen op buitenlandse kastelen (bouwitem-effect)",
+    "effect_description_attackBoostUnitBloodcrowsCI": "+{0}% vechtkracht bij aanvallen op Bloedkraai-kastelen (bouwitem-effect)",
+    "effect_description_attackBoostUnitAliensCI": "+{0}% vechtkracht bij aanvallen op buitenlandse kastelen (bouwitem-effect)",
     "ci_effect_attackBoostUnitBloodcrows_tt": "Vechtkracht bij aanvallen op Bloedkraai-kastelen:",
     "ci_effect_attackBoostUnitAliens_tt": "Vechtkracht bij aanvallen op buitenlandse kastelen:",
     "dialog_listOverview_castleBurning_desc": "Beschadigde gebouwen in dit kasteel",
@@ -11708,7 +11708,9 @@
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_desc": "Verhoog de genezingssnelheidsbonus voor robijn- en munteenheden. De kosten worden betaald uit de bondgenootschapskas.",
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_percentage": "Genezingssnelheidsbonus voor robijn- en munteenheden: +{0}%",
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost": "Genezingssnelheidsbonus voor robijn- en munteenheden",
-    "dialog_specialOffer_copy2_3": "Haal nog {0}% robijnen."
+    "dialog_specialOffer_copy2_3": "Haal nog {0}% robijnen.",
+    "dialog_specialOffer_limitedTime_lineBreak": "TIJDELIJK!",
+    "dialog_saveAccount_emailSent_changedBeforeRegistration_desc": "Je e-mailadres is gewijzigd. Er is een verificatie-e-mail naar je nieuwe e-mailadres gestuurd. Klik op de link in de e-mail om de registratie te bevestigen."
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% reissnelheid leger tijdens veroveringen",
@@ -12752,8 +12754,11 @@
     "ci_effect_attackBoostUnitBerimondKingdom_tt": "Vechtkracht bij aanvallen op doelen in het Berimond-koninkrijk:",
     "ci_effect_attackBoostUnitNomad": "+{0}% vechtkracht bij aanvallen op nomadenkampen",
     "ci_effect_attackBoostUnitNomad_tt": "Vechtkracht bij aanvallen op nomadenkampen:",
-    "effect_description_attackBoostUnitBerimondKingdomCI": "+{0} vechtkracht bij aanvallen op doelen in het Berimond-koninkrijk (bouwitem-effect)",
-    "effect_description_attackBoostUnitNomadCI": "+{0} vechtkracht bij aanvallen op nomadenkampen (bouwitem-effect)"
+    "effect_description_attackBoostUnitBerimondKingdomCI": "+{0}% vechtkracht bij aanvallen op doelen in het Berimond-koninkrijk (bouwitem-effect)",
+    "effect_description_attackBoostUnitNomadCI": "+{0}% vechtkracht bij aanvallen op nomadenkampen (bouwitem-effect)",
+    "equip_effect_description_attackBoostUnitAliens": "+{0}% vechtkracht bij aanvallen op buitenlandse kastelen (bouwitem-effect)",
+    "equip_effect_description_attackBoostUnitNomad": "+{0}% vechtkracht bij aanvallen op nomadenkampen (bouwitem-effect)",
+    "equip_effect_description_attackBoostUnitBloodcrows": "+{0}% vechtkracht bij aanvallen op Bloedkraai-kastelen (bouwitem-effect)"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Held",
@@ -16518,7 +16523,7 @@
     "equipment_unique_2010": "Oogstfeestmaal",
     "equipment_unique_2010_desc": "Alleen dwaze helden jagen deze hoenders nodeloos tegen zich in het harnas. Tegenwoordig dienen de vogels van Voorbij de horizon als keizerlijke stoottroepen en worden geserveerd bij koninklijke banketten. Transformeert je leger in een bende aanvallende kalkoenen.",
     "equipment_unique_2011": "Herfstei",
-    "equipment_unique_2011_desc": "De keizer zelf schenkt deze kostbare eieren aan zijn trouwste vazallen. Na het uitbroeden garanderen de vogels voorspoed en een rijke oogst. Transformeert je kasteel in een welvarend kalkoenenbastion.",
+    "equipment_unique_2011_desc": "De keizer zelf schenkt deze kostbare eieren aan zijn trouwste vazallen. Verandert je kasteel in een welvarend kalkoenenbastion.",
     "equipment_unique_2008": "Fylgja-totem",
     "equipment_unique_2008_desc": "De huizen van de noorderlingen moeten de extreme kou en aanvallen van de vijand kunnen trotseren. Transformeert je kasteel in een fort van noorderlingen."
   },
@@ -23114,7 +23119,8 @@
       "value_seperate_add": "+{0} | +{1}",
       "value_or_add": "+{0} of +{1}",
       "value_or_default": "{0} of {1}",
-      "value_brackets_subtract": "(-{0})"
+      "value_brackets_subtract": "(-{0})",
+      "value_dash_split_paragraph": "{0} - \n{1}"
     },
     "country": {
       "generic_country_AU": "Australië",

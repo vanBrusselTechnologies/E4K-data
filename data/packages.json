@@ -3050,9 +3050,7 @@
       "costSamuraiMedal": 6,
       "unitID": 16,
       "unitAmount": 1,
-      "minLevel": 70,
-      "stock": 1000,
-      "notRebuyable": 0
+      "minLevel": 70
     },
     {
       "packageID": 3379,
@@ -3064,9 +3062,7 @@
       "costSamuraiMedal": 5,
       "unitID": 24,
       "unitAmount": 1,
-      "minLevel": 70,
-      "stock": 2000,
-      "notRebuyable": 0
+      "minLevel": 70
     },
     {
       "packageID": 124,
@@ -29665,7 +29661,7 @@
     },
     {
       "packageID": 3204,
-      "packageType": "resources",
+      "packageType": "c1",
       "comment1": "Nomad EDS Shop (2023) - Khan Tablets",
       "comment2": "Coins",
       "sortOrder": 5,
@@ -30438,7 +30434,7 @@
       "costKhanTablet": 10000,
       "minLevel": 45,
       "stock": 1,
-      "constructionItemID": 30472,
+      "constructionItemID": 30482,
       "constructionItemAmount": 1
     },
     {
@@ -30451,7 +30447,7 @@
       "costKhanTablet": 20000,
       "minLevel": 45,
       "stock": 1,
-      "constructionItemID": 30472,
+      "constructionItemID": 30482,
       "constructionItemAmount": 1
     },
     {
@@ -30464,7 +30460,7 @@
       "costKhanTablet": 25000,
       "minLevel": 45,
       "stock": 1,
-      "constructionItemID": 30473,
+      "constructionItemID": 30483,
       "constructionItemAmount": 1
     },
     {
@@ -30477,7 +30473,7 @@
       "costKhanTablet": 75000,
       "minLevel": 45,
       "stock": 1,
-      "constructionItemID": 30473,
+      "constructionItemID": 30483,
       "constructionItemAmount": 1
     },
     {
@@ -30490,7 +30486,7 @@
       "costKhanTablet": 10000,
       "minLevel": 45,
       "stock": 1,
-      "constructionItemID": 30480,
+      "constructionItemID": 30470,
       "constructionItemAmount": 1
     },
     {
@@ -30503,7 +30499,7 @@
       "costKhanTablet": 15000,
       "minLevel": 45,
       "stock": 1,
-      "constructionItemID": 30480,
+      "constructionItemID": 30470,
       "constructionItemAmount": 1
     },
     {
@@ -30516,7 +30512,7 @@
       "costKhanTablet": 25000,
       "minLevel": 45,
       "stock": 1,
-      "constructionItemID": 30481,
+      "constructionItemID": 30471,
       "constructionItemAmount": 1
     },
     {
@@ -30529,7 +30525,7 @@
       "costKhanTablet": 50000,
       "minLevel": 45,
       "stock": 1,
-      "constructionItemID": 30481,
+      "constructionItemID": 30471,
       "constructionItemAmount": 1
     },
     {
@@ -31467,7 +31463,7 @@
       "costKhanMedal": 50000,
       "minLevel": 70,
       "stock": 1,
-      "constructionItemID": 30472,
+      "constructionItemID": 30482,
       "constructionItemAmount": 1
     },
     {
@@ -31480,7 +31476,7 @@
       "costKhanMedal": 100000,
       "minLevel": 70,
       "stock": 1,
-      "constructionItemID": 30472,
+      "constructionItemID": 30482,
       "constructionItemAmount": 1
     },
     {
@@ -31493,7 +31489,7 @@
       "costKhanMedal": 400000,
       "minLevel": 70,
       "stock": 1,
-      "constructionItemID": 30472,
+      "constructionItemID": 30482,
       "constructionItemAmount": 1
     },
     {
@@ -31506,7 +31502,7 @@
       "costKhanMedal": 150000,
       "minLevel": 70,
       "stock": 1,
-      "constructionItemID": 30473,
+      "constructionItemID": 30483,
       "constructionItemAmount": 1
     },
     {
@@ -31519,7 +31515,7 @@
       "costKhanMedal": 300000,
       "minLevel": 70,
       "stock": 1,
-      "constructionItemID": 30473,
+      "constructionItemID": 30483,
       "constructionItemAmount": 1
     },
     {
@@ -31532,7 +31528,7 @@
       "costKhanMedal": 900000,
       "minLevel": 70,
       "stock": 1,
-      "constructionItemID": 30473,
+      "constructionItemID": 30483,
       "constructionItemAmount": 1
     },
     {

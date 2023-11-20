@@ -22697,8 +22697,8 @@
       "slotTypeID": 0,
       "duration": 86400,
       "constructionItemEffectGroupID": 51,
-      "unboostedMeadProduction": 10000,
-      "disassemblingTombolaID": 1
+      "disassemblingTombolaID": 1,
+      "effects": "296&amp;10000"
     },
     {
       "constructionItemID": 31225,
@@ -22712,8 +22712,8 @@
       "slotTypeID": 0,
       "duration": 86400,
       "constructionItemEffectGroupID": 51,
-      "unboostedMeadProduction": 12500,
-      "disassemblingTombolaID": 1
+      "disassemblingTombolaID": 1,
+      "effects": "296&amp;12500"
     },
     {
       "constructionItemID": 31229,
@@ -22727,8 +22727,8 @@
       "slotTypeID": 0,
       "duration": 86400,
       "constructionItemEffectGroupID": 51,
-      "unboostedMeadProduction": 15000,
-      "disassemblingTombolaID": 1
+      "disassemblingTombolaID": 1,
+      "effects": "296&amp;15000"
     },
     {
       "constructionItemID": 31233,

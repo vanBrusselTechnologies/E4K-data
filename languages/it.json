@@ -1857,9 +1857,9 @@
     "ci_appearance_dragonriderHospital_flavour": "I guaritori sono esperti nel trattare ferite da morso, ustioni gravi e tutti i tipi di danni da caduta.",
     "deco_dragonridercabin_name": "Baita delle Vette della Fiamma",
     "deco_dragonriderdragonnest_name": "Cova del drago",
-    "MeadDistrict_name": "Mead district",
-    "MeadDistrict_upgrade_info": "Increases space inside the district",
-    "MeadDistrict_short_info": "Creates space for mead buildings"
+    "MeadDistrict_name": "Distretto dellidromele",
+    "MeadDistrict_upgrade_info": "Aumenta lo spazio allinterno del distretto",
+    "MeadDistrict_short_info": "Crea spazio per edifici relativi allidromele"
   },
   "dialogs": {
     "dialog_festival_desc": "Usa il cibo per organizzare un banchetto per i tuoi cittadini! La velocità di reclutamento aumenterà notevolmente in tutti i castelli per la durata del banchetto. Più grande è il banchetto, maggiore sarà leffetto.",
@@ -11632,8 +11632,8 @@
     "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction": "Recupero da attacchi per accampamenti dei samurai",
     "dialog_generals_overview_selectPvEGeneral_tab": "I tuoi generali",
     "dialog_generals_overview_selectGeneral_tab": "I tuoi generali",
-    "effect_description_attackBoostUnitBloodcrowsCI": "+{0} alla forza in combattimento negli attacchi contro i castelli dei corvicremisi (effetto delloggetto di costruzione).",
-    "effect_description_attackBoostUnitAliensCI": "+{0} alla forza in combattimento negli attacchi contro i castelli stranieri (effetto delloggetto di costruzione).",
+    "effect_description_attackBoostUnitBloodcrowsCI": "+{0}% alla forza in combattimento negli attacchi contro i castelli dei corvicremisi (effetto delloggetto di costruzione).",
+    "effect_description_attackBoostUnitAliensCI": "+{0}% alla forza in combattimento negli attacchi contro i castelli stranieri (effetto oggetto di costruzione).",
     "ci_effect_attackBoostUnitBloodcrows_tt": "Forza in combattimento negli attacchi contro i castelli dei corvicremisi:",
     "ci_effect_attackBoostUnitAliens_tt": "Forza in combattimento negli attacchi contro i castelli stranieri:",
     "dialog_listOverview_castleBurning_desc": "Edifici danneggiati in questo castello",
@@ -11708,7 +11708,9 @@
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_desc": "Aumenta il bonus alla velocità di guarigione per unità di rubini e monete. I costi vengono pagati utilizzando le casse della coalizione.",
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_percentage": "Bonus alla velocità di guarigione per unità di rubini e monete: +{0}%",
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost": "Bonus alla velocità di guarigione per unità di rubini e monete",
-    "dialog_specialOffer_copy2_3": "Ottieni il {0}% in più di rubini."
+    "dialog_specialOffer_copy2_3": "Ottieni il {0}% in più di rubini.",
+    "dialog_specialOffer_limitedTime_lineBreak": "TEMPO \nLIMITATO!",
+    "dialog_saveAccount_emailSent_changedBeforeRegistration_desc": "Il tuo indirizzo email è stato modificato. È stata inviata unemail di verifica al tuo nuovo indirizzo email. Clicca sul link presente nellemail per confermare la registrazione."
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% alla velocità di viaggio della milizia durante le conquiste",
@@ -12752,8 +12754,11 @@
     "ci_effect_attackBoostUnitBerimondKingdom_tt": "Forza in combattimento negli attacchi contro i bersagli del regno di Berimond:",
     "ci_effect_attackBoostUnitNomad": "+{0}% alla forza in combattimento negli attacchi contro gli accampamenti dei nomadi",
     "ci_effect_attackBoostUnitNomad_tt": "Forza in combattimento negli attacchi contro gli accampamenti dei nomadi:",
-    "effect_description_attackBoostUnitBerimondKingdomCI": "+{0} forza combattimento in attacchi contro bersagli di Berimond (effetto delloggetto di costruzione).",
-    "effect_description_attackBoostUnitNomadCI": "+{0} forza combattimento in attacchi contro accampamenti dei nomadi (effetto oggetto di costruzione)."
+    "effect_description_attackBoostUnitBerimondKingdomCI": "+{0}% forza combattimento in attacchi contro bersagli di Berimond (effetto delloggetto di costruzione).",
+    "effect_description_attackBoostUnitNomadCI": "+{0}% forza combattimento in attacchi contro accampamenti dei nomadi (effetto oggetto di costruzione).",
+    "equip_effect_description_attackBoostUnitAliens": "+{0}% alla forza in combattimento negli attacchi contro i castelli stranieri (effetto oggetto di costruzione).",
+    "equip_effect_description_attackBoostUnitNomad": "+{0}% forza combattimento in attacchi contro accampamenti dei nomadi (effetto oggetto di costruzione).",
+    "equip_effect_description_attackBoostUnitBloodcrows": "+{0}% alla forza in combattimento negli attacchi contro i castelli dei corvicremisi (effetto delloggetto di costruzione)."
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Eroe",
@@ -16518,7 +16523,7 @@
     "equipment_unique_2010": "Tacchino del banchetto autunnale",
     "equipment_unique_2010_desc": "Solo gli eroi sciocchi si inimicano inutilmente questi volatili. Oggigiorno, gli uccelli di Oltre lorizzonte servono come truppe dassalto imperiali e vengono serviti ai banchetti. Trasforma la tua milizia in una banda di tacchini alla carica.",
     "equipment_unique_2011": "Uovo autunnale",
-    "equipment_unique_2011_desc": "LImperatore concede queste preziose uova ai suoi vassalli più fedeli. Una volta nati, i volatili sono garanti di prosperità e di un raccolto abbondante. Trasforma il tuo castello in una prospera roccaforte dei tacchini.",
+    "equipment_unique_2011_desc": "LImperatore concede queste preziose uova ai suoi vassalli più fedeli. Trasforma il tuo castello in una prospera roccaforte dei tacchini.",
     "equipment_unique_2008": "Totem del fylgja",
     "equipment_unique_2008_desc": "Le case dei vichinghi devono resistere al freddo estremo e a qualsiasi assalto nemico. Trasforma il tuo castello in una fortezza dei vichinghi."
   },
@@ -23114,7 +23119,8 @@
       "value_seperate_add": "+{0} | +{1}",
       "value_or_add": "+{0} o +{1}",
       "value_or_default": "{0} o {1}",
-      "value_brackets_subtract": "(-{0})"
+      "value_brackets_subtract": "(-{0})",
+      "value_dash_split_paragraph": "{0} - {1}"
     },
     "country": {
       "generic_country_AU": "Australia",

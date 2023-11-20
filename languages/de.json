@@ -1857,9 +1857,9 @@
     "ci_appearance_dragonriderHospital_flavour": "Die Heiler haben Erfahrung mit Bisswunden, schweren Verbrennungen und allen Arten von Sturzverletzungen.",
     "deco_dragonridercabin_name": "Feuergipfelhütte",
     "deco_dragonriderdragonnest_name": "Drachenzucht",
-    "MeadDistrict_name": "Mead district",
-    "MeadDistrict_upgrade_info": "Increases space inside the district",
-    "MeadDistrict_short_info": "Creates space for mead buildings"
+    "MeadDistrict_name": "Metbezirk",
+    "MeadDistrict_upgrade_info": "Erhöht den Platz im Bezirk",
+    "MeadDistrict_short_info": "Schafft Platz für Metgebäude"
   },
   "dialogs": {
     "dialog_festival_desc": "Setzt Nahrung ein, um ein Fest für Eure Bürger zu feiern!\nSolange das Fest läuft, wird die Rekrutierungsgeschwindigkeit in all Euren Burgen deutlich erhöht. Je größer das Fest ist, desto größer ist auch der Effekt.",
@@ -11632,8 +11632,8 @@
     "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction": "Angriffscooldown für Samurailager",
     "dialog_generals_overview_selectPvEGeneral_tab": "Eure Generäle",
     "dialog_generals_overview_selectGeneral_tab": "Eure Generäle",
-    "effect_description_attackBoostUnitBloodcrowsCI": "+{0} Kampfkraft beim Angriff auf Blutkrähen-Burgen (Konstrukteffekt)",
-    "effect_description_attackBoostUnitAliensCI": "+{0} Kampfkraft beim Angriff auf fremde Burgen (Konstrukteffekt)",
+    "effect_description_attackBoostUnitBloodcrowsCI": "+{0}% Kampfkraft beim Angriff auf Blutkrähen-Burgen (Konstrukteffekt)",
+    "effect_description_attackBoostUnitAliensCI": "+{0}% Kampfkraft beim Angriff auf fremde Burgen (Konstrukteffekt)",
     "ci_effect_attackBoostUnitBloodcrows_tt": "Kampfkraft beim Angriff auf Blutkrähen-Burgen:",
     "ci_effect_attackBoostUnitAliens_tt": "Kampfkraft beim Angriff auf fremde Burgen:",
     "dialog_listOverview_castleBurning_desc": "Beschädigte Gebäude in dieser Burg",
@@ -11709,7 +11709,8 @@
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_percentage": "Heilungsgeschwindigkeit für Rubin- und Münzeinheiten: +{0} %",
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost": "Heilungsgeschwindigkeitsbonus für Rubin- und Münzeinheiten",
     "dialog_specialOffer_copy2_3": "Für Rubine gibt es {0}% oben drauf.",
-    "dialog_specialOffer_limitedTime_lineBreak": "FÜR \nKURZE ZEIT!"
+    "dialog_specialOffer_limitedTime_lineBreak": "FÜR \nKURZE ZEIT!",
+    "dialog_saveAccount_emailSent_changedBeforeRegistration_desc": "Deine E-Mail-Adresse wurde geändert. Deine neue E-Mail-Adresse wurde bestätigt. Klicke auf den Link in der E-Mail, um die Anmeldung abzuschließen."
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% Reisetempo der Armee bei Eroberungen",
@@ -12753,8 +12754,11 @@
     "ci_effect_attackBoostUnitBerimondKingdom_tt": "Kampfkraft beim Angriff auf Berimond-Königreichziele:",
     "ci_effect_attackBoostUnitNomad": "+{0}% Kampfkraft beim Angriff auf Nomadenlager",
     "ci_effect_attackBoostUnitNomad_tt": "Kampfkraft beim Angriff auf Nomadenlager:",
-    "effect_description_attackBoostUnitBerimondKingdomCI": "+{0} Kampfkraft beim Angriff auf Berimond-Königreichziele (Konstrukteffekt)",
-    "effect_description_attackBoostUnitNomadCI": "+{0} Kampfkraft beim Angriff auf Nomadenlager (Konstrukteffekt)"
+    "effect_description_attackBoostUnitBerimondKingdomCI": "+{0}% Kampfkraft beim Angriff auf Berimond-Königreichziele (Konstrukteffekt)",
+    "effect_description_attackBoostUnitNomadCI": "+{0}% Kampfkraft beim Angriff auf Nomadenlager (Konstrukteffekt)",
+    "equip_effect_description_attackBoostUnitAliens": "+{0}% Kampfkraft beim Angriff auf fremde Burgen (Konstrukteffekt)",
+    "equip_effect_description_attackBoostUnitNomad": "+{0}% Kampfkraft beim Angriff auf Nomadenlager (Konstrukteffekt)",
+    "equip_effect_description_attackBoostUnitBloodcrows": "+{0}% Kampfkraft beim Angriff auf Blutkrähen-Burgen (Konstrukteffekt)"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Held",
@@ -16519,7 +16523,7 @@
     "equipment_unique_2010": "Erntefest-Truthahn",
     "equipment_unique_2010_desc": "Nur dumme Helden bringen diese Vögel unnötig gegen sich auf. Heute werden die Vögel von Jenseits des Horizonts als kaiserliche Stoßtrupps eingesetzt und bei kaiserlichen Banketten serviert. Verwandelt Eure Armee in eine Meute angriffslustiger Truthähne.",
     "equipment_unique_2011": "Herbstei",
-    "equipment_unique_2011_desc": "Der Herrscher höchstpersönlich schenkt seinen treuesten Untertanen diese wertvollen Eier. Die Vögel, die daraus schlüpfen, garantieren Wohlstand und eine reiche Ernte. Verwandelt Eure Burg in eine Truthahnfestung.",
+    "equipment_unique_2011_desc": "Der Herrscher höchstpersönlich schenkt seinen treuesten Untertanen diese wertvollen Eier. Verwandelt Eure Burg in eine Truthahnfestung.",
     "equipment_unique_2008": "Fylgja-Totem",
     "equipment_unique_2008_desc": "Die Häuser der Nordmänner müssen extremer Kälte und jedem Angriff von Feinden standhalten. Verwandelt Eure Burg in eine Nordmann-Festung."
   },
@@ -23115,7 +23119,8 @@
       "value_seperate_add": "+{0} | +{1}",
       "value_or_add": "+{0} oder +{1}",
       "value_or_default": "{0} oder {1}",
-      "value_brackets_subtract": "(-{0})"
+      "value_brackets_subtract": "(-{0})",
+      "value_dash_split_paragraph": "{0} - \n{1}"
     },
     "country": {
       "generic_country_AU": "Australien",

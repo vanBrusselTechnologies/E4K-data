@@ -2269,7 +2269,8 @@
       "name": "attackBoostUnitAliens",
       "effectTypeID": 36,
       "capID": 99,
-      "areaTypeID": 21
+      "areaTypeID": 21,
+      "sortOrder": "1.1.9"
     },
     {
       "effectID": 402,
@@ -2277,7 +2278,8 @@
       "name": "attackBoostUnitBloodcrows",
       "effectTypeID": 36,
       "capID": 99,
-      "areaTypeID": 34
+      "areaTypeID": 34,
+      "sortOrder": "1.1.9"
     },
     {
       "effectID": 403,
@@ -2285,7 +2287,8 @@
       "name": "attackBoostUnitNomad",
       "effectTypeID": 36,
       "capID": 99,
-      "areaTypeID": "27,35"
+      "areaTypeID": "27,35",
+      "sortOrder": "1.1.9"
     },
     {
       "effectID": 348,

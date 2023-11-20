@@ -1857,9 +1857,9 @@
     "ci_appearance_dragonriderHospital_flavour": "ヒーラーは咬傷、重度の火傷、あらゆる種類の落下ダメージの治療に長けています。",
     "deco_dragonridercabin_name": "炎の峰の山小屋",
     "deco_dragonriderdragonnest_name": "ドラゴン孵化場",
-    "MeadDistrict_name": "Mead district",
-    "MeadDistrict_upgrade_info": "Increases space inside the district",
-    "MeadDistrict_short_info": "Creates space for mead buildings"
+    "MeadDistrict_name": "蜂蜜酒区域",
+    "MeadDistrict_upgrade_info": "区域内のスペースを拡大します",
+    "MeadDistrict_short_info": "蜂蜜酒の建物のスペースを作成します"
   },
   "dialogs": {
     "dialog_festival_desc": "食料を集めて宴会を開きましょう！\n宴会が続く限り、兵の雇用スピードがすべての城で速くなります。宴会が豪華になるほど、効果も大きくなります。",
@@ -11632,8 +11632,8 @@
     "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction": "もののふの陣所の攻撃クールダウン",
     "dialog_generals_overview_selectPvEGeneral_tab": "あなたの総督",
     "dialog_generals_overview_selectGeneral_tab": "あなたの総督",
-    "effect_description_attackBoostUnitBloodcrowsCI": "ブラッドクロウの城を攻撃するときの戦闘力 +{0}（建設アイテムの効果）",
-    "effect_description_attackBoostUnitAliensCI": "見知らぬ城を攻撃するときの戦闘力 +{0}（建設アイテムの効果）",
+    "effect_description_attackBoostUnitBloodcrowsCI": "ブラッドクロウの城を攻撃するときの戦闘力 +{0}%（建設アイテムの効果）",
+    "effect_description_attackBoostUnitAliensCI": "見知らぬ城を攻撃するときの戦闘力 +{0}%（建設アイテムの効果）",
     "ci_effect_attackBoostUnitBloodcrows_tt": "ブラッドクロウの城を攻撃するときの戦闘力：",
     "ci_effect_attackBoostUnitAliens_tt": "見知らぬ城を攻撃するときの戦闘力：",
     "dialog_listOverview_castleBurning_desc": "この城の破損した建物",
@@ -11708,7 +11708,9 @@
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_desc": "部隊（ルビー）と部隊（コイン）の治療スピードボーナスを増加させる。 費用は同盟資金から支払われる。",
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_percentage": "部隊（ルビー）と部隊（コイン）の治療スピードボーナス：+{0}%",
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost": "ルビーとコインの部隊に対する回復スピードボーナス",
-    "dialog_specialOffer_copy2_3": "ルビーに{0}%追加されます。"
+    "dialog_specialOffer_copy2_3": "ルビーに{0}%追加されます。",
+    "dialog_specialOffer_limitedTime_lineBreak": "今だけ！",
+    "dialog_saveAccount_emailSent_changedBeforeRegistration_desc": "メールアドレスが変更されました。確認用のメールが新しいメールアドレス宛に送信されましたので、メール内のリンクをクリックして登録を確認してください。"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "占領中の軍の移動スピード　+{0}%",
@@ -12752,8 +12754,11 @@
     "ci_effect_attackBoostUnitBerimondKingdom_tt": "ベリモント王国の標的を攻撃する際の戦闘力：",
     "ci_effect_attackBoostUnitNomad": "遊牧民のキャンプを攻撃する際の戦闘力 +{0}%",
     "ci_effect_attackBoostUnitNomad_tt": "遊牧民のキャンプを攻撃する際の戦闘力：",
-    "effect_description_attackBoostUnitBerimondKingdomCI": "ベリモント王国の標的を攻撃する際の戦闘力 +{0}（建設アイテムの効果）",
-    "effect_description_attackBoostUnitNomadCI": "遊牧民のキャンプを攻撃する際の戦闘力 +{0}（建設アイテムの効果）"
+    "effect_description_attackBoostUnitBerimondKingdomCI": "ベリモント王国の標的を攻撃する際の戦闘力 +{0}%（建設アイテムの効果）",
+    "effect_description_attackBoostUnitNomadCI": "遊牧民のキャンプを攻撃する際の戦闘力 +{0}%（建設アイテムの効果）",
+    "equip_effect_description_attackBoostUnitAliens": "見知らぬ城を攻撃するときの戦闘力 +{0}%（建設アイテムの効果）",
+    "equip_effect_description_attackBoostUnitNomad": "遊牧民のキャンプを攻撃する際の戦闘力 +{0}%（建設アイテムの効果）",
+    "equip_effect_description_attackBoostUnitBloodcrows": "ブラッドクロウの城を攻撃するときの戦闘力 +{0}%（建設アイテムの効果）"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "英雄",
@@ -16518,7 +16523,7 @@
     "equipment_unique_2010": "収穫祭の七面鳥",
     "equipment_unique_2010_desc": "この鳥といたずらに戦おうとするのは、愚かな英雄だけです。地平線の彼方から来たこの鳥たちは、現在では王室の突撃部隊として使われると共に、王宮晩餐会で供されています。軍隊を七面鳥の突撃部隊に変えます。",
     "equipment_unique_2011": "秋の卵",
-    "equipment_unique_2011_desc": "皇帝は、最も忠実な家臣にこの貴重な卵を授けます。孵化した鳥は、繁栄と豊作を約束します。城を豊かな七面鳥の砦に変えます。",
+    "equipment_unique_2011_desc": "皇帝は、最も忠実な家臣にこの貴重な卵を授けます。城を豊かな七面鳥の砦に変えます。",
     "equipment_unique_2008": "フィルギャのトーテム",
     "equipment_unique_2008_desc": "北方民族の家は、極寒の気候と敵の攻撃に耐えられるものでなければなりません。 城を北方民族の要塞に変えます。"
   },
@@ -23114,7 +23119,8 @@
       "value_seperate_add": "+{0} | +{1}",
       "value_or_add": "+{0} または +{1}",
       "value_or_default": "{0} または {1}",
-      "value_brackets_subtract": "(-{0})"
+      "value_brackets_subtract": "(-{0})",
+      "value_dash_split_paragraph": "{0} - \n{1}"
     },
     "country": {
       "generic_country_AU": "オーストラリア",

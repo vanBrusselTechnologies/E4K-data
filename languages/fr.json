@@ -1857,9 +1857,9 @@
     "ci_appearance_dragonriderHospital_flavour": "Les soigneurs sont doués pour traiter les morsures, les brûlures graves et toutes sortes de dégâts de chute.",
     "deco_dragonridercabin_name": "Cabane des Pics du feu",
     "deco_dragonriderdragonnest_name": "Couveuse des dragons",
-    "MeadDistrict_name": "Mead district",
-    "MeadDistrict_upgrade_info": "Increases space inside the district",
-    "MeadDistrict_short_info": "Creates space for mead buildings"
+    "MeadDistrict_name": "Quartier de lhydromel",
+    "MeadDistrict_upgrade_info": "Augmente lespace pour les bâtiments du quartier.",
+    "MeadDistrict_short_info": "Crée un espace pour les bâtiments dhydromel."
   },
   "dialogs": {
     "dialog_festival_desc": "Utilisez de la nourriture pour organiser une fête pour vos villageois ! Tant que la fête durera, la vitesse de recrutement sera considérablement augmentée dans tous vos châteaux. Plus la fête est grande, plus son effet est important.",
@@ -11632,8 +11632,8 @@
     "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction": "Délai dattaque contre les camps de samouraïs",
     "dialog_generals_overview_selectPvEGeneral_tab": "Vos généraux",
     "dialog_generals_overview_selectGeneral_tab": "Vos généraux",
-    "effect_description_attackBoostUnitBloodcrowsCI": "Force de combat lors dattaques contre des châteaux des Corbeaux de sang : +{0} (effet dobjet de construction)",
-    "effect_description_attackBoostUnitAliensCI": "Force de combat lors dattaques contre des châteaux étrangers : +{0} (effet dobjet de construction)",
+    "effect_description_attackBoostUnitBloodcrowsCI": "Force de combat lors dattaques contre des châteaux des Corbeaux de sang : +{0}% (effet dobjet de construction)",
+    "effect_description_attackBoostUnitAliensCI": "Force de combat lors dattaques contre des châteaux étrangers : +{0}% (effet dobjet de construction)",
     "ci_effect_attackBoostUnitBloodcrows_tt": "Force de combat lors dattaques contre des châteaux des Corbeaux de sang :",
     "ci_effect_attackBoostUnitAliens_tt": "Force de combat lors dattaques contre des châteaux étrangers :",
     "dialog_listOverview_castleBurning_desc": "Bâtiments endommagés dans ce château",
@@ -11708,7 +11708,9 @@
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_desc": "Augmente la vitesse de guérison pour les unités qui nécessitent des pièces et des rubis. Le coût est supporté par la trésorerie de lalliance.",
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_percentage": "Bonus de vitesse de guérison pour les unités de pièces et de rubis : +{0}%",
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost": "Bonus de vitesse de guérison pour les unités de pièces et de rubis",
-    "dialog_specialOffer_copy2_3": "Obtenez {0}% de rubis en plus."
+    "dialog_specialOffer_copy2_3": "Obtenez {0}% de rubis en plus.",
+    "dialog_specialOffer_limitedTime_lineBreak": "DURÉE \nLIMITÉE !",
+    "dialog_saveAccount_emailSent_changedBeforeRegistration_desc": "Votre adresse e-mail a été modifiée. Un e-mail de vérification a été envoyé à votre nouvelle adresse e-mail. Cliquez sur le lien dans le-mail pour confirmer linscription."
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "Vitesse de déplacement de larmée lors des conquêtes : +{0} %",
@@ -12752,8 +12754,11 @@
     "ci_effect_attackBoostUnitBerimondKingdom_tt": "Force de combat lors dattaques contre des cibles du royaume de Berimond :",
     "ci_effect_attackBoostUnitNomad": "Force de combat lors dattaques contre des camps nomades : +{0}%",
     "ci_effect_attackBoostUnitNomad_tt": "Force de combat lors dattaques contre des camps nomades ",
-    "effect_description_attackBoostUnitBerimondKingdomCI": "Force de combat lors dattaques contre des cibles du royaume de Berimond : +{0} (effet dobj. de const.)",
-    "effect_description_attackBoostUnitNomadCI": "Force de combat lors dattaques contre des camps nomades : +{0} (effet dobjet de construction)"
+    "effect_description_attackBoostUnitBerimondKingdomCI": "Force de combat lors dattaques contre des cibles du royaume de Berimond : +{0}% (effet dobj. de const.)",
+    "effect_description_attackBoostUnitNomadCI": "Force de combat lors dattaques contre des camps nomades : +{0}% (effet dobjet de construction)",
+    "equip_effect_description_attackBoostUnitAliens": "Force de combat lors dattaques contre des châteaux étrangers : +{0}% (effet dobjet de construction)",
+    "equip_effect_description_attackBoostUnitNomad": "Force de combat lors dattaques contre des camps nomades : +{0}% (effet dobjet de construction)",
+    "equip_effect_description_attackBoostUnitBloodcrows": "Force de combat lors dattaques contre des châteaux des Corbeaux de sang : +{0}% (effet dobjet de construction)"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Héros",
@@ -16518,7 +16523,7 @@
     "equipment_unique_2010": "Dinde de la fête de la moisson",
     "equipment_unique_2010_desc": "Seuls les héros déraisonnables sopposent indûment à ces volatiles. De nos jours, les volailles de Par-delà lhorizon servent de troupes de choc impériales et sont servies lors des banquets impériaux. Transforme votre armée en une troupe de dindes impétueuses.",
     "equipment_unique_2011": "Œuf dautomne",
-    "equipment_unique_2011_desc": "Lempereur lui-même offre ces œufs précieux à ses plus fidèles vassaux. Une fois éclos, les oiseaux garantissent prospérité et récoltes abondantes. Transforme votre château en un bastion volailler prospère.",
+    "equipment_unique_2011_desc": "Lempereur lui-même offre ces œufs précieux à ses plus fidèles vassaux. Transforme votre château en un bastion volailler prospère.",
     "equipment_unique_2008": "Totem de la fylgja",
     "equipment_unique_2008_desc": "Les habitations vikings doivent résister au froid extrême et aux attaques ennemies. Transforme votre château en forteresse viking."
   },
@@ -23114,7 +23119,8 @@
       "value_seperate_add": "+{0} | +{1}",
       "value_or_add": "+{0} ou +{1}",
       "value_or_default": "{0} ou {1}",
-      "value_brackets_subtract": "(-{0})"
+      "value_brackets_subtract": "(-{0})",
+      "value_dash_split_paragraph": "{0} - \n{1}"
     },
     "country": {
       "generic_country_AU": "Australie",

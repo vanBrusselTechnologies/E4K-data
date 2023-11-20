@@ -1857,9 +1857,9 @@
     "ci_appearance_dragonriderHospital_flavour": "Parantajat osaavat hoitaa puremia, vakavia palovammoja ja putoamisesta tulleita vammoja.",
     "deco_dragonridercabin_name": "Tulihuippujen mökki",
     "deco_dragonriderdragonnest_name": "Lohikäärmehautomo",
-    "MeadDistrict_name": "Mead district",
-    "MeadDistrict_upgrade_info": "Increases space inside the district",
-    "MeadDistrict_short_info": "Creates space for mead buildings"
+    "MeadDistrict_name": "Simakortteli",
+    "MeadDistrict_upgrade_info": "Lisää tilaa korttelin sisällä",
+    "MeadDistrict_short_info": "Luo tilaa simarakennuksille"
   },
   "dialogs": {
     "dialog_festival_desc": "Järjestä kansalaisillesi kestit ruokaa käyttämällä! Värväys nopeutuu kaikissa linnoissasi huomattavasti, niin kauan kuin kestit jatkuvat. Mitä isommat kestit järjestät, sitä suurempi niiden vaikutus on.",
@@ -11632,8 +11632,8 @@
     "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction": "Hyökkäysten odotusaika samuraiden leireissä",
     "dialog_generals_overview_selectPvEGeneral_tab": "Omat kenraalit",
     "dialog_generals_overview_selectGeneral_tab": "Omat kenraalit",
-    "effect_description_attackBoostUnitBloodcrowsCI": "+{0} taisteluvahvuuteen hyökätessä Verikorppien linnoihin (rakennuksen lisäosan vaikutus)",
-    "effect_description_attackBoostUnitAliensCI": "+{0} taisteluvahvuuteen hyökätessä vierasmaalaisten linnoihin (rakennuksen lisäosan vaikutus)",
+    "effect_description_attackBoostUnitBloodcrowsCI": "+{0}% taisteluvahvuuteen hyökätessä Verikorppien linnoihin (rakennuksen lisäosan vaikutus)",
+    "effect_description_attackBoostUnitAliensCI": "+{0}% taisteluvahvuuteen hyökätessä vierasmaalaisten linnoihin (rakennuksen lisäosan vaikutus)",
     "ci_effect_attackBoostUnitBloodcrows_tt": "Taisteluvahvuus hyökätessä Verikorppien linnoihin:",
     "ci_effect_attackBoostUnitAliens_tt": "Taisteluvahvuus hyökätessä vierasmaalaisten linnoihin:",
     "dialog_listOverview_castleBurning_desc": "Tämän linnan vaurioituneet rakennukset",
@@ -11708,7 +11708,9 @@
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_desc": "Lisää rubiini- ja kolikkoyksiköiden parantumisnopeusbonusta. Kulut maksetaan liittouman kassasta.",
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_percentage": "Rubiini- ja kolikkoyksiköiden parantumisnopeusbonus: +{0} %",
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost": "Rubiini- ja kolikkoyksiköiden parantumisnopeusbonus",
-    "dialog_specialOffer_copy2_3": "Saat {0}% enemmän rubiineja."
+    "dialog_specialOffer_copy2_3": "Saat {0}% enemmän rubiineja.",
+    "dialog_specialOffer_limitedTime_lineBreak": "RAJOITETUSTI!",
+    "dialog_saveAccount_emailSent_changedBeforeRegistration_desc": "Sähköpostiosoitteesi on muutettu. Vahvistussähköposti on lähetetty uuteen sähköpostiosoitteeseesi. Napsauta sähköpostissa olevaa linkkiä vahvistaaksesi rekisteröinnin."
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0} % armeijan matkanopeuteen valloitusten aikana",
@@ -12752,8 +12754,11 @@
     "ci_effect_attackBoostUnitBerimondKingdom_tt": "Taisteluvahvuus hyökätessä Berimondin kuningaskunnan kohteisiin:",
     "ci_effect_attackBoostUnitNomad": "+{0}% taisteluvahvuuteen hyökätessä paimentolaisleireihin",
     "ci_effect_attackBoostUnitNomad_tt": "Taisteluvahvuus hyökätessä paimentolaisleireihin:",
-    "effect_description_attackBoostUnitBerimondKingdomCI": "+{0} taisteluvahvuuteen hyökätessä Berimondin kuningaskunnan kohteisiin (lisäosan vaikutus)",
-    "effect_description_attackBoostUnitNomadCI": "+{0} taisteluvahvuuteen hyökätessä paimentolaisleireihin (lisäosan vaikutus)"
+    "effect_description_attackBoostUnitBerimondKingdomCI": "+{0}% taisteluvahvuuteen hyökätessä Berimondin kuningaskunnan kohteisiin (lisäosan vaikutus)",
+    "effect_description_attackBoostUnitNomadCI": "+{0}% taisteluvahvuuteen hyökätessä paimentolaisleireihin (lisäosan vaikutus)",
+    "equip_effect_description_attackBoostUnitAliens": "+{0}% taisteluvahvuuteen hyökätessä vierasmaalaisten linnoihin (rakennuksen lisäosan vaikutus)",
+    "equip_effect_description_attackBoostUnitNomad": "+{0}% taisteluvahvuuteen hyökätessä paimentolaisleireihin (lisäosan vaikutus)",
+    "equip_effect_description_attackBoostUnitBloodcrows": "+{0}% taisteluvahvuuteen hyökätessä Verikorppien linnoihin (rakennuksen lisäosan vaikutus)"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Sankari",
@@ -16518,7 +16523,7 @@
     "equipment_unique_2010": "Sadonkorjuujuhlan kalkkuna",
     "equipment_unique_2010_desc": "Vain hölmöt sankarit kiusaavat näitä lintuja ilman syytä. Nykyään nämä horisontin tuolta puolen tulleet linnut palvelevat keisarillisina iskujoukkoina ja niitä tarjoillaan keisarillisissa juhlissa. Muuttaa armeijasi rynnäköiväksi kalkkunajoukoksi.",
     "equipment_unique_2011": "Syksyinen muna",
-    "equipment_unique_2011_desc": "Keisari jakaa näitä arvokkaita munia uskollisimmille vasalleilleen. Niistä kuoriutuvat linnut tuovat menestystä ja runsaan sadon. Muuttaa linnasi kukoistavaksi kalkkunalinnakkeeksi.",
+    "equipment_unique_2011_desc": "Keisari jakaa näitä arvokkaita munia uskollisimmille vasalleilleen. Muuttaa linnasi kukoistavaksi kalkkunalinnakkeeksi.",
     "equipment_unique_2008": "Fylgja-toteemi",
     "equipment_unique_2008_desc": "Viikinkien kotien on kestettävä äärimmäistä kylmää ja vihollisten hyökkäykset. Muuttaa linnasi viikinkien linnoitukseksi."
   },
@@ -23114,7 +23119,8 @@
       "value_seperate_add": "+{0} | +{1}",
       "value_or_add": "+{0} tai +{1}",
       "value_or_default": "{0} tai {1}",
-      "value_brackets_subtract": "(-{0})"
+      "value_brackets_subtract": "(-{0})",
+      "value_dash_split_paragraph": "{0} - \n{1}"
     },
     "country": {
       "generic_country_AU": "Australia",

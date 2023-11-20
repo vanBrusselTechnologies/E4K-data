@@ -1857,9 +1857,9 @@
     "ci_appearance_dragonriderHospital_flavour": "治療師善於治療咬傷、嚴重燒傷，以及各式各樣的摔落傷。",
     "deco_dragonridercabin_name": "火焰峰小屋",
     "deco_dragonriderdragonnest_name": "龍蛋孵化場",
-    "MeadDistrict_name": "Mead district",
-    "MeadDistrict_upgrade_info": "Increases space inside the district",
-    "MeadDistrict_short_info": "Creates space for mead buildings"
+    "MeadDistrict_name": "蜜酒特區",
+    "MeadDistrict_upgrade_info": "增加特區內的空間",
+    "MeadDistrict_short_info": "為蜜酒建築物建立空間"
   },
   "dialogs": {
     "dialog_festival_desc": "用食物幫你的居民舉辦一場盛宴吧！在盛宴期間，你所有城堡的招募速度會大幅提高。宴會越大，效果越好。",
@@ -11632,8 +11632,8 @@
     "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction": "對武士軍營的進攻冷卻時間",
     "dialog_generals_overview_selectPvEGeneral_tab": "你的將軍",
     "dialog_generals_overview_selectGeneral_tab": "你的將軍",
-    "effect_description_attackBoostUnitBloodcrowsCI": "+{0} 進攻血鴉城堡時的戰鬥力（建築物品效果）",
-    "effect_description_attackBoostUnitAliensCI": "+{0} 進攻外國城堡時的戰鬥力（建築物品效果）",
+    "effect_description_attackBoostUnitBloodcrowsCI": "+{0}% 進攻血鴉城堡時的戰鬥力（建築物品效果）",
+    "effect_description_attackBoostUnitAliensCI": "+{0}% 進攻外國城堡時的戰鬥力（建築物品效果）",
     "ci_effect_attackBoostUnitBloodcrows_tt": "進攻血鴉城堡時的戰鬥力：",
     "ci_effect_attackBoostUnitAliens_tt": "進攻外國城堡時的戰鬥力：",
     "dialog_listOverview_castleBurning_desc": "此城堡中受損的建築物",
@@ -11708,7 +11708,9 @@
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_desc": "增加紅寶石和錢幣部隊的治療速度加成。使用同盟基金支付費用。",
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_percentage": "紅寶石和錢幣部隊的治療速度加成：+{0}%",
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost": "紅寶石和錢幣部隊的治療速度加成",
-    "dialog_specialOffer_copy2_3": "獲得 {0}% 額外的紅寶石。"
+    "dialog_specialOffer_copy2_3": "獲得 {0}% 額外的紅寶石。",
+    "dialog_specialOffer_limitedTime_lineBreak": "限時提供！",
+    "dialog_saveAccount_emailSent_changedBeforeRegistration_desc": "您的電子郵件地址已更改。已將驗證電子郵件發送至您的新電子郵件地址。請按一下郵件中的連結以確認註冊。"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% 出征時的軍隊巡游速度",
@@ -12752,8 +12754,11 @@
     "ci_effect_attackBoostUnitBerimondKingdom_tt": "進攻白理蒙王國目標時的戰鬥力：",
     "ci_effect_attackBoostUnitNomad": "+{0}% 進攻遊牧民軍營時的戰鬥力",
     "ci_effect_attackBoostUnitNomad_tt": "進攻遊牧民軍營時的戰鬥力：",
-    "effect_description_attackBoostUnitBerimondKingdomCI": "+{0} 進攻白理蒙王國目標時的戰鬥力（建築物品效果）",
-    "effect_description_attackBoostUnitNomadCI": "+{0} 進攻遊牧民軍營時的戰鬥力（建築物品效果）"
+    "effect_description_attackBoostUnitBerimondKingdomCI": "+{0}% 進攻白理蒙王國目標時的戰鬥力（建築物品效果）",
+    "effect_description_attackBoostUnitNomadCI": "+{0}% 進攻遊牧民軍營時的戰鬥力（建築物品效果）",
+    "equip_effect_description_attackBoostUnitAliens": "+{0}% 進攻外國城堡時的戰鬥力（建築物品效果）",
+    "equip_effect_description_attackBoostUnitNomad": "+{0}% 進攻遊牧民軍營時的戰鬥力（建築物品效果）",
+    "equip_effect_description_attackBoostUnitBloodcrows": "+{0}% 進攻血鴉城堡時的戰鬥力（建築物品效果）"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "英雄",
@@ -16518,7 +16523,7 @@
     "equipment_unique_2010": "豐收盛宴雄雉",
     "equipment_unique_2010_desc": "只有愚蠢的英雄才會無端敵視這些鳥兒。現在，這些跨越地平線遠渡而來的鳥兒既擔任皇家突擊部隊，也是皇家宴會上的菜肴。把你的軍隊變成衝鋒的雄雉大軍。",
     "equipment_unique_2011": "秋之蛋",
-    "equipment_unique_2011_desc": "皇帝親諭，賞賜這些寶蛋給最忠誠的卿家。孵出的鳥兒將會保證帶來繁榮與豐收。將你的城堡變成繁榮的雄雉堡壘。",
+    "equipment_unique_2011_desc": "皇帝親諭，賞賜這些寶蛋給最忠誠的卿家。將你的城堡變成繁榮的雄雉堡壘。",
     "equipment_unique_2008": "費爾嘉圖騰柱",
     "equipment_unique_2008_desc": "北方戰士的家園必須能承受極端的寒冷和任何敵襲。會將你的城堡變成北方戰士的要塞。"
   },
@@ -23114,7 +23119,8 @@
       "value_seperate_add": "+{0} | +{1}",
       "value_or_add": "+{0} 或 +{1}",
       "value_or_default": "{0} 或 {1}",
-      "value_brackets_subtract": "(-{0})"
+      "value_brackets_subtract": "(-{0})",
+      "value_dash_split_paragraph": "{0} - \n{1}"
     },
     "country": {
       "generic_country_AU": "澳大利亞",

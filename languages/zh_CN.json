@@ -1857,9 +1857,9 @@
     "ci_appearance_dragonriderHospital_flavour": "治疗者擅长处理咬伤、严重烧伤和各种跌打损伤。",
     "deco_dragonridercabin_name": "火焰山小屋",
     "deco_dragonriderdragonnest_name": "巨龙孵化场",
-    "MeadDistrict_name": "Mead district",
-    "MeadDistrict_upgrade_info": "Increases space inside the district",
-    "MeadDistrict_short_info": "Creates space for mead buildings"
+    "MeadDistrict_name": "蜂蜜酒地块",
+    "MeadDistrict_upgrade_info": "增加地块内的空间",
+    "MeadDistrict_short_info": "为蜂蜜酒建筑物创造空间"
   },
   "dialogs": {
     "dialog_festival_desc": "用食物请您的市民大餐一顿吧！宴会持续期间，您所有城堡的招募速度会大大提高。宴会越丰盛，效果越好。",
@@ -11632,8 +11632,8 @@
     "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction": "武士营地的进攻冷却时间",
     "dialog_generals_overview_selectPvEGeneral_tab": "您的将军",
     "dialog_generals_overview_selectGeneral_tab": "您的将军",
-    "effect_description_attackBoostUnitBloodcrowsCI": "+{0} 进攻血鸦城堡时的战斗力（建造物品效果）",
-    "effect_description_attackBoostUnitAliensCI": "+{0} 进攻外国城堡时的战斗力（建造物品效果）",
+    "effect_description_attackBoostUnitBloodcrowsCI": "+{0}% 进攻血鸦城堡时的战斗力（建造物品效果）",
+    "effect_description_attackBoostUnitAliensCI": "+{0}% 进攻外国城堡时的战斗力（建造物品效果）",
     "ci_effect_attackBoostUnitBloodcrows_tt": "进攻血鸦城堡时的战斗力：",
     "ci_effect_attackBoostUnitAliens_tt": "进攻外国城堡时的战斗力：",
     "dialog_listOverview_castleBurning_desc": "此城堡存在受损建筑物",
@@ -11708,7 +11708,9 @@
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_desc": "提高红宝石和金币兵种的治疗速度加成。费用由联盟基金支付。",
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_percentage": "红宝石和金币兵种治疗速度加成：+{0}%",
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost": "红宝石和金币兵种治疗速度加成",
-    "dialog_specialOffer_copy2_3": "获得 {0}% 额外的红宝石。"
+    "dialog_specialOffer_copy2_3": "获得 {0}% 额外的红宝石。",
+    "dialog_specialOffer_limitedTime_lineBreak": "限时！",
+    "dialog_saveAccount_emailSent_changedBeforeRegistration_desc": "您的电子邮件地址已更改。新电子邮件地址已发送验证电子邮件。请点击电子邮件中的链接以确认注册。"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% 征服期间的军队行军速度",
@@ -12752,8 +12754,11 @@
     "ci_effect_attackBoostUnitBerimondKingdom_tt": "进攻 Berimond 王国目标时的战斗力：",
     "ci_effect_attackBoostUnitNomad": "+{0}% 进攻游牧部落营地时的战斗力",
     "ci_effect_attackBoostUnitNomad_tt": "进攻游牧部落营地时的战斗力：",
-    "effect_description_attackBoostUnitBerimondKingdomCI": "+{0} 进攻 Berimond 王国目标时的战斗力（建造物品效果）",
-    "effect_description_attackBoostUnitNomadCI": "+{0} 进攻游牧部落营地时的战斗力（建造物品效果）"
+    "effect_description_attackBoostUnitBerimondKingdomCI": "+{0}% 进攻 Berimond 王国目标时的战斗力（建造物品效果）",
+    "effect_description_attackBoostUnitNomadCI": "+{0}% 进攻游牧部落营地时的战斗力（建造物品效果）",
+    "equip_effect_description_attackBoostUnitAliens": "+{0}% 进攻外国城堡时的战斗力（建造物品效果）",
+    "equip_effect_description_attackBoostUnitNomad": "+{0}% 进攻游牧部落营地时的战斗力（建造物品效果）",
+    "equip_effect_description_attackBoostUnitBloodcrows": "+{0}% 进攻血鸦城堡时的战斗力（建造物品效果）"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "英雄",
@@ -16518,7 +16523,7 @@
     "equipment_unique_2010": "收获盛宴雄火鸡",
     "equipment_unique_2010_desc": "只有愚蠢的英雄才会毫无必要地与这些禽类对抗。如今，这些超越地平线的鸟儿被当作帝国突击队，出现在了帝国宴会上。将您的军队变成一队行进的雄火鸡。",
     "equipment_unique_2011": "秋蛋",
-    "equipment_unique_2011_desc": "皇帝亲自将这些珍贵的蛋赏赐给他最忠实的臣民。孵化出来之后，这些鸟儿便能成为繁荣昌盛和五谷丰登的保证。将您的城堡变成一座繁荣的雄火鸡要塞。",
+    "equipment_unique_2011_desc": "皇帝亲自将这些珍贵的蛋赏赐给他最忠实的臣民。将您的城堡变成一座繁荣的雄火鸡要塞。",
     "equipment_unique_2008": "费尔加图腾",
     "equipment_unique_2008_desc": "北欧人的家园必须能够抵御严寒和任何敌人的袭击。将你的城堡变成一座北欧人堡垒。"
   },
@@ -23114,7 +23119,8 @@
       "value_seperate_add": "+{0} | +{1}",
       "value_or_add": "+{0} 或 +{1}",
       "value_or_default": "{0} 或 {1}",
-      "value_brackets_subtract": "(-{0})"
+      "value_brackets_subtract": "(-{0})",
+      "value_dash_split_paragraph": "{0} - \n{1}"
     },
     "country": {
       "generic_country_AU": "澳大利亚",

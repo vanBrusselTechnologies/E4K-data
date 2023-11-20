@@ -7653,6 +7653,7 @@ export interface Language {
         "dialog_saveAccount_dialogHeader": string;
         "dialog_saveAccount_email": string;
         "dialog_saveAccount_emailPassword_copy": string;
+        "dialog_saveAccount_emailSent_changedBeforeRegistration_desc": string;
         "dialog_saveAccount_emailSent_registration_desc": string;
         "dialog_saveAccount_emailSent_subscription_desc": string;
         "dialog_saveAccount_emailSent_title": string;
@@ -8083,7 +8084,7 @@ export interface Language {
         "dialog_specialOffer_easterDesc": string;
         "dialog_specialOffer_forFree": string;
         "dialog_specialOffer_limitedTime": string;
-        "dialog_specialOffer_limitedTime_lineBreak"?: string;
+        "dialog_specialOffer_limitedTime_lineBreak": string;
         "dialog_specialOffer_mostPopular": string;
         "dialog_specialOffer_oneTimeOnly": string;
         "dialog_specialOffer_paymentReward": string;
@@ -11918,6 +11919,9 @@ export interface Language {
         "equip_effect_description_attackBonusNotMainCastle_Maya": string;
         "equip_effect_description_attackBoostFlank2": string;
         "equip_effect_description_attackBoostFront2": string;
+        "equip_effect_description_attackBoostUnitAliens": string;
+        "equip_effect_description_attackBoostUnitBloodcrows": string;
+        "equip_effect_description_attackBoostUnitNomad": string;
         "equip_effect_description_attackBoostYard": string;
         "equip_effect_description_attackBoostYardAlien": string;
         "equip_effect_description_attackBoostYardBerimondInvasion": string;
@@ -18619,6 +18623,7 @@ export interface Language {
             "value_colon": string;
             "value_coords": string;
             "value_dash_split": string;
+            "value_dash_split_paragraph": string;
             "value_multiplied": string;
             "value_nominal_add": string;
             "value_nominal_subtract": string;

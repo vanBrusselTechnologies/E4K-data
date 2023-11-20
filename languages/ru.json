@@ -1857,9 +1857,9 @@
     "ci_appearance_dragonriderHospital_flavour": "Местные лекари прекрасно умеют лечить укусы, ожоги и травмы, вызванные падением с высоты.",
     "deco_dragonridercabin_name": "Домик в Огненных Вершинах",
     "deco_dragonriderdragonnest_name": "Драконий питомник",
-    "MeadDistrict_name": "Mead district",
-    "MeadDistrict_upgrade_info": "Increases space inside the district",
-    "MeadDistrict_short_info": "Creates space for mead buildings"
+    "MeadDistrict_name": "Укрепленный район медоваров",
+    "MeadDistrict_upgrade_info": "Увеличивает запас места в укрепленном районе",
+    "MeadDistrict_short_info": "Создает место для зданий, связанных с медовухой"
   },
   "dialogs": {
     "dialog_festival_desc": "Используй еду, чтобы устроить пир для твоих горожан! Во время проведения пира, скорость найма во всех твоих замках заметно увеличится. Чем больше пир, тем больше эффект.",
@@ -11632,8 +11632,8 @@
     "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction": "Передышка между нападениями на лагеря самураев",
     "dialog_generals_overview_selectPvEGeneral_tab": "Твои генералы",
     "dialog_generals_overview_selectGeneral_tab": "Твои генералы",
-    "effect_description_attackBoostUnitBloodcrowsCI": "+{0} боевой мощи при нападении на замки Стервятников (эффект элемента постройки)",
-    "effect_description_attackBoostUnitAliensCI": "+{0} боевой мощи при нападении на чужеземные замки (эффект элемента постройки)",
+    "effect_description_attackBoostUnitBloodcrowsCI": "+{0}% боевой мощи при нападении на замки Стервятников (эффект элемента постройки)",
+    "effect_description_attackBoostUnitAliensCI": "+{0}% боевой мощи при нападении на чужеземные замки (эффект элемента постройки)",
     "ci_effect_attackBoostUnitBloodcrows_tt": "Боевая мощь при нападении на замки Стервятников:",
     "ci_effect_attackBoostUnitAliens_tt": "Боевая мощь при нападении на чужеземные замки:",
     "dialog_listOverview_castleBurning_desc": "Поврежденные здания в этом замке",
@@ -11708,7 +11708,9 @@
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_desc": "Увеличивает бонус к скорости лечения юнитов, нанятых за рубины и монеты. Стоимость оплачивается из казны альянса.",
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_percentage": "Бонус к скорости лечения юнитов, нанятых за рубины и монеты: +{0}%",
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost": "Бонус к скорости лечения юнитов, нанятых за рубины и монеты",
-    "dialog_specialOffer_copy2_3": "Получи на {0}% больше рубинов."
+    "dialog_specialOffer_copy2_3": "Получи на {0}% больше рубинов.",
+    "dialog_specialOffer_limitedTime_lineBreak": "ВРЕМЕННАЯ \nАКЦИЯ",
+    "dialog_saveAccount_emailSent_changedBeforeRegistration_desc": "Ваш адрес электронной почты был изменен. На ваш новый адрес электронной почты было отправлено письмо с подтверждением. Щелкните по ссылке в письме, чтобы подтвердить регистрацию."
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% скорость передвижения армии при завоеваниях",
@@ -12752,8 +12754,11 @@
     "ci_effect_attackBoostUnitBerimondKingdom_tt": "Боевая мощь при нападении на объекты в Беримонде:",
     "ci_effect_attackBoostUnitNomad": "+{0}% боевой мощи при нападении на лагеря кочевников",
     "ci_effect_attackBoostUnitNomad_tt": "Боевая мощь при нападении на лагеря кочевников:",
-    "effect_description_attackBoostUnitBerimondKingdomCI": "+{0} боевой мощи при нападении на объекты в Беримонде (эффект элемента постройки)",
-    "effect_description_attackBoostUnitNomadCI": "+{0} боевой мощи при нападении на лагеря кочевников (эффект элемента постройки)"
+    "effect_description_attackBoostUnitBerimondKingdomCI": "+{0}% боевой мощи при нападении на объекты в Беримонде (эффект элемента постройки)",
+    "effect_description_attackBoostUnitNomadCI": "+{0}% боевой мощи при нападении на лагеря кочевников (эффект элемента постройки)",
+    "equip_effect_description_attackBoostUnitAliens": "+{0}% боевой мощи при нападении на чужеземные замки (эффект элемента постройки)",
+    "equip_effect_description_attackBoostUnitNomad": "+{0}% боевой мощи при нападении на лагеря кочевников (эффект элемента постройки)",
+    "equip_effect_description_attackBoostUnitBloodcrows": "+{0}% боевой мощи при нападении на замки Стервятников (эффект элемента постройки)"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Герой",
@@ -16518,7 +16523,7 @@
     "equipment_unique_2010": "Индейка на пиршественном столе",
     "equipment_unique_2010_desc": "Только глупцы злят этих птиц понапрасну. Птицы из события &quot;За горизонтом&quot; служат в имперских штурмовых отрядах и подаются на стол на имперских пирах. Превращает твою армию в стаю разъяренных индюков.",
     "equipment_unique_2011": "Осеннее яйцо",
-    "equipment_unique_2011_desc": "Император лично вручает эти драгоценные яйца самым верным своим вассалам. Птицы, вылупившиеся из этих яиц, приносят процветание и богатый урожай. Превращает твой замок в роскошную индюшиную цитадель.",
+    "equipment_unique_2011_desc": "Император лично вручает эти драгоценные яйца самым верным своим вассалам. Превращает твой замок в роскошную индюшиную цитадель.",
     "equipment_unique_2008": "Тотем фюльгьи",
     "equipment_unique_2008_desc": "Дома северян должны выдерживать лютую северную стужу и осаду врагов. Превращает твой замок в твердыню северян."
   },
@@ -23114,7 +23119,8 @@
       "value_seperate_add": "+{0} | +{1}",
       "value_or_add": "+{0} или +{1}",
       "value_or_default": "{0} или {1}",
-      "value_brackets_subtract": "(-{0})"
+      "value_brackets_subtract": "(-{0})",
+      "value_dash_split_paragraph": "{0} - \n{1}"
     },
     "country": {
       "generic_country_AU": "Австралия",

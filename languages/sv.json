@@ -1857,9 +1857,9 @@
     "ci_appearance_dragonriderHospital_flavour": "Helbrägdagörarna är skickliga på att behandla bettsår, svåra brännskador och alla typer av fallskador.",
     "deco_dragonridercabin_name": "Stuga från Eldbergen",
     "deco_dragonriderdragonnest_name": "Drakkläckeri",
-    "MeadDistrict_name": "Mead district",
-    "MeadDistrict_upgrade_info": "Increases space inside the district",
-    "MeadDistrict_short_info": "Creates space for mead buildings"
+    "MeadDistrict_name": "Mjöddistrikt",
+    "MeadDistrict_upgrade_info": "Gör distriktets utrymme större",
+    "MeadDistrict_short_info": "Skapar utrymme för mjödbyggnader"
   },
   "dialogs": {
     "dialog_festival_desc": "Använd mat för att anordna en fest för dina medborgare! Rekryteringshastigheten ökar betydligt i alla dina slott så länge festen försiggår. Ju större festen är, desto större effekt.",
@@ -11632,8 +11632,8 @@
     "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction": "Anfallsåterhämtning för samurajläger",
     "dialog_generals_overview_selectPvEGeneral_tab": "Dina generaler",
     "dialog_generals_overview_selectGeneral_tab": "Dina generaler",
-    "effect_description_attackBoostUnitBloodcrowsCI": "+{0} stridskraft vid anfall mot blodkorpsslott (byggföremålseffekt)",
-    "effect_description_attackBoostUnitAliensCI": "+{0} stridskraft vid anfall mot främmande slott (byggföremålseffekt)",
+    "effect_description_attackBoostUnitBloodcrowsCI": "+{0}% stridskraft vid anfall mot blodkorpsslott (byggföremålseffekt)",
+    "effect_description_attackBoostUnitAliensCI": "+{0}% stridskraft vid anfall mot främmande slott (byggföremålseffekt)",
     "ci_effect_attackBoostUnitBloodcrows_tt": "Stridskraft vid anfall mot blodkorpsslott:",
     "ci_effect_attackBoostUnitAliens_tt": "Stridskraft vid anfall mot främmande slott:",
     "dialog_listOverview_castleBurning_desc": "Skadade byggnader i det här slottet",
@@ -11708,7 +11708,9 @@
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_desc": "Ökar läkehastighetsbonusen för rubin- och myntenheter. Kostnaderna betalas med allianskassan.",
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_percentage": "Läkehastighetsbonus för rubin- och myntenheter: +{0} %",
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost": "Läkehastighetsbonus för rubin- och myntenheter",
-    "dialog_specialOffer_copy2_3": "Få {0}% fler rubiner."
+    "dialog_specialOffer_copy2_3": "Få {0}% fler rubiner.",
+    "dialog_specialOffer_limitedTime_lineBreak": "BEGRÄNSAD \nTID!",
+    "dialog_saveAccount_emailSent_changedBeforeRegistration_desc": "Din e-postadress har ändrats. Ett bekräftelsemail har skickats till din nya e-postadress. Klicka på länken i e-postmeddelandet för att bekräfta registreringen."
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0} % resehastighet för armén under erövringar",
@@ -12752,8 +12754,11 @@
     "ci_effect_attackBoostUnitBerimondKingdom_tt": "Stridskraft vid anfall mot mål från kungadömet Berimond:",
     "ci_effect_attackBoostUnitNomad": "+{0}% stridskraft vid anfall mot nomadläger",
     "ci_effect_attackBoostUnitNomad_tt": "Stridskraft vid anfall mot nomadläger",
-    "effect_description_attackBoostUnitBerimondKingdomCI": "+{0} stridskraft vid anfall mot mål från kungadömet Berimond (byggföremålseffekt)",
-    "effect_description_attackBoostUnitNomadCI": "+{0} stridskraft vid anfall mot nomadläger (byggföremålseffekt)"
+    "effect_description_attackBoostUnitBerimondKingdomCI": "+{0}% stridskraft vid anfall mot mål från kungadömet Berimond (byggföremålseffekt)",
+    "effect_description_attackBoostUnitNomadCI": "+{0}% stridskraft vid anfall mot nomadläger (byggföremålseffekt)",
+    "equip_effect_description_attackBoostUnitAliens": "+{0}% stridskraft vid anfall mot främmande slott (byggföremålseffekt)",
+    "equip_effect_description_attackBoostUnitNomad": "+{0}% stridskraft vid anfall mot nomadläger (byggföremålseffekt)",
+    "equip_effect_description_attackBoostUnitBloodcrows": "+{0}% stridskraft vid anfall mot blodkorpsslott (byggföremålseffekt)"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Hjälte",
@@ -16518,7 +16523,7 @@
     "equipment_unique_2010": "Skördefestens kluckare",
     "equipment_unique_2010_desc": "Endast dumma hjältar retar upp dessa fåglar i onödan. Nuförtiden tjänar fåglarna från Bortom horisonten som kejserliga chockstyrkor och serveras på kejserliga banketter. Förvandlar din armé till ett band av anfallande kluckare.",
     "equipment_unique_2011": "Höstägg",
-    "equipment_unique_2011_desc": "Kejsaren själv ger dessa värdefulla ägg till sina mest lojala vasaller. När fåglarna har kläckts är de en garant för välstånd och en riklig skörd. Förvandlar ditt slott till ett välmående kluckarfäste.",
+    "equipment_unique_2011_desc": "Kejsaren själv ger dessa värdefulla ägg till sina mest lojala vasaller. Förvandlar ditt slott till ett välmående kluckarfäste.",
     "equipment_unique_2008": "Fylgjatotem",
     "equipment_unique_2008_desc": "Nordmännnens hus måste stå emot både extrem kyla och fiendeangrepp. Gör ditt slott till en nordmansfästning."
   },
@@ -23114,7 +23119,8 @@
       "value_seperate_add": "+{0} | +{1}",
       "value_or_add": "+{0} eller +{1}",
       "value_or_default": "{0} eller {1}",
-      "value_brackets_subtract": "(-{0})"
+      "value_brackets_subtract": "(-{0})",
+      "value_dash_split_paragraph": "{0} - \n{1}"
     },
     "country": {
       "generic_country_AU": "Australien",

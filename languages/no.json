@@ -1857,9 +1857,9 @@
     "ci_appearance_dragonriderHospital_flavour": "Helbrederne er dyktige innen behandling av bitt, alvorlige brannskader og alle typer fallskade.",
     "deco_dragonridercabin_name": "Flammetopphytte",
     "deco_dragonriderdragonnest_name": "Drageklekkeri",
-    "MeadDistrict_name": "Mead district",
-    "MeadDistrict_upgrade_info": "Increases space inside the district",
-    "MeadDistrict_short_info": "Creates space for mead buildings"
+    "MeadDistrict_name": "Mjøddistrikt",
+    "MeadDistrict_upgrade_info": "Gir mer plass i distriktet",
+    "MeadDistrict_short_info": "Gir plass til mjødbygninger"
   },
   "dialogs": {
     "dialog_festival_desc": "Bruk mat til å holde en festival for folket! Rekrutteringshastigheten vil markant økes ved alle slottene dine så lenge festivalen varer. Desto større festival, jo bedre effekt.",
@@ -11632,8 +11632,8 @@
     "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction": "Ventetid etter angrep på samurai-leirer",
     "dialog_generals_overview_selectPvEGeneral_tab": "Generalene dine",
     "dialog_generals_overview_selectGeneral_tab": "Generalene dine",
-    "effect_description_attackBoostUnitBloodcrowsCI": "+{0} kampstyrke ved angrep på Blodravn-slott (effekt fra byggegjenstand)",
-    "effect_description_attackBoostUnitAliensCI": "+{0} kampstyrke ved angrep på fremmede slott (effekt fra byggegjenstand)",
+    "effect_description_attackBoostUnitBloodcrowsCI": "+{0}% kampstyrke ved angrep på Blodravn-slott (effekt fra byggegjenstand)",
+    "effect_description_attackBoostUnitAliensCI": "+{0}% kampstyrke ved angrep på fremmede slott (effekt fra byggegjenstand)",
     "ci_effect_attackBoostUnitBloodcrows_tt": "Kampstyrke ved angrep på Blodravn-slott:",
     "ci_effect_attackBoostUnitAliens_tt": "Kampstyrke ved angrep på fremmede slott:",
     "dialog_listOverview_castleBurning_desc": "Skadde bygninger i dette slottet",
@@ -11708,7 +11708,9 @@
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_desc": "Øker fartsbonusen for helbredelse for rubin- og myntenheter. Kostnadene dekkes av alliansekassen.",
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_percentage": "Fartsbonus for helbredelse for rubin- og myntenheter: +{0} %",
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost": "Fartsbonus for helbredelse for rubin- og myntenheter",
-    "dialog_specialOffer_copy2_3": "Få {0} % flere rubiner."
+    "dialog_specialOffer_copy2_3": "Få {0} % flere rubiner.",
+    "dialog_specialOffer_limitedTime_lineBreak": "BEGRENSET \nTID!",
+    "dialog_saveAccount_emailSent_changedBeforeRegistration_desc": "E-postadressen din har blitt endret. Det er sendt en verifiserings-e-post til din nye e-postadresse. Klikk på lenken i e-posten for å bekrefte registreringen."
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0} % reisehastighet for hær under erobringer",
@@ -12752,8 +12754,11 @@
     "ci_effect_attackBoostUnitBerimondKingdom_tt": "Kampstyrke ved angrep på Berimond-kongerikemål:",
     "ci_effect_attackBoostUnitNomad": "+{0}% kampstyrke ved angrep på nomadeleirer",
     "ci_effect_attackBoostUnitNomad_tt": "Kampstyrke ved angrep på nomadeleirer:",
-    "effect_description_attackBoostUnitBerimondKingdomCI": "+{0} kampstyrke ved angrep på Berimond-kongerikemål (byggegjenstandseffekt)",
-    "effect_description_attackBoostUnitNomadCI": "+{0} kampstyrke ved angrep på nomadeleirer (effekt fra byggegjenstand)"
+    "effect_description_attackBoostUnitBerimondKingdomCI": "+{0}% kampstyrke ved angrep på Berimond-kongerikemål (byggegjenstandseffekt)",
+    "effect_description_attackBoostUnitNomadCI": "+{0}% kampstyrke ved angrep på nomadeleirer (effekt fra byggegjenstand)",
+    "equip_effect_description_attackBoostUnitAliens": "+{0}% kampstyrke ved angrep på fremmede slott (effekt fra byggegjenstand)",
+    "equip_effect_description_attackBoostUnitNomad": "+{0}% kampstyrke ved angrep på nomadeleirer (effekt fra byggegjenstand)",
+    "equip_effect_description_attackBoostUnitBloodcrows": "+{0}% kampstyrke ved angrep på Blodravn-slott (effekt fra byggegjenstand)"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Helt",
@@ -16518,7 +16523,7 @@
     "equipment_unique_2010": "Takkefestkalkun",
     "equipment_unique_2010_desc": "Det er bare tåpelige helter som tirrer opp disse fuglene. Nå for tiden er fugler fra forbi horisonten imperiske støttropper og serveres ved keiserlige banketter. Forvandler hæren din til en bande med stormende kalkuner.",
     "equipment_unique_2011": "Høstegg",
-    "equipment_unique_2011_desc": "Keiseren selv gir disse kostbare eggene til de mest trofaste vasallene sine. Når eggene klekkes, garanterer fuglene fremgang og en rik høst. Forvandler slottet ditt til en fremgangsrik kalkunborg.",
+    "equipment_unique_2011_desc": "Keiseren selv gir disse kostbare eggene til de mest trofaste vasallene sine. Forvandler slottet ditt til en fremgangsrik kalkunborg.",
     "equipment_unique_2008": "Vikingtotem",
     "equipment_unique_2008_desc": "Hjemmene til nordboerne må tåle ekstrem kulde, i tillegg til at de må kunne stå imot angrep fra fiender. Forvandler slottet ditt til et nordboerfort."
   },
@@ -23114,7 +23119,8 @@
       "value_seperate_add": "+{0} | +{1}",
       "value_or_add": "+{0} eller +{1}",
       "value_or_default": "{0} eller {1}",
-      "value_brackets_subtract": "(-{0})"
+      "value_brackets_subtract": "(-{0})",
+      "value_dash_split_paragraph": "{0} - \n{1}"
     },
     "country": {
       "generic_country_AU": "Australia",

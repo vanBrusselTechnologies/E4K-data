@@ -1857,9 +1857,9 @@
     "ci_appearance_dragonriderHospital_flavour": "Aquí saben cómo tratar las mordeduras, las quemaduras graves y los traumatismos ocasionados por caídas.",
     "deco_dragonridercabin_name": "Cabaña de las Cumbres de Fuego",
     "deco_dragonriderdragonnest_name": "Criadero de dragones",
-    "MeadDistrict_name": "Mead district",
-    "MeadDistrict_upgrade_info": "Increases space inside the district",
-    "MeadDistrict_short_info": "Creates space for mead buildings"
+    "MeadDistrict_name": "Distrito de hidromiel",
+    "MeadDistrict_upgrade_info": "Aumenta el espacio dentro del distrito.",
+    "MeadDistrict_short_info": "Crea espacio para edificios de hidromiel."
   },
   "dialogs": {
     "dialog_festival_desc": "¡Usa comida para celebrar un festín para tus ciudadanos! La velocidad de reclutamiento aumentará considerablemente en todos tus castillos mientras dure el festín. Mientras más grande sea el festín, mayor será el efecto.",
@@ -11632,8 +11632,8 @@
     "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction": "Enfriamiento de ataque para campamentos samuráis",
     "dialog_generals_overview_selectPvEGeneral_tab": "Tus generales",
     "dialog_generals_overview_selectGeneral_tab": "Tus generales",
-    "effect_description_attackBoostUnitBloodcrowsCI": "Fuerza de combate al atacar castillos del Cuervo Sangriento: +{0} (efecto de objeto de construcción)",
-    "effect_description_attackBoostUnitAliensCI": "Fuerza de combate al atacar castillos extranjeros: +{0} (efecto de objeto de construcción)",
+    "effect_description_attackBoostUnitBloodcrowsCI": "Fuerza de combate al atacar castillos del Cuervo Sangriento: +{0}% (efecto de objeto de construcción)",
+    "effect_description_attackBoostUnitAliensCI": "Fuerza de combate al atacar castillos extranjeros: +{0}% (efecto de objeto de construcción)",
     "ci_effect_attackBoostUnitBloodcrows_tt": "Fuerza de combate al atacar castillos del Cuervo Sangriento:",
     "ci_effect_attackBoostUnitAliens_tt": "Fuerza de combate al atacar castillos extranjeros:",
     "dialog_listOverview_castleBurning_desc": "Edificios dañados en este castillo",
@@ -11708,7 +11708,9 @@
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_desc": "Aumenta la velocidad de curación de unidades con rubíes y monedas. Su coste se paga con los fondos de la alianza.",
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_percentage": "Bonus de velocidad de curación de unidades con rubíes y monedas: +{0} %",
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost": "Bonus de velocidad de curación de unidades con rubíes y monedas",
-    "dialog_specialOffer_copy2_3": "Consigue un {0} % más de rubíes."
+    "dialog_specialOffer_copy2_3": "Consigue un {0} % más de rubíes.",
+    "dialog_specialOffer_limitedTime_lineBreak": "¡POR TIEMPO \nLIMITADO!",
+    "dialog_saveAccount_emailSent_changedBeforeRegistration_desc": "Se ha cambiado tu dirección de correo electrónico. Se ha enviado un correo electrónico de verificación a tu nueva dirección. Haz clic en el enlace que aparece en el correo electrónico para confirmar el registro."
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "Velocidad de viaje del ejército en las conquistas: +{0} %",
@@ -12752,8 +12754,11 @@
     "ci_effect_attackBoostUnitBerimondKingdom_tt": "Fuerza de combate al atacar objetivos del reino de Berimond:",
     "ci_effect_attackBoostUnitNomad": "Fuerza de combate al atacar campamentos nómadas: +{0}%",
     "ci_effect_attackBoostUnitNomad_tt": "Fuerza de combate al atacar campamentos nómadas:",
-    "effect_description_attackBoostUnitBerimondKingdomCI": "Fuerza de combate al atacar objetivos del reino de Berimond: +{0} (efecto de objeto de construcción)",
-    "effect_description_attackBoostUnitNomadCI": "Fuerza de combate al atacar campamentos nómadas: +{0} (efecto de objeto de construcción)"
+    "effect_description_attackBoostUnitBerimondKingdomCI": "Fuerza de combate al atacar objetivos del reino de Berimond: +{0}% (efecto de objeto de construcción)",
+    "effect_description_attackBoostUnitNomadCI": "Fuerza de combate al atacar campamentos nómadas: +{0}% (efecto de objeto de construcción)",
+    "equip_effect_description_attackBoostUnitAliens": "Fuerza de combate al atacar castillos extranjeros: +{0}% (efecto de objeto de construcción)",
+    "equip_effect_description_attackBoostUnitNomad": "Fuerza de combate al atacar campamentos nómadas: +{0}% (efecto de objeto de construcción)",
+    "equip_effect_description_attackBoostUnitBloodcrows": "Fuerza de combate al atacar castillos del Cuervo Sangriento: +{0}% (efecto de objeto de construcción)"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Héroe",
@@ -16518,7 +16523,7 @@
     "equipment_unique_2010": "Pavo para el festín de la cosecha",
     "equipment_unique_2010_desc": "Solo los héroes más tontos se enemistan inútilmente con estas aves de corral. Hoy en día, las aves de Más allá del horizonte sirven como tropas de asalto imperiales y, al mismo tiempo, se sirven en banquetes imperiales. Transforma tus tropas en pavos feroces.",
     "equipment_unique_2011": "Huevo otoñal",
-    "equipment_unique_2011_desc": "El emperador otorga estos valiosos huevos a sus vasallos más leales. Cuando eclosionan, las aves son garantes de prosperidad y una cosecha abundante. Transforma tu castillo en una próspera fortificación aviar.",
+    "equipment_unique_2011_desc": "El emperador otorga estos valiosos huevos a sus vasallos más leales. Transforma tu castillo en una próspera fortificación aviar.",
     "equipment_unique_2008": "Tótem de Fylgja",
     "equipment_unique_2008_desc": "El hogar de un guerrero nórdico debe soportar el frío extremo y los asaltos del enemigo. Transforma tu castillo en una fortaleza nórdica."
   },
@@ -23114,7 +23119,8 @@
       "value_seperate_add": "+{0} | +{1}",
       "value_or_add": "+{0} o +{1}",
       "value_or_default": "{0} o {1}",
-      "value_brackets_subtract": "(+{0})"
+      "value_brackets_subtract": "(+{0})",
+      "value_dash_split_paragraph": "{0} - \n{1}"
     },
     "country": {
       "generic_country_AU": "Australia",

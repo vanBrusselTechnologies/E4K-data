@@ -1857,9 +1857,9 @@
     "ci_appearance_dragonriderHospital_flavour": "Os curandeiros são qualificados para tratar mordidas, queimaduras e todos os tipos de danos de queda.",
     "deco_dragonridercabin_name": "Cabana dos Picos do Fogo",
     "deco_dragonriderdragonnest_name": "Viveiro de dragão",
-    "MeadDistrict_name": "Mead district",
-    "MeadDistrict_upgrade_info": "Increases space inside the district",
-    "MeadDistrict_short_info": "Creates space for mead buildings"
+    "MeadDistrict_name": "Distrito do hidromel",
+    "MeadDistrict_upgrade_info": "Aumenta o espaço dentro do distrito",
+    "MeadDistrict_short_info": "Cria espaço para edificações de hidromel"
   },
   "dialogs": {
     "dialog_festival_desc": "Use comida para organizar um banquete para os cidadãos! A velocidade de recrutamento aumentará consideravelmente em todos os seus castelos durante o banquete. Quanto maior o banquete, maior o efeito.",
@@ -11632,8 +11632,8 @@
     "dialog_alliance_temporaryBoost_allianceSamuraiCooldownReduction": "Tempo de espera de ataque para acampamentos samurai",
     "dialog_generals_overview_selectPvEGeneral_tab": "Seus generais",
     "dialog_generals_overview_selectGeneral_tab": "Seus generais",
-    "effect_description_attackBoostUnitBloodcrowsCI": "+{0} de força de combate ao atacar castelos dos Corvos Sangrentos (efeito de item de construção)",
-    "effect_description_attackBoostUnitAliensCI": "+{0} de força de combate ao atacar castelos estrangeiros (efeito de item de construção)",
+    "effect_description_attackBoostUnitBloodcrowsCI": "+{0}% de força de combate ao atacar castelos dos Corvos Sangrentos (efeito de item de construção)",
+    "effect_description_attackBoostUnitAliensCI": "+{0}% de força de combate ao atacar castelos estrangeiros (efeito de item de construção)",
     "ci_effect_attackBoostUnitBloodcrows_tt": "Força de combate ao atacar castelos dos Corvos Sangrentos:",
     "ci_effect_attackBoostUnitAliens_tt": "Força de combate ao atacar castelos estrangeiros:",
     "dialog_listOverview_castleBurning_desc": "Edificações danificadas no castelo",
@@ -11708,7 +11708,9 @@
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_desc": "Aumenta o bônus de velocidade de cura para unidades de rubi e moeda. Os custos são pagos com fundos da aliança.",
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost_percentage": "Bônus de velocidade de cura para unidades de rubi e moeda: +{0}%",
     "dialog_alliance_temporaryBoost_allianceUnitHealingBoost": "Bônus de velocidade de cura para unidades de rubi e moeda",
-    "dialog_specialOffer_copy2_3": "Ganhe mais {0}% de rubis."
+    "dialog_specialOffer_copy2_3": "Ganhe mais {0}% de rubis.",
+    "dialog_specialOffer_limitedTime_lineBreak": "TEMPO \nLIMITADO!",
+    "dialog_saveAccount_emailSent_changedBeforeRegistration_desc": "Seu endereço de e-mail foi alterado. Um e-mail de verificação foi enviado para o seu novo endereço de e-mail. Clique no link do e-mail para confirmar o registro."
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% velocidade de viagem do exército durante conquistas",
@@ -12752,8 +12754,11 @@
     "ci_effect_attackBoostUnitBerimondKingdom_tt": "Força de combate ao atacar alvos do reino de Berimond:",
     "ci_effect_attackBoostUnitNomad": "+{0}% de força de combate ao atacar acampamentos nômades",
     "ci_effect_attackBoostUnitNomad_tt": "Força de combate ao atacar acampamentos nômades:",
-    "effect_description_attackBoostUnitBerimondKingdomCI": "+{0} de força de combate ao atacar alvos do reino de Berimond (efeito de item de construção)",
-    "effect_description_attackBoostUnitNomadCI": "+{0} de força de combate ao atacar acampamentos nômades (efeito de item de construção)"
+    "effect_description_attackBoostUnitBerimondKingdomCI": "+{0}% de força de combate ao atacar alvos do reino de Berimond (efeito de item de construção)",
+    "effect_description_attackBoostUnitNomadCI": "+{0}% de força de combate ao atacar acampamentos nômades (efeito de item de construção)",
+    "equip_effect_description_attackBoostUnitAliens": "+{0}% de força de combate ao atacar castelos estrangeiros (efeito de item de construção)",
+    "equip_effect_description_attackBoostUnitNomad": "+{0}% de força de combate ao atacar acampamentos nômades (efeito de item de construção)",
+    "equip_effect_description_attackBoostUnitBloodcrows": "+{0}% de força de combate ao atacar castelos dos Corvos Sangrentos (efeito de item de construção)"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Herói",
@@ -16518,7 +16523,7 @@
     "equipment_unique_2010": "Peru do banquete da colheita",
     "equipment_unique_2010_desc": "Apenas heróis tolos enfrentam essas aves sem necessidade. Nos dias de hoje, os pássaros de Além do Horizonte servem como tropas de choque e são servidos em banquetes imperiais. Transforma o seu exército em um bando de perus agressivos.",
     "equipment_unique_2011": "Ovo de outono",
-    "equipment_unique_2011_desc": "O próprio imperador presenteia seus leais vassalos com estes ovos valiosos. Depois de saírem de seus ovos, os pássaros anunciam prosperidade e colheitas férteis. Transforma o seu castelo em uma fortaleza aviária e próspera.",
+    "equipment_unique_2011_desc": "O próprio imperador presenteia seus leais vassalos com estes ovos valiosos. Transforma o seu castelo em uma fortaleza aviária e próspera.",
     "equipment_unique_2008": "Totem de Fylgja",
     "equipment_unique_2008_desc": "As casas nórdicas resistem a frios extremos e a qualquer ataque inimigo. Transforma seu castelo em uma fortaleza nórdica."
   },
@@ -23114,7 +23119,8 @@
       "value_seperate_add": "+{0} | +{1}",
       "value_or_add": "+{0} ou +{1}",
       "value_or_default": "{0} ou {1}",
-      "value_brackets_subtract": "(-{0})"
+      "value_brackets_subtract": "(-{0})",
+      "value_dash_split_paragraph": "{0} - \n{1}"
     },
     "country": {
       "generic_country_AU": "Austrália",
