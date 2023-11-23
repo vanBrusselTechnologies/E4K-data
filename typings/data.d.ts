@@ -2913,7 +2913,7 @@ export interface Reward {
     "addVigorDoubloon"?: number;
     "addWishingWellCoin"?: number;
     "addXmasLTPEToken"?: number;
-    "buildingWodID"?: number;
+    "buildingWodID"?: number | string;
     "coal"?: number;
     "comment1"?: number | string;
     "comment2"?: number | string;
@@ -3293,7 +3293,7 @@ export interface TempServerSetting {
     "rewardSetID": number;
     "scoringSystem": string;
     "settingID": number;
-    "skinID": number;
+    "skinID"?: number;
     "startCurrencyAmount": number;
 }
 

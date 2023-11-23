@@ -138,6 +138,63 @@
       "currencyLootFactorMax": 0.2,
       "boosterCurrencyPackageID": 1359,
       "rewardSetID": 5
+    },
+    {
+      "settingID": 17,
+      "crossplayID": 17,
+      "presetIDs": "31,39",
+      "peaceDuration": 0,
+      "scoringSystem": "collector",
+      "hasDailyScoring": 1,
+      "startCurrencyAmount": 5000,
+      "minimumCurrencyAmountToScore": 10,
+      "currencyID": 108,
+      "boosterCurrencyID": 109,
+      "boosterCurrencyValue": 1,
+      "boosterCurrencyLimit": 5,
+      "currencyLootFactorMax": 0.2,
+      "boosterCurrencyPackageID": 1359,
+      "rewardSetID": 7
+    },
+    {
+      "settingID": 18,
+      "crossplayID": 18,
+      "presetIDs": 40,
+      "peaceDuration": 0,
+      "scoringSystem": "collector",
+      "hasDailyScoring": 1,
+      "startCurrencyAmount": 50000,
+      "minimumCurrencyAmountToScore": 10,
+      "currencyID": 108,
+      "boosterCurrencyID": 109,
+      "boosterCurrencyValue": 1,
+      "boosterCurrencyLimit": 5,
+      "currencyLootFactorMax": 0.2,
+      "boosterCurrencyPackageID": 1359,
+      "rewardSetID": 8
+    },
+    {
+      "settingID": 19,
+      "crossplayID": 19,
+      "presetIDs": "31,39,32",
+      "peaceDuration": 0,
+      "scoringSystem": "rankSwap",
+      "hasDailyScoring": 1,
+      "skinID": 2,
+      "startCurrencyAmount": -1,
+      "minimumCurrencyAmountToScore": 0,
+      "rewardSetID": 9
+    },
+    {
+      "settingID": 20,
+      "crossplayID": 20,
+      "presetIDs": "31,32",
+      "peaceDuration": 0,
+      "scoringSystem": "might",
+      "hasDailyScoring": 1,
+      "startCurrencyAmount": -1,
+      "minimumCurrencyAmountToScore": 0,
+      "rewardSetID": 10
     }
   ]
 }

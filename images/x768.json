@@ -6847,6 +6847,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_BeehiveMeadowHoneyMead": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_BeehiveMeadowHoneyMead/Deco_Building_BeehiveMeadowHoneyMead.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 307,
+        "h": 267,
+        "rx": 822,
+        "ry": 870
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_BeerBarrelWell": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_BeerBarrelWell/Deco_Building_BeerBarrelWell.png",
@@ -7188,6 +7203,36 @@
         "h": 268,
         "rx": 937,
         "ry": 816
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ChessEconomy": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ChessEconomy/Deco_Building_ChessEconomy.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 287,
+        "h": 287,
+        "rx": 829,
+        "ry": 835
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ChessHybrid": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ChessHybrid/Deco_Building_ChessHybrid.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 286,
+        "h": 287,
+        "rx": 829,
+        "ry": 835
       }
     ],
     "fx": []
@@ -9637,6 +9682,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_PoolOfTheBerimondKingsUnspecifiedTheme": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_PoolOfTheBerimondKingsUnspecifiedTheme/Deco_Building_PoolOfTheBerimondKingsUnspecifiedTheme.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 285,
+        "h": 303,
+        "rx": 842,
+        "ry": 825
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_PoolOfTheSummoning": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_PoolOfTheSummoning/Deco_Building_PoolOfTheSummoning.png",
@@ -9798,6 +9858,21 @@
         "h": 199,
         "rx": 842,
         "ry": 931
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_RoyalBanquetFood": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_RoyalBanquetFood/Deco_Building_RoyalBanquetFood.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 261,
+        "h": 198,
+        "rx": 839,
+        "ry": 932
       }
     ],
     "fx": []
@@ -10159,6 +10234,21 @@
         "h": 203,
         "rx": 841,
         "ry": 943
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_SlayerOfTheWolvesDefenseCombat": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_SlayerOfTheWolvesDefenseCombat/Deco_Building_SlayerOfTheWolvesDefenseCombat.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 292,
+        "h": 327,
+        "rx": 818,
+        "ry": 811
       }
     ],
     "fx": []
@@ -10692,6 +10782,21 @@
         "h": 317,
         "rx": 832,
         "ry": 812
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_TimelessKingAttackCombat": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_TimelessKingAttackCombat/Deco_Building_TimelessKingAttackCombat.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 293,
+        "h": 323,
+        "rx": 831,
+        "ry": 808
       }
     ],
     "fx": []
@@ -17096,6 +17201,21 @@
         "rotation": 0
       }
     ]
+  },
+  "MeadDistrict_Building_Level1": {
+    "pid": 0,
+    "url": "x768/Buildings/MeadDistrict/MeadDistrict_Building_Level1/MeadDistrict_Building_Level1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 335,
+        "rx": 831,
+        "ry": 851
+      }
+    ],
+    "fx": []
   },
   "Militarycamp_Building_Level1": {
     "pid": 0,
@@ -43760,6 +43880,21 @@
     ],
     "fx": []
   },
+  "Background_Generals_Overview_AlienGeneral": {
+    "pid": 0,
+    "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_AlienGeneral.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2420,
+        "h": 2433,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
   "Background_Generals_Overview_Alyssa": {
     "pid": 0,
     "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Alyssa.png",
@@ -43771,6 +43906,36 @@
         "h": 2427,
         "rx": 999,
         "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Background_Generals_Overview_BabaVarjuka": {
+    "pid": 0,
+    "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_BabaVarjuka.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2419,
+        "h": 2432,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Background_Generals_Overview_BlueGeneral": {
+    "pid": 0,
+    "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_BlueGeneral.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2419,
+        "h": 2433,
+        "rx": 999,
+        "ry": 998
       }
     ],
     "fx": []
@@ -43813,6 +43978,21 @@
         "x": 0,
         "y": 0,
         "w": 2420,
+        "h": 2433,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Background_Generals_Overview_KingOlafson": {
+    "pid": 0,
+    "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_KingOlafson.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2421,
         "h": 2433,
         "rx": 999,
         "ry": 999
@@ -43865,6 +44045,21 @@
     ],
     "fx": []
   },
+  "Background_Generals_Overview_Preview_AlienGeneral": {
+    "pid": 0,
+    "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_AlienGeneral.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2421,
+        "h": 2433,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
   "Background_Generals_Overview_Preview_Alyssa": {
     "pid": 0,
     "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_Alyssa.png",
@@ -43880,6 +44075,21 @@
     ],
     "fx": []
   },
+  "Background_Generals_Overview_Preview_BlueGeneral": {
+    "pid": 0,
+    "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_BlueGeneral.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2421,
+        "h": 2433,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
   "Background_Generals_Overview_Preview_Horatio": {
     "pid": 0,
     "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_Horatio.png",
@@ -43888,6 +44098,21 @@
         "x": 0,
         "y": 0,
         "w": 2420,
+        "h": 2433,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Background_Generals_Overview_Preview_KingOlafson": {
+    "pid": 0,
+    "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_KingOlafson.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2421,
         "h": 2433,
         "rx": 999,
         "ry": 999
@@ -43910,6 +44135,36 @@
     ],
     "fx": []
   },
+  "Background_Generals_Overview_Preview_RedGeneral": {
+    "pid": 0,
+    "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_RedGeneral.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2422,
+        "h": 2433,
+        "rx": 998,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Background_Generals_Overview_Preview_RobberBaron": {
+    "pid": 0,
+    "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_RobberBaron.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2422,
+        "h": 2433,
+        "rx": 998,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
   "Background_Generals_Overview_Preview_Sasaki": {
     "pid": 0,
     "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_Sasaki.png",
@@ -43920,6 +44175,21 @@
         "w": 2421,
         "h": 2434,
         "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Background_Generals_Overview_Preview_SultanAlKillah": {
+    "pid": 0,
+    "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_SultanAlKillah.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2422,
+        "h": 2433,
+        "rx": 998,
         "ry": 999
       }
     ],
@@ -43955,6 +44225,21 @@
     ],
     "fx": []
   },
+  "Background_Generals_Overview_Preview_Uskhal": {
+    "pid": 0,
+    "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_Uskhal.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2422,
+        "h": 2433,
+        "rx": 998,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
   "Background_Generals_Overview_Preview_WolfKing": {
     "pid": 0,
     "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_WolfKing.png",
@@ -43970,6 +44255,66 @@
     ],
     "fx": []
   },
+  "Background_Generals_Overview_Preview_Yigris": {
+    "pid": 0,
+    "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_Yigris.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2421,
+        "h": 2433,
+        "rx": 998,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Background_Generals_Overview_RedGeneral": {
+    "pid": 0,
+    "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_RedGeneral.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2419,
+        "h": 2432,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Background_Generals_Overview_RobbenBaron": {
+    "pid": 0,
+    "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_RobbenBaron.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2420,
+        "h": 2433,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Background_Generals_Overview_SamuraiGeneral": {
+    "pid": 0,
+    "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_SamuraiGeneral.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2419,
+        "h": 2432,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
   "Background_Generals_Overview_Sasaki": {
     "pid": 0,
     "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Sasaki.png",
@@ -43978,6 +44323,21 @@
         "x": 0,
         "y": 0,
         "w": 2421,
+        "h": 2433,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Background_Generals_Overview_SultanAlKillah": {
+    "pid": 0,
+    "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_SultanAlKillah.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2420,
         "h": 2433,
         "rx": 999,
         "ry": 999
@@ -44000,6 +44360,21 @@
     ],
     "fx": []
   },
+  "Background_Generals_Overview_Uskhal": {
+    "pid": 0,
+    "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Uskhal.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2420,
+        "h": 2432,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
   "Background_Generals_Overview_WolfKing": {
     "pid": 0,
     "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_WolfKing.png",
@@ -44010,6 +44385,21 @@
         "w": 2421,
         "h": 2433,
         "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Background_Generals_Overview_Yigris": {
+    "pid": 0,
+    "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Yigris.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2421,
+        "h": 2433,
+        "rx": 998,
         "ry": 999
       }
     ],
@@ -71415,6 +71805,51 @@
     ],
     "fx": []
   },
+  "icon_general_AlienGeneral_xl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_AlienGeneral_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 193,
+        "h": 198,
+        "rx": 915,
+        "ry": 909
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_AlienGeneral_xxl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_AlienGeneral_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 241,
+        "h": 248,
+        "rx": 894,
+        "ry": 878
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_AlienGeneral": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_AlienGeneral.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 129,
+        "h": 132,
+        "rx": 943,
+        "ry": 939
+      }
+    ],
+    "fx": []
+  },
   "icon_general_Alyssa_xl": {
     "pid": 0,
     "url": "x768/Icons/GeneralIcons/icon_general_Alyssa_xl.png",
@@ -71460,6 +71895,21 @@
     ],
     "fx": []
   },
+  "icon_general_attack_avatar_AlienGeneral": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_attack_avatar_AlienGeneral.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 313,
+        "h": 378,
+        "rx": 843,
+        "ry": 822
+      }
+    ],
+    "fx": []
+  },
   "icon_general_attack_avatar_Alyssa": {
     "pid": 0,
     "url": "x768/Icons/GeneralIcons/icon_general_attack_avatar_Alyssa.png",
@@ -71470,6 +71920,21 @@
         "w": 311,
         "h": 401,
         "rx": 844,
+        "ry": 799
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_attack_avatar_BabaVarjuka": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_attack_avatar_BabaVarjuka.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 313,
+        "h": 401,
+        "rx": 843,
         "ry": 799
       }
     ],
@@ -71505,6 +71970,21 @@
     ],
     "fx": []
   },
+  "icon_general_attack_avatar_BlueGeneral": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_attack_avatar_BlueGeneral.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 313,
+        "h": 401,
+        "rx": 843,
+        "ry": 799
+      }
+    ],
+    "fx": []
+  },
   "icon_general_attack_avatar_Horatio": {
     "pid": 0,
     "url": "x768/Icons/GeneralIcons/icon_general_attack_avatar_Horatio.png",
@@ -71520,9 +72000,69 @@
     ],
     "fx": []
   },
+  "icon_general_attack_avatar_KingOlafson": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_attack_avatar_KingOlafson.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 313,
+        "h": 392,
+        "rx": 843,
+        "ry": 808
+      }
+    ],
+    "fx": []
+  },
   "icon_general_attack_avatar_Leo": {
     "pid": 0,
     "url": "x768/Icons/GeneralIcons/icon_general_attack_avatar_Leo.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 313,
+        "h": 401,
+        "rx": 843,
+        "ry": 799
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_attack_avatar_RedGeneral": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_attack_avatar_RedGeneral.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 313,
+        "h": 401,
+        "rx": 843,
+        "ry": 799
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_attack_avatar_RobbenBaron": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_attack_avatar_RobbenBaron.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 313,
+        "h": 374,
+        "rx": 843,
+        "ry": 826
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_attack_avatar_SamuraiGeneral": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_attack_avatar_SamuraiGeneral.png",
     "frames": [
       {
         "x": 0,
@@ -71546,6 +72086,21 @@
         "h": 401,
         "rx": 843,
         "ry": 799
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_attack_avatar_SultanAlKillah": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_attack_avatar_SultanAlKillah.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 314,
+        "h": 396,
+        "rx": 842,
+        "ry": 804
       }
     ],
     "fx": []
@@ -71595,6 +72150,21 @@
     ],
     "fx": []
   },
+  "icon_general_attack_avatar_Uskhal": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_attack_avatar_Uskhal.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 313,
+        "h": 401,
+        "rx": 843,
+        "ry": 799
+      }
+    ],
+    "fx": []
+  },
   "icon_general_attack_avatar_WolfKing": {
     "pid": 0,
     "url": "x768/Icons/GeneralIcons/icon_general_attack_avatar_WolfKing.png",
@@ -71606,6 +72176,111 @@
         "h": 401,
         "rx": 843,
         "ry": 799
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_attack_avatar_Yigris": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_attack_avatar_Yigris.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 313,
+        "h": 392,
+        "rx": 843,
+        "ry": 808
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_BabaVarjuka_xl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_BabaVarjuka_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 215,
+        "rx": 919,
+        "ry": 892
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_BabaVarjuka_xxl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_BabaVarjuka_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 184,
+        "h": 265,
+        "rx": 900,
+        "ry": 863
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_BabaVarjuka": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_BabaVarjuka.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 101,
+        "h": 143,
+        "rx": 945,
+        "ry": 928
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_BlueGeneral_xl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_BlueGeneral_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 215,
+        "h": 213,
+        "rx": 892,
+        "ry": 894
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_BlueGeneral_xxl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_BlueGeneral_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 267,
+        "h": 264,
+        "rx": 866,
+        "ry": 864
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_BlueGeneral": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_BlueGeneral.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 143,
+        "rx": 928,
+        "ry": 929
       }
     ],
     "fx": []
@@ -71805,6 +72480,51 @@
     ],
     "fx": []
   },
+  "icon_general_KingOlafson_xl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_KingOlafson_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 211,
+        "rx": 893,
+        "ry": 895
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_KingOlafson_xxl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_KingOlafson_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 268,
+        "h": 264,
+        "rx": 865,
+        "ry": 864
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_KingOlafson": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_KingOlafson.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 140,
+        "rx": 928,
+        "ry": 931
+      }
+    ],
+    "fx": []
+  },
   "icon_general_Leo_xl": {
     "pid": 0,
     "url": "x768/Icons/GeneralIcons/icon_general_Leo_xl.png",
@@ -71970,6 +72690,51 @@
     ],
     "fx": []
   },
+  "icon_general_preview_AlienGeneral_xl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_AlienGeneral_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 193,
+        "h": 199,
+        "rx": 915,
+        "ry": 908
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_AlienGeneral_xxl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_AlienGeneral_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 251,
+        "h": 258,
+        "rx": 889,
+        "ry": 881
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_AlienGeneral": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_AlienGeneral.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 129,
+        "h": 133,
+        "rx": 943,
+        "ry": 938
+      }
+    ],
+    "fx": []
+  },
   "icon_general_preview_Alyssa_xl": {
     "pid": 0,
     "url": "x768/Icons/GeneralIcons/icon_general_preview_Alyssa_xl.png",
@@ -72008,6 +72773,51 @@
         "x": 0,
         "y": 0,
         "w": 143,
+        "h": 143,
+        "rx": 928,
+        "ry": 928
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_BlueGeneral_xl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_BlueGeneral_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 213,
+        "rx": 893,
+        "ry": 893
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_BlueGeneral_xxl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_BlueGeneral_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 286,
+        "h": 283,
+        "rx": 857,
+        "ry": 858
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_BlueGeneral": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_BlueGeneral.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 144,
         "h": 143,
         "rx": 928,
         "ry": 928
@@ -72060,6 +72870,51 @@
     ],
     "fx": []
   },
+  "icon_general_preview_KingOlafson_xl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_KingOlafson_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 211,
+        "rx": 893,
+        "ry": 895
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_KingOlafson_xxl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_KingOlafson_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 268,
+        "h": 265,
+        "rx": 865,
+        "ry": 863
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_KingOlafson": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_KingOlafson.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 141,
+        "rx": 928,
+        "ry": 930
+      }
+    ],
+    "fx": []
+  },
   "icon_general_preview_Leo_xl": {
     "pid": 0,
     "url": "x768/Icons/GeneralIcons/icon_general_preview_Leo_xl.png",
@@ -72105,6 +72960,141 @@
     ],
     "fx": []
   },
+  "icon_general_preview_RedGeneral_xl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_RedGeneral_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 211,
+        "h": 215,
+        "rx": 894,
+        "ry": 891
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_RedGeneral_xxl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_RedGeneral_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 281,
+        "h": 286,
+        "rx": 859,
+        "ry": 856
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_RedGeneral": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_RedGeneral.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 142,
+        "h": 144,
+        "rx": 929,
+        "ry": 927
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_RobbenBaron_xl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_RobbenBaron_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 206,
+        "rx": 914,
+        "ry": 901
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_RobbenBaron_xxl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_RobbenBaron_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 244,
+        "h": 273,
+        "rx": 886,
+        "ry": 867
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_RobbenBaron": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_RobbenBaron.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 125,
+        "h": 139,
+        "rx": 942,
+        "ry": 933
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_SamuraiGeneral_xl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_SamuraiGeneral_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 213,
+        "h": 215,
+        "rx": 892,
+        "ry": 891
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_SamuraiGeneral_xxl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_SamuraiGeneral_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 279,
+        "h": 284,
+        "rx": 859,
+        "ry": 858
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_SamuraiGeneral": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_SamuraiGeneral.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 142,
+        "h": 144,
+        "rx": 928,
+        "ry": 927
+      }
+    ],
+    "fx": []
+  },
   "icon_general_preview_Sasaki_xl": {
     "pid": 0,
     "url": "x768/Icons/GeneralIcons/icon_general_preview_Sasaki_xl.png",
@@ -72146,6 +73136,51 @@
         "h": 141,
         "rx": 928,
         "ry": 930
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_SultanAlKillah_xl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_SultanAlKillah_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 201,
+        "h": 215,
+        "rx": 906,
+        "ry": 893
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_SultanAlKillah_xxl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_SultanAlKillah_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 281,
+        "rx": 876,
+        "ry": 859
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_SultanAlKillah": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_SultanAlKillah.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 135,
+        "h": 144,
+        "rx": 937,
+        "ry": 927
       }
     ],
     "fx": []
@@ -72255,6 +73290,51 @@
     ],
     "fx": []
   },
+  "icon_general_preview_Uskhal_xl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_Uskhal_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 215,
+        "h": 215,
+        "rx": 892,
+        "ry": 892
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Uskhal_xxl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_Uskhal_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 282,
+        "h": 282,
+        "rx": 859,
+        "ry": 859
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Uskhal": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_Uskhal.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 143,
+        "rx": 928,
+        "ry": 928
+      }
+    ],
+    "fx": []
+  },
   "icon_general_preview_WolfKing_xl": {
     "pid": 0,
     "url": "x768/Icons/GeneralIcons/icon_general_preview_WolfKing_xl.png",
@@ -72295,6 +73375,186 @@
         "w": 144,
         "h": 143,
         "rx": 927,
+        "ry": 928
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Yigris_xl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_Yigris_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 212,
+        "rx": 893,
+        "ry": 895
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Yigris_xxl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_Yigris_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 269,
+        "h": 266,
+        "rx": 864,
+        "ry": 873
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Yigris": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_Yigris.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 142,
+        "rx": 928,
+        "ry": 930
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_RedGeneral_xl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_RedGeneral_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 212,
+        "h": 215,
+        "rx": 894,
+        "ry": 891
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_RedGeneral_xxl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_RedGeneral_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 280,
+        "h": 284,
+        "rx": 860,
+        "ry": 858
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_RedGeneral": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_RedGeneral.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 142,
+        "h": 144,
+        "rx": 929,
+        "ry": 927
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_RobbenBaron_xl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_RobbenBaron_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 199,
+        "h": 207,
+        "rx": 901,
+        "ry": 900
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_RobbenBaron_xxl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_RobbenBaron_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 249,
+        "h": 260,
+        "rx": 876,
+        "ry": 867
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_RobbenBaron": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_RobbenBaron.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 133,
+        "h": 138,
+        "rx": 934,
+        "ry": 933
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_SamuraiGeneral_xl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_SamuraiGeneral_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 211,
+        "h": 215,
+        "rx": 893,
+        "ry": 892
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_SamuraiGeneral_xxl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_SamuraiGeneral_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 261,
+        "h": 265,
+        "rx": 868,
+        "ry": 863
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_SamuraiGeneral": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_SamuraiGeneral.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 140,
+        "h": 143,
+        "rx": 929,
         "ry": 928
       }
     ],
@@ -72345,6 +73605,51 @@
     ],
     "fx": []
   },
+  "icon_general_SultanAlKillah_xl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_SultanAlKillah_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 202,
+        "h": 216,
+        "rx": 906,
+        "ry": 890
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_SultanAlKillah_xxl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_SultanAlKillah_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 252,
+        "h": 269,
+        "rx": 882,
+        "ry": 859
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_SultanAlKillah": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_SultanAlKillah.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 136,
+        "h": 144,
+        "rx": 936,
+        "ry": 926
+      }
+    ],
+    "fx": []
+  },
   "icon_general_Toril_xl": {
     "pid": 0,
     "url": "x768/Icons/GeneralIcons/icon_general_Toril_xl.png",
@@ -72386,6 +73691,51 @@
         "h": 133,
         "rx": 930,
         "ry": 938
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_Uskhal_xl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_Uskhal_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 215,
+        "h": 215,
+        "rx": 892,
+        "ry": 892
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_Uskhal_xxl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_Uskhal_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 265,
+        "h": 265,
+        "rx": 867,
+        "ry": 863
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_Uskhal": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_Uskhal.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 143,
+        "rx": 928,
+        "ry": 928
       }
     ],
     "fx": []
@@ -72435,9 +73785,84 @@
     ],
     "fx": []
   },
+  "icon_general_Yigris_xl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_Yigris_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 212,
+        "rx": 893,
+        "ry": 895
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_Yigris_xxl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_Yigris_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 268,
+        "h": 266,
+        "rx": 867,
+        "ry": 861
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_Yigris": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_Yigris.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 142,
+        "rx": 928,
+        "ry": 929
+      }
+    ],
+    "fx": []
+  },
+  "icon_squared_general_AlienGeneral": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_squared_general_AlienGeneral.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 117,
+        "h": 111,
+        "rx": 941,
+        "ry": 944
+      }
+    ],
+    "fx": []
+  },
   "icon_squared_general_Alyssa": {
     "pid": 0,
     "url": "x768/Icons/GeneralIcons/icon_squared_general_Alyssa.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 117,
+        "h": 117,
+        "rx": 941,
+        "ry": 941
+      }
+    ],
+    "fx": []
+  },
+  "icon_squared_general_BabaVarjuka": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_squared_general_BabaVarjuka.png",
     "frames": [
       {
         "x": 0,
@@ -72476,6 +73901,21 @@
         "h": 116,
         "rx": 941,
         "ry": 942
+      }
+    ],
+    "fx": []
+  },
+  "icon_squared_general_SamuraiGeneral": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_squared_general_SamuraiGeneral.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 117,
+        "h": 117,
+        "rx": 941,
+        "ry": 941
       }
     ],
     "fx": []
@@ -72521,6 +73961,36 @@
         "h": 113,
         "rx": 941,
         "ry": 945
+      }
+    ],
+    "fx": []
+  },
+  "icon_squared_general_Uskhal": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_squared_general_Uskhal.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 117,
+        "h": 117,
+        "rx": 941,
+        "ry": 941
+      }
+    ],
+    "fx": []
+  },
+  "icon_squared_general_WolfKing": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_squared_general_WolfKing.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 117,
+        "h": 117,
+        "rx": 941,
+        "ry": 941
       }
     ],
     "fx": []
@@ -84300,6 +85770,66 @@
     ],
     "fx": []
   },
+  "icon_effect_building_attack_xs": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_effect_building_attack_xs.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 37,
+        "h": 37,
+        "rx": 981,
+        "ry": 981
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_building_economy_xs": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_effect_building_economy_xs.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 37,
+        "h": 37,
+        "rx": 981,
+        "ry": 981
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_building_hybrid_xs": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_effect_building_hybrid_xs.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 37,
+        "h": 37,
+        "rx": 981,
+        "ry": 981
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_building": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_effect_building.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 67,
+        "rx": 966,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
   "icon_effect_reroll": {
     "pid": 1,
     "url": "x768/Icons/Icons/icon_effect_reroll.png",
@@ -87971,6 +89501,21 @@
         "h": 68,
         "rx": 949,
         "ry": 966
+      }
+    ],
+    "fx": []
+  },
+  "icon_more_brown": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_more_brown.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 71,
+        "h": 21,
+        "rx": 964,
+        "ry": 989
       }
     ],
     "fx": []
@@ -95565,7 +97110,112 @@
     ],
     "fx": []
   },
+  "icon_effect_buildingXPBoost_legendary": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_effect_buildingXPBoost_legendary_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 67,
+        "rx": 966,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_battleXPBonus_legendary": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_effect_buildingXPBoost_legendary_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 67,
+        "rx": 966,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_battleXPBoost_legendary": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_effect_buildingXPBoost_legendary_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 67,
+        "rx": 966,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_buildingXPBoost": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_effect_buildingXPBoost_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 67,
+        "rx": 966,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_battleXPBonus": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_effect_buildingXPBoost_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 67,
+        "rx": 966,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_battleXPBoost": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_effect_buildingXPBoost_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 67,
+        "rx": 966,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
   "icon_effect_icon_effect_classicResourceProductionBonus": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_effect_classicResourceProductionBonus_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 93,
+        "h": 61,
+        "rx": 953,
+        "ry": 969
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_classicResourceProductionBonus": {
     "pid": 0,
     "url": "x768/Icons/IconsShared/icon_effect_classicResourceProductionBonus_Shared.png",
     "frames": [
@@ -95590,6 +97240,21 @@
         "w": 93,
         "h": 61,
         "rx": 953,
+        "ry": 969
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_coalProductionBoost": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_effect_coalProductionBoost_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 61,
+        "rx": 962,
         "ry": 969
       }
     ],
@@ -96075,6 +97740,51 @@
     ],
     "fx": []
   },
+  "icon_effect_foodCapacityBonus": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_effect_foodCapacityBonus_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 67,
+        "rx": 966,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_foodProductionBonus": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_effect_foodProductionBonus_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 73,
+        "h": 61,
+        "rx": 963,
+        "ry": 969
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_glassProductionBoost": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_effect_glassProductionBoost_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 73,
+        "h": 62,
+        "rx": 963,
+        "ry": 969
+      }
+    ],
+    "fx": []
+  },
   "icon_effect_hideoutCapacity": {
     "pid": 0,
     "url": "x768/Icons/IconsShared/icon_effect_hideoutCapacity_Shared.png",
@@ -96105,6 +97815,21 @@
     ],
     "fx": []
   },
+  "icon_effect_honeyCapacityBonus": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_effect_honeyCapacityBonus_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 68,
+        "rx": 966,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
   "icon_effect_honorBonus": {
     "pid": 0,
     "url": "x768/Icons/IconsShared/icon_effect_honorBonus_Shared.png",
@@ -96131,6 +97856,21 @@
         "h": 67,
         "rx": 966,
         "ry": 966
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_ironProductionBoost": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_effect_ironProductionBoost_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 61,
+        "rx": 964,
+        "ry": 969
       }
     ],
     "fx": []
@@ -96390,6 +98130,36 @@
     ],
     "fx": []
   },
+  "icon_effect_marketCarriageCapacityBoost": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_effect_marketCarriageCapacityBonus_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 58,
+        "rx": 966,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_marketSpeedBonus": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_effect_marketSpeedBonus_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 68,
+        "h": 67,
+        "rx": 965,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
   "icon_effect_meadCapacityBonus": {
     "pid": 0,
     "url": "x768/Icons/IconsShared/icon_effect_meadCapacityBonus_Shared.png",
@@ -96400,6 +98170,21 @@
         "w": 67,
         "h": 67,
         "rx": 966,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_meadProductionBoost": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_effect_meadProductionBoost_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 68,
+        "h": 68,
+        "rx": 965,
         "ry": 966
       }
     ],
@@ -96446,6 +98231,21 @@
         "h": 70,
         "rx": 967,
         "ry": 965
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_oilProductionBoost": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_effect_oilProductionBoost_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 61,
+        "rx": 966,
+        "ry": 969
       }
     ],
     "fx": []
@@ -96585,6 +98385,51 @@
     ],
     "fx": []
   },
+  "icon_effect_stoneProductionBoost": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_effect_stoneProductionBoost_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 61,
+        "rx": 965,
+        "ry": 969
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_toolProductionSpeedBoostAll": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_effect_toolProductionSpeedBoostAll_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 68,
+        "h": 54,
+        "rx": 966,
+        "ry": 973
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_toolProductionTimeBonus": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_effect_toolProductionTimeBonus_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 67,
+        "rx": 966,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
   "icon_effect_travelCostReductionPVP": {
     "pid": 0,
     "url": "x768/Icons/IconsShared/icon_effect_travelCostReductionPVP_Shared.png",
@@ -96671,6 +98516,21 @@
         "h": 43,
         "rx": 961,
         "ry": 978
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_woodProductionBoost": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_effect_woodProductionBoost_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 62,
+        "rx": 965,
+        "ry": 969
       }
     ],
     "fx": []
@@ -109658,7 +111518,7 @@
         "x": 0,
         "y": 0,
         "w": 1537,
-        "h": 1332,
+        "h": 1331,
         "rx": 231,
         "ry": 334
       }
@@ -109721,6 +111581,21 @@
         "h": 1330,
         "rx": 232,
         "ry": 335
+      }
+    ],
+    "fx": []
+  },
+  "Teaser_OffersHub_Squared_Small_1": {
+    "pid": 0,
+    "url": "x768/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Squared_Small_1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1247,
+        "h": 985,
+        "rx": 376,
+        "ry": 507
       }
     ],
     "fx": []
@@ -120191,6 +122066,36 @@
     ],
     "fx": []
   },
+  "Elitetool_Unit_highKingsBanner": {
+    "pid": 0,
+    "url": "x768/Units/UnitAssets/Elitetool_Unit_highKingsBanner.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 179,
+        "h": 169,
+        "rx": 910,
+        "ry": 915
+      }
+    ],
+    "fx": []
+  },
+  "Elitetool_Unit_highQueensBanner": {
+    "pid": 0,
+    "url": "x768/Units/UnitAssets/Elitetool_Unit_highQueensBanner.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 179,
+        "h": 175,
+        "rx": 910,
+        "ry": 912
+      }
+    ],
+    "fx": []
+  },
   "Elitetool_Unit_Horsetailbanner": {
     "pid": 0,
     "url": "x768/Units/UnitAssets/Elitetool_Unit_Horsetailbanner.png",
@@ -120472,6 +122377,21 @@
         "h": 159,
         "rx": 923,
         "ry": 920
+      }
+    ],
+    "fx": []
+  },
+  "Elitetool_Unit_supremeMonarchsBanner": {
+    "pid": 0,
+    "url": "x768/Units/UnitAssets/Elitetool_Unit_supremeMonarchsBanner.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 179,
+        "h": 178,
+        "rx": 910,
+        "ry": 911
       }
     ],
     "fx": []
@@ -120896,6 +122816,36 @@
     ],
     "fx": []
   },
+  "Eventtool_Unit_ColossalNomadTabletChest": {
+    "pid": 0,
+    "url": "x768/Units/UnitAssets/Eventtool_Unit_ColossalNomadTabletChest.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 183,
+        "h": 196,
+        "rx": 908,
+        "ry": 902
+      }
+    ],
+    "fx": []
+  },
+  "Eventtool_Unit_ColossalSamuraiTokenChest": {
+    "pid": 0,
+    "url": "x768/Units/UnitAssets/Eventtool_Unit_ColossalSamuraiTokenChest.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 151,
+        "h": 121,
+        "rx": 924,
+        "ry": 939
+      }
+    ],
+    "fx": []
+  },
   "Eventtool_Unit_EliteBerimondPointBoost": {
     "pid": 0,
     "url": "x768/Units/UnitAssets/Eventtool_Unit_EliteBerimondPointBoost.png",
@@ -120971,6 +122921,36 @@
     ],
     "fx": []
   },
+  "Eventtool_Unit_EnormousNomadTabletChest": {
+    "pid": 0,
+    "url": "x768/Units/UnitAssets/Eventtool_Unit_EnormousNomadTabletChest.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 183,
+        "h": 196,
+        "rx": 908,
+        "ry": 902
+      }
+    ],
+    "fx": []
+  },
+  "Eventtool_Unit_EnormousSamuraiTokenChest": {
+    "pid": 0,
+    "url": "x768/Units/UnitAssets/Eventtool_Unit_EnormousSamuraiTokenChest.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 151,
+        "h": 121,
+        "rx": 924,
+        "ry": 939
+      }
+    ],
+    "fx": []
+  },
   "Eventtool_Unit_FestiveRam": {
     "pid": 0,
     "url": "x768/Units/UnitAssets/Eventtool_Unit_FestiveRam.png",
@@ -120997,6 +122977,36 @@
         "h": 160,
         "rx": 928,
         "ry": 920
+      }
+    ],
+    "fx": []
+  },
+  "Eventtool_Unit_GiantNomadTabletChest": {
+    "pid": 0,
+    "url": "x768/Units/UnitAssets/Eventtool_Unit_GiantNomadTabletChest.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 183,
+        "h": 194,
+        "rx": 908,
+        "ry": 903
+      }
+    ],
+    "fx": []
+  },
+  "Eventtool_Unit_GiantSamuraiTokenChest": {
+    "pid": 0,
+    "url": "x768/Units/UnitAssets/Eventtool_Unit_GiantSamuraiTokenChest.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 151,
+        "h": 121,
+        "rx": 924,
+        "ry": 939
       }
     ],
     "fx": []
