@@ -880,6 +880,7 @@
       "eventType": "apprenticeSmith",
       "hubType": "Trader",
       "merchantID": 1,
+      "crossplayMinLevel": 1,
       "minLevel": 20,
       "maxLevel": 99
     },
@@ -891,6 +892,7 @@
       "eventType": "apprenticeTokenVendor",
       "hubType": "Trader",
       "merchantID": 2,
+      "crossplayMinLevel": 1,
       "minLevel": 20,
       "maxLevel": 99
     },

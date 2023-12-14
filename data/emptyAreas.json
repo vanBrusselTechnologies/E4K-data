@@ -7,6 +7,7 @@
       "areaType": 4,
       "peasants": 73,
       "unitWallCount": 20,
+      "lordID": -211,
       "startingFood": 2500
     },
     {
@@ -114,6 +115,7 @@
       "gateWodId": 469,
       "keepWodId": 175,
       "unitWallCount": 200,
+      "lordID": -211,
       "guards": 20
     },
     {
@@ -129,6 +131,7 @@
       "gateWodId": 469,
       "keepWodId": 175,
       "unitWallCount": 200,
+      "lordID": -211,
       "guards": 20
     },
     {
@@ -138,6 +141,7 @@
       "areaType": 4,
       "peasants": 73,
       "unitWallCount": 20,
+      "lordID": -211,
       "startingFood": 2500
     },
     {
@@ -227,6 +231,7 @@
       "gateWodId": 450,
       "keepWodId": 171,
       "unitWallCount": 75,
+      "lordID": -211,
       "guards": 35,
       "startingFood": 25000
     },
@@ -243,6 +248,7 @@
       "gateWodId": 450,
       "keepWodId": 171,
       "unitWallCount": 50,
+      "lordID": -211,
       "guards": 20
     },
     {
@@ -258,6 +264,7 @@
       "gateWodId": 469,
       "keepWodId": 175,
       "unitWallCount": 200,
+      "lordID": -211,
       "guards": 20
     }
   ]

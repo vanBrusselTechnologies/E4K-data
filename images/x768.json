@@ -7290,6 +7290,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_christmasCarousel": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_christmasCarousel/Deco_Building_christmasCarousel.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 296,
+        "h": 260,
+        "rx": 822,
+        "ry": 872
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_christmashut": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_christmashut/Deco_Building_christmashut.png",
@@ -7300,6 +7315,21 @@
         "w": 277,
         "h": 244,
         "rx": 834,
+        "ry": 892
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_christmasKiosqueFountain": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_christmasKiosqueFountain/Deco_Building_christmasKiosqueFountain.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 261,
+        "h": 236,
+        "rx": 839,
         "ry": 892
       }
     ],
@@ -11518,6 +11548,21 @@
         "h": 249,
         "rx": 827,
         "ry": 877
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_xmasGluhweinStand": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_xmasGluhweinStand/Deco_Building_xmasGluhweinStand.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 271,
+        "h": 261,
+        "rx": 832,
+        "ry": 868
       }
     ],
     "fx": []
@@ -24449,6 +24494,21 @@
         "rotation": 0
       }
     ]
+  },
+  "xmasStronghold": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/xmasStronghold/xmasStronghold.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 226,
+        "rx": 932,
+        "ry": 868
+      }
+    ],
+    "fx": []
   },
   "xmasWorkshop": {
     "pid": 0,
@@ -43933,7 +43993,7 @@
         "x": 0,
         "y": 0,
         "w": 2419,
-        "h": 2433,
+        "h": 2432,
         "rx": 999,
         "ry": 998
       }
@@ -44165,6 +44225,21 @@
     ],
     "fx": []
   },
+  "Background_Generals_Overview_Preview_SamuraiGeneral": {
+    "pid": 0,
+    "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_SamuraiGeneral.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2420,
+        "h": 2433,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
   "Background_Generals_Overview_Preview_Sasaki": {
     "pid": 0,
     "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_Sasaki.png",
@@ -44187,9 +44262,9 @@
       {
         "x": 0,
         "y": 0,
-        "w": 2422,
+        "w": 2421,
         "h": 2433,
-        "rx": 998,
+        "rx": 999,
         "ry": 999
       }
     ],
@@ -44285,16 +44360,16 @@
     ],
     "fx": []
   },
-  "Background_Generals_Overview_RobbenBaron": {
+  "Background_Generals_Overview_RobberBaron": {
     "pid": 0,
-    "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_RobbenBaron.png",
+    "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_RobberBaron.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
-        "w": 2420,
+        "w": 2421,
         "h": 2433,
-        "rx": 999,
+        "rx": 998,
         "ry": 999
       }
     ],
@@ -44397,9 +44472,9 @@
       {
         "x": 0,
         "y": 0,
-        "w": 2421,
+        "w": 2420,
         "h": 2433,
-        "rx": 998,
+        "rx": 999,
         "ry": 999
       }
     ],
@@ -60697,6 +60772,21 @@
     ],
     "fx": []
   },
+  "items_unique_2014": {
+    "pid": 0,
+    "url": "x768/Equipment/EquipmentShared/items_unique_2014_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 129,
+        "rx": 935,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
   "relic_equipment_1_3": {
     "pid": 1,
     "url": "x768/Equipment/EquipmentShared/relic_equipment_1_2_Shared.png",
@@ -72045,9 +72135,9 @@
     ],
     "fx": []
   },
-  "icon_general_attack_avatar_RobbenBaron": {
+  "icon_general_attack_avatar_RobberBaron": {
     "pid": 0,
-    "url": "x768/Icons/GeneralIcons/icon_general_attack_avatar_RobbenBaron.png",
+    "url": "x768/Icons/GeneralIcons/icon_general_attack_avatar_RobberBaron.png",
     "frames": [
       {
         "x": 0,
@@ -72488,8 +72578,8 @@
         "x": 0,
         "y": 0,
         "w": 214,
-        "h": 211,
-        "rx": 893,
+        "h": 210,
+        "rx": 892,
         "ry": 895
       }
     ],
@@ -72518,9 +72608,9 @@
         "x": 0,
         "y": 0,
         "w": 143,
-        "h": 140,
+        "h": 141,
         "rx": 928,
-        "ry": 931
+        "ry": 930
       }
     ],
     "fx": []
@@ -73005,9 +73095,9 @@
     ],
     "fx": []
   },
-  "icon_general_preview_RobbenBaron_xl": {
+  "icon_general_preview_RobberBaron_xl": {
     "pid": 0,
-    "url": "x768/Icons/GeneralIcons/icon_general_preview_RobbenBaron_xl.png",
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_RobberBaron_xl.png",
     "frames": [
       {
         "x": 0,
@@ -73020,9 +73110,9 @@
     ],
     "fx": []
   },
-  "icon_general_preview_RobbenBaron_xxl": {
+  "icon_general_preview_RobberBaron_xxl": {
     "pid": 0,
-    "url": "x768/Icons/GeneralIcons/icon_general_preview_RobbenBaron_xxl.png",
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_RobberBaron_xxl.png",
     "frames": [
       {
         "x": 0,
@@ -73035,9 +73125,9 @@
     ],
     "fx": []
   },
-  "icon_general_preview_RobbenBaron": {
+  "icon_general_preview_RobberBaron": {
     "pid": 0,
-    "url": "x768/Icons/GeneralIcons/icon_general_preview_RobbenBaron.png",
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_RobberBaron.png",
     "frames": [
       {
         "x": 0,
@@ -73470,9 +73560,9 @@
     ],
     "fx": []
   },
-  "icon_general_RobbenBaron_xl": {
+  "icon_general_RobberBaron_xl": {
     "pid": 0,
-    "url": "x768/Icons/GeneralIcons/icon_general_RobbenBaron_xl.png",
+    "url": "x768/Icons/GeneralIcons/icon_general_RobberBaron_xl.png",
     "frames": [
       {
         "x": 0,
@@ -73485,9 +73575,9 @@
     ],
     "fx": []
   },
-  "icon_general_RobbenBaron_xxl": {
+  "icon_general_RobberBaron_xxl": {
     "pid": 0,
-    "url": "x768/Icons/GeneralIcons/icon_general_RobbenBaron_xxl.png",
+    "url": "x768/Icons/GeneralIcons/icon_general_RobberBaron_xxl.png",
     "frames": [
       {
         "x": 0,
@@ -73500,17 +73590,17 @@
     ],
     "fx": []
   },
-  "icon_general_RobbenBaron": {
+  "icon_general_RobberBaron": {
     "pid": 0,
-    "url": "x768/Icons/GeneralIcons/icon_general_RobbenBaron.png",
+    "url": "x768/Icons/GeneralIcons/icon_general_RobberBaron.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
         "w": 133,
-        "h": 138,
-        "rx": 934,
-        "ry": 933
+        "h": 139,
+        "rx": 933,
+        "ry": 930
       }
     ],
     "fx": []
@@ -73613,9 +73703,9 @@
         "x": 0,
         "y": 0,
         "w": 202,
-        "h": 216,
+        "h": 215,
         "rx": 906,
-        "ry": 890
+        "ry": 891
       }
     ],
     "fx": []
@@ -73642,7 +73732,7 @@
       {
         "x": 0,
         "y": 0,
-        "w": 136,
+        "w": 135,
         "h": 144,
         "rx": 936,
         "ry": 926
@@ -74182,10 +74272,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 99,
-        "h": 93,
-        "rx": 950,
-        "ry": 953
+        "w": 97,
+        "h": 91,
+        "rx": 951,
+        "ry": 954
       }
     ],
     "fx": []
@@ -87900,6 +87990,21 @@
     ],
     "fx": []
   },
+  "icon_hud_minigame": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_hud_minigame.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 127,
+        "h": 117,
+        "rx": 936,
+        "ry": 941
+      }
+    ],
+    "fx": []
+  },
   "icon_hud_mobilewebshop_small": {
     "pid": 0,
     "url": "x768/Icons/Icons/icon_hud_mobilewebshop_small.png",
@@ -87993,6 +88098,21 @@
   "icon_increase_boost": {
     "pid": 1,
     "url": "x768/Icons/Icons/icon_increase_boost.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 77,
+        "rx": 961,
+        "ry": 961
+      }
+    ],
+    "fx": []
+  },
+  "icon_indicator_locked": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_indicator_locked.png",
     "frames": [
       {
         "x": 0,
@@ -93555,6 +93675,36 @@
     ],
     "fx": []
   },
+  "icon_stronghold_flat_dark": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_stronghold_flat_dark.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 49,
+        "h": 47,
+        "rx": 975,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "icon_stronghold_flat": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_stronghold_flat.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 49,
+        "h": 47,
+        "rx": 975,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
   "icon_stronghold_medium_ds": {
     "pid": 0,
     "url": "x768/Icons/Icons/icon_stronghold_medium_ds.png",
@@ -94035,6 +94185,66 @@
     ],
     "fx": []
   },
+  "icon_tempserver_crossplay_big": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_tempserver_crossplay_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 141,
+        "h": 145,
+        "rx": 929,
+        "ry": 927
+      }
+    ],
+    "fx": []
+  },
+  "icon_tempserver_crossplay_xl": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_tempserver_crossplay_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 207,
+        "h": 212,
+        "rx": 896,
+        "ry": 894
+      }
+    ],
+    "fx": []
+  },
+  "icon_tempserver_crossplay_xxl": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_tempserver_crossplay_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 289,
+        "h": 296,
+        "rx": 855,
+        "ry": 852
+      }
+    ],
+    "fx": []
+  },
+  "icon_tempserver_crossplay": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_tempserver_crossplay.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 112,
+        "h": 115,
+        "rx": 944,
+        "ry": 942
+      }
+    ],
+    "fx": []
+  },
   "icon_tempserver_medium": {
     "pid": 1,
     "url": "x768/Icons/Icons/icon_tempserver_medium.png",
@@ -94247,7 +94457,7 @@
   },
   "icon_tempserver": {
     "pid": 1,
-    "url": "x768/Icons/Icons/icon_tempserver.png",
+    "url": "x768/Icons/IconsShared/icon_tempserver.png",
     "frames": [
       {
         "x": 0,
@@ -98310,6 +98520,21 @@
     ],
     "fx": []
   },
+  "icon_effect_recruitmentCostDecreaseAll": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_effect_recruitmentCostDecreaseAll_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 67,
+        "rx": 966,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
   "icon_effect_recuitmentSpeedBoostAll": {
     "pid": 0,
     "url": "x768/Icons/IconsShared/icon_effect_recuitmentSpeedBoostAll_Shared.png",
@@ -98606,6 +98831,21 @@
         "h": 93,
         "rx": 937,
         "ry": 953
+      }
+    ],
+    "fx": []
+  },
+  "icon_event_crossplay_xl_106": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_event_crossplay_xl_106_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 207,
+        "h": 212,
+        "rx": 896,
+        "ry": 894
       }
     ],
     "fx": []
@@ -99071,6 +99311,66 @@
         "h": 64,
         "rx": 972,
         "ry": 968
+      }
+    ],
+    "fx": []
+  },
+  "icon_event_crossplay_106": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_tempserver_crossplay_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 112,
+        "h": 115,
+        "rx": 944,
+        "ry": 942
+      }
+    ],
+    "fx": []
+  },
+  "icon_event_crossplay_small_106": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_tempserver_crossplay_small_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 58,
+        "rx": 971,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "icon_tempserver_crossplay_small": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_tempserver_crossplay_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 58,
+        "rx": 971,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "icon_tempserver_small": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_tempserver_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 58,
+        "rx": 971,
+        "ry": 971
       }
     ],
     "fx": []
@@ -108375,6 +108675,81 @@
     ],
     "fx": []
   },
+  "teaser_tempserver_crossplay_1": {
+    "pid": 0,
+    "url": "x768/Misc/EventTeasers/teaser_tempserver_crossplay_1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1537,
+        "h": 413,
+        "rx": 231,
+        "ry": 793
+      }
+    ],
+    "fx": []
+  },
+  "teaser_tempserver_crossplay_3": {
+    "pid": 0,
+    "url": "x768/Misc/EventTeasers/teaser_tempserver_crossplay_3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1537,
+        "h": 413,
+        "rx": 231,
+        "ry": 793
+      }
+    ],
+    "fx": []
+  },
+  "teaser_tempserver_crossplay_end": {
+    "pid": 0,
+    "url": "x768/Misc/EventTeasers/teaser_tempserver_crossplay_end.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1221,
+        "h": 414,
+        "rx": 389,
+        "ry": 793
+      }
+    ],
+    "fx": []
+  },
+  "teaser_tempserver_crossplay_introduction": {
+    "pid": 0,
+    "url": "x768/Misc/EventTeasers/teaser_tempserver_crossplay_introduction.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1538,
+        "h": 413,
+        "rx": 231,
+        "ry": 793
+      }
+    ],
+    "fx": []
+  },
+  "teaser_tempserver_crossplay_overview": {
+    "pid": 0,
+    "url": "x768/Misc/EventTeasers/teaser_tempserver_crossplay_overview.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 759,
+        "h": 441,
+        "rx": 620,
+        "ry": 779
+      }
+    ],
+    "fx": []
+  },
   "teaser_tempserver_end": {
     "pid": 2,
     "url": "x768/Misc/EventTeasers/teaser_tempserver_end.png",
@@ -109106,6 +109481,51 @@
         "h": 532,
         "rx": 425,
         "ry": 734
+      }
+    ],
+    "fx": []
+  },
+  "teaser_minigame_level_1": {
+    "pid": 0,
+    "url": "x768/Misc/GenericTeasers/teaser_minigame_level_1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 429,
+        "h": 241,
+        "rx": 785,
+        "ry": 879
+      }
+    ],
+    "fx": []
+  },
+  "teaser_minigame_level_2": {
+    "pid": 0,
+    "url": "x768/Misc/GenericTeasers/teaser_minigame_level_2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 429,
+        "h": 241,
+        "rx": 785,
+        "ry": 879
+      }
+    ],
+    "fx": []
+  },
+  "teaser_minigame_level_3": {
+    "pid": 0,
+    "url": "x768/Misc/GenericTeasers/teaser_minigame_level_3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 429,
+        "h": 241,
+        "rx": 785,
+        "ry": 879
       }
     ],
     "fx": []
@@ -111746,6 +112166,21 @@
         "h": 244,
         "rx": 231,
         "ry": 878
+      }
+    ],
+    "fx": []
+  },
+  "teaser_tempserver_crossplay_2": {
+    "pid": 0,
+    "url": "x768/Misc/TeasersShared/teaser_tempserver_2_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1538,
+        "h": 414,
+        "rx": 231,
+        "ry": 793
       }
     ],
     "fx": []
@@ -120971,6 +121406,36 @@
     ],
     "fx": []
   },
+  "Barracks_Unit_GingerBreadMaiden": {
+    "pid": 0,
+    "url": "x768/Units/UnitAssets/Barracks_Unit_GingerBreadMaiden.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 158,
+        "h": 207,
+        "rx": 929,
+        "ry": 900
+      }
+    ],
+    "fx": []
+  },
+  "Barracks_Unit_GingerBreadRanger": {
+    "pid": 0,
+    "url": "x768/Units/UnitAssets/Barracks_Unit_GingerBreadRanger.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 168,
+        "h": 206,
+        "rx": 919,
+        "ry": 901
+      }
+    ],
+    "fx": []
+  },
   "Barracks_Unit_Halberd": {
     "pid": 0,
     "url": "x768/Units/UnitAssets/Barracks_Unit_Halberd.png",
@@ -129463,6 +129928,29 @@
       }
     ]
   },
+  "Castle_Mapobject_Special_xmasCastellan": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_xmasCastellan.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 68,
+        "rx": 999,
+        "ry": 994
+      }
+    ],
+    "fx": [
+      {
+        "x": 20,
+        "y": -3,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Castlepart_Moat_Classic_Special_Demon": {
     "pid": 0,
     "url": "x768/WorldmapObjects/Castles/Castle/Castlepart_Moat_Classic_Special_Demon.png",
@@ -132966,6 +133454,29 @@
       }
     ]
   },
+  "Castle_Mapobject_Capital_Classic_Special_xmasCastellan": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_xmasCastellan.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 118,
+        "h": 133,
+        "rx": 974,
+        "ry": 951
+      }
+    ],
+    "fx": [
+      {
+        "x": 24,
+        "y": -46,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Castle_Mapobject_Capital_Classic": {
     "pid": 0,
     "url": "x768/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic.png",
@@ -134551,6 +135062,29 @@
       }
     ]
   },
+  "Metropol_Mapobject_Basic_Special_xmasCastellan": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_xmasCastellan.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 84,
+        "rx": 987,
+        "ry": 1010
+      }
+    ],
+    "fx": [
+      {
+        "x": 11,
+        "y": 13,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Metropol_Mapobject_Basic": {
     "pid": 0,
     "url": "x768/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic.png",
@@ -135929,6 +136463,29 @@
       {
         "x": 27,
         "y": 7,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "Outpost_Mapobject_Level_Special_xmasCastellan": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Outposts/Outpost_Mapobject_Level_Special_xmasCastellan/Outpost_Mapobject_Level_Special_xmasCastellan.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 47,
+        "rx": 1007,
+        "ry": 999
+      }
+    ],
+    "fx": [
+      {
+        "x": 30,
+        "y": 1,
         "scale": 0.75,
         "name": "flagHolder",
         "rotation": 0
@@ -137993,6 +138550,21 @@
         "h": 137,
         "rx": 930,
         "ry": 931
+      }
+    ],
+    "fx": []
+  },
+  "Preview_Castle_Mapobject_Special_xmasCastellan": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Previews/Mapobjects_Preview/Preview_Castle_Mapobject_Special_xmasCastellan.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 132,
+        "h": 138,
+        "rx": 933,
+        "ry": 930
       }
     ],
     "fx": []

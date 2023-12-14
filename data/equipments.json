@@ -13150,6 +13150,69 @@
       "mightValue": 0,
       "canSlotGem": 0,
       "skinID": 110
+    },
+    {
+      "equipmentID": 2012,
+      "crossplayID": 2012,
+      "comment1": "Xmas LTPE 2023",
+      "comment2": "snowflakehouse",
+      "wearerID": 1,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 898,
+      "effects": "335&amp;13",
+      "duration": 336,
+      "mightValue": 10,
+      "canSlotGem": 1,
+      "skinID": 54
+    },
+    {
+      "equipmentID": 2013,
+      "crossplayID": 2013,
+      "comment1": "SaleDays Dec 2023",
+      "comment2": "Nutcrackers snow globe",
+      "wearerID": 2,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 751,
+      "effects": "24&amp;4,23&amp;15,66&amp;5",
+      "duration": 12,
+      "mightValue": 0,
+      "canSlotGem": 0,
+      "skinID": 43
+    },
+    {
+      "equipmentID": 2014,
+      "crossplayID": 2014,
+      "comment1": "SaleDays Dec 2023",
+      "comment2": "xmasCastellan",
+      "wearerID": 1,
+      "slotID": 5,
+      "mightValue": 0,
+      "canSlotGem": 0,
+      "skinID": 111
+    },
+    {
+      "equipmentID": 2015,
+      "crossplayID": 2015,
+      "comment1": "SaleDays Dec 2023",
+      "comment2": "Cloudmaker",
+      "wearerID": 1,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 95,
+      "mightValue": 0,
+      "canSlotGem": 0,
+      "skinID": 7
+    },
+    {
+      "equipmentID": 2016,
+      "crossplayID": 2016,
+      "comment1": "SaleDays Dec 2023",
+      "comment2": "Demonscepter",
+      "wearerID": 1,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 54,
+      "mightValue": 0,
+      "canSlotGem": 0,
+      "skinID": 5
     }
   ]
 }

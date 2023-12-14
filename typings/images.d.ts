@@ -122,6 +122,7 @@ export interface Images {
     "Background_Generals_Overview_Preview_Leo": ImageData;
     "Background_Generals_Overview_Preview_RedGeneral": ImageData;
     "Background_Generals_Overview_Preview_RobberBaron": ImageData;
+    "Background_Generals_Overview_Preview_SamuraiGeneral": ImageData;
     "Background_Generals_Overview_Preview_Sasaki": ImageData;
     "Background_Generals_Overview_Preview_SultanAlKillah": ImageData;
     "Background_Generals_Overview_Preview_Tom": ImageData;
@@ -130,7 +131,7 @@ export interface Images {
     "Background_Generals_Overview_Preview_WolfKing": ImageData;
     "Background_Generals_Overview_Preview_Yigris": ImageData;
     "Background_Generals_Overview_RedGeneral": ImageData;
-    "Background_Generals_Overview_RobbenBaron": ImageData;
+    "Background_Generals_Overview_RobberBaron": ImageData;
     "Background_Generals_Overview_SamuraiGeneral": ImageData;
     "Background_Generals_Overview_Sasaki": ImageData;
     "Background_Generals_Overview_SultanAlKillah": ImageData;
@@ -184,6 +185,8 @@ export interface Images {
     "Barracks_Unit_Elitetwohandedsword": ImageData;
     "Barracks_Unit_ForlornRanger": ImageData;
     "Barracks_Unit_ForsakenMaiden": ImageData;
+    "Barracks_Unit_GingerBreadMaiden": ImageData;
+    "Barracks_Unit_GingerBreadRanger": ImageData;
     "Barracks_Unit_Halberd": ImageData;
     "Barracks_Unit_Heavycrossbowman": ImageData;
     "Barracks_Unit_Kingsbowman": ImageData;
@@ -668,6 +671,7 @@ export interface Images {
     "Castle_Mapobject_Capital_Classic_Special_WoodAxe": ImageData;
     "Castle_Mapobject_Capital_Classic_Special_snowflakehouse": ImageData;
     "Castle_Mapobject_Capital_Classic_Special_turkeyCastellan": ImageData;
+    "Castle_Mapobject_Capital_Classic_Special_xmasCastellan": ImageData;
     "Castle_Mapobject_Level1_Classic": ImageData;
     "Castle_Mapobject_Level2_Classic": ImageData;
     "Castle_Mapobject_Level3_Classic": ImageData;
@@ -739,6 +743,7 @@ export interface Images {
     "Castle_Mapobject_Special_WoodAxe": ImageData;
     "Castle_Mapobject_Special_snowflakehouse": ImageData;
     "Castle_Mapobject_Special_turkeyCastellan": ImageData;
+    "Castle_Mapobject_Special_xmasCastellan": ImageData;
     "Castlepart_Moat_Classic": ImageData;
     "Castlepart_Moat_Classic_Special_Demon": ImageData;
     "Castlepart_Moat_Classic_Special_Sand": ImageData;
@@ -1180,6 +1185,8 @@ export interface Images {
     "Deco_Building_blueSalesFountain": ImageData;
     "Deco_Building_chaliceOfTheHattrickHero": ImageData;
     "Deco_Building_chineseTiger": ImageData;
+    "Deco_Building_christmasCarousel": ImageData;
+    "Deco_Building_christmasKiosqueFountain": ImageData;
     "Deco_Building_christmashut": ImageData;
     "Deco_Building_christmastower": ImageData;
     "Deco_Building_corruptedgoddessOfNature": ImageData;
@@ -1229,6 +1236,7 @@ export interface Images {
     "Deco_Building_vitalisedTimelessKing": ImageData;
     "Deco_Building_wellofmadness": ImageData;
     "Deco_Building_xmasFruitCart": ImageData;
+    "Deco_Building_xmasGluhweinStand": ImageData;
     "Deco_Building_xmasRollercoaster": ImageData;
     "Deco_Building_xmasRollercoaster2": ImageData;
     "Deco_Building_xmasUnicorn": ImageData;
@@ -2783,6 +2791,7 @@ export interface Images {
     "Metropol_Mapobject_Basic_Special_WoodAxe": ImageData;
     "Metropol_Mapobject_Basic_Special_snowflakehouse": ImageData;
     "Metropol_Mapobject_Basic_Special_turkeyCastellan": ImageData;
+    "Metropol_Mapobject_Basic_Special_xmasCastellan": ImageData;
     "MetropolisBooster_Building_Level1": ImageData;
     "MetropolisBooster_Building_Level2": ImageData;
     "MetropolisBooster_Building_Level3": ImageData;
@@ -2972,6 +2981,7 @@ export interface Images {
     "Outpost_Mapobject_Level_Special_WoodAxe": ImageData;
     "Outpost_Mapobject_Level_Special_snowflakehouse": ImageData;
     "Outpost_Mapobject_Level_Special_turkeyCastellan": ImageData;
+    "Outpost_Mapobject_Level_Special_xmasCastellan": ImageData;
     "Outpost_Mapobject_Special_Cloudmaker_2_0_6_Icon": ImageData;
     "Outpost_Mapobject_Special_Cloudmaker_2_0_8_Icon": ImageData;
     "Outpost_Mapobject_Special_Cloudmaker_2_6_0_Icon": ImageData;
@@ -3212,6 +3222,7 @@ export interface Images {
     "Preview_Castle_Mapobject_Special_WoodAxe": ImageData;
     "Preview_Castle_Mapobject_Special_snowflakehouse": ImageData;
     "Preview_Castle_Mapobject_Special_turkeyCastellan": ImageData;
+    "Preview_Castle_Mapobject_Special_xmasCastellan": ImageData;
     "Princess_Arm_Right": ImageData;
     "Princess_Chest": ImageData;
     "Princess_Eye_Right": ImageData;
@@ -5236,6 +5247,7 @@ export interface Images {
     "icon_effect_perceptionBonus": ImageData;
     "icon_effect_publicOrderBonus": ImageData;
     "icon_effect_rangeBonus": ImageData;
+    "icon_effect_recruitmentCostDecreaseAll": ImageData;
     "icon_effect_recuitmentSpeedBoostAll": ImageData;
     "icon_effect_reroll": ImageData;
     "icon_effect_researchBoost": ImageData;
@@ -5309,6 +5321,9 @@ export interface Images {
     "icon_event_80": ImageData;
     "icon_event_85": ImageData;
     "icon_event_97": ImageData;
+    "icon_event_crossplay_106": ImageData;
+    "icon_event_crossplay_small_106": ImageData;
+    "icon_event_crossplay_xl_106": ImageData;
     "icon_event_quest_3": ImageData;
     "icon_event_quest_4": ImageData;
     "icon_event_quest_72": ImageData;
@@ -5419,9 +5434,9 @@ export interface Images {
     "icon_general_RedGeneral": ImageData;
     "icon_general_RedGeneral_xl": ImageData;
     "icon_general_RedGeneral_xxl": ImageData;
-    "icon_general_RobbenBaron": ImageData;
-    "icon_general_RobbenBaron_xl": ImageData;
-    "icon_general_RobbenBaron_xxl": ImageData;
+    "icon_general_RobberBaron": ImageData;
+    "icon_general_RobberBaron_xl": ImageData;
+    "icon_general_RobberBaron_xxl": ImageData;
     "icon_general_SamuraiGeneral": ImageData;
     "icon_general_SamuraiGeneral_xl": ImageData;
     "icon_general_SamuraiGeneral_xxl": ImageData;
@@ -5673,7 +5688,7 @@ export interface Images {
     "icon_general_attack_avatar_KingOlafson": ImageData;
     "icon_general_attack_avatar_Leo": ImageData;
     "icon_general_attack_avatar_RedGeneral": ImageData;
-    "icon_general_attack_avatar_RobbenBaron": ImageData;
+    "icon_general_attack_avatar_RobberBaron": ImageData;
     "icon_general_attack_avatar_SamuraiGeneral": ImageData;
     "icon_general_attack_avatar_Sasaki": ImageData;
     "icon_general_attack_avatar_SultanAlKillah": ImageData;
@@ -5724,9 +5739,9 @@ export interface Images {
     "icon_general_preview_RedGeneral": ImageData;
     "icon_general_preview_RedGeneral_xl": ImageData;
     "icon_general_preview_RedGeneral_xxl": ImageData;
-    "icon_general_preview_RobbenBaron": ImageData;
-    "icon_general_preview_RobbenBaron_xl": ImageData;
-    "icon_general_preview_RobbenBaron_xxl": ImageData;
+    "icon_general_preview_RobberBaron": ImageData;
+    "icon_general_preview_RobberBaron_xl": ImageData;
+    "icon_general_preview_RobberBaron_xxl": ImageData;
     "icon_general_preview_SamuraiGeneral": ImageData;
     "icon_general_preview_SamuraiGeneral_xl": ImageData;
     "icon_general_preview_SamuraiGeneral_xxl": ImageData;
@@ -5812,6 +5827,7 @@ export interface Images {
     "icon_houseoffire": ImageData;
     "icon_hud_attack": ImageData;
     "icon_hud_defense": ImageData;
+    "icon_hud_minigame": ImageData;
     "icon_hud_mobilewebshop": ImageData;
     "icon_hud_mobilewebshop_small": ImageData;
     "icon_hud_offershub": ImageData;
@@ -5820,6 +5836,7 @@ export interface Images {
     "icon_hud_samurai_invasion": ImageData;
     "icon_ignore_player_xl": ImageData;
     "icon_increase_boost": ImageData;
+    "icon_indicator_locked": ImageData;
     "icon_influence": ImageData;
     "icon_influence_disabled": ImageData;
     "icon_influence_disabled_small": ImageData;
@@ -6333,6 +6350,8 @@ export interface Images {
     "icon_stpatrick": ImageData;
     "icon_stronghold": ImageData;
     "icon_stronghold_ds": ImageData;
+    "icon_stronghold_flat": ImageData;
+    "icon_stronghold_flat_dark": ImageData;
     "icon_stronghold_medium_ds": ImageData;
     "icon_stronghold_small": ImageData;
     "icon_stronghold_xs": ImageData;
@@ -6370,8 +6389,14 @@ export interface Images {
     "icon_tempserver_castleTransport_medium": ImageData;
     "icon_tempserver_castleTransport_xl": ImageData;
     "icon_tempserver_castleTransport_xxl": ImageData;
+    "icon_tempserver_crossplay": ImageData;
+    "icon_tempserver_crossplay_big": ImageData;
+    "icon_tempserver_crossplay_small": ImageData;
+    "icon_tempserver_crossplay_xl": ImageData;
+    "icon_tempserver_crossplay_xxl": ImageData;
     "icon_tempserver_medium": ImageData;
     "icon_tempserver_scoring_xl": ImageData;
+    "icon_tempserver_small": ImageData;
     "icon_tempserver_welcome_1_1": ImageData;
     "icon_tempserver_welcome_1_2": ImageData;
     "icon_tempserver_welcome_1_3": ImageData;
@@ -6629,6 +6654,7 @@ export interface Images {
     "items_unique_2009": ImageData;
     "items_unique_2010": ImageData;
     "items_unique_2011": ImageData;
+    "items_unique_2014": ImageData;
     "items_unique_21": ImageData;
     "items_unique_22": ImageData;
     "items_unique_23": ImageData;
@@ -7379,6 +7405,9 @@ export interface Images {
     "teaser_island_starter_3": ImageData;
     "teaser_island_title_lost": ImageData;
     "teaser_maintenance_additional_info": ImageData;
+    "teaser_minigame_level_1": ImageData;
+    "teaser_minigame_level_2": ImageData;
+    "teaser_minigame_level_3": ImageData;
     "teaser_questbook_allianceBattleGround_AllianceCollector_Maya": ImageData;
     "teaser_questbook_allianceBattleGround_AllianceTower_Maya": ImageData;
     "teaser_questbook_kingdom_desert": ImageData;
@@ -7413,6 +7442,12 @@ export interface Images {
     "teaser_tempserver_2": ImageData;
     "teaser_tempserver_3": ImageData;
     "teaser_tempserver_castleTransport": ImageData;
+    "teaser_tempserver_crossplay_1": ImageData;
+    "teaser_tempserver_crossplay_2": ImageData;
+    "teaser_tempserver_crossplay_3": ImageData;
+    "teaser_tempserver_crossplay_end": ImageData;
+    "teaser_tempserver_crossplay_introduction": ImageData;
+    "teaser_tempserver_crossplay_overview": ImageData;
     "teaser_tempserver_end": ImageData;
     "teaser_tempserver_introduction": ImageData;
     "teaser_tempserver_introduction_castleTransport": ImageData;
@@ -7471,5 +7506,6 @@ export interface Images {
     "wofBakery": ImageData;
     "xmasBakery": ImageData;
     "xmasDefensiveWorkshop": ImageData;
+    "xmasStronghold": ImageData;
     "xmasWorkshop": ImageData;
 }

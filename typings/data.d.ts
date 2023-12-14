@@ -1223,7 +1223,7 @@ export interface EmptyArea {
     "isBattleground": number;
     "kID": number;
     "keepWodId"?: number;
-    "lordID"?: number;
+    "lordID": number;
     "peasants"?: number;
     "startingFood"?: number;
     "unitWallCount": number;
@@ -1387,6 +1387,7 @@ export interface EventAutoScalingCamp {
     "lootOil"?: number;
     "lootStone"?: number;
     "lootWood"?: number;
+    "lordID"?: number;
     "maxTroopCapacityAttack"?: number;
     "maxTroopCapacityDefense"?: number;
     "normalDiffDefStrengthBoostMaxAttack"?: number;
@@ -1503,6 +1504,7 @@ export interface Event {
     "costFactorC2"?: number;
     "costFactorFood"?: number;
     "costFactorStone"?: number;
+    "crossplayMinLevel"?: number;
     "eventDuration"?: string;
     "eventExtensionUnlock"?: number;
     "eventID": number;

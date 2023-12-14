@@ -108,6 +108,116 @@
       "upgradeCurrencyIDs": "10000,10008",
       "isPreview": 1,
       "isNPCGeneral": 0
+    },
+    {
+      "generalID": 109,
+      "crossplayID": 109,
+      "generalName": "Uskhal",
+      "generalRarityID": 4,
+      "maxLevel": 100,
+      "maxStarLevel": 10,
+      "upgradeCurrencyIDs": "10000,",
+      "isPreview": 0,
+      "isNPCGeneral": 1
+    },
+    {
+      "generalID": 110,
+      "crossplayID": 110,
+      "generalName": "SamuraiGeneral",
+      "generalRarityID": 4,
+      "maxLevel": 100,
+      "maxStarLevel": 10,
+      "upgradeCurrencyIDs": "10000,",
+      "isPreview": 0,
+      "isNPCGeneral": 1
+    },
+    {
+      "generalID": 111,
+      "crossplayID": 111,
+      "generalName": "BabaVarjuka",
+      "generalRarityID": 4,
+      "maxLevel": 100,
+      "maxStarLevel": 10,
+      "upgradeCurrencyIDs": "10000,",
+      "isPreview": 0,
+      "isNPCGeneral": 1
+    },
+    {
+      "generalID": 112,
+      "crossplayID": 112,
+      "generalName": "AlienGeneral",
+      "generalRarityID": 4,
+      "maxLevel": 100,
+      "maxStarLevel": 10,
+      "upgradeCurrencyIDs": "10000,",
+      "isPreview": 0,
+      "isNPCGeneral": 1
+    },
+    {
+      "generalID": 113,
+      "crossplayID": 113,
+      "generalName": "RedGeneral",
+      "generalRarityID": 4,
+      "maxLevel": 100,
+      "maxStarLevel": 10,
+      "upgradeCurrencyIDs": "10000,",
+      "isPreview": 0,
+      "isNPCGeneral": 1
+    },
+    {
+      "generalID": 114,
+      "crossplayID": 114,
+      "generalName": "BlueGeneral",
+      "generalRarityID": 4,
+      "maxLevel": 100,
+      "maxStarLevel": 10,
+      "upgradeCurrencyIDs": "10000,",
+      "isPreview": 0,
+      "isNPCGeneral": 1
+    },
+    {
+      "generalID": 115,
+      "crossplayID": 115,
+      "generalName": "RobberBaron",
+      "generalRarityID": 4,
+      "maxLevel": 100,
+      "maxStarLevel": 10,
+      "upgradeCurrencyIDs": "10000,",
+      "isPreview": 0,
+      "isNPCGeneral": 1
+    },
+    {
+      "generalID": 116,
+      "crossplayID": 116,
+      "generalName": "SultanAlKillah",
+      "generalRarityID": 4,
+      "maxLevel": 100,
+      "maxStarLevel": 10,
+      "upgradeCurrencyIDs": "10000,",
+      "isPreview": 0,
+      "isNPCGeneral": 1
+    },
+    {
+      "generalID": 117,
+      "crossplayID": 117,
+      "generalName": "KingOlafson",
+      "generalRarityID": 4,
+      "maxLevel": 100,
+      "maxStarLevel": 10,
+      "upgradeCurrencyIDs": "10000,",
+      "isPreview": 0,
+      "isNPCGeneral": 1
+    },
+    {
+      "generalID": 118,
+      "crossplayID": 118,
+      "generalName": "Yigris",
+      "generalRarityID": 4,
+      "maxLevel": 100,
+      "maxStarLevel": 10,
+      "upgradeCurrencyIDs": "10000,",
+      "isPreview": 0,
+      "isNPCGeneral": 1
     }
   ]
 }

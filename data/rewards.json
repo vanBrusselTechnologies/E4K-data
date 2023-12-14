@@ -52377,6 +52377,69 @@
       "constructionItemIDs": 30114
     },
     {
+      "rewardID": 8427,
+      "comment1": "xmas December 23 Top1",
+      "comment2": "Lvl 870",
+      "addSceatToken": 500,
+      "constructionItemIDs": 31452
+    },
+    {
+      "rewardID": 8428,
+      "comment1": "TopX1",
+      "comment2": "Lvl 870",
+      "addLegendaryToken": 250,
+      "decoWodID": 2951
+    },
+    {
+      "rewardID": 8429,
+      "comment1": "TopX2",
+      "comment2": "Lvl 870",
+      "addXmasLTPEToken": 7500,
+      "addLegendaryMaterial": 500
+    },
+    {
+      "rewardID": 8430,
+      "comment1": "Top1",
+      "comment2": "Lvl 70-869",
+      "addSceatToken": 300,
+      "constructionItemIDs": 31453
+    },
+    {
+      "rewardID": 8431,
+      "comment1": "TopX1",
+      "comment2": "Lvl 70-869",
+      "addLegendaryToken": 200,
+      "decoWodID": 2952
+    },
+    {
+      "rewardID": 8432,
+      "comment1": "TopX2",
+      "comment2": "Lvl 70-869",
+      "addXmasLTPEToken": 7500,
+      "addLegendaryMaterial": 400
+    },
+    {
+      "rewardID": 8433,
+      "comment1": "Top1",
+      "comment2": "Lvl 50-69",
+      "constructionItemIDs": 405,
+      "decoWodID": 2954
+    },
+    {
+      "rewardID": 8434,
+      "comment1": "TopX1",
+      "comment2": "Lvl 50-69",
+      "addLegendaryToken": 150,
+      "addSasakiToken": 1
+    },
+    {
+      "rewardID": 8435,
+      "comment1": "TopX2",
+      "comment2": "Lvl 50-69",
+      "addXmasLTPEToken": 7500,
+      "addLegendaryMaterial": 300
+    },
+    {
       "rewardID": 2753,
       "comment1": "reward 1",
       "comment2": "AllianceNomadInvasion 6-999",
@@ -73467,7 +73530,7 @@
       "addLegendaryToken": 2813,
       "addLegendaryMaterial": 11250,
       "relicEquipments": "2@60,100#102@60,100#202@60,100#302@60,100#3102@60,100#3102@60,100#3102@60,100#3102@60,100#6402@60,100",
-      "buildingWodID": "2902#2874"
+      "buildingWodID": "2874#2902"
     },
     {
       "rewardID": 10045,
@@ -73480,7 +73543,7 @@
       "addLegendaryToken": 3750,
       "addLegendaryMaterial": 15000,
       "relicEquipments": "2@60,100#102@60,100#202@60,100#302@60,100#3102@60,100#3102@60,100#3102@60,100#3102@60,100#6402@60,100",
-      "buildingWodID": "2903#2873"
+      "buildingWodID": "2873#2903"
     },
     {
       "rewardID": 10046,
@@ -73493,7 +73556,7 @@
       "addLegendaryToken": 5000,
       "addLegendaryMaterial": 20000,
       "relicEquipments": "2@60,100#102@60,100#202@60,100#302@60,100#3102@60,100#3102@60,100#3102@60,100#3102@60,100#6402@60,100",
-      "buildingWodID": "2904#2857"
+      "buildingWodID": "2857#2904"
     },
     {
       "rewardID": 10052,
@@ -73969,7 +74032,7 @@
       "addLegendaryMaterial": 11250,
       "relicEquipments": "2@60,100#102@60,100#202@60,100#302@60,100#3102@60,100#3102@60,100#3102@60,100#3102@60,100#6402@60,100",
       "equipmentIDs": 902,
-      "buildingWodID": "2902#2876"
+      "buildingWodID": "2876#2902"
     },
     {
       "rewardID": 10091,
@@ -73983,7 +74046,7 @@
       "addLegendaryMaterial": 15000,
       "relicEquipments": "2@60,100#102@60,100#202@60,100#302@60,100#3102@60,100#3102@60,100#3102@60,100#3102@60,100#6402@60,100",
       "equipmentIDs": 903,
-      "buildingWodID": "2903#2875"
+      "buildingWodID": "2875#2903"
     },
     {
       "rewardID": 10092,
@@ -73997,7 +74060,7 @@
       "addLegendaryMaterial": 20000,
       "relicEquipments": "2@60,100#102@60,100#202@60,100#302@60,100#3102@60,100#3102@60,100#3102@60,100#3102@60,100#6402@60,100",
       "equipmentIDs": 904,
-      "buildingWodID": "2904#2859"
+      "buildingWodID": "2859#2904"
     },
     {
       "rewardID": 10105,
@@ -74475,7 +74538,7 @@
       "addLegendaryToken": 2813,
       "addLegendaryMaterial": 11250,
       "relicEquipments": "2@60,100#102@60,100#202@60,100#302@60,100#3102@60,100#3102@60,100#3102@60,100#3102@60,100#6402@60,100",
-      "buildingWodID": "2902#2878"
+      "buildingWodID": "2878#2902"
     },
     {
       "rewardID": 10145,
@@ -74488,7 +74551,7 @@
       "addLegendaryToken": 3750,
       "addLegendaryMaterial": 15000,
       "relicEquipments": "2@60,100#102@60,100#202@60,100#302@60,100#3102@60,100#3102@60,100#3102@60,100#3102@60,100#6402@60,100",
-      "buildingWodID": "2903#2877"
+      "buildingWodID": "2877#2903"
     },
     {
       "rewardID": 10146,
@@ -74501,7 +74564,7 @@
       "addLegendaryToken": 5000,
       "addLegendaryMaterial": 20000,
       "relicEquipments": "2@60,100#102@60,100#202@60,100#302@60,100#3102@60,100#3102@60,100#3102@60,100#3102@60,100#6402@60,100",
-      "buildingWodID": "2904#2858"
+      "buildingWodID": "2858#2904"
     },
     {
       "rewardID": 10155,
@@ -74979,7 +75042,7 @@
       "addLegendaryToken": 2813,
       "addLegendaryMaterial": 11250,
       "relicEquipments": "2@60,100#102@60,100#202@60,100#302@60,100#3102@60,100#3102@60,100#3102@60,100#3102@60,100#6402@60,100",
-      "buildingWodID": "2902#2880"
+      "buildingWodID": "2880#2902"
     },
     {
       "rewardID": 10195,
@@ -74992,7 +75055,7 @@
       "addLegendaryToken": 3750,
       "addLegendaryMaterial": 15000,
       "relicEquipments": "2@60,100#102@60,100#202@60,100#302@60,100#3102@60,100#3102@60,100#3102@60,100#3102@60,100#6402@60,100",
-      "buildingWodID": "2903#2879"
+      "buildingWodID": "2879#2903"
     },
     {
       "rewardID": 10196,
@@ -75005,7 +75068,7 @@
       "addLegendaryToken": 5000,
       "addLegendaryMaterial": 20000,
       "relicEquipments": "2@60,100#102@60,100#202@60,100#302@60,100#3102@60,100#3102@60,100#3102@60,100#3102@60,100#6402@60,100",
-      "buildingWodID": "2904#2868"
+      "buildingWodID": "2868#2904"
     },
     {
       "rewardID": 543,
