@@ -27330,6 +27330,51 @@
       "constructionItemEffectGroupID": 51,
       "disassemblingTombolaID": 4,
       "effects": "700&amp;1000"
+    },
+    {
+      "constructionItemID": 31460,
+      "crossplayID": 31460,
+      "comment1": "Permanent",
+      "comment2": "TopX Reward - attackBoostFront 10%",
+      "name": "winterBarracks",
+      "constructionItemGroupID": 3247,
+      "level": 4,
+      "rarenessID": 4,
+      "slotTypeID": 0,
+      "constructionItemEffectGroupID": 28,
+      "removalCostC1": 7200,
+      "disassemblingTombolaID": 4,
+      "effects": "503&amp;10"
+    },
+    {
+      "constructionItemID": 31461,
+      "crossplayID": 31461,
+      "comment1": "Temporary",
+      "comment2": "winterMarket - attackUnitAmountFlank 25%",
+      "name": "winterMarket",
+      "constructionItemGroupID": 3248,
+      "level": 4,
+      "rarenessID": 4,
+      "slotTypeID": 0,
+      "duration": 2419200,
+      "constructionItemEffectGroupID": 51,
+      "disassemblingTombolaID": 4,
+      "effects": "66&amp;25"
+    },
+    {
+      "constructionItemID": 31462,
+      "crossplayID": 31462,
+      "comment1": "Temporary",
+      "comment2": "winterMarket - attackUnitAmountFlank 20%",
+      "name": "winterMarket",
+      "constructionItemGroupID": 3248,
+      "level": 3,
+      "rarenessID": 4,
+      "slotTypeID": 0,
+      "duration": 2419200,
+      "constructionItemEffectGroupID": 51,
+      "disassemblingTombolaID": 4,
+      "effects": "66&amp;20"
     }
   ]
 }

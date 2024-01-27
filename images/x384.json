@@ -42126,7 +42126,7 @@
     ]
   },
   "FatKing_Arm_Left": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/FatKing/FatKing_Arm_Left.png",
     "frames": [
       {
@@ -42141,7 +42141,7 @@
     "fx": []
   },
   "FatKing_Arm_Right": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/FatKing/FatKing_Arm_Right.png",
     "frames": [
       {
@@ -42156,7 +42156,7 @@
     "fx": []
   },
   "FatKing_Body": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/FatKing/FatKing_Body.png",
     "frames": [
       {
@@ -42171,7 +42171,7 @@
     "fx": []
   },
   "FatKing_Face": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/FatKing/FatKing_Face.png",
     "frames": [
       {
@@ -42186,7 +42186,7 @@
     "fx": []
   },
   "FatKing_Hand_Right": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/FatKing/FatKing_Hand_Right.png",
     "frames": [
       {
@@ -42201,7 +42201,7 @@
     "fx": []
   },
   "FatKing_Idle": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/FatKing/FatKing_Idle.png",
     "frames": [
       {
@@ -42216,7 +42216,7 @@
     "fx": []
   },
   "FatKing_Shoulder_left": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/FatKing/FatKing_Shoulder_left.png",
     "frames": [
       {
@@ -42230,8 +42230,413 @@
     ],
     "fx": []
   },
+  "General_Alien_Arm_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Alien/General_Alien_Arm_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 226,
+        "rx": 961,
+        "ry": 887
+      }
+    ],
+    "fx": []
+  },
+  "General_Alien_Arm_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Alien/General_Alien_Arm_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 151,
+        "rx": 960,
+        "ry": 924
+      }
+    ],
+    "fx": []
+  },
+  "General_Alien_Armor_Back": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Alien/General_Alien_Armor_Back.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 56,
+        "rx": 971,
+        "ry": 972
+      }
+    ],
+    "fx": []
+  },
+  "General_Alien_Armor_Plat": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Alien/General_Alien_Armor_Plat.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 163,
+        "h": 114,
+        "rx": 918,
+        "ry": 943
+      }
+    ],
+    "fx": []
+  },
+  "General_Alien_Belt_Armor_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Alien/General_Alien_Belt_Armor_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 36,
+        "h": 164,
+        "rx": 982,
+        "ry": 918
+      }
+    ],
+    "fx": []
+  },
+  "General_Alien_Belt_Armor_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Alien/General_Alien_Belt_Armor_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 169,
+        "rx": 956,
+        "ry": 915
+      }
+    ],
+    "fx": []
+  },
+  "General_Alien_Belt_Armor": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Alien/General_Alien_Belt_Armor.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 68,
+        "h": 76,
+        "rx": 966,
+        "ry": 962
+      }
+    ],
+    "fx": []
+  },
+  "General_Alien_Chain": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Alien/General_Alien_Chain.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 106,
+        "rx": 973,
+        "ry": 947
+      }
+    ],
+    "fx": []
+  },
+  "General_Alien_Chest_Armor": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Alien/General_Alien_Chest_Armor.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 117,
+        "h": 105,
+        "rx": 941,
+        "ry": 948
+      }
+    ],
+    "fx": []
+  },
+  "General_Alien_Chest": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Alien/General_Alien_Chest.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 68,
+        "rx": 973,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
+  "General_Alien_Fabric_Back": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Alien/General_Alien_Fabric_Back.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 174,
+        "rx": 922,
+        "ry": 913
+      }
+    ],
+    "fx": []
+  },
+  "General_Alien_Fabric_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Alien/General_Alien_Fabric_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 110,
+        "rx": 982,
+        "ry": 945
+      }
+    ],
+    "fx": []
+  },
+  "General_Alien_Fabric_Middle": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Alien/General_Alien_Fabric_Middle.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 232,
+        "rx": 971,
+        "ry": 884
+      }
+    ],
+    "fx": []
+  },
+  "General_Alien_Fabric_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Alien/General_Alien_Fabric_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 107,
+        "h": 242,
+        "rx": 946,
+        "ry": 879
+      }
+    ],
+    "fx": []
+  },
+  "General_Alien_Face": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Alien/General_Alien_Face.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 79,
+        "rx": 973,
+        "ry": 956
+      }
+    ],
+    "fx": []
+  },
+  "General_Alien_Foot_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Alien/General_Alien_Foot_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 107,
+        "h": 224,
+        "rx": 946,
+        "ry": 888
+      }
+    ],
+    "fx": []
+  },
+  "General_Alien_Foot_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Alien/General_Alien_Foot_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 63,
+        "h": 238,
+        "rx": 968,
+        "ry": 881
+      }
+    ],
+    "fx": []
+  },
+  "General_Alien_Leg_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Alien/General_Alien_Leg_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 41,
+        "h": 159,
+        "rx": 979,
+        "ry": 920
+      }
+    ],
+    "fx": []
+  },
+  "General_Alien_Leg_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Alien/General_Alien_Leg_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 135,
+        "rx": 976,
+        "ry": 932
+      }
+    ],
+    "fx": []
+  },
+  "General_Alien_Neck_Armor_Back": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Alien/General_Alien_Neck_Armor_Back.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 58,
+        "rx": 980,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "General_Alien_Neck_Armor_Front": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Alien/General_Alien_Neck_Armor_Front.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 81,
+        "h": 59,
+        "rx": 959,
+        "ry": 970
+      }
+    ],
+    "fx": []
+  },
+  "General_Alien_Neck": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Alien/General_Alien_Neck.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 37,
+        "h": 45,
+        "rx": 981,
+        "ry": 977
+      }
+    ],
+    "fx": []
+  },
+  "General_Alien_Shadow": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Alien/General_Alien_Shadow.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 215,
+        "h": 28,
+        "rx": 892,
+        "ry": 986
+      }
+    ],
+    "fx": []
+  },
+  "General_Alien_Shoulder_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Alien/General_Alien_Shoulder_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 117,
+        "rx": 956,
+        "ry": 941
+      }
+    ],
+    "fx": []
+  },
+  "General_Alien_Spear_Blade": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Alien/General_Alien_Spear_Blade.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 125,
+        "h": 216,
+        "rx": 937,
+        "ry": 892
+      }
+    ],
+    "fx": []
+  },
+  "General_Alien_Spear": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Alien/General_Alien_Spear.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 212,
+        "h": 382,
+        "rx": 894,
+        "ry": 809
+      }
+    ],
+    "fx": []
+  },
+  "General_Alien_Stomach": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Alien/General_Alien_Stomach.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 84,
+        "rx": 950,
+        "ry": 958
+      }
+    ],
+    "fx": []
+  },
   "General_Alyssa_Arm_Left": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Alyssa/General_Alyssa_Arm_Left.png",
     "frames": [
       {
@@ -42246,7 +42651,7 @@
     "fx": []
   },
   "General_Alyssa_Arm_Right": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Alyssa/General_Alyssa_Arm_Right.png",
     "frames": [
       {
@@ -42261,7 +42666,7 @@
     "fx": []
   },
   "General_Alyssa_Arms": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Alyssa/General_Alyssa_Arms.png",
     "frames": [
       {
@@ -42276,7 +42681,7 @@
     "fx": []
   },
   "General_Alyssa_Belt_Bottom": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Alyssa/General_Alyssa_Belt_Bottom.png",
     "frames": [
       {
@@ -42291,7 +42696,7 @@
     "fx": []
   },
   "General_Alyssa_Belt_Upper": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Alyssa/General_Alyssa_Belt_Upper.png",
     "frames": [
       {
@@ -42306,7 +42711,7 @@
     "fx": []
   },
   "General_Alyssa_Fabric": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Alyssa/General_Alyssa_Fabric.png",
     "frames": [
       {
@@ -42321,7 +42726,7 @@
     "fx": []
   },
   "General_Alyssa_Face": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Alyssa/General_Alyssa_Face.png",
     "frames": [
       {
@@ -42336,7 +42741,7 @@
     "fx": []
   },
   "General_Alyssa_Forearm_Left": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Alyssa/General_Alyssa_Forearm_Left.png",
     "frames": [
       {
@@ -42351,7 +42756,7 @@
     "fx": []
   },
   "General_Alyssa_Forearm_Right": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Alyssa/General_Alyssa_Forearm_Right.png",
     "frames": [
       {
@@ -42366,7 +42771,7 @@
     "fx": []
   },
   "General_Alyssa_Hat": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Alyssa/General_Alyssa_Hat.png",
     "frames": [
       {
@@ -42381,7 +42786,7 @@
     "fx": []
   },
   "General_Alyssa_Hips": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Alyssa/General_Alyssa_Hips.png",
     "frames": [
       {
@@ -42396,13 +42801,13 @@
     "fx": []
   },
   "General_Alyssa_Leg_Bag": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Alyssa/General_Alyssa_Leg_Bag.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
-        "w": 36,
+        "w": 37,
         "h": 58,
         "rx": 970,
         "ry": 989
@@ -42411,7 +42816,7 @@
     "fx": []
   },
   "General_Alyssa_Legs": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Alyssa/General_Alyssa_Legs.png",
     "frames": [
       {
@@ -42426,7 +42831,7 @@
     "fx": []
   },
   "General_Alyssa_Shadow": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Alyssa/General_Alyssa_Shadow.png",
     "frames": [
       {
@@ -42441,7 +42846,7 @@
     "fx": []
   },
   "General_Alyssa_Shirt": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Alyssa/General_Alyssa_Shirt.png",
     "frames": [
       {
@@ -42456,7 +42861,7 @@
     "fx": []
   },
   "General_Alyssa_Shoes": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Alyssa/General_Alyssa_Shoes.png",
     "frames": [
       {
@@ -42471,7 +42876,7 @@
     "fx": []
   },
   "General_Alyssa_Shoulder_Right": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Alyssa/General_Alyssa_Shoulder_Right.png",
     "frames": [
       {
@@ -42486,7 +42891,7 @@
     "fx": []
   },
   "General_Alyssa_Weapon_Handle": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Alyssa/General_Alyssa_Weapon_Handle.png",
     "frames": [
       {
@@ -42501,7 +42906,7 @@
     "fx": []
   },
   "General_Alyssa_Weapon": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Alyssa/General_Alyssa_Weapon.png",
     "frames": [
       {
@@ -42515,8 +42920,833 @@
     ],
     "fx": []
   },
+  "General_BabaVarjuka_Arm_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BabaVarjuka/General_BabaVarjuka_Arm_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 148,
+        "rx": 987,
+        "ry": 978
+      }
+    ],
+    "fx": []
+  },
+  "General_BabaVarjuka_Arm_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BabaVarjuka/General_BabaVarjuka_Arm_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 62,
+        "h": 186,
+        "rx": 954,
+        "ry": 987
+      }
+    ],
+    "fx": []
+  },
+  "General_BabaVarjuka_Bag": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BabaVarjuka/General_BabaVarjuka_Bag.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 41,
+        "h": 69,
+        "rx": 979,
+        "ry": 965
+      }
+    ],
+    "fx": []
+  },
+  "General_BabaVarjuka_Belt_Big": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BabaVarjuka/General_BabaVarjuka_Belt_Big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 134,
+        "rx": 992,
+        "ry": 987
+      }
+    ],
+    "fx": []
+  },
+  "General_BabaVarjuka_Belt_Small": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BabaVarjuka/General_BabaVarjuka_Belt_Small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 107,
+        "h": 33,
+        "rx": 946,
+        "ry": 980
+      }
+    ],
+    "fx": []
+  },
+  "General_BabaVarjuka_Belts": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BabaVarjuka/General_BabaVarjuka_Belts.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 38,
+        "rx": 961,
+        "ry": 984
+      }
+    ],
+    "fx": []
+  },
+  "General_BabaVarjuka_Book": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BabaVarjuka/General_BabaVarjuka_Book.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 85,
+        "rx": 976,
+        "ry": 957
+      }
+    ],
+    "fx": []
+  },
+  "General_BabaVarjuka_Boot_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BabaVarjuka/General_BabaVarjuka_Boot_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 73,
+        "h": 138,
+        "rx": 963,
+        "ry": 931
+      }
+    ],
+    "fx": []
+  },
+  "General_BabaVarjuka_Boot_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BabaVarjuka/General_BabaVarjuka_Boot_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 61,
+        "h": 172,
+        "rx": 969,
+        "ry": 914
+      }
+    ],
+    "fx": []
+  },
+  "General_BabaVarjuka_Cane": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BabaVarjuka/General_BabaVarjuka_Cane.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 26,
+        "h": 324,
+        "rx": 991,
+        "ry": 809
+      }
+    ],
+    "fx": []
+  },
+  "General_BabaVarjuka_Chain_Link": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BabaVarjuka/General_BabaVarjuka_Chain_Link.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 13,
+        "h": 15,
+        "rx": 993,
+        "ry": 992
+      }
+    ],
+    "fx": []
+  },
+  "General_BabaVarjuka_Chain": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BabaVarjuka/General_BabaVarjuka_Chain.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 43,
+        "h": 66,
+        "rx": 993,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_BabaVarjuka_Chest": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BabaVarjuka/General_BabaVarjuka_Chest.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 113,
+        "h": 100,
+        "rx": 943,
+        "ry": 950
+      }
+    ],
+    "fx": []
+  },
+  "General_BabaVarjuka_Dagger": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BabaVarjuka/General_BabaVarjuka_Dagger.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 41,
+        "h": 45,
+        "rx": 961,
+        "ry": 964
+      }
+    ],
+    "fx": []
+  },
+  "General_BabaVarjuka_Fabric_Back": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BabaVarjuka/General_BabaVarjuka_Fabric_Back.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 167,
+        "h": 381,
+        "rx": 916,
+        "ry": 809
+      }
+    ],
+    "fx": []
+  },
+  "General_BabaVarjuka_Fabric_Front": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BabaVarjuka/General_BabaVarjuka_Fabric_Front.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 233,
+        "h": 382,
+        "rx": 883,
+        "ry": 809
+      }
+    ],
+    "fx": []
+  },
+  "General_BabaVarjuka_Face": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BabaVarjuka/General_BabaVarjuka_Face.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 110,
+        "rx": 966,
+        "ry": 947
+      }
+    ],
+    "fx": []
+  },
+  "General_BabaVarjuka_Hand_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BabaVarjuka/General_BabaVarjuka_Hand_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 37,
+        "h": 56,
+        "rx": 981,
+        "ry": 972
+      }
+    ],
+    "fx": []
+  },
+  "General_BabaVarjuka_Hand_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BabaVarjuka/General_BabaVarjuka_Hand_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 33,
+        "h": 39,
+        "rx": 983,
+        "ry": 980
+      }
+    ],
+    "fx": []
+  },
+  "General_BabaVarjuka_Leg_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BabaVarjuka/General_BabaVarjuka_Leg_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 226,
+        "rx": 973,
+        "ry": 887
+      }
+    ],
+    "fx": []
+  },
+  "General_BabaVarjuka_Neck": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BabaVarjuka/General_BabaVarjuka_Neck.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 91,
+        "h": 61,
+        "rx": 954,
+        "ry": 969
+      }
+    ],
+    "fx": []
+  },
+  "General_BabaVarjuka_Necklace": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BabaVarjuka/General_BabaVarjuka_Necklace.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 69,
+        "h": 79,
+        "rx": 965,
+        "ry": 960
+      }
+    ],
+    "fx": []
+  },
+  "General_BabaVarjuka_Shadow": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BabaVarjuka/General_BabaVarjuka_Shadow.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 273,
+        "h": 23,
+        "rx": 863,
+        "ry": 988
+      }
+    ],
+    "fx": []
+  },
+  "General_BabaVarjuka_Shoulder_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BabaVarjuka/General_BabaVarjuka_Shoulder_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 23,
+        "h": 43,
+        "rx": 988,
+        "ry": 978
+      }
+    ],
+    "fx": []
+  },
+  "General_BabaVarjuka_Shoulder_Right_Back": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BabaVarjuka/General_BabaVarjuka_Shoulder_Right_Back.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 23,
+        "h": 35,
+        "rx": 988,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "General_BabaVarjuka_Shoulder_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BabaVarjuka/General_BabaVarjuka_Shoulder_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 46,
+        "rx": 977,
+        "ry": 977
+      }
+    ],
+    "fx": []
+  },
+  "General_BabaVarjuka_Skull_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BabaVarjuka/General_BabaVarjuka_Skull_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 19,
+        "h": 70,
+        "rx": 988,
+        "ry": 996
+      }
+    ],
+    "fx": []
+  },
+  "General_BabaVarjuka_Skull_Middle": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BabaVarjuka/General_BabaVarjuka_Skull_Middle.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 21,
+        "h": 99,
+        "rx": 987,
+        "ry": 996
+      }
+    ],
+    "fx": []
+  },
+  "General_BabaVarjuka_Skull_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BabaVarjuka/General_BabaVarjuka_Skull_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 20,
+        "h": 69,
+        "rx": 993,
+        "ry": 998
+      }
+    ],
+    "fx": []
+  },
+  "General_BabaVarjuka_Sleeve_Left_Back": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BabaVarjuka/General_BabaVarjuka_Sleeve_Left_Back.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 18,
+        "rx": 980,
+        "ry": 991
+      }
+    ],
+    "fx": []
+  },
+  "General_BabaVarjuka_Sleeve_Right_Back": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BabaVarjuka/General_BabaVarjuka_Sleeve_Right_Back.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 15,
+        "h": 11,
+        "rx": 992,
+        "ry": 994
+      }
+    ],
+    "fx": []
+  },
+  "General_BabaVarjuka_Waist_Back": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BabaVarjuka/General_BabaVarjuka_Waist_Back.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 16,
+        "rx": 961,
+        "ry": 992
+      }
+    ],
+    "fx": []
+  },
+  "General_BabaVarjuka_Waist_Front": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BabaVarjuka/General_BabaVarjuka_Waist_Front.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 49,
+        "rx": 961,
+        "ry": 975
+      }
+    ],
+    "fx": []
+  },
+  "General_BlueGeneral_Arm_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BlueGeneral/General_BlueGeneral_Arm_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 142,
+        "rx": 970,
+        "ry": 929
+      }
+    ],
+    "fx": []
+  },
+  "General_BlueGeneral_Arm_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BlueGeneral/General_BlueGeneral_Arm_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 138,
+        "h": 141,
+        "rx": 931,
+        "ry": 932
+      }
+    ],
+    "fx": []
+  },
+  "General_BlueGeneral_Axe": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BlueGeneral/General_BlueGeneral_Axe.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 436,
+        "h": 209,
+        "rx": 782,
+        "ry": 895
+      }
+    ],
+    "fx": []
+  },
+  "General_BlueGeneral_Base": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BlueGeneral/General_BlueGeneral_Base.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 319,
+        "h": 83,
+        "rx": 840,
+        "ry": 958
+      }
+    ],
+    "fx": []
+  },
+  "General_BlueGeneral_Bear_Head": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BlueGeneral/General_BlueGeneral_Bear_Head.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 123,
+        "rx": 944,
+        "ry": 938
+      }
+    ],
+    "fx": []
+  },
+  "General_BlueGeneral_Body": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BlueGeneral/General_BlueGeneral_Body.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 177,
+        "h": 263,
+        "rx": 911,
+        "ry": 868
+      }
+    ],
+    "fx": []
+  },
+  "General_BlueGeneral_Cape": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BlueGeneral/General_BlueGeneral_Cape.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 215,
+        "h": 497,
+        "rx": 892,
+        "ry": 751
+      }
+    ],
+    "fx": []
+  },
+  "General_BlueGeneral_Face": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BlueGeneral/General_BlueGeneral_Face.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 81,
+        "h": 124,
+        "rx": 959,
+        "ry": 938
+      }
+    ],
+    "fx": []
+  },
+  "General_BlueGeneral_Foot_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BlueGeneral/General_BlueGeneral_Foot_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 93,
+        "h": 79,
+        "rx": 953,
+        "ry": 960
+      }
+    ],
+    "fx": []
+  },
+  "General_BlueGeneral_Foot_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BlueGeneral/General_BlueGeneral_Foot_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 67,
+        "rx": 966,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
+  "General_BlueGeneral_Forearm_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BlueGeneral/General_BlueGeneral_Forearm_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 55,
+        "rx": 970,
+        "ry": 972
+      }
+    ],
+    "fx": []
+  },
+  "General_BlueGeneral_Forearm_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BlueGeneral/General_BlueGeneral_Forearm_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 97,
+        "h": 155,
+        "rx": 980,
+        "ry": 984
+      }
+    ],
+    "fx": []
+  },
+  "General_BlueGeneral_Gauntlet_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BlueGeneral/General_BlueGeneral_Gauntlet_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 61,
+        "h": 55,
+        "rx": 969,
+        "ry": 972
+      }
+    ],
+    "fx": []
+  },
+  "General_BlueGeneral_Hand_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BlueGeneral/General_BlueGeneral_Hand_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 61,
+        "h": 57,
+        "rx": 969,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "General_BlueGeneral_Hip_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BlueGeneral/General_BlueGeneral_Hip_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 123,
+        "h": 125,
+        "rx": 938,
+        "ry": 937
+      }
+    ],
+    "fx": []
+  },
+  "General_BlueGeneral_Hip_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BlueGeneral/General_BlueGeneral_Hip_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 121,
+        "h": 159,
+        "rx": 939,
+        "ry": 920
+      }
+    ],
+    "fx": []
+  },
+  "General_BlueGeneral_Leg_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BlueGeneral/General_BlueGeneral_Leg_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 81,
+        "h": 154,
+        "rx": 957,
+        "ry": 923
+      }
+    ],
+    "fx": []
+  },
+  "General_BlueGeneral_Leg_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BlueGeneral/General_BlueGeneral_Leg_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 127,
+        "rx": 964,
+        "ry": 932
+      }
+    ],
+    "fx": []
+  },
+  "General_BlueGeneral_Skirt_Back": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BlueGeneral/General_BlueGeneral_Skirt_Back.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 149,
+        "h": 93,
+        "rx": 925,
+        "ry": 953
+      }
+    ],
+    "fx": []
+  },
+  "General_BlueGeneral_Skirt_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BlueGeneral/General_BlueGeneral_Skirt_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 213,
+        "h": 213,
+        "rx": 926,
+        "ry": 883
+      }
+    ],
+    "fx": []
+  },
+  "General_BlueGeneral_Skirt_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BlueGeneral/General_BlueGeneral_Skirt_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 149,
+        "h": 177,
+        "rx": 925,
+        "ry": 913
+      }
+    ],
+    "fx": []
+  },
+  "General_BlueGeneral_Thumb": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_BlueGeneral/General_BlueGeneral_Thumb.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 23,
+        "h": 30,
+        "rx": 988,
+        "ry": 985
+      }
+    ],
+    "fx": []
+  },
   "General_Horatio_Arm_Left": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Horatio/General_Horatio_Arm_Left.png",
     "frames": [
       {
@@ -42531,7 +43761,7 @@
     "fx": []
   },
   "General_Horatio_Arm_Right": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Horatio/General_Horatio_Arm_Right.png",
     "frames": [
       {
@@ -42546,7 +43776,7 @@
     "fx": []
   },
   "General_Horatio_Belt_Bottom": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Horatio/General_Horatio_Belt_Bottom.png",
     "frames": [
       {
@@ -42561,22 +43791,22 @@
     "fx": []
   },
   "General_Horatio_Belt_Upper": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Horatio/General_Horatio_Belt_Upper.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
-        "w": 135,
+        "w": 134,
         "h": 220,
-        "rx": 932,
+        "rx": 933,
         "ry": 938
       }
     ],
     "fx": []
   },
   "General_Horatio_Chest_Bottom": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Horatio/General_Horatio_Chest_Bottom.png",
     "frames": [
       {
@@ -42591,7 +43821,7 @@
     "fx": []
   },
   "General_Horatio_Chest_Upper": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Horatio/General_Horatio_Chest_Upper.png",
     "frames": [
       {
@@ -42606,7 +43836,7 @@
     "fx": []
   },
   "General_Horatio_Dagger": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Horatio/General_Horatio_Dagger.png",
     "frames": [
       {
@@ -42621,7 +43851,7 @@
     "fx": []
   },
   "General_Horatio_Elbow_Right": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Horatio/General_Horatio_Elbow_Right.png",
     "frames": [
       {
@@ -42636,7 +43866,7 @@
     "fx": []
   },
   "General_Horatio_Face": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Horatio/General_Horatio_Face.png",
     "frames": [
       {
@@ -42651,7 +43881,7 @@
     "fx": []
   },
   "General_Horatio_Forearm_Left": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Horatio/General_Horatio_Forearm_Left.png",
     "frames": [
       {
@@ -42666,7 +43896,7 @@
     "fx": []
   },
   "General_Horatio_Forearm_Right": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Horatio/General_Horatio_Forearm_Right.png",
     "frames": [
       {
@@ -42681,7 +43911,7 @@
     "fx": []
   },
   "General_Horatio_Hand_Right": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Horatio/General_Horatio_Hand_Right.png",
     "frames": [
       {
@@ -42696,7 +43926,7 @@
     "fx": []
   },
   "General_Horatio_Hips": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Horatio/General_Horatio_Hips.png",
     "frames": [
       {
@@ -42711,7 +43941,7 @@
     "fx": []
   },
   "General_Horatio_Legs": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Horatio/General_Horatio_Legs.png",
     "frames": [
       {
@@ -42726,7 +43956,7 @@
     "fx": []
   },
   "General_Horatio_Scarf": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Horatio/General_Horatio_Scarf.png",
     "frames": [
       {
@@ -42741,7 +43971,7 @@
     "fx": []
   },
   "General_Horatio_Shadow": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Horatio/General_Horatio_Shadow.png",
     "frames": [
       {
@@ -42756,7 +43986,7 @@
     "fx": []
   },
   "General_Horatio_Shield": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Horatio/General_Horatio_Shield.png",
     "frames": [
       {
@@ -42771,7 +44001,7 @@
     "fx": []
   },
   "General_Horatio_Skirt": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Horatio/General_Horatio_Skirt.png",
     "frames": [
       {
@@ -42786,13 +44016,13 @@
     "fx": []
   },
   "General_Horatio_Sword_Big": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Horatio/General_Horatio_Sword_Big.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
-        "w": 361,
+        "w": 362,
         "h": 309,
         "rx": 763,
         "ry": 893
@@ -42801,7 +44031,7 @@
     "fx": []
   },
   "General_Horatio_Sword": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Horatio/General_Horatio_Sword.png",
     "frames": [
       {
@@ -42816,7 +44046,7 @@
     "fx": []
   },
   "General_Horatio_Tabard": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Horatio/General_Horatio_Tabard.png",
     "frames": [
       {
@@ -42830,8 +44060,323 @@
     ],
     "fx": []
   },
+  "General_KingOlafson_Arm_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_KingOlafson/General_KingOlafson_Arm_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 91,
+        "h": 100,
+        "rx": 954,
+        "ry": 950
+      }
+    ],
+    "fx": []
+  },
+  "General_KingOlafson_Arm_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_KingOlafson/General_KingOlafson_Arm_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 141,
+        "rx": 966,
+        "ry": 929
+      }
+    ],
+    "fx": []
+  },
+  "General_KingOlafson_Axe": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_KingOlafson/General_KingOlafson_Axe.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 145,
+        "h": 131,
+        "rx": 927,
+        "ry": 934
+      }
+    ],
+    "fx": []
+  },
+  "General_KingOlafson_Belt": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_KingOlafson/General_KingOlafson_Belt.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 171,
+        "h": 79,
+        "rx": 914,
+        "ry": 960
+      }
+    ],
+    "fx": []
+  },
+  "General_KingOlafson_Chest_Belt": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_KingOlafson/General_KingOlafson_Chest_Belt.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 125,
+        "h": 146,
+        "rx": 937,
+        "ry": 927
+      }
+    ],
+    "fx": []
+  },
+  "General_KingOlafson_Chest": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_KingOlafson/General_KingOlafson_Chest.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 177,
+        "h": 189,
+        "rx": 911,
+        "ry": 905
+      }
+    ],
+    "fx": []
+  },
+  "General_KingOlafson_Elbow_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_KingOlafson/General_KingOlafson_Elbow_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 43,
+        "rx": 973,
+        "ry": 978
+      }
+    ],
+    "fx": []
+  },
+  "General_KingOlafson_Face": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_KingOlafson/General_KingOlafson_Face.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 137,
+        "h": 150,
+        "rx": 931,
+        "ry": 925
+      }
+    ],
+    "fx": []
+  },
+  "General_KingOlafson_Forearm_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_KingOlafson/General_KingOlafson_Forearm_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 90,
+        "h": 117,
+        "rx": 946,
+        "ry": 912
+      }
+    ],
+    "fx": []
+  },
+  "General_KingOlafson_Forearm_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_KingOlafson/General_KingOlafson_Forearm_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 107,
+        "rx": 944,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "General_KingOlafson_Hand_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_KingOlafson/General_KingOlafson_Hand_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 58,
+        "h": 66,
+        "rx": 953,
+        "ry": 947
+      }
+    ],
+    "fx": []
+  },
+  "General_KingOlafson_Hand_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_KingOlafson/General_KingOlafson_Hand_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 203,
+        "rx": 932,
+        "ry": 964
+      }
+    ],
+    "fx": []
+  },
+  "General_KingOlafson_Horn": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_KingOlafson/General_KingOlafson_Horn.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 91,
+        "h": 115,
+        "rx": 954,
+        "ry": 942
+      }
+    ],
+    "fx": []
+  },
+  "General_KingOlafson_Legs": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_KingOlafson/General_KingOlafson_Legs.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 245,
+        "h": 308,
+        "rx": 877,
+        "ry": 752
+      }
+    ],
+    "fx": []
+  },
+  "General_KingOlafson_Shadow": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_KingOlafson/General_KingOlafson_Shadow.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 297,
+        "h": 24,
+        "rx": 851,
+        "ry": 988
+      }
+    ],
+    "fx": []
+  },
+  "General_KingOlafson_Shield": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_KingOlafson/General_KingOlafson_Shield.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 127,
+        "h": 209,
+        "rx": 936,
+        "ry": 895
+      }
+    ],
+    "fx": []
+  },
+  "General_KingOlafson_Shoes": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_KingOlafson/General_KingOlafson_Shoes.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 265,
+        "h": 55,
+        "rx": 867,
+        "ry": 972
+      }
+    ],
+    "fx": []
+  },
+  "General_KingOlafson_Shoulder_Fur_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_KingOlafson/General_KingOlafson_Shoulder_Fur_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 139,
+        "h": 98,
+        "rx": 930,
+        "ry": 951
+      }
+    ],
+    "fx": []
+  },
+  "General_KingOlafson_Shoulder_Fur_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_KingOlafson/General_KingOlafson_Shoulder_Fur_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 93,
+        "rx": 940,
+        "ry": 953
+      }
+    ],
+    "fx": []
+  },
+  "General_KingOlafson_Skirt": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_KingOlafson/General_KingOlafson_Skirt.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 241,
+        "h": 178,
+        "rx": 879,
+        "ry": 911
+      }
+    ],
+    "fx": []
+  },
+  "General_KingOlafson_Torso": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_KingOlafson/General_KingOlafson_Torso.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 163,
+        "h": 199,
+        "rx": 918,
+        "ry": 900
+      }
+    ],
+    "fx": []
+  },
   "General_Leo_Arm_Left": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Leo/General_Leo_Arm_Left.png",
     "frames": [
       {
@@ -42846,7 +44391,7 @@
     "fx": []
   },
   "General_Leo_Arm_Right": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Leo/General_Leo_Arm_Right.png",
     "frames": [
       {
@@ -42861,7 +44406,7 @@
     "fx": []
   },
   "General_Leo_Arrow": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Leo/General_Leo_Arrow.png",
     "frames": [
       {
@@ -42876,7 +44421,7 @@
     "fx": []
   },
   "General_Leo_Belt": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Leo/General_Leo_Belt.png",
     "frames": [
       {
@@ -42891,7 +44436,7 @@
     "fx": []
   },
   "General_Leo_Bird_Body": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Leo/General_Leo_Bird_Body.png",
     "frames": [
       {
@@ -42906,7 +44451,7 @@
     "fx": []
   },
   "General_Leo_Bird_Tail": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Leo/General_Leo_Bird_Tail.png",
     "frames": [
       {
@@ -42921,7 +44466,7 @@
     "fx": []
   },
   "General_Leo_Bird_Wing_Left": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Leo/General_Leo_Bird_Wing_Left.png",
     "frames": [
       {
@@ -42936,7 +44481,7 @@
     "fx": []
   },
   "General_Leo_Bird_Wing_Right": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Leo/General_Leo_Bird_Wing_Right.png",
     "frames": [
       {
@@ -42951,7 +44496,7 @@
     "fx": []
   },
   "General_Leo_Bow_String": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Leo/General_Leo_Bow_String.png",
     "frames": [
       {
@@ -42966,7 +44511,7 @@
     "fx": []
   },
   "General_Leo_Chest": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Leo/General_Leo_Chest.png",
     "frames": [
       {
@@ -42981,7 +44526,7 @@
     "fx": []
   },
   "General_Leo_Fabric": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Leo/General_Leo_Fabric.png",
     "frames": [
       {
@@ -42996,37 +44541,37 @@
     "fx": []
   },
   "General_Leo_Face": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Leo/General_Leo_Face.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
-        "w": 119,
+        "w": 118,
         "h": 112,
-        "rx": 940,
+        "rx": 941,
         "ry": 944
       }
     ],
     "fx": []
   },
   "General_Leo_Hand_Right": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Leo/General_Leo_Hand_Right.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
-        "w": 81,
+        "w": 80,
         "h": 158,
-        "rx": 959,
+        "rx": 960,
         "ry": 921
       }
     ],
     "fx": []
   },
   "General_Leo_Hips": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Leo/General_Leo_Hips.png",
     "frames": [
       {
@@ -43041,7 +44586,7 @@
     "fx": []
   },
   "General_Leo_Legs": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Leo/General_Leo_Legs.png",
     "frames": [
       {
@@ -43056,7 +44601,7 @@
     "fx": []
   },
   "General_Leo_Shadow": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Leo/General_Leo_Shadow.png",
     "frames": [
       {
@@ -43071,7 +44616,7 @@
     "fx": []
   },
   "General_Leo_Sword": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Leo/General_Leo_Sword.png",
     "frames": [
       {
@@ -43086,7 +44631,7 @@
     "fx": []
   },
   "General_Leo_Weapon": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Leo/General_Leo_Weapon.png",
     "frames": [
       {
@@ -43100,8 +44645,1268 @@
     ],
     "fx": []
   },
+  "General_RedGeneral_Arm_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Arm_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 74,
+        "h": 108,
+        "rx": 963,
+        "ry": 946
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Arm_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Arm_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 78,
+        "h": 119,
+        "rx": 960,
+        "ry": 940
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Bear_Skull": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Bear_Skull.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 125,
+        "h": 62,
+        "rx": 937,
+        "ry": 969
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Belt": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Belt.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 77,
+        "rx": 944,
+        "ry": 961
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Cape": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Cape.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 163,
+        "h": 471,
+        "rx": 918,
+        "ry": 764
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Chest_Back": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Chest_Back.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 73,
+        "h": 38,
+        "rx": 963,
+        "ry": 981
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Chest": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Chest.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 129,
+        "h": 224,
+        "rx": 935,
+        "ry": 888
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Dagger_Handle": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Dagger_Handle.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 43,
+        "h": 60,
+        "rx": 978,
+        "ry": 970
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Dagger_Scabbard": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Dagger_Scabbard.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 78,
+        "rx": 977,
+        "ry": 961
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Elbow_Back_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Elbow_Back_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 36,
+        "rx": 971,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Elbow_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Elbow_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 60,
+        "rx": 967,
+        "ry": 970
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Fabric_Middle": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Fabric_Middle.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 75,
+        "h": 185,
+        "rx": 962,
+        "ry": 907
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Face": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Face.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 118,
+        "rx": 961,
+        "ry": 941
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Foot_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Foot_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 61,
+        "rx": 970,
+        "ry": 969
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Foot_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Foot_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 69,
+        "rx": 958,
+        "ry": 965
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Forearm_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Forearm_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 93,
+        "h": 86,
+        "rx": 953,
+        "ry": 957
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Forearm_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Forearm_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 83,
+        "rx": 973,
+        "ry": 958
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Fur_Front_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Fur_Front_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 38,
+        "rx": 982,
+        "ry": 981
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Fur_Front_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Fur_Front_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 19,
+        "h": 19,
+        "rx": 990,
+        "ry": 990
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Fur": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Fur.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 149,
+        "h": 51,
+        "rx": 925,
+        "ry": 974
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Hand_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Hand_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 43,
+        "h": 49,
+        "rx": 978,
+        "ry": 975
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Hips_Bottom_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Hips_Bottom_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 49,
+        "h": 58,
+        "rx": 974,
+        "ry": 972
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Hips_Bottom_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Hips_Bottom_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 77,
+        "rx": 967,
+        "ry": 961
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Hips_Upper_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Hips_Upper_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 86,
+        "rx": 971,
+        "ry": 957
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Hips_Upper_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Hips_Upper_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 47,
+        "rx": 973,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Knee_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Knee_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 61,
+        "h": 86,
+        "rx": 969,
+        "ry": 957
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Knee_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Knee_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 71,
+        "h": 79,
+        "rx": 964,
+        "ry": 960
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Leather_Stripes_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Leather_Stripes_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 38,
+        "rx": 976,
+        "ry": 981
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Leather_Stripes_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Leather_Stripes_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 34,
+        "rx": 982,
+        "ry": 983
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Leg_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Leg_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 73,
+        "h": 182,
+        "rx": 963,
+        "ry": 909
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Leg_Lower_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Leg_Lower_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 133,
+        "rx": 973,
+        "ry": 933
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Leg_Lower_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Leg_Lower_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 73,
+        "h": 125,
+        "rx": 963,
+        "ry": 937
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Leg_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Leg_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 101,
+        "h": 157,
+        "rx": 949,
+        "ry": 921
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Metal_Clutches": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Metal_Clutches.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 23,
+        "h": 33,
+        "rx": 988,
+        "ry": 983
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Neck": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Neck.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 73,
+        "h": 80,
+        "rx": 963,
+        "ry": 960
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Shadow": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Shadow.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 289,
+        "h": 17,
+        "rx": 855,
+        "ry": 991
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Shoulder_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Shoulder_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 75,
+        "rx": 972,
+        "ry": 962
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Shoulder_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Shoulder_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 66,
+        "rx": 973,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "General_RedGeneral_Sword": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RedGeneral/General_RedGeneral_Sword.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 109,
+        "h": 427,
+        "rx": 995,
+        "ry": 574
+      }
+    ],
+    "fx": []
+  },
+  "General_RobberBaron_Arm_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RobberBaron/General_RobberBaron_Arm_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 127,
+        "rx": 980,
+        "ry": 992
+      }
+    ],
+    "fx": []
+  },
+  "General_RobberBaron_Arm_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RobberBaron/General_RobberBaron_Arm_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 60,
+        "h": 150,
+        "rx": 961,
+        "ry": 973
+      }
+    ],
+    "fx": []
+  },
+  "General_RobberBaron_Bag_Left_1": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RobberBaron/General_RobberBaron_Bag_Left_1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 73,
+        "h": 114,
+        "rx": 963,
+        "ry": 943
+      }
+    ],
+    "fx": []
+  },
+  "General_RobberBaron_Bag_Left_2": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RobberBaron/General_RobberBaron_Bag_Left_2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 37,
+        "rx": 994,
+        "ry": 970
+      }
+    ],
+    "fx": []
+  },
+  "General_RobberBaron_Bag_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RobberBaron/General_RobberBaron_Bag_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 133,
+        "rx": 958,
+        "ry": 933
+      }
+    ],
+    "fx": []
+  },
+  "General_RobberBaron_Belt_1": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RobberBaron/General_RobberBaron_Belt_1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 222,
+        "h": 100,
+        "rx": 991,
+        "ry": 925
+      }
+    ],
+    "fx": []
+  },
+  "General_RobberBaron_Belt_2": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RobberBaron/General_RobberBaron_Belt_2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 238,
+        "h": 124,
+        "rx": 768,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
+  "General_RobberBaron_Boots": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RobberBaron/General_RobberBaron_Boots.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 281,
+        "h": 163,
+        "rx": 859,
+        "ry": 918
+      }
+    ],
+    "fx": []
+  },
+  "General_RobberBaron_Buckle": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RobberBaron/General_RobberBaron_Buckle.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 101,
+        "h": 52,
+        "rx": 951,
+        "ry": 974
+      }
+    ],
+    "fx": []
+  },
+  "General_RobberBaron_Chest_Belt": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RobberBaron/General_RobberBaron_Chest_Belt.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 170,
+        "h": 52,
+        "rx": 919,
+        "ry": 970
+      }
+    ],
+    "fx": []
+  },
+  "General_RobberBaron_Chest_Bottom": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RobberBaron/General_RobberBaron_Chest_Bottom.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 239,
+        "h": 66,
+        "rx": 880,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "General_RobberBaron_Chest": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RobberBaron/General_RobberBaron_Chest.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 205,
+        "h": 204,
+        "rx": 897,
+        "ry": 899
+      }
+    ],
+    "fx": []
+  },
+  "General_RobberBaron_Colar_Back": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RobberBaron/General_RobberBaron_Colar_Back.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 30,
+        "rx": 950,
+        "ry": 985
+      }
+    ],
+    "fx": []
+  },
+  "General_RobberBaron_Colar_Front": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RobberBaron/General_RobberBaron_Colar_Front.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 127,
+        "h": 76,
+        "rx": 936,
+        "ry": 962
+      }
+    ],
+    "fx": []
+  },
+  "General_RobberBaron_Dagger": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RobberBaron/General_RobberBaron_Dagger.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 145,
+        "h": 134,
+        "rx": 973,
+        "ry": 1010
+      }
+    ],
+    "fx": []
+  },
+  "General_RobberBaron_Face": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RobberBaron/General_RobberBaron_Face.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 89,
+        "h": 103,
+        "rx": 955,
+        "ry": 948
+      }
+    ],
+    "fx": []
+  },
+  "General_RobberBaron_Forearm_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RobberBaron/General_RobberBaron_Forearm_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 119,
+        "h": 87,
+        "rx": 940,
+        "ry": 956
+      }
+    ],
+    "fx": []
+  },
+  "General_RobberBaron_Forearm_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RobberBaron/General_RobberBaron_Forearm_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 219,
+        "rx": 936,
+        "ry": 890
+      }
+    ],
+    "fx": []
+  },
+  "General_RobberBaron_Hand_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RobberBaron/General_RobberBaron_Hand_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 67,
+        "rx": 960,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
+  "General_RobberBaron_Hips_Pads": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RobberBaron/General_RobberBaron_Hips_Pads.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 238,
+        "h": 159,
+        "rx": 881,
+        "ry": 920
+      }
+    ],
+    "fx": []
+  },
+  "General_RobberBaron_Shadow": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RobberBaron/General_RobberBaron_Shadow.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 313,
+        "h": 21,
+        "rx": 843,
+        "ry": 989
+      }
+    ],
+    "fx": []
+  },
+  "General_RobberBaron_Shoulder_Back_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RobberBaron/General_RobberBaron_Shoulder_Back_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 17,
+        "h": 12,
+        "rx": 991,
+        "ry": 994
+      }
+    ],
+    "fx": []
+  },
+  "General_RobberBaron_Shoulder_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RobberBaron/General_RobberBaron_Shoulder_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 114,
+        "rx": 947,
+        "ry": 943
+      }
+    ],
+    "fx": []
+  },
+  "General_RobberBaron_Shoulder_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RobberBaron/General_RobberBaron_Shoulder_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 69,
+        "h": 100,
+        "rx": 965,
+        "ry": 950
+      }
+    ],
+    "fx": []
+  },
+  "General_RobberBaron_Skirt": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RobberBaron/General_RobberBaron_Skirt.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 241,
+        "h": 248,
+        "rx": 879,
+        "ry": 876
+      }
+    ],
+    "fx": []
+  },
+  "General_RobberBaron_Wine_Back": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RobberBaron/General_RobberBaron_Wine_Back.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 59,
+        "rx": 972,
+        "ry": 970
+      }
+    ],
+    "fx": []
+  },
+  "General_RobberBaron_Wine_Front": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_RobberBaron/General_RobberBaron_Wine_Front.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 117,
+        "h": 97,
+        "rx": 941,
+        "ry": 951
+      }
+    ],
+    "fx": []
+  },
+  "General_SamuraiGeneral_Arm_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_SamuraiGeneral/General_SamuraiGeneral_Arm_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 61,
+        "h": 147,
+        "rx": 969,
+        "ry": 926
+      }
+    ],
+    "fx": []
+  },
+  "General_SamuraiGeneral_Arm_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_SamuraiGeneral/General_SamuraiGeneral_Arm_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 108,
+        "h": 110,
+        "rx": 946,
+        "ry": 945
+      }
+    ],
+    "fx": []
+  },
+  "General_SamuraiGeneral_Armor_Legs": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_SamuraiGeneral/General_SamuraiGeneral_Armor_Legs.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 119,
+        "rx": 950,
+        "ry": 940
+      }
+    ],
+    "fx": []
+  },
+  "General_SamuraiGeneral_Belt": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_SamuraiGeneral/General_SamuraiGeneral_Belt.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 75,
+        "rx": 912,
+        "ry": 962
+      }
+    ],
+    "fx": []
+  },
+  "General_SamuraiGeneral_Boots": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_SamuraiGeneral/General_SamuraiGeneral_Boots.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 286,
+        "h": 179,
+        "rx": 857,
+        "ry": 910
+      }
+    ],
+    "fx": []
+  },
+  "General_SamuraiGeneral_Coat_Legs": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_SamuraiGeneral/General_SamuraiGeneral_Coat_Legs.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 254,
+        "h": 244,
+        "rx": 873,
+        "ry": 878
+      }
+    ],
+    "fx": []
+  },
+  "General_SamuraiGeneral_Hand_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_SamuraiGeneral/General_SamuraiGeneral_Hand_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 135,
+        "h": 49,
+        "rx": 932,
+        "ry": 975
+      }
+    ],
+    "fx": []
+  },
+  "General_SamuraiGeneral_Hand_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_SamuraiGeneral/General_SamuraiGeneral_Hand_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 249,
+        "h": 309,
+        "rx": 938,
+        "ry": 986
+      }
+    ],
+    "fx": []
+  },
+  "General_SamuraiGeneral_Head": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_SamuraiGeneral/General_SamuraiGeneral_Head.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 123,
+        "h": 127,
+        "rx": 938,
+        "ry": 936
+      }
+    ],
+    "fx": []
+  },
+  "General_SamuraiGeneral_Helmet_Back": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_SamuraiGeneral/General_SamuraiGeneral_Helmet_Back.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 114,
+        "h": 65,
+        "rx": 943,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "General_SamuraiGeneral_Legs": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_SamuraiGeneral/General_SamuraiGeneral_Legs.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 225,
+        "h": 183,
+        "rx": 887,
+        "ry": 908
+      }
+    ],
+    "fx": []
+  },
+  "General_SamuraiGeneral_Ribbon": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_SamuraiGeneral/General_SamuraiGeneral_Ribbon.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 116,
+        "rx": 983,
+        "ry": 995
+      }
+    ],
+    "fx": []
+  },
+  "General_SamuraiGeneral_Shadow": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_SamuraiGeneral/General_SamuraiGeneral_Shadow.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 307,
+        "h": 28,
+        "rx": 846,
+        "ry": 986
+      }
+    ],
+    "fx": []
+  },
+  "General_SamuraiGeneral_Shoulder_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_SamuraiGeneral/General_SamuraiGeneral_Shoulder_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 79,
+        "rx": 970,
+        "ry": 960
+      }
+    ],
+    "fx": []
+  },
+  "General_SamuraiGeneral_Shoulder_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_SamuraiGeneral/General_SamuraiGeneral_Shoulder_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 110,
+        "h": 112,
+        "rx": 933,
+        "ry": 984
+      }
+    ],
+    "fx": []
+  },
+  "General_SamuraiGeneral_Sword_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_SamuraiGeneral/General_SamuraiGeneral_Sword_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 103,
+        "h": 63,
+        "rx": 948,
+        "ry": 968
+      }
+    ],
+    "fx": []
+  },
+  "General_SamuraiGeneral_Torso_Back": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_SamuraiGeneral/General_SamuraiGeneral_Torso_Back.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 87,
+        "rx": 971,
+        "ry": 956
+      }
+    ],
+    "fx": []
+  },
+  "General_SamuraiGeneral_Torso": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_SamuraiGeneral/General_SamuraiGeneral_Torso.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 193,
+        "h": 215,
+        "rx": 903,
+        "ry": 892
+      }
+    ],
+    "fx": []
+  },
   "General_Sasaki_Arm_Left": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Sasaki/General_Sasaki_Arm_Left.png",
     "frames": [
       {
@@ -43116,7 +45921,7 @@
     "fx": []
   },
   "General_Sasaki_Armor_Shoulder_Left": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Sasaki/General_Sasaki_Armor_Shoulder_Left.png",
     "frames": [
       {
@@ -43131,7 +45936,7 @@
     "fx": []
   },
   "General_Sasaki_Armor_Shoulder_Right": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Sasaki/General_Sasaki_Armor_Shoulder_Right.png",
     "frames": [
       {
@@ -43146,7 +45951,7 @@
     "fx": []
   },
   "General_Sasaki_Backside_Hat": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Sasaki/General_Sasaki_Backside_Hat.png",
     "frames": [
       {
@@ -43161,7 +45966,7 @@
     "fx": []
   },
   "General_Sasaki_Chest": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Sasaki/General_Sasaki_Chest.png",
     "frames": [
       {
@@ -43176,7 +45981,7 @@
     "fx": []
   },
   "General_Sasaki_Face": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Sasaki/General_Sasaki_Face.png",
     "frames": [
       {
@@ -43191,7 +45996,7 @@
     "fx": []
   },
   "General_Sasaki_Hat_Coin_1": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Sasaki/General_Sasaki_Hat_Coin_1.png",
     "frames": [
       {
@@ -43206,7 +46011,7 @@
     "fx": []
   },
   "General_Sasaki_Hat_Coin_2": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Sasaki/General_Sasaki_Hat_Coin_2.png",
     "frames": [
       {
@@ -43221,22 +46026,22 @@
     "fx": []
   },
   "General_Sasaki_Hat_Coin_3": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Sasaki/General_Sasaki_Hat_Coin_3.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
-        "w": 12,
+        "w": 11,
         "h": 33,
-        "rx": 992,
+        "rx": 993,
         "ry": 998
       }
     ],
     "fx": []
   },
   "General_Sasaki_Hat": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Sasaki/General_Sasaki_Hat.png",
     "frames": [
       {
@@ -43251,7 +46056,7 @@
     "fx": []
   },
   "General_Sasaki_Hips": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Sasaki/General_Sasaki_Hips.png",
     "frames": [
       {
@@ -43266,7 +46071,7 @@
     "fx": []
   },
   "General_Sasaki_Legs": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Sasaki/General_Sasaki_Legs.png",
     "frames": [
       {
@@ -43281,7 +46086,7 @@
     "fx": []
   },
   "General_Sasaki_Ribbon": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Sasaki/General_Sasaki_Ribbon.png",
     "frames": [
       {
@@ -43296,7 +46101,7 @@
     "fx": []
   },
   "General_Sasaki_Scabbard_Coin": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Sasaki/General_Sasaki_Scabbard_Coin.png",
     "frames": [
       {
@@ -43311,7 +46116,7 @@
     "fx": []
   },
   "General_Sasaki_Shadow": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Sasaki/General_Sasaki_Shadow.png",
     "frames": [
       {
@@ -43326,7 +46131,7 @@
     "fx": []
   },
   "General_Sasaki_Shoes": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Sasaki/General_Sasaki_Shoes.png",
     "frames": [
       {
@@ -43341,7 +46146,7 @@
     "fx": []
   },
   "General_Sasaki_Shoulder_Right": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Sasaki/General_Sasaki_Shoulder_Right.png",
     "frames": [
       {
@@ -43356,7 +46161,7 @@
     "fx": []
   },
   "General_Sasaki_Sword": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Sasaki/General_Sasaki_Sword.png",
     "frames": [
       {
@@ -43371,7 +46176,7 @@
     "fx": []
   },
   "General_Toril_Arm_Left": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Toril/General_Toril_Arm_Left.png",
     "frames": [
       {
@@ -43386,22 +46191,22 @@
     "fx": []
   },
   "General_Toril_Arm_Right": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Toril/General_Toril_Arm_Right.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
-        "w": 43,
+        "w": 42,
         "h": 122,
-        "rx": 978,
+        "rx": 979,
         "ry": 972
       }
     ],
     "fx": []
   },
   "General_Toril_Belt_Bottom": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Toril/General_Toril_Belt_Bottom.png",
     "frames": [
       {
@@ -43416,14 +46221,14 @@
     "fx": []
   },
   "General_Toril_Belt_Upper": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Toril/General_Toril_Belt_Upper.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
         "w": 129,
-        "h": 125,
+        "h": 126,
         "rx": 935,
         "ry": 937
       }
@@ -43431,7 +46236,7 @@
     "fx": []
   },
   "General_Toril_Braid": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Toril/General_Toril_Braid.png",
     "frames": [
       {
@@ -43446,7 +46251,7 @@
     "fx": []
   },
   "General_Toril_Chainmail": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Toril/General_Toril_Chainmail.png",
     "frames": [
       {
@@ -43461,22 +46266,22 @@
     "fx": []
   },
   "General_Toril_Chest": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Toril/General_Toril_Chest.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
-        "w": 105,
+        "w": 104,
         "h": 138,
-        "rx": 947,
+        "rx": 948,
         "ry": 892
       }
     ],
     "fx": []
   },
   "General_Toril_Daggers": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Toril/General_Toril_Daggers.png",
     "frames": [
       {
@@ -43491,22 +46296,22 @@
     "fx": []
   },
   "General_Toril_Fabric": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Toril/General_Toril_Fabric.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
-        "w": 91,
+        "w": 90,
         "h": 418,
-        "rx": 954,
+        "rx": 955,
         "ry": 791
       }
     ],
     "fx": []
   },
   "General_Toril_Face": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Toril/General_Toril_Face.png",
     "frames": [
       {
@@ -43521,7 +46326,7 @@
     "fx": []
   },
   "General_Toril_Forearm_Left": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Toril/General_Toril_Forearm_Left.png",
     "frames": [
       {
@@ -43536,7 +46341,7 @@
     "fx": []
   },
   "General_Toril_Hips": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Toril/General_Toril_Hips.png",
     "frames": [
       {
@@ -43551,7 +46356,7 @@
     "fx": []
   },
   "General_Toril_Hood": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Toril/General_Toril_Hood.png",
     "frames": [
       {
@@ -43566,7 +46371,7 @@
     "fx": []
   },
   "General_Toril_Legs": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Toril/General_Toril_Legs.png",
     "frames": [
       {
@@ -43581,7 +46386,7 @@
     "fx": []
   },
   "General_Toril_Mask": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Toril/General_Toril_Mask.png",
     "frames": [
       {
@@ -43596,7 +46401,7 @@
     "fx": []
   },
   "General_Toril_Tabard": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Toril/General_Toril_Tabard.png",
     "frames": [
       {
@@ -43611,7 +46416,7 @@
     "fx": []
   },
   "General_Toril_Weapon": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Toril/General_Toril_Weapon.png",
     "frames": [
       {
@@ -43621,6 +46426,606 @@
         "h": 631,
         "rx": 855,
         "ry": 733
+      }
+    ],
+    "fx": []
+  },
+  "General_SultanAlKillah_Arm_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_SultanAlKillah/General_SultanAlKillah_Arm_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 181,
+        "h": 105,
+        "rx": 851,
+        "ry": 977
+      }
+    ],
+    "fx": []
+  },
+  "General_SultanAlKillah_Arm_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_SultanAlKillah/General_SultanAlKillah_Arm_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 133,
+        "h": 111,
+        "rx": 933,
+        "ry": 944
+      }
+    ],
+    "fx": []
+  },
+  "General_SultanAlKillah_Cape": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_SultanAlKillah/General_SultanAlKillah_Cape.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 201,
+        "h": 423,
+        "rx": 899,
+        "ry": 788
+      }
+    ],
+    "fx": []
+  },
+  "General_SultanAlKillah_Chest": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_SultanAlKillah/General_SultanAlKillah_Chest.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 151,
+        "h": 155,
+        "rx": 924,
+        "ry": 922
+      }
+    ],
+    "fx": []
+  },
+  "General_SultanAlKillah_Face": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_SultanAlKillah/General_SultanAlKillah_Face.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 114,
+        "rx": 960,
+        "ry": 942
+      }
+    ],
+    "fx": []
+  },
+  "General_SultanAlKillah_Feet": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_SultanAlKillah/General_SultanAlKillah_Feet.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 131,
+        "h": 137,
+        "rx": 934,
+        "ry": 931
+      }
+    ],
+    "fx": []
+  },
+  "General_SultanAlKillah_Hand_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_SultanAlKillah/General_SultanAlKillah_Hand_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 50,
+        "h": 47,
+        "rx": 975,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "General_SultanAlKillah_Hand_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_SultanAlKillah/General_SultanAlKillah_Hand_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 41,
+        "h": 40,
+        "rx": 979,
+        "ry": 980
+      }
+    ],
+    "fx": []
+  },
+  "General_SultanAlKillah_Hips": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_SultanAlKillah/General_SultanAlKillah_Hips.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 139,
+        "h": 103,
+        "rx": 930,
+        "ry": 948
+      }
+    ],
+    "fx": []
+  },
+  "General_SultanAlKillah_Legs": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_SultanAlKillah/General_SultanAlKillah_Legs.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 137,
+        "h": 256,
+        "rx": 931,
+        "ry": 872
+      }
+    ],
+    "fx": []
+  },
+  "General_SultanAlKillah_Saber": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_SultanAlKillah/General_SultanAlKillah_Saber.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 313,
+        "h": 168,
+        "rx": 908,
+        "ry": 902
+      }
+    ],
+    "fx": []
+  },
+  "General_SultanAlKillah_Scabbard": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_SultanAlKillah/General_SultanAlKillah_Scabbard.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 271,
+        "rx": 976,
+        "ry": 954
+      }
+    ],
+    "fx": []
+  },
+  "General_SultanAlKillah_Shadow": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_SultanAlKillah/General_SultanAlKillah_Shadow.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 300,
+        "h": 46,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_SultanAlKillah_Skirt_Back": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_SultanAlKillah/General_SultanAlKillah_Skirt_Back.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 37,
+        "h": 47,
+        "rx": 981,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "General_SultanAlKillah_Skirt": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_SultanAlKillah/General_SultanAlKillah_Skirt.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 159,
+        "h": 202,
+        "rx": 920,
+        "ry": 898
+      }
+    ],
+    "fx": []
+  },
+  "General_Uskhal_Arm_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Uskhal/General_Uskhal_Arm_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 112,
+        "h": 66,
+        "rx": 944,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "General_Uskhal_Armor_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Uskhal/General_Uskhal_Armor_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 167,
+        "h": 195,
+        "rx": 916,
+        "ry": 902
+      }
+    ],
+    "fx": []
+  },
+  "General_Uskhal_Armor_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Uskhal/General_Uskhal_Armor_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 173,
+        "h": 173,
+        "rx": 913,
+        "ry": 913
+      }
+    ],
+    "fx": []
+  },
+  "General_Uskhal_Armor_Top": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Uskhal/General_Uskhal_Armor_Top.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 131,
+        "rx": 906,
+        "ry": 934
+      }
+    ],
+    "fx": []
+  },
+  "General_Uskhal_Boot_Bottom": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Uskhal/General_Uskhal_Boot_Bottom.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 332,
+        "h": 71,
+        "rx": 832,
+        "ry": 931
+      }
+    ],
+    "fx": []
+  },
+  "General_Uskhal_Boot_Top": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Uskhal/General_Uskhal_Boot_Top.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 307,
+        "h": 157,
+        "rx": 846,
+        "ry": 865
+      }
+    ],
+    "fx": []
+  },
+  "General_Uskhal_Face": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Uskhal/General_Uskhal_Face.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 107,
+        "h": 85,
+        "rx": 946,
+        "ry": 957
+      }
+    ],
+    "fx": []
+  },
+  "General_Uskhal_Feathers_1": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Uskhal/General_Uskhal_Feathers_1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 45,
+        "rx": 971,
+        "ry": 977
+      }
+    ],
+    "fx": []
+  },
+  "General_Uskhal_Feathers_2": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Uskhal/General_Uskhal_Feathers_2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 27,
+        "h": 61,
+        "rx": 986,
+        "ry": 969
+      }
+    ],
+    "fx": []
+  },
+  "General_Uskhal_Feathers_3": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Uskhal/General_Uskhal_Feathers_3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 38,
+        "h": 25,
+        "rx": 981,
+        "ry": 987
+      }
+    ],
+    "fx": []
+  },
+  "General_Uskhal_Feathers_4": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Uskhal/General_Uskhal_Feathers_4.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 22,
+        "h": 7,
+        "rx": 989,
+        "ry": 996
+      }
+    ],
+    "fx": []
+  },
+  "General_Uskhal_Feathers_5": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Uskhal/General_Uskhal_Feathers_5.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 19,
+        "h": 9,
+        "rx": 990,
+        "ry": 995
+      }
+    ],
+    "fx": []
+  },
+  "General_Uskhal_Feathers_6": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Uskhal/General_Uskhal_Feathers_6.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 49,
+        "h": 54,
+        "rx": 975,
+        "ry": 973
+      }
+    ],
+    "fx": []
+  },
+  "General_Uskhal_Feathers_7": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Uskhal/General_Uskhal_Feathers_7.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 74,
+        "rx": 960,
+        "ry": 963
+      }
+    ],
+    "fx": []
+  },
+  "General_Uskhal_Forearm_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Uskhal/General_Uskhal_Forearm_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 117,
+        "h": 108,
+        "rx": 906,
+        "ry": 987
+      }
+    ],
+    "fx": []
+  },
+  "General_Uskhal_Hand_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Uskhal/General_Uskhal_Hand_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 266,
+        "h": 243,
+        "rx": 754,
+        "ry": 816
+      }
+    ],
+    "fx": []
+  },
+  "General_Uskhal_Helmet": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Uskhal/General_Uskhal_Helmet.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 138,
+        "h": 96,
+        "rx": 931,
+        "ry": 952
+      }
+    ],
+    "fx": []
+  },
+  "General_Uskhal_Scabbard": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Uskhal/General_Uskhal_Scabbard.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 77,
+        "rx": 966,
+        "ry": 961
+      }
+    ],
+    "fx": []
+  },
+  "General_Uskhal_Shadow": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Uskhal/General_Uskhal_Shadow.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 323,
+        "h": 36,
+        "rx": 857,
+        "ry": 972
+      }
+    ],
+    "fx": []
+  },
+  "General_Uskhal_Shield": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Uskhal/General_Uskhal_Shield.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 213,
+        "rx": 923,
+        "ry": 893
+      }
+    ],
+    "fx": []
+  },
+  "General_Uskhal_Shoulder_Left_Bottom": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Uskhal/General_Uskhal_Shoulder_Left_Bottom.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 169,
+        "h": 98,
+        "rx": 915,
+        "ry": 951
+      }
+    ],
+    "fx": []
+  },
+  "General_Uskhal_Shoulder_Left_Top": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Uskhal/General_Uskhal_Shoulder_Left_Top.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 131,
+        "h": 89,
+        "rx": 934,
+        "ry": 955
+      }
+    ],
+    "fx": []
+  },
+  "General_Uskhal_Shoulder_Right_Top": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Uskhal/General_Uskhal_Shoulder_Right_Top.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 96,
+        "rx": 944,
+        "ry": 952
+      }
+    ],
+    "fx": []
+  },
+  "General_Uskhal_Torso": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Uskhal/General_Uskhal_Torso.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 201,
+        "h": 228,
+        "rx": 899,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
+  "General_Uskhal_Trousers": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Uskhal/General_Uskhal_Trousers.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 303,
+        "h": 215,
+        "rx": 848,
+        "ry": 892
       }
     ],
     "fx": []
@@ -43656,7 +47061,7 @@
     "fx": []
   },
   "General_WolfKing_Armor_Bottom_Left": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Armor_Bottom_Left.png",
     "frames": [
       {
@@ -43671,7 +47076,7 @@
     "fx": []
   },
   "General_WolfKing_Bag": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Bag.png",
     "frames": [
       {
@@ -43686,7 +47091,7 @@
     "fx": []
   },
   "General_WolfKing_Belt": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Belt.png",
     "frames": [
       {
@@ -43701,7 +47106,7 @@
     "fx": []
   },
   "General_WolfKing_Cloak": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Cloak.png",
     "frames": [
       {
@@ -43716,7 +47121,7 @@
     "fx": []
   },
   "General_WolfKing_Elbow_Right": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Elbow_Right.png",
     "frames": [
       {
@@ -43731,7 +47136,7 @@
     "fx": []
   },
   "General_WolfKing_Foot_Left": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Foot_Left.png",
     "frames": [
       {
@@ -43746,7 +47151,7 @@
     "fx": []
   },
   "General_WolfKing_Foot_Right": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Foot_Right.png",
     "frames": [
       {
@@ -43761,7 +47166,7 @@
     "fx": []
   },
   "General_WolfKing_Fur_Left": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Fur_Left.png",
     "frames": [
       {
@@ -43776,7 +47181,7 @@
     "fx": []
   },
   "General_WolfKing_Fur_Right": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Fur_Right.png",
     "frames": [
       {
@@ -43791,7 +47196,7 @@
     "fx": []
   },
   "General_WolfKing_Hand_Left": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Hand_Left.png",
     "frames": [
       {
@@ -43806,7 +47211,7 @@
     "fx": []
   },
   "General_WolfKing_Hand_Right": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Hand_Right.png",
     "frames": [
       {
@@ -43821,7 +47226,7 @@
     "fx": []
   },
   "General_WolfKing_Head": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Head.png",
     "frames": [
       {
@@ -43836,7 +47241,7 @@
     "fx": []
   },
   "General_WolfKing_Leg_Left": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Leg_Left.png",
     "frames": [
       {
@@ -43851,7 +47256,7 @@
     "fx": []
   },
   "General_WolfKing_Leg_Right": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Leg_Right.png",
     "frames": [
       {
@@ -43866,7 +47271,7 @@
     "fx": []
   },
   "General_WolfKing_Shoulder_Left": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Shoulder_Left.png",
     "frames": [
       {
@@ -43881,7 +47286,7 @@
     "fx": []
   },
   "General_WolfKing_Shoulder_Right": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Shoulder_Right.png",
     "frames": [
       {
@@ -43896,7 +47301,7 @@
     "fx": []
   },
   "General_WolfKing_Stone": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Stone.png",
     "frames": [
       {
@@ -43911,7 +47316,7 @@
     "fx": []
   },
   "General_WolfKing_Sword_Shadow": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Sword_Shadow.png",
     "frames": [
       {
@@ -43926,7 +47331,7 @@
     "fx": []
   },
   "General_WolfKing_Torso": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/General_Wolfking/General_WolfKing_Torso.png",
     "frames": [
       {
@@ -43940,8 +47345,533 @@
     ],
     "fx": []
   },
+  "General_Yigris_Arm_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Yigris/General_Yigris_Arm_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 246,
+        "rx": 971,
+        "ry": 877
+      }
+    ],
+    "fx": []
+  },
+  "General_Yigris_Arm_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Yigris/General_Yigris_Arm_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 73,
+        "h": 159,
+        "rx": 963,
+        "ry": 920
+      }
+    ],
+    "fx": []
+  },
+  "General_Yigris_Boots": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Yigris/General_Yigris_Boots.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 231,
+        "h": 142,
+        "rx": 884,
+        "ry": 929
+      }
+    ],
+    "fx": []
+  },
+  "General_Yigris_Bracelet": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Yigris/General_Yigris_Bracelet.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 43,
+        "h": 40,
+        "rx": 978,
+        "ry": 980
+      }
+    ],
+    "fx": []
+  },
+  "General_Yigris_Chest": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Yigris/General_Yigris_Chest.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 93,
+        "h": 108,
+        "rx": 953,
+        "ry": 946
+      }
+    ],
+    "fx": []
+  },
+  "General_Yigris_Coat": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Yigris/General_Yigris_Coat.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 207,
+        "h": 411,
+        "rx": 896,
+        "ry": 794
+      }
+    ],
+    "fx": []
+  },
+  "General_Yigris_Colar": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Yigris/General_Yigris_Colar.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 109,
+        "h": 181,
+        "rx": 945,
+        "ry": 909
+      }
+    ],
+    "fx": []
+  },
+  "General_Yigris_Dagger": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Yigris/General_Yigris_Dagger.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 36,
+        "h": 99,
+        "rx": 999,
+        "ry": 904
+      }
+    ],
+    "fx": []
+  },
+  "General_Yigris_Face": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Yigris/General_Yigris_Face.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 58,
+        "h": 71,
+        "rx": 968,
+        "ry": 937
+      }
+    ],
+    "fx": []
+  },
+  "General_Yigris_Feather_Back_1": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Yigris/General_Yigris_Feather_Back_1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 31,
+        "h": 26,
+        "rx": 994,
+        "ry": 981
+      }
+    ],
+    "fx": []
+  },
+  "General_Yigris_Feather_Back_2": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Yigris/General_Yigris_Feather_Back_2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 36,
+        "h": 21,
+        "rx": 987,
+        "ry": 987
+      }
+    ],
+    "fx": []
+  },
+  "General_Yigris_Feather_Back_3": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Yigris/General_Yigris_Feather_Back_3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 38,
+        "rx": 997,
+        "ry": 996
+      }
+    ],
+    "fx": []
+  },
+  "General_Yigris_Feather_Front_1": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Yigris/General_Yigris_Feather_Front_1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 40,
+        "h": 27,
+        "rx": 989,
+        "ry": 979
+      }
+    ],
+    "fx": []
+  },
+  "General_Yigris_Feather_Front_2": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Yigris/General_Yigris_Feather_Front_2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 38,
+        "h": 41,
+        "rx": 995,
+        "ry": 994
+      }
+    ],
+    "fx": []
+  },
+  "General_Yigris_Feathers_Group_Back": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Yigris/General_Yigris_Feathers_Group_Back.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 84,
+        "rx": 972,
+        "ry": 958
+      }
+    ],
+    "fx": []
+  },
+  "General_Yigris_Feathers_Group_Front": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Yigris/General_Yigris_Feathers_Group_Front.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 63,
+        "h": 141,
+        "rx": 968,
+        "ry": 929
+      }
+    ],
+    "fx": []
+  },
+  "General_Yigris_Flask_1": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Yigris/General_Yigris_Flask_1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 58,
+        "rx": 950,
+        "ry": 984
+      }
+    ],
+    "fx": []
+  },
+  "General_Yigris_Flask_2": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Yigris/General_Yigris_Flask_2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 58,
+        "rx": 956,
+        "ry": 987
+      }
+    ],
+    "fx": []
+  },
+  "General_Yigris_Forearm_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Yigris/General_Yigris_Forearm_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 42,
+        "rx": 982,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "General_Yigris_Hair": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Yigris/General_Yigris_Hair.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 71,
+        "h": 76,
+        "rx": 979,
+        "ry": 978
+      }
+    ],
+    "fx": []
+  },
+  "General_Yigris_Hand_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Yigris/General_Yigris_Hand_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 41,
+        "h": 55,
+        "rx": 979,
+        "ry": 977
+      }
+    ],
+    "fx": []
+  },
+  "General_Yigris_Lace": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Yigris/General_Yigris_Lace.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 63,
+        "h": 89,
+        "rx": 968,
+        "ry": 955
+      }
+    ],
+    "fx": []
+  },
+  "General_Yigris_Leg_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Yigris/General_Yigris_Leg_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 49,
+        "h": 183,
+        "rx": 975,
+        "ry": 908
+      }
+    ],
+    "fx": []
+  },
+  "General_Yigris_Leg_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Yigris/General_Yigris_Leg_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 74,
+        "h": 119,
+        "rx": 963,
+        "ry": 940
+      }
+    ],
+    "fx": []
+  },
+  "General_Yigris_Neck_Back": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Yigris/General_Yigris_Neck_Back.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 61,
+        "h": 64,
+        "rx": 969,
+        "ry": 968
+      }
+    ],
+    "fx": []
+  },
+  "General_Yigris_Ring_Back_1": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Yigris/General_Yigris_Ring_Back_1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 17,
+        "h": 46,
+        "rx": 994,
+        "ry": 995
+      }
+    ],
+    "fx": []
+  },
+  "General_Yigris_Ring_Back_2": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Yigris/General_Yigris_Ring_Back_2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 11,
+        "h": 43,
+        "rx": 994,
+        "ry": 997
+      }
+    ],
+    "fx": []
+  },
+  "General_Yigris_Ring_Back_3": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Yigris/General_Yigris_Ring_Back_3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 5,
+        "h": 45,
+        "rx": 997,
+        "ry": 997
+      }
+    ],
+    "fx": []
+  },
+  "General_Yigris_Ring_Front_1": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Yigris/General_Yigris_Ring_Front_1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 20,
+        "h": 48,
+        "rx": 985,
+        "ry": 994
+      }
+    ],
+    "fx": []
+  },
+  "General_Yigris_Ring_Front_2": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Yigris/General_Yigris_Ring_Front_2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 15,
+        "h": 45,
+        "rx": 992,
+        "ry": 996
+      }
+    ],
+    "fx": []
+  },
+  "General_Yigris_Ring_Front_3": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Yigris/General_Yigris_Ring_Front_3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 11,
+        "h": 47,
+        "rx": 994,
+        "ry": 996
+      }
+    ],
+    "fx": []
+  },
+  "General_Yigris_Scabbard": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Yigris/General_Yigris_Scabbard.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 23,
+        "h": 41,
+        "rx": 988,
+        "ry": 979
+      }
+    ],
+    "fx": []
+  },
+  "General_Yigris_Shadow": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Yigris/General_Yigris_Shadow.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 295,
+        "h": 16,
+        "rx": 858,
+        "ry": 992
+      }
+    ],
+    "fx": []
+  },
+  "General_Yigris_Skirt": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Yigris/General_Yigris_Skirt.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 167,
+        "h": 199,
+        "rx": 916,
+        "ry": 900
+      }
+    ],
+    "fx": []
+  },
+  "General_Yigris_Waist": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Yigris/General_Yigris_Waist.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 109,
+        "h": 75,
+        "rx": 945,
+        "ry": 962
+      }
+    ],
+    "fx": []
+  },
   "Background_Generals_Overview_AlienGeneral": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_AlienGeneral.png",
     "frames": [
       {
@@ -43956,7 +47886,7 @@
     "fx": []
   },
   "Background_Generals_Overview_Alyssa": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Alyssa.png",
     "frames": [
       {
@@ -43971,22 +47901,22 @@
     "fx": []
   },
   "Background_Generals_Overview_BabaVarjuka": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_BabaVarjuka.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
-        "w": 1210,
+        "w": 1211,
         "h": 1217,
-        "rx": 999,
+        "rx": 998,
         "ry": 999
       }
     ],
     "fx": []
   },
   "Background_Generals_Overview_BlueGeneral": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_BlueGeneral.png",
     "frames": [
       {
@@ -44001,7 +47931,7 @@
     "fx": []
   },
   "Background_Generals_Overview_BottomDeco": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_BottomDeco.png",
     "frames": [
       {
@@ -44016,7 +47946,7 @@
     "fx": []
   },
   "Background_Generals_Overview_BottomLine": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_BottomLine.png",
     "frames": [
       {
@@ -44031,7 +47961,7 @@
     "fx": []
   },
   "Background_Generals_Overview_Horatio": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Horatio.png",
     "frames": [
       {
@@ -44046,7 +47976,7 @@
     "fx": []
   },
   "Background_Generals_Overview_KingOlafson": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_KingOlafson.png",
     "frames": [
       {
@@ -44061,7 +47991,7 @@
     "fx": []
   },
   "Background_Generals_Overview_Leo": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Leo.png",
     "frames": [
       {
@@ -44076,7 +48006,7 @@
     "fx": []
   },
   "Background_Generals_Overview_NoGeneral": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_NoGeneral.png",
     "frames": [
       {
@@ -44091,7 +48021,7 @@
     "fx": []
   },
   "Background_Generals_Overview_Preview_Alice": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_Alice.png",
     "frames": [
       {
@@ -44106,7 +48036,7 @@
     "fx": []
   },
   "Background_Generals_Overview_Preview_AlienGeneral": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_AlienGeneral.png",
     "frames": [
       {
@@ -44121,7 +48051,7 @@
     "fx": []
   },
   "Background_Generals_Overview_Preview_Alyssa": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_Alyssa.png",
     "frames": [
       {
@@ -44135,8 +48065,23 @@
     ],
     "fx": []
   },
+  "Background_Generals_Overview_Preview_BabaVarjuka": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_BabaVarjuka.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1211,
+        "h": 1217,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
   "Background_Generals_Overview_Preview_BlueGeneral": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_BlueGeneral.png",
     "frames": [
       {
@@ -44151,7 +48096,7 @@
     "fx": []
   },
   "Background_Generals_Overview_Preview_Horatio": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_Horatio.png",
     "frames": [
       {
@@ -44166,7 +48111,7 @@
     "fx": []
   },
   "Background_Generals_Overview_Preview_KingOlafson": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_KingOlafson.png",
     "frames": [
       {
@@ -44181,7 +48126,7 @@
     "fx": []
   },
   "Background_Generals_Overview_Preview_Leo": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_Leo.png",
     "frames": [
       {
@@ -44196,7 +48141,7 @@
     "fx": []
   },
   "Background_Generals_Overview_Preview_RedGeneral": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_RedGeneral.png",
     "frames": [
       {
@@ -44211,7 +48156,7 @@
     "fx": []
   },
   "Background_Generals_Overview_Preview_RobberBaron": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_RobberBaron.png",
     "frames": [
       {
@@ -44226,7 +48171,7 @@
     "fx": []
   },
   "Background_Generals_Overview_Preview_SamuraiGeneral": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_SamuraiGeneral.png",
     "frames": [
       {
@@ -44241,7 +48186,7 @@
     "fx": []
   },
   "Background_Generals_Overview_Preview_Sasaki": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_Sasaki.png",
     "frames": [
       {
@@ -44256,7 +48201,7 @@
     "fx": []
   },
   "Background_Generals_Overview_Preview_SultanAlKillah": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_SultanAlKillah.png",
     "frames": [
       {
@@ -44271,7 +48216,7 @@
     "fx": []
   },
   "Background_Generals_Overview_Preview_Tom": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_Tom.png",
     "frames": [
       {
@@ -44286,7 +48231,7 @@
     "fx": []
   },
   "Background_Generals_Overview_Preview_Toril": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_Toril.png",
     "frames": [
       {
@@ -44301,22 +48246,22 @@
     "fx": []
   },
   "Background_Generals_Overview_Preview_Uskhal": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_Uskhal.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
-        "w": 1212,
+        "w": 1211,
         "h": 1217,
-        "rx": 998,
+        "rx": 999,
         "ry": 999
       }
     ],
     "fx": []
   },
   "Background_Generals_Overview_Preview_WolfKing": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_WolfKing.png",
     "frames": [
       {
@@ -44331,7 +48276,7 @@
     "fx": []
   },
   "Background_Generals_Overview_Preview_Yigris": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_Yigris.png",
     "frames": [
       {
@@ -44346,7 +48291,7 @@
     "fx": []
   },
   "Background_Generals_Overview_RedGeneral": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_RedGeneral.png",
     "frames": [
       {
@@ -44361,7 +48306,7 @@
     "fx": []
   },
   "Background_Generals_Overview_RobberBaron": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_RobberBaron.png",
     "frames": [
       {
@@ -44376,7 +48321,7 @@
     "fx": []
   },
   "Background_Generals_Overview_SamuraiGeneral": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_SamuraiGeneral.png",
     "frames": [
       {
@@ -44391,7 +48336,7 @@
     "fx": []
   },
   "Background_Generals_Overview_Sasaki": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Sasaki.png",
     "frames": [
       {
@@ -44406,7 +48351,7 @@
     "fx": []
   },
   "Background_Generals_Overview_SultanAlKillah": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_SultanAlKillah.png",
     "frames": [
       {
@@ -44421,7 +48366,7 @@
     "fx": []
   },
   "Background_Generals_Overview_Toril": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Toril.png",
     "frames": [
       {
@@ -44436,7 +48381,7 @@
     "fx": []
   },
   "Background_Generals_Overview_Uskhal": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Uskhal.png",
     "frames": [
       {
@@ -44451,7 +48396,7 @@
     "fx": []
   },
   "Background_Generals_Overview_WolfKing": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_WolfKing.png",
     "frames": [
       {
@@ -44466,7 +48411,7 @@
     "fx": []
   },
   "Background_Generals_Overview_Yigris": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Yigris.png",
     "frames": [
       {
@@ -44481,7 +48426,7 @@
     "fx": []
   },
   "Knight_Arm_Right": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/Knight/Knight_Arm_Right.png",
     "frames": [
       {
@@ -44496,7 +48441,7 @@
     "fx": []
   },
   "Knight_Body": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/Knight/Knight_Body.png",
     "frames": [
       {
@@ -44511,7 +48456,7 @@
     "fx": []
   },
   "Knight_Fabric": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/Knight/Knight_Fabric.png",
     "frames": [
       {
@@ -44526,7 +48471,7 @@
     "fx": []
   },
   "Knight_Face": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/Knight/Knight_Face.png",
     "frames": [
       {
@@ -44541,7 +48486,7 @@
     "fx": []
   },
   "Knight_Forearm_Right": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/Knight/Knight_Forearm_Right.png",
     "frames": [
       {
@@ -44556,7 +48501,7 @@
     "fx": []
   },
   "Knight_Hand_Right": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/Knight/Knight_Hand_Right.png",
     "frames": [
       {
@@ -44571,7 +48516,7 @@
     "fx": []
   },
   "Knight_Idle": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/Knight/Knight_Idle.png",
     "frames": [
       {
@@ -44586,7 +48531,7 @@
     "fx": []
   },
   "Knight_Legs": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/Knight/Knight_Legs.png",
     "frames": [
       {
@@ -44601,7 +48546,7 @@
     "fx": []
   },
   "Princess_Arm_Right": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/Princess/Princess_Arm_Right.png",
     "frames": [
       {
@@ -44616,7 +48561,7 @@
     "fx": []
   },
   "Princess_Chest": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/Princess/Princess_Chest.png",
     "frames": [
       {
@@ -44631,7 +48576,7 @@
     "fx": []
   },
   "Princess_Eye_Right": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/Princess/Princess_Eye_Right.png",
     "frames": [
       {
@@ -44646,7 +48591,7 @@
     "fx": []
   },
   "Princess_Fabric": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/Princess/Princess_Fabric.png",
     "frames": [
       {
@@ -44661,7 +48606,7 @@
     "fx": []
   },
   "Princess_Face": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/Princess/Princess_Face.png",
     "frames": [
       {
@@ -44676,7 +48621,7 @@
     "fx": []
   },
   "Princess_Foot": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/Princess/Princess_Foot.png",
     "frames": [
       {
@@ -44691,7 +48636,7 @@
     "fx": []
   },
   "Princess_Forearm_Right": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/Princess/Princess_Forearm_Right.png",
     "frames": [
       {
@@ -44706,7 +48651,7 @@
     "fx": []
   },
   "Princess_Idle": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/Princess/Princess_Idle.png",
     "frames": [
       {
@@ -44721,7 +48666,7 @@
     "fx": []
   },
   "Princess_Legs": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Characters/Generals/Princess/Princess_Legs.png",
     "frames": [
       {
@@ -107251,7 +111196,7 @@
     ]
   },
   "Background_GeneralsHub_Back": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Misc/DialogBackgrounds/Background_GeneralsHub_Back.png",
     "frames": [
       {
@@ -107266,7 +111211,7 @@
     "fx": []
   },
   "Background_GeneralsHub_BackLight": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Misc/DialogBackgrounds/Background_GeneralsHub_BackLight.png",
     "frames": [
       {
@@ -107281,7 +111226,7 @@
     "fx": []
   },
   "Background_GeneralsHub_BottomTiles": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Misc/DialogBackgrounds/Background_GeneralsHub_BottomTiles.png",
     "frames": [
       {
@@ -107296,7 +111241,7 @@
     "fx": []
   },
   "Background_GeneralsHub_Door": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Misc/DialogBackgrounds/Background_GeneralsHub_Door.png",
     "frames": [
       {
@@ -107311,7 +111256,7 @@
     "fx": []
   },
   "Background_GeneralsHub_Front": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Misc/DialogBackgrounds/Background_GeneralsHub_Front.png",
     "frames": [
       {
@@ -107326,7 +111271,7 @@
     "fx": []
   },
   "Background_GeneralsHub_FrontLight": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Misc/DialogBackgrounds/Background_GeneralsHub_FrontLight.png",
     "frames": [
       {
@@ -107341,7 +111286,7 @@
     "fx": []
   },
   "Background_GeneralsHub_Scenery_Barrels": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Misc/DialogBackgrounds/Background_GeneralsHub_Scenery_Barrels.png",
     "frames": [
       {
@@ -107356,7 +111301,7 @@
     "fx": []
   },
   "Background_GeneralsHub_Scenery_Bottom": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Misc/DialogBackgrounds/Background_GeneralsHub_Scenery_Bottom.png",
     "frames": [
       {
@@ -107371,7 +111316,7 @@
     "fx": []
   },
   "Background_GeneralsHub_Scenery_Ceiling": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Misc/DialogBackgrounds/Background_GeneralsHub_Scenery_Ceiling.png",
     "frames": [
       {
@@ -107386,7 +111331,7 @@
     "fx": []
   },
   "Background_GeneralsHub_Scenery_Chandelier": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Misc/DialogBackgrounds/Background_GeneralsHub_Scenery_Chandelier.png",
     "frames": [
       {
@@ -107401,7 +111346,7 @@
     "fx": []
   },
   "Background_GeneralsHub_Scenery_Top": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Misc/DialogBackgrounds/Background_GeneralsHub_Scenery_Top.png",
     "frames": [
       {
@@ -107416,7 +111361,7 @@
     "fx": []
   },
   "Background_GeneralsHub_Soldiers": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Misc/DialogBackgrounds/Background_GeneralsHub_Soldiers.png",
     "frames": [
       {
@@ -107431,7 +111376,7 @@
     "fx": []
   },
   "Background_GeneralsHub_TopTiles": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Misc/DialogBackgrounds/Background_GeneralsHub_TopTiles.png",
     "frames": [
       {
@@ -107446,7 +111391,7 @@
     "fx": []
   },
   "Background_GeneralsHub_WoodenFrame": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Misc/DialogBackgrounds/Background_GeneralsHub_WoodenFrame.png",
     "frames": [
       {
@@ -107461,7 +111406,7 @@
     "fx": []
   },
   "Background_GeneralsHub": {
-    "pid": 0,
+    "pid": 1,
     "url": "x384/Misc/DialogBackgrounds/Background_GeneralsHub.png",
     "frames": [
       {
@@ -107756,6 +111701,36 @@
         "h": 520,
         "rx": 810,
         "ry": 740
+      }
+    ],
+    "fx": []
+  },
+  "teaser_crossplay_starter_rankSwap": {
+    "pid": 0,
+    "url": "x384/Misc/EventTeasers/teaser_crossplay_starter_rankSwap.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 769,
+        "h": 656,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "teaser_crossplay_starter": {
+    "pid": 0,
+    "url": "x384/Misc/EventTeasers/teaser_crossplay_starter.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 769,
+        "h": 656,
+        "rx": 999,
+        "ry": 999
       }
     ],
     "fx": []
@@ -108675,9 +112650,39 @@
     ],
     "fx": []
   },
+  "teaser_tempserver_crossplay_1_rankSwap": {
+    "pid": 0,
+    "url": "x384/Misc/EventTeasers/teaser_tempserver_crossplay_1_rankSwap.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 769,
+        "h": 207,
+        "rx": 615,
+        "ry": 896
+      }
+    ],
+    "fx": []
+  },
   "teaser_tempserver_crossplay_1": {
     "pid": 0,
     "url": "x384/Misc/EventTeasers/teaser_tempserver_crossplay_1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 769,
+        "h": 207,
+        "rx": 615,
+        "ry": 896
+      }
+    ],
+    "fx": []
+  },
+  "teaser_tempserver_crossplay_3_rankSwap": {
+    "pid": 0,
+    "url": "x384/Misc/EventTeasers/teaser_tempserver_crossplay_3_rankSwap.png",
     "frames": [
       {
         "x": 0,
@@ -108705,6 +112710,21 @@
     ],
     "fx": []
   },
+  "teaser_tempserver_crossplay_end_rankSwap": {
+    "pid": 0,
+    "url": "x384/Misc/EventTeasers/teaser_tempserver_crossplay_end_rankSwap.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 208,
+        "rx": 694,
+        "ry": 896
+      }
+    ],
+    "fx": []
+  },
   "teaser_tempserver_crossplay_end": {
     "pid": 0,
     "url": "x384/Misc/EventTeasers/teaser_tempserver_crossplay_end.png",
@@ -108715,6 +112735,21 @@
         "w": 611,
         "h": 208,
         "rx": 694,
+        "ry": 896
+      }
+    ],
+    "fx": []
+  },
+  "teaser_tempserver_crossplay_introduction_rankSwap": {
+    "pid": 0,
+    "url": "x384/Misc/EventTeasers/teaser_tempserver_crossplay_introduction_rankSwap.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 771,
+        "h": 207,
+        "rx": 614,
         "ry": 896
       }
     ],
@@ -108731,6 +112766,21 @@
         "h": 207,
         "rx": 614,
         "ry": 896
+      }
+    ],
+    "fx": []
+  },
+  "teaser_tempserver_crossplay_overview_rankSwap": {
+    "pid": 0,
+    "url": "x384/Misc/EventTeasers/teaser_tempserver_crossplay_overview_rankSwap.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 381,
+        "h": 221,
+        "rx": 809,
+        "ry": 889
       }
     ],
     "fx": []
@@ -110259,6 +114309,21 @@
         "y": 0,
         "w": 769,
         "h": 207,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "research_categories_bg_1": {
+    "pid": 0,
+    "url": "x384/Misc/MiscellaneousShared/research_categories_bg_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 769,
+        "h": 291,
         "rx": 999,
         "ry": 999
       }
@@ -112171,6 +116236,36 @@
     "fx": []
   },
   "teaser_tempserver_crossplay_2": {
+    "pid": 0,
+    "url": "x384/Misc/TeasersShared/teaser_tempserver_2_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 770,
+        "h": 208,
+        "rx": 615,
+        "ry": 896
+      }
+    ],
+    "fx": []
+  },
+  "teaser_tempserver_crossplay_rankSwap_2": {
+    "pid": 0,
+    "url": "x384/Misc/TeasersShared/teaser_tempserver_2_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 770,
+        "h": 208,
+        "rx": 615,
+        "ry": 896
+      }
+    ],
+    "fx": []
+  },
+  "teaser_tempserver_crossplay_2_rankSwap": {
     "pid": 0,
     "url": "x384/Misc/TeasersShared/teaser_tempserver_2_Shared.png",
     "frames": [

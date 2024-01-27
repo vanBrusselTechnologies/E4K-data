@@ -48863,7 +48863,8 @@
       "rewardID": 7859,
       "comment1": "Reward 45",
       "comment2": "Activity Reward Ice Nov. 2022",
-      "addIceLTPEToken": 1000
+      "addIceLTPEToken": 1000,
+      "addSasakiToken": 1
     },
     {
       "rewardID": 7860,
@@ -49358,7 +49359,8 @@
       "rewardID": 7940,
       "comment1": "Reward 45",
       "comment2": "Activity Reward Xmas 2022",
-      "addXmasLTPEToken": 1000
+      "addXmasLTPEToken": 1000,
+      "addSasakiToken": 1
     },
     {
       "rewardID": 7941,
@@ -52437,6 +52439,69 @@
       "comment1": "TopX2",
       "comment2": "Lvl 50-69",
       "addXmasLTPEToken": 7500,
+      "addLegendaryMaterial": 300
+    },
+    {
+      "rewardID": 8436,
+      "comment1": "Ice January Top1",
+      "comment2": "Lvl 870",
+      "addSceatToken": 500,
+      "decoWodID": 2860
+    },
+    {
+      "rewardID": 8437,
+      "comment1": "TopX1",
+      "comment2": "Lvl 870",
+      "addLegendaryToken": 250,
+      "constructionItemIDs": 31460
+    },
+    {
+      "rewardID": 8438,
+      "comment1": "TopX2",
+      "comment2": "Lvl 870",
+      "addIceLTPEToken": 7500,
+      "addLegendaryMaterial": 500
+    },
+    {
+      "rewardID": 8439,
+      "comment1": "Top1",
+      "comment2": "Lvl 70-869",
+      "addSceatToken": 300,
+      "decoWodID": 2853
+    },
+    {
+      "rewardID": 8440,
+      "comment1": "TopX1",
+      "comment2": "Lvl 70-869",
+      "addLegendaryToken": 200,
+      "constructionItemIDs": 31460
+    },
+    {
+      "rewardID": 8441,
+      "comment1": "TopX2",
+      "comment2": "Lvl 70-869",
+      "addIceLTPEToken": 7500,
+      "addLegendaryMaterial": 400
+    },
+    {
+      "rewardID": 8442,
+      "comment1": "Top1",
+      "comment2": "Lvl 50-69",
+      "constructionItemIDs": 31460,
+      "decoWodID": 2853
+    },
+    {
+      "rewardID": 8443,
+      "comment1": "TopX1",
+      "comment2": "Lvl 50-69",
+      "addLegendaryToken": 150,
+      "addSasakiToken": 1
+    },
+    {
+      "rewardID": 8444,
+      "comment1": "TopX2",
+      "comment2": "Lvl 50-69",
+      "addIceLTPEToken": 7500,
       "addLegendaryMaterial": 300
     },
     {

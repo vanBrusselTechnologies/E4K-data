@@ -642,6 +642,7 @@ export interface Building {
     "costLegendaryMaterial"?: number;
     "costLegendaryToken"?: number;
     "costOil"?: number;
+    "costSceatToken"?: number;
     "costStone"?: number;
     "costWood"?: number;
     "craftingQueueId"?: number;
