@@ -1892,7 +1892,11 @@
     "ci_appearance_xmasStronghold_flavour": "När dagarna blir kortare hjälper starka väggar och heta drycker att stå emot kylan, vilket höjer soldaternas stämning.",
     "deco_christmasCarousel_name": "Vinterkarusellen",
     "deco_christmasKiosqueFountain_name": "Vinterbrunn",
-    "deco_xmasGluhweinStand_name": "Vintergåvostånd"
+    "deco_xmasGluhweinStand_name": "Vintergåvostånd",
+    "deco_DessertKingdomScorpionTomb_name": "Upphöjt skorpiontempel",
+    "deco_FireKingdomMoltenGiant_name": "Upphöjd jätteplåga",
+    "deco_GreenKingdomGoddessOfNature_name": "Upphöjd naturgudinna",
+    "deco_IceKingdomDragonBones_name": "Förhöjda drakben"
   },
   "dialogs": {
     "dialog_festival_desc": "Använd mat för att anordna en fest för dina medborgare! Rekryteringshastigheten ökar betydligt i alla dina slott så länge festen försiggår. Ju större festen är, desto större effekt.",
@@ -11834,7 +11838,7 @@
     "webshop_decoWithEffects_food_desc": "Ökar ordningen i ditt slott↵+{0} matproduktion↵+{1} kapacitet för matförvaring↵Maximalt {2} per område",
     "webshop_decoWithEffects_marketBarrows_desc": "Ökar ordningen i ditt slott↵+{0} marknadsvagnskapacitet↵+{1}% marknadsvagnars färdhastighet↵Max {2} per område",
     "webshop_decoWithEffects_recruitmentCost_desc": "Ökar ordningen i ditt slott↵Minskar kostnaden för alla trupper med {0} %↵Max {2} per område",
-    "webshop_decoWithEffects_recruitmentSpeed_desc": "Ökar ordningen i ditt slott↵Förbättrar produktionshastigheten för alla enheter med {0}%↵Max {2} per område",
+    "webshop_decoWithEffects_recruitmentSpeed_desc": "Ökar ordningen i ditt slott\nÖkar hastigheten på all enhetsproduktion med {0}%\nMaximalt {2} per område",
     "webshop_decoWithEffects_toolProduction_desc": "Ökar ordningen i ditt slott↵+{0} % på alla verktygsproduktioners hastighet per område↵Max {2} per område",
     "effect_name_allianceDefenseUnitAmountYardBonus": "Bonus till understödstroppskapacitet för allianser",
     "effect_name_attackUnitAmountFlank": "Bonus för enhetsgräns på sidorna vid anfall",
@@ -11844,7 +11848,7 @@
     "minigameFeat_leave_description": "Vill du verkligen gå ut?",
     "minigameFeat_leave_header": "Är du säker?",
     "minigameFeat_win_again": "Börja om",
-    "minigameFeat_win_next": "Nästa",
+    "minigameFeat_win_next": "Fortsätt",
     "webshop_offerExpires": "Det här erbjudandet går ut om {0}",
     "dialog_tempServer_start_desc1_desc_crossplay": "• Tävla mot spelare från hela världen på en ny evenemangsserver via webben eller mobilen\n• Samla dagliga rankingpoäng för att tjäna värdefulla belöningar\n• För eld och förödelse till dina fiender och välstånd till ditt folk",
     "dialog_tempServer_start_desc2_desc_crossplay": "• Slåss mot och vid sidan av nya grannar du kanske aldrig har sett förut\n• Skapa nya allianser och handelsmöjligheter\n• Härskar över ditt slott i ett land fritt från diplomatiska bojor",
@@ -11915,7 +11919,9 @@
       "Baba Varjúka"
     ],
     "minigameFeat_hud_desc": "Spela våra småspel och hjälp Diana.",
-    "minigameFeat_hud_header": "Utmaningen för bågskytt"
+    "minigameFeat_hud_header": "Utmaningen för bågskytt",
+    "dialog_event_announcement_description_277": "En ny Crossplay-tävling kallar på dig!\nGå med i striden om tronen tillsammans med andra drottningar och kungar från Goodgame Empire OCH Empire: Four Kingdoms. Är du redo för denna nya utmaning? Erobra nya och unika belöningar i din kamp om kronan. Anslut dig nu!",
+    "tut_secondQuestConfirmPlacement_minigame_copy": "Bekräfta byggnadens läge. Du kan omlokalisera den senare.\n\nVar beredd, fiender kommer att försöka stoppa bygget! Bara säg till, så kommer jag och min pålitliga båge att kämpa bort dem!"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0} % resehastighet för armén under erövringar",
@@ -12991,7 +12997,29 @@
     "effect_name_recruitmentCostDecreaseAll": "Minskning av rekryteringsmyntkostnad",
     "effect_name_recruitmentSpeedBoostAll": "Hastighetsbonus på rekryteringar",
     "effect_name_toolProductionSpeedBoostAll": "Verktygsproduktionshastighetsbonus",
-    "effect_name_unboostedHoneyProduction": "Bonus till timvis honungsproduktion"
+    "effect_name_unboostedHoneyProduction": "Bonus till timvis honungsproduktion",
+    "effect_name_ironProductionBoost": "Bonus till järnproduktion i slott",
+    "effect_name_stoneProductionBoost": "Bonus till slottets stenproduktion",
+    "effect_name_foodProductionBoost": "Bonusproduktion av mat i slottet",
+    "effect_name_coalProductionBoost": "Bonus på kolutgång i slottet",
+    "effect_name_foodProductionBoostDesert": "Bonus till matproduktion i Brinnande sandens slott",
+    "effect_name_foodProductionBoostFire": "Bonus till livsmedelsproduktion i Eldtopps slott",
+    "effect_name_foodProductionBoostIce": "Bonus till matproduktion i ett slott på Den eviga glaciären",
+    "effect_name_foodProductionBoostMain": "Bonus till livsmedelsproduktion i Storrikets borg",
+    "effect_name_glassProductionBoost": "Bonus till glastillverkning i slott",
+    "effect_name_meadCapacityBonusBaronEconomy": "Bonus till mjödlager i slott",
+    "effect_name_oilProductionBoost": "Bonus till produktion av olivolja i slottet",
+    "effect_name_stoneProductionBoostDesert": "Bonus till stenproduktion i Brinnande sand-slott",
+    "effect_name_stoneProductionBoostFire": "Bonus till stenproduktion i Eldberga-slott",
+    "effect_name_stoneProductionBoostIce": "Bonus till produktion av sten i en borg i Evig Vinter",
+    "effect_name_stoneProductionBoostMain": "Bonus till stenproduktion i ett Storrikets slott",
+    "effect_name_unboostedMeadProduction": "Bonus till mjödproduktion i slott",
+    "effect_name_woodProductionBoostDesert": "Bonus till träproduktion i Brinnande Sandens slott",
+    "effect_name_woodProductionBoostFire": "Bonus till träproduktion i Eldtoppslott",
+    "effect_name_woodProductionBoostIce": "Bonus till träproduktion i Everwinter Glacier slottet",
+    "effect_name_woodProductionBoostMain": "Bonus till träproduktion i Storrikets slott",
+    "effect_name_woodProductionBoost": "Bonus till träproduktion i slott",
+    "effect_name_foodProductionBoostBaronEconomy": "Bonusproduktion av mat i slottet"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Hjälte",
@@ -18711,7 +18739,8 @@
     "currency_description_dragonriderLTPEToken": "Denna symbol är gjord av dyrbart rödguld som smälts i drakeld. Byt den mot belöningar hos mästarsmeden under en begränsad tid.",
     "currency_name_dragonriderLTPEToken": "Eldwyrmmärken",
     "filters_category_116": "Eldwyrmmärken",
-    "target_placeholder": "Mål: {0}"
+    "target_placeholder": "Mål: {0}",
+    "changed": "Ändrad"
   },
   "help": {
     "help_location": "Här har du en global översikt över ditt slotts viktiga innehåll och alla dina utposter.",

@@ -1892,7 +1892,11 @@
     "ci_appearance_xmasStronghold_flavour": "Günler kısaldığında, sağlam duvarlar ve sıcak içecekler soğuğu dışarıda tutarak askerlerin morallerini yükseltir.",
     "deco_christmasCarousel_name": "Kış dönme dolabı",
     "deco_christmasKiosqueFountain_name": "Kışlık Fıskiye",
-    "deco_xmasGluhweinStand_name": "Kışlık Hediyeler Tezgahı"
+    "deco_xmasGluhweinStand_name": "Kışlık Hediyeler Tezgahı",
+    "deco_DessertKingdomScorpionTomb_name": "Yüce akrep tapınağı",
+    "deco_FireKingdomMoltenGiant_name": "Yüce Devin Azabı",
+    "deco_GreenKingdomGoddessOfNature_name": "Mübarek doğa tanrıçası",
+    "deco_IceKingdomDragonBones_name": "Ulu Ejderha Kemikleri"
   },
   "dialogs": {
     "dialog_festival_desc": "Yurttaşlarınıza bir şenlik düzenlemek için yiyecek kullanın!\nŞenlik devam ettiği sürece askere alma hızı tüm kalelerinizde belirgin şekilde artacak. Şenlik ne kadar büyük olursa, etkisi de o kadar büyük olur.",
@@ -11834,7 +11838,7 @@
     "webshop_decoWithEffects_food_desc": "Kalen içerisinde düzeni yükseltir↵+{0} yiyecek üretimi↵+{1} yiyecek depolama kapasitesi↵Bölge başına maksimum {2}",
     "webshop_decoWithEffects_marketBarrows_desc": "Kalenin sıralısını artırır↵+{0} pazar arabası kapasitesi↵+%{1} pazar arabası yol hızı↵Maksimum {2} bölgeye karşı",
     "webshop_decoWithEffects_recruitmentCost_desc": "Kalenin içindeki düzeni artırır↵Tüm birliklerin maliyetini %{0} azaltır↵Bölge başına maksimum {2}",
-    "webshop_decoWithEffects_recruitmentSpeed_desc": "Kalenin içerisindeki düzene yardımcı olur↵Tüm birim üretimini %{0} hıza getirir↵Bölge başına en fazla {2}",
+    "webshop_decoWithEffects_recruitmentSpeed_desc": "Kalenizin iç düzenini artırır\nTüm birim üretim hızlarını %{0} oranında artırır\nBölge başına en fazla {2} adet",
     "webshop_decoWithEffects_toolProduction_desc": "Kalenin içindeki düzeni artırır↵Toplam tüm alet üretim hızını +%{0} artır ↵Alan başına maksimum {2}",
     "effect_name_allianceDefenseUnitAmountYardBonus": "Bonus İttifak Destek Birliği Kapasitesi",
     "effect_name_attackUnitAmountFlank": "Saldırı esnasında kanatlar üzerinde birlik limitine ek bonus",
@@ -11844,7 +11848,7 @@
     "minigameFeat_leave_description": "Çıkmak istediğine emin misin?",
     "minigameFeat_leave_header": "Emin misin?",
     "minigameFeat_win_again": "Yeniden başla",
-    "minigameFeat_win_next": "Sonraki",
+    "minigameFeat_win_next": "Devam",
     "webshop_offerExpires": "Bu fırsat {0} içinde sona eriyor",
     "dialog_tempServer_start_desc1_desc_crossplay": "• Yeni bir etkinlik sunucusunda web ya da mobil üzerinden dünyanın dört bir yanındaki oyuncularla rekabet et\n• Değerli ödüller kazanabilmek için günlük sıralama puanları kazan\n• Düşmanlarına kıvılcım saç, halkına zenginlik getir",
     "dialog_tempServer_start_desc2_desc_crossplay": "• Daha önce görmediğin yeni komşularla savaş ve onlarla iş birliği yap \n• Yeni ittifaklar kur ve ticaret imkanları yarat\n• Diplomatik engellerden uzak bir arazide kalemini yönet",
@@ -11915,7 +11919,9 @@
       "Baba Varjúka"
     ],
     "minigameFeat_hud_desc": "Küçük minioyunlarımızı oyna ve Dianaya yardım et.",
-    "minigameFeat_hud_header": "Okçu Meydan Okuması"
+    "minigameFeat_hud_header": "Okçu Meydan Okuması",
+    "dialog_event_announcement_description_277": "Yeni bir Crossplay etkinliği seni çağırıyor!\nGoodgame Empire ve Empire: Four Kingdomsteki diğer Kraliçe ve Krallarla taht için bir kez daha mücadele et. Senin talimatlarını inşa ve savaş konusunda bekleyen halkına katıl. Bu yeni meydan okumayı yönetebilecek misin? Tacın mücadelesinde yeni ve benzersiz ödüller kazan. Şimdi katıl!",
+    "tut_secondQuestConfirmPlacement_minigame_copy": "Binanın yerini onayla. İleride taşımak istersen, bu mümkün olacak.\n\nHazır ol, düşmanlar inşaatı durdurmaya çalışacak! Sadece emret, ben ve güvenilir yayım onları püskürteceğiz!"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+%{0} - Fetihlerde ordu yolculuk hızı",
@@ -12991,7 +12997,29 @@
     "effect_name_recruitmentCostDecreaseAll": "Azaltma maliyeti askeri para birimi",
     "effect_name_recruitmentSpeedBoostAll": "Askeri toplama hızı bonusu",
     "effect_name_toolProductionSpeedBoostAll": "Alet üretim hızı bonusu",
-    "effect_name_unboostedHoneyProduction": "Saat başına bal üretim bonusu"
+    "effect_name_unboostedHoneyProduction": "Saat başına bal üretim bonusu",
+    "effect_name_ironProductionBoost": "Kalede demir üretim bonusu",
+    "effect_name_stoneProductionBoost": "Kale Taş Üretim Bonusu",
+    "effect_name_foodProductionBoost": "Kalede yiyecek üretimine bonus",
+    "effect_name_coalProductionBoost": "Kalede kömür üretimine bonus",
+    "effect_name_foodProductionBoostDesert": "Yanan Kum şatosunda yiyecek üretimi bonusu",
+    "effect_name_foodProductionBoostFire": "Ateş Zirveleri şatosunda yiyecek üretim bonusu",
+    "effect_name_foodProductionBoostIce": "Bir Sonsuz Kış Buzulu kalesinde yiyecek üretim bonusu",
+    "effect_name_foodProductionBoostMain": "Büyük İmparatorluk şatosunda yiyecek üretimi bonusu",
+    "effect_name_glassProductionBoost": "Kalede cam üretim bonusu",
+    "effect_name_meadCapacityBonusBaronEconomy": "Kalede Mead Depolama Bonusu",
+    "effect_name_oilProductionBoost": "Kalede zeytinyağı üretimine verilen bonus",
+    "effect_name_stoneProductionBoostDesert": "Yanan Kum kalelerinde taş üretimi bonusu",
+    "effect_name_stoneProductionBoostFire": "Ateş Zirveleri kalesindeki taş üretimine bonus",
+    "effect_name_stoneProductionBoostIce": "Bir EverwinterClear kalesindeki taş üretimine bonus",
+    "effect_name_stoneProductionBoostMain": "Büyük Birleşik Krallık kalesindeki taş üretim bonusu",
+    "effect_name_unboostedMeadProduction": "Kalede bal şarabı üretim bonusu",
+    "effect_name_woodProductionBoostDesert": "Yanan Kum kalelerinde odun üretimine yönelik bonus",
+    "effect_name_woodProductionBoostFire": "Ateş Zirveleri kalesinde odun üretim bonusu",
+    "effect_name_woodProductionBoostIce": "Bir KışGölü kalesinde odun üretim bonusu",
+    "effect_name_woodProductionBoostMain": "Büyük Birleşik Krallık kalesindeki odun üretimine verilen bonus",
+    "effect_name_woodProductionBoost": "Kaledeki odun üretim bonusu",
+    "effect_name_foodProductionBoostBaronEconomy": "Kalede yiyecek üretimine bonus"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Kahraman",
@@ -18711,7 +18739,8 @@
     "currency_description_dragonriderLTPEToken": "Bu jeton kıymetli kırmızı altından, ejder ateşinde eritilerek yapıldı. Sınırlı bir süre boyunca Usta Demircide ödüllerle takas edilebilir.",
     "currency_name_dragonriderLTPEToken": "Ateş Ejderi jetonları",
     "filters_category_116": "Ateş Ejderi jetonları",
-    "target_placeholder": "Hedef: {0}"
+    "target_placeholder": "Hedef: {0}",
+    "changed": "Değişti"
   },
   "help": {
     "help_location": "Buradan kalenin tüm önemli ögelerine ve ileri karakollara genel olarak bakabilirsin.",

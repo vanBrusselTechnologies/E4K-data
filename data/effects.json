@@ -1992,9 +1992,27 @@
       "areaTypeID": "27,35"
     },
     {
+      "effectID": 598,
+      "crossplayID": 598,
+      "name": "woodProductionBoostMain",
+      "effectTypeID": 92,
+      "capID": 99,
+      "areaTypeID": "1,12",
+      "spaceIDs": 0
+    },
+    {
+      "effectID": 599,
+      "crossplayID": 599,
+      "name": "stoneProductionBoostMain",
+      "effectTypeID": 93,
+      "capID": 99,
+      "areaTypeID": "1,12",
+      "spaceIDs": 0
+    },
+    {
       "effectID": 600,
       "crossplayID": 600,
-      "name": "woodProductionBoost",
+      "name": "woodProductionBoostIce",
       "effectTypeID": 92,
       "capID": 99,
       "areaTypeID": "1,12",
@@ -2003,7 +2021,7 @@
     {
       "effectID": 601,
       "crossplayID": 601,
-      "name": "woodProductionBoost",
+      "name": "woodProductionBoostDesert",
       "effectTypeID": 92,
       "capID": 99,
       "areaTypeID": "1,12",
@@ -2012,7 +2030,7 @@
     {
       "effectID": 602,
       "crossplayID": 602,
-      "name": "woodProductionBoost",
+      "name": "woodProductionBoostFire",
       "effectTypeID": 92,
       "capID": 99,
       "areaTypeID": "1,12",
@@ -2021,7 +2039,7 @@
     {
       "effectID": 603,
       "crossplayID": 603,
-      "name": "stoneProductionBoost",
+      "name": "stoneProductionBoostIce",
       "effectTypeID": 93,
       "capID": 99,
       "areaTypeID": "1,12",
@@ -2030,7 +2048,7 @@
     {
       "effectID": 604,
       "crossplayID": 604,
-      "name": "stoneProductionBoost",
+      "name": "stoneProductionBoostDesert",
       "effectTypeID": 93,
       "capID": 99,
       "areaTypeID": "1,12",
@@ -2039,7 +2057,7 @@
     {
       "effectID": 605,
       "crossplayID": 605,
-      "name": "stoneProductionBoost",
+      "name": "stoneProductionBoostFire",
       "effectTypeID": 93,
       "capID": 99,
       "areaTypeID": "1,12",
@@ -2048,7 +2066,7 @@
     {
       "effectID": 606,
       "crossplayID": 606,
-      "name": "foodProductionBoost",
+      "name": "foodProductionBoostIce",
       "effectTypeID": 80,
       "capID": 99,
       "areaTypeID": "1,12",
@@ -2057,7 +2075,7 @@
     {
       "effectID": 607,
       "crossplayID": 607,
-      "name": "foodProductionBoost",
+      "name": "foodProductionBoostDesert",
       "effectTypeID": 80,
       "capID": 99,
       "areaTypeID": "1,12",
@@ -2066,7 +2084,7 @@
     {
       "effectID": 608,
       "crossplayID": 608,
-      "name": "foodProductionBoost",
+      "name": "foodProductionBoostFire",
       "effectTypeID": 80,
       "capID": 99,
       "areaTypeID": "1,12",

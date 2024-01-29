@@ -7575,6 +7575,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_DessertKingdomScorpionTomb": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_DessertKingdomScorpionTomb/Deco_Building_DessertKingdomScorpionTomb.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 243,
+        "h": 214,
+        "rx": 853,
+        "ry": 909
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_DragonBall": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_DragonBall/Deco_Building_DragonBall.png",
@@ -7901,6 +7916,21 @@
         "h": 69,
         "rx": 977,
         "ry": 970
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_FireKingdomMoltenGiant": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_FireKingdomMoltenGiant/Deco_Building_FireKingdomMoltenGiant.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 300,
+        "h": 280,
+        "rx": 823,
+        "ry": 855
       }
     ],
     "fx": []
@@ -8416,6 +8446,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_GreenKingdomGoddessOfNature": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_GreenKingdomGoddessOfNature/Deco_Building_GreenKingdomGoddessOfNature.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 316,
+        "h": 302,
+        "rx": 809,
+        "ry": 839
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_GreenTurtleHut": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_GreenTurtleHut/Deco_Building_GreenTurtleHut.png",
@@ -8667,6 +8712,21 @@
         "h": 249,
         "rx": 838,
         "ry": 883
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_IceKingdomDragonBones": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_IceKingdomDragonBones/Deco_Building_IceKingdomDragonBones.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 327,
+        "h": 288,
+        "rx": 799,
+        "ry": 847
       }
     ],
     "fx": []
@@ -92070,6 +92130,21 @@
     ],
     "fx": []
   },
+  "icon_indicator_minigame": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_indicator_minigame.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 78,
+        "h": 77,
+        "rx": 961,
+        "ry": 961
+      }
+    ],
+    "fx": []
+  },
   "icon_influence_disabled_small": {
     "pid": 1,
     "url": "x768/Icons/Icons/icon_influence_disabled_small.png",
@@ -101400,9 +101475,9 @@
     ],
     "fx": []
   },
-  "icon_effect_coalProductionBoost": {
+  "icon_effect_coalProduction": {
     "pid": 0,
-    "url": "x768/Icons/IconsShared/icon_effect_coalProductionBoost_Shared.png",
+    "url": "x768/Icons/IconsShared/icon_effect_coalProduction_Shared.png",
     "frames": [
       {
         "x": 0,
@@ -101411,6 +101486,21 @@
         "h": 61,
         "rx": 962,
         "ry": 969
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_coalProductionBoost": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_effect_coalProductionBoost_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 75,
+        "h": 49,
+        "rx": 962,
+        "ry": 975
       }
     ],
     "fx": []
@@ -101925,9 +102015,24 @@
     ],
     "fx": []
   },
-  "icon_effect_glassProductionBoost": {
+  "icon_effect_foodProductionBoost": {
     "pid": 0,
-    "url": "x768/Icons/IconsShared/icon_effect_glassProductionBoost_Shared.png",
+    "url": "x768/Icons/IconsShared/icon_effect_foodProductionBoost_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 73,
+        "h": 56,
+        "rx": 963,
+        "ry": 972
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_glassProduction": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_effect_glassProduction_Shared.png",
     "frames": [
       {
         "x": 0,
@@ -101936,6 +102041,21 @@
         "h": 62,
         "rx": 963,
         "ry": 969
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_glassProductionBoost": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_effect_glassProductionBoost_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 71,
+        "h": 53,
+        "rx": 964,
+        "ry": 973
       }
     ],
     "fx": []
@@ -102015,9 +102135,9 @@
     ],
     "fx": []
   },
-  "icon_effect_ironProductionBoost": {
+  "icon_effect_ironProduction": {
     "pid": 0,
-    "url": "x768/Icons/IconsShared/icon_effect_ironProductionBoost_Shared.png",
+    "url": "x768/Icons/IconsShared/icon_effect_ironProduction_Shared.png",
     "frames": [
       {
         "x": 0,
@@ -102026,6 +102146,21 @@
         "h": 61,
         "rx": 964,
         "ry": 969
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_ironProductionBoost": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_effect_ironProductionBoost_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 53,
+        "rx": 967,
+        "ry": 973
       }
     ],
     "fx": []
@@ -102337,10 +102472,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 68,
-        "h": 68,
-        "rx": 965,
-        "ry": 966
+        "w": 75,
+        "h": 57,
+        "rx": 962,
+        "ry": 971
       }
     ],
     "fx": []
@@ -102390,9 +102525,9 @@
     ],
     "fx": []
   },
-  "icon_effect_oilProductionBoost": {
+  "icon_effect_oilProduction": {
     "pid": 0,
-    "url": "x768/Icons/IconsShared/icon_effect_oilProductionBoost_Shared.png",
+    "url": "x768/Icons/IconsShared/icon_effect_oilProduction_Shared.png",
     "frames": [
       {
         "x": 0,
@@ -102401,6 +102536,21 @@
         "h": 61,
         "rx": 966,
         "ry": 969
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_oilProductionBoost": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_effect_oilProductionBoost_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 69,
+        "h": 54,
+        "rx": 965,
+        "ry": 973
       }
     ],
     "fx": []
@@ -102555,6 +102705,21 @@
     ],
     "fx": []
   },
+  "icon_effect_stoneProduction": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_effect_stoneProduction_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 71,
+        "h": 61,
+        "rx": 965,
+        "ry": 969
+      }
+    ],
+    "fx": []
+  },
   "icon_effect_stoneProductionBoost": {
     "pid": 0,
     "url": "x768/Icons/IconsShared/icon_effect_stoneProductionBoost_Shared.png",
@@ -102562,10 +102727,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 70,
-        "h": 61,
-        "rx": 965,
-        "ry": 969
+        "w": 72,
+        "h": 59,
+        "rx": 964,
+        "ry": 970
       }
     ],
     "fx": []
@@ -102690,6 +102855,21 @@
     ],
     "fx": []
   },
+  "icon_effect_woodProduction": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_effect_woodProduction_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 71,
+        "h": 63,
+        "rx": 965,
+        "ry": 969
+      }
+    ],
+    "fx": []
+  },
   "icon_effect_woodProductionBoost": {
     "pid": 0,
     "url": "x768/Icons/IconsShared/icon_effect_woodProductionBoost_Shared.png",
@@ -102697,10 +102877,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 70,
-        "h": 62,
-        "rx": 965,
-        "ry": 969
+        "w": 75,
+        "h": 57,
+        "rx": 962,
+        "ry": 971
       }
     ],
     "fx": []
@@ -102776,6 +102956,36 @@
         "h": 93,
         "rx": 937,
         "ry": 953
+      }
+    ],
+    "fx": []
+  },
+  "icon_event_crossplay_xl_106_rankSwap": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_event_crossplay_xl_106_rankSwap_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 212,
+        "h": 197,
+        "rx": 894,
+        "ry": 901
+      }
+    ],
+    "fx": []
+  },
+  "icon_tempserver_crossplay_xl_rankSwap": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_event_crossplay_xl_106_rankSwap_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 212,
+        "h": 197,
+        "rx": 894,
+        "ry": 901
       }
     ],
     "fx": []
@@ -103256,6 +103466,81 @@
         "h": 64,
         "rx": 972,
         "ry": 968
+      }
+    ],
+    "fx": []
+  },
+  "icon_event_crossplay_big_106": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_tempserver_crossplay_big_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 141,
+        "h": 145,
+        "rx": 929,
+        "ry": 927
+      }
+    ],
+    "fx": []
+  },
+  "icon_tempserver_crossplay_big_rankSwap": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_tempserver_crossplay_rankSwap_big_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 145,
+        "rx": 922,
+        "ry": 912
+      }
+    ],
+    "fx": []
+  },
+  "icon_event_crossplay_big_106_rankSwap": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_tempserver_crossplay_rankSwap_big_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 156,
+        "h": 145,
+        "rx": 922,
+        "ry": 912
+      }
+    ],
+    "fx": []
+  },
+  "icon_event_crossplay_106_rankSwap": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_tempserver_crossplay_rankSwap_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 112,
+        "h": 104,
+        "rx": 944,
+        "ry": 948
+      }
+    ],
+    "fx": []
+  },
+  "icon_tempserver_crossplay_rankSwap": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_tempserver_crossplay_rankSwap_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 112,
+        "h": 104,
+        "rx": 944,
+        "ry": 948
       }
     ],
     "fx": []
@@ -111705,21 +111990,6 @@
     ],
     "fx": []
   },
-  "teaser_crossplay_starter_rankSwap": {
-    "pid": 0,
-    "url": "x768/Misc/EventTeasers/teaser_crossplay_starter_rankSwap.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1537,
-        "h": 1311,
-        "rx": 999,
-        "ry": 999
-      }
-    ],
-    "fx": []
-  },
   "teaser_crossplay_starter": {
     "pid": 0,
     "url": "x768/Misc/EventTeasers/teaser_crossplay_starter.png",
@@ -112718,7 +112988,7 @@
         "x": 0,
         "y": 0,
         "w": 1221,
-        "h": 414,
+        "h": 413,
         "rx": 389,
         "ry": 793
       }
@@ -112733,7 +113003,7 @@
         "x": 0,
         "y": 0,
         "w": 1221,
-        "h": 414,
+        "h": 413,
         "rx": 389,
         "ry": 793
       }

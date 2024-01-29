@@ -1892,7 +1892,11 @@
     "ci_appearance_xmasStronghold_flavour": "Quando os dias encurtam, muralhas sólidas e bebidas quentes afastam o frio, elevando o ânimo dos soldados.",
     "deco_christmasCarousel_name": "Carrossel de Inverno",
     "deco_christmasKiosqueFountain_name": "Fonte de Inverno",
-    "deco_xmasGluhweinStand_name": "Estande de Presentes de Inverno"
+    "deco_xmasGluhweinStand_name": "Estande de Presentes de Inverno",
+    "deco_DessertKingdomScorpionTomb_name": "Templo do escorpião exaltado",
+    "deco_FireKingdomMoltenGiant_name": "Agonia do Gigante Exaltado",
+    "deco_GreenKingdomGoddessOfNature_name": "Deusa exaltada da natureza",
+    "deco_IceKingdomDragonBones_name": "Ossos de dragão exaltado"
   },
   "dialogs": {
     "dialog_festival_desc": "Use comida para organizar um banquete para os cidadãos! A velocidade de recrutamento aumentará consideravelmente em todos os seus castelos durante o banquete. Quanto maior o banquete, maior o efeito.",
@@ -11834,7 +11838,7 @@
     "webshop_decoWithEffects_food_desc": "Aumenta a ordem no seu castelo↵+{0} de produção de comida↵+{1} da capacidade de armazenamento de comida↵Máximo de {2} por área",
     "webshop_decoWithEffects_marketBarrows_desc": "Aumenta o fornecimento dentro do seu castelo↵+{0} de capacidade de carruagens de mercado↵+{1}% de velocidade de viagem de carruagens de mercado↵Máximo de {2} por área",
     "webshop_decoWithEffects_recruitmentCost_desc": "Aumenta a ordem dentro do seu castelo↵Reduz custo de todas as tropas em {0}%↵Máximo de {2} por área",
-    "webshop_decoWithEffects_recruitmentSpeed_desc": "Aumenta a ordem em seu castelo↵Melhora a velocidade de produção de todas as unidades em {0}%↵Máximo de {2} por área",
+    "webshop_decoWithEffects_recruitmentSpeed_desc": "Aumenta a ordem dentro do seu castelo\nMelhora a velocidade de todas as produções de unidade em {0}%\nMáximo de {2} por área",
     "webshop_decoWithEffects_toolProduction_desc": "Aumenta a ordem no seu castelo↵+{0}% de velocidade de todas produções de ferramenta↵Máximo de {2} por área",
     "effect_name_allianceDefenseUnitAmountYardBonus": "Bônus de capacidade de tropas de apoio da aliança",
     "effect_name_attackUnitAmountFlank": "Bônus para o limite de unidades nos flancos ao atacar",
@@ -11844,7 +11848,7 @@
     "minigameFeat_leave_description": "Deseja mesmo sair?",
     "minigameFeat_leave_header": "Tem certeza?",
     "minigameFeat_win_again": "Começar de novo",
-    "minigameFeat_win_next": "Próximo",
+    "minigameFeat_win_next": "Continuar",
     "webshop_offerExpires": "Esta oferta acaba em {0}",
     "dialog_tempServer_start_desc1_desc_crossplay": "• Compita com jogadores do mundo inteiro em um novo servidor de evento, seja na web ou no celular\n• Acumule pontos de classificação diários para obter recompensas valiosas\n• Leve chamas aos seus inimigos e traga prosperidade ao seu povo",
     "dialog_tempServer_start_desc2_desc_crossplay": "• Lute contra e ao lado de novos vizinhos que você talvez nunca tenha visto antes\n• Estabeleça novas alianças e possibilidades de comércio\n• Domine seu castelo em um território isento de vínculos diplomáticos",
@@ -11915,7 +11919,9 @@
       "Baba Varjúka"
     ],
     "minigameFeat_hud_desc": "Jogue nossos minijogos e ajude Diana.",
-    "minigameFeat_hud_header": "Desafio do Arqueiro"
+    "minigameFeat_hud_header": "Desafio do Arqueiro",
+    "dialog_event_announcement_description_277": "Um novo evento Crossplay te convoca!\nUna-se a outras Rainhas e Reis do Goodgame Empire E do Empire: Four Kingdoms na batalha pelo trono mais uma vez. Você está à altura deste novo desafio? Conquiste recompensas novas e exclusivas na sua luta pela coroa. Participe já!",
+    "tut_secondQuestConfirmPlacement_minigame_copy": "Confirme a posição do edifício. Você poderá relocá-lo mais tarde.\n\nPrepare-se, inimigos tentarão impedir a construção! Apenas dê o sinal, e eu, junto com meu confiável arco, lutaremos contra eles!"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% velocidade de viagem do exército durante conquistas",
@@ -12991,7 +12997,29 @@
     "effect_name_recruitmentCostDecreaseAll": "Redução do custo de moedas de recrutamento",
     "effect_name_recruitmentSpeedBoostAll": "Bônus de velocidade de recrutamento",
     "effect_name_toolProductionSpeedBoostAll": "Bônus de velocidade na produção de ferramentas",
-    "effect_name_unboostedHoneyProduction": "Bônus à produção de mel por hora"
+    "effect_name_unboostedHoneyProduction": "Bônus à produção de mel por hora",
+    "effect_name_ironProductionBoost": "Bônus de produção de ferro no castelo",
+    "effect_name_stoneProductionBoost": "Bônus de produção de pedra no castelo",
+    "effect_name_foodProductionBoost": "Bônus à produção de comida no castelo",
+    "effect_name_coalProductionBoost": "Bônus na produção de carvão do castelo",
+    "effect_name_foodProductionBoostDesert": "Bônus de produção de alimentos em castelo de Areias Escaldantes",
+    "effect_name_foodProductionBoostFire": "Bônus à produção de comida em um castelo das Picos de Fogo",
+    "effect_name_foodProductionBoostIce": "Bônus à produção de comida em um castelo do Glaciar do Inverno Eterno",
+    "effect_name_foodProductionBoostMain": "Bônus de produção de alimentos no Grande Império",
+    "effect_name_glassProductionBoost": "Bônus de produção de vidro no castelo",
+    "effect_name_meadCapacityBonusBaronEconomy": "Capacidade extra de hidromel no castelo",
+    "effect_name_oilProductionBoost": "Bônus de produção de azeite no castelo",
+    "effect_name_stoneProductionBoostDesert": "Bônus à produção de pedra em um castelo da Areia Escaldante",
+    "effect_name_stoneProductionBoostFire": "Bônus à produção de pedra em um castelo do Picos do Fogo",
+    "effect_name_stoneProductionBoostIce": "Bônus à produção de pedra em um castelo do Glaciar do Inverno Eterno",
+    "effect_name_stoneProductionBoostMain": "Bônus à produção de pedra em um castelo do Grande Império",
+    "effect_name_unboostedMeadProduction": "Bônus de produção de hidromel relíquia premium",
+    "effect_name_woodProductionBoostDesert": "Bônus à produção de madeira em um castelo da Areia Escaldante",
+    "effect_name_woodProductionBoostFire": "Bônus à produção de madeira em um castelo do Picos de Fogo",
+    "effect_name_woodProductionBoostIce": "Bônus à produção de madeira em um castelo do Glaciar do Inverno Eterno",
+    "effect_name_woodProductionBoostMain": "Bônus à produção de madeira em castelo do Grande Império",
+    "effect_name_woodProductionBoost": "Bônus na produção de madeira no castelo",
+    "effect_name_foodProductionBoostBaronEconomy": "Bônus à produção de comida no castelo"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Herói",
@@ -18711,7 +18739,8 @@
     "currency_description_dragonriderLTPEToken": "Esta ficha foi feita do precioso ouro vermelho, derretido a fogo de dragão. Pode ser trocada por recompensas no ferreiro mestre por um tempo limitado.",
     "currency_name_dragonriderLTPEToken": "Fichas dragonianas de fogo",
     "filters_category_116": "Fichas dragonianas de fogo",
-    "target_placeholder": "Alvo: {0}"
+    "target_placeholder": "Alvo: {0}",
+    "changed": "Alterado"
   },
   "help": {
     "help_location": "Aqui você tem uma visão geral global do conteúdo importante do seu castelo e de todos os seus postos avançados.",

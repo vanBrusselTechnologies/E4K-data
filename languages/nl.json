@@ -1892,7 +1892,11 @@
     "ci_appearance_xmasStronghold_flavour": "Wanneer de dagen korter worden, houden sterke muren en warme drankjes de kou buiten, wat de geest van de soldaten verhoogt.",
     "deco_christmasCarousel_name": "Winterdraaimolen",
     "deco_christmasKiosqueFountain_name": "&quot;Winterfontein&quot;",
-    "deco_xmasGluhweinStand_name": "Wintergeschenkenkraam"
+    "deco_xmasGluhweinStand_name": "Wintergeschenkenkraam",
+    "deco_DessertKingdomScorpionTomb_name": "Verheven schorpioentempel",
+    "deco_FireKingdomMoltenGiant_name": "Verheven reuzenleed",
+    "deco_GreenKingdomGoddessOfNature_name": "Verheven godin van de natuur",
+    "deco_IceKingdomDragonBones_name": "Verheven drakenbeenderen"
   },
   "dialogs": {
     "dialog_festival_desc": "Gebruik voedsel om een festival te geven voor uw burgers! Zolang het festival duurt, wordt er in al uw kastelen aanmerkelijk sneller gerekruteerd. Hoe groter het festival, hoe groter het effect.",
@@ -11834,7 +11838,7 @@
     "webshop_decoWithEffects_food_desc": "Vergroot de orde in je kasteel↵+{0} voedselproductie↵+{1} voedselopslagcapaciteit↵Maximaal {2} per gebied",
     "webshop_decoWithEffects_marketBarrows_desc": "Verhoogt de orde binnen je kasteel↵+{0} marktkarren capaciteit↵+{1}% marktkarren reissnelheid↵Maximum {2} per gebied",
     "webshop_decoWithEffects_recruitmentCost_desc": "Vergroot de orde in je kasteel↵Verlaagt de kosten van alle troepen met {0}%↵Maximaal {2} per gebied",
-    "webshop_decoWithEffects_recruitmentSpeed_desc": "Vergroot de orde in je kasteel↵Verbeterd de snelheid van alle eenhedenproductie met {0}%↵Maximaal {2} per gebied",
+    "webshop_decoWithEffects_recruitmentSpeed_desc": "Verhoogt de orde binnen je kasteel\nVerhoogt de snelheid van alle eenhedenproducties met {0}%\nMaximaal {2} per gebied",
     "webshop_decoWithEffects_toolProduction_desc": "Vergroot de orde in je kasteel↵+{0}% snelheid van alle tuigproducties↵Maximaal {2} per gebied",
     "effect_name_allianceDefenseUnitAmountYardBonus": "Bonus voor alliantie ondersteunende troepencapaciteit",
     "effect_name_attackUnitAmountFlank": "Bonus op eenhedenlimiet aan de flanken tijdens het aanvallen",
@@ -11915,7 +11919,9 @@
       "Baba Varjúka"
     ],
     "minigameFeat_hud_desc": "Speel onze kleine minigames en help Diana.",
-    "minigameFeat_hud_header": "Boogschuttersuitdaging"
+    "minigameFeat_hud_header": "Boogschuttersuitdaging",
+    "dialog_event_announcement_description_277": "Een nieuw Crossplay-event roept je op!\nVoeg je bij andere koninginnen en koningen uit Goodgame Empire EN Empire: Four Kingdoms in de strijd om de troon. Ben jij opgewassen tegen deze nieuwe uitdaging? Verover nieuwe en unieke beloningen in jouw gevecht voor de kroon. Doe nu mee!",
+    "tut_secondQuestConfirmPlacement_minigame_copy": "Bevestig de locatie van het gebouw. Je kunt het later altijd nog verplaatsen.\n\nWees voorbereid, want vijanden zullen proberen de bouw te stoppen! Geef gewoon het commando, ik en mijn trouwe boog zullen ze van ons afslaan!"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% reissnelheid leger tijdens veroveringen",
@@ -12991,7 +12997,29 @@
     "effect_name_recruitmentCostDecreaseAll": "Vermindering van de rekruteringskosten in munten",
     "effect_name_recruitmentSpeedBoostAll": "Bonus aan rekruteringssnelheid",
     "effect_name_toolProductionSpeedBoostAll": "Bonusproductie van gereedschappen",
-    "effect_name_unboostedHoneyProduction": "Bonus op honingproductie per uur"
+    "effect_name_unboostedHoneyProduction": "Bonus op honingproductie per uur",
+    "effect_name_ironProductionBoost": "Bonus op ijzerproductie in kasteel",
+    "effect_name_stoneProductionBoost": "Bonus op steenproductie in kasteel",
+    "effect_name_foodProductionBoost": "Bonus aan voedselproductie in kasteel",
+    "effect_name_coalProductionBoost": "Bonus op kolenproductie in kasteel",
+    "effect_name_foodProductionBoostDesert": "Bonus op voedselproductie in een Brandend Zand-kasteel",
+    "effect_name_foodProductionBoostFire": "Bonus op voedselproductie in een Vurige Toppen-kasteel",
+    "effect_name_foodProductionBoostIce": "Voedselproductiebonus in EverwinterGlacier-kasteel",
+    "effect_name_foodProductionBoostMain": "Bonus op voedselproductie in een kasteel van het Grote Rijk",
+    "effect_name_glassProductionBoost": "Bonus op glasproductie in kasteel",
+    "effect_name_meadCapacityBonusBaronEconomy": "Bonus op opslagcapaciteit voor kasteelmede",
+    "effect_name_oilProductionBoost": "Bonus op olijfolieproductie in kasteel",
+    "effect_name_stoneProductionBoostDesert": "Bonus op steenproductie in een Brandend Zand-kasteel",
+    "effect_name_stoneProductionBoostFire": "Bonus op steenproductie in een Vurige Toppen-kasteel",
+    "effect_name_stoneProductionBoostIce": "Bonus op steenproductie in een EverwinterGlacier-kasteel",
+    "effect_name_stoneProductionBoostMain": "Bonus op steenproductie in een kasteel van het Grote Rijk",
+    "effect_name_unboostedMeadProduction": "Bonus op medeproductie in kasteel",
+    "effect_name_woodProductionBoostDesert": "Bonus op houtproductie in een Brandend Zand-kasteel",
+    "effect_name_woodProductionBoostFire": "Bonus op houtproductie in een Vurige Toppen-kasteel",
+    "effect_name_woodProductionBoostIce": "Bonus op houtproductie in een kasteel van de Altijddurende sneeuw",
+    "effect_name_woodProductionBoostMain": "Bonus op houtproductie in een kasteel van het Grote Rijk",
+    "effect_name_woodProductionBoost": "Bonus op houtproductie in kasteel",
+    "effect_name_foodProductionBoostBaronEconomy": "Bonus aan voedselproductie in kasteel"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Held",
@@ -18711,7 +18739,8 @@
     "currency_description_dragonriderLTPEToken": "Deze munt is gemaakt van kostbaar rood goud, gesmolten in drakenvuur. Kan tijdelijk worden ingewisseld voor beloningen bij de meester-smid.",
     "currency_name_dragonriderLTPEToken": "Vuurwyrm",
     "filters_category_116": "Vuurwyrm-munten",
-    "target_placeholder": "Doel: {0}"
+    "target_placeholder": "Doel: {0}",
+    "changed": "Gewijzigd"
   },
   "help": {
     "help_location": "Hier krijg je een globaal overzicht van alle belangrijke inhoud van je kasteel en al je buitenposten.",

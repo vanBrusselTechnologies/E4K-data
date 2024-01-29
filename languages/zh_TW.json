@@ -1892,7 +1892,11 @@
     "ci_appearance_xmasStronghold_flavour": "當日短夜長，堅固的城牆與熱飲能禦寒，振奮士兵之心。",
     "deco_christmasCarousel_name": "冬季旋轉木馬",
     "deco_christmasKiosqueFountain_name": "天池",
-    "deco_xmasGluhweinStand_name": "冬日禮品攤"
+    "deco_xmasGluhweinStand_name": "冬日禮品攤",
+    "deco_DessertKingdomScorpionTomb_name": "高貴蠍子神殿",
+    "deco_FireKingdomMoltenGiant_name": "崇高巨人的勝利",
+    "deco_GreenKingdomGoddessOfNature_name": "尊貴的自然女神",
+    "deco_IceKingdomDragonBones_name": "崇高龍骨"
   },
   "dialogs": {
     "dialog_festival_desc": "用食物幫你的居民舉辦一場盛宴吧！在盛宴期間，你所有城堡的招募速度會大幅提高。宴會越大，效果越好。",
@@ -11834,7 +11838,7 @@
     "webshop_decoWithEffects_food_desc": "提升你城堡中的秩序↵+{0} 食物產量↵+{1} 食物庫儲存空間↵各區域最高 {2}",
     "webshop_decoWithEffects_marketBarrows_desc": "增加您城堡內的秩序↵+{0}市集手推車容納空間↵+{1}%市集手推車移動速度↵每個地區上限為 {2}",
     "webshop_decoWithEffects_recruitmentCost_desc": "增加你城堡內的和諧，所以可以順利駐紮部隊↵全體軍隊的花費降低{0}%↵每個區域最多{2}個",
-    "webshop_decoWithEffects_recruitmentSpeed_desc": "增強您城堡內建的秩序↵所有部隊生產的速度提升 {0}%↵每區域最多達到 {2}",
+    "webshop_decoWithEffects_recruitmentSpeed_desc": "提升城堡內的秩序\n提升所有部隊生產速度 {0}%\n每個區域最多 {2} 個",
     "webshop_decoWithEffects_toolProduction_desc": "提升你城堡內的秩序↵+{0}% 所有工具生產的速度↵每個地區上限 {2}",
     "effect_name_allianceDefenseUnitAmountYardBonus": "增加聯盟支援部隊容量的獎勵",
     "effect_name_attackUnitAmountFlank": "進攻翼部的單位上限獎勵",
@@ -11844,7 +11848,7 @@
     "minigameFeat_leave_description": "您真的要退出遊戲嗎？",
     "minigameFeat_leave_header": "您確定要離開當前場景嗎？",
     "minigameFeat_win_again": "重新開始",
-    "minigameFeat_win_next": "下一級",
+    "minigameFeat_win_next": "繼續",
     "webshop_offerExpires": "此優惠時間還剩 {0}",
     "dialog_tempServer_start_desc1_desc_crossplay": "• 在全球新活動伺服器上透過網頁或移動裝置與來自世界各地的玩家競技\n• 收集每日排名點數以贏得珍貴獎勵\n• 為敵人帶來災禍，為你的人民帶來繁榮",
     "dialog_tempServer_start_desc2_desc_crossplay": "• 與以前未曾見過的鄰居並肩作戰\n• 建立新的聯盟和貿易機會\n• 在一片無外交束縛的土地上統治您的城堡",
@@ -11915,7 +11919,9 @@
       "芭瓦柳卡"
     ],
     "minigameFeat_hud_desc": "玩我們的小型迷你遊戲，幫助黛安娜。",
-    "minigameFeat_hud_header": "弓箭手的挑戰"
+    "minigameFeat_hud_header": "弓箭手的挑戰",
+    "dialog_event_announcement_description_277": "新的跨平臺活動正在呼喚你！\n加入來自 Goodgame Empire 和 Empire: Four Kingdoms 的其他皇后和國王，再次為爭奪王位而戰。你的臣民正在等待你的命令，要求你指揮他們建造和戰鬥。你能否應付這個新的挑戰？在爭奪皇冠的戰鬥中獲得新的獨特獎勵。\n立刻加入！",
+    "tut_secondQuestConfirmPlacement_minigame_copy": "確認建築物的位置，您之後可以遷移它。"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% 出征時的軍隊巡游速度",
@@ -12991,7 +12997,29 @@
     "effect_name_recruitmentCostDecreaseAll": "降低招募費用的硬幣成本",
     "effect_name_recruitmentSpeedBoostAll": "招募速度的額外加成",
     "effect_name_toolProductionSpeedBoostAll": "工具生產速度加成",
-    "effect_name_unboostedHoneyProduction": "每小時蜂蜜生產的加成"
+    "effect_name_unboostedHoneyProduction": "每小時蜂蜜生產的加成",
+    "effect_name_ironProductionBoost": "城堡鐵產加成",
+    "effect_name_stoneProductionBoost": "城堡石材生產獎勵",
+    "effect_name_foodProductionBoost": "建築物的食物產量 bonus",
+    "effect_name_coalProductionBoost": "城堡煤炭生產加成",
+    "effect_name_foodProductionBoostDesert": "燃燒砂地城堡的食物生產加成",
+    "effect_name_foodProductionBoostFire": "烈焰山莊園的食物生產加成",
+    "effect_name_foodProductionBoostIce": "永冬冰河堡食物生產加成",
+    "effect_name_foodProductionBoostMain": "增加大帝國城堡食物生產的獎勵",
+    "effect_name_glassProductionBoost": "城堡中的玻璃生產加成",
+    "effect_name_meadCapacityBonusBaronEconomy": "城堡中蜂蜜酒的存儲容量獎勵",
+    "effect_name_oilProductionBoost": "城堡內橄欖果園生產力加成",
+    "effect_name_stoneProductionBoostDesert": "燃燒砂地城堡的石材生產獎勵",
+    "effect_name_stoneProductionBoostFire": "烈焰山莊園的石材生產加成",
+    "effect_name_stoneProductionBoostIce": "永冬冰河城堡石材產量加成",
+    "effect_name_stoneProductionBoostMain": "大帝國城堡的石材生產加成",
+    "effect_name_unboostedMeadProduction": "城堡蜂蜜酒生產加成",
+    "effect_name_woodProductionBoostDesert": "燃燒砂地城堡的木材產量加成",
+    "effect_name_woodProductionBoostFire": "烈焰峰城堡的木材生產獎勵",
+    "effect_name_woodProductionBoostIce": "永冬冰河城堡的木材生產獎勵",
+    "effect_name_woodProductionBoostMain": "大帝國城堡木材生產加成",
+    "effect_name_woodProductionBoost": "城堡內的木材生產加成",
+    "effect_name_foodProductionBoostBaronEconomy": "建築物的食物產量 bonus"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "英雄",
@@ -18711,7 +18739,8 @@
     "currency_description_dragonriderLTPEToken": "此代幣是用珍貴的紅金在猛龍烈焰中鎔鑄而成。可在限定時間內在大師鐵匠處兌換獎勵。",
     "currency_name_dragonriderLTPEToken": "火飛龍代幣",
     "filters_category_116": "火飛龍代幣",
-    "target_placeholder": "目標 {0}"
+    "target_placeholder": "目標 {0}",
+    "changed": "變更完畢"
   },
   "help": {
     "help_location": "在這裡，你可以看到關於你的城堡和所有前哨重要內容的總體概況。",

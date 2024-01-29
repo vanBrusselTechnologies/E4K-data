@@ -1892,7 +1892,11 @@
     "ci_appearance_xmasStronghold_flavour": "Gdy dni stają się krótsze, mocne mury i gorące napoje odpędzają zimno, podnosząc morale żołnierzy.",
     "deco_christmasCarousel_name": "Karuzela zimowa",
     "deco_christmasKiosqueFountain_name": "Zimowa fontanna",
-    "deco_xmasGluhweinStand_name": "Stragan z zimowymi prezentami"
+    "deco_xmasGluhweinStand_name": "Stragan z zimowymi prezentami",
+    "deco_DessertKingdomScorpionTomb_name": "Wzniosły świątynia skorpiona",
+    "deco_FireKingdomMoltenGiant_name": "Agonia olbrzyma wywyższonego",
+    "deco_GreenKingdomGoddessOfNature_name": "Wzniosła bogini natury",
+    "deco_IceKingdomDragonBones_name": "Wielkie kości smoka"
   },
   "dialogs": {
     "dialog_festival_desc": "Użyj jedzenia, aby zorganizować święto dla Twoich obywateli! Szybkość rekrutacji znacznie będzie rosła we wszystkich twoich zamkach przez czas obchodów święta. Im większe święto, tym większe efekty.",
@@ -11834,7 +11838,7 @@
     "webshop_decoWithEffects_food_desc": "Zwiększa porządek w twoim zamku↵+{0} produkcji żywności↵+{1} magazynu żywności↵Maksymalnie {2} na obszar",
     "webshop_decoWithEffects_marketBarrows_desc": "Zapewnia porządek w twoim zamku↵+{0} pojemność rydwanów kupieckich↵+{1}% prędkość przemieszczania rydwanów kupieckich↵Maks. {2} na krainę",
     "webshop_decoWithEffects_recruitmentCost_desc": "Zwiększa ład i porządek w twoim zamku↵Obniża koszt wszystkich żołnierzy o {0}%↵Maksymalna liczba w danym obszarze: {2}",
-    "webshop_decoWithEffects_recruitmentSpeed_desc": "Poprawa porządku w twoim zamku↵Zwiększa prędkość produkcji jednostek o {0}%↵Maksymalnie {2} na obszar",
+    "webshop_decoWithEffects_recruitmentSpeed_desc": "Zwiększa porządek w twoim zamku\nPrzyspiesza produkcję jednostek o {0}%\nMaksymalnie {2} na obszar",
     "webshop_decoWithEffects_toolProduction_desc": "Zwiększa poziom porządku w twoim zamku↵+{0}% szybkości produkcji narzędzi wszelkiego rodzaju↵Maks. {2} w danej strefie",
     "effect_name_allianceDefenseUnitAmountYardBonus": "Pojemność wsparcia wojsk sojuszu bonus",
     "effect_name_attackUnitAmountFlank": "Bonus do limitu jednostek na skrzydłach podczas ataku",
@@ -11844,7 +11848,7 @@
     "minigameFeat_leave_description": "Czy na pewno chcesz wyjść?",
     "minigameFeat_leave_header": "Na pewno?",
     "minigameFeat_win_again": "Jeszcze raz",
-    "minigameFeat_win_next": "Następny",
+    "minigameFeat_win_next": "Dalej",
     "webshop_offerExpires": "Oferta ulegnie wyczerpaniu za: {0}",
     "dialog_tempServer_start_desc1_desc_crossplay": "• Rywalizuj z graczami z całego świata na nowym serwerze wydarzeniowym dostępnym na komputerze i urządzeniach mobilnych\n• Zdobywaj codziennie punkty rankingowe, aby otrzymać wartościowe nagrody\n• Zesłać płomienie na swoich wrogów i zapewnić dobrobyt swojemu narodowi",
     "dialog_tempServer_start_desc2_desc_crossplay": "• Walcz obok i przeciwko nowym sąsiadom, których dotąd nie mogłeś znać\n• Buduj nowe sojusze i otwieraj możliwości handlu\n• Panuj w swoim zamku na ziemiach, gdzie dyplomatyczne więzy nie mają znaczenia",
@@ -11915,7 +11919,9 @@
       "Baba Varjúka"
     ],
     "minigameFeat_hud_desc": "Zagraj w nasze minigry i pomóż Dianie.",
-    "minigameFeat_hud_header": "Wyzwanie łucznika"
+    "minigameFeat_hud_header": "Wyzwanie łucznika",
+    "dialog_event_announcement_description_277": "Nowe wydarzenie Crossplay wzywa!\nŁącz się z królowymi i królami z Goodgame Empire ORAZ Empire: Four Kingdoms, by ponownie zawalczyć o tron. Twoi ludzie oczekują rozkazów, jak budować i walczyć. Czy podołasz temu nowemu wyzwaniu? Zdobywaj nowe i unikatowe nagrody w walce o koronę. Przystąp już dziś!",
+    "tut_secondQuestConfirmPlacement_minigame_copy": "Potwierdź położenie budynku. W każdej chwili możesz go przenieść.\n\nPrzygotuj się, wrogowie spróbują przerwać budowę! Ale nie martw się, ja i mój wierny łuk będziemy walczyć!"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% prędkości przemieszczania armii podczas podbojów",
@@ -12991,7 +12997,29 @@
     "effect_name_recruitmentCostDecreaseAll": "Redukcja kosztów rekrutacji (monety)",
     "effect_name_recruitmentSpeedBoostAll": "Premia do szybkości werbunku",
     "effect_name_toolProductionSpeedBoostAll": "Premia do produkcji narzędzi",
-    "effect_name_unboostedHoneyProduction": "Premia do produkcji miodu każdej godziny"
+    "effect_name_unboostedHoneyProduction": "Premia do produkcji miodu każdej godziny",
+    "effect_name_ironProductionBoost": "Premia do produkcji żelaza w zamku",
+    "effect_name_stoneProductionBoost": "Premia do produkcji kamienia w zamku",
+    "effect_name_foodProductionBoost": "Dodatek do produkcji żywności w zamku",
+    "effect_name_coalProductionBoost": "Dodatkowy bonus do produkcji węgla w zamku",
+    "effect_name_foodProductionBoostDesert": "Premia do produkcji żywności w zamku w Płonących Piaskach",
+    "effect_name_foodProductionBoostFire": "Dodatkowy bonus do produkcji żywności w zamku Ognistych Szczytów",
+    "effect_name_foodProductionBoostIce": "Premia do produkcji jedzenia w zamku Wiecznej Zimy",
+    "effect_name_foodProductionBoostMain": "Premia do produkcji żywności w zamku Wielkiego Imperium",
+    "effect_name_glassProductionBoost": "Premia do produkcji szkła w zamku",
+    "effect_name_meadCapacityBonusBaronEconomy": "Premia do pojemności spichlerza miodu w zamku",
+    "effect_name_oilProductionBoost": "Bonus do produkcji oliwy w zamku",
+    "effect_name_stoneProductionBoostDesert": "Premia do produkcji kamienia w zamku w Płonących Piaskach",
+    "effect_name_stoneProductionBoostFire": "Premia do produkcji kamienia w zamku w Ognistych Szczytach",
+    "effect_name_stoneProductionBoostIce": "Premia do produkcji kamienia w warowni Wiecznego Lodowca",
+    "effect_name_stoneProductionBoostMain": "Premia do produkcji kamienia w zamku Wielkiego Cesarstwa",
+    "effect_name_unboostedMeadProduction": "Premia do produkcji miodu pitnego w zamku",
+    "effect_name_woodProductionBoostDesert": "Premia do produkcji drewna w zamku w Płonących Piaskach",
+    "effect_name_woodProductionBoostFire": "Premia do produkcji drewna w zamku w Ognistych Szczytach",
+    "effect_name_woodProductionBoostIce": "Bonus do produkcji drewna w zamku Everwinter Glacier",
+    "effect_name_woodProductionBoostMain": "Dodatek do produkcji drewna w zamku Wielkiego Imperium",
+    "effect_name_woodProductionBoost": "Bonus do produkcji drewna w zamku",
+    "effect_name_foodProductionBoostBaronEconomy": "Dodatek do produkcji żywności w zamku"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Bohater",
@@ -18711,7 +18739,8 @@
     "currency_description_dragonriderLTPEToken": "Ten cenny żeton wykuto z czerwonego złota skąpanego w smoczym ogniu. Przez ograniczony czas można wymienić go na nagrody u mistrza kowalskiego.",
     "currency_name_dragonriderLTPEToken": "Żetony Ognistego Żmija",
     "filters_category_116": "Żetony Ognistego Żmija",
-    "target_placeholder": "Cel: {0}"
+    "target_placeholder": "Cel: {0}",
+    "changed": "Zmienione"
   },
   "help": {
     "help_location": "W tym miejscu masz globalny przegląd ważnych elementów zamku oraz wszystkich posterunków.",

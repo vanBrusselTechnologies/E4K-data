@@ -1892,7 +1892,11 @@
     "ci_appearance_xmasStronghold_flavour": "Wenn die Tage kürzer werden, sorgen starke Mauern und heiße Getränke dafür, dass die Kälte draußen bleibt und die Moral der Truppen steigt.",
     "deco_christmasCarousel_name": "Winterkarussell",
     "deco_christmasKiosqueFountain_name": "Winterquell",
-    "deco_xmasGluhweinStand_name": "Wintergeschenke-Stand"
+    "deco_xmasGluhweinStand_name": "Wintergeschenke-Stand",
+    "deco_DessertKingdomScorpionTomb_name": "Erhabener Skorpiontempel",
+    "deco_FireKingdomMoltenGiant_name": "Erhabenes Riesenschmerz",
+    "deco_GreenKingdomGoddessOfNature_name": "Erhabene Göttin der Natur",
+    "deco_IceKingdomDragonBones_name": "Erhabene Drachenknochen"
   },
   "dialogs": {
     "dialog_festival_desc": "Setzt Nahrung ein, um ein Fest für Eure Bürger zu feiern!\nSolange das Fest läuft, wird die Rekrutierungsgeschwindigkeit in all Euren Burgen deutlich erhöht. Je größer das Fest ist, desto größer ist auch der Effekt.",
@@ -11834,7 +11838,7 @@
     "webshop_decoWithEffects_food_desc": "Verbessert die Ordnung in Eurer Burg↵+{0} Nahrungsproduktion↵+{1} Nahrungs-Aufnahmekapazität↵Maximal {2} pro Gebiet",
     "webshop_decoWithEffects_marketBarrows_desc": "Verbessert die Ordnung in Eurer Burg.↵+{0} Handelskarrenkapazität↵+{1}% Handelskarrengeschwindigkeit↵Maximal {2} pro Bereich",
     "webshop_decoWithEffects_recruitmentCost_desc": "Erhöht die Ordnung in der Burg↵Reduziert die Kosten für alle Truppen um {0}%↵Maximal {2} pro Gebiet",
-    "webshop_decoWithEffects_recruitmentSpeed_desc": "Erhöht die Ordnung innerhalb der Burg↵Verbessert die Geschwindigkeit aller Einheitenproduktionen um {0}%↵Max. {2} je Bereich",
+    "webshop_decoWithEffects_recruitmentSpeed_desc": "Erhöht die Ordnung in Eurer Burg\nBeschleunigt die Einheitenproduktionen um {0}%\nMaximal {2} pro Bereich",
     "webshop_decoWithEffects_toolProduction_desc": "Erhöht die Ordnung in Eurer Burg↵+{0}% Geschwindigkeit aller Werkzeugproduktionen↵Maximal {2} pro Bereich",
     "effect_name_allianceDefenseUnitAmountYardBonus": "Bonus zur Kapazität von Allianzunterstützungstruppen",
     "effect_name_attackUnitAmountFlank": "Bonus zum Einheitenlimit auf den Flanken beim Angriff",
@@ -11915,7 +11919,9 @@
       "Baba Varjúka"
     ],
     "minigameFeat_hud_desc": "Spielt unsere kleinen Minispiele und helft Diana.",
-    "minigameFeat_hud_header": "Bogenschützen Challenge"
+    "minigameFeat_hud_header": "Bogenschützen Challenge",
+    "dialog_event_announcement_description_277": "Ein neues Crossplay-Event ruft nach euch!\nVerbündet euch mit anderen Königinnen und Königen aus Goodgame Empire UND Empire: Four Kingdoms im erneuten Kampf um den Thron.  Seid ihr der neuen Herausforderung gewachsen? Erkämpft euch neue und einzigartige Belohnungen im Streben nach der Krone. Tretet jetzt bei!",
+    "tut_secondQuestConfirmPlacement_minigame_copy": "Bestätigt die Position des Gebäudes. Ihr könnt es später verschieben.\n\nSeid auf Angriffe von Feinden vorbereitet, die den Bau aufhalten wollen! Ich und mein treuer Bogen werden Sie abwehren, sobald Ihr das Wort gebt!"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% Reisetempo der Armee bei Eroberungen",
@@ -12991,7 +12997,29 @@
     "effect_name_recruitmentCostDecreaseAll": "Reduzierung der Rekrutierungsmünzkosten",
     "effect_name_recruitmentSpeedBoostAll": "Bonus auf Rekrutierungsgeschwindigkeit",
     "effect_name_toolProductionSpeedBoostAll": "Bonustempo zur Werkzeugproduktion",
-    "effect_name_unboostedHoneyProduction": "Bonus auf Honigproduktion pro Stunde"
+    "effect_name_unboostedHoneyProduction": "Bonus auf Honigproduktion pro Stunde",
+    "effect_name_ironProductionBoost": "Eisenerzproduktionsbonus in der Burg",
+    "effect_name_stoneProductionBoost": "Bonus auf Steinproduktion in der Burg",
+    "effect_name_foodProductionBoost": "Bonus für die Nahrungsmittelproduktion in der Burg",
+    "effect_name_coalProductionBoost": "Bonus zur Kohleproduktion in der Burg",
+    "effect_name_foodProductionBoostDesert": "Bonus auf die Nahrungsproduktion in einer Burg im Brennenden-Sande",
+    "effect_name_foodProductionBoostFire": "Bonus auf die Nahrungsproduktion in einer Burg des Feuergipfels",
+    "effect_name_foodProductionBoostIce": "Bonus auf die Nahrungsproduktion in einer Burg des Immerwinter-Gletschers",
+    "effect_name_foodProductionBoostMain": "Bonus auf die Nahrungsproduktion in einer Burg des Großen Imperiums",
+    "effect_name_glassProductionBoost": "Bonus auf Glasproduktion im Schloss",
+    "effect_name_meadCapacityBonusBaronEconomy": "Bonus auf Metlagerkapazität in der Burg",
+    "effect_name_oilProductionBoost": "Bonus auf Olivenölproduktion in der Burg",
+    "effect_name_stoneProductionBoostDesert": "Bonus auf Steinproduktion im Brennenden Sand Schloss",
+    "effect_name_stoneProductionBoostFire": "Bonus auf die Steinproduktion in einer Burg des Feuergipfels",
+    "effect_name_stoneProductionBoostIce": "Bonus auf Steinproduktion in einer Burg des Immerwinter-Gletschers",
+    "effect_name_stoneProductionBoostMain": "Bonus auf Steinproduktion in einer Burg des Großen Imperiums",
+    "effect_name_unboostedMeadProduction": "Bonus auf Metproduktion in der Burg",
+    "effect_name_woodProductionBoostDesert": "Bonus auf die Holzproduktion in einer Burg im Brennenden-Sande",
+    "effect_name_woodProductionBoostFire": "Bonus auf die Holzproduktion in einer Burg des Feuergipfels",
+    "effect_name_woodProductionBoostIce": "Bonus auf die Holzproduktion in einer Burg des Immerwinter-Gletschers",
+    "effect_name_woodProductionBoostMain": "Bonus auf die Holzproduktion in einer Burg des Großen Imperiums",
+    "effect_name_woodProductionBoost": "Bonus auf Holzproduktion in der Burg",
+    "effect_name_foodProductionBoostBaronEconomy": "Bonus für die Nahrungsmittelproduktion in der Burg"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Held",
@@ -18711,7 +18739,8 @@
     "currency_description_dragonriderLTPEToken": "Diese Marke wurde aus wertvollem Rotgold gefertigt, das in Drachenfeuer geschmolzen wurde. Kann beim Schmiedemeister für begrenzte Zeit gegen Belohnungen eingetauscht werden.",
     "currency_name_dragonriderLTPEToken": "Feuerwyrm-Marken",
     "filters_category_116": "Feuerwyrm-Marken",
-    "target_placeholder": "Ziel: {0}"
+    "target_placeholder": "Ziel: {0}",
+    "changed": "Geändert"
   },
   "help": {
     "help_location": "Hier seht Ihr eine globale Übersicht über die wichtigen \nBesitztümer Eurer Burg und aller Außenposten.",

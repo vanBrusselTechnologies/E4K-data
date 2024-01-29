@@ -1892,7 +1892,11 @@
     "ci_appearance_xmasStronghold_flavour": "Når dagene blir kortere, hjelper sterke murer og varme drikker med å holde kulden ute, noe som løfter soldatenes ånder.",
     "deco_christmasCarousel_name": "Karneval i vinterland",
     "deco_christmasKiosqueFountain_name": "Vinterfontenen",
-    "deco_xmasGluhweinStand_name": "Vintergavestand"
+    "deco_xmasGluhweinStand_name": "Vintergavestand",
+    "deco_DessertKingdomScorpionTomb_name": "Opphøyet skorpiontempel",
+    "deco_FireKingdomMoltenGiant_name": "Ærverdig kjempes smerte",
+    "deco_GreenKingdomGoddessOfNature_name": "Høytidelig naturgudinne",
+    "deco_IceKingdomDragonBones_name": "Eksalterte dragebein"
   },
   "dialogs": {
     "dialog_festival_desc": "Bruk mat til å holde en festival for folket! Rekrutteringshastigheten vil markant økes ved alle slottene dine så lenge festivalen varer. Desto større festival, jo bedre effekt.",
@@ -11834,7 +11838,7 @@
     "webshop_decoWithEffects_food_desc": "Øker ro og orden i slottet ditt↵+{0} matproduksjon↵+{1} kapasitet til matlagring↵Maksimum {2} per område",
     "webshop_decoWithEffects_marketBarrows_desc": "Øker roen innenfor slottsmurene↵+{0} markedshjul-kapasitet↵+{1} % markedshjul-reisehastighet↵Maks {2} per område",
     "webshop_decoWithEffects_recruitmentCost_desc": "Øker ordenen i slottet ditt↵Reduserer kostnadene for alle tropper med {0} %↵Maksimum {2} per område",
-    "webshop_decoWithEffects_recruitmentSpeed_desc": "Øker ro og orden i slottet.↵Reduser enhetsproduksjonstiden med {0}%.↵Maks {2} per område",
+    "webshop_decoWithEffects_recruitmentSpeed_desc": "Øker orden i ditt slott\nForbedrer hastigheten på all enhetsproduksjon med {0} %\nMaksimalt {2} i hvert område",
     "webshop_decoWithEffects_toolProduction_desc": "Øker ordenen inne på slottet ditt↵+{0} % økning av fart til alle verktøyproduksjoner↵Maksimum {2} per område",
     "effect_name_allianceDefenseUnitAmountYardBonus": "Bonus til kapasitet for støttetropper i alliansen",
     "effect_name_attackUnitAmountFlank": "Bonustillegg til enhetsgrensen på flankene ved angrep",
@@ -11844,7 +11848,7 @@
     "minigameFeat_leave_description": "Vil du virkelig avslutte?",
     "minigameFeat_leave_header": "Er du sikker?",
     "minigameFeat_win_again": "Start på nytt",
-    "minigameFeat_win_next": "Neste",
+    "minigameFeat_win_next": "Fortsett",
     "webshop_offerExpires": "Tilbudet er over om {0}",
     "dialog_tempServer_start_desc1_desc_crossplay": "• Konkurrer med spillere fra hele verden på nett eller mobil på en ny eventserver\n• Samle poeng i den daglige rangeringen for å tjene verdifulle belønninger\n• Tilfør dine fiender flammer og ditt folk velstand",
     "dialog_tempServer_start_desc2_desc_crossplay": "• Kjemp mot og sammen med nye naboer du aldri har sett før\n• Etabler nye allianser og handelsmuligheter\n• Hersk over ditt slott i et land fritt for diplomatiske forpliktelser",
@@ -11915,7 +11919,9 @@
       "Baba Varjúka"
     ],
     "minigameFeat_hud_desc": "Spill våre små minispill og hjelp Diana.",
-    "minigameFeat_hud_header": "Bueskytterutfordring"
+    "minigameFeat_hud_header": "Bueskytterutfordring",
+    "dialog_event_announcement_description_277": "En ny Crossplay-event kaller på deg!\nSlutt deg til andre dronninger og konger fra Goodgame Empire OG Empire: Four Kingdoms i kampen for tronen igjen. Ditt folk venter på dine befalinger om hvordan de skal bygge og slåss. Kan du takle denne nye utfordringen? Vinn nye og unike belønninger i din kamp for kronen. Slutt deg til nå!",
+    "tut_secondQuestConfirmPlacement_minigame_copy": "Bekreft bygningens plassering. Du kan flytte på den senere.\n\nVær forberedt, fiender vil forsøke å stoppe konstruksjonen! Si bare ordet, meg og min pålitelige bue vil kjempe dem bort!"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0} % reisehastighet for hær under erobringer",
@@ -12991,7 +12997,29 @@
     "effect_name_recruitmentCostDecreaseAll": "Reduksjon av rekrutteringsmyntkostnad",
     "effect_name_recruitmentSpeedBoostAll": "Bonus til rekrutteringshastighed",
     "effect_name_toolProductionSpeedBoostAll": "Verktøyproduksjonshastighet-bonus",
-    "effect_name_unboostedHoneyProduction": "Bonustillegg til honningproduksjon per time"
+    "effect_name_unboostedHoneyProduction": "Bonustillegg til honningproduksjon per time",
+    "effect_name_ironProductionBoost": "Bonus til jernproduksjon i slott",
+    "effect_name_stoneProductionBoost": "Bonus til steinproduksjon i slott",
+    "effect_name_foodProductionBoost": "Bonus til matproduksjonen i slottet",
+    "effect_name_coalProductionBoost": "Bonustillegg til kullproduksjonen i slottet",
+    "effect_name_foodProductionBoostDesert": "Bonustillegg til matproduksjon i et brennende sandslott",
+    "effect_name_foodProductionBoostFire": "Matproduksjonsbonus i et ildfjellslott",
+    "effect_name_foodProductionBoostIce": "Matproduksjonsbonus i Slottet i den evige vinter",
+    "effect_name_foodProductionBoostMain": "Matproduksjonsbonus i slott fra Det store riket",
+    "effect_name_glassProductionBoost": "Bonus til glassproduksjon i slottet",
+    "effect_name_meadCapacityBonusBaronEconomy": "Bonus til mead-lagringskapasitet i slottet",
+    "effect_name_oilProductionBoost": "Bonus til olivenoljeproduksjon i slott",
+    "effect_name_stoneProductionBoostDesert": "Steinproduksjonsbonus i Brennende Sand-slott",
+    "effect_name_stoneProductionBoostFire": "Bonus til steinproduksjon i et Ildtindene-slott",
+    "effect_name_stoneProductionBoostIce": "Steinproduksjonsbonus i Slottet i den evige vinter",
+    "effect_name_stoneProductionBoostMain": "Bonus til steinproduksjon i et slott fra Det store riket",
+    "effect_name_unboostedMeadProduction": "Bonus til mjødproduksjon i slott",
+    "effect_name_woodProductionBoostDesert": "Bonus til treproduksjon i et Brennende ørken-slott",
+    "effect_name_woodProductionBoostFire": "Bonus til treproduksjon i et Ildtindene-slott",
+    "effect_name_woodProductionBoostIce": "Bonus til treproduksjon i et slott i Vinterlandskapet",
+    "effect_name_woodProductionBoostMain": "Bonus til treproduksjon i Storrike-slottet",
+    "effect_name_woodProductionBoost": "Bonus til treproduksjon i slott",
+    "effect_name_foodProductionBoostBaronEconomy": "Bonus til matproduksjonen i slottet"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Helt",
@@ -18711,7 +18739,8 @@
     "currency_description_dragonriderLTPEToken": "Denne mynten er lagd av kostbart, rødt gull og er smeltet i drageild. Kan byttes mot belønninger hos mestersmeden i en kort periode.",
     "currency_name_dragonriderLTPEToken": "Ildormmynter",
     "filters_category_116": "Ildormmynter",
-    "target_placeholder": "Mål: {0}"
+    "target_placeholder": "Mål: {0}",
+    "changed": "Endret"
   },
   "help": {
     "help_location": "Her har du en global oversikt over viktig innhold fra slottet ditt og utpostene.",

@@ -947,6 +947,7 @@ export interface Images {
     "Deco_Building_DancingKnight": ImageData;
     "Deco_Building_DarkRoomHalloween": ImageData;
     "Deco_Building_DeathMask": ImageData;
+    "Deco_Building_DessertKingdomScorpionTomb": ImageData;
     "Deco_Building_DragonBall": ImageData;
     "Deco_Building_Dragonhead": ImageData;
     "Deco_Building_DwarfStatue": ImageData;
@@ -963,6 +964,7 @@ export interface Images {
     "Deco_Building_FallenGiantRed": ImageData;
     "Deco_Building_Fieldkitchen": ImageData;
     "Deco_Building_FireEngineDistrictDeco": ImageData;
+    "Deco_Building_FireKingdomMoltenGiant": ImageData;
     "Deco_Building_Flag": ImageData;
     "Deco_Building_Flagpole": ImageData;
     "Deco_Building_FlatEarth": ImageData;
@@ -989,6 +991,7 @@ export interface Images {
     "Deco_Building_GoldTurtleHut": ImageData;
     "Deco_Building_GoldenGlobe": ImageData;
     "Deco_Building_GoldenweekShrine": ImageData;
+    "Deco_Building_GreenKingdomGoddessOfNature": ImageData;
     "Deco_Building_GreenTurtleHut": ImageData;
     "Deco_Building_GuardianOfTheEmpire": ImageData;
     "Deco_Building_GuardiansOfDeath": ImageData;
@@ -1003,6 +1006,7 @@ export interface Images {
     "Deco_Building_Horsestatue": ImageData;
     "Deco_Building_HorsetailFlag": ImageData;
     "Deco_Building_HuntersRest": ImageData;
+    "Deco_Building_IceKingdomDragonBones": ImageData;
     "Deco_Building_IndianWaterTempleBrown": ImageData;
     "Deco_Building_IndianWaterTempleWhite": ImageData;
     "Deco_Building_InfernalTurtleHut": ImageData;
@@ -5439,6 +5443,7 @@ export interface Images {
     "icon_effect_building_economy_xs": ImageData;
     "icon_effect_building_hybrid_xs": ImageData;
     "icon_effect_classicResourceProductionBonus": ImageData;
+    "icon_effect_coalProduction": ImageData;
     "icon_effect_coalProductionBoost": ImageData;
     "icon_effect_conquerSpeedBonus": ImageData;
     "icon_effect_defenseBonus": ImageData;
@@ -5474,12 +5479,15 @@ export interface Images {
     "icon_effect_fireBrigadeBonus": ImageData;
     "icon_effect_foodCapacityBonus": ImageData;
     "icon_effect_foodProductionBonus": ImageData;
+    "icon_effect_foodProductionBoost": ImageData;
+    "icon_effect_glassProduction": ImageData;
     "icon_effect_glassProductionBoost": ImageData;
     "icon_effect_hideoutCapacity": ImageData;
     "icon_effect_honeyCapacityBonus": ImageData;
     "icon_effect_honorBonus": ImageData;
     "icon_effect_hospitalCapacityBonus": ImageData;
     "icon_effect_icon_effect_classicResourceProductionBonus": ImageData;
+    "icon_effect_ironProduction": ImageData;
     "icon_effect_ironProductionBoost": ImageData;
     "icon_effect_killAttackingAnyTroopsYard": ImageData;
     "icon_effect_killAttackingMeleeTroopsYard": ImageData;
@@ -5506,6 +5514,7 @@ export interface Images {
     "icon_effect_occupationTimeReduction": ImageData;
     "icon_effect_offensiveMeleeBonus": ImageData;
     "icon_effect_offensiveRangeBonus": ImageData;
+    "icon_effect_oilProduction": ImageData;
     "icon_effect_oilProductionBoost": ImageData;
     "icon_effect_perceptionBonus": ImageData;
     "icon_effect_publicOrderBonus": ImageData;
@@ -5523,6 +5532,7 @@ export interface Images {
     "icon_effect_stationingSpeedBonus": ImageData;
     "icon_effect_stationingTravelCostReduction": ImageData;
     "icon_effect_stealthBonus": ImageData;
+    "icon_effect_stoneProduction": ImageData;
     "icon_effect_stoneProductionBoost": ImageData;
     "icon_effect_supportSpeedBonus": ImageData;
     "icon_effect_supportTravelCostReduction": ImageData;
@@ -5534,6 +5544,7 @@ export interface Images {
     "icon_effect_unboostedMeadProduction": ImageData;
     "icon_effect_wallBonus": ImageData;
     "icon_effect_wallReduction": ImageData;
+    "icon_effect_woodProduction": ImageData;
     "icon_effect_woodProductionBoost": ImageData;
     "icon_enemy_tab": ImageData;
     "icon_enhance_probability_b": ImageData;
@@ -5585,8 +5596,12 @@ export interface Images {
     "icon_event_85": ImageData;
     "icon_event_97": ImageData;
     "icon_event_crossplay_106": ImageData;
+    "icon_event_crossplay_106_rankSwap": ImageData;
+    "icon_event_crossplay_big_106": ImageData;
+    "icon_event_crossplay_big_106_rankSwap": ImageData;
     "icon_event_crossplay_small_106": ImageData;
     "icon_event_crossplay_xl_106": ImageData;
+    "icon_event_crossplay_xl_106_rankSwap": ImageData;
     "icon_event_quest_3": ImageData;
     "icon_event_quest_4": ImageData;
     "icon_event_quest_72": ImageData;
@@ -6100,6 +6115,7 @@ export interface Images {
     "icon_ignore_player_xl": ImageData;
     "icon_increase_boost": ImageData;
     "icon_indicator_locked": ImageData;
+    "icon_indicator_minigame": ImageData;
     "icon_influence": ImageData;
     "icon_influence_disabled": ImageData;
     "icon_influence_disabled_small": ImageData;
@@ -6654,8 +6670,11 @@ export interface Images {
     "icon_tempserver_castleTransport_xxl": ImageData;
     "icon_tempserver_crossplay": ImageData;
     "icon_tempserver_crossplay_big": ImageData;
+    "icon_tempserver_crossplay_big_rankSwap": ImageData;
+    "icon_tempserver_crossplay_rankSwap": ImageData;
     "icon_tempserver_crossplay_small": ImageData;
     "icon_tempserver_crossplay_xl": ImageData;
+    "icon_tempserver_crossplay_xl_rankSwap": ImageData;
     "icon_tempserver_crossplay_xxl": ImageData;
     "icon_tempserver_medium": ImageData;
     "icon_tempserver_scoring_xl": ImageData;
@@ -7602,7 +7621,6 @@ export interface Images {
     "teaser_collector_Winter": ImageData;
     "teaser_collector_tenthAnniversary": ImageData;
     "teaser_crossplay_starter": ImageData;
-    "teaser_crossplay_starter_rankSwap": ImageData;
     "teaser_daimyo_1": ImageData;
     "teaser_daimyo_2": ImageData;
     "teaser_daimyo_3": ImageData;

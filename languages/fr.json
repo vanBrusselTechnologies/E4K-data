@@ -1892,7 +1892,11 @@
     "ci_appearance_xmasStronghold_flavour": "Lorsque les jours raccourcissent, de robustes murailles et des boissons chaudes écartent le froid, stimulant le moral des troupes.",
     "deco_christmasCarousel_name": "Carrousel dhiver",
     "deco_christmasKiosqueFountain_name": "Fontaine dhiver",
-    "deco_xmasGluhweinStand_name": "Étal des cadeaux dhiver"
+    "deco_xmasGluhweinStand_name": "Étal des cadeaux dhiver",
+    "deco_DessertKingdomScorpionTomb_name": "Temple scorpion exalté",
+    "deco_FireKingdomMoltenGiant_name": "Agonie du géant exalté",
+    "deco_GreenKingdomGoddessOfNature_name": "Déesse de la nature exaltée",
+    "deco_IceKingdomDragonBones_name": "Os de dragon exalté"
   },
   "dialogs": {
     "dialog_festival_desc": "Utilisez de la nourriture pour organiser une fête pour vos villageois ! Tant que la fête durera, la vitesse de recrutement sera considérablement augmentée dans tous vos châteaux. Plus la fête est grande, plus son effet est important.",
@@ -11834,7 +11838,7 @@
     "webshop_decoWithEffects_food_desc": "Augmente lordre au sein de votre château↵+{0} de production de nourriture↵+{1} de capacité de stockage de nourriture↵Maximum : {2} par région",
     "webshop_decoWithEffects_marketBarrows_desc": "Améliore lordre à lintérieur de votre château↵Capacité de fiches produit : +{0}↵Vitesse de déplacement de marchandises dans les charrettes à jouer : +{1} %↵Max. : {2} par zone",
     "webshop_decoWithEffects_recruitmentCost_desc": "Augmente lordre de votre château↵Réduit le coût de toutes les troupes de {0} %↵Maximum : {2} par zone",
-    "webshop_decoWithEffects_recruitmentSpeed_desc": "Augmente lordre dans votre château↵Accélère toutes les productions dunités de {0} %↵Maximum : {2} par zone",
+    "webshop_decoWithEffects_recruitmentSpeed_desc": "Augmente lautorité dans votre château\nAccélère la production de toutes les unités de {0}%\nMaximum de {2} par zone",
     "webshop_decoWithEffects_toolProduction_desc": "Améliore lordre dans votre château↵+{0} % de vitesse de production des engins↵Maximum : {2} par zone",
     "effect_name_allianceDefenseUnitAmountYardBonus": "Bonus de capacité des troupes de soutien dalliance",
     "effect_name_attackUnitAmountFlank": "Bonus supplémentaire aux limites dunités sur les flancs en attaque",
@@ -11844,7 +11848,7 @@
     "minigameFeat_leave_description": "Souhaitez-vous vraiment sortir ?",
     "minigameFeat_leave_header": "Êtes-vous sûr ?",
     "minigameFeat_win_again": "À nouveau",
-    "minigameFeat_win_next": "Suivant",
+    "minigameFeat_win_next": "Continuer",
     "webshop_offerExpires": "Cette offre se termine dans {0}",
     "dialog_tempServer_start_desc1_desc_crossplay": "• Affrontez des joueurs du monde entier sur le web ou mobile sur un nouveau serveur événementiel\n• Accumulez des points de classement quotidiens pour obtenir des récompenses précieuses\n• Semez le chaos chez vos ennemis et la prospérité chez vos alliés",
     "dialog_tempServer_start_desc2_desc_crossplay": "• Affrontez et combattez avec de nouveaux voisins que vous navez peut-être encore jamais rencontrés\n• Forgez de nouvelles alliances et opportunités commerciales\n• Dirigez votre château dans une contrée libre de toute contrainte diplomatique",
@@ -11915,7 +11919,9 @@
       "Baba Varjúka"
     ],
     "minigameFeat_hud_desc": "Jouez à nos mini-jeux et aidez Diana.",
-    "minigameFeat_hud_header": "Défi de larcher"
+    "minigameFeat_hud_header": "Défi de larcher",
+    "dialog_event_announcement_description_277": "Un nouvel événement Crossplay vous appelle !\nJoignez-vous aux autres Reines et Rois de Goodgame Empire ET Empire: Four Kingdoms pour lutter une nouvelle fois pour le trône. Pourrez-vous relever ce nouveau défi ? Remportez de nouvelles récompenses exclusives dans votre lutte pour la couronne. Participez dès à présent !",
+    "tut_secondQuestConfirmPlacement_minigame_copy": "Confirmez la position du bâtiment. Vous pourrez le déplacer ultérieurement.\n\nSoyez prêt, les ennemis tenteront dinterrompre la construction ! Sur votre signal, moi et mon fidèle arc les repousserons !"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "Vitesse de déplacement de larmée lors des conquêtes : +{0} %",
@@ -12991,7 +12997,29 @@
     "effect_name_recruitmentCostDecreaseAll": "Réduction du coût en pièces du recrutement",
     "effect_name_recruitmentSpeedBoostAll": "Bonus à la vitesse de recrutement",
     "effect_name_toolProductionSpeedBoostAll": "Bonus de production doutils accéléré",
-    "effect_name_unboostedHoneyProduction": "Bonus de production de miel par heure"
+    "effect_name_unboostedHoneyProduction": "Bonus de production de miel par heure",
+    "effect_name_ironProductionBoost": "Bonus de production de fer au château",
+    "effect_name_stoneProductionBoost": "Bonus de production de pierre dans le château",
+    "effect_name_foodProductionBoost": "Bonus de production alimentaire dans le château",
+    "effect_name_coalProductionBoost": "Bonus à la production de charbon au château",
+    "effect_name_foodProductionBoostDesert": "Bonus à la production de nourriture au château des Sables Ardents",
+    "effect_name_foodProductionBoostFire": "Bonus de production de nourriture dans un château des Pics du feu",
+    "effect_name_foodProductionBoostIce": "Bonus de production de nourriture dans un château du Glacier éternel",
+    "effect_name_foodProductionBoostMain": "Bonus de production de nourriture dans un château du Grand Empire",
+    "effect_name_glassProductionBoost": "Bonus de production de verre dans le château",
+    "effect_name_meadCapacityBonusBaronEconomy": "Bonus de capacité de stockage dhydromel dans le château",
+    "effect_name_oilProductionBoost": "Bonus de production dhuile dolive au château",
+    "effect_name_stoneProductionBoostDesert": "Bonus de production de pierre dans un château des Sables brûlants",
+    "effect_name_stoneProductionBoostFire": "Bonus de production de pierre dans un château des Pics du feu",
+    "effect_name_stoneProductionBoostIce": "Bonus de production de pierre dans un château du Glacier éternel",
+    "effect_name_stoneProductionBoostMain": "Bonus de production de pierre dans un château du Grand Empire",
+    "effect_name_unboostedMeadProduction": "Bonus de production dhydromel dans le château",
+    "effect_name_woodProductionBoostDesert": "Bonus de production de bois dans un château des Sables brûlants",
+    "effect_name_woodProductionBoostFire": "Bonus de production de bois dans un château des Pics du feu",
+    "effect_name_woodProductionBoostIce": "Bonus de production de bois dans un château du Glacier éternel",
+    "effect_name_woodProductionBoostMain": "Bonus sur la production de bois dans un château de lEmpire",
+    "effect_name_woodProductionBoost": "Bonus de production de bois dans le château",
+    "effect_name_foodProductionBoostBaronEconomy": "Bonus de production alimentaire dans le château"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Héros",
@@ -18711,7 +18739,8 @@
     "currency_description_dragonriderLTPEToken": "Ce jeton est composé dor rouge fondu dans le feu des dragons. Peut être échangé contre des récompenses chez le maître forgeron pendant une durée limitée.",
     "currency_name_dragonriderLTPEToken": "Jetons de vouivre de feu",
     "filters_category_116": "Jetons de vouivre de feu",
-    "target_placeholder": "Cible : {0}"
+    "target_placeholder": "Cible : {0}",
+    "changed": "Modifié"
   },
   "help": {
     "help_location": "Ici, vous avez un aperçu global des contenus importants de votre château et de tous vos avant-postes.",

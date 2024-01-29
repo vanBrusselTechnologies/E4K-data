@@ -1892,7 +1892,11 @@
     "ci_appearance_xmasStronghold_flavour": "Καθώς οι μέρες μικραίνουν, τα ισχυρά τείχη και τα ζεστά ροφήματα απωθούν το κρύο, φέρνοντας ζεστασιά στις καρδιές των στρατιωτών.",
     "deco_christmasCarousel_name": "Χειμερινό καρουζέλ",
     "deco_christmasKiosqueFountain_name": "Χειμερινό Σιντριβάνι",
-    "deco_xmasGluhweinStand_name": "Περίπτερο χειμωνιάτικων δώρων"
+    "deco_xmasGluhweinStand_name": "Περίπτερο χειμωνιάτικων δώρων",
+    "deco_DessertKingdomScorpionTomb_name": "Υψηλός ναός σκορπιού",
+    "deco_FireKingdomMoltenGiant_name": "Αγωνία του γίγαντα",
+    "deco_GreenKingdomGoddessOfNature_name": "Υψηλή θεά της φύσης",
+    "deco_IceKingdomDragonBones_name": "Ανώτερα οστά δράκου"
   },
   "dialogs": {
     "dialog_festival_desc": "Χρησιμοποιήστε τρόφιμα, για να διοργανώσετε μία γιορτή για τους πολίτες σας!\nΌσο διαρκεί η γιορτή, η ταχύτητα στρατολόγησης σ όλα τα κάστρα σας θ αυξηθεί. Όσο μεγαλύτερη είναι η γιορτή, τόσο μεγαλύτερη είναι και η επίδραση.",
@@ -11834,7 +11838,7 @@
     "webshop_decoWithEffects_food_desc": "Αυξάνει τάξη μέσα στο κάστρο σου↵+{0} παραγωγή τροφίμων↵+{1} χωρητικότητα αποθήκευσης τροφίμων↵Μέγιστο {2} ανά περιοχή",
     "webshop_decoWithEffects_marketBarrows_desc": "Αυξάνει την τάξη στο κάστρο σας↵+{0} χωρητικότητα των καροτσιών αγορών↵+{1}% ταχύτητα μεταφοράς καροτσιών αγορών↵Μέγιστο {2} ανά περιοχή",
     "webshop_decoWithEffects_recruitmentCost_desc": "Αυξάνει την τάξη μέσα στο κάστρο σου↵Μειώνει το κόστος για όλα τα στρατεύματα κατά {0}%↵Μέγιστο: {2} ανά περιοχή",
-    "webshop_decoWithEffects_recruitmentSpeed_desc": "Αυξάνει τη σειρά στο κάστρο σου. Βελτιώνει την ταχύτητα σε όλα τα επίπεδα παραγωγής μονάδων κατά {0}%. Μέγιστο {2} το κάθε πεδίο",
+    "webshop_decoWithEffects_recruitmentSpeed_desc": "Αυξάνει την τάξη εντός του κάστρου σου\nΑυξάνει την ταχύτητα παραγωγής όλων των μονάδων κατά {0}%\nΜέγιστο {2} ανά περιοχή",
     "webshop_decoWithEffects_toolProduction_desc": "Αυξάνει την τάξη στο κάστρο σου↵+{0}% ταχύτητα όλων των παραγωγών εργαλείων ↵Μέγιστο {2} ανά περιοχή",
     "effect_name_allianceDefenseUnitAmountYardBonus": "Μπόνους στη χωρητικότητα στρατευμάτων στήριξης της συμμαχίας",
     "effect_name_attackUnitAmountFlank": "Μπόνους στο όριο μονάδων για τα πλαϊνά κατά την επίθεση",
@@ -11915,7 +11919,9 @@
       "Μπάμπα Βαργιούκα"
     ],
     "minigameFeat_hud_desc": "Παίξε τα μικρά παιχνίδια και βοήθησε την Ντιάνα.",
-    "minigameFeat_hud_header": "Πρόκληση του Τοξότη!"
+    "minigameFeat_hud_header": "Πρόκληση του Τοξότη!",
+    "dialog_event_announcement_description_277": "Ένα νέο γεγονός Crossplay σε προσκαλεί!\nΣυμμετέχεις με άλλες βασίλισσες και βασιλιάδες από το Goodgame Empire ΚΑΙ το Empire: Four Kingdoms σε μια νέα μάχη για το θρόνο. Μπορείς να αντιμετωπίσεις αυτή τη νέα πρόκληση; Κέρδισε νέες και μοναδικές ανταμοιβές στη μάχη για το στέμμα. Συμμετέχεις τώρα!",
+    "tut_secondQuestConfirmPlacement_minigame_copy": "Επιβεβαίωσε τη θέση του κτιρίου. Μπορείς να το μετακινήσεις αργότερα. \n\nΠροετοιμάσου, οι εχθροί θα προσπαθήσουν να σταματήσουν την κατασκευή! Απλά πες το λόγο, εγώ και το έμπιστο τόξο μου θα τους αντιμετωπίσουμε!"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% ταχύτητα ταξιδιού στρατού κατά τη διάρκεια κατακτήσεων",
@@ -12991,7 +12997,29 @@
     "effect_name_recruitmentCostDecreaseAll": "Μείωση του κόστους νομισμάτων για στρατολόγηση",
     "effect_name_recruitmentSpeedBoostAll": "Μπόνους στην ταχύτητα στρατολόγησης",
     "effect_name_toolProductionSpeedBoostAll": "Μπόνους στην ταχύτητα παραγωγής εργαλείων",
-    "effect_name_unboostedHoneyProduction": "Μπόνους στην παραγωγή μελιού ανά ώρα"
+    "effect_name_unboostedHoneyProduction": "Μπόνους στην παραγωγή μελιού ανά ώρα",
+    "effect_name_ironProductionBoost": "Μπόνους παραγωγής σιδήρου στο κάστρο",
+    "effect_name_stoneProductionBoost": "Μπόνους στην παραγωγή πέτρας του κάστρου",
+    "effect_name_foodProductionBoost": "Μπόνους στην παραγωγή τροφίμων στο κάστρο",
+    "effect_name_coalProductionBoost": "Μπόνους παραγωγής κάρβουνου στο κάστρο",
+    "effect_name_foodProductionBoostDesert": "Μπόνους στην παραγωγή τροφής στο κάστρο Έρημης Άμμου",
+    "effect_name_foodProductionBoostFire": "Μπόνους παραγωγής τροφίμων στις Φλεγόμενες Κορυφές",
+    "effect_name_foodProductionBoostIce": "Μπόνους παραγωγής τροφής σε κάστρο Αιώνιας Παγετώνα",
+    "effect_name_foodProductionBoostMain": "Μπόνους παραγωγής τροφής σε κάστρο Μεγάλης Αυτοκρατορίας",
+    "effect_name_glassProductionBoost": "Μπόνους στην παραγωγή γυαλιού του κάστρου",
+    "effect_name_meadCapacityBonusBaronEconomy": "Μπόνους χωρητικότητας αποθήκευσης υδρομελιού στο κάστρο",
+    "effect_name_oilProductionBoost": "Μπόνους παραγωγής ελαιολάδου στο κάστρο",
+    "effect_name_stoneProductionBoostDesert": "Μπόνους παραγωγής πέτρας σε κάστρο Καυτής Άμμου",
+    "effect_name_stoneProductionBoostFire": "Μπόνους παραγωγής πέτρας σε κάστρο Καυτές Κορυφές",
+    "effect_name_stoneProductionBoostIce": "Μπόνους παραγωγής πέτρας σε κάστρο Αιώνιας Παγωνιάς",
+    "effect_name_stoneProductionBoostMain": "Μπόνους παραγωγής πετρών σε κάστρο της Μεγάλης Αυτοκρατορίας",
+    "effect_name_unboostedMeadProduction": "Μπόνους παραγωγής υδρομελιού στο κάστρο",
+    "effect_name_woodProductionBoostDesert": "Μπόνους παραγωγής ξύλου στο κάστρο με άμμο【9†source】",
+    "effect_name_woodProductionBoostFire": "Μπόνους παραγωγής ξύλου σε κάστρο Καυτές Κορυφές",
+    "effect_name_woodProductionBoostIce": "Μπόνους παραγωγής ξύλου σε κάστρο Αιώνιας Παγωνιάς",
+    "effect_name_woodProductionBoostMain": "Μπόνους παραγωγής ξύλου σε κάστρο Μεγάλης Αυτοκρατορίας",
+    "effect_name_woodProductionBoost": "Μπόνους στην παραγωγή ξύλου στο κάστρο",
+    "effect_name_foodProductionBoostBaronEconomy": "Μπόνους στην παραγωγή τροφίμων στο κάστρο"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Ήρωας",
@@ -18711,7 +18739,8 @@
     "currency_description_dragonriderLTPEToken": "Αυτή η μάρκα κατασκευάστηκε από πολύτιμο κόκκινο χρυσό, λιωμένο σε φωτιά δράκου. Μπορεί να ανταλλαχθεί με ανταμοιβές στον Αρχισιδηρουργό για περιορισμένο χρόνο.",
     "currency_name_dragonriderLTPEToken": "Μάρκες Δράκου της φωτιάς",
     "filters_category_116": "Μάρκες Δράκου της φωτιάς",
-    "target_placeholder": "Στόχος: {0}"
+    "target_placeholder": "Στόχος: {0}",
+    "changed": "Αλλαγμένο"
   },
   "help": {
     "help_location": "Εδώ έχετε παγκόσμια επισκόπηση των σημαντικών περιεχομένων του κάστρου σας και των οχυρών σας.",

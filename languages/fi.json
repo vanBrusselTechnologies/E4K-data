@@ -1892,7 +1892,11 @@
     "ci_appearance_xmasStronghold_flavour": "Kun päivät käyvät lyhyemmiksi, vahvat muurit ja lämpimät juomat pitävät kylmän loitolla ja kohottavat sotilaiden mielialaa.",
     "deco_christmasCarousel_name": "Talvikaruselli",
     "deco_christmasKiosqueFountain_name": "Talvilähde",
-    "deco_xmasGluhweinStand_name": "Talvilahjakoju"
+    "deco_xmasGluhweinStand_name": "Talvilahjakoju",
+    "deco_DessertKingdomScorpionTomb_name": "Jalostettu skorpionitemppeli",
+    "deco_FireKingdomMoltenGiant_name": "Ylevän jätin tuska",
+    "deco_GreenKingdomGoddessOfNature_name": "Ylevä luonnon jumalatar",
+    "deco_IceKingdomDragonBones_name": "Ylevät lohikäärmeen luut"
   },
   "dialogs": {
     "dialog_festival_desc": "Järjestä kansalaisillesi kestit ruokaa käyttämällä! Värväys nopeutuu kaikissa linnoissasi huomattavasti, niin kauan kuin kestit jatkuvat. Mitä isommat kestit järjestät, sitä suurempi niiden vaikutus on.",
@@ -11834,7 +11838,7 @@
     "webshop_decoWithEffects_food_desc": "Lisää linnasi järjestystä↵+{0} ruoantuotanto↵+{1} ruokavaraston maksimikapasiteetti↵Maksimissaan {2} aluettasi kohden",
     "webshop_decoWithEffects_marketBarrows_desc": "Lisää linnan järjestystä ja myllerrystä↵+{0} markkinakärryn kapasiteettia↵+{1} % markkinakärryjen matkanopeutta↵Max. {2} per alue",
     "webshop_decoWithEffects_recruitmentCost_desc": "Lisää linnasi järjestystä↵Vähentää jokaisen joukon kulua {0}%↵Enintään {2} per alue",
-    "webshop_decoWithEffects_recruitmentSpeed_desc": "Lisää linnasi järjestystä↵Kiihdyttää kaikkien yksiköiden tuotantoa {0} %↵Enintään {2} kpl/alue",
+    "webshop_decoWithEffects_recruitmentSpeed_desc": "Lisää linnasi järjestystä\nParantaa kaikkien yksikköjen tuotannon nopeutta {0} %\nEnintään {2} kohdetta aluetta kohden",
     "webshop_decoWithEffects_toolProduction_desc": "Lisää linnasi järjestystä↵+{0} % kaikkien työkalujen tuotantoprosessien nopeuteen↵Maksimissaan {2} per alue",
     "effect_name_allianceDefenseUnitAmountYardBonus": "Bonus liiton tukijoukkojen kapasiteettiin",
     "effect_name_attackUnitAmountFlank": "Bonuksia sivustojen yksikkörajaan hyökätessä",
@@ -11844,7 +11848,7 @@
     "minigameFeat_leave_description": "Haluatko varmasti poistua?",
     "minigameFeat_leave_header": "Haluatko varmasti poistua?",
     "minigameFeat_win_again": "Aloita alusta",
-    "minigameFeat_win_next": "Seuraava",
+    "minigameFeat_win_next": "Jatka",
     "webshop_offerExpires": "Tämä tarjous loppuu {0}",
     "dialog_tempServer_start_desc1_desc_crossplay": "• Kilpaile pelaajia vastaan ympäri maailmaa uudella tapahtumapalvelimella verkossa tai mobiililla\n• Ansaitse päivittäisiä sijoituspisteitä ja voita arvokkaita palkintoja\n• Kylvä vihollistesi keskuuteen tuhoa liekeillä ja tuo omalle kansallesi vaurautta",
     "dialog_tempServer_start_desc2_desc_crossplay": "• Taistele ja liittoudu uusien naapurien kanssa, joita et ehkä ole aiemmin tavannut\n• Solmi uusia alliansseja ja kauppayhteyksiä\n• Hallitse linnaasi maassa, jossa diplomaattiset sidonnaisuudet eivät sido sinua",
@@ -11915,7 +11919,9 @@
       "Baba Varjúka"
     ],
     "minigameFeat_hud_desc": "Pelaa pieniä minipelejämme ja auta Dianaa.",
-    "minigameFeat_hud_header": "Haastava jousiampuja"
+    "minigameFeat_hud_header": "Haastava jousiampuja",
+    "dialog_event_announcement_description_277": "Uusi Crossplay-tapahtuma kutsuu sinua!\nLiity Goodgame Empiren ja Empire: Four Kingdoms -pelien kuningattarien ja kuninkaiden riveihin taistelemaan kruunun herruudesta. Onnistutko kohtaamaan tämän uuden haasteen? Voita uusia ja ainutlaatuisia palkintoja taistellessasi kruunusta. Liity mukaan nyt!",
+    "tut_secondQuestConfirmPlacement_minigame_copy": "Vahvista rakennuksen sijainti. Voit siirtää sitä myöhemmin.\n\nValmistaudu, viholliset yrittävät estää rakentamisen! Sananen vain, niin minä ja uskollinen jouseni taistelemme heitä vastaan!"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0} % armeijan matkanopeuteen valloitusten aikana",
@@ -12991,7 +12997,29 @@
     "effect_name_recruitmentCostDecreaseAll": "Vähennys verukkeiden rekrytointikustannuksista",
     "effect_name_recruitmentSpeedBoostAll": "Rekrytointinopeuden lisäbonus",
     "effect_name_toolProductionSpeedBoostAll": "Työkalun tuotannon nopeustehoste",
-    "effect_name_unboostedHoneyProduction": "Lisäbonus mesituotantoon tunnissa"
+    "effect_name_unboostedHoneyProduction": "Lisäbonus mesituotantoon tunnissa",
+    "effect_name_ironProductionBoost": "Bonus linnan rautatuotantoon",
+    "effect_name_stoneProductionBoost": "Linnan kivituotannon lisäbonus",
+    "effect_name_foodProductionBoost": "Bonus linnan elintarviketuotantoon",
+    "effect_name_coalProductionBoost": "Lisä hiilen tuotantoon linnassa",
+    "effect_name_foodProductionBoostDesert": "Ruokatuotannon lisäys Palavan hiekan linnassa",
+    "effect_name_foodProductionBoostFire": "Lisäys Tulivuoriharjun linnan ruoantuotantoon",
+    "effect_name_foodProductionBoostIce": "Lisäpisteet EverwinterGlacier-linnan ruokatuotantoon",
+    "effect_name_foodProductionBoostMain": "Lisäys suurvaltakunnan linnan ruokatuotantoon",
+    "effect_name_glassProductionBoost": "Linnan lasintuotannon bonus",
+    "effect_name_meadCapacityBonusBaronEconomy": "Lisäys linnan siman varastotilaan",
+    "effect_name_oilProductionBoost": "Lisäys oliiviöljyn tuotantoon linnassa",
+    "effect_name_stoneProductionBoostDesert": "Lisäbonus kivituotantoon Palavassa hiekkalinnassa",
+    "effect_name_stoneProductionBoostFire": "Kivituotannon bonus Tulihuippujen linnassa",
+    "effect_name_stoneProductionBoostIce": "Kivituotannon bonus Ikitalven jäätikön linnassa",
+    "effect_name_stoneProductionBoostMain": "Kivituotannon bonus Suuren keisarikunnan linnassa",
+    "effect_name_unboostedMeadProduction": "Linnan simatuotannon bonus",
+    "effect_name_woodProductionBoostDesert": "Lisäbonus puuntuotantoon Polttavassa hiekassa",
+    "effect_name_woodProductionBoostFire": "Bonus tulivuorilinnan puuntuotantoon",
+    "effect_name_woodProductionBoostIce": "Lisäbonus ikijäälinnan puuntuotantoon",
+    "effect_name_woodProductionBoostMain": "Bonus suurvaltakunnan linnan puuntuotantoon",
+    "effect_name_woodProductionBoost": "Bonus linnan puuntuotantoon",
+    "effect_name_foodProductionBoostBaronEconomy": "Bonus linnan elintarviketuotantoon"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Sankari",
@@ -18711,7 +18739,8 @@
     "currency_description_dragonriderLTPEToken": "Tämä poletti on tehty lohikäärmeen tulella sulatetusta punakullasta. Voidaan vaihtaa palkkioihin mestarisepällä rajoitetun ajan.",
     "currency_name_dragonriderLTPEToken": "Tulikärmespoletit",
     "filters_category_116": "Tulikärmespoletit",
-    "target_placeholder": "Kohde: {0}"
+    "target_placeholder": "Kohde: {0}",
+    "changed": "Vaihdettu"
   },
   "help": {
     "help_location": "Täältä saat yleiskatsauksen linnaasi ja etuvartioihisi liittyvään sisältöön.",

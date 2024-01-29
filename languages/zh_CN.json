@@ -1892,7 +1892,11 @@
     "ci_appearance_xmasStronghold_flavour": "当日渐短夜渐长，城墙坚固暖饮香，阻隔严寒士气扬。",
     "deco_christmasCarousel_name": "冬天旋转木马",
     "deco_christmasKiosqueFountain_name": "冬天的喷泉",
-    "deco_xmasGluhweinStand_name": "冬日礼品摊"
+    "deco_xmasGluhweinStand_name": "冬日礼品摊",
+    "deco_DessertKingdomScorpionTomb_name": "崇高蝎子神殿",
+    "deco_FireKingdomMoltenGiant_name": "崇高巨人的痛苦",
+    "deco_GreenKingdomGoddessOfNature_name": "高贵的自然女神",
+    "deco_IceKingdomDragonBones_name": "尊贵龙骨"
   },
   "dialogs": {
     "dialog_festival_desc": "用食物请您的市民大餐一顿吧！宴会持续期间，您所有城堡的招募速度会大大提高。宴会越丰盛，效果越好。",
@@ -11834,7 +11838,7 @@
     "webshop_decoWithEffects_food_desc": "提高城堡内秩序\n+{0}食物产量\n+{1}食物存储容量\n每个区域最大{2}",
     "webshop_decoWithEffects_marketBarrows_desc": "提高城堡内的秩序↵+{0}市场手推车容量↵+{1}%市场手推车的行进速度↵{2}个区域上限",
     "webshop_decoWithEffects_recruitmentCost_desc": "增加城堡内部的秩序↵将所有部队的成本减少 {0}%↵每片土地最多 {2} 次",
-    "webshop_decoWithEffects_recruitmentSpeed_desc": "提升您的城堡中的秩序↵所有部队进攻力提升{0}%↵同一地区内最大值 {2}",
+    "webshop_decoWithEffects_recruitmentSpeed_desc": "提升您城堡内的秩序\n提高所有单位生产速度{0}%\n每个区域最多可放置{2}个",
     "webshop_decoWithEffects_toolProduction_desc": "提高城堡内的秩序↵+{0}% 所有工具生产的速度↵每块地最多{2}个",
     "effect_name_allianceDefenseUnitAmountYardBonus": "联盟支援部队容量加成",
     "effect_name_attackUnitAmountFlank": "攻击时侧翼单位上限的加成",
@@ -11844,7 +11848,7 @@
     "minigameFeat_leave_description": "您真的要退出吗？",
     "minigameFeat_leave_header": "您确定吗？",
     "minigameFeat_win_again": "重新开始",
-    "minigameFeat_win_next": "下一级",
+    "minigameFeat_win_next": "继续",
     "webshop_offerExpires": "该优惠时间还剩{0}",
     "dialog_tempServer_start_desc1_desc_crossplay": "• 在新的活动服务器上与全球玩家一较高下，无论是网页还是移动平台\n• 每日获取排行积分，赢得丰厚奖励\n• 给敌人以火焰的洗礼，为民众带去繁荣昌盛",
     "dialog_tempServer_start_desc2_desc_crossplay": "• 与前所未见的新邻居并肩对抗\n• 缔结新的联盟并开拓贸易机遇\n• 在一个无外交束缚的土地中统治您的城堡",
@@ -11915,7 +11919,9 @@
       "尔俱卡"
     ],
     "minigameFeat_hud_desc": "玩我们的小游戏，助力黛安娜。",
-    "minigameFeat_hud_header": "射手挑战"
+    "minigameFeat_hud_header": "射手挑战",
+    "dialog_event_announcement_description_277": "一个全新的跨界事件正在呼唤您！\n加入来自 Goodgame Empire 和 Empire: Four Kingdoms 的其他君主们，为了王权再次投入战斗。您的子民正期待着您发出建设与征战的指令。这场新挑战，您准备好了吗？争夺王冠的征途中，将赢得全新且独一无二的奖励。\n现在就参与其中！",
+    "tut_secondQuestConfirmPlacement_minigame_copy": "确认建筑物的位置。您可以稍后将其移动。 \n\n做好准备，敌人会试图阻止建设！只要您一声令下，我和我那可靠的弓就会击退他们！"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% 征服期间的军队行军速度",
@@ -12991,7 +12997,29 @@
     "effect_name_recruitmentCostDecreaseAll": "降低招募金币花费",
     "effect_name_recruitmentSpeedBoostAll": "招募速度的加成",
     "effect_name_toolProductionSpeedBoostAll": "工具生产速度奖励",
-    "effect_name_unboostedHoneyProduction": "每小时高级基本蜂蜜生产奖励"
+    "effect_name_unboostedHoneyProduction": "每小时高级基本蜂蜜生产奖励",
+    "effect_name_ironProductionBoost": "城堡铁产量加成",
+    "effect_name_stoneProductionBoost": "城堡中的石材产量加成",
+    "effect_name_foodProductionBoost": "用于提高城堡内的食物产量",
+    "effect_name_coalProductionBoost": "城堡中的煤炭产量加成",
+    "effect_name_foodProductionBoostDesert": "燃烧的沙地城堡中的食物产量加成",
+    "effect_name_foodProductionBoostFire": "火焰峰堡食物产量额外加成",
+    "effect_name_foodProductionBoostIce": "永冬冰川城堡食物产量加成",
+    "effect_name_foodProductionBoostMain": "大帝国城堡食物产量加成",
+    "effect_name_glassProductionBoost": "城堡玻璃产量加成",
+    "effect_name_meadCapacityBonusBaronEconomy": "城堡中蜂蜜酒的存储容量加成",
+    "effect_name_oilProductionBoost": "橄榄油生产加成",
+    "effect_name_stoneProductionBoostDesert": "燃烧的热沙城堡中的石材产量加成",
+    "effect_name_stoneProductionBoostFire": "熔岩峰堡的石材生产加成",
+    "effect_name_stoneProductionBoostIce": "永冻冰河城堡石材产出加成",
+    "effect_name_stoneProductionBoostMain": "大帝国城堡中的石材产量加成",
+    "effect_name_unboostedMeadProduction": "城堡中蜜酒产量加成",
+    "effect_name_woodProductionBoostDesert": "燃烧的热沙城堡中的木材产量加成",
+    "effect_name_woodProductionBoostFire": "熔岩城堡中的木材产量加成",
+    "effect_name_woodProductionBoostIce": "永冬冰川城堡木材产出加成",
+    "effect_name_woodProductionBoostMain": "大帝国城堡中的木材产量奖励",
+    "effect_name_woodProductionBoost": "城堡中的木材产量加成",
+    "effect_name_foodProductionBoostBaronEconomy": "用于提高城堡内的食物产量"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "英雄",
@@ -18711,7 +18739,8 @@
     "currency_description_dragonriderLTPEToken": "这枚代币用珍贵的红金为原料，以巨龙之息熔炼而成。可在限定时间内从铁匠大师处兑换奖励。",
     "currency_name_dragonriderLTPEToken": "火龙代币",
     "filters_category_116": "火龙代币",
-    "target_placeholder": "目标 {0}"
+    "target_placeholder": "目标 {0}",
+    "changed": "更换成功"
   },
   "help": {
     "help_location": "您可以在这里看到您城堡和所有前哨的重要信息。",

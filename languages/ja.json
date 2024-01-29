@@ -1892,7 +1892,11 @@
     "ci_appearance_xmasStronghold_flavour": "日が短くなり、堅い壁と温かい飲み物が寒さを防ぎ、兵士たちの士気を高めます。",
     "deco_christmasCarousel_name": "冬のカルーセル",
     "deco_christmasKiosqueFountain_name": "冬季の噴水",
-    "deco_xmasGluhweinStand_name": "冬のギフト屋台"
+    "deco_xmasGluhweinStand_name": "冬のギフト屋台",
+    "deco_DessertKingdomScorpionTomb_name": "至高の蠍の神殿",
+    "deco_FireKingdomMoltenGiant_name": "巨人の悲劇",
+    "deco_GreenKingdomGoddessOfNature_name": "自然の女神の崇高なる姿",
+    "deco_IceKingdomDragonBones_name": "聖なる竜の骨"
   },
   "dialogs": {
     "dialog_festival_desc": "食料を集めて宴会を開きましょう！\n宴会が続く限り、兵の雇用スピードがすべての城で速くなります。宴会が豪華になるほど、効果も大きくなります。",
@@ -11834,7 +11838,7 @@
     "webshop_decoWithEffects_food_desc": "城の秩序が増す　⇒　食料生産+{0}　食料の貯蔵庫の容量+{1}　区域あたりの最大数{2}",
     "webshop_decoWithEffects_marketBarrows_desc": "城の治安を向上させる↵物資を運ぶ馬車の数、城の収納量が{0}アップ↵物資を運ぶ馬車の移動スピードが{1}%速くなり、最大{2}まで増加",
     "webshop_decoWithEffects_recruitmentCost_desc": "城の内部をきれいにする。城兵の雇用費は{0}%安くなる。1つの領域には最大でも{2}つしか建てられない。",
-    "webshop_decoWithEffects_recruitmentSpeed_desc": "城の秩序が取り戻される\n城のユニットの生産スピードが{0}%速くなる\nエリアごとに最大{2}",
+    "webshop_decoWithEffects_recruitmentSpeed_desc": "城内の秩序を向上させる\n全ユニットの生産速度が{0}%向上する\n各エリア最大{2}個まで",
     "webshop_decoWithEffects_toolProduction_desc": "城の秩序を増進させる↵すべての兵器製造が{0}%速くなるんぞ←389有効になるがくれありまんう【で移動漢字】。最大各{2}ずつまで有効",
     "effect_name_allianceDefenseUnitAmountYardBonus": "同盟サポート兵の配置容量ボーナス",
     "effect_name_attackUnitAmountFlank": "攻撃側の部隊枠数のボーナス",
@@ -11844,7 +11848,7 @@
     "minigameFeat_leave_description": "本当に終了しますか？",
     "minigameFeat_leave_header": "本当に退出しますか？",
     "minigameFeat_win_again": "始め直す",
-    "minigameFeat_win_next": "次のレベルへ",
+    "minigameFeat_win_next": "続行",
     "webshop_offerExpires": "オファー終了までの残り時間：{0}",
     "dialog_tempServer_start_desc1_desc_crossplay": "• イベントサーバーで世界中のプレイヤーと競い合い、ウェブでもモバイルでも参加可能\n• デイリーランキングポイントを集めて、貴重な報酬を手に入れよう\n• 敵には炎を、あなたの民には繁栄をもたらそう",
     "dialog_tempServer_start_desc2_desc_crossplay": "• 新しい隣人と共に戦い、協力する\n• 新たな同盟を結成し、貿易のチャンスを広げる\n• 外交的束縛から解放された領地を統治する",
@@ -11915,7 +11919,9 @@
       "ババ・ヴァルジュカ"
     ],
     "minigameFeat_hud_desc": "小さなミニゲームをプレイして、ダイアナを助けましょう。",
-    "minigameFeat_hud_header": "射手の挑戦"
+    "minigameFeat_hud_header": "射手の挑戦",
+    "dialog_event_announcement_description_277": "新しいクロスプレイイベントがあなたを待っています！\nGoodgame EmpireとEmpire: Four Kingdomsの王たちと共に王座を巡る戦いに再び挑みましょう。あなたの指示を仰ぐ民が建築と闘争の準備を整えています。新たなこのチャレンジを乗り越えられますか？王冠の争いで、新しくて特別な報酬を勝ち取りましょう。今すぐ参戦しましょう！",
+    "tut_secondQuestConfirmPlacement_minigame_copy": "建物の位置を確認してください。後で移動することもで\n\nすが、敵が建設を止めようとしてきますので、備えてください！言葉をかけてくれれば、私と信頼できる弓で彼らを追い払います！"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "占領中の軍の移動スピード　+{0}%",
@@ -12991,7 +12997,29 @@
     "effect_name_recruitmentCostDecreaseAll": "雇用コインのコスト削減",
     "effect_name_recruitmentSpeedBoostAll": "雇用スピードボーナス",
     "effect_name_toolProductionSpeedBoostAll": "道具製造速度ボーナス",
-    "effect_name_unboostedHoneyProduction": "1時間の蜂蜜の生産ボーナス"
+    "effect_name_unboostedHoneyProduction": "1時間の蜂蜜の生産ボーナス",
+    "effect_name_ironProductionBoost": "城の鉄生産ボーナス",
+    "effect_name_stoneProductionBoost": "城内の石の生産ボーナス",
+    "effect_name_foodProductionBoost": "城内での食料生産ボーナス",
+    "effect_name_coalProductionBoost": "城の石炭生産ボーナス",
+    "effect_name_foodProductionBoostDesert": "砂漠の城の食糧生産ボーナス",
+    "effect_name_foodProductionBoostFire": "炎の峰の城での食料生産ボーナス",
+    "effect_name_foodProductionBoostIce": "氷河の城の食糧生産ボーナス【9†source】",
+    "effect_name_foodProductionBoostMain": "大帝国の城での食料生産ボーナス",
+    "effect_name_glassProductionBoost": "城のガラス生産ボーナス",
+    "effect_name_meadCapacityBonusBaronEconomy": "城の蜂蜜酒の収納量のボーナス",
+    "effect_name_oilProductionBoost": "城のオリーブオイル生産のボーナス",
+    "effect_name_stoneProductionBoostDesert": "燃える砂の城での石材生産ボーナス",
+    "effect_name_stoneProductionBoostFire": "火炎峰の城で石材の生産が増える",
+    "effect_name_stoneProductionBoostIce": "常冬の氷河の城で石材の生産が増える",
+    "effect_name_stoneProductionBoostMain": "大帝国城の石生産ボーナス",
+    "effect_name_unboostedMeadProduction": "城での蜂蜜酒の生産ボーナス",
+    "effect_name_woodProductionBoostDesert": "燃える砂の城での木材生産ボーナス",
+    "effect_name_woodProductionBoostFire": "炎の峰の城での木材生産ボーナス",
+    "effect_name_woodProductionBoostIce": "常冬の氷河の城での木材生産ボーナス",
+    "effect_name_woodProductionBoostMain": "大帝国の城での木材生産ボーナス",
+    "effect_name_woodProductionBoost": "城の木材生産ボーナス",
+    "effect_name_foodProductionBoostBaronEconomy": "城内での食料生産ボーナス"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "英雄",
@@ -18711,7 +18739,8 @@
     "currency_description_dragonriderLTPEToken": "貴重な赤金を竜の火で溶かして作られたトークン。期間限定で名人鍛冶屋で報酬と交換できます。",
     "currency_name_dragonriderLTPEToken": "炎の竜のトークン",
     "filters_category_116": "炎の竜のトークン",
-    "target_placeholder": "ターゲット {0}"
+    "target_placeholder": "ターゲット {0}",
+    "changed": "変更済み"
   },
   "help": {
     "help_location": "ここから、城や基地の\n重要な情報を見ることができます。",

@@ -1892,7 +1892,11 @@
     "ci_appearance_xmasStronghold_flavour": "Когда дни укорачиваются, крепкие стены и горячие напитки защищают от холода, воодушевляя воинов.",
     "deco_christmasCarousel_name": "Зимняя пекарня",
     "deco_christmasKiosqueFountain_name": "Зимний источник",
-    "deco_xmasGluhweinStand_name": "Ларец зимних подарков"
+    "deco_xmasGluhweinStand_name": "Ларец зимних подарков",
+    "deco_DessertKingdomScorpionTomb_name": "Возвышенный храм скорпионов",
+    "deco_FireKingdomMoltenGiant_name": "Возвышенная агония гиганта",
+    "deco_GreenKingdomGoddessOfNature_name": "Возвеличенная богиня природы",
+    "deco_IceKingdomDragonBones_name": "Возвышенные драконьи кости"
   },
   "dialogs": {
     "dialog_festival_desc": "Используй еду, чтобы устроить пир для твоих горожан! Во время проведения пира, скорость найма во всех твоих замках заметно увеличится. Чем больше пир, тем больше эффект.",
@@ -11834,7 +11838,7 @@
     "webshop_decoWithEffects_food_desc": "Увеличивает уровень порядка в замке↵+{0} к производству еды↵+{1} к вместительности хранилищ еды↵Максимум в зоне: {2}",
     "webshop_decoWithEffects_marketBarrows_desc": "Улучшает порядок в твоем замке↵+{0} емкость рыночных повозок↵+{1}% скорость движения рыночных повозок↵Макс. {2} на уровень местности",
     "webshop_decoWithEffects_recruitmentCost_desc": "Увеличивает порядок в твоем замке. Снижает стоимость всех войск на {0}% (макс. {2} на уровень)",
-    "webshop_decoWithEffects_recruitmentSpeed_desc": "Улучшает порядок в твоем замке. Все создаваемые разновидности юнитов создаются на {0}% быстрее. Максимум {2} на уровень/в зону.",
+    "webshop_decoWithEffects_recruitmentSpeed_desc": "Увеличивает порядок в вашем замке\nУскоряет производство всех юнитов на {0}%\nНе более {2} на территорию",
     "webshop_decoWithEffects_toolProduction_desc": "Повышение уровня порядка внутри твоего замка ↵+{0}% к скорости производства орудий по всему царству ↵Максимум: {2} в этом локации",
     "effect_name_allianceDefenseUnitAmountYardBonus": "Вместительность войск альянса",
     "effect_name_attackUnitAmountFlank": "Бонус к пределу числа юнитов на флангах при атаке",
@@ -11844,7 +11848,7 @@
     "minigameFeat_leave_description": "Вы действительно хотите выйти?",
     "minigameFeat_leave_header": "Вы уверены?",
     "minigameFeat_win_again": "Начать заново",
-    "minigameFeat_win_next": "Следующий",
+    "minigameFeat_win_next": "Продолжить",
     "webshop_offerExpires": "Срок предложения истекает через {0}",
     "dialog_tempServer_start_desc1_desc_crossplay": "• Соперничайте с игроками со всего мира на веб-версии или мобильном приложении на новом событийном сервере\n• Получайте ежедневные рейтинговые очки и зарабатывайте ценные награды\n• Несите пламя врагам и процветание своему народу",
     "dialog_tempServer_start_desc2_desc_crossplay": "• Боритесь с новыми соседями и находите союзников среди тех, кого вы никогда раньше не встречали\n• Создавайте новые союзы и торговые возможности\n• Управляйте своим замком в стране, не скованной дипломатическими ограничениями",
@@ -11915,7 +11919,9 @@
       "Леди Варика"
     ],
     "minigameFeat_hud_desc": "Играйте в наши мини-игры и помогите Диане.",
-    "minigameFeat_hud_header": "Испытание лучника"
+    "minigameFeat_hud_header": "Испытание лучника",
+    "dialog_event_announcement_description_277": "Тебя ожидает новое мероприятие Crossplay!\nПрисоединяйтесь к королевам и королям из Goodgame Empire и Empire: Four Kingdoms, чтобы вновь побороться за трон. Готов ли ты принять это новое вызов? Выигрывай новые и неповторимые награды в борьбе за корону. Присоединяйтесь прямо сейчас!",
+    "tut_secondQuestConfirmPlacement_minigame_copy": "Подтвердите положение строения. Позже вы сможете его перенести.\n\nБудьте настороже, враги постараются помешать строительству! Дайте только команду, и я со своим верным луком отбьюсь от них!"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% скорость передвижения армии при завоеваниях",
@@ -12991,7 +12997,29 @@
     "effect_name_recruitmentCostDecreaseAll": "Снижение стоимости монет для найма",
     "effect_name_recruitmentSpeedBoostAll": "Бонус к скорости найма",
     "effect_name_toolProductionSpeedBoostAll": "Бонус ко скорости производства орудий",
-    "effect_name_unboostedHoneyProduction": "Бонус к производству меда в час"
+    "effect_name_unboostedHoneyProduction": "Бонус к производству меда в час",
+    "effect_name_ironProductionBoost": "Бонус к производству железа в замке",
+    "effect_name_stoneProductionBoost": "Бонус к производству камня в замке",
+    "effect_name_foodProductionBoost": "Бонус к производству продовольствия в замке",
+    "effect_name_coalProductionBoost": "Бонус к производству угля в замке",
+    "effect_name_foodProductionBoostDesert": "Бонус к производству продовольствия в замке Пылающих Песков",
+    "effect_name_foodProductionBoostFire": "Увеличение производства еды в замке Огненных Вершин",
+    "effect_name_foodProductionBoostIce": "Бонус к производству еды в замке Вечнохолодного Ледника",
+    "effect_name_foodProductionBoostMain": "Бонус к производству еды в замке Великой Империи",
+    "effect_name_glassProductionBoost": "Бонус к производству стекла в замке",
+    "effect_name_meadCapacityBonusBaronEconomy": "Увеличение вместимости хранилища медовухи в замке",
+    "effect_name_oilProductionBoost": "Бонус к производству оливкового масла в замке",
+    "effect_name_stoneProductionBoostDesert": "Бонус к производству камня в замке в Пылающих Песках",
+    "effect_name_stoneProductionBoostFire": "Бонус к производству камня в замке Огненных Вершин",
+    "effect_name_stoneProductionBoostIce": "Бонус к производству камня в замке Вечнохолодного Ледника",
+    "effect_name_stoneProductionBoostMain": "Бонус к производству камня в замке Великой Империи",
+    "effect_name_unboostedMeadProduction": "Бонус к производству медовухи в замке",
+    "effect_name_woodProductionBoostDesert": "Бонус к производству древесины в замке в Пылающих Песках",
+    "effect_name_woodProductionBoostFire": "Бонус к производству древесины в замке Огненных Вершин",
+    "effect_name_woodProductionBoostIce": "Бонус к производству древесины в замке Вечнохолодного Ледника",
+    "effect_name_woodProductionBoostMain": "Бонус к производству дерева в Великом замке",
+    "effect_name_woodProductionBoost": "Бонус к производству древесины в замке",
+    "effect_name_foodProductionBoostBaronEconomy": "Бонус к производству продовольствия в замке"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Герой",
@@ -18711,7 +18739,8 @@
     "currency_description_dragonriderLTPEToken": "Этот жетон изготовлен из драгоценного червонного золота, расплавленного огненным дыханием дракона. Его можно обменять на награды у кузнечного мастера в течение ограниченного времени.",
     "currency_name_dragonriderLTPEToken": "Жетоны огненного змея",
     "filters_category_116": "Жетоны огненного змея",
-    "target_placeholder": "Цель: {0}"
+    "target_placeholder": "Цель: {0}",
+    "changed": "Изменено"
   },
   "help": {
     "help_location": "Здесь представлен глобальный обзор важного содержимого твоего замка и всех твоих аванпостов.",

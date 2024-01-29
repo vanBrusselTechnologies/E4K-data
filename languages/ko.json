@@ -1892,7 +1892,11 @@
     "ci_appearance_xmasStronghold_flavour": "점점 짧아지는 날에는 튼튼한 성벽과 따뜻한 음료로 추위를 막고 병사들의 사기를 북돋아줍니다.",
     "deco_christmasCarousel_name": "겨울 회전목마",
     "deco_christmasKiosqueFountain_name": "천상의 연못",
-    "deco_xmasGluhweinStand_name": "겨울 선물 가판대"
+    "deco_xmasGluhweinStand_name": "겨울 선물 가판대",
+    "deco_DessertKingdomScorpionTomb_name": "고귀한 전갈 신전",
+    "deco_FireKingdomMoltenGiant_name": "거인의 고통",
+    "deco_GreenKingdomGoddessOfNature_name": "고귀한 자연의 여신",
+    "deco_IceKingdomDragonBones_name": "고귀한 용의 뼈"
   },
   "dialogs": {
     "dialog_festival_desc": "식량으로 잔치를 열어 백성들을 배불리 먹이십시오! 잔치가 계속되는 동안 모든 성의 모집 속도가 눈에 띄게 증가합니다. 더 큰 잔치를 벌일수록 효과도 더 증가합니다.",
@@ -11834,7 +11838,7 @@
     "webshop_decoWithEffects_food_desc": "성 내의 질서를 증가합니다↵식량 생산 +{0}↵식량 저장 용량 +{1}↵지역 당 최대치 {2}",
     "webshop_decoWithEffects_marketBarrows_desc": "성 내의 질서를 증가합니다↵수송카의 수용력을 {0} 증가합니다↵수송카의 이동 속도를 {1}% 증가합니다↵지역 당 최대 {2}개",
     "webshop_decoWithEffects_recruitmentCost_desc": "성 내의 질서를 향상↵모든 군대의 비용이 {0}% 감소함↵지역당 최대 {2}개",
-    "webshop_decoWithEffects_recruitmentSpeed_desc": "성 내의 질서를 증가합니다↵모든 유닛 생산 속도를 {0}%만큼 더 빠르게 합니다↵지역 당 최대 {2}개",
+    "webshop_decoWithEffects_recruitmentSpeed_desc": "성내의 질서를 강화하고\n모든 유닛 생산 속도를 {0}% 향상시킵니다\n각 지역별로 최대 {2}개까지 가능합니다",
     "webshop_decoWithEffects_toolProduction_desc": "성 내의 궁리가 증가합니다↵모든 병기 생산 속도 +{0}%↵지역당 최대 수치 {2}",
     "effect_name_allianceDefenseUnitAmountYardBonus": "동맹 지원군의 용량 보너스",
     "effect_name_attackUnitAmountFlank": "프리미엄 유물 측면 공격 유닛 제한 건설 아이템 설계도【11†source】.",
@@ -11844,7 +11848,7 @@
     "minigameFeat_leave_description": "정말로 나가시겠습니까?",
     "minigameFeat_leave_header": "확실합니까?",
     "minigameFeat_win_again": "시작을 처음부터 다시 하세요",
-    "minigameFeat_win_next": "다음",
+    "minigameFeat_win_next": "계속",
     "webshop_offerExpires": "{0} 후 행사 종료",
     "dialog_tempServer_start_desc1_desc_crossplay": "• 전 세계의 플레이어들과 웹이나 모바일에서 새 이벤트 서버에서 경쟁하세요\n• 매일 순위 점수를 모아 가치 있는 보상을 얻으세요\n• 적들에게는 화염을, 당신의 백성에게는 번영을 가져오세요",
     "dialog_tempServer_start_desc2_desc_crossplay": "• 새롭게 발견한 이웃과 함께하거나 맞서 싸워보세요.\n• 새로운 동맹을 형성하고 무역 기회를 모색하세요.\n• 외교적 구속에서 자유로운 땅에서 여러분의 성을 지배하세요.",
@@ -11915,7 +11919,9 @@
       "바바 바루이카"
     ],
     "minigameFeat_hud_desc": "작은 미니게임을 플레이하고 다이애나를 도와주세요.",
-    "minigameFeat_hud_header": "궁수의 도전"
+    "minigameFeat_hud_header": "궁수의 도전",
+    "dialog_event_announcement_description_277": "새로운 크로스플레이 이벤트를 확인해보세요!\nGoodgame Empire 및 Empire: Four Kingdoms의 여왕과 왕들과 함께 왕위를 위한 새로운 전투에 동참하세요. 당신의 백성들이 당신의 명을 기다리며 건설과 전투 준비를 하고 있습니다. 이 새로운 도전을 성공적으로 이끌 수 있을까요? 왕좌를 위한 싸움에서 새롭고 특별한 보상들을 획득하세요. 지금 바로 참여하세요!",
+    "tut_secondQuestConfirmPlacement_minigame_copy": "건물 위치를 확정하세요. 나중에 이동시킬 수 있습니다.\n\n준비하세요, 적들이 공사를 막으려 할 거예요! 명령만 내리세요, 나와 내 신뢰할 수 있는 활이 그들을 물리치겠습니다!"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "정복 중 군대 이동 속도 +{0}%",
@@ -12991,7 +12997,29 @@
     "effect_name_recruitmentCostDecreaseAll": "모집 금전 비용 감소",
     "effect_name_recruitmentSpeedBoostAll": "모집 속도 보너스",
     "effect_name_toolProductionSpeedBoostAll": "도구 생산 속도의 보너스",
-    "effect_name_unboostedHoneyProduction": "1시간 당 꿀 생산량 보너스"
+    "effect_name_unboostedHoneyProduction": "1시간 당 꿀 생산량 보너스",
+    "effect_name_ironProductionBoost": "성의 철 생산 보너스",
+    "effect_name_stoneProductionBoost": "성의 석재 생산량 보너스",
+    "effect_name_foodProductionBoost": "성의 식량 생산 보너스",
+    "effect_name_coalProductionBoost": "성 내 석탄 생산 보너스",
+    "effect_name_foodProductionBoostDesert": "불타는 사막 성의 식량 생산 보너스",
+    "effect_name_foodProductionBoostFire": "화염 봉우리 성의 식량 생산 보너스",
+    "effect_name_foodProductionBoostIce": "끊임없는 빙하 성에서 식량 생산 보너스",
+    "effect_name_foodProductionBoostMain": "대제국 성의 식량 생산량 보너스",
+    "effect_name_glassProductionBoost": "성의 유리 생산 보너스",
+    "effect_name_meadCapacityBonusBaronEconomy": "성의 봉밀 저장 용량 보너스",
+    "effect_name_oilProductionBoost": "성의 올리브 농장 생산량 보너스",
+    "effect_name_stoneProductionBoostDesert": "불타는 모래 성에서의 돌 생산 보너스",
+    "effect_name_stoneProductionBoostFire": "화염 봉우리 성의 돌 생산 보너스",
+    "effect_name_stoneProductionBoostIce": "끊임없는 빙하 성의 돌 생산 보너스",
+    "effect_name_stoneProductionBoostMain": "대제국 성의 돌 생산 보너스",
+    "effect_name_unboostedMeadProduction": "성에서 벌꿀주 생산 보너스 (성 내 미드 생산 보너스 증가)",
+    "effect_name_woodProductionBoostDesert": "불타는 모래 성의 나무 생산 보너스",
+    "effect_name_woodProductionBoostFire": "화염 봉우리 성의 나무 생산 보너스",
+    "effect_name_woodProductionBoostIce": "끊임없는 빙하 성의 나무 생산 보너스",
+    "effect_name_woodProductionBoostMain": "대대제국 성에서의 목재 생산 보너스",
+    "effect_name_woodProductionBoost": "성의 목재 생산 보너스",
+    "effect_name_foodProductionBoostBaronEconomy": "성의 식량 생산 보너스"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "영웅",
@@ -18711,7 +18739,8 @@
     "currency_description_dragonriderLTPEToken": "이 토큰은 용의 불꽃에서 녹인 귀중한 붉은 황금으로 만들어졌습니다. 한정된 시간 동안 전문 대장장이에게 보상으로 교환할 수 있습니다.",
     "currency_name_dragonriderLTPEToken": "불꽃 용 토큰",
     "filters_category_116": "불꽃 용 토큰",
-    "target_placeholder": "목표  {0}"
+    "target_placeholder": "목표  {0}",
+    "changed": "변경됨"
   },
   "help": {
     "help_location": "여기에서 성과 전초기지의 중요한 정보를 대략 찾아볼 수 있습니다.",

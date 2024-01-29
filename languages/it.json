@@ -1892,7 +1892,11 @@
     "ci_appearance_xmasStronghold_flavour": "Quando i giorni diventano più corti, robuste mura e bevande calde respingono il freddo, infondendo coraggio ai soldati.",
     "deco_christmasCarousel_name": "Carosello invernale",
     "deco_christmasKiosqueFountain_name": "Fontana invernale",
-    "deco_xmasGluhweinStand_name": "Banco dei regali invernali"
+    "deco_xmasGluhweinStand_name": "Banco dei regali invernali",
+    "deco_DessertKingdomScorpionTomb_name": "Tempio dello scorpione esaltato",
+    "deco_FireKingdomMoltenGiant_name": "Agonia del gigante esaltato",
+    "deco_GreenKingdomGoddessOfNature_name": "Dea esaltata della natura",
+    "deco_IceKingdomDragonBones_name": "Ossa di drago esaltate"
   },
   "dialogs": {
     "dialog_festival_desc": "Usa il cibo per organizzare un banchetto per i tuoi cittadini! La velocità di reclutamento aumenterà notevolmente in tutti i castelli per la durata del banchetto. Più grande è il banchetto, maggiore sarà leffetto.",
@@ -11834,7 +11838,7 @@
     "webshop_decoWithEffects_food_desc": "Aumenta lordine allinterno del castello↵+{0} di produzione di cibo↵+{1} di capacità di deposito per cibo↵Massimo {2} per area",
     "webshop_decoWithEffects_marketBarrows_desc": "Aumenta lordine allinterno del castello↵+{0} capacità dei carretti del mercato↵+{1}% velocità di viaggio dei carretti del mercato↵Massimo di {2} per area",
     "webshop_decoWithEffects_recruitmentCost_desc": "Aumenta lordine nel castello↵Riduce i costi iniziali per tutte le truppe del {0}%↵Max {2} per area",
-    "webshop_decoWithEffects_recruitmentSpeed_desc": "Aumenta lordine nel tuo castello↵Incrementa la velocità di produzione di tutte le unità del {0}%↵Massimo {2} per area",
+    "webshop_decoWithEffects_recruitmentSpeed_desc": "Aumenta lordine nel tuo castello\nIncrementa la velocità di produzione di tutte le unità del {0}%\nMassimo di {2} per area",
     "webshop_decoWithEffects_toolProduction_desc": "Aumenta lordine allinterno del castello↵+{0}% alla velocità di produzione di tutti gli strumenti di precisione↵Massimo {2} per area",
     "effect_name_allianceDefenseUnitAmountYardBonus": "Bonus alla capacità di supporto truppe della coalizione",
     "effect_name_attackUnitAmountFlank": "Bonus aggiunto al limite delle truppe sui fianchi in attacco",
@@ -11844,7 +11848,7 @@
     "minigameFeat_leave_description": "Vuoi davvero uscire?",
     "minigameFeat_leave_header": "Sei sicuro?",
     "minigameFeat_win_again": "Inizia di nuovo",
-    "minigameFeat_win_next": "Avanti",
+    "minigameFeat_win_next": "Continua",
     "webshop_offerExpires": "Questa offerta scade tra {0}",
     "dialog_tempServer_start_desc1_desc_crossplay": "• Competi con giocatori di tutto il mondo su web o mobile in un nuovo server evento\n• Accumula punti classifica giornalieri per guadagnare ricompense di valore\n• Scarica la tua furia sui nemici e assicura prosperità al tuo popolo",
     "dialog_tempServer_start_desc2_desc_crossplay": "• Combatti contro e al fianco di nuovi vicini che potresti non aver mai incontrato\n• Stringi nuove alleanze e crea opportunità di scambio\n• Regna sul tuo castello in una terra senza vincoli diplomatici",
@@ -11915,7 +11919,9 @@
       "Baba Varjúka"
     ],
     "minigameFeat_hud_desc": "Gioca ai nostri piccoli minigiochi e aiuta Diana.",
-    "minigameFeat_hud_header": "Sfida degli Arcieri"
+    "minigameFeat_hud_header": "Sfida degli Arcieri",
+    "dialog_event_announcement_description_277": "Un nuovo evento Crossplay ti sta chiamando!\nUnisciti ad altri regnanti di Goodgame Empire E Empire: Four Kingdoms in lotta ancora una volta per il trono. Sei in grado di affrontare questa nuova prova? Conquista premi nuovi e esclusivi nella tua battaglia per la corona. Partecipa ora!",
+    "tut_secondQuestConfirmPlacement_minigame_copy": "Conferma la posizione delledificio. Puoi spostarlo più tardi.\n\nPreparati, i nemici cercheranno di fermare la costruzione! Dacci lordine e io, con il mio fidato arco, li combatterò!"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% alla velocità di viaggio della milizia durante le conquiste",
@@ -12991,7 +12997,29 @@
     "effect_name_recruitmentCostDecreaseAll": "Riduzione dei costi in monete della recluta",
     "effect_name_recruitmentSpeedBoostAll": "Bonus alla velocità di reclutamento",
     "effect_name_toolProductionSpeedBoostAll": "Bonus alla velocità di produzione degli strumenti",
-    "effect_name_unboostedHoneyProduction": "Bonus alla produzione oraria di miele"
+    "effect_name_unboostedHoneyProduction": "Bonus alla produzione oraria di miele",
+    "effect_name_ironProductionBoost": "Bonus alla produzione di ferro nel castello",
+    "effect_name_stoneProductionBoost": "Bonus alla produzione di pietra nel castello",
+    "effect_name_foodProductionBoost": "Bonus alla produzione di cibo nel castello.",
+    "effect_name_coalProductionBoost": "Bonus alla produzione di carbone nel castello",
+    "effect_name_foodProductionBoostDesert": "Bonus alla produzione di cibo in un castello delle Sabbie Ardenti",
+    "effect_name_foodProductionBoostFire": "Bonus alla produzione di cibo in un castello delle Vette Fiammeggianti",
+    "effect_name_foodProductionBoostIce": "Bonus alla produzione di cibo in un castello del Ghiacciai dinverno",
+    "effect_name_foodProductionBoostMain": "Bonus alla produzione di cibo in un castello del Grande Impero",
+    "effect_name_glassProductionBoost": "Bonus alla produzione di vetro nel castello",
+    "effect_name_meadCapacityBonusBaronEconomy": "Bonus alla capacità di stoccaggio idromele del castello",
+    "effect_name_oilProductionBoost": "Bonus alla produzione di olio doliva nel castello",
+    "effect_name_stoneProductionBoostDesert": "Bonus alla produzione di pietra in un castello delle Sabbie Ardenti",
+    "effect_name_stoneProductionBoostFire": "Bonus alla produzione di pietra in un castello delle Vette Fiammeggianti",
+    "effect_name_stoneProductionBoostIce": "Bonus alla produzione di pietra nel castello di Everwinter Glacier",
+    "effect_name_stoneProductionBoostMain": "Bonus alla produzione di pietre nel Grande Impero",
+    "effect_name_unboostedMeadProduction": "Bonus sulla produzione di idromele nel castello",
+    "effect_name_woodProductionBoostDesert": "Bonus alla produzione di legna in un castello delle Sabbie Ardenti",
+    "effect_name_woodProductionBoostFire": "Bonus alla produzione di legna in un castello delle Vette Fiammeggianti",
+    "effect_name_woodProductionBoostIce": "Bonus alla produzione di legno nel castello di Everwinter Glacier",
+    "effect_name_woodProductionBoostMain": "Bonus alla produzione di legna in un castello del Grande Impero",
+    "effect_name_woodProductionBoost": "Bonus alla produzione di legna nel castello",
+    "effect_name_foodProductionBoostBaronEconomy": "Bonus alla produzione di cibo nel castello."
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Eroe",
@@ -18711,7 +18739,8 @@
     "currency_description_dragonriderLTPEToken": "Questo gettone è stato realizzato in prezioso oro rosso, fuso nel fuoco di un drago. Può essere scambiato con ricompense presso il mastro fabbro per un periodo limitato.",
     "currency_name_dragonriderLTPEToken": "Gettoni Wyrm del fuoco",
     "filters_category_116": "Gettoni Wyrm del fuoco",
-    "target_placeholder": "Bersaglio: {0}"
+    "target_placeholder": "Bersaglio: {0}",
+    "changed": "Cambiato"
   },
   "help": {
     "help_location": "Qui hai una panoramica globale dei contenuti importanti del castello e di tutti gli avamposti.",

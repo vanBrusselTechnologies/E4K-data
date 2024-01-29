@@ -1892,7 +1892,11 @@
     "ci_appearance_xmasStronghold_flavour": "Når dagene bliver kortere, sørger stærke mure og varme drikke for at holde kulden ude og løfte soldaternes moral.",
     "deco_christmasCarousel_name": "Vinterkarrusel",
     "deco_christmasKiosqueFountain_name": "Vinter Springvand",
-    "deco_xmasGluhweinStand_name": "Vintergavebod"
+    "deco_xmasGluhweinStand_name": "Vintergavebod",
+    "deco_DessertKingdomScorpionTomb_name": "Forbedret Skorpiontempel",
+    "deco_FireKingdomMoltenGiant_name": "Kæmpens dødskamp",
+    "deco_GreenKingdomGoddessOfNature_name": "Forbedret naturgudinde",
+    "deco_IceKingdomDragonBones_name": "Ophøjede drageknogler"
   },
   "dialogs": {
     "dialog_festival_desc": "Brug mad til at holde en fest for dine borgere! Rekrutteringshastigheden vil forøges på i jeres borge, så længe festen varer. Jo større festen er, jo større er effekten.",
@@ -11834,7 +11838,7 @@
     "webshop_decoWithEffects_food_desc": "Øger ordenen i din borg↵+{0} til madproduktion↵+{1} til lagringskapacitet for mad↵Maksimum {2} pr. område",
     "webshop_decoWithEffects_marketBarrows_desc": "Øger ordenen i din borg↵+{0} markedsskubbers kapacitet↵+ {1} % markedsskubbers rejsehastighed↵Maksimum: {2} pr. område",
     "webshop_decoWithEffects_recruitmentCost_desc": "Øger ordenen inde på borgen↵Reducerer omkostningerne for alle tropper med {0} %↵Maksimum {2} pr. område",
-    "webshop_decoWithEffects_recruitmentSpeed_desc": "Øger orden i borgen↵Fremskynder alle enheders produktion med {0} %↵Maksimalt {2} i visse områder",
+    "webshop_decoWithEffects_recruitmentSpeed_desc": "Forbedrer ordenen i dit slot\nØger fremstillingshastigheden for alle enheder med {0}%\nHøjst {2} pr. område",
     "webshop_decoWithEffects_toolProduction_desc": "Øger ro og orden i din borg↵+{0} % til alle ekstraproduktionshastigheder↵Maks. {2} per område",
     "effect_name_allianceDefenseUnitAmountYardBonus": "Bonus til alliancens støttestyrkets kapacitet",
     "effect_name_attackUnitAmountFlank": "Bonus til enhedsgrænsen på flankerne ved angreb",
@@ -11844,7 +11848,7 @@
     "minigameFeat_leave_description": "Vil du virkelig forlade?",
     "minigameFeat_leave_header": "Er du sikker?",
     "minigameFeat_win_again": "Begynd forfra",
-    "minigameFeat_win_next": "Næste",
+    "minigameFeat_win_next": "Fortsæt",
     "webshop_offerExpires": "Dette tilbud slutter om {0}",
     "dialog_tempServer_start_desc1_desc_crossplay": "• Dyst mod spillere fra hele verden på web eller mobil på en ny eventserver\n• Saml daglige ranglistepoint for at modtage værdifulde præmier\n• Kast flammer mod dine fjender og skab velstand for dit folk",
     "dialog_tempServer_start_desc2_desc_crossplay": "• Kæmp mod og sammen med nye naboer, som du aldrig har mødt før\n• Dann nye alliancer og handelsmuligheder\n• Styr din borg i et land uden diplomatiske bånd",
@@ -11915,7 +11919,9 @@
       "Baba Varjúka"
     ],
     "minigameFeat_hud_desc": "Spil vores små minispil og hjælp Diana til at vinde.",
-    "minigameFeat_hud_header": "Buesvendens udfordring"
+    "minigameFeat_hud_header": "Buesvendens udfordring",
+    "dialog_event_announcement_description_277": "En ny Crossplay-begivenhed kalder på dig!\nSlut dig til andre dronninger og konger fra Goodgame Empire OG Empire: Four Kingdoms i kampen om tronen. Dit folk afventer dine befalinger til opbygning og kamp. Er du klar til denne nye udfordring? Vind nye og unikke belønninger i din kamp for kronen. Deltag nu!",
+    "tut_secondQuestConfirmPlacement_minigame_copy": "Bekræft bygningens position. Du kan omlokalisere den senere.\n\nVær forberedt, fjender vil forsøge at stoppe konstruktionen! Sig blot til, og jeg og min trofaste bue vil bekæmpe dem!"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0} % hærens rejsehastighed under erobringer",
@@ -12991,7 +12997,29 @@
     "effect_name_recruitmentCostDecreaseAll": "Sænkning af møntomkostninger til rekruttering",
     "effect_name_recruitmentSpeedBoostAll": "Bonus til rekrutteringshastighed",
     "effect_name_toolProductionSpeedBoostAll": "Bonus til værktøjsproduktionshastighed",
-    "effect_name_unboostedHoneyProduction": "Bonus til timeligt honningproduktion"
+    "effect_name_unboostedHoneyProduction": "Bonus til timeligt honningproduktion",
+    "effect_name_ironProductionBoost": "Bonus til jernproduktion i borgen",
+    "effect_name_stoneProductionBoost": "Bonus på stenproduktion i borg",
+    "effect_name_foodProductionBoost": "Bonus for madproduktion i borg",
+    "effect_name_coalProductionBoost": "Bonus på kulproduktion i borg",
+    "effect_name_foodProductionBoostDesert": "Bonus til madproduktionen i en Brændende Sands-borg",
+    "effect_name_foodProductionBoostFire": "Bonus til madproduktion i Ildbjerget slot",
+    "effect_name_foodProductionBoostIce": "Bonus på madproduktion i et Vinterland-borg",
+    "effect_name_foodProductionBoostMain": "Bonus på madproduktion i borg i Det Store Rige",
+    "effect_name_glassProductionBoost": "Bonus på glasproduktion i borgen",
+    "effect_name_meadCapacityBonusBaronEconomy": "Bonus på opbevaringskapacitet for mjød i borgen",
+    "effect_name_oilProductionBoost": "Bonus til olivenolieproduktion på slottet",
+    "effect_name_stoneProductionBoostDesert": "Bonus på stenproduktion i et Brændende Ørken-slotte",
+    "effect_name_stoneProductionBoostFire": "Bonus til stenproduktion i en borg i Ildtinderne",
+    "effect_name_stoneProductionBoostIce": "Bonustilskud til stenproduktion i EverwinterGlacier-slot",
+    "effect_name_stoneProductionBoostMain": "Bonus til stenproduktion i et Stort Imperiums slot",
+    "effect_name_unboostedMeadProduction": "Bonus på mjødproduktion i slottet",
+    "effect_name_woodProductionBoostDesert": "Bonus til træproduktionen i et brændende sandslot",
+    "effect_name_woodProductionBoostFire": "Bonus på træproduktion i en borg i Ildtinderne",
+    "effect_name_woodProductionBoostIce": "Bonus på træproduktion i et Vinterland-borg",
+    "effect_name_woodProductionBoostMain": "Bonus til træproduktion i Storrigets slot",
+    "effect_name_woodProductionBoost": "Bonus på træproduktion i borg",
+    "effect_name_foodProductionBoostBaronEconomy": "Bonus for madproduktion i borg"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Helt",
@@ -18711,7 +18739,8 @@
     "currency_description_dragonriderLTPEToken": "Denne polet er lavet af kostbart rødguld, som er smeltet i ild fra dragerne. Kan byttes til belønninger hos mestersmeden i et begrænset tidsrum.",
     "currency_name_dragonriderLTPEToken": "Ilddrage-poletter",
     "filters_category_116": "Ilddrage-poletter",
-    "target_placeholder": "Mål: {0}"
+    "target_placeholder": "Mål: {0}",
+    "changed": "Ændret"
   },
   "help": {
     "help_location": "Her har I en global oversigt over det vigtige indhold i jeres borg og alle jeres forposter.",

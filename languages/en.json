@@ -1892,7 +1892,11 @@
     "ci_appearance_xmasStronghold_flavour": "When days get shorter, strong walls and hot drinks keep out the cold, raising the spirits of the soldiers.",
     "deco_christmasCarousel_name": "Winter carousel",
     "deco_christmasKiosqueFountain_name": "Winter fountain",
-    "deco_xmasGluhweinStand_name": "Winter gifts stall"
+    "deco_xmasGluhweinStand_name": "Winter gifts stall",
+    "deco_DessertKingdomScorpionTomb_name": "Exalted scorpion temple",
+    "deco_FireKingdomMoltenGiant_name": "Exalted giants agony",
+    "deco_GreenKingdomGoddessOfNature_name": "Exalted goddess of nature",
+    "deco_IceKingdomDragonBones_name": "Exalted dragon bones"
   },
   "dialogs": {
     "dialog_festival_desc": "Use your food to hold a feast for your citizens!\nSoldiers will be recruited much more quickly in all of your castles for as long as the feast lasts. The bigger the feast, the greater the effect.",
@@ -11834,7 +11838,7 @@
     "webshop_decoWithEffects_food_desc": "Increases the order inside your castle↵+{0} food production↵+{1} food storage capacity↵Maximum {2} per area",
     "webshop_decoWithEffects_marketBarrows_desc": "Increases the order inside your castle↵+{0} market barrows capacity↵+{1}% market barrows travel speed↵Maximum {2} per area",
     "webshop_decoWithEffects_recruitmentCost_desc": "Increases the order inside your castle↵Decreases cost for all troops by {0}%↵Maximum {2} per area",
-    "webshop_decoWithEffects_recruitmentSpeed_desc": "Increases the order inside your castle↵Improves speed of all unit productions by {0}%↵Maximum {2} per area",
+    "webshop_decoWithEffects_recruitmentSpeed_desc": "Increases the order inside your castle\nImproves speed of all unit productions by {0}%\nMaximum {2} per area",
     "webshop_decoWithEffects_toolProduction_desc": "Increases the order inside your castle↵+{0}% speed of all tool productions↵Maximum {2} per area",
     "effect_name_allianceDefenseUnitAmountYardBonus": "Bonus to alliance support troop capacity",
     "effect_name_attackUnitAmountFlank": "Bonus to unit limit on the flanks when attacking",
@@ -11844,7 +11848,7 @@
     "minigameFeat_leave_description": "Do you really want to exit?",
     "minigameFeat_leave_header": "Are you sure?",
     "minigameFeat_win_again": "Start again",
-    "minigameFeat_win_next": "Next",
+    "minigameFeat_win_next": "Continue",
     "webshop_offerExpires": "This offer ends in {0}",
     "dialog_tempServer_start_desc1_desc_crossplay": "• Compete with players from around the world on web or mobile on a new event server\n• Collect daily ranking points to earn valuable rewards\n• Bring flames to your enemies and prosperity to your people",
     "dialog_tempServer_start_desc2_desc_crossplay": "• Fight against and alongside new neighbours you might never have seen before\n• Form new alliances and trade opportunities\n• Rule your castle in a land free of diplomatic binds",
@@ -11916,7 +11920,8 @@
     ],
     "minigameFeat_hud_desc": "Play our small minigames and help Diana.",
     "minigameFeat_hud_header": "Archers Challenge",
-    "dialog_event_announcement_crossplay_description": "A new Crossplay event is calling for you!\nJoin other Queens and Kings from Goodgame Empire AND Empire: Four Kingdoms fighting once again for the throne. Your people are waiting for your order on how to build and fight.\nCan you manage this new challenge? Win new and unique rewards in your fight for the crown.\nJoin now!"
+    "dialog_event_announcement_description_277": "A new Crossplay event is calling for you!\nJoin other Queens and Kings from Goodgame Empire AND Empire: Four Kingdoms fighting once again for the throne. Your people are waiting for your order on how to build and fight. Can you manage this new challenge? Win new and unique rewards in your fight for the crown. Join now!",
+    "tut_secondQuestConfirmPlacement_minigame_copy": "Confirm the buildings position. You can relocate it later.\n\nBe prepared, enemies will try to stop the construction! Just give the word, me and my trusty bow will fight them off!"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% army travel speed during conquests",
@@ -12986,13 +12991,35 @@
       "Bonus to market barrows speed",
       "Bonus to market barrows speed between your own castles and landmarks"
     ],
-    "effect_name_meadProductionBoost": "Bonus to mead productionin castle",
+    "effect_name_meadProductionBoost": "Bonus to mead production in castle",
     "effect_name_offensiveMeleeBonus": "Bonus to melee units attack strength",
     "effect_name_offensiveRangeBonus": "Bonus to ranged units attack strength",
     "effect_name_recruitmentCostDecreaseAll": "Reduction of recruitment coin cost",
     "effect_name_recruitmentSpeedBoostAll": "Bonus to recruitment speed",
     "effect_name_toolProductionSpeedBoostAll": "Bonus to tool production speed",
-    "effect_name_unboostedHoneyProduction": "Bonus to honey production per hour"
+    "effect_name_unboostedHoneyProduction": "Bonus to honey production per hour",
+    "effect_name_ironProductionBoost": "Bonus to iron production in castle",
+    "effect_name_stoneProductionBoost": "Bonus to stone production in castle",
+    "effect_name_foodProductionBoost": "Bonus to food production in castle",
+    "effect_name_coalProductionBoost": "Bonus to coal production in castle",
+    "effect_name_foodProductionBoostDesert": "Bonus to food production in a Burning Sand castle",
+    "effect_name_foodProductionBoostFire": "Bonus to food production in a Fire Peaks castle",
+    "effect_name_foodProductionBoostIce": "Bonus to food production in an Everwinter Glacier castle",
+    "effect_name_foodProductionBoostMain": "Bonus to food production in a Great Empire castle",
+    "effect_name_glassProductionBoost": "Bonus to glass production in castle",
+    "effect_name_meadCapacityBonusBaronEconomy": "Bonus to mead storage capacity in castle",
+    "effect_name_oilProductionBoost": "Bonus to olive oil production in castle",
+    "effect_name_stoneProductionBoostDesert": "Bonus to stone production in a Burning Sand castle",
+    "effect_name_stoneProductionBoostFire": "Bonus to stone production in a Fire Peaks castle",
+    "effect_name_stoneProductionBoostIce": "Bonus to stone production in an Everwinter Glacier castle",
+    "effect_name_stoneProductionBoostMain": "Bonus to stone production in a Great Empire castle",
+    "effect_name_unboostedMeadProduction": "Bonus to mead production in castle",
+    "effect_name_woodProductionBoostDesert": "Bonus to wood production in a Burning Sand castle",
+    "effect_name_woodProductionBoostFire": "Bonus to wood production in a Fire Peaks castle",
+    "effect_name_woodProductionBoostIce": "Bonus to wood production in an Everwinter Glacier castle",
+    "effect_name_woodProductionBoostMain": "Bonus to wood production in a Great Empire castle",
+    "effect_name_woodProductionBoost": "Bonus to wood production in castle",
+    "effect_name_foodProductionBoostBaronEconomy": "Bonus to food production in castle"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Hero",
