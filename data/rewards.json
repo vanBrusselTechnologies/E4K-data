@@ -46387,7 +46387,8 @@
       "rewardID": 7442,
       "comment1": "Reward 45",
       "comment2": "Activity Reward NewKing 2022",
-      "addNewKingLTPEToken": 1000
+      "addNewKingLTPEToken": 1000,
+      "addSasakiToken": 1
     },
     {
       "rewardID": 7443,
@@ -49917,7 +49918,8 @@
       "rewardID": 8030,
       "comment1": "Reward 45",
       "comment2": "Activity Reward StPatrick March 23",
-      "addStPatrickLTPEToken": 1000
+      "addStPatrickLTPEToken": 1000,
+      "addSasakiToken": 1
     },
     {
       "rewardID": 8031,
@@ -52502,6 +52504,132 @@
       "comment1": "TopX2",
       "comment2": "Lvl 50-69",
       "addIceLTPEToken": 7500,
+      "addLegendaryMaterial": 300
+    },
+    {
+      "rewardID": 8445,
+      "comment1": "NewKing February Top1",
+      "comment2": "Lvl 870",
+      "addSceatToken": 500,
+      "decoWodID": 2855
+    },
+    {
+      "rewardID": 8446,
+      "comment1": "TopX1",
+      "comment2": "Lvl 870",
+      "addLegendaryToken": 250,
+      "constructionItemIDs": 31463
+    },
+    {
+      "rewardID": 8447,
+      "comment1": "TopX2",
+      "comment2": "Lvl 870",
+      "addNewKingLTPEToken": 7500,
+      "addLegendaryMaterial": 500
+    },
+    {
+      "rewardID": 8448,
+      "comment1": "Top1",
+      "comment2": "Lvl 70-869",
+      "addSceatToken": 300,
+      "decoWodID": 2855
+    },
+    {
+      "rewardID": 8449,
+      "comment1": "TopX1",
+      "comment2": "Lvl 70-869",
+      "addLegendaryToken": 200,
+      "constructionItemIDs": 31463
+    },
+    {
+      "rewardID": 8450,
+      "comment1": "TopX2",
+      "comment2": "Lvl 70-869",
+      "addNewKingLTPEToken": 7500,
+      "addLegendaryMaterial": 400
+    },
+    {
+      "rewardID": 8451,
+      "comment1": "Top1",
+      "comment2": "Lvl 50-69",
+      "constructionItemIDs": 31463,
+      "decoWodID": 2853
+    },
+    {
+      "rewardID": 8452,
+      "comment1": "TopX1",
+      "comment2": "Lvl 50-69",
+      "addLegendaryToken": 150,
+      "addSasakiToken": 1
+    },
+    {
+      "rewardID": 8453,
+      "comment1": "TopX2",
+      "comment2": "Lvl 50-69",
+      "addNewKingLTPEToken": 7500,
+      "addLegendaryMaterial": 300
+    },
+    {
+      "rewardID": 8454,
+      "comment1": "StPatrick March Top1",
+      "comment2": "Lvl 870",
+      "addSceatToken": 500,
+      "decoWodID": 2860
+    },
+    {
+      "rewardID": 8455,
+      "comment1": "TopX1",
+      "comment2": "Lvl 870",
+      "addLegendaryToken": 250,
+      "constructionItemIDs": 31466
+    },
+    {
+      "rewardID": 8456,
+      "comment1": "TopX2",
+      "comment2": "Lvl 870",
+      "addStPatrickLTPEToken": 7500,
+      "addLegendaryMaterial": 500
+    },
+    {
+      "rewardID": 8457,
+      "comment1": "Top1",
+      "comment2": "Lvl 70-869",
+      "addSceatToken": 300,
+      "decoWodID": 2853
+    },
+    {
+      "rewardID": 8458,
+      "comment1": "TopX1",
+      "comment2": "Lvl 70-869",
+      "addLegendaryToken": 200,
+      "constructionItemIDs": 31466
+    },
+    {
+      "rewardID": 8459,
+      "comment1": "TopX2",
+      "comment2": "Lvl 70-869",
+      "addStPatrickLTPEToken": 7500,
+      "addLegendaryMaterial": 400
+    },
+    {
+      "rewardID": 8460,
+      "comment1": "Top1",
+      "comment2": "Lvl 50-69",
+      "constructionItemIDs": 31466,
+      "decoWodID": 2853
+    },
+    {
+      "rewardID": 8461,
+      "comment1": "TopX1",
+      "comment2": "Lvl 50-69",
+      "addLegendaryToken": 150,
+      "addSasakiToken": 1
+    },
+    {
+      "rewardID": 8462,
+      "comment1": "TopX2",
+      "comment2": "Lvl 50-69",
+      "addStPatrickLTPEToken": 7500,
       "addLegendaryMaterial": 300
     },
     {

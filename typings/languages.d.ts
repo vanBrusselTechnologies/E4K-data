@@ -1240,6 +1240,9 @@ export interface Language {
         "deco_Anniversary10Year_name": string;
         "deco_Anniversary11Year_name": string;
         "deco_Anniversary12Year_name": string;
+        "deco_Anniversary13Year_name": string;
+        "deco_Anniversary14Year_name": string;
+        "deco_Anniversary15Year_name": string;
         "deco_Anniversary1Year_name": string;
         "deco_Anniversary2Year_name": string;
         "deco_Anniversary3Year_name": string;
@@ -3885,6 +3888,7 @@ export interface Language {
         "dialog_chestOffer_desc_13": string;
         "dialog_chestOffer_desc_14": string;
         "dialog_chestOffer_desc_15": string;
+        "dialog_chestOffer_desc_16": string;
         "dialog_chestOffer_title_01": string;
         "dialog_chestOffer_title_02": string;
         "dialog_chestOffer_title_03": string;
@@ -3900,6 +3904,7 @@ export interface Language {
         "dialog_chestOffer_title_13": string;
         "dialog_chestOffer_title_14": string;
         "dialog_chestOffer_title_15": string;
+        "dialog_chestOffer_title_16": string;
         "dialog_chooseCastleConfirm_desc": string;
         "dialog_chooseCastle_island_desc": string;
         "dialog_chooseCastle_preBuiltCastle_16": string;
@@ -4604,7 +4609,9 @@ export interface Language {
         "dialog_eventKing_speechBubble": string;
         "dialog_eventKing_speechBubbleEventNotFinished": string;
         "dialog_eventKing_speechBubble_done": string;
+        "dialog_event_announcement_description_106": string;
         "dialog_event_announcement_description_277": string;
+        "dialog_event_announcement_header_106": string;
         "dialog_eventdungeonWin_title": string;
         "dialog_eventdungeon_1_missionAccomplished_title": string;
         "dialog_eventdungeon_1_tip": string;
@@ -11326,6 +11333,7 @@ export interface Language {
         "webShop_login": string;
         "webShop_tokenExpired_desc": string;
         "webShop_unexpectedError_desc": string;
+        "webshop_TCI_foodProductionGeneric_desc": string;
         "webshop_TCIbarracks_recruitment500": string;
         "webshop_TCIbarracks_recruitment750": string;
         "webshop_affluenceTickets_VIP_name": string;
@@ -11402,6 +11410,7 @@ export interface Language {
         "webshop_christmas_large_name": string;
         "webshop_christmas_medium_name": string;
         "webshop_christmas_small_name": string;
+        "webshop_ciTemporary_desc_30117": string;
         "webshop_ciTemporary_desc_30500": string;
         "webshop_ciTemporary_desc_30501": string;
         "webshop_ciTemporary_desc_30502": string;
@@ -11481,6 +11490,9 @@ export interface Language {
         "webshop_decoFusion_small_name": string;
         "webshop_decoWithEffects_attackCombat_desc": string;
         "webshop_decoWithEffects_defenderStrength_desc": string;
+        "webshop_decoWithEffects_foodProductionFire_desc": string;
+        "webshop_decoWithEffects_foodProductionIce_desc": string;
+        "webshop_decoWithEffects_foodProductionSand_desc": string;
         "webshop_decoWithEffects_food_desc": string;
         "webshop_decoWithEffects_marketBarrows_desc": string;
         "webshop_decoWithEffects_recruitmentCost_desc": string;
@@ -11686,7 +11698,14 @@ export interface Language {
         "webshop_offer_dailyBundle_blackFriday_desc": string;
         "webshop_offer_dailyBundle_christmasHoliday_desc": string;
         "webshop_offer_dailyBundle_desc": string;
+        "webshop_offer_dailyBundle_easter_desc": string;
+        "webshop_offer_dailyBundle_efAnniversary_desc": string;
+        "webshop_offer_dailyBundle_goldenWeek_desc": string;
+        "webshop_offer_dailyBundle_oktoberfest_desc": string;
+        "webshop_offer_dailyBundle_stPatricks_desc": string;
+        "webshop_offer_dailyBundle_summerHoliday_desc": string;
         "webshop_offer_dailyBundle_title": string;
+        "webshop_offer_dailyBundle_valentines_desc": string;
         "webshop_offer_dailyBundle_yourOrderSummary": string;
         "webshop_offer_growthpackage_claimNow": string;
         "webshop_offer_growthpackage_cond_2": string;

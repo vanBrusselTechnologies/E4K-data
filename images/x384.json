@@ -14032,6 +14032,29 @@
       }
     ]
   },
+  "Event_Building_DonationEventConstructor": {
+    "pid": 0,
+    "url": "x384/Buildings/Event/Event_Building_DonationEventConstructor/Event_Building_DonationEventConstructor.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 135,
+        "h": 138,
+        "rx": 938,
+        "ry": 931
+      }
+    ],
+    "fx": [
+      {
+        "x": 2,
+        "y": -15,
+        "scale": 0.25,
+        "name": "fx_exclamationmark",
+        "rotation": 0
+      }
+    ]
+  },
   "Event_Building_DragonriderLTPECamp": {
     "pid": 0,
     "url": "x384/Buildings/Event/Event_Building_DragonriderLTPECamp/Event_Building_DragonriderLTPECamp.png",
@@ -90165,6 +90188,21 @@
     ],
     "fx": []
   },
+  "icon_event_crossplay_small_80": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_event_crossplay_small_80.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 33,
+        "h": 31,
+        "rx": 983,
+        "ry": 984
+      }
+    ],
+    "fx": []
+  },
   "icon_event_quest_4": {
     "pid": 1,
     "url": "x384/Icons/Icons/icon_event_quest_4.png",
@@ -92111,6 +92149,21 @@
         "h": 39,
         "rx": 980,
         "ry": 980
+      }
+    ],
+    "fx": []
+  },
+  "icon_indicator_fold_out": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_indicator_fold_out.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 35,
+        "rx": 982,
+        "ry": 982
       }
     ],
     "fx": []
@@ -95591,6 +95644,21 @@
         "h": 31,
         "rx": 981,
         "ry": 984
+      }
+    ],
+    "fx": []
+  },
+  "icon_reset_b": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_reset_b.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 35,
+        "rx": 976,
+        "ry": 982
       }
     ],
     "fx": []
@@ -102915,6 +102983,21 @@
     ],
     "fx": []
   },
+  "icon_event_crossplay_71": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_event_71_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 55,
+        "rx": 971,
+        "ry": 972
+      }
+    ],
+    "fx": []
+  },
   "icon_nomad_invasion": {
     "pid": 1,
     "url": "x384/Icons/IconsShared/icon_event_72_Shared.png",
@@ -102956,6 +103039,96 @@
         "h": 47,
         "rx": 968,
         "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "icon_event_crossplay_72": {
+    "pid": 1,
+    "url": "x384/Icons/IconsShared/icon_event_72_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 47,
+        "rx": 968,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "icon_event_106_collector": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_event_106_collector_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 59,
+        "rx": 973,
+        "ry": 970
+      }
+    ],
+    "fx": []
+  },
+  "icon_tempserver_crossplay_xl_castleTransport": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_event_crossplay_xl_106_castleTransport_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 105,
+        "rx": 952,
+        "ry": 947
+      }
+    ],
+    "fx": []
+  },
+  "icon_event_crossplay_xl_106_castleTransport": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_event_crossplay_xl_106_castleTransport_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 105,
+        "rx": 952,
+        "ry": 947
+      }
+    ],
+    "fx": []
+  },
+  "icon_tempserver_crossplay_castleTransport_xl": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_event_crossplay_xl_106_castleTransport_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 105,
+        "rx": 952,
+        "ry": 947
+      }
+    ],
+    "fx": []
+  },
+  "icon_event_crossplay_xl_106_collector": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_event_crossplay_xl_106_castleTransport_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 105,
+        "rx": 952,
+        "ry": 947
       }
     ],
     "fx": []
@@ -103046,6 +103219,36 @@
         "h": 57,
         "rx": 969,
         "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "icon_event_crossplay_80": {
+    "pid": 1,
+    "url": "x384/Icons/IconsShared/icon_event_quest_80_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 61,
+        "h": 57,
+        "rx": 969,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "icon_event_xl_106_collector": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_event_xl_106_collector_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 105,
+        "rx": 952,
+        "ry": 947
       }
     ],
     "fx": []
@@ -103481,6 +103684,81 @@
         "h": 73,
         "rx": 964,
         "ry": 963
+      }
+    ],
+    "fx": []
+  },
+  "icon_event_crossplay_big_106_castleTransport": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_tempserver_crossplay_castleTransport_big_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 69,
+        "h": 77,
+        "rx": 965,
+        "ry": 954
+      }
+    ],
+    "fx": []
+  },
+  "icon_tempserver_crossplay_big_castleTransport": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_tempserver_crossplay_castleTransport_big_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 69,
+        "h": 77,
+        "rx": 965,
+        "ry": 954
+      }
+    ],
+    "fx": []
+  },
+  "icon_tempserver_crossplay_castleTransport_big": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_tempserver_crossplay_castleTransport_big_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 69,
+        "h": 77,
+        "rx": 965,
+        "ry": 954
+      }
+    ],
+    "fx": []
+  },
+  "icon_tempserver_crossplay_castleTransport": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_tempserver_crossplay_castleTransport_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 57,
+        "rx": 974,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "icon_event_crossplay_106_castleTransport": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_tempserver_crossplay_castleTransport_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 57,
+        "rx": 974,
+        "ry": 971
       }
     ],
     "fx": []
@@ -111990,21 +112268,6 @@
     ],
     "fx": []
   },
-  "teaser_crossplay_starter": {
-    "pid": 0,
-    "url": "x384/Misc/EventTeasers/teaser_crossplay_starter.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 769,
-        "h": 656,
-        "rx": 999,
-        "ry": 999
-      }
-    ],
-    "fx": []
-  },
   "teaser_daimyo_1": {
     "pid": 2,
     "url": "x384/Misc/EventTeasers/teaser_daimyo_1.png",
@@ -112091,6 +112354,66 @@
         "h": 129,
         "rx": 890,
         "ry": 935
+      }
+    ],
+    "fx": []
+  },
+  "teaser_donation_end": {
+    "pid": 0,
+    "url": "x384/Misc/EventTeasers/teaser_donation_end.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 613,
+        "h": 207,
+        "rx": 693,
+        "ry": 896
+      }
+    ],
+    "fx": []
+  },
+  "teaser_donation_starter_1": {
+    "pid": 0,
+    "url": "x384/Misc/EventTeasers/teaser_donation_starter_1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 769,
+        "h": 207,
+        "rx": 615,
+        "ry": 896
+      }
+    ],
+    "fx": []
+  },
+  "teaser_donation_starter_2": {
+    "pid": 0,
+    "url": "x384/Misc/EventTeasers/teaser_donation_starter_2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 769,
+        "h": 207,
+        "rx": 615,
+        "ry": 896
+      }
+    ],
+    "fx": []
+  },
+  "teaser_donation_starter_3": {
+    "pid": 0,
+    "url": "x384/Misc/EventTeasers/teaser_donation_starter_3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 769,
+        "h": 207,
+        "rx": 615,
+        "ry": 896
       }
     ],
     "fx": []
@@ -112920,6 +113243,21 @@
     ],
     "fx": []
   },
+  "teaser_tempserver_crossplay_1_collector": {
+    "pid": 0,
+    "url": "x384/Misc/EventTeasers/teaser_tempserver_crossplay_1_collector.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 770,
+        "h": 207,
+        "rx": 615,
+        "ry": 896
+      }
+    ],
+    "fx": []
+  },
   "teaser_tempserver_crossplay_1_rankSwap": {
     "pid": 0,
     "url": "x384/Misc/EventTeasers/teaser_tempserver_crossplay_1_rankSwap.png",
@@ -112938,6 +113276,21 @@
   "teaser_tempserver_crossplay_1": {
     "pid": 0,
     "url": "x384/Misc/EventTeasers/teaser_tempserver_crossplay_1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 769,
+        "h": 207,
+        "rx": 615,
+        "ry": 896
+      }
+    ],
+    "fx": []
+  },
+  "teaser_tempserver_crossplay_3_collector": {
+    "pid": 0,
+    "url": "x384/Misc/EventTeasers/teaser_tempserver_crossplay_3_collector.png",
     "frames": [
       {
         "x": 0,
@@ -112980,6 +113333,21 @@
     ],
     "fx": []
   },
+  "teaser_tempserver_crossplay_end_collector": {
+    "pid": 0,
+    "url": "x384/Misc/EventTeasers/teaser_tempserver_crossplay_end_collector.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 208,
+        "rx": 694,
+        "ry": 896
+      }
+    ],
+    "fx": []
+  },
   "teaser_tempserver_crossplay_end_rankSwap": {
     "pid": 0,
     "url": "x384/Misc/EventTeasers/teaser_tempserver_crossplay_end_rankSwap.png",
@@ -113005,6 +113373,21 @@
         "w": 611,
         "h": 207,
         "rx": 694,
+        "ry": 896
+      }
+    ],
+    "fx": []
+  },
+  "teaser_tempserver_crossplay_introduction_castleTransport": {
+    "pid": 0,
+    "url": "x384/Misc/EventTeasers/teaser_tempserver_crossplay_introduction_castleTransport.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 771,
+        "h": 207,
+        "rx": 614,
         "ry": 896
       }
     ],
@@ -113036,6 +113419,21 @@
         "h": 207,
         "rx": 614,
         "ry": 896
+      }
+    ],
+    "fx": []
+  },
+  "teaser_tempserver_crossplay_overview_collector": {
+    "pid": 0,
+    "url": "x384/Misc/EventTeasers/teaser_tempserver_crossplay_overview_collector.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 381,
+        "h": 222,
+        "rx": 809,
+        "ry": 889
       }
     ],
     "fx": []
@@ -114026,6 +114424,51 @@
         "h": 155,
         "rx": 726,
         "ry": 922
+      }
+    ],
+    "fx": []
+  },
+  "teaser_crossplay_starter": {
+    "pid": 0,
+    "url": "x384/Misc/GenericTeasersShared/announcement_teaser_106_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 769,
+        "h": 656,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "announcement_teaser_106": {
+    "pid": 0,
+    "url": "x384/Misc/GenericTeasersShared/announcement_teaser_106_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 769,
+        "h": 656,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "announcement_teaser_123": {
+    "pid": 0,
+    "url": "x384/Misc/GenericTeasersShared/announcement_teaser_123_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 771,
+        "h": 657,
+        "rx": 998,
+        "ry": 999
       }
     ],
     "fx": []
@@ -115440,6 +115883,21 @@
     ],
     "fx": []
   },
+  "Teaser_OffersHub_Big_WhaleChest_10": {
+    "pid": 0,
+    "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_10.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 769,
+        "h": 333,
+        "rx": 615,
+        "ry": 833
+      }
+    ],
+    "fx": []
+  },
   "Teaser_OffersHub_Medium_1": {
     "pid": 0,
     "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Medium_1.png",
@@ -116536,6 +116994,21 @@
     "fx": []
   },
   "teaser_tempserver_crossplay_2_rankSwap": {
+    "pid": 0,
+    "url": "x384/Misc/TeasersShared/teaser_tempserver_2_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 770,
+        "h": 208,
+        "rx": 615,
+        "ry": 896
+      }
+    ],
+    "fx": []
+  },
+  "teaser_tempserver_crossplay_2_collector": {
     "pid": 0,
     "url": "x384/Misc/TeasersShared/teaser_tempserver_2_Shared.png",
     "frames": [
