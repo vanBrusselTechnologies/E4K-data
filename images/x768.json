@@ -7590,6 +7590,156 @@
     ],
     "fx": []
   },
+  "Deco_Building_DonationEventDecorationDay1": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_DonationEventDecorationDay1/Deco_Building_DonationEventDecorationDay1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 291,
+        "h": 276,
+        "rx": 829,
+        "ry": 859
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_DonationEventDecorationDay2": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_DonationEventDecorationDay2/Deco_Building_DonationEventDecorationDay2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 297,
+        "h": 276,
+        "rx": 829,
+        "ry": 859
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_DonationEventDecorationDay3": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_DonationEventDecorationDay3/Deco_Building_DonationEventDecorationDay3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 297,
+        "h": 276,
+        "rx": 823,
+        "ry": 859
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_DonationEventDecorationDay4": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_DonationEventDecorationDay4/Deco_Building_DonationEventDecorationDay4.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 292,
+        "h": 280,
+        "rx": 823,
+        "ry": 855
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_DonationEventDecorationDay5": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_DonationEventDecorationDay5/Deco_Building_DonationEventDecorationDay5.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 292,
+        "h": 293,
+        "rx": 823,
+        "ry": 842
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_DonationEventDecorationNight1": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_DonationEventDecorationNight1/Deco_Building_DonationEventDecorationNight1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 307,
+        "h": 276,
+        "rx": 829,
+        "ry": 859
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_DonationEventDecorationNight2": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_DonationEventDecorationNight2/Deco_Building_DonationEventDecorationNight2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 297,
+        "h": 276,
+        "rx": 829,
+        "ry": 859
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_DonationEventDecorationNight3": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_DonationEventDecorationNight3/Deco_Building_DonationEventDecorationNight3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 297,
+        "h": 276,
+        "rx": 823,
+        "ry": 859
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_DonationEventDecorationNight4": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_DonationEventDecorationNight4/Deco_Building_DonationEventDecorationNight4.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 292,
+        "h": 280,
+        "rx": 823,
+        "ry": 855
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_DonationEventDecorationNight5": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_DonationEventDecorationNight5/Deco_Building_DonationEventDecorationNight5.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 292,
+        "h": 293,
+        "rx": 823,
+        "ry": 842
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_DragonBall": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_DragonBall/Deco_Building_DragonBall.png",
@@ -99428,6 +99578,21 @@
     ],
     "fx": []
   },
+  "icon_architect_tab": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_architect_medium_ds_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 117,
+        "h": 107,
+        "rx": 941,
+        "ry": 946
+      }
+    ],
+    "fx": []
+  },
   "icon_event_quest_3": {
     "pid": 1,
     "url": "x768/Icons/IconsShared/icon_berimond_Shared.png",
@@ -99469,6 +99634,21 @@
         "h": 101,
         "rx": 948,
         "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "icon_builder_tab": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_builder_medium_ds_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 117,
+        "h": 108,
+        "rx": 941,
+        "ry": 946
       }
     ],
     "fx": []

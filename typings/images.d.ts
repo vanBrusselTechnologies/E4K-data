@@ -948,6 +948,16 @@ export interface Images {
     "Deco_Building_DarkRoomHalloween": ImageData;
     "Deco_Building_DeathMask": ImageData;
     "Deco_Building_DessertKingdomScorpionTomb": ImageData;
+    "Deco_Building_DonationEventDecorationDay1": ImageData;
+    "Deco_Building_DonationEventDecorationDay2": ImageData;
+    "Deco_Building_DonationEventDecorationDay3": ImageData;
+    "Deco_Building_DonationEventDecorationDay4": ImageData;
+    "Deco_Building_DonationEventDecorationDay5": ImageData;
+    "Deco_Building_DonationEventDecorationNight1": ImageData;
+    "Deco_Building_DonationEventDecorationNight2": ImageData;
+    "Deco_Building_DonationEventDecorationNight3": ImageData;
+    "Deco_Building_DonationEventDecorationNight4": ImageData;
+    "Deco_Building_DonationEventDecorationNight5": ImageData;
     "Deco_Building_DragonBall": ImageData;
     "Deco_Building_Dragonhead": ImageData;
     "Deco_Building_DwarfStatue": ImageData;
@@ -4469,6 +4479,7 @@ export interface Images {
     "icon_aquamarine_storage": ImageData;
     "icon_aquamarine_storage_ds_big": ImageData;
     "icon_aquamarine_storage_small": ImageData;
+    "icon_architect_tab": ImageData;
     "icon_armymove_tab": ImageData;
     "icon_arrow_blue_move_support_big": ImageData;
     "icon_arrow_c_down": ImageData;
@@ -4504,6 +4515,7 @@ export interface Images {
     "icon_boost_temp_ci": ImageData;
     "icon_broken_item_ci": ImageData;
     "icon_broken_item_ci_xl": ImageData;
+    "icon_builder_tab": ImageData;
     "icon_buildingpoints_small": ImageData;
     "icon_buildings_tab": ImageData;
     "icon_buildmenu": ImageData;
