@@ -875,6 +875,9 @@ export interface Images {
     "Deco_Building_Anniversary10Year": ImageData;
     "Deco_Building_Anniversary11Year": ImageData;
     "Deco_Building_Anniversary12Year": ImageData;
+    "Deco_Building_Anniversary13Year": ImageData;
+    "Deco_Building_Anniversary14Year": ImageData;
+    "Deco_Building_Anniversary15Year": ImageData;
     "Deco_Building_Anniversary1Year": ImageData;
     "Deco_Building_Anniversary2Year": ImageData;
     "Deco_Building_Anniversary3Year": ImageData;
@@ -4791,6 +4794,7 @@ export interface Images {
     "icon_currency_BastionDoubloon": ImageData;
     "icon_currency_BastionDoubloon_medium": ImageData;
     "icon_currency_BastionDoubloon_small": ImageData;
+    "icon_currency_BastionDoubloon_xl": ImageData;
     "icon_currency_BeadBowlBoosterKey": ImageData;
     "icon_currency_BeadBowlBoosterKey_big": ImageData;
     "icon_currency_BeadBowlBoosterKey_medium": ImageData;
@@ -4981,6 +4985,13 @@ export interface Images {
     "icon_currency_IceLTPEToken_medium": ImageData;
     "icon_currency_IceLTPEToken_small": ImageData;
     "icon_currency_IceLTPEToken_xl": ImageData;
+    "icon_currency_ImperialPatronageCharter": ImageData;
+    "icon_currency_ImperialPatronageCharter_big": ImageData;
+    "icon_currency_ImperialPatronageCharter_big_ds": ImageData;
+    "icon_currency_ImperialPatronageCharter_ds": ImageData;
+    "icon_currency_ImperialPatronageCharter_medium": ImageData;
+    "icon_currency_ImperialPatronageCharter_small": ImageData;
+    "icon_currency_ImperialPatronageCharter_xl": ImageData;
     "icon_currency_Influence": ImageData;
     "icon_currency_InfluenceBooster": ImageData;
     "icon_currency_InfluenceBooster_big": ImageData;
@@ -4994,8 +5005,10 @@ export interface Images {
     "icon_currency_KhanMedal": ImageData;
     "icon_currency_KhanMedal_big": ImageData;
     "icon_currency_KhanMedal_no_shadow": ImageData;
+    "icon_currency_KhanMedal_xl": ImageData;
     "icon_currency_KhanTablet": ImageData;
     "icon_currency_KhanTablet_big": ImageData;
+    "icon_currency_KhanTablet_xl": ImageData;
     "icon_currency_KnightToken": ImageData;
     "icon_currency_KnightToken_big": ImageData;
     "icon_currency_KnightToken_big_ds": ImageData;
@@ -5019,6 +5032,7 @@ export interface Images {
     "icon_currency_LegendaryMaterial_big": ImageData;
     "icon_currency_LegendaryMaterial_medium": ImageData;
     "icon_currency_LegendaryMaterial_small": ImageData;
+    "icon_currency_LegendaryMaterial_xl": ImageData;
     "icon_currency_LegendaryMysteryBoxKey": ImageData;
     "icon_currency_LegendarySoulstone": ImageData;
     "icon_currency_LegendarySoulstone_big": ImageData;
@@ -5028,6 +5042,7 @@ export interface Images {
     "icon_currency_LegendaryToken_big": ImageData;
     "icon_currency_LegendaryToken_medium": ImageData;
     "icon_currency_LegendaryToken_small": ImageData;
+    "icon_currency_LegendaryToken_xl": ImageData;
     "icon_currency_LotusFlowerLTPEToken": ImageData;
     "icon_currency_LotusFlowerLTPEToken_big": ImageData;
     "icon_currency_LotusFlowerLTPEToken_big_ds": ImageData;
@@ -5141,12 +5156,14 @@ export interface Images {
     "icon_currency_SamuraiMedal_big": ImageData;
     "icon_currency_SamuraiMedal_medium": ImageData;
     "icon_currency_SamuraiMedal_small": ImageData;
+    "icon_currency_SamuraiMedal_xl": ImageData;
     "icon_currency_SamuraiToken": ImageData;
     "icon_currency_SamuraiToken_big": ImageData;
     "icon_currency_SamuraiToken_big_ds": ImageData;
     "icon_currency_SamuraiToken_ds": ImageData;
     "icon_currency_SamuraiToken_medium": ImageData;
     "icon_currency_SamuraiToken_small": ImageData;
+    "icon_currency_SamuraiToken_xl": ImageData;
     "icon_currency_SasakiToken": ImageData;
     "icon_currency_SasakiToken_big": ImageData;
     "icon_currency_SasakiToken_big_ds": ImageData;
@@ -5159,6 +5176,7 @@ export interface Images {
     "icon_currency_SceatToken_ds": ImageData;
     "icon_currency_SceatToken_medium": ImageData;
     "icon_currency_SceatToken_small": ImageData;
+    "icon_currency_SceatToken_xl": ImageData;
     "icon_currency_ShapeShifterBloodpointBoosterKey": ImageData;
     "icon_currency_ShapeShifterBloodpointBoosterKey_big": ImageData;
     "icon_currency_ShapeShifterCharm": ImageData;
@@ -5275,6 +5293,7 @@ export interface Images {
     "icon_currency_WishingWellCoin_ds": ImageData;
     "icon_currency_WishingWellCoin_medium": ImageData;
     "icon_currency_WishingWellCoin_small": ImageData;
+    "icon_currency_WishingWellCoin_xl": ImageData;
     "icon_currency_XmasLTPEToken": ImageData;
     "icon_currency_XmasLTPEToken_big": ImageData;
     "icon_currency_XmasLTPEToken_big_ds": ImageData;

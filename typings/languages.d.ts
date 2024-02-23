@@ -21,6 +21,9 @@ export interface Languages {
 }
 
 export interface Language {
+    "Empty": {
+        "dialog_primeday_specialoffer_charges_singular": string;
+    };
     "Research": {
         "ci_blueprint_unboostedMeadProduction_secondary_premium": string;
         "dialog_researchTower_blueprintsCategory1_title": string;
@@ -1274,6 +1277,16 @@ export interface Language {
         "deco_DarkRoomHalloween_name": string;
         "deco_DeathMask_name": string;
         "deco_DessertKingdomScorpionTomb_name": string;
+        "deco_DonationEventDecorationDay1_name": string;
+        "deco_DonationEventDecorationDay2_name": string;
+        "deco_DonationEventDecorationDay3_name": string;
+        "deco_DonationEventDecorationDay4_name": string;
+        "deco_DonationEventDecorationDay5_name": string;
+        "deco_DonationEventDecorationNight1_name": string;
+        "deco_DonationEventDecorationNight2_name": string;
+        "deco_DonationEventDecorationNight3_name": string;
+        "deco_DonationEventDecorationNight4_name": string;
+        "deco_DonationEventDecorationNight5_name": string;
         "deco_DragonBall_name": string;
         "deco_EasterTower_name": string;
         "deco_EggTree_name": string;
@@ -4283,6 +4296,10 @@ export interface Language {
         "dialog_crest_saveChanges_header": string;
         "dialog_crest_unlockCondition_desc": string;
         "dialog_crest_unlockCondition_header": string;
+        "dialog_currencyInfoPopUp_ResetInfo": string;
+        "dialog_currencyInfoPopUp_desc": string;
+        "dialog_currencyInfoPopUp_title": string;
+        "dialog_currency_reset_tooltip": string;
         "dialog_dailyLogin_7plus": string;
         "dialog_dailyQuests_08_kingdomNeededIcecream": string;
         "dialog_dailyQuests_09_kingdomNeededDessert": string;
@@ -4501,6 +4518,8 @@ export interface Language {
         "dialog_district_buildingList_title": string;
         "dialog_district_military_title": string;
         "dialog_district_overview": string;
+        "dialog_donationEvent_exceedingWarning": string;
+        "dialog_donationEvent_maxWarning": string;
         "dialog_doubleTool_desc": string;
         "dialog_doubleTool_title": string;
         "dialog_doubleUnit_desc": string;
@@ -4600,6 +4619,13 @@ export interface Language {
         "dialog_eventColossusFinished_titletext": string;
         "dialog_eventColossus_copytext": string;
         "dialog_eventColossusrider_copytext": string;
+        "dialog_eventEndDonationEvent_EventType1": string;
+        "dialog_eventEndDonationEvent_EventType2": string;
+        "dialog_eventEndDonationEvent_EventType3": string;
+        "dialog_eventEndDonationEvent_Level": string;
+        "dialog_eventEndDonationEvent_Reached": string;
+        "dialog_eventEndDonationEvent_desc": string;
+        "dialog_eventEndDonationEvent_title": string;
         "dialog_eventHub_empty": string;
         "dialog_eventHub_title": string;
         "dialog_eventKing_desc": string;
@@ -4610,8 +4636,10 @@ export interface Language {
         "dialog_eventKing_speechBubbleEventNotFinished": string;
         "dialog_eventKing_speechBubble_done": string;
         "dialog_event_announcement_description_106": string;
+        "dialog_event_announcement_description_123": string;
         "dialog_event_announcement_description_277": string;
         "dialog_event_announcement_header_106": string;
+        "dialog_event_announcement_header_123": string;
         "dialog_eventdungeonWin_title": string;
         "dialog_eventdungeon_1_missionAccomplished_title": string;
         "dialog_eventdungeon_1_tip": string;
@@ -5047,12 +5075,14 @@ export interface Language {
         "dialog_highscore_league4": string;
         "dialog_highscore_league5": string;
         "dialog_highscore_name": string;
+        "dialog_highscore_noRankings": string;
         "dialog_highscore_search": string;
         "dialog_highscore_searchAlliance": string;
         "dialog_highscore_searchMonthly": string;
         "dialog_highscore_searchOverall": string;
         "dialog_highscore_searchWeekly": string;
         "dialog_highscore_search_title": string;
+        "dialog_highscore_totalPoints": string;
         "dialog_highscroe_levelHigh": string;
         "dialog_highscroe_levelLow": string;
         "dialog_holdFeast_C2": string;
@@ -6307,6 +6337,30 @@ export interface Language {
         "dialog_mailVertication_title": string;
         "dialog_mailbox_empty": string;
         "dialog_mailbox_emptyingorelist": string;
+        "dialog_mainDonationEvent_DonationLimit": string;
+        "dialog_mainDonationEvent_architect": string;
+        "dialog_mainDonationEvent_eventType_help": string;
+        "dialog_mainDonationEvent_helpPopup": string;
+        "dialog_mainDonationEvent_maxLevel": string;
+        "dialog_mainDonationEvent_nextLevelPoints": string;
+        "dialog_mainDonationEvent_reward_CurrentLevel": string;
+        "dialog_mainDonationEvent_reward_InfoPopup": string;
+        "dialog_mainDonationEvent_reward_NextLevel": string;
+        "dialog_mainDonationEvent_reward_firstLevel": string;
+        "dialog_mainDonationEvent_reward_maxLevelDesc": string;
+        "dialog_mainDonationEvent_reward_tier": string;
+        "dialog_mainDonationEvent_sliders_ResetCurrencyIcon": string;
+        "dialog_mainDonationEvent_sliders_limitTooltip": string;
+        "dialog_mainDonationEvent_sliders_maxLimitReached": string;
+        "dialog_mainDonationEvent_sliders_ratio": string;
+        "dialog_mainDonationEvent_title": string;
+        "dialog_mainDonationEvent_title_architect": string;
+        "dialog_mainDonationEvent_title_builder": string;
+        "dialog_mainDonationEvent_title_mason": string;
+        "dialog_mainDonationEvent_tooltip_architect": string;
+        "dialog_mainDonationEvent_tooltip_builder": string;
+        "dialog_mainDonationEvent_tooltip_mason": string;
+        "dialog_mainDonationEvent_tooltip_option": string;
         "dialog_management_NoAbandonMonument": string;
         "dialog_management_NoAbandonOutpost": string;
         "dialog_management_NoAbandonTower": string;
@@ -7136,7 +7190,6 @@ export interface Language {
         "dialog_primeday_specialoffer_bonus": string;
         "dialog_primeday_specialoffer_buysLeft": string;
         "dialog_primeday_specialoffer_charges": string;
-        "dialog_primeday_specialoffer_charges_singular": string;
         "dialog_primeday_specialoffer_description": string;
         "dialog_primeday_specialoffer_endTimer": string;
         "dialog_primeday_specialoffer_reward": string;
@@ -8181,6 +8234,14 @@ export interface Language {
         "dialog_startAttack_shadowUnitInfo": string;
         "dialog_startAttack_title": string;
         "dialog_startAttack_to": string;
+        "dialog_startDonationEvent_desc1": string;
+        "dialog_startDonationEvent_desc2": string;
+        "dialog_startDonationEvent_desc3": string;
+        "dialog_startDonationEvent_join": string;
+        "dialog_startDonationEvent_subtitle1": string;
+        "dialog_startDonationEvent_subtitle2": string;
+        "dialog_startDonationEvent_subtitle3": string;
+        "dialog_startDonationEvent_title": string;
         "dialog_startOpenGate_decription": string;
         "dialog_startOpenGate_decription_short": string;
         "dialog_startOpenGate_title": string;
@@ -8445,6 +8506,7 @@ export interface Language {
         "dialog_tempServer_welcomePopup_pageHeader_1": string;
         "dialog_tempServer_welcomePopup_pageHeader_2": string;
         "dialog_tempServer_welcomePopup_startButton": string;
+        "dialog_tenthAnniversary_timer": string;
         "dialog_thornking_tip_description": string;
         "dialog_thornking_tip_title": string;
         "dialog_timeOffer_condition": string;
@@ -8996,6 +9058,7 @@ export interface Language {
         "errorCode_405": string;
         "errorCode_406": string;
         "error_shapeshifterEquipment_insufficientTime": string;
+        "eventBuilding_DonationEvent": string;
         "eventBuilding_FortuneTeller": string;
         "eventBuilding_NomadInvasion": string;
         "eventBuilding_decoOffer": string;
@@ -11491,6 +11554,7 @@ export interface Language {
         "webshop_decoWithEffects_attackCombat_desc": string;
         "webshop_decoWithEffects_defenderStrength_desc": string;
         "webshop_decoWithEffects_foodProductionFire_desc": string;
+        "webshop_decoWithEffects_foodProductionGeneric_desc": string;
         "webshop_decoWithEffects_foodProductionIce_desc": string;
         "webshop_decoWithEffects_foodProductionSand_desc": string;
         "webshop_decoWithEffects_food_desc": string;
@@ -12071,6 +12135,7 @@ export interface Language {
         "effect_description_spyCountBoost": string;
         "effect_description_unboostedFoodProductionTCI": string;
         "effect_description_unitWallCountTCI": string;
+        "effect_name_AttackBoostYardDecoCapped": string;
         "effect_name_attackBoostYard": string;
         "effect_name_attackUnitAmountFront": string;
         "effect_name_battleXPBoost": string[];
@@ -12111,7 +12176,9 @@ export interface Language {
         "effect_name_meadCapacityBonusBaronEconomy": string;
         "effect_name_meadProductionBoost": string;
         "effect_name_offensiveMeleeBonus": string;
+        "effect_name_offensiveMeleeBonusDecoCapped": string;
         "effect_name_offensiveRangeBonus": string;
+        "effect_name_offensiveRangeBonusDecoCapped": string;
         "effect_name_oilProductionBoost": string;
         "effect_name_recruitmentCostDecreaseAll": string;
         "effect_name_recruitmentSpeedBoostAll": string;
@@ -17019,6 +17086,7 @@ export interface Language {
         "currency_description_FusionCurrency": string;
         "currency_description_HalloweenLTPEToken": string;
         "currency_description_IceLTPEToken": string;
+        "currency_description_ImperialPatronageCharter": string;
         "currency_description_Influence": string;
         "currency_description_InfluenceBooster": string;
         "currency_description_KhanMedal": string;
@@ -17087,6 +17155,7 @@ export interface Language {
         "currency_name_GoldRune": string;
         "currency_name_HalloweenLTPEToken": string;
         "currency_name_IceLTPEToken": string;
+        "currency_name_ImperialPatronageCharter": string;
         "currency_name_Influence": string;
         "currency_name_InfluenceBooster": string;
         "currency_name_KhanMedal": string;

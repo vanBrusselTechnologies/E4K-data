@@ -76323,9 +76323,9 @@
     {
       "rewardID": 1583,
       "comment1": "Collect Event halloween",
-      "equipmentIDs": 700,
       "decoWodID": 30002,
-      "toDecoGlobalStorage": 1
+      "toDecoGlobalStorage": 1,
+      "equipmentIDs": 700
     },
     {
       "rewardID": 1584,
@@ -76342,9 +76342,9 @@
     {
       "rewardID": 16,
       "comment1": "Collect Event halloween",
-      "relicEquipments": "6401@60,100@801,805,20002",
       "decoWodID": 1883,
       "toDecoGlobalStorage": 1,
+      "relicEquipments": "6401@60,100@801,805,20002",
       "addDecoCatalyst6": 1
     },
     {
@@ -76478,9 +76478,9 @@
       "comment2": "tier 2 - deco, comm event skin, forest warrior",
       "units": "960+250",
       "hiddenFood": 30000,
-      "equipmentIDs": 717,
       "decoWodID": 2403,
-      "toDecoGlobalStorage": 1
+      "toDecoGlobalStorage": 1,
+      "equipmentIDs": 717
     },
     {
       "rewardID": 7191,
@@ -76497,9 +76497,9 @@
       "comment2": "tier 4 - deco, cast event skin, forest warrior",
       "units": "960+500",
       "hiddenFood": 60000,
-      "equipmentIDs": 718,
       "decoWodID": 2404,
-      "toDecoGlobalStorage": 1
+      "toDecoGlobalStorage": 1,
+      "equipmentIDs": 718
     },
     {
       "rewardID": 7193,
@@ -76514,9 +76514,9 @@
       "rewardID": 7194,
       "comment1": "Collect Event Easter - 2022",
       "comment2": "tier 6 - deco, sd wof ticket, cast temp skin",
-      "equipmentIDs": 987,
       "decoWodID": 2405,
       "toDecoGlobalStorage": 1,
+      "equipmentIDs": 987,
       "addSaleDaysLuckyWheelTicket": 5
     },
     {
@@ -76538,9 +76538,9 @@
       "rewardID": 1346,
       "comment1": "Collect Event Anniversary",
       "comment2": "top 4",
-      "equipmentIDs": 738,
       "decoWodID": 30002,
-      "toDecoGlobalStorage": 1
+      "toDecoGlobalStorage": 1,
+      "equipmentIDs": 738
     },
     {
       "rewardID": 2323,
@@ -76560,9 +76560,9 @@
       "rewardID": 2648,
       "comment1": "Collect Event Anniversary",
       "comment2": "top1",
-      "relicEquipments": "6401@60,100@801,805,20002",
       "decoWodID": 1687,
       "toDecoGlobalStorage": 1,
+      "relicEquipments": "6401@60,100@801,805,20002",
       "addDecoCatalyst6": 1
     },
     {
@@ -76584,9 +76584,9 @@
       "rewardID": 5987,
       "comment1": "Collect Event 10 Year Anniversary",
       "comment2": "tier 3 - event skin (cast), deco",
-      "equipmentIDs": 926,
       "decoWodID": 2204,
-      "toDecoGlobalStorage": 1
+      "toDecoGlobalStorage": 1,
+      "equipmentIDs": 926
     },
     {
       "rewardID": 5988,
@@ -76626,9 +76626,9 @@
       "rewardID": 620,
       "comment1": "Collect Event X-Mas",
       "comment2": "top 4",
-      "equipmentIDs": 705,
       "decoWodID": 30002,
-      "toDecoGlobalStorage": 1
+      "toDecoGlobalStorage": 1,
+      "equipmentIDs": 705
     },
     {
       "rewardID": 621,
@@ -76648,9 +76648,9 @@
       "rewardID": 623,
       "comment1": "Collect Event X-Mas",
       "comment2": "top1",
-      "relicEquipments": "6401@60,100@801,805,20002",
       "decoWodID": 1896,
       "toDecoGlobalStorage": 1,
+      "relicEquipments": "6401@60,100@801,805,20002",
       "addDecoCatalyst6": 1
     },
     {
@@ -76679,9 +76679,9 @@
       "rewardID": 6242,
       "comment1": "Collect Event Christmas 2021 - Pool A",
       "comment2": "Tier 4",
-      "equipmentIDs": 945,
       "decoWodID": 2277,
       "toDecoGlobalStorage": 1,
+      "equipmentIDs": 945,
       "addSaleDaysLuckyWheelTicket": 1
     },
     {
@@ -76697,9 +76697,9 @@
       "comment1": "Collect Event Christmas 2021 - Pool A",
       "comment2": "Tier 6",
       "addSceatToken": 8,
-      "equipmentIDs": 947,
       "decoWodID": 2278,
       "toDecoGlobalStorage": 1,
+      "equipmentIDs": 947,
       "addSaleDaysLuckyWheelTicket": 1
     },
     {
@@ -76728,9 +76728,9 @@
       "rewardID": 6248,
       "comment1": "Collect Event Christmas 2021 - Pool B",
       "comment2": "Tier 4",
-      "constructionItemIDs": 30004,
       "decoWodID": 2277,
       "toDecoGlobalStorage": 1,
+      "constructionItemIDs": 30004,
       "addSaleDaysLuckyWheelTicket": 1
     },
     {
@@ -76746,9 +76746,9 @@
       "comment1": "Collect Event Christmas 2021 - Pool B",
       "comment2": "Tier 6",
       "addSceatToken": 8,
-      "constructionItemIDs": 30024,
       "decoWodID": 2278,
       "toDecoGlobalStorage": 1,
+      "constructionItemIDs": 30024,
       "addSaleDaysLuckyWheelTicket": 1
     },
     {
@@ -76770,9 +76770,9 @@
       "rewardID": 773,
       "comment1": "Collect Event Summer",
       "comment2": "top 4",
-      "equipmentIDs": 843,
       "decoWodID": 30002,
-      "toDecoGlobalStorage": 1
+      "toDecoGlobalStorage": 1,
+      "equipmentIDs": 843
     },
     {
       "rewardID": 774,
@@ -76792,9 +76792,9 @@
       "rewardID": 885,
       "comment1": "Collect Event Summer",
       "comment2": "top1",
-      "relicEquipments": "6401@60,100@801,805,20002",
       "decoWodID": 1687,
       "toDecoGlobalStorage": 1,
+      "relicEquipments": "6401@60,100@801,805,20002",
       "addDecoCatalyst6": 1
     },
     {
@@ -76811,9 +76811,9 @@
       "comment2": "tier 2 - deco, comm event skin, forest warrior",
       "units": "962+250",
       "hiddenFood": 30000,
-      "equipmentIDs": 842,
       "decoWodID": 2434,
-      "toDecoGlobalStorage": 1
+      "toDecoGlobalStorage": 1,
+      "equipmentIDs": 842
     },
     {
       "rewardID": 6695,
@@ -76830,9 +76830,9 @@
       "comment2": "tier 4 - deco, cast event skin, forest warrior",
       "units": "962+500",
       "hiddenFood": 60000,
-      "equipmentIDs": 843,
       "decoWodID": 2435,
-      "toDecoGlobalStorage": 1
+      "toDecoGlobalStorage": 1,
+      "equipmentIDs": 843
     },
     {
       "rewardID": 6697,
@@ -76847,9 +76847,9 @@
       "rewardID": 6698,
       "comment1": "Summer Collector Event 2022",
       "comment2": "tier 6 - deco, sd wof ticket, cast temp skin",
-      "equipmentIDs": 989,
       "decoWodID": 2436,
       "toDecoGlobalStorage": 1,
+      "equipmentIDs": 989,
       "addSaleDaysLuckyWheelTicket": 5
     },
     {
@@ -76865,9 +76865,9 @@
     },
     {
       "rewardID": 752,
-      "equipmentIDs": 713,
       "decoWodID": 30002,
-      "toDecoGlobalStorage": 1
+      "toDecoGlobalStorage": 1,
+      "equipmentIDs": 713
     },
     {
       "rewardID": 753,
@@ -76881,9 +76881,9 @@
     },
     {
       "rewardID": 755,
-      "relicEquipments": "6401@60,100@801,805,20002",
       "decoWodID": 1934,
       "toDecoGlobalStorage": 1,
+      "relicEquipments": "6401@60,100@801,805,20002",
       "addDecoCatalyst6": 1
     },
     {

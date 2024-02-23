@@ -6524,6 +6524,51 @@
     ],
     "fx": []
   },
+  "Deco_Building_Anniversary13Year": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_Anniversary13Year/Deco_Building_Anniversary13Year.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 125,
+        "h": 130,
+        "rx": 925,
+        "ry": 932
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_Anniversary14Year": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_Anniversary14Year/Deco_Building_Anniversary14Year.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 125,
+        "h": 130,
+        "rx": 925,
+        "ry": 932
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_Anniversary15Year": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_Anniversary15Year/Deco_Building_Anniversary15Year.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 125,
+        "h": 130,
+        "rx": 925,
+        "ry": 932
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_AnniversaryCake": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_AnniversaryCake/Deco_Building_AnniversaryCake.png",
@@ -81593,6 +81638,21 @@
     ],
     "fx": []
   },
+  "icon_currency_BastionDoubloon_xl": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_BastionDoubloon_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 94,
+        "rx": 952,
+        "ry": 953
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_BastionDoubloon": {
     "pid": 0,
     "url": "x384/Icons/Icons/icon_currency_BastionDoubloon.png",
@@ -84653,6 +84713,96 @@
     ],
     "fx": []
   },
+  "icon_currency_ImperialPatronageCharter_big": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_ImperialPatronageCharter_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 57,
+        "rx": 971,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_ImperialPatronageCharter_ds": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_ImperialPatronageCharter_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 35,
+        "rx": 982,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_ImperialPatronageCharter_medium": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_ImperialPatronageCharter_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 43,
+        "h": 43,
+        "rx": 978,
+        "ry": 978
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_ImperialPatronageCharter_small": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_ImperialPatronageCharter_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 17,
+        "h": 17,
+        "rx": 991,
+        "ry": 991
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_ImperialPatronageCharter_xl": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_ImperialPatronageCharter_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 85,
+        "h": 84,
+        "rx": 957,
+        "ry": 958
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_ImperialPatronageCharter": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_ImperialPatronageCharter.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 33,
+        "h": 35,
+        "rx": 983,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_Influence_big": {
     "pid": 1,
     "url": "x384/Icons/Icons/icon_currency_Influence_big.png",
@@ -84833,6 +84983,21 @@
     ],
     "fx": []
   },
+  "icon_currency_KhanMedal_xl": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_KhanMedal_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 128,
+        "h": 130,
+        "rx": 936,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_KhanTablet_big": {
     "pid": 1,
     "url": "x384/Icons/Icons/icon_currency_KhanTablet_big.png",
@@ -84844,6 +85009,21 @@
         "h": 54,
         "rx": 981,
         "ry": 973
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_KhanTablet_xl": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_KhanTablet_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 71,
+        "h": 106,
+        "rx": 964,
+        "ry": 947
       }
     ],
     "fx": []
@@ -85133,6 +85313,21 @@
     ],
     "fx": []
   },
+  "icon_currency_LegendaryMaterial_xl": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_LegendaryMaterial_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 112,
+        "h": 111,
+        "rx": 944,
+        "ry": 944
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_LegendaryMaterial": {
     "pid": 0,
     "url": "x384/Icons/Icons/icon_currency_LegendaryMaterial.png",
@@ -85219,6 +85414,21 @@
         "h": 18,
         "rx": 990,
         "ry": 991
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_LegendaryToken_xl": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_LegendaryToken_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 112,
+        "h": 111,
+        "rx": 944,
+        "ry": 944
       }
     ],
     "fx": []
@@ -86723,6 +86933,21 @@
     ],
     "fx": []
   },
+  "icon_currency_SamuraiMedal_xl": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_SamuraiMedal_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 116,
+        "h": 133,
+        "rx": 942,
+        "ry": 933
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_SamuraiMedal": {
     "pid": 1,
     "url": "x384/Icons/Icons/icon_currency_SamuraiMedal.png",
@@ -86888,6 +87113,21 @@
     ],
     "fx": []
   },
+  "icon_currency_SamuraiToken_xl": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_SamuraiToken_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 109,
+        "rx": 944,
+        "ry": 945
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_SamuraiToken": {
     "pid": 1,
     "url": "x384/Icons/Icons/icon_currency_SamuraiToken.png",
@@ -87049,6 +87289,21 @@
         "h": 21,
         "rx": 988,
         "ry": 989
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_SceatToken_xl": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_SceatToken_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 133,
+        "h": 116,
+        "rx": 933,
+        "ry": 942
       }
     ],
     "fx": []
@@ -88774,6 +89029,21 @@
         "h": 21,
         "rx": 989,
         "ry": 989
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_WishingWellCoin_xl": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_WishingWellCoin_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 109,
+        "h": 108,
+        "rx": 945,
+        "ry": 946
       }
     ],
     "fx": []
@@ -100358,6 +100628,21 @@
     ],
     "fx": []
   },
+  "icon_currency_ImperialPatronageCharter_big_ds": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_currency_ImperialPatronageCharter_big_ds_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 46,
+        "rx": 976,
+        "ry": 977
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_KhanMedal_no_shadow": {
     "pid": 1,
     "url": "x384/Icons/IconsShared/icon_currency_KhanMedal_no_shadow_Shared.png",
@@ -100388,7 +100673,7 @@
     ],
     "fx": []
   },
-  "icon_khan_currency": {
+  "icon_currency_KhanMedal": {
     "pid": 1,
     "url": "x384/Icons/IconsShared/icon_currency_KhanMedal_Shared.png",
     "frames": [
@@ -100403,7 +100688,7 @@
     ],
     "fx": []
   },
-  "icon_currency_KhanMedal": {
+  "icon_khan_currency": {
     "pid": 1,
     "url": "x384/Icons/IconsShared/icon_currency_KhanMedal_Shared.png",
     "frames": [
@@ -103553,7 +103838,7 @@
     ],
     "fx": []
   },
-  "icon_khan_currency_big": {
+  "icon_currency_KhanMedal_big": {
     "pid": 1,
     "url": "x384/Icons/IconsShared/icon_khan_currency_big_Shared.png",
     "frames": [
@@ -103568,7 +103853,7 @@
     ],
     "fx": []
   },
-  "icon_currency_KhanMedal_big": {
+  "icon_khan_currency_big": {
     "pid": 1,
     "url": "x384/Icons/IconsShared/icon_khan_currency_big_Shared.png",
     "frames": [
