@@ -1912,7 +1912,15 @@
     "deco_DonationEventDecorationNight2_name": "Monument til evig imperiumskumring",
     "deco_DonationEventDecorationNight3_name": "Monument til evig imperiumskumring",
     "deco_DonationEventDecorationNight4_name": "Monument til evig imperiumskumring",
-    "deco_DonationEventDecorationNight5_name": "Monument til evig imperiumskumring"
+    "deco_DonationEventDecorationNight5_name": "Monument til evig imperiumskumring",
+    "deco_easterdecowitheffect_name": "Forbedret vår siktårn",
+    "deco_StPatrickGoldCave_withEffects_name": "Forbedret Leprechaun-gullhaug",
+    "deco_shamrockTavern_withEffects_name": "Forbedret Shamrock-pub",
+    "ci_appearance_dragonriderSiegeWorkshop": "Drageridder-siege-verksted",
+    "ci_appearance_dragonriderSiegeWorkshop_flavor": "Rask og sterk i ett! Slik må det beste drakerytterutstyret smis.",
+    "ci_appearance_octoberfestMarket": "Oktoberfest-marked",
+    "ci_appearance_octoberfestMarket_flavor": "Bytt ut øl og komplimenter i tradisjonelle drakter!",
+    "deco_EasterSales_BunchOfEggs": "Eggkurv Bunch"
   },
   "dialogs": {
     "dialog_festival_desc": "Bruk mat til å holde en festival for folket! Rekrutteringshastigheten vil markant økes ved alle slottene dine så lenge festivalen varer. Desto større festival, jo bedre effekt.",
@@ -2523,7 +2531,7 @@
     "dialog_resourcesBoost_extendOverseer": "Øk oppsynstid",
     "dialog_resourcesBoost_hireOverseer": "Lei inn en forvalter",
     "dialog_resourcesBoost_title": "Lei inn en forvalter",
-    "dialog_resourceWait_description": "Du har ikke nok ressurser. Plyndre andre slott, importer ressurser fra andre kongeriker eller vent til arbeiderne dine har produsert nok.",
+    "dialog_resourceWait_description": "Du har ikke nok ressurser eller valuta! Plyndre slott, delta i hendelser, importer fra andre kongeriker eller vent til arbeiderne dine har produsert mer.",
     "dialog_resourceWait_timeTillAvalible": "Tid til ressursene blir tilgjengelige ",
     "dialog_resourceWait_youNeed": "Du mangler: ",
     "dialog_ressourcexchangerEvent_speechBubble": "Har du kanskje litt ekstra av noe du ikke trenger? Vi kan godt forhandle litt ressurser, til en hyggelig kurs! Selvfølgelig!\nMen ikke nøl for lenge, tilbudet mitt gjelder bare i en begrenset periode.",
@@ -11953,7 +11961,7 @@
     "webshop_TCI_foodProductionGeneric_desc": "Midlertidig byggeelement. Gir +{0} matproduksjon per time i et slott i {1} dager.",
     "webshop_ciTemporary_desc_30117": "Legendarisk midlertidig byggegjenstand. Gir en matproduksjon på +15 000 i timen i et slott i 28 dager.",
     "webshop_offer_dailyBundle_oktoberfest_desc": "Oktoberfest-spesial + {0} % høyere bonus!",
-    "webshop_decoWithEffects_foodProductionGeneric_desc": "Øker ro og orden i slottet ditt med {0},\n+{1}% matproduksjonsbonus i ditt Ildtindeslott,\nMaks {2} per område.",
+    "webshop_decoWithEffects_foodProductionGeneric_desc": "Øker ro og orden inne i slottet med {0},\n+{1} % matproduksjonsbonus.\nMaks {2} per område.",
     "dialog_startDonationEvent_subtitle3": "Keiserens beskyttelsesbrev",
     "dialog_startDonationEvent_title": "Keiserlig beskyttelse – start",
     "dialog_tenthAnniversary_timer": "Tid igjen av hendelsen: {0}",
@@ -12004,7 +12012,10 @@
     "dialog_startDonationEvent_desc3": "Keiseren har innført en keiserlig beskyttelseserklæring, og har bedt arkitekten om å prosessere materialene du har i overflod.\nVed slutten av hendelsen vil &lt;b&gt;alle keiserlige beskyttelseserklæringer tilbakestilles!&lt;/b&gt;",
     "dialog_startDonationEvent_join": "- Benytt sjansen og bli med på Det keiserlige Patronat-eventet! -",
     "dialog_startDonationEvent_subtitle1": "Arkitektens planer",
-    "dialog_startDonationEvent_subtitle2": "Øk belønning"
+    "dialog_startDonationEvent_subtitle2": "Øk belønning",
+    "dialog_specialOffer_copy4": "Kjøp for eksempel 50k rubiner, og du får {0}!",
+    "dialog_privateBestsellerShop_easter1": "Spesialtilbud til påske",
+    "dialog_privateBestsellerShop_easter2": "Ypperlig Påsketilbud!"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0} % reisehastighet for hær under erobringer",
@@ -13103,9 +13114,17 @@
     "effect_name_woodProductionBoostMain": "Bonus til treproduksjon i Storrike-slottet",
     "effect_name_woodProductionBoost": "Bonus til treproduksjon i slott",
     "effect_name_foodProductionBoostBaronEconomy": "Bonus til matproduksjonen i slottet",
-    "effect_name_AttackBoostYardDecoCapped": "Bonus til kampstyrke ved angrep på gårdsplass (maks)",
+    "equip_effect_description_AttackBoostYardDecoCapped": "+{0} % kampstyrke for angrep på gårdsplass (tak)",
+    "equip_effect_description_offensiveMeleeBonusDecoCapped": "+{0} % nærkampenheters angrepsstyrke (tak)",
+    "equip_effect_description_offensiveRangeBonusDecoCapped": "+{0} % avstandsenheters angrepsstyrke (tak)",
+    "effect_name_recruitmentCostDecreaseAllCapped": "Reduksjon av rekrutteringsmyntkostnad (maks)",
+    "effect_name_recruitmentSpeedBoostAllCapped": "Bonus til rekrutteringshastighet (maks)",
+    "effect_name_toolProductionSpeedBoostAllCapped": "Bonus til produksjonshastighet for verktøy (maks)",
+    "effects_ltpe_tci_dragonriderSiegeWorkshop": "Placeholder text for the TCI: dragonriderSiegeWorkshop",
+    "effects_ltpe_tci_octoberfestMarket": "Placeholder text for the TCI: octoberfestMarket",
     "effect_name_offensiveMeleeBonusDecoCapped": "Bonus til nærkampenheters angrepsstyrke (tak)",
-    "effect_name_offensiveRangeBonusDecoCapped": "Bonus angrepsstyrke for avstandsenheter (tak)"
+    "effect_name_offensiveRangeBonusDecoCapped": "Boost for avstandsangripere (maks)",
+    "effect_name_AttackBoostYardDecoCapped": "Bonus til kampstyrke ved angrep på gårdsplass (maks)"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Helt",

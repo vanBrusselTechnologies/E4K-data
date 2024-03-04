@@ -964,6 +964,7 @@ export interface Images {
     "Deco_Building_DragonBall": ImageData;
     "Deco_Building_Dragonhead": ImageData;
     "Deco_Building_DwarfStatue": ImageData;
+    "Deco_Building_EasterDecoWithEffect": ImageData;
     "Deco_Building_EasterTower": ImageData;
     "Deco_Building_EggTree": ImageData;
     "Deco_Building_ElephantMonument": ImageData;
@@ -3947,6 +3948,8 @@ export interface Images {
     "Teaser_OffersHub_Big_33": ImageData;
     "Teaser_OffersHub_Big_34": ImageData;
     "Teaser_OffersHub_Big_35": ImageData;
+    "Teaser_OffersHub_Big_36": ImageData;
+    "Teaser_OffersHub_Big_37": ImageData;
     "Teaser_OffersHub_Big_4": ImageData;
     "Teaser_OffersHub_Big_5": ImageData;
     "Teaser_OffersHub_Big_6": ImageData;
@@ -3955,6 +3958,8 @@ export interface Images {
     "Teaser_OffersHub_Big_9": ImageData;
     "Teaser_OffersHub_Big_WhaleChest_1": ImageData;
     "Teaser_OffersHub_Big_WhaleChest_10": ImageData;
+    "Teaser_OffersHub_Big_WhaleChest_11": ImageData;
+    "Teaser_OffersHub_Big_WhaleChest_12": ImageData;
     "Teaser_OffersHub_Big_WhaleChest_2": ImageData;
     "Teaser_OffersHub_Big_WhaleChest_3": ImageData;
     "Teaser_OffersHub_Big_WhaleChest_4": ImageData;
@@ -4303,6 +4308,7 @@ export interface Images {
     "desert_gold": ImageData;
     "desert_silver": ImageData;
     "dragonriderHospital": ImageData;
+    "dragonriderSiegeWorkshop": ImageData;
     "easternTavern": ImageData;
     "elvenBakery": ImageData;
     "elvenBarrack": ImageData;
@@ -4322,6 +4328,11 @@ export interface Images {
     "generals_cutscene_2": ImageData;
     "giantsForestWoodcutter": ImageData;
     "giantsForestlumbermill": ImageData;
+    "global_primetime_background_AprilFools2024": ImageData;
+    "global_primetime_background_Easter2024": ImageData;
+    "global_primetime_background_Spring2024": ImageData;
+    "global_primetime_background_generic1": ImageData;
+    "global_primetime_background_generic2": ImageData;
     "goatTavern": ImageData;
     "graniteRockQuarry": ImageData;
     "graniteRockStonemason": ImageData;
@@ -6401,9 +6412,11 @@ export interface Images {
     "icon_package_category_115": ImageData;
     "icon_package_category_116": ImageData;
     "icon_package_category_117": ImageData;
+    "icon_package_category_118": ImageData;
     "icon_package_category_20": ImageData;
     "icon_package_category_30": ImageData;
     "icon_package_category_40": ImageData;
+    "icon_package_category_412": ImageData;
     "icon_package_category_60": ImageData;
     "icon_package_category_999": ImageData;
     "icon_paragon_crafting_1_long": ImageData;
@@ -7480,6 +7493,7 @@ export interface Images {
     "nomadDrillGround": ImageData;
     "nomadGuardhouse": ImageData;
     "nomadTavern": ImageData;
+    "octoberfestMarket": ImageData;
     "octoberfestTower": ImageData;
     "partyGuardhouse": ImageData;
     "pirateBakery": ImageData;

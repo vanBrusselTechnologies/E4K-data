@@ -1023,6 +1023,8 @@ export interface Language {
         "ci_appearance_daffodilWorkshop_flavour": string;
         "ci_appearance_dragonriderHospital": string;
         "ci_appearance_dragonriderHospital_flavour": string;
+        "ci_appearance_dragonriderSiegeWorkshop": string;
+        "ci_appearance_dragonriderSiegeWorkshop_flavor": string;
         "ci_appearance_easternTavern": string;
         "ci_appearance_easternTavern_flavour": string;
         "ci_appearance_elvenEstate": string;
@@ -1047,6 +1049,8 @@ export interface Language {
         "ci_appearance_nomadGuardhouse_flavour": string;
         "ci_appearance_nomadTavern": string;
         "ci_appearance_nomadTavern_flavour": string;
+        "ci_appearance_octoberfestMarket": string;
+        "ci_appearance_octoberfestMarket_flavor": string;
         "ci_appearance_octoberfestTower": string;
         "ci_appearance_octoberfestTower_flavour": string;
         "ci_appearance_partyGuardhouse": string;
@@ -1288,6 +1292,7 @@ export interface Language {
         "deco_DonationEventDecorationNight4_name": string;
         "deco_DonationEventDecorationNight5_name": string;
         "deco_DragonBall_name": string;
+        "deco_EasterSales_BunchOfEggs": string;
         "deco_EasterTower_name": string;
         "deco_EggTree_name": string;
         "deco_ElephantMonument_name": string;
@@ -1337,6 +1342,7 @@ export interface Language {
         "deco_SpringTower2_name": string;
         "deco_SpringTower_name": string;
         "deco_StPatrickGoldCave_name": string;
+        "deco_StPatrickGoldCave_withEffects_name": string;
         "deco_StPatrickMagicCave_name": string;
         "deco_TamingOfTheWild_name": string;
         "deco_TerracottaSoldiers_name": string;
@@ -1425,6 +1431,7 @@ export interface Language {
         "deco_dragonhead_name": string;
         "deco_dragonridercabin_name": string;
         "deco_dragonriderdragonnest_name": string;
+        "deco_easterdecowitheffect_name": string;
         "deco_elephantsFountain_name": string;
         "deco_eternalblossoms_name": string;
         "deco_eternityGarden_name": string;
@@ -1545,6 +1552,7 @@ export interface Language {
         "deco_scorpionsanctuary_name": string;
         "deco_seafight_name": string;
         "deco_seahorserider_name": string;
+        "deco_shamrockTavern_withEffects_name": string;
         "deco_shipwreckCove_name": string;
         "deco_short_info": string;
         "deco_shrineOfEmpires_name": string;
@@ -7215,6 +7223,8 @@ export interface Language {
         "dialog_privateBestsellerShop_bestsellerItem": string;
         "dialog_privateBestsellerShop_button": string;
         "dialog_privateBestsellerShop_desc": string;
+        "dialog_privateBestsellerShop_easter1": string;
+        "dialog_privateBestsellerShop_easter2": string;
         "dialog_privateBestsellerShop_title": string;
         "dialog_privateOffer_showMe": string;
         "dialog_privateOffer_valueLong": string;
@@ -8171,6 +8181,7 @@ export interface Language {
         "dialog_specialOffer_copy2": string;
         "dialog_specialOffer_copy2_3": string;
         "dialog_specialOffer_copy3": string;
+        "dialog_specialOffer_copy4": string;
         "dialog_specialOffer_desc_1": string;
         "dialog_specialOffer_desc_2": string;
         "dialog_specialOffer_desc_3": string;
@@ -12181,13 +12192,16 @@ export interface Language {
         "effect_name_offensiveRangeBonusDecoCapped": string;
         "effect_name_oilProductionBoost": string;
         "effect_name_recruitmentCostDecreaseAll": string;
+        "effect_name_recruitmentCostDecreaseAllCapped": string;
         "effect_name_recruitmentSpeedBoostAll": string;
+        "effect_name_recruitmentSpeedBoostAllCapped": string;
         "effect_name_stoneProductionBoost": string;
         "effect_name_stoneProductionBoostDesert": string;
         "effect_name_stoneProductionBoostFire": string;
         "effect_name_stoneProductionBoostIce": string;
         "effect_name_stoneProductionBoostMain": string;
         "effect_name_toolProductionSpeedBoostAll": string;
+        "effect_name_toolProductionSpeedBoostAllCapped": string;
         "effect_name_unboostedHoneyProduction": string;
         "effect_name_unboostedMeadProduction": string;
         "effect_name_woodProductionBoost": string;
@@ -12195,7 +12209,10 @@ export interface Language {
         "effect_name_woodProductionBoostFire": string;
         "effect_name_woodProductionBoostIce": string;
         "effect_name_woodProductionBoostMain": string;
+        "effects_ltpe_tci_dragonriderSiegeWorkshop": string;
+        "effects_ltpe_tci_octoberfestMarket": string;
         "equip_effect_castellan_description_defenseUnitAmountWall": string;
+        "equip_effect_description_AttackBoostYardDecoCapped": string;
         "equip_effect_description_MeadProductionIncrease": string;
         "equip_effect_description_attackBonus": string;
         "equip_effect_description_attackBonusMainCastle": string;
@@ -12359,6 +12376,7 @@ export interface Language {
         "equip_effect_description_offensiveMeleeBonusBerimondKingdom": string;
         "equip_effect_description_offensiveMeleeBonusConquerBaron": string;
         "equip_effect_description_offensiveMeleeBonusConquerGeneral": string;
+        "equip_effect_description_offensiveMeleeBonusDecoCapped": string;
         "equip_effect_description_offensiveMeleeBonusPVE": string;
         "equip_effect_description_offensiveMeleeBonusTCI": string;
         "equip_effect_description_offensiveMeleeMalusPVE": string;
@@ -12369,6 +12387,7 @@ export interface Language {
         "equip_effect_description_offensiveRangeBonusBerimondKingdom": string;
         "equip_effect_description_offensiveRangeBonusConquerBaron": string;
         "equip_effect_description_offensiveRangeBonusConquerGeneral": string;
+        "equip_effect_description_offensiveRangeBonusDecoCapped": string;
         "equip_effect_description_offensiveRangeBonusNomad": string;
         "equip_effect_description_offensiveRangeBonusPVE": string;
         "equip_effect_description_offensiveRangeBonusSamurai": string;

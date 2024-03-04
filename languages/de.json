@@ -1912,7 +1912,15 @@
     "deco_DonationEventDecorationNight2_name": "Kaiserliches Dämmerungsmonument",
     "deco_DonationEventDecorationNight3_name": "Kaiserliches Dämmerungsmonument",
     "deco_DonationEventDecorationNight4_name": "Kaiserliches Dämmerungsmonument",
-    "deco_DonationEventDecorationNight5_name": "Kaiserliches Dämmerungsmonument"
+    "deco_DonationEventDecorationNight5_name": "Kaiserliches Dämmerungsmonument",
+    "deco_easterdecowitheffect_name": "Erhabener Frühlingsturm",
+    "deco_StPatrickGoldCave_withEffects_name": "Erhabener Goldstapel des Kobolds",
+    "deco_shamrockTavern_withEffects_name": "Erhabener Kleeblatt-Pub",
+    "ci_appearance_dragonriderSiegeWorkshop": "Drachenreiter-Belagerungswerkstatt",
+    "ci_appearance_dragonriderSiegeWorkshop_flavor": "Schnell und stark zugleich! So muss die beste Drachenreiter-Rüstung geschmiedet werden.",
+    "ci_appearance_octoberfestMarket": "Oktoberfest-Markt",
+    "ci_appearance_octoberfestMarket_flavor": "Lass uns Biere und Komplimente in Trachten austauschen!",
+    "deco_EasterSales_BunchOfEggs": "Eierstrauß"
   },
   "dialogs": {
     "dialog_festival_desc": "Setzt Nahrung ein, um ein Fest für Eure Bürger zu feiern!\nSolange das Fest läuft, wird die Rekrutierungsgeschwindigkeit in all Euren Burgen deutlich erhöht. Je größer das Fest ist, desto größer ist auch der Effekt.",
@@ -2523,7 +2531,7 @@
     "dialog_resourcesBoost_extendOverseer": "Aufsichtszeit verlängern",
     "dialog_resourcesBoost_hireOverseer": "Aufseher anheuern",
     "dialog_resourcesBoost_title": "Aufseher anheuern",
-    "dialog_resourceWait_description": "Ihr habt nicht genug Rohstoffe! Plündert fremde Burgen, importiert Rohstoffe aus anderen Königreichen oder wartet, bis Eure Arbeiter genug produziert haben.",
+    "dialog_resourceWait_description": "Ihr habt nicht genug Ressourcen oder Währungen! Überfallt Burgen, beteiligt euch an Events, importiert aus anderen Königreichen oder wartet bis eure Arbeiter mehr produziert haben.",
     "dialog_resourceWait_timeTillAvalible": "Zeit, bis Rohstoffe verfügbar",
     "dialog_resourceWait_youNeed": "Euch fehlt:",
     "dialog_ressourcexchangerEvent_speechBubble": "Ihr habt einen Überschuss an Waren? Bei mir könnt Ihr Rohstoffe aller Art zu einem fairen Kurs tauschen! \nDoch zögert nicht zu lange, denn mein Angebot gilt nur kurze Zeit.",
@@ -11953,7 +11961,7 @@
     "webshop_TCI_foodProductionGeneric_desc": "Temporäres Konstrukt. Gewährt +{0} Nahrungsproduktion pro Stunde in einer Burg für eine Dauer von {1} Tagen.",
     "webshop_ciTemporary_desc_30117": "Legendäres temporäres Konstrukt. Steigert die Nahrungsproduktion in einer Burg um +15000 pro Stunde für die Dauer von 28 Tagen.",
     "webshop_offer_dailyBundle_oktoberfest_desc": "Oktoberfest-Special + {0}% höherer Bonus!",
-    "webshop_decoWithEffects_foodProductionGeneric_desc": "Erhöht die öffentliche Ordnung in Eurer Burg um +{0},\n+{1}% Bonus auf die Nahrungsproduktion\nMaximal {2} pro Gebiet.",
+    "webshop_decoWithEffects_foodProductionGeneric_desc": "Erhöht die öffentliche Ordnung in Eurer Burg um +{0},\n +{1}% Bonus auf die Nahrungsproduktion\n Maximal {2} pro Gebiet.",
     "dialog_startDonationEvent_subtitle3": "Kaiserliche Protektoratsurkunde",
     "dialog_startDonationEvent_title": "Kaiserliche Förderung Start",
     "dialog_tenthAnniversary_timer": "Eventzeit {0}",
@@ -12004,7 +12012,10 @@
     "dialog_startDonationEvent_desc3": "Der Imperator hat die kaiserliche Schirmherrschaftsurkunde eingeführt, um den Architekten zu beauftragen, die Materialien zu verarbeiten, die Ihr im Überfluss besitzt.\nAm Ende des Events werden &lt;b&gt;alle kaiserlichen Schirmherrschaftsurkunden zurückgesetzt!&lt;/b&gt;",
     "dialog_startDonationEvent_join": "- Nutzt die Gelegenheit und nehmt am Imperiale Patronage-Event teil! -",
     "dialog_startDonationEvent_subtitle1": "Die Pläne des Architekten",
-    "dialog_startDonationEvent_subtitle2": "Belohnung erhöhen"
+    "dialog_startDonationEvent_subtitle2": "Belohnung erhöhen",
+    "dialog_specialOffer_copy4": "Kauft z.B. 50k Rubine und ihr erhaltet {0}!",
+    "dialog_privateBestsellerShop_easter1": "Oster-Angebot",
+    "dialog_privateBestsellerShop_easter2": "Oster-Superangebot"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% Reisetempo der Armee bei Eroberungen",
@@ -13103,9 +13114,17 @@
     "effect_name_woodProductionBoostMain": "Bonus auf die Holzproduktion in einer Burg des Großen Imperiums",
     "effect_name_woodProductionBoost": "Bonus auf Holzproduktion in der Burg",
     "effect_name_foodProductionBoostBaronEconomy": "Bonus für die Nahrungsmittelproduktion in der Burg",
-    "effect_name_AttackBoostYardDecoCapped": "Bonus auf Kampfkraft bei Burginnenhofangriffen (gedeckelt)",
+    "equip_effect_description_AttackBoostYardDecoCapped": "+{0}% Innenhof-Angriffsstärke (gedeckelt)",
+    "equip_effect_description_offensiveMeleeBonusDecoCapped": "+{0}% Angriffskraft für Nahkampfeinheiten (gedeckelt)",
+    "equip_effect_description_offensiveRangeBonusDecoCapped": "+{0}% Angriffskraft für Fernkampfeinheiten (gedeckelt)",
+    "effect_name_recruitmentCostDecreaseAllCapped": "Senkung der Rekrutierungsmünzkosten (gedeckelt)",
+    "effect_name_recruitmentSpeedBoostAllCapped": "Bonus zur Rekrutierungsgeschwindigkeit (gedeckelt)",
+    "effect_name_toolProductionSpeedBoostAllCapped": "Bonus auf Werkzeugproduktion (gedeckelt)",
+    "effects_ltpe_tci_dragonriderSiegeWorkshop": "Placeholder text for the TCI: dragonriderSiegeWorkshop",
+    "effects_ltpe_tci_octoberfestMarket": "Placeholder text for the TCI: octoberfestMarket",
     "effect_name_offensiveMeleeBonusDecoCapped": "Bonus auf Angriffsstärke der Nahkampfeinheiten (gedeckelt)",
-    "effect_name_offensiveRangeBonusDecoCapped": "Bonus auf Fernkampf-Einheiten-Angriffsstärke (gedeckelt)"
+    "effect_name_offensiveRangeBonusDecoCapped": "Bonus auf Fernkampfeinheiten-Angriffsstärke (limitiert)",
+    "effect_name_AttackBoostYardDecoCapped": "Bonus auf Kampfkraft bei Burginnenhofangriffen (gedeckelt)"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Held",

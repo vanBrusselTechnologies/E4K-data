@@ -1912,7 +1912,15 @@
     "deco_DonationEventDecorationNight2_name": "永恆帝國的紀念碑",
     "deco_DonationEventDecorationNight3_name": "永恆帝國的紀念碑",
     "deco_DonationEventDecorationNight4_name": "永恆帝國的紀念碑",
-    "deco_DonationEventDecorationNight5_name": "永恆帝國的紀念碑"
+    "deco_DonationEventDecorationNight5_name": "永恆帝國的紀念碑",
+    "deco_easterdecowitheffect_name": "春季尊塔",
+    "deco_StPatrickGoldCave_withEffects_name": "高貴的矮妖的黃金堆疊",
+    "deco_shamrockTavern_withEffects_name": "高貴的三葉草酒吧",
+    "ci_appearance_dragonriderSiegeWorkshop": "屠龍騎士攻擊型武器工坊",
+    "ci_appearance_dragonriderSiegeWorkshop_flavor": "快捷且堅固！打造最佳騎龍戰士盔甲的方式就是如此。",
+    "ci_appearance_octoberfestMarket": "十月節市場",
+    "ci_appearance_octoberfestMarket_flavor": "讓我們一邊換穿傳統服飾，一邊交換啤酒桶和讚美吧！",
+    "deco_EasterSales_BunchOfEggs": "復活節彩蛋束"
   },
   "dialogs": {
     "dialog_festival_desc": "用食物幫你的居民舉辦一場盛宴吧！在盛宴期間，你所有城堡的招募速度會大幅提高。宴會越大，效果越好。",
@@ -2523,7 +2531,7 @@
     "dialog_resourcesBoost_extendOverseer": "增加監督時間",
     "dialog_resourcesBoost_hireOverseer": "雇用工頭",
     "dialog_resourcesBoost_title": "雇用工頭",
-    "dialog_resourceWait_description": "你的資源不足！從其他城堡那裡劫掠資源、從其他王國進口資源或者等你的工人生產足夠的資源。",
+    "dialog_resourceWait_description": "你沒有足夠的資源或貨幣！襲擊城堡、參加活動、從其他王國進口，或者等待你的工人生產更多。",
     "dialog_resourceWait_timeTillAvalible": "要等到有可用資源還需要",
     "dialog_resourceWait_youNeed": "你缺少：",
     "dialog_ressourcexchangerEvent_speechBubble": "你有多餘的貨物嗎？你可以拿來和我交換資源，我的價格很公道！ \n別猶豫太久啊，我報價的有效期限很短的。",
@@ -11953,7 +11961,7 @@
     "webshop_TCI_foodProductionGeneric_desc": "臨時建築物品。在一座城堡中，持續 {1} 天，每小時提供 +{0} 食物產量。",
     "webshop_ciTemporary_desc_30117": "傳奇暫時建築物品。在一座城堡中持續 28 天，每小時可提供 +15,000 的食物產量。",
     "webshop_offer_dailyBundle_oktoberfest_desc": "慶祝十月節特別活動 + {0}% 更高的獎勵！",
-    "webshop_decoWithEffects_foodProductionGeneric_desc": "提升城堡內的公共秩序 +{0}，\n+{1}% 食物生產額外獎勵。\n每個區域最多 {2} 個。",
+    "webshop_decoWithEffects_foodProductionGeneric_desc": "提升城堡內的公共秩序 +{0}，\n+{1}% 食物生產額外獎勵。\n每個區域最多 {2}。",
     "dialog_startDonationEvent_subtitle3": "帝國特許狀",
     "dialog_startDonationEvent_title": "皇家贊助開始",
     "dialog_tenthAnniversary_timer": "活動時間 {0}",
@@ -12004,7 +12012,10 @@
     "dialog_startDonationEvent_desc3": "大帝推出了皇家贊助憲章，要求建築師將您大量擁有的材料加工成更高等級的物品。\n活動結束時，所有 &lt;b&gt;皇家贊助憲章都將重設！&lt;/b&gt;",
     "dialog_startDonationEvent_join": "- 參加帝國贊助者事件的機會！ -",
     "dialog_startDonationEvent_subtitle1": "建築師的計畫",
-    "dialog_startDonationEvent_subtitle2": "增加獎勵"
+    "dialog_startDonationEvent_subtitle2": "增加獎勵",
+    "dialog_specialOffer_copy4": "例如，購買 50k 顆紅寶石，您將獲得 {0} 顆！",
+    "dialog_privateBestsellerShop_easter1": "復活節特惠",
+    "dialog_privateBestsellerShop_easter2": "至高復活節優惠"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% 出征時的軍隊巡游速度",
@@ -13103,9 +13114,17 @@
     "effect_name_woodProductionBoostMain": "大帝國城堡木材生產加成",
     "effect_name_woodProductionBoost": "城堡內的木材生產加成",
     "effect_name_foodProductionBoostBaronEconomy": "建築物的食物產量 bonus",
-    "effect_name_AttackBoostYardDecoCapped": "內城進攻戰鬥力加成（上限）",
+    "equip_effect_description_AttackBoostYardDecoCapped": "+{0}% 內城進攻戰鬥力（上限）",
+    "equip_effect_description_offensiveMeleeBonusDecoCapped": "+{0}% 的近戰部隊進攻力（上限）",
+    "equip_effect_description_offensiveRangeBonusDecoCapped": "+{0}% 遠距離部隊攻擊力（上限）",
+    "effect_name_recruitmentCostDecreaseAllCapped": "招募費用減少（上限）",
+    "effect_name_recruitmentSpeedBoostAllCapped": "招募速度建築物品（上限）",
+    "effect_name_toolProductionSpeedBoostAllCapped": "武器生產速度加成 (上限)",
+    "effects_ltpe_tci_dragonriderSiegeWorkshop": "Placeholder text for the TCI: dragonriderSiegeWorkshop",
+    "effects_ltpe_tci_octoberfestMarket": "Placeholder text for the TCI: octoberfestMarket",
     "effect_name_offensiveMeleeBonusDecoCapped": "近戰部隊攻擊力加成（上限）",
-    "effect_name_offensiveRangeBonusDecoCapped": "遠距離部隊進攻力加成（上限）"
+    "effect_name_offensiveRangeBonusDecoCapped": "遠戰型部隊的攻擊力加成(上限)",
+    "effect_name_AttackBoostYardDecoCapped": "內城進攻戰鬥力加成（上限）"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "英雄",

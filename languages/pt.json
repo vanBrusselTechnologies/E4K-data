@@ -1912,7 +1912,15 @@
     "deco_DonationEventDecorationNight2_name": "Monumento Imperial do Crepúsculo",
     "deco_DonationEventDecorationNight3_name": "Monumento Imperial do Crepúsculo",
     "deco_DonationEventDecorationNight4_name": "Monumento Imperial do Crepúsculo",
-    "deco_DonationEventDecorationNight5_name": "Monumento Imperial do Crepúsculo"
+    "deco_DonationEventDecorationNight5_name": "Monumento Imperial do Crepúsculo",
+    "deco_easterdecowitheffect_name": "Torre do tempo primaveril",
+    "deco_StPatrickGoldCave_withEffects_name": "Esconderijo de ouro do duende",
+    "deco_shamrockTavern_withEffects_name": "Bar do trevo sagrado",
+    "ci_appearance_dragonriderSiegeWorkshop": "Oficina de Cerco do Cavaleiro Dragão",
+    "ci_appearance_dragonriderSiegeWorkshop_flavor": "Ágil e robusta! É assim que a melhor armadura de Cavaleiro Dragão deve ser forjada.",
+    "ci_appearance_octoberfestMarket": "Mercado da Oktoberfest",
+    "ci_appearance_octoberfestMarket_flavor": "&quot;Vamos celebrar com cervejas e elogios em trajes tradicionais!&quot;",
+    "deco_EasterSales_BunchOfEggs": "Monte de ovos"
   },
   "dialogs": {
     "dialog_festival_desc": "Use comida para organizar um banquete para os cidadãos! A velocidade de recrutamento aumentará consideravelmente em todos os seus castelos durante o banquete. Quanto maior o banquete, maior o efeito.",
@@ -2523,7 +2531,7 @@
     "dialog_resourcesBoost_extendOverseer": "Aumentar o tempo de supervisão",
     "dialog_resourcesBoost_hireOverseer": "Contratar capataz",
     "dialog_resourcesBoost_title": "Contratar capataz",
-    "dialog_resourceWait_description": "Recursos insuficientes! Saqueie outros castelos, importe recursos de outros reinos ou aguarde até que seus trabalhadores tenham produzido o bastante.",
+    "dialog_resourceWait_description": "Você não tem recursos ou moedas suficientes! Saqueie castelos, participe de eventos, importe de outros reinos ou aguarde seus operários produzirem mais.",
     "dialog_resourceWait_timeTillAvalible": "Tempo até que os recursos estejam disponíveis",
     "dialog_resourceWait_youNeed": "Faltam a você:",
     "dialog_ressourcexchangerEvent_speechBubble": "Tem produtos sobrando? Negocie seus recursos comigo por preços justos!\nNão hesite, pois minha oferta é por tempo limitado.",
@@ -11953,7 +11961,7 @@
     "webshop_TCI_foodProductionGeneric_desc": "Item de construção temporário. Concede +{0} de produção de comida por hora em um castelo por {1} dias.",
     "webshop_ciTemporary_desc_30117": "Item de construção temporário lendário. Concede +15000 de produção de comida por hora em um castelo por uma duração de 28 dias.",
     "webshop_offer_dailyBundle_oktoberfest_desc": "Especial da Oktoberfest + bônus {0}% maior!",
-    "webshop_decoWithEffects_foodProductionGeneric_desc": "Aumenta a ordem pública dentro do seu castelo em +{0},\n+{1}% de bônus na produção de alimentos no seu castelo nas Montanhas Flamejantes,\nMáximo de {2} por área.",
+    "webshop_decoWithEffects_foodProductionGeneric_desc": "Aumenta a ordem pública dentro do castelo em +{0},\n+{1}% de bônus à produção de comida.\nMáximo de {2} por área.",
     "dialog_startDonationEvent_subtitle3": "Carta de patrocínio imperial",
     "dialog_startDonationEvent_title": "Início do patrocínio imperial",
     "dialog_tenthAnniversary_timer": "Tempo do evento {0}",
@@ -12004,7 +12012,10 @@
     "dialog_startDonationEvent_desc3": "O Imperador introduziu a Carta de Mecenato Imperial, incumbindo o arquiteto de processar os materiais que você possui em abundância.\nAo final do evento, toda a &lt;b&gt;Carta do Mecenato Imperial será redefinida!&lt;/b&gt;",
     "dialog_startDonationEvent_join": "- Aproveite a oportunidade e participe do Evento de Patronagem Imperial! -",
     "dialog_startDonationEvent_subtitle1": "Pavilhão do Arquiteto",
-    "dialog_startDonationEvent_subtitle2": "Recompensa aumentada"
+    "dialog_startDonationEvent_subtitle2": "Recompensa aumentada",
+    "dialog_specialOffer_copy4": "Por exemplo, compre 50k rubis e você receberá {0}!",
+    "dialog_privateBestsellerShop_easter1": "Oferta especial de Páscoa",
+    "dialog_privateBestsellerShop_easter2": "Oferta suprema de Páscoa"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% velocidade de viagem do exército durante conquistas",
@@ -13103,9 +13114,17 @@
     "effect_name_woodProductionBoostMain": "Bônus à produção de madeira em castelo do Grande Império",
     "effect_name_woodProductionBoost": "Bônus na produção de madeira no castelo",
     "effect_name_foodProductionBoostBaronEconomy": "Bônus à produção de comida no castelo",
-    "effect_name_AttackBoostYardDecoCapped": "Bônus de força de combate de ataque ao pátio (máx.)",
+    "equip_effect_description_AttackBoostYardDecoCapped": "+{0}% de força de combate de ataque no pátio (máx.)",
+    "equip_effect_description_offensiveMeleeBonusDecoCapped": "+{0}% de força de ataque de unidade corpo a corpo (limite)",
+    "equip_effect_description_offensiveRangeBonusDecoCapped": "+{0}% de força de ataque de unidades a distância (limite)",
+    "effect_name_recruitmentCostDecreaseAllCapped": "Redução do custo de moedas de recrutamento (máx.)",
+    "effect_name_recruitmentSpeedBoostAllCapped": "Bônus de velocidade de recrutamento (capado)",
+    "effect_name_toolProductionSpeedBoostAllCapped": "Bônus de velocidade de produção de ferramentas (limitado)",
+    "effects_ltpe_tci_dragonriderSiegeWorkshop": "Placeholder text for the TCI: dragonriderSiegeWorkshop",
+    "effects_ltpe_tci_octoberfestMarket": "Placeholder text for the TCI: octoberfestMarket",
     "effect_name_offensiveMeleeBonusDecoCapped": "Bônus de força de ataque de unidade corpo a corpo (máx.)",
-    "effect_name_offensiveRangeBonusDecoCapped": "Força de ataque de unidades a distância (bônus máximo)"
+    "effect_name_offensiveRangeBonusDecoCapped": "Bônus de força de ataque para unidades a distância (máx.)",
+    "effect_name_AttackBoostYardDecoCapped": "Bônus de força de combate de ataque ao pátio (máx.)"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Herói",

@@ -1912,7 +1912,15 @@
     "deco_DonationEventDecorationNight2_name": "Cesarski pomnik zmierzchu",
     "deco_DonationEventDecorationNight3_name": "Cesarski pomnik zmierzchu",
     "deco_DonationEventDecorationNight4_name": "Cesarski pomnik zmierzchu",
-    "deco_DonationEventDecorationNight5_name": "Cesarski pomnik zmierzchu"
+    "deco_DonationEventDecorationNight5_name": "Cesarski pomnik zmierzchu",
+    "deco_easterdecowitheffect_name": "Wywyższona Wiosenna Wieża",
+    "deco_StPatrickGoldCave_withEffects_name": "Złoty skarbiec leprechauna",
+    "deco_shamrockTavern_withEffects_name": "Wzniosły Koniczynowy pub",
+    "ci_appearance_dragonriderSiegeWorkshop": "Warsztat oblężniczy jeźdźca smoków",
+    "ci_appearance_dragonriderSiegeWorkshop_flavor": "Szybka i silna w jednym! Tak powinna wyglądać najlepsza zbroja jeźdźca smoków.",
+    "ci_appearance_octoberfestMarket": "Ogródek Oktoberfest",
+    "ci_appearance_octoberfestMarket_flavor": "Wymieńmy się piwem i komplementami w tradycyjnych strojach!",
+    "deco_EasterSales_BunchOfEggs": "Koszyczek jajek"
   },
   "dialogs": {
     "dialog_festival_desc": "Użyj jedzenia, aby zorganizować święto dla Twoich obywateli! Szybkość rekrutacji znacznie będzie rosła we wszystkich twoich zamkach przez czas obchodów święta. Im większe święto, tym większe efekty.",
@@ -2523,7 +2531,7 @@
     "dialog_resourcesBoost_extendOverseer": "Zwiększ czas nadzoru",
     "dialog_resourcesBoost_hireOverseer": "Zatrudnij nadzorcę",
     "dialog_resourcesBoost_title": "Zatrudnij nadzorcę",
-    "dialog_resourceWait_description": "Masz za mało zasobów! Zdobądź je plądrując inne zamki lub importując potrzebne towary z innych królestw, albo zaczekaj, aż twoi robotnicy wytworzą odpowiednią ilość:",
+    "dialog_resourceWait_description": "Nie masz wystarczającej liczby zasobów ani walut! Napadaj zamki, bierz udział w wydarzeniach, importuj z innych królestw lub poczekaj, aż twoi pracownicy wyprodukują więcej.",
     "dialog_resourceWait_timeTillAvalible": "Czas do momentu dostępności zasobów",
     "dialog_resourceWait_youNeed": "Brakuje:",
     "dialog_ressourcexchangerEvent_speechBubble": "Masz nadwyżkę towarów? Możesz wymienić się ze mną zasobami po rozsądnym kursie! \nNie zwlekaj zbyt długo. Moja oferta jest ważna tylko przez krótki czas.",
@@ -11953,7 +11961,7 @@
     "webshop_TCI_foodProductionGeneric_desc": "Tymczasowy element budynku. Zapewnia +{0} do produkcji żywności na godzinę w zamku przez {1} dni.",
     "webshop_ciTemporary_desc_30117": "Tymczasowy element budynku legendarny. Zapewnia +15000 do produkcji żywności na godzinę w zamku na okres 28 dni.",
     "webshop_offer_dailyBundle_oktoberfest_desc": "Specjalna okazja Oktoberfest + {0}% wyższego bonusu!",
-    "webshop_decoWithEffects_foodProductionGeneric_desc": "Poprawia porządek publiczny w twoim zamku o {0},\n+{1}% bonusu do produkcji żywności w zamku na Ognistych Szczytach,\nMaksymalnie {2} w każdym obszarze.",
+    "webshop_decoWithEffects_foodProductionGeneric_desc": "Zwiększa porządek publiczny w zamku o +{0},\n+{1}% premii do produkcji żywności.\nMaksymalnie {2} na obszar.",
     "dialog_startDonationEvent_subtitle3": "Charty patronatu cesarstwa",
     "dialog_startDonationEvent_title": "Rozpoczęcie Cesarskiego Patronatu",
     "dialog_tenthAnniversary_timer": "Czas wydarzenia {0}",
@@ -12004,7 +12012,10 @@
     "dialog_startDonationEvent_desc3": "Cesarz wprowadził Cesarską Kartę Mecenatów, nakazując architektowi wykorzystanie nadmiaru twoich materiałów.\nPo zakończeniu wydarzenia &lt;b&gt;wszystkie Cesarskie Karty Mecenatów zostaną zresetowane!&lt;/b&gt;",
     "dialog_startDonationEvent_join": "- Skorzystaj z szansy i dołącz do wydarzenia &quot;Patronat cesarski&quot;! -",
     "dialog_startDonationEvent_subtitle1": "Plan architekta",
-    "dialog_startDonationEvent_subtitle2": "Zwiększ nagrodę"
+    "dialog_startDonationEvent_subtitle2": "Zwiększ nagrodę",
+    "dialog_specialOffer_copy4": "Kup na przykład 50 tys. rubinów, a otrzymasz {0}!",
+    "dialog_privateBestsellerShop_easter1": "Specjalna oferta wielkanocna",
+    "dialog_privateBestsellerShop_easter2": "Najwyższa wielkanocna oferta"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% prędkości przemieszczania armii podczas podbojów",
@@ -13103,9 +13114,17 @@
     "effect_name_woodProductionBoostMain": "Dodatek do produkcji drewna w zamku Wielkiego Imperium",
     "effect_name_woodProductionBoost": "Bonus do produkcji drewna w zamku",
     "effect_name_foodProductionBoostBaronEconomy": "Dodatek do produkcji żywności w zamku",
-    "effect_name_AttackBoostYardDecoCapped": "Premia do siły bojowej ataku na dziedziniec (ograniczona)",
+    "equip_effect_description_AttackBoostYardDecoCapped": "+{0}% siły bojowej podczas ataku na dziedziniec (ograniczenie)",
+    "equip_effect_description_offensiveMeleeBonusDecoCapped": "+{0}% siły ataku jednostek walczących wręcz (ograniczona)",
+    "equip_effect_description_offensiveRangeBonusDecoCapped": "+{0}% siły ataku jednostek dystansowych (z ograniczeniem)",
+    "effect_name_recruitmentCostDecreaseAllCapped": "Zmniejszenie kosztu monet werbunku (z ograniczeniem)",
+    "effect_name_recruitmentSpeedBoostAllCapped": "Premia do szybkości werbunku (ograniczona)",
+    "effect_name_toolProductionSpeedBoostAllCapped": "Premia do szybkości produkcji narzędzi (ograniczona)",
+    "effects_ltpe_tci_dragonriderSiegeWorkshop": "Placeholder text for the TCI: dragonriderSiegeWorkshop",
+    "effects_ltpe_tci_octoberfestMarket": "Placeholder text for the TCI: octoberfestMarket",
     "effect_name_offensiveMeleeBonusDecoCapped": "Premia do siły ataku jednostek walczących wręcz (ograniczona)",
-    "effect_name_offensiveRangeBonusDecoCapped": "Premia do siły ataku jednostek dystansowych (ograniczona)"
+    "effect_name_offensiveRangeBonusDecoCapped": "Premia do siły ataku jednostek dystansowych (z ograniczeniem)",
+    "effect_name_AttackBoostYardDecoCapped": "Premia do siły bojowej ataku na dziedziniec (ograniczona)"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Bohater",

@@ -65,6 +65,12 @@
       "crossplayID": 12,
       "typeName": "RespecToken",
       "currencyIDRange": "9998-9999"
+    },
+    {
+      "typeID": 13,
+      "crossplayID": 13,
+      "typeName": "DonationCurrency",
+      "currencyIDRange": "8000-8100"
     }
   ]
 }

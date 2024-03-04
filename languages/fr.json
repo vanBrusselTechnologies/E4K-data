@@ -1912,7 +1912,15 @@
     "deco_DonationEventDecorationNight2_name": "Monument impérial du crépuscule",
     "deco_DonationEventDecorationNight3_name": "Monument impérial du crépuscule",
     "deco_DonationEventDecorationNight4_name": "Monument impérial du crépuscule",
-    "deco_DonationEventDecorationNight5_name": "Monument impérial du crépuscule"
+    "deco_DonationEventDecorationNight5_name": "Monument impérial du crépuscule",
+    "deco_easterdecowitheffect_name": "Tour exaltée du printemps",
+    "deco_StPatrickGoldCave_withEffects_name": "Cachette dor de leprechaun",
+    "deco_shamrockTavern_withEffects_name": "Taverne du trèfle exalté",
+    "ci_appearance_dragonriderSiegeWorkshop": "Atelier dengins de siège du dragon cavalier",
+    "ci_appearance_dragonriderSiegeWorkshop_flavor": "Rapide et solide ! Voilà comment doit être forgée larmure du dragonnier.",
+    "ci_appearance_octoberfestMarket": "Marché de lOktoberfest",
+    "ci_appearance_octoberfestMarket_flavor": "Échangeons des bières et des compliments en tenues traditionnelles !",
+    "deco_EasterSales_BunchOfEggs": "Un panier dœufs"
   },
   "dialogs": {
     "dialog_festival_desc": "Utilisez de la nourriture pour organiser une fête pour vos villageois ! Tant que la fête durera, la vitesse de recrutement sera considérablement augmentée dans tous vos châteaux. Plus la fête est grande, plus son effet est important.",
@@ -2523,7 +2531,7 @@
     "dialog_resourcesBoost_extendOverseer": "Augmenter le temps de supervision",
     "dialog_resourcesBoost_hireOverseer": "Recruter un contremaître",
     "dialog_resourcesBoost_title": "Recruter un contremaître",
-    "dialog_resourceWait_description": "Vous navez pas assez de ressources ! Pillez dautres châteaux, importez des ressources dautres royaumes ou attendez que vos ouvriers en aient produit assez.",
+    "dialog_resourceWait_description": "Vous navez pas assez de ressources ou de monnaies ! Pillez des châteaux, participez à des événements, importez depuis dautres royaumes ou attendez que vos ouvriers en produisent davantage.",
     "dialog_resourceWait_timeTillAvalible": "Temps avant que les ressources soient disponibles",
     "dialog_resourceWait_youNeed": "Il vous manque :",
     "dialog_ressourcexchangerEvent_speechBubble": "Avez-vous des ressources en trop? Vous pouvez méchanger vos ressources, je vous ferai un bon prix! \nMais nhésitez pas trop longtemps, car mon offre nest valable que pendant une périore limitée.",
@@ -11953,7 +11961,7 @@
     "webshop_TCI_foodProductionGeneric_desc": "Objet de construction temporaire. Accorde +{0} de production de nourriture par heure dans un château pendant {1} jours.",
     "webshop_ciTemporary_desc_30117": "Objet de construction temporaire légendaire. Accorde + 15 000 points de production de nourriture par heure dans un château pendant 28 jours.",
     "webshop_offer_dailyBundle_oktoberfest_desc": "Spécial Oktoberfest + {0} % de bonus supplémentaire !",
-    "webshop_decoWithEffects_foodProductionGeneric_desc": "Augmente lordre public dans votre château de +{0},\n+{1}% de bonus à la production de nourriture\nMaximum : {2} par zone.",
+    "webshop_decoWithEffects_foodProductionGeneric_desc": "Augmente lordre public dans votre château de +{0},\n +{1}% de bonus à la production de nourriture\n Maximum : {2} par zone.",
     "dialog_startDonationEvent_subtitle3": "Charte de Patronage Impérial",
     "dialog_startDonationEvent_title": "Début du Concours de Noblesse",
     "dialog_tenthAnniversary_timer": "Temps de lévénement : {0}",
@@ -12004,7 +12012,10 @@
     "dialog_startDonationEvent_desc3": "Lempereur a introduit la Charte dimpérial patronage, demandant à larchitecte de traiter les matériaux que vous avez en abondance.\nÀ la fin de lévénement, &lt;b&gt;toutes les chartes dimpérial patronage seront réinitialisées !&lt;/b&gt;",
     "dialog_startDonationEvent_join": "- Saisissez votre chance et participez à lévénement Mécénat impérial ! -",
     "dialog_startDonationEvent_subtitle1": "Les plans de larchitecte",
-    "dialog_startDonationEvent_subtitle2": "Augmenter la récompense"
+    "dialog_startDonationEvent_subtitle2": "Augmenter la récompense",
+    "dialog_specialOffer_copy4": "Par exemple, achetez 50 k de rubis et vous recevrez {0} en bonus !",
+    "dialog_privateBestsellerShop_easter1": "Offre spéciale de Pâques",
+    "dialog_privateBestsellerShop_easter2": "Offre Suprême de Pâques"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "Vitesse de déplacement de larmée lors des conquêtes : +{0} %",
@@ -13103,9 +13114,17 @@
     "effect_name_woodProductionBoostMain": "Bonus sur la production de bois dans un château de lEmpire",
     "effect_name_woodProductionBoost": "Bonus de production de bois dans le château",
     "effect_name_foodProductionBoostBaronEconomy": "Bonus de production alimentaire dans le château",
-    "effect_name_AttackBoostYardDecoCapped": "Bonus de force de combat en attaque dans la cour (plafonné)",
+    "equip_effect_description_AttackBoostYardDecoCapped": "Force de combat en attaque dans la cour : +{0} % (plafonné)",
+    "equip_effect_description_offensiveMeleeBonusDecoCapped": "Force dattaque des unités de mêlée : +{0} % (plafonné)",
+    "equip_effect_description_offensiveRangeBonusDecoCapped": "Force dattaque des unités à distance : +{0} % (plafonné)",
+    "effect_name_recruitmentCostDecreaseAllCapped": "Réduction des coûts de recrutement (limitée)",
+    "effect_name_recruitmentSpeedBoostAllCapped": "Bonus de vitesse de recrutement (plafonné)",
+    "effect_name_toolProductionSpeedBoostAllCapped": "Bonus de vitesse de production dengins (plafonné)",
+    "effects_ltpe_tci_dragonriderSiegeWorkshop": "Placeholder text for the TCI: dragonriderSiegeWorkshop",
+    "effects_ltpe_tci_octoberfestMarket": "Placeholder text for the TCI: octoberfestMarket",
     "effect_name_offensiveMeleeBonusDecoCapped": "Bonus de force dattaque des unités de mêlée (plafonné)",
-    "effect_name_offensiveRangeBonusDecoCapped": "Bonus de force dattaque des unités à distance (plafonné)"
+    "effect_name_offensiveRangeBonusDecoCapped": "Bonus de force dattaque des unités à distance (plafonné)",
+    "effect_name_AttackBoostYardDecoCapped": "Bonus de force de combat en attaque dans la cour (plafonné)"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Héros",

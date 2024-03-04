@@ -7860,6 +7860,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_EasterDecoWithEffect": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_EasterDecoWithEffect/Deco_Building_EasterDecoWithEffect.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 299,
+        "h": 341,
+        "rx": 829,
+        "ry": 803
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_EasterTower": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_EasterTower/Deco_Building_EasterTower.png",
@@ -22782,6 +22797,29 @@
     ],
     "fx": []
   },
+  "dragonriderSiegeWorkshop": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/dragonriderSiegeWorkshop/dragonriderSiegeWorkshop.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 357,
+        "h": 371,
+        "rx": 818,
+        "ry": 804
+      }
+    ],
+    "fx": [
+      {
+        "x": 33,
+        "y": -89,
+        "scale": 0.5,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "easternTavern": {
     "pid": 0,
     "url": "x768/BuildingSkins/easternTavern/easternTavern.png",
@@ -23538,6 +23576,21 @@
         "rotation": 0
       }
     ]
+  },
+  "octoberfestMarket": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/octoberfestMarket/octoberfestMarket.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 361,
+        "h": 412,
+        "rx": 803,
+        "ry": 731
+      }
+    ],
+    "fx": []
   },
   "octoberfestTower": {
     "pid": 0,
@@ -100628,7 +100681,37 @@
     ],
     "fx": []
   },
+  "icon_package_category_118": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_currency_ImperialPatronageCharter_big_ds_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 91,
+        "h": 90,
+        "rx": 954,
+        "ry": 955
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_ImperialPatronageCharter_big_ds": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_currency_ImperialPatronageCharter_big_ds_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 91,
+        "h": 90,
+        "rx": 954,
+        "ry": 955
+      }
+    ],
+    "fx": []
+  },
+  "icon_package_category_412": {
     "pid": 0,
     "url": "x768/Icons/IconsShared/icon_currency_ImperialPatronageCharter_big_ds_Shared.png",
     "frames": [
@@ -100673,7 +100756,7 @@
     ],
     "fx": []
   },
-  "icon_currency_KhanMedal": {
+  "icon_khan_currency": {
     "pid": 1,
     "url": "x768/Icons/IconsShared/icon_currency_KhanMedal_Shared.png",
     "frames": [
@@ -100688,7 +100771,7 @@
     ],
     "fx": []
   },
-  "icon_khan_currency": {
+  "icon_currency_KhanMedal": {
     "pid": 1,
     "url": "x768/Icons/IconsShared/icon_currency_KhanMedal_Shared.png",
     "frames": [
@@ -103838,7 +103921,7 @@
     ],
     "fx": []
   },
-  "icon_currency_KhanMedal_big": {
+  "icon_khan_currency_big": {
     "pid": 1,
     "url": "x768/Icons/IconsShared/icon_khan_currency_big_Shared.png",
     "frames": [
@@ -103853,7 +103936,7 @@
     ],
     "fx": []
   },
-  "icon_khan_currency_big": {
+  "icon_currency_KhanMedal_big": {
     "pid": 1,
     "url": "x768/Icons/IconsShared/icon_khan_currency_big_Shared.png",
     "frames": [
@@ -115508,6 +115591,81 @@
     ],
     "fx": []
   },
+  "global_primetime_background_AprilFools2024": {
+    "pid": 0,
+    "url": "x768/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_AprilFools2024.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1281,
+        "h": 1601,
+        "rx": 359,
+        "ry": 199
+      }
+    ],
+    "fx": []
+  },
+  "global_primetime_background_Easter2024": {
+    "pid": 0,
+    "url": "x768/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_Easter2024.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1536,
+        "h": 1733,
+        "rx": 232,
+        "ry": 133
+      }
+    ],
+    "fx": []
+  },
+  "global_primetime_background_generic1": {
+    "pid": 0,
+    "url": "x768/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_generic1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1281,
+        "h": 1601,
+        "rx": 359,
+        "ry": 199
+      }
+    ],
+    "fx": []
+  },
+  "global_primetime_background_generic2": {
+    "pid": 0,
+    "url": "x768/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_generic2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1536,
+        "h": 1733,
+        "rx": 232,
+        "ry": 133
+      }
+    ],
+    "fx": []
+  },
+  "global_primetime_background_Spring2024": {
+    "pid": 0,
+    "url": "x768/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_Spring2024.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1281,
+        "h": 1601,
+        "rx": 359,
+        "ry": 199
+      }
+    ],
+    "fx": []
+  },
   "Teaser_Medium_Content_1": {
     "pid": 0,
     "url": "x768/Misc/OffersHub/OffersHubTeasers/Teaser_Medium_Content_1.png",
@@ -117394,6 +117552,66 @@
         "h": 667,
         "rx": 231,
         "ry": 666
+      }
+    ],
+    "fx": []
+  },
+  "Teaser_OffersHub_Big_WhaleChest_11": {
+    "pid": 0,
+    "url": "x768/Misc/TeasersShared/Teaser_OffersHub_Big_WhaleChest_11_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1537,
+        "h": 665,
+        "rx": 231,
+        "ry": 667
+      }
+    ],
+    "fx": []
+  },
+  "Teaser_OffersHub_Big_36": {
+    "pid": 0,
+    "url": "x768/Misc/TeasersShared/Teaser_OffersHub_Big_WhaleChest_11_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1537,
+        "h": 665,
+        "rx": 231,
+        "ry": 667
+      }
+    ],
+    "fx": []
+  },
+  "Teaser_OffersHub_Big_WhaleChest_12": {
+    "pid": 0,
+    "url": "x768/Misc/TeasersShared/Teaser_OffersHub_Big_WhaleChest_12_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1537,
+        "h": 665,
+        "rx": 231,
+        "ry": 667
+      }
+    ],
+    "fx": []
+  },
+  "Teaser_OffersHub_Big_37": {
+    "pid": 0,
+    "url": "x768/Misc/TeasersShared/Teaser_OffersHub_Big_WhaleChest_12_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1537,
+        "h": 665,
+        "rx": 231,
+        "ry": 667
       }
     ],
     "fx": []

@@ -1912,7 +1912,15 @@
     "deco_DonationEventDecorationNight2_name": "Monumento imperial del anochecer",
     "deco_DonationEventDecorationNight3_name": "Monumento imperial del anochecer",
     "deco_DonationEventDecorationNight4_name": "Monumento imperial del anochecer",
-    "deco_DonationEventDecorationNight5_name": "Monumento imperial del anochecer"
+    "deco_DonationEventDecorationNight5_name": "Monumento imperial del anochecer",
+    "deco_easterdecowitheffect_name": "Torre primaveral exaltada",
+    "deco_StPatrickGoldCave_withEffects_name": "Alijo de oro del duende",
+    "deco_shamrockTavern_withEffects_name": "Taberna del Trébol Exaltado",
+    "ci_appearance_dragonriderSiegeWorkshop": "Taller de asedio del jinete de dragones",
+    "ci_appearance_dragonriderSiegeWorkshop_flavor": "Veloz y robusto a la vez: así es como debe forjarse la mejor armadura de jinete de dragones.",
+    "ci_appearance_octoberfestMarket": "Mercado del Oktoberfest",
+    "ci_appearance_octoberfestMarket_flavor": "¡Vamos a intercambiar cervezas y cumplidos con nuestros trajes tradicionales!",
+    "deco_EasterSales_BunchOfEggs": "Racimo de Huevos Decorativos de Pascua"
   },
   "dialogs": {
     "dialog_festival_desc": "¡Usa comida para celebrar un festín para tus ciudadanos! La velocidad de reclutamiento aumentará considerablemente en todos tus castillos mientras dure el festín. Mientras más grande sea el festín, mayor será el efecto.",
@@ -2523,7 +2531,7 @@
     "dialog_resourcesBoost_extendOverseer": "Aumentar el tiempo de supervisión",
     "dialog_resourcesBoost_hireOverseer": "Contratar capataz",
     "dialog_resourcesBoost_title": "Contratar capataz",
-    "dialog_resourceWait_description": "¡No tienes suficientes recursos! Saquea otros castillos, importa recursos de otros reinos o espera hasta que tus trabajadores hayan producido los recursos necesarios.",
+    "dialog_resourceWait_description": "¡No tienes suficientes recursos o monedas! Saquea castillos, participa en eventos, importa desde otros reinos o espera a que tus trabajadores produzcan más.",
     "dialog_resourceWait_timeTillAvalible": "Tiempo que falta para que los recursos estén disponibles",
     "dialog_resourceWait_youNeed": "Te falta:",
     "dialog_ressourcexchangerEvent_speechBubble": "¿Tienes algún excedente de productos? ¡Puedes cambiar tus recursos conmigo a un precio justo!\nNo dejes pasar mucho tiempo, mantendré mi oferta por poco tiempo.",
@@ -11953,7 +11961,7 @@
     "webshop_TCI_foodProductionGeneric_desc": "Objeto de construcción temporal. Concede +{0} de producción de comida por hora en un castillo durante {1} días.",
     "webshop_ciTemporary_desc_30117": "Elemento de construcción temporal legendario. Otorga +15.000 de producción de comida por hora en un castillo por un período de 28 días.",
     "webshop_offer_dailyBundle_oktoberfest_desc": "¡Especial del Oktoberfest con un {0} % de bonus adicional!",
-    "webshop_decoWithEffects_foodProductionGeneric_desc": "Aumenta el orden público dentro del castillo un {0},\nun {1}% de bonus de producción de comida\nMáximo: {2} por área.",
+    "webshop_decoWithEffects_foodProductionGeneric_desc": "Aumenta el orden público dentro del castillo un {0},\n un {1}% de bonus de producción de comida\n Máximo: {2} por área.",
     "dialog_startDonationEvent_subtitle3": "Carta de Patronazgo Imperial",
     "dialog_startDonationEvent_title": "Inicio del Patronato Imperial",
     "dialog_tenthAnniversary_timer": "Tiempo de evento {0}",
@@ -12004,7 +12012,10 @@
     "dialog_startDonationEvent_desc3": "El emperador ha presentado la Carta de Mecenazgo Imperial, con la cual ha encargado al arquitecto procesar los materiales que tienes en abundancia.\n&lt;b&gt;¡Al final del evento, todas las Cartas de Mecenazgo Imperial se reiniciarán!&lt;/b&gt;",
     "dialog_startDonationEvent_join": "- ¡Aprovecha y únete al evento de mecenazgo imperial! -",
     "dialog_startDonationEvent_subtitle1": "Los planes del arquitecto",
-    "dialog_startDonationEvent_subtitle2": "Aumentar recompensa"
+    "dialog_startDonationEvent_subtitle2": "Aumentar recompensa",
+    "dialog_specialOffer_copy4": "Por ejemplo, ¡compra 50k rubíes y recibirás {0}!",
+    "dialog_privateBestsellerShop_easter1": "Promoción especial de Pascua",
+    "dialog_privateBestsellerShop_easter2": "Oferta suprema de Pascua"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "Velocidad de viaje del ejército en las conquistas: +{0} %",
@@ -13103,9 +13114,17 @@
     "effect_name_woodProductionBoostMain": "Bono a la producción de madera en un castillo del Gran Imperio",
     "effect_name_woodProductionBoost": "Bonificación de producción de madera en castillo",
     "effect_name_foodProductionBoostBaronEconomy": "Bonus a la producción de comida en el castillo",
-    "effect_name_AttackBoostYardDecoCapped": "Bonus de fuerza de combate de ataque al patio (máx.)",
+    "equip_effect_description_AttackBoostYardDecoCapped": "Fuerza de combate de ataque en el patio ({0} %) (máx.)",
+    "equip_effect_description_offensiveMeleeBonusDecoCapped": "Fuerza de ataque de unidades cuerpo a cuerpo: +{0}% (máx.)",
+    "equip_effect_description_offensiveRangeBonusDecoCapped": "Fuerza de ataque de unidades a distancia: +{0} % (máx.)",
+    "effect_name_recruitmentCostDecreaseAllCapped": "Reducción de los costes de reclutamiento de monedas (limitado)",
+    "effect_name_recruitmentSpeedBoostAllCapped": "Bonificación a la velocidad de reclutamiento (máximo)",
+    "effect_name_toolProductionSpeedBoostAllCapped": "Bonus de velocidad de producción de herramientas (máx.)",
+    "effects_ltpe_tci_dragonriderSiegeWorkshop": "Placeholder text for the TCI: dragonriderSiegeWorkshop",
+    "effects_ltpe_tci_octoberfestMarket": "Placeholder text for the TCI: octoberfestMarket",
     "effect_name_offensiveMeleeBonusDecoCapped": "Bonus de fuerza de ataque de unidades cuerpo a cuerpo (máx.)",
-    "effect_name_offensiveRangeBonusDecoCapped": "Fuerza de ataque de unidades a distancia (máx.)"
+    "effect_name_offensiveRangeBonusDecoCapped": "Bonificación a la fuerza de ataque de unidades a distancia (tope)",
+    "effect_name_AttackBoostYardDecoCapped": "Bonus de fuerza de combate de ataque al patio (máx.)"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Héroe",

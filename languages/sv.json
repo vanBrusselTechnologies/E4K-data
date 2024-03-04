@@ -1912,7 +1912,15 @@
     "deco_DonationEventDecorationNight2_name": "Kejserligt skymningsmonument",
     "deco_DonationEventDecorationNight3_name": "Kejserligt skymningsmonument",
     "deco_DonationEventDecorationNight4_name": "Kejserligt skymningsmonument",
-    "deco_DonationEventDecorationNight5_name": "Kejserligt skymningsmonument"
+    "deco_DonationEventDecorationNight5_name": "Kejserligt skymningsmonument",
+    "deco_easterdecowitheffect_name": "Vårexalterat torn",
+    "deco_StPatrickGoldCave_withEffects_name": "Upphöjd lyckogubbes guldstack",
+    "deco_shamrockTavern_withEffects_name": "Pub Fyrklöver",
+    "ci_appearance_dragonriderSiegeWorkshop": "Drakhästbelägringsverkstad",
+    "ci_appearance_dragonriderSiegeWorkshop_flavor": "Snabb och stark i ett! Så här ska det bästa drakryttarharnesk smidas.",
+    "ci_appearance_octoberfestMarket": "Oktobermarknad",
+    "ci_appearance_octoberfestMarket_flavor": "Låt oss byta öl och komplimanger i våra traditionella kläder!",
+    "deco_EasterSales_BunchOfEggs": "Påskäggsbunt"
   },
   "dialogs": {
     "dialog_festival_desc": "Använd mat för att anordna en fest för dina medborgare! Rekryteringshastigheten ökar betydligt i alla dina slott så länge festen försiggår. Ju större festen är, desto större effekt.",
@@ -2523,7 +2531,7 @@
     "dialog_resourcesBoost_extendOverseer": "Öka övervakningstiden",
     "dialog_resourcesBoost_hireOverseer": "Hyr förman",
     "dialog_resourcesBoost_title": "Hyr förman",
-    "dialog_resourceWait_description": "Du har inte tillräckligt med resurser! Plundra andra slott, importera resurser från andra slott eller vänta tills dina arbetare har producerat tillräckligt.",
+    "dialog_resourceWait_description": "Du har inte tillräckligt med resurser eller valutor! Plundra slott, delta i evenemang, importera från andra kungadömen eller vänta tills dina arbetare har producerat mer.",
     "dialog_resourceWait_timeTillAvalible": "Tid tills resurser är tillgängliga",
     "dialog_resourceWait_youNeed": "Du saknar:",
     "dialog_ressourcexchangerEvent_speechBubble": "Har du varor i överflöd? Du kan sälja din resurser till mig till ett rättvist pris!\nTveka inte för länge, för mitt erbjudande gäller bara under en kort period.",
@@ -11953,7 +11961,7 @@
     "webshop_TCI_foodProductionGeneric_desc": "Tillfälligt byggföremål. Ger +{0} matproduktion per timme i ett slott under {1} dagar.",
     "webshop_ciTemporary_desc_30117": "Legendariskt byggföremål för tillfällig användning. Ökar matproduktionen med +15 000 per timme i ett slott under 28 dagar.",
     "webshop_offer_dailyBundle_oktoberfest_desc": "Oktoberfest-special + {0} % högre bonus!",
-    "webshop_decoWithEffects_foodProductionGeneric_desc": "Ökar den offentliga ordningen i ditt slott med {0},\n+{1}% bonus på matproduktionen i ditt Eldtoppslott,\nMax {2} per område.",
+    "webshop_decoWithEffects_foodProductionGeneric_desc": "Ökar den offentliga ordningen i ditt slott med {0},\n+{1} % matproduktionsbonus.\nMax {2} per område.",
     "dialog_startDonationEvent_subtitle3": "Imperiepatronatsstadga",
     "dialog_startDonationEvent_title": "Kejserligt beskydd start",
     "dialog_tenthAnniversary_timer": "Evenemangstid {0}",
@@ -12004,7 +12012,10 @@
     "dialog_startDonationEvent_desc3": "Kejsaren introducerade Kejserliga Beskyddarstadgan, med uppgift åt arkitekten att bearbeta de material som du har i överflöd.\nVid evenemangets slut kommer &lt;b&gt;alla Kejserliga Beskyddarstadgar att nollställas!&lt;/b&gt;",
     "dialog_startDonationEvent_join": "- Gör en satsning och var med i Kaiserskydds-evenemanget! -",
     "dialog_startDonationEvent_subtitle1": "Arkitektens planer",
-    "dialog_startDonationEvent_subtitle2": "Öka belöningen"
+    "dialog_startDonationEvent_subtitle2": "Öka belöningen",
+    "dialog_specialOffer_copy4": "Köp till exempel 50k rubiner och du får {0}!",
+    "dialog_privateBestsellerShop_easter1": "Speciellt påskerbjudande",
+    "dialog_privateBestsellerShop_easter2": "Överlägsen påskerbjudande"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0} % resehastighet för armén under erövringar",
@@ -13103,9 +13114,17 @@
     "effect_name_woodProductionBoostMain": "Bonus till träproduktion i Storrikets slott",
     "effect_name_woodProductionBoost": "Bonus till träproduktion i slott",
     "effect_name_foodProductionBoostBaronEconomy": "Bonusproduktion av mat i slottet",
-    "effect_name_AttackBoostYardDecoCapped": "Bonus till inre borggårdens anfallsstridskraft (tak)",
+    "equip_effect_description_AttackBoostYardDecoCapped": "+{0} % slottsgårdens anfallsstridskraft (max)",
+    "equip_effect_description_offensiveMeleeBonusDecoCapped": "+{0} % närstridsenheters anfallsstyrka (max)",
+    "equip_effect_description_offensiveRangeBonusDecoCapped": "+{0}% på distansenheters anfallsstyrka (max)",
+    "effect_name_recruitmentCostDecreaseAllCapped": "Minimering av myntkostnad för rekrytering (begränsad)",
+    "effect_name_recruitmentSpeedBoostAllCapped": "Bonus till rekryteringshastighet (med gräns)",
+    "effect_name_toolProductionSpeedBoostAllCapped": "Bonus till verktygsproduktionshastighet (max)",
+    "effects_ltpe_tci_dragonriderSiegeWorkshop": "Placeholder text for the TCI: dragonriderSiegeWorkshop",
+    "effects_ltpe_tci_octoberfestMarket": "Placeholder text for the TCI: octoberfestMarket",
     "effect_name_offensiveMeleeBonusDecoCapped": "Bonus till närstridsenheters anfallsstyrka (tak)",
-    "effect_name_offensiveRangeBonusDecoCapped": "Bonus på distansenheters anfallsstyrka (tak)"
+    "effect_name_offensiveRangeBonusDecoCapped": "Bonus till attackstyrka för distansenheter (max)",
+    "effect_name_AttackBoostYardDecoCapped": "Bonus till inre borggårdens anfallsstridskraft (tak)"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Hjälte",

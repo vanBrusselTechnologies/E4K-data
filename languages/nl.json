@@ -1912,7 +1912,15 @@
     "deco_DonationEventDecorationNight2_name": "Monument van de Keizerlijke Schemering",
     "deco_DonationEventDecorationNight3_name": "Monument van de Keizerlijke Schemering",
     "deco_DonationEventDecorationNight4_name": "Monument van de Keizerlijke Schemering",
-    "deco_DonationEventDecorationNight5_name": "Monument van de Keizerlijke Schemering"
+    "deco_DonationEventDecorationNight5_name": "Monument van de Keizerlijke Schemering",
+    "deco_easterdecowitheffect_name": "Verheven Lentetoren",
+    "deco_StPatrickGoldCave_withEffects_name": "Verheven goudvoorraad van de leprechaun",
+    "deco_shamrockTavern_withEffects_name": "Verheven Shamrock-pub",
+    "ci_appearance_dragonriderSiegeWorkshop": "Drakenridder-belegeringswerkplaats",
+    "ci_appearance_dragonriderSiegeWorkshop_flavor": "Sterk en snel verenigd! Zo moet de beste Drakenrijderharnas gesmeed worden.",
+    "ci_appearance_octoberfestMarket": "Oktoberfest-markt",
+    "ci_appearance_octoberfestMarket_flavor": "Laten we bieren en complimenten uitwisselen in traditionele outfits!",
+    "deco_EasterSales_BunchOfEggs": "Paasmand vol eieren"
   },
   "dialogs": {
     "dialog_festival_desc": "Gebruik voedsel om een festival te geven voor uw burgers! Zolang het festival duurt, wordt er in al uw kastelen aanmerkelijk sneller gerekruteerd. Hoe groter het festival, hoe groter het effect.",
@@ -2523,7 +2531,7 @@
     "dialog_resourcesBoost_extendOverseer": "Opzichtertijd verlengen",
     "dialog_resourcesBoost_hireOverseer": "Opzichter inhuren",
     "dialog_resourcesBoost_title": "Opzichter inhuren",
-    "dialog_resourceWait_description": "Je hebt niet genoeg bouwstoffen! Plunder andere kastelen, importeer bouwstoffen uit andere koninkrijken of wacht totdat je werkers genoeg hebben geproduceerd.",
+    "dialog_resourceWait_description": "Je hebt niet genoeg middelen of valuta! Val kastelen aan, doe mee aan evenementen, importeer vanuit andere koninkrijken of wacht tot je arbeiders meer hebben geproduceerd.",
     "dialog_resourceWait_timeTillAvalible": "Tijd totdat bouwstoffen beschikbaar zijn",
     "dialog_resourceWait_youNeed": "Er ontbreekt:",
     "dialog_ressourcexchangerEvent_speechBubble": "Heb je spullen over? Bij mij kun je allerlei bouwstoffen tegen een eerlijke koers ruilen! \nMaar wacht niet te lang, want mijn aanbod blijft niet lang geldig.",
@@ -11953,7 +11961,7 @@
     "webshop_TCI_foodProductionGeneric_desc": "Tijdelijk bouwitem. Geeft +{0} voedselproductie per uur in een kasteel voor een periode van {1} dagen.",
     "webshop_ciTemporary_desc_30117": "Legendarisch tijdelijk bouwvoorwerp. Verhoogt de voedselproductie met +15.000 per uur in een kasteel gedurende 28 dagen.",
     "webshop_offer_dailyBundle_oktoberfest_desc": "Oktoberfestspecial + {0}% hogere bonus!",
-    "webshop_decoWithEffects_foodProductionGeneric_desc": "Verhoogt de openbare orde in je kasteel met {0}\n+{1}% bonus op voedselproductie in je Vuurtoppenkasteel\nMaximum {2} per gebied",
+    "webshop_decoWithEffects_foodProductionGeneric_desc": "Verhoogt de openbare orde in je kasteel met +{0},\n+{1}% bonus op voedselproductie.\nMaximaal {2} per gebied.",
     "dialog_startDonationEvent_subtitle3": "Keizerlijk beschermingshandvest",
     "dialog_startDonationEvent_title": "Start van Keizerlijke Voogdij",
     "dialog_tenthAnniversary_timer": "Eventtijd {0}",
@@ -12004,7 +12012,10 @@
     "dialog_startDonationEvent_desc3": "De keizer introduceerde het Keizerlijk Beschermingshandvest en gaf de architect de opdracht om de materialen die je in overvloed hebt te verwerken.\nAan het einde van het evenement zullen alle &lt;b&gt;Keizerlijke Beschermingshandvesten worden gereset!&lt;/b&gt;",
     "dialog_startDonationEvent_join": "- Neem de kans en doe mee aan het Hoge Beschermheerschap Event! -",
     "dialog_startDonationEvent_subtitle1": "De plannen van de architect",
-    "dialog_startDonationEvent_subtitle2": "Beloning verhogen"
+    "dialog_startDonationEvent_subtitle2": "Beloning verhogen",
+    "dialog_specialOffer_copy4": "Koop bijvoorbeeld 50k robijnen en je ontvangt {0}!",
+    "dialog_privateBestsellerShop_easter1": "Speciale Paasdeal",
+    "dialog_privateBestsellerShop_easter2": "Supreme Easter Deal"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% reissnelheid leger tijdens veroveringen",
@@ -13103,9 +13114,17 @@
     "effect_name_woodProductionBoostMain": "Bonus op houtproductie in een kasteel van het Grote Rijk",
     "effect_name_woodProductionBoost": "Bonus op houtproductie in kasteel",
     "effect_name_foodProductionBoostBaronEconomy": "Bonus aan voedselproductie in kasteel",
-    "effect_name_AttackBoostYardDecoCapped": "Bonus voor vechtkracht bij aanvallen op binnenplaats (geplafonneerd)",
+    "equip_effect_description_AttackBoostYardDecoCapped": "+{0}% vechtkracht kasteelplein (geplafonneerd)",
+    "equip_effect_description_offensiveMeleeBonusDecoCapped": "+{0}% aanvalskracht mêlee-eenheden (max)",
+    "equip_effect_description_offensiveRangeBonusDecoCapped": "+{0}% aanvalskracht afstandseenheden (max)",
+    "effect_name_recruitmentCostDecreaseAllCapped": "Verlaging van de ronselkosten (gemaximeerd)",
+    "effect_name_recruitmentSpeedBoostAllCapped": "Bonus rekruteringssnelheid (max)",
+    "effect_name_toolProductionSpeedBoostAllCapped": "Bonus voor productsnelheid van gereedschap (maximaal)",
+    "effects_ltpe_tci_dragonriderSiegeWorkshop": "Placeholder text for the TCI: dragonriderSiegeWorkshop",
+    "effects_ltpe_tci_octoberfestMarket": "Placeholder text for the TCI: octoberfestMarket",
     "effect_name_offensiveMeleeBonusDecoCapped": "Bonus op aanvalkracht mêlee-eenheden (max)",
-    "effect_name_offensiveRangeBonusDecoCapped": "Bonus aanvalskracht afstandseenheden (max)"
+    "effect_name_offensiveRangeBonusDecoCapped": "Bonus voor aanvalskracht van afstandseenheden (gemaximeerd)",
+    "effect_name_AttackBoostYardDecoCapped": "Bonus voor vechtkracht bij aanvallen op binnenplaats (geplafonneerd)"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Held",

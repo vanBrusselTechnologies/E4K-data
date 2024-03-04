@@ -1912,7 +1912,15 @@
     "deco_DonationEventDecorationNight2_name": "皇帝の夕暮れの記念碑",
     "deco_DonationEventDecorationNight3_name": "皇帝の夕暮れの記念碑",
     "deco_DonationEventDecorationNight4_name": "皇帝の夕暮れの記念碑",
-    "deco_DonationEventDecorationNight5_name": "皇帝の夕暮れの記念碑"
+    "deco_DonationEventDecorationNight5_name": "皇帝の夕暮れの記念碑",
+    "deco_easterdecowitheffect_name": "至高の春の塔",
+    "deco_StPatrickGoldCave_withEffects_name": "レプラコーンの金の隠し場所.",
+    "deco_shamrockTavern_withEffects_name": "高貴なシャムロックのパブ",
+    "ci_appearance_dragonriderSiegeWorkshop": "竜騎士の攻城兵器製作所",
+    "ci_appearance_dragonriderSiegeWorkshop_flavor": "速く、そして強い。これこそ最高のドラゴンライダーアーマーが鍛えられる方法だ。",
+    "ci_appearance_octoberfestMarket": "オクトーバーフェスト市場",
+    "ci_appearance_octoberfestMarket_flavor": "ビールと着飾りを交換しましょう！",
+    "deco_EasterSales_BunchOfEggs": "イースターの飾り「卵の束」"
   },
   "dialogs": {
     "dialog_festival_desc": "食料を集めて宴会を開きましょう！\n宴会が続く限り、兵の雇用スピードがすべての城で速くなります。宴会が豪華になるほど、効果も大きくなります。",
@@ -2523,7 +2531,7 @@
     "dialog_resourcesBoost_extendOverseer": "監督時間を増やす",
     "dialog_resourcesBoost_hireOverseer": "見張り番を雇う",
     "dialog_resourcesBoost_title": "見張り番を雇う",
-    "dialog_resourceWait_description": "資源が不足しています。他の城から略奪するか、他の王国から資源を送るか、作業員が十分生産できるまで待ちましょう。",
+    "dialog_resourceWait_description": "資源や通貨が不足しています！ 城を襲撃したり、イベントに参加したり、他の王国から資源を輸入したり、または労働者がさらに生産するのを待ってください。",
     "dialog_resourceWait_timeTillAvalible": "資源が使用可能になるまでの時間",
     "dialog_resourceWait_youNeed": "不足している資源：",
     "dialog_ressourcexchangerEvent_speechBubble": "物が余っているんですか？そんな時はお得な値段で、私と資源を取引しませんか？迷っている時間はないですよ。\n私の気が変わらない内に取引を成立させましょう。",
@@ -11953,7 +11961,7 @@
     "webshop_TCI_foodProductionGeneric_desc": "一時的な建設アイテム。{1}日間、城で毎時{0}の食料が生産される。",
     "webshop_ciTemporary_desc_30117": "伝説の一時的な建設アイテム。28日間、城で毎時15,000の食料が生産される。",
     "webshop_offer_dailyBundle_oktoberfest_desc": "オクトーバーフェストスペシャル + ボーナス{0}%アップ！",
-    "webshop_decoWithEffects_foodProductionGeneric_desc": "城内の公共秩序が{0}向上、\n炎の山の城での食糧生産に{1}%のボーナス、\n各エリアの最大{2}個まで設置可能。",
+    "webshop_decoWithEffects_foodProductionGeneric_desc": "城の社会秩序が{0}上がります、\n食料生産に{1}%のボーナスがあります。\n1エリアあたり最大{2}まで配置可能。",
     "dialog_startDonationEvent_subtitle3": "皇帝の庇護権",
     "dialog_startDonationEvent_title": "開始帝王後援",
     "dialog_tenthAnniversary_timer": "イベント期間 {0}",
@@ -12004,7 +12012,10 @@
     "dialog_startDonationEvent_desc3": "皇帝は、豊富にある資材を加工するように建築家に命じました。\nイベント終了時に、&lt;b&gt;皇帝の庇護権の憲章はリセットされます！&lt;/b&gt;",
     "dialog_startDonationEvent_join": "参加して、帝国の後援イベントのチャンスを掴もう！",
     "dialog_startDonationEvent_subtitle1": "建築家の設計図",
-    "dialog_startDonationEvent_subtitle2": "報酬を増やす"
+    "dialog_startDonationEvent_subtitle2": "報酬を増やす",
+    "dialog_specialOffer_copy4": "例えば、50kのルビーを購入すれば、{0}ものルビーを獲得できます！",
+    "dialog_privateBestsellerShop_easter1": "イースターの特別セール",
+    "dialog_privateBestsellerShop_easter2": "最高のイースターディール"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "占領中の軍の移動スピード　+{0}%",
@@ -13103,9 +13114,17 @@
     "effect_name_woodProductionBoostMain": "大帝国の城での木材生産ボーナス",
     "effect_name_woodProductionBoost": "城の木材生産ボーナス",
     "effect_name_foodProductionBoostBaronEconomy": "城内での食料生産ボーナス",
-    "effect_name_AttackBoostYardDecoCapped": "中庭の攻撃時の戦闘力ボーナス（上限あり）",
+    "equip_effect_description_AttackBoostYardDecoCapped": "中庭攻撃の戦闘力　最大+{0}%",
+    "equip_effect_description_offensiveMeleeBonusDecoCapped": "+{0}%乱闘部隊の攻撃力（上限）",
+    "equip_effect_description_offensiveRangeBonusDecoCapped": "遠隔部隊の攻撃力が{0}%上がる（上限あり）",
+    "effect_name_recruitmentCostDecreaseAllCapped": "雇用費用の削減（上限）",
+    "effect_name_recruitmentSpeedBoostAllCapped": "雇用スピードボーナス（上限）",
+    "effect_name_toolProductionSpeedBoostAllCapped": "兵器の生産スピードボーナス（上限あり）",
+    "effects_ltpe_tci_dragonriderSiegeWorkshop": "Placeholder text for the TCI: dragonriderSiegeWorkshop",
+    "effects_ltpe_tci_octoberfestMarket": "Placeholder text for the TCI: octoberfestMarket",
     "effect_name_offensiveMeleeBonusDecoCapped": "乱闘兵の攻撃力ボーナス（上限あり）",
-    "effect_name_offensiveRangeBonusDecoCapped": "ボーナス遠隔部隊の攻撃力（上限）"
+    "effect_name_offensiveRangeBonusDecoCapped": "遠隔兵の攻撃力ボーナス(上限あり)",
+    "effect_name_AttackBoostYardDecoCapped": "中庭の攻撃時の戦闘力ボーナス（上限あり）"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "英雄",

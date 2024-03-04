@@ -1912,7 +1912,15 @@
     "deco_DonationEventDecorationNight2_name": "Imperial Dusk Monument",
     "deco_DonationEventDecorationNight3_name": "Imperial Dusk Monument",
     "deco_DonationEventDecorationNight4_name": "Imperial Dusk Monument",
-    "deco_DonationEventDecorationNight5_name": "Imperial Dusk Monument"
+    "deco_DonationEventDecorationNight5_name": "Imperial Dusk Monument",
+    "deco_easterdecowitheffect_name": "Exalted Spring time tower",
+    "deco_StPatrickGoldCave_withEffects_name": "Exalted Leprechauns gold stack",
+    "deco_shamrockTavern_withEffects_name": "Exalted Shamrock pub",
+    "ci_appearance_dragonriderSiegeWorkshop": "Dragon rider siege workshop",
+    "ci_appearance_dragonriderSiegeWorkshop_flavor": "Swift and strong in one! This is how best Dragonrider armor needs to be forged.",
+    "ci_appearance_octoberfestMarket": "Octoberfest market",
+    "ci_appearance_octoberfestMarket_flavor": "Lets trade beers and compliments between traditional dresses!",
+    "deco_EasterSales_BunchOfEggs": "Bunch of eggs"
   },
   "dialogs": {
     "dialog_festival_desc": "Use your food to hold a feast for your citizens!\nSoldiers will be recruited much more quickly in all of your castles for as long as the feast lasts. The bigger the feast, the greater the effect.",
@@ -2523,7 +2531,7 @@
     "dialog_resourcesBoost_extendOverseer": "Increase supervision time",
     "dialog_resourcesBoost_hireOverseer": "Hire overseer",
     "dialog_resourcesBoost_title": "Hire overseer",
-    "dialog_resourceWait_description": "You dont have enough resources! Loot other castles, import resources from other kingdoms, or wait until your workers have produced enough resources on their own.",
+    "dialog_resourceWait_description": "You dont have enough resources or currencies! Raid castles, join events, import from other kingdoms, or wait for your workers to produce more.",
     "dialog_resourceWait_timeTillAvalible": "Time until resources are available",
     "dialog_resourceWait_youNeed": "You are missing:",
     "dialog_ressourcexchangerEvent_speechBubble": "Have you got any surplus goods? You can trade your resources with me at a fair rate! \nDont hesitate for too long though, my offer only stands for a short time!",
@@ -12004,7 +12012,10 @@
     "dialog_startDonationEvent_desc3": "The Emperor introduced Imperial Patronage Charter, tasking the architect to process the materials you have in abundance.\nAt the end of the event, all &lt;b&gt;Imperial Patronage Charter will be reset!&lt;/b&gt;",
     "dialog_startDonationEvent_join": "- Take the chance and join the Imperial Patronage Event! -",
     "dialog_startDonationEvent_subtitle1": "The architects plans",
-    "dialog_startDonationEvent_subtitle2": "Increase reward"
+    "dialog_startDonationEvent_subtitle2": "Increase reward",
+    "dialog_specialOffer_copy4": "For example, buy 50k rubies and youll receive {0}!",
+    "dialog_privateBestsellerShop_easter1": "Special Easter Deal",
+    "dialog_privateBestsellerShop_easter2": "Supreme Easter Deal"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% army travel speed during conquests",
@@ -13103,9 +13114,17 @@
     "effect_name_woodProductionBoostMain": "Bonus to wood production in a Great Empire castle",
     "effect_name_woodProductionBoost": "Bonus to wood production in castle",
     "effect_name_foodProductionBoostBaronEconomy": "Bonus to food production in castle",
-    "effect_name_AttackBoostYardDecoCapped": "Bonus to courtyard attack combat strength (capped)",
+    "equip_effect_description_AttackBoostYardDecoCapped": "+{0}% courtyard attack combat strength (capped)",
+    "equip_effect_description_offensiveMeleeBonusDecoCapped": "+{0}% melee units attack strength (capped)",
+    "equip_effect_description_offensiveRangeBonusDecoCapped": "+{0}% ranged units attack strength (capped)",
+    "effect_name_recruitmentCostDecreaseAllCapped": "Reduction of recruitment coin cost (capped)",
+    "effect_name_recruitmentSpeedBoostAllCapped": "Bonus to recruitment speed (capped)",
+    "effect_name_toolProductionSpeedBoostAllCapped": "Bonus to tool production speed (capped)",
+    "effects_ltpe_tci_dragonriderSiegeWorkshop": "Placeholder text for the TCI: dragonriderSiegeWorkshop",
+    "effects_ltpe_tci_octoberfestMarket": "Placeholder text for the TCI: octoberfestMarket",
     "effect_name_offensiveMeleeBonusDecoCapped": "Bonus to melee units attack strength (capped)",
-    "effect_name_offensiveRangeBonusDecoCapped": "Bonus ranged units attack strength (capped)"
+    "effect_name_offensiveRangeBonusDecoCapped": "Bonus to ranged units attack strength (capped)",
+    "effect_name_AttackBoostYardDecoCapped": "Bonus to courtyard attack combat strength (capped)"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Hero",

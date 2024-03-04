@@ -61,6 +61,10 @@ export interface Data {
     daimyoTownships: DaimyoTownship[];
     decoThresholds: DecoThreshold[];
     districtTypes: DistrictType[];
+    donationItems: donationItems[];
+    donationRewards: donationRewards[];
+    donationSettings: donationSettings[];
+    donationTypes: donationTypes[];
     dungeons: Dungeon[];
     effectCaps: EffectCap[];
     effects: Effect[];
@@ -186,6 +190,7 @@ export interface Data {
     relicTypes: RelicType[];
     rerollCosts: ReRollCost[];
     researches: Research[];
+    resources: resources[];
     rewardBags: RewardBag[];
     rewards: Reward[];
     saleDaysLuckyWheelClasses: SaleDaysLuckyWheelClass[];
@@ -1166,6 +1171,38 @@ export interface DistrictType {
     "crossplayID": number;
     "district": string;
     "districtTypeID": number;
+}
+
+export interface donationItems {
+    "crossplayID": number;
+    "currencyID": number;
+    "donationItemID": number;
+    "donationItemSetID": number;
+    "donationTypeID": number;
+    "maxPointLimit": number;
+    "ratio": number;
+}
+
+export interface donationRewards {
+    "crossplayID": number;
+    "donationRewardID": number;
+    "donationTypeID": number;
+    "minPoints": number;
+    "rewardID": number;
+    "rewardSetID": number;
+}
+
+export interface donationSettings {
+    "crossplayID": number;
+    "donationItemSetID": number;
+    "donationSettingID": number;
+    "rewardSetID": number;
+}
+
+export interface donationTypes {
+    "crossplayID": number;
+    "donationTypeID": number;
+    "name": string;
 }
 
 export interface Dungeon {
@@ -2328,6 +2365,7 @@ export interface Package {
     "addGeneralsSkillsResetToken"?: number;
     "addGoldToken"?: number;
     "addHeritageBoosterKey"?: number;
+    "addImperialPatronageCharter"?: number;
     "addInfluenceBooster"?: number;
     "addKhanTablet"?: number;
     "addKnightToken"?: number;
@@ -2793,6 +2831,13 @@ export interface Research {
     "unwalkable"?: number;
     "x"?: number;
     "y"?: number;
+}
+
+export interface resources {
+    "JSONKey": string;
+    "crossplayID": number;
+    "name": string;
+    "resourceID": number;
 }
 
 export interface RewardBag {

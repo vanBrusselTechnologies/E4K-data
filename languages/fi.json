@@ -1912,7 +1912,15 @@
     "deco_DonationEventDecorationNight2_name": "Keisarillisen ikuisuuden monumentti",
     "deco_DonationEventDecorationNight3_name": "Keisarillisen ikuisuuden monumentti",
     "deco_DonationEventDecorationNight4_name": "Keisarillisen ikuisuuden monumentti",
-    "deco_DonationEventDecorationNight5_name": "Keisarillisen ikuisuuden monumentti"
+    "deco_DonationEventDecorationNight5_name": "Keisarillisen ikuisuuden monumentti",
+    "deco_easterdecowitheffect_name": "Ylhäinen keväinen torni",
+    "deco_StPatrickGoldCave_withEffects_name": "Ylistetyn haltijan kultakasa",
+    "deco_shamrockTavern_withEffects_name": "Kolmiapilapubi",
+    "ci_appearance_dragonriderSiegeWorkshop": "Lohikäärmeratsastajan piiritysverstas",
+    "ci_appearance_dragonriderSiegeWorkshop_flavor": "Nopea ja vahva yhdistettynä! Näin on taottava parhaimmat Lohikäärmeratsastajan haarniskat.",
+    "ci_appearance_octoberfestMarket": "Octoberfest-markkinat",
+    "ci_appearance_octoberfestMarket_flavor": "Vaihtetaan naurua ja kohteliaisuuksia perinneasuihin pukeutuneina!",
+    "deco_EasterSales_BunchOfEggs": "Pääsiäismunakimppu"
   },
   "dialogs": {
     "dialog_festival_desc": "Järjestä kansalaisillesi kestit ruokaa käyttämällä! Värväys nopeutuu kaikissa linnoissasi huomattavasti, niin kauan kuin kestit jatkuvat. Mitä isommat kestit järjestät, sitä suurempi niiden vaikutus on.",
@@ -2523,7 +2531,7 @@
     "dialog_resourcesBoost_extendOverseer": "Lisää valvonta-aikaa",
     "dialog_resourcesBoost_hireOverseer": "Palkkaa vouti",
     "dialog_resourcesBoost_title": "Palkkaa vouti",
-    "dialog_resourceWait_description": "Sinulla ei ole tarpeeksi resursseja. Ryöstä muita linnoja, tuo resursseja muista kuningaskunnista tai odota, että työntekijäsi ovat tuottaneet niitä tarpeeksi:",
+    "dialog_resourceWait_description": "Sinulla ei ole tarpeeksi resursseja tai valuuttaa! Hyökkää linnoihin, osallistu tapahtumiin, tuo toisista kuningaskunnista tai odota työläistesi tuottavan lisää.",
     "dialog_resourceWait_timeTillAvalible": "Aikaa kunnes resurssit ovat saatavilla",
     "dialog_resourceWait_youNeed": "Sinulta puuttuu:",
     "dialog_ressourcexchangerEvent_speechBubble": "Onko sinulla ylimääräistä kauppatavaraa? Voit käydä vaihtokauppaa kanssani reilulla kurssilla!\nÄlä odottele liian pitkään, sillä tarjoukseni on voimassa vain lyhyen ajan.",
@@ -11953,7 +11961,7 @@
     "webshop_TCI_foodProductionGeneric_desc": "Tilapäinen rakennusesine. Antaa +{0} ruoantuotantoa tunnissa linnallesi {1} päivän ajan.",
     "webshop_ciTemporary_desc_30117": "Legendaarinen väliaikainen lisäosa. Antaa linnalle 15000 lisää ruoantuotantoa tunnissa 28 päivän ajan.",
     "webshop_offer_dailyBundle_oktoberfest_desc": "Oktoberfest-erikoistarjous + {0} % korkeampi bonus!",
-    "webshop_decoWithEffects_foodProductionGeneric_desc": "Lisää linnasi sisäistä järjestystä +{0},\n+{1}% bonus ruoantuotantoon\nenintään {2} per alue.",
+    "webshop_decoWithEffects_foodProductionGeneric_desc": "Lisää linnasi sisäistä järjestystä +{0},\n +{1}% bonus ruoantuotantoon\n enintään {2} per alue.",
     "dialog_startDonationEvent_subtitle3": "Keisarillinen suojeluskirje",
     "dialog_startDonationEvent_title": "Keisarillisen suojeluksen alku",
     "dialog_tenthAnniversary_timer": "Tapahtuma-aika {0}",
@@ -12004,7 +12012,10 @@
     "dialog_startDonationEvent_desc3": "Keisari esitteli keisarillisen suojeluskirjan, joka velvoittaa arkkitehdin käsittelemään runsaasti saatavilla olevia materiaalejasi.\nTapahtuman lopussa kaikki &lt;b&gt;keisarilliset suojeluskirjat nollataan!&lt;/b&gt;",
     "dialog_startDonationEvent_join": "- Käytä tilaisuutta ja liity Keisarillisen suojelijatapahtuman! -",
     "dialog_startDonationEvent_subtitle1": "Arkkitehdin suunnitelmat",
-    "dialog_startDonationEvent_subtitle2": "Lisää palkkiota"
+    "dialog_startDonationEvent_subtitle2": "Lisää palkkiota",
+    "dialog_specialOffer_copy4": "Osta esimerkiksi 50k rubiinia ja saat {0}!",
+    "dialog_privateBestsellerShop_easter1": "Erityinen pääsiäistarjous",
+    "dialog_privateBestsellerShop_easter2": "Mahtava pääsiäistarjous"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0} % armeijan matkanopeuteen valloitusten aikana",
@@ -13103,9 +13114,17 @@
     "effect_name_woodProductionBoostMain": "Bonus suurvaltakunnan linnan puuntuotantoon",
     "effect_name_woodProductionBoost": "Bonus linnan puuntuotantoon",
     "effect_name_foodProductionBoostBaronEconomy": "Bonus linnan elintarviketuotantoon",
-    "effect_name_AttackBoostYardDecoCapped": "Kerroin linnan sisäpihan hyökkäysvahvuuteen (katto)",
+    "equip_effect_description_AttackBoostYardDecoCapped": "+{0} % sisäpihan hyökkäyskamppailuvoima (katto)",
+    "equip_effect_description_offensiveMeleeBonusDecoCapped": "+{0} % lähiyksiköiden hyökkäysvahvuuteen (katto)",
+    "equip_effect_description_offensiveRangeBonusDecoCapped": "+{0} % etäyksiköiden hyökkäysvahvuuteen (kat.)",
+    "effect_name_recruitmentCostDecreaseAllCapped": "Vähennys värväyskolikon hintaan (katto)",
+    "effect_name_recruitmentSpeedBoostAllCapped": "Lisäetuvärväysnopeuteen (rajoitettu)",
+    "effect_name_toolProductionSpeedBoostAllCapped": "Lisänopeus työkalujen valmistuksessa (rajoitettu)",
+    "effects_ltpe_tci_dragonriderSiegeWorkshop": "Placeholder text for the TCI: dragonriderSiegeWorkshop",
+    "effects_ltpe_tci_octoberfestMarket": "Placeholder text for the TCI: octoberfestMarket",
     "effect_name_offensiveMeleeBonusDecoCapped": "Lähiyksiköiden hyökkäysvoiman bonus (katto)",
-    "effect_name_offensiveRangeBonusDecoCapped": "Etäyksiköiden hyökkäysvoiman bonus (katto)"
+    "effect_name_offensiveRangeBonusDecoCapped": "Etäyksiköiden hyökkäysvoiman bonus (rajoitettu)",
+    "effect_name_AttackBoostYardDecoCapped": "Kerroin linnan sisäpihan hyökkäysvahvuuteen (katto)"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Sankari",

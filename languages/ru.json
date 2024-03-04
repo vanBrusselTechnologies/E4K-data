@@ -1912,7 +1912,15 @@
     "deco_DonationEventDecorationNight2_name": "Монумент вечера империи",
     "deco_DonationEventDecorationNight3_name": "Монумент вечера империи",
     "deco_DonationEventDecorationNight4_name": "Монумент вечера империи",
-    "deco_DonationEventDecorationNight5_name": "Монумент вечера империи"
+    "deco_DonationEventDecorationNight5_name": "Монумент вечера империи",
+    "deco_easterdecowitheffect_name": "Возвышенная весенняя башня",
+    "deco_StPatrickGoldCave_withEffects_name": "Восхищенная груда золота лепрекона",
+    "deco_shamrockTavern_withEffects_name": "Возвышенный паб &quot;Трилистник&quot;",
+    "ci_appearance_dragonriderSiegeWorkshop": "Драконья осадная мастерская",
+    "ci_appearance_dragonriderSiegeWorkshop_flavor": "Быстрый и мощный в одном! Вот как должны быть выкованы лучшие доспехи Драконова Всадника.",
+    "ci_appearance_octoberfestMarket": "Октоберфестский рынок",
+    "ci_appearance_octoberfestMarket_flavor": "Давайте обменяемся пивом и комплиментами, одетые в традиционные костюмы!",
+    "deco_EasterSales_BunchOfEggs": "Пасхальный набор"
   },
   "dialogs": {
     "dialog_festival_desc": "Используй еду, чтобы устроить пир для твоих горожан! Во время проведения пира, скорость найма во всех твоих замках заметно увеличится. Чем больше пир, тем больше эффект.",
@@ -2523,7 +2531,7 @@
     "dialog_resourcesBoost_extendOverseer": "Увеличить время наблюдения",
     "dialog_resourcesBoost_hireOverseer": "Нанять надсмотрщика",
     "dialog_resourcesBoost_title": "Нанять надсмотрщика",
-    "dialog_resourceWait_description": "У тебя недостаточно ресурсов! Грабь другие замки, импортируй ресурсы из других королевств или дождись, пока твои рабочие не произведут их в достаточном количестве.",
+    "dialog_resourceWait_description": "У тебя недостаточно ресурсов или валюты! Нападай на замки, участвуй в событиях, импортируй из других королевств или подожди, пока твои рабочие произведут больше.",
     "dialog_resourceWait_timeTillAvalible": "Время до тех пор, пока будут доступны ресурсы",
     "dialog_resourceWait_youNeed": "Тебе не хватает:",
     "dialog_ressourcexchangerEvent_speechBubble": "У тебя есть избыток товаров? Ты можешь обменять у меня свои ресурсы по благоприятному курсу!\nОднако не раздумывай слишком долго, так как мое предложение действительно лишь на протяжении короткого времени.",
@@ -11953,7 +11961,7 @@
     "webshop_TCI_foodProductionGeneric_desc": "Элемент временной постройки. Увеличивает производство еды на +{0} в час в замке на протяжении {1} дней.",
     "webshop_ciTemporary_desc_30117": "Легендарный временный элемент постройки. Действует 28 дней. Обеспечивает увеличение производства еды в замке на 15000 ед. в час.",
     "webshop_offer_dailyBundle_oktoberfest_desc": "Специално за Октоберфест + {0}% дополнительный бонус!",
-    "webshop_decoWithEffects_foodProductionGeneric_desc": "Увеличивает уровень общественного порядка в твоем замке на {0},\n+{1}% к уровню производства еды\nМаксимум: {2} на область.",
+    "webshop_decoWithEffects_foodProductionGeneric_desc": "Повышает общественный порядок в вашем замке на {0},\n+{1}% к производству продовольствия.\nМаксимум {2} на территорию.",
     "dialog_startDonationEvent_subtitle3": "Хартия имперского покровительства",
     "dialog_startDonationEvent_title": "Старт императорского покровительства",
     "dialog_tenthAnniversary_timer": "Время события {0}",
@@ -12004,7 +12012,10 @@
     "dialog_startDonationEvent_desc3": "Император ввел Имперскую хартию покровительства, поручив архитектору обрабатывать материалы, которыми ты располагаешь в изобилии.\n&lt;b&gt;По окончании события все Имперские хартии покровительства будут сброшены!&lt;/b&gt;",
     "dialog_startDonationEvent_join": "- Воспользуйтесь шансом и присоединяйтесь к событию Имперское Покровительство! -",
     "dialog_startDonationEvent_subtitle1": "Планы архитектора",
-    "dialog_startDonationEvent_subtitle2": "Увеличить награду"
+    "dialog_startDonationEvent_subtitle2": "Увеличить награду",
+    "dialog_specialOffer_copy4": "Купите 50к рубинов и получите {0}!",
+    "dialog_privateBestsellerShop_easter1": "Специальная пасхальная акция",
+    "dialog_privateBestsellerShop_easter2": "Лучшее пасхальное предложение"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% скорость передвижения армии при завоеваниях",
@@ -13103,9 +13114,17 @@
     "effect_name_woodProductionBoostMain": "Бонус к производству дерева в Великом замке",
     "effect_name_woodProductionBoost": "Бонус к производству древесины в замке",
     "effect_name_foodProductionBoostBaronEconomy": "Бонус к производству продовольствия в замке",
-    "effect_name_AttackBoostYardDecoCapped": "Бонус к боевой мощи при нападении на внутренний двор (предел)",
+    "equip_effect_description_AttackBoostYardDecoCapped": "+{0}% боевая мощь при нападении во внутренний двор (предел)",
+    "equip_effect_description_offensiveMeleeBonusDecoCapped": "+{0}% к силе атаки ближнего боя (максимум)",
+    "equip_effect_description_offensiveRangeBonusDecoCapped": "+{0}% к силе атаки стрелков (предел)",
+    "effect_name_recruitmentCostDecreaseAllCapped": "Снижение стоимости найма монет (с ограничением)",
+    "effect_name_recruitmentSpeedBoostAllCapped": "Бонус к скорости найма (с макс. лимитом)",
+    "effect_name_toolProductionSpeedBoostAllCapped": "Бонус к скорости производства орудий (с ограничением)",
+    "effects_ltpe_tci_dragonriderSiegeWorkshop": "Placeholder text for the TCI: dragonriderSiegeWorkshop",
+    "effects_ltpe_tci_octoberfestMarket": "Placeholder text for the TCI: octoberfestMarket",
     "effect_name_offensiveMeleeBonusDecoCapped": "Бонус к силе атаки ближнего боя (с ограничением)",
-    "effect_name_offensiveRangeBonusDecoCapped": "Бонусная сила атаки дальнего боя (ограничена)"
+    "effect_name_offensiveRangeBonusDecoCapped": "Бонус к силе атаки стрелков (с ограничением)",
+    "effect_name_AttackBoostYardDecoCapped": "Бонус к боевой мощи при нападении на внутренний двор (предел)"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Герой",

@@ -1912,7 +1912,15 @@
     "deco_DonationEventDecorationNight2_name": "영원한 제국의 기념비",
     "deco_DonationEventDecorationNight3_name": "영원한 제국의 기념비",
     "deco_DonationEventDecorationNight4_name": "영원한 제국의 기념비",
-    "deco_DonationEventDecorationNight5_name": "영원한 제국의 기념비"
+    "deco_DonationEventDecorationNight5_name": "영원한 제국의 기념비",
+    "deco_easterdecowitheffect_name": "부활절 탑",
+    "deco_StPatrickGoldCave_withEffects_name": "고귀한 황금 레프리콘 더미",
+    "deco_shamrockTavern_withEffects_name": "샴록 펍",
+    "ci_appearance_dragonriderSiegeWorkshop": "겨울 공성병기 제작소",
+    "ci_appearance_dragonriderSiegeWorkshop_flavor": "신속하고 강력한 통합체! 이것이 최고의 드래곤 기병 갑옷을 만들어야 하는 방법입니다.",
+    "ci_appearance_octoberfestMarket": "옥토버페스트 시장",
+    "ci_appearance_octoberfestMarket_flavor": "전통 의상 사이로 맥주와 칭찬을 교환하자!",
+    "deco_EasterSales_BunchOfEggs": "계란 묶음"
   },
   "dialogs": {
     "dialog_festival_desc": "식량으로 잔치를 열어 백성들을 배불리 먹이십시오! 잔치가 계속되는 동안 모든 성의 모집 속도가 눈에 띄게 증가합니다. 더 큰 잔치를 벌일수록 효과도 더 증가합니다.",
@@ -2523,7 +2531,7 @@
     "dialog_resourcesBoost_extendOverseer": "감독 시간 증가",
     "dialog_resourcesBoost_hireOverseer": "감독관 고용",
     "dialog_resourcesBoost_title": "감독관 고용",
-    "dialog_resourceWait_description": "자원이 부족합니다. 다른 성에서 자원을 약탈하거나 다른 왕국에서 자원을 수입 또는 일꾼들이 필요한 만큼 자원을 생산할 때까지 기다리십시오:",
+    "dialog_resourceWait_description": "자원이나 통화가 부족합니다! 성을 습격하거나 이벤트에 참가하거나 다른 왕국에서 수입하거나 일꾼이 더 생산할 때까지 기다리십시오.",
     "dialog_resourceWait_timeTillAvalible": "자원을 사용할 수 있게 될 때까지의 시간",
     "dialog_resourceWait_youNeed": "모자란 자원:",
     "dialog_ressourcexchangerEvent_speechBubble": "남는 자원이 있으신가요? 저와 공정한 가격에 물물교환하실래요? \n생각이 있으시면 서두르세요. 저는 여기에 오래 머물지 않습니다.",
@@ -11953,7 +11961,7 @@
     "webshop_TCI_foodProductionGeneric_desc": "일시적 행사 아이템입니다. {1}일 간의 기간 동안 성의 시간당 식량 생산을 +{0}만큼 증가시킵니다.",
     "webshop_ciTemporary_desc_30117": "전설의 임시 건설 아이템입니다. 28일 동안 성 하나에서 시간당 식량 생산량을 15,000 증가시킵니다.",
     "webshop_offer_dailyBundle_oktoberfest_desc": "옥토버페스트 스페셜 + {0}% 더 높은 보너스!",
-    "webshop_decoWithEffects_foodProductionGeneric_desc": "성 내의 치안이 {0} 증가합니다.\n불타는 봉우리 성의 식량 생산량이 {1}% 증가합니다.\n지역 당 최대 {2}개.",
+    "webshop_decoWithEffects_foodProductionGeneric_desc": "성 내부의 치안이 +{0} 증가합니다.\n식량 생산이 {1}% 증가합니다.\n지역 당 최대 건물 수: {2}",
     "dialog_startDonationEvent_subtitle3": "제국 후원 특권",
     "dialog_startDonationEvent_title": "제국 후원 시작",
     "dialog_tenthAnniversary_timer": "이벤트 시간 {0}",
@@ -12004,7 +12012,10 @@
     "dialog_startDonationEvent_desc3": "황제께서 여러분의 원자재를 가공하도록 건축가에게 황실 후원 헌장을 부여하셨습니다.\n이벤트가 끝나면 모든 &lt;b&gt;황실 후원 헌장이 초기화됩니다!&lt;/b&gt;",
     "dialog_startDonationEvent_join": "- 제국 후원 이벤트에 참여할 기회를 잡으세요! -",
     "dialog_startDonationEvent_subtitle1": "건축가의 이동 마차",
-    "dialog_startDonationEvent_subtitle2": "보상 향상"
+    "dialog_startDonationEvent_subtitle2": "보상 향상",
+    "dialog_specialOffer_copy4": "예를 들어, 루비를 50k개 구매하면 {0}을(를) 받습니다!",
+    "dialog_privateBestsellerShop_easter1": "특별 부활절 상자",
+    "dialog_privateBestsellerShop_easter2": "최고의 부활절 상자"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "정복 중 군대 이동 속도 +{0}%",
@@ -13103,9 +13114,17 @@
     "effect_name_woodProductionBoostMain": "대대제국 성에서의 목재 생산 보너스",
     "effect_name_woodProductionBoost": "성의 목재 생산 보너스",
     "effect_name_foodProductionBoostBaronEconomy": "성의 식량 생산 보너스",
-    "effect_name_AttackBoostYardDecoCapped": "안뜰 공격 전투력 보너스 (최대치)",
+    "equip_effect_description_AttackBoostYardDecoCapped": "+{0}% (최대치) 안뜰 공격 전투력",
+    "equip_effect_description_offensiveMeleeBonusDecoCapped": "+{0}% 근접 공격 유닛 공격력 (최대치)",
+    "equip_effect_description_offensiveRangeBonusDecoCapped": "+{0}% 원거리 공격 유닛 공격력 (최대치)",
+    "effect_name_recruitmentCostDecreaseAllCapped": "모병 비용 감소(최대치)",
+    "effect_name_recruitmentSpeedBoostAllCapped": "모집 속도 보너스 (최대치)",
+    "effect_name_toolProductionSpeedBoostAllCapped": "도구 생산 속도 보너스 (상한)",
+    "effects_ltpe_tci_dragonriderSiegeWorkshop": "Placeholder text for the TCI: dragonriderSiegeWorkshop",
+    "effects_ltpe_tci_octoberfestMarket": "Placeholder text for the TCI: octoberfestMarket",
     "effect_name_offensiveMeleeBonusDecoCapped": "근접 공격 유닛 공격력 보너스 (최대치)",
-    "effect_name_offensiveRangeBonusDecoCapped": "보너스 원거리 공격 유닛 공격력 (최대)"
+    "effect_name_offensiveRangeBonusDecoCapped": "원거리 부대 공격력 보너스 (한계치)",
+    "effect_name_AttackBoostYardDecoCapped": "안뜰 공격 전투력 보너스 (최대치)"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "영웅",

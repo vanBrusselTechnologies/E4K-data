@@ -1912,7 +1912,15 @@
     "deco_DonationEventDecorationNight2_name": "Evighedsrigets monument",
     "deco_DonationEventDecorationNight3_name": "Evighedsrigets monument",
     "deco_DonationEventDecorationNight4_name": "Evighedsrigets monument",
-    "deco_DonationEventDecorationNight5_name": "Evighedsrigets monument"
+    "deco_DonationEventDecorationNight5_name": "Evighedsrigets monument",
+    "deco_easterdecowitheffect_name": "Forhøjet forårstårn",
+    "deco_StPatrickGoldCave_withEffects_name": "Alfernes guldskat",
+    "deco_shamrockTavern_withEffects_name": "Hævet trekløverbar",
+    "ci_appearance_dragonriderSiegeWorkshop": "Drageridderbelejringsværksted",
+    "ci_appearance_dragonriderSiegeWorkshop_flavor": "Hurtig og stærk i ét! Sådan skal den bedste dragerytterrüstning smedes.",
+    "ci_appearance_octoberfestMarket": "Oktoberfest-markedet",
+    "ci_appearance_octoberfestMarket_flavor": "Bytte øl og iklædt vores traditionelle skikke!",
+    "deco_EasterSales_BunchOfEggs": "Bunke af æg"
   },
   "dialogs": {
     "dialog_festival_desc": "Brug mad til at holde en fest for dine borgere! Rekrutteringshastigheden vil forøges på i jeres borge, så længe festen varer. Jo større festen er, jo større er effekten.",
@@ -2523,7 +2531,7 @@
     "dialog_resourcesBoost_extendOverseer": "Forøg opsynstid",
     "dialog_resourcesBoost_hireOverseer": "Hyr forvalter",
     "dialog_resourcesBoost_title": "Hyr forvalter",
-    "dialog_resourceWait_description": "Du har ikke nok ressourcer. Plyndr ressourcer fra andre borge, importér ressourcer fra andre kongeriger, eller vent til dine arbejdere har produceret nok ressourcer.",
+    "dialog_resourceWait_description": "Du har ikke nok ressourcer eller valuta! Plynd borge, deltag i begivenheder, importer fra andre kongeriger, eller vent på, at dine arbejdere producerer mere.",
     "dialog_resourceWait_timeTillAvalible": "Tid til ressourcer er færdige",
     "dialog_resourceWait_youNeed": "I mangler:",
     "dialog_ressourcexchangerEvent_speechBubble": "Har I nogle varer i overskud? I kan bytte jeres ressourcer med mig til en rimelig takst!\nTøv ikke for længe, mit tilbud gælder kun i kort tid.",
@@ -11953,7 +11961,7 @@
     "webshop_TCI_foodProductionGeneric_desc": "Midlertidigt byggeartikel. Giver +{0} madproduktion i timen i en borg i {1} dage.",
     "webshop_ciTemporary_desc_30117": "Legendarisk midlertidigt byggeartikel. Giver +15.000 mad om timen i en borg i 28 dage.",
     "webshop_offer_dailyBundle_oktoberfest_desc": "Oktoberfest-special + {0} % højere bonus!",
-    "webshop_decoWithEffects_foodProductionGeneric_desc": "Forøger den offentlige orden i din borg med {0},\n+{1}% bonus på madproduktion\nMaks. {2} pr. område.",
+    "webshop_decoWithEffects_foodProductionGeneric_desc": "Forøger den offentlige orden i din borg med {0},\n +{1}% bonus på madproduktion\n Maks. {2} pr. område.",
     "dialog_startDonationEvent_subtitle3": "Imperial protektoratspagt",
     "dialog_startDonationEvent_title": "Kejserliges Beskyttelsesstart",
     "dialog_tenthAnniversary_timer": "Begivenhedstid {0}",
@@ -12004,7 +12012,10 @@
     "dialog_startDonationEvent_desc3": "Kejseren har indført en kejserlig protektoratspagt, som giver arkitekten til opgave at forarbejde de materialer, du har i overflod.\nNår begivenheden er slut, &lt;b&gt;nulstilles alle kejserlige protektoratspagter!&lt;/b&gt;",
     "dialog_startDonationEvent_join": "- Grib chancen og deltag i begivenheden &quot;Kejserlig beskyttelse&quot;! -",
     "dialog_startDonationEvent_subtitle1": "Arkitektens planer",
-    "dialog_startDonationEvent_subtitle2": "Øg belønning"
+    "dialog_startDonationEvent_subtitle2": "Øg belønning",
+    "dialog_specialOffer_copy4": "Køb f.eks. 50k rubiner, og få {0}!",
+    "dialog_privateBestsellerShop_easter1": "Specielt påsketilbud",
+    "dialog_privateBestsellerShop_easter2": "Fremragende påske-tilbud"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0} % hærens rejsehastighed under erobringer",
@@ -13103,9 +13114,17 @@
     "effect_name_woodProductionBoostMain": "Bonus til træproduktion i Storrigets slot",
     "effect_name_woodProductionBoost": "Bonus på træproduktion i borg",
     "effect_name_foodProductionBoostBaronEconomy": "Bonus for madproduktion i borg",
-    "effect_name_AttackBoostYardDecoCapped": "Bonus på kampkræfter ved angreb på borggård (maksimum)",
+    "equip_effect_description_AttackBoostYardDecoCapped": "+{0} % kampkræfter i angreb på borggård (maks.)",
+    "equip_effect_description_offensiveMeleeBonusDecoCapped": "+{0} % nærkampsenheder angrebsstyrke (maksimum)",
+    "equip_effect_description_offensiveRangeBonusDecoCapped": "+{0} % på distancenheders angrebsstyrke (maksimum)",
+    "effect_name_recruitmentCostDecreaseAllCapped": "Nedsættelse af udgifter til rekrutteringsmønter (maksbeløbet)",
+    "effect_name_recruitmentSpeedBoostAllCapped": "Bonus til rekrutteringshastighed (maksimeret)",
+    "effect_name_toolProductionSpeedBoostAllCapped": "Bonus på værktøjsproduktion (takket)",
+    "effects_ltpe_tci_dragonriderSiegeWorkshop": "Placeholder text for the TCI: dragonriderSiegeWorkshop",
+    "effects_ltpe_tci_octoberfestMarket": "Placeholder text for the TCI: octoberfestMarket",
     "effect_name_offensiveMeleeBonusDecoCapped": "Bonus på nærkampsenheder (maksimal styrke)",
-    "effect_name_offensiveRangeBonusDecoCapped": "Ekstra angrebsstyrke for afstandsangribere (maksimum)"
+    "effect_name_offensiveRangeBonusDecoCapped": "Bonus til angrebsstyrken for bevæbnede enheder (maksimeret)",
+    "effect_name_AttackBoostYardDecoCapped": "Bonus på kampkræfter ved angreb på borggård (maksimum)"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Helt",

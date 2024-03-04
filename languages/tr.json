@@ -1912,7 +1912,15 @@
     "deco_DonationEventDecorationNight2_name": "İmparatorluk Alacakaranlık Anıtı",
     "deco_DonationEventDecorationNight3_name": "İmparatorluk Alacakaranlık Anıtı",
     "deco_DonationEventDecorationNight4_name": "İmparatorluk Alacakaranlık Anıtı",
-    "deco_DonationEventDecorationNight5_name": "İmparatorluk Alacakaranlık Anıtı"
+    "deco_DonationEventDecorationNight5_name": "İmparatorluk Alacakaranlık Anıtı",
+    "deco_easterdecowitheffect_name": "Yüceltilmiş Bahar kulesi",
+    "deco_StPatrickGoldCave_withEffects_name": "Yüceltilmiş Leprikon altın yığını",
+    "deco_shamrockTavern_withEffects_name": "Yüceltilmiş Yonca Barı",
+    "ci_appearance_dragonriderSiegeWorkshop": "Ejderha süvarisi kuşatma atölyesi",
+    "ci_appearance_dragonriderSiegeWorkshop_flavor": "Hızlı ve güçlü bir arada! Dragonriderın en iyi zırhı işte böyle dövülmeli.",
+    "ci_appearance_octoberfestMarket": "Ekimfest pazarı",
+    "ci_appearance_octoberfestMarket_flavor": "Geleneksel kıyafetler arasında bira ve iltifat takas edelim!",
+    "deco_EasterSales_BunchOfEggs": "Yumurta Sepeti"
   },
   "dialogs": {
     "dialog_festival_desc": "Yurttaşlarınıza bir şenlik düzenlemek için yiyecek kullanın!\nŞenlik devam ettiği sürece askere alma hızı tüm kalelerinizde belirgin şekilde artacak. Şenlik ne kadar büyük olursa, etkisi de o kadar büyük olur.",
@@ -2523,7 +2531,7 @@
     "dialog_resourcesBoost_extendOverseer": "Denetim süresini artır",
     "dialog_resourcesBoost_hireOverseer": "Kahya kirala",
     "dialog_resourcesBoost_title": "Kahya kirala",
-    "dialog_resourceWait_description": "Yeterli hammadden yok! Diğer kaleleri yağmala, diğer krallıklardan hammadde al ya da işçilerin yeterince üretim yapana kadar bekle.",
+    "dialog_resourceWait_description": "Yeterli ham maddene ya da paran yok! Kaleleri yağmala, etkinliklere katıl, diğer krallıklardan ithalat yap ya da işçilerin daha fazla üretsin.",
     "dialog_resourceWait_timeTillAvalible": "Ham maddeler kullanılabilir oluncaya kadarki süre",
     "dialog_resourceWait_youNeed": "Eksiklerin:",
     "dialog_ressourcexchangerEvent_speechBubble": "Mal fazlanız mı var? Bende her türden ham maddeyi adil bir kurdan takas edebilirsiniz!\nAma fazla oyalanmayın, çünkü teklifim yalnızca kısa bir süre için geçerli.",
@@ -11953,7 +11961,7 @@
     "webshop_TCI_foodProductionGeneric_desc": "Geçici yapı öğesi. Bir kalede {1} gün boyunca saatte +{0} yiyecek üretimi sağlar.",
     "webshop_ciTemporary_desc_30117": "Efsanevi geçici inşa öğesi. 28 günlük süre boyunca bir kalede saatte +15000 yiyecek üretimi sağlar.",
     "webshop_offer_dailyBundle_oktoberfest_desc": "Oktoberfest özel +%{0} daha fazla bonus!",
-    "webshop_decoWithEffects_foodProductionGeneric_desc": "Kalenin içindeki kamu düzenini %{0} artırır,\nAteş Zirveleri kalenden %{1} daha fazla yiyecek üretimi bonusu alırsın,\nBölge başına maksimum {2}.",
+    "webshop_decoWithEffects_foodProductionGeneric_desc": "Kalenin içindeki kamu düzenini +{0} artırır,\n+%{1} yiyecek üretimi bonusu.\nBölge başına maksimum {2}.",
     "dialog_startDonationEvent_subtitle3": "İmparatorluk Hamisi Şartnamesi",
     "dialog_startDonationEvent_title": "İmparatorluk Hamisi Başlangıç",
     "dialog_tenthAnniversary_timer": "Etkinlik Süresi {0}",
@@ -12004,7 +12012,10 @@
     "dialog_startDonationEvent_desc3": "İmparatorluk Kıtaı tanıtıldı, mimara fazlasıyla sahip olduğunuz malzemeleri işlemesi görevi verildi.\nEtkinliğin sonunda tüm &lt;b&gt;İmparatorluk Kıtaları sıfırlanacaktır!&lt;/b&gt;",
     "dialog_startDonationEvent_join": "- Fırsatı kaçırma ve İmparatorluk Himayesi Etkinliğine katıl! -",
     "dialog_startDonationEvent_subtitle1": "Mimarın planları",
-    "dialog_startDonationEvent_subtitle2": "Ödülü artır"
+    "dialog_startDonationEvent_subtitle2": "Ödülü artır",
+    "dialog_specialOffer_copy4": "Örneğin, 50k yakut satın al ve {0} kazan!",
+    "dialog_privateBestsellerShop_easter1": "Özel Paskalya Fırsatı",
+    "dialog_privateBestsellerShop_easter2": "Üstün Paskalya Fırsatı"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+%{0} - Fetihlerde ordu yolculuk hızı",
@@ -13103,9 +13114,17 @@
     "effect_name_woodProductionBoostMain": "Büyük Birleşik Krallık kalesindeki odun üretimine verilen bonus",
     "effect_name_woodProductionBoost": "Kaledeki odun üretim bonusu",
     "effect_name_foodProductionBoostBaronEconomy": "Kalede yiyecek üretimine bonus",
-    "effect_name_AttackBoostYardDecoCapped": "Avlu saldırı savaş gücü bonusu (sınırlandırıldı)",
+    "equip_effect_description_AttackBoostYardDecoCapped": "+%{0} avlu saldırı savaş gücü (sınırlandırıldı)",
+    "equip_effect_description_offensiveMeleeBonusDecoCapped": "+%{0} saldırı gücü (sınırlı)",
+    "equip_effect_description_offensiveRangeBonusDecoCapped": "+%{0} menzilli birlik saldırı gücü (sınırlandırıldı)",
+    "effect_name_recruitmentCostDecreaseAllCapped": "Askeri para maliyetinde azalma (sınırlandırıldı)",
+    "effect_name_recruitmentSpeedBoostAllCapped": "Asker toplama hızı bonusu (sınırlandırılmış)",
+    "effect_name_toolProductionSpeedBoostAllCapped": "Alet üretim hızı bonusu (sınırlandırılmış)",
+    "effects_ltpe_tci_dragonriderSiegeWorkshop": "Placeholder text for the TCI: dragonriderSiegeWorkshop",
+    "effects_ltpe_tci_octoberfestMarket": "Placeholder text for the TCI: octoberfestMarket",
     "effect_name_offensiveMeleeBonusDecoCapped": "Yakın dövüş birliklerinin saldırı gücü bonusu (sınırlı)",
-    "effect_name_offensiveRangeBonusDecoCapped": "Bonus menzilli birlik saldırı gücü (sınırlandırıldı)"
+    "effect_name_offensiveRangeBonusDecoCapped": "Menzilli birliklerin saldırı gücüne (sınırlı) bonus",
+    "effect_name_AttackBoostYardDecoCapped": "Avlu saldırı savaş gücü bonusu (sınırlandırıldı)"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Kahraman",

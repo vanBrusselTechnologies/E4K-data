@@ -1007,6 +1007,15 @@
       "eventType": "MobileBrowserShopTempserverSpecial",
       "minLevel": 11,
       "maxLevel": 99
+    },
+    {
+      "eventID": 123,
+      "comment1": "Donation Event",
+      "comment2": "Donation Event",
+      "eventType": "DonationEvent",
+      "hubType": "Adventure",
+      "minLevel": 11,
+      "maxLevel": 99
     }
   ]
 }

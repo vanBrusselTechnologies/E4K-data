@@ -1912,7 +1912,15 @@
     "deco_DonationEventDecorationNight2_name": "永恒黄昏纪念碑",
     "deco_DonationEventDecorationNight3_name": "永恒黄昏纪念碑",
     "deco_DonationEventDecorationNight4_name": "永恒黄昏纪念碑",
-    "deco_DonationEventDecorationNight5_name": "永恒黄昏纪念碑"
+    "deco_DonationEventDecorationNight5_name": "永恒黄昏纪念碑",
+    "deco_easterdecowitheffect_name": "尊贵春季塔楼",
+    "deco_StPatrickGoldCave_withEffects_name": "小妖精的金窟",
+    "deco_shamrockTavern_withEffects_name": "高尚的三叶草酒吧",
+    "ci_appearance_dragonriderSiegeWorkshop": "冬季攻城器械工厂",
+    "ci_appearance_dragonriderSiegeWorkshop_flavor": "迅捷和强大的完美结合！这才是最佳龙骑兵盔甲的锻造要求。",
+    "ci_appearance_octoberfestMarket": "十月啤酒节市集",
+    "ci_appearance_octoberfestMarket_flavor": "让我们在传统服装间交换啤酒和称赞吧！",
+    "deco_EasterSales_BunchOfEggs": "复活节彩蛋包"
   },
   "dialogs": {
     "dialog_festival_desc": "用食物请您的市民大餐一顿吧！宴会持续期间，您所有城堡的招募速度会大大提高。宴会越丰盛，效果越好。",
@@ -2523,7 +2531,7 @@
     "dialog_resourcesBoost_extendOverseer": "提高监工时间",
     "dialog_resourcesBoost_hireOverseer": "雇用监工",
     "dialog_resourcesBoost_title": "雇用监工",
-    "dialog_resourceWait_description": "资源不足。您可以从别的城堡掠夺、从其他王国进口或者等着您的工人生产出足够的资源。",
+    "dialog_resourceWait_description": "您的资源或货币不足！去掠夺城堡，参加活动，从其他王国进口，或者等待工人生产更多。",
     "dialog_resourceWait_timeTillAvalible": "要等到有资源可用还需：",
     "dialog_resourceWait_youNeed": "您缺少：",
     "dialog_ressourcexchangerEvent_speechBubble": "你有多余的商品吗？你可以和我互换资源，价格绝对公道！\n别犹豫不决，我可不会等你太久。",
@@ -11953,7 +11961,7 @@
     "webshop_TCI_foodProductionGeneric_desc": "临时建造物品。在一座城堡中，持续{1}天，每小时提供+{0}食物产量。",
     "webshop_ciTemporary_desc_30117": "传奇临时建造物品。在一座城堡中持续 28 天，每小时可提供 +15000 的食物产量。",
     "webshop_offer_dailyBundle_oktoberfest_desc": "慕尼黑啤酒节特别活动 + {0}% 更高的奖励！",
-    "webshop_decoWithEffects_foodProductionGeneric_desc": "提升您城堡内的公共秩序+{0}，\n火焰峰堡垒的粮食产量额外增加+{1}%，\n每个区域最多可建{2}个。",
+    "webshop_decoWithEffects_foodProductionGeneric_desc": "提高城堡内的社会秩序 +{0}，\n+{1}% 食物生产额外加成。\n每个区域最多{2}个。",
     "dialog_startDonationEvent_subtitle3": "皇家赞助宪章",
     "dialog_startDonationEvent_title": "皇家赞助开始",
     "dialog_tenthAnniversary_timer": "活动时间 {0}",
@@ -12004,7 +12012,10 @@
     "dialog_startDonationEvent_desc3": "皇帝颁布了皇家赞助宪章，要求建筑师处理您大量拥有的材料。\n活动结束时，所有&lt;b&gt;皇家赞助宪章都将被重置！&lt;/b&gt;",
     "dialog_startDonationEvent_join": "- 请抓住机会参与帝国宠臣活动！ -",
     "dialog_startDonationEvent_subtitle1": "建筑师亭台",
-    "dialog_startDonationEvent_subtitle2": "奖励提升"
+    "dialog_startDonationEvent_subtitle2": "奖励提升",
+    "dialog_specialOffer_copy4": "例如，购买5万颗红宝石，您将获得{0}！",
+    "dialog_privateBestsellerShop_easter1": "特别复活节促销",
+    "dialog_privateBestsellerShop_easter2": "至高复活节宝箱"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% 征服期间的军队行军速度",
@@ -13103,9 +13114,17 @@
     "effect_name_woodProductionBoostMain": "大帝国城堡中的木材产量奖励",
     "effect_name_woodProductionBoost": "城堡中的木材产量加成",
     "effect_name_foodProductionBoostBaronEconomy": "用于提高城堡内的食物产量",
-    "effect_name_AttackBoostYardDecoCapped": "内城攻击战斗力加成（上限）",
+    "equip_effect_description_AttackBoostYardDecoCapped": "+{0}% 内城进攻战斗力（上限）",
+    "equip_effect_description_offensiveMeleeBonusDecoCapped": "+{0}% 近战兵种攻击力（上限）",
+    "equip_effect_description_offensiveRangeBonusDecoCapped": "+{0}% 远程兵种攻击力（上限）",
+    "effect_name_recruitmentCostDecreaseAllCapped": "降低招募金币花费（上限）",
+    "effect_name_recruitmentSpeedBoostAllCapped": "招募速度提升（上限）",
+    "effect_name_toolProductionSpeedBoostAllCapped": "工具生产速度加成（上限）",
+    "effects_ltpe_tci_dragonriderSiegeWorkshop": "Placeholder text for the TCI: dragonriderSiegeWorkshop",
+    "effects_ltpe_tci_octoberfestMarket": "Placeholder text for the TCI: octoberfestMarket",
     "effect_name_offensiveMeleeBonusDecoCapped": "近战兵种攻击力加成（上限）",
-    "effect_name_offensiveRangeBonusDecoCapped": "远程兵种攻击力加成（上限）"
+    "effect_name_offensiveRangeBonusDecoCapped": "远程兵种的攻击力加成（封顶）",
+    "effect_name_AttackBoostYardDecoCapped": "内城攻击战斗力加成（上限）"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "英雄",

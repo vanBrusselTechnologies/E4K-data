@@ -1912,7 +1912,15 @@
     "deco_DonationEventDecorationNight2_name": "Μνημείο αυτοκρατορικού ερεβώδους",
     "deco_DonationEventDecorationNight3_name": "Μνημείο αυτοκρατορικού ερεβώδους",
     "deco_DonationEventDecorationNight4_name": "Μνημείο αυτοκρατορικού ερεβώδους",
-    "deco_DonationEventDecorationNight5_name": "Μνημείο αυτοκρατορικού ερεβώδους"
+    "deco_DonationEventDecorationNight5_name": "Μνημείο αυτοκρατορικού ερεβώδους",
+    "deco_easterdecowitheffect_name": "Ανυψωμένος πύργος Άνοιξης",
+    "deco_StPatrickGoldCave_withEffects_name": "Στοίβα χρυσού του ένδοξου χαμούλη",
+    "deco_shamrockTavern_withEffects_name": "Ανώτερη Παμπ &quot;Το τριφύλλι&quot;",
+    "ci_appearance_dragonriderSiegeWorkshop": "Εργαστήριο πολιορκίας ιππέων δράκων",
+    "ci_appearance_dragonriderSiegeWorkshop_flavor": "Γρήγορος και ισχυρός σε ένα! Αυτή είναι η καλύτερη πανοπλία ιππότη Δράκου που πρέπει να κατασκευαστεί.",
+    "ci_appearance_octoberfestMarket": "Αγορά Οκτόμπερφεστ",
+    "ci_appearance_octoberfestMarket_flavor": "Ανταλλάσουμε μπύρες και κολακείες παρέα με παραδοσιακές ενδυμασίες!",
+    "deco_EasterSales_BunchOfEggs": "Ματσάκι αυγών"
   },
   "dialogs": {
     "dialog_festival_desc": "Χρησιμοποιήστε τρόφιμα, για να διοργανώσετε μία γιορτή για τους πολίτες σας!\nΌσο διαρκεί η γιορτή, η ταχύτητα στρατολόγησης σ όλα τα κάστρα σας θ αυξηθεί. Όσο μεγαλύτερη είναι η γιορτή, τόσο μεγαλύτερη είναι και η επίδραση.",
@@ -2523,7 +2531,7 @@
     "dialog_resourcesBoost_extendOverseer": "Αύξηση χρόνου επίβλεψης",
     "dialog_resourcesBoost_hireOverseer": "Πρόσλαβε επιτηρητή",
     "dialog_resourcesBoost_title": "Πρόσλαβε επιτηρητή",
-    "dialog_resourceWait_description": "Έχεις πολύ λίγους πόρους! Λεηλάτησε άλλα κάστρα, κάνε εισαγωγή πόρων από άλλα βασίλεια ή περίμενε μέχρι οι εργάτες σου να έχουν παραγάγει αρκετούς.",
+    "dialog_resourceWait_description": "Δεν έχεις αρκετούς πόρους ή νομίσματα! Κάνε επιδρομή σε κάστρα, συμμετέχε σε δρώμενα, εισάγετε από άλλα βασίλεια ή περίμενε να παράγουν οι εργάτες σου περισσότερα.",
     "dialog_resourceWait_timeTillAvalible": "Χρόνος μέχρι να είναι διαθέσιμοι οι πόροι",
     "dialog_resourceWait_youNeed": "Σας λείπουν:",
     "dialog_ressourcexchangerEvent_speechBubble": "Έχετε περίσσιο εμπόρευμα; Σε μένα μπορείτε να ανταλλάξετε πόρους όλων των λογιών σε μία λογική τιμή!\nΑλλά μη διστάσετε και πολύ, γιατί η προσφορά μου ισχύει μόνο για λίγο.",
@@ -11953,7 +11961,7 @@
     "webshop_TCI_foodProductionGeneric_desc": "Προσωρινό αντικείμενο κατασκευής. Παρέχει +{0} παραγωγή τροφίμων ανά ώρα σε ένα κάστρο για διάρκεια {1} ημερών.",
     "webshop_ciTemporary_desc_30117": "Θρυλικό προσωρινό αντικείμενο ενίσχυσης. Χαρίζει +15000 παραγωγή τροφής ανά ώρα σε ένα κάστρο για 28 ημέρες.",
     "webshop_offer_dailyBundle_oktoberfest_desc": "Ειδική προσφορά Oktoberfest + {0}% αυξημένο μπόνους!",
-    "webshop_decoWithEffects_foodProductionGeneric_desc": "Αυξάνει τη δημόσια τάξη μέσα στο κάστρο σου +{0},\n+{1}% μπόνους στην παραγωγή τροφής\nΜέγιστο {2} ανά περιοχή.",
+    "webshop_decoWithEffects_foodProductionGeneric_desc": "Αυξάνει τη δημόσια τάξη μέσα στο κάστρο σου +{0},\n +{1}% μπόνους στην παραγωγή τροφής\n Μέγιστο {2} ανά περιοχή.",
     "dialog_startDonationEvent_subtitle3": "Χάρτης αυτοκρατορικής προστασίας",
     "dialog_startDonationEvent_title": "Έναρξη Αγώνα των ευγενών",
     "dialog_tenthAnniversary_timer": "Χρόνος γεγονότος {0}",
@@ -12004,7 +12012,10 @@
     "dialog_startDonationEvent_desc3": "Ο Αυτοκράτορας εισήγαγε το Αυτοκρατορικό Χάρτη Προστασίας, δίνοντας στον αρχιτέκτονα την εντολή να επεξεργαστεί τα υλικά που έχετε σε πλεόνασμα.\nΣτο τέλος της εκδήλωσης, όλοι οι &lt;b&gt;Αυτοκρατορικοί Χάρτες Προστασίας θα επαναφέρονται!&lt;/b&gt;",
     "dialog_startDonationEvent_join": "- Αρπάξτε την ευκαιρία και συμμετάσχετε στην Εκδήλωση αυτοκρατορικής προστασίας! -",
     "dialog_startDonationEvent_subtitle1": "Τα σχέδια του αρχιτέκτονα",
-    "dialog_startDonationEvent_subtitle2": "Αύξηση ανταμοιβής"
+    "dialog_startDonationEvent_subtitle2": "Αύξηση ανταμοιβής",
+    "dialog_specialOffer_copy4": "Για παράδειγμα, αγόρασε 50k ρουμπίνια και θα λάβεις {0}!",
+    "dialog_privateBestsellerShop_easter1": "Ειδική προσφορά Πάσχα",
+    "dialog_privateBestsellerShop_easter2": "Ανώτατη προσφορά Πάσχα"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% ταχύτητα ταξιδιού στρατού κατά τη διάρκεια κατακτήσεων",
@@ -13103,9 +13114,17 @@
     "effect_name_woodProductionBoostMain": "Μπόνους παραγωγής ξύλου σε κάστρο Μεγάλης Αυτοκρατορίας",
     "effect_name_woodProductionBoost": "Μπόνους στην παραγωγή ξύλου στο κάστρο",
     "effect_name_foodProductionBoostBaronEconomy": "Μπόνους στην παραγωγή τροφίμων στο κάστρο",
-    "effect_name_AttackBoostYardDecoCapped": "Μπόνους δύναμης μάχης επίθεσης στην αυλή (περιορισμένο)",
+    "equip_effect_description_AttackBoostYardDecoCapped": "+{0}% δύναμη μάχης εξωτερικού χώρου (περιορισμένη)",
+    "equip_effect_description_offensiveMeleeBonusDecoCapped": "+{0}% ισχύς επίθεσης μονάδων κοντινής απόστασης (με όριο)",
+    "equip_effect_description_offensiveRangeBonusDecoCapped": "+{0}% ισχύς επίθεσης μονάδων εμβέλειας (περιορισμένο)",
+    "effect_name_recruitmentCostDecreaseAllCapped": "Μείωση των εξόδων στρατολόγησης (με ανώτατο όριο)",
+    "effect_name_recruitmentSpeedBoostAllCapped": "Μπόνους ταχύτητας στρατολόγησης (περιορισμένο)",
+    "effect_name_toolProductionSpeedBoostAllCapped": "Μπόνους ταχύτητας παραγωγής εργαλείων (με μέγιστο όριο)",
+    "effects_ltpe_tci_dragonriderSiegeWorkshop": "Placeholder text for the TCI: dragonriderSiegeWorkshop",
+    "effects_ltpe_tci_octoberfestMarket": "Placeholder text for the TCI: octoberfestMarket",
     "effect_name_offensiveMeleeBonusDecoCapped": "Μπόνους στην ισχύ επίθεσης μονάδων κοντινής απόστασης (με όριο)",
-    "effect_name_offensiveRangeBonusDecoCapped": "Μπόνους ισχύς επίθεσης μονάδων εμβέλειας (περιορισμένο)"
+    "effect_name_offensiveRangeBonusDecoCapped": "Μπόνους σε μονάδες εμβέλειας για ενισχυμένη δύναμη επίθεσης (με όριο)",
+    "effect_name_AttackBoostYardDecoCapped": "Μπόνους δύναμης μάχης επίθεσης στην αυλή (περιορισμένο)"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Ήρωας",
