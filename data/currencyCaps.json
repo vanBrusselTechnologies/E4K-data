@@ -67,6 +67,12 @@
       "crossplayID": 15,
       "softCap": 99999,
       "hardCap": 125000
+    },
+    {
+      "currencyID": 64,
+      "crossplayID": 64,
+      "softCap": 2000,
+      "hardCap": 5000
     }
   ]
 }

@@ -981,6 +981,83 @@
       "assetName": "ImperialPatronageCharter"
     },
     {
+      "currencyID": 62,
+      "crossplayID": 62,
+      "Name": "Plaster",
+      "JSONKey": "PL",
+      "assetName": "Plaster"
+    },
+    {
+      "currencyID": 63,
+      "crossplayID": 63,
+      "Name": "DragonScaleTile",
+      "JSONKey": "DST",
+      "assetName": "DragonScaleTile"
+    },
+    {
+      "currencyID": 64,
+      "crossplayID": 64,
+      "Name": "ImperialDucat",
+      "JSONKey": "IDCT",
+      "assetName": "ImperialDucat"
+    },
+    {
+      "currencyID": 65,
+      "crossplayID": 65,
+      "Name": "Steel",
+      "JSONKey": "STEEL",
+      "assetName": "Steel"
+    },
+    {
+      "currencyID": 66,
+      "crossplayID": 66,
+      "Name": "DragonGlass",
+      "JSONKey": "DG",
+      "assetName": "DragonGlass"
+    },
+    {
+      "currencyID": 67,
+      "crossplayID": 67,
+      "Name": "DragonCharm",
+      "JSONKey": "DC",
+      "assetName": "DragonCharm"
+    },
+    {
+      "currencyID": 68,
+      "crossplayID": 68,
+      "Name": "TwinFlameAxes",
+      "JSONKey": "TFA",
+      "assetName": "TwinFlameAxes"
+    },
+    {
+      "currencyID": 69,
+      "crossplayID": 69,
+      "Name": "DragonGlassArrows",
+      "JSONKey": "DGA",
+      "assetName": "DragonGlassArrows"
+    },
+    {
+      "currencyID": 70,
+      "crossplayID": 70,
+      "Name": "DragonScaleSplinters",
+      "JSONKey": "DSS",
+      "assetName": "DragonScaleSplinters"
+    },
+    {
+      "currencyID": 71,
+      "crossplayID": 71,
+      "Name": "DragonScaleArmor",
+      "JSONKey": "DSAM",
+      "assetName": "DragonScaleArmor"
+    },
+    {
+      "currencyID": 72,
+      "crossplayID": 72,
+      "Name": "DragonScaleArrows",
+      "JSONKey": "DSAW",
+      "assetName": "DragonScaleArrows"
+    },
+    {
       "currencyID": 100000,
       "crossplayID": 100000,
       "Name": "DecoDust",

@@ -351,6 +351,28 @@
       "draws": 4,
       "lootBoxKeyTombolaID": 8,
       "sortOrder": 32
+    },
+    {
+      "lootBoxID": 33,
+      "crossplayID": 33,
+      "lootBoxTypeID": 1,
+      "name": "HoL8BoxLittle",
+      "rarity": 1,
+      "lootBoxTombolaID": 35,
+      "draws": 1,
+      "lootBoxKeyTombolaID": 1,
+      "sortOrder": 33
+    },
+    {
+      "lootBoxID": 34,
+      "crossplayID": 34,
+      "lootBoxTypeID": 1,
+      "name": "HoL8BoxBig",
+      "rarity": 4,
+      "lootBoxTombolaID": 36,
+      "draws": 1,
+      "lootBoxKeyTombolaID": 8,
+      "sortOrder": 34
     }
   ]
 }

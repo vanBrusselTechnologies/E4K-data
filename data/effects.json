@@ -2352,7 +2352,7 @@
       "effectID": 355,
       "crossplayID": 173,
       "name": "attackBoostYardSamurai",
-      "effectTypeID": 53,
+      "effectTypeID": 33,
       "capID": 99,
       "areaTypeID": "29,37"
     },
@@ -3454,7 +3454,7 @@
       "crossplayID": 410,
       "name": "AttackBoostYardDecoCapped",
       "effectTypeID": 33,
-      "capID": 30,
+      "capID": 37,
       "sortOrder": "1.6.1"
     },
     {
@@ -3462,7 +3462,7 @@
       "crossplayID": 411,
       "name": "offensiveMeleeBonusDecoCapped",
       "effectTypeID": 23,
-      "capID": 30,
+      "capID": 38,
       "sortOrder": "1.2.1"
     },
     {
@@ -3470,8 +3470,138 @@
       "crossplayID": 412,
       "name": "offensiveRangeBonusDecoCapped",
       "effectTypeID": 24,
-      "capID": 30,
+      "capID": 39,
       "sortOrder": "1.3.1"
+    },
+    {
+      "effectID": 413,
+      "crossplayID": 413,
+      "name": "recruitmentSpeedBoostAllCapped",
+      "effectTypeID": 86,
+      "capID": 11500
+    },
+    {
+      "effectID": 414,
+      "crossplayID": 414,
+      "name": "recruitmentCostDecreaseAllCapped",
+      "effectTypeID": 85,
+      "capID": 40
+    },
+    {
+      "effectID": 415,
+      "crossplayID": 415,
+      "name": "toolProductionSpeedBoostAllCapped",
+      "effectTypeID": 117,
+      "capID": 41
+    },
+    {
+      "effectID": 360,
+      "crossplayID": 360,
+      "name": "decosUnboostedHoneyProductionCapped",
+      "effectTypeID": 163,
+      "capID": 35,
+      "sortOrder": "7.10.1"
+    },
+    {
+      "effectID": 361,
+      "crossplayID": 361,
+      "name": "decosUnboostedFoodProductionBonusBaronEconomyCapped",
+      "effectTypeID": 69,
+      "capID": 42
+    },
+    {
+      "effectID": 362,
+      "crossplayID": 362,
+      "name": "decoUnboostedMeadProductionCapped",
+      "effectTypeID": 161,
+      "capID": 36,
+      "sortOrder": "7.9.1"
+    },
+    {
+      "effectID": 343,
+      "crossplayID": 343,
+      "name": "offensiveMeleeBonusTCICapped",
+      "effectTypeID": 23,
+      "capID": 43
+    },
+    {
+      "effectID": 363,
+      "crossplayID": 363,
+      "name": "offensiveRangeBonusTCICapped",
+      "effectTypeID": 24,
+      "capID": 44
+    },
+    {
+      "effectID": 368,
+      "crossplayID": 368,
+      "name": "attackUnitAmountFlankCapped",
+      "effectTypeID": 28,
+      "capID": 45
+    },
+    {
+      "effectID": 369,
+      "crossplayID": 369,
+      "name": "AttackUnitAmountFrontCapped",
+      "effectTypeID": 34,
+      "capID": 46,
+      "sortOrder": "7.10.1"
+    },
+    {
+      "effectID": 370,
+      "crossplayID": 370,
+      "name": "defenseBoostYardCapped",
+      "effectTypeID": 32,
+      "capID": 47
+    },
+    {
+      "effectID": 371,
+      "crossplayID": 371,
+      "name": "defenseUnitAmountYardBonusCapped",
+      "effectTypeID": 181,
+      "capID": 48
+    },
+    {
+      "effectID": 373,
+      "crossplayID": 373,
+      "name": "CraftingQueueProductionBoost",
+      "effectTypeID": 188,
+      "capID": 99
+    },
+    {
+      "effectID": 372,
+      "crossplayID": 372,
+      "name": "BeefProductionIncrease",
+      "effectTypeID": 189,
+      "capID": 99
+    },
+    {
+      "effectID": 374,
+      "crossplayID": 374,
+      "name": "unboostedBeefProduction",
+      "effectTypeID": 190,
+      "capID": 99,
+      "sortOrder": "7.10.1"
+    },
+    {
+      "effectID": 375,
+      "crossplayID": 375,
+      "name": "beefProductionBoost",
+      "effectTypeID": 191,
+      "capID": 99
+    },
+    {
+      "effectID": 376,
+      "crossplayID": 376,
+      "name": "beefCapacityBonus",
+      "effectTypeID": 192,
+      "capID": 99
+    },
+    {
+      "effectID": 377,
+      "crossplayID": 377,
+      "name": "enableCraftingRecipeGroups",
+      "effectTypeID": 193,
+      "capID": 99
     },
     {
       "effectID": 2101,
@@ -3568,7 +3698,7 @@
       "effectID": 2114,
       "name": "relicAttackSupportUnits",
       "effectTypeID": 51,
-      "capID": 1014,
+      "capID": 99,
       "sortOrder": "3.4.2"
     },
     {
@@ -4226,7 +4356,7 @@
       "effectID": 12112,
       "name": "relicDefenseSupportUnits",
       "effectTypeID": 47,
-      "capID": 11012,
+      "capID": 99,
       "sortOrder": "4.3.2"
     },
     {
@@ -4303,7 +4433,7 @@
       "effectID": 12208,
       "name": "relicCurrencyLootBoostNomadTabletsNomad",
       "effectTypeID": 168,
-      "capID": 11108,
+      "capID": 99,
       "sortOrder": "6.14.3",
       "isPvEFight": 1
     },
@@ -4311,7 +4441,7 @@
       "effectID": 12209,
       "name": "relicCurrencyLootBoostSamuraiTokensSamurai",
       "effectTypeID": 168,
-      "capID": 11109,
+      "capID": 99,
       "sortOrder": "6.16.3",
       "isPvEFight": 1
     },
@@ -4319,7 +4449,7 @@
       "effectID": 12210,
       "name": "relicCurrencyLootBoostKhanMedalsNomad",
       "effectTypeID": 168,
-      "capID": 11110,
+      "capID": 99,
       "sortOrder": "6.17.1",
       "isPvEFight": 1
     },
@@ -4327,7 +4457,7 @@
       "effectID": 12211,
       "name": "relicCurrencyLootBoostSamuraiMedalsSamurai",
       "effectTypeID": 168,
-      "capID": 11111,
+      "capID": 99,
       "sortOrder": "6.20.1",
       "isPvEFight": 1
     },
@@ -4504,7 +4634,7 @@
       "effectID": 12410,
       "name": "relicCurrencyLootBoostNomadTabletsNomad",
       "effectTypeID": 168,
-      "capID": 11310,
+      "capID": 99,
       "sortOrder": "6.14.3",
       "isPvEFight": 1
     },
@@ -4512,7 +4642,7 @@
       "effectID": 12411,
       "name": "relicCurrencyLootBoostSamuraiTokensSamurai",
       "effectTypeID": 168,
-      "capID": 11311,
+      "capID": 99,
       "sortOrder": "6.16.3",
       "isPvEFight": 1
     },
@@ -4520,7 +4650,7 @@
       "effectID": 12412,
       "name": "relicCurrencyLootBoostKhanMedalsNomad",
       "effectTypeID": 168,
-      "capID": 11312,
+      "capID": 99,
       "sortOrder": "6.17.1",
       "isPvEFight": 1
     },
@@ -4528,7 +4658,7 @@
       "effectID": 12413,
       "name": "relicCurrencyLootBoostSamuraiMedalsSamurai",
       "effectTypeID": 168,
-      "capID": 11313,
+      "capID": 99,
       "sortOrder": "6.20.1",
       "isPvEFight": 1
     },

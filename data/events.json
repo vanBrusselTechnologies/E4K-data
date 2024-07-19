@@ -15,6 +15,7 @@
     },
     {
       "eventID": 4,
+      "comment1": "The Blade Coast,Bladecoast,Seaqueen,Crusade",
       "comment2": "Bladecoast",
       "kIDs": "0,1,2,3,10",
       "partPayPriceID": 14,
@@ -22,12 +23,12 @@
       "eventType": "Seaqueen",
       "hubType": "Adventure",
       "eventDuration": "Long",
-      "packageIDs": "2014+2015+2016+2018+2019+2020+2021+2022+2023+2024+2025+2026+2032+2037+2064+2065+2066+2067",
+      "packageIDs": "3105+3106+3107+3108+3109+3110+3111+3112+3113",
       "minLevel": 45,
       "maxLevel": 99,
       "resourceTravelTaxRate": 50,
       "unitTravelTaxRate": 50,
-      "rewardIDs": "89,100000,100001"
+      "rewardIDs": "6790,6791,6792"
     },
     {
       "eventID": 500,
@@ -1015,6 +1016,14 @@
       "eventType": "DonationEvent",
       "hubType": "Adventure",
       "minLevel": 11,
+      "maxLevel": 99
+    },
+    {
+      "eventID": 124,
+      "comment1": "PrimeTimeSkinEvent",
+      "comment2": "New skin for GPTs to draw attention",
+      "kIDs": 0,
+      "eventType": "PrimeTimeSkinEvent",
       "maxLevel": 99
     }
   ]

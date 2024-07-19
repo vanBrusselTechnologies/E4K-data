@@ -61,10 +61,10 @@ export interface Data {
     daimyoTownships: DaimyoTownship[];
     decoThresholds: DecoThreshold[];
     districtTypes: DistrictType[];
-    donationItems: donationItems[];
-    donationRewards: donationRewards[];
-    donationSettings: donationSettings[];
-    donationTypes: donationTypes[];
+    donationItems: DonationItem[];
+    donationRewards: DonationItem[];
+    donationSettings: DonationItem[];
+    donationTypes: DonationItem[];
     dungeons: Dungeon[];
     effectCaps: EffectCap[];
     effects: Effect[];
@@ -162,7 +162,7 @@ export interface Data {
     officersSchoolPowerDistributions: OfficersSchoolPowerDistribution[];
     officersSchoolUnitPairs: OfficersSchoolUnitPair[];
     packageCategories: PackageCategory[];
-    packageCategoryCurrencyRelations: PackageCategoryCurrencyRelation[];
+    packageCategoryCostRelations: PackageCategoryCostRelation[];
     packageCategoryFilterRelations: PackageCategoryFilterRelation[];
     packageFilters: PackageFilter[];
     packages: Package[];
@@ -190,7 +190,7 @@ export interface Data {
     relicTypes: RelicType[];
     rerollCosts: ReRollCost[];
     researches: Research[];
-    resources: resources[];
+    resources: Resource[];
     rewardBags: RewardBag[];
     rewards: Reward[];
     saleDaysLuckyWheelClasses: SaleDaysLuckyWheelClass[];
@@ -596,6 +596,7 @@ export interface BuildingPosition {
 }
 
 export interface Building {
+    "Beefproduction"?: number;
     "Coalboost"?: number;
     "Coalproduction"?: number;
     "Foodboost"?: number;
@@ -626,6 +627,7 @@ export interface Building {
     "areaSpecificEffects"?: string;
     "auxiliaryCapacity"?: number;
     "baronSize"?: number;
+    "beefStorage"?: number;
     "block"?: number;
     "buildDuration"?: number;
     "buildSpeedBoost"?: number;
@@ -642,11 +644,13 @@ export interface Building {
     "costAquamarine"?: number;
     "costC2"?: number;
     "costCoal"?: number;
+    "costDragonScaleTile"?: number;
     "costGlass"?: number;
     "costIron"?: number;
     "costLegendaryMaterial"?: number;
     "costLegendaryToken"?: number;
     "costOil"?: number;
+    "costPlaster"?: number;
     "costSceatToken"?: number;
     "costStone"?: number;
     "costWood"?: number;
@@ -663,7 +667,6 @@ export interface Building {
     "earlyUnlockIceSortOrder"?: number;
     "earlyUnlockRequiredLevel"?: number;
     "effectLocked"?: number;
-    "effects"?: string;
     "eventIDs"?: number | string;
     "fireBrigadeBoost"?: number;
     "foodRatio"?: number;
@@ -956,13 +959,21 @@ export interface CraftingQueue {
 }
 
 export interface CraftingRecipe {
+    "costC1"?: number;
     "costC2"?: number;
     "costCoal"?: number;
+    "costDragonCharm"?: number;
+    "costDragonGlass"?: number;
+    "costDragonScaleSplinters"?: number;
     "costGlass"?: number;
     "costIron"?: number;
+    "costLegendaryMaterial"?: number;
+    "costLegendaryToken"?: number;
     "costOil"?: number;
     "costRefinedLumber"?: number;
     "costRefinedStone"?: number;
+    "costSceatToken"?: number;
+    "costSteel"?: number;
     "costStone"?: number;
     "costWood"?: number;
     "craftingDuration": number;
@@ -970,6 +981,7 @@ export interface CraftingRecipe {
     "level": number;
     "queueTypeId": number;
     "recipeGroupID": number;
+    "requiredCraftingBuildings"?: string;
     "researchGroupID"?: number;
     "rewardIDs": number;
     "skipCostC2": number;
@@ -1173,7 +1185,7 @@ export interface DistrictType {
     "districtTypeID": number;
 }
 
-export interface donationItems {
+export interface DonationItem {
     "crossplayID": number;
     "currencyID": number;
     "donationItemID": number;
@@ -1183,7 +1195,7 @@ export interface donationItems {
     "ratio": number;
 }
 
-export interface donationRewards {
+export interface DonationItem {
     "crossplayID": number;
     "donationRewardID": number;
     "donationTypeID": number;
@@ -1192,14 +1204,14 @@ export interface donationRewards {
     "rewardSetID": number;
 }
 
-export interface donationSettings {
+export interface DonationItem {
     "crossplayID": number;
     "donationItemSetID": number;
     "donationSettingID": number;
     "rewardSetID": number;
 }
 
-export interface donationTypes {
+export interface DonationItem {
     "crossplayID": number;
     "donationTypeID": number;
     "name": string;
@@ -1244,6 +1256,8 @@ export interface EffectType {
     "crossplayID": number;
     "effectTypeID": number;
     "name": string;
+    "sortCategory"?: number;
+    "sortGroup"?: number;
 }
 
 export interface EmptyArea {
@@ -1357,6 +1371,7 @@ export interface EquipmentRareness {
     "saleValue"?: number;
     "secondaryAttributes"?: number;
     "slotIDs"?: number | string;
+    "sortOrder": number;
 }
 
 export interface EquipmentSet {
@@ -2286,11 +2301,12 @@ export interface PackageCategory {
     "sortOrder"?: number;
 }
 
-export interface PackageCategoryCurrencyRelation {
+export interface PackageCategoryCostRelation {
     "categoryID": number;
     "crossplayID": number;
-    "currencyID": number;
+    "currencyID"?: number;
     "id": number;
+    "resourceID"?: number;
 }
 
 export interface PackageCategoryFilterRelation {
@@ -2443,6 +2459,7 @@ export interface Package {
     "costStPatrickLTPEToken"?: number;
     "costWishingWellCoin"?: number;
     "costXmasLTPEToken"?: number;
+    "disabledOnGlobalServer"?: number;
     "enchantedEquipmentIDs"?: string;
     "equipmentAmount"?: number;
     "equipmentDropChance"?: string;
@@ -2482,7 +2499,7 @@ export interface Package {
     "packagePriceStone"?: number;
     "packagePriceWood"?: number;
     "packageType": string;
-    "relationIDs": number | string;
+    "relationIDs"?: number | string;
     "relicEquipments"?: string;
     "rewardBags"?: number | string;
     "sortOrder"?: number;
@@ -2795,6 +2812,7 @@ export interface ReRollCost {
 
 export interface Research {
     "categoryID"?: number;
+    "categorySortOrder"?: number;
     "comment1"?: string;
     "comment2": string;
     "costC1"?: number;
@@ -2833,7 +2851,7 @@ export interface Research {
     "y"?: number;
 }
 
-export interface resources {
+export interface Resource {
     "JSONKey": string;
     "crossplayID": number;
     "name": string;
@@ -2907,6 +2925,13 @@ export interface Reward {
     "addDecoCatalyst8"?: number;
     "addDecoCatalyst9"?: number;
     "addDecoDust"?: number;
+    "addDragonCharm"?: number;
+    "addDragonGlass"?: number;
+    "addDragonGlassArrows"?: number;
+    "addDragonScaleArmor"?: number;
+    "addDragonScaleArrows"?: number;
+    "addDragonScaleSplinters"?: number;
+    "addDragonScaleTile"?: number;
     "addDragonriderLTPEToken"?: number;
     "addEpicBoosterConsumable"?: number;
     "addEpicCobblestone"?: number;
@@ -2922,6 +2947,7 @@ export interface Reward {
     "addGoldToken"?: number;
     "addHalloweenLTPEToken"?: number;
     "addIceLTPEToken"?: number;
+    "addImperialDucat"?: number;
     "addKhanMedal"?: number;
     "addKhanTablet"?: number;
     "addKnightToken"?: number;
@@ -2936,6 +2962,7 @@ export interface Reward {
     "addOctoberfestLTPEToken"?: number;
     "addPegasusTicket"?: number;
     "addPiratesLTPEToken"?: number;
+    "addPlaster"?: number;
     "addPrincessToken"?: number;
     "addRampartDoubloon"?: number;
     "addRareBoosterConsumable"?: number;
@@ -2957,7 +2984,9 @@ export interface Reward {
     "addSpiritDoubloon"?: number;
     "addSpringLTPEToken"?: number;
     "addStPatrickLTPEToken"?: number;
+    "addSteel"?: number;
     "addTimeDoubloon"?: number;
+    "addTwinFlameAxes"?: number;
     "addVigorDoubloon"?: number;
     "addWishingWellCoin"?: number;
     "addXmasLTPEToken"?: number;
@@ -2983,6 +3012,7 @@ export interface Reward {
     "grantType"?: number;
     "hiddenFood"?: number;
     "hiddenMead"?: number;
+    "ignoreCurrencySoftCap"?: number;
     "ignoreGiftCapacity"?: number;
     "ignoreMinuteSkipCapacity"?: number;
     "ignoreResourceStorageCapacity"?: number;
@@ -3069,15 +3099,19 @@ export interface SamuraiCamp {
 
 export interface SceatSkill {
     "activationTime": number;
-    "costSceatToken": number;
+    "costImperialDucat"?: number;
+    "costSceatToken"?: number;
     "crossplayID"?: number;
     "effects": string;
     "followingSkillID"?: number;
+    "isPreview"?: number;
     "level": number;
+    "previousSkillID"?: number;
     "requiredBuildings": number | string;
     "requiredBuildingsCondition"?: string;
     "requiredLegendLevel": number;
     "requiredSkillID"?: number;
+    "requiredSkillIDs"?: number | string;
     "skillGroupID": number;
     "skillID": number;
     "skillTreeID": number;
@@ -3087,6 +3121,7 @@ export interface SceatSkill {
 
 export interface SceatSkillTier {
     "crossplayID": number;
+    "requirePreviousTierUnlocked"?: number;
     "requiredBuildings"?: number | string;
     "skillTreeID": number;
     "tier": number;
@@ -3439,6 +3474,7 @@ export interface Unit {
     "allowedToTravel"?: string;
     "amountPerWave"?: number;
     "attackscreenBuyable"?: number;
+    "beefSupply"?: number;
     "buildingLevel"?: number;
     "c1Bonus"?: number;
     "canBeUsedByNPC"?: number;
@@ -3456,7 +3492,11 @@ export interface Unit {
     "costComponent6"?: number;
     "costComponent7"?: number;
     "costComponent8"?: number;
+    "costDragonGlassArrows"?: number;
+    "costDragonScaleArmor"?: number;
+    "costDragonScaleArrows"?: number;
     "costStone"?: number;
+    "costTwinFlameAxes"?: number;
     "costWood"?: number;
     "crossplayID"?: number;
     "defMeleeBonus"?: number;

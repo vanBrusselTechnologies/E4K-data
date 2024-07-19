@@ -116,6 +116,55 @@
       "skillTreeID": 6,
       "tier": 5,
       "requiredBuildings": "252,256,257"
+    },
+    {
+      "tierID": 18,
+      "crossplayID": 18,
+      "skillTreeID": 7,
+      "tier": 1,
+      "requirePreviousTierUnlocked": 0
+    },
+    {
+      "tierID": 19,
+      "crossplayID": 19,
+      "skillTreeID": 7,
+      "tier": 2,
+      "requirePreviousTierUnlocked": 0
+    },
+    {
+      "tierID": 20,
+      "crossplayID": 20,
+      "skillTreeID": 7,
+      "tier": 3,
+      "requirePreviousTierUnlocked": 0
+    },
+    {
+      "tierID": 21,
+      "crossplayID": 21,
+      "skillTreeID": 7,
+      "tier": 4,
+      "requirePreviousTierUnlocked": 0
+    },
+    {
+      "tierID": 22,
+      "crossplayID": 22,
+      "skillTreeID": 7,
+      "tier": 5,
+      "requirePreviousTierUnlocked": 0
+    },
+    {
+      "tierID": 23,
+      "crossplayID": 23,
+      "skillTreeID": 8,
+      "tier": 1,
+      "requirePreviousTierUnlocked": 0
+    },
+    {
+      "tierID": 24,
+      "crossplayID": 24,
+      "skillTreeID": 8,
+      "tier": 2,
+      "requirePreviousTierUnlocked": 0
     }
   ]
 }

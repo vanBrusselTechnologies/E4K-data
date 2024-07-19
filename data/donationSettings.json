@@ -1,8 +1,16 @@
 {
-  "donationSetting": {
-    "donationSettingID": 1,
-    "crossplayID": 1,
-    "donationItemSetID": 1,
-    "rewardSetID": 1
-  }
+  "donationSetting": [
+    {
+      "donationSettingID": 1,
+      "crossplayID": 1,
+      "donationItemSetID": 1,
+      "rewardSetID": 1
+    },
+    {
+      "donationSettingID": 2,
+      "crossplayID": 2,
+      "donationItemSetID": 2,
+      "rewardSetID": 2
+    }
+  ]
 }

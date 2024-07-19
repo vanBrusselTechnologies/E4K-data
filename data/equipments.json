@@ -4815,7 +4815,7 @@
       "comment2": "VikingBaron",
       "wearerID": 1,
       "slotID": 5,
-      "effects": "201&amp;10,202&amp;10,13&amp;20",
+      "effects": "201&amp;10,202&amp;10,13&amp;25",
       "duration": 12,
       "mightValue": 0,
       "canSlotGem": 1,
@@ -4828,7 +4828,7 @@
       "comment2": "VikingBaron",
       "wearerID": 1,
       "slotID": 5,
-      "effects": "201&amp;10,202&amp;10,13&amp;20",
+      "effects": "201&amp;10,202&amp;10,13&amp;25",
       "duration": 168,
       "mightValue": 0,
       "canSlotGem": 1,
@@ -5712,7 +5712,7 @@
       "effects": "24&amp;1,22&amp;15,23&amp;15",
       "duration": 336,
       "mightValue": 1250,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 1042,
@@ -5727,7 +5727,7 @@
       "effects": "24&amp;2,22&amp;20,23&amp;20",
       "duration": 336,
       "mightValue": 1500,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 1043,
@@ -5742,7 +5742,7 @@
       "effects": "24&amp;2,22&amp;25,23&amp;25",
       "duration": 336,
       "mightValue": 1750,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 1044,
@@ -5757,7 +5757,7 @@
       "effects": "24&amp;3,22&amp;30,23&amp;30",
       "duration": 336,
       "mightValue": 2000,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 1045,
@@ -5772,7 +5772,7 @@
       "effects": "24&amp;1",
       "duration": 336,
       "mightValue": 1000,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 1046,
@@ -5787,7 +5787,7 @@
       "effects": "24&amp;2",
       "duration": 336,
       "mightValue": 1250,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 1047,
@@ -5802,7 +5802,7 @@
       "effects": "24&amp;3",
       "duration": 336,
       "mightValue": 1500,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 1048,
@@ -5817,7 +5817,7 @@
       "effects": "24&amp;4",
       "duration": 336,
       "mightValue": 1750,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 1049,
@@ -5832,7 +5832,7 @@
       "effects": "24&amp;5",
       "duration": 336,
       "mightValue": 2000,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 1050,
@@ -9245,7 +9245,7 @@
       "effects": "24&amp;1",
       "duration": 12,
       "mightValue": 1000,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 753,
@@ -9259,7 +9259,7 @@
       "effects": "24&amp;2",
       "duration": 12,
       "mightValue": 1250,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 754,
@@ -9273,7 +9273,7 @@
       "effects": "24&amp;3",
       "duration": 12,
       "mightValue": 1500,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 755,
@@ -9287,7 +9287,7 @@
       "effects": "24&amp;4",
       "duration": 12,
       "mightValue": 1750,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 756,
@@ -9301,7 +9301,7 @@
       "effects": "24&amp;5",
       "duration": 12,
       "mightValue": 2000,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 757,
@@ -9314,7 +9314,7 @@
       "effects": "24&amp;1,22&amp;10,23&amp;10",
       "duration": 12,
       "mightValue": 1000,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 758,
@@ -9328,7 +9328,7 @@
       "effects": "24&amp;1,22&amp;15,23&amp;15",
       "duration": 12,
       "mightValue": 1250,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 759,
@@ -9342,7 +9342,7 @@
       "effects": "24&amp;2,22&amp;20,23&amp;20",
       "duration": 12,
       "mightValue": 1500,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 760,
@@ -9356,7 +9356,7 @@
       "effects": "24&amp;2,22&amp;25,23&amp;25",
       "duration": 12,
       "mightValue": 1750,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 761,
@@ -9370,7 +9370,7 @@
       "effects": "24&amp;3,22&amp;30,23&amp;30",
       "duration": 12,
       "mightValue": 2000,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 762,
@@ -9383,7 +9383,7 @@
       "effects": "24&amp;1,22&amp;10",
       "duration": 12,
       "mightValue": 1000,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 763,
@@ -9397,7 +9397,7 @@
       "effects": "24&amp;1,22&amp;15",
       "duration": 12,
       "mightValue": 1250,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 764,
@@ -9411,7 +9411,7 @@
       "effects": "24&amp;2,22&amp;20",
       "duration": 12,
       "mightValue": 1500,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 765,
@@ -9425,7 +9425,7 @@
       "effects": "24&amp;2,22&amp;25",
       "duration": 12,
       "mightValue": 1750,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 766,
@@ -9439,7 +9439,7 @@
       "effects": "24&amp;3,22&amp;30",
       "duration": 12,
       "mightValue": 2000,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 767,
@@ -9453,7 +9453,7 @@
       "effects": "24&amp;1",
       "duration": 24,
       "mightValue": 1000,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 768,
@@ -9467,7 +9467,7 @@
       "effects": "24&amp;2",
       "duration": 24,
       "mightValue": 1250,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 769,
@@ -9481,7 +9481,7 @@
       "effects": "24&amp;3",
       "duration": 24,
       "mightValue": 1500,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 770,
@@ -9495,7 +9495,7 @@
       "effects": "24&amp;4",
       "duration": 24,
       "mightValue": 1750,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 771,
@@ -9509,7 +9509,7 @@
       "effects": "24&amp;5",
       "duration": 24,
       "mightValue": 2000,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 772,
@@ -9523,7 +9523,7 @@
       "effects": "24&amp;1,22&amp;10,23&amp;10",
       "duration": 24,
       "mightValue": 1000,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 773,
@@ -9537,7 +9537,7 @@
       "effects": "24&amp;1,22&amp;15,23&amp;15",
       "duration": 24,
       "mightValue": 1250,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 774,
@@ -9551,7 +9551,7 @@
       "effects": "24&amp;2,22&amp;20,23&amp;20",
       "duration": 24,
       "mightValue": 1500,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 775,
@@ -9565,7 +9565,7 @@
       "effects": "24&amp;2,22&amp;25,23&amp;25",
       "duration": 24,
       "mightValue": 1750,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 776,
@@ -9579,7 +9579,7 @@
       "effects": "24&amp;3,22&amp;30,23&amp;30",
       "duration": 168,
       "mightValue": 2000,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 777,
@@ -9593,7 +9593,7 @@
       "effects": "24&amp;1,22&amp;10",
       "duration": 24,
       "mightValue": 1000,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 778,
@@ -9607,7 +9607,7 @@
       "effects": "24&amp;1,22&amp;15",
       "duration": 24,
       "mightValue": 1250,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 779,
@@ -9621,7 +9621,7 @@
       "effects": "24&amp;2,22&amp;20",
       "duration": 24,
       "mightValue": 1500,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 780,
@@ -9635,7 +9635,7 @@
       "effects": "24&amp;2,22&amp;25",
       "duration": 24,
       "mightValue": 1750,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 781,
@@ -9649,7 +9649,7 @@
       "effects": "24&amp;3,22&amp;30",
       "duration": 168,
       "mightValue": 2000,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 787,
@@ -9663,7 +9663,7 @@
       "effects": "24&amp;1",
       "duration": 72,
       "mightValue": 1000,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 788,
@@ -9677,7 +9677,7 @@
       "effects": "24&amp;2",
       "duration": 72,
       "mightValue": 1250,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 789,
@@ -9691,7 +9691,7 @@
       "effects": "24&amp;3",
       "duration": 72,
       "mightValue": 1500,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 790,
@@ -9705,7 +9705,7 @@
       "effects": "24&amp;4",
       "duration": 72,
       "mightValue": 1750,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 791,
@@ -9719,7 +9719,7 @@
       "effects": "24&amp;5",
       "duration": 72,
       "mightValue": 2000,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 792,
@@ -9733,7 +9733,7 @@
       "effects": "24&amp;1,22&amp;10,23&amp;10",
       "duration": 72,
       "mightValue": 1000,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 793,
@@ -9747,7 +9747,7 @@
       "effects": "24&amp;1,22&amp;15,23&amp;15",
       "duration": 72,
       "mightValue": 1250,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 794,
@@ -9761,7 +9761,7 @@
       "effects": "24&amp;2,22&amp;20,23&amp;20",
       "duration": 72,
       "mightValue": 1500,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 795,
@@ -9775,7 +9775,7 @@
       "effects": "24&amp;2,22&amp;25,23&amp;25",
       "duration": 72,
       "mightValue": 1750,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 796,
@@ -9789,7 +9789,7 @@
       "effects": "24&amp;3,22&amp;30,23&amp;30",
       "duration": 72,
       "mightValue": 2000,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 797,
@@ -9803,7 +9803,7 @@
       "effects": "24&amp;1,22&amp;10",
       "duration": 72,
       "mightValue": 1000,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 798,
@@ -9817,7 +9817,7 @@
       "effects": "24&amp;1,22&amp;15",
       "duration": 72,
       "mightValue": 1250,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 799,
@@ -9831,7 +9831,7 @@
       "effects": "24&amp;2,22&amp;20",
       "duration": 72,
       "mightValue": 1500,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 800,
@@ -9845,7 +9845,7 @@
       "effects": "24&amp;2,22&amp;25",
       "duration": 72,
       "mightValue": 1750,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 809,
@@ -9859,7 +9859,7 @@
       "effects": "24&amp;3,22&amp;30",
       "duration": 72,
       "mightValue": 2000,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 810,
@@ -9873,7 +9873,7 @@
       "effects": "24&amp;1",
       "duration": 168,
       "mightValue": 1000,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 811,
@@ -9887,7 +9887,7 @@
       "effects": "24&amp;2",
       "duration": 168,
       "mightValue": 1250,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 812,
@@ -9901,7 +9901,7 @@
       "effects": "24&amp;3",
       "duration": 168,
       "mightValue": 1500,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 813,
@@ -9915,7 +9915,7 @@
       "effects": "24&amp;4",
       "duration": 168,
       "mightValue": 1750,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 814,
@@ -9929,7 +9929,7 @@
       "effects": "24&amp;5",
       "duration": 168,
       "mightValue": 2000,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 815,
@@ -9943,7 +9943,7 @@
       "effects": "24&amp;1,22&amp;10,23&amp;10",
       "duration": 168,
       "mightValue": 1000,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 816,
@@ -9957,7 +9957,7 @@
       "effects": "24&amp;1,22&amp;15,23&amp;15",
       "duration": 168,
       "mightValue": 1250,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 817,
@@ -9971,7 +9971,7 @@
       "effects": "24&amp;2,22&amp;20,23&amp;20",
       "duration": 168,
       "mightValue": 1500,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 818,
@@ -9985,7 +9985,7 @@
       "effects": "24&amp;2,22&amp;25,23&amp;25",
       "duration": 168,
       "mightValue": 1750,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 819,
@@ -9999,7 +9999,7 @@
       "effects": "24&amp;3,22&amp;30,23&amp;30",
       "duration": 168,
       "mightValue": 2000,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 820,
@@ -10013,7 +10013,7 @@
       "effects": "24&amp;1,22&amp;10",
       "duration": 168,
       "mightValue": 1000,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 821,
@@ -10027,7 +10027,7 @@
       "effects": "24&amp;1,22&amp;15",
       "duration": 168,
       "mightValue": 1250,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 822,
@@ -10041,7 +10041,7 @@
       "effects": "24&amp;2,22&amp;20",
       "duration": 168,
       "mightValue": 1500,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 823,
@@ -10055,7 +10055,7 @@
       "effects": "24&amp;2,22&amp;25",
       "duration": 168,
       "mightValue": 1750,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 824,
@@ -10069,7 +10069,7 @@
       "effects": "24&amp;3,22&amp;30",
       "duration": 168,
       "mightValue": 2000,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 875,
@@ -10084,7 +10084,7 @@
       "duration": 720,
       "mightValue": 1000,
       "canSlotGem": 0,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 876,
@@ -10099,7 +10099,7 @@
       "duration": 720,
       "mightValue": 1250,
       "canSlotGem": 0,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 877,
@@ -10114,7 +10114,7 @@
       "duration": 720,
       "mightValue": 1500,
       "canSlotGem": 0,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 878,
@@ -10129,7 +10129,7 @@
       "duration": 720,
       "mightValue": 1750,
       "canSlotGem": 0,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 879,
@@ -10144,7 +10144,7 @@
       "duration": 720,
       "mightValue": 2000,
       "canSlotGem": 0,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 880,
@@ -10159,7 +10159,7 @@
       "duration": 720,
       "mightValue": 1000,
       "canSlotGem": 0,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 881,
@@ -10174,7 +10174,7 @@
       "duration": 720,
       "mightValue": 1250,
       "canSlotGem": 0,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 882,
@@ -10189,7 +10189,7 @@
       "duration": 720,
       "mightValue": 1500,
       "canSlotGem": 0,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 883,
@@ -10204,7 +10204,7 @@
       "duration": 720,
       "mightValue": 1750,
       "canSlotGem": 0,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 884,
@@ -10219,7 +10219,7 @@
       "duration": 720,
       "mightValue": 2000,
       "canSlotGem": 0,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 885,
@@ -10233,7 +10233,7 @@
       "duration": 720,
       "mightValue": 1000,
       "canSlotGem": 0,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 886,
@@ -10248,7 +10248,7 @@
       "duration": 720,
       "mightValue": 1250,
       "canSlotGem": 0,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 887,
@@ -10263,7 +10263,7 @@
       "duration": 720,
       "mightValue": 1500,
       "canSlotGem": 0,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 888,
@@ -10278,7 +10278,7 @@
       "duration": 720,
       "mightValue": 1750,
       "canSlotGem": 0,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 889,
@@ -10293,7 +10293,7 @@
       "duration": 720,
       "mightValue": 2000,
       "canSlotGem": 0,
-      "skinID": 4
+      "skinID": 1
     },
     {
       "equipmentID": 890,
@@ -13213,6 +13213,387 @@
       "mightValue": 0,
       "canSlotGem": 0,
       "skinID": 5
+    },
+    {
+      "equipmentID": 990,
+      "crossplayID": 990,
+      "comment1": "Appearance item - Easter 2024",
+      "comment2": "appearance 24h",
+      "wearerID": 2,
+      "slotID": 5,
+      "starRarity": 1,
+      "starLevel": 5,
+      "effects": "24&amp;6,22&amp;30,23&amp;30",
+      "duration": 24,
+      "mightValue": 2000,
+      "canSlotGem": 0,
+      "skinID": 112
+    },
+    {
+      "equipmentID": 994,
+      "crossplayID": 994,
+      "comment1": "Appearance item - Easter 2024",
+      "comment2": "appearance 7d",
+      "wearerID": 2,
+      "slotID": 5,
+      "starRarity": 1,
+      "starLevel": 5,
+      "reuseAssetOfEquipmentID": 990,
+      "effects": "24&amp;6,22&amp;30,23&amp;30",
+      "duration": 168,
+      "mightValue": 2000,
+      "canSlotGem": 0,
+      "skinID": 112
+    },
+    {
+      "equipmentID": 995,
+      "crossplayID": 995,
+      "comment1": "Collect Event Elemental - 2024",
+      "comment2": "MistwoodFern",
+      "wearerID": 2,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 915,
+      "mightValue": 2000,
+      "canSlotGem": 0,
+      "skinID": 59
+    },
+    {
+      "equipmentID": 996,
+      "crossplayID": 996,
+      "comment1": "Collect Event Elemental - 2024",
+      "comment2": "MistwoodBastion",
+      "wearerID": 1,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 917,
+      "mightValue": 2000,
+      "canSlotGem": 0,
+      "skinID": 60
+    },
+    {
+      "equipmentID": 997,
+      "comment1": "Appearance item - HoL8",
+      "comment2": "appearance",
+      "wearerID": 1,
+      "slotID": 5,
+      "starRarity": 1,
+      "starLevel": 6,
+      "reuseAssetOfEquipmentID": 42,
+      "effects": "44&amp;11",
+      "duration": 48,
+      "mightValue": 2250,
+      "canSlotGem": 0,
+      "skinID": 1
+    },
+    {
+      "equipmentID": 998,
+      "comment1": "Appearance item - HoL8",
+      "comment2": "appearance",
+      "wearerID": 1,
+      "slotID": 5,
+      "starRarity": 1,
+      "starLevel": 7,
+      "reuseAssetOfEquipmentID": 42,
+      "effects": "45&amp;22",
+      "duration": 48,
+      "mightValue": 2500,
+      "canSlotGem": 0,
+      "skinID": 1
+    },
+    {
+      "equipmentID": 999,
+      "comment1": "Appearance item - HoL8",
+      "comment2": "appearance",
+      "wearerID": 1,
+      "slotID": 5,
+      "starRarity": 1,
+      "starLevel": 8,
+      "reuseAssetOfEquipmentID": 42,
+      "effects": "46&amp;33",
+      "duration": 48,
+      "mightValue": 2750,
+      "canSlotGem": 0,
+      "skinID": 1
+    },
+    {
+      "equipmentID": 1000,
+      "comment1": "Appearance item - HoL8",
+      "comment2": "appearance",
+      "wearerID": 1,
+      "slotID": 5,
+      "starRarity": 1,
+      "starLevel": 8,
+      "reuseAssetOfEquipmentID": 42,
+      "effects": "47&amp;44",
+      "duration": 48,
+      "mightValue": 2750,
+      "canSlotGem": 0,
+      "skinID": 1
+    },
+    {
+      "equipmentID": 1081,
+      "crossplayID": 1081,
+      "comment1": "BladecoastRewardPoolUpdate",
+      "comment2": "BaronDucky",
+      "wearerID": 1,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 1018,
+      "effects": "335&amp;45,13&amp;25",
+      "duration": 168,
+      "mightValue": 0,
+      "canSlotGem": 1,
+      "skinID": 64
+    },
+    {
+      "equipmentID": 1082,
+      "crossplayID": 1082,
+      "comment1": "BladecoastRewardPoolUpdate",
+      "comment2": "SnakeGeneral",
+      "wearerID": 2,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 1187,
+      "effects": "24&amp;6,23&amp;15,66&amp;15",
+      "duration": 120,
+      "mightValue": 0,
+      "canSlotGem": 1,
+      "skinID": 103
+    },
+    {
+      "equipmentID": 1083,
+      "crossplayID": 1083,
+      "comment1": "Appearance item - Summer 2024",
+      "comment2": "GeneralPineapple24h",
+      "wearerID": 2,
+      "slotID": 5,
+      "starRarity": 1,
+      "starLevel": 5,
+      "effects": "24&amp;6,61&amp;30,62&amp;30",
+      "duration": 24,
+      "mightValue": 2000,
+      "canSlotGem": 0,
+      "skinID": 113
+    },
+    {
+      "equipmentID": 1084,
+      "crossplayID": 1084,
+      "comment1": "Appearance item - Summer 2024",
+      "comment2": "GeneralPineapple7d",
+      "wearerID": 2,
+      "slotID": 5,
+      "starRarity": 1,
+      "starLevel": 5,
+      "reuseAssetOfEquipmentID": 1083,
+      "effects": "24&amp;6,61&amp;30,62&amp;30",
+      "duration": 168,
+      "mightValue": 2000,
+      "canSlotGem": 0,
+      "skinID": 113
+    },
+    {
+      "equipmentID": 1085,
+      "crossplayID": 1085,
+      "comment1": "Appearance item - Summer 2024",
+      "comment2": "BaronMelon24h",
+      "wearerID": 1,
+      "slotID": 5,
+      "starRarity": 1,
+      "starLevel": 5,
+      "effects": "335&amp;45,13&amp;25",
+      "duration": 24,
+      "mightValue": 2000,
+      "canSlotGem": 0,
+      "skinID": 113
+    },
+    {
+      "equipmentID": 1086,
+      "crossplayID": 1086,
+      "comment1": "Appearance item - Summer 2024",
+      "comment2": "BaronMelon7d",
+      "wearerID": 1,
+      "slotID": 5,
+      "starRarity": 1,
+      "starLevel": 5,
+      "reuseAssetOfEquipmentID": 1085,
+      "effects": "335&amp;45,13&amp;25",
+      "duration": 168,
+      "mightValue": 2000,
+      "canSlotGem": 0,
+      "skinID": 113
+    },
+    {
+      "equipmentID": 2017,
+      "crossplayID": 2017,
+      "comment1": "reward WoA",
+      "comment2": "Elephant",
+      "wearerID": 2,
+      "slotID": 5,
+      "starRarity": 1,
+      "starLevel": 5,
+      "reuseAssetOfEquipmentID": 838,
+      "effects": "24&amp;3,66&amp;5,334&amp;5",
+      "duration": 168,
+      "mightValue": 1000,
+      "canSlotGem": 0,
+      "skinID": 50
+    },
+    {
+      "equipmentID": 2018,
+      "crossplayID": 2018,
+      "comment1": "reward WoA",
+      "comment2": "Elephant",
+      "wearerID": 2,
+      "slotID": 5,
+      "starRarity": 1,
+      "starLevel": 5,
+      "reuseAssetOfEquipmentID": 838,
+      "effects": "24&amp;3,66&amp;10,334&amp;10",
+      "duration": 168,
+      "mightValue": 1000,
+      "canSlotGem": 0,
+      "skinID": 50
+    },
+    {
+      "equipmentID": 2019,
+      "crossplayID": 2019,
+      "comment1": "reward WoA",
+      "comment2": "Elephant",
+      "wearerID": 2,
+      "slotID": 5,
+      "starRarity": 1,
+      "starLevel": 5,
+      "reuseAssetOfEquipmentID": 838,
+      "effects": "24&amp;3,66&amp;15,334&amp;15",
+      "duration": 168,
+      "mightValue": 1000,
+      "canSlotGem": 0,
+      "skinID": 50
+    },
+    {
+      "equipmentID": 2020,
+      "crossplayID": 2020,
+      "comment1": "reward WoA",
+      "comment2": "Elephant",
+      "wearerID": 2,
+      "slotID": 5,
+      "starRarity": 1,
+      "starLevel": 5,
+      "reuseAssetOfEquipmentID": 838,
+      "effects": "24&amp;4,66&amp;5,334&amp;5",
+      "duration": 168,
+      "mightValue": 1000,
+      "canSlotGem": 0,
+      "skinID": 50
+    },
+    {
+      "equipmentID": 2021,
+      "crossplayID": 2021,
+      "comment1": "reward WoA",
+      "comment2": "Elephant",
+      "wearerID": 2,
+      "slotID": 5,
+      "starRarity": 1,
+      "starLevel": 5,
+      "reuseAssetOfEquipmentID": 838,
+      "effects": "24&amp;4,66&amp;10,334&amp;10",
+      "duration": 168,
+      "mightValue": 1000,
+      "canSlotGem": 0,
+      "skinID": 50
+    },
+    {
+      "equipmentID": 2022,
+      "crossplayID": 2022,
+      "comment1": "reward WoA",
+      "comment2": "Elephant",
+      "wearerID": 2,
+      "slotID": 5,
+      "starRarity": 1,
+      "starLevel": 5,
+      "reuseAssetOfEquipmentID": 838,
+      "effects": "24&amp;4,66&amp;15,334&amp;15",
+      "duration": 168,
+      "mightValue": 1000,
+      "canSlotGem": 0,
+      "skinID": 50
+    },
+    {
+      "equipmentID": 2023,
+      "crossplayID": 2023,
+      "comment1": "reward WoA",
+      "comment2": "Elephant",
+      "wearerID": 2,
+      "slotID": 5,
+      "starRarity": 1,
+      "starLevel": 5,
+      "reuseAssetOfEquipmentID": 838,
+      "effects": "24&amp;5,66&amp;5,334&amp;5",
+      "duration": 168,
+      "mightValue": 1000,
+      "canSlotGem": 0,
+      "skinID": 50
+    },
+    {
+      "equipmentID": 2024,
+      "crossplayID": 2024,
+      "comment1": "reward WoA",
+      "comment2": "Elephant",
+      "wearerID": 2,
+      "slotID": 5,
+      "starRarity": 1,
+      "starLevel": 5,
+      "reuseAssetOfEquipmentID": 838,
+      "effects": "24&amp;5,66&amp;15,334&amp;15",
+      "duration": 168,
+      "mightValue": 1000,
+      "canSlotGem": 0,
+      "skinID": 50
+    },
+    {
+      "equipmentID": 2025,
+      "crossplayID": 2025,
+      "comment1": "reward WoA",
+      "comment2": "Elephant",
+      "wearerID": 2,
+      "slotID": 5,
+      "starRarity": 1,
+      "starLevel": 5,
+      "reuseAssetOfEquipmentID": 838,
+      "effects": "24&amp;5,66&amp;35,334&amp;25",
+      "duration": 168,
+      "mightValue": 1000,
+      "canSlotGem": 0,
+      "skinID": 50
+    },
+    {
+      "equipmentID": 2026,
+      "crossplayID": 2026,
+      "comment1": "reward WoA",
+      "comment2": "StarCompass",
+      "wearerID": 2,
+      "slotID": 5,
+      "starRarity": 1,
+      "starLevel": 5,
+      "reuseAssetOfEquipmentID": 839,
+      "effects": "24&amp;4,66&amp;35,334&amp;25",
+      "duration": 48,
+      "mightValue": 1000,
+      "canSlotGem": 0,
+      "skinID": 51
+    },
+    {
+      "equipmentID": 2027,
+      "crossplayID": 2027,
+      "comment1": "reward WoA",
+      "comment2": "StarCompass",
+      "wearerID": 2,
+      "slotID": 5,
+      "starRarity": 1,
+      "starLevel": 5,
+      "reuseAssetOfEquipmentID": 839,
+      "effects": "24&amp;6,66&amp;35,334&amp;25",
+      "duration": 48,
+      "mightValue": 1000,
+      "canSlotGem": 0,
+      "skinID": 51
     }
   ]
 }
