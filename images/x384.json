@@ -4288,9 +4288,9 @@
       {
         "x": 0,
         "y": 0,
-        "w": 105,
+        "w": 109,
         "h": 180,
-        "rx": 963,
+        "rx": 959,
         "ry": 861
       }
     ],
@@ -7226,6 +7226,96 @@
     ],
     "fx": []
   },
+  "Deco_Building_CarnivorousPlantT1": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_CarnivorousPlantT1/Deco_Building_CarnivorousPlantT1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 35,
+        "rx": 998,
+        "ry": 980
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_CarnivorousPlantT2": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_CarnivorousPlantT2/Deco_Building_CarnivorousPlantT2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 24,
+        "h": 44,
+        "rx": 999,
+        "ry": 970
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_CarnivorousPlantT3": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_CarnivorousPlantT3/Deco_Building_CarnivorousPlantT3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 31,
+        "h": 55,
+        "rx": 996,
+        "ry": 959
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_CarnivorousPlantT4Green": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_CarnivorousPlantT4Green/Deco_Building_CarnivorousPlantT4Green.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 74,
+        "rx": 983,
+        "ry": 941
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_CarnivorousPlantT4Purple": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_CarnivorousPlantT4Purple/Deco_Building_CarnivorousPlantT4Purple.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 74,
+        "rx": 983,
+        "ry": 941
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_CarnivorousPlantT4Red": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_CarnivorousPlantT4Red/Deco_Building_CarnivorousPlantT4Red.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 74,
+        "rx": 983,
+        "ry": 941
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_CarriageDistrictDeco": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_CarriageDistrictDeco/Deco_Building_CarriageDistrictDeco.png",
@@ -8089,6 +8179,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_exaltedLivestockHut": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_exaltedLivestockHut/Deco_Building_exaltedLivestockHut.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 136,
+        "h": 134,
+        "rx": 918,
+        "ry": 931
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedPurpleLavaShrineofDuality": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_ExaltedPurpleLavaShrineofDuality/Deco_Building_ExaltedPurpleLavaShrineofDuality.png",
@@ -8130,6 +8235,36 @@
         "h": 182,
         "rx": 798,
         "ry": 962
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_exaltedShabbyLivestockHut": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_exaltedShabbyLivestockHut/Deco_Building_exaltedShabbyLivestockHut.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 136,
+        "h": 134,
+        "rx": 918,
+        "ry": 931
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_exaltedSturdyLivestockHut": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_exaltedSturdyLivestockHut/Deco_Building_exaltedSturdyLivestockHut.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 136,
+        "h": 134,
+        "rx": 918,
+        "ry": 931
       }
     ],
     "fx": []
@@ -10376,6 +10511,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_royalDesertTable": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_royalDesertTable/Deco_Building_royalDesertTable.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 37,
+        "h": 54,
+        "rx": 990,
+        "ry": 960
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_RoyalGallery": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_RoyalGallery/Deco_Building_RoyalGallery.png",
@@ -12407,6 +12557,21 @@
         "h": 32,
         "rx": 991,
         "ry": 988
+      }
+    ],
+    "fx": []
+  },
+  "DecoDistrict2x2_Building_Level1": {
+    "pid": 0,
+    "url": "x384/Buildings/DecoDistrict/DecoDistrict2x2_Building_Level1/DecoDistrict2x2_Building_Level1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 129,
+        "rx": 912,
+        "ry": 935
       }
     ],
     "fx": []
@@ -17092,7 +17257,7 @@
       {
         "x": 0,
         "y": 0,
-        "w": 92,
+        "w": 98,
         "h": 151,
         "rx": 963,
         "ry": 894
@@ -17122,7 +17287,7 @@
       {
         "x": 0,
         "y": 0,
-        "w": 94,
+        "w": 99,
         "h": 161,
         "rx": 963,
         "ry": 884
@@ -17152,7 +17317,7 @@
       {
         "x": 0,
         "y": 0,
-        "w": 94,
+        "w": 98,
         "h": 181,
         "rx": 963,
         "ry": 864
@@ -17182,7 +17347,7 @@
       {
         "x": 0,
         "y": 0,
-        "w": 96,
+        "w": 98,
         "h": 204,
         "rx": 963,
         "ry": 841
@@ -17212,7 +17377,7 @@
       {
         "x": 0,
         "y": 0,
-        "w": 91,
+        "w": 98,
         "h": 209,
         "rx": 963,
         "ry": 837
@@ -24451,6 +24616,52 @@
         "y": -63,
         "scale": 0.25,
         "name": "smokeHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "holGranary": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/holGranary/holGranary.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 107,
+        "h": 170,
+        "rx": 961,
+        "ry": 873
+      }
+    ],
+    "fx": [
+      {
+        "x": 18,
+        "y": -63,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "holToolsmith": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/holToolsmith/holToolsmith.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 119,
+        "h": 172,
+        "rx": 949,
+        "ry": 873
+      }
+    ],
+    "fx": [
+      {
+        "x": 24,
+        "y": -63,
+        "scale": 0.25,
+        "name": "damageHolder",
         "rotation": 0
       }
     ]
@@ -56234,9 +56445,219 @@
       {
         "x": 0,
         "y": 0,
-        "w": 51,
+        "w": 53,
         "h": 50,
-        "rx": 974,
+        "rx": 973,
+        "ry": 975
+      }
+    ],
+    "fx": []
+  },
+  "icon_commander_36": {
+    "pid": 1,
+    "url": "x384/Equipment/Equipment/icon_commander_36.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 50,
+        "rx": 973,
+        "ry": 975
+      }
+    ],
+    "fx": []
+  },
+  "icon_commander_37": {
+    "pid": 1,
+    "url": "x384/Equipment/Equipment/icon_commander_37.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 50,
+        "rx": 973,
+        "ry": 975
+      }
+    ],
+    "fx": []
+  },
+  "icon_commander_38": {
+    "pid": 1,
+    "url": "x384/Equipment/Equipment/icon_commander_38.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 50,
+        "rx": 973,
+        "ry": 975
+      }
+    ],
+    "fx": []
+  },
+  "icon_commander_39": {
+    "pid": 1,
+    "url": "x384/Equipment/Equipment/icon_commander_39.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 50,
+        "rx": 973,
+        "ry": 975
+      }
+    ],
+    "fx": []
+  },
+  "icon_commander_40": {
+    "pid": 1,
+    "url": "x384/Equipment/Equipment/icon_commander_40.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 50,
+        "rx": 973,
+        "ry": 975
+      }
+    ],
+    "fx": []
+  },
+  "icon_commander_41": {
+    "pid": 1,
+    "url": "x384/Equipment/Equipment/icon_commander_41.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 50,
+        "rx": 973,
+        "ry": 975
+      }
+    ],
+    "fx": []
+  },
+  "icon_commander_42": {
+    "pid": 1,
+    "url": "x384/Equipment/Equipment/icon_commander_42.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 50,
+        "rx": 973,
+        "ry": 975
+      }
+    ],
+    "fx": []
+  },
+  "icon_commander_43": {
+    "pid": 1,
+    "url": "x384/Equipment/Equipment/icon_commander_43.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 50,
+        "rx": 973,
+        "ry": 975
+      }
+    ],
+    "fx": []
+  },
+  "icon_commander_44": {
+    "pid": 1,
+    "url": "x384/Equipment/Equipment/icon_commander_44.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 50,
+        "rx": 973,
+        "ry": 975
+      }
+    ],
+    "fx": []
+  },
+  "icon_commander_45": {
+    "pid": 1,
+    "url": "x384/Equipment/Equipment/icon_commander_45.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 50,
+        "rx": 973,
+        "ry": 975
+      }
+    ],
+    "fx": []
+  },
+  "icon_commander_46": {
+    "pid": 1,
+    "url": "x384/Equipment/Equipment/icon_commander_46.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 50,
+        "rx": 973,
+        "ry": 975
+      }
+    ],
+    "fx": []
+  },
+  "icon_commander_47": {
+    "pid": 1,
+    "url": "x384/Equipment/Equipment/icon_commander_47.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 50,
+        "rx": 973,
+        "ry": 975
+      }
+    ],
+    "fx": []
+  },
+  "icon_commander_48": {
+    "pid": 1,
+    "url": "x384/Equipment/Equipment/icon_commander_48.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 50,
+        "rx": 973,
+        "ry": 975
+      }
+    ],
+    "fx": []
+  },
+  "icon_commander_49": {
+    "pid": 1,
+    "url": "x384/Equipment/Equipment/icon_commander_49.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 50,
+        "rx": 973,
         "ry": 975
       }
     ],
@@ -66525,6 +66946,21 @@
         "x": 0,
         "y": 0,
         "w": 66,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1140": {
+    "pid": 0,
+    "url": "x384/Equipment/EquipmentShared/items_unique_1140_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
         "h": 65,
         "rx": 967,
         "ry": 967
@@ -77460,6 +77896,21 @@
     ],
     "fx": []
   },
+  "icon_ci_effect_beefproduction": {
+    "pid": 0,
+    "url": "x384/Icons/CI_Icons/icon_ci_effect_beefproduction.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 57,
+        "rx": 972,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
   "icon_ci_effect_blackleague": {
     "pid": 2,
     "url": "x384/Misc/CI_Icons/icon_ci_effect_blackleague.png",
@@ -77576,6 +78027,21 @@
         "h": 57,
         "rx": 974,
         "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "icon_ci_effect_hol": {
+    "pid": 0,
+    "url": "x384/Icons/CI_Icons/icon_ci_effect_hol.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 47,
+        "rx": 976,
+        "ry": 976
       }
     ],
     "fx": []
@@ -95325,6 +95791,36 @@
     ],
     "fx": []
   },
+  "icon_helpshift_bot_support": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_helpshift_bot_support.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "icon_helpshift_community_support": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_helpshift_community_support.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 59,
+        "rx": 967,
+        "ry": 970
+      }
+    ],
+    "fx": []
+  },
   "icon_hol_coming_soon_building_xl": {
     "pid": 0,
     "url": "x384/Icons/Icons/icon_hol_coming_soon_building_xl.png",
@@ -98640,6 +99136,21 @@
     ],
     "fx": []
   },
+  "icon_productivity_beef_big": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_productivity_beef_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 57,
+        "rx": 972,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
   "icon_productivity_beef_booster": {
     "pid": 0,
     "url": "x384/Icons/Icons/icon_productivity_beef_booster.png",
@@ -98996,6 +99507,21 @@
         "h": 57,
         "rx": 963,
         "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "icon_publicorder_cumulative": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_publicorder_cumulative.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 35,
+        "rx": 982,
+        "ry": 982
       }
     ],
     "fx": []
@@ -107351,6 +107877,21 @@
         "h": 25,
         "rx": 983,
         "ry": 987
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_unboostedBeefProduction": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_productivity_beef_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 31,
+        "h": 32,
+        "rx": 984,
+        "ry": 984
       }
     ],
     "fx": []
@@ -119580,36 +120121,6 @@
     ],
     "fx": []
   },
-  "global_primetime_background_AprilFools2024": {
-    "pid": 1,
-    "url": "x384/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_AprilFools2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 641,
-        "h": 801,
-        "rx": 679,
-        "ry": 599
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_background_Easter2024": {
-    "pid": 1,
-    "url": "x384/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_Easter2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 769,
-        "h": 867,
-        "rx": 615,
-        "ry": 566
-      }
-    ],
-    "fx": []
-  },
   "global_primetime_background_generic1": {
     "pid": 1,
     "url": "x384/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_generic1.png",
@@ -119655,84 +120166,9 @@
     ],
     "fx": []
   },
-  "global_primetime_background_IndependenceDay2024": {
-    "pid": 1,
-    "url": "x384/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_IndependenceDay2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 641,
-        "h": 801,
-        "rx": 679,
-        "ry": 599
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_background_Spring2024": {
-    "pid": 1,
-    "url": "x384/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_Spring2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 641,
-        "h": 801,
-        "rx": 679,
-        "ry": 599
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_background_SummerJun2024": {
-    "pid": 1,
-    "url": "x384/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_SummerJun2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 769,
-        "h": 867,
-        "rx": 615,
-        "ry": 566
-      }
-    ],
-    "fx": []
-  },
   "global_primetime_hub_teaser_Anniversary2024": {
     "pid": 1,
     "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_Anniversary2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 769,
-        "h": 666,
-        "rx": 615,
-        "ry": 667
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_hub_teaser_AprilFools2024": {
-    "pid": 1,
-    "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_AprilFools2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 769,
-        "h": 666,
-        "rx": 615,
-        "ry": 667
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_hub_teaser_Easter2024": {
-    "pid": 1,
-    "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_Easter2024.png",
     "frames": [
       {
         "x": 0,
@@ -119775,99 +120211,9 @@
     ],
     "fx": []
   },
-  "global_primetime_hub_teaser_IndependenceDay2024": {
-    "pid": 1,
-    "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_IndependenceDay2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 769,
-        "h": 666,
-        "rx": 615,
-        "ry": 667
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_hub_teaser_Spring2024": {
-    "pid": 1,
-    "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_Spring2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 769,
-        "h": 666,
-        "rx": 615,
-        "ry": 667
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_hub_teaser_SummerJuly2024": {
-    "pid": 1,
-    "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_SummerJuly2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 769,
-        "h": 666,
-        "rx": 615,
-        "ry": 667
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_hub_teaser_SummerJun2024": {
-    "pid": 1,
-    "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_SummerJun2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 769,
-        "h": 666,
-        "rx": 615,
-        "ry": 667
-      }
-    ],
-    "fx": []
-  },
   "global_primetime_teaser_Anniversary2024": {
     "pid": 1,
     "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_Anniversary2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 651,
-        "h": 586,
-        "rx": 674,
-        "ry": 707
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_teaser_AprilFools2024": {
-    "pid": 1,
-    "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_AprilFools2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 625,
-        "h": 493,
-        "rx": 687,
-        "ry": 753
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_teaser_Easter2024": {
-    "pid": 1,
-    "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_Easter2024.png",
     "frames": [
       {
         "x": 0,
@@ -119921,81 +120267,6 @@
         "h": 179,
         "rx": 615,
         "ry": 871
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_teaser_IndependenceDay2024": {
-    "pid": 1,
-    "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_IndependenceDay2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 625,
-        "h": 493,
-        "rx": 687,
-        "ry": 753
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_teaser_Spring2024": {
-    "pid": 1,
-    "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_Spring2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 625,
-        "h": 493,
-        "rx": 687,
-        "ry": 753
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_teaser_SummerJuly2024": {
-    "pid": 1,
-    "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_SummerJuly2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 763,
-        "h": 665,
-        "rx": 616,
-        "ry": 645
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_teaser_SummerJuly2024Front": {
-    "pid": 1,
-    "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_SummerJuly2024Front.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 801,
-        "h": 101,
-        "rx": 599,
-        "ry": 949
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_teaser_SummerJun2024": {
-    "pid": 1,
-    "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_SummerJun2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 651,
-        "h": 586,
-        "rx": 674,
-        "ry": 707
       }
     ],
     "fx": []
@@ -120720,51 +120991,6 @@
     ],
     "fx": []
   },
-  "Teaser_OffersHub_Big_WhaleChest_2": {
-    "pid": 0,
-    "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_2.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 770,
-        "h": 333,
-        "rx": 615,
-        "ry": 833
-      }
-    ],
-    "fx": []
-  },
-  "Teaser_OffersHub_Big_WhaleChest_3": {
-    "pid": 0,
-    "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_3.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 770,
-        "h": 333,
-        "rx": 615,
-        "ry": 833
-      }
-    ],
-    "fx": []
-  },
-  "Teaser_OffersHub_Big_WhaleChest_4": {
-    "pid": 0,
-    "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_4.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 770,
-        "h": 334,
-        "rx": 615,
-        "ry": 833
-      }
-    ],
-    "fx": []
-  },
   "Teaser_OffersHub_Big_WhaleChest_5": {
     "pid": 0,
     "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_5.png",
@@ -120780,9 +121006,9 @@
     ],
     "fx": []
   },
-  "Teaser_OffersHub_Big_WhaleChest_6": {
+  "Teaser_OffersHub_Big_WhaleChest_10": {
     "pid": 0,
-    "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_6.png",
+    "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_10.png",
     "frames": [
       {
         "x": 0,
@@ -120795,54 +121021,9 @@
     ],
     "fx": []
   },
-  "Teaser_OffersHub_Big_WhaleChest_7": {
-    "pid": 0,
-    "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_7.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 769,
-        "h": 335,
-        "rx": 615,
-        "ry": 832
-      }
-    ],
-    "fx": []
-  },
-  "Teaser_OffersHub_Big_WhaleChest_8": {
-    "pid": 0,
-    "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_8.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 770,
-        "h": 334,
-        "rx": 614,
-        "ry": 832
-      }
-    ],
-    "fx": []
-  },
-  "Teaser_OffersHub_Big_WhaleChest_9": {
-    "pid": 0,
-    "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_9.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 769,
-        "h": 334,
-        "rx": 615,
-        "ry": 833
-      }
-    ],
-    "fx": []
-  },
-  "Teaser_OffersHub_Big_WhaleChest_10": {
-    "pid": 0,
-    "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_10.png",
+  "Teaser_OffersHub_Big_WhaleChest_15": {
+    "pid": 1,
+    "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_15.png",
     "frames": [
       {
         "x": 0,
@@ -121981,21 +122162,6 @@
     "fx": []
   },
   "Teaser_OffersHub_Big_40": {
-    "pid": 1,
-    "url": "x384/Misc/TeasersShared/Teaser_OffersHub_Big_40_Shared.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 769,
-        "h": 333,
-        "rx": 615,
-        "ry": 833
-      }
-    ],
-    "fx": []
-  },
-  "Teaser_OffersHub_Big_WhaleChest_15": {
     "pid": 1,
     "url": "x384/Misc/TeasersShared/Teaser_OffersHub_Big_40_Shared.png",
     "frames": [

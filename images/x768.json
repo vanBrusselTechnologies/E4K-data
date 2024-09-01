@@ -4288,9 +4288,9 @@
       {
         "x": 0,
         "y": 0,
-        "w": 208,
-        "h": 358,
-        "rx": 928,
+        "w": 217,
+        "h": 359,
+        "rx": 919,
         "ry": 723
       }
     ],
@@ -7226,6 +7226,96 @@
     ],
     "fx": []
   },
+  "Deco_Building_CarnivorousPlantT1": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_CarnivorousPlantT1/Deco_Building_CarnivorousPlantT1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 68,
+        "rx": 998,
+        "ry": 961
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_CarnivorousPlantT2": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_CarnivorousPlantT2/Deco_Building_CarnivorousPlantT2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 87,
+        "rx": 999,
+        "ry": 941
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_CarnivorousPlantT3": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_CarnivorousPlantT3/Deco_Building_CarnivorousPlantT3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 60,
+        "h": 107,
+        "rx": 993,
+        "ry": 920
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_CarnivorousPlantT4Green": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_CarnivorousPlantT4Green/Deco_Building_CarnivorousPlantT4Green.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 94,
+        "h": 147,
+        "rx": 968,
+        "ry": 882
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_CarnivorousPlantT4Purple": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_CarnivorousPlantT4Purple/Deco_Building_CarnivorousPlantT4Purple.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 94,
+        "h": 147,
+        "rx": 968,
+        "ry": 882
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_CarnivorousPlantT4Red": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_CarnivorousPlantT4Red/Deco_Building_CarnivorousPlantT4Red.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 94,
+        "h": 147,
+        "rx": 968,
+        "ry": 882
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_CarriageDistrictDeco": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_CarriageDistrictDeco/Deco_Building_CarriageDistrictDeco.png",
@@ -8089,6 +8179,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_exaltedLivestockHut": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_exaltedLivestockHut/Deco_Building_exaltedLivestockHut.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 271,
+        "h": 265,
+        "rx": 837,
+        "ry": 864
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedPurpleLavaShrineofDuality": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_ExaltedPurpleLavaShrineofDuality/Deco_Building_ExaltedPurpleLavaShrineofDuality.png",
@@ -8130,6 +8235,36 @@
         "h": 362,
         "rx": 597,
         "ry": 925
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_exaltedShabbyLivestockHut": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_exaltedShabbyLivestockHut/Deco_Building_exaltedShabbyLivestockHut.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 271,
+        "h": 265,
+        "rx": 837,
+        "ry": 864
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_exaltedSturdyLivestockHut": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_exaltedSturdyLivestockHut/Deco_Building_exaltedSturdyLivestockHut.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 271,
+        "h": 265,
+        "rx": 837,
+        "ry": 864
       }
     ],
     "fx": []
@@ -10376,6 +10511,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_royalDesertTable": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_royalDesertTable/Deco_Building_royalDesertTable.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 107,
+        "rx": 982,
+        "ry": 921
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_RoyalGallery": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_RoyalGallery/Deco_Building_RoyalGallery.png",
@@ -12407,6 +12557,21 @@
         "h": 62,
         "rx": 984,
         "ry": 978
+      }
+    ],
+    "fx": []
+  },
+  "DecoDistrict2x2_Building_Level1": {
+    "pid": 0,
+    "url": "x768/Buildings/DecoDistrict/DecoDistrict2x2_Building_Level1/DecoDistrict2x2_Building_Level1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 297,
+        "h": 257,
+        "rx": 826,
+        "ry": 871
       }
     ],
     "fx": []
@@ -17092,7 +17257,7 @@
       {
         "x": 0,
         "y": 0,
-        "w": 183,
+        "w": 194,
         "h": 301,
         "rx": 927,
         "ry": 789
@@ -17122,7 +17287,7 @@
       {
         "x": 0,
         "y": 0,
-        "w": 186,
+        "w": 196,
         "h": 321,
         "rx": 927,
         "ry": 769
@@ -17152,7 +17317,7 @@
       {
         "x": 0,
         "y": 0,
-        "w": 186,
+        "w": 195,
         "h": 361,
         "rx": 927,
         "ry": 729
@@ -17182,7 +17347,7 @@
       {
         "x": 0,
         "y": 0,
-        "w": 190,
+        "w": 195,
         "h": 406,
         "rx": 927,
         "ry": 684
@@ -17212,7 +17377,7 @@
       {
         "x": 0,
         "y": 0,
-        "w": 181,
+        "w": 194,
         "h": 416,
         "rx": 927,
         "ry": 676
@@ -24451,6 +24616,52 @@
         "y": -125,
         "scale": 0.5,
         "name": "smokeHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "holGranary": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/holGranary/holGranary.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 212,
+        "h": 338,
+        "rx": 924,
+        "ry": 747
+      }
+    ],
+    "fx": [
+      {
+        "x": 36,
+        "y": -126,
+        "scale": 0.5,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "holToolsmith": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/holToolsmith/holToolsmith.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 238,
+        "h": 342,
+        "rx": 898,
+        "ry": 747
+      }
+    ],
+    "fx": [
+      {
+        "x": 49,
+        "y": -126,
+        "scale": 0.5,
+        "name": "damageHolder",
         "rotation": 0
       }
     ]
@@ -56234,10 +56445,220 @@
       {
         "x": 0,
         "y": 0,
-        "w": 99,
-        "h": 99,
-        "rx": 950,
-        "ry": 950
+        "w": 105,
+        "h": 98,
+        "rx": 947,
+        "ry": 951
+      }
+    ],
+    "fx": []
+  },
+  "icon_commander_36": {
+    "pid": 1,
+    "url": "x768/Equipment/Equipment/icon_commander_36.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 98,
+        "rx": 947,
+        "ry": 951
+      }
+    ],
+    "fx": []
+  },
+  "icon_commander_37": {
+    "pid": 1,
+    "url": "x768/Equipment/Equipment/icon_commander_37.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 98,
+        "rx": 947,
+        "ry": 951
+      }
+    ],
+    "fx": []
+  },
+  "icon_commander_38": {
+    "pid": 1,
+    "url": "x768/Equipment/Equipment/icon_commander_38.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 98,
+        "rx": 947,
+        "ry": 951
+      }
+    ],
+    "fx": []
+  },
+  "icon_commander_39": {
+    "pid": 1,
+    "url": "x768/Equipment/Equipment/icon_commander_39.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 98,
+        "rx": 947,
+        "ry": 951
+      }
+    ],
+    "fx": []
+  },
+  "icon_commander_40": {
+    "pid": 1,
+    "url": "x768/Equipment/Equipment/icon_commander_40.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 98,
+        "rx": 947,
+        "ry": 951
+      }
+    ],
+    "fx": []
+  },
+  "icon_commander_41": {
+    "pid": 1,
+    "url": "x768/Equipment/Equipment/icon_commander_41.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 98,
+        "rx": 947,
+        "ry": 951
+      }
+    ],
+    "fx": []
+  },
+  "icon_commander_42": {
+    "pid": 1,
+    "url": "x768/Equipment/Equipment/icon_commander_42.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 98,
+        "rx": 947,
+        "ry": 951
+      }
+    ],
+    "fx": []
+  },
+  "icon_commander_43": {
+    "pid": 1,
+    "url": "x768/Equipment/Equipment/icon_commander_43.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 98,
+        "rx": 947,
+        "ry": 951
+      }
+    ],
+    "fx": []
+  },
+  "icon_commander_44": {
+    "pid": 1,
+    "url": "x768/Equipment/Equipment/icon_commander_44.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 98,
+        "rx": 947,
+        "ry": 951
+      }
+    ],
+    "fx": []
+  },
+  "icon_commander_45": {
+    "pid": 1,
+    "url": "x768/Equipment/Equipment/icon_commander_45.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 98,
+        "rx": 947,
+        "ry": 951
+      }
+    ],
+    "fx": []
+  },
+  "icon_commander_46": {
+    "pid": 1,
+    "url": "x768/Equipment/Equipment/icon_commander_46.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 98,
+        "rx": 947,
+        "ry": 951
+      }
+    ],
+    "fx": []
+  },
+  "icon_commander_47": {
+    "pid": 1,
+    "url": "x768/Equipment/Equipment/icon_commander_47.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 98,
+        "rx": 947,
+        "ry": 951
+      }
+    ],
+    "fx": []
+  },
+  "icon_commander_48": {
+    "pid": 1,
+    "url": "x768/Equipment/Equipment/icon_commander_48.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 98,
+        "rx": 947,
+        "ry": 951
+      }
+    ],
+    "fx": []
+  },
+  "icon_commander_49": {
+    "pid": 1,
+    "url": "x768/Equipment/Equipment/icon_commander_49.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 98,
+        "rx": 947,
+        "ry": 951
       }
     ],
     "fx": []
@@ -66525,6 +66946,21 @@
         "x": 0,
         "y": 0,
         "w": 130,
+        "h": 129,
+        "rx": 935,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1140": {
+    "pid": 0,
+    "url": "x768/Equipment/EquipmentShared/items_unique_1140_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 129,
         "h": 129,
         "rx": 935,
         "ry": 935
@@ -77460,6 +77896,21 @@
     ],
     "fx": []
   },
+  "icon_ci_effect_beefproduction": {
+    "pid": 0,
+    "url": "x768/Icons/CI_Icons/icon_ci_effect_beefproduction.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 107,
+        "h": 111,
+        "rx": 946,
+        "ry": 944
+      }
+    ],
+    "fx": []
+  },
   "icon_ci_effect_blackleague": {
     "pid": 2,
     "url": "x768/Misc/CI_Icons/icon_ci_effect_blackleague.png",
@@ -77576,6 +78027,21 @@
         "h": 113,
         "rx": 949,
         "ry": 943
+      }
+    ],
+    "fx": []
+  },
+  "icon_ci_effect_hol": {
+    "pid": 0,
+    "url": "x768/Icons/CI_Icons/icon_ci_effect_hol.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 93,
+        "h": 93,
+        "rx": 953,
+        "ry": 953
       }
     ],
     "fx": []
@@ -95325,6 +95791,36 @@
     ],
     "fx": []
   },
+  "icon_helpshift_bot_support": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_helpshift_bot_support.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 129,
+        "h": 129,
+        "rx": 935,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
+  "icon_helpshift_community_support": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_helpshift_community_support.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 129,
+        "h": 117,
+        "rx": 935,
+        "ry": 941
+      }
+    ],
+    "fx": []
+  },
   "icon_hol_coming_soon_building_xl": {
     "pid": 0,
     "url": "x768/Icons/Icons/icon_hol_coming_soon_building_xl.png",
@@ -98640,6 +99136,21 @@
     ],
     "fx": []
   },
+  "icon_productivity_beef_big": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_productivity_beef_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 107,
+        "h": 111,
+        "rx": 946,
+        "ry": 944
+      }
+    ],
+    "fx": []
+  },
   "icon_productivity_beef_booster": {
     "pid": 0,
     "url": "x768/Icons/Icons/icon_productivity_beef_booster.png",
@@ -98996,6 +99507,21 @@
         "h": 113,
         "rx": 927,
         "ry": 943
+      }
+    ],
+    "fx": []
+  },
+  "icon_publicorder_cumulative": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_publicorder_cumulative.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 67,
+        "rx": 966,
+        "ry": 966
       }
     ],
     "fx": []
@@ -107351,6 +107877,21 @@
         "h": 47,
         "rx": 968,
         "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_unboostedBeefProduction": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_productivity_beef_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 62,
+        "rx": 970,
+        "ry": 969
       }
     ],
     "fx": []
@@ -119580,36 +120121,6 @@
     ],
     "fx": []
   },
-  "global_primetime_background_AprilFools2024": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_AprilFools2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1281,
-        "h": 1601,
-        "rx": 359,
-        "ry": 199
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_background_Easter2024": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_Easter2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1535,
-        "h": 1733,
-        "rx": 232,
-        "ry": 133
-      }
-    ],
-    "fx": []
-  },
   "global_primetime_background_generic1": {
     "pid": 1,
     "url": "x768/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_generic1.png",
@@ -119655,84 +120166,9 @@
     ],
     "fx": []
   },
-  "global_primetime_background_IndependenceDay2024": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_IndependenceDay2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1281,
-        "h": 1601,
-        "rx": 359,
-        "ry": 199
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_background_Spring2024": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_Spring2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1281,
-        "h": 1601,
-        "rx": 359,
-        "ry": 199
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_background_SummerJun2024": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_SummerJun2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1535,
-        "h": 1733,
-        "rx": 232,
-        "ry": 133
-      }
-    ],
-    "fx": []
-  },
   "global_primetime_hub_teaser_Anniversary2024": {
     "pid": 1,
     "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_Anniversary2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1537,
-        "h": 1331,
-        "rx": 231,
-        "ry": 334
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_hub_teaser_AprilFools2024": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_AprilFools2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1537,
-        "h": 1331,
-        "rx": 231,
-        "ry": 334
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_hub_teaser_Easter2024": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_Easter2024.png",
     "frames": [
       {
         "x": 0,
@@ -119775,99 +120211,9 @@
     ],
     "fx": []
   },
-  "global_primetime_hub_teaser_IndependenceDay2024": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_IndependenceDay2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1537,
-        "h": 1331,
-        "rx": 231,
-        "ry": 334
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_hub_teaser_Spring2024": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_Spring2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1537,
-        "h": 1331,
-        "rx": 231,
-        "ry": 334
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_hub_teaser_SummerJuly2024": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_SummerJuly2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1537,
-        "h": 1331,
-        "rx": 231,
-        "ry": 334
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_hub_teaser_SummerJun2024": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_SummerJun2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1537,
-        "h": 1331,
-        "rx": 231,
-        "ry": 334
-      }
-    ],
-    "fx": []
-  },
   "global_primetime_teaser_Anniversary2024": {
     "pid": 1,
     "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_Anniversary2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1301,
-        "h": 1171,
-        "rx": 349,
-        "ry": 414
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_teaser_AprilFools2024": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_AprilFools2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1249,
-        "h": 985,
-        "rx": 375,
-        "ry": 507
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_teaser_Easter2024": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_Easter2024.png",
     "frames": [
       {
         "x": 0,
@@ -119921,81 +120267,6 @@
         "h": 357,
         "rx": 231,
         "ry": 743
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_teaser_IndependenceDay2024": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_IndependenceDay2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1249,
-        "h": 985,
-        "rx": 375,
-        "ry": 507
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_teaser_Spring2024": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_Spring2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1249,
-        "h": 985,
-        "rx": 375,
-        "ry": 507
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_teaser_SummerJuly2024": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_SummerJuly2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1524,
-        "h": 1330,
-        "rx": 234,
-        "ry": 290
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_teaser_SummerJuly2024Front": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_SummerJuly2024Front.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1601,
-        "h": 201,
-        "rx": 199,
-        "ry": 899
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_teaser_SummerJun2024": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_SummerJun2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1301,
-        "h": 1171,
-        "rx": 349,
-        "ry": 414
       }
     ],
     "fx": []
@@ -120720,51 +120991,6 @@
     ],
     "fx": []
   },
-  "Teaser_OffersHub_Big_WhaleChest_2": {
-    "pid": 0,
-    "url": "x768/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_2.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1538,
-        "h": 665,
-        "rx": 231,
-        "ry": 667
-      }
-    ],
-    "fx": []
-  },
-  "Teaser_OffersHub_Big_WhaleChest_3": {
-    "pid": 0,
-    "url": "x768/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_3.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1538,
-        "h": 665,
-        "rx": 231,
-        "ry": 667
-      }
-    ],
-    "fx": []
-  },
-  "Teaser_OffersHub_Big_WhaleChest_4": {
-    "pid": 0,
-    "url": "x768/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_4.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1538,
-        "h": 666,
-        "rx": 231,
-        "ry": 667
-      }
-    ],
-    "fx": []
-  },
   "Teaser_OffersHub_Big_WhaleChest_5": {
     "pid": 0,
     "url": "x768/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_5.png",
@@ -120780,9 +121006,9 @@
     ],
     "fx": []
   },
-  "Teaser_OffersHub_Big_WhaleChest_6": {
+  "Teaser_OffersHub_Big_WhaleChest_10": {
     "pid": 0,
-    "url": "x768/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_6.png",
+    "url": "x768/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_10.png",
     "frames": [
       {
         "x": 0,
@@ -120795,54 +121021,9 @@
     ],
     "fx": []
   },
-  "Teaser_OffersHub_Big_WhaleChest_7": {
-    "pid": 0,
-    "url": "x768/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_7.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1537,
-        "h": 667,
-        "rx": 231,
-        "ry": 666
-      }
-    ],
-    "fx": []
-  },
-  "Teaser_OffersHub_Big_WhaleChest_8": {
-    "pid": 0,
-    "url": "x768/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_8.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1538,
-        "h": 666,
-        "rx": 230,
-        "ry": 666
-      }
-    ],
-    "fx": []
-  },
-  "Teaser_OffersHub_Big_WhaleChest_9": {
-    "pid": 0,
-    "url": "x768/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_9.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1537,
-        "h": 667,
-        "rx": 231,
-        "ry": 666
-      }
-    ],
-    "fx": []
-  },
-  "Teaser_OffersHub_Big_WhaleChest_10": {
-    "pid": 0,
-    "url": "x768/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_10.png",
+  "Teaser_OffersHub_Big_WhaleChest_15": {
+    "pid": 1,
+    "url": "x768/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_15.png",
     "frames": [
       {
         "x": 0,
@@ -121981,21 +122162,6 @@
     "fx": []
   },
   "Teaser_OffersHub_Big_40": {
-    "pid": 1,
-    "url": "x768/Misc/TeasersShared/Teaser_OffersHub_Big_40_Shared.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1537,
-        "h": 665,
-        "rx": 231,
-        "ry": 667
-      }
-    ],
-    "fx": []
-  },
-  "Teaser_OffersHub_Big_WhaleChest_15": {
     "pid": 1,
     "url": "x768/Misc/TeasersShared/Teaser_OffersHub_Big_40_Shared.png",
     "frames": [

@@ -3604,6 +3604,14 @@
       "capID": 99
     },
     {
+      "effectID": 378,
+      "crossplayID": 378,
+      "name": "unboostedBeefProductionCapped",
+      "effectTypeID": 190,
+      "capID": 49,
+      "sortOrder": "7.10.1"
+    },
+    {
       "effectID": 2101,
       "name": "relicOffensiveMeleeBonus",
       "effectTypeID": 23,

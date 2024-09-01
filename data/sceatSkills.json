@@ -862,7 +862,7 @@
       "requiredBuildings": 1938,
       "requiredLegendLevel": 785,
       "costSceatToken": 3500,
-      "activationTime": 1728000,
+      "activationTime": 3456000,
       "effects": "180&amp;252"
     },
     {
@@ -4311,12 +4311,11 @@
       "skillTreeID": 7,
       "tier": 2,
       "sortOrder": 722,
-      "isPreview": 1,
       "requiredBuildings": 2987,
       "requiredLegendLevel": 950,
       "costImperialDucat": 300,
       "activationTime": 2073600,
-      "effects": "180&amp;2987"
+      "effects": "180&amp;2999"
     },
     {
       "skillID": 370,
@@ -4327,12 +4326,11 @@
       "skillTreeID": 7,
       "tier": 2,
       "sortOrder": 723,
-      "isPreview": 1,
       "requiredBuildings": 2987,
       "requiredLegendLevel": 950,
       "costImperialDucat": 300,
       "activationTime": 2073600,
-      "effects": "180&amp;2987"
+      "effects": "180&amp;3138"
     },
     {
       "skillID": 371,
@@ -4343,12 +4341,11 @@
       "skillTreeID": 7,
       "tier": 2,
       "sortOrder": 724,
-      "isPreview": 1,
       "requiredBuildings": 2987,
       "requiredLegendLevel": 950,
       "costImperialDucat": 300,
       "activationTime": 2073600,
-      "effects": "180&amp;2987"
+      "effects": "180&amp;3140"
     },
     {
       "skillID": 372,
@@ -4389,12 +4386,11 @@
       "skillTreeID": 7,
       "tier": 3,
       "sortOrder": 733,
-      "isPreview": 1,
       "requiredBuildings": 2987,
       "requiredLegendLevel": 950,
       "costImperialDucat": 250,
       "activationTime": 2073600,
-      "effects": "180&amp;2987"
+      "effects": "180&amp;2990"
     },
     {
       "skillID": 375,
@@ -4406,12 +4402,11 @@
       "skillTreeID": 7,
       "tier": 4,
       "sortOrder": 741,
-      "isPreview": 1,
       "requiredBuildings": 2987,
       "requiredLegendLevel": 950,
       "costImperialDucat": 250,
       "activationTime": 2073600,
-      "effects": "180&amp;2987"
+      "effects": "180&amp;3073"
     },
     {
       "skillID": 376,
@@ -4420,16 +4415,15 @@
       "requiredSkillID": 375,
       "followingSkillID": 377,
       "skillGroupID": 57,
-      "level": 1,
+      "level": 2,
       "skillTreeID": 7,
       "tier": 4,
       "sortOrder": 741,
-      "isPreview": 1,
-      "requiredBuildings": 2987,
+      "requiredBuildings": 3078,
       "requiredLegendLevel": 950,
       "costImperialDucat": 250,
       "activationTime": 2073600,
-      "effects": "180&amp;2987"
+      "effects": "180&amp;3079,180&amp;3073"
     },
     {
       "skillID": 377,
@@ -4437,16 +4431,15 @@
       "previousSkillID": 376,
       "requiredSkillID": 376,
       "skillGroupID": 57,
-      "level": 1,
+      "level": 3,
       "skillTreeID": 7,
       "tier": 4,
       "sortOrder": 741,
-      "isPreview": 1,
-      "requiredBuildings": 2987,
+      "requiredBuildings": 3081,
       "requiredLegendLevel": 950,
       "costImperialDucat": 250,
       "activationTime": 2073600,
-      "effects": "180&amp;2987"
+      "effects": "180&amp;3082,180&amp;3073,180&amp;3079"
     },
     {
       "skillID": 378,
@@ -4523,7 +4516,7 @@
       "requiredLegendLevel": 950,
       "costImperialDucat": 300,
       "activationTime": 2073600,
-      "effects": "180&amp;2998"
+      "effects": "180&amp;2998,180&amp;3175"
     },
     {
       "skillID": 383,
@@ -4655,7 +4648,7 @@
       "requiredLegendLevel": 950,
       "costImperialDucat": 250,
       "activationTime": 2073600,
-      "effects": "180&amp;3136,180&amp;3117,180&amp;3121,180&amp;3126,180&amp;3136"
+      "effects": "180&amp;3136,180&amp;3117,180&amp;3121,180&amp;3126,180&amp;3131"
     },
     {
       "skillID": 391,

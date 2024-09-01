@@ -898,7 +898,7 @@ export interface ConstructionItem {
     "addRarePaint"?: number;
     "addRareRope"?: number;
     "comment1": string;
-    "comment2": string;
+    "comment2"?: string;
     "constructionItemEffectGroupID": number;
     "constructionItemGroupID": number;
     "constructionItemID": number;
@@ -2413,6 +2413,7 @@ export interface Package {
     "addTeaTimeBoosterKey"?: number;
     "addTonic"?: number;
     "addTonicBooster"?: number;
+    "amountBeef"?: number;
     "amountC1"?: number;
     "amountCoal"?: number;
     "amountFood"?: number;
@@ -3104,7 +3105,6 @@ export interface SceatSkill {
     "crossplayID"?: number;
     "effects": string;
     "followingSkillID"?: number;
-    "isPreview"?: number;
     "level": number;
     "previousSkillID"?: number;
     "requiredBuildings": number | string;
