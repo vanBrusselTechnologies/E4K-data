@@ -394,6 +394,7 @@ export interface Images {
     "Bg_AllianceBattleGround_210_402": ImageData;
     "Bg_AllianceBattleGround_610_210": ImageData;
     "Bg_BuildingDistrict_FreeSlot": ImageData;
+    "Bg_BuildingDistrict_GardenSlot": ImageData;
     "BossDragonDungeon_BG_Volcano": ImageData;
     "BossDragonDungeon_Left_Volcano": ImageData;
     "BossDragonDungeon_Middle_Volcano": ImageData;
@@ -955,12 +956,6 @@ export interface Images {
     "Deco_Building_Cage1": ImageData;
     "Deco_Building_Cage2": ImageData;
     "Deco_Building_CarnivalDecoWithEffect": ImageData;
-    "Deco_Building_CarnivorousPlantT1": ImageData;
-    "Deco_Building_CarnivorousPlantT2": ImageData;
-    "Deco_Building_CarnivorousPlantT3": ImageData;
-    "Deco_Building_CarnivorousPlantT4Green": ImageData;
-    "Deco_Building_CarnivorousPlantT4Purple": ImageData;
-    "Deco_Building_CarnivorousPlantT4Red": ImageData;
     "Deco_Building_CarriageDistrictDeco": ImageData;
     "Deco_Building_Carriagegood": ImageData;
     "Deco_Building_CelebrationOfSpring": ImageData;
@@ -986,6 +981,10 @@ export interface Images {
     "Deco_Building_CrowsCrypt": ImageData;
     "Deco_Building_CrystalFountain": ImageData;
     "Deco_Building_CrystalWaterfall": ImageData;
+    "Deco_Building_CustomBigTree": ImageData;
+    "Deco_Building_CustomFlowers": ImageData;
+    "Deco_Building_CustomShelter": ImageData;
+    "Deco_Building_CustomSmallTree": ImageData;
     "Deco_Building_CyberMondday22": ImageData;
     "Deco_Building_DancingKnight": ImageData;
     "Deco_Building_DarkRoomHalloween": ImageData;
@@ -1110,6 +1109,7 @@ export interface Images {
     "Deco_Building_NobilityGarden": ImageData;
     "Deco_Building_NomadHorseStatue": ImageData;
     "Deco_Building_NutcrackersGrotto": ImageData;
+    "Deco_Building_OktoberfestFair": ImageData;
     "Deco_Building_OktoberfestForestPond": ImageData;
     "Deco_Building_OktoberfestStrength": ImageData;
     "Deco_Building_OnceAndFutureKings": ImageData;
@@ -1255,6 +1255,12 @@ export interface Images {
     "Deco_Building_anniversaryParty": ImageData;
     "Deco_Building_anniversaryPartyEnd": ImageData;
     "Deco_Building_blueSalesFountain": ImageData;
+    "Deco_Building_carnivorousPlantT1": ImageData;
+    "Deco_Building_carnivorousPlantT2": ImageData;
+    "Deco_Building_carnivorousPlantT3": ImageData;
+    "Deco_Building_carnivorousPlantT4Green": ImageData;
+    "Deco_Building_carnivorousPlantT4Purple": ImageData;
+    "Deco_Building_carnivorousPlantT4Red": ImageData;
     "Deco_Building_chaliceOfTheHattrickHero": ImageData;
     "Deco_Building_chineseTiger": ImageData;
     "Deco_Building_christmasCarousel": ImageData;
@@ -5143,6 +5149,9 @@ export interface Images {
     "icon_currency_FatKingToken_medium": ImageData;
     "icon_currency_FatKingToken_medium_ds": ImageData;
     "icon_currency_FatKingToken_small": ImageData;
+    "icon_currency_FloraToken": ImageData;
+    "icon_currency_FloraToken_big": ImageData;
+    "icon_currency_FloraToken_medium": ImageData;
     "icon_currency_FurSkinnerBoosterKey": ImageData;
     "icon_currency_FurSkinnerBoosterKey_big": ImageData;
     "icon_currency_FurSkinnerBoosterKey_medium": ImageData;
@@ -6595,6 +6604,7 @@ export interface Images {
     "icon_middleFlank_flat_dark": ImageData;
     "icon_might_points": ImageData;
     "icon_mightpoints_building_small": ImageData;
+    "icon_mightpoints_cumulative": ImageData;
     "icon_monthly_campaign_round": ImageData;
     "icon_moral_sort_down": ImageData;
     "icon_moral_sort_up": ImageData;

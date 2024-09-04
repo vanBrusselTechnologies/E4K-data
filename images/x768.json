@@ -7226,9 +7226,9 @@
     ],
     "fx": []
   },
-  "Deco_Building_CarnivorousPlantT1": {
+  "Deco_Building_carnivorousPlantT1": {
     "pid": 0,
-    "url": "x768/Buildings/Deco/Deco_Building_CarnivorousPlantT1/Deco_Building_CarnivorousPlantT1.png",
+    "url": "x768/Buildings/Deco/Deco_Building_carnivorousPlantT1/Deco_Building_carnivorousPlantT1.png",
     "frames": [
       {
         "x": 0,
@@ -7241,9 +7241,9 @@
     ],
     "fx": []
   },
-  "Deco_Building_CarnivorousPlantT2": {
+  "Deco_Building_carnivorousPlantT2": {
     "pid": 0,
-    "url": "x768/Buildings/Deco/Deco_Building_CarnivorousPlantT2/Deco_Building_CarnivorousPlantT2.png",
+    "url": "x768/Buildings/Deco/Deco_Building_carnivorousPlantT2/Deco_Building_carnivorousPlantT2.png",
     "frames": [
       {
         "x": 0,
@@ -7256,9 +7256,9 @@
     ],
     "fx": []
   },
-  "Deco_Building_CarnivorousPlantT3": {
+  "Deco_Building_carnivorousPlantT3": {
     "pid": 0,
-    "url": "x768/Buildings/Deco/Deco_Building_CarnivorousPlantT3/Deco_Building_CarnivorousPlantT3.png",
+    "url": "x768/Buildings/Deco/Deco_Building_carnivorousPlantT3/Deco_Building_carnivorousPlantT3.png",
     "frames": [
       {
         "x": 0,
@@ -7271,9 +7271,9 @@
     ],
     "fx": []
   },
-  "Deco_Building_CarnivorousPlantT4Green": {
+  "Deco_Building_carnivorousPlantT4Green": {
     "pid": 0,
-    "url": "x768/Buildings/Deco/Deco_Building_CarnivorousPlantT4Green/Deco_Building_CarnivorousPlantT4Green.png",
+    "url": "x768/Buildings/Deco/Deco_Building_carnivorousPlantT4Green/Deco_Building_carnivorousPlantT4Green.png",
     "frames": [
       {
         "x": 0,
@@ -7286,9 +7286,9 @@
     ],
     "fx": []
   },
-  "Deco_Building_CarnivorousPlantT4Purple": {
+  "Deco_Building_carnivorousPlantT4Purple": {
     "pid": 0,
-    "url": "x768/Buildings/Deco/Deco_Building_CarnivorousPlantT4Purple/Deco_Building_CarnivorousPlantT4Purple.png",
+    "url": "x768/Buildings/Deco/Deco_Building_carnivorousPlantT4Purple/Deco_Building_carnivorousPlantT4Purple.png",
     "frames": [
       {
         "x": 0,
@@ -7301,9 +7301,9 @@
     ],
     "fx": []
   },
-  "Deco_Building_CarnivorousPlantT4Red": {
+  "Deco_Building_carnivorousPlantT4Red": {
     "pid": 0,
-    "url": "x768/Buildings/Deco/Deco_Building_CarnivorousPlantT4Red/Deco_Building_CarnivorousPlantT4Red.png",
+    "url": "x768/Buildings/Deco/Deco_Building_carnivorousPlantT4Red/Deco_Building_carnivorousPlantT4Red.png",
     "frames": [
       {
         "x": 0,
@@ -10117,6 +10117,21 @@
         "h": 209,
         "rx": 832,
         "ry": 931
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_OktoberfestFair": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_OktoberfestFair/Deco_Building_OktoberfestFair.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 299,
+        "h": 269,
+        "rx": 826,
+        "ry": 856
       }
     ],
     "fx": []
@@ -86686,6 +86701,51 @@
     ],
     "fx": []
   },
+  "icon_currency_FloraToken_big": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_FloraToken_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 111,
+        "rx": 944,
+        "ry": 944
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_FloraToken_medium": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_FloraToken_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 93,
+        "h": 93,
+        "rx": 953,
+        "ry": 953
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_FloraToken": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_FloraToken.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 67,
+        "rx": 966,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_food_beige": {
     "pid": 0,
     "url": "x768/Icons/Icons/icon_currency_food_beige.png",
@@ -97825,6 +97885,21 @@
         "y": 0,
         "w": 67,
         "h": 67,
+        "rx": 966,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
+  "icon_mightpoints_cumulative": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_mightpoints_cumulative.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 68,
         "rx": 966,
         "ry": 966
       }
@@ -119892,6 +119967,81 @@
         "h": 221,
         "rx": 786,
         "ry": 889
+      }
+    ],
+    "fx": []
+  },
+  "Bg_BuildingDistrict_GardenSlot": {
+    "pid": 1,
+    "url": "x768/Misc/Miscellaneous/Bg_BuildingDistrict_GardenSlot.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 499,
+        "h": 282,
+        "rx": 750,
+        "ry": 838
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_CustomBigTree": {
+    "pid": 1,
+    "url": "x768/Misc/Miscellaneous/Deco_Building_CustomBigTree.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 141,
+        "h": 154,
+        "rx": 929,
+        "ry": 846
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_CustomFlowers": {
+    "pid": 1,
+    "url": "x768/Misc/Miscellaneous/Deco_Building_CustomFlowers.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 121,
+        "h": 73,
+        "rx": 939,
+        "ry": 927
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_CustomShelter": {
+    "pid": 1,
+    "url": "x768/Misc/Miscellaneous/Deco_Building_CustomShelter.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 124,
+        "h": 186,
+        "rx": 938,
+        "ry": 814
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_CustomSmallTree": {
+    "pid": 1,
+    "url": "x768/Misc/Miscellaneous/Deco_Building_CustomSmallTree.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 102,
+        "h": 103,
+        "rx": 949,
+        "ry": 897
       }
     ],
     "fx": []

@@ -50343,6 +50343,20 @@
       "maxLevel": 69
     },
     {
+      "packageID": 3576,
+      "packageType": "building",
+      "comment1": "decoDistrict2x2",
+      "comment2": "LTPE Shop - decoDistrict2x2 - anniversary",
+      "costAnniversaryToken": 7500,
+      "stock": 1,
+      "sortOrder": 1,
+      "relationIDs": "999,403",
+      "buildingID": 3250,
+      "buildingAmount": 1,
+      "minLevel": 50,
+      "validKingdoms": "0,1,2,3"
+    },
+    {
       "packageID": 3503,
       "packageType": "deco",
       "comment1": "September LTPE Shop - 2024",
@@ -51111,6 +51125,100 @@
       "unitAmount": 10,
       "minLevel": 50,
       "maxLevel": 69
+    },
+    {
+      "packageID": 3577,
+      "packageType": "building",
+      "comment1": "decoDistrict2x2",
+      "comment2": "LTPE Shop - decoDistrict2x2 - oktoberfest",
+      "costOctoberfestLTPEToken": 7500,
+      "stock": 1,
+      "sortOrder": 1,
+      "relationIDs": "999,408",
+      "buildingID": 3250,
+      "buildingAmount": 1,
+      "minLevel": 50,
+      "validKingdoms": "0,1,2,3"
+    },
+    {
+      "packageID": 3570,
+      "packageType": "building",
+      "comment1": "decoDistrict2x2",
+      "comment2": "Gold Shop - decoDistrict2x2 release week low",
+      "costGoldToken": 55000,
+      "stock": 1,
+      "sortOrder": "3,1",
+      "relationIDs": "400,202",
+      "buildingID": 3250,
+      "buildingAmount": 1,
+      "minLevel": 50,
+      "validKingdoms": "0,1,2,3"
+    },
+    {
+      "packageID": 3571,
+      "packageType": "building",
+      "comment1": "decoDistrict2x2",
+      "comment2": "Gold Shop - decoDistrict2x2 release week high",
+      "costGoldToken": 95000,
+      "stock": 1,
+      "sortOrder": "3,2",
+      "relationIDs": "400,202",
+      "buildingID": 3250,
+      "buildingAmount": 1,
+      "minLevel": 50,
+      "validKingdoms": "0,1,2,3"
+    },
+    {
+      "packageID": 3572,
+      "packageType": "building",
+      "comment1": "decoDistrict2x2",
+      "comment2": "Gold Shop - decoDistrict2x2",
+      "costGoldToken": 75000,
+      "stock": 1,
+      "sortOrder": "3,1",
+      "relationIDs": "400,202",
+      "buildingID": 3250,
+      "buildingAmount": 1,
+      "minLevel": 50,
+      "validKingdoms": "0,1,2,3"
+    },
+    {
+      "packageID": 3573,
+      "packageType": "currency",
+      "comment1": "FloraToken",
+      "comment2": "Gold Shop - FloraToken cheap",
+      "addFloraToken": 85,
+      "costGoldToken": 2900,
+      "stock": 1,
+      "sortOrder": "3,3",
+      "relationIDs": "400,999",
+      "minLevel": 10
+    },
+    {
+      "packageID": 3574,
+      "packageType": "currency",
+      "comment1": "FloraToken",
+      "comment2": "Gold Shop - FloraToken expensive",
+      "addFloraToken": 50,
+      "costGoldToken": 3350,
+      "stock": 2,
+      "sortOrder": "3,4",
+      "relationIDs": "400,999",
+      "minLevel": 10
+    },
+    {
+      "packageID": 3575,
+      "packageType": "deco",
+      "comment1": "decos2x2",
+      "comment2": "Gold Shop - decos2x2",
+      "costGoldToken": 4950,
+      "stock": 2,
+      "sortOrder": "3,5",
+      "relationIDs": "400,202",
+      "buildingID": 3184,
+      "buildingAmount": 1,
+      "minLevel": 10,
+      "validKingdoms": "0,1,2,3"
     }
   ]
 }

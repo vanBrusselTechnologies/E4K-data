@@ -920,9 +920,9 @@ export interface Language {
         "BGStorehouse_name": string;
         "BarrelWorkshop_short_info": string;
         "BarrelWorkshop_upgrade_info": string;
-        "DecoDistrict1_name": string;
-        "DecoDistrict1_upgrade_info": string;
-        "DecoDistrict_short_info": string;
+        "DecoDistrict2x2_name": string;
+        "DecoDistrict2x2_short_info": string;
+        "DecoDistrict2x2_upgrade_info": string;
         "HoneyGardens_short_info": string;
         "HoneyGardens_upgrade_info": string;
         "InnerDistrict_name": string;
@@ -1188,6 +1188,7 @@ export interface Language {
         "ci_effect_unboostedHoneyProduction_blueprint": string;
         "ci_effect_unboostedMeadProduction_blueprint": string;
         "ci_primary_BeefProduction": string;
+        "ci_primary_BeefProductionIncrease": string;
         "ci_primary_BeefProductionIncrease_premium": string;
         "ci_primary_EspionageSpeedBoost": string;
         "ci_primary_HospitalAdditionalSpace": string;
@@ -1357,6 +1358,7 @@ export interface Language {
         "deco_MayaRuinsRed_name": string;
         "deco_NewKingMazeGarden_name": string;
         "deco_NewKingTower_name": string;
+        "deco_OktoberfestFair_name": string;
         "deco_OktoberfestForestPond_name": string;
         "deco_OktoberfestStrength_name": string;
         "deco_Pedestal_name": string;
@@ -1447,6 +1449,18 @@ export interface Language {
         "deco_blueSalesFountain_name": string;
         "deco_cage1_name": string;
         "deco_cage2_name": string;
+        "deco_carnivorousPlantT1_name": string;
+        "deco_carnivorousPlantT1_short_info": string;
+        "deco_carnivorousPlantT2_name": string;
+        "deco_carnivorousPlantT2_short_info": string;
+        "deco_carnivorousPlantT3_name": string;
+        "deco_carnivorousPlantT3_short_info": string;
+        "deco_carnivorousPlantT4Green_name": string;
+        "deco_carnivorousPlantT4Green_short_info": string;
+        "deco_carnivorousPlantT4Purple_name": string;
+        "deco_carnivorousPlantT4Purple_short_info": string;
+        "deco_carnivorousPlantT4Red_name": string;
+        "deco_carnivorousPlantT4Red_short_info": string;
         "deco_carriagegood_name": string;
         "deco_celebrationOfSpring_name": string;
         "deco_chaliceOfTheHattrickHero_name": string;
@@ -1486,10 +1500,6 @@ export interface Language {
         "deco_fairground_name": string;
         "deco_falconRecolour_name": string;
         "deco_falconersOutpost_name": string;
-        "deco_fatalfloraT1_name": string;
-        "deco_fatalfloraT2_name": string;
-        "deco_fatalfloraT3_name": string;
-        "deco_fatalfloraT4_name": string;
         "deco_fieldOfGlory_name": string;
         "deco_fieldkitchen_name": string;
         "deco_flag_name": string;
@@ -1986,6 +1996,8 @@ export interface Language {
         "watchtower_name": string;
         "watchtower_short_info": string;
         "watchtower_upgrade_info": string;
+        "webshop_decoDistrictBuilding": string;
+        "webshop_decoSpecialCustomSize": string;
         "woodcutter_name": string;
         "woodcutter_short_info": string;
         "woodcutter_upgrade_info": string;
@@ -2681,6 +2693,7 @@ export interface Language {
         "custom_offer_messageHeader_newKingFree": string;
         "custom_offer_messageHeader_oktoberfest2": string;
         "custom_offer_messageHeader_valentine": string;
+        "decoPoints_combined": string;
         "deco_alienStatuePond_name": string;
         "deco_celestialPool_name": string;
         "deco_crystalfountain_name": string;
@@ -9067,6 +9080,7 @@ export interface Language {
         "empiretogo_description": string;
         "equip_effect_description_CollectorBoostPartyAnimal": string;
         "equip_effect_description_allianceDefenseUnitAmountYardBonus": string;
+        "equip_effect_description_allianceDefenseUnitAmountYardBonusCapped": string;
         "equip_effect_description_attackBoostYardCharge": string;
         "equip_effect_description_collectorBoostBeads": string;
         "equip_effect_description_collectorBoostBees": string;
@@ -10418,7 +10432,7 @@ export interface Language {
         "message_samsung_s7promotion_text": string;
         "message_samsung_s7promotion_title": string;
         "mightPoints": string;
-        "mightPoints_combined": string;
+        "mightValue_combined": string;
         "might_reward_desc": string;
         "might_reward_final": string;
         "might_reward_info": string;
@@ -10597,7 +10611,6 @@ export interface Language {
         "presets_feedback_presetAppliedWave": string;
         "presets_feedback_presetSaved": string;
         "presets_feedback_waveCleared": string;
-        "publicOrder_combined": string;
         "push_1043_title": string;
         "push_2047_content": string;
         "questCondition_collectKhanMedals": string;
@@ -10797,6 +10810,7 @@ export interface Language {
         "ringmenu_military_menu_notEnoughCharge": string;
         "ringmenu_spyLevelToHigh": string;
         "ringmenu_spyLevelToLow": string;
+        "ringmenu_store_districtNotEmpty": string;
         "ringmenu_taunt": string;
         "rubyWishingWell_Coin_desc": string;
         "rubyWishingWell_Coin_plural": string;
@@ -11587,7 +11601,10 @@ export interface Language {
         "webshop_EasterMeadMace_desc": string;
         "webshop_EasterMeadRanger_desc": string;
         "webshop_EasterMeadShieldMaiden_desc": string;
+        "webshop_FatalFlora_Complete_name": string;
+        "webshop_FatalFlora_Deluxe_name": string;
         "webshop_FlameBreathBerserker_desc": string;
+        "webshop_FoodStorageBakery_725_desc": string;
         "webshop_FruitBreaker_desc": string;
         "webshop_FruitPirate_desc": string;
         "webshop_GlassWingArcher_desc": string;
@@ -11596,6 +11613,8 @@ export interface Language {
         "webshop_TCI_foodProductionGeneric_desc": string;
         "webshop_TCIbarracks_recruitment500": string;
         "webshop_TCIbarracks_recruitment750": string;
+        "webshop_WallUnitLimitKeep_740_desc": string;
+        "webshop_WallUnitLimitKeep_763_desc": string;
         "webshop_affluenceTickets_VIP_name": string;
         "webshop_affluenceTickets_extraLarge_name": string;
         "webshop_affluenceTickets_giant_name": string;
@@ -11836,6 +11855,20 @@ export interface Language {
         "webshop_eventName_samuraiInvasion_placeholder": string;
         "webshop_fieldcannon_desc": string;
         "webshop_firebomb_desc": string;
+        "webshop_floragarden_VIP_name": string;
+        "webshop_floragarden_extraLarge_name": string;
+        "webshop_floragarden_giant_name": string;
+        "webshop_floragarden_huge_name": string;
+        "webshop_floragarden_large_name": string;
+        "webshop_floragarden_medium_name": string;
+        "webshop_floragarden_small_name": string;
+        "webshop_flytrap_VIP_name": string;
+        "webshop_flytrap_extraLarge_name": string;
+        "webshop_flytrap_giant_name": string;
+        "webshop_flytrap_huge_name": string;
+        "webshop_flytrap_large_name": string;
+        "webshop_flytrap_medium_name": string;
+        "webshop_flytrap_small_name": string;
         "webshop_fortifiedram_desc": string;
         "webshop_genericSaleDays_extraLarge_name": string;
         "webshop_genericSaleDays_giant_name": string;
@@ -12513,6 +12546,7 @@ export interface Language {
         "effect_group_6_9_active_malus": string;
         "effect_group_6_9_passive": string;
         "effect_group_8_4_active": string;
+        "effect_group_8_5_active": string;
         "effect_name_AttackBoostYardDecoCapped": string;
         "effect_name_CraftingQueueProductionBoost_4": string;
         "effect_name_allianceDefenseUnitAmountYardBonusCapped": string;
@@ -12559,8 +12593,11 @@ export interface Language {
         "effect_name_foodProductionBoostBaronEconomy": string;
         "effect_name_foodProductionBoostBaronEconomyCapped": string;
         "effect_name_foodProductionBoostDesert": string;
+        "effect_name_foodProductionBoostDesertCapped": string;
         "effect_name_foodProductionBoostFire": string;
+        "effect_name_foodProductionBoostFireCapped": string;
         "effect_name_foodProductionBoostIce": string;
+        "effect_name_foodProductionBoostIceCapped": string;
         "effect_name_foodProductionBoostMain": string;
         "effect_name_glassProductionBoost": string;
         "effect_name_glassProductionBoostCapped": string;
@@ -12629,6 +12666,7 @@ export interface Language {
         "equip_effect_description_attackBoostYardAlien": string;
         "equip_effect_description_attackBoostYardBerimondInvasion": string;
         "equip_effect_description_attackBoostYardBerimondKingdom": string;
+        "equip_effect_description_attackBoostYardCapped": string;
         "equip_effect_description_attackBoostYardConquerBaron": string;
         "equip_effect_description_attackBoostYardConquerGeneral": string;
         "equip_effect_description_attackBoostYardNomad": string;
@@ -17563,7 +17601,6 @@ export interface Language {
         "currency_description_BastionDoubloon": string;
         "currency_description_CargoPoints": string;
         "currency_description_CommonMysteryBoxKey": string;
-        "currency_description_DecoDistrict1UpgradeToken": string;
         "currency_description_DecoDust": string;
         "currency_description_DragonCharm": string;
         "currency_description_DragonGlass": string;
@@ -17574,6 +17611,7 @@ export interface Language {
         "currency_description_DragonScaleTile": string;
         "currency_description_EpicBoosterConsumable": string;
         "currency_description_EpicMysteryBoxKey": string;
+        "currency_description_FloraToken": string;
         "currency_description_FuryDoubloon": string;
         "currency_description_FusionCurrency": string;
         "currency_description_HalloweenLTPEToken": string;
@@ -17641,7 +17679,6 @@ export interface Language {
         "currency_name_CommonFinesand": string;
         "currency_name_CommonMysteryBoxKey": string;
         "currency_name_CommonPurifiedwater": string;
-        "currency_name_DecoDistrict1UpgradeToken": string;
         "currency_name_DecoDust": string;
         "currency_name_DragonCharm": string;
         "currency_name_DragonGlass": string;
@@ -17654,6 +17691,7 @@ export interface Language {
         "currency_name_EpicMysteryBoxKey": string;
         "currency_name_EpicPreciousmetals": string;
         "currency_name_EpicResin": string;
+        "currency_name_FloraToken": string;
         "currency_name_FuryDoubloon": string;
         "currency_name_FusionCurrency": string;
         "currency_name_GoldRune": string;
@@ -18339,6 +18377,7 @@ export interface Language {
         "monument": string;
         "morality": string;
         "morality_decoFactionBonus": string;
+        "moreComingSoon": string;
         "moreInfo": string;
         "movementToolTip_supporting": string;
         "myPerformance": string;

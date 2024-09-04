@@ -147,6 +147,7 @@
       "scoringSystem": "collector",
       "hasDailyScoring": 1,
       "startCurrencyAmount": 5000,
+      "currencyLootFactorMin": 10,
       "minimumCurrencyAmountToScore": 10,
       "currencyID": 108,
       "boosterCurrencyID": 109,
