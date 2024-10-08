@@ -230,7 +230,7 @@
       "crossplayID": 13,
       "name": "defenseUnitAmountWall",
       "effectTypeID": 12,
-      "capID": 12,
+      "capID": 99,
       "sortOrder": "4.1.1"
     },
     {
@@ -3610,6 +3610,236 @@
       "effectTypeID": 190,
       "capID": 49,
       "sortOrder": "7.10.1"
+    },
+    {
+      "effectID": 379,
+      "crossplayID": 379,
+      "name": "honeyCapacityBonusBaronEconomyCapped",
+      "effectTypeID": 167,
+      "capID": 50
+    },
+    {
+      "effectID": 380,
+      "crossplayID": 380,
+      "name": "foodCapacityBonusBaronEconomyCapped",
+      "effectTypeID": 138,
+      "capID": 51
+    },
+    {
+      "effectID": 381,
+      "crossplayID": 381,
+      "name": "marketSpeedOwnBoostCapped",
+      "effectTypeID": 48,
+      "capID": 52,
+      "playerRelation": "samePlayer"
+    },
+    {
+      "effectID": 382,
+      "crossplayID": 382,
+      "name": "marketCarriageCapacityBoostCapped",
+      "effectTypeID": 96,
+      "capID": 53
+    },
+    {
+      "effectID": 383,
+      "crossplayID": 383,
+      "name": "battleXPBoostCapped",
+      "effectTypeID": 88,
+      "capID": 54
+    },
+    {
+      "effectID": 384,
+      "crossplayID": 384,
+      "name": "buildingXPBoostCapped",
+      "effectTypeID": 89,
+      "capID": 55
+    },
+    {
+      "effectID": 385,
+      "crossplayID": 385,
+      "name": "allianceDefenseUnitAmountYardBonusCapped",
+      "effectTypeID": 183,
+      "capID": 56,
+      "sortOrder": "1.8.1"
+    },
+    {
+      "effectID": 386,
+      "crossplayID": 386,
+      "name": "AttackBoostYardCapped",
+      "effectTypeID": 33,
+      "capID": 57,
+      "sortOrder": "1.6.1"
+    },
+    {
+      "effectID": 387,
+      "crossplayID": 387,
+      "name": "defenseUnitAmountWallCapped",
+      "effectTypeID": 12,
+      "capID": 58,
+      "sortOrder": "4.1.1"
+    },
+    {
+      "effectID": 388,
+      "crossplayID": 388,
+      "name": "woodProductionBoostMainCapped",
+      "effectTypeID": 92,
+      "capID": 59,
+      "areaTypeID": "1,12",
+      "spaceIDs": 0
+    },
+    {
+      "effectID": 389,
+      "crossplayID": 389,
+      "name": "stoneProductionBoostMainCapped",
+      "effectTypeID": 93,
+      "capID": 60,
+      "areaTypeID": "1,12",
+      "spaceIDs": 0
+    },
+    {
+      "effectID": 390,
+      "crossplayID": 390,
+      "name": "ironProductionBoostCapped",
+      "effectTypeID": 143,
+      "capID": 61,
+      "areaTypeID": 1,
+      "spaceIDs": 0
+    },
+    {
+      "effectID": 391,
+      "crossplayID": 391,
+      "name": "woodProductionBoostIceCapped",
+      "effectTypeID": 92,
+      "capID": 62,
+      "areaTypeID": "1,12",
+      "spaceIDs": 2
+    },
+    {
+      "effectID": 392,
+      "crossplayID": 392,
+      "name": "stoneProductionBoostIceCapped",
+      "effectTypeID": 93,
+      "capID": 63,
+      "areaTypeID": "1,12",
+      "spaceIDs": 2
+    },
+    {
+      "effectID": 393,
+      "crossplayID": 393,
+      "name": "coalProductionBoostCapped",
+      "effectTypeID": 140,
+      "capID": 64,
+      "areaTypeID": 12,
+      "spaceIDs": 2
+    },
+    {
+      "effectID": 394,
+      "crossplayID": 394,
+      "name": "woodProductionBoostDesertCapped",
+      "effectTypeID": 92,
+      "capID": 65,
+      "areaTypeID": "1,12",
+      "spaceIDs": 1
+    },
+    {
+      "effectID": 395,
+      "crossplayID": 395,
+      "name": "stoneProductionBoostDesertCapped",
+      "effectTypeID": 93,
+      "capID": 66,
+      "areaTypeID": "1,12",
+      "spaceIDs": 1
+    },
+    {
+      "effectID": 396,
+      "crossplayID": 396,
+      "name": "oilProductionBoostCapped",
+      "effectTypeID": 141,
+      "capID": 67,
+      "areaTypeID": 12,
+      "spaceIDs": 1
+    },
+    {
+      "effectID": 397,
+      "crossplayID": 397,
+      "name": "woodProductionBoostFireCapped",
+      "effectTypeID": 92,
+      "capID": 68,
+      "areaTypeID": "1,12",
+      "spaceIDs": 3
+    },
+    {
+      "effectID": 398,
+      "crossplayID": 398,
+      "name": "stoneProductionBoostFireCapped",
+      "effectTypeID": 93,
+      "capID": 69,
+      "areaTypeID": "1,12",
+      "spaceIDs": 3
+    },
+    {
+      "effectID": 399,
+      "crossplayID": 399,
+      "name": "glassProductionBoostCapped",
+      "effectTypeID": 142,
+      "capID": 70,
+      "areaTypeID": 12,
+      "spaceIDs": 3
+    },
+    {
+      "effectID": 405,
+      "crossplayID": 405,
+      "name": "unboostedMeadProductionCapped",
+      "effectTypeID": 161,
+      "capID": 71
+    },
+    {
+      "effectID": 406,
+      "crossplayID": 406,
+      "name": "meadCapacityBonusBaronEconomyCapped",
+      "effectTypeID": 166,
+      "capID": 72
+    },
+    {
+      "effectID": 407,
+      "crossplayID": 407,
+      "name": "foodProductionBoostBaronEconomyCapped",
+      "effectTypeID": 80,
+      "capID": 73
+    },
+    {
+      "effectID": 408,
+      "crossplayID": 408,
+      "name": "meadProductionBoostCapped",
+      "effectTypeID": 164,
+      "capID": 74
+    },
+    {
+      "effectID": 409,
+      "crossplayID": 409,
+      "name": "foodProductionBoostIceCapped",
+      "effectTypeID": 80,
+      "capID": 75,
+      "areaTypeID": "1,12",
+      "spaceIDs": 2
+    },
+    {
+      "effectID": 416,
+      "crossplayID": 416,
+      "name": "foodProductionBoostDesertCapped",
+      "effectTypeID": 80,
+      "capID": 76,
+      "areaTypeID": "1,12",
+      "spaceIDs": 1
+    },
+    {
+      "effectID": 417,
+      "crossplayID": 417,
+      "name": "foodProductionBoostFireCapped",
+      "effectTypeID": 80,
+      "capID": 77,
+      "areaTypeID": "1,12",
+      "spaceIDs": 3
     },
     {
       "effectID": 2101,

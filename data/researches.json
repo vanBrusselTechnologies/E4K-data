@@ -3363,7 +3363,7 @@
       "costGlass": 75000,
       "minResearchTowerLevel": 3,
       "requiredLevel": 70,
-      "requiredLegendLevel": 20,
+      "requiredLegendLevel": 5,
       "requiredBuildings": "204#94#258#2989",
       "effects": "46&amp;2005,84&amp;2004"
     },
@@ -3382,7 +3382,7 @@
       "costIron": 75000,
       "minResearchTowerLevel": 3,
       "requiredLevel": 70,
-      "requiredLegendLevel": 40,
+      "requiredLegendLevel": 10,
       "requiredBuildings": "204#94#258#2989",
       "effects": "46&amp;2006,84&amp;2005"
     },
@@ -3401,7 +3401,7 @@
       "costIron": 85000,
       "minResearchTowerLevel": 3,
       "requiredLevel": 70,
-      "requiredLegendLevel": 65,
+      "requiredLegendLevel": 15,
       "requiredBuildings": "204#94#258#2989",
       "effects": "46&amp;2007,84&amp;2006"
     },
@@ -3420,7 +3420,7 @@
       "costIron": 100000,
       "minResearchTowerLevel": 3,
       "requiredLevel": 70,
-      "requiredLegendLevel": 90,
+      "requiredLegendLevel": 20,
       "requiredBuildings": "204#94#258#2989",
       "effects": "46&amp;2008,84&amp;2007"
     },
@@ -3439,7 +3439,7 @@
       "costIron": 125000,
       "minResearchTowerLevel": 3,
       "requiredLevel": 70,
-      "requiredLegendLevel": 120,
+      "requiredLegendLevel": 25,
       "requiredBuildings": "204#94#258#2989",
       "effects": "46&amp;2009,84&amp;2008"
     },
@@ -3551,7 +3551,7 @@
       "costGlass": 75000,
       "minResearchTowerLevel": 3,
       "requiredLevel": 70,
-      "requiredLegendLevel": 20,
+      "requiredLegendLevel": 5,
       "requiredBuildings": "204#94#258#2989",
       "effects": "46&amp;2015,84&amp;2014"
     },
@@ -3570,7 +3570,7 @@
       "costIron": 75000,
       "minResearchTowerLevel": 3,
       "requiredLevel": 70,
-      "requiredLegendLevel": 40,
+      "requiredLegendLevel": 10,
       "requiredBuildings": "204#94#258#2989",
       "effects": "46&amp;2016,84&amp;2015"
     },
@@ -3589,7 +3589,7 @@
       "costIron": 85000,
       "minResearchTowerLevel": 3,
       "requiredLevel": 70,
-      "requiredLegendLevel": 65,
+      "requiredLegendLevel": 15,
       "requiredBuildings": "204#94#258#2989",
       "effects": "46&amp;2017,84&amp;2016"
     },
@@ -3608,7 +3608,7 @@
       "costIron": 100000,
       "minResearchTowerLevel": 3,
       "requiredLevel": 70,
-      "requiredLegendLevel": 90,
+      "requiredLegendLevel": 20,
       "requiredBuildings": "204#94#258#2989",
       "effects": "46&amp;2018,84&amp;2017"
     },
@@ -3627,7 +3627,7 @@
       "costIron": 125000,
       "minResearchTowerLevel": 3,
       "requiredLevel": 70,
-      "requiredLegendLevel": 120,
+      "requiredLegendLevel": 25,
       "requiredBuildings": "204#94#258#2989",
       "effects": "46&amp;2019,84&amp;2018"
     },
@@ -3648,7 +3648,7 @@
       "costLegendaryToken": 15,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 150,
+      "requiredLegendLevel": 1,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2020,84&amp;148"
     },
@@ -3666,7 +3666,7 @@
       "costLegendaryToken": 20,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 200,
+      "requiredLegendLevel": 5,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2021,84&amp;2020"
     },
@@ -3684,7 +3684,7 @@
       "costLegendaryToken": 25,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 250,
+      "requiredLegendLevel": 10,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2022,84&amp;2021"
     },
@@ -3702,7 +3702,7 @@
       "costLegendaryToken": 30,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 300,
+      "requiredLegendLevel": 15,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2023,84&amp;2022"
     },
@@ -3720,7 +3720,7 @@
       "costLegendaryToken": 35,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 350,
+      "requiredLegendLevel": 20,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2024,84&amp;2023"
     },
@@ -3739,7 +3739,7 @@
       "costLegendaryMaterial": 50,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 400,
+      "requiredLegendLevel": 25,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2025,84&amp;2024"
     },
@@ -3758,7 +3758,7 @@
       "costLegendaryMaterial": 70,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 450,
+      "requiredLegendLevel": 30,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2026,84&amp;2025"
     },
@@ -3777,7 +3777,7 @@
       "costLegendaryMaterial": 90,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 500,
+      "requiredLegendLevel": 35,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2027,84&amp;2026"
     },
@@ -3796,7 +3796,7 @@
       "costLegendaryMaterial": 115,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 550,
+      "requiredLegendLevel": 40,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2028,84&amp;2027"
     },
@@ -3815,7 +3815,7 @@
       "costLegendaryMaterial": 140,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 600,
+      "requiredLegendLevel": 45,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2029,84&amp;2028"
     },
@@ -3836,7 +3836,7 @@
       "costLegendaryMaterial": 10,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 150,
+      "requiredLegendLevel": 1,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2030,84&amp;150"
     },
@@ -3854,7 +3854,7 @@
       "costLegendaryMaterial": 15,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 200,
+      "requiredLegendLevel": 5,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2031,84&amp;2030"
     },
@@ -3872,7 +3872,7 @@
       "costLegendaryMaterial": 20,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 250,
+      "requiredLegendLevel": 10,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2032,84&amp;2031"
     },
@@ -3890,7 +3890,7 @@
       "costLegendaryMaterial": 25,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 300,
+      "requiredLegendLevel": 15,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2033,84&amp;2032"
     },
@@ -3908,7 +3908,7 @@
       "costLegendaryMaterial": 35,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 350,
+      "requiredLegendLevel": 20,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2034,84&amp;2033"
     },
@@ -3927,7 +3927,7 @@
       "costLegendaryMaterial": 50,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 400,
+      "requiredLegendLevel": 25,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2035,84&amp;2034"
     },
@@ -3946,7 +3946,7 @@
       "costLegendaryMaterial": 75,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 450,
+      "requiredLegendLevel": 30,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2036,84&amp;2035"
     },
@@ -3965,7 +3965,7 @@
       "costLegendaryMaterial": 100,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 500,
+      "requiredLegendLevel": 35,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2037,84&amp;2036"
     },
@@ -3984,7 +3984,7 @@
       "costLegendaryMaterial": 125,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 550,
+      "requiredLegendLevel": 40,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2038,84&amp;2037"
     },
@@ -4003,7 +4003,7 @@
       "costLegendaryMaterial": 150,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 600,
+      "requiredLegendLevel": 45,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2039,84&amp;2038"
     },
@@ -4096,7 +4096,7 @@
       "costGlass": 55000,
       "minResearchTowerLevel": 3,
       "requiredLevel": 70,
-      "requiredLegendLevel": 5,
+      "requiredLegendLevel": 1,
       "requiredBuildings": "204#94#258#2989",
       "effects": "46&amp;2044,84&amp;2043"
     },
@@ -4115,7 +4115,7 @@
       "costGlass": 75000,
       "minResearchTowerLevel": 3,
       "requiredLevel": 70,
-      "requiredLegendLevel": 25,
+      "requiredLegendLevel": 5,
       "requiredBuildings": "204#94#258#2989",
       "effects": "46&amp;2045,84&amp;2044"
     },
@@ -4134,7 +4134,7 @@
       "costIron": 75000,
       "minResearchTowerLevel": 3,
       "requiredLevel": 70,
-      "requiredLegendLevel": 45,
+      "requiredLegendLevel": 10,
       "requiredBuildings": "204#94#258#2989",
       "effects": "46&amp;2046,84&amp;2045"
     },
@@ -4153,7 +4153,7 @@
       "costIron": 85000,
       "minResearchTowerLevel": 3,
       "requiredLevel": 70,
-      "requiredLegendLevel": 70,
+      "requiredLegendLevel": 15,
       "requiredBuildings": "204#94#258#2989",
       "effects": "46&amp;2047,84&amp;2046"
     },
@@ -4172,7 +4172,7 @@
       "costIron": 100000,
       "minResearchTowerLevel": 3,
       "requiredLevel": 70,
-      "requiredLegendLevel": 95,
+      "requiredLegendLevel": 20,
       "requiredBuildings": "204#94#258#2989",
       "effects": "46&amp;2048,84&amp;2047"
     },
@@ -4191,7 +4191,7 @@
       "costIron": 125000,
       "minResearchTowerLevel": 3,
       "requiredLevel": 70,
-      "requiredLegendLevel": 125,
+      "requiredLegendLevel": 25,
       "requiredBuildings": "204#94#258#2989",
       "effects": "46&amp;2049,84&amp;2048"
     },
@@ -4284,7 +4284,7 @@
       "costGlass": 55000,
       "minResearchTowerLevel": 3,
       "requiredLevel": 70,
-      "requiredLegendLevel": 5,
+      "requiredLegendLevel": 1,
       "requiredBuildings": "204#94#258#2989",
       "effects": "46&amp;2054,84&amp;2053"
     },
@@ -4303,7 +4303,7 @@
       "costGlass": 75000,
       "minResearchTowerLevel": 3,
       "requiredLevel": 70,
-      "requiredLegendLevel": 25,
+      "requiredLegendLevel": 5,
       "requiredBuildings": "204#94#258#2989",
       "effects": "46&amp;2055,84&amp;2054"
     },
@@ -4322,7 +4322,7 @@
       "costIron": 75000,
       "minResearchTowerLevel": 3,
       "requiredLevel": 70,
-      "requiredLegendLevel": 45,
+      "requiredLegendLevel": 10,
       "requiredBuildings": "204#94#258#2989",
       "effects": "46&amp;2056,84&amp;2055"
     },
@@ -4341,7 +4341,7 @@
       "costIron": 85000,
       "minResearchTowerLevel": 3,
       "requiredLevel": 70,
-      "requiredLegendLevel": 70,
+      "requiredLegendLevel": 15,
       "requiredBuildings": "204#94#258#2989",
       "effects": "46&amp;2057,84&amp;2056"
     },
@@ -4360,7 +4360,7 @@
       "costIron": 100000,
       "minResearchTowerLevel": 3,
       "requiredLevel": 70,
-      "requiredLegendLevel": 95,
+      "requiredLegendLevel": 20,
       "requiredBuildings": "204#94#258#2989",
       "effects": "46&amp;2058,84&amp;2057"
     },
@@ -4379,7 +4379,7 @@
       "costIron": 125000,
       "minResearchTowerLevel": 3,
       "requiredLevel": 70,
-      "requiredLegendLevel": 125,
+      "requiredLegendLevel": 25,
       "requiredBuildings": "204#94#258#2989",
       "effects": "46&amp;2059,84&amp;2058"
     },
@@ -4400,7 +4400,7 @@
       "costLegendaryToken": 15,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 155,
+      "requiredLegendLevel": 1,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2060,84&amp;149"
     },
@@ -4418,7 +4418,7 @@
       "costLegendaryToken": 20,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 205,
+      "requiredLegendLevel": 5,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2061,84&amp;2060"
     },
@@ -4436,7 +4436,7 @@
       "costLegendaryToken": 25,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 255,
+      "requiredLegendLevel": 10,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2062,84&amp;2061"
     },
@@ -4454,7 +4454,7 @@
       "costLegendaryToken": 30,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 305,
+      "requiredLegendLevel": 15,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2063,84&amp;2062"
     },
@@ -4472,7 +4472,7 @@
       "costLegendaryToken": 35,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 355,
+      "requiredLegendLevel": 20,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2064,84&amp;2063"
     },
@@ -4491,7 +4491,7 @@
       "costLegendaryMaterial": 50,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 405,
+      "requiredLegendLevel": 25,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2065,84&amp;2064"
     },
@@ -4510,7 +4510,7 @@
       "costLegendaryMaterial": 70,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 455,
+      "requiredLegendLevel": 30,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2066,84&amp;2065"
     },
@@ -4529,7 +4529,7 @@
       "costLegendaryMaterial": 90,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 505,
+      "requiredLegendLevel": 35,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2067,84&amp;2066"
     },
@@ -4548,7 +4548,7 @@
       "costLegendaryMaterial": 115,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 555,
+      "requiredLegendLevel": 40,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2068,84&amp;2067"
     },
@@ -4567,7 +4567,7 @@
       "costLegendaryMaterial": 140,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 605,
+      "requiredLegendLevel": 45,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2069,84&amp;2068"
     },
@@ -4588,7 +4588,7 @@
       "costLegendaryMaterial": 10,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 155,
+      "requiredLegendLevel": 1,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2070,84&amp;151"
     },
@@ -4606,7 +4606,7 @@
       "costLegendaryMaterial": 15,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 205,
+      "requiredLegendLevel": 5,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2071,84&amp;2070"
     },
@@ -4624,7 +4624,7 @@
       "costLegendaryMaterial": 20,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 255,
+      "requiredLegendLevel": 10,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2072,84&amp;2071"
     },
@@ -4642,7 +4642,7 @@
       "costLegendaryMaterial": 25,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 305,
+      "requiredLegendLevel": 15,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2073,84&amp;2072"
     },
@@ -4660,7 +4660,7 @@
       "costLegendaryMaterial": 35,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 355,
+      "requiredLegendLevel": 20,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2074,84&amp;2073"
     },
@@ -4679,7 +4679,7 @@
       "costLegendaryMaterial": 50,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 405,
+      "requiredLegendLevel": 25,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2075,84&amp;2074"
     },
@@ -4698,7 +4698,7 @@
       "costLegendaryMaterial": 75,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 455,
+      "requiredLegendLevel": 30,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2076,84&amp;2075"
     },
@@ -4717,7 +4717,7 @@
       "costLegendaryMaterial": 100,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 505,
+      "requiredLegendLevel": 35,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2077,84&amp;2076"
     },
@@ -4736,7 +4736,7 @@
       "costLegendaryMaterial": 125,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 555,
+      "requiredLegendLevel": 40,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2078,84&amp;2077"
     },
@@ -4755,7 +4755,7 @@
       "costLegendaryMaterial": 150,
       "minResearchTowerLevel": 4,
       "requiredLevel": 70,
-      "requiredLegendLevel": 605,
+      "requiredLegendLevel": 45,
       "requiredBuildings": "94#258#2989",
       "effects": "46&amp;2079,84&amp;2078"
     },
@@ -16010,7 +16010,7 @@
       "comment2": "Dragon Charm",
       "groupID": 176,
       "level": 1,
-      "prerequisiteIDs": 632,
+      "prerequisiteIDs": 630,
       "x": 1,
       "y": 14,
       "categoryID": 12,
@@ -16379,7 +16379,7 @@
       "comment2": "Steel",
       "groupID": 178,
       "level": 1,
-      "prerequisiteIDs": 650,
+      "prerequisiteIDs": 648,
       "x": 1,
       "y": 15,
       "categoryID": 13,
@@ -16564,7 +16564,7 @@
       "comment2": "Steel",
       "groupID": 179,
       "level": 1,
-      "prerequisiteIDs": 659,
+      "prerequisiteIDs": 657,
       "x": 2,
       "y": 15,
       "categoryID": 13,
@@ -16933,7 +16933,7 @@
       "comment2": "Dragon Glass",
       "groupID": 181,
       "level": 1,
-      "prerequisiteIDs": 677,
+      "prerequisiteIDs": 675,
       "x": 1,
       "y": 16,
       "categoryID": 14,
@@ -17118,7 +17118,7 @@
       "comment2": "Dragon Glass",
       "groupID": 182,
       "level": 1,
-      "prerequisiteIDs": 686,
+      "prerequisiteIDs": 684,
       "x": 2,
       "y": 16,
       "categoryID": 14,
@@ -17487,7 +17487,7 @@
       "comment2": "Twin Flame Axes",
       "groupID": 184,
       "level": 1,
-      "prerequisiteIDs": 704,
+      "prerequisiteIDs": 702,
       "x": 1,
       "y": 17,
       "categoryID": 15,
@@ -17856,7 +17856,7 @@
       "comment2": "Dragon Glass Arrows",
       "groupID": 186,
       "level": 1,
-      "prerequisiteIDs": 722,
+      "prerequisiteIDs": 720,
       "x": 1,
       "y": 18,
       "categoryID": 16,
@@ -18225,7 +18225,7 @@
       "comment2": "Dragon Scale Arrows",
       "groupID": 188,
       "level": 1,
-      "prerequisiteIDs": 740,
+      "prerequisiteIDs": 738,
       "x": 1,
       "y": 19,
       "categoryID": 17,
@@ -18594,7 +18594,7 @@
       "comment2": "Dragon Scale Armor",
       "groupID": 190,
       "level": 1,
-      "prerequisiteIDs": 758,
+      "prerequisiteIDs": 756,
       "x": 1,
       "y": 20,
       "categoryID": 18,

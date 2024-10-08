@@ -2515,7 +2515,7 @@ export interface Package {
     "relationIDs"?: number | string;
     "relicEquipments"?: string;
     "rewardBags"?: number | string;
-    "sortOrder"?: number | string;
+    "sortOrder"?: number;
     "specialEquipmentOfRarenessID"?: number;
     "specialGemOfLevelID"?: number;
     "specialHeroOfRarenessID"?: number;
@@ -3122,7 +3122,6 @@ export interface SceatSkill {
     "requiredBuildings": number | string;
     "requiredBuildingsCondition"?: string;
     "requiredLegendLevel": number;
-    "requiredSkillID"?: number;
     "requiredSkillIDs"?: number | string;
     "skillGroupID": number;
     "skillID": number;
@@ -3483,6 +3482,7 @@ export interface Townsfolk {
 export interface Unit {
     "allowedForNpcAttackInKingdom"?: number | string;
     "allowedToAttack"?: string;
+    "allowedToDefend"?: number;
     "allowedToTravel"?: string;
     "amountPerWave"?: number;
     "attackscreenBuyable"?: number;
