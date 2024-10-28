@@ -23,7 +23,7 @@
       "eventType": "Seaqueen",
       "hubType": "Adventure",
       "eventDuration": "Long",
-      "packageIDs": "3105+3106+3107+3108+3109+3110+3111+3112+3113",
+      "packageIDs": "2793+2794+3173+3174+3175+3176+3177+3178+3179",
       "minLevel": 45,
       "maxLevel": 99,
       "resourceTravelTaxRate": 50,
@@ -188,41 +188,6 @@
       "minLevel": 40,
       "maxLevel": 99,
       "leaguetypeEventsIDs": "36,37,38,39,40,41,42,43"
-    },
-    {
-      "eventID": 97,
-      "comment1": "Shapeshifter",
-      "comment2": "Shapeshifter",
-      "kIDs": 0,
-      "eventType": "Shapeshifter",
-      "hubType": "Adventure",
-      "eventDuration": "Long",
-      "packageIDs": 114,
-      "minLevel": 55,
-      "maxLevel": 99,
-      "bloodpointBoosterPackageID": 1143
-    },
-    {
-      "eventID": 98,
-      "comment1": "Shapeshifter Charm Shop",
-      "comment2": "Shapeshifter Activity Shop",
-      "kIDs": 0,
-      "eventType": "ShapeshifterActivityShop",
-      "packageIDs": "887+888+889+890+891+892+893+894+895+896+897+898+900+901+967+968+1122+969",
-      "merchantID": 5,
-      "minLevel": 55,
-      "maxLevel": 99
-    },
-    {
-      "eventID": 99,
-      "comment1": "Shapeshifter Insignia Shop",
-      "comment2": "Shapeshifter Ranking Shop",
-      "kIDs": 0,
-      "eventType": "ShapeshifterRankingShop",
-      "packageIDs": "902+903+904+905+906+907+908+909+910+911+913+914+915+916",
-      "merchantID": 6,
-      "minLevel": 55,
-      "maxLevel": 99
     },
     {
       "eventID": 102,
@@ -1015,7 +980,7 @@
       "comment2": "Donation Event",
       "eventType": "DonationEvent",
       "hubType": "Adventure",
-      "minLevel": 11,
+      "minLevel": 70,
       "maxLevel": 99
     },
     {

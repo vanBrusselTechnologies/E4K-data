@@ -516,7 +516,8 @@
     {
       "effectTypeID": 88,
       "crossplayID": 88,
-      "name": "battleXPBoost"
+      "name": "battleXPBoost",
+      "sortCategory": 3
     },
     {
       "effectTypeID": 89,
@@ -764,12 +765,6 @@
       "sortCategory": 7
     },
     {
-      "effectTypeID": 143,
-      "crossplayID": 143,
-      "name": "ironProductionBoost",
-      "sortCategory": 7
-    },
-    {
       "effectTypeID": 140,
       "crossplayID": 140,
       "name": "coalProductionBoost",
@@ -785,6 +780,12 @@
       "effectTypeID": 142,
       "crossplayID": 142,
       "name": "glassProductionBoost",
+      "sortCategory": 7
+    },
+    {
+      "effectTypeID": 143,
+      "crossplayID": 143,
+      "name": "ironProductionBoost",
       "sortCategory": 7
     },
     {

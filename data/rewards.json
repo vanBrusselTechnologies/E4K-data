@@ -53022,63 +53022,55 @@
       "comment1": "Reward 72",
       "comment2": "Activity Reward Xmas 2024",
       "addXmasLTPEToken": 2500,
-      "addSasakiToken": 1
+      "lootBox": "33+5"
     },
     {
       "rewardID": 6872,
       "comment1": "Reward 73",
       "comment2": "Activity Reward Xmas 2024",
-      "addDragonScaleSplinters": 500,
-      "addXmasLTPEToken": 250
+      "addDragonScaleSplinters": 500
     },
     {
       "rewardID": 6873,
       "comment1": "Reward 74",
       "comment2": "Activity Reward Xmas 2024",
-      "addDragonScaleSplinters": 600,
-      "addXmasLTPEToken": 250
+      "addDragonScaleSplinters": 600
     },
     {
       "rewardID": 6874,
       "comment1": "Reward 75",
       "comment2": "Activity Reward Xmas 2024",
-      "addDragonScaleSplinters": 750,
-      "addXmasLTPEToken": 250
+      "addDragonScaleSplinters": 750
     },
     {
       "rewardID": 6875,
       "comment1": "Reward 76",
       "comment2": "Activity Reward Xmas 2024",
-      "addDragonScaleSplinters": 800,
-      "addXmasLTPEToken": 250
+      "addDragonScaleSplinters": 800
     },
     {
       "rewardID": 6876,
       "comment1": "Reward 77",
       "comment2": "Activity Reward Xmas 2024",
-      "addDragonScaleSplinters": 800,
-      "addXmasLTPEToken": 250
+      "addDragonScaleSplinters": 800
     },
     {
       "rewardID": 6877,
       "comment1": "Reward 78",
       "comment2": "Activity Reward Xmas 2024",
-      "addDragonScaleSplinters": 800,
-      "addXmasLTPEToken": 250
+      "addDragonScaleSplinters": 800
     },
     {
       "rewardID": 6878,
       "comment1": "Reward 79",
       "comment2": "Activity Reward Xmas 2024",
-      "addDragonScaleSplinters": 1250,
-      "addXmasLTPEToken": 250
+      "addDragonScaleSplinters": 1250
     },
     {
       "rewardID": 6879,
       "comment1": "Reward 80",
       "comment2": "Activity Reward Xmas 2024",
-      "addDragonScaleSplinters": 2000,
-      "addXmasLTPEToken": 2500
+      "addDragonScaleSplinters": 2000
     },
     {
       "rewardID": 7968,
@@ -56575,7 +56567,7 @@
       "comment1": "TopX1",
       "comment2": "Lvl 870",
       "addLegendaryToken": 250,
-      "constructionItemIDs": 802
+      "constructionItemIDs": 856
     },
     {
       "rewardID": 6832,
@@ -56596,7 +56588,7 @@
       "comment1": "TopX1",
       "comment2": "Lvl 70-869",
       "addLegendaryToken": 200,
-      "constructionItemIDs": 802
+      "constructionItemIDs": 856
     },
     {
       "rewardID": 6835,
@@ -56609,7 +56601,7 @@
       "rewardID": 6836,
       "comment1": "Top1",
       "comment2": "Lvl 50-69",
-      "constructionItemIDs": 802,
+      "constructionItemIDs": 856,
       "decoWodID": 2853
     },
     {
@@ -56757,7 +56749,7 @@
       "comment1": "Dragonrider December 24 Top1",
       "comment2": "Lvl 870",
       "addDragonScaleSplinters": 35000,
-      "decoWodID": 2860
+      "decoWodID": 2855
     },
     {
       "rewardID": 6472,
@@ -56778,7 +56770,7 @@
       "comment1": "Top1",
       "comment2": "Lvl 70-869",
       "addSceatToken": 300,
-      "decoWodID": 2853
+      "decoWodID": 2855
     },
     {
       "rewardID": 6718,
@@ -81448,7 +81440,7 @@
       "addLegendaryToken": 2813,
       "addLegendaryMaterial": 11250,
       "relicEquipments": "2@60,100#102@60,100#202@60,100#302@60,100#3102@60,100#3102@60,100#3102@60,100#3102@60,100#6402@60,100",
-      "buildingWodID": "2874#3202",
+      "buildingWodID": "2878#3202",
       "ignoreResourceStorageCapacity": 1
     },
     {
@@ -81461,7 +81453,7 @@
       "addLegendaryToken": 3750,
       "addLegendaryMaterial": 15000,
       "relicEquipments": "2@60,100#102@60,100#202@60,100#302@60,100#3102@60,100#3102@60,100#3102@60,100#3102@60,100#6402@60,100",
-      "buildingWodID": "2873#3203",
+      "buildingWodID": "2877#3203",
       "ignoreResourceStorageCapacity": 1
     },
     {
@@ -81474,7 +81466,7 @@
       "addLegendaryToken": 5000,
       "addLegendaryMaterial": 20000,
       "relicEquipments": "2@60,100#102@60,100#202@60,100#302@60,100#3102@60,100#3102@60,100#3102@60,100#3102@60,100#6402@60,100",
-      "buildingWodID": "2857#3204",
+      "buildingWodID": "2858#3204",
       "ignoreResourceStorageCapacity": 1
     },
     {
@@ -81889,7 +81881,7 @@
       "addLegendaryToken": 2813,
       "addLegendaryMaterial": 11250,
       "relicEquipments": "2@60,100#102@60,100#202@60,100#302@60,100#3102@60,100#3102@60,100#3102@60,100#3102@60,100#6402@60,100",
-      "buildingWodID": "2874#3202",
+      "buildingWodID": "2880#3202",
       "ignoreResourceStorageCapacity": 1
     },
     {
@@ -81902,7 +81894,7 @@
       "addLegendaryToken": 3750,
       "addLegendaryMaterial": 15000,
       "relicEquipments": "2@60,100#102@60,100#202@60,100#302@60,100#3102@60,100#3102@60,100#3102@60,100#3102@60,100#6402@60,100",
-      "buildingWodID": "2873#3203",
+      "buildingWodID": "2879#3203",
       "ignoreResourceStorageCapacity": 1
     },
     {
@@ -81915,7 +81907,7 @@
       "addLegendaryToken": 5000,
       "addLegendaryMaterial": 20000,
       "relicEquipments": "2@60,100#102@60,100#202@60,100#302@60,100#3102@60,100#3102@60,100#3102@60,100#3102@60,100#6402@60,100",
-      "buildingWodID": "2857#3204",
+      "buildingWodID": "2868#3204",
       "ignoreResourceStorageCapacity": 1
     },
     {

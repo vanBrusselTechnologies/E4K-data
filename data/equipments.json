@@ -13750,6 +13750,20 @@
       "mightValue": 2000,
       "canSlotGem": 0,
       "skinID": 94
+    },
+    {
+      "equipmentID": 1097,
+      "crossplayID": 1097,
+      "comment1": "Sales Days October - Halloween General",
+      "comment2": "HalloweenGeneral",
+      "wearerID": 2,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 1078,
+      "effects": "24&amp;6,334&amp;25,66&amp;5",
+      "duration": 120,
+      "mightValue": 10,
+      "canSlotGem": 1,
+      "skinID": 97
     }
   ]
 }

@@ -1,198 +1,6 @@
 {
   "wod": [
     {
-      "wodID": 905200,
-      "group": "Mapobject",
-      "name": "Kingstower",
-      "type": "-"
-    },
-    {
-      "wodID": 905201,
-      "group": "Mapobject",
-      "name": "Shadowarea",
-      "type": "-"
-    },
-    {
-      "wodID": 905202,
-      "group": "Mapobject",
-      "name": "KingdomCastle",
-      "type": "-"
-    },
-    {
-      "wodID": 905203,
-      "group": "Mapobject",
-      "name": "Village",
-      "type": "-"
-    },
-    {
-      "wodID": 905204,
-      "group": "Mapobject",
-      "name": "Bossdungeon",
-      "type": "-"
-    },
-    {
-      "wodID": 905205,
-      "group": "Mapobject",
-      "name": "Eventdungeon",
-      "type": "-"
-    },
-    {
-      "wodID": 905206,
-      "group": "Mapobject",
-      "name": "Metropol",
-      "type": "-"
-    },
-    {
-      "wodID": 905207,
-      "group": "Mapobject",
-      "name": "AlienInvasion",
-      "type": "-"
-    },
-    {
-      "wodID": 905208,
-      "group": "Mapobject",
-      "name": "SamuraiAlien",
-      "type": "-"
-    },
-    {
-      "wodID": 905209,
-      "group": "Mapobject",
-      "name": "TreasureMap",
-      "type": "-"
-    },
-    {
-      "wodID": 905210,
-      "group": "Mapobject",
-      "name": "Dummy",
-      "type": "-"
-    },
-    {
-      "wodID": 905211,
-      "group": "Mapobject",
-      "name": "FactionCamp",
-      "type": "-"
-    },
-    {
-      "wodID": 905212,
-      "group": "Mapobject",
-      "name": "FactionCapital",
-      "type": "-"
-    },
-    {
-      "wodID": 905213,
-      "group": "Mapobject",
-      "name": "FactionTower",
-      "type": "-"
-    },
-    {
-      "wodID": 905214,
-      "group": "Mapobject",
-      "name": "FactionVillage",
-      "type": "-"
-    },
-    {
-      "wodID": 905215,
-      "group": "Mapobject",
-      "name": "ResourceIsle",
-      "type": "-"
-    },
-    {
-      "wodID": 905216,
-      "group": "Mapobject",
-      "name": "DungeonIsle",
-      "type": "-"
-    },
-    {
-      "wodID": 905217,
-      "group": "Mapobject",
-      "name": "NomadInvasion",
-      "type": "-"
-    },
-    {
-      "wodID": 905218,
-      "group": "Mapobject",
-      "name": "Monument",
-      "type": "-"
-    },
-    {
-      "wodID": 905219,
-      "group": "Mapobject",
-      "name": "LandMarkPlaceholder",
-      "type": "-"
-    },
-    {
-      "wodID": 905220,
-      "group": "Mapobject",
-      "name": "PlaceHolder",
-      "type": "-"
-    },
-    {
-      "wodID": 905221,
-      "group": "Mapobject",
-      "name": "NomadKhan",
-      "type": "-"
-    },
-    {
-      "wodID": 905222,
-      "group": "Mapobject",
-      "name": "Shapeshifter",
-      "type": "-"
-    },
-    {
-      "wodID": 905223,
-      "group": "Mapobject",
-      "name": "SamuraiInvasion",
-      "type": "-"
-    },
-    {
-      "wodID": 905224,
-      "group": "Mapobject",
-      "name": "RedAllianceAlienInvasion",
-      "type": "-"
-    },
-    {
-      "wodID": 905225,
-      "group": "Mapobject",
-      "name": "DaimyoCastle",
-      "type": "-"
-    },
-    {
-      "wodID": 905226,
-      "group": "Mapobject",
-      "name": "DaimyoTownship",
-      "type": "-"
-    },
-    {
-      "wodID": 905227,
-      "group": "Mapobject",
-      "name": "ChargeCamp",
-      "type": "-"
-    },
-    {
-      "wodID": 905228,
-      "group": "Mapobject",
-      "name": "AllianceTower",
-      "type": "-"
-    },
-    {
-      "wodID": 905229,
-      "group": "Mapobject",
-      "name": "ResourceTower",
-      "type": "-"
-    },
-    {
-      "wodID": 905230,
-      "group": "Mapobject",
-      "name": "WolfKing",
-      "type": "-"
-    },
-    {
-      "wodID": 906000,
-      "group": "Mapobject",
-      "name": "AreaConnection",
-      "type": "-"
-    },
-    {
       "wodID": 900,
       "cossplayID": 900,
       "group": "Mapobject",
@@ -531,6 +339,192 @@
       "block": 0,
       "width": 2,
       "height": 1
+    },
+    {
+      "wodID": 905200,
+      "group": "Mapobject",
+      "name": "Kingstower",
+      "type": "-"
+    },
+    {
+      "wodID": 905201,
+      "group": "Mapobject",
+      "name": "Shadowarea",
+      "type": "-"
+    },
+    {
+      "wodID": 905202,
+      "group": "Mapobject",
+      "name": "KingdomCastle",
+      "type": "-"
+    },
+    {
+      "wodID": 905203,
+      "group": "Mapobject",
+      "name": "Village",
+      "type": "-"
+    },
+    {
+      "wodID": 905204,
+      "group": "Mapobject",
+      "name": "Bossdungeon",
+      "type": "-"
+    },
+    {
+      "wodID": 905205,
+      "group": "Mapobject",
+      "name": "Eventdungeon",
+      "type": "-"
+    },
+    {
+      "wodID": 905206,
+      "group": "Mapobject",
+      "name": "Metropol",
+      "type": "-"
+    },
+    {
+      "wodID": 905207,
+      "group": "Mapobject",
+      "name": "AlienInvasion",
+      "type": "-"
+    },
+    {
+      "wodID": 905208,
+      "group": "Mapobject",
+      "name": "SamuraiAlien",
+      "type": "-"
+    },
+    {
+      "wodID": 905209,
+      "group": "Mapobject",
+      "name": "TreasureMap",
+      "type": "-"
+    },
+    {
+      "wodID": 905210,
+      "group": "Mapobject",
+      "name": "Dummy",
+      "type": "-"
+    },
+    {
+      "wodID": 905211,
+      "group": "Mapobject",
+      "name": "FactionCamp",
+      "type": "-"
+    },
+    {
+      "wodID": 905212,
+      "group": "Mapobject",
+      "name": "FactionCapital",
+      "type": "-"
+    },
+    {
+      "wodID": 905213,
+      "group": "Mapobject",
+      "name": "FactionTower",
+      "type": "-"
+    },
+    {
+      "wodID": 905214,
+      "group": "Mapobject",
+      "name": "FactionVillage",
+      "type": "-"
+    },
+    {
+      "wodID": 905215,
+      "group": "Mapobject",
+      "name": "ResourceIsle",
+      "type": "-"
+    },
+    {
+      "wodID": 905216,
+      "group": "Mapobject",
+      "name": "DungeonIsle",
+      "type": "-"
+    },
+    {
+      "wodID": 905217,
+      "group": "Mapobject",
+      "name": "NomadInvasion",
+      "type": "-"
+    },
+    {
+      "wodID": 905218,
+      "group": "Mapobject",
+      "name": "Monument",
+      "type": "-"
+    },
+    {
+      "wodID": 905219,
+      "group": "Mapobject",
+      "name": "LandMarkPlaceholder",
+      "type": "-"
+    },
+    {
+      "wodID": 905220,
+      "group": "Mapobject",
+      "name": "PlaceHolder",
+      "type": "-"
+    },
+    {
+      "wodID": 905221,
+      "group": "Mapobject",
+      "name": "NomadKhan",
+      "type": "-"
+    },
+    {
+      "wodID": 905223,
+      "group": "Mapobject",
+      "name": "SamuraiInvasion",
+      "type": "-"
+    },
+    {
+      "wodID": 905224,
+      "group": "Mapobject",
+      "name": "RedAllianceAlienInvasion",
+      "type": "-"
+    },
+    {
+      "wodID": 905225,
+      "group": "Mapobject",
+      "name": "DaimyoCastle",
+      "type": "-"
+    },
+    {
+      "wodID": 905226,
+      "group": "Mapobject",
+      "name": "DaimyoTownship",
+      "type": "-"
+    },
+    {
+      "wodID": 905227,
+      "group": "Mapobject",
+      "name": "ChargeCamp",
+      "type": "-"
+    },
+    {
+      "wodID": 905228,
+      "group": "Mapobject",
+      "name": "AllianceTower",
+      "type": "-"
+    },
+    {
+      "wodID": 905229,
+      "group": "Mapobject",
+      "name": "ResourceTower",
+      "type": "-"
+    },
+    {
+      "wodID": 905230,
+      "group": "Mapobject",
+      "name": "WolfKing",
+      "type": "-"
+    },
+    {
+      "wodID": 906000,
+      "group": "Mapobject",
+      "name": "AreaConnection",
+      "type": "-"
     }
   ]
 }

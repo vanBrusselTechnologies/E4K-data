@@ -10154,6 +10154,211 @@
       "sortOrder": 106.6
     },
     {
+      "wodID": 557,
+      "crossplayID": 557,
+      "comment2": "RamOfTheShogun",
+      "group": "Unit",
+      "name": "Eventtool",
+      "type": "RamOfTheShogun",
+      "toolCategory": 4,
+      "speed": 75,
+      "cleavageOfCellsCost": 0,
+      "gateBonus": 25,
+      "samuraiTokenBooster": 6,
+      "typ": "Attack",
+      "slotTypes": "1,9",
+      "allowedToAttack": "0+29",
+      "allowedToTravel": "0+-1",
+      "deleteToolAfterBattle": 1,
+      "fightType": 0,
+      "sortOrder": 106.63
+    },
+    {
+      "wodID": 558,
+      "crossplayID": 558,
+      "comment2": "ShieldOfTheShogun",
+      "group": "Unit",
+      "name": "Eventtool",
+      "type": "ShieldOfTheShogun",
+      "toolCategory": 4,
+      "speed": 28,
+      "cleavageOfCellsCost": 0,
+      "defRangeBonus": 20,
+      "samuraiTokenBooster": 6,
+      "typ": "Attack",
+      "slotTypes": "1,2,2009",
+      "allowedToAttack": "0+29",
+      "allowedToTravel": "0+-1",
+      "deleteToolAfterBattle": 1,
+      "fightType": 0,
+      "sortOrder": 107.94
+    },
+    {
+      "wodID": 559,
+      "crossplayID": 559,
+      "comment2": "LadderOfTheShogun",
+      "group": "Unit",
+      "name": "Eventtool",
+      "type": "LadderOfTheShogun",
+      "toolCategory": 4,
+      "speed": 75,
+      "cleavageOfCellsCost": 0,
+      "wallBonus": 25,
+      "samuraiTokenBooster": 6,
+      "typ": "Attack",
+      "slotTypes": "1,2,2009",
+      "allowedToAttack": "0+29",
+      "allowedToTravel": "0+-1",
+      "deleteToolAfterBattle": 1,
+      "fightType": 0,
+      "sortOrder": 105.94
+    },
+    {
+      "wodID": 560,
+      "crossplayID": 560,
+      "comment1": "nomadsevent Anti",
+      "comment2": "EliteNomadComboRam",
+      "group": "Unit",
+      "name": "Eventtool",
+      "type": "EliteNomadComboRam",
+      "toolCategory": 4,
+      "speed": 75,
+      "cleavageOfCellsCost": 0,
+      "gateBonus": 25,
+      "khanTabletBooster": 7,
+      "typ": "Attack",
+      "slotTypes": "1,9",
+      "allowedToAttack": "0+27#0+35",
+      "allowedToTravel": "0+-1",
+      "deleteToolAfterBattle": 1,
+      "fightType": 0,
+      "sortOrder": 106.5
+    },
+    {
+      "wodID": 561,
+      "crossplayID": 561,
+      "comment1": "nomadsevent Anti",
+      "comment2": "EliteNomadComboLadder",
+      "group": "Unit",
+      "name": "Eventtool",
+      "type": "EliteNomadComboLadder",
+      "toolCategory": 4,
+      "speed": 75,
+      "cleavageOfCellsCost": 0,
+      "wallBonus": 25,
+      "khanTabletBooster": 7,
+      "typ": "Attack",
+      "slotTypes": "1,2,2009",
+      "allowedToAttack": "0+27#0+35",
+      "allowedToTravel": "0+-1",
+      "deleteToolAfterBattle": 1,
+      "fightType": 0,
+      "sortOrder": 105.6
+    },
+    {
+      "wodID": 562,
+      "crossplayID": 562,
+      "comment1": "nomadsevent Anti",
+      "comment2": "EliteNomadComboShield",
+      "group": "Unit",
+      "name": "Eventtool",
+      "type": "EliteNomadComboShield",
+      "toolCategory": 4,
+      "speed": 28,
+      "cleavageOfCellsCost": 0,
+      "defRangeBonus": 20,
+      "khanTabletBooster": 7,
+      "typ": "Attack",
+      "slotTypes": "1,2,2009",
+      "allowedToAttack": "0+27#0+35",
+      "allowedToTravel": "0+-1",
+      "deleteToolAfterBattle": 1,
+      "fightType": 0,
+      "sortOrder": 107.6
+    },
+    {
+      "wodID": 563,
+      "crossplayID": 563,
+      "comment2": "RageBoost",
+      "group": "Unit",
+      "name": "Eventtool",
+      "type": "RageBoost",
+      "toolCategory": 4,
+      "speed": 28,
+      "cleavageOfCellsCost": 0,
+      "ragePointBonus": 2,
+      "typ": "Attack",
+      "slotTypes": "1,2,2009",
+      "allowedToAttack": "0+35",
+      "allowedToTravel": "0+-1",
+      "deleteToolAfterBattle": 1,
+      "fightType": 0,
+      "sortOrder": 104.1
+    },
+    {
+      "wodID": 564,
+      "crossplayID": 564,
+      "comment1": "Elite Combotool",
+      "comment2": "EliteComboRam",
+      "group": "Unit",
+      "name": "Eventtool",
+      "type": "EliteComboRam",
+      "toolCategory": 4,
+      "speed": 75,
+      "cleavageOfCellsCost": 0,
+      "gateBonus": 20,
+      "fameBonus": 9,
+      "typ": "Attack",
+      "slotTypes": "1,9",
+      "allowedToAttack": "0+21#0+34",
+      "allowedToTravel": "0+-1",
+      "deleteToolAfterBattle": 1,
+      "fightType": 0,
+      "sortOrder": 106.35
+    },
+    {
+      "wodID": 565,
+      "crossplayID": 565,
+      "comment1": "Elite Combotool",
+      "comment2": "EliteTonnelon",
+      "group": "Unit",
+      "name": "Eventtool",
+      "type": "EliteTonnelon",
+      "toolCategory": 4,
+      "speed": 75,
+      "cleavageOfCellsCost": 0,
+      "wallBonus": 20,
+      "fameBonus": 9,
+      "typ": "Attack",
+      "slotTypes": "1,2,2009",
+      "allowedToAttack": "0+21#0+34",
+      "allowedToTravel": "0+-1",
+      "deleteToolAfterBattle": 1,
+      "fightType": 0,
+      "sortOrder": 105.22
+    },
+    {
+      "wodID": 566,
+      "crossplayID": 566,
+      "comment1": "AlienInvasion Anti",
+      "comment2": "AlienInvasionAntiShields",
+      "group": "Unit",
+      "name": "Eventtool",
+      "type": "AlienInvasionAntiShields",
+      "toolCategory": 4,
+      "speed": 28,
+      "cleavageOfCellsCost": 0,
+      "defRangeBonus": 20,
+      "fameBonus": 9,
+      "typ": "Attack",
+      "slotTypes": "1,2,2009",
+      "allowedToAttack": "0+21#0+34",
+      "allowedToTravel": "0+-1",
+      "deleteToolAfterBattle": 1,
+      "fightType": 0,
+      "sortOrder": 107.92
+    },
+    {
       "wodID": 665,
       "crossplayID": 665,
       "comment2": "QuestionUnit",
@@ -17768,7 +17973,7 @@
       "wodID": 215,
       "crossplayID": 195,
       "comment1": "Relic Barracks",
-      "comment2": "MeadShieldMaiden",
+      "comment2": "Shield Maiden",
       "upgradeWodID": 195,
       "level": 0,
       "group": "Unit",
@@ -17804,7 +18009,7 @@
       "wodID": 195,
       "crossplayID": 196,
       "comment1": "Relic Barracks",
-      "comment2": "MeadShieldMaiden",
+      "comment2": "Shield Maiden",
       "upgradeWodID": 196,
       "downgradeWodID": 215,
       "level": 1,
@@ -17842,7 +18047,7 @@
       "wodID": 196,
       "crossplayID": 197,
       "comment1": "Relic Barracks",
-      "comment2": "MeadShieldMaiden",
+      "comment2": "Shield Maiden",
       "upgradeWodID": 197,
       "downgradeWodID": 195,
       "level": 2,
@@ -17880,7 +18085,7 @@
       "wodID": 197,
       "crossplayID": 198,
       "comment1": "Relic Barracks",
-      "comment2": "MeadShieldMaiden",
+      "comment2": "Shield Maiden",
       "upgradeWodID": 198,
       "downgradeWodID": 196,
       "level": 3,
@@ -17918,7 +18123,7 @@
       "wodID": 198,
       "crossplayID": 199,
       "comment1": "Relic Barracks",
-      "comment2": "MeadShieldMaiden",
+      "comment2": "Shield Maiden",
       "upgradeWodID": 199,
       "downgradeWodID": 197,
       "level": 4,
@@ -17956,7 +18161,7 @@
       "wodID": 199,
       "crossplayID": 200,
       "comment1": "Relic Barracks",
-      "comment2": "MeadShieldMaiden",
+      "comment2": "Shield Maiden",
       "upgradeWodID": 200,
       "downgradeWodID": 198,
       "level": 5,
@@ -17994,7 +18199,7 @@
       "wodID": 200,
       "crossplayID": 201,
       "comment1": "Relic Barracks",
-      "comment2": "MeadShieldMaiden",
+      "comment2": "Shield Maiden",
       "upgradeWodID": 201,
       "downgradeWodID": 199,
       "level": 6,
@@ -18032,7 +18237,7 @@
       "wodID": 201,
       "crossplayID": 202,
       "comment1": "Relic Barracks",
-      "comment2": "MeadShieldMaiden",
+      "comment2": "Shield Maiden",
       "upgradeWodID": 202,
       "downgradeWodID": 200,
       "level": 7,
@@ -18070,7 +18275,7 @@
       "wodID": 202,
       "crossplayID": 203,
       "comment1": "Relic Barracks",
-      "comment2": "MeadShieldMaiden",
+      "comment2": "Shield Maiden",
       "upgradeWodID": 203,
       "downgradeWodID": 201,
       "level": 8,
@@ -18108,7 +18313,7 @@
       "wodID": 203,
       "crossplayID": 204,
       "comment1": "Relic Barracks",
-      "comment2": "MeadShieldMaiden",
+      "comment2": "Shield Maiden",
       "upgradeWodID": 204,
       "downgradeWodID": 202,
       "level": 9,
@@ -18146,7 +18351,7 @@
       "wodID": 204,
       "crossplayID": 215,
       "comment1": "Relic Barracks",
-      "comment2": "MeadShieldMaiden",
+      "comment2": "Shield Maiden",
       "downgradeWodID": 203,
       "level": 10,
       "group": "Unit",
@@ -18183,7 +18388,7 @@
       "wodID": 216,
       "crossplayID": 205,
       "comment1": "Relic Barracks",
-      "comment2": "MeadRanger",
+      "comment2": "Valkyrie Ranger",
       "upgradeWodID": 205,
       "level": 0,
       "group": "Unit",
@@ -18213,13 +18418,13 @@
       "fightType": 0,
       "fameAsDef": 0.34,
       "fameAsOff": 6.93,
-      "sortOrder": 15.12
+      "sortOrder": 15.09
     },
     {
       "wodID": 205,
       "crossplayID": 206,
       "comment1": "Relic Barracks",
-      "comment2": "MeadRanger",
+      "comment2": "Valkyrie Ranger",
       "upgradeWodID": 206,
       "downgradeWodID": 216,
       "level": 1,
@@ -18251,13 +18456,13 @@
       "fightType": 0,
       "fameAsDef": 0.35,
       "fameAsOff": 7.26,
-      "sortOrder": 15.12
+      "sortOrder": 15.09
     },
     {
       "wodID": 206,
       "crossplayID": 207,
       "comment1": "Relic Barracks",
-      "comment2": "MeadRanger",
+      "comment2": "Valkyrie Ranger",
       "upgradeWodID": 207,
       "downgradeWodID": 205,
       "level": 2,
@@ -18289,13 +18494,13 @@
       "fightType": 0,
       "fameAsDef": 0.37,
       "fameAsOff": 7.59,
-      "sortOrder": 15.12
+      "sortOrder": 15.09
     },
     {
       "wodID": 207,
       "crossplayID": 208,
       "comment1": "Relic Barracks",
-      "comment2": "MeadRanger",
+      "comment2": "Valkyrie Ranger",
       "upgradeWodID": 208,
       "downgradeWodID": 206,
       "level": 3,
@@ -18327,13 +18532,13 @@
       "fightType": 0,
       "fameAsDef": 0.38,
       "fameAsOff": 7.92,
-      "sortOrder": 15.12
+      "sortOrder": 15.09
     },
     {
       "wodID": 208,
       "crossplayID": 209,
       "comment1": "Relic Barracks",
-      "comment2": "MeadRanger",
+      "comment2": "Valkyrie Ranger",
       "upgradeWodID": 209,
       "downgradeWodID": 207,
       "level": 4,
@@ -18365,13 +18570,13 @@
       "fightType": 0,
       "fameAsDef": 0.4,
       "fameAsOff": 8.25,
-      "sortOrder": 15.12
+      "sortOrder": 15.09
     },
     {
       "wodID": 209,
       "crossplayID": 210,
       "comment1": "Relic Barracks",
-      "comment2": "MeadRanger",
+      "comment2": "Valkyrie Ranger",
       "upgradeWodID": 210,
       "downgradeWodID": 208,
       "level": 5,
@@ -18403,13 +18608,13 @@
       "fightType": 0,
       "fameAsDef": 0.42,
       "fameAsOff": 8.58,
-      "sortOrder": 15.12
+      "sortOrder": 15.09
     },
     {
       "wodID": 210,
       "crossplayID": 211,
       "comment1": "Relic Barracks",
-      "comment2": "MeadRanger",
+      "comment2": "Valkyrie Ranger",
       "upgradeWodID": 211,
       "downgradeWodID": 209,
       "level": 6,
@@ -18441,13 +18646,13 @@
       "fightType": 0,
       "fameAsDef": 0.43,
       "fameAsOff": 8.91,
-      "sortOrder": 15.12
+      "sortOrder": 15.09
     },
     {
       "wodID": 211,
       "crossplayID": 212,
       "comment1": "Relic Barracks",
-      "comment2": "MeadRanger",
+      "comment2": "Valkyrie Ranger",
       "upgradeWodID": 212,
       "downgradeWodID": 210,
       "level": 7,
@@ -18479,13 +18684,13 @@
       "fightType": 0,
       "fameAsDef": 0.45,
       "fameAsOff": 9.24,
-      "sortOrder": 15.12
+      "sortOrder": 15.09
     },
     {
       "wodID": 212,
       "crossplayID": 213,
       "comment1": "Relic Barracks",
-      "comment2": "MeadRanger",
+      "comment2": "Valkyrie Ranger",
       "upgradeWodID": 213,
       "downgradeWodID": 211,
       "level": 8,
@@ -18517,13 +18722,13 @@
       "fightType": 0,
       "fameAsDef": 0.46,
       "fameAsOff": 9.57,
-      "sortOrder": 15.12
+      "sortOrder": 15.09
     },
     {
       "wodID": 213,
       "crossplayID": 214,
       "comment1": "Relic Barracks",
-      "comment2": "MeadRanger",
+      "comment2": "Valkyrie Ranger",
       "upgradeWodID": 214,
       "downgradeWodID": 212,
       "level": 9,
@@ -18555,13 +18760,13 @@
       "fightType": 0,
       "fameAsDef": 0.48,
       "fameAsOff": 9.9,
-      "sortOrder": 15.12
+      "sortOrder": 15.09
     },
     {
       "wodID": 214,
       "crossplayID": 216,
       "comment1": "Relic Barracks",
-      "comment2": "MeadRanger",
+      "comment2": "Valkyrie Ranger",
       "downgradeWodID": 213,
       "level": 10,
       "group": "Unit",
@@ -18592,13 +18797,13 @@
       "fightType": 0,
       "fameAsDef": 0.5,
       "fameAsOff": 10.23,
-      "sortOrder": 15.12
+      "sortOrder": 15.09
     },
     {
       "wodID": 217,
       "crossplayID": 217,
       "comment1": "Relic Barracks",
-      "comment2": "MeadMace",
+      "comment2": "Protector of the north",
       "upgradeWodID": 218,
       "level": 0,
       "group": "Unit",
@@ -18634,7 +18839,7 @@
       "wodID": 218,
       "crossplayID": 218,
       "comment1": "Relic Barracks",
-      "comment2": "MeadMace",
+      "comment2": "Protector of the north",
       "upgradeWodID": 219,
       "downgradeWodID": 217,
       "level": 1,
@@ -18672,7 +18877,7 @@
       "wodID": 219,
       "crossplayID": 219,
       "comment1": "Relic Barracks",
-      "comment2": "MeadMace",
+      "comment2": "Protector of the north",
       "upgradeWodID": 220,
       "downgradeWodID": 218,
       "level": 2,
@@ -18710,7 +18915,7 @@
       "wodID": 220,
       "crossplayID": 220,
       "comment1": "Relic Barracks",
-      "comment2": "MeadMace",
+      "comment2": "Protector of the north",
       "upgradeWodID": 221,
       "downgradeWodID": 219,
       "level": 3,
@@ -18748,7 +18953,7 @@
       "wodID": 221,
       "crossplayID": 221,
       "comment1": "Relic Barracks",
-      "comment2": "MeadMace",
+      "comment2": "Protector of the north",
       "upgradeWodID": 222,
       "downgradeWodID": 220,
       "level": 4,
@@ -18786,7 +18991,7 @@
       "wodID": 222,
       "crossplayID": 222,
       "comment1": "Relic Barracks",
-      "comment2": "MeadMace",
+      "comment2": "Protector of the north",
       "upgradeWodID": 223,
       "downgradeWodID": 221,
       "level": 5,
@@ -18824,7 +19029,7 @@
       "wodID": 223,
       "crossplayID": 223,
       "comment1": "Relic Barracks",
-      "comment2": "MeadMace",
+      "comment2": "Protector of the north",
       "upgradeWodID": 224,
       "downgradeWodID": 222,
       "level": 6,
@@ -18862,7 +19067,7 @@
       "wodID": 224,
       "crossplayID": 224,
       "comment1": "Relic Barracks",
-      "comment2": "MeadMace",
+      "comment2": "Protector of the north",
       "upgradeWodID": 225,
       "downgradeWodID": 223,
       "level": 7,
@@ -18900,7 +19105,7 @@
       "wodID": 225,
       "crossplayID": 225,
       "comment1": "Relic Barracks",
-      "comment2": "MeadMace",
+      "comment2": "Protector of the north",
       "upgradeWodID": 226,
       "downgradeWodID": 224,
       "level": 8,
@@ -18938,7 +19143,7 @@
       "wodID": 226,
       "crossplayID": 226,
       "comment1": "Relic Barracks",
-      "comment2": "MeadMace",
+      "comment2": "Protector of the north",
       "upgradeWodID": 227,
       "downgradeWodID": 225,
       "level": 9,
@@ -18976,7 +19181,7 @@
       "wodID": 227,
       "crossplayID": 227,
       "comment1": "Relic Barracks",
-      "comment2": "MeadMace",
+      "comment2": "Protector of the north",
       "downgradeWodID": 226,
       "level": 10,
       "group": "Unit",
@@ -19013,7 +19218,7 @@
       "wodID": 228,
       "crossplayID": 228,
       "comment1": "Relic Barracks",
-      "comment2": "MeadBow",
+      "comment2": "Valkyrie Sniper",
       "upgradeWodID": 229,
       "level": 0,
       "group": "Unit",
@@ -19043,13 +19248,13 @@
       "fightType": 1,
       "fameAsDef": 3.3,
       "fameAsOff": 0.0384,
-      "sortOrder": 15.11
+      "sortOrder": 15.1
     },
     {
       "wodID": 229,
       "crossplayID": 229,
       "comment1": "Relic Barracks",
-      "comment2": "MeadBow",
+      "comment2": "Valkyrie Sniper",
       "upgradeWodID": 230,
       "downgradeWodID": 228,
       "level": 1,
@@ -19081,13 +19286,13 @@
       "fightType": 1,
       "fameAsDef": 3.465,
       "fameAsOff": 0.04,
-      "sortOrder": 15.11
+      "sortOrder": 15.1
     },
     {
       "wodID": 230,
       "crossplayID": 230,
       "comment1": "Relic Barracks",
-      "comment2": "MeadBow",
+      "comment2": "Valkyrie Sniper",
       "upgradeWodID": 231,
       "downgradeWodID": 229,
       "level": 2,
@@ -19119,13 +19324,13 @@
       "fightType": 1,
       "fameAsDef": 3.63,
       "fameAsOff": 0.0416,
-      "sortOrder": 15.11
+      "sortOrder": 15.1
     },
     {
       "wodID": 231,
       "crossplayID": 231,
       "comment1": "Relic Barracks",
-      "comment2": "MeadBow",
+      "comment2": "Valkyrie Sniper",
       "upgradeWodID": 232,
       "downgradeWodID": 230,
       "level": 3,
@@ -19157,13 +19362,13 @@
       "fightType": 1,
       "fameAsDef": 3.795,
       "fameAsOff": 0.0432,
-      "sortOrder": 15.11
+      "sortOrder": 15.1
     },
     {
       "wodID": 232,
       "crossplayID": 232,
       "comment1": "Relic Barracks",
-      "comment2": "MeadBow",
+      "comment2": "Valkyrie Sniper",
       "upgradeWodID": 233,
       "downgradeWodID": 231,
       "level": 4,
@@ -19195,13 +19400,13 @@
       "fightType": 1,
       "fameAsDef": 3.96,
       "fameAsOff": 0.0448,
-      "sortOrder": 15.11
+      "sortOrder": 15.1
     },
     {
       "wodID": 233,
       "crossplayID": 233,
       "comment1": "Relic Barracks",
-      "comment2": "MeadBow",
+      "comment2": "Valkyrie Sniper",
       "upgradeWodID": 234,
       "downgradeWodID": 232,
       "level": 5,
@@ -19233,13 +19438,13 @@
       "fightType": 1,
       "fameAsDef": 4.125,
       "fameAsOff": 0.0464,
-      "sortOrder": 15.11
+      "sortOrder": 15.1
     },
     {
       "wodID": 234,
       "crossplayID": 234,
       "comment1": "Relic Barracks",
-      "comment2": "MeadBow",
+      "comment2": "Valkyrie Sniper",
       "upgradeWodID": 235,
       "downgradeWodID": 233,
       "level": 6,
@@ -19271,13 +19476,13 @@
       "fightType": 1,
       "fameAsDef": 4.29,
       "fameAsOff": 0.0496,
-      "sortOrder": 15.11
+      "sortOrder": 15.1
     },
     {
       "wodID": 235,
       "crossplayID": 235,
       "comment1": "Relic Barracks",
-      "comment2": "MeadBow",
+      "comment2": "Valkyrie Sniper",
       "upgradeWodID": 236,
       "downgradeWodID": 234,
       "level": 7,
@@ -19309,13 +19514,13 @@
       "fightType": 1,
       "fameAsDef": 4.455,
       "fameAsOff": 0.0512,
-      "sortOrder": 15.11
+      "sortOrder": 15.1
     },
     {
       "wodID": 236,
       "crossplayID": 236,
       "comment1": "Relic Barracks",
-      "comment2": "MeadBow",
+      "comment2": "Valkyrie Sniper",
       "upgradeWodID": 237,
       "downgradeWodID": 235,
       "level": 8,
@@ -19347,13 +19552,13 @@
       "fightType": 1,
       "fameAsDef": 4.62,
       "fameAsOff": 0.0528,
-      "sortOrder": 15.11
+      "sortOrder": 15.1
     },
     {
       "wodID": 237,
       "crossplayID": 237,
       "comment1": "Relic Barracks",
-      "comment2": "MeadBow",
+      "comment2": "Valkyrie Sniper",
       "upgradeWodID": 238,
       "downgradeWodID": 236,
       "level": 9,
@@ -19385,13 +19590,13 @@
       "fightType": 1,
       "fameAsDef": 4.785,
       "fameAsOff": 0.0544,
-      "sortOrder": 15.11
+      "sortOrder": 15.1
     },
     {
       "wodID": 238,
       "crossplayID": 238,
       "comment1": "Relic Barracks",
-      "comment2": "MeadBow",
+      "comment2": "Valkyrie Sniper",
       "downgradeWodID": 237,
       "level": 10,
       "group": "Unit",
@@ -19422,7 +19627,7 @@
       "fightType": 1,
       "fameAsDef": 4.95,
       "fameAsOff": 0.056,
-      "sortOrder": 15.11
+      "sortOrder": 15.1
     },
     {
       "wodID": 820,
@@ -21837,7 +22042,7 @@
       "fightType": 0,
       "fameAsDef": 0.5,
       "fameAsOff": 10.23,
-      "sortOrder": 15.1
+      "sortOrder": 15.11
     },
     {
       "wodID": 514,
@@ -21876,7 +22081,7 @@
       "fightType": 0,
       "fameAsDef": 0.51,
       "fameAsOff": 10.24,
-      "sortOrder": 15.1
+      "sortOrder": 15.11
     },
     {
       "wodID": 515,
@@ -21915,7 +22120,7 @@
       "fightType": 0,
       "fameAsDef": 0.52,
       "fameAsOff": 10.25,
-      "sortOrder": 15.1
+      "sortOrder": 15.11
     },
     {
       "wodID": 516,
@@ -21954,7 +22159,7 @@
       "fightType": 0,
       "fameAsDef": 0.53,
       "fameAsOff": 10.26,
-      "sortOrder": 15.1
+      "sortOrder": 15.11
     },
     {
       "wodID": 517,
@@ -21993,7 +22198,7 @@
       "fightType": 0,
       "fameAsDef": 0.54,
       "fameAsOff": 10.27,
-      "sortOrder": 15.1
+      "sortOrder": 15.11
     },
     {
       "wodID": 518,
@@ -22032,7 +22237,7 @@
       "fightType": 0,
       "fameAsDef": 0.55,
       "fameAsOff": 10.28,
-      "sortOrder": 15.1
+      "sortOrder": 15.11
     },
     {
       "wodID": 519,
@@ -22071,7 +22276,7 @@
       "fightType": 0,
       "fameAsDef": 0.56,
       "fameAsOff": 10.29,
-      "sortOrder": 15.1
+      "sortOrder": 15.11
     },
     {
       "wodID": 520,
@@ -22110,7 +22315,7 @@
       "fightType": 0,
       "fameAsDef": 0.57,
       "fameAsOff": 10.3,
-      "sortOrder": 15.1
+      "sortOrder": 15.11
     },
     {
       "wodID": 521,
@@ -22149,7 +22354,7 @@
       "fightType": 0,
       "fameAsDef": 0.58,
       "fameAsOff": 10.31,
-      "sortOrder": 15.1
+      "sortOrder": 15.11
     },
     {
       "wodID": 522,
@@ -22188,7 +22393,7 @@
       "fightType": 0,
       "fameAsDef": 0.59,
       "fameAsOff": 10.32,
-      "sortOrder": 15.1
+      "sortOrder": 15.11
     },
     {
       "wodID": 523,
@@ -22226,7 +22431,7 @@
       "fightType": 0,
       "fameAsDef": 0.6,
       "fameAsOff": 10.33,
-      "sortOrder": 15.1
+      "sortOrder": 15.11
     },
     {
       "wodID": 524,
@@ -22263,7 +22468,7 @@
       "fightType": 0,
       "fameAsDef": 0.52,
       "fameAsOff": 10.73,
-      "sortOrder": 14.1
+      "sortOrder": 14.09
     },
     {
       "wodID": 525,
@@ -22302,7 +22507,7 @@
       "fightType": 0,
       "fameAsDef": 0.53,
       "fameAsOff": 10.74,
-      "sortOrder": 14.1
+      "sortOrder": 14.09
     },
     {
       "wodID": 526,
@@ -22341,7 +22546,7 @@
       "fightType": 0,
       "fameAsDef": 0.54,
       "fameAsOff": 10.75,
-      "sortOrder": 14.1
+      "sortOrder": 14.09
     },
     {
       "wodID": 527,
@@ -22380,7 +22585,7 @@
       "fightType": 0,
       "fameAsDef": 0.55,
       "fameAsOff": 10.76,
-      "sortOrder": 14.1
+      "sortOrder": 14.09
     },
     {
       "wodID": 528,
@@ -22419,7 +22624,7 @@
       "fightType": 0,
       "fameAsDef": 0.56,
       "fameAsOff": 10.77,
-      "sortOrder": 14.1
+      "sortOrder": 14.09
     },
     {
       "wodID": 529,
@@ -22458,7 +22663,7 @@
       "fightType": 0,
       "fameAsDef": 0.57,
       "fameAsOff": 10.78,
-      "sortOrder": 14.1
+      "sortOrder": 14.09
     },
     {
       "wodID": 530,
@@ -22497,7 +22702,7 @@
       "fightType": 0,
       "fameAsDef": 0.58,
       "fameAsOff": 10.79,
-      "sortOrder": 14.1
+      "sortOrder": 14.09
     },
     {
       "wodID": 531,
@@ -22536,7 +22741,7 @@
       "fightType": 0,
       "fameAsDef": 0.59,
       "fameAsOff": 10.8,
-      "sortOrder": 14.1
+      "sortOrder": 14.09
     },
     {
       "wodID": 532,
@@ -22575,7 +22780,7 @@
       "fightType": 0,
       "fameAsDef": 0.6,
       "fameAsOff": 10.81,
-      "sortOrder": 14.1
+      "sortOrder": 14.09
     },
     {
       "wodID": 533,
@@ -22614,7 +22819,7 @@
       "fightType": 0,
       "fameAsDef": 0.61,
       "fameAsOff": 10.82,
-      "sortOrder": 14.1
+      "sortOrder": 14.09
     },
     {
       "wodID": 534,
@@ -22652,7 +22857,7 @@
       "fightType": 0,
       "fameAsDef": 0.62,
       "fameAsOff": 10.83,
-      "sortOrder": 14.1
+      "sortOrder": 14.09
     },
     {
       "wodID": 535,
@@ -22689,7 +22894,7 @@
       "fightType": 0,
       "fameAsDef": 0.52,
       "fameAsOff": 10.73,
-      "sortOrder": 14.09
+      "sortOrder": 14.1
     },
     {
       "wodID": 536,
@@ -22728,7 +22933,7 @@
       "fightType": 0,
       "fameAsDef": 0.53,
       "fameAsOff": 10.74,
-      "sortOrder": 14.09
+      "sortOrder": 14.1
     },
     {
       "wodID": 537,
@@ -22767,7 +22972,7 @@
       "fightType": 0,
       "fameAsDef": 0.54,
       "fameAsOff": 10.75,
-      "sortOrder": 14.09
+      "sortOrder": 14.1
     },
     {
       "wodID": 538,
@@ -22806,7 +23011,7 @@
       "fightType": 0,
       "fameAsDef": 0.55,
       "fameAsOff": 10.76,
-      "sortOrder": 14.09
+      "sortOrder": 14.1
     },
     {
       "wodID": 539,
@@ -22845,7 +23050,7 @@
       "fightType": 0,
       "fameAsDef": 0.56,
       "fameAsOff": 10.77,
-      "sortOrder": 14.09
+      "sortOrder": 14.1
     },
     {
       "wodID": 540,
@@ -22884,7 +23089,7 @@
       "fightType": 0,
       "fameAsDef": 0.57,
       "fameAsOff": 10.78,
-      "sortOrder": 14.09
+      "sortOrder": 14.1
     },
     {
       "wodID": 541,
@@ -22923,7 +23128,7 @@
       "fightType": 0,
       "fameAsDef": 0.58,
       "fameAsOff": 10.79,
-      "sortOrder": 14.09
+      "sortOrder": 14.1
     },
     {
       "wodID": 542,
@@ -22962,7 +23167,7 @@
       "fightType": 0,
       "fameAsDef": 0.59,
       "fameAsOff": 10.8,
-      "sortOrder": 14.09
+      "sortOrder": 14.1
     },
     {
       "wodID": 543,
@@ -23001,7 +23206,7 @@
       "fightType": 0,
       "fameAsDef": 0.6,
       "fameAsOff": 10.81,
-      "sortOrder": 14.09
+      "sortOrder": 14.1
     },
     {
       "wodID": 544,
@@ -23040,7 +23245,7 @@
       "fightType": 0,
       "fameAsDef": 0.61,
       "fameAsOff": 10.82,
-      "sortOrder": 14.09
+      "sortOrder": 14.1
     },
     {
       "wodID": 545,
@@ -23078,7 +23283,7 @@
       "fightType": 0,
       "fameAsDef": 0.62,
       "fameAsOff": 10.83,
-      "sortOrder": 14.09
+      "sortOrder": 14.1
     },
     {
       "wodID": 546,
@@ -23115,7 +23320,7 @@
       "fightType": 0,
       "fameAsDef": 0.5,
       "fameAsOff": 10.23,
-      "sortOrder": 15.09
+      "sortOrder": 15.12
     },
     {
       "wodID": 547,
@@ -23154,7 +23359,7 @@
       "fightType": 0,
       "fameAsDef": 0.51,
       "fameAsOff": 10.24,
-      "sortOrder": 15.09
+      "sortOrder": 15.12
     },
     {
       "wodID": 548,
@@ -23193,7 +23398,7 @@
       "fightType": 0,
       "fameAsDef": 0.52,
       "fameAsOff": 10.25,
-      "sortOrder": 15.09
+      "sortOrder": 15.12
     },
     {
       "wodID": 549,
@@ -23232,7 +23437,7 @@
       "fightType": 0,
       "fameAsDef": 0.53,
       "fameAsOff": 10.26,
-      "sortOrder": 15.09
+      "sortOrder": 15.12
     },
     {
       "wodID": 550,
@@ -23271,7 +23476,7 @@
       "fightType": 0,
       "fameAsDef": 0.54,
       "fameAsOff": 10.27,
-      "sortOrder": 15.09
+      "sortOrder": 15.12
     },
     {
       "wodID": 551,
@@ -23310,7 +23515,7 @@
       "fightType": 0,
       "fameAsDef": 0.55,
       "fameAsOff": 10.28,
-      "sortOrder": 15.09
+      "sortOrder": 15.12
     },
     {
       "wodID": 552,
@@ -23349,7 +23554,7 @@
       "fightType": 0,
       "fameAsDef": 0.56,
       "fameAsOff": 10.29,
-      "sortOrder": 15.09
+      "sortOrder": 15.12
     },
     {
       "wodID": 553,
@@ -23388,7 +23593,7 @@
       "fightType": 0,
       "fameAsDef": 0.57,
       "fameAsOff": 10.3,
-      "sortOrder": 15.09
+      "sortOrder": 15.12
     },
     {
       "wodID": 554,
@@ -23427,7 +23632,7 @@
       "fightType": 0,
       "fameAsDef": 0.58,
       "fameAsOff": 10.31,
-      "sortOrder": 15.09
+      "sortOrder": 15.12
     },
     {
       "wodID": 555,
@@ -23466,7 +23671,7 @@
       "fightType": 0,
       "fameAsDef": 0.59,
       "fameAsOff": 10.32,
-      "sortOrder": 15.09
+      "sortOrder": 15.12
     },
     {
       "wodID": 556,
@@ -23504,7 +23709,7 @@
       "fightType": 0,
       "fameAsDef": 0.6,
       "fameAsOff": 10.33,
-      "sortOrder": 15.09
+      "sortOrder": 15.12
     },
     {
       "wodID": 15,
@@ -23745,6 +23950,66 @@
       "fameAsDef": 4.95,
       "fameAsOff": 0.056,
       "sortOrder": 15.11
+    },
+    {
+      "wodID": 483,
+      "crossplayID": 483,
+      "comment1": "OktoberSales 2024",
+      "level": 10,
+      "group": "Unit",
+      "name": "Eventunit",
+      "type": "ForsakenMaiden",
+      "role": "melee",
+      "speed": 34,
+      "healingCostC1": 408,
+      "skipCostC2": 204,
+      "healingTime": 1074,
+      "healingOrder": 20,
+      "reviveAllCostC2": 469,
+      "kingdomTravellingCost": 275,
+      "meadSupply": 2,
+      "meleeAttack": 390,
+      "meleeDefence": 49,
+      "rangeDefence": 18,
+      "mightValue": 11,
+      "lootValue": 63,
+      "kIDs": "0,1,2,3,4",
+      "allowedToTravel": "0+-1#1+-1#2+-1#3+-1#4+-1",
+      "allowedForNpcAttackInKingdom": 0,
+      "fightType": 0,
+      "fameAsDef": 0.52,
+      "fameAsOff": 10.73,
+      "sortOrder": 14.12
+    },
+    {
+      "wodID": 484,
+      "crossplayID": 484,
+      "comment1": "OktoberSales 2024",
+      "level": 10,
+      "group": "Unit",
+      "name": "Eventunit",
+      "type": "ForlornRanger",
+      "role": "ranged",
+      "speed": 34,
+      "healingCostC1": 389,
+      "skipCostC2": 195,
+      "healingTime": 1024,
+      "healingOrder": 20,
+      "reviveAllCostC2": 447,
+      "kingdomTravellingCost": 263,
+      "meadSupply": 2,
+      "rangeAttack": 372,
+      "meleeDefence": 34,
+      "rangeDefence": 58,
+      "mightValue": 11,
+      "lootValue": 60,
+      "kIDs": "0,1,2,3,4",
+      "allowedToTravel": "0+-1#1+-1#2+-1#3+-1#4+-1",
+      "allowedForNpcAttackInKingdom": 0,
+      "fightType": 0,
+      "fameAsDef": 0.5,
+      "fameAsOff": 10.23,
+      "sortOrder": 15.12
     }
   ]
 }

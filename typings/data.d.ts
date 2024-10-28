@@ -209,11 +209,6 @@ export interface Data {
     seasonRanks: SeasonRank[];
     seasonSettings: SeasonSetting[];
     sectors: Sector[];
-    shapeshifterActivityRewards: ShapeShifterActivityReward[];
-    shapeshifterHardcoreModeEffects: ShapeShifterHardcoreModeEffect[];
-    shapeshifterPermittedEffects: ShapeShifterPermittedEffect[];
-    shapeshifterRankingRewards: ShapeShifterRankingReward[];
-    shapeshifterTickets: ShapeShifterTicket[];
     shoppingCarts: ShoppingCart[];
     slums: Slum[];
     specialcamps: SpecialCamp[];
@@ -1561,7 +1556,6 @@ export interface Event {
     "IsoChangeType"?: number;
     "areaTypes"?: number | string;
     "averageDungeonLevel"?: number;
-    "bloodpointBoosterPackageID"?: number;
     "boobyRewardIDs"?: string;
     "comment1"?: string;
     "comment2"?: string;
@@ -3201,39 +3195,6 @@ export interface Sector {
     "wodID": number;
 }
 
-export interface ShapeShifterActivityReward {
-    "leaguetypeID": number;
-    "pointsMax"?: number;
-    "pointsMin": number;
-    "rewardID": number;
-    "shapeshifterActivityRewardID": number;
-}
-
-export interface ShapeShifterHardcoreModeEffect {
-    "effects": string;
-    "pointBoostFactor": number;
-    "shapeshifterHardcoreModeEffectID": number;
-}
-
-export interface ShapeShifterPermittedEffect {
-    "attacker": number;
-    "effectTypeID": number;
-    "shapeshifterPermittedEffectID": number;
-}
-
-export interface ShapeShifterRankingReward {
-    "leaguetypeID": number;
-    "rankMax"?: number;
-    "rankMin": number;
-    "rewardID": number;
-    "shapeshifterRankingRewardID": number;
-}
-
-export interface ShapeShifterTicket {
-    "ticketNumber": number;
-    "ticketPriceC2": number;
-}
-
 export interface ShoppingCart {
     "C290daysMax"?: number;
     "C290daysMin"?: number;
@@ -3373,17 +3334,14 @@ export interface TempServerSetting {
     "boosterCurrencyLimit"?: number;
     "boosterCurrencyPackageID"?: number;
     "boosterCurrencyValue"?: number;
-    "costTonic"?: number;
     "crossplayID": number;
     "currencyID"?: number;
     "currencyLootFactorMax"?: number;
     "currencyLootFactorMin"?: number;
     "hasDailyScoring": number;
-    "lootValueModifier"?: number;
     "minimumCurrencyAmountToScore"?: number;
     "peaceDuration": number;
     "presetIDs": number | string;
-    "returnCurrencyFactor"?: number;
     "rewardSetID": number;
     "scoringSystem": string;
     "settingID": number;
