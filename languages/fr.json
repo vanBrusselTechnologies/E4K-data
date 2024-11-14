@@ -2032,7 +2032,11 @@
     "deco_fataltinybitebud_name": "Petite morsure fatale",
     "deco_ExaltedRedFrostFountain_name": "Fontaine de glace rouge exaltée",
     "deco_ExaltedGreenFrostFountain_name": "Fontaine de gel vert exaltée",
-    "deco_ExaltedPurpleFrostFountain_name": "Fontaine gelée pourpre exaltée"
+    "deco_ExaltedPurpleFrostFountain_name": "Fontaine gelée pourpre exaltée",
+    "deco_carnivorousPlantT1_name": "Piège de flore mortelle",
+    "deco_ExaltedGreenChristmasFountain_name": "Fontaine de Noël verte exaltée",
+    "deco_ExaltedPurpleChristmasFountain_name": "Fontaine de Noël violette exaltée",
+    "deco_ExaltedRedChristmasFountain_name": "Fontaine de Noël rouge exaltée"
   },
   "dialogs": {
     "dialog_festival_desc": "Utilisez de la nourriture pour organiser une fête pour vos villageois ! Tant que la fête durera, la vitesse de recrutement sera considérablement augmentée dans tous vos châteaux. Plus la fête est grande, plus son effet est important.",
@@ -12270,9 +12274,9 @@
     "webshop_tokenbundle_small_name": "Petite bundle de jetons",
     "event_end_header_GachaDeco2x2": "Piège de flore mortel",
     "event_announcement_header_126": "Piège de flore mortelle",
-    "helpPopup_GachaDeco2x2": "Une énorme plante carnivore a pris racine devant le &lt;b&gt;Jardin de la Flora Fatale&lt;/b&gt;, et il semble quelle ait développé un goût pour vos soldats ! Mais nayez crainte — vos habitants ingénieux ont créé un en-cas que la plante ne peut tout simplement pas résister. En la nourrissant avec des &lt;b&gt;Biscuits de Soldat&lt;/b&gt;, vous serez généreusement récompensé. &lt;/br&gt;&lt;/br&gt; &lt;b&gt;Nourrir la plante :&lt;/b&gt;&lt;/br&gt; Chaque alimentation vous accordera des récompenses - les très convoitées Décorations de Flora Fatale. Non seulement ces décorations ont une valeur de lOrdre Public considérable pour leur taille, mais elles peuvent également accorder des effets supplémentaires à votre royaume ! Les Décorations de Flora Fatale peuvent être placées dans le District de Décoration du Jardin de Flora Fatale, augmentant à la fois la valeur de lOP et la valeur de force du district lui-même. &lt;/br&gt;&lt;b&gt;Classement et Niveaux :&lt;/b&gt;&lt;/br&gt;Un système de classement suivra votre progression, offrant des récompenses daccomplissement en fonction de votre rang. Lévénement comprend également un système avec plusieurs niveaux. À mesure que vous progressez à travers les niveaux, la chance dobtenir la meilleure Décoration de Flora Fatale saméliore.",
+    "helpPopup_GachaDeco2x2": "Une énorme plante carnivore a pris racine devant le &lt;b&gt;Jardin de la Flore Fatale&lt;/b&gt; et semble avoir développé un goût pour vos soldats ! Mais nayez crainte : vos habitants ingénieux ont créé une collation que la plante ne peut tout simplement pas résister. En lui donnant des &lt;b&gt;Biscuits de Soldat&lt;/b&gt;, vous serez généreusement récompensé.\n\n&lt;b&gt;Alimenter la Plante :&lt;/b&gt;\nChaque alimentation vous rapportera des récompenses - les très convoitées Décorations de la Flore Fatale. Non seulement ces décorations ont une grande valeur dOrdre Public pour leur taille, mais elles peuvent également accorder des effets supplémentaires à votre royaume ! Les Décorations de la Flore Fatale peuvent être placées dans le District de Décorations du Jardin de la Flore Fatale, boostant à la fois la valeur OP et la puissance du district lui-même.\n&lt;b&gt;Classement et Niveaux :&lt;/b&gt;\nUn système de classement suivra vos progrès, offrant des récompenses daccomplissement selon votre rang. Lévénement comprend également un système avec plusieurs niveaux. À mesure que vous progressez à travers les niveaux, la chance dobtenir la meilleure Décoration de la Flore Fatale saméliore.",
     "tooltip_gachaName_GachaDeco2x2": "Piège de flore fatal",
-    "event_announcement_description_126": "Une plante carnivore massive a pris racine devant le Jardin Fatal Flora, et il semble quelle ait développé un goût pour vos soldats ! Mais nayez crainte - vos habitants ingénieux ont créé un en-cas que la plante ne peut tout simplement pas résister. En lui donnant des Biscuits Soldat, vous serez généreusement récompensé. Pendant lévénement de Piège de la Flora Fatale, nourrissez la plante pour collecter des récompenses telles que les Décorations de la Flora Fatale, qui améliorent lOrdre Public et confèrent des effets spéciaux dans votre Quartier de Décoration de la Flora Fatale. De plus, gagnez des récompenses de classement en fonction de votre performance par rapport aux autres joueurs. Assurez-vous de participer et de profiter des récompenses !",
+    "event_announcement_description_126": "Une immense plante carnivore a poussé dans le Jardin de la Flore Mortelle, avide de vos soldats ! Heureusement, vos villageois ont préparé des Biscuits Soldat pour l’attirer. Dans l’événement Piège de Flore Mortelle, nourrissez la plante pour gagner des récompenses comme des Décorations de Flore Mortelle, améliorant l’Ordre Public et ajoutant des effets dans votre Quartier de Décoration. Concurrencez pour des récompenses de classement – rejoignez-nous !",
     "event_end_description_GachaDeco2x2": "La massive plante carnivore a enfin eu sa dose, et lévénement Fatal Flora Trap est terminé. Vos efforts courageux pour la nourrir avec des Biscuits Soldat nont pas été ignorés, et les récompenses que vous avez gagnées seront bientôt à vous.",
     "gachaPull_milestone_GachaDeco2x2": "Aliments",
     "gachaPull_milestone_tooltip_amount_GachaDeco2x2": "{0}/{1} Aliments",
@@ -12447,16 +12451,27 @@
     "effect_group_7_19_passive": "Bonus de production de bois",
     "effect_group_7_1_active": "+{0}% Production de ressources du royaume",
     "effect_group_7_1_passive": "Bonus de production des ressources du royaume",
-    "event_rewards_heade_GachaDeco2x2": "Récompenses de classement dévénements",
+    "event_rewards_header": "Récompenses de classement dévénements",
     "milestone_reward": "Étape complétée! Vous recevrez les récompenses suivantes :",
     "capReachedRanking_DonationEvent": "{0} Les dons augmentent désormais uniquement votre classement.",
     "dialog_startDonationEvent_desc2": "Les bâtiments se déclinent en différentes catégories avec leurs propres récompenses. Améliorez chaque récompense de chaque catégorie de manière indépendante. Plus vous avez de points, meilleures seront les récompenses. Les points et la Charte de Patronage Impérial sont réinitialisés à la fin de lévénement.",
-    "dialog_startDonationEvent_desc3": "Le nouveau classement mondial unit les joueurs de tous les serveurs, testant la puissance et les compétences ultimes. Participez pour réclamer des récompenses en fonction de votre rang : plus vous contribuez rapidement, plus vous vous élèverez !",
     "rankingGlobal": "Classement mondial",
-    "ranking_description_DonationEvent": "Contribuez des ressources pour gagner des récompenses précieuses ! Le système de classement mondial suit vos progrès et propose des récompenses liées aux réalisations en fonction de votre rang. Une fois lévénement terminé, réclamez vos récompenses dans le Hub des Récompenses.",
     "filter_decoType_onlyRelics": "Bâtiments-reliques",
     "DecorationStorehouse_name": "Entrepôt de décoration",
-    "filter_decoType_onlyLocals": "Bâtiments locaux"
+    "filter_decoType_onlyLocals": "Bâtiments locaux",
+    "ranking_description_DonationEvent": "Contribuez pour gagner des récompenses ! Le classement mondial suit vos progrès : plus vous marquez rapidement, plus vous serez bien classé. Réclamez vos récompenses dans le Centre de Récompenses à la fin de lévénement.",
+    "DecoDistrict2x2_notbuilt": "Le jardin de la flore mortelle nest pas encore construit.",
+    "dialog_startDonationEvent_desc4": "Le nouveau classement mondial unit les joueurs de tous les serveurs, mettant à lépreuve la puissance et lhabileté ultime. Compétitionnez pour des récompenses basées sur votre rang. Plus vous marquez de points rapidement, plus vous serez bien classé. Même si dautres joueurs atteignent le même score, ceux qui contribuent plus rapidement auront un meilleur classement !",
+    "dialog_privateBestsellerShop_advent_tooltip": "Offres de lAvent",
+    "dialog_chestOffer_desc_advent": "Déballez les trésors des fêtes avec le coffre de lAvent !",
+    "dialog_chestOffer_title_advent": "Coffre de lAvent",
+    "dialog_finish": "Terminé",
+    "dialog_startDonationEvent_desc3": "LEmpereur a introduit la Charte de Patronage Impérial, chargeant larchitecte de traiter les matériaux dont vous disposez en abondance. À la fin de lévénement, tous les éléments de la Charte de Patronage Impérial seront réinitialisés.",
+    "rewardReceived": "Récompense reçue !",
+    "dialog_event_announcement_description_126": "Une immense plante carnivore a poussé dans le Jardin de la Flore Mortelle, avide de vos soldats ! Heureusement, vos villageois ont préparé des Biscuits Soldat pour l’attirer. Dans l’événement Piège de Flore Mortelle, nourrissez la plante pour gagner des récompenses comme des Décorations de Flore Mortelle, améliorant l’Ordre Public et ajoutant des effets dans votre Quartier de Décoration. Concurrencez pour des récompenses de classement – rejoignez-nous !",
+    "dialog_event_announcement_header_126": "Piège de flore fatal",
+    "dialog_title_gachadeco2x2": "Piège de flore fatal",
+    "help_deco_gacha": "Une énorme plante carnivore a pris racine devant le &lt;b&gt;Jardin de la Flore Fatale&lt;/b&gt; et semble avoir développé un goût pour vos soldats ! Mais nayez crainte : vos habitants ingénieux ont créé une collation que la plante ne peut tout simplement pas résister. En lui donnant des &lt;b&gt;Biscuits de Soldat&lt;/b&gt;, vous serez généreusement récompensé.\n\n&lt;b&gt;Alimenter la Plante :&lt;/b&gt;\nChaque alimentation vous rapportera des récompenses - les très convoitées Décorations de la Flore Fatale. Non seulement ces décorations ont une grande valeur dOrdre Public pour leur taille, mais elles peuvent également accorder des effets supplémentaires à votre royaume ! Les Décorations de la Flore Fatale peuvent être placées dans le District de Décorations du Jardin de la Flore Fatale, boostant à la fois la valeur OP et la puissance du district lui-même.\n&lt;b&gt;Classement et Niveaux :&lt;/b&gt;\nUn système de classement suivra vos progrès, offrant des récompenses daccomplissement selon votre rang. Lévénement comprend également un système avec plusieurs niveaux. À mesure que vous progressez à travers les niveaux, la chance dobtenir la meilleure Décoration de la Flore Fatale saméliore."
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "Vitesse de déplacement de larmée lors des conquêtes : +{0} %",
@@ -13741,7 +13756,6 @@
     "effect_group_6_9_active_malus": "Points de gloire gagnés au combat : -{0} %",
     "effect_group_6_9_passive": "Bonus de points de gloire remportés au combat",
     "effect_group_8_4_active": "+{0} à la capacité des troupes lors de la défense de la cour",
-    "effect_group_8_5_active": "+{0} capacité des troupes de soutien de lalliance lors de la défense de la cour",
     "ci_effect_defenseUnitAmountWall": "+{0}% à la capacité des troupes en défense du mur",
     "ci_effect_recruitmentSpeedBoostAll": "Vitesse de recrutement +{0} %",
     "ci_effect_craftingQueueProductionBoost_2_tt": "Bonus de production du forgeron doutils :",
@@ -13766,7 +13780,15 @@
     "webshop_EliteTonnelonValue_desc": "Réduit la protection du mur du château de -{0}% et augmente les points de gloire reçus de {1}%",
     "webshop_InvaderMaskValue_desc": "Réduit la force des défenseurs à distance de -{0} et augmente les points de gloire reçus de {1}%. Ne peut être utilisé que contre des seigneurs étrangers ou des Corbeaux de Sang.",
     "webshop_LadderoftheShogunValue_desc": "Réduit la protection des murs du camp de -{0}% et augmente le nombre de jetons samouraïs volés de {1}%. Ne peut être utilisé que contre les camps de samouraïs.",
-    "webshop_NomadTokenChestValue_desc": "Augmente le nombre de points de rage gagnés lors des attaques des camps de Khan de {0}%."
+    "webshop_NomadTokenChestValue_desc": "Augmente la quantité de Tablettes du Khan pillées de {0}%.",
+    "effect_description_honorBonus": "+{0}% points dhonneur gagnés au combat",
+    "effect_description_publicOrderBonusMain": "Augmente lordre public à lintérieur de votre château principal de +{0}",
+    "effect_description_toolProductionSpeedBoostAll": "+{0}% vitesse de production des outils pour tous les outils",
+    "effect_description_transportTaxDecreaseBoostGreen": "-{0}% Coûts de transport des ressources : Le Grand Empire",
+    "effect_description_transportTaxDecreaseBoostIce": "-{0}% Coûts de transport des ressources : Le Glacier éternel",
+    "effect_description_transportTaxDecreaseBoostIsland": "-{0}% Coûts de transport des ressources : Les Îles orageuses",
+    "effect_description_transportTaxDecreaseBoostSand": "-{0}% Coûts de transport des ressources : Sables enflammés",
+    "effect_description_transportTaxDecreaseBoostVulcano": "-{0}% Coûts de transport des ressources : Les Pics du feu"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Héros",
@@ -17294,8 +17316,8 @@
     "equipment_unique_1102_desc": "Ce blason a guidé un petit héros à travers un labyrinthe infernal. Transforme votre armée en unité de cavalerie aviaire.",
     "equipment_unique_1103": "Blason du prince aviaire",
     "equipment_unique_1103_desc": "Ce blason a guidé un petit héros à travers un labyrinthe infernal. Transforme votre armée en unité de cavalerie aviaire.",
-    "equipment_unique_1104": "Tulipe impériale",
-    "equipment_unique_1104_desc": "Un symbole de renouveau, de renaissance et du sacrifice des héros. Transforme votre château en royaume des tulipes.",
+    "equipment_unique_1104": "Dinde de la fête des récoltes",
+    "equipment_unique_1104_desc": "Ces oiseaux féroces de Par-delà lhorizon servent de troupes dassaut impériales et sont servis lors des banquets impériaux. Transforme votre armée en une bande de gobblers chargés.",
     "equipment_unique_1105": "Tulipe impériale",
     "equipment_unique_1105_desc": "Un symbole de renouveau, de renaissance et du sacrifice des héros. Transforme votre château en royaume des tulipes.",
     "equipment_unique_1106": "Tulipe impériale",
@@ -17605,7 +17627,21 @@
     "equipment_unique_1097_desc": "Transforme votre armée en une horde de zombies, déterminés (lentement mais sûrement !) à dévorer les cerveaux de leurs ennemis.",
     "equip_effect_description_attackBoostYardShapeshifter": "Cet objet semble avoir perdu ses pouvoirs... (Héritage)",
     "equip_effect_description_attackUnitAmountFlankShapeshifter": "Cet objet semble avoir perdu ses pouvoirs... (Héritage)",
-    "equip_effect_description_charmBoost": "Cet objet semble avoir perdu ses pouvoirs... (Héritage)"
+    "equip_effect_description_charmBoost": "Cet objet semble avoir perdu ses pouvoirs... (Héritage)",
+    "equipment_unique_1199_desc": "Lempereur lui-même accorde ces précieux œufs à ses vassaux les plus fidèles. Transforme votre château en un bastion prospère des gobblers.",
+    "equipment_unique_1098_desc": "Ces oiseaux féroces de Par-delà lhorizon servent de troupes dassaut impériales et sont servis lors des banquets impériaux. Transforme votre armée en une bande de gobblers chargés.",
+    "equipment_unique_1099_desc": "Ces oiseaux féroces de Par-delà lhorizon servent de troupes dassaut impériales et sont servis lors des banquets impériaux. Transforme votre armée en une bande de gobblers chargés.",
+    "equipment_unique_1098": "Dinde du festin de la récolte",
+    "equipment_unique_1099": "Dinde du festin de la récolte",
+    "equipment_unique_1199": "Œuf dautomne",
+    "glacialamazonarcher_name": "Archer amazonien glacial",
+    "glacialamazonguardian_name": "Gardien Amazonien Glaciaire",
+    "glacialamazonhuntress_name": "Chasseresse amazonienne glaciaire",
+    "glacialamazonwarrior_name": "Guerrier amazonien glaciaire",
+    "ChristmasArcher_name": "Archer de Noël",
+    "ChristmasGuardian_name": "Gardien de Noël",
+    "ChristmasHuntress_name": "Chasseresse de Noël",
+    "ChristmasWarrior_name": "Guerrier de Noël"
   },
   "generic": {
     "activity": "Activité",
@@ -19655,7 +19691,8 @@
     "yourRankingPlaceholder": "Votre rang : {0}",
     "yourRanking": "Votre classement",
     "refresh": "Rafraîchir",
-    "rewardHubCollect": "Réclamez vos récompenses dans le Centre de Récompenses !"
+    "rewardHubCollect": "Réclamez vos récompenses dans le Centre de Récompenses !",
+    "eyecatcher_valuable": "Précieux !"
   },
   "help": {
     "help_location": "Ici, vous avez un aperçu global des contenus importants de votre château et de tous vos avant-postes.",
@@ -24199,7 +24236,15 @@
     "GlacialAmazonHuntress_short_name": "Chasseresse amazonienne glaciale",
     "GlacialAmazonWarrior_desc": "Hardi par des hivers brutaux, ces guerriers incarnent un esprit farouche, maniant des lances à bord de cristal avec une précision implacable contre leurs ennemis.",
     "GlacialAmazonWarrior_short_info": "Attaquant de mêlée extrêmement puissant",
-    "GlacialAmazonWarrior_short_name": "Guerrière amazonienne glaciaire"
+    "GlacialAmazonWarrior_short_name": "Guerrière amazonienne glaciaire",
+    "ChristmasArcher_desc": "Ces archers, vêtus de vêtements de fête, frappent avec des flèches glacées et enchantées qui glacent les ennemis jusquà la moelle, apportant à la fois la joie des fêtes et une froide vengeance sur le champ de bataille.",
+    "ChristmasArcher_short_info": "Attaquant à distance extrêmement puissant",
+    "ChristmasGuardian_desc": "Des protecteurs majestueux tenant des massues en forme de canne en sucre, ces gardiens défendent leurs alliés et apportent la joie des fêtes sur le champ de bataille.",
+    "ChristmasGuardian_short_info": "Défenseur de mêlée extrêmement puissant",
+    "ChristmasHuntress_desc": "Ces chasseresses vigilantes veillent dans les bois dhiver, leurs flèches ornées de houx prêtes à repousser quiconque menace leur royaume.",
+    "ChristmasHuntress_short_info": "Défenseur à distance extrêmement puissant",
+    "ChristmasWarrior_desc": "Armés de lances rayées de menthe, ces guerriers féroces chargent en avant avec un esprit de fête inarrêtable, inspirant la peur à tous ceux qui se dressent sur leur chemin.",
+    "ChristmasWarrior_short_info": "Attaquant de mêlée extrêmement puissant"
   },
   "generic_flash": {
     "Footer": {

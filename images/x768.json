@@ -8059,6 +8059,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedGreenFrostFountain": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedGreenFrostFountain/Deco_Building_ExaltedGreenFrostFountain.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 561,
+        "h": 443,
+        "rx": 640,
+        "ry": 840
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedGreenLavaShrineofDuality": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_ExaltedGreenLavaShrineofDuality/Deco_Building_ExaltedGreenLavaShrineofDuality.png",
@@ -8119,6 +8134,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedPurpleFrostFountain": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedPurpleFrostFountain/Deco_Building_ExaltedPurpleFrostFountain.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 561,
+        "h": 443,
+        "rx": 640,
+        "ry": 840
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedPurpleLavaShrineofDuality": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_ExaltedPurpleLavaShrineofDuality/Deco_Building_ExaltedPurpleLavaShrineofDuality.png",
@@ -8160,6 +8190,21 @@
         "h": 421,
         "rx": 620,
         "ry": 860
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedRedFrostFountain": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedRedFrostFountain/Deco_Building_ExaltedRedFrostFountain.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 561,
+        "h": 443,
+        "rx": 640,
+        "ry": 840
       }
     ],
     "fx": []
@@ -44820,7 +44865,7 @@
         "x": 0,
         "y": 0,
         "w": 2281,
-        "h": 3041,
+        "h": 2851,
         "rx": 999,
         "ry": 999
       }
@@ -91652,6 +91697,66 @@
     ],
     "fx": []
   },
+  "icon_currency_SoldierBiscuit_big": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_SoldierBiscuit_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 167,
+        "h": 158,
+        "rx": 916,
+        "ry": 921
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_SoldierBiscuit_medium": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_SoldierBiscuit_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 106,
+        "rx": 944,
+        "ry": 947
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_SoldierBiscuit_xl": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_SoldierBiscuit_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 201,
+        "h": 191,
+        "rx": 899,
+        "ry": 904
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_SoldierBiscuit": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_SoldierBiscuit.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 69,
+        "h": 66,
+        "rx": 965,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_Souls_ds": {
     "pid": 1,
     "url": "x768/Icons/Icons/icon_currency_Souls_ds.png",
@@ -95567,6 +95672,21 @@
     ],
     "fx": []
   },
+  "icon_gacha_GachaDeco2x2": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_gacha_GachaDeco2x2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 71,
+        "h": 71,
+        "rx": 964,
+        "ry": 964
+      }
+    ],
+    "fx": []
+  },
   "icon_gallantryPoint_booster": {
     "pid": 1,
     "url": "x768/Icons/Icons/icon_gallantryPoint_booster.png",
@@ -98102,6 +98222,21 @@
     ],
     "fx": []
   },
+  "icon_masterblacksmith": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_masterblacksmith.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 71,
+        "rx": 967,
+        "ry": 964
+      }
+    ],
+    "fx": []
+  },
   "icon_mead_beef_meleesoldiers": {
     "pid": 0,
     "url": "x768/Icons/Icons/icon_mead_beef_meleesoldiers.png",
@@ -100213,6 +100348,21 @@
         "h": 67,
         "rx": 962,
         "ry": 966
+      }
+    ],
+    "fx": []
+  },
+  "icon_ranking": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_ranking.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 93,
+        "h": 84,
+        "rx": 953,
+        "ry": 958
       }
     ],
     "fx": []
@@ -102853,6 +103003,21 @@
         "h": 118,
         "rx": 942,
         "ry": 941
+      }
+    ],
+    "fx": []
+  },
+  "icon_tab_gacha_upcoming": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_tab_gacha_upcoming.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 99,
+        "rx": 944,
+        "ry": 950
       }
     ],
     "fx": []
@@ -108002,6 +108167,21 @@
     ],
     "fx": []
   },
+  "icon_event_blacksmith": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_event_blacksmith_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 71,
+        "rx": 967,
+        "ry": 964
+      }
+    ],
+    "fx": []
+  },
   "icon_tempserver_crossplay_xl_castleTransport": {
     "pid": 0,
     "url": "x768/Icons/IconsShared/icon_event_crossplay_xl_106_castleTransport_Shared.png",
@@ -108238,6 +108418,66 @@
         "h": 235,
         "rx": 909,
         "ry": 882
+      }
+    ],
+    "fx": []
+  },
+  "icon_deco_gacha_milestone_box_closed": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_gacha_milestone_box_closed.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 94,
+        "rx": 944,
+        "ry": 953
+      }
+    ],
+    "fx": []
+  },
+  "icon_gacha_milestone_box_closed": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_gacha_milestone_box_closed.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 94,
+        "rx": 944,
+        "ry": 953
+      }
+    ],
+    "fx": []
+  },
+  "icon_gacha_gacha_milestone_box_opened": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_gacha_milestone_box_open.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 91,
+        "rx": 944,
+        "ry": 954
+      }
+    ],
+    "fx": []
+  },
+  "icon_gacha_milestone_box_open": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_gacha_milestone_box_open.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 91,
+        "rx": 944,
+        "ry": 954
       }
     ],
     "fx": []
@@ -120842,6 +121082,21 @@
     ],
     "fx": []
   },
+  "global_primetime_background_Advent2024": {
+    "pid": 1,
+    "url": "x768/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_Advent2024.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1281,
+        "h": 1601,
+        "rx": 359,
+        "ry": 199
+      }
+    ],
+    "fx": []
+  },
   "global_primetime_background_Anniversary2024": {
     "pid": 1,
     "url": "x768/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_Anniversary2024.png",
@@ -120962,6 +121217,21 @@
     ],
     "fx": []
   },
+  "global_primetime_hub_teaser_Advent2024": {
+    "pid": 1,
+    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_Advent2024.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1537,
+        "h": 1331,
+        "rx": 231,
+        "ry": 334
+      }
+    ],
+    "fx": []
+  },
   "global_primetime_hub_teaser_Anniversary2024": {
     "pid": 1,
     "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_Anniversary2024.png",
@@ -121063,6 +121333,21 @@
         "h": 1331,
         "rx": 231,
         "ry": 334
+      }
+    ],
+    "fx": []
+  },
+  "global_primetime_teaser_Advent2024": {
+    "pid": 1,
+    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_Advent2024.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1249,
+        "h": 985,
+        "rx": 375,
+        "ry": 507
       }
     ],
     "fx": []
@@ -121985,6 +122270,21 @@
   "Teaser_OffersHub_Big_WhaleChest_17": {
     "pid": 1,
     "url": "x768/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_17.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1537,
+        "h": 665,
+        "rx": 231,
+        "ry": 667
+      }
+    ],
+    "fx": []
+  },
+  "Teaser_OffersHub_Big_WhaleChest_18": {
+    "pid": 1,
+    "url": "x768/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_18.png",
     "frames": [
       {
         "x": 0,
@@ -123161,6 +123461,21 @@
         "y": 0,
         "w": 1537,
         "h": 665,
+        "rx": 231,
+        "ry": 667
+      }
+    ],
+    "fx": []
+  },
+  "Teaser_OffersHub_Big_43": {
+    "pid": 1,
+    "url": "x768/Misc/TeasersShared/Teaser_OffersHub_Big_43_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1538,
+        "h": 666,
         "rx": 231,
         "ry": 667
       }
@@ -136449,6 +136764,66 @@
         "h": 181,
         "rx": 923,
         "ry": 917
+      }
+    ],
+    "fx": []
+  },
+  "Eventunit_Unit_GlacialAmazonArcher": {
+    "pid": 0,
+    "url": "x768/Units/UnitAssets/Eventunit_Unit_GlacialAmazonArcher.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 154,
+        "h": 182,
+        "rx": 922,
+        "ry": 916
+      }
+    ],
+    "fx": []
+  },
+  "Eventunit_Unit_GlacialAmazonGuardian": {
+    "pid": 0,
+    "url": "x768/Units/UnitAssets/Eventunit_Unit_GlacialAmazonGuardian.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 175,
+        "rx": 923,
+        "ry": 923
+      }
+    ],
+    "fx": []
+  },
+  "Eventunit_Unit_GlacialAmazonHuntress": {
+    "pid": 0,
+    "url": "x768/Units/UnitAssets/Eventunit_Unit_GlacialAmazonHuntress.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 191,
+        "rx": 917,
+        "ry": 907
+      }
+    ],
+    "fx": []
+  },
+  "Eventunit_Unit_GlacialAmazonWarrior": {
+    "pid": 0,
+    "url": "x768/Units/UnitAssets/Eventunit_Unit_GlacialAmazonWarrior.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 180,
+        "rx": 923,
+        "ry": 918
       }
     ],
     "fx": []

@@ -2032,7 +2032,11 @@
     "deco_fataltinybitebud_name": "Dodelijke kleine beetknop",
     "deco_ExaltedRedFrostFountain_name": "Verheven rode vorstfontein",
     "deco_ExaltedGreenFrostFountain_name": "Verheven groene ijsfontein",
-    "deco_ExaltedPurpleFrostFountain_name": "Verheven paarse bevroren fontein"
+    "deco_ExaltedPurpleFrostFountain_name": "Verheven paarse bevroren fontein",
+    "deco_carnivorousPlantT1_name": "Dodelijke flora-val",
+    "deco_ExaltedGreenChristmasFountain_name": "Verheven groene kerstfontein",
+    "deco_ExaltedPurpleChristmasFountain_name": "Verheven paarse kerstfontein",
+    "deco_ExaltedRedChristmasFountain_name": "Verheven rode kerstfontein"
   },
   "dialogs": {
     "dialog_festival_desc": "Gebruik voedsel om een festival te geven voor uw burgers! Zolang het festival duurt, wordt er in al uw kastelen aanmerkelijk sneller gerekruteerd. Hoe groter het festival, hoe groter het effect.",
@@ -12270,9 +12274,9 @@
     "webshop_tokenbundle_small_name": "Kleine tokenbundel",
     "event_end_header_GachaDeco2x2": "Dodelijke flora-val",
     "event_announcement_header_126": "Dodelijke flora-val",
-    "helpPopup_GachaDeco2x2": "Een enorme vleesetende plant heeft wortel geschoten voor de &lt;b&gt;Fatal Flora Tuin&lt;/b&gt;, en het lijkt erop dat hij een smaak heeft ontwikkeld voor jouw soldaten! Maar vrees niet - je vindingrijke inwoners hebben een snack gemaakt waar de plant gewoon niet aan kan weerstaan. Door het geven van &lt;b&gt;Soldatenkoekjes&lt;/b&gt; aan de plant, word je genereus beloond. &lt;/br&gt;&lt;/br&gt; &lt;b&gt;De Plant Voeden:&lt;/b&gt;&lt;/br&gt; Elke voeding zal je beloningen opleveren - de felbegeerde Fatal Flora Decoraties. Deze decoraties hebben niet alleen een aanzienlijke Publieke Orde waarde voor hun grootte, maar kunnen ook extra effecten aan jouw koninkrijk geven! Fatal Flora Decoraties kunnen worden geplaatst in het Fatal Flora Tuin Decoratie District, wat zowel de PO als de krachtwaarde van het district zelf verhoogt. &lt;/br&gt;&lt;b&gt;Ranking en Niveaus:&lt;/b&gt;&lt;/br&gt; Een rangsysteem houdt je voortgang bij en biedt prestatiebeloningen op basis van je rang. Het evenement omvat ook een systeem met meerdere niveaus. Terwijl je vordert door de niveaus, verbetert de kans om de beste Fatal Flora Decoratie te verkrijgen.",
+    "helpPopup_GachaDeco2x2": "Een enorme vleesetende plant heeft zijn wortels gezet voor de &lt;b&gt;Fatale Flora Tuin&lt;/b&gt;, en het lijkt erop dat hij een smaak voor jouw soldaten heeft ontwikkeld! Maar wees gerust—jouw vindingrijke stadsgenoten hebben een snack gemaakt die de plant simpelweg niet kan weerstaan. Door de plant te voeden met &lt;b&gt;Soldatenkoekjes&lt;/b&gt;, word je royaal beloond.\n\n&lt;b&gt;De Plant Voeden:&lt;/b&gt;\nElke voeding zal je beloningen geven - de felbegeerde Fatal Flora Decoraties. Deze decoraties hebben niet alleen voldoende Publieke Ordewaarde voor hun grootte, maar kunnen ook extra effecten aan jouw koninkrijk geven! Fatal Flora Decoraties kunnen worden geplaatst in het Fatal Flora Tuin Decoratie District, waardoor zowel de PO- als de machtwaarde van het district zelf toeneemt.\n&lt;b&gt;Ranking en Niveaus:&lt;/b&gt;\nEen rangschikking systeem zal je voortgang bijhouden en prestatiebeloningen bieden op basis van je rang. Het evenement bevat ook een systeem met meerdere niveaus. Naarmate je door de niveaus vordert, verbetert de kans op het krijgen van de beste Fatal Flora Decoratie.",
     "tooltip_gachaName_GachaDeco2x2": "Dodelijke flora-val",
-    "event_announcement_description_126": "Een enorme vleesetende plant heeft wortel geschoten voor de Fatale Flora Tuin en het lijkt erop dat hij een smaak heeft ontwikkeld voor jouw soldaten! Maar vrees niet - je vindingrijke stadsbewoners hebben een snack gemaakt waar de plant gewoon niet tegen kan. Door het te voeden met Soldatenkoekjes, word je rijkelijk beloond. Tijdens het Fatal Flora Trap-evenement, voed de plant om beloningen te verzamelen zoals Fatal Flora Decoraties, die de openbare orde verhogen en speciale effecten geven in jouw Fatal Flora Decoratie District. Daarnaast verdien je rangbeloningen op basis van jouw prestaties in vergelijking met andere spelers. Zorg ervoor dat je meedoet en geniet van de beloningen!",
+    "event_announcement_description_126": "Een enorme vleesetende plant is verschenen in de Fatale Flora Tuin met een honger naar jouw soldaten! Gelukkig hebben jouw stadsgenoten Soldaatkoekjes gemaakt om het te lokken. In het Fatale Flora Val evenement, voer de plant om beloningen te verdienen zoals Fatale Flora Decoraties die de Publieke Orde verbeteren en effecten toevoegen in jouw Decoratie District. Competeer met anderen voor rangschikkingsbeloningen—doe mee en geniet van de buit!",
     "event_end_description_GachaDeco2x2": "De enorme vleesetende plant heeft eindelijk genoeg gehad en het Fatal Flora Trap-evenement is ten einde. Jouw dappere pogingen om haar te voeden met Soldaatkoekjes zijn niet onopgemerkt gebleven en de beloningen die je hebt verdiend, zullen binnenkort de jouwe zijn.",
     "gachaPull_milestone_GachaDeco2x2": "Voeders",
     "gachaPull_milestone_tooltip_amount_GachaDeco2x2": "{0}/{1} Voeders",
@@ -12447,16 +12451,27 @@
     "effect_group_7_19_passive": "Houtproductiebonus",
     "effect_group_7_1_active": "+{0}% Koninkrijk grondstoffenproductie",
     "effect_group_7_1_passive": "Productiebonussen voor koninkrijkbronnen",
-    "event_rewards_heade_GachaDeco2x2": "Event ranking beloningen",
+    "event_rewards_header": "Event ranking beloningen",
     "milestone_reward": "Mijlpaal voltooid! Je ontvangt de volgende beloningen:",
     "capReachedRanking_DonationEvent": "{0} Donaties verhogen nu uitsluitend je ranking.",
     "dialog_startDonationEvent_desc2": "Gebouwen komen in verschillende categorieën met hun eigen beloningen. Verhoog elke beloning uit elke categorie onafhankelijk. Hoe meer punten, hoe beter de beloningen. Punten en het Keizerlijk Patronage Charter worden aan het einde van het evenement gereset.",
-    "dialog_startDonationEvent_desc3": "De nieuwe wereldwijde ranglijst verenigt spelers van alle servers en test ultieme kracht en vaardigheid. Strijd om beloningen te claimen op basis van je rang – hoe sneller je bijdraagt, hoe hoger je stijgt!",
     "rankingGlobal": "Wereldranglijst",
-    "ranking_description_DonationEvent": "Draag middelen bij om waardevolle beloningen te verdienen! Het wereldwijde rangschikkingssysteem houdt je voortgang bij en biedt prestatiebeloningen op basis van je rang. Zodra het evenement is afgelopen, claim je je beloningen in het Beloningscentrum.",
     "filter_decoType_onlyRelics": "Relikwieëngebouwen",
     "DecorationStorehouse_name": "Decoratieopslag",
-    "filter_decoType_onlyLocals": "Lokale gebouwen"
+    "filter_decoType_onlyLocals": "Lokale gebouwen",
+    "ranking_description_DonationEvent": "Draag bij om beloningen te verdienen! De wereldwijde ranking houdt uw voortgang bij - hoe sneller u scoort, hoe hoger u in de ranking komt. Vraag beloningen aan in het Beloningscentrum wanneer het evenement eindigt.",
+    "DecoDistrict2x2_notbuilt": "De dodelijke flora tuin is nog niet gebouwd.",
+    "dialog_startDonationEvent_desc4": "De nieuwe wereldranglijst verenigt spelers van alle servers en test ultieme kracht en vaardigheid. Strijd om beloningen op basis van je rang. Hoe sneller je punten scoort, hoe hoger je plaatst. Zelfs als andere spelers dezelfde score bereiken, zullen degenen die sneller bijdragen hoger gerangschikt worden!",
+    "dialog_privateBestsellerShop_advent_tooltip": "Advent aanbiedingen",
+    "dialog_chestOffer_desc_advent": "Pak de feestelijke schatten uit met de Adventkist!",
+    "dialog_chestOffer_title_advent": "Adventkist",
+    "dialog_finish": "Voltooid",
+    "dialog_startDonationEvent_desc3": "De Keizer introduceerde het Keizerlijk Patronagehandvest, waarbij hij de architect de opdracht gaf om de materialen die je in overvloed hebt te verwerken. Aan het einde van het evenement zal het gehele Keizerlijk Patronagehandvest worden gereset.",
+    "rewardReceived": "Beloning ontvangen!",
+    "dialog_event_announcement_description_126": "Een enorme vleesetende plant is verschenen in de Fatale Flora Tuin met een honger naar jouw soldaten! Gelukkig hebben jouw stadsgenoten Soldaatkoekjes gemaakt om het te lokken. In het Fatale Flora Val evenement, voer de plant om beloningen te verdienen zoals Fatale Flora Decoraties die de Publieke Orde verbeteren en effecten toevoegen in jouw Decoratie District. Competeer met anderen voor rangschikkingsbeloningen—doe mee en geniet van de buit!",
+    "dialog_event_announcement_header_126": "Dodelijke flora-val",
+    "dialog_title_gachadeco2x2": "Dodelijke flora-val",
+    "help_deco_gacha": "Een enorme vleesetende plant heeft zijn wortels gezet voor de &lt;b&gt;Fatale Flora Tuin&lt;/b&gt;, en het lijkt erop dat hij een smaak voor jouw soldaten heeft ontwikkeld! Maar wees gerust—jouw vindingrijke stadsgenoten hebben een snack gemaakt die de plant simpelweg niet kan weerstaan. Door de plant te voeden met &lt;b&gt;Soldatenkoekjes&lt;/b&gt;, word je royaal beloond.\n\n&lt;b&gt;De Plant Voeden:&lt;/b&gt;\nElke voeding zal je beloningen geven - de felbegeerde Fatal Flora Decoraties. Deze decoraties hebben niet alleen voldoende Publieke Ordewaarde voor hun grootte, maar kunnen ook extra effecten aan jouw koninkrijk geven! Fatal Flora Decoraties kunnen worden geplaatst in het Fatal Flora Tuin Decoratie District, waardoor zowel de PO- als de machtwaarde van het district zelf toeneemt.\n&lt;b&gt;Ranking en Niveaus:&lt;/b&gt;\nEen rangschikking systeem zal je voortgang bijhouden en prestatiebeloningen bieden op basis van je rang. Het evenement bevat ook een systeem met meerdere niveaus. Naarmate je door de niveaus vordert, verbetert de kans op het krijgen van de beste Fatal Flora Decoratie."
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% reissnelheid leger tijdens veroveringen",
@@ -13741,7 +13756,6 @@
     "effect_group_6_9_active_malus": "-{0}% roempunten verdiend in gevechten",
     "effect_group_6_9_passive": "Roempunten verdiend in gevechtsbonus",
     "effect_group_8_4_active": "+{0} troepencapaciteit bij het verdedigen van de binnenplaats",
-    "effect_group_8_5_active": "+{0} troepenondersteuning voor de alliantiecapaciteit bij de verdediging van de binnenplaats",
     "ci_effect_defenseUnitAmountWall": "+{0}% voor troepencapaciteit bij muurverdediging",
     "ci_effect_recruitmentSpeedBoostAll": "+{0}% rekruteringssnelheid",
     "ci_effect_craftingQueueProductionBoost_2_tt": "Productiebonus van de gereedschapsmaker:",
@@ -13766,7 +13780,15 @@
     "webshop_EliteTonnelonValue_desc": "Vermindert de bescherming van de kasteelmuur met -{0}% en verhoogt de ontvangen Gloriepunten met {1}%",
     "webshop_InvaderMaskValue_desc": "Verlaagt de kracht van afstandsverdedigers met -{0} en verhoogt de ontvangen Gloriepunten met {1}%. Kan alleen worden gebruikt tegen buitenlandse heren of Bloedkragen.",
     "webshop_LadderoftheShogunValue_desc": "Vermindert de wandbescherming van het kamp met -{0}% en verhoogt het aantal gestolen Samurai-tokens met {1}%. Kan alleen worden gebruikt tegen samurai-kampen.",
-    "webshop_NomadTokenChestValue_desc": "Verhoogt het aantal woedepunten dat wordt verdiend bij het aanvallen van Khan-kampen met {0}%."
+    "webshop_NomadTokenChestValue_desc": "Verhoogt de hoeveelheid Khan-tabletten die met {0}% is geplunderd.",
+    "effect_description_honorBonus": "+{0}% eerpunten verdiend in de strijd",
+    "effect_description_publicOrderBonusMain": "Verhoogt de openbare orde in je hoofdslot met +{0}",
+    "effect_description_toolProductionSpeedBoostAll": "+{0}% productie snelheid voor alle gereedschappen",
+    "effect_description_transportTaxDecreaseBoostGreen": "-{0}% Transportkosten voor hulpbronnen: Het Grote Rijk",
+    "effect_description_transportTaxDecreaseBoostIce": "-{0}% Transportkosten van middelen: De Eeuwige Gletsjer",
+    "effect_description_transportTaxDecreaseBoostIsland": "-{0}% Transportkosten voor middelen: De Stormeilanden",
+    "effect_description_transportTaxDecreaseBoostSand": "-{0}% Transportkosten van hulpbronnen: Brandend Zand",
+    "effect_description_transportTaxDecreaseBoostVulcano": "-{0}% Transportkosten van hulpbronnen: Vuurtoppen"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Held",
@@ -17294,8 +17316,8 @@
     "equipment_unique_1102_desc": "Leidde een kleine held door een hels doolhof. Transformeert je leger in een meute mussencavalerie.",
     "equipment_unique_1103": "Wapenschild Mussenprins",
     "equipment_unique_1103_desc": "Leidde een kleine held door een hels doolhof. Transformeert je leger in een meute mussencavalerie.",
-    "equipment_unique_1104": "Keizerlijke tulp",
-    "equipment_unique_1104_desc": "Een symbool van vernieuwing, wedergeboorte en het offer van helden. Transformeert je kasteel in een rijk van tulpen.",
+    "equipment_unique_1104": "Oogstfeest kalkoen",
+    "equipment_unique_1104_desc": "Deze woeste vogels uit Voorbij de Horizon dienen als imperiale schoktroepen en worden geserveerd op imperialen banketten. Transformeert je leger in een groep aanvallende gobblers.",
     "equipment_unique_1105": "Keizerlijke tulp",
     "equipment_unique_1105_desc": "Een symbool van vernieuwing, wedergeboorte en het offer van helden. Transformeert je kasteel in een rijk van tulpen.",
     "equipment_unique_1106": "Keizerlijke tulp",
@@ -17605,7 +17627,21 @@
     "equipment_unique_1097_desc": "Transformeer je leger in een zombiehorde, langzaam maar zeker op weg om de breinen van de vijand te consumeren.",
     "equip_effect_description_attackBoostYardShapeshifter": "Dit item lijkt zijn krachten te hebben verloren... (Erfgoed)",
     "equip_effect_description_attackUnitAmountFlankShapeshifter": "Dit item lijkt zijn krachten te hebben verloren... (Erfgoed)",
-    "equip_effect_description_charmBoost": "Dit item lijkt zijn krachten te hebben verloren... (Erfgoed)"
+    "equip_effect_description_charmBoost": "Dit item lijkt zijn krachten te hebben verloren... (Erfgoed)",
+    "equipment_unique_1199_desc": "De keizer zelf geeft deze waardevolle eieren aan zijn meest loyale vazallen. Verandert je kasteel in een welvarend gobbler-bolwerk.",
+    "equipment_unique_1098_desc": "Deze woeste vogels uit Voorbij de Horizon dienen als imperiale schoktroepen en worden geserveerd op imperialen banketten. Transformeert je leger in een groep aanvallende gobblers.",
+    "equipment_unique_1099_desc": "Deze woeste vogels uit Voorbij de Horizon dienen als imperiale schoktroepen en worden geserveerd op imperialen banketten. Transformeert je leger in een groep aanvallende gobblers.",
+    "equipment_unique_1098": "Oogstfeest kalkoen",
+    "equipment_unique_1099": "Oogstfeest kalkoen",
+    "equipment_unique_1199": "Herfstei",
+    "glacialamazonarcher_name": "Gletsjer Amazonenboogschutter",
+    "glacialamazonguardian_name": "Glaciale Amazonenbewaker",
+    "glacialamazonhuntress_name": "Glaciale Amazone Jager",
+    "glacialamazonwarrior_name": "Glaciale Amazone-krijger",
+    "ChristmasArcher_name": "Kerstboogschutter",
+    "ChristmasGuardian_name": "Kerstwachter",
+    "ChristmasHuntress_name": "Kerstjager",
+    "ChristmasWarrior_name": "Kerststrijder"
   },
   "generic": {
     "activity": "Activiteit",
@@ -19655,7 +19691,8 @@
     "yourRankingPlaceholder": "Je rang: {0}",
     "yourRanking": "Jouw positie",
     "refresh": "Vernieuwen",
-    "rewardHubCollect": "Claim je beloningen in het Beloningencentrum!"
+    "rewardHubCollect": "Claim je beloningen in het Beloningencentrum!",
+    "eyecatcher_valuable": "Waardevol!"
   },
   "help": {
     "help_location": "Hier krijg je een globaal overzicht van alle belangrijke inhoud van je kasteel en al je buitenposten.",
@@ -24199,7 +24236,15 @@
     "GlacialAmazonHuntress_short_name": "Gletsjer Amazone-jageres",
     "GlacialAmazonWarrior_desc": "Verhard door brute winters belichamen deze krijgers een woeste geest en zwaaien met kristalgeslepen speren met onverbiddelijke precisie tegen hun vijanden.",
     "GlacialAmazonWarrior_short_info": "Extreem krachtige mêlee-aanvaller",
-    "GlacialAmazonWarrior_short_name": "Glaciale Amazone Krijger"
+    "GlacialAmazonWarrior_short_name": "Glaciale Amazone Krijger",
+    "ChristmasArcher_desc": "Deze boogschutters, gekleed in feestkleding, slaan toe met ijzige, betoverde pijlen die vijanden tot op het bot doen bevriezen, en brengen zowel feestvreugde als koude wraak naar het slagveld.",
+    "ChristmasArcher_short_info": "Extreem krachtige afstandsaanvaller",
+    "ChristmasGuardian_desc": "Torenhoge beschermers met zuurstokken in de hand, deze wachters verdedigen hun bondgenoten en brengen feestvreugde op het slagveld.",
+    "ChristmasGuardian_short_info": "Extreem krachtige mêleeverdediger",
+    "ChristmasHuntress_desc": "Deze waakzame jageressen staan op wacht in de winterse bossen, hun met holly versierde pijlen zijn klaar om iedereen af te schrikken die hun rijk bedreigt.",
+    "ChristmasHuntress_short_info": "Extreem krachtige afstandverdediger",
+    "ChristmasWarrior_desc": "Gewapend met pepermuntgestreepte lanzen, stormen deze woeste krijgers voort met een onstopbare vakantiespirit die angst inboezemt bij iedereen die in hun weg staat.",
+    "ChristmasWarrior_short_info": "Extreem krachtige mêlee-aanvaller"
   },
   "generic_flash": {
     "Footer": {

@@ -2032,7 +2032,11 @@
     "deco_fataltinybitebud_name": "Piccolo morso fatale",
     "deco_ExaltedRedFrostFountain_name": "Fontana di ghiaccio rossa esaltata",
     "deco_ExaltedGreenFrostFountain_name": "Fontana di ghiaccio verde esaltata",
-    "deco_ExaltedPurpleFrostFountain_name": "Fontana gelida viola esaltata"
+    "deco_ExaltedPurpleFrostFountain_name": "Fontana gelida viola esaltata",
+    "deco_carnivorousPlantT1_name": "Trappola di flora fatale",
+    "deco_ExaltedGreenChristmasFountain_name": "Fontana di Natale verde esaltata",
+    "deco_ExaltedPurpleChristmasFountain_name": "Fontana natalizia viola esaltata",
+    "deco_ExaltedRedChristmasFountain_name": "Fontana di Natale rossa esaltata"
   },
   "dialogs": {
     "dialog_festival_desc": "Usa il cibo per organizzare un banchetto per i tuoi cittadini! La velocità di reclutamento aumenterà notevolmente in tutti i castelli per la durata del banchetto. Più grande è il banchetto, maggiore sarà leffetto.",
@@ -12270,9 +12274,9 @@
     "webshop_tokenbundle_small_name": "Piccolo pacchetto di token",
     "event_end_header_GachaDeco2x2": "Trappola di flora mortale",
     "event_announcement_header_126": "Trappola di flora fatale",
-    "helpPopup_GachaDeco2x2": "Una massiccia pianta carnivora ha messo radici davanti al &lt;b&gt;Giardino Fatal Flora&lt;/b&gt;, e sembra aver sviluppato un gusto per i tuoi soldati! Ma non temere: i tuoi ingegnosi cittadini hanno creato uno snack che la pianta non può assolutamente resistere. Nutrendo la pianta con &lt;b&gt;Biscotti Soldato&lt;/b&gt;, sarai generosamente ricompensato. &lt;/br&gt;&lt;/br&gt; &lt;b&gt;Nutri la Pianta:&lt;/b&gt;&lt;/br&gt; Ogni nutrimento ti garantirà ricompense - le ambite Decorazioni Fatal Flora. Queste decorazioni non solo hanno un grande valore di Ordine Pubblico per le loro dimensioni, ma possono anche conferire effetti aggiuntivi al tuo regno! Le Decorazioni Fatal Flora possono essere collocate nel Distretto Decorazioni del Giardino Fatal Flora, aumentando sia il valore di PO che quello di forza del distretto stesso. &lt;/br&gt;&lt;b&gt;Classifica e Livelli:&lt;/b&gt;&lt;/br&gt;Un sistema di classificazione terrà traccia dei tuoi progressi, offrendo ricompense in base al tuo rango. Levento include anche un sistema con più livelli. Man mano che avanzi nei livelli, la possibilità di ottenere la migliore Decorazione Fatal Flora migliora.",
+    "helpPopup_GachaDeco2x2": "Una massiccia pianta carnivora ha messo radici davanti al &lt;b&gt;Giardino della Flora Mortale&lt;/b&gt;, e sembra aver sviluppato un gusto per i tuoi soldati! Ma non temere: i tuoi ingegnosi cittadini hanno creato uno snack che la pianta semplicemente non può resistere. Nutrendo la pianta con &lt;b&gt;Biscotti per Soldati&lt;/b&gt;, verrai generosamente ricompensato.\n\n&lt;b&gt;Nutrire la Pianta:&lt;/b&gt;\nOgni nutrimento ti darà ricompense - le ambite Decorazioni della Flora Mortale. Queste decorazioni non solo hanno un alto valore di Ordine Pubblico per le loro dimensioni, ma possono anche conferire effetti aggiuntivi al tuo regno! Le Decorazioni della Flora Mortale possono essere collocate nel Distretto delle Decorazioni del Giardino della Flora Mortale, aumentando sia il valore di PO che quello di potenza del distretto stesso.\n&lt;b&gt;Classifica e Livelli:&lt;/b&gt;\nUn sistema di classificazione terrà traccia dei tuoi progressi, offrendo ricompense per i risultati in base al tuo rango. Levento include anche un sistema con più livelli. Man mano che progredisci nei livelli, aumenta la possibilità di ottenere la migliore Decorazione della Flora Mortale.",
     "tooltip_gachaName_GachaDeco2x2": "Trappola di flora fatale",
-    "event_announcement_description_126": "Una enorme pianta carnivora ha messo radici davanti al Giardino della Flora Fatale e sembra aver sviluppato un gusto per i tuoi soldati! Ma non temere: i tuoi ingegnosi cittadini hanno creato uno snack a cui la pianta semplicemente non può resistere. Nutrendo la pianta con Biscotti per Soldati, sarai generosamente ricompensato. Durante levento Trappola Flora Fatale, nutri la pianta per raccogliere ricompense come Decorazioni Flora Fatale, che aumentano lOrdine Pubblico e conferiscono effetti speciali nel tuo Distretto di Decorazione Flora Fatale. Inoltre, guadagna ricompense di classifica in base alle tue prestazioni rispetto agli altri giocatori. Assicurati di partecipare e goderti le ricompense!",
+    "event_announcement_description_126": "Una gigantesca pianta carnivora è spuntata nel Giardino della Flora Mortale, affamata dei tuoi soldati! Fortunatamente, i tuoi cittadini hanno preparato Biscotti Soldato per attirarla. Nellevento Trappola della Flora Mortale, nutri la pianta per guadagnare ricompense come Decorazioni della Flora Mortale che migliorano lOrdine Pubblico e aggiungono effetti nel Distretto Decorativo. Competi per premi di classifica – unisciti e goditi il bottino!",
     "event_end_description_GachaDeco2x2": "La massiccia pianta carnivora ha finalmente saziato la sua fame, e levento Fatal Flora Trap è giunto al termine. I tuoi coraggiosi sforzi nel nutrirla con Biscotti da Soldato non sono passati inosservati, e le ricompense che hai guadagnato saranno presto tue.",
     "gachaPull_milestone_GachaDeco2x2": "Mangimi",
     "gachaPull_milestone_tooltip_amount_GachaDeco2x2": "{0}/{1} Mangimi",
@@ -12447,16 +12451,27 @@
     "effect_group_7_19_passive": "Bonus produzione legno",
     "effect_group_7_1_active": "+{0}% Produzione di risorse del regno",
     "effect_group_7_1_passive": "Bonus produzione risorse del regno",
-    "event_rewards_heade_GachaDeco2x2": "Premi di classifica eventi",
+    "event_rewards_header": "Premi di classifica eventi",
     "milestone_reward": "Traguardo completato! Riceverai le seguenti ricompense:",
     "capReachedRanking_DonationEvent": "{0} Le donazioni ora aumentano solo il tuo ranking.",
     "dialog_startDonationEvent_desc2": "Gli edifici appartengono a diverse categorie con le proprie ricompense. Potenzia ogni ricompensa di ciascuna categoria in modo indipendente. Più punti hai, migliori saranno le ricompense. I punti e il Patrocinio Imperiale vengono ripristinati alla fine dellevento.",
-    "dialog_startDonationEvent_desc3": "Il nuovo Ranking Globale unisce i giocatori su tutti i server, testando la potenza e labilità ultime. Competere per richiedere ricompense in base alla tua posizione: più velocemente contribuisci, più in alto salirai!",
     "rankingGlobal": "Classifica globale",
-    "ranking_description_DonationEvent": "Contribuisci con risorse per guadagnare ricompense preziose! Il sistema di classificazione globale tiene traccia dei tuoi progressi, offrendo ricompense per i risultati in base al tuo rango. Una volta terminato levento, richiedi le tue ricompense nel Centro Ricompense.",
     "filter_decoType_onlyRelics": "Edifici reliquia",
     "DecorationStorehouse_name": "Deposito di decorazioni",
-    "filter_decoType_onlyLocals": "Edifici locali"
+    "filter_decoType_onlyLocals": "Edifici locali",
+    "ranking_description_DonationEvent": "Contribuisci per guadagnare ricompense! La classifica globale tiene traccia dei tuoi progressi: più velocemente segni, più in alto sarai classificato. Richiedi ricompense nel Centro Ricompense al termine dellevento.",
+    "DecoDistrict2x2_notbuilt": "Il Giardino della Flora Mortale non è ancora costruito.",
+    "dialog_startDonationEvent_desc4": "La nuova Classifica Globale unisce i giocatori di tutti i server. Competete per premi: più velocemente guadagnate punti, più alto sarà il rango! A parità di punteggio, chi contribuisce prima sarà avanti!",
+    "dialog_privateBestsellerShop_advent_tooltip": "Offerte dellAvvento",
+    "dialog_chestOffer_desc_advent": "Scopri i tesori delle festività con il baule dellAvvento!",
+    "dialog_chestOffer_title_advent": "Cassa dellAvvento",
+    "dialog_finish": "Completata",
+    "dialog_startDonationEvent_desc3": "LImperatore ha introdotto la Carta di Patrocinio Imperiale, incaricando larchitetto di elaborare i materiali di cui hai abbondanza. Alla fine dellevento, tutti gli elementi della Carta di Patrocinio Imperiale verranno reimpostati.",
+    "rewardReceived": "Premio ricevuto!",
+    "dialog_event_announcement_description_126": "Una gigantesca pianta carnivora è spuntata nel Giardino della Flora Mortale, affamata dei tuoi soldati! Fortunatamente, i tuoi cittadini hanno preparato Biscotti Soldato per attirarla. Nellevento Trappola della Flora Mortale, nutri la pianta per guadagnare ricompense come Decorazioni della Flora Mortale che migliorano lOrdine Pubblico e aggiungono effetti nel Distretto Decorativo. Competi per premi di classifica – unisciti e goditi il bottino!",
+    "dialog_event_announcement_header_126": "Trappola di flora fatale",
+    "dialog_title_gachadeco2x2": "Trappola di flora fatale",
+    "help_deco_gacha": "Una massiccia pianta carnivora ha messo radici davanti al &lt;b&gt;Giardino della Flora Mortale&lt;/b&gt;, e sembra aver sviluppato un gusto per i tuoi soldati! Ma non temere: i tuoi ingegnosi cittadini hanno creato uno snack che la pianta semplicemente non può resistere. Nutrendo la pianta con &lt;b&gt;Biscotti per Soldati&lt;/b&gt;, verrai generosamente ricompensato.\n\n&lt;b&gt;Nutrire la Pianta:&lt;/b&gt;\nOgni nutrimento ti darà ricompense - le ambite Decorazioni della Flora Mortale. Queste decorazioni non solo hanno un alto valore di Ordine Pubblico per le loro dimensioni, ma possono anche conferire effetti aggiuntivi al tuo regno! Le Decorazioni della Flora Mortale possono essere collocate nel Distretto delle Decorazioni del Giardino della Flora Mortale, aumentando sia il valore di PO che quello di potenza del distretto stesso.\n&lt;b&gt;Classifica e Livelli:&lt;/b&gt;\nUn sistema di classificazione terrà traccia dei tuoi progressi, offrendo ricompense per i risultati in base al tuo rango. Levento include anche un sistema con più livelli. Man mano che progredisci nei livelli, aumenta la possibilità di ottenere la migliore Decorazione della Flora Mortale."
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% alla velocità di viaggio della milizia durante le conquiste",
@@ -13741,7 +13756,6 @@
     "effect_group_6_9_active_malus": "-{0}% punti gloria ottenuti in battaglia",
     "effect_group_6_9_passive": "Bonus ai punti gloria ottenuti in battaglia",
     "effect_group_8_4_active": "+{0} alla capacità di truppe in difesa del cortile",
-    "effect_group_8_5_active": "+{0} capacità delle truppe di supporto dellalleanza nella difesa del cortile",
     "ci_effect_defenseUnitAmountWall": "+{0}% alla capacità delle truppe nella difesa del muro",
     "ci_effect_recruitmentSpeedBoostAll": "+{0}% velocità di reclutamento",
     "ci_effect_craftingQueueProductionBoost_2_tt": "Bonus produzione del fabbro di strumenti:",
@@ -13766,7 +13780,15 @@
     "webshop_EliteTonnelonValue_desc": "Riduce la protezione del muro del castello del -{0}% e aumenta i punti gloria ricevuti del {1}%",
     "webshop_InvaderMaskValue_desc": "Riduce la forza dei difensori a distanza di -{0} e aumenta i punti gloria ricevuti del {1}%. Può essere utilizzato solo contro signori stranieri o Corvi di Sangue.",
     "webshop_LadderoftheShogunValue_desc": "Riduce la protezione delle mura del campo del -{0}% e aumenta i token samurai rubati del {1}%. Può essere utilizzato solo contro i campi dei samurai.",
-    "webshop_NomadTokenChestValue_desc": "Aumenta la quantità di punti furia guadagnati attaccando i campi di Khan del {0}%."
+    "webshop_NomadTokenChestValue_desc": "Aumenta la quantità di Tavolette del Khan saccheggiate del {0}%.",
+    "effect_description_honorBonus": "+{0}% punti onore guadagnati in battaglia",
+    "effect_description_publicOrderBonusMain": "Aumenta lordine pubblico allinterno del tuo castello principale di +{0}",
+    "effect_description_toolProductionSpeedBoostAll": "+{0}% velocità di produzione degli strumenti per tutti gli strumenti",
+    "effect_description_transportTaxDecreaseBoostGreen": "-{0}% Costi di trasporto delle risorse: Il Grande Impero",
+    "effect_description_transportTaxDecreaseBoostIce": "-{0}% Costi di trasporto delle risorse: Ghiacciaio Semprinverno",
+    "effect_description_transportTaxDecreaseBoostIsland": "-{0}% Costi di trasporto delle risorse: Le Isole della Tempesta",
+    "effect_description_transportTaxDecreaseBoostSand": "-{0}% Costi di trasporto delle risorse: Sabbie Ardenti",
+    "effect_description_transportTaxDecreaseBoostVulcano": "-{0}% Costi di trasporto delle risorse: Vette della Fiamma"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Eroe",
@@ -17294,8 +17316,8 @@
     "equipment_unique_1102_desc": "Ha guidato un piccolo eroe attraverso un labirinto infernale. Trasforma la tua milizia in una banda di cavalieri di passeri.",
     "equipment_unique_1103": "Stemma del principe Passero",
     "equipment_unique_1103_desc": "Ha guidato un piccolo eroe attraverso un labirinto infernale. Trasforma la tua milizia in una banda di cavalieri di passeri.",
-    "equipment_unique_1104": "Tulipano imperiale",
-    "equipment_unique_1104_desc": "Un simbolo di rinnovamento, rinascita e sacrificio di eroi. Trasforma il tuo castello in un regno di tulipani.",
+    "equipment_unique_1104": "Tacchino del banchetto autunnale",
+    "equipment_unique_1104_desc": "Questi uccelli feroci provenienti da Oltre lorizzonte servono come truppe dassalto imperiali e vengono serviti ai banchetti imperiali. Trasforma il tuo esercito in un gruppo di gobbler in carica.",
     "equipment_unique_1105": "Tulipano imperiale",
     "equipment_unique_1105_desc": "Un simbolo di rinnovamento, rinascita e sacrificio di eroi. Trasforma il tuo castello in un regno di tulipani.",
     "equipment_unique_1106": "Tulipano imperiale",
@@ -17605,7 +17627,21 @@
     "equipment_unique_1097_desc": "Trasforma la tua milizia in unorda di zombi, che lentamente ma costantemente si dirige verso i nemici per consumare i loro cervelli.",
     "equip_effect_description_attackBoostYardShapeshifter": "Questo oggetto sembra aver perso i suoi poteri... (Eredità)",
     "equip_effect_description_attackUnitAmountFlankShapeshifter": "Questo oggetto sembra aver perso i suoi poteri... (Eredità)",
-    "equip_effect_description_charmBoost": "Questo oggetto sembra aver perso i suoi poteri... (Eredità)"
+    "equip_effect_description_charmBoost": "Questo oggetto sembra aver perso i suoi poteri... (Eredità)",
+    "equipment_unique_1199_desc": "Limperatore stesso concede queste preziose uova ai suoi vassalli più fedeli. Trasforma il tuo castello in una prospera roccaforte di gobbler.",
+    "equipment_unique_1098_desc": "Questi uccelli feroci provenienti da Oltre lorizzonte servono come truppe dassalto imperiali e vengono serviti ai banchetti imperiali. Trasforma il tuo esercito in un gruppo di gobbler in carica.",
+    "equipment_unique_1099_desc": "Questi uccelli feroci provenienti da Oltre lorizzonte servono come truppe dassalto imperiali e vengono serviti ai banchetti imperiali. Trasforma il tuo esercito in un gruppo di gobbler in carica.",
+    "equipment_unique_1098": "Tacchino del banchetto autunnale",
+    "equipment_unique_1099": "Tacchino del banchetto autunnale",
+    "equipment_unique_1199": "Uovo dautunno",
+    "glacialamazonarcher_name": "Arciere Amazzonico Glaciale",
+    "glacialamazonguardian_name": "Guardiano Glaciale dellAmazzonia",
+    "glacialamazonhuntress_name": "Cacciatrice amazzonica glaciale",
+    "glacialamazonwarrior_name": "Guerriero Amazzone Glaciale",
+    "ChristmasArcher_name": "Arciere di Natale",
+    "ChristmasGuardian_name": "Guardiano di Natale",
+    "ChristmasHuntress_name": "Cacciatrice di Natale",
+    "ChristmasWarrior_name": "Guerriero di Natale"
   },
   "generic": {
     "activity": "Attività",
@@ -19655,7 +19691,8 @@
     "yourRankingPlaceholder": "Il tuo rango: {0}",
     "yourRanking": "La tua posizione",
     "refresh": "Aggiorna",
-    "rewardHubCollect": "Richiedi le tue ricompense nel Centro Ricompense!"
+    "rewardHubCollect": "Richiedi le tue ricompense nel Centro Ricompense!",
+    "eyecatcher_valuable": "Prezioso!"
   },
   "help": {
     "help_location": "Qui hai una panoramica globale dei contenuti importanti del castello e di tutti gli avamposti.",
@@ -24199,7 +24236,15 @@
     "GlacialAmazonHuntress_short_name": "Cacciatrice amazzonica glaciale",
     "GlacialAmazonWarrior_desc": "Induriti da inverni brutali, questi guerrieri incarnano uno spirito feroce, brandendo lance dai bordi di cristallo con implacabile precisione contro i loro nemici.",
     "GlacialAmazonWarrior_short_info": "Attaccante corpo a corpo estremamente potente",
-    "GlacialAmazonWarrior_short_name": "Guerriera amazzonica glaciale"
+    "GlacialAmazonWarrior_short_name": "Guerriera amazzonica glaciale",
+    "ChristmasArcher_desc": "Questi arcieri, vestiti con abiti festivi, colpiscono con frecce incantate e ghiacciate che gelano i nemici fino al midollo, portando sia gioia festiva che fredda vendetta sul campo di battaglia.",
+    "ChristmasArcher_short_info": "Attaccante a distanza estremamente potente",
+    "ChristmasGuardian_desc": "Protettori maestosi con mazze a forma di bastoni di zucchero in mano, questi guardiani difendono i loro alleati e portano gioia natalizia sul campo di battaglia.",
+    "ChristmasGuardian_short_info": "Difensore di mischia estremamente potente",
+    "ChristmasHuntress_desc": "Queste cacciatrici vigili fanno la guardia nei boschi invernali, le loro frecce decorate con agrifoglio pronte a respingere chiunque minacci il loro regno.",
+    "ChristmasHuntress_short_info": "Difensore a distanza estremamente potente",
+    "ChristmasWarrior_desc": "Armati di lance a strisce di menta, questi fieri guerrieri caricano in avanti con uno spirito festivo inarrestabile, incutendo paura a tutti coloro che si frappongono sul loro cammino.",
+    "ChristmasWarrior_short_info": "Attaccante corpo a corpo estremamente potente"
   },
   "generic_flash": {
     "Footer": {

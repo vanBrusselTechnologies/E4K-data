@@ -2032,7 +2032,11 @@
     "deco_fataltinybitebud_name": "Śmiertelny mały ukąszenie",
     "deco_ExaltedRedFrostFountain_name": "Wzniosła czerwona fontanna mrozu",
     "deco_ExaltedGreenFrostFountain_name": "Wzniosła zielona lodowa fontanna",
-    "deco_ExaltedPurpleFrostFountain_name": "Wzniosła fioletowa mrożona fontanna"
+    "deco_ExaltedPurpleFrostFountain_name": "Wzniosła fioletowa mrożona fontanna",
+    "deco_carnivorousPlantT1_name": "Śmiertelna pułapka roślin",
+    "deco_ExaltedGreenChristmasFountain_name": "Wzniosła zielona fontanna świąteczna",
+    "deco_ExaltedPurpleChristmasFountain_name": "Wzniosła fioletowa fontanna świąteczna",
+    "deco_ExaltedRedChristmasFountain_name": "Wzniosła czerwona fontanna bożonarodzeniowa"
   },
   "dialogs": {
     "dialog_festival_desc": "Użyj jedzenia, aby zorganizować święto dla Twoich obywateli! Szybkość rekrutacji znacznie będzie rosła we wszystkich twoich zamkach przez czas obchodów święta. Im większe święto, tym większe efekty.",
@@ -12270,9 +12274,9 @@
     "webshop_tokenbundle_small_name": "Mały pakiet tokenów",
     "event_end_header_GachaDeco2x2": "Śmiertelna pułapka roślin",
     "event_announcement_header_126": "Śmiertelna pułapka roślin",
-    "helpPopup_GachaDeco2x2": "Ogromna roślina mięsożerna zakorzeniła się przed &lt;b&gt;Fatal Flora Garden&lt;/b&gt; i wydaje się, że rozwinęła apetyt na twoich żołnierzy! Ale nie obawiaj się - twoi pomysłowi mieszkańcy stworzyli przekąskę, której roślina po prostu nie może się oprzeć. Karmiąc ją &lt;b&gt;Ciastkami Żołnierskimi&lt;/b&gt;, zostaniesz hojnie nagrodzony. &lt;/br&gt;&lt;/br&gt; &lt;b&gt;Karmienie Rośliny:&lt;/b&gt;&lt;/br&gt; Każde karmienie przyniesie ci nagrody - bardzo pożądane Dekoracje Fatal Flora. Te dekoracje nie tylko mają odpowiednią wartość porządku publicznego w stosunku do ich rozmiaru, ale mogą również nadać dodatkowe efekty twojemu królestwu! Dekoracje Fatal Flora można umieszczać w Dzielnicy Dekoracji Fatal Flora, zwiększając zarówno wartość PO, jak i wartość mocy samej dzielnicy. &lt;/br&gt;&lt;b&gt;Ranking i Poziomy:&lt;/b&gt;&lt;/br&gt; System rankingowy będzie śledził twoje postępy, oferując nagrody za osiągnięcia w oparciu o twój ranking. Wydarzenie zawiera również system z wieloma poziomami. W miarę postępów w poziomach, zwiększa się szansa na zdobycie najlepszej Dekoracji Fatal Flora.",
+    "helpPopup_GachaDeco2x2": "Ogromna mięsożerna roślina zakorzeniła się przed &lt;b&gt;Fatal Flora Garden&lt;/b&gt; i wydaje się, że rozwinęła apetyt na twoich żołnierzy! Ale nie bój się—twoi pomysłowi mieszkańcy stworzyli przekąskę, której roślina po prostu nie może się oprzeć. Karmiąc ją &lt;b&gt;Ciastkami Żołnierskimi&lt;/b&gt;, zostaniesz hojnie nagrodzony.\n\n&lt;b&gt;Karmienie rośliny:&lt;/b&gt;\nKażde karmienie przyniesie ci nagrody - pożądane dekoracje Fatal Flora. Te dekoracje nie tylko mają dużą wartość Public Order, ale mogą również zapewnić dodatkowe efekty twojemu królestwu! Dekoracje Fatal Flora mogą być umieszczane w obszarze dekoracyjnym Fatal Flora Garden, zwiększając zarówno wartość PO, jak i moc samego obszaru.\n&lt;b&gt;Ranking i poziomy:&lt;/b&gt;\nSystem rankingowy będzie śledził twoje postępy, oferując nagrody osiągnięć w zależności od twojej rangi. Wydarzenie obejmuje również system z wieloma poziomami. W miarę postępów przez poziomy, szansa na zdobycie najlepszej dekoracji Fatal Flora zwiększa się.",
     "tooltip_gachaName_GachaDeco2x2": "Śmiertelna pułapka roślin",
-    "event_announcement_description_126": "Ogromna roślina mięsożerna zapuściła korzenie przed Ogrodem Fatalnej Flory i wydaje się, że rozwinęła apetyt na twoich żołnierzy! Ale nie obawiaj się - twoi pomysłowi mieszkańcy stworzyli przekąskę, której roślina po prostu nie może się oprzeć. Karmiąc ją Ciasteczkami Żołnierskimi, zostaniesz hojnie nagrodzony. W trakcie wydarzenia Pułapka Fatalnej Flory, karm roślinę, aby zbierać nagrody, takie jak Dekoracje Fatalnej Flory, które zwiększają Porządek Publiczny i nadają specjalne efekty w Twojej Dzielnicy Dekoracji Fatalnej Flory. Dodatkowo, zdobywaj nagrody w rankingu na podstawie swojego występu w porównaniu do innych graczy. Upewnij się, że weźmiesz udział i ciesz się nagrodami!",
+    "event_announcement_description_126": "Ogromna roślina mięsożerna pojawiła się w Ogrodzie Fatalnej Flory, mając apetyt na twoich żołnierzy! Na szczęście, twoi mieszkańcy przygotowali Biszkopty Żołnierskie, aby ją zwabić. W wydarzeniu Pułapka Fatalnej Flory, nakarm roślinę, aby zdobyć nagrody, takie jak Dekoracje Fatalnej Flory, które poprawiają Porządek Publiczny i dodają efekty w twoim Obszarze Dekoracji. Konkuruj z innymi o nagrody za ranking—dołącz i ciesz się łupem!",
     "event_end_description_GachaDeco2x2": "Ogromna mięsożerna roślina w końcu się nasyciła, a wydarzenie Fatal Flora Trap dobiegło końca. Twoje odważne starania, by nakarmić ją Ciastkami Żołnierskimi, nie pozostały niezauważone, a nagrody, które zdobyłeś, wkrótce będą twoje.",
     "gachaPull_milestone_GachaDeco2x2": "Pasze",
     "gachaPull_milestone_tooltip_amount_GachaDeco2x2": "{0}/{1} Pasze",
@@ -12447,16 +12451,27 @@
     "effect_group_7_19_passive": "Bonus produkcji drewna",
     "effect_group_7_1_active": "+{0}% Produkcja zasobów królestwa",
     "effect_group_7_1_passive": "Bonus produkcji zasobów królestwa",
-    "event_rewards_heade_GachaDeco2x2": "Nagrody za ranking wydarzeń",
+    "event_rewards_header": "Nagrody za ranking wydarzeń",
     "milestone_reward": "Kamień milowy zakończony! Otrzymasz następujące nagrody:",
     "capReachedRanking_DonationEvent": "{0} Darowizny teraz tylko podnoszą twoją pozycję.",
     "dialog_startDonationEvent_desc2": "Budynki występują w różnych kategoriach z własnymi nagrodami. Podnoś każdą nagrodę z każdej kategorii niezależnie. Im więcej punktów, tym lepsze nagrody. Punkty i Karta Imperialnego Patrocinowania są resetowane na koniec wydarzenia.",
-    "dialog_startDonationEvent_desc3": "Nowa globalna klasyfikacja łączy graczy ze wszystkich serwerów, testując ostateczną moc i umiejętności. Rywalizuj, aby zdobyć nagrody w zależności od swojego rankingu – im szybciej się przyczynisz, tym wyżej się wspinasz!",
     "rankingGlobal": "Ranking globalny",
-    "ranking_description_DonationEvent": "Wnieś zasoby, aby zdobyć cenne nagrody! Globalny system rankingowy śledzi twoje postępy i oferuje nagrody za osiągnięcia w zależności od twojego rangi. Po zakończeniu wydarzenia odbierz swoje nagrody w Centrum Nagród.",
     "filter_decoType_onlyRelics": "Budynek relikwii",
     "DecorationStorehouse_name": "Magazyn dekoracji",
-    "filter_decoType_onlyLocals": "Lokalne budynki"
+    "filter_decoType_onlyLocals": "Lokalne budynki",
+    "ranking_description_DonationEvent": "Przyczyniaj się, aby zdobywać nagrody! Globalny ranking śledzi twoje postępy - im szybciej zdobędziesz punkty, tym wyżej będziesz w rankingu. Odbierz nagrody w Centrum Nagród po zakończeniu wydarzenia.",
+    "DecoDistrict2x2_notbuilt": "Ogród śmiertelnej flory jeszcze nie został zbudowany.",
+    "dialog_startDonationEvent_desc4": "Nowa globalna klasyfikacja jednoczy graczy ze wszystkich serwerów, wystawiając na próbę ostateczną moc i umiejętności. Rywalizuj o nagrody w zależności od swojego rankingu. Im szybciej zdobędziesz punkty, tym wyżej się umieścisz. Nawet jeśli inni gracze osiągną tę samą liczbę punktów, ci, którzy przyczynią się szybciej, będą mieli wyższy ranking!",
+    "dialog_privateBestsellerShop_advent_tooltip": "Oferty adwentowe",
+    "dialog_chestOffer_desc_advent": "Rozpakuj świąteczne skarby z Adwentowej Skrzyni!",
+    "dialog_chestOffer_title_advent": "Skrzynia Adwentowa",
+    "dialog_finish": "Ukończono",
+    "dialog_startDonationEvent_desc3": "Cesarz wprowadził Imperatorską Kartę Patronatu, zlecając architektowi przetworzenie materiałów, które masz w obfitości. Na koniec wydarzenia wszystkie elementy Imperatorskiej Karty Patronatu zostaną zresetowane.",
+    "rewardReceived": "Nagroda odebrana!",
+    "dialog_event_announcement_description_126": "Ogromna roślina mięsożerna pojawiła się w Ogrodzie Fatalnej Flory, mając apetyt na twoich żołnierzy! Na szczęście, twoi mieszkańcy przygotowali Biszkopty Żołnierskie, aby ją zwabić. W wydarzeniu Pułapka Fatalnej Flory, nakarm roślinę, aby zdobyć nagrody, takie jak Dekoracje Fatalnej Flory, które poprawiają Porządek Publiczny i dodają efekty w twoim Obszarze Dekoracji. Konkuruj z innymi o nagrody za ranking—dołącz i ciesz się łupem!",
+    "dialog_event_announcement_header_126": "Śmiertelna pułapka roślin",
+    "dialog_title_gachadeco2x2": "Śmiertelna pułapka roślin",
+    "help_deco_gacha": "Ogromna mięsożerna roślina zakorzeniła się przed &lt;b&gt;Fatal Flora Garden&lt;/b&gt; i wydaje się, że rozwinęła apetyt na twoich żołnierzy! Ale nie bój się—twoi pomysłowi mieszkańcy stworzyli przekąskę, której roślina po prostu nie może się oprzeć. Karmiąc ją &lt;b&gt;Ciastkami Żołnierskimi&lt;/b&gt;, zostaniesz hojnie nagrodzony.\n\n&lt;b&gt;Karmienie rośliny:&lt;/b&gt;\nKażde karmienie przyniesie ci nagrody - pożądane dekoracje Fatal Flora. Te dekoracje nie tylko mają dużą wartość Public Order, ale mogą również zapewnić dodatkowe efekty twojemu królestwu! Dekoracje Fatal Flora mogą być umieszczane w obszarze dekoracyjnym Fatal Flora Garden, zwiększając zarówno wartość PO, jak i moc samego obszaru.\n&lt;b&gt;Ranking i poziomy:&lt;/b&gt;\nSystem rankingowy będzie śledził twoje postępy, oferując nagrody osiągnięć w zależności od twojej rangi. Wydarzenie obejmuje również system z wieloma poziomami. W miarę postępów przez poziomy, szansa na zdobycie najlepszej dekoracji Fatal Flora zwiększa się."
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% prędkości przemieszczania armii podczas podbojów",
@@ -13741,7 +13756,6 @@
     "effect_group_6_9_active_malus": "-{0}% pkt. chwały otrzymywanych podczas bitew",
     "effect_group_6_9_passive": "Premia do punktów chwały zdobywanych podczas bitwy",
     "effect_group_8_4_active": "+{0} do pojemności obrony dziedzińca",
-    "effect_group_8_5_active": "+{0} pojemność jednostek wsparcia sojuszu przy obronie dziedzińca",
     "ci_effect_defenseUnitAmountWall": "+{0}% do pojemności wojsk w obronie muru",
     "ci_effect_recruitmentSpeedBoostAll": "+{0}% szybkości werbunku",
     "ci_effect_craftingQueueProductionBoost_2_tt": "Bonus produkcji narzędzi:",
@@ -13766,7 +13780,15 @@
     "webshop_EliteTonnelonValue_desc": "Zmniejsza ochronę muru zamku o -{0}% i zwiększa otrzymane punkty chwały o {1}%",
     "webshop_InvaderMaskValue_desc": "Zmniejsza siłę obrońców na dystans o -{0} i zwiększa zdobyte punkty chwały o {1}%. Może być używany tylko przeciwko obcym lordom lub Krukom Krwi.",
     "webshop_LadderoftheShogunValue_desc": "Zmniejsza ochronę murów obozu o -{0}% i zwiększa liczbę zagrabionych tokenów samurajskich o {1}%. Może być używany tylko przeciwko obozom samurajów.",
-    "webshop_NomadTokenChestValue_desc": "Zwiększa liczbę punktów gniewu zdobytych podczas ataku na obozowiska Khana o {0}%."
+    "webshop_NomadTokenChestValue_desc": "Zwiększa ilość Tabliczek chana, które zostały zrabowane o {0}%.",
+    "effect_description_honorBonus": "+{0}% punktów honoru zdobytych w bitwie",
+    "effect_description_publicOrderBonusMain": "Zwiększa porządek publiczny w twoim głównym zamku o +{0}",
+    "effect_description_toolProductionSpeedBoostAll": "+{0}% prędkość produkcji narzędzi dla wszystkich narzędzi",
+    "effect_description_transportTaxDecreaseBoostGreen": "-{0}% Koszty transportu zasobów: Wielkie Imperium",
+    "effect_description_transportTaxDecreaseBoostIce": "-{0}% Koszty transportu zasobów: Kraina Wiecznych Lodów",
+    "effect_description_transportTaxDecreaseBoostIsland": "-{0}% Koszty transportu zasobów: Archipelag Sztormu",
+    "effect_description_transportTaxDecreaseBoostSand": "-{0}% Koszty transportu zasobów: Płonące Piaski",
+    "effect_description_transportTaxDecreaseBoostVulcano": "-{0}% Koszty transportu zasobów: Ogniste Szczyty"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Bohater",
@@ -17294,8 +17316,8 @@
     "equipment_unique_1102_desc": "Wskazał małemu bohaterowi drogę poprzez piekielny labirynt. Przekształca twoją armię w kawalerię wróbli.",
     "equipment_unique_1103": "Herb Księcia Wróbli",
     "equipment_unique_1103_desc": "Wskazał małemu bohaterowi drogę poprzez piekielny labirynt. Przekształca twoją armię w kawalerię wróbli.",
-    "equipment_unique_1104": "Tulipan Cesarstwa",
-    "equipment_unique_1104_desc": "Symbol odrodzenia i poświęcenia bohaterów. Przekształca twój zamek w tulipanowe królestwo.",
+    "equipment_unique_1104": "Indyk na święto plonów",
+    "equipment_unique_1104_desc": "Te dzikie ptaki z Za horyzontem służą jako imperialne oddziały uderzeniowe i są serwowane na cesarskich bankietach. Przemienia twoją armię w grupę atakujących goblerów.",
     "equipment_unique_1105": "Tulipan Cesarstwa",
     "equipment_unique_1105_desc": "Symbol odrodzenia i poświęcenia bohaterów. Przekształca twój zamek w tulipanowe królestwo.",
     "equipment_unique_1106": "Tulipan Cesarstwa",
@@ -17605,7 +17627,21 @@
     "equipment_unique_1097_desc": "Przekształca twoją armię w hordę zombie – powolną, lecz niepowstrzymaną na swej drodze po mózgi wrogów.",
     "equip_effect_description_attackBoostYardShapeshifter": "Ten przedmiot zdaje się stracić swoje moce... (Dziedzictwo)",
     "equip_effect_description_attackUnitAmountFlankShapeshifter": "Ten przedmiot zdaje się stracić swoje moce... (Dziedzictwo)",
-    "equip_effect_description_charmBoost": "Ten przedmiot zdaje się stracić swoje moce... (Dziedzictwo)"
+    "equip_effect_description_charmBoost": "Ten przedmiot zdaje się stracić swoje moce... (Dziedzictwo)",
+    "equipment_unique_1199_desc": "Sam cesarz przyznaje te cenne jaja swoim najwierniejszym wasalom. Zmienia twój zamek w kwitnącą twierdzę gobblerów.",
+    "equipment_unique_1098_desc": "Te dzikie ptaki z Za horyzontem służą jako imperialne oddziały uderzeniowe i są serwowane na cesarskich bankietach. Przemienia twoją armię w grupę atakujących goblerów.",
+    "equipment_unique_1099_desc": "Te dzikie ptaki z Za horyzontem służą jako imperialne oddziały uderzeniowe i są serwowane na cesarskich bankietach. Przemienia twoją armię w grupę atakujących goblerów.",
+    "equipment_unique_1098": "Indyk na święto zbiorów",
+    "equipment_unique_1099": "Indyk na święto zbiorów",
+    "equipment_unique_1199": "Jesienne jajko",
+    "glacialamazonarcher_name": "Lodowy łucznik Amazoński",
+    "glacialamazonguardian_name": "Lodowy Strażnik Amazonki",
+    "glacialamazonhuntress_name": "Lodowa amazonka łowczyni",
+    "glacialamazonwarrior_name": "Lodowy wojownik Amazonek",
+    "ChristmasArcher_name": "Łucznik świąteczny",
+    "ChristmasGuardian_name": "Stróż Bożego Narodzenia",
+    "ChristmasHuntress_name": "Łowczyni Świąt",
+    "ChristmasWarrior_name": "Wojownik Bożego Narodzenia"
   },
   "generic": {
     "activity": "Działania",
@@ -19655,7 +19691,8 @@
     "yourRankingPlaceholder": "Twoja ranga: {0}",
     "yourRanking": "Twój ranking",
     "refresh": "Odśwież",
-    "rewardHubCollect": "Odbierz swoje nagrody w Centrum Nagród!"
+    "rewardHubCollect": "Odbierz swoje nagrody w Centrum Nagród!",
+    "eyecatcher_valuable": "Cenny!"
   },
   "help": {
     "help_location": "W tym miejscu masz globalny przegląd ważnych elementów zamku oraz wszystkich posterunków.",
@@ -24199,7 +24236,15 @@
     "GlacialAmazonHuntress_short_name": "Lodowa amazońska łowczyni",
     "GlacialAmazonWarrior_desc": "Hartnacki przez brutalne zimy, ci wojownicy ucieleśniają dziki duch, dzierżąc włócznie o krawędzi kryształu z nieustępliwą precyzją przeciwko swoim wrogom.",
     "GlacialAmazonWarrior_short_info": "Ekstremalnie silny atakujący wręcz",
-    "GlacialAmazonWarrior_short_name": "Lodowa wojowniczka Amazonka"
+    "GlacialAmazonWarrior_short_name": "Lodowa wojowniczka Amazonka",
+    "ChristmasArcher_desc": "Ci łucznicy, ubrani w festiwalowe stroje, atakują lodowymi, zaczarowanymi strzałami, które zamrażają wrogów do rdzenia, przynosząc zarówno radość świąteczną, jak i zimną zemstę na pole bitwy.",
+    "ChristmasArcher_short_info": "Ekstremalnie potężny atakujący z dystansu",
+    "ChristmasGuardian_desc": "Wysokie strażnicy z maczugami w kształcie cukrowych lasek w rękach, ci strażnicy bronią swoich sojuszników i przynoszą świąteczną radość na pole bitwy.",
+    "ChristmasGuardian_short_info": "Ekstremalnie potężny obrońca w walce wręcz",
+    "ChristmasHuntress_desc": "Te czujne łowczynie czuwają w zimowych lasach, ich strzały ozdobione holly gotowe do odpierania każdego, kto zagraża ich królestwu.",
+    "ChristmasHuntress_short_info": "Ekstremalnie potężny obrońca na dystans",
+    "ChristmasWarrior_desc": "Uzbrojeni w lance w paski z mięty, ci dzicy wojownicy pędzą naprzód z niepowstrzymanym świątecznym duchem, wzbudzając strach wśród wszystkich, którzy stają im na drodze.",
+    "ChristmasWarrior_short_info": "Ekstremalnie potężny napastnik w walce wręcz"
   },
   "generic_flash": {
     "Footer": {

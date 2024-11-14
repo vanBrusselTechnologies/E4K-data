@@ -2032,7 +2032,11 @@
     "deco_fataltinybitebud_name": "Mordida pequena fatal",
     "deco_ExaltedRedFrostFountain_name": "Fonte de Gelo Vermelha Exaltada",
     "deco_ExaltedGreenFrostFountain_name": "Fonte de gelo verde exaltada",
-    "deco_ExaltedPurpleFrostFountain_name": "Fonte congelada roxa exaltada"
+    "deco_ExaltedPurpleFrostFountain_name": "Fonte congelada roxa exaltada",
+    "deco_carnivorousPlantT1_name": "Armadilha de flora fatal",
+    "deco_ExaltedGreenChristmasFountain_name": "Fonte de Natal verde exaltada",
+    "deco_ExaltedPurpleChristmasFountain_name": "Fonte de Natal roxa exaltada",
+    "deco_ExaltedRedChristmasFountain_name": "Fonte de Natal vermelha exaltada"
   },
   "dialogs": {
     "dialog_festival_desc": "Use comida para organizar um banquete para os cidadãos! A velocidade de recrutamento aumentará consideravelmente em todos os seus castelos durante o banquete. Quanto maior o banquete, maior o efeito.",
@@ -12270,9 +12274,9 @@
     "webshop_tokenbundle_small_name": "Pacote de pequenos tokens",
     "event_end_header_GachaDeco2x2": "Armadilha de flora fatal",
     "event_announcement_header_126": "Armadilha de flora fatal",
-    "helpPopup_GachaDeco2x2": "Uma enorme planta carnívora fincou raízes na frente do &lt;b&gt;Jardim Fatal Flora&lt;/b&gt;, e parece ter desenvolvido um gosto pelos seus soldados! Mas não tema - seus cidadãos engenhosos criaram um lanche que a planta simplesmente não pode resistir. Alimentando-a com &lt;b&gt;Biscoitos de Soldado&lt;/b&gt;, você será generosamente recompensado. &lt;/br&gt;&lt;/br&gt; &lt;b&gt;Alimentando a Planta:&lt;/b&gt;&lt;/br&gt; Cada alimentação lhe dará recompensas - as cobiçadas Decorações Fatal Flora. Essas decorações não apenas têm um significativo valor de Ordem Pública para seu tamanho, mas também podem conceder efeitos adicionais ao seu reino! As Decorações Fatal Flora podem ser colocadas no Distrito de Decorações do Jardim Fatal Flora, aumentando tanto o PO quanto o valor de poder do próprio distrito. &lt;/br&gt;&lt;b&gt;Classificação e Níveis:&lt;/b&gt;&lt;/br&gt; Um sistema de classificação acompanhará seu progresso, oferecendo recompensas de conquista com base em sua classificação. O evento também inclui um sistema com múltiplos níveis. À medida que você avança pelos níveis, a chance de obter a melhor Decoração Fatal Flora aumenta.",
+    "helpPopup_GachaDeco2x2": "Uma enorme planta carnívora fincou raízes em frente ao &lt;b&gt;Jardim Fatal Flora&lt;/b&gt;, e parece que ela desenvolveu um gosto por seus soldados! Mas não tema—seus habitantes engenhosos criaram um lanche que a planta simplesmente não consegue resistir. Ao alimentá-la com &lt;b&gt;Biscoitos de Soldado&lt;/b&gt;, você será generosamente recompensado.\n\n&lt;b&gt;Alimentando a Planta:&lt;/b&gt;\nCada alimentação irá lhe conceder recompensas - as cobiçadas Decorações Fatal Flora. Essas decorações não apenas têm um alto valor de Ordem Pública para seu tamanho, mas também podem conceder efeitos adicionais ao seu reino! As Decorações Fatal Flora podem ser colocadas no Distrito de Decoração do Jardim Fatal Flora, aumentando tanto o valor de OP quanto o poder do próprio distrito.\n&lt;b&gt;Classificação e Níveis:&lt;/b&gt;\nUm sistema de classificação acompanhará seu progresso, oferecendo recompensas de conquista com base em sua classificação. O evento também inclui um sistema com vários níveis. À medida que você avança pelos níveis, a chance de obter a melhor Decoração Fatal Flora melhora.",
     "tooltip_gachaName_GachaDeco2x2": "Armadilha de flora fatal",
-    "event_announcement_description_126": "Uma enorme planta carnívora enraizou-se em frente ao Jardim Fatal Flora, e parece ter desenvolvido um gosto por seus soldados! Mas não tema - seus cidadãos engenhosos criaram um lanche que a planta simplesmente não consegue resistir. Ao alimentá-la com Biscoitos de Soldado, você será generosamente recompensado. Durante o evento Armadilha de Flora Fatal, alimente a planta para coletar recompensas como Decorações de Flora Fatal, que aumentam a Ordem Pública e concedem efeitos especiais em seu Distrito de Decoração de Flora Fatal. Além disso, ganhe recompensas de classificação com base no seu desempenho em comparação com outros jogadores. Certifique-se de participar e aproveitar as recompensas!",
+    "event_announcement_description_126": "Uma enorme planta carnívora brotou no Jardim Fatal Flora com um apetite por seus soldados! Felizmente, seus cidadãos fizeram Biscoitos de Soldado para atraí-la. No evento Armadilha da Flora Fatal, alimente a planta para ganhar recompensas como Decorações da Flora Fatal que aumentam a Ordem Pública e adicionam efeitos em seu Distrito de Decoração. Compita com outros por recompensas de classificação—junte-se e aproveite os despojos!",
     "event_end_description_GachaDeco2x2": "A enorme planta carnívora finalmente se saciou e o evento Fatal Flora Trap chegou ao fim. Seus corajosos esforços para alimentá-la com Biscoitos de Soldado não passaram despercebidos, e as recompensas que você ganhou em breve serão suas.",
     "gachaPull_milestone_GachaDeco2x2": "Rações",
     "gachaPull_milestone_tooltip_amount_GachaDeco2x2": "{0}/{1} Rações",
@@ -12447,16 +12451,27 @@
     "effect_group_7_19_passive": "Bônus de produção de madeira",
     "effect_group_7_1_active": "+{0}% Produção de recursos do reino",
     "effect_group_7_1_passive": "Bônus de produção de recursos do reino",
-    "event_rewards_heade_GachaDeco2x2": "Recompensas de classificação de eventos",
+    "event_rewards_header": "Recompensas de classificação de eventos",
     "milestone_reward": "Marco concluído! Você receberá as seguintes recompensas:",
     "capReachedRanking_DonationEvent": "{0} Doações agora aumentam apenas sua classificação.",
     "dialog_startDonationEvent_desc2": "Os edifícios vêm em diferentes categorias com suas próprias recompensas. Aumente cada recompensa de cada categoria de forma independente. Quanto mais pontos, melhores serão as recompensas. Os pontos e a Carta de Patrocínio Imperial são redefinidos no final do evento.",
-    "dialog_startDonationEvent_desc3": "A nova Classificação Global une jogadores de todos os servidores, testando poder e habilidade supremos. Compita para reivindicar recompensas com base em sua classificação – quanto mais rápido você contribuir, mais alto você subirá!",
     "rankingGlobal": "Classificação global",
-    "ranking_description_DonationEvent": "Contribua com recursos para ganhar recompensas valiosas! O sistema de classificação global acompanha seu progresso, oferecendo recompensas por conquistas com base na sua classificação. Assim que o evento terminar, reivindique suas recompensas no Centro de Recompensas.",
     "filter_decoType_onlyRelics": "Edifícios de relíquia",
     "DecorationStorehouse_name": "Armazém de decoração",
-    "filter_decoType_onlyLocals": "Edifícios locais"
+    "filter_decoType_onlyLocals": "Edifícios locais",
+    "ranking_description_DonationEvent": "Contribua para ganhar recompensas! O ranking global acompanha seu progresso - quanto mais rápido você marcar, mais alto será seu ranking. Reivindique recompensas no Centro de Recompensas quando o evento terminar.",
+    "DecoDistrict2x2_notbuilt": "O Jardim da Flora Fatal ainda não foi construído.",
+    "dialog_startDonationEvent_desc4": "O novo Ranking Global une jogadores de todos os servidores, colocando o poder e a habilidade definitiva à prova. Compita por recompensas com base em sua classificação. Quanto mais rápido você marcar pontos, mais alto você se classificará. Mesmo que outros jogadores alcancem a mesma pontuação, aqueles que contribuírem mais rápido terão uma classificação mais alta!",
+    "dialog_privateBestsellerShop_advent_tooltip": "Ofertas de Advento",
+    "dialog_chestOffer_desc_advent": "Desembrulhe os tesouros das festas com o Cofre do Advento!",
+    "dialog_chestOffer_title_advent": "Cofre do Advento",
+    "dialog_finish": "Concluída",
+    "dialog_startDonationEvent_desc3": "O imperador apresentou a Carta de Patrocínio Imperial, encarregando o arquiteto de processar os materiais que você tem em abundância. No final do evento, todos os itens da Carta de Patrocínio Imperial serão redefinidos.",
+    "rewardReceived": "Recompensa recebida!",
+    "dialog_event_announcement_description_126": "Uma enorme planta carnívora brotou no Jardim Fatal Flora com um apetite por seus soldados! Felizmente, seus cidadãos fizeram Biscoitos de Soldado para atraí-la. No evento Armadilha da Flora Fatal, alimente a planta para ganhar recompensas como Decorações da Flora Fatal que aumentam a Ordem Pública e adicionam efeitos em seu Distrito de Decoração. Compita com outros por recompensas de classificação—junte-se e aproveite os despojos!",
+    "dialog_event_announcement_header_126": "Armadilha de flora fatal",
+    "dialog_title_gachadeco2x2": "Armadilha de flora fatal",
+    "help_deco_gacha": "Uma enorme planta carnívora fincou raízes em frente ao &lt;b&gt;Jardim Fatal Flora&lt;/b&gt;, e parece que ela desenvolveu um gosto por seus soldados! Mas não tema—seus habitantes engenhosos criaram um lanche que a planta simplesmente não consegue resistir. Ao alimentá-la com &lt;b&gt;Biscoitos de Soldado&lt;/b&gt;, você será generosamente recompensado.\n\n&lt;b&gt;Alimentando a Planta:&lt;/b&gt;\nCada alimentação irá lhe conceder recompensas - as cobiçadas Decorações Fatal Flora. Essas decorações não apenas têm um alto valor de Ordem Pública para seu tamanho, mas também podem conceder efeitos adicionais ao seu reino! As Decorações Fatal Flora podem ser colocadas no Distrito de Decoração do Jardim Fatal Flora, aumentando tanto o valor de OP quanto o poder do próprio distrito.\n&lt;b&gt;Classificação e Níveis:&lt;/b&gt;\nUm sistema de classificação acompanhará seu progresso, oferecendo recompensas de conquista com base em sua classificação. O evento também inclui um sistema com vários níveis. À medida que você avança pelos níveis, a chance de obter a melhor Decoração Fatal Flora melhora."
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% velocidade de viagem do exército durante conquistas",
@@ -13741,7 +13756,6 @@
     "effect_group_6_9_active_malus": "-{0}% pontos de glória obtidos em batalha",
     "effect_group_6_9_passive": "Pontos de glória ganhos nos bônus de batalha",
     "effect_group_8_4_active": "+{0} de capacidade de tropa ao defender o pátio",
-    "effect_group_8_5_active": "+{0} capacidade das tropas de apoio da aliança ao defender o pátio",
     "ci_effect_defenseUnitAmountWall": "+{0}% na capacidade das tropas na defesa da muralha",
     "ci_effect_recruitmentSpeedBoostAll": "+{0}% velocidade de recrutamento",
     "ci_effect_craftingQueueProductionBoost_2_tt": "Bônus de produção do ferreiro:",
@@ -13766,7 +13780,15 @@
     "webshop_EliteTonnelonValue_desc": "Reduz a proteção da muralha do castelo em -{0}% e aumenta os pontos de glória recebidos em {1}%",
     "webshop_InvaderMaskValue_desc": "Reduz a força dos defensores à distância em -{0} e aumenta os Pontos de Glória recebidos em {1}%. Só pode ser usado contra senhores estrangeiros ou Corvos de Sangue.",
     "webshop_LadderoftheShogunValue_desc": "Reduz a proteção das paredes do acampamento em -{0}% e aumenta a quantidade de Tokens de Samurai saqueados em {1}%. Só pode ser usado contra acampamentos de samurai.",
-    "webshop_NomadTokenChestValue_desc": "Aumenta a quantidade de pontos de fúria ganhos ao atacar acampamentos Khan em {0}%."
+    "webshop_NomadTokenChestValue_desc": "Aumenta a quantidade de Placas do Khan saqueadas em {0}%.",
+    "effect_description_honorBonus": "+{0}% pontos de honra ganhos em batalha",
+    "effect_description_publicOrderBonusMain": "Aumenta a ordem pública dentro do seu castelo principal em +{0}",
+    "effect_description_toolProductionSpeedBoostAll": "+{0}% velocidade de produção de ferramentas para todas as ferramentas",
+    "effect_description_transportTaxDecreaseBoostGreen": "-{0}% Custos de transporte de recursos: O Grande Império",
+    "effect_description_transportTaxDecreaseBoostIce": "-{0}% Custos de transporte de recursos: O Glaciar do Inverno Eterno",
+    "effect_description_transportTaxDecreaseBoostIsland": "-{0}% Custos de transporte de recursos: As Ilhas da Tempestade",
+    "effect_description_transportTaxDecreaseBoostSand": "-{0}% Custos de transporte de recursos: Areias Ardentes",
+    "effect_description_transportTaxDecreaseBoostVulcano": "-{0}% Custos de transporte de recursos: Os Picos do Fogo"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Herói",
@@ -17294,8 +17316,8 @@
     "equipment_unique_1102_desc": "Guiou um pequeno herói por um labirinto infernal. Transforma seu exército em uma cavalaria do pardal.",
     "equipment_unique_1103": "Brasão do príncipe pardal",
     "equipment_unique_1103_desc": "Guiou um pequeno herói por um labirinto infernal. Transforma seu exército em uma cavalaria do pardal.",
-    "equipment_unique_1104": "Tulipa imperial",
-    "equipment_unique_1104_desc": "Um símbolo de renovação, renascimento e sacrifício heroico. Transforma seu castelo em um reino de tulipas.",
+    "equipment_unique_1104": "Peru da festa da colheita",
+    "equipment_unique_1104_desc": "Essas aves ferozes do Além do horizonte servem como tropas de choque imperiais e são servidas em banquetes imperiais. Transforma seu exército em um bando de gobblers em ataque.",
     "equipment_unique_1105": "Tulipa imperial",
     "equipment_unique_1105_desc": "Um símbolo de renovação, renascimento e sacrifício heroico. Transforma seu castelo em um reino de tulipas.",
     "equipment_unique_1106": "Tulipa imperial",
@@ -17605,7 +17627,21 @@
     "equipment_unique_1097_desc": "Transforma seu exército em uma horda de zumbis, que avança vagarosamente com a intenção de consumir os cérebros dos inimigos.",
     "equip_effect_description_attackBoostYardShapeshifter": "Este item parece ter perdido seus poderes... (Legado)",
     "equip_effect_description_attackUnitAmountFlankShapeshifter": "Este item parece ter perdido seus poderes... (Legado)",
-    "equip_effect_description_charmBoost": "Este item parece ter perdido seus poderes... (Legado)"
+    "equip_effect_description_charmBoost": "Este item parece ter perdido seus poderes... (Legado)",
+    "equipment_unique_1199_desc": "O próprio imperador concede esses valiosos ovos a seus vassalos mais leais. Transforma seu castelo em uma próspera fortaleza gobbler.",
+    "equipment_unique_1098_desc": "Essas aves ferozes do Além do horizonte servem como tropas de choque imperiais e são servidas em banquetes imperiais. Transforma seu exército em um bando de gobblers em ataque.",
+    "equipment_unique_1099_desc": "Essas aves ferozes do Além do horizonte servem como tropas de choque imperiais e são servidas em banquetes imperiais. Transforma seu exército em um bando de gobblers em ataque.",
+    "equipment_unique_1098": "Peru do banquete de colheita",
+    "equipment_unique_1099": "Peru do banquete de colheita",
+    "equipment_unique_1199": "Ovo de outono",
+    "glacialamazonarcher_name": "Arqueiro Amazônico Glacial",
+    "glacialamazonguardian_name": "Guardião Glacial da Amazônia",
+    "glacialamazonhuntress_name": "Caçadora Amazônica Glacial",
+    "glacialamazonwarrior_name": "Guerreiro Amazônico Glacial",
+    "ChristmasArcher_name": "Arqueiro de Natal",
+    "ChristmasGuardian_name": "Guardião de Natal",
+    "ChristmasHuntress_name": "Caçadora de Natal",
+    "ChristmasWarrior_name": "Guerreiro de Natal"
   },
   "generic": {
     "activity": "Atividade",
@@ -19655,7 +19691,8 @@
     "yourRankingPlaceholder": "Sua classificação: {0}",
     "yourRanking": "Sua pontuação",
     "refresh": "Atualizar",
-    "rewardHubCollect": "Reclame suas recompensas no Centro de Recompensas!"
+    "rewardHubCollect": "Reclame suas recompensas no Centro de Recompensas!",
+    "eyecatcher_valuable": "Valioso!"
   },
   "help": {
     "help_location": "Aqui você tem uma visão geral global do conteúdo importante do seu castelo e de todos os seus postos avançados.",
@@ -24199,7 +24236,15 @@
     "GlacialAmazonHuntress_short_name": "Caçadora amazônica glacial",
     "GlacialAmazonWarrior_desc": "Endurecidos por invernos brutais, estes guerreiros personificam um espírito feroz, empunhando lanças de borda de cristal com precisão implacável contra seus inimigos.",
     "GlacialAmazonWarrior_short_info": "Atacante corpo a corpo extremamente poderoso",
-    "GlacialAmazonWarrior_short_name": "Guerreira amazônica glacial"
+    "GlacialAmazonWarrior_short_name": "Guerreira amazônica glacial",
+    "ChristmasArcher_desc": "Esses arqueiros, vestidos com trajes festivos, atacam com flechas encantadas e geladas que congelam os inimigos até o âmago, trazendo tanto alegria festiva quanto fria vingança ao campo de batalha.",
+    "ChristmasArcher_short_info": "Atacante de longo alcance extremamente poderoso",
+    "ChristmasGuardian_desc": "Protetores imponentes com maças em forma de bengalas de doce na mão, esses guardiões defendem seus aliados e trazem alegria festiva para o campo de batalha.",
+    "ChristmasGuardian_short_info": "Defensor corpo a corpo extremamente poderoso",
+    "ChristmasHuntress_desc": "Essas caçadoras vigilantes fazem guarda nas florestas de inverno, suas flechas com pontas de azevinho prontas para repelir qualquer um que ameace seu reino.",
+    "ChristmasHuntress_short_info": "Defensor de longo alcance extremamente poderoso",
+    "ChristmasWarrior_desc": "Armados com lanças listradas de hortelã, esses ferozes guerreiros avançam com um espírito festivo imparável, incutindo medo em todos que se interpõem em seu caminho.",
+    "ChristmasWarrior_short_info": "Atacante corpo a corpo extremamente poderoso"
   },
   "generic_flash": {
     "Footer": {

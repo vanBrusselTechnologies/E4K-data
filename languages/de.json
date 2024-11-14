@@ -2032,7 +2032,11 @@
     "deco_fataltinybitebud_name": "Tödlicher kleiner Biss Knospe",
     "deco_ExaltedRedFrostFountain_name": "Erhabene rote Frostquelle",
     "deco_ExaltedGreenFrostFountain_name": "Erhabene grüne Frostquelle",
-    "deco_ExaltedPurpleFrostFountain_name": "Erhabener lila Frostbrunnen"
+    "deco_ExaltedPurpleFrostFountain_name": "Erhabener lila Frostbrunnen",
+    "deco_carnivorousPlantT1_name": "Tödliche Pflanzenfalle",
+    "deco_ExaltedGreenChristmasFountain_name": "Erhabener grüner Weihnachtsbrunnen",
+    "deco_ExaltedPurpleChristmasFountain_name": "Erhabener lila Weihnachtsbrunnen",
+    "deco_ExaltedRedChristmasFountain_name": "Erhabene rote Weihnachtsfontäne"
   },
   "dialogs": {
     "dialog_festival_desc": "Setzt Nahrung ein, um ein Fest für Eure Bürger zu feiern!\nSolange das Fest läuft, wird die Rekrutierungsgeschwindigkeit in all Euren Burgen deutlich erhöht. Je größer das Fest ist, desto größer ist auch der Effekt.",
@@ -12270,9 +12274,9 @@
     "webshop_tokenbundle_small_name": "Kleines Token-Bündel",
     "event_end_header_GachaDeco2x2": "Tödliche Pflanzenfalle",
     "event_announcement_header_126": "Tödliche Pflanzenfalle",
-    "helpPopup_GachaDeco2x2": "Eine riesige fleischfressende Pflanze hat sich vor dem &lt;b&gt;Fatal Flora Garten&lt;/b&gt; niedergelassen und scheint einen Geschmack für deine Soldaten entwickelt zu haben! Aber fürchte dich nicht – deine einfallsreichen Stadtbewohner haben einen Snack kreiert, dem die Pflanze einfach nicht widerstehen kann. Wenn du es mit &lt;b&gt;Soldatenkeksen&lt;/b&gt; fütterst, wirst du großzügig belohnt. &lt;/br&gt;&lt;/br&gt; &lt;b&gt;Die Pflanze füttern:&lt;/b&gt;&lt;/br&gt; Jedes Füttern bringt dir Belohnungen - die heiß begehrten Fatal Flora Dekorationen. Diese Dekorationen haben nicht nur einen hohen Wert für die öffentliche Ordnung, sondern können auch zusätzliche Effekte für dein Königreich gewähren! Fatal Flora Dekorationen können im Dekorationsbezirk des Fatal Flora Gartens platziert werden, wodurch sowohl der PO- als auch der Machtwert des Bezirks selbst gesteigert werden. &lt;/br&gt;&lt;b&gt;Rang und Stufen:&lt;/b&gt;&lt;/br&gt;Ein Rangsystem wird deinen Fortschritt verfolgen und dir Leistungsbelohnungen basierend auf deinem Rang anbieten. Die Veranstaltung umfasst auch ein System mit mehreren Stufen. Während du durch die Stufen fortschreitest, erhöht sich die Chance, die beste Fatal Flora Dekoration zu erhalten.",
+    "helpPopup_GachaDeco2x2": "Eine massive fleischfressende Pflanze hat sich vor dem &lt;b&gt;Fatal Flora Garden&lt;/b&gt; festgesetzt, und es scheint, als hätte sie einen Geschmack für deine Soldaten entwickelt! Aber fürchte dich nicht - deine einfallsreichen Stadtbewohner haben einen Snack kreiert, dem die Pflanze einfach nicht widerstehen kann. Wenn du ihr &lt;b&gt;Soldatenkekse&lt;/b&gt; fütterst, wirst du großzügig belohnt.\n\n&lt;b&gt;Die Pflanze füttern:&lt;/b&gt;\nJede Fütterung bringt dir Belohnungen - die begehrten Fatal Flora-Dekorationen. Diese Dekorationen haben nicht nur einen hohen Wert für die öffentliche Ordnung, sondern können auch zusätzliche Effekte für dein Königreich gewähren! Fatal Flora-Dekorationen können im Dekorationsbezirk des Fatal Flora Gardens platziert werden, was sowohl den PO- als auch den Machtwert des Bezirks selbst erhöht.\n&lt;b&gt;Ranglisten und Level:&lt;/b&gt;\nEin Rankingsystem wird deinen Fortschritt verfolgen und Leistungsbelohnungen basierend auf deinem Rang anbieten. Die Veranstaltung umfasst auch ein System mit mehreren Leveln. Wenn du durch die Level fortschreitest, verbessert sich die Chance, die beste Fatal Flora-Dekoration zu erhalten.",
     "tooltip_gachaName_GachaDeco2x2": "Tödliche Pflanzenfalle",
-    "event_announcement_description_126": "Eine riesige fleischfressende Pflanze hat sich vor dem Garten der tödlichen Flora festgesetzt und scheint einen Geschmack für deine Soldaten entwickelt zu haben! Aber fürchte dich nicht - deine einfallsreichen Stadtbewohner haben einen Snack kreiert, dem die Pflanze einfach nicht widerstehen kann. Indem du ihr Soldatenkekse fütterst, wirst du großzügig belohnt. Während des Fatal Flora Trap-Events füttere die Pflanze, um Belohnungen wie Fatal Flora-Dekorationen zu sammeln, die die öffentliche Ordnung erhöhen und besondere Effekte in deinem Fatal Flora-Dekorationsbezirk gewähren. Verdiene außerdem Rangbelohnungen basierend auf deiner Leistung im Vergleich zu anderen Spielern. Nimm unbedingt teil und genieße die Belohnungen!",
+    "event_announcement_description_126": "Im Tödlichen Flora Garten ist eine riesige fleischfressende Pflanze aufgeblüht und hat Appetit auf deine Soldaten! Deine Stadtbewohner haben Soldatenkekse gebacken, um sie anzulocken. In der Veranstaltung Tödliche Pflanzenfalle füttere die Pflanze, um Belohnungen wie Tödliche Flora Dekorationen zu verdienen, die die öffentliche Ordnung verbessern und Effekte im Dekorationsbezirk hinzufügen. Tritt gegen andere an – sichere dir die Beute!",
     "event_end_description_GachaDeco2x2": "Die massive fleischfressende Pflanze hat endlich genug und das Fatal Flora Trap-Event ist zu Ende. Deine mutigen Bemühungen, sie mit Soldatenkeksen zu füttern, sind nicht unbemerkt geblieben, und die Belohnungen, die du verdient hast, werden bald deine sein.",
     "gachaPull_milestone_GachaDeco2x2": "Futter",
     "gachaPull_milestone_tooltip_amount_GachaDeco2x2": "{0}/{1} Futter",
@@ -12447,16 +12451,27 @@
     "effect_group_7_19_passive": "Holzproduktionsbonus",
     "effect_group_7_1_active": "+{0}% Königreich-Ressourcenproduktion",
     "effect_group_7_1_passive": "Produktionsbonus für Königreich-Ressourcen",
-    "event_rewards_heade_GachaDeco2x2": "Event-Rangbelohnungen",
+    "event_rewards_header": "Event-Rangbelohnungen",
     "milestone_reward": "Meilenstein abgeschlossen! Sie erhalten folgende Belohnungen:",
     "capReachedRanking_DonationEvent": "{0} Spenden erhöhen jetzt ausschließlich dein Ranking.",
     "dialog_startDonationEvent_desc2": "Gebäude gibt es in verschiedenen Kategorien mit eigenen Belohnungen. Steigern Sie jede Belohnung aus jeder Kategorie unabhängig. Je mehr Punkte, desto besser die Belohnungen. Punkte und das Kaiserliche Patronat werden am Ende der Veranstaltung zurückgesetzt.",
-    "dialog_startDonationEvent_desc3": "Das neue globale Ranking vereint Spieler auf allen Servern und testet ultimative Kraft und Geschicklichkeit. Kämpfe um Belohnungen basierend auf deinem Rang – je schneller du beiträgst, desto höher wirst du aufsteigen!",
     "rankingGlobal": "Welt-Rangliste",
-    "ranking_description_DonationEvent": "Tragen Sie Ressourcen bei, um wertvolle Belohnungen zu verdienen! Das globale Rangsystem verfolgt Ihren Fortschritt und bietet Belohnungen für Erfolge basierend auf Ihrem Rang. Nach Ende der Veranstaltung fordern Sie Ihre Belohnungen im Belohnungszentrum an.",
     "filter_decoType_onlyRelics": "Reliktgebäude",
     "DecorationStorehouse_name": "Dekorationslager",
-    "filter_decoType_onlyLocals": "Lokale Gebäude"
+    "filter_decoType_onlyLocals": "Lokale Gebäude",
+    "ranking_description_DonationEvent": "Tragen Sie zur Verdienste von Belohnungen bei! Das globale Ranking verfolgt Ihren Fortschritt – je schneller Sie punkten, desto höher sind Sie eingestuft. Fordern Sie Belohnungen im Belohnungszentrum an, wenn die Veranstaltung endet.",
+    "DecoDistrict2x2_notbuilt": "Der Garten der tödlichen Flora ist noch nicht gebaut.",
+    "dialog_startDonationEvent_desc4": "Das neue globale Ranking vereint Spieler von allen Servern und stellt ultimative Kraft und Geschicklichkeit auf die Probe. Kämpfen Sie um Belohnungen basierend auf Ihrem Rang. Je schneller Sie Punkte sammeln, desto höher werden Sie eingestuft. Selbst wenn andere Spieler die gleiche Punktzahl erreichen, werden diejenigen, die schneller beitragen, höher eingestuft!",
+    "dialog_privateBestsellerShop_advent_tooltip": "Advent Angebote",
+    "dialog_chestOffer_desc_advent": "Entdecke die Feiertagsschätze mit der Adventtruhe!",
+    "dialog_chestOffer_title_advent": "Adventskiste",
+    "dialog_finish": "Abgeschlossen",
+    "dialog_startDonationEvent_desc3": "Der Kaiser führte die Kaiserliche Patronage-Charta ein und beauftragte den Architekten, die Materialien, die Sie im Überfluss haben, zu verarbeiten. Am Ende der Veranstaltung wird die gesamte Kaiserliche Patronage-Charta zurückgesetzt.",
+    "rewardReceived": "Belohnung erhalten!",
+    "dialog_event_announcement_description_126": "Im Tödlichen Flora Garten ist eine riesige fleischfressende Pflanze aufgeblüht und hat Appetit auf deine Soldaten! Deine Stadtbewohner haben Soldatenkekse gebacken, um sie anzulocken. In der Veranstaltung Tödliche Pflanzenfalle füttere die Pflanze, um Belohnungen wie Tödliche Flora Dekorationen zu verdienen, die die öffentliche Ordnung verbessern und Effekte im Dekorationsbezirk hinzufügen. Tritt gegen andere an – sichere dir die Beute!",
+    "dialog_event_announcement_header_126": "Tödliche Pflanzenfalle",
+    "dialog_title_gachadeco2x2": "Tödliche Pflanzenfalle",
+    "help_deco_gacha": "Eine massive fleischfressende Pflanze hat sich vor dem &lt;b&gt;Fatal Flora Garden&lt;/b&gt; festgesetzt, und es scheint, als hätte sie einen Geschmack für deine Soldaten entwickelt! Aber fürchte dich nicht - deine einfallsreichen Stadtbewohner haben einen Snack kreiert, dem die Pflanze einfach nicht widerstehen kann. Wenn du ihr &lt;b&gt;Soldatenkekse&lt;/b&gt; fütterst, wirst du großzügig belohnt.\n\n&lt;b&gt;Die Pflanze füttern:&lt;/b&gt;\nJede Fütterung bringt dir Belohnungen - die begehrten Fatal Flora-Dekorationen. Diese Dekorationen haben nicht nur einen hohen Wert für die öffentliche Ordnung, sondern können auch zusätzliche Effekte für dein Königreich gewähren! Fatal Flora-Dekorationen können im Dekorationsbezirk des Fatal Flora Gardens platziert werden, was sowohl den PO- als auch den Machtwert des Bezirks selbst erhöht.\n&lt;b&gt;Ranglisten und Level:&lt;/b&gt;\nEin Rankingsystem wird deinen Fortschritt verfolgen und Leistungsbelohnungen basierend auf deinem Rang anbieten. Die Veranstaltung umfasst auch ein System mit mehreren Leveln. Wenn du durch die Level fortschreitest, verbessert sich die Chance, die beste Fatal Flora-Dekoration zu erhalten."
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% Reisetempo der Armee bei Eroberungen",
@@ -13741,7 +13756,6 @@
     "effect_group_6_9_active_malus": "-{0}% im Kampf verdiente Ruhmpunkte",
     "effect_group_6_9_passive": "Bonus für im Kampf verdiente Ruhmpunkte",
     "effect_group_8_4_active": "+{0} Truppenkapazität beim Verteidigen des Innenhofs",
-    "effect_group_8_5_active": "+{0} Kapazität der Unterstützungstruppen der Allianz beim Verteidigen des Innenhofs",
     "ci_effect_defenseUnitAmountWall": "+{0}% zur Truppenstärke bei der Verteidigung der Mauer",
     "ci_effect_recruitmentSpeedBoostAll": "+{0}% Rekrutierungsgeschwindigkeit",
     "ci_effect_craftingQueueProductionBoost_2_tt": "Produktionsbonus des Werkzeugschmieds:",
@@ -13766,7 +13780,15 @@
     "webshop_EliteTonnelonValue_desc": "Reduziert den Schutz der Burgmauer um -{0}% und erhöht die erhaltenen Ruhmpunkte um {1}%",
     "webshop_InvaderMaskValue_desc": "Reduziert die Stärke der Fernverteidiger um -{0} und erhöht die erhaltenen Ruhmpunkte um {1}%. Kann nur gegen ausländische Herren oder Blutkrähen verwendet werden.",
     "webshop_LadderoftheShogunValue_desc": "Reduziert den Wandschutz des Lagers um -{0}% und erhöht die gestohlenen Samurai-Marken um {1}%. Kann nur gegen Samurai-Lager verwendet werden.",
-    "webshop_NomadTokenChestValue_desc": "Erhöht die Anzahl der Wutpunkte, die beim Angreifen von Khan-Lagern um {0}% verdient werden."
+    "webshop_NomadTokenChestValue_desc": "Erhöht die Menge an Khantafeln, die um {0}% geplündert werden.",
+    "effect_description_honorBonus": "+{0}% Ehrenpunkte im Kampf verdient",
+    "effect_description_publicOrderBonusMain": "Erhöht die öffentliche Ordnung in deiner Hauptburg um +{0}",
+    "effect_description_toolProductionSpeedBoostAll": "+{0}% Werkzeugproduktionsgeschwindigkeit für alle Werkzeuge",
+    "effect_description_transportTaxDecreaseBoostGreen": "-{0}% Transportkosten für Ressourcen: Das Große Imperium",
+    "effect_description_transportTaxDecreaseBoostIce": "-{0}% Transportkosten für Ressourcen: Der Immerwinter-Gletscher",
+    "effect_description_transportTaxDecreaseBoostIsland": "-{0}% Transportkosten für Ressourcen: Die Sturminseln",
+    "effect_description_transportTaxDecreaseBoostSand": "-{0}% Transportkosten für Ressourcen: Brennende Sande",
+    "effect_description_transportTaxDecreaseBoostVulcano": "-{0}% Ressourcen Transportkosten: Die Feuergipfel"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Held",
@@ -17294,8 +17316,8 @@
     "equipment_unique_1102_desc": "Hat einen kleinen Helden durch ein Höllenlabyrinth geleitet. Verwandelt Eure Armee in eine Gruppe von Spatzenkavallerie.",
     "equipment_unique_1103": "Wappen des Spatzenprinzen",
     "equipment_unique_1103_desc": "Hat einen kleinen Helden durch ein Höllenlabyrinth geleitet. Verwandelt Eure Armee in eine Gruppe von Spatzenkavallerie.",
-    "equipment_unique_1104": "Kaisertulpe",
-    "equipment_unique_1104_desc": "Ein Symbol der Erneuerung, der Wiedergeburt und der Opferung von Helden. Verwandelt Eure Burg in ein Reich der Tulpen.",
+    "equipment_unique_1104": "Erntefest-Truthahn",
+    "equipment_unique_1104_desc": "Diese wilden Vögel aus jenseits des Horizonts dienen als imperiale Stoßtruppen und werden bei imperialen Banketten serviert. Verwandelt deine Armee in eine Gruppe ladender Gobbler.",
     "equipment_unique_1105": "Kaisertulpe",
     "equipment_unique_1105_desc": "Ein Symbol der Erneuerung, der Wiedergeburt und der Opferung von Helden. Verwandelt Eure Burg in ein Reich der Tulpen.",
     "equipment_unique_1106": "Kaisertulpe",
@@ -17605,7 +17627,21 @@
     "equipment_unique_1097_desc": "Verwandelt Eure Armee in eine Zombiehorde, die langsam aber sicher die Hirne Eurer Feinde fressen wird.",
     "equip_effect_description_attackBoostYardShapeshifter": "Dieser Gegenstand scheint seine Kräfte verloren zu haben... (Vermächtnis)",
     "equip_effect_description_attackUnitAmountFlankShapeshifter": "Dieser Gegenstand scheint seine Kräfte verloren zu haben... (Vermächtnis)",
-    "equip_effect_description_charmBoost": "Dieser Gegenstand scheint seine Kräfte verloren zu haben... (Vermächtnis)"
+    "equip_effect_description_charmBoost": "Dieser Gegenstand scheint seine Kräfte verloren zu haben... (Vermächtnis)",
+    "equipment_unique_1199_desc": "Der Kaiser selbst gewährt diese wertvollen Eier seinen treuesten Vasallen. Verwandelt dein Schloss in eine wohlhabende Gobbler-Burg.",
+    "equipment_unique_1098_desc": "Diese wilden Vögel aus jenseits des Horizonts dienen als imperiale Stoßtruppen und werden bei imperialen Banketten serviert. Verwandelt deine Armee in eine Gruppe ladender Gobbler.",
+    "equipment_unique_1099_desc": "Diese wilden Vögel aus jenseits des Horizonts dienen als imperiale Stoßtruppen und werden bei imperialen Banketten serviert. Verwandelt deine Armee in eine Gruppe ladender Gobbler.",
+    "equipment_unique_1098": "Erntefest-Truthahn",
+    "equipment_unique_1099": "Erntefest-Truthahn",
+    "equipment_unique_1199": "Herbstei",
+    "glacialamazonarcher_name": "Gletscher-Amazonenbogenschütze",
+    "glacialamazonguardian_name": "Gletscheramazonenwächter",
+    "glacialamazonhuntress_name": "Gletscher-Amazonenjägerin",
+    "glacialamazonwarrior_name": "Gletscher Amazonenkrieger",
+    "ChristmasArcher_name": "Weihnachtsbogenschütze",
+    "ChristmasGuardian_name": "Weihnachtswächter",
+    "ChristmasHuntress_name": "Weihnachtsjägerin",
+    "ChristmasWarrior_name": "Weihnachtskrieger"
   },
   "generic": {
     "activity": "Aktivität",
@@ -19655,7 +19691,8 @@
     "yourRankingPlaceholder": "Ihr Rang: {0}",
     "yourRanking": "Eure Platzierung",
     "refresh": "Aktualisieren",
-    "rewardHubCollect": "Fordern Sie Ihre Belohnungen im Belohnungshub ein!"
+    "rewardHubCollect": "Fordern Sie Ihre Belohnungen im Belohnungshub ein!",
+    "eyecatcher_valuable": "Wertvoll!"
   },
   "help": {
     "help_location": "Hier seht Ihr eine globale Übersicht über die wichtigen \nBesitztümer Eurer Burg und aller Außenposten.",
@@ -24199,7 +24236,15 @@
     "GlacialAmazonHuntress_short_name": "Eisige Amazonenjägerin",
     "GlacialAmazonWarrior_desc": "Durch brutale Winter gehärtet, verkörpern diese Krieger einen wilden Geist und führen kristallgeschliffene Speere mit unermüdlicher Präzision gegen ihre Feinde.",
     "GlacialAmazonWarrior_short_info": "Extrem mächtiger Nahkampf-Angreifer",
-    "GlacialAmazonWarrior_short_name": "Gletscher-Amazone-Kriegerin"
+    "GlacialAmazonWarrior_short_name": "Gletscher-Amazone-Kriegerin",
+    "ChristmasArcher_desc": "Diese Bogenschützen, gekleidet in festliche Kleidung, schlagen mit eisigen, verzauberten Pfeilen zu, die die Feinde bis ins Mark durchfrieren und sowohl Feiertagsfreude als auch kalte Rache ins Schlachtfeld bringen.",
+    "ChristmasArcher_short_info": "Extrem leistungsstarker Fernkampfangreifer",
+    "ChristmasGuardian_desc": "Hohe Beschützer mit Zuckerstangen-Stäben in der Hand, diese Wächter verteidigen ihre Verbündeten und bringen festliche Freude auf das Schlachtfeld.",
+    "ChristmasGuardian_short_info": "Extrem mächtiger Nahkampf-Verteidiger",
+    "ChristmasHuntress_desc": "Diese wachsamen Jägerinnen stehen in den Winterwäldern Wacht, ihre mit Stechpalme geschmückten Pfeile bereit, um jeden abzuwehren, der ihr Reich bedroht.",
+    "ChristmasHuntress_short_info": "Extrem mächtiger Fernkampf-Verteidiger",
+    "ChristmasWarrior_desc": "Bewaffnet mit pfefferminzstreifen Lanzen, stürmen diese wütenden Krieger mit unaufhaltsamem Feiertagsgeist voran und verbreiten Angst unter allen, die sich ihnen in den Weg stellen.",
+    "ChristmasWarrior_short_info": "Extrem mächtiger Nahkampfangreifer"
   },
   "generic_flash": {
     "Footer": {

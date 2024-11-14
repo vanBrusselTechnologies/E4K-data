@@ -30,9 +30,6 @@ export interface Data {
     buildings: Building[];
     catalysts: Catalyst[];
     characters: Character[];
-    chargesCampEffects: ChargesCampEffect[];
-    chargesCamps: ChargesCamp[];
-    chargesPVPEffects: ChargesPVPEffect[];
     collectorEventOptions: CollectorEventOption[];
     collectorEventRewards: CollectorEventReward[];
     constructionItemDisassemblingTombolas: ConstructionItemDisassemblingTombola[];
@@ -100,6 +97,7 @@ export interface Data {
     fusionForges: FusionForge[];
     fusionShops: FusionShop[];
     fusionSystems: FusionSystem[];
+    gachaEvents: GachaEvent[];
     gemColors: GemColor[];
     gemlevels: GemLevel[];
     gems: Gem[];
@@ -733,6 +731,7 @@ export interface Building {
     "sellFloraToken"?: number;
     "sellLegendaryMaterial"?: number;
     "sellLegendaryToken"?: number;
+    "sellSoldierBiscuit"?: number;
     "server"?: number;
     "shopCategory"?: string;
     "shownTravelBonus"?: number;
@@ -791,34 +790,6 @@ export interface Character {
     "spinRarities": string;
     "tombolas": string;
     "unluckyTotalPoints": number;
-}
-
-export interface ChargesCampEffect {
-    "chargeCampEffectID": number;
-    "effectID": number;
-    "levelIncrease": number;
-    "maxValue": number;
-}
-
-export interface ChargesCamp {
-    "addTonic": number;
-    "coolDown": number;
-    "countVictory": number;
-    "defStrength": number;
-    "defStrengthIncrease": number;
-    "defenceUnits": string;
-    "gateBonus": number;
-    "lordID": number;
-    "skipCosts": number;
-    "tonicDiff": number;
-    "unitWallCount": number;
-    "wallBonus": number;
-}
-
-export interface ChargesPVPEffect {
-    "chargePVPEffectID": number;
-    "effectID": number;
-    "effectIncrease": number;
 }
 
 export interface CollectorEventOption {
@@ -1683,6 +1654,24 @@ export interface FusionSystem {
     "skipRechargeHardCurrencyCostFactor": number;
 }
 
+export interface GachaEvent {
+    "comment1": string;
+    "comment2": string;
+    "costSoldierBiscuit": number;
+    "eventID": number;
+    "freeChestResetTime": number;
+    "freeChestRewardID": number;
+    "gachaID": number;
+    "gachaLevel": number;
+    "leagueTypeIDs": number;
+    "lootBoxTombolaID": number;
+    "maxPulls"?: number;
+    "minPulls": number;
+    "multiPullMax": number;
+    "rewardSetID": number;
+    "tombolaSpinsAmount": number;
+}
+
 export interface GemColor {
     "colorCode": string;
     "crossplayID": number;
@@ -2414,6 +2403,7 @@ export interface Package {
     "addShapeShifterCharmBoosterKey"?: number;
     "addShogunPointBoosterKey"?: number;
     "addSilverToken"?: number;
+    "addSoldierBiscuit"?: number;
     "addSoulSuckerBoosterKey"?: number;
     "addStatuetteBooster"?: number;
     "addTeaTimeBoosterKey"?: number;
@@ -2988,6 +2978,7 @@ export interface Reward {
     "addShardSasaki"?: number;
     "addShardToril"?: number;
     "addSilverToken"?: number;
+    "addSoldierBiscuit"?: number;
     "addSpiritDoubloon"?: number;
     "addSpringLTPEToken"?: number;
     "addStPatrickLTPEToken"?: number;

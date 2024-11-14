@@ -2032,7 +2032,11 @@
     "deco_fataltinybitebud_name": "致命的小咬",
     "deco_ExaltedRedFrostFountain_name": "崇高的红霜喷泉",
     "deco_ExaltedGreenFrostFountain_name": "崇高的绿色冰泉",
-    "deco_ExaltedPurpleFrostFountain_name": "崇高的紫色冰霜喷泉"
+    "deco_ExaltedPurpleFrostFountain_name": "崇高的紫色冰霜喷泉",
+    "deco_carnivorousPlantT1_name": "致命植物陷阱",
+    "deco_ExaltedGreenChristmasFountain_name": "崇高的绿色圣诞喷泉",
+    "deco_ExaltedPurpleChristmasFountain_name": "崇高的紫色圣诞喷泉",
+    "deco_ExaltedRedChristmasFountain_name": "崇高的红色圣诞喷泉"
   },
   "dialogs": {
     "dialog_festival_desc": "用食物请您的市民大餐一顿吧！宴会持续期间，您所有城堡的招募速度会大大提高。宴会越丰盛，效果越好。",
@@ -12270,9 +12274,9 @@
     "webshop_tokenbundle_small_name": "小型代币包",
     "event_end_header_GachaDeco2x2": "致命植物陷阱",
     "event_announcement_header_126": "致命植物陷阱",
-    "helpPopup_GachaDeco2x2": "一株巨大的食肉植物在&lt;b&gt;致命植物花园&lt;/b&gt;前扎根，似乎对你的士兵产生了兴趣！但不用担心——你聪明的城镇居民们制作了一个植物根本无法抗拒的小吃。通过喂养&lt;b&gt;士兵饼干&lt;/b&gt;，你将获得丰厚的奖励。&lt;/br&gt;&lt;/br&gt; &lt;b&gt;喂养植物：&lt;/b&gt;&lt;/br&gt;每次喂养都会给你带来奖励——备受追捧的致命植物装饰。这些装饰不仅因其大小具有相当的公共秩序价值，还能为你的王国提供额外效果！致命植物装饰可以放置在致命植物花园装饰区，提升该区域的PO和力量值。&lt;/br&gt;&lt;b&gt;排名和等级：&lt;/b&gt;&lt;/br&gt;一个排名系统将追踪你的进度，并根据你的排名提供成就奖励。该事件还包括一个多级系统。随着你在等级中的进步，获得最佳致命植物装饰的机会将增加。",
+    "helpPopup_GachaDeco2x2": "一株巨大的食肉植物在&lt;b&gt;致命植物花园&lt;/b&gt;前扎根，似乎对你的士兵产生了兴趣！但请不要担心——你那机智的镇民们创造了一种植物根本无法抗拒的小吃。通过喂食&lt;b&gt;士兵饼干&lt;/b&gt;，你将获得丰厚的奖励。\n\n&lt;b&gt;喂养植物：&lt;/b&gt;\n每次喂养都会给你带来奖励——备受追捧的致命植物装饰。这些装饰不仅因为其尺寸而拥有丰厚的公共秩序价值，还可以为你的王国带来额外效果！致命植物装饰可以放置在致命植物花园装饰区，提升该区的公共秩序和实力价值。\n&lt;b&gt;排名与等级：&lt;/b&gt;\n排名系统将追踪你的进展，根据你的排名提供成就奖励。活动还包括多个等级的系统。当你在等级中进步时，获得最佳致命植物装饰的机会将会提升。",
     "tooltip_gachaName_GachaDeco2x2": "致命植物陷阱",
-    "event_announcement_description_126": "一株巨大的食肉植物在致命植物花园前扎根，似乎已经对你的士兵产生了兴趣！但请不要害怕 - 你的聪明市民们创造了一种植物根本无法抗拒的小吃。通过喂它士兵饼干，你将获得丰厚的奖励。在致命植物陷阱事件期间，喂养植物以收集奖励，例如致命植物装饰，这些装饰可以提升公共秩序并在你的致命植物装饰区中提供特殊效果。此外，根据你与其他玩家的表现相比，获得排名奖励。确保参与并享受奖励！",
+    "event_announcement_description_126": "在致命植物园中，一种巨大的食肉植物已经生长出来，正饥渴地等待着你的士兵！值得庆幸的是，镇民们制作了士兵饼干来引诱它。在致命植物陷阱活动中，喂养植物即可赚取奖励，比如提升公共秩序的致命植物装饰品，并在你的装饰区添加效果。与其他人竞争排名奖励——快来加入，享受战利品！",
     "event_end_description_GachaDeco2x2": "巨大的食肉植物终于吃饱了，致命植物陷阱活动也结束了。你用士兵饼干喂养它的勇敢努力没有被忽视，你获得的奖励很快将属于你。",
     "gachaPull_milestone_GachaDeco2x2": "饲料",
     "gachaPull_milestone_tooltip_amount_GachaDeco2x2": "{0}/{1} 饲料",
@@ -12447,16 +12451,27 @@
     "effect_group_7_19_passive": "木材生产奖励",
     "effect_group_7_1_active": "+{0}% 王国资源生产",
     "effect_group_7_1_passive": "王国资源生产奖励",
-    "event_rewards_heade_GachaDeco2x2": "活动排名奖励",
+    "event_rewards_header": "活动排名奖励",
     "milestone_reward": "里程碑已完成！您将获得以下奖励：",
     "capReachedRanking_DonationEvent": "{0} 捐赠现在仅提高您的排名。",
     "dialog_startDonationEvent_desc2": "建筑物分为不同类别，各自有其奖励。独立提升每个类别的奖励。积分越多，奖励越好。事件结束时，积分和帝国赞助章程将被重置。",
-    "dialog_startDonationEvent_desc3": "新的全球排名将所有服务器上的玩家团结在一起，测试终极力量和技能。竞争以根据您的排名索取奖励——您贡献得越快，您就会攀升得越高！",
     "rankingGlobal": "全球排名",
-    "ranking_description_DonationEvent": "贡献资源以获得有价值的奖励！全球排名系统跟踪您的进度，根据您的排名提供成就奖励。活动结束后，请在奖励中心领取您的奖励。",
     "filter_decoType_onlyRelics": "遗迹建筑",
     "DecorationStorehouse_name": "装饰品仓库",
-    "filter_decoType_onlyLocals": "当地建筑"
+    "filter_decoType_onlyLocals": "当地建筑",
+    "ranking_description_DonationEvent": "贡献以获得奖励！全球排名跟踪您的进度——您得分越快，排名就越高。活动结束时在奖励中心领取奖励。",
+    "DecoDistrict2x2_notbuilt": "致命植物花园尚未建成。",
+    "dialog_startDonationEvent_desc4": "新的全球排名将所有服务器的玩家联合在一起，考验终极力量和技能。根据你的排名竞争奖励。你得分越快，排名越高。即使其他玩家达到相同的分数，贡献更快的玩家也会排名更高！",
+    "dialog_privateBestsellerShop_advent_tooltip": "降临节优惠",
+    "dialog_chestOffer_desc_advent": "用降临节宝箱打开节日宝藏！",
+    "dialog_chestOffer_title_advent": "降临节宝箱",
+    "dialog_finish": "已完成！",
+    "dialog_startDonationEvent_desc3": "皇帝引入了帝国赞助章程，委托建筑师处理您丰富拥有的材料。在活动结束时，所有帝国赞助章程将被重置。",
+    "rewardReceived": "奖励已收到！",
+    "dialog_event_announcement_description_126": "在致命植物园中，一种巨大的食肉植物已经生长出来，正饥渴地等待着你的士兵！值得庆幸的是，镇民们制作了士兵饼干来引诱它。在致命植物陷阱活动中，喂养植物即可赚取奖励，比如提升公共秩序的致命植物装饰品，并在你的装饰区添加效果。与其他人竞争排名奖励——快来加入，享受战利品！",
+    "dialog_event_announcement_header_126": "致命植物陷阱",
+    "dialog_title_gachadeco2x2": "致命植物陷阱",
+    "help_deco_gacha": "一株巨大的食肉植物在&lt;b&gt;致命植物花园&lt;/b&gt;前扎根，似乎对你的士兵产生了兴趣！但请不要担心——你那机智的镇民们创造了一种植物根本无法抗拒的小吃。通过喂食&lt;b&gt;士兵饼干&lt;/b&gt;，你将获得丰厚的奖励。\n\n&lt;b&gt;喂养植物：&lt;/b&gt;\n每次喂养都会给你带来奖励——备受追捧的致命植物装饰。这些装饰不仅因为其尺寸而拥有丰厚的公共秩序价值，还可以为你的王国带来额外效果！致命植物装饰可以放置在致命植物花园装饰区，提升该区的公共秩序和实力价值。\n&lt;b&gt;排名与等级：&lt;/b&gt;\n排名系统将追踪你的进展，根据你的排名提供成就奖励。活动还包括多个等级的系统。当你在等级中进步时，获得最佳致命植物装饰的机会将会提升。"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% 征服期间的军队行军速度",
@@ -13741,7 +13756,6 @@
     "effect_group_6_9_active_malus": "-{0}% 战斗中获得的荣耀值",
     "effect_group_6_9_passive": "战斗中赚取额外荣耀值加成",
     "effect_group_8_4_active": "防御庭院时+{0}兵力容量",
-    "effect_group_8_5_active": "+{0} 联盟支持部队在防御庭院时的容量",
     "ci_effect_defenseUnitAmountWall": "+{0}% 增加墙防的部队容量",
     "ci_effect_recruitmentSpeedBoostAll": "+{0}% 招募速度",
     "ci_effect_craftingQueueProductionBoost_2_tt": "工具匠的生产奖金：",
@@ -13766,7 +13780,15 @@
     "webshop_EliteTonnelonValue_desc": "将城墙保护降低-{0}%，并将获得的荣耀点增加{1}%。",
     "webshop_InvaderMaskValue_desc": "减少远程防御者的力量-{0}，并增加获得的荣耀点数{1}%。仅可用于对抗外国领主或血鸦。",
     "webshop_LadderoftheShogunValue_desc": "减少营地墙壁保护 -{0}%，增加被劫掠的武士代币 {1}%。只能对武士营地使用。",
-    "webshop_NomadTokenChestValue_desc": "攻击可汗营地时获得的愤怒点数增加{0}%。"
+    "webshop_NomadTokenChestValue_desc": "增加被掠夺的可汗碑文数量{0}%。",
+    "effect_description_honorBonus": "+{0}% 在战斗中获得的荣誉点数",
+    "effect_description_publicOrderBonusMain": "在你的主城堡内提高公共秩序 +{0}",
+    "effect_description_toolProductionSpeedBoostAll": "+{0}% 所有工具的生产速度",
+    "effect_description_transportTaxDecreaseBoostGreen": "-{0}% 资源运输成本：大帝国",
+    "effect_description_transportTaxDecreaseBoostIce": "-{0}% 资源运输成本：永冬冰川",
+    "effect_description_transportTaxDecreaseBoostIsland": "-{0}% 资源运输成本：风暴岛屿",
+    "effect_description_transportTaxDecreaseBoostSand": "-{0}% 资源运输成本：燃烧的沙",
+    "effect_description_transportTaxDecreaseBoostVulcano": "-{0}% 资源运输成本：火焰山"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "英雄",
@@ -17294,8 +17316,8 @@
     "equipment_unique_1102_desc": "引领一名小英雄穿过地狱迷宫。将您的军队变成一队麻雀骑兵。",
     "equipment_unique_1103": "麻雀王子的纹饰",
     "equipment_unique_1103_desc": "引领一名小英雄穿过地狱迷宫。将您的军队变成一队麻雀骑兵。",
-    "equipment_unique_1104": "帝国郁金香",
-    "equipment_unique_1104_desc": "英雄再生、重生和牺牲的象征。将您的城堡变成一个郁金香国度。",
+    "equipment_unique_1104": "丰收盛宴火鸡",
+    "equipment_unique_1104_desc": "这些来自超越地平线的凶猛鸟类充当帝国突击队，并在帝国宴会上提供。将你的军队转变为一群冲锋的火鸡。",
     "equipment_unique_1105": "帝国郁金香",
     "equipment_unique_1105_desc": "英雄再生、重生和牺牲的象征。将您的城堡变成一个郁金香国度。",
     "equipment_unique_1106": "帝国郁金香",
@@ -17605,7 +17627,21 @@
     "equipment_unique_1097_desc": "将您的军队变成一群僵尸，缓慢而稳定地吞食敌人的大脑。",
     "equip_effect_description_attackBoostYardShapeshifter": "这个物品似乎失去了它的力量...（遗产）",
     "equip_effect_description_attackUnitAmountFlankShapeshifter": "这个物品似乎失去了它的力量...（遗产）",
-    "equip_effect_description_charmBoost": "这个物品似乎失去了它的力量...（遗产）"
+    "equip_effect_description_charmBoost": "这个物品似乎失去了它的力量...（遗产）",
+    "equipment_unique_1199_desc": "皇帝亲自将这些珍贵的蛋赠予他最忠诚的附庸。将你的城堡变成一个繁荣的火鸡据点。",
+    "equipment_unique_1098_desc": "这些来自超越地平线的凶猛鸟类充当帝国突击队，并在帝国宴会上提供。将你的军队转变为一群冲锋的火鸡。",
+    "equipment_unique_1099_desc": "这些来自超越地平线的凶猛鸟类充当帝国突击队，并在帝国宴会上提供。将你的军队转变为一群冲锋的火鸡。",
+    "equipment_unique_1098": "丰收节火鸡",
+    "equipment_unique_1099": "丰收节火鸡",
+    "equipment_unique_1199": "秋季蛋",
+    "glacialamazonarcher_name": "冰川亚马逊弓箭手",
+    "glacialamazonguardian_name": "冰川亚马逊守护者",
+    "glacialamazonhuntress_name": "冰川亚马逊猎手",
+    "glacialamazonwarrior_name": "冰川亚马逊战士",
+    "ChristmasArcher_name": "圣诞弓箭手",
+    "ChristmasGuardian_name": "圣诞守护者",
+    "ChristmasHuntress_name": "圣诞猎手",
+    "ChristmasWarrior_name": "圣诞战士"
   },
   "generic": {
     "activity": "活动",
@@ -19655,7 +19691,8 @@
     "yourRankingPlaceholder": "您的排名: {0}",
     "yourRanking": "您的排名",
     "refresh": "刷新",
-    "rewardHubCollect": "在奖励中心领取您的奖励！"
+    "rewardHubCollect": "在奖励中心领取您的奖励！",
+    "eyecatcher_valuable": "有价值！"
   },
   "help": {
     "help_location": "您可以在这里看到您城堡和所有前哨的重要信息。",
@@ -24199,7 +24236,15 @@
     "GlacialAmazonHuntress_short_name": "冰封亚马逊女猎手",
     "GlacialAmazonWarrior_desc": "被残酷的冬天磨炼出来的这些战士体现了凶猛的精神，手持水晶边缘的矛，以无情的精确度对付敌人。",
     "GlacialAmazonWarrior_short_info": "极其强大的近战攻击者",
-    "GlacialAmazonWarrior_short_name": "冰川亚马逊战士"
+    "GlacialAmazonWarrior_short_name": "冰川亚马逊战士",
+    "ChristmasArcher_desc": "这些穿着节日服装的弓箭手，使用冰冷的魔法箭矢攻击，使敌人冷到骨髓，给战场带来节日的快乐和冰冷的复仇。",
+    "ChristmasArcher_short_info": "极其强大的远程攻击者",
+    "ChristmasGuardian_desc": "高大的守护者手持糖果拐杖的钉锤，这些守卫保护他们的盟友，并为战场带来节日的喜悦。",
+    "ChristmasGuardian_short_info": "极其强大的近战防御者",
+    "ChristmasHuntress_desc": "这些警觉的女猎手在冬季的森林中守卫，装饰着冬青的箭矢随时准备击退任何威胁她们领土的人。",
+    "ChristmasHuntress_short_info": "极其强大的远程防御者",
+    "ChristmasWarrior_desc": "手持薄荷条纹长矛，这些凶猛的战士们以不可阻挡的节日精神向前冲锋，让所有挡在他们面前的人心生恐惧。",
+    "ChristmasWarrior_short_info": "极其强大的近战攻击者"
   },
   "generic_flash": {
     "Footer": {

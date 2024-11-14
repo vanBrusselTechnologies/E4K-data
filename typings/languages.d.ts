@@ -1370,14 +1370,17 @@ export interface Language {
         "deco_EasterTower_name": string;
         "deco_EggTree_name": string;
         "deco_ElephantMonument_name": string;
+        "deco_ExaltedGreenChristmasFountain_name": string;
         "deco_ExaltedGreenFrostFountain_name": string;
         "deco_ExaltedGreenLavaShrineofDuality_name": string;
         "deco_ExaltedGreenOktoberfestGarden_name": string;
         "deco_ExaltedGreenWaterShrineofDuality_name": string;
+        "deco_ExaltedPurpleChristmasFountain_name": string;
         "deco_ExaltedPurpleFrostFountain_name": string;
         "deco_ExaltedPurpleLavaShrineofDuality_name": string;
         "deco_ExaltedPurpleOktoberfestGarden_name": string;
         "deco_ExaltedPurpleWaterShrineofDuality_name": string;
+        "deco_ExaltedRedChristmasFountain_name": string;
         "deco_ExaltedRedFrostFountain_name": string;
         "deco_ExaltedRedLavaShrineofDuality_name": string;
         "deco_ExaltedRedOktoberfestGarden_name": string;
@@ -1511,6 +1514,7 @@ export interface Language {
         "deco_blueSalesFountain_name": string;
         "deco_cage1_name": string;
         "deco_cage2_name": string;
+        "deco_carnivorousPlantT1_name": string;
         "deco_carriagegood_name": string;
         "deco_celebrationOfSpring_name": string;
         "deco_chaliceOfTheHattrickHero_name": string;
@@ -2083,6 +2087,7 @@ export interface Language {
         "Bookmarks_editBookmark_header": string;
         "Bookmarks_setBookmark_header": string;
         "Btn_island_travel": string;
+        "DecoDistrict2x2_notbuilt": string;
         "DecorationStorehouse_name": string;
         "Dialog_ChangeApp_redirect": string;
         "OfficersSchool_name": string;
@@ -4061,6 +4066,7 @@ export interface Language {
         "dialog_chestOffer_desc_16": string;
         "dialog_chestOffer_desc_17": string;
         "dialog_chestOffer_desc_18": string;
+        "dialog_chestOffer_desc_advent": string;
         "dialog_chestOffer_desc_oktoberfest": string;
         "dialog_chestOffer_title_01": string;
         "dialog_chestOffer_title_02": string;
@@ -4080,6 +4086,7 @@ export interface Language {
         "dialog_chestOffer_title_16": string;
         "dialog_chestOffer_title_17": string;
         "dialog_chestOffer_title_18": string;
+        "dialog_chestOffer_title_advent": string;
         "dialog_chestOffer_title_oktoberfest": string;
         "dialog_chooseCastleConfirm_desc": string;
         "dialog_chooseCastle_island_desc": string;
@@ -4824,7 +4831,9 @@ export interface Language {
         "dialog_eventKing_speechBubble_done": string;
         "dialog_event_announcement_description_106": string;
         "dialog_event_announcement_description_123": string;
+        "dialog_event_announcement_description_126": string;
         "dialog_event_announcement_header_123": string;
+        "dialog_event_announcement_header_126": string;
         "dialog_eventdungeonWin_title": string;
         "dialog_eventdungeon_1_missionAccomplished_title": string;
         "dialog_eventdungeon_1_tip": string;
@@ -4986,6 +4995,7 @@ export interface Language {
         "dialog_filter_decoLocation_buildIn": string;
         "dialog_filter_decoLocation_stored": string;
         "dialog_filter_decoLocation_title": string;
+        "dialog_finish": string;
         "dialog_forgotpassword_email": string;
         "dialog_forwardMessage_addAll": string;
         "dialog_forwardMessage_addRecipient": string;
@@ -7460,6 +7470,7 @@ export interface Language {
         "dialog_primeday_tiers_rubyCounter": string;
         "dialog_primeday_worldcup_description": string;
         "dialog_primeday_worldcup_title": string;
+        "dialog_privateBestsellerShop_advent_tooltip": string;
         "dialog_privateBestsellerShop_bestsellerItem": string;
         "dialog_privateBestsellerShop_button": string;
         "dialog_privateBestsellerShop_desc": string;
@@ -8498,6 +8509,7 @@ export interface Language {
         "dialog_startDonationEvent_desc1": string;
         "dialog_startDonationEvent_desc2": string;
         "dialog_startDonationEvent_desc3": string;
+        "dialog_startDonationEvent_desc4": string;
         "dialog_startDonationEvent_join": string;
         "dialog_startDonationEvent_subtitle1": string;
         "dialog_startDonationEvent_subtitle2": string;
@@ -8827,6 +8839,7 @@ export interface Language {
         "dialog_titleUp_goToGallantryDialog": string;
         "dialog_titleUp_goToGloryDialog": string;
         "dialog_titleUp_reachedNewTitle": string;
+        "dialog_title_gachadeco2x2": string;
         "dialog_titles_displayedTitle": string;
         "dialog_titles_prefix": string;
         "dialog_titles_selectTitle": string;
@@ -9528,7 +9541,7 @@ export interface Language {
         "event_announcement_header_126": string;
         "event_end_description_GachaDeco2x2": string;
         "event_end_header_GachaDeco2x2": string;
-        "event_rewards_heade_GachaDeco2x2": string;
+        "event_rewards_header": string;
         "event_title_101": string;
         "event_title_102": string;
         "event_title_103": string;
@@ -10209,6 +10222,7 @@ export interface Language {
         "help_copyQueue_units": string;
         "help_crafting_kingdomToolsmith": string;
         "help_dailyQuests": string;
+        "help_deco_gacha": string;
         "help_defence_unitcomposition_courtyard": string;
         "help_equipment_inventory_relics": string;
         "help_gemColor_1": string;
@@ -11045,6 +11059,7 @@ export interface Language {
         "rewardPass_condition_durationSeasonEnd_desc": string;
         "rewardPass_condition_toNextPromotion_desc": string;
         "rewardPass_condition_topPromotion_desc": string;
+        "rewardReceived": string;
         "reward_activityreward_desc": string;
         "reward_activityreward_title": string;
         "rightFlank": string;
@@ -12702,6 +12717,7 @@ export interface Language {
         "effect_description_foodStorageTCI": string;
         "effect_description_hiddenSoldiersSpace": string;
         "effect_description_honeyProductionBoost": string;
+        "effect_description_honorBonus": string;
         "effect_description_killDefendingAnyTroopsYard": string;
         "effect_description_killDefendingMeleeTroopsYard": string;
         "effect_description_killDefendingRangedTroopsYard": string;
@@ -12713,9 +12729,16 @@ export interface Language {
         "effect_description_offensiveMeleeBonusTCI": string;
         "effect_description_offensiveRangeBonusCI": string;
         "effect_description_offensiveRangeBonusTCI": string;
+        "effect_description_publicOrderBonusMain": string;
         "effect_description_rangeBonusTCI": string;
         "effect_description_recruitmentSpeedBoostAll": string;
         "effect_description_spyCountBoost": string;
+        "effect_description_toolProductionSpeedBoostAll": string;
+        "effect_description_transportTaxDecreaseBoostGreen": string;
+        "effect_description_transportTaxDecreaseBoostIce": string;
+        "effect_description_transportTaxDecreaseBoostIsland": string;
+        "effect_description_transportTaxDecreaseBoostSand": string;
+        "effect_description_transportTaxDecreaseBoostVulcano": string;
         "effect_description_unboostedFoodProductionTCI": string;
         "effect_description_unitWallCountTCI": string;
         "effect_effectsTooltip_header_castellan": string;
@@ -12837,7 +12860,6 @@ export interface Language {
         "effect_group_6_9_active_malus": string;
         "effect_group_6_9_passive": string;
         "effect_group_8_4_active": string;
-        "effect_group_8_5_active": string;
         "effect_name_AttackBoostYardDecoCapped": string;
         "effect_name_CraftingQueueProductionBoost_4": string;
         "effect_name_allianceDefenseUnitAmountYardBonusCapped": string;
@@ -13791,6 +13813,10 @@ export interface Language {
         "webshop_subscription_effect_description_transportTaxDecreaseBoostVulcano_short": string;
     };
     "equipment_heroes_and_gems": {
+        "ChristmasArcher_name": string;
+        "ChristmasGuardian_name": string;
+        "ChristmasHuntress_name": string;
+        "ChristmasWarrior_name": string;
         "alienSamuraiAntiBanner_name": string;
         "alienSamuraiAntiBanner_short_info": string;
         "alienSamuraiAntiBundle_name": string;
@@ -14627,6 +14653,10 @@ export interface Language {
         "equipment_unique_1096_desc": string;
         "equipment_unique_1097": string;
         "equipment_unique_1097_desc": string;
+        "equipment_unique_1098": string;
+        "equipment_unique_1098_desc": string;
+        "equipment_unique_1099": string;
+        "equipment_unique_1099_desc": string;
         "equipment_unique_10_desc": string;
         "equipment_unique_11": string;
         "equipment_unique_1100": string;
@@ -14827,6 +14857,8 @@ export interface Language {
         "equipment_unique_1197_desc": string;
         "equipment_unique_1198": string;
         "equipment_unique_1198_desc": string;
+        "equipment_unique_1199": string;
+        "equipment_unique_1199_desc": string;
         "equipment_unique_11_desc": string;
         "equipment_unique_12": string;
         "equipment_unique_12_desc": string;
@@ -16629,6 +16661,10 @@ export interface Language {
         "giftPackage_827_desc": string;
         "giftPackage_828": string;
         "giftPackage_828_desc": string;
+        "glacialamazonarcher_name": string;
+        "glacialamazonguardian_name": string;
+        "glacialamazonhuntress_name": string;
+        "glacialamazonwarrior_name": string;
         "heavystone_name": string;
         "heavystone_short_info": string;
         "hero_generic_10": string;
@@ -18237,6 +18273,7 @@ export interface Language {
         "events_title": string;
         "extinguishFire_name": string;
         "extinguishFire_short_info": string;
+        "eyecatcher_valuable": string;
         "factionHighscore_points": string;
         "factionTower_position": string;
         "faction_camp": string;
@@ -23932,6 +23969,14 @@ export interface Language {
         "CaskMarksmann_desc": string;
         "CaskMarksmann_name": string;
         "CaskMarksmann_short_info": string;
+        "ChristmasArcher_desc": string;
+        "ChristmasArcher_short_info": string;
+        "ChristmasGuardian_desc": string;
+        "ChristmasGuardian_short_info": string;
+        "ChristmasHuntress_desc": string;
+        "ChristmasHuntress_short_info": string;
+        "ChristmasWarrior_desc": string;
+        "ChristmasWarrior_short_info": string;
         "ColossalNomadTabletChest_name": string;
         "ColossalNomadTabletChest_short_info": string;
         "ColossalSamuraiTokenChest_name": string;

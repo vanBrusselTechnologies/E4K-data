@@ -2032,7 +2032,11 @@
     "deco_fataltinybitebud_name": "致命的小咬",
     "deco_ExaltedRedFrostFountain_name": "崇高的紅霜噴泉",
     "deco_ExaltedGreenFrostFountain_name": "崇高的綠色冰泉",
-    "deco_ExaltedPurpleFrostFountain_name": "崇高的紫色冰霜噴泉"
+    "deco_ExaltedPurpleFrostFountain_name": "崇高的紫色冰霜噴泉",
+    "deco_carnivorousPlantT1_name": "致命植物陷阱",
+    "deco_ExaltedGreenChristmasFountain_name": "崇高的綠色聖誕噴泉",
+    "deco_ExaltedPurpleChristmasFountain_name": "崇高的紫色聖誕噴泉",
+    "deco_ExaltedRedChristmasFountain_name": "崇高的紅色聖誕噴泉"
   },
   "dialogs": {
     "dialog_festival_desc": "用食物幫你的居民舉辦一場盛宴吧！在盛宴期間，你所有城堡的招募速度會大幅提高。宴會越大，效果越好。",
@@ -12270,9 +12274,9 @@
     "webshop_tokenbundle_small_name": "小型代幣包",
     "event_end_header_GachaDeco2x2": "致命植物陷阱",
     "event_announcement_header_126": "致命植物陷阱",
-    "helpPopup_GachaDeco2x2": "一株巨大的食肉植物在&lt;b&gt;致命植物花園&lt;/b&gt;前扎根，似乎對你的士兵產生了興趣！但不用擔心——你聰明的城鎮居民們製作了一個植物根本無法抗拒的小吃。通過餵養&lt;b&gt;士兵餅乾&lt;/b&gt;，你將獲得豐厚的獎勵。&lt;/br&gt;&lt;/br&gt; &lt;b&gt;餵養植物：&lt;/b&gt;&lt;/br&gt;每次餵養都會給你帶來獎勵——備受追捧的致命植物裝飾。這些裝飾不僅因其大小具有相當的公共秩序價值，還能為你的王國提供額外效果！致命植物裝飾可以放置在致命植物花園裝飾區，提升該區域的PO和力量值。&lt;/br&gt;&lt;b&gt;排名和等級：&lt;/b&gt;&lt;/br&gt;一個排名系統將追蹤你的進度，並根據你的排名提供成就獎勵。該事件還包括一個多級系統。隨著你在等級中的進步，獲得最佳致命植物裝飾的機會將增加。",
+    "helpPopup_GachaDeco2x2": "一株巨大的食肉植物在&lt;b&gt;致命植物花園&lt;/b&gt;前扎根，似乎對你的士兵產生了興趣！但請不要擔心——你那聰明的鎮民們創造了一種植物根本無法抗拒的小吃。通過喂食&lt;b&gt;士兵餅乾&lt;/b&gt;，你將獲得豐厚的獎勵。\n\n&lt;b&gt;喂養植物：&lt;/b&gt;\n每次喂養都會給你帶來獎勵——備受追捧的致命植物裝飾。這些裝飾不僅因其尺寸而擁有豐厚的公共秩序價值，還可以為你的王國帶來額外效果！致命植物裝飾可以放置在致命植物花園裝飾區，提升該區的公共秩序和實力價值。\n&lt;b&gt;排名與等級：&lt;/b&gt;\n排名系統將追蹤你的進展，並根據你的排名提供成就獎勵。活動還包括多個等級的系統。當你在等級中進步時，獲得最佳致命植物裝飾的機會將會提升。",
     "tooltip_gachaName_GachaDeco2x2": "致命植物陷阱",
-    "event_announcement_description_126": "一株巨大的食肉植物在致命植物花園前扎根，似乎已經對你的士兵產生了興趣！但請不要害怕 - 你的聰明市民們創造了一種植物根本無法抗拒的小吃。通過餵它士兵餅乾，你將獲得豐厚的獎勵。在致命植物陷阱事件期間，餵養植物以收集獎勵，例如致命植物裝飾，這些裝飾可以提升公共秩序並在你的致命植物裝飾區中提供特殊效果。此外，根據你與其他玩家的表現來獲得排名獎勵。確保參與並享受獎勵！",
+    "event_announcement_description_126": "在致命植物園中，一種巨大的食肉植物已經長出來，正渴望著你的士兵！幸好，鎮民們製作了士兵餅乾來引誘它。在致命植物陷阱活動中，餵養植物即可獲得獎勵，例如提升公共秩序的致命植物裝飾品，並在你的裝飾區域添加效果。與他人競爭排名獎勵——快來參加，享受戰利品！",
     "event_end_description_GachaDeco2x2": "巨大的食肉植物終於吃飽了，致命的植物陷阱活動也結束了。你用士兵餅乾餵養它的勇敢努力沒有被忽視，你獲得的獎勵將很快屬於你。",
     "gachaPull_milestone_GachaDeco2x2": "飼料",
     "gachaPull_milestone_tooltip_amount_GachaDeco2x2": "{0}/{1} 飼料",
@@ -12447,16 +12451,27 @@
     "effect_group_7_19_passive": "木材生產獎勵",
     "effect_group_7_1_active": "+{0}% 王國資源生產",
     "effect_group_7_1_passive": "王國資源生產獎勵",
-    "event_rewards_heade_GachaDeco2x2": "活動排名獎勵",
+    "event_rewards_header": "活動排名獎勵",
     "milestone_reward": "里程碑已完成！您將收到以下獎勵：",
     "capReachedRanking_DonationEvent": "{0} 捐款現在僅提高你的排名。",
     "dialog_startDonationEvent_desc2": "建築物有不同的類別，並擁有各自的獎勵。獨立提升每個類別的獎勵。積分越多，獎勵越好。活動結束時，積分和帝國贊助章程將被重置。",
-    "dialog_startDonationEvent_desc3": "新的全球排名將所有伺服器的玩家團結在一起，測試終極力量和技能。競爭以根據您的排名索取獎勵——您貢獻得越快，您將攀升得越高！",
     "rankingGlobal": "全球排名",
-    "ranking_description_DonationEvent": "貢獻資源以獲得寶貴的獎勵！全球排名系統追蹤您的進度，根據您的排名提供成就獎勵。活動結束後，請在獎勵中心領取您的獎勵。",
     "filter_decoType_onlyRelics": "遺跡建築",
     "DecorationStorehouse_name": "裝飾品倉庫",
-    "filter_decoType_onlyLocals": "當地建築"
+    "filter_decoType_onlyLocals": "當地建築",
+    "ranking_description_DonationEvent": "貢獻以獲得獎勵！全球排名會追蹤您的進度——您得分越快，排名越高。活動結束時在獎勵中心領取獎勵。",
+    "DecoDistrict2x2_notbuilt": "致命植物花園尚未建成。",
+    "dialog_startDonationEvent_desc4": "新的全球排名將所有伺服器的玩家聯合在一起，考驗終極力量和技能。根據你的排名競爭獎勵。你得分越快，排名越高。即使其他玩家達到相同的分數，貢獻更快的玩家也會排名更高！",
+    "dialog_privateBestsellerShop_advent_tooltip": "降臨節優惠",
+    "dialog_chestOffer_desc_advent": "用降臨節寶箱打開假日珍寶！",
+    "dialog_chestOffer_title_advent": "降臨節寶箱",
+    "dialog_finish": "完成",
+    "dialog_startDonationEvent_desc3": "皇帝引入了帝國贊助章程，委託建築師處理您擁有的豐富材料。在活動結束時，所有帝國贊助章程將被重置。",
+    "rewardReceived": "獎勵已收到！",
+    "dialog_event_announcement_description_126": "在致命植物園中，一種巨大的食肉植物已經長出來，正渴望著你的士兵！幸好，鎮民們製作了士兵餅乾來引誘它。在致命植物陷阱活動中，餵養植物即可獲得獎勵，例如提升公共秩序的致命植物裝飾品，並在你的裝飾區域添加效果。與他人競爭排名獎勵——快來參加，享受戰利品！",
+    "dialog_event_announcement_header_126": "致命植物陷阱",
+    "dialog_title_gachadeco2x2": "致命植物陷阱",
+    "help_deco_gacha": "一株巨大的食肉植物在&lt;b&gt;致命植物花園&lt;/b&gt;前扎根，似乎對你的士兵產生了興趣！但請不要擔心——你那聰明的鎮民們創造了一種植物根本無法抗拒的小吃。通過喂食&lt;b&gt;士兵餅乾&lt;/b&gt;，你將獲得豐厚的獎勵。\n\n&lt;b&gt;喂養植物：&lt;/b&gt;\n每次喂養都會給你帶來獎勵——備受追捧的致命植物裝飾。這些裝飾不僅因其尺寸而擁有豐厚的公共秩序價值，還可以為你的王國帶來額外效果！致命植物裝飾可以放置在致命植物花園裝飾區，提升該區的公共秩序和實力價值。\n&lt;b&gt;排名與等級：&lt;/b&gt;\n排名系統將追蹤你的進展，並根據你的排名提供成就獎勵。活動還包括多個等級的系統。當你在等級中進步時，獲得最佳致命植物裝飾的機會將會提升。"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% 出征時的軍隊巡游速度",
@@ -13741,7 +13756,6 @@
     "effect_group_6_9_active_malus": "-{0}% 戰鬥中所獲得之榮耀得分",
     "effect_group_6_9_passive": "戰鬥時所獲得之榮耀得分的加成",
     "effect_group_8_4_active": "增加{0}守城部隊容量",
-    "effect_group_8_5_active": "+{0} 聯盟支援部隊在防守庭院時的容量",
     "ci_effect_defenseUnitAmountWall": "+{0}% 增加防禦牆的部隊容量",
     "ci_effect_recruitmentSpeedBoostAll": "+{0}% 招募速度",
     "ci_effect_craftingQueueProductionBoost_2_tt": "工具匠的生產獎金：",
@@ -13766,7 +13780,15 @@
     "webshop_EliteTonnelonValue_desc": "將城牆的保護減少-{0}%，並增加獲得的榮耀點數{1}%。",
     "webshop_InvaderMaskValue_desc": "減少遠程防守者的力量-{0}，並增加獲得的榮耀點數{1}%。僅可用於對抗外國領主或血烏鴉。",
     "webshop_LadderoftheShogunValue_desc": "減少營地牆壁保護 -{0}%，增加被掠奪的武士代幣 {1}%。只能用於對抗武士營地。",
-    "webshop_NomadTokenChestValue_desc": "攻擊可汗營地時獲得的怒氣點數增加{0}%。"
+    "webshop_NomadTokenChestValue_desc": "增加掠奪的可汗字牌數量{0}%。",
+    "effect_description_honorBonus": "+{0}% 在戰鬥中獲得的榮譽點數",
+    "effect_description_publicOrderBonusMain": "在您的主城內提高公共秩序 +{0}",
+    "effect_description_toolProductionSpeedBoostAll": "+{0}% 所有工具的生產速度",
+    "effect_description_transportTaxDecreaseBoostGreen": "-{0}% 資源運輸成本：大帝國",
+    "effect_description_transportTaxDecreaseBoostIce": "-{0}% 資源運輸成本：永冬冰河",
+    "effect_description_transportTaxDecreaseBoostIsland": "-{0}% 資源運輸成本：風暴島嶼",
+    "effect_description_transportTaxDecreaseBoostSand": "-{0}% 資源運輸成本：燃燒的沙",
+    "effect_description_transportTaxDecreaseBoostVulcano": "-{0}% 資源運輸成本：火焰峰"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "英雄",
@@ -17294,8 +17316,8 @@
     "equipment_unique_1102_desc": "引導過一位小英雄通過一段地獄迷宮。能將你的軍隊變成一支飛雀騎士團。",
     "equipment_unique_1103": "飛雀王子紋章",
     "equipment_unique_1103_desc": "引導過一位小英雄通過一段地獄迷宮。能將你的軍隊變成一支飛雀騎士團。",
-    "equipment_unique_1104": "帝國鬱金香",
-    "equipment_unique_1104_desc": "英雄新生、重生和犧牲的象徵。能將你的城堡變成一個鬱金香國度。",
+    "equipment_unique_1104": "豐收盛宴火雞",
+    "equipment_unique_1104_desc": "這些來自超越地平線的兇猛鳥類作為帝國突擊隊，並在帝國盛宴上提供。將您的軍隊轉變為一群衝鋒的火雞。",
     "equipment_unique_1105": "帝國鬱金香",
     "equipment_unique_1105_desc": "英雄新生、重生和犧牲的象徵。能將你的城堡變成一個鬱金香國度。",
     "equipment_unique_1106": "帝國鬱金香",
@@ -17605,7 +17627,21 @@
     "equipment_unique_1097_desc": "會將你的軍隊變成殭屍大隊，緩慢但不懈地一路啃食敵人的大腦。",
     "equip_effect_description_attackBoostYardShapeshifter": "這個物品似乎失去了它的力量...（遺產）",
     "equip_effect_description_attackUnitAmountFlankShapeshifter": "這個物品似乎失去了它的力量...（遺產）",
-    "equip_effect_description_charmBoost": "這個物品似乎失去了它的力量...（遺產）"
+    "equip_effect_description_charmBoost": "這個物品似乎失去了它的力量...（遺產）",
+    "equipment_unique_1199_desc": "皇帝親自將這些珍貴的蛋賜予他最忠誠的附庸。將你的城堡變成一個繁榮的火雞據點。",
+    "equipment_unique_1098_desc": "這些來自超越地平線的兇猛鳥類作為帝國突擊隊，並在帝國盛宴上提供。將您的軍隊轉變為一群衝鋒的火雞。",
+    "equipment_unique_1099_desc": "這些來自超越地平線的兇猛鳥類作為帝國突擊隊，並在帝國盛宴上提供。將您的軍隊轉變為一群衝鋒的火雞。",
+    "equipment_unique_1098": "豐收節火雞",
+    "equipment_unique_1099": "豐收節火雞",
+    "equipment_unique_1199": "秋季蛋",
+    "glacialamazonarcher_name": "冰川亞馬遜弓箭手",
+    "glacialamazonguardian_name": "冰川亞馬遜守護者",
+    "glacialamazonhuntress_name": "冰川亞馬遜獵手",
+    "glacialamazonwarrior_name": "冰川亞馬遜戰士",
+    "ChristmasArcher_name": "聖誕弓箭手",
+    "ChristmasGuardian_name": "聖誕守護者",
+    "ChristmasHuntress_name": "聖誕獵手",
+    "ChristmasWarrior_name": "聖誕戰士"
   },
   "generic": {
     "activity": "活動",
@@ -19655,7 +19691,8 @@
     "yourRankingPlaceholder": "您的排名: {0}",
     "yourRanking": "您的排名",
     "refresh": "重新整理",
-    "rewardHubCollect": "在獎勵中心領取您的獎勵！"
+    "rewardHubCollect": "在獎勵中心領取您的獎勵！",
+    "eyecatcher_valuable": "有價值！"
   },
   "help": {
     "help_location": "在這裡，你可以看到關於你的城堡和所有前哨重要內容的總體概況。",
@@ -24199,7 +24236,15 @@
     "GlacialAmazonHuntress_short_name": "冰封亞馬遜女獵手",
     "GlacialAmazonWarrior_desc": "被殘酷的冬天磨練出來的這些戰士體現了凶猛的精神，手持水晶邊緣的矛，對敵人發動無情的精準攻擊。",
     "GlacialAmazonWarrior_short_info": "極其強大的近戰攻擊者",
-    "GlacialAmazonWarrior_short_name": "冰川亞馬遜戰士"
+    "GlacialAmazonWarrior_short_name": "冰川亞馬遜戰士",
+    "ChristmasArcher_desc": "這些身穿節日服裝的弓箭手，發射著冰冷的魔法箭矢，使敵人冷得透心，將節日的快樂和寒冷的復仇帶到戰場上。",
+    "ChristmasArcher_short_info": "極其強大的遠程攻擊者",
+    "ChristmasGuardian_desc": "高大的守護者手持糖果拐杖，這些守衛保護盟友，並為戰場帶來節日的喜悅。",
+    "ChristmasGuardian_short_info": "極其強大的近戰防禦者",
+    "ChristmasHuntress_desc": "這些警覺的女獵手在冬季森林中守衛，裝飾著冬青的箭矢隨時準備驅逐任何威脅她們領土的人。",
+    "ChristmasHuntress_short_info": "極其強大的遠程防禦者",
+    "ChristmasWarrior_desc": "手持薄荷條紋長矛，這些兇猛的戰士們以不可阻擋的節日精神向前衝鋒，讓所有擋在他們面前的人心生恐懼。",
+    "ChristmasWarrior_short_info": "極其強大的近戰攻擊者"
   },
   "generic_flash": {
     "Footer": {

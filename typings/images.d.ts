@@ -1010,12 +1010,15 @@ export interface Images {
     "Deco_Building_ElephantMonument": ImageData;
     "Deco_Building_EternalBlossoms": ImageData;
     "Deco_Building_EternityGarden": ImageData;
+    "Deco_Building_ExaltedGreenFrostFountain": ImageData;
     "Deco_Building_ExaltedGreenLavaShrineofDuality": ImageData;
     "Deco_Building_ExaltedGreenOktoberfestGarden": ImageData;
     "Deco_Building_ExaltedGreenWaterShrineofDuality": ImageData;
+    "Deco_Building_ExaltedPurpleFrostFountain": ImageData;
     "Deco_Building_ExaltedPurpleLavaShrineofDuality": ImageData;
     "Deco_Building_ExaltedPurpleOktoberfestGarden": ImageData;
     "Deco_Building_ExaltedPurpleWaterShrineofDuality": ImageData;
+    "Deco_Building_ExaltedRedFrostFountain": ImageData;
     "Deco_Building_ExaltedRedLavaShrineofDuality": ImageData;
     "Deco_Building_ExaltedRedOktoberfestGarden": ImageData;
     "Deco_Building_Excalibur": ImageData;
@@ -1884,6 +1887,10 @@ export interface Images {
     "Eventunit_Unit_ForsakenMaiden": ImageData;
     "Eventunit_Unit_FruitBreaker": ImageData;
     "Eventunit_Unit_FruitPirate": ImageData;
+    "Eventunit_Unit_GlacialAmazonArcher": ImageData;
+    "Eventunit_Unit_GlacialAmazonGuardian": ImageData;
+    "Eventunit_Unit_GlacialAmazonHuntress": ImageData;
+    "Eventunit_Unit_GlacialAmazonWarrior": ImageData;
     "Eventunit_Unit_Goodknight": ImageData;
     "Eventunit_Unit_Iceeventmelee": ImageData;
     "Eventunit_Unit_Iceeventrange": ImageData;
@@ -4125,6 +4132,7 @@ export interface Images {
     "Teaser_OffersHub_Big_40": ImageData;
     "Teaser_OffersHub_Big_41": ImageData;
     "Teaser_OffersHub_Big_42": ImageData;
+    "Teaser_OffersHub_Big_43": ImageData;
     "Teaser_OffersHub_Big_5": ImageData;
     "Teaser_OffersHub_Big_6": ImageData;
     "Teaser_OffersHub_Big_7": ImageData;
@@ -4139,6 +4147,7 @@ export interface Images {
     "Teaser_OffersHub_Big_WhaleChest_15": ImageData;
     "Teaser_OffersHub_Big_WhaleChest_16": ImageData;
     "Teaser_OffersHub_Big_WhaleChest_17": ImageData;
+    "Teaser_OffersHub_Big_WhaleChest_18": ImageData;
     "Teaser_OffersHub_Big_WhaleChest_5": ImageData;
     "Teaser_OffersHub_Medium_1": ImageData;
     "Teaser_OffersHub_Medium_10": ImageData;
@@ -4504,6 +4513,7 @@ export interface Images {
     "generals_cutscene_2": ImageData;
     "giantsForestWoodcutter": ImageData;
     "giantsForestlumbermill": ImageData;
+    "global_primetime_background_Advent2024": ImageData;
     "global_primetime_background_Anniversary2024": ImageData;
     "global_primetime_background_BlackFriday2024": ImageData;
     "global_primetime_background_Halloween2024": ImageData;
@@ -4512,6 +4522,7 @@ export interface Images {
     "global_primetime_background_generic1": ImageData;
     "global_primetime_background_generic2": ImageData;
     "global_primetime_background_generic3": ImageData;
+    "global_primetime_hub_teaser_Advent2024": ImageData;
     "global_primetime_hub_teaser_Anniversary2024": ImageData;
     "global_primetime_hub_teaser_BlackFriday2024": ImageData;
     "global_primetime_hub_teaser_Halloween2024": ImageData;
@@ -4520,6 +4531,7 @@ export interface Images {
     "global_primetime_hub_teaser_generic1": ImageData;
     "global_primetime_hub_teaser_generic2": ImageData;
     "global_primetime_hub_teaser_generic3": ImageData;
+    "global_primetime_teaser_Advent2024": ImageData;
     "global_primetime_teaser_Anniversary2024": ImageData;
     "global_primetime_teaser_BlackFriday2024": ImageData;
     "global_primetime_teaser_BlackFriday2024Front": ImageData;
@@ -5510,6 +5522,10 @@ export interface Images {
     "icon_currency_SilverToken_ds_medium": ImageData;
     "icon_currency_SilverToken_medium": ImageData;
     "icon_currency_SilverToken_small": ImageData;
+    "icon_currency_SoldierBiscuit": ImageData;
+    "icon_currency_SoldierBiscuit_big": ImageData;
+    "icon_currency_SoldierBiscuit_medium": ImageData;
+    "icon_currency_SoldierBiscuit_xl": ImageData;
     "icon_currency_SoulSuckerBoosterKey": ImageData;
     "icon_currency_SoulSuckerBoosterKey_big": ImageData;
     "icon_currency_SoulSuckerBoosterKey_medium": ImageData;
@@ -5699,6 +5715,7 @@ export interface Images {
     "icon_deco_event_72": ImageData;
     "icon_deco_event_80": ImageData;
     "icon_deco_event_83": ImageData;
+    "icon_deco_gacha_milestone_box_closed": ImageData;
     "icon_deco_tab": ImageData;
     "icon_default_catalyst": ImageData;
     "icon_default_catalyst_xl": ImageData;
@@ -5947,6 +5964,7 @@ export interface Images {
     "icon_event_80": ImageData;
     "icon_event_85": ImageData;
     "icon_event_97": ImageData;
+    "icon_event_blacksmith": ImageData;
     "icon_event_crossplay_106": ImageData;
     "icon_event_crossplay_106_castleTransport": ImageData;
     "icon_event_crossplay_106_rankSwap": ImageData;
@@ -6038,6 +6056,10 @@ export interface Images {
     "icon_fusion_xp_sort_down": ImageData;
     "icon_fusion_xp_sort_up": ImageData;
     "icon_fusion_xp_tab": ImageData;
+    "icon_gacha_GachaDeco2x2": ImageData;
+    "icon_gacha_gacha_milestone_box_opened": ImageData;
+    "icon_gacha_milestone_box_closed": ImageData;
+    "icon_gacha_milestone_box_open": ImageData;
     "icon_gallantryPoint_booster": ImageData;
     "icon_gemColor_1": ImageData;
     "icon_gemColor_2": ImageData;
@@ -6595,6 +6617,7 @@ export interface Images {
     "icon_luckywheel_notickets": ImageData;
     "icon_luckywheel_saledays_notickets": ImageData;
     "icon_maintenance_hourglass": ImageData;
+    "icon_masterblacksmith": ImageData;
     "icon_mat_big_commonBricks": ImageData;
     "icon_mat_big_commonClay": ImageData;
     "icon_mat_big_commonFinesand": ImageData;
@@ -6829,6 +6852,7 @@ export interface Images {
     "icon_publicorder_tab": ImageData;
     "icon_rage": ImageData;
     "icon_rage_booster": ImageData;
+    "icon_ranking": ImageData;
     "icon_ranking_big": ImageData;
     "icon_ranking_medium": ImageData;
     "icon_ranking_point_medium": ImageData;
@@ -7040,6 +7064,7 @@ export interface Images {
     "icon_tab_disassemble_ci": ImageData;
     "icon_tab_disassemble_ci_small": ImageData;
     "icon_tab_gacha_GachaDeco2x2": ImageData;
+    "icon_tab_gacha_upcoming": ImageData;
     "icon_tab_options_ggs": ImageData;
     "icon_tab_options_help": ImageData;
     "icon_tab_options_notification": ImageData;

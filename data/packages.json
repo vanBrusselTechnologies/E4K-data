@@ -53688,6 +53688,30 @@
       "minLevel": 45,
       "stock": 5,
       "notRebuyable": 0
+    },
+    {
+      "packageID": 3180,
+      "packageType": "currency",
+      "comment1": "SoldierBiscuit",
+      "comment2": "Gold Shop - SoldierBiscuit cheap",
+      "costGoldToken": 1950,
+      "addSoldierBiscuit": 20,
+      "stock": 2,
+      "minLevel": 10,
+      "relationIDs": "400,999",
+      "sortOrder": 3.5
+    },
+    {
+      "packageID": 3181,
+      "packageType": "currency",
+      "comment1": "SoldierBiscuit",
+      "comment2": "Gold Shop - SoldierBiscuit expensive",
+      "costGoldToken": 2950,
+      "addSoldierBiscuit": 20,
+      "stock": 2,
+      "minLevel": 10,
+      "relationIDs": "400,999",
+      "sortOrder": 3.6
     }
   ]
 }

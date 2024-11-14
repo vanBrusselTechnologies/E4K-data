@@ -10484,7 +10484,7 @@
       "wearerID": 1,
       "slotID": 5,
       "reuseAssetOfEquipmentID": 852,
-      "effects": "41&amp;100000,42&amp;100000,43&amp;1+100",
+      "effects": "41&amp;100000,42&amp;100000,43&amp;100",
       "mightValue": 1,
       "skinID": 52
     },
@@ -13764,6 +13764,62 @@
       "mightValue": 10,
       "canSlotGem": 1,
       "skinID": 97
+    },
+    {
+      "equipmentID": 1098,
+      "crossplayID": 1098,
+      "comment1": "Sales Days Content November 2024",
+      "comment2": "turkeyCommander",
+      "wearerID": 2,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 2009,
+      "effects": "24&amp;4,23&amp;15,66&amp;5",
+      "duration": 144,
+      "mightValue": 0,
+      "canSlotGem": 1,
+      "skinID": 109
+    },
+    {
+      "equipmentID": 1099,
+      "crossplayID": 1099,
+      "comment1": "Sales Days Content November 2024",
+      "comment2": "turkeyCommander",
+      "wearerID": 2,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 2009,
+      "effects": "24&amp;7,334&amp;5",
+      "duration": 72,
+      "mightValue": 0,
+      "canSlotGem": 1,
+      "skinID": 109
+    },
+    {
+      "equipmentID": 1104,
+      "crossplayID": 1104,
+      "comment1": "Sales Days Content November 2024",
+      "comment2": "turkeyCommander",
+      "wearerID": 2,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 2009,
+      "effects": "24&amp;6,334&amp;25",
+      "duration": 120,
+      "mightValue": 0,
+      "canSlotGem": 1,
+      "skinID": 109
+    },
+    {
+      "equipmentID": 1199,
+      "crossplayID": 1199,
+      "comment1": "Sales Days Content November 2024",
+      "comment2": "turkeyCastellan",
+      "wearerID": 1,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 2011,
+      "effects": "335&amp;45,37&amp;25000",
+      "duration": 120,
+      "mightValue": 0,
+      "canSlotGem": 0,
+      "skinID": 110
     }
   ]
 }

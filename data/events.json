@@ -998,6 +998,14 @@
       "kIDs": 0,
       "eventType": "SpecialDailyBundleEvent",
       "maxLevel": 99
+    },
+    {
+      "eventID": 126,
+      "comment1": "Gacha (decoDistrict 2x2)",
+      "kIDs": 0,
+      "areaTypes": 1,
+      "eventType": "GachaDeco2x2",
+      "maxLevel": 1020
     }
   ]
 }

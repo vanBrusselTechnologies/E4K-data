@@ -2032,7 +2032,11 @@
     "deco_fataltinybitebud_name": "致命的な小さな噛みつき",
     "deco_ExaltedRedFrostFountain_name": "崇高な赤い氷の噴水",
     "deco_ExaltedGreenFrostFountain_name": "崇高な緑の氷の噴水",
-    "deco_ExaltedPurpleFrostFountain_name": "崇高な紫の氷の噴水"
+    "deco_ExaltedPurpleFrostFountain_name": "崇高な紫の氷の噴水",
+    "deco_carnivorousPlantT1_name": "致命的な植物の罠",
+    "deco_ExaltedGreenChristmasFountain_name": "崇高な緑のクリスマス噴水",
+    "deco_ExaltedPurpleChristmasFountain_name": "高貴な紫のクリスマス噴水",
+    "deco_ExaltedRedChristmasFountain_name": "高貴な赤いクリスマス噴水"
   },
   "dialogs": {
     "dialog_festival_desc": "食料を集めて宴会を開きましょう！\n宴会が続く限り、兵の雇用スピードがすべての城で速くなります。宴会が豪華になるほど、効果も大きくなります。",
@@ -12270,9 +12274,9 @@
     "webshop_tokenbundle_small_name": "小さなトークンバンドル",
     "event_end_header_GachaDeco2x2": "致命的な植物の罠",
     "event_announcement_header_126": "致命的な植物の罠",
-    "helpPopup_GachaDeco2x2": "巨大な肉食植物が&lt;b&gt;ファタルフローラガーデン&lt;/b&gt;の前に根を下ろし、あなたの兵士を好むようになったようです！しかし、心配しないでください。あなたの機知に富んだ町の人々が、植物が決して resist できないスナックを作り出しました。&lt;b&gt;兵士ビスケット&lt;/b&gt;を与えることで、あなたは寛大な報酬を受け取ります。&lt;/br&gt;&lt;/br&gt; &lt;b&gt;植物への餌やり：&lt;/b&gt;&lt;/br&gt; 餌を与えるごとに、非常に貴重なファタルフローラ装飾品が得られます。これらの装飾品はそのサイズに対して十分な公共秩序の価値を持っているだけでなく、あなたの王国に追加の効果をもたらすこともできます！ファタルフローラ装飾品はファタルフローラガーデン装飾地区に配置でき、地区自体のPOと力の価値を両方とも向上させます。&lt;/br&gt;&lt;b&gt;ランキングとレベル：&lt;/b&gt;&lt;/br&gt;ランキングシステムがあなたの進捗を追跡し、ランクに基づいて達成報酬を提供します。このイベントには、複数のレベルを持つシステムも含まれています。レベルを進むにつれて、最高のファタルフローラ装飾品を得るチャンスが向上します。",
+    "helpPopup_GachaDeco2x2": "巨大な肉食植物が&lt;b&gt;致命的なフローラガーデン&lt;/b&gt;の前に根を下ろし、あなたの兵士たちの味を好むようです！しかし心配しないでください—あなたの機知に富んだ町民たちが、植物がどうしても抵抗できないスナックを作り出しました。&lt;b&gt;兵士ビスケット&lt;/b&gt;を与えることで、あなたは寛大に報酬を得られます。\n\n&lt;b&gt;植物への餌やり：&lt;/b&gt;\n餌やりごとに報酬が得られます - 非常に貴重な致命的フローラの装飾です。これらの装飾はそのサイズの割には十分な公共秩序の価値を持っており、さらに王国に追加の効果を与えることもできます！致命的フローラの装飾は、致命的フローラガーデン装飾地区に配置でき、その地区自体のPOと力の価値を向上させます。\n&lt;b&gt;ランキングとレベル：&lt;/b&gt;\nランキングシステムがあなたの進行状況を追跡し、あなたのランクに基づいた成果報酬を提供します。このイベントには複数のレベルを持つシステムも含まれています。レベルを進むにつれて、最高の致命的フローラの装飾を得るチャンスが向上します。",
     "tooltip_gachaName_GachaDeco2x2": "致命的な植物の罠",
-    "event_announcement_description_126": "巨大な肉食植物がファタルフローラガーデンの前に根を張り、あなたの兵士たちの味を好むようです！しかし、心配しないでください。あなたの資源豊富な町の人々は、植物が絶対に抵抗できないスナックを作り出しました。兵士ビスケットを与えることで、あなたは寛大に報酬を得ることができます。ファタルフローラトラップイベント中に植物に餌を与えて、公共秩序を向上させ、ファタルフローラ装飾地区で特別な効果を与えるファタルフローラの装飾品などの報酬を集めましょう。また、他のプレイヤーと比較したパフォーマンスに基づいてランキング報酬を獲得できます。ぜひ参加して、報酬を楽しんでください！",
+    "event_announcement_description_126": "致命的なフローラガーデンに巨大な肉食植物が現れ、あなたの兵士たちを食べたがっています！幸いにも、町の人々が兵士ビスケットを作り、植物をおびき寄せました。致命的なフローラトラップイベントでは、植物に餌を与えて、公共秩序を高め、装飾地区に効果を追加する致命的なフローラ装飾のような報酬を獲得します。他の人と競い合い、ランキング報酬を手に入れましょう—参加して戦利品を楽しんでください！",
     "event_end_description_GachaDeco2x2": "巨大な食虫植物はついに満腹になり、致命的な植物の罠イベントは終了しました。兵士のビスケットを与えるためのあなたの勇敢な努力は見逃されておらず、あなたが獲得した報酬はすぐにあなたのものになります。",
     "gachaPull_milestone_GachaDeco2x2": "飼料",
     "gachaPull_milestone_tooltip_amount_GachaDeco2x2": "{0}/{1} 餌",
@@ -12447,16 +12451,27 @@
     "effect_group_7_19_passive": "木材生産ボーナス",
     "effect_group_7_1_active": "+{0}% 王国の資源生産",
     "effect_group_7_1_passive": "王国資源生産ボーナス",
-    "event_rewards_heade_GachaDeco2x2": "イベントランキング報酬",
+    "event_rewards_header": "イベントランキング報酬",
     "milestone_reward": "マイルストーンが完了しました！次の報酬を受け取ります：",
     "capReachedRanking_DonationEvent": "{0} 寄付は現在、あなたのランキングを唯一引き上げます。",
     "dialog_startDonationEvent_desc2": "建物は異なるカテゴリに分かれ、それぞれ独自の報酬があります。各カテゴリの報酬を独立してレベルアップさせてください。ポイントが多いほど、報酬が良くなります。イベント終了時にポイントと帝国の後援証明書はリセットされます。",
-    "dialog_startDonationEvent_desc3": "新しいグローバルランキングは、すべてのサーバーのプレイヤーを団結させ、最高の力とスキルを試します。ランクに基づいて報酬を獲得するために競い合いましょう。早く貢献するほど、より高く上昇します！",
     "rankingGlobal": "グローバルランキング",
-    "ranking_description_DonationEvent": "リソースを貢献して貴重な報酬を得よう！グローバルランキングシステムはあなたの進捗を追跡し、あなたのランクに基づいて成果報酬を提供します。イベントが終了したら、報酬ハブで報酬を請求してください。",
     "filter_decoType_onlyRelics": "聖遺物の建物",
     "DecorationStorehouse_name": "装飾品の倉庫",
-    "filter_decoType_onlyLocals": "ローカルビル"
+    "filter_decoType_onlyLocals": "ローカルビル",
+    "ranking_description_DonationEvent": "報酬を得るために貢献しよう！グローバルランキングはあなたの進捗を追跡します。早く得点すればするほど、ランクが上がります。イベント終了時にリワードハブで報酬を請求してください。",
+    "DecoDistrict2x2_notbuilt": "致命的な植物の庭はまだ建設されていません。",
+    "dialog_startDonationEvent_desc4": "新しいグローバルランキングは、すべてのサーバーのプレイヤーを結集し、究極の力とスキルを試します。あなたのランクに基づいて報酬を競い合います。ポイントを獲得するのが早ければ早いほど、高い順位に入ります。他のプレイヤーが同じスコアに達しても、より早く貢献した者が高いランクになります！",
+    "dialog_privateBestsellerShop_advent_tooltip": "アドベントオファー",
+    "dialog_chestOffer_desc_advent": "アドベントチェストで休日の宝物を開けましょう！",
+    "dialog_chestOffer_title_advent": "アドベントボックス",
+    "dialog_finish": "完了",
+    "dialog_startDonationEvent_desc3": "皇帝は皇帝の後援憲章を導入し、建築家に豊富に持っている材料を処理するように命じました。イベントの終了時に、皇帝の後援憲章のすべてがリセットされます。",
+    "rewardReceived": "報酬を受け取りました！",
+    "dialog_event_announcement_description_126": "致命的なフローラガーデンに巨大な肉食植物が現れ、あなたの兵士たちを食べたがっています！幸いにも、町の人々が兵士ビスケットを作り、植物をおびき寄せました。致命的なフローラトラップイベントでは、植物に餌を与えて、公共秩序を高め、装飾地区に効果を追加する致命的なフローラ装飾のような報酬を獲得します。他の人と競い合い、ランキング報酬を手に入れましょう—参加して戦利品を楽しんでください！",
+    "dialog_event_announcement_header_126": "致命的な植物の罠",
+    "dialog_title_gachadeco2x2": "致命的な植物の罠",
+    "help_deco_gacha": "巨大な肉食植物が&lt;b&gt;致命的なフローラガーデン&lt;/b&gt;の前に根を下ろし、あなたの兵士たちの味を好むようです！しかし心配しないでください—あなたの機知に富んだ町民たちが、植物がどうしても抵抗できないスナックを作り出しました。&lt;b&gt;兵士ビスケット&lt;/b&gt;を与えることで、あなたは寛大に報酬を得られます。\n\n&lt;b&gt;植物への餌やり：&lt;/b&gt;\n餌やりごとに報酬が得られます - 非常に貴重な致命的フローラの装飾です。これらの装飾はそのサイズの割には十分な公共秩序の価値を持っており、さらに王国に追加の効果を与えることもできます！致命的フローラの装飾は、致命的フローラガーデン装飾地区に配置でき、その地区自体のPOと力の価値を向上させます。\n&lt;b&gt;ランキングとレベル：&lt;/b&gt;\nランキングシステムがあなたの進行状況を追跡し、あなたのランクに基づいた成果報酬を提供します。このイベントには複数のレベルを持つシステムも含まれています。レベルを進むにつれて、最高の致命的フローラの装飾を得るチャンスが向上します。"
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "占領中の軍の移動スピード　+{0}%",
@@ -13741,7 +13756,6 @@
     "effect_group_6_9_active_malus": "戦闘で獲得した栄光ポイント　-{0}%",
     "effect_group_6_9_passive": "戦闘で獲得した栄光ポイントボーナス",
     "effect_group_8_4_active": "中庭を守る際の兵力＋{0}",
-    "effect_group_8_5_active": "+{0} 中庭を防御する際の同盟支援部隊の能力",
     "ci_effect_defenseUnitAmountWall": "+{0}% 壁防御の部隊容量",
     "ci_effect_recruitmentSpeedBoostAll": "雇用スピード　+{0}%",
     "ci_effect_craftingQueueProductionBoost_2_tt": "工具職人の生産ボーナス：",
@@ -13766,7 +13780,15 @@
     "webshop_EliteTonnelonValue_desc": "城壁の防御力を-{0}%減少させ、受け取る名誉ポイントを{1}%増加させます。",
     "webshop_InvaderMaskValue_desc": "遠距離防御兵の強さを-{0}だけ減少させ、受け取る栄光ポイントを{1}%増加させます。外国の領主または血のカラスに対してのみ使用できます。",
     "webshop_LadderoftheShogunValue_desc": "キャンプの壁の保護を-{0}%減少させ、略奪されたサムライトークンを{1}%増加させます。サムライキャンプに対してのみ使用できます。",
-    "webshop_NomadTokenChestValue_desc": "カーンのキャンプを攻撃したときに得られる怒りポイントの量が{0}%増加します。"
+    "webshop_NomadTokenChestValue_desc": "盗まれたハーンの碑文の量を{0}%増加させます。",
+    "effect_description_honorBonus": "+{0}% 戦闘で獲得した名誉ポイント",
+    "effect_description_publicOrderBonusMain": "メインキャッスル内の公共秩序が +{0} 増加します",
+    "effect_description_toolProductionSpeedBoostAll": "+{0}% すべての道具の生産速度",
+    "effect_description_transportTaxDecreaseBoostGreen": "-{0}% 資源輸送コスト: 大帝国",
+    "effect_description_transportTaxDecreaseBoostIce": "-{0}% 資源輸送コスト: 常冬の氷河",
+    "effect_description_transportTaxDecreaseBoostIsland": "-{0}% 資源輸送コスト：嵐の島",
+    "effect_description_transportTaxDecreaseBoostSand": "-{0}% 資源輸送コスト: 燃える砂",
+    "effect_description_transportTaxDecreaseBoostVulcano": "-{0}% 資源輸送コスト: 炎の峰"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "英雄",
@@ -17294,8 +17316,8 @@
     "equipment_unique_1102_desc": "地獄の迷宮にて小さな英雄を導きます。軍隊をスズメの騎士の部隊に変えます。",
     "equipment_unique_1103": "スズメ王子の紋章",
     "equipment_unique_1103_desc": "地獄の迷宮にて小さな英雄を導きます。軍隊をスズメの騎士の部隊に変えます。",
-    "equipment_unique_1104": "大輪のチューリップ",
-    "equipment_unique_1104_desc": "英雄の再生、復活、犠牲の象徴。 城をチューリップの世界に変えます。",
+    "equipment_unique_1104": "収穫祭の七面鳥",
+    "equipment_unique_1104_desc": "「地平線の彼方」から来たこれらの猛禽は、帝国の突撃兵として機能し、帝国の宴会で供されます。あなたの軍隊を突進するガボラーの集団に変身させます。",
     "equipment_unique_1105": "大輪のチューリップ",
     "equipment_unique_1105_desc": "英雄の再生、復活、犠牲の象徴。 城をチューリップの世界に変えます。",
     "equipment_unique_1106": "大輪のチューリップ",
@@ -17605,7 +17627,21 @@
     "equipment_unique_1097_desc": "軍隊をゾンビの大群に変え、ゆっくりと着実に敵の脳みそを喰らい尽くす。",
     "equip_effect_description_attackBoostYardShapeshifter": "このアイテムは力を失ったようです...（遺産）",
     "equip_effect_description_attackUnitAmountFlankShapeshifter": "このアイテムは力を失ったようです...（遺産）",
-    "equip_effect_description_charmBoost": "このアイテムは力を失ったようです...（遺産）"
+    "equip_effect_description_charmBoost": "このアイテムは力を失ったようです...（遺産）",
+    "equipment_unique_1199_desc": "皇帝自身がこれらの貴重な卵を最も忠実な家臣に授けます。あなたの城を繁栄したゴブラーの要塞に変えます。",
+    "equipment_unique_1098_desc": "「地平線の彼方」から来たこれらの猛禽は、帝国の突撃兵として機能し、帝国の宴会で供されます。あなたの軍隊を突進するガボラーの集団に変身させます。",
+    "equipment_unique_1099_desc": "「地平線の彼方」から来たこれらの猛禽は、帝国の突撃兵として機能し、帝国の宴会で供されます。あなたの軍隊を突進するガボラーの集団に変身させます。",
+    "equipment_unique_1098": "収穫祭の七面鳥",
+    "equipment_unique_1099": "収穫祭の七面鳥",
+    "equipment_unique_1199": "秋の卵",
+    "glacialamazonarcher_name": "氷河のアマゾン弓兵",
+    "glacialamazonguardian_name": "氷のアマゾンの守護者",
+    "glacialamazonhuntress_name": "氷のアマゾンハンター",
+    "glacialamazonwarrior_name": "氷河アマゾンの戦士",
+    "ChristmasArcher_name": "クリスマスアーチャー",
+    "ChristmasGuardian_name": "クリスマスガーディアン",
+    "ChristmasHuntress_name": "クリスマスハンター",
+    "ChristmasWarrior_name": "クリスマスの戦士"
   },
   "generic": {
     "activity": "アクティビティ",
@@ -19655,7 +19691,8 @@
     "yourRankingPlaceholder": "あなたのランキング: {0}",
     "yourRanking": "あなたの順位",
     "refresh": "リフレッシュ",
-    "rewardHubCollect": "報酬ハブで報酬を受け取る！"
+    "rewardHubCollect": "報酬ハブで報酬を受け取る！",
+    "eyecatcher_valuable": "貴重！"
   },
   "help": {
     "help_location": "ここから、城や基地の\n重要な情報を見ることができます。",
@@ -24199,7 +24236,15 @@
     "GlacialAmazonHuntress_short_name": "氷のアマゾンハンター",
     "GlacialAmazonWarrior_desc": "厳しい冬に鍛えられたこれらの戦士たちは、凶暴な精神を体現し、敵に対して容赦ない精度でクリスタルエッジの槍を振るいます。",
     "GlacialAmazonWarrior_short_info": "非常に強力な近接攻撃者",
-    "GlacialAmazonWarrior_short_name": "氷河のアマゾン戦士"
+    "GlacialAmazonWarrior_short_name": "氷河のアマゾン戦士",
+    "ChristmasArcher_desc": "お祭りの衣装をまとったこれらの弓兵たちは、氷の魔法の矢で敵を凍らせ、戦場にホリデーの喜びと冷たい復讐をもたらします。",
+    "ChristmasArcher_short_info": "非常に強力な遠距離攻撃者",
+    "ChristmasGuardian_desc": "キャンディケインのメイスを手にした高い守護者たちが、同盟者を守り、戦場に祝祭の喜びをもたらします。",
+    "ChristmasGuardian_short_info": "非常に強力な近接防御兵",
+    "ChristmasHuntress_desc": "この警戒心の強い狩人たちは冬の森で見張りを立て、ホリーの矢を構え、彼女たちの領域を脅かす者を排除する準備ができています。",
+    "ChristmasHuntress_short_info": "非常に強力な遠距離防御者",
+    "ChristmasWarrior_desc": "ペパーミントのストライプの槍を持ったこれらの凶暴な戦士たちは、止められないホリデースピリットで前進し、彼らの道に立ちふさがるすべての者に恐怖を与えます。",
+    "ChristmasWarrior_short_info": "非常に強力な近接攻撃者"
   },
   "generic_flash": {
     "Footer": {

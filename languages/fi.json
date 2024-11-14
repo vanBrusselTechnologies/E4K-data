@@ -2032,7 +2032,11 @@
     "deco_fataltinybitebud_name": "Kuolettava pieni pisto",
     "deco_ExaltedRedFrostFountain_name": "Ylevä punainen jääfontti",
     "deco_ExaltedGreenFrostFountain_name": "Ylevä vihreä jääfontaani",
-    "deco_ExaltedPurpleFrostFountain_name": "Ylevä purppurajäätikkövesiputous"
+    "deco_ExaltedPurpleFrostFountain_name": "Ylevä purppurajäätikkövesiputous",
+    "deco_carnivorousPlantT1_name": "Kuolettava kasvipast",
+    "deco_ExaltedGreenChristmasFountain_name": "Ylevä vihreä joululähde",
+    "deco_ExaltedPurpleChristmasFountain_name": "Ylevä purppura joululähde",
+    "deco_ExaltedRedChristmasFountain_name": "Ylennetty punainen joululähde"
   },
   "dialogs": {
     "dialog_festival_desc": "Järjestä kansalaisillesi kestit ruokaa käyttämällä! Värväys nopeutuu kaikissa linnoissasi huomattavasti, niin kauan kuin kestit jatkuvat. Mitä isommat kestit järjestät, sitä suurempi niiden vaikutus on.",
@@ -12270,9 +12274,9 @@
     "webshop_tokenbundle_small_name": "Pieni token-paketti",
     "event_end_header_GachaDeco2x2": "Kuolettava kasvipast",
     "event_announcement_header_126": "Kuolettava kasvipast",
-    "helpPopup_GachaDeco2x2": "Massiivinen lihansyöjäkasvi on juurtunut &lt;b&gt;Kuolettava Flora Puutarhan&lt;/b&gt; eteen, ja näyttää siltä, että se on kehittänyt maun sotilaitasi kohtaan! Mutta älä pelkää—keksijät kaupunkisi ovat luoneet välipalan, jota kasvi ei voi vastustaa. Ruokkamalla sitä &lt;b&gt;Sotilas Keksillä&lt;/b&gt;, saat runsaasti palkintoja. &lt;/br&gt;&lt;/br&gt; &lt;b&gt;Kasvin ruokinta:&lt;/b&gt;&lt;/br&gt; Jokainen ruokinta tuo sinulle palkintoja - erittäin haluttuja Kuolettavan Floran Koristeita. Nämä koristeet eivät vain omaa runsaasti Julkisen järjestyksen arvoa koonsa vuoksi, vaan ne voivat myös antaa lisävaikutuksia valtakunnallesi! Kuolettavan Floran Koristeet voidaan sijoittaa Kuolettavan Floran Koristealueelle, mikä parantaa sekä PO- että voimaarvoa itse alueella. &lt;/br&gt;&lt;b&gt;Ranking ja Tasot:&lt;/b&gt;&lt;/br&gt;Ranking-järjestelmä seuraa edistymistäsi ja tarjoaa saavutuspalkintoja perustuen sijoitukseesi. Tapahtuma sisältää myös useita tasoja. Kun etenet tasojen läpi, mahdollisuus saada paras Kuolettava Flora Koriste paranee.",
+    "helpPopup_GachaDeco2x2": "Massiivinen lihansyöjäkasvi on juurtunut &lt;b&gt;Kuolettavan Floran Puutarhan&lt;/b&gt; eteen ja näyttää kehittäneen maun sotilaitasi kohtaan! Mutta älä pelkää—keksivät pikkukaupungin asukkaat ovat luoneet välipalan, jota kasvi ei yksinkertaisesti voi vastustaa. Ruokkimalla sitä &lt;b&gt;Sotilaskekseillä&lt;/b&gt;, saat runsaita palkintoja.\n\n&lt;b&gt;Kasvin Ruokkiminen:&lt;/b&gt;\nJokainen ruokinta tuo sinulle palkintoja - erittäin haluttuja Kuolettavan Floran Koristeita. Nämä koristeet eivät ainoastaan tuo runsaasti Julkisen järjestyksen arvoa kokoon nähden, vaan ne voivat myös myöntää lisävaikutuksia valtakunnallesi! Kuolettavan Floran Koristeita voidaan sijoittaa Kuolettavan Floran Puutarhan Koristealueelle, mikä lisää sekä alueen PO- että voimavaraarvoa.\n&lt;b&gt;Ranking ja Tasot:&lt;/b&gt;\nRanking-järjestelmä seuraa edistymistäsi ja tarjoaa saavutuspalkintoja perustuen sijoitukseesi. Tapahtuma sisältää myös järjestelmän, jossa on useita tasoja. Kun etenet tasolla, paras mahdollisuus saada paras Kuolettavan Floran Koriste paranee.",
     "tooltip_gachaName_GachaDeco2x2": "Kuolettava kasvipast",
-    "event_announcement_description_126": "Massiivinen lihansyöjäkasvi on juurtunut Fatal Flora -puutarhan eteen, ja näyttää siltä, että se on kehittänyt makua sotilaitasi kohtaan! Mutta älä pelkää - kekseliäät kaupunkilaisesi ovat luoneet välipalan, jota kasvi ei voi yksinkertaisesti vastustaa. Syöttämällä sitä Sotilaskekseillä saat runsaasti palkkioita. Fatal Flora Trap -tapahtuman aikana syötä kasvi saadaksesi palkintoja, kuten Fatal Flora -koristeita, jotka parantavat julkista järjestystä ja antavat erityisiä vaikutuksia Fatal Flora -koristeluokassasi. Lisäksi ansaitse ranking-palkintoja suorituksesi perusteella verrattuna muihin pelaajiin. Muista osallistua ja nauttia palkinnoista!",
+    "event_announcement_description_126": "Fatal Flora -puutarhassa on noussut valtava lihansyöjäkasvi, joka on nälkäinen sotilaitasi kohtaan! Onneksi kaupungin asukkaat ovat valmistaneet sotilaskeksejä houkutellakseen sitä. Fatal Flora Trap -tapahtumassa ruoki kasvia saadaksesi palkintoja, kuten Fatal Flora -koristeita, jotka parantavat julkista järjestystä ja lisäävät tehosteita koristealueellasi. Kilpaile muiden kanssa saavuttaaksesi paremmat palkinnot - liity mukaan ja nauti saaliista!",
     "event_end_description_GachaDeco2x2": "Massiivinen lihansyöjäkasvi on viimein saanut tarpeekseen, ja Fatal Flora Trap -tapahtuma on päättynyt. Rohkeat ponnistelusi ruokkia sitä Sotilaskekseillä eivät ole jääneet huomaamatta, ja ansaitsemasi palkinnot ovat pian sinun.",
     "gachaPull_milestone_GachaDeco2x2": "Rehu",
     "gachaPull_milestone_tooltip_amount_GachaDeco2x2": "{0}/{1} Rehut",
@@ -12447,16 +12451,27 @@
     "effect_group_7_19_passive": "Puuntuotantobonus",
     "effect_group_7_1_active": "+{0}% Kuningaskunnan resurssituotanto",
     "effect_group_7_1_passive": "Kuningaskunnan resurssituotannon bonus",
-    "event_rewards_heade_GachaDeco2x2": "Tapahtumaranking-palkinnot",
+    "event_rewards_header": "Tapahtumaranking-palkinnot",
     "milestone_reward": "Virstanpylväs saavutettu! Saat seuraavat palkinnot:",
     "capReachedRanking_DonationEvent": "{0} Lahjoitukset nostavat nyt vain rankingisi.",
     "dialog_startDonationEvent_desc2": "Rakennukset tulevat eri kategorioissa omine palkintoineen. Nosta jokaisen kategorian palkintoja erikseen. Mitä enemmän pisteitä, sitä parempia palkintoja. Pisteet ja keisarillinen suojeluskirja nollataan tapahtuman lopussa.",
-    "dialog_startDonationEvent_desc3": "Uusi globaaliranking yhdistää pelaajat kaikilla palvelimilla, testaten lopullista voimaa ja taitoa. Kilpaile saadaksesi palkintoja sijoituksesi perusteella – mitä nopeammin osallistut, sitä korkeammalle nouset!",
     "rankingGlobal": "Globaali ranking",
-    "ranking_description_DonationEvent": "Osallistu resursseihin ansaitaksesi arvokkaita palkintoja! Globaali ranking-järjestelmä seuraa edistymistäsi ja tarjoaa saavutuspalkintoja sijoituksesi mukaan. Kun tapahtuma päättyy, nouda palkintosi Palkintokeskuksesta.",
     "filter_decoType_onlyRelics": "Pyhäinjäännösrakennukset",
     "DecorationStorehouse_name": "Koristevarasto",
-    "filter_decoType_onlyLocals": "Paikalliset rakennukset"
+    "filter_decoType_onlyLocals": "Paikalliset rakennukset",
+    "ranking_description_DonationEvent": "Osallistu ansaitaksesi palkintoja! Globaali ranking seuraa edistymistäsi – mitä nopeammin saat pisteitä, sitä korkeammalle sijoitut. Nosta palkintoja Palkintokeskuksessa, kun tapahtuma päättyy.",
+    "DecoDistrict2x2_notbuilt": "Kuolettava flora puutarha ei ole vielä rakennettu.",
+    "dialog_startDonationEvent_desc4": "Uusi globaali ranking yhdistää pelaajat kaikilta palvelimilta ja testaa äärimmäistä voimaa ja taitoa. Kilpailu palkinnoista perustuu sijoitukseesi. Mitä nopeammin saat pisteitä, sitä korkeammalle sijoitut. Vaikka muut pelaajat saavuttaisivat saman pistemäärän, nopeammin osallistuvat saavat korkeamman arvosanan!",
+    "dialog_privateBestsellerShop_advent_tooltip": "Adventtarjoukset",
+    "dialog_chestOffer_desc_advent": "Avaa lomakalleja Adventtikirstun avulla!",
+    "dialog_chestOffer_title_advent": "Adventtikirstu",
+    "dialog_finish": "Suoritettu",
+    "dialog_startDonationEvent_desc3": "Keisari esitteli keisarillisen suojelusasiakirjan, antaen arkkitehdille tehtäväksi käsitellä runsaasti käytettävissä olevia materiaaleja. Tapahtuman lopussa kaikki keisarillisen suojelusasiakirjan kohdat palautetaan.",
+    "rewardReceived": "Palkkio saatu!",
+    "dialog_event_announcement_description_126": "Fatal Flora -puutarhassa on noussut valtava lihansyöjäkasvi, joka on nälkäinen sotilaitasi kohtaan! Onneksi kaupungin asukkaat ovat valmistaneet sotilaskeksejä houkutellakseen sitä. Fatal Flora Trap -tapahtumassa ruoki kasvia saadaksesi palkintoja, kuten Fatal Flora -koristeita, jotka parantavat julkista järjestystä ja lisäävät tehosteita koristealueellasi. Kilpaile muiden kanssa saavuttaaksesi paremmat palkinnot - liity mukaan ja nauti saaliista!",
+    "dialog_event_announcement_header_126": "Kuolettava kasvipast",
+    "dialog_title_gachadeco2x2": "Kuolettava kasvipast",
+    "help_deco_gacha": "Massiivinen lihansyöjäkasvi on juurtunut &lt;b&gt;Kuolettavan Floran Puutarhan&lt;/b&gt; eteen ja näyttää kehittäneen maun sotilaitasi kohtaan! Mutta älä pelkää—keksivät pikkukaupungin asukkaat ovat luoneet välipalan, jota kasvi ei yksinkertaisesti voi vastustaa. Ruokkimalla sitä &lt;b&gt;Sotilaskekseillä&lt;/b&gt;, saat runsaita palkintoja.\n\n&lt;b&gt;Kasvin Ruokkiminen:&lt;/b&gt;\nJokainen ruokinta tuo sinulle palkintoja - erittäin haluttuja Kuolettavan Floran Koristeita. Nämä koristeet eivät ainoastaan tuo runsaasti Julkisen järjestyksen arvoa kokoon nähden, vaan ne voivat myös myöntää lisävaikutuksia valtakunnallesi! Kuolettavan Floran Koristeita voidaan sijoittaa Kuolettavan Floran Puutarhan Koristealueelle, mikä lisää sekä alueen PO- että voimavaraarvoa.\n&lt;b&gt;Ranking ja Tasot:&lt;/b&gt;\nRanking-järjestelmä seuraa edistymistäsi ja tarjoaa saavutuspalkintoja perustuen sijoitukseesi. Tapahtuma sisältää myös järjestelmän, jossa on useita tasoja. Kun etenet tasolla, paras mahdollisuus saada paras Kuolettavan Floran Koriste paranee."
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0} % armeijan matkanopeuteen valloitusten aikana",
@@ -13741,7 +13756,6 @@
     "effect_group_6_9_active_malus": "-{0} % mainepisteisiin taistelussa",
     "effect_group_6_9_passive": "Bonus taistelussa ansaittuihin mainepisteisiin",
     "effect_group_8_4_active": "+{0} joukkojen kokoon puolustaessa sisäpihaa",
-    "effect_group_8_5_active": "+{0} liittouman tukijoukkojen kapasiteetti pihalla puolustettaessa",
     "ci_effect_defenseUnitAmountWall": "+{0}% joukkojen kapasiteettiin muurin puolustuksessa",
     "ci_effect_recruitmentSpeedBoostAll": "+{0} % värväysnopeuteen",
     "ci_effect_craftingQueueProductionBoost_2_tt": "Työkalusepän tuotantobonus:",
@@ -13766,7 +13780,15 @@
     "webshop_EliteTonnelonValue_desc": "Vähentää linnamuurin suojaa -{0}% ja lisää saatuja kunnia-pisteitä {1}%",
     "webshop_InvaderMaskValue_desc": "Vähentää kaukomaalaisten puolustajien vahvuutta -{0} ja lisää saavutettuja kunniapisteitä {1}%. Voidaan käyttää vain ulkomaisia herroja tai Verikorppeja vastaan.",
     "webshop_LadderoftheShogunValue_desc": "Vähentää leirin seinäsuojaa -{0}% ja lisää varastettujen samurai-tokenien määrää {1}%. Voidaan käyttää vain samurailöydöksiin.",
-    "webshop_NomadTokenChestValue_desc": "Lisää raivopisteiden määrää, joka ansaitaan Khan-leireihin hyökkäämällä {0}%"
+    "webshop_NomadTokenChestValue_desc": "Lisää varastettujen Kaanilaattojen määrää {0}%:lla.",
+    "effect_description_honorBonus": "+{0}% kunniapisteitä ansaittu taistelussa",
+    "effect_description_publicOrderBonusMain": "Lisää julkista järjestystä päälinnaasi +{0}",
+    "effect_description_toolProductionSpeedBoostAll": "+{0}% työkalujen tuotannon nopeus kaikille työkaluilla",
+    "effect_description_transportTaxDecreaseBoostGreen": "-{0}% Resurssikuljetuskustannukset: Suuri keisarikunta",
+    "effect_description_transportTaxDecreaseBoostIce": "-{0}% Resurssikuljetuskustannukset: Ikitalven jäätikkö",
+    "effect_description_transportTaxDecreaseBoostIsland": "-{0}% Resurssikuljetuskustannukset: Myrskysaaret",
+    "effect_description_transportTaxDecreaseBoostSand": "-{0}% Resurssien kuljetuskustannukset: Polttavat hiekat",
+    "effect_description_transportTaxDecreaseBoostVulcano": "-{0}% Resurssien kuljetuskustannukset: Tulihuiput"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Sankari",
@@ -17294,8 +17316,8 @@
     "equipment_unique_1102_desc": "Opasti pienen sankarin paholaismaisen sokkelon läpi. Muuttaa armeijasi hyökkääväksi varpusväeksi.",
     "equipment_unique_1103": "Varpusprinssin vaakuna",
     "equipment_unique_1103_desc": "Opasti pienen sankarin paholaismaisen sokkelon läpi. Muuttaa armeijasi hyökkääväksi varpusväeksi.",
-    "equipment_unique_1104": "Keisarillinen tulppaani",
-    "equipment_unique_1104_desc": "Uusiutumisen, uudelleensyntymän ja sankareiden uhrausten symboli. Muuntaa linnasi tulppaanimaailmaksi.",
+    "equipment_unique_1104": "Sadonkorjuujuhlan kalkkuna",
+    "equipment_unique_1104_desc": "Nämä raivokkaat linnut Horisontin Tuolla Puolen toimivat keisarillisina iskujoukkoina ja niitä tarjotaan keisarillisilla juhlavastaanotoilla. Muuttaa armeijasi lukuun ottamatta rynnäkköjä.",
     "equipment_unique_1105": "Keisarillinen tulppaani",
     "equipment_unique_1105_desc": "Uusiutumisen, uudelleensyntymän ja sankareiden uhrausten symboli. Muuntaa linnasi tulppaanimaailmaksi.",
     "equipment_unique_1106": "Keisarillinen tulppaani",
@@ -17605,7 +17627,21 @@
     "equipment_unique_1097_desc": "Muuttaa armeijasi zombilaumaksi, joka laahustaa hitaasti mutta varmasti syömään vihollisten aivot.",
     "equip_effect_description_attackBoostYardShapeshifter": "Tämä esine näyttää menettäneen voimansa... (Perintö)",
     "equip_effect_description_attackUnitAmountFlankShapeshifter": "Tämä esine näyttää menettäneen voimansa... (Perintö)",
-    "equip_effect_description_charmBoost": "Tämä esine näyttää menettäneen voimansa... (Perintö)"
+    "equip_effect_description_charmBoost": "Tämä esine näyttää menettäneen voimansa... (Perintö)",
+    "equipment_unique_1199_desc": "Itse keisari myöntää nämä arvokkaat munat uskollisimmille vasalleilleen. Muuttaa linnoituksesi menestyväksi gobbler-linnoitukseksi.",
+    "equipment_unique_1098_desc": "Nämä raivokkaat linnut Horisontin Tuolla Puolen toimivat keisarillisina iskujoukkoina ja niitä tarjotaan keisarillisilla juhlavastaanotoilla. Muuttaa armeijasi lukuun ottamatta rynnäkköjä.",
+    "equipment_unique_1099_desc": "Nämä raivokkaat linnut Horisontin Tuolla Puolen toimivat keisarillisina iskujoukkoina ja niitä tarjotaan keisarillisilla juhlavastaanotoilla. Muuttaa armeijasi lukuun ottamatta rynnäkköjä.",
+    "equipment_unique_1098": "Sadonkorjuujuhlan kalkkuna",
+    "equipment_unique_1099": "Sadonkorjuujuhlan kalkkuna",
+    "equipment_unique_1199": "Syksy muna",
+    "glacialamazonarcher_name": "Jääamazonin jousimies",
+    "glacialamazonguardian_name": "Jäätikkö Amazonin vartija",
+    "glacialamazonhuntress_name": "Jäätynyt Amazonin metsästäjä",
+    "glacialamazonwarrior_name": "Jää-Amazonas-soturi",
+    "ChristmasArcher_name": "Joulukaariampuja",
+    "ChristmasGuardian_name": "Jouluvahti",
+    "ChristmasHuntress_name": "Jouluharrastaja",
+    "ChristmasWarrior_name": "Joulusoturi"
   },
   "generic": {
     "activity": "Toiminta",
@@ -19655,7 +19691,8 @@
     "yourRankingPlaceholder": "Rankkisi: {0}",
     "yourRanking": "Sijoituksesi",
     "refresh": "Päivitä",
-    "rewardHubCollect": "Noudatkaa palkintojanne Palkintokeskuksessa!"
+    "rewardHubCollect": "Noudatkaa palkintojanne Palkintokeskuksessa!",
+    "eyecatcher_valuable": "Arvokas!"
   },
   "help": {
     "help_location": "Täältä saat yleiskatsauksen linnaasi ja etuvartioihisi liittyvään sisältöön.",
@@ -24199,7 +24236,15 @@
     "GlacialAmazonHuntress_short_name": "Jäätynyt amazonin metsästäjä",
     "GlacialAmazonWarrior_desc": "Julmat talvet ovat kovettaneet nämä soturit, jotka ilmentävät villiä henkeä ja heiluttavat kristalliteräisiä keihäitä armottomalla tarkkuudella vihollisiaan vastaan.",
     "GlacialAmazonWarrior_short_info": "Äärimmäisen tehokas lähitaistelija",
-    "GlacialAmazonWarrior_short_name": "Jäätikkö Amazonin soturi"
+    "GlacialAmazonWarrior_short_name": "Jäätikkö Amazonin soturi",
+    "ChristmasArcher_desc": "Nämä jousimiehet, puettuna juhlapukuihin, iskevät jääkylmillä, lumottuilla nuolilla, jotka jäädyttävät viholliset ytimeensä asti, tuoden sekä juhlavaa iloa että kylmää kostonhalua taistelukentälle.",
+    "ChristmasArcher_short_info": "Äärimmäisen voimakas etähyökkääjä",
+    "ChristmasGuardian_desc": "Korkeat suojelijat, joilla on karkkikeppimäiset miekat käsissään, puolustavat liittolaisiaan ja tuovat juhlafiilistä taistelukentälle.",
+    "ChristmasGuardian_short_info": "Äärimmäisen voimakas lähitaistelupuolustaja",
+    "ChristmasHuntress_desc": "Nämä valppaat metsästäjät vartioivat talvisia metsiä, heidän holly-päällysteiset nuolensa valmiina puolustamaan valtakuntaansa.",
+    "ChristmasHuntress_short_info": "Äärimmäisen voimakas kaukovahti",
+    "ChristmasWarrior_desc": "Piparmintun raidallisia keihäitä kantaen, nämä hurjat soturit syöksyvät eteenpäin pysäyttämättömällä lomahengellä, aiheuttaen pelkoa kaikille, jotka seisovat heidän tiellään.",
+    "ChristmasWarrior_short_info": "Äärimmäisen voimakas lähitaistelija"
   },
   "generic_flash": {
     "Footer": {

@@ -2663,62 +2663,6 @@
       "capID": 99
     },
     {
-      "effectID": 31,
-      "crossplayID": 31,
-      "name": "wallBonusCharge",
-      "effectTypeID": 6,
-      "capID": 99,
-      "areaTypeID": 39
-    },
-    {
-      "effectID": 32,
-      "crossplayID": 32,
-      "name": "gateBonusCharge",
-      "effectTypeID": 7,
-      "capID": 99,
-      "areaTypeID": 39
-    },
-    {
-      "effectID": 33,
-      "crossplayID": 33,
-      "name": "defenseUnitAmountWallCharge",
-      "effectTypeID": 12,
-      "capID": 99,
-      "areaTypeID": 39
-    },
-    {
-      "effectID": 34,
-      "crossplayID": 34,
-      "name": "meleeBonusCharge",
-      "effectTypeID": 9,
-      "capID": 99,
-      "areaTypeID": 39
-    },
-    {
-      "effectID": 35,
-      "crossplayID": 35,
-      "name": "rangeBonusCharge",
-      "effectTypeID": 10,
-      "capID": 99,
-      "areaTypeID": 39
-    },
-    {
-      "effectID": 36,
-      "crossplayID": 36,
-      "name": "defenseBonusCharge",
-      "effectTypeID": 31,
-      "capID": 99,
-      "areaTypeID": 39
-    },
-    {
-      "effectID": 37,
-      "crossplayID": 37,
-      "name": "defenseBoostYardCharge",
-      "effectTypeID": 32,
-      "capID": 99,
-      "areaTypeID": 39
-    },
-    {
       "effectID": 38,
       "crossplayID": 38,
       "name": "attackBonusCharge",
@@ -2918,7 +2862,7 @@
       "effectID": 337,
       "crossplayID": 337,
       "name": "currencyLootBoostBaronEconomy",
-      "effectTypeID": 168,
+      "effectTypeID": 2,
       "capID": 99,
       "sortOrder": "1.2.12"
     },
@@ -4670,7 +4614,7 @@
     {
       "effectID": 12208,
       "name": "relicCurrencyLootBoostNomadTabletsNomad",
-      "effectTypeID": 168,
+      "effectTypeID": 2,
       "capID": 99,
       "sortOrder": "6.14.3",
       "isPvEFight": 1
@@ -4678,7 +4622,7 @@
     {
       "effectID": 12209,
       "name": "relicCurrencyLootBoostSamuraiTokensSamurai",
-      "effectTypeID": 168,
+      "effectTypeID": 2,
       "capID": 99,
       "sortOrder": "6.16.3",
       "isPvEFight": 1
@@ -4686,7 +4630,7 @@
     {
       "effectID": 12210,
       "name": "relicCurrencyLootBoostKhanMedalsNomad",
-      "effectTypeID": 168,
+      "effectTypeID": 2,
       "capID": 99,
       "sortOrder": "6.17.1",
       "isPvEFight": 1
@@ -4694,7 +4638,7 @@
     {
       "effectID": 12211,
       "name": "relicCurrencyLootBoostSamuraiMedalsSamurai",
-      "effectTypeID": 168,
+      "effectTypeID": 2,
       "capID": 99,
       "sortOrder": "6.20.1",
       "isPvEFight": 1
@@ -4871,7 +4815,7 @@
     {
       "effectID": 12410,
       "name": "relicCurrencyLootBoostNomadTabletsNomad",
-      "effectTypeID": 168,
+      "effectTypeID": 2,
       "capID": 99,
       "sortOrder": "6.14.3",
       "isPvEFight": 1
@@ -4879,7 +4823,7 @@
     {
       "effectID": 12411,
       "name": "relicCurrencyLootBoostSamuraiTokensSamurai",
-      "effectTypeID": 168,
+      "effectTypeID": 2,
       "capID": 99,
       "sortOrder": "6.16.3",
       "isPvEFight": 1
@@ -4887,7 +4831,7 @@
     {
       "effectID": 12412,
       "name": "relicCurrencyLootBoostKhanMedalsNomad",
-      "effectTypeID": 168,
+      "effectTypeID": 2,
       "capID": 99,
       "sortOrder": "6.17.1",
       "isPvEFight": 1
@@ -4895,7 +4839,7 @@
     {
       "effectID": 12413,
       "name": "relicCurrencyLootBoostSamuraiMedalsSamurai",
-      "effectTypeID": 168,
+      "effectTypeID": 2,
       "capID": 99,
       "sortOrder": "6.20.1",
       "isPvEFight": 1

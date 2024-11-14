@@ -2032,7 +2032,11 @@
     "deco_fataltinybitebud_name": "Dødelig lille bid knopp",
     "deco_ExaltedRedFrostFountain_name": "Hævet rød frostfontæne",
     "deco_ExaltedGreenFrostFountain_name": "Den ophøjede grønne frostfontæne",
-    "deco_ExaltedPurpleFrostFountain_name": "Forhøjet lilla frostspringvand"
+    "deco_ExaltedPurpleFrostFountain_name": "Forhøjet lilla frostspringvand",
+    "deco_carnivorousPlantT1_name": "Dødelig flora fælde",
+    "deco_ExaltedGreenChristmasFountain_name": "Hævet grøn julefontæne",
+    "deco_ExaltedPurpleChristmasFountain_name": "Hævet lilla julefontæne",
+    "deco_ExaltedRedChristmasFountain_name": "Hævet rød julefontæne"
   },
   "dialogs": {
     "dialog_festival_desc": "Brug mad til at holde en fest for dine borgere! Rekrutteringshastigheden vil forøges på i jeres borge, så længe festen varer. Jo større festen er, jo større er effekten.",
@@ -12270,9 +12274,9 @@
     "webshop_tokenbundle_small_name": "Lille tokensbundt",
     "event_end_header_GachaDeco2x2": "Dødelig flora fælde",
     "event_announcement_header_126": "Dødelig plantefælde",
-    "helpPopup_GachaDeco2x2": "En kæmpe kødædende plante har slået rod foran &lt;b&gt;Dødelige Flora Have&lt;/b&gt;, og det ser ud til, at den har udviklet smag for dine soldater! Men frygt ikke—dine opfindsomme borgere har skabt en snack, som planten simpelthen ikke kan modstå. Ved at fodre den med &lt;b&gt;Soldaterkiks&lt;/b&gt; vil du blive generøst belønnet. &lt;/br&gt;&lt;/br&gt; &lt;b&gt;Fodring af planten:&lt;/b&gt;&lt;/br&gt; Hver fodring vil give dig belønninger - de meget eftertragtede Dødelige Flora Dekorationer. Disse dekorationer har ikke kun en stor værdi for offentlig orden, men kan også give yderligere effekter til dit kongerige! Dødelige Flora Dekorationer kan placeres i Dødelige Flora Have Dekorationsdistrikt, hvilket øger både offentlig orden og kraftværdien af distriktet selv. &lt;/br&gt;&lt;b&gt;Rangering og niveauer:&lt;/b&gt;&lt;/br&gt;Et rangsystem vil spore din fremgang og tilbyde præstationsbelønninger baseret på din rang. Arrangementet inkluderer også et system med flere niveauer. Efterhånden som du skrider frem gennem niveauerne, forbedres chancen for at få den bedste Dødelige Flora Dekoration.",
+    "helpPopup_GachaDeco2x2": "En kæmpe kødædende plante har slået rod foran &lt;b&gt;Fatal Flora Garden&lt;/b&gt;, og det ser ud til, at den har udviklet en smag for dine soldater! Men frygt ikke - dine opfindsomme byboere har lavet en snack, som planten simpelthen ikke kan modstå. Ved at fodre den med &lt;b&gt;Soldier Biscuits&lt;/b&gt; vil du blive generøst belønnet.\n\n&lt;b&gt;Fodring af planten:&lt;/b&gt;\nHver fodring vil give dig belønninger - de højt eftertragtede Fatal Flora-dekorationer. Disse dekorationer har ikke kun stor værdi for den offentlige orden, men kan også give yderligere effekter til dit kongerige! Fatal Flora-dekorationer kan placeres i Fatal Flora Garden Decoration District, hvilket øger både PO-værdien og magt-værdien i distriktet.\n&lt;b&gt;Rangering og niveauer:&lt;/b&gt;\nEt rangeringssystem vil spore din fremgang og tilbyde præstationsbelønninger baseret på din rang. Begivenheden inkluderer også et system med flere niveauer. Når du skrider frem gennem niveauerne, forbedres chancen for at få den bedste Fatal Flora-dekoration.",
     "tooltip_gachaName_GachaDeco2x2": "Dødelig flora fælde",
-    "event_announcement_description_126": "En kæmpe kødædende plante har slået rod foran den Fatale Flora Have, og den ser ud til at have udviklet en smag for dine soldater! Men frygt ikke - dine opfindsomme borgere har skabt en snack, som planten simpelthen ikke kan modstå. Ved at fodre den med Soldatkager vil du blive generøst belønnet. I løbet af Fatal Flora Trap-eventet skal du fodre planten for at samle belønninger som Fatal Flora Dekorationer, der styrker den offentlige orden og giver særlige effekter i dit Fatal Flora Dekorationsdistrikt. Derudover kan du tjene rangeringsbelønninger baseret på din præstation sammenlignet med andre spillere. Sørg for at deltage og nyde belønningerne!",
+    "event_announcement_description_126": "En kæmpe kødædende plante er spirret i Fatal Flora Haven og har appetit på dine soldater! Heldigvis har dine byfolk lavet Soldatkiks for at lokke den. I Fatal Flora Trap-begivenheden skal du fodre planten for at tjene belønninger som Fatal Flora Dekorationer, der forbedrer den offentlige orden og tilføjer effekter i dit Dekorationsdistrikt. Konkurrer med andre om rangbelønninger – deltag og nyd udbyttet!",
     "event_end_description_GachaDeco2x2": "Den massive kødædende plante har endelig fået nok, og Fatal Flora Trap-begivenheden er slut. Dine modige bestræbelser på at fodre den med Soldatkager er ikke blevet overset, og belønningerne, du har optjent, vil snart være dine.",
     "gachaPull_milestone_GachaDeco2x2": "Foder",
     "gachaPull_milestone_tooltip_amount_GachaDeco2x2": "{0}/{1} Foder",
@@ -12447,16 +12451,27 @@
     "effect_group_7_19_passive": "Træproduktionsbonus",
     "effect_group_7_1_active": "+{0}% Kongerigsressourceproduktion",
     "effect_group_7_1_passive": "Bonus til ressourceproduktion i kongeriget",
-    "event_rewards_heade_GachaDeco2x2": "Event rang belønninger",
+    "event_rewards_header": "Event rang belønninger",
     "milestone_reward": "Milepæl fuldført! Du vil modtage følgende belønninger:",
     "capReachedRanking_DonationEvent": "{0} Donationer hæver nu kun din rang.",
     "dialog_startDonationEvent_desc2": "Bygninger kommer i forskellige kategorier med deres egne belønninger. Opgrader hver belønning fra hver kategori uafhængigt. Jo flere point, jo bedre belønninger. Point og det kejserlige beskyttercharter nulstilles ved slutningen af begivenheden.",
-    "dialog_startDonationEvent_desc3": "Den nye globale rangordning samler spillere fra alle servere og tester ultimativ styrke og færdigheder. Konkurrer om at vinde belønninger baseret på din rang – jo hurtigere du bidrager, jo højere vil du stige!",
     "rankingGlobal": "Global rangering",
-    "ranking_description_DonationEvent": "Bidrag med ressourcer for at tjene værdifulde belønninger! Det globale rangordningssystem sporer din fremgang og tilbyder præstationsbelønninger baseret på din rang. Når begivenheden er slut, kan du indløse dine belønninger i Belønningshub.",
     "filter_decoType_onlyRelics": "Relikviebygninger",
     "DecorationStorehouse_name": "Dekorationslager",
-    "filter_decoType_onlyLocals": "Lokale bygninger"
+    "filter_decoType_onlyLocals": "Lokale bygninger",
+    "ranking_description_DonationEvent": "Bidrag til at tjene belønninger! Den globale rangering sporer din fremgang – jo hurtigere du scorer, jo højere vil du rangere. Indløs belønninger i Belønningshuben, når begivenheden slutter.",
+    "DecoDistrict2x2_notbuilt": "Den dødelige flora have er endnu ikke bygget.",
+    "dialog_startDonationEvent_desc4": "Den nye globale rangering samler spillere fra alle servere og tester ultimativ kraft og dygtighed. Konkurrer om belønninger baseret på din rang – jo hurtigere du scorer, jo højere placeres du! Ved samme score rangeres de hurtigste højere!",
+    "dialog_privateBestsellerShop_advent_tooltip": "Adventstilbud",
+    "dialog_chestOffer_desc_advent": "Pak dine ferie skatte ud med adventskisten!",
+    "dialog_chestOffer_title_advent": "Adventskiste",
+    "dialog_finish": "Fuldført",
+    "dialog_startDonationEvent_desc3": "Kejseren introducerede det Kejserlige Patronage Charter, der gav arkitekten til opgave at behandle de materialer, du har i overflod. Ved slutningen af begivenheden vil alle punkter i det Kejserlige Patronage Charter blive nulstillet.",
+    "rewardReceived": "Belønning modtaget!",
+    "dialog_event_announcement_description_126": "En kæmpe kødædende plante er spirret i Fatal Flora Haven og har appetit på dine soldater! Heldigvis har dine byfolk lavet Soldatkiks for at lokke den. I Fatal Flora Trap-begivenheden skal du fodre planten for at tjene belønninger som Fatal Flora Dekorationer, der forbedrer den offentlige orden og tilføjer effekter i dit Dekorationsdistrikt. Konkurrer med andre om rangbelønninger – deltag og nyd udbyttet!",
+    "dialog_event_announcement_header_126": "Dødelig plantefælde",
+    "dialog_title_gachadeco2x2": "Dødelig plantefælde",
+    "help_deco_gacha": "En kæmpe kødædende plante har slået rod foran &lt;b&gt;Fatal Flora Garden&lt;/b&gt;, og det ser ud til, at den har udviklet en smag for dine soldater! Men frygt ikke - dine opfindsomme byboere har lavet en snack, som planten simpelthen ikke kan modstå. Ved at fodre den med &lt;b&gt;Soldier Biscuits&lt;/b&gt; vil du blive generøst belønnet.\n\n&lt;b&gt;Fodring af planten:&lt;/b&gt;\nHver fodring vil give dig belønninger - de højt eftertragtede Fatal Flora-dekorationer. Disse dekorationer har ikke kun stor værdi for den offentlige orden, men kan også give yderligere effekter til dit kongerige! Fatal Flora-dekorationer kan placeres i Fatal Flora Garden Decoration District, hvilket øger både PO-værdien og magt-værdien i distriktet.\n&lt;b&gt;Rangering og niveauer:&lt;/b&gt;\nEt rangeringssystem vil spore din fremgang og tilbyde præstationsbelønninger baseret på din rang. Begivenheden inkluderer også et system med flere niveauer. Når du skrider frem gennem niveauerne, forbedres chancen for at få den bedste Fatal Flora-dekoration."
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0} % hærens rejsehastighed under erobringer",
@@ -13741,7 +13756,6 @@
     "effect_group_6_9_active_malus": "-{0} % hæderpoint optjent i kamp",
     "effect_group_6_9_passive": "Kampbonus på hæderpoint",
     "effect_group_8_4_active": "+{0} kapacitet for tropper ved forsvaret af borggården",
-    "effect_group_8_5_active": "+{0} alliancens støttekapacitet for tropper ved forsvar af gården",
     "ci_effect_defenseUnitAmountWall": "+{0}% til tropkapacitet ved væbeforsvar",
     "ci_effect_recruitmentSpeedBoostAll": "+{0} % rekrutteringshastighed",
     "ci_effect_craftingQueueProductionBoost_2_tt": "Produktion bonus for værktøjsmager:",
@@ -13766,7 +13780,15 @@
     "webshop_EliteTonnelonValue_desc": "Reducerer beskyttelsen af slotsmuren med -{0}% og øger de modtagne ærespoint med {1}%",
     "webshop_InvaderMaskValue_desc": "Reducerer styrken af afstandsdefensore med -{0} og øger de opnåede ærepoint med {1}%. Kan kun bruges mod udenlandske herrer eller Blodkrager.",
     "webshop_LadderoftheShogunValue_desc": "Reducerer lejrens vægbeskyttelse med -{0}% og øger mængden af stjålne samurai tokens med {1}%. Kan kun bruges mod samurai-lejre.",
-    "webshop_NomadTokenChestValue_desc": "Øger mængden af vrede point optjent ved angreb på Khan-lejre med {0}%"
+    "webshop_NomadTokenChestValue_desc": "Øger mængden af Khan-tavler, der er plyndret med {0}%",
+    "effect_description_honorBonus": "+{0}% ærepoint optjent i kamp",
+    "effect_description_publicOrderBonusMain": "Øger den offentlige orden i dit hovedslot med +{0}",
+    "effect_description_toolProductionSpeedBoostAll": "+{0}% værktøjsproduktionshastighed for alle værktøjer",
+    "effect_description_transportTaxDecreaseBoostGreen": "-{0}% Transportomkostninger for ressourcer: Det Store Rige",
+    "effect_description_transportTaxDecreaseBoostIce": "-{0}% Ressource transportomkostninger: Altidvinter-gletsjeren",
+    "effect_description_transportTaxDecreaseBoostIsland": "-{0}% Ressource transportomkostninger: Stormøerne",
+    "effect_description_transportTaxDecreaseBoostSand": "-{0}% Transportomkostninger for ressourcer: Brændende sand",
+    "effect_description_transportTaxDecreaseBoostVulcano": "-{0}% Transportomkostninger for ressourcer: Ildtinder"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Helt",
@@ -17294,8 +17316,8 @@
     "equipment_unique_1102_desc": "Førte en lille helt gennem en helvedeslabyrint. Forvandler din hær til en flok spurveryttere.",
     "equipment_unique_1103": "Spurveprinsens kam",
     "equipment_unique_1103_desc": "Førte en lille helt gennem en helvedeslabyrint. Forvandler din hær til en flok spurveryttere.",
-    "equipment_unique_1104": "Kejserlig tulipan",
-    "equipment_unique_1104_desc": "Et symbol på fornyelse, genfødsel og heltenes opofrelse. Forvandler din borg til et paradis fuld af tulipaner.",
+    "equipment_unique_1104": "Høstfest kalkun",
+    "equipment_unique_1104_desc": "Disse vilde fugle fra Uden for Horisonten fungerer som kejserlige stødtrupper og serveres ved kejserlige banketter. Forvandler din hær til en gruppe ladende gobler.",
     "equipment_unique_1105": "Kejserlig tulipan",
     "equipment_unique_1105_desc": "Et symbol på fornyelse, genfødsel og heltenes opofrelse. Forvandler din borg til et paradis fuld af tulipaner.",
     "equipment_unique_1106": "Kejserlig tulipan",
@@ -17605,7 +17627,21 @@
     "equipment_unique_1097_desc": "Forvandler din hær til en horde af zombier, der langsomt, men støt æder sig ind på deres fjenders hjerner.",
     "equip_effect_description_attackBoostYardShapeshifter": "Denne genstand ser ud til at have mistet sine kræfter... (Arv)",
     "equip_effect_description_attackUnitAmountFlankShapeshifter": "Denne genstand ser ud til at have mistet sine kræfter... (Arv)",
-    "equip_effect_description_charmBoost": "Denne genstand ser ud til at have mistet sine kræfter... (Arv)"
+    "equip_effect_description_charmBoost": "Denne genstand ser ud til at have mistet sine kræfter... (Arv)",
+    "equipment_unique_1199_desc": "Keiseren selv giver disse værdifulde æg til sine mest loyale vasaller. Forvandler dit slot til en velstående gobler-fæstning.",
+    "equipment_unique_1098_desc": "Disse vilde fugle fra Uden for Horisonten fungerer som kejserlige stødtrupper og serveres ved kejserlige banketter. Forvandler din hær til en gruppe ladende gobler.",
+    "equipment_unique_1099_desc": "Disse vilde fugle fra Uden for Horisonten fungerer som kejserlige stødtrupper og serveres ved kejserlige banketter. Forvandler din hær til en gruppe ladende gobler.",
+    "equipment_unique_1098": "Høstselskabets kalkun",
+    "equipment_unique_1099": "Høstselskabets kalkun",
+    "equipment_unique_1199": "Efterårsæg",
+    "glacialamazonarcher_name": "Glacial Amazon-bueskytte",
+    "glacialamazonguardian_name": "Glacial Amazonvagt",
+    "glacialamazonhuntress_name": "Glacial Amazon Jægerinde",
+    "glacialamazonwarrior_name": "Gletscher Amazonas Kriger",
+    "ChristmasArcher_name": "Julebuemand",
+    "ChristmasGuardian_name": "Julevagten",
+    "ChristmasHuntress_name": "Julejægerinde",
+    "ChristmasWarrior_name": "Julekriger"
   },
   "generic": {
     "activity": "Aktivitet",
@@ -19655,7 +19691,8 @@
     "yourRankingPlaceholder": "Din rang: {0}",
     "yourRanking": "Din placering",
     "refresh": "Opdatering",
-    "rewardHubCollect": "Indløs dine belønninger i Belønningshuben!"
+    "rewardHubCollect": "Indløs dine belønninger i Belønningshuben!",
+    "eyecatcher_valuable": "Værdifuld!"
   },
   "help": {
     "help_location": "Her har I en global oversigt over det vigtige indhold i jeres borg og alle jeres forposter.",
@@ -24199,7 +24236,15 @@
     "GlacialAmazonHuntress_short_name": "Glacial Amazon-jægerinde",
     "GlacialAmazonWarrior_desc": "Hærdet af brutale vintre, disse krigere legemliggør en vild ånd og svinger krystalkantede spyd med ubarmhjertig præcision mod deres fjender.",
     "GlacialAmazonWarrior_short_info": "Ekstremt kraftfuld nærkampsangriber",
-    "GlacialAmazonWarrior_short_name": "Glacier Amazonekriger"
+    "GlacialAmazonWarrior_short_name": "Glacier Amazonekriger",
+    "ChristmasArcher_desc": "Disse bueskytter, klædt i festtøj, angriber med iskolde, fortryllede pile, der fryser fjenderne til kernen og bringer både juleglæde og kold hævn til slagmarken.",
+    "ChristmasArcher_short_info": "Ekstremt kraftfuld afstandsangriber",
+    "ChristmasGuardian_desc": "Tårnhøje beskyttere med slikstokke i hånden, disse vogtere beskytter deres allierede og bringer juleglæde til slagmarken.",
+    "ChristmasGuardian_short_info": "Ekstremt kraftfuld nærkampsforsvarer",
+    "ChristmasHuntress_desc": "Disse årvågne jægere står vagt i de vinterlige skove, deres holly-spidsede pile klar til at afvise enhver, der truer deres rige.",
+    "ChristmasHuntress_short_info": "Ekstremt kraftfuld afstandsforsvarer",
+    "ChristmasWarrior_desc": "Udrageret med pebermynte-stribede lanser, disse frygtindgydende krigere charger frem med en ustoppelig ferieånd, og skaber frygt hos alle, der står i deres vej.",
+    "ChristmasWarrior_short_info": "Ekstremt kraftfuld nærkampsangriber"
   },
   "generic_flash": {
     "Footer": {

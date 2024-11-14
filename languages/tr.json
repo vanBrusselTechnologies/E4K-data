@@ -2032,7 +2032,11 @@
     "deco_fataltinybitebud_name": "Ölümcül küçük ısırık",
     "deco_ExaltedRedFrostFountain_name": "Yüce Kırmızı Donmuş Şelale",
     "deco_ExaltedGreenFrostFountain_name": "Yüce yeşil donmuş çeşme",
-    "deco_ExaltedPurpleFrostFountain_name": "Yüce mor donmuş çeşme"
+    "deco_ExaltedPurpleFrostFountain_name": "Yüce mor donmuş çeşme",
+    "deco_carnivorousPlantT1_name": "Ölümcül bitki tuzağı",
+    "deco_ExaltedGreenChristmasFountain_name": "Yüce yeşil Noel çeşmesi",
+    "deco_ExaltedPurpleChristmasFountain_name": "Yüce mor Noel çeşmesi",
+    "deco_ExaltedRedChristmasFountain_name": "Yüce Kırmızı Noel Çeşmesi"
   },
   "dialogs": {
     "dialog_festival_desc": "Yurttaşlarınıza bir şenlik düzenlemek için yiyecek kullanın!\nŞenlik devam ettiği sürece askere alma hızı tüm kalelerinizde belirgin şekilde artacak. Şenlik ne kadar büyük olursa, etkisi de o kadar büyük olur.",
@@ -12270,9 +12274,9 @@
     "webshop_tokenbundle_small_name": "Küçük Token Paketi",
     "event_end_header_GachaDeco2x2": "Ölümcül bitki tuzağı",
     "event_announcement_header_126": "Ölümcül bitki tuzağı",
-    "helpPopup_GachaDeco2x2": "Büyük bir etobur bitki, &lt;b&gt;Fatal Flora Garden&lt;/b&gt;ın önünde kök saldı ve görünüşe göre askerlerinize karşı bir iştah geliştirmiş! Ama korkmayın—sizin becerikli kasabalılarınız, bitkinin asla karşı koyamayacağı bir atıştırmalık yarattı. &lt;b&gt;Asker Bisküvileri&lt;/b&gt; ile besleyerek cömert bir şekilde ödüllendirileceksiniz. &lt;/br&gt;&lt;/br&gt; &lt;b&gt;Bitkiyi Besleme:&lt;/b&gt;&lt;/br&gt; Her besleme size ödüller kazandıracak - oldukça arzulanan Fatal Flora Dekorasyonları. Bu dekorasyonlar, boyutları için yeterli Kamu Düzeni değerine sahip değil, aynı zamanda krallığınıza ek etkiler de sağlayabilir! Fatal Flora Dekorasyonları, Fatal Flora Garden Dekorasyon Bölgesine yerleştirilebilir, böylece hem bölgenin PO hem de güç değerini artırır. &lt;/br&gt;&lt;b&gt;Sıralama ve Seviyeler:&lt;/b&gt;&lt;/br&gt;Bir sıralama sistemi ilerlemenizi takip edecek ve rütbenize dayalı olarak başarı ödülleri sunacak. Etkinlik ayrıca birden fazla seviyeden oluşan bir sistemi de içermektedir. Seviyelerde ilerledikçe, en iyi Fatal Flora Dekorasyonu elde etme şansınız artar.",
+    "helpPopup_GachaDeco2x2": "Büyük bir etobur bitki &lt;b&gt;Fatal Flora Garden&lt;/b&gt; önünde kök saldı ve askerlerinize karşı bir iştah geliştirmiş gibi görünüyor! Ama korkmayın—yaratıcı kasaba halkınız bitkinin karşı koyamayacağı bir atıştırmalık yarattı. &lt;b&gt;Asker Bisküvileri&lt;/b&gt; ile besleyerek cömertçe ödüllendirileceksiniz.\n\n&lt;b&gt;Bitkiyi Beslemek:&lt;/b&gt;\nHer besleme, size çok arzulanan Fatal Flora Dekorasyonları ile ödüllendirecektir. Bu dekorasyonlar, boyutlarına göre yeterli Kamu Düzeni değerine sahip olmakla kalmaz, aynı zamanda krallığınız için ek etkiler de sunabilir! Fatal Flora Dekorasyonları, Fatal Flora Garden Dekorasyon Bölgesinde yerleştirilebilir ve bölgenin hem PO hem de güç değerini artırır.\n&lt;b&gt;Derecelendirme ve Seviyeler:&lt;/b&gt;\nBir derecelendirme sistemi ilerlemenizi takip edecek ve sıralamanıza göre başarı ödülleri sunacaktır. Etkinlik ayrıca birden fazla seviyeye sahip bir sistem içermektedir. Seviyeler arasında ilerledikçe en iyi Fatal Flora Dekorasyonunu alma şansınız artar.",
     "tooltip_gachaName_GachaDeco2x2": "Ölümcül bitki tuzağı",
-    "event_announcement_description_126": "Büyük bir etobur bitki, Fatal Flora Bahçesinin önünde kök saldı ve görünüşe göre askerlerinizi tatmak için gelişti! Ama korkmayın - kaynakçı kasabalılarınız, bitkinin karşı koyamadığı bir atıştırmalık yarattılar. Asker Bisküvileri ile besleyerek cömertçe ödüllendirileceksiniz. Fatal Flora Tuzak etkinliği sırasında, bitkiye besleyerek, Kamu Düzenini artıran ve Fatal Flora Dekorasyon Bölgesinde özel etkiler veren Fatal Flora Dekorasyonları gibi ödüller toplayın. Ayrıca, diğer oyuncularla karşılaştırıldığında performansınıza dayalı olarak sıralama ödülleri kazanın. Katılmayı ve ödüllerin tadını çıkarmayı unutmayın!",
+    "event_announcement_description_126": "Fatal Flora Bahçesinde dev bir etobur bitki türedi ve askerlerinizi avlamak için açlık duyuyor! Neyse ki, kasabalılarınız onu çekmek için Asker Bisküvileri hazırladı. Fatal Flora Tuzak etkinliğinde, bitkiyi besleyerek Kamu Düzeni artıran ve Dekorasyon Bölgenizde etkiler ekleyen Fatal Flora Dekorasyonları gibi ödüller kazanın. Sıralama ödülleri için diğerleriyle rekabet edin — katılın ve ganimetin tadını çıkarın!",
     "event_end_description_GachaDeco2x2": "Büyük etobur bitki sonunda doymuş durumda ve Fatal Flora Trap etkinliği sona erdi. Ona Asker Kurabiyeleri yedirme konusundaki cesur çabaların göz ardı edilmedi ve kazandığın ödüller yakında senin olacak.",
     "gachaPull_milestone_GachaDeco2x2": "Yemler",
     "gachaPull_milestone_tooltip_amount_GachaDeco2x2": "{0}/{1} Yem",
@@ -12447,16 +12451,27 @@
     "effect_group_7_19_passive": "Ahşap üretim bonusu",
     "effect_group_7_1_active": "+{0}% Krallık kaynak üretimi",
     "effect_group_7_1_passive": "Krallık kaynak üretim bonusu",
-    "event_rewards_heade_GachaDeco2x2": "Etkinlik Sıralama Ödülleri",
+    "event_rewards_header": "Etkinlik Sıralama Ödülleri",
     "milestone_reward": "Dönüm noktası tamamlandı! Aşağıdaki ödülleri alacaksınız:",
     "capReachedRanking_DonationEvent": "{0} Bağışlar artık yalnızca sıralamanızı artırıyor.",
     "dialog_startDonationEvent_desc2": "Binalar, kendi ödülleri ile birlikte farklı kategorilerde gelir. Her kategoriden her ödülü bağımsız olarak yükseltin. Daha fazla puan, daha iyi ödüller demektir. Olayın sonunda puanlar ve İmparatorluk Koruma Belgesi sıfırlanır.",
-    "dialog_startDonationEvent_desc3": "Yeni Küresel Sıralama, tüm sunuculardaki oyuncuları bir araya getirerek nihai güç ve beceriyi test ediyor. Sıralamanıza dayalı ödülleri talep etmek için rekabet edin – ne kadar hızlı katkıda bulunursanız, o kadar yükseğe çıkarsınız!",
     "rankingGlobal": "Küresel Sıralama",
-    "ranking_description_DonationEvent": "Değerli ödüller kazanmak için kaynak katkısında bulunun! Küresel sıralama sistemi ilerlemenizi takip eder ve sıralamanıza göre başarı ödülleri sunar. Etkinlik sona erdiğinde, ödüllerinizi Ödül Merkezinden talep edin.",
     "filter_decoType_onlyRelics": "Kalıntı binalar",
     "DecorationStorehouse_name": "Dekorasyon deposu",
-    "filter_decoType_onlyLocals": "Yerel binalar"
+    "filter_decoType_onlyLocals": "Yerel binalar",
+    "ranking_description_DonationEvent": "Ödüller kazanmak için katkıda bulunun! Küresel sıralama ilerlemenizi takip eder - ne kadar hızlı puan alırsanız, o kadar yüksek sıralanırsınız. Etkinlik sona erdiğinde Ödül Merkezinde ödüllerinizi talep edin.",
+    "DecoDistrict2x2_notbuilt": "Ölümcül flora bahçesi henüz inşa edilmedi.",
+    "dialog_startDonationEvent_desc4": "Yeni Küresel Sıralama, tüm sunuculardaki oyuncuları bir araya getirerek nihai güç ve beceriyi test ediyor. Sıralamanıza dayalı ödüller için rekabet edin. Ne kadar hızlı puan kazanırsanız, o kadar yükseğe yerleşirsiniz. Diğer oyuncular aynı puana ulaşsa bile, daha hızlı katkıda bulunanlar daha yüksek sıralamada yer alacak!",
+    "dialog_privateBestsellerShop_advent_tooltip": "Advent Teklifleri",
+    "dialog_chestOffer_desc_advent": "Advent Sandığı ile tatil hazinelerini açın!",
+    "dialog_chestOffer_title_advent": "Advent Sandığı",
+    "dialog_finish": "Tamamlandı",
+    "dialog_startDonationEvent_desc3": "İmparator, mimara bol miktarda bulunan malzemeleri işlemeyi görevle belirten İmparatorluk Koruma Şartnamesini tanıttı. Etkinliğin sonunda, İmparatorluk Koruma Şartnamesindeki tüm maddeler sıfırlanacaktır.",
+    "rewardReceived": "Ödül alındı!",
+    "dialog_event_announcement_description_126": "Fatal Flora Bahçesinde dev bir etobur bitki türedi ve askerlerinizi avlamak için açlık duyuyor! Neyse ki, kasabalılarınız onu çekmek için Asker Bisküvileri hazırladı. Fatal Flora Tuzak etkinliğinde, bitkiyi besleyerek Kamu Düzeni artıran ve Dekorasyon Bölgenizde etkiler ekleyen Fatal Flora Dekorasyonları gibi ödüller kazanın. Sıralama ödülleri için diğerleriyle rekabet edin — katılın ve ganimetin tadını çıkarın!",
+    "dialog_event_announcement_header_126": "Ölümcül bitki tuzağı",
+    "dialog_title_gachadeco2x2": "Ölümcül bitki tuzağı",
+    "help_deco_gacha": "Büyük bir etobur bitki &lt;b&gt;Fatal Flora Garden&lt;/b&gt; önünde kök saldı ve askerlerinize karşı bir iştah geliştirmiş gibi görünüyor! Ama korkmayın—yaratıcı kasaba halkınız bitkinin karşı koyamayacağı bir atıştırmalık yarattı. &lt;b&gt;Asker Bisküvileri&lt;/b&gt; ile besleyerek cömertçe ödüllendirileceksiniz.\n\n&lt;b&gt;Bitkiyi Beslemek:&lt;/b&gt;\nHer besleme, size çok arzulanan Fatal Flora Dekorasyonları ile ödüllendirecektir. Bu dekorasyonlar, boyutlarına göre yeterli Kamu Düzeni değerine sahip olmakla kalmaz, aynı zamanda krallığınız için ek etkiler de sunabilir! Fatal Flora Dekorasyonları, Fatal Flora Garden Dekorasyon Bölgesinde yerleştirilebilir ve bölgenin hem PO hem de güç değerini artırır.\n&lt;b&gt;Derecelendirme ve Seviyeler:&lt;/b&gt;\nBir derecelendirme sistemi ilerlemenizi takip edecek ve sıralamanıza göre başarı ödülleri sunacaktır. Etkinlik ayrıca birden fazla seviyeye sahip bir sistem içermektedir. Seviyeler arasında ilerledikçe en iyi Fatal Flora Dekorasyonunu alma şansınız artar."
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+%{0} - Fetihlerde ordu yolculuk hızı",
@@ -13741,7 +13756,6 @@
     "effect_group_6_9_active_malus": "-%{0} savaşta kazanılan şöhret puanı",
     "effect_group_6_9_passive": "Savaşta kazanılan şöhret puanı bonusu",
     "effect_group_8_4_active": "Avlu savunulurken +{0} birlik kapasitesi",
-    "effect_group_8_5_active": "+{0} avlunun savunmasında ittifak destek birlikleri kapasitesi",
     "ci_effect_defenseUnitAmountWall": "+{0}% duvar savunmasında asker kapasitesine",
     "ci_effect_recruitmentSpeedBoostAll": "+%{0} silah altına alma hızı",
     "ci_effect_craftingQueueProductionBoost_2_tt": "Alet ustası üretim bonusu:",
@@ -13766,7 +13780,15 @@
     "webshop_EliteTonnelonValue_desc": "Kale duvarı korumasını -{0}% azaltır ve alınan Şan Puanlarını {1}% artırır.",
     "webshop_InvaderMaskValue_desc": "Uzaktan savunucuların gücünü -{0} kadar azaltır ve alınan Şan Puanlarını %{1} artırır. Sadece yabancı lordlara veya Kanatlılara karşı kullanılabilir.",
     "webshop_LadderoftheShogunValue_desc": "Kampın duvar korumasını -{0}% azaltır ve ele geçirilen Samurai Tokenlarını {1}% artırır. Sadece samuray kamplarına karşı kullanılabilir.",
-    "webshop_NomadTokenChestValue_desc": "Khan kamplarına saldırdığınızda kazanılan öfke puanlarını %{0} artırır."
+    "webshop_NomadTokenChestValue_desc": "Çalınan Han Tabletleri miktarını %{0} artırır.",
+    "effect_description_honorBonus": "+{0}% savaşta kazanılan onur puanı",
+    "effect_description_publicOrderBonusMain": "Ana kalesindeki kamu düzenini +{0} artırır",
+    "effect_description_toolProductionSpeedBoostAll": "+{0}% tüm araçlar için alet üretim hızı",
+    "effect_description_transportTaxDecreaseBoostGreen": "-{0}% Kaynak taşımacılık maliyetleri: Büyük İmparatorluk",
+    "effect_description_transportTaxDecreaseBoostIce": "-{0}% Kaynak taşıma maliyetleri: Herdem Buzul",
+    "effect_description_transportTaxDecreaseBoostIsland": "-{0}% Kaynak taşıma maliyetleri: Fırtına Adaları",
+    "effect_description_transportTaxDecreaseBoostSand": "-{0}% Kaynak taşıma maliyetleri: Yanan Kumlar",
+    "effect_description_transportTaxDecreaseBoostVulcano": "-{0}% Kaynak taşıma maliyetleri: Ateş Zirveleri"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Kahraman",
@@ -17294,8 +17316,8 @@
     "equipment_unique_1102_desc": "Cehennemi bir labirentte küçük bir kahramana yol gösterdin. Ordunu bir serçe şövalye grubuna dönüştürür.",
     "equipment_unique_1103": "Serçe prensin tacı",
     "equipment_unique_1103_desc": "Cehennemi bir labirentte küçük bir kahramana yol gösterdin. Ordunu bir serçe şövalye grubuna dönüştürür.",
-    "equipment_unique_1104": "İmparatorluk lalesi",
-    "equipment_unique_1104_desc": "Yenilenebilirliğin, yeniden doğuşun ve kahramanların fedakarlığının bir sembolü. Kaleni bir lale diyarına dönüştürür.",
+    "equipment_unique_1104": "Hasat şöleni hindi",
+    "equipment_unique_1104_desc": "Ufuk Ötesinden gelen bu vahşi kuşlar, imparatorluk şok birlikleri olarak hizmet eder ve imparatorluk ziyafetlerinde sunulur. Ordunu yüklenen goblerler grubuna dönüştürür.",
     "equipment_unique_1105": "İmparatorluk lalesi",
     "equipment_unique_1105_desc": "Yenilenebilirliğin, yeniden doğuşun ve kahramanların fedakarlığının bir sembolü. Kaleni bir lale diyarına dönüştürür.",
     "equipment_unique_1106": "İmpratorluk lalesi",
@@ -17605,7 +17627,21 @@
     "equipment_unique_1097_desc": "Ordunu, düşmanlarının beyinlerini tüketme yolunda yavaş ama istikrarlı bir şekilde ilerleyen bir zombi sürüsüne dönüştür.",
     "equip_effect_description_attackBoostYardShapeshifter": "Bu nesne güçlerini kaybetmiş gibi görünüyor... (Miras)",
     "equip_effect_description_attackUnitAmountFlankShapeshifter": "Bu nesne güçlerini kaybetmiş gibi görünüyor... (Miras)",
-    "equip_effect_description_charmBoost": "Bu nesne güçlerini kaybetmiş gibi görünüyor... (Miras)"
+    "equip_effect_description_charmBoost": "Bu nesne güçlerini kaybetmiş gibi görünüyor... (Miras)",
+    "equipment_unique_1199_desc": "İmparatorun kendisi bu değerli yumurtaları en sadık vasallarına verir. Kalenizi verimli bir gobbler kalesine dönüştürür.",
+    "equipment_unique_1098_desc": "Ufuk Ötesinden gelen bu vahşi kuşlar, imparatorluk şok birlikleri olarak hizmet eder ve imparatorluk ziyafetlerinde sunulur. Ordunu yüklenen goblerler grubuna dönüştürür.",
+    "equipment_unique_1099_desc": "Ufuk Ötesinden gelen bu vahşi kuşlar, imparatorluk şok birlikleri olarak hizmet eder ve imparatorluk ziyafetlerinde sunulur. Ordunu yüklenen goblerler grubuna dönüştürür.",
+    "equipment_unique_1098": "Hasat şöleni hindisi",
+    "equipment_unique_1099": "Hasat şöleni hindisi",
+    "equipment_unique_1199": "Sonbahar yumurtası",
+    "glacialamazonarcher_name": "Buzul Amazon Okçusu",
+    "glacialamazonguardian_name": "Buzul Amazon Koruyucusu",
+    "glacialamazonhuntress_name": "Buzul Amazon Avcısı",
+    "glacialamazonwarrior_name": "Buzul Amazon Savaşçısı",
+    "ChristmasArcher_name": "Noel Okçusu",
+    "ChristmasGuardian_name": "Noel Koruyucusu",
+    "ChristmasHuntress_name": "Noel Avcısı",
+    "ChristmasWarrior_name": "Noel Savaşçısı"
   },
   "generic": {
     "activity": "Etkinlik",
@@ -19655,7 +19691,8 @@
     "yourRankingPlaceholder": "Sıralamanız: {0}",
     "yourRanking": "Sralaman",
     "refresh": "Yenile",
-    "rewardHubCollect": "Ödüllerinizi Ödül Merkezinde talep edin!"
+    "rewardHubCollect": "Ödüllerinizi Ödül Merkezinde talep edin!",
+    "eyecatcher_valuable": "Değerli!"
   },
   "help": {
     "help_location": "Buradan kalenin tüm önemli ögelerine ve ileri karakollara genel olarak bakabilirsin.",
@@ -24199,7 +24236,15 @@
     "GlacialAmazonHuntress_short_name": "Buzul Amazon Avcısı",
     "GlacialAmazonWarrior_desc": "Sert kışlar tarafından sertleşmiş bu savaşçılar, acımasız bir hassasiyetle düşmanlarına karşı kristal kenarlı mızraklar kullanarak bir vahşi ruhu somutlaştırıyor.",
     "GlacialAmazonWarrior_short_info": "Son derece güçlü yakın dövüş saldırganı",
-    "GlacialAmazonWarrior_short_name": "Buzul Amazon Savaşçısı"
+    "GlacialAmazonWarrior_short_name": "Buzul Amazon Savaşçısı",
+    "ChristmasArcher_desc": "Bu kutlamalı kıyafetler giymiş okçular, düşmanları köklerine kadar donduran buzlu, büyülü oklarla saldırıyor ve savaş alanına hem tatil neşesi hem de soğuk intikam getiriyor.",
+    "ChristmasArcher_short_info": "Son derece güçlü menzilli saldırgan",
+    "ChristmasGuardian_desc": "Elinde şeker kamışı mızrakları olan yüksek koruyucular, bu koruyucular müttefiklerini savunur ve savaş alanına tatil neşesi getirir.",
+    "ChristmasGuardian_short_info": "Son derece güçlü yakın dövüş savunucusu",
+    "ChristmasHuntress_desc": "Bu uyanık avcılar kış ormanlarında nöbet tutuyorlar, kutsal dikenli okları, krallıklarını tehdit edenleri püskürtmek için hazır.",
+    "ChristmasHuntress_short_info": "Son derece güçlü menzilli savunucu",
+    "ChristmasWarrior_desc": "Nane çizgili mızraklarla donanmış bu vahşi savaşçılar, durdurulamaz bir tatil ruhuyla öne doğru atılır ve yollarına çıkan herkese korku salar.",
+    "ChristmasWarrior_short_info": "Son derece güçlü yakın dövüş saldırganı"
   },
   "generic_flash": {
     "Footer": {

@@ -2032,7 +2032,11 @@
     "deco_fataltinybitebud_name": "Dödlig liten bit",
     "deco_ExaltedRedFrostFountain_name": "Upphöjd röd frostkälla",
     "deco_ExaltedGreenFrostFountain_name": "Upphöjd grön frostfontän",
-    "deco_ExaltedPurpleFrostFountain_name": "Upphöjd lila frostfontän"
+    "deco_ExaltedPurpleFrostFountain_name": "Upphöjd lila frostfontän",
+    "deco_carnivorousPlantT1_name": "Dödlig växtfälla",
+    "deco_ExaltedGreenChristmasFountain_name": "Upphöjd grön julfontän",
+    "deco_ExaltedPurpleChristmasFountain_name": "Upphöjd lila julfontän",
+    "deco_ExaltedRedChristmasFountain_name": "Upphöjd röd julfontän"
   },
   "dialogs": {
     "dialog_festival_desc": "Använd mat för att anordna en fest för dina medborgare! Rekryteringshastigheten ökar betydligt i alla dina slott så länge festen försiggår. Ju större festen är, desto större effekt.",
@@ -12270,9 +12274,9 @@
     "webshop_tokenbundle_small_name": "Liten tokenpaket",
     "event_end_header_GachaDeco2x2": "Dödlig växtfälla",
     "event_announcement_header_126": "Dödlig växtfälla",
-    "helpPopup_GachaDeco2x2": "En massiv köttätande växt har slagit rot framför &lt;b&gt;Fatal Flora Garden&lt;/b&gt; och det verkar som om den har utvecklat en smak för dina soldater! Men frukta inte - dina påhittiga medborgare har skapat ett snacks som växten helt enkelt inte kan motstå. Genom att mata den med &lt;b&gt;Soldatkex&lt;/b&gt; kommer du att belönas generöst. &lt;/br&gt;&lt;/br&gt; &lt;b&gt;Matande växten:&lt;/b&gt;&lt;/br&gt; Varje matning kommer att ge dig belöningar - de mycket eftertraktade Fatal Flora-dekorationerna. Dessa dekorationer har inte bara ett stort värde för offentlig ordning i förhållande till sin storlek, utan de kan också ge ytterligare effekter till ditt kungarike! Fatal Flora-dekorationer kan placeras i Dekorationsdistriktet för Fatal Flora Garden, vilket ökar både PO- och maktvärdet för distriktet i sig. &lt;/br&gt;&lt;b&gt;Rankning och Nivåer:&lt;/b&gt;&lt;/br&gt; Ett rankningssystem kommer att spåra din framsteg, och erbjuda prestationer och belöningar baserat på din rang. Evenemanget inkluderar också ett system med flera nivåer. När du avancerar genom nivåerna ökar chansen att få den bästa Fatal Flora-dekorationen.",
+    "helpPopup_GachaDeco2x2": "En massiv köttätande växt har rotat sig framför &lt;b&gt;Fatal Flora Garden&lt;/b&gt;, och den verkar ha utvecklat en smak för dina soldater! Men frukta inte—dina uppfinningsrika invånare har skapat en snack som växten helt enkelt inte kan motstå. Genom att mata den med &lt;b&gt;Soldier Biscuits&lt;/b&gt; kommer du att bli generöst belönad.\n\n&lt;b&gt;Matning av växten:&lt;/b&gt;\nVarje matning ger dig belöningar - de mycket eftertraktade Fatal Flora Dekorationerna. Dessa dekorationer har inte bara ett stort värde för den offentliga ordningen i förhållande till sin storlek, utan de kan också ge ytterligare effekter för ditt kungarike! Fatal Flora Dekorationer kan placeras i Dekorationsdistriktet för Fatal Flora Garden, vilket ökar både PO och kraftvärdet för distriktet självt.\n&lt;b&gt;Rankning och nivåer:&lt;/b&gt;\nEtt rankningssystem kommer att spåra din framsteg och erbjuda belöningar baserat på din rankning. Evenemanget inkluderar också ett system med flera nivåer. När du går framåt genom nivåerna, förbättras chansen att få den bästa Fatal Flora Dekorationen.",
     "tooltip_gachaName_GachaDeco2x2": "Dödlig växtfälla",
-    "event_announcement_description_126": "En massiv köttätande växt har fått fäste framför Fatal Flora-trädgården, och det verkar som om den har utvecklat en smak för dina soldater! Men frukta inte - dina uppfinningsrika medborgare har skapat ett mellanmål som växten helt enkelt inte kan motstå. Genom att mata den med Soldatkex kommer du att belönas generöst. Under Fatal Flora Trap-evenemanget, mata växten för att samla belöningar som Fatal Flora-dekorationer, som ökar den offentliga ordningen och ger speciella effekter i ditt Fatal Flora-dekorationsdistrikt. Tjäna dessutom rangbelöningar baserat på din prestation jämfört med andra spelare. Se till att delta och njuta av belöningarna!",
+    "event_announcement_description_126": "En massiv köttätande växt har skjutit upp i Fatal Flora-trädgården med en aptit på dina soldater! Som tur är har dina stadsbor gjort Soldatkex för att locka den. I Fatal Flora Trap-evenemanget, mata växten för att tjäna belöningar som Fatal Flora-dekorationer som ökar den offentliga ordningen och lägger till effekter i ditt Dekorationsdistrikt. Tävla med andra om rankningsbelöningar – gå med och njut av bytet!",
     "event_end_description_GachaDeco2x2": "Den massiva köttätande växten har äntligen fått nog, och Fatal Flora Trap-evenemanget har kommit till sitt slut. Ditt modiga arbete med att mata den med soldatkakor har inte gått obemärkt förbi, och belöningarna du har tjänat kommer snart att bli dina.",
     "gachaPull_milestone_GachaDeco2x2": "Foder",
     "gachaPull_milestone_tooltip_amount_GachaDeco2x2": "{0}/{1} Foder",
@@ -12447,16 +12451,27 @@
     "effect_group_7_19_passive": "Bonus för träproduktion",
     "effect_group_7_1_active": "+{0}% Produktion av kungadömesresurser",
     "effect_group_7_1_passive": "Bonus för resursproduktion i kungariket",
-    "event_rewards_heade_GachaDeco2x2": "Event ranking belöningar",
+    "event_rewards_header": "Event ranking belöningar",
     "milestone_reward": "Milstolpe slutförd! Du kommer att få följande belöningar:",
     "capReachedRanking_DonationEvent": "{0} Donationer höjer nu enbart din ranking.",
     "dialog_startDonationEvent_desc2": "Byggnader kommer i olika kategorier med egna belöningar. Uppgradera varje belöning från varje kategori oberoende. Ju fler poäng, desto bättre belöningar. Poäng och den kejserliga skyddscharten återställs i slutet av evenemanget.",
-    "dialog_startDonationEvent_desc3": "Den nya globala ranking förenar spelare över alla servrar och testar ultimata kraft och skicklighet. Tävla för att vinna belöningar baserat på din ranking – ju snabbare du bidrar, desto högre klättrar du!",
     "rankingGlobal": "Global ranking",
-    "ranking_description_DonationEvent": "Bidra med resurser för att tjäna värdefulla belöningar! Det globala ranking systemet spårar dina framsteg och erbjuder prestationsbelöningar baserat på din rang. När evenemanget är slut kan du hämta dina belöningar i Belöningshubben.",
     "filter_decoType_onlyRelics": "Relikbyggnader",
     "DecorationStorehouse_name": "Dekorationslager",
-    "filter_decoType_onlyLocals": "Lokala byggnader"
+    "filter_decoType_onlyLocals": "Lokala byggnader",
+    "ranking_description_DonationEvent": "Bidra för att tjäna belöningar! Den globala rankingen spårar din framsteg – ju snabbare du får poäng, desto högre kommer du att rangordnas. Kräv belöningar i Belöningshubben när evenemanget avslutas.",
+    "DecoDistrict2x2_notbuilt": "Den dödliga flora trädgården är inte byggd än.",
+    "dialog_startDonationEvent_desc4": "Den nya globala rankingen förenar spelare från alla servrar och testar ultimat kraft och skicklighet. Tävla om belöningar baserat på din rang. Ju snabbare du får poäng, desto högre kommer du att placera dig. Även om andra spelare når samma poäng, kommer de som bidrar snabbare att rankas högre!",
+    "dialog_privateBestsellerShop_advent_tooltip": "Adventserbjudanden",
+    "dialog_chestOffer_desc_advent": "Öppna helgskatter med Adventkistan!",
+    "dialog_chestOffer_title_advent": "Adventskista",
+    "dialog_finish": "Avklarat",
+    "dialog_startDonationEvent_desc3": "Kejsern introducerade det Kejserliga Stödsystemet och gav arkitekten uppdraget att bearbeta de material som du har i överflöd. I slutet av evenemanget kommer alla punkter i det Kejserliga Stödsystemet att återställas.",
+    "rewardReceived": "Belöning mottagen!",
+    "dialog_event_announcement_description_126": "En massiv köttätande växt har skjutit upp i Fatal Flora-trädgården med en aptit på dina soldater! Som tur är har dina stadsbor gjort Soldatkex för att locka den. I Fatal Flora Trap-evenemanget, mata växten för att tjäna belöningar som Fatal Flora-dekorationer som ökar den offentliga ordningen och lägger till effekter i ditt Dekorationsdistrikt. Tävla med andra om rankningsbelöningar – gå med och njut av bytet!",
+    "dialog_event_announcement_header_126": "Dödlig växtfälla",
+    "dialog_title_gachadeco2x2": "Dödlig växtfälla",
+    "help_deco_gacha": "En massiv köttätande växt har rotat sig framför &lt;b&gt;Fatal Flora Garden&lt;/b&gt;, och den verkar ha utvecklat en smak för dina soldater! Men frukta inte—dina uppfinningsrika invånare har skapat en snack som växten helt enkelt inte kan motstå. Genom att mata den med &lt;b&gt;Soldier Biscuits&lt;/b&gt; kommer du att bli generöst belönad.\n\n&lt;b&gt;Matning av växten:&lt;/b&gt;\nVarje matning ger dig belöningar - de mycket eftertraktade Fatal Flora Dekorationerna. Dessa dekorationer har inte bara ett stort värde för den offentliga ordningen i förhållande till sin storlek, utan de kan också ge ytterligare effekter för ditt kungarike! Fatal Flora Dekorationer kan placeras i Dekorationsdistriktet för Fatal Flora Garden, vilket ökar både PO och kraftvärdet för distriktet självt.\n&lt;b&gt;Rankning och nivåer:&lt;/b&gt;\nEtt rankningssystem kommer att spåra din framsteg och erbjuda belöningar baserat på din rankning. Evenemanget inkluderar också ett system med flera nivåer. När du går framåt genom nivåerna, förbättras chansen att få den bästa Fatal Flora Dekorationen."
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0} % resehastighet för armén under erövringar",
@@ -13741,7 +13756,6 @@
     "effect_group_6_9_active_malus": "-{0} % äropoäng intjänade i strid",
     "effect_group_6_9_passive": "Bonus till äropoäng från strid",
     "effect_group_8_4_active": "+{0} i försvarskapacitet för borggården",
-    "effect_group_8_5_active": "+{0} alliansens stödtrupper vid försvar av gården",
     "ci_effect_defenseUnitAmountWall": "+{0}% till truppkapacitet vid murförsvar",
     "ci_effect_recruitmentSpeedBoostAll": "+{0} % rekryteringshastighet",
     "ci_effect_craftingQueueProductionBoost_2_tt": "Verktygsmakarens produktionsbonus:",
@@ -13766,7 +13780,15 @@
     "webshop_EliteTonnelonValue_desc": "Minskar skyddet av slottsmuren med -{0}% och ökar de mottagna ära poängen med {1}%",
     "webshop_InvaderMaskValue_desc": "Minskar styrkan hos avståndsförsvarare med -{0} och ökar de erhållna ära-poängen med {1}%. Kan endast användas mot utländska herrar eller Blodkråkor.",
     "webshop_LadderoftheShogunValue_desc": "Minskar lägrets väggskydd med -{0}% och ökar antalet stulna samurajtokens med {1}%. Kan endast användas mot samurajläger.",
-    "webshop_NomadTokenChestValue_desc": "Ökar mängden vredepoäng som tjänas vid angrepp på Khan-läger med {0}%."
+    "webshop_NomadTokenChestValue_desc": "Ökar mängden plundrade Khan-stentavlor med {0}%.",
+    "effect_description_honorBonus": "+{0}% hederpoäng förvärvade i strid",
+    "effect_description_publicOrderBonusMain": "Ökar den offentliga ordningen i ditt huvudslott med +{0}",
+    "effect_description_toolProductionSpeedBoostAll": "+{0}% verktygsproduktionshastighet för alla verktyg",
+    "effect_description_transportTaxDecreaseBoostGreen": "-{0}% Transportkostnader för resurser: Det Stora Riket",
+    "effect_description_transportTaxDecreaseBoostIce": "-{0}% Transportkostnader för resurser: Vinterglaciären",
+    "effect_description_transportTaxDecreaseBoostIsland": "-{0}% Transportkostnader för resurser: Stormöarna",
+    "effect_description_transportTaxDecreaseBoostSand": "-{0}% Transportkostnader för resurser: Brinnande sand",
+    "effect_description_transportTaxDecreaseBoostVulcano": "-{0}% Transportkostnader för resurser: Eldbergen"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Hjälte",
@@ -17294,8 +17316,8 @@
     "equipment_unique_1102_desc": "Ledde en liten hjälte genom en infernalisk labyrint. Förvandlar din armé till ett gäng sparvkavallerister.",
     "equipment_unique_1103": "Sparvprinsens vapensköld",
     "equipment_unique_1103_desc": "Ledde en liten hjälte genom en infernalisk labyrint. Förvandlar din armé till ett gäng sparvkavallerister.",
-    "equipment_unique_1104": "Kejserlig tulpan",
-    "equipment_unique_1104_desc": "En symbol för förnyelse, återfödelse och hjältars uppoffringar. Förvandlar din borg till ett tulpanrike.",
+    "equipment_unique_1104": "Skördefest kalkon",
+    "equipment_unique_1104_desc": "Dessa vilda fåglar från Bortom horisonten fungerar som imperialistiska chocktrupper och serveras på imperialistiska banketter. Förvandlar din armé till en grupp laddande gobblers.",
     "equipment_unique_1105": "Kejserlig tulpan",
     "equipment_unique_1105_desc": "En symbol för förnyelse, återfödelse och hjältars uppoffringar. Förvandlar din borg till ett tulpanrike.",
     "equipment_unique_1106": "Kejserlig tulpan",
@@ -17605,7 +17627,21 @@
     "equipment_unique_1097_desc": "Förvandlar din armé till en zombiehord som lunkar fram med långsamma steg för att äta fiendernas hjärnor.",
     "equip_effect_description_attackBoostYardShapeshifter": "Den här artikeln verkar ha förlorat sina krafter... (Arv)",
     "equip_effect_description_attackUnitAmountFlankShapeshifter": "Den här artikeln verkar ha förlorat sina krafter... (Arv)",
-    "equip_effect_description_charmBoost": "Den här artikeln verkar ha förlorat sina krafter... (Arv)"
+    "equip_effect_description_charmBoost": "Den här artikeln verkar ha förlorat sina krafter... (Arv)",
+    "equipment_unique_1199_desc": "Själva kejsaren ger dessa värdefulla ägg till sina mest trogna vasaller. Förvandlar ditt slott till ett blomstrande gobbler-fäste.",
+    "equipment_unique_1098_desc": "Dessa vilda fåglar från Bortom horisonten fungerar som imperialistiska chocktrupper och serveras på imperialistiska banketter. Förvandlar din armé till en grupp laddande gobblers.",
+    "equipment_unique_1099_desc": "Dessa vilda fåglar från Bortom horisonten fungerar som imperialistiska chocktrupper och serveras på imperialistiska banketter. Förvandlar din armé till en grupp laddande gobblers.",
+    "equipment_unique_1098": "Skördefest kalkon",
+    "equipment_unique_1099": "Skördefest kalkon",
+    "equipment_unique_1199": "Höstägg",
+    "glacialamazonarcher_name": "Glacial Amazon-bågskytt",
+    "glacialamazonguardian_name": "Glaciär Amazonvakt",
+    "glacialamazonhuntress_name": "Glaciäramazonjägare",
+    "glacialamazonwarrior_name": "Glaciär Amazonas Krigare",
+    "ChristmasArcher_name": "Julbågskytt",
+    "ChristmasGuardian_name": "Julväktare",
+    "ChristmasHuntress_name": "Juljägare",
+    "ChristmasWarrior_name": "Julkrigare"
   },
   "generic": {
     "activity": "Aktivera",
@@ -19655,7 +19691,8 @@
     "yourRankingPlaceholder": "Din rang: {0}",
     "yourRanking": "Din ställning",
     "refresh": "Uppdatera",
-    "rewardHubCollect": "Hämta dina belöningar i Belöningstjänsten!"
+    "rewardHubCollect": "Hämta dina belöningar i Belöningstjänsten!",
+    "eyecatcher_valuable": "Värdefull!"
   },
   "help": {
     "help_location": "Här har du en global översikt över ditt slotts viktiga innehåll och alla dina utposter.",
@@ -24199,7 +24236,15 @@
     "GlacialAmazonHuntress_short_name": "Glaciär Amazonas-jägare",
     "GlacialAmazonWarrior_desc": "Härdade av brutala vintrar, dessa krigare personifierar en vild anda och svingar kristallkantiga spjut med obarmhärtig precision mot sina fiender.",
     "GlacialAmazonWarrior_short_info": "Extremt kraftfull närstridsanfallare",
-    "GlacialAmazonWarrior_short_name": "Glaciär Amazonskrigare"
+    "GlacialAmazonWarrior_short_name": "Glaciär Amazonskrigare",
+    "ChristmasArcher_desc": "Dessa bågskyttar, klädda i festkläder, slår med isiga, förtrollade pilar som fryser fienderna till kärnan och bringar både högtidsglädje och kall hämnd till slagfältet.",
+    "ChristmasArcher_short_info": "Extremt kraftfull distansangripare",
+    "ChristmasGuardian_desc": "Höga beskyddare med godisstångsmace i handen, dessa vårdnadshavare försvarar sina allierade och ger festlig glädje till slagfältet.",
+    "ChristmasGuardian_short_info": "Extremt kraftfull närstridsförsvarare",
+    "ChristmasHuntress_desc": "Dessa vaksamma jägare står vakt i de vinterliga skogarna, deras holly-toppade pilar redo att avvärja alla som hotar deras rike.",
+    "ChristmasHuntress_short_info": "Extremt kraftfull distansförsvarare",
+    "ChristmasWarrior_desc": "Beväpnade med pepparmintsrandiga lanser, dessa fruktade krigare rusar fram med en ostopplig semesterglädje och väcker rädsla hos alla som står i deras väg.",
+    "ChristmasWarrior_short_info": "Extremt kraftfull närstridsanfallare"
   },
   "generic_flash": {
     "Footer": {

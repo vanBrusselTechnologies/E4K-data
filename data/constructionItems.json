@@ -29181,7 +29181,7 @@
       "constructionItemEffectGroupID": 28,
       "removalCostC1": 7200,
       "disassemblingTombolaID": 4,
-      "effects": "700&amp;5000"
+      "effects": "700&amp;500"
     },
     {
       "constructionItemID": 860,
@@ -29196,7 +29196,7 @@
       "duration": 2419200,
       "constructionItemEffectGroupID": 51,
       "disassemblingTombolaID": 4,
-      "effects": "700&amp;15000"
+      "effects": "700&amp;1500"
     },
     {
       "constructionItemID": 861,
@@ -29211,7 +29211,7 @@
       "duration": 2419200,
       "constructionItemEffectGroupID": 51,
       "disassemblingTombolaID": 4,
-      "effects": "700&amp;15000"
+      "effects": "700&amp;1500"
     },
     {
       "constructionItemID": 862,
@@ -29257,6 +29257,51 @@
       "constructionItemEffectGroupID": 51,
       "disassemblingTombolaID": 4,
       "effects": "80&amp;500,114&amp;10"
+    },
+    {
+      "constructionItemID": 865,
+      "crossplayID": 865,
+      "comment1": "Temporary",
+      "comment2": "BlackFridaySales - 2024",
+      "name": "winterQuarry",
+      "constructionItemGroupID": 229,
+      "level": 4,
+      "rarenessID": 4,
+      "slotTypeID": 0,
+      "duration": 345600,
+      "constructionItemEffectGroupID": 51,
+      "disassemblingTombolaID": 4,
+      "effects": "614&amp;70"
+    },
+    {
+      "constructionItemID": 866,
+      "crossplayID": 866,
+      "comment1": "Temporary",
+      "comment2": "BlackFridaySales - 2024",
+      "name": "winterQuarry",
+      "constructionItemGroupID": 230,
+      "level": 4,
+      "rarenessID": 4,
+      "slotTypeID": 0,
+      "duration": 345600,
+      "constructionItemEffectGroupID": 51,
+      "disassemblingTombolaID": 4,
+      "effects": "504&amp;45"
+    },
+    {
+      "constructionItemID": 867,
+      "crossplayID": 867,
+      "comment1": "Temporary",
+      "comment2": "BlackFridaySales - 2024",
+      "name": "winterEstate",
+      "constructionItemGroupID": 231,
+      "level": 4,
+      "rarenessID": 4,
+      "slotTypeID": 0,
+      "duration": 604800,
+      "constructionItemEffectGroupID": 51,
+      "disassemblingTombolaID": 4,
+      "ReduceResearchResourceCosts": 15
     }
   ]
 }

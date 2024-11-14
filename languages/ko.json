@@ -2032,7 +2032,11 @@
     "deco_fataltinybitebud_name": "치명적인 작은 물림",
     "deco_ExaltedRedFrostFountain_name": "높은 붉은 서리 분수",
     "deco_ExaltedGreenFrostFountain_name": "고귀한 초록 얼음 분수",
-    "deco_ExaltedPurpleFrostFountain_name": "고귀한 보라색 얼음 분수"
+    "deco_ExaltedPurpleFrostFountain_name": "고귀한 보라색 얼음 분수",
+    "deco_carnivorousPlantT1_name": "치명적인 식물 함정",
+    "deco_ExaltedGreenChristmasFountain_name": "고귀한 녹색 크리스마스 분수",
+    "deco_ExaltedPurpleChristmasFountain_name": "고귀한 보라색 크리스마스 분수",
+    "deco_ExaltedRedChristmasFountain_name": "고귀한 붉은 크리스마스 분수"
   },
   "dialogs": {
     "dialog_festival_desc": "식량으로 잔치를 열어 백성들을 배불리 먹이십시오! 잔치가 계속되는 동안 모든 성의 모집 속도가 눈에 띄게 증가합니다. 더 큰 잔치를 벌일수록 효과도 더 증가합니다.",
@@ -12270,9 +12274,9 @@
     "webshop_tokenbundle_small_name": "소형 토큰 번들",
     "event_end_header_GachaDeco2x2": "치명적인 식물의 끝",
     "event_announcement_header_126": "치명적 식물",
-    "helpPopup_GachaDeco2x2": "거대한 육식 식물이 &lt;b&gt;파탈 플로라 가든&lt;/b&gt; 앞에 뿌리를 내렸고, 당신의 병사들을 좋아하게 된 것 같습니다! 하지만 두려워하지 마세요. 당신의 재치 있는 마을 사람들이 식물이 결코 저항할 수 없는 간식을 만들었습니다. &lt;b&gt;병사 비스킷&lt;/b&gt;으로 먹이를 주면 관대하게 보상을 받을 수 있습니다. &lt;/br&gt;&lt;/br&gt; &lt;b&gt;식물에 먹이 주기:&lt;/b&gt;&lt;/br&gt; 매번 먹이를 주면 매우 귀한 파탈 플로라 장식품을 얻을 수 있습니다. 이 장식품들은 크기에 비해 충분한 공공 질서 가치를 지니고 있을 뿐만 아니라, 당신의 왕국에 추가 효과를 줄 수 있습니다! 파탈 플로라 장식품은 파탈 플로라 가든 장식 구역에 배치할 수 있어, 구역 자체의 PO와 힘 가치를 모두 향상시킵니다. &lt;/br&gt;&lt;b&gt;순위 및 레벨:&lt;/b&gt;&lt;/br&gt; 순위 시스템이 당신의 진행 상황을 추적하여, 순위에 따라 성취 보상을 제공합니다. 이벤트에는 여러 레벨이 포함된 시스템도 있습니다. 레벨을 진행함에 따라 최고의 파탈 플로라 장식품을 얻을 확률이 향상됩니다.",
+    "helpPopup_GachaDeco2x2": "거대한 육식 식물이 &lt;b&gt;치명적인 플로라 가든&lt;/b&gt; 앞에 뿌리를 내리고, 당신의 군인들을 위한 입맛을 발전시킨 것 같습니다! 그러나 두려워하지 마십시오—당신의 재치 있는 마을 사람들이 식물이 절대 저항할 수 없는 간식을 만들어냈습니다. &lt;b&gt;병사 비스킷&lt;/b&gt;을 먹이면 후하게 보상을 받을 것입니다.\n\n&lt;b&gt;식물 먹이기:&lt;/b&gt;\n각 먹이는 당신에게 보상을 제공합니다 - 매우 귀중한 치명적인 플로라 장식입니다. 이 장식들은 그 크기만큼 공공 질서의 가치가 충분하고, 왕국에 추가 효과를 부여할 수 있습니다! 치명적인 플로라 장식은 치명적인 플로라 가든 장식 지역에 배치할 수 있으며, 그 지역 자체의 PO와 힘의 가치를 향상시킵니다.\n&lt;b&gt;순위 및 레벨:&lt;/b&gt;\n순위 시스템이 당신의 진행 상황을 추적하고, 당신의 순위에 따라 성과 보상을 제공합니다. 이 이벤트에는 여러 레벨이 있는 시스템도 포함되어 있습니다. 레벨을 진행함에 따라 최고의 치명적인 플로라 장식을 얻을 확률이 증가합니다.",
     "tooltip_gachaName_GachaDeco2x2": "치명적인 식물 함정",
-    "event_announcement_description_126": "거대한 육식 식물이 치명적인 식물 정원 앞에 뿌리를 내렸고, 당신의 병사들에 대한 맛을 개발한 것 같습니다! 그러나 두려워하지 마십시오. 당신의 재치 있는 시민들이 식물이 저항할 수 없는 간식을 만들었습니다. 병사 비스킷을 먹이면 넉넉한 보상을 받을 수 있습니다. 치명적인 식물 덫 이벤트 동안 식물에 먹이를 주어, 공공 질서를 높이고, 당신의 치명적인 식물 장식 지역에서 특별한 효과를 부여하는 치명적인 식물 장식과 같은 보상을 모으세요. 또한 다른 플레이어와 비교하여 성과에 따라 순위 보상을 받을 수 있습니다. 꼭 참여하고 보상을 즐기세요!",
+    "event_announcement_description_126": "거대한 육식 식물이 치명적인 식물 정원에서 당신의 병사들을 먹고 싶어하고 있습니다! 다행히도, 마을 사람들은 그것을 유인하기 위해 병사 비스킷을 만들었습니다. 치명적인 식물 함정 이벤트에서 식물에게 먹이를 주어 공공 질서를 향상시키고 장식 지구에서 효과를 추가하는 치명적인 식물 장식과 같은 보상을 얻으세요. 다른 사람들과 경쟁하여 순위 보상을 얻으세요—참여하고 전리품을 즐기세요!",
     "event_end_description_GachaDeco2x2": "거대한 육식 식물이 드디어 배부르고, 치명적인 식물 함정 이벤트가 끝났습니다. 당신이 병사 비스킷을 먹이려는 용감한 노력은 간과되지 않았으며, 당신이 획득한 보상은 곧 당신의 것입니다.",
     "gachaPull_milestone_GachaDeco2x2": "사료",
     "gachaPull_milestone_tooltip_amount_GachaDeco2x2": "{0}/{1} 먹이",
@@ -12447,16 +12451,27 @@
     "effect_group_7_19_passive": "목재 생산 보너스",
     "effect_group_7_1_active": "+{0}% 왕국 자원 생산",
     "effect_group_7_1_passive": "왕국 자원 생산 보너스",
-    "event_rewards_heade_GachaDeco2x2": "이벤트 랭킹 보상",
+    "event_rewards_header": "이벤트 랭킹 보상",
     "milestone_reward": "이정표 완료! 다음 보상을 받게 됩니다:",
     "capReachedRanking_DonationEvent": "{0} 기부는 이제 순위만 올립니다.",
     "dialog_startDonationEvent_desc2": "건물은 각기 다른 카테고리로 나뉘며, 각각 고유한 보상이 있습니다. 각 카테고리의 보상을 독립적으로 레벨업하세요. 포인트가 많을수록 보상이 더 좋아집니다. 이벤트 종료 시 포인트와 제국 후원 헌장은 초기화됩니다.",
-    "dialog_startDonationEvent_desc3": "새로운 글로벌 랭킹은 모든 서버의 플레이어를 하나로 모아 궁극적인 힘과 기술을 시험합니다. 순위에 따라 보상을 받을 수 있도록 경쟁하세요. 기여할수록 더 높이 오를 수 있습니다!",
     "rankingGlobal": "글로벌 순위",
-    "ranking_description_DonationEvent": "자원을 기여하여 귀중한 보상을 얻으세요! 글로벌 순위 시스템은 귀하의 진행 상황을 추적하며, 귀하의 순위에 따라 성과 보상을 제공합니다. 이벤트가 끝나면 보상 허브에서 보상을 청구하세요.",
     "filter_decoType_onlyRelics": "유물 건물",
     "DecorationStorehouse_name": "장식 저장소",
-    "filter_decoType_onlyLocals": "지역 건물"
+    "filter_decoType_onlyLocals": "지역 건물",
+    "ranking_description_DonationEvent": "보상을 받기 위해 기여하세요! 글로벌 순위가 귀하의 진행 상황을 추적합니다. 점수를 빨리 얻을수록 순위가 올라갑니다. 이벤트가 끝나면 보상 허브에서 보상을 청구하세요.",
+    "DecoDistrict2x2_notbuilt": "치명적인 식물의 정원은 아직 건설되지 않았습니다.",
+    "dialog_startDonationEvent_desc4": "새로운 글로벌 랭킹은 모든 서버의 플레이어를 통합하여 궁극적인 힘과 기술을 시험합니다. 자신의 순위에 따라 보상을 경쟁하세요. 점수를 더 빨리 얻을수록 더 높은 순위를 차지하게 됩니다. 다른 플레이어가 같은 점수에 도달하더라도, 더 빨리 기여한 사람이 더 높은 순위를 차지하게 됩니다!",
+    "dialog_privateBestsellerShop_advent_tooltip": "대림절 제안",
+    "dialog_chestOffer_desc_advent": "어드벤트 상자로 휴일 보물을 열어보세요!",
+    "dialog_chestOffer_title_advent": "어드벤트 상자",
+    "dialog_finish": "완료함",
+    "dialog_startDonationEvent_desc3": "황제는 제국 후원 헌장을 도입하며, 건축가에게 당신이 풍부하게 보유하고 있는 자재를 처리하도록 임무를 부여했습니다. 행사 종료 시 모든 제국 후원 헌장은 초기화됩니다.",
+    "rewardReceived": "보상을 받았습니다!",
+    "dialog_event_announcement_description_126": "거대한 육식 식물이 치명적인 식물 정원에서 당신의 병사들을 먹고 싶어하고 있습니다! 다행히도, 마을 사람들은 그것을 유인하기 위해 병사 비스킷을 만들었습니다. 치명적인 식물 함정 이벤트에서 식물에게 먹이를 주어 공공 질서를 향상시키고 장식 지구에서 효과를 추가하는 치명적인 식물 장식과 같은 보상을 얻으세요. 다른 사람들과 경쟁하여 순위 보상을 얻으세요—참여하고 전리품을 즐기세요!",
+    "dialog_event_announcement_header_126": "치명적인 식물 함정",
+    "dialog_title_gachadeco2x2": "치명적인 식물 함정",
+    "help_deco_gacha": "거대한 육식 식물이 &lt;b&gt;치명적인 플로라 가든&lt;/b&gt; 앞에 뿌리를 내리고, 당신의 군인들을 위한 입맛을 발전시킨 것 같습니다! 그러나 두려워하지 마십시오—당신의 재치 있는 마을 사람들이 식물이 절대 저항할 수 없는 간식을 만들어냈습니다. &lt;b&gt;병사 비스킷&lt;/b&gt;을 먹이면 후하게 보상을 받을 것입니다.\n\n&lt;b&gt;식물 먹이기:&lt;/b&gt;\n각 먹이는 당신에게 보상을 제공합니다 - 매우 귀중한 치명적인 플로라 장식입니다. 이 장식들은 그 크기만큼 공공 질서의 가치가 충분하고, 왕국에 추가 효과를 부여할 수 있습니다! 치명적인 플로라 장식은 치명적인 플로라 가든 장식 지역에 배치할 수 있으며, 그 지역 자체의 PO와 힘의 가치를 향상시킵니다.\n&lt;b&gt;순위 및 레벨:&lt;/b&gt;\n순위 시스템이 당신의 진행 상황을 추적하고, 당신의 순위에 따라 성과 보상을 제공합니다. 이 이벤트에는 여러 레벨이 있는 시스템도 포함되어 있습니다. 레벨을 진행함에 따라 최고의 치명적인 플로라 장식을 얻을 확률이 증가합니다."
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "정복 중 군대 이동 속도 +{0}%",
@@ -13741,7 +13756,6 @@
     "effect_group_6_9_active_malus": "전투 중 획득하는 명성 점수 -{0}%",
     "effect_group_6_9_passive": "전투 보너스로 획득하는 명성 점수",
     "effect_group_8_4_active": "안뜰 방어 시 병력 수용량 +{0}",
-    "effect_group_8_5_active": "+{0} 안뜰 방어 시 동맹 지원 부대의 수용 능력",
     "ci_effect_defenseUnitAmountWall": "+{0}% 성벽 방어 시 병력 수용량",
     "ci_effect_recruitmentSpeedBoostAll": "모집 속도 +{0}%",
     "ci_effect_craftingQueueProductionBoost_2_tt": "도구 제작자의 생산 보너스:",
@@ -13766,7 +13780,15 @@
     "webshop_EliteTonnelonValue_desc": "성벽 방어력을 -{0}% 줄이고, 얻는 명성 점수를 {1}% 증가시킵니다.",
     "webshop_InvaderMaskValue_desc": "원거리 방어자의 힘을 -{0}만큼 줄이고, 얻는 영광 포인트를 {1}% 증가시킵니다. 외국 영주 또는 블러드크로우에 대해서만 사용할 수 있습니다.",
     "webshop_LadderoftheShogunValue_desc": "캠프의 벽 보호를 -{0}% 줄이고, 약탈된 사무라이 토큰을 {1}% 증가시킵니다. 사무라이 캠프에만 사용할 수 있습니다.",
-    "webshop_NomadTokenChestValue_desc": "칸 캠프를 공격할 때 얻는 분노 점수의 양이 {0}% 증가합니다."
+    "webshop_NomadTokenChestValue_desc": "약탈된 칸의 증표 양을 {0}% 증가시킵니다.",
+    "effect_description_honorBonus": "+{0}% 전투에서 얻은 명예 점수",
+    "effect_description_publicOrderBonusMain": "주 성 내 공공 질서를 +{0} 증가시킵니다",
+    "effect_description_toolProductionSpeedBoostAll": "+{0}% 모든 도구의 생산 속도",
+    "effect_description_transportTaxDecreaseBoostGreen": "-{0}% 자원 운송 비용: 대제국",
+    "effect_description_transportTaxDecreaseBoostIce": "-{0}% 자원 운송 비용: 만년빙",
+    "effect_description_transportTaxDecreaseBoostIsland": "-{0}% 자원 운송 비용: 폭풍 제도",
+    "effect_description_transportTaxDecreaseBoostSand": "-{0}% 자원 운송 비용: 타오르는 모래",
+    "effect_description_transportTaxDecreaseBoostVulcano": "-{0}% 자원 운송 비용: 불타는 산봉우리"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "영웅",
@@ -17294,8 +17316,8 @@
     "equipment_unique_1102_desc": "조그만 영웅이 지옥의 미로를 통과하도록 인도한 문장입니다. 부대를 참새 기병대로 변신시킵니다.",
     "equipment_unique_1103": "참새 왕자의 문장",
     "equipment_unique_1103_desc": "조그만 영웅이 지옥의 미로를 통과하도록 인도한 문장입니다. 부대를 참새 기병대로 변신시킵니다.",
-    "equipment_unique_1104": "제국의 튤립",
-    "equipment_unique_1104_desc": "영웅들의 회복, 부활, 희생을 상징합니다. 성을 튤립의 왕국으로 변신시킵니다.",
+    "equipment_unique_1104": "수확 축제 칠면조",
+    "equipment_unique_1104_desc": "지평선 너머의 이 맹렬한 새들은 제국의 돌격 대원으로서 기능하며 제국의 연회에서 제공됩니다. 당신의 군대를 돌진하는 고블러의 무리로 변환합니다.",
     "equipment_unique_1105": "제국의 튤립",
     "equipment_unique_1105_desc": "영웅들의 회복, 부활, 희생을 상징합니다. 성을 튤립의 왕국으로 변신시킵니다.",
     "equipment_unique_1106": "제국의 튤립",
@@ -17605,7 +17627,21 @@
     "equipment_unique_1097_desc": "부대를 좀비 떼로 변신시킵니다. 느릿느릿하지만 꾸준하게 전진하여 적의 뇌를 먹습니다.",
     "equip_effect_description_attackBoostYardShapeshifter": "이 아이템은 힘을 잃은 것 같습니다... (유산)",
     "equip_effect_description_attackUnitAmountFlankShapeshifter": "이 아이템은 힘을 잃은 것 같습니다... (유산)",
-    "equip_effect_description_charmBoost": "이 아이템은 힘을 잃은 것 같습니다... (유산)"
+    "equip_effect_description_charmBoost": "이 아이템은 힘을 잃은 것 같습니다... (유산)",
+    "equipment_unique_1199_desc": "황제가 직접 이 귀중한 알을 가장 충성스러운 신하에게 수여합니다. 당신의 성을 번영하는 고블러의 요새로 변모시킵니다.",
+    "equipment_unique_1098_desc": "지평선 너머의 이 맹렬한 새들은 제국의 돌격 대원으로서 기능하며 제국의 연회에서 제공됩니다. 당신의 군대를 돌진하는 고블러의 무리로 변환합니다.",
+    "equipment_unique_1099_desc": "지평선 너머의 이 맹렬한 새들은 제국의 돌격 대원으로서 기능하며 제국의 연회에서 제공됩니다. 당신의 군대를 돌진하는 고블러의 무리로 변환합니다.",
+    "equipment_unique_1098": "수확 축제 칠면조",
+    "equipment_unique_1099": "수확 축제 칠면조",
+    "equipment_unique_1199": "가을 알",
+    "glacialamazonarcher_name": "빙하 아마존 궁수",
+    "glacialamazonguardian_name": "빙하 아마존 가디언",
+    "glacialamazonhuntress_name": "빙하 아마존 헌터",
+    "glacialamazonwarrior_name": "빙하 아마존 전사",
+    "ChristmasArcher_name": "크리스마스 궁수",
+    "ChristmasGuardian_name": "크리스마스 수호자",
+    "ChristmasHuntress_name": "크리스마스 사냥꾼",
+    "ChristmasWarrior_name": "크리스마스 전사"
   },
   "generic": {
     "activity": "활동",
@@ -19655,7 +19691,8 @@
     "yourRankingPlaceholder": "당신의 순위: {0}",
     "yourRanking": "내 순위",
     "refresh": "새로 고침",
-    "rewardHubCollect": "보상 허브에서 보상을 청구하세요!"
+    "rewardHubCollect": "보상 허브에서 보상을 청구하세요!",
+    "eyecatcher_valuable": "소중한!"
   },
   "help": {
     "help_location": "여기에서 성과 전초기지의 중요한 정보를 대략 찾아볼 수 있습니다.",
@@ -24199,7 +24236,15 @@
     "GlacialAmazonHuntress_short_name": "얼음 아마존 사냥꾼",
     "GlacialAmazonWarrior_desc": "혹독한 겨울에 단련된 이 전사들은 사나운 정신을 구현하며, 적들에 맞서 크리스탈 가장자리의 창을 가혹한 정밀도로 휘두릅니다.",
     "GlacialAmazonWarrior_short_info": "극도로 강력한 근접 공격자",
-    "GlacialAmazonWarrior_short_name": "빙하 아마존 전사"
+    "GlacialAmazonWarrior_short_name": "빙하 아마존 전사",
+    "ChristmasArcher_desc": "축제 복장을 한 이 궁수들은 적들을 근본적으로 얼리는 얼음 마법의 화살로 공격하며, 전투에 축제의 기쁨과 차가운 복수를 가져옵니다.",
+    "ChristmasArcher_short_info": "매우 강력한 원거리 공격자",
+    "ChristmasGuardian_desc": "사탕 지팡이를 손에 쥔 거대한 보호자들이 동맹을 방어하고 전장에서 축제의 기쁨을 가져옵니다.",
+    "ChristmasGuardian_short_info": "극도로 강력한 근접 방어 유닛",
+    "ChristmasHuntress_desc": "이 경계하는 사냥꾼들은 겨울 숲에서 경계를 서고, 홀리 장식 화살을 준비하며 그들의 영역을 위협하는 자를 물리칠 준비가 되어 있습니다.",
+    "ChristmasHuntress_short_info": "매우 강력한 원거리 방어자",
+    "ChristmasWarrior_desc": "페퍼민트 스트라이프 창을 들고 이 사나운 전사들은 막을 수 없는 홀리데이 정신으로 앞으로 돌진하며, 그들의 길에 서있는 모든 이들에게 두려움을 안깁니다.",
+    "ChristmasWarrior_short_info": "매우 강력한 근접 공격자"
   },
   "generic_flash": {
     "Footer": {

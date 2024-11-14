@@ -2032,7 +2032,11 @@
     "deco_fataltinybitebud_name": "Fatal Tiny Bite Bud",
     "deco_ExaltedRedFrostFountain_name": "Exalted Red Frost Fountain",
     "deco_ExaltedGreenFrostFountain_name": "Exalted Green Frost Fountain",
-    "deco_ExaltedPurpleFrostFountain_name": "Exalted Purple Frost Fountain"
+    "deco_ExaltedPurpleFrostFountain_name": "Exalted Purple Frost Fountain",
+    "deco_carnivorousPlantT1_name": "Fatal Flora Trap",
+    "deco_ExaltedGreenChristmasFountain_name": "Exalted Green Christmas Fountain",
+    "deco_ExaltedPurpleChristmasFountain_name": "Exalted Purple Christmas Fountain",
+    "deco_ExaltedRedChristmasFountain_name": "Exalted Red Christmas Fountain"
   },
   "dialogs": {
     "dialog_festival_desc": "Use your food to hold a feast for your citizens!\nSoldiers will be recruited much more quickly in all of your castles for as long as the feast lasts. The bigger the feast, the greater the effect.",
@@ -12270,9 +12274,9 @@
     "webshop_tokenbundle_small_name": "Small Token Bundle",
     "event_end_header_GachaDeco2x2": "Fatal Flora Trap End",
     "event_announcement_header_126": "Fatal Flora Trap",
-    "helpPopup_GachaDeco2x2": "A massive carnivorous plant has taken root in front of the &lt;b&gt;Fatal Flora Garden&lt;/b&gt;, and it seems to have developed a taste for your soldiers! But fear not—your resourceful townspeople have created a snack that the plant simply can’t resist. By feeding it &lt;b&gt;Soldier Biscuits&lt;/b&gt;, you’ll be generously rewarded. &lt;/br&gt;&lt;/br&gt; &lt;b&gt;Feeding the Plant:&lt;/b&gt;&lt;/br&gt; Each feeding will grant you rewards - the highly coveted Fatal Flora Decorations. Not only do these decorations have ample Public Order value for their size, but they can also grant additional effects to your kingdom! Fatal Flora Decorations can be placed in the Fatal Flora Garden Decoration District, boosting both the PO and might value of the district itself. &lt;/br&gt;&lt;b&gt;Ranking and Levels:&lt;/b&gt;&lt;/br&gt;A ranking system will track your progress, offering achievement rewards based on your rank. The event also includes a system with multiple levels. As you progress through the levels, the chance of getting the best Fatal Flora Decoration improves.",
+    "helpPopup_GachaDeco2x2": "A massive carnivorous plant has taken root in front of the &lt;b&gt;Fatal Flora Garden&lt;/b&gt;, and it seems to have developed a taste for your soldiers! But fear not—your resourceful townspeople have created a snack that the plant simply can’t resist. By feeding it &lt;b&gt;Soldier Biscuits&lt;/b&gt;, you’ll be generously rewarded.\n\n&lt;b&gt;Feeding the Plant:&lt;/b&gt;\nEach feeding will grant you rewards - the highly coveted Fatal Flora Decorations. Not only do these decorations have ample Public Order value for their size, but they can also grant additional effects to your kingdom! Fatal Flora Decorations can be placed in the Fatal Flora Garden Decoration District, boosting both the PO and might value of the district itself.\n&lt;b&gt;Ranking and Levels:&lt;/b&gt;\nA ranking system will track your progress, offering achievement rewards based on your rank. The event also includes a system with multiple levels. As you progress through the levels, the chance of getting the best Fatal Flora Decoration improves.",
     "tooltip_gachaName_GachaDeco2x2": "Fatal Flora Trap",
-    "event_announcement_description_126": "A massive carnivorous plant has taken root in front of the Fatal Flora Garden, and it seems to have developed a taste for your soldiers! But fear not - your resourceful townspeople have created a snack that the plant simply can’t resist. By feeding it Soldier Biscuits, you’ll be generously rewarded. During the Fatal Flora Trap event, feed the plant to collect rewards like Fatal Flora Decorations, which boost Public Order and grant special effects in your Fatal Flora Decoration District. Additionally, earn ranking rewards based on your performance compared to other players. Be sure to take part and enjoy the rewards!",
+    "event_announcement_description_126": "A massive carnivorous plant has sprouted at the Fatal Flora Garden with an appetite for your soldiers! Thankfully, your townspeople have made Soldier Biscuits to lure it. In the Fatal Flora Trap event, feed the plant to earn rewards like Fatal Flora Decorations that boost Public Order and add effects in your Decoration District. Compete with others for ranking rewards—join in and enjoy the spoils!",
     "event_end_description_GachaDeco2x2": "The massive carnivorous plant has finally had its fill, and the Fatal Flora Trap event has come to an end. Your brave efforts in feeding it Soldier Biscuits have not gone unnoticed, and the rewards youve earned will soon be yours.",
     "gachaPull_milestone_GachaDeco2x2": "Feeds",
     "gachaPull_milestone_tooltip_amount_GachaDeco2x2": "{0}/{1} Feeds",
@@ -12447,16 +12451,27 @@
     "effect_group_7_19_passive": "Wood production bonus",
     "effect_group_7_1_active": "+{0}% Kingdom resource production",
     "effect_group_7_1_passive": "Kingdom resource production bonus",
-    "event_rewards_heade_GachaDeco2x2": "Event Ranking Rewards",
+    "event_rewards_header": "Event Ranking Rewards",
     "milestone_reward": "Milestone completed! You will receive the following rewards:",
     "capReachedRanking_DonationEvent": "{0} Donations now solely raise your Ranking.",
     "dialog_startDonationEvent_desc2": "Buildings come in different categories with their own rewards. Level up each reward from each category independently. The more points, the better the rewards.↵Points and the Imperial Patronage Charter are reset at the end of the event.",
-    "dialog_startDonationEvent_desc3": "The new Global Ranking unites players across all servers, testing ultimate power and skill. Compete to claim rewards based on your rank—the faster you contribute, the higher you’ll climb!",
     "rankingGlobal": "Global Ranking",
-    "ranking_description_DonationEvent": "Contribute resources to earn valuable rewards! The global ranking system tracks your progress, offering achievement rewards based on your rank. Once the event ends, claim your rewards in the Reward Hub.",
     "filter_decoType_onlyRelics": "Relic Buildings",
     "DecorationStorehouse_name": "Decoration Storehouse",
-    "filter_decoType_onlyLocals": "Local Buildings"
+    "filter_decoType_onlyLocals": "Local Buildings",
+    "ranking_description_DonationEvent": "Contribute to earn rewards! The global ranking tracks your progress—the faster you score, the higher you’ll rank. Claim rewards in the Reward Hub when the event ends.",
+    "DecoDistrict2x2_notbuilt": "The Fatal Flora Garden is not built yet.",
+    "dialog_startDonationEvent_desc4": "The new Global Ranking unites players from all servers, putting ultimate power and skill to the test. Compete for rewards based on your rank. The faster you score points, the higher you’ll place. Even if other players reach the same score, those who contribute faster will rank higher!",
+    "dialog_privateBestsellerShop_advent_tooltip": "Advent Offers",
+    "dialog_chestOffer_desc_advent": "Unwrap holiday treasures with the Advent Chest!",
+    "dialog_chestOffer_title_advent": "Advent Chest",
+    "dialog_finish": "Completed",
+    "dialog_startDonationEvent_desc3": "The Emperor introduced the Imperial Patronage Charter, tasking the architect to process the materials you have in abudnance. At the end of the event, all of the Imperial Patronage Charter will be reset.",
+    "rewardReceived": "Reward received!",
+    "dialog_event_announcement_description_126": "A massive carnivorous plant has sprouted at the Fatal Flora Garden with an appetite for your soldiers! Thankfully, your townspeople have made Soldier Biscuits to lure it. In the Fatal Flora Trap event, feed the plant to earn rewards like Fatal Flora Decorations that boost Public Order and add effects in your Decoration District. Compete with others for ranking rewards—join in and enjoy the spoils!",
+    "dialog_event_announcement_header_126": "Fatal Flora Trap",
+    "dialog_title_gachadeco2x2": "Fatal Flora Trap",
+    "help_deco_gacha": "A massive carnivorous plant has taken root in front of the &lt;b&gt;Fatal Flora Garden&lt;/b&gt;, and it seems to have developed a taste for your soldiers! But fear not—your resourceful townspeople have created a snack that the plant simply can’t resist. By feeding it &lt;b&gt;Soldier Biscuits&lt;/b&gt;, you’ll be generously rewarded.\n\n&lt;b&gt;Feeding the Plant:&lt;/b&gt;\nEach feeding will grant you rewards - the highly coveted Fatal Flora Decorations. Not only do these decorations have ample Public Order value for their size, but they can also grant additional effects to your kingdom! Fatal Flora Decorations can be placed in the Fatal Flora Garden Decoration District, boosting both the PO and might value of the district itself.\n&lt;b&gt;Ranking and Levels:&lt;/b&gt;\nA ranking system will track your progress, offering achievement rewards based on your rank. The event also includes a system with multiple levels. As you progress through the levels, the chance of getting the best Fatal Flora Decoration improves."
   },
   "effects": {
     "equip_effect_description_conquerSpeedBonus": "+{0}% army travel speed during conquests",
@@ -13741,7 +13756,6 @@
     "effect_group_6_9_active_malus": "-{0}% glory points earned in battle",
     "effect_group_6_9_passive": "Glory points earned in battle bonus",
     "effect_group_8_4_active": "+{0} troop capacity when defending the courtyard",
-    "effect_group_8_5_active": "+{0} alliance support troop capacity when defending the courtyard",
     "ci_effect_defenseUnitAmountWall": "+{0}% to troop capacity on wall defense",
     "ci_effect_recruitmentSpeedBoostAll": "+{0}% recruitment speed",
     "ci_effect_craftingQueueProductionBoost_2_tt": "Toolsmith production bonus:",
@@ -13766,7 +13780,15 @@
     "webshop_EliteTonnelonValue_desc": "Reduces castle wall protection by -{0}% and increases Glory Points received by {1}%",
     "webshop_InvaderMaskValue_desc": "Reduces the strength of ranged defenders by -{0} and increases Glory Points received by {1}%. Can only be used against foreign lords or Bloodcrows",
     "webshop_LadderoftheShogunValue_desc": "Reduces camps wall protection by -{0}% and increases looted Samurai Tokens by {1}%. Can only be used against samurai camps",
-    "webshop_NomadTokenChestValue_desc": "Increases the amount of rage points earned when attacking Khan camps by {0}%"
+    "webshop_NomadTokenChestValue_desc": "Increases the amount of Khan Tablets looted by {0}%",
+    "effect_description_honorBonus": "+{0}% honor points earned in battle",
+    "effect_description_publicOrderBonusMain": "Increases public order inside your main castle by +{0}",
+    "effect_description_toolProductionSpeedBoostAll": "+{0}% tool production speed for all tools",
+    "effect_description_transportTaxDecreaseBoostGreen": "-{0}% Resource transport costs: Great Empire",
+    "effect_description_transportTaxDecreaseBoostIce": "-{0}% Resource transport costs: Everwinter Glacier",
+    "effect_description_transportTaxDecreaseBoostIsland": "-{0}% Resource transport costs: Storm Islands",
+    "effect_description_transportTaxDecreaseBoostSand": "-{0}% Resource transport costs: Burning Sands",
+    "effect_description_transportTaxDecreaseBoostVulcano": "-{0}% Resource transport costs: Fire Peaks"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Hero",
@@ -17294,8 +17316,8 @@
     "equipment_unique_1102_desc": "Guided a small hero though an infernal maze. Transforms your army into a band of sparrow cavalry.",
     "equipment_unique_1103": "Sparrow princes crest",
     "equipment_unique_1103_desc": "Guided a small hero though an infernal maze. Transforms your army into a band of sparrow cavalry.",
-    "equipment_unique_1104": "Imperial tulip",
-    "equipment_unique_1104_desc": "A symbol of renewal, rebirth, and the sacrifice of heroes. Transforms your castle into a realm of tulips.",
+    "equipment_unique_1104": "Harvest feast gobbler",
+    "equipment_unique_1104_desc": "These fierce birds from Beyond the Horizon serve as imperial shock troops and are served at imperial banquets. Transforms your army into a band of charging gobblers.",
     "equipment_unique_1105": "Imperial tulip",
     "equipment_unique_1105_desc": "A symbol of renewal, rebirth, and the sacrifice of heroes. Transforms your castle into a realm of tulips.",
     "equipment_unique_1106": "Imperial tulip",
@@ -17605,7 +17627,21 @@
     "equipment_unique_1097_desc": "Transform your army into a zombie hoard, slowly but steadily on their way to consume their enemy’s brains.",
     "equip_effect_description_attackBoostYardShapeshifter": "This item seems to have lost its powers... (Legacy)",
     "equip_effect_description_attackUnitAmountFlankShapeshifter": "This item seems to have lost its powers... (Legacy)",
-    "equip_effect_description_charmBoost": "This item seems to have lost its powers... (Legacy)"
+    "equip_effect_description_charmBoost": "This item seems to have lost its powers... (Legacy)",
+    "equipment_unique_1199_desc": "The Emperor himself grants these valuable eggs to his most loyal vassals. Transforms your castle into a prosperous gobbler stronghold.",
+    "equipment_unique_1098_desc": "These fierce birds from Beyond the Horizon serve as imperial shock troops and are served at imperial banquets. Transforms your army into a band of charging gobblers.",
+    "equipment_unique_1099_desc": "These fierce birds from Beyond the Horizon serve as imperial shock troops and are served at imperial banquets. Transforms your army into a band of charging gobblers.",
+    "equipment_unique_1098": "Harvest feast gobbler",
+    "equipment_unique_1099": "Harvest feast gobbler",
+    "equipment_unique_1199": "Autumn egg",
+    "glacialamazonarcher_name": "Glacial Amazon Archer",
+    "glacialamazonguardian_name": "Glacial Amazon Guardian",
+    "glacialamazonhuntress_name": "Glacial Amazon Huntress",
+    "glacialamazonwarrior_name": "Glacial Amazon Warrior",
+    "ChristmasArcher_name": "Christmas Archer",
+    "ChristmasGuardian_name": "Christmas Guardian",
+    "ChristmasHuntress_name": "Christmas Huntress",
+    "ChristmasWarrior_name": "Christmas Warrior"
   },
   "generic": {
     "activity": "Activity",
@@ -19655,7 +19691,8 @@
     "yourRankingPlaceholder": "Your Ranking: {0}",
     "yourRanking": "Your ranking",
     "refresh": "Refresh",
-    "rewardHubCollect": "Claim your rewards in the Reward Hub!"
+    "rewardHubCollect": "Claim your rewards in the Reward Hub!",
+    "eyecatcher_valuable": "Valuable!"
   },
   "help": {
     "help_location": "Here you have a global overview of the important contents of your castle and all your outposts.",
@@ -24199,7 +24236,15 @@
     "GlacialAmazonHuntress_short_name": "Glacial Amazon Huntress",
     "GlacialAmazonWarrior_desc": "Hardened by brutal winters, these warriors embody a fierce spirit, wielding crystal-edged spears with relentless precision against their foes.",
     "GlacialAmazonWarrior_short_info": "Extremely powerful melee attacker",
-    "GlacialAmazonWarrior_short_name": "Glacial Amazon Warrior"
+    "GlacialAmazonWarrior_short_name": "Glacial Amazon Warrior",
+    "ChristmasArcher_desc": "These archers, clad in festive attire, strike with icy, enchanted arrows that chill foes to the core, bringing both holiday cheer and cold vengeance to the battlefield.",
+    "ChristmasArcher_short_info": "Extremely powerful ranged attacker",
+    "ChristmasGuardian_desc": "Towering protectors with candy-cane maces in hand, these guardians defend their allies and bring holiday cheer to the battlefield.",
+    "ChristmasGuardian_short_info": "Extremely powerful melee defender",
+    "ChristmasHuntress_desc": "These vigilant huntresses stand guard in the winter woods, their holly-tipped arrows ready as they ward off any who threaten their realm.",
+    "ChristmasHuntress_short_info": "Extremely powerful ranged defender",
+    "ChristmasWarrior_desc": "Armed with peppermint-striped lances, these fierce warriors charge forward with unstoppable holiday spirit, striking fear into all who stand in their way.",
+    "ChristmasWarrior_short_info": "Extremely powerful melee attacker"
   },
   "generic_flash": {
     "Footer": {
