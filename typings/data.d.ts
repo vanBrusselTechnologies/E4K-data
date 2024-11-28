@@ -2679,7 +2679,7 @@ export interface Quest {
     "iron"?: number;
     "isRelicQuest"?: number;
     "killQuestIDs"?: number | string;
-    "killQuestIDsOnStart"?: number | string;
+    "killQuestIDsOnStart"?: number;
     "leaguetypeID"?: number;
     "mapID"?: number;
     "maxLevel"?: number;

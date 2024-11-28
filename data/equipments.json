@@ -10484,7 +10484,7 @@
       "wearerID": 1,
       "slotID": 5,
       "reuseAssetOfEquipmentID": 852,
-      "effects": "41&amp;100000,42&amp;100000,43&amp;100",
+      "effects": "41&amp;100000,42&amp;100000,43&amp;1+100",
       "mightValue": 1,
       "skinID": 52
     },
@@ -13631,7 +13631,7 @@
       "equipmentID": 1089,
       "crossplayID": 1089,
       "comment1": "Appearance item - Anniversary 2024",
-      "comment2": "AnniversaryBaron48h",
+      "comment2": "x",
       "wearerID": 1,
       "slotID": 5,
       "starRarity": 1,
@@ -13820,6 +13820,62 @@
       "mightValue": 0,
       "canSlotGem": 0,
       "skinID": 110
+    },
+    {
+      "equipmentID": 1200,
+      "crossplayID": 1200,
+      "comment1": "Sales Days Content December 2024",
+      "comment2": "Nutcrackers snow globe",
+      "wearerID": 2,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 751,
+      "effects": "24&amp;4,23&amp;15,66&amp;5",
+      "duration": 144,
+      "mightValue": 0,
+      "canSlotGem": 1,
+      "skinID": 43
+    },
+    {
+      "equipmentID": 1201,
+      "crossplayID": 1201,
+      "comment1": "Sales Days Content December 2024",
+      "comment2": "Nutcrackers snow globe",
+      "wearerID": 2,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 751,
+      "effects": "24&amp;7,334&amp;5",
+      "duration": 72,
+      "mightValue": 0,
+      "canSlotGem": 1,
+      "skinID": 43
+    },
+    {
+      "equipmentID": 1202,
+      "crossplayID": 1202,
+      "comment1": "Sales Days Content December 2024",
+      "comment2": "Nutcrackers snow globe",
+      "wearerID": 2,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 751,
+      "effects": "24&amp;6,334&amp;25",
+      "duration": 120,
+      "mightValue": 0,
+      "canSlotGem": 1,
+      "skinID": 43
+    },
+    {
+      "equipmentID": 1203,
+      "crossplayID": 1203,
+      "comment1": "Sales Days Content December 2024",
+      "comment2": "xmasCastellan",
+      "wearerID": 1,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 2014,
+      "effects": "335&amp;45,37&amp;25000",
+      "duration": 120,
+      "mightValue": 0,
+      "canSlotGem": 0,
+      "skinID": 111
     }
   ]
 }

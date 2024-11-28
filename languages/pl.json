@@ -891,7 +891,10 @@
     "errorCode_450": "Wysłano potwierdzenie, które może dotrzeć w ciągu godziny. Hasło można zmienić tylko raz dziennie, więc spróbuj ponownie jutro, jeśli zajdzie taka potrzeba.",
     "errorCode_OBJECT_INVALID_STATE": "Ta akcja nie jest w tej chwili możliwa. Spróbuj ponownie później.",
     "errorCode_title": "Uwaga!",
-    "error_twisted_firestarter_while_protected": "Nie możesz sabotować innych graczy, gdy tryb ochrony jest włączony."
+    "error_twisted_firestarter_while_protected": "Nie możesz sabotować innych graczy, gdy tryb ochrony jest włączony.",
+    "dialog_shoppingCartPrimeDay_DontShowNotification": "Nie pokazuj tego dialogu ponownie dla tej oferty",
+    "dialog_shoppingCartPrimeDay_GoToShopButton": "Idź do sklepu",
+    "dialog_shoppingCartPrimeDay_SeeOfferButton": "Zobacz ofertę"
   },
   "buildings_and_decorations": {
     "bakery_name": "Piekarnia",
@@ -3410,7 +3413,6 @@
     "dialog_noobshield_header": "Ochrona przed atakami",
     "dialog_noobshield_text": "Gdy ochrona przed atakami jest aktywna, nie możesz paść ofiarą ataku innych władców zamków. Jeśli natomiast Ty zaatakujesz innego władcę, ochrona zostanie zniesiona. Ataki na zamki baronów rozbójników nie mają wpływu na ochronę.",
     "dialog_resourceOverview_metropolBonus": "Bonus za metropolię",
-    "dialog_fame_rewardAttackBoost": "+{0}% premii za atak przeciwko wszystkim celom",
     "dialog_fame_rewardFameBoost": "+{0}% zdobywanej chwały",
     "dialog_titleUp_goToGloryDialog": "Przegląd chwalebnych tytułów",
     "dialog_Commander_bonusGloryTitle": "+{0}% premii do ataku dzięki chwalebnemu tytułowi",
@@ -12187,7 +12189,6 @@
     "webshop_summer2_small_name": "Mały↵Pakiet palącego lata",
     "webshop_summerDecoE_Combat": "Letnia promocja dekoracji bojowych",
     "dialog_crafting_recipe_buildingRequired": "Aby odblokować ten przepis, wymagane jest następujące budynek:\n{0}",
-    "webshop_decoWithEffects_WallDefCourtDefCourtCap_desc": "Maksymalna liczba {0}, limit efektu wspólny dla dekoracji, Porządek publiczny +{1}, +{2}% bonus do pojemności wojsk obrony murów, +{3}% bonus do siły na dziedzińcu podczas obrony (maks +120%), +{4} bonus do pojemności wojsk obrony dziedzińca (maks +100k), Rozmiar budynku {4}x{5}.",
     "merchantitem_resources_3569_name": "Wyjątkowa paczka wołowiny",
     "webshop_beeftoolsmithdays_desc": "Tymczasowy element budowlany dla narzędziarza. Przyznaje +{0} produkcji wołowiny na godzinę przez {1} dni.",
     "webshop_beefgrannarydays_desc": "Tymczasowy element budowlany dla spichlerza. Przyznaje +{0} produkcji wołowiny na godzinę przez {1} dni.",
@@ -12471,9 +12472,51 @@
     "dialog_event_announcement_description_126": "Ogromna roślina mięsożerna pojawiła się w Ogrodzie Fatalnej Flory, mając apetyt na twoich żołnierzy! Na szczęście, twoi mieszkańcy przygotowali Biszkopty Żołnierskie, aby ją zwabić. W wydarzeniu Pułapka Fatalnej Flory, nakarm roślinę, aby zdobyć nagrody, takie jak Dekoracje Fatalnej Flory, które poprawiają Porządek Publiczny i dodają efekty w twoim Obszarze Dekoracji. Konkuruj z innymi o nagrody za ranking—dołącz i ciesz się łupem!",
     "dialog_event_announcement_header_126": "Śmiertelna pułapka roślin",
     "dialog_title_gachadeco2x2": "Śmiertelna pułapka roślin",
-    "help_deco_gacha": "Ogromna mięsożerna roślina zakorzeniła się przed &lt;b&gt;Fatal Flora Garden&lt;/b&gt; i wydaje się, że rozwinęła apetyt na twoich żołnierzy! Ale nie bój się—twoi pomysłowi mieszkańcy stworzyli przekąskę, której roślina po prostu nie może się oprzeć. Karmiąc ją &lt;b&gt;Ciastkami Żołnierskimi&lt;/b&gt;, zostaniesz hojnie nagrodzony.\n\n&lt;b&gt;Karmienie rośliny:&lt;/b&gt;\nKażde karmienie przyniesie ci nagrody - pożądane dekoracje Fatal Flora. Te dekoracje nie tylko mają dużą wartość Public Order, ale mogą również zapewnić dodatkowe efekty twojemu królestwu! Dekoracje Fatal Flora mogą być umieszczane w obszarze dekoracyjnym Fatal Flora Garden, zwiększając zarówno wartość PO, jak i moc samego obszaru.\n&lt;b&gt;Ranking i poziomy:&lt;/b&gt;\nSystem rankingowy będzie śledził twoje postępy, oferując nagrody osiągnięć w zależności od twojej rangi. Wydarzenie obejmuje również system z wieloma poziomami. W miarę postępów przez poziomy, szansa na zdobycie najlepszej dekoracji Fatal Flora zwiększa się."
+    "help_deco_gacha": "Ogromna mięsożerna roślina zakorzeniła się przed &lt;b&gt;Fatal Flora Garden&lt;/b&gt; i wydaje się, że rozwinęła apetyt na twoich żołnierzy! Ale nie bój się—twoi pomysłowi mieszkańcy stworzyli przekąskę, której roślina po prostu nie może się oprzeć. Karmiąc ją &lt;b&gt;Ciastkami Żołnierskimi&lt;/b&gt;, zostaniesz hojnie nagrodzony.\n\n&lt;b&gt;Karmienie rośliny:&lt;/b&gt;\nKażde karmienie przyniesie ci nagrody - pożądane dekoracje Fatal Flora. Te dekoracje nie tylko mają dużą wartość Public Order, ale mogą również zapewnić dodatkowe efekty twojemu królestwu! Dekoracje Fatal Flora mogą być umieszczane w obszarze dekoracyjnym Fatal Flora Garden, zwiększając zarówno wartość PO, jak i moc samego obszaru.\n&lt;b&gt;Ranking i poziomy:&lt;/b&gt;\nSystem rankingowy będzie śledził twoje postępy, oferując nagrody osiągnięć w zależności od twojej rangi. Wydarzenie obejmuje również system z wieloma poziomami. W miarę postępów przez poziomy, szansa na zdobycie najlepszej dekoracji Fatal Flora zwiększa się.",
+    "webshop_GlacialMeadBow_desc": "Niezwykle potężny lodowy obrońca o sile obrony {0}",
+    "webshop_GlacialMeadMace_desc": "Niezwykle potężny lodowcowy obrońca w bliskim kontakcie o sile obrony {0}",
+    "webshop_GlacialMeadRanger_desc": "Wyjątkowo potężny lodowy atakujący zasięgu z siłą ataku {0}",
+    "webshop_GlacialMeadShieldMaiden_desc": "Niezwykle potężny lodowy atakujący w bliskim kontakcie z siłą ataku {0}",
+    "webshop_blackfriday_VIP_name": "VIP oferta na Czarny Piątek",
+    "webshop_blackfriday_combat_name": "Czarny Piątek - Walka",
+    "webshop_blackfriday_economy_name": "Oferta Czarnego Piątku - Gospodarka",
+    "webshop_blackfriday_experience_name": "Oferta na Czarny Piątek - Doświadczenie",
+    "webshop_blackfriday_extraLarge_name": "Ekstra duża oferta na Czarny piątek",
+    "webshop_blackfriday_giant_name": "Gigantyczna oferta Czarny Piątek",
+    "webshop_blackfriday_huge_name": "Ogromna okazja na Czarny Piątek",
+    "webshop_blackfriday_large_name": "Duża oferta na Czarny Piątek",
+    "webshop_blackfriday_medium_name": "Średnia oferta Czarnego Piątku",
+    "webshop_blackfriday_small_name": "Mała oferta na Czarny Piątek",
+    "dialog_chestOffer_desc_christmas": "Odkryj świąteczne niespodzianki z Bożonarodzeniową skrzynią!",
+    "dialog_chestOffer_title_christmas": "Świąteczna skrzynia",
+    "dialog_attack_wave14": "Fala 14",
+    "dialog_attack_wave15": "Fala 15",
+    "dialog_attack_wave16": "Fala 16",
+    "dialog_attack_wave17": "Fala 17",
+    "dialog_attack_wave18": "Fala 18",
+    "dialog_attack_wave19": "Fala 19",
+    "dialog_attack_wave20": "Fala 20",
+    "dialog_attack_wave21": "Fala 21",
+    "dialog_attack_wave22": "Fala 22",
+    "dialog_attack_wave23": "Fala 23",
+    "dialog_attack_wave24": "Fala 24",
+    "dialog_attack_wave25": "Fala 25",
+    "dialog_attack_wave26": "Fala 26",
+    "dialog_attack_wave27": "Fala 27",
+    "dialog_attack_wave28": "Fala 28",
+    "dialog_attack_wave29": "Fala 29",
+    "dialog_attack_wave30": "Fala 30",
+    "dialog_legendTemple_unlockTier_locked": "Wszystkie umiejętności na tym poziomie są zablokowane.",
+    "dialog_messageHeader_kingstowerLost_title": "Zgubiona wieża królewska",
+    "webshop_DragonHoardResProductionSpdTools_862_desc": "Tymczasowy element budowlany dla twierdzy. Przyznaje +{0}% bonusowego wyjścia dla zasobów skarbów smoka i +{1}% bonusowej prędkości produkcji dla wszystkich narzędzi przez {2} dni.",
+    "webshop_RecruitSpeedProductionSpdTools_864_desc": "Tymczasowy element budowlany dla wartowni. Przyspiesza rekrutację o +{0}% oraz zwiększa prędkość produkcji o +{1}% dla wszystkich narzędzi przez {2} dni.",
+    "webshop_RefineryResourcesProductionSpdTools_384_desc": "Tymczasowy element budowlany dla strażnicy. Przyznaje +{0}% bonus do wydajności surowców rafinerii oraz +{1}% bonus do prędkości produkcji dla wszystkich narzędzi na {2} dni.",
+    "webshop_ToolsmithProductionSpdTools_385_desc": "Tymczasowy element budowlany dla wartowni. Przyznaje +{0}% bonusu do produkcji komponentów narzędziowych i +{1}% bonusu do prędkości produkcji dla wszystkich narzędzi przez {2} dni.",
+    "dialog_chestOffer_desc_blackfriday": "Palenie gorąca ekskluzywna oferta na Black Friday!",
+    "dialog_chestOffer_title_blackfriday": "Skrzynia ofert Black Friday"
   },
   "effects": {
+    "dialog_fame_rewardAttackBoost": "+{0}% siły na dziedzińcu podczas ataku",
     "equip_effect_description_conquerSpeedBonus": "+{0}% prędkości przemieszczania armii podczas podbojów",
     "equip_effect_description_cooldownReduction": "-{0}% krótsza blokada funkcji ataku po zwycięstwie",
     "equip_effect_description_fameDefenseBonus": "+{0}% pkt. chwały otrzymywanych za obronę",
@@ -13498,7 +13541,7 @@
     "ci_effect_defenseUnitAmountYardBonus": "+{0} do limitu wojsk podczas obrony dziedzińca",
     "ci_effect_attackUnitAmountReinforcementBonus": "+{0} do limitu wojsk podczas ostatecznego ataku",
     "ci_effect_attackUnitAmountReinforcementBoost": "+{0}% do limitu wojsk podczas ostatecznego ataku",
-    "effect_description_defenseUnitAmountYardBonus": "Limit jednostek defensywnych broniących dziedzińca",
+    "effect_description_defenseUnitAmountYardBonus": "+{0} do pojemności oddziałów na ostatni atak",
     "effect_description_allianceDefenseUnitAmountYardBonus": "+{0} do limitu wojsk wsparcia sojuszu",
     "effect_description_hiddenSoldiersSpace": "Pojemność schronienia dla jednostek",
     "subscription_convenience_description_AutoCooldownSkip": "Aktywuj funkcję automatycznego pominięcia przy użyciu pominięć czasu, aby pominąć czas ochłonięcia określonych celów NPC.",
@@ -13619,6 +13662,7 @@
     "equip_effect_description_offensiveRangeBonusTCICapped": "+{0}% siła ataku jednostek dystansowych",
     "effect_desc_CraftingQueueProductionBoost_4": "{0}% premii do produkcji elementów skarbca smoka",
     "effect_name_CraftingQueueProductionBoost_4": "Dodatkowy bonus do produkcji składników kowalstwa smoczego oddechu",
+    "webshop_decoWithEffects_WallDefCourtDefCourtCap_desc": "Maksymalna liczba {0}, limit efektu dzielony pomiędzy dekoracjami, Porządek publiczny +{1}, +{2}% bonus do pojemności wojsk obrony murów, +{3}% bonus do siły na dziedzińcu podczas obrony (maks. +120%), +{4} bonus do pojemności wojsk obrony dziedzińca (maks. +100k), Rozmiar budynku {5}x{6}.",
     "ci_effect_lootBonusPVE": "+{0}% zasobów plądrowanych u bohaterów NPC",
     "ci_effect_defenseBonusNotMainCastle": "+{0}% siły jednostek zajmujących posterunki i obiekty",
     "ci_effect_unboostedBeefProduction": "+{0} wołowiny na godzinę",
@@ -13788,7 +13832,8 @@
     "effect_description_transportTaxDecreaseBoostIce": "-{0}% Koszty transportu zasobów: Kraina Wiecznych Lodów",
     "effect_description_transportTaxDecreaseBoostIsland": "-{0}% Koszty transportu zasobów: Archipelag Sztormu",
     "effect_description_transportTaxDecreaseBoostSand": "-{0}% Koszty transportu zasobów: Płonące Piaski",
-    "effect_description_transportTaxDecreaseBoostVulcano": "-{0}% Koszty transportu zasobów: Ogniste Szczyty"
+    "effect_description_transportTaxDecreaseBoostVulcano": "-{0}% Koszty transportu zasobów: Ogniste Szczyty",
+    "effect_group_1_8_passive": "Bonus siły walki dla defensywnych jednostek dystansowych"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Bohater",
@@ -17641,7 +17686,15 @@
     "ChristmasArcher_name": "Łucznik świąteczny",
     "ChristmasGuardian_name": "Stróż Bożego Narodzenia",
     "ChristmasHuntress_name": "Łowczyni Świąt",
-    "ChristmasWarrior_name": "Wojownik Bożego Narodzenia"
+    "ChristmasWarrior_name": "Wojownik Bożego Narodzenia",
+    "equipment_unique_1200": "Śniegowa kula Dziadka do Orzechów",
+    "equipment_unique_1200_desc": "Przekształca armię w armię żołnierzy łuskaczy orzechów.",
+    "equipment_unique_1201": "Śniegowa kula Dziadka do Orzechów",
+    "equipment_unique_1201_desc": "Przekształca armię w armię żołnierzy łuskaczy orzechów.",
+    "equipment_unique_1202": "Śniegowa kula Dziadka do Orzechów",
+    "equipment_unique_1202_desc": "Przekształca armię w armię żołnierzy łuskaczy orzechów.",
+    "equipment_unique_1203": "Garnizon zapakowany na prezent",
+    "equipment_unique_1203_desc": "Niech duch Zimowit ogrzewa serca i dusze w całych Czterech Królestwach. Przekształć swój zamek w bastion zapakowany jak prezent."
   },
   "generic": {
     "activity": "Działania",
@@ -19692,7 +19745,9 @@
     "yourRanking": "Twój ranking",
     "refresh": "Odśwież",
     "rewardHubCollect": "Odbierz swoje nagrody w Centrum Nagród!",
-    "eyecatcher_valuable": "Cenny!"
+    "eyecatcher_valuable": "Cenny!",
+    "eventBuilding_apprenticeSmith_nopackages": "Mistrz kowalski nie ma dostępnych pakietów.",
+    "eventNotRunning": "Wydarzenie obecnie nie trwa."
   },
   "help": {
     "help_location": "W tym miejscu masz globalny przegląd ważnych elementów zamku oraz wszystkich posterunków.",
@@ -24244,7 +24299,9 @@
     "ChristmasHuntress_desc": "Te czujne łowczynie czuwają w zimowych lasach, ich strzały ozdobione holly gotowe do odpierania każdego, kto zagraża ich królestwu.",
     "ChristmasHuntress_short_info": "Ekstremalnie potężny obrońca na dystans",
     "ChristmasWarrior_desc": "Uzbrojeni w lance w paski z mięty, ci dzicy wojownicy pędzą naprzód z niepowstrzymanym świątecznym duchem, wzbudzając strach wśród wszystkich, którzy stają im na drodze.",
-    "ChristmasWarrior_short_info": "Ekstremalnie potężny napastnik w walce wręcz"
+    "ChristmasWarrior_short_info": "Ekstremalnie potężny napastnik w walce wręcz",
+    "nomadcoinbooststone_name": "Świnka-skarbonka nomadów",
+    "nomadcoinbooststone_short_info": "Zwiększa liczbę monet zrabowanych w obozach nomadów"
   },
   "generic_flash": {
     "Footer": {

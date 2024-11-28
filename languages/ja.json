@@ -891,7 +891,10 @@
     "errorCode_450": "確認が行われ、届くまで最大1時間かかる場合があります。パスワードは1日1回のみ変更可能ですので、必要な場合は明日再度お試しください。",
     "errorCode_OBJECT_INVALID_STATE": "このアクションは現在実行できません。後で再度お試しください。",
     "errorCode_title": "注意!",
-    "error_twisted_firestarter_while_protected": "保護モードが有効な間は他のプレイヤーを妨害することはできません。"
+    "error_twisted_firestarter_while_protected": "保護モードが有効な間は他のプレイヤーを妨害することはできません。",
+    "dialog_shoppingCartPrimeDay_DontShowNotification": "このオファーについてはこのダイアログを再表示しない",
+    "dialog_shoppingCartPrimeDay_GoToShopButton": "ショップに行く",
+    "dialog_shoppingCartPrimeDay_SeeOfferButton": "オファーを見る"
   },
   "buildings_and_decorations": {
     "bakery_name": "パン屋",
@@ -3410,7 +3413,6 @@
     "dialog_noobshield_header": "保護モード",
     "dialog_noobshield_text": "保護モードがオンになっていると、他の城主に攻撃されることはありません。そして、泥棒男爵の城を攻撃しても、保護モードがキャンセルになることはありません。ただし、他の城主を攻撃すると、保護モードはキャンセルされます。",
     "dialog_resourceOverview_metropolBonus": "貿易都市のボーナス",
-    "dialog_fame_rewardAttackBoost": "すべての目的地で獲得できる攻撃ボーナス　+{0}%",
     "dialog_fame_rewardFameBoost": "獲得栄光ポイント　+{0}%",
     "dialog_titleUp_goToGloryDialog": "栄光の称号の概要",
     "dialog_Commander_bonusGloryTitle": "栄光の称号で獲得できる攻撃ボーナス +{0}%",
@@ -12187,7 +12189,6 @@
     "webshop_summer2_small_name": "小さな燃える夏のセット",
     "webshop_summerDecoE_Combat": "炎天下の夏のデコレーションセールコンバット",
     "dialog_crafting_recipe_buildingRequired": "このレシピを使用するには、次の建物のアンロックが必要です：\n{0}",
-    "webshop_decoWithEffects_WallDefCourtDefCourtCap_desc": "最大数 {0}、効果上限は装飾に共通、公的秩序 +{1}、壁防衛部隊の能力に +{2}% ボーナス、守備時の中庭の強さに +{3}% ボーナス (最大 +120%)、中庭の防衛部隊の能力に +{4} ボーナス (最大 +100k)、建物の大きさ {4}x{5}。",
     "merchantitem_resources_3569_name": "高級牛肉パッケージ",
     "webshop_beeftoolsmithdays_desc": "道具職人用の一時的な建設アイテムです。時間あたり +{0} の牛肉生産を {1} 日間提供します。",
     "webshop_beefgrannarydays_desc": "穀物倉のための一時的な建設アイテム。{1}日間、1時間あたり+{0}の牛肉生産を付与します。",
@@ -12471,9 +12472,51 @@
     "dialog_event_announcement_description_126": "致命的なフローラガーデンに巨大な肉食植物が現れ、あなたの兵士たちを食べたがっています！幸いにも、町の人々が兵士ビスケットを作り、植物をおびき寄せました。致命的なフローラトラップイベントでは、植物に餌を与えて、公共秩序を高め、装飾地区に効果を追加する致命的なフローラ装飾のような報酬を獲得します。他の人と競い合い、ランキング報酬を手に入れましょう—参加して戦利品を楽しんでください！",
     "dialog_event_announcement_header_126": "致命的な植物の罠",
     "dialog_title_gachadeco2x2": "致命的な植物の罠",
-    "help_deco_gacha": "巨大な肉食植物が&lt;b&gt;致命的なフローラガーデン&lt;/b&gt;の前に根を下ろし、あなたの兵士たちの味を好むようです！しかし心配しないでください—あなたの機知に富んだ町民たちが、植物がどうしても抵抗できないスナックを作り出しました。&lt;b&gt;兵士ビスケット&lt;/b&gt;を与えることで、あなたは寛大に報酬を得られます。\n\n&lt;b&gt;植物への餌やり：&lt;/b&gt;\n餌やりごとに報酬が得られます - 非常に貴重な致命的フローラの装飾です。これらの装飾はそのサイズの割には十分な公共秩序の価値を持っており、さらに王国に追加の効果を与えることもできます！致命的フローラの装飾は、致命的フローラガーデン装飾地区に配置でき、その地区自体のPOと力の価値を向上させます。\n&lt;b&gt;ランキングとレベル：&lt;/b&gt;\nランキングシステムがあなたの進行状況を追跡し、あなたのランクに基づいた成果報酬を提供します。このイベントには複数のレベルを持つシステムも含まれています。レベルを進むにつれて、最高の致命的フローラの装飾を得るチャンスが向上します。"
+    "help_deco_gacha": "巨大な肉食植物が&lt;b&gt;致命的なフローラガーデン&lt;/b&gt;の前に根を下ろし、あなたの兵士たちの味を好むようです！しかし心配しないでください—あなたの機知に富んだ町民たちが、植物がどうしても抵抗できないスナックを作り出しました。&lt;b&gt;兵士ビスケット&lt;/b&gt;を与えることで、あなたは寛大に報酬を得られます。\n\n&lt;b&gt;植物への餌やり：&lt;/b&gt;\n餌やりごとに報酬が得られます - 非常に貴重な致命的フローラの装飾です。これらの装飾はそのサイズの割には十分な公共秩序の価値を持っており、さらに王国に追加の効果を与えることもできます！致命的フローラの装飾は、致命的フローラガーデン装飾地区に配置でき、その地区自体のPOと力の価値を向上させます。\n&lt;b&gt;ランキングとレベル：&lt;/b&gt;\nランキングシステムがあなたの進行状況を追跡し、あなたのランクに基づいた成果報酬を提供します。このイベントには複数のレベルを持つシステムも含まれています。レベルを進むにつれて、最高の致命的フローラの装飾を得るチャンスが向上します。",
+    "webshop_GlacialMeadBow_desc": "防御力{0}の卓越した氷河遠距離防御者",
+    "webshop_GlacialMeadMace_desc": "非常に強力な氷河近接防御者で、防御力は{0}です。",
+    "webshop_GlacialMeadRanger_desc": "攻撃力{0}を持つ非常に強力な氷の遠距離攻撃者",
+    "webshop_GlacialMeadShieldMaiden_desc": "攻撃力{0}の非常に強力な氷の近接攻撃者",
+    "webshop_blackfriday_VIP_name": "VIPブラックフライデーの特典",
+    "webshop_blackfriday_combat_name": "ブラックフライデーセール - 戦闘",
+    "webshop_blackfriday_economy_name": "ブラックフライデーセール - 経済",
+    "webshop_blackfriday_experience_name": "ブラックフライデーの特典 - 体験",
+    "webshop_blackfriday_extraLarge_name": "特大ブラックフライデーセール",
+    "webshop_blackfriday_giant_name": "巨大なブラックフライデーセール",
+    "webshop_blackfriday_huge_name": "巨大なブラックフライデーセール",
+    "webshop_blackfriday_large_name": "大きなブラックフライデーセール",
+    "webshop_blackfriday_medium_name": "ミディアムブラックフライデーディール",
+    "webshop_blackfriday_small_name": "小さなブラックフライデーセール",
+    "dialog_chestOffer_desc_christmas": "クリスマスチェストでお祭りのサプライズを開封しよう！",
+    "dialog_chestOffer_title_christmas": "クリスマスチェスト",
+    "dialog_attack_wave14": "波14",
+    "dialog_attack_wave15": "波15",
+    "dialog_attack_wave16": "波16",
+    "dialog_attack_wave17": "波17",
+    "dialog_attack_wave18": "波 18",
+    "dialog_attack_wave19": "波19",
+    "dialog_attack_wave20": "波20",
+    "dialog_attack_wave21": "波21",
+    "dialog_attack_wave22": "波22",
+    "dialog_attack_wave23": "波23",
+    "dialog_attack_wave24": "波24",
+    "dialog_attack_wave25": "波 25",
+    "dialog_attack_wave26": "波26",
+    "dialog_attack_wave27": "波27",
+    "dialog_attack_wave28": "波28",
+    "dialog_attack_wave29": "波29",
+    "dialog_attack_wave30": "波30",
+    "dialog_legendTemple_unlockTier_locked": "このティアのすべてのスキルはロックされています。",
+    "dialog_messageHeader_kingstowerLost_title": "失われた王家の塔",
+    "webshop_DragonHoardResProductionSpdTools_862_desc": "城のための一時的な建設アイテム。ドラゴンの宝物リソースに対して+{0}%のボーナス出力を与え、すべてのツールの生産速度に+{1}%のボーナスを{2}日間付与します。",
+    "webshop_RecruitSpeedProductionSpdTools_864_desc": "警備所のための一時的な建設アイテム。全てのツールのリクルート速度を+{0}%、生産速度を+{1}%向上させる、{2}日間有効です。",
+    "webshop_RefineryResourcesProductionSpdTools_384_desc": "守衛所用の一時的な建設アイテムです。精製資源の出力に+{0}%のボーナスを付与し、全てのツールの生産速度に+{1}%のボーナスを{2}日間付与します。",
+    "webshop_ToolsmithProductionSpdTools_385_desc": "見張り小屋用の一時的な建設アイテム。道具職人のコンポーネントに対して+{0}%のボーナス出力を付与し、すべての道具の生産速度に+{1}%のボーナスを付与します。{2}日間有効。",
+    "dialog_chestOffer_desc_blackfriday": "スモーキングホットな独占ブラックフライデーセール！",
+    "dialog_chestOffer_title_blackfriday": "ブラックフライデーのディールチェスト"
   },
   "effects": {
+    "dialog_fame_rewardAttackBoost": "+{0}% の攻撃時の中庭の強さ",
     "equip_effect_description_conquerSpeedBonus": "占領中の軍の移動スピード　+{0}%",
     "equip_effect_description_cooldownReduction": "敵地を再度攻撃する際の攻撃までの待ち時間　-{0}%",
     "equip_effect_description_fameDefenseBonus": "防御で獲得した栄光ポイント　+{0}%",
@@ -13498,7 +13541,7 @@
     "ci_effect_defenseUnitAmountYardBonus": "中庭の防御の最大部隊数 +{0}",
     "ci_effect_attackUnitAmountReinforcementBonus": "最終攻撃の最大部隊数 +{0}",
     "ci_effect_attackUnitAmountReinforcementBoost": "最終攻撃の最大部隊数 +{0}%",
-    "effect_description_defenseUnitAmountYardBonus": "中庭の防衛部隊の定員",
+    "effect_description_defenseUnitAmountYardBonus": "+{0} 最終攻撃のための部隊容量への追加",
     "effect_description_allianceDefenseUnitAmountYardBonus": "同盟支援の部隊の定員が+{0}",
     "effect_description_hiddenSoldiersSpace": "部隊シェルターの容量",
     "subscription_convenience_description_AutoCooldownSkip": "オプションを有効にすると、タイムスキップを自動的に使用して、特定のNPCターゲットの攻撃クールダウンをスキップします。",
@@ -13619,6 +13662,7 @@
     "equip_effect_description_offensiveRangeBonusTCICapped": "+{0}% 射程ユニットの攻撃力",
     "effect_desc_CraftingQueueProductionBoost_4": "ドラゴンの財宝の部品の生産量ボーナス{0}%",
     "effect_name_CraftingQueueProductionBoost_4": "竜の炎の鍛冶場の部品の生産ボーナス",
+    "webshop_decoWithEffects_WallDefCourtDefCourtCap_desc": "最大数 {0}、装飾に共通の効果制限、公共秩序 +{1}、壁防衛部隊の能力に +{2}% ボーナス、守備時の中庭での強さに +{3}% ボーナス (最大 +120%)、中庭防衛部隊の能力に +{4} ボーナス (最大 +100k)、建物サイズ {5}x{6}。",
     "ci_effect_lootBonusPVE": "NPCの城で略奪できる資源　+{0}%",
     "ci_effect_defenseBonusNotMainCastle": "基地とランドマークに駐屯している部隊の戦闘力 +{0}%",
     "ci_effect_unboostedBeefProduction": "毎時+{0}牛肉生産",
@@ -13788,7 +13832,8 @@
     "effect_description_transportTaxDecreaseBoostIce": "-{0}% 資源輸送コスト: 常冬の氷河",
     "effect_description_transportTaxDecreaseBoostIsland": "-{0}% 資源輸送コスト：嵐の島",
     "effect_description_transportTaxDecreaseBoostSand": "-{0}% 資源輸送コスト: 燃える砂",
-    "effect_description_transportTaxDecreaseBoostVulcano": "-{0}% 資源輸送コスト: 炎の峰"
+    "effect_description_transportTaxDecreaseBoostVulcano": "-{0}% 資源輸送コスト: 炎の峰",
+    "effect_group_1_8_passive": "防御型遠隔ユニットの戦闘力ボーナス"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "英雄",
@@ -17641,7 +17686,15 @@
     "ChristmasArcher_name": "クリスマスアーチャー",
     "ChristmasGuardian_name": "クリスマスガーディアン",
     "ChristmasHuntress_name": "クリスマスハンター",
-    "ChristmasWarrior_name": "クリスマスの戦士"
+    "ChristmasWarrior_name": "クリスマスの戦士",
+    "equipment_unique_1200": "くるみ割り人形のスノーグローブ",
+    "equipment_unique_1200_desc": "あなたの軍隊をくるみ割り人形の軍隊に変身させます。",
+    "equipment_unique_1201": "くるみ割り人形のスノーグローブ",
+    "equipment_unique_1201_desc": "あなたの軍隊をくるみ割り人形の軍隊に変身させます。",
+    "equipment_unique_1202": "くるみ割り人形のスノーグローブ",
+    "equipment_unique_1202_desc": "あなたの軍隊をくるみ割り人形の軍隊に変身させます。",
+    "equipment_unique_1203": "ギフト包装された守備隊",
+    "equipment_unique_1203_desc": "ウィンターチャイドの精神が四つの王国全体の心と魂を温めます。あなたの城を贈り物のようにラッピングされた要塞に変えます。"
   },
   "generic": {
     "activity": "アクティビティ",
@@ -19692,7 +19745,9 @@
     "yourRanking": "あなたの順位",
     "refresh": "リフレッシュ",
     "rewardHubCollect": "報酬ハブで報酬を受け取る！",
-    "eyecatcher_valuable": "貴重！"
+    "eyecatcher_valuable": "貴重！",
+    "eventBuilding_apprenticeSmith_nopackages": "マスターブラックスミスには利用可能なパッケージがありません。",
+    "eventNotRunning": "イベントは現在実施されていません。"
   },
   "help": {
     "help_location": "ここから、城や基地の\n重要な情報を見ることができます。",
@@ -24244,7 +24299,9 @@
     "ChristmasHuntress_desc": "この警戒心の強い狩人たちは冬の森で見張りを立て、ホリーの矢を構え、彼女たちの領域を脅かす者を排除する準備ができています。",
     "ChristmasHuntress_short_info": "非常に強力な遠距離防御者",
     "ChristmasWarrior_desc": "ペパーミントのストライプの槍を持ったこれらの凶暴な戦士たちは、止められないホリデースピリットで前進し、彼らの道に立ちふさがるすべての者に恐怖を与えます。",
-    "ChristmasWarrior_short_info": "非常に強力な近接攻撃者"
+    "ChristmasWarrior_short_info": "非常に強力な近接攻撃者",
+    "nomadcoinbooststone_name": "遊牧民の金箱",
+    "nomadcoinbooststone_short_info": "遊牧民キャンプで略奪されたコインの数を増やす"
   },
   "generic_flash": {
     "Footer": {

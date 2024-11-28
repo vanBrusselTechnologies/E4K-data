@@ -891,7 +891,10 @@
     "errorCode_450": "Vahvistus on lähetetty ja sen saapumisessa voi kestää jopa tunti. Voit vaihtaa salasanasi vain kerran päivässä, joten yritä uudelleen huomenna tarvittaessa.",
     "errorCode_OBJECT_INVALID_STATE": "Tämä toiminto ei ole tällä hetkellä mahdollista. Yritä uudelleen myöhemmin.",
     "errorCode_title": "Huomio!",
-    "error_twisted_firestarter_while_protected": "Et voi sabotoida muita pelaajia, kun suojaustila on päällä."
+    "error_twisted_firestarter_while_protected": "Et voi sabotoida muita pelaajia, kun suojaustila on päällä.",
+    "dialog_shoppingCartPrimeDay_DontShowNotification": "Älä näytä tätä keskustelua uudelleen tälle tarjoukselle",
+    "dialog_shoppingCartPrimeDay_GoToShopButton": "Mene kauppaan",
+    "dialog_shoppingCartPrimeDay_SeeOfferButton": "Katso tarjous"
   },
   "buildings_and_decorations": {
     "bakery_name": "Leipomo",
@@ -3410,7 +3413,6 @@
     "dialog_noobshield_header": "Hyökkäyssuoja",
     "dialog_noobshield_text": "Kun hyökkäyssuoja on aktiivinen, olet suojassa muiden linnanherrojen hyökkäyksiltä. Huomaa, että menetät suojan, jos hyökkäät toisen linnanherran kimppuun. Hyökkäykset ryöväriparonien linnoihin eivät kuitenkaan vaikuta hyökkäyssuojaasi.",
     "dialog_resourceOverview_metropolBonus": "Metropolibonus",
-    "dialog_fame_rewardAttackBoost": "+{0} % hyökkäysbonus kaikille kohteille",
     "dialog_fame_rewardFameBoost": "+{0} % saatuun maineeseen",
     "dialog_titleUp_goToGloryDialog": "Mainearvonimien yleiskatsaus",
     "dialog_Commander_bonusGloryTitle": "+{0} % hyökkäysbonusta mainearvonimestä",
@@ -12187,7 +12189,6 @@
     "webshop_summer2_small_name": "Pieni↵Polttava kesäpaketti",
     "webshop_summerDecoE_Combat": "Kesäkampanjan taistelutarjous",
     "dialog_crafting_recipe_buildingRequired": "Tämän reseptin avaamiseen tarvitaan seuraava rakennus:\n{0}",
-    "webshop_decoWithEffects_WallDefCourtDefCourtCap_desc": "Maksimimäärä {0}, vaikutusraja jaettuna koristeiden kesken, Julkinen järjestys +{1}, +{2}% bonus muurin puolustusjoukkojen kapasiteettiin, +{3}% bonus voimalle sisäpihalla puolustettaessa (max +120%), +{4} bonus sisäpihan puolustusjoukkojen kapasiteettiin (max +100k), Rakennuksen koko {4}x{5}.",
     "merchantitem_resources_3569_name": "Ylellinen naudanlihapaketti",
     "webshop_beeftoolsmithdays_desc": "Väliaikainen rakennusosa työkalusepälle. Myöntää +{0} naudanlihan tuotantoa tunnissa {1} päivän ajan.",
     "webshop_beefgrannarydays_desc": "Väliaikainen rakennusosa viljavarastolle. Antaa +{0} naudanlihan tuotantoa tunnissa {1} päivän ajan.",
@@ -12471,9 +12472,51 @@
     "dialog_event_announcement_description_126": "Fatal Flora -puutarhassa on noussut valtava lihansyöjäkasvi, joka on nälkäinen sotilaitasi kohtaan! Onneksi kaupungin asukkaat ovat valmistaneet sotilaskeksejä houkutellakseen sitä. Fatal Flora Trap -tapahtumassa ruoki kasvia saadaksesi palkintoja, kuten Fatal Flora -koristeita, jotka parantavat julkista järjestystä ja lisäävät tehosteita koristealueellasi. Kilpaile muiden kanssa saavuttaaksesi paremmat palkinnot - liity mukaan ja nauti saaliista!",
     "dialog_event_announcement_header_126": "Kuolettava kasvipast",
     "dialog_title_gachadeco2x2": "Kuolettava kasvipast",
-    "help_deco_gacha": "Massiivinen lihansyöjäkasvi on juurtunut &lt;b&gt;Kuolettavan Floran Puutarhan&lt;/b&gt; eteen ja näyttää kehittäneen maun sotilaitasi kohtaan! Mutta älä pelkää—keksivät pikkukaupungin asukkaat ovat luoneet välipalan, jota kasvi ei yksinkertaisesti voi vastustaa. Ruokkimalla sitä &lt;b&gt;Sotilaskekseillä&lt;/b&gt;, saat runsaita palkintoja.\n\n&lt;b&gt;Kasvin Ruokkiminen:&lt;/b&gt;\nJokainen ruokinta tuo sinulle palkintoja - erittäin haluttuja Kuolettavan Floran Koristeita. Nämä koristeet eivät ainoastaan tuo runsaasti Julkisen järjestyksen arvoa kokoon nähden, vaan ne voivat myös myöntää lisävaikutuksia valtakunnallesi! Kuolettavan Floran Koristeita voidaan sijoittaa Kuolettavan Floran Puutarhan Koristealueelle, mikä lisää sekä alueen PO- että voimavaraarvoa.\n&lt;b&gt;Ranking ja Tasot:&lt;/b&gt;\nRanking-järjestelmä seuraa edistymistäsi ja tarjoaa saavutuspalkintoja perustuen sijoitukseesi. Tapahtuma sisältää myös järjestelmän, jossa on useita tasoja. Kun etenet tasolla, paras mahdollisuus saada paras Kuolettavan Floran Koriste paranee."
+    "help_deco_gacha": "Massiivinen lihansyöjäkasvi on juurtunut &lt;b&gt;Kuolettavan Floran Puutarhan&lt;/b&gt; eteen ja näyttää kehittäneen maun sotilaitasi kohtaan! Mutta älä pelkää—keksivät pikkukaupungin asukkaat ovat luoneet välipalan, jota kasvi ei yksinkertaisesti voi vastustaa. Ruokkimalla sitä &lt;b&gt;Sotilaskekseillä&lt;/b&gt;, saat runsaita palkintoja.\n\n&lt;b&gt;Kasvin Ruokkiminen:&lt;/b&gt;\nJokainen ruokinta tuo sinulle palkintoja - erittäin haluttuja Kuolettavan Floran Koristeita. Nämä koristeet eivät ainoastaan tuo runsaasti Julkisen järjestyksen arvoa kokoon nähden, vaan ne voivat myös myöntää lisävaikutuksia valtakunnallesi! Kuolettavan Floran Koristeita voidaan sijoittaa Kuolettavan Floran Puutarhan Koristealueelle, mikä lisää sekä alueen PO- että voimavaraarvoa.\n&lt;b&gt;Ranking ja Tasot:&lt;/b&gt;\nRanking-järjestelmä seuraa edistymistäsi ja tarjoaa saavutuspalkintoja perustuen sijoitukseesi. Tapahtuma sisältää myös järjestelmän, jossa on useita tasoja. Kun etenet tasolla, paras mahdollisuus saada paras Kuolettavan Floran Koriste paranee.",
+    "webshop_GlacialMeadBow_desc": "Erinomaisen voimakas jäätikköetäpuolustaja, jonka puolustusvoima on {0}",
+    "webshop_GlacialMeadMace_desc": "Erinomainen voimakas jäätikkö lähitaistelupuolustaja, jonka puolustusvoima on {0}",
+    "webshop_GlacialMeadRanger_desc": "Erinomaisen voimakas jäätynyt kauko hyökkääjä, jonka hyökkäysvoima on {0}",
+    "webshop_GlacialMeadShieldMaiden_desc": "Erityisen voimakas jäätikkö lähitaistelija, jonka hyökkäysvoima on {0}",
+    "webshop_blackfriday_VIP_name": "VIP Black Friday -tarjous",
+    "webshop_blackfriday_combat_name": "Black Friday -tarjous - Taistelu",
+    "webshop_blackfriday_economy_name": "Black Friday -tarjous - Talous",
+    "webshop_blackfriday_experience_name": "Black Friday -tarjous - Kokemus",
+    "webshop_blackfriday_extraLarge_name": "Erityisen suuri Black Friday -tarjous",
+    "webshop_blackfriday_giant_name": "Jättimäinen Black Friday -tarjous",
+    "webshop_blackfriday_huge_name": "Iso Black Friday -tarjous",
+    "webshop_blackfriday_large_name": "Suuri Black Friday -tarjous",
+    "webshop_blackfriday_medium_name": "Keskikokoinen Black Friday -tarjous",
+    "webshop_blackfriday_small_name": "Pieni Black Friday -tarjous",
+    "dialog_chestOffer_desc_christmas": "Avaa juhlavia yllätyksiä joululaatikosta!",
+    "dialog_chestOffer_title_christmas": "Joululaatikko",
+    "dialog_attack_wave14": "Aalto 14",
+    "dialog_attack_wave15": "Aalto 15",
+    "dialog_attack_wave16": "Aalto 16",
+    "dialog_attack_wave17": "Aalto 17",
+    "dialog_attack_wave18": "Aalto 18",
+    "dialog_attack_wave19": "Aalto 19",
+    "dialog_attack_wave20": "Aalto 20",
+    "dialog_attack_wave21": "Aalto 21",
+    "dialog_attack_wave22": "Aalto 22",
+    "dialog_attack_wave23": "Aalto 23",
+    "dialog_attack_wave24": "Aalto 24",
+    "dialog_attack_wave25": "Aalto 25",
+    "dialog_attack_wave26": "Aalto 26",
+    "dialog_attack_wave27": "Aalto 27",
+    "dialog_attack_wave28": "Aalto 28",
+    "dialog_attack_wave29": "Aalto 29",
+    "dialog_attack_wave30": "Aalto 30",
+    "dialog_legendTemple_unlockTier_locked": "Kaikki tämän tason taidot ovat lukittuja.",
+    "dialog_messageHeader_kingstowerLost_title": "Kadonnut kuninkaallinen torni",
+    "webshop_DragonHoardResProductionSpdTools_862_desc": "Tilapäinen rakennustuote linnakkeelle. Myöntää +{0}% bonustuoton lohikäärmeen aarteiden osalta ja +{1}% tuotantonopeusbonuksen kaikille työkaluilla {2} päivän ajan.",
+    "webshop_RecruitSpeedProductionSpdTools_864_desc": "Väliaikainen rakennusosa vartiohuoneelle. Antaa +{0}% rekrytointinopeutta ja +{1}% bonustuotantonopeutta kaikille työkaluilla {2} päivän ajan.",
+    "webshop_RefineryResourcesProductionSpdTools_384_desc": "Väliaikainen rakennusosa vartiohuoneelle. Myöntää +{0}% bonustuottoa jalostusresursseista ja +{1}% bonustuotantonopeutta kaikille työkaluilla {2} päivän ajan.",
+    "webshop_ToolsmithProductionSpdTools_385_desc": "Tilapäinen rakennuselementti vartiohuoneelle. Antaa +{0}% bonustuotantoa työkalusegmentin komponenteille ja +{1}% bonustuotannon nopeutta kaikille työkaluilla {2} päiväksi.",
+    "dialog_chestOffer_desc_blackfriday": "Savustettu kuuma eksklusiivinen Black Friday -tarjous!",
+    "dialog_chestOffer_title_blackfriday": "Black Friday -tarjouslaatikko"
   },
   "effects": {
+    "dialog_fame_rewardAttackBoost": "+{0}% voimaa pihalla hyökätessä",
     "equip_effect_description_conquerSpeedBonus": "+{0} % armeijan matkanopeuteen valloitusten aikana",
     "equip_effect_description_cooldownReduction": "-{0} % hyökkäyksen odotusaikaan voiton jälkeen",
     "equip_effect_description_fameDefenseBonus": "+{0} % mainepisteisiin puolustaessa",
@@ -13498,7 +13541,7 @@
     "ci_effect_defenseUnitAmountYardBonus": "+{0} sisäpihan puolustuksen joukkojen kapasiteettiin",
     "ci_effect_attackUnitAmountReinforcementBonus": "+{0} lopullisen hyökkäyksen joukkojen kapasiteettiin",
     "ci_effect_attackUnitAmountReinforcementBoost": "+{0} % lopullisen hyökkäyksen joukkokapasiteettiin",
-    "effect_description_defenseUnitAmountYardBonus": "Sisäpihan puolustuksen joukkokapasiteetti",
+    "effect_description_defenseUnitAmountYardBonus": "+{0} joukkojen kapasiteettiin lopullista hyökkäystä varten",
     "effect_description_allianceDefenseUnitAmountYardBonus": "+{0} liittouman tukijoukkojen kapasiteettiin",
     "effect_description_hiddenSoldiersSpace": "Yksikkösuojan kapasiteetti",
     "subscription_convenience_description_AutoCooldownSkip": "Ota käyttöön ajanohitusten automaattinen käyttäminen tiettyjen ei-pelaaja-kohteiden odotusajan ohittamiseen.",
@@ -13619,6 +13662,7 @@
     "equip_effect_description_offensiveRangeBonusTCICapped": "+{0}% etäisyksikköjen hyökkäysvoima",
     "effect_desc_CraftingQueueProductionBoost_4": "{0}% bonustuotantoa lohikäärmeen aarteiden osille",
     "effect_name_CraftingQueueProductionBoost_4": "Lisäbonus lohikäärmeenhenkäahjon komponenttien tuotantoon",
+    "webshop_decoWithEffects_WallDefCourtDefCourtCap_desc": "Maksimi määrä {0}, vaikutusraja jaettu koristeiden kesken, Julkinen järjestys +{1}, +{2}% bonus muurin puolustustrooppa kapasiteettiin, +{3}% bonus voimaan sisäpihalla puolustettaessa (max +120%), +{4} bonus sisäpihan puolustustrooppa kapasiteettiin (max +100k), Rakennuksen koko {5}x{6}.",
     "ci_effect_lootBonusPVE": "+{0} % ei-pelaaja-kohteista vietyihin resursseihin",
     "ci_effect_defenseBonusNotMainCastle": "+{0} % etuvartioihin ja maamerkkeihin sijoitettujen yksiköiden voimaan",
     "ci_effect_unboostedBeefProduction": "+{0} naudanlihan tuotantoa tunnissa",
@@ -13788,7 +13832,8 @@
     "effect_description_transportTaxDecreaseBoostIce": "-{0}% Resurssikuljetuskustannukset: Ikitalven jäätikkö",
     "effect_description_transportTaxDecreaseBoostIsland": "-{0}% Resurssikuljetuskustannukset: Myrskysaaret",
     "effect_description_transportTaxDecreaseBoostSand": "-{0}% Resurssien kuljetuskustannukset: Polttavat hiekat",
-    "effect_description_transportTaxDecreaseBoostVulcano": "-{0}% Resurssien kuljetuskustannukset: Tulihuiput"
+    "effect_description_transportTaxDecreaseBoostVulcano": "-{0}% Resurssien kuljetuskustannukset: Tulihuiput",
+    "effect_group_1_8_passive": "Puolustavien etäyksiköiden taisteluvoimabonuksen"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Sankari",
@@ -17641,7 +17686,15 @@
     "ChristmasArcher_name": "Joulukaariampuja",
     "ChristmasGuardian_name": "Jouluvahti",
     "ChristmasHuntress_name": "Jouluharrastaja",
-    "ChristmasWarrior_name": "Joulusoturi"
+    "ChristmasWarrior_name": "Joulusoturi",
+    "equipment_unique_1200": "Pähkinänsärkijän lumisadepallo",
+    "equipment_unique_1200_desc": "Muuttaa armeijasi pähkinänsärkijöiden armeijaksi.",
+    "equipment_unique_1201": "Pähkinänsärkijän lumisadepallo",
+    "equipment_unique_1201_desc": "Muuttaa armeijasi pähkinänsärkijöiden armeijaksi.",
+    "equipment_unique_1202": "Pähkinänsärkijän lumisadepallo",
+    "equipment_unique_1202_desc": "Muuttaa armeijasi pähkinänsärkijöiden armeijaksi.",
+    "equipment_unique_1203": "Lahjapaketissa oleva varuskunta",
+    "equipment_unique_1203_desc": "Antakaa talven henki lämmittää sydämiä ja sieluja kaikissa Neljässä kuningaskunnassa. Muuta linnaasi lahjapakettimaiseksi linnoitukseksi."
   },
   "generic": {
     "activity": "Toiminta",
@@ -19692,7 +19745,9 @@
     "yourRanking": "Sijoituksesi",
     "refresh": "Päivitä",
     "rewardHubCollect": "Noudatkaa palkintojanne Palkintokeskuksessa!",
-    "eyecatcher_valuable": "Arvokas!"
+    "eyecatcher_valuable": "Arvokas!",
+    "eventBuilding_apprenticeSmith_nopackages": "Mestariseppä ei omaa saatavilla olevia paketteja.",
+    "eventNotRunning": "Tapahtuma ei ole tällä hetkellä käynnissä."
   },
   "help": {
     "help_location": "Täältä saat yleiskatsauksen linnaasi ja etuvartioihisi liittyvään sisältöön.",
@@ -24244,7 +24299,9 @@
     "ChristmasHuntress_desc": "Nämä valppaat metsästäjät vartioivat talvisia metsiä, heidän holly-päällysteiset nuolensa valmiina puolustamaan valtakuntaansa.",
     "ChristmasHuntress_short_info": "Äärimmäisen voimakas kaukovahti",
     "ChristmasWarrior_desc": "Piparmintun raidallisia keihäitä kantaen, nämä hurjat soturit syöksyvät eteenpäin pysäyttämättömällä lomahengellä, aiheuttaen pelkoa kaikille, jotka seisovat heidän tiellään.",
-    "ChristmasWarrior_short_info": "Äärimmäisen voimakas lähitaistelija"
+    "ChristmasWarrior_short_info": "Äärimmäisen voimakas lähitaistelija",
+    "nomadcoinbooststone_name": "Paimentolaisten säästöpossu",
+    "nomadcoinbooststone_short_info": "Lisää varkausleireistä ryöstettyjen kolikoiden määrää"
   },
   "generic_flash": {
     "Footer": {

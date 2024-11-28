@@ -891,7 +891,10 @@
     "errorCode_450": "En bekräftelse har skickats och kan ta upp till en timme. Du kan bara ändra ditt lösenord en gång per dag, så försök igen i morgon om det behövs.",
     "errorCode_OBJECT_INVALID_STATE": "Denna åtgärd är för närvarande inte möjlig. Försök igen senare.",
     "errorCode_title": "Uppmärksamhet!",
-    "error_twisted_firestarter_while_protected": "Du kan inte sabotera andra spelare medan skyddsläget är aktiverat."
+    "error_twisted_firestarter_while_protected": "Du kan inte sabotera andra spelare medan skyddsläget är aktiverat.",
+    "dialog_shoppingCartPrimeDay_DontShowNotification": "Visa inte denna dialogruta igen för detta erbjudande",
+    "dialog_shoppingCartPrimeDay_GoToShopButton": "Gå till affären",
+    "dialog_shoppingCartPrimeDay_SeeOfferButton": "Se erbjudande"
   },
   "buildings_and_decorations": {
     "bakery_name": "Bageri",
@@ -3410,7 +3413,6 @@
     "dialog_noobshield_header": "Anfallsskydd",
     "dialog_noobshield_text": "Medan ditt anfallsskydd är aktivt, kommer du att vara säker från anfall av andra slottsherrar. Du kommer dock att förlora ditt skydd om du anfaller en annan slottsherre. Anfall mot rovriddarslott påverkar inte ditt anfallsskydd.",
     "dialog_resourceOverview_metropolBonus": "Metropolbonus",
-    "dialog_fame_rewardAttackBoost": "+ {0} % anfallsbonus mot alla mål",
     "dialog_fame_rewardFameBoost": "+{0} % intjänad ära",
     "dialog_titleUp_goToGloryDialog": "Översikt över alla ärotitlar",
     "dialog_Commander_bonusGloryTitle": "+{0} % anfallsbonus från ärotiteln",
@@ -12187,7 +12189,6 @@
     "webshop_summer2_small_name": "Liten Brännande sommarpaket",
     "webshop_summerDecoE_Combat": "Brinnande sommardekorationserbjudande",
     "dialog_crafting_recipe_buildingRequired": "För att låsa upp det här receptet krävs följande byggnad:\n{0}",
-    "webshop_decoWithEffects_WallDefCourtDefCourtCap_desc": "Max antal {0}, effektgräns delad mellan dekorationer, Offentlig ordning +{1}, +{2}% bonus till kapacitet för väggförsvarsstyrkor, +{3}% bonus till styrka i innergården vid försvar (max +120%), +{4} bonus till kapacitet för innergårdsförsvarsstyrkor (max +100k), Byggnadsstorlek {4}x{5}.",
     "merchantitem_resources_3569_name": "Utmärkt köttpaket",
     "webshop_beeftoolsmithdays_desc": "Ett temporärt byggobjekt för verktygsmakaren. Ger +{0} nötköttproduktion per timme i {1} dagar.",
     "webshop_beefgrannarydays_desc": "Ett tillfälligt byggobjekt för kornkammaren. Ger +{0} nötköttsproduktion per timme i {1} dagar.",
@@ -12471,9 +12472,51 @@
     "dialog_event_announcement_description_126": "En massiv köttätande växt har skjutit upp i Fatal Flora-trädgården med en aptit på dina soldater! Som tur är har dina stadsbor gjort Soldatkex för att locka den. I Fatal Flora Trap-evenemanget, mata växten för att tjäna belöningar som Fatal Flora-dekorationer som ökar den offentliga ordningen och lägger till effekter i ditt Dekorationsdistrikt. Tävla med andra om rankningsbelöningar – gå med och njut av bytet!",
     "dialog_event_announcement_header_126": "Dödlig växtfälla",
     "dialog_title_gachadeco2x2": "Dödlig växtfälla",
-    "help_deco_gacha": "En massiv köttätande växt har rotat sig framför &lt;b&gt;Fatal Flora Garden&lt;/b&gt;, och den verkar ha utvecklat en smak för dina soldater! Men frukta inte—dina uppfinningsrika invånare har skapat en snack som växten helt enkelt inte kan motstå. Genom att mata den med &lt;b&gt;Soldier Biscuits&lt;/b&gt; kommer du att bli generöst belönad.\n\n&lt;b&gt;Matning av växten:&lt;/b&gt;\nVarje matning ger dig belöningar - de mycket eftertraktade Fatal Flora Dekorationerna. Dessa dekorationer har inte bara ett stort värde för den offentliga ordningen i förhållande till sin storlek, utan de kan också ge ytterligare effekter för ditt kungarike! Fatal Flora Dekorationer kan placeras i Dekorationsdistriktet för Fatal Flora Garden, vilket ökar både PO och kraftvärdet för distriktet självt.\n&lt;b&gt;Rankning och nivåer:&lt;/b&gt;\nEtt rankningssystem kommer att spåra din framsteg och erbjuda belöningar baserat på din rankning. Evenemanget inkluderar också ett system med flera nivåer. När du går framåt genom nivåerna, förbättras chansen att få den bästa Fatal Flora Dekorationen."
+    "help_deco_gacha": "En massiv köttätande växt har rotat sig framför &lt;b&gt;Fatal Flora Garden&lt;/b&gt;, och den verkar ha utvecklat en smak för dina soldater! Men frukta inte—dina uppfinningsrika invånare har skapat en snack som växten helt enkelt inte kan motstå. Genom att mata den med &lt;b&gt;Soldier Biscuits&lt;/b&gt; kommer du att bli generöst belönad.\n\n&lt;b&gt;Matning av växten:&lt;/b&gt;\nVarje matning ger dig belöningar - de mycket eftertraktade Fatal Flora Dekorationerna. Dessa dekorationer har inte bara ett stort värde för den offentliga ordningen i förhållande till sin storlek, utan de kan också ge ytterligare effekter för ditt kungarike! Fatal Flora Dekorationer kan placeras i Dekorationsdistriktet för Fatal Flora Garden, vilket ökar både PO och kraftvärdet för distriktet självt.\n&lt;b&gt;Rankning och nivåer:&lt;/b&gt;\nEtt rankningssystem kommer att spåra din framsteg och erbjuda belöningar baserat på din rankning. Evenemanget inkluderar också ett system med flera nivåer. När du går framåt genom nivåerna, förbättras chansen att få den bästa Fatal Flora Dekorationen.",
+    "webshop_GlacialMeadBow_desc": "Utmärkt kraftfull glaciärförsvarare med en försvarsstyrka på {0}",
+    "webshop_GlacialMeadMace_desc": "Utmärkt kraftfull glaciär närstridsförsvarare med en försvarsstyrka av {0}",
+    "webshop_GlacialMeadRanger_desc": "En enastående kraftfull glaciär avståndsangripare med en attackstyrka på {0}",
+    "webshop_GlacialMeadShieldMaiden_desc": "Enastående kraftfull glaciär-närstridsangripare med en angreppskraft på {0}",
+    "webshop_blackfriday_VIP_name": "VIP Black Friday-erbjudande",
+    "webshop_blackfriday_combat_name": "Black Friday-erbjudande - Strid",
+    "webshop_blackfriday_economy_name": "Black Friday-erbjudande - Ekonomi",
+    "webshop_blackfriday_experience_name": "Black Friday-erbjudande - Upplevelse",
+    "webshop_blackfriday_extraLarge_name": "Extra stort Black Friday-erbjudande",
+    "webshop_blackfriday_giant_name": "Gigantisk Black Friday-erbjudande",
+    "webshop_blackfriday_huge_name": "Stort Black Friday-erbjudande",
+    "webshop_blackfriday_large_name": "Stort Black Friday-erbjudande",
+    "webshop_blackfriday_medium_name": "Medium Black Friday-erbjudande",
+    "webshop_blackfriday_small_name": "Liten Black Friday-erbjudande",
+    "dialog_chestOffer_desc_christmas": "Öppna festliga överraskningar med Julskålen!",
+    "dialog_chestOffer_title_christmas": "Julskatt",
+    "dialog_attack_wave14": "Våg 14",
+    "dialog_attack_wave15": "Våg 15",
+    "dialog_attack_wave16": "Våg 16",
+    "dialog_attack_wave17": "Våg 17",
+    "dialog_attack_wave18": "Våg 18",
+    "dialog_attack_wave19": "Våg 19",
+    "dialog_attack_wave20": "Våg 20",
+    "dialog_attack_wave21": "Våg 21",
+    "dialog_attack_wave22": "Våg 22",
+    "dialog_attack_wave23": "Våg 23",
+    "dialog_attack_wave24": "Våg 24",
+    "dialog_attack_wave25": "Våg 25",
+    "dialog_attack_wave26": "Våg 26",
+    "dialog_attack_wave27": "Våg 27",
+    "dialog_attack_wave28": "Våg 28",
+    "dialog_attack_wave29": "Våg 29",
+    "dialog_attack_wave30": "Våg 30",
+    "dialog_legendTemple_unlockTier_locked": "Alla färdigheter i denna nivå är låsta.",
+    "dialog_messageHeader_kingstowerLost_title": "Förlorat kungligt torn",
+    "webshop_DragonHoardResProductionSpdTools_862_desc": "Ett temporärt byggobjekt för borgen. Ger +{0}% bonusutgång för drakskattresurser och +{1}% bonusproduktionshastighet för alla verktyg i {2} dagar.",
+    "webshop_RecruitSpeedProductionSpdTools_864_desc": "Ett temporärt byggobjekt för vakthuset. Ger +{0}% rekryteringshastighet och +{1}% bonusproduktionshastighet för alla verktyg i {2} dagar.",
+    "webshop_RefineryResourcesProductionSpdTools_384_desc": "Ett tillfälligt byggobjekt för vakthuset. Ger +{0}% bonusutgång för raffinaderiresurser och +{1}% bonusproduktionshastighet för alla verktyg under {2} dagar.",
+    "webshop_ToolsmithProductionSpdTools_385_desc": "Ett temporärt byggobjekt för vakthuset. Ger +{0}% bonusutgång för verktygskomponenter och +{1}% bonusproduktionshastighet för alla verktyg i {2} dagar.",
+    "dialog_chestOffer_desc_blackfriday": "Rykande het exklusiv Black Friday-erbjudande!",
+    "dialog_chestOffer_title_blackfriday": "Black Friday-erbjudandekista"
   },
   "effects": {
+    "dialog_fame_rewardAttackBoost": "+{0}% styrka på gården vid angrepp",
     "equip_effect_description_conquerSpeedBonus": "+{0} % resehastighet för armén under erövringar",
     "equip_effect_description_cooldownReduction": "-{0} % anfallsåterhämtning efter seger",
     "equip_effect_description_fameDefenseBonus": "+{0} % äropoäng intjänade vid försvar",
@@ -13498,7 +13541,7 @@
     "ci_effect_defenseUnitAmountYardBonus": "+{0} truppkapacitet i borggårdsförsvar",
     "ci_effect_attackUnitAmountReinforcementBonus": "+{0} truppkapacitet i sista anfallet",
     "ci_effect_attackUnitAmountReinforcementBoost": "+{0} % truppkapacitet i sista anfallet",
-    "effect_description_defenseUnitAmountYardBonus": "Borggårdsförsvarets truppkapacitet",
+    "effect_description_defenseUnitAmountYardBonus": "+{0} till truppkapacitet för det slutliga angreppet",
     "effect_description_allianceDefenseUnitAmountYardBonus": "+{0} till truppkapacitet för allianssupport",
     "effect_description_hiddenSoldiersSpace": "Kapacitet i skyddsrum för enheter",
     "subscription_convenience_description_AutoCooldownSkip": "Aktivera alternativet för att automatiskt använda tidskipp och skippa återhämtningen vid anfall mot särskilda NPC-mål.",
@@ -13619,6 +13662,7 @@
     "equip_effect_description_offensiveRangeBonusTCICapped": "+{0}% attackskraft för avståndsenheter",
     "effect_desc_CraftingQueueProductionBoost_4": "{0}% bonus på utmatning av drakskattkammardelar",
     "effect_name_CraftingQueueProductionBoost_4": "Bonus till utmatning av drakandehandelsdelar",
+    "webshop_decoWithEffects_WallDefCourtDefCourtCap_desc": "Max antal {0}, effektgräns som delas mellan dekorationer, Offentlig ordning +{1}, +{2}% bonus till kapaciteten för väggförsvarstrupper, +{3}% bonus till styrka i gården vid försvar (max +120%), +{4} bonus till kapaciteten för gårdsförsvarstrupper (max +100k), Byggnadsstorlek {5}x{6}.",
     "ci_effect_lootBonusPVE": "+{0} % resurser plundrade från NPC-mål",
     "ci_effect_defenseBonusNotMainCastle": "+{0} % styrka för enheter stationerade i utposter och landmärken",
     "ci_effect_unboostedBeefProduction": "+{0} nötköttsproduktion per timme",
@@ -13788,7 +13832,8 @@
     "effect_description_transportTaxDecreaseBoostIce": "-{0}% Transportkostnader för resurser: Vinterglaciären",
     "effect_description_transportTaxDecreaseBoostIsland": "-{0}% Transportkostnader för resurser: Stormöarna",
     "effect_description_transportTaxDecreaseBoostSand": "-{0}% Transportkostnader för resurser: Brinnande sand",
-    "effect_description_transportTaxDecreaseBoostVulcano": "-{0}% Transportkostnader för resurser: Eldbergen"
+    "effect_description_transportTaxDecreaseBoostVulcano": "-{0}% Transportkostnader för resurser: Eldbergen",
+    "effect_group_1_8_passive": "Stridskraftbonus för defensiva distansenheter"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Hjälte",
@@ -17641,7 +17686,15 @@
     "ChristmasArcher_name": "Julbågskytt",
     "ChristmasGuardian_name": "Julväktare",
     "ChristmasHuntress_name": "Juljägare",
-    "ChristmasWarrior_name": "Julkrigare"
+    "ChristmasWarrior_name": "Julkrigare",
+    "equipment_unique_1200": "nötknäpparens snöglob",
+    "equipment_unique_1200_desc": "Transformera din armé till en armé av nötknäckarsoldater.",
+    "equipment_unique_1201": "nötknäpparens snöglob",
+    "equipment_unique_1201_desc": "Transformera din armé till en armé av nötknäckarsoldater.",
+    "equipment_unique_1202": "nötknäpparens snöglob",
+    "equipment_unique_1202_desc": "Transformera din armé till en armé av nötknäckarsoldater.",
+    "equipment_unique_1203": "Presentinslaget garnison",
+    "equipment_unique_1203_desc": "Låt vinterns anda värma hjärtan och själar över hela de Fyra Kungadömena. Förvandla ditt slott till en gåvoinslagen bastion."
   },
   "generic": {
     "activity": "Aktivera",
@@ -19692,7 +19745,9 @@
     "yourRanking": "Din ställning",
     "refresh": "Uppdatera",
     "rewardHubCollect": "Hämta dina belöningar i Belöningstjänsten!",
-    "eyecatcher_valuable": "Värdefull!"
+    "eyecatcher_valuable": "Värdefull!",
+    "eventBuilding_apprenticeSmith_nopackages": "Mästarsmeden har inga tillgängliga paket.",
+    "eventNotRunning": "Evenemanget pågår för närvarande inte."
   },
   "help": {
     "help_location": "Här har du en global översikt över ditt slotts viktiga innehåll och alla dina utposter.",
@@ -24244,7 +24299,9 @@
     "ChristmasHuntress_desc": "Dessa vaksamma jägare står vakt i de vinterliga skogarna, deras holly-toppade pilar redo att avvärja alla som hotar deras rike.",
     "ChristmasHuntress_short_info": "Extremt kraftfull distansförsvarare",
     "ChristmasWarrior_desc": "Beväpnade med pepparmintsrandiga lanser, dessa fruktade krigare rusar fram med en ostopplig semesterglädje och väcker rädsla hos alla som står i deras väg.",
-    "ChristmasWarrior_short_info": "Extremt kraftfull närstridsanfallare"
+    "ChristmasWarrior_short_info": "Extremt kraftfull närstridsanfallare",
+    "nomadcoinbooststone_name": "Nomadspargris",
+    "nomadcoinbooststone_short_info": "Ökar antalet mynt som plundras i nomadläger"
   },
   "generic_flash": {
     "Footer": {

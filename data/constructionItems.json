@@ -29302,6 +29302,51 @@
       "constructionItemEffectGroupID": 51,
       "disassemblingTombolaID": 4,
       "ReduceResearchResourceCosts": 15
+    },
+    {
+      "constructionItemID": 868,
+      "crossplayID": 868,
+      "comment1": "Temporary",
+      "comment2": "ChristmasSales - 2024",
+      "name": "xmasWorkshop",
+      "constructionItemGroupID": 232,
+      "level": 4,
+      "rarenessID": 4,
+      "slotTypeID": 0,
+      "duration": 345600,
+      "constructionItemEffectGroupID": 51,
+      "disassemblingTombolaID": 4,
+      "effects": "614&amp;70"
+    },
+    {
+      "constructionItemID": 869,
+      "crossplayID": 869,
+      "comment1": "Temporary",
+      "comment2": "ChristmasSales - 2024",
+      "name": "xmasDefensiveWorkshop",
+      "constructionItemGroupID": 233,
+      "level": 4,
+      "rarenessID": 4,
+      "slotTypeID": 0,
+      "duration": 345600,
+      "constructionItemEffectGroupID": 51,
+      "disassemblingTombolaID": 4,
+      "effects": "504&amp;85"
+    },
+    {
+      "constructionItemID": 870,
+      "crossplayID": 870,
+      "comment1": "Temporary",
+      "comment2": "ChristmasSales - 2024",
+      "name": "xmasBakery",
+      "constructionItemGroupID": 234,
+      "level": 4,
+      "rarenessID": 4,
+      "slotTypeID": 0,
+      "duration": 604800,
+      "constructionItemEffectGroupID": 51,
+      "disassemblingTombolaID": 4,
+      "ReduceResearchResourceCosts": 20
     }
   ]
 }

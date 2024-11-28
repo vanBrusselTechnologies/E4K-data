@@ -891,7 +891,10 @@
     "errorCode_450": "我们已发送确认，可能需要长达一小时。您一天只能修改密码一次，请如有需要，明天再尝试。",
     "errorCode_OBJECT_INVALID_STATE": "此操作目前无法进行。请稍后再试。",
     "errorCode_title": "注意！",
-    "error_twisted_firestarter_while_protected": "在保护模式开启时，您无法破坏其他玩家。"
+    "error_twisted_firestarter_while_protected": "在保护模式开启时，您无法破坏其他玩家。",
+    "dialog_shoppingCartPrimeDay_DontShowNotification": "不要再为此优惠显示此对话框",
+    "dialog_shoppingCartPrimeDay_GoToShopButton": "去商店",
+    "dialog_shoppingCartPrimeDay_SeeOfferButton": "查看优惠"
   },
   "buildings_and_decorations": {
     "bakery_name": "面包房",
@@ -3410,7 +3413,6 @@
     "dialog_noobshield_header": "攻击保护",
     "dialog_noobshield_text": "当启动了“攻击保护”，你将免受其他城堡领主攻击。但如果你攻击另一城堡领主时，你将失去“攻击保护”。攻击匪爵城堡则不会影响你的“攻击保护”。",
     "dialog_resourceOverview_metropolBonus": "首府奖励",
-    "dialog_fame_rewardAttackBoost": "+{0}% 所有目标攻击加成",
     "dialog_fame_rewardFameBoost": "+{0}%获得的荣耀值",
     "dialog_titleUp_goToGloryDialog": "所有荣耀称号的概述",
     "dialog_Commander_bonusGloryTitle": "+{0}%荣耀称号的攻击加成",
@@ -12187,7 +12189,6 @@
     "webshop_summer2_small_name": "小型炎炎夏日捆绑包",
     "webshop_summerDecoE_Combat": "夏季热卖装饰品战斗包",
     "dialog_crafting_recipe_buildingRequired": "此配方需要解锁以下建筑：\n{0}",
-    "webshop_decoWithEffects_WallDefCourtDefCourtCap_desc": "最大数量 {0}，效果上限在装饰品之间共享，公共秩序 +{1}，+{2}% 墙防军能力加成，+{3}% 后院防守时的强度加成（最多 +120%），+{4} 后院防守部队能力加成（最多 +100k），建筑大小 {4}x{5}。",
     "merchantitem_resources_3569_name": "高级牛肉礼包",
     "webshop_beeftoolsmithdays_desc": "工具匠的临时建造物品。每小时提供 +{0} 的牛肉生产，持续 {1} 天。",
     "webshop_beefgrannarydays_desc": "粮仓的临时建造项目。每小时提供+{0}的牛肉产量，持续{1}天。",
@@ -12471,9 +12472,51 @@
     "dialog_event_announcement_description_126": "在致命植物园中，一种巨大的食肉植物已经生长出来，正饥渴地等待着你的士兵！值得庆幸的是，镇民们制作了士兵饼干来引诱它。在致命植物陷阱活动中，喂养植物即可赚取奖励，比如提升公共秩序的致命植物装饰品，并在你的装饰区添加效果。与其他人竞争排名奖励——快来加入，享受战利品！",
     "dialog_event_announcement_header_126": "致命植物陷阱",
     "dialog_title_gachadeco2x2": "致命植物陷阱",
-    "help_deco_gacha": "一株巨大的食肉植物在&lt;b&gt;致命植物花园&lt;/b&gt;前扎根，似乎对你的士兵产生了兴趣！但请不要担心——你那机智的镇民们创造了一种植物根本无法抗拒的小吃。通过喂食&lt;b&gt;士兵饼干&lt;/b&gt;，你将获得丰厚的奖励。\n\n&lt;b&gt;喂养植物：&lt;/b&gt;\n每次喂养都会给你带来奖励——备受追捧的致命植物装饰。这些装饰不仅因为其尺寸而拥有丰厚的公共秩序价值，还可以为你的王国带来额外效果！致命植物装饰可以放置在致命植物花园装饰区，提升该区的公共秩序和实力价值。\n&lt;b&gt;排名与等级：&lt;/b&gt;\n排名系统将追踪你的进展，根据你的排名提供成就奖励。活动还包括多个等级的系统。当你在等级中进步时，获得最佳致命植物装饰的机会将会提升。"
+    "help_deco_gacha": "一株巨大的食肉植物在&lt;b&gt;致命植物花园&lt;/b&gt;前扎根，似乎对你的士兵产生了兴趣！但请不要担心——你那机智的镇民们创造了一种植物根本无法抗拒的小吃。通过喂食&lt;b&gt;士兵饼干&lt;/b&gt;，你将获得丰厚的奖励。\n\n&lt;b&gt;喂养植物：&lt;/b&gt;\n每次喂养都会给你带来奖励——备受追捧的致命植物装饰。这些装饰不仅因为其尺寸而拥有丰厚的公共秩序价值，还可以为你的王国带来额外效果！致命植物装饰可以放置在致命植物花园装饰区，提升该区的公共秩序和实力价值。\n&lt;b&gt;排名与等级：&lt;/b&gt;\n排名系统将追踪你的进展，根据你的排名提供成就奖励。活动还包括多个等级的系统。当你在等级中进步时，获得最佳致命植物装饰的机会将会提升。",
+    "webshop_GlacialMeadBow_desc": "具有 {0} 防御强度的极其强大的冰川远程防御者",
+    "webshop_GlacialMeadMace_desc": "杰出的强大冰川近战防御者，防御力量为{0}",
+    "webshop_GlacialMeadRanger_desc": "杰出的强大冰川远程攻击者，攻击力为{0}",
+    "webshop_GlacialMeadShieldMaiden_desc": "一名具有 {0} 攻击力的极其强大的冰川近战攻击者",
+    "webshop_blackfriday_VIP_name": "VIP黑色星期五优惠",
+    "webshop_blackfriday_combat_name": "黑色星期五优惠 - 战斗",
+    "webshop_blackfriday_economy_name": "黑色星期五优惠 - 经济",
+    "webshop_blackfriday_experience_name": "黑色星期五优惠 - 体验",
+    "webshop_blackfriday_extraLarge_name": "特大黑色星期五交易",
+    "webshop_blackfriday_giant_name": "巨型黑色星期五交易",
+    "webshop_blackfriday_huge_name": "巨大的黑色星期五交易",
+    "webshop_blackfriday_large_name": "大型黑色星期五交易",
+    "webshop_blackfriday_medium_name": "中等黑色星期五交易",
+    "webshop_blackfriday_small_name": "小型黑色星期五优惠",
+    "dialog_chestOffer_desc_christmas": "用圣诞箱子拆开节日惊喜！",
+    "dialog_chestOffer_title_christmas": "圣诞箱",
+    "dialog_attack_wave14": "波浪14",
+    "dialog_attack_wave15": "第15波",
+    "dialog_attack_wave16": "第16波",
+    "dialog_attack_wave17": "波浪17",
+    "dialog_attack_wave18": "第18波",
+    "dialog_attack_wave19": "第19波",
+    "dialog_attack_wave20": "波浪20",
+    "dialog_attack_wave21": "第21波",
+    "dialog_attack_wave22": "波浪22",
+    "dialog_attack_wave23": "波浪23",
+    "dialog_attack_wave24": "波浪24",
+    "dialog_attack_wave25": "波浪25",
+    "dialog_attack_wave26": "第26波",
+    "dialog_attack_wave27": "波27",
+    "dialog_attack_wave28": "波浪28",
+    "dialog_attack_wave29": "波浪29",
+    "dialog_attack_wave30": "波浪30",
+    "dialog_legendTemple_unlockTier_locked": "此等级的所有技能均已锁定。",
+    "dialog_messageHeader_kingstowerLost_title": "失落的皇家塔楼",
+    "webshop_DragonHoardResProductionSpdTools_862_desc": "城堡的临时建筑项目。为龙之宝藏资源提供 +{0}% 的额外产出，并为所有工具提供 +{1}% 的生产速度加成，为期 {2} 天。",
+    "webshop_RecruitSpeedProductionSpdTools_864_desc": "警卫所的临时建筑物品。提供 +{0}% 的招募速度和 +{1}% 的所有工具的额外生产速度，为期 {2} 天。",
+    "webshop_RefineryResourcesProductionSpdTools_384_desc": "守卫所的临时建筑物品。提供对精炼资源的 +{0}% 产出加成，并在 {2} 天内为所有工具提供 +{1}% 的生产速度加成。",
+    "webshop_ToolsmithProductionSpdTools_385_desc": "守卫所的临时建筑物品。为工具工组件提供 +{0}% 的额外产出奖励，并为所有工具提供 +{1}% 的生产速度奖励，持续 {2} 天。",
+    "dialog_chestOffer_desc_blackfriday": "火热的独家黑色星期五优惠！",
+    "dialog_chestOffer_title_blackfriday": "黑色星期五优惠箱"
   },
   "effects": {
+    "dialog_fame_rewardAttackBoost": "+{0}% 的庭院攻击强度",
     "equip_effect_description_conquerSpeedBonus": "+{0}% 征服期间的军队行军速度",
     "equip_effect_description_cooldownReduction": "-{0}% 胜利之后的攻击冷却",
     "equip_effect_description_fameDefenseBonus": "+{0}% 防守时获得的荣耀值",
@@ -13498,7 +13541,7 @@
     "ci_effect_defenseUnitAmountYardBonus": "内城防守中的部队容量 +{0}",
     "ci_effect_attackUnitAmountReinforcementBonus": "最终突击的部队容量 +{0}",
     "ci_effect_attackUnitAmountReinforcementBoost": "最终突击的部队容量 +{0}%",
-    "effect_description_defenseUnitAmountYardBonus": "内城防守士兵容量",
+    "effect_description_defenseUnitAmountYardBonus": "+{0} 以增强最终攻击的部队容量",
     "effect_description_allianceDefenseUnitAmountYardBonus": "+{0} 联盟支援部队容量",
     "effect_description_hiddenSoldiersSpace": "兵种庇护所容量",
     "subscription_convenience_description_AutoCooldownSkip": "启用选项以自动使用跳过时间道具来跳过某些 NPC 目标的进攻冷却时间。",
@@ -13619,6 +13662,7 @@
     "equip_effect_description_offensiveRangeBonusTCICapped": "+{0}% 远程单位攻击强度",
     "effect_desc_CraftingQueueProductionBoost_4": "{0}% 龙的宝藏部件产量奖励",
     "effect_name_CraftingQueueProductionBoost_4": "提高龙息锻造厂部件产量的奖励",
+    "webshop_decoWithEffects_WallDefCourtDefCourtCap_desc": "最大数量 {0}，效果上限在装饰之间共享，公共秩序 +{1}，防御墙部队容量 +{2}% 奖励，防守时庭院强度 +{3}% 奖励（最大 +120%），庭院防御部队容量 +{4} 奖励（最大 +100k），建筑大小 {5}x{6}。",
     "ci_effect_lootBonusPVE": "+{0}% 从NPC目标掠夺的资源",
     "ci_effect_defenseBonusNotMainCastle": "+{0}% 前哨和地标中驻扎兵种的实力",
     "ci_effect_unboostedBeefProduction": "每小时牛肉产量增加+{0}",
@@ -13788,7 +13832,8 @@
     "effect_description_transportTaxDecreaseBoostIce": "-{0}% 资源运输成本：永冬冰川",
     "effect_description_transportTaxDecreaseBoostIsland": "-{0}% 资源运输成本：风暴岛屿",
     "effect_description_transportTaxDecreaseBoostSand": "-{0}% 资源运输成本：燃烧的沙",
-    "effect_description_transportTaxDecreaseBoostVulcano": "-{0}% 资源运输成本：火焰山"
+    "effect_description_transportTaxDecreaseBoostVulcano": "-{0}% 资源运输成本：火焰山",
+    "effect_group_1_8_passive": "防御型远程单位的战斗力加成"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "英雄",
@@ -17641,7 +17686,15 @@
     "ChristmasArcher_name": "圣诞弓箭手",
     "ChristmasGuardian_name": "圣诞守护者",
     "ChristmasHuntress_name": "圣诞猎手",
-    "ChristmasWarrior_name": "圣诞战士"
+    "ChristmasWarrior_name": "圣诞战士",
+    "equipment_unique_1200": "胡桃夹子雪景球",
+    "equipment_unique_1200_desc": "将你的军队转变为一支胡桃夹子士兵的军队。",
+    "equipment_unique_1201": "胡桃夹子雪景球",
+    "equipment_unique_1201_desc": "将你的军队转变为一支胡桃夹子士兵的军队。",
+    "equipment_unique_1202": "胡桃夹子雪景球",
+    "equipment_unique_1202_desc": "将你的军队转变为一支胡桃夹子士兵的军队。",
+    "equipment_unique_1203": "礼品包装的驻军",
+    "equipment_unique_1203_desc": "让冬季的精神温暖四个王国的心灵和灵魂。将你的城堡变成一个礼品包装的堡垒。"
   },
   "generic": {
     "activity": "活动",
@@ -19692,7 +19745,9 @@
     "yourRanking": "您的排名",
     "refresh": "刷新",
     "rewardHubCollect": "在奖励中心领取您的奖励！",
-    "eyecatcher_valuable": "有价值！"
+    "eyecatcher_valuable": "有价值！",
+    "eventBuilding_apprenticeSmith_nopackages": "大师铁匠没有可用的包裹。",
+    "eventNotRunning": "该活动当前未进行。"
   },
   "help": {
     "help_location": "您可以在这里看到您城堡和所有前哨的重要信息。",
@@ -24244,7 +24299,9 @@
     "ChristmasHuntress_desc": "这些警觉的女猎手在冬季的森林中守卫，装饰着冬青的箭矢随时准备击退任何威胁她们领土的人。",
     "ChristmasHuntress_short_info": "极其强大的远程防御者",
     "ChristmasWarrior_desc": "手持薄荷条纹长矛，这些凶猛的战士们以不可阻挡的节日精神向前冲锋，让所有挡在他们面前的人心生恐惧。",
-    "ChristmasWarrior_short_info": "极其强大的近战攻击者"
+    "ChristmasWarrior_short_info": "极其强大的近战攻击者",
+    "nomadcoinbooststone_name": "游牧部落存钱罐",
+    "nomadcoinbooststone_short_info": "增加在游牧营地掠夺的硬币数量"
   },
   "generic_flash": {
     "Footer": {

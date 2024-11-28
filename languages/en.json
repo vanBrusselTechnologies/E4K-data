@@ -891,7 +891,10 @@
     "errorCode_450": "A confirmation has been sent and may take up to an hour. You can only change your password once per day, so try again tomorrow if needed.",
     "errorCode_OBJECT_INVALID_STATE": "This action is not possible at this time. Please try again later.",
     "errorCode_title": "Attention!",
-    "error_twisted_firestarter_while_protected": "You can not sabotage other players while protection mode is enabled."
+    "error_twisted_firestarter_while_protected": "You can not sabotage other players while protection mode is enabled.",
+    "dialog_shoppingCartPrimeDay_DontShowNotification": "Don’t show this dialogue again for this offer",
+    "dialog_shoppingCartPrimeDay_GoToShopButton": "Go To Shop",
+    "dialog_shoppingCartPrimeDay_SeeOfferButton": "See Offer"
   },
   "buildings_and_decorations": {
     "bakery_name": "Bakery",
@@ -3410,7 +3413,6 @@
     "dialog_noobshield_header": "Attack protection",
     "dialog_noobshield_text": "While your attack protection is active, youll be safe from attacks from other castle lords. However, youll lose your protection if you attack another castle lord. Attacks on robber baron castles dont affect your attack protection though.",
     "dialog_resourceOverview_metropolBonus": "Metropolis bonus",
-    "dialog_fame_rewardAttackBoost": "+{0}% attack bonus for all targets",
     "dialog_fame_rewardFameBoost": "+{0}% glory gained",
     "dialog_titleUp_goToGloryDialog": "Overview of all glory titles",
     "dialog_Commander_bonusGloryTitle": "+{0}% attack bonus from the glory title",
@@ -12187,7 +12189,6 @@
     "webshop_summer2_small_name": "Small↵Scorching summer bundle",
     "webshop_summerDecoE_Combat": "Blazing summer deco deal combat",
     "dialog_crafting_recipe_buildingRequired": "This recipe requires the following building to be unlocked:\n{0}",
-    "webshop_decoWithEffects_WallDefCourtDefCourtCap_desc": "Max count {0}, effect cap shared across decorations, Public Order +{1}, +{2}% bonus to wall defence troops capacity, +{3}% bonus to strength in courtyard when defending (max +120%), +{4} bonus to courtyard defense troops capacity (max +100k), Building size {4}x{5}.",
     "merchantitem_resources_3569_name": "Superior beef package",
     "webshop_beeftoolsmithdays_desc": "A Temporary Construction Item for the Toolsmith. Grants +{0} beef production per hour for {1} days.",
     "webshop_beefgrannarydays_desc": "A Temporary Construction Item for the Granary. Grants +{0} beef production per hour for {1} days.",
@@ -12471,9 +12472,51 @@
     "dialog_event_announcement_description_126": "A massive carnivorous plant has sprouted at the Fatal Flora Garden with an appetite for your soldiers! Thankfully, your townspeople have made Soldier Biscuits to lure it. In the Fatal Flora Trap event, feed the plant to earn rewards like Fatal Flora Decorations that boost Public Order and add effects in your Decoration District. Compete with others for ranking rewards—join in and enjoy the spoils!",
     "dialog_event_announcement_header_126": "Fatal Flora Trap",
     "dialog_title_gachadeco2x2": "Fatal Flora Trap",
-    "help_deco_gacha": "A massive carnivorous plant has taken root in front of the &lt;b&gt;Fatal Flora Garden&lt;/b&gt;, and it seems to have developed a taste for your soldiers! But fear not—your resourceful townspeople have created a snack that the plant simply can’t resist. By feeding it &lt;b&gt;Soldier Biscuits&lt;/b&gt;, you’ll be generously rewarded.\n\n&lt;b&gt;Feeding the Plant:&lt;/b&gt;\nEach feeding will grant you rewards - the highly coveted Fatal Flora Decorations. Not only do these decorations have ample Public Order value for their size, but they can also grant additional effects to your kingdom! Fatal Flora Decorations can be placed in the Fatal Flora Garden Decoration District, boosting both the PO and might value of the district itself.\n&lt;b&gt;Ranking and Levels:&lt;/b&gt;\nA ranking system will track your progress, offering achievement rewards based on your rank. The event also includes a system with multiple levels. As you progress through the levels, the chance of getting the best Fatal Flora Decoration improves."
+    "help_deco_gacha": "A massive carnivorous plant has taken root in front of the &lt;b&gt;Fatal Flora Garden&lt;/b&gt;, and it seems to have developed a taste for your soldiers! But fear not—your resourceful townspeople have created a snack that the plant simply can’t resist. By feeding it &lt;b&gt;Soldier Biscuits&lt;/b&gt;, you’ll be generously rewarded.\n\n&lt;b&gt;Feeding the Plant:&lt;/b&gt;\nEach feeding will grant you rewards - the highly coveted Fatal Flora Decorations. Not only do these decorations have ample Public Order value for their size, but they can also grant additional effects to your kingdom! Fatal Flora Decorations can be placed in the Fatal Flora Garden Decoration District, boosting both the PO and might value of the district itself.\n&lt;b&gt;Ranking and Levels:&lt;/b&gt;\nA ranking system will track your progress, offering achievement rewards based on your rank. The event also includes a system with multiple levels. As you progress through the levels, the chance of getting the best Fatal Flora Decoration improves.",
+    "webshop_GlacialMeadBow_desc": "Outstandingly powerful glacial ranged defender with a defense strength of {0}",
+    "webshop_GlacialMeadMace_desc": "Outstandingly powerful glacial melee defender with a defense strength of {0}",
+    "webshop_GlacialMeadRanger_desc": "Outstandingly powerful glacial ranged attacker with an attack strength of {0}",
+    "webshop_GlacialMeadShieldMaiden_desc": "Outstandingly powerful glacial melee attacker with an attack strength of {0}",
+    "webshop_blackfriday_VIP_name": "VIP Black Friday Deal",
+    "webshop_blackfriday_combat_name": "Black Friday Deal - Combat",
+    "webshop_blackfriday_economy_name": "Black Friday Deal - Economy",
+    "webshop_blackfriday_experience_name": "Black Friday Deal - Experience",
+    "webshop_blackfriday_extraLarge_name": "Extra Large Black Friday Deal",
+    "webshop_blackfriday_giant_name": "Giant Black Friday Deal",
+    "webshop_blackfriday_huge_name": "Huge Black Friday Deal",
+    "webshop_blackfriday_large_name": "Large Black Friday Deal",
+    "webshop_blackfriday_medium_name": "Medium Black Friday Deal",
+    "webshop_blackfriday_small_name": "Small Black Friday Deal",
+    "dialog_chestOffer_desc_christmas": "Unwrap festive surprises with the Christmas Chest!",
+    "dialog_chestOffer_title_christmas": "Christmas Chest",
+    "dialog_attack_wave14": "Wave 14",
+    "dialog_attack_wave15": "Wave 15",
+    "dialog_attack_wave16": "Wave 16",
+    "dialog_attack_wave17": "Wave 17",
+    "dialog_attack_wave18": "Wave 18",
+    "dialog_attack_wave19": "Wave 19",
+    "dialog_attack_wave20": "Wave 20",
+    "dialog_attack_wave21": "Wave 21",
+    "dialog_attack_wave22": "Wave 22",
+    "dialog_attack_wave23": "Wave 23",
+    "dialog_attack_wave24": "Wave 24",
+    "dialog_attack_wave25": "Wave 25",
+    "dialog_attack_wave26": "Wave 26",
+    "dialog_attack_wave27": "Wave 27",
+    "dialog_attack_wave28": "Wave 28",
+    "dialog_attack_wave29": "Wave 29",
+    "dialog_attack_wave30": "Wave 30",
+    "dialog_legendTemple_unlockTier_locked": "All skills in this tier are locked.",
+    "dialog_messageHeader_kingstowerLost_title": "Royal tower lost",
+    "webshop_DragonHoardResProductionSpdTools_862_desc": "A Temporary Construction Item for the Keep. Grants +{0}% bonus output for Dragon Hoard Resources and +{1}% bonus production speed for all tools for {2} days.",
+    "webshop_RecruitSpeedProductionSpdTools_864_desc": "A Temporary Construction Item for the Guardhouse. Grants +{0}% recruitment speed and +{1}% bonus production speed for all tools for {2} days.",
+    "webshop_RefineryResourcesProductionSpdTools_384_desc": "A Temporary Construction Item for the Guardhouse. Grants +{0}% bonus output for refinery resources and +{1}% bonus production speed for all tools for {2} days.",
+    "webshop_ToolsmithProductionSpdTools_385_desc": "A Temporary Construction Item for the Guardhouse. Grants +{0}% bonus output for toolsmith components and +{1}% bonus production speed for all tools for {2} days.",
+    "dialog_chestOffer_desc_blackfriday": "Smoking hot exclusive Black Friday deal!",
+    "dialog_chestOffer_title_blackfriday": "Black Friday Deal Chest"
   },
   "effects": {
+    "dialog_fame_rewardAttackBoost": "+{0}% strength in courtyard when attacking",
     "equip_effect_description_conquerSpeedBonus": "+{0}% army travel speed during conquests",
     "equip_effect_description_cooldownReduction": "-{0}% attack cooldown after victory",
     "equip_effect_description_fameDefenseBonus": "+{0}% glory points earned when defending",
@@ -13498,7 +13541,7 @@
     "ci_effect_defenseUnitAmountYardBonus": "+{0} to troop capacity in courtyard defense",
     "ci_effect_attackUnitAmountReinforcementBonus": "+{0} to troop capacity for final assault",
     "ci_effect_attackUnitAmountReinforcementBoost": "+{0}% to troop capacity for final assault",
-    "effect_description_defenseUnitAmountYardBonus": "Courtyard defense troop capacity",
+    "effect_description_defenseUnitAmountYardBonus": "+{0} to troop capacity for final assault",
     "effect_description_allianceDefenseUnitAmountYardBonus": "+{0} to alliance support troop capacity",
     "effect_description_hiddenSoldiersSpace": "Units shelter capacity",
     "subscription_convenience_description_AutoCooldownSkip": "Enable option to automatically use time skips to skip attack cooldown of certain NPC targets.",
@@ -13619,6 +13662,7 @@
     "equip_effect_description_offensiveRangeBonusTCICapped": "+{0}% ranged units attack strength",
     "effect_desc_CraftingQueueProductionBoost_4": "{0}% bonus output for dragon hoard components",
     "effect_name_CraftingQueueProductionBoost_4": "Bonus to dragon breath forge components output",
+    "webshop_decoWithEffects_WallDefCourtDefCourtCap_desc": "Max count {0}, effect cap shared across decorations, Public Order +{1}, +{2}% bonus to wall defence troops capacity, +{3}% bonus to strength in courtyard when defending (max +120%), +{4} bonus to courtyard defense troops capacity (max +100k), Building size {5}x{6}.",
     "ci_effect_lootBonusPVE": "+{0}% resources looted from NPC targets",
     "ci_effect_defenseBonusNotMainCastle": "+{0}% strength for units stationed in outposts &amp; landmarks",
     "ci_effect_unboostedBeefProduction": "+{0} beef production per hour",
@@ -13788,7 +13832,8 @@
     "effect_description_transportTaxDecreaseBoostIce": "-{0}% Resource transport costs: Everwinter Glacier",
     "effect_description_transportTaxDecreaseBoostIsland": "-{0}% Resource transport costs: Storm Islands",
     "effect_description_transportTaxDecreaseBoostSand": "-{0}% Resource transport costs: Burning Sands",
-    "effect_description_transportTaxDecreaseBoostVulcano": "-{0}% Resource transport costs: Fire Peaks"
+    "effect_description_transportTaxDecreaseBoostVulcano": "-{0}% Resource transport costs: Fire Peaks",
+    "effect_group_1_8_passive": "Combat strength bonus for defensive ranged units"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Hero",
@@ -17641,7 +17686,15 @@
     "ChristmasArcher_name": "Christmas Archer",
     "ChristmasGuardian_name": "Christmas Guardian",
     "ChristmasHuntress_name": "Christmas Huntress",
-    "ChristmasWarrior_name": "Christmas Warrior"
+    "ChristmasWarrior_name": "Christmas Warrior",
+    "equipment_unique_1200": "Nutcrackers snow globe",
+    "equipment_unique_1200_desc": "Transforms your army into an army of nutcracker soldiers.",
+    "equipment_unique_1201": "Nutcrackers snow globe",
+    "equipment_unique_1201_desc": "Transforms your army into an army of nutcracker soldiers.",
+    "equipment_unique_1202": "Nutcrackers snow globe",
+    "equipment_unique_1202_desc": "Transforms your army into an army of nutcracker soldiers.",
+    "equipment_unique_1203": "Giftwrapped Garrison",
+    "equipment_unique_1203_desc": "Let the spirit of Wintertide warm hearts and souls all over the Four Kingdoms. Transforms your castle into a gift-wrapped bastion."
   },
   "generic": {
     "activity": "Activity",
@@ -19692,7 +19745,9 @@
     "yourRanking": "Your ranking",
     "refresh": "Refresh",
     "rewardHubCollect": "Claim your rewards in the Reward Hub!",
-    "eyecatcher_valuable": "Valuable!"
+    "eyecatcher_valuable": "Valuable!",
+    "eventBuilding_apprenticeSmith_nopackages": "Master Blacksmith has no packages available.",
+    "eventNotRunning": "The event is currently not running."
   },
   "help": {
     "help_location": "Here you have a global overview of the important contents of your castle and all your outposts.",
@@ -24244,7 +24299,9 @@
     "ChristmasHuntress_desc": "These vigilant huntresses stand guard in the winter woods, their holly-tipped arrows ready as they ward off any who threaten their realm.",
     "ChristmasHuntress_short_info": "Extremely powerful ranged defender",
     "ChristmasWarrior_desc": "Armed with peppermint-striped lances, these fierce warriors charge forward with unstoppable holiday spirit, striking fear into all who stand in their way.",
-    "ChristmasWarrior_short_info": "Extremely powerful melee attacker"
+    "ChristmasWarrior_short_info": "Extremely powerful melee attacker",
+    "nomadcoinbooststone_name": "Nomad piggy bank",
+    "nomadcoinbooststone_short_info": "Increases the number of coins looted in nomad camps"
   },
   "generic_flash": {
     "Footer": {

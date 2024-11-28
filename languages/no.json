@@ -891,7 +891,10 @@
     "errorCode_450": "Bekreftelsen er sendt og kan ta opp til en time. Du kan kun endre passordet én gang per dag. Prøv igjen i morgen om nødvendig.",
     "errorCode_OBJECT_INVALID_STATE": "Denne handlingen er ikke mulig for øyeblikket. Vennligst prøv igjen senere.",
     "errorCode_title": "Oppmerksomhet!",
-    "error_twisted_firestarter_while_protected": "Du kan ikke sabotere andre spillere mens beskyttelsesmodus er aktivert."
+    "error_twisted_firestarter_while_protected": "Du kan ikke sabotere andre spillere mens beskyttelsesmodus er aktivert.",
+    "dialog_shoppingCartPrimeDay_DontShowNotification": "Vis ikke denne dialogen igjen for dette tilbudet",
+    "dialog_shoppingCartPrimeDay_GoToShopButton": "Gå til butikken",
+    "dialog_shoppingCartPrimeDay_SeeOfferButton": "Se tilbud"
   },
   "buildings_and_decorations": {
     "bakery_name": "Bakeri",
@@ -3410,7 +3413,6 @@
     "dialog_noobshield_header": "Angrepsbeskyttelse",
     "dialog_noobshield_text": "Du er beskyttet mot angrep fra andre slottsherrer så lenge angrepsbeskyttelsen er aktiv, men du mister beskyttelsen hvis du angriper en annen slottsherre. Angrep på røverbaronslott påvirker ikke angrepsbeskyttelsen.",
     "dialog_resourceOverview_metropolBonus": "Metropolis-bonus",
-    "dialog_fame_rewardAttackBoost": "+ {0} % angrepsbonus på alle mål",
     "dialog_fame_rewardFameBoost": "+{0} % heder anskaffet",
     "dialog_titleUp_goToGloryDialog": "Oversikt over hederstitler",
     "dialog_Commander_bonusGloryTitle": "+{0} % angrepsbonus fra hederstittelen",
@@ -12187,7 +12189,6 @@
     "webshop_summer2_small_name": "Liten Scorching sommerpakke",
     "webshop_summerDecoE_Combat": "Brennende sommerdeko kamptilbud",
     "dialog_crafting_recipe_buildingRequired": "Denne oppskriften krever at følgende bygning låses opp:\n{0}",
-    "webshop_decoWithEffects_WallDefCourtDefCourtCap_desc": "Maksimalt antall {0}, effektgrense delt mellom dekorasjoner, Offentlig orden +{1}, +{2}% bonus til kapasiteten til veggforsvarstroppene, +{3}% bonus til styrken i gårdsplassen ved forsvar (maks +120%), +{4} bonus til kapasiteten til gårdsplassens forsvarstropp (maks +100k), Bygningsstørrelse {4}x{5}.",
     "merchantitem_resources_3569_name": "Overlegen oksekjøttpakke",
     "webshop_beeftoolsmithdays_desc": "Et midlertidig byggeelement for verktøymakeren. Gir +{0} storfekjøttproduksjon per time i {1} dager.",
     "webshop_beefgrannarydays_desc": "Et midlertidig byggeelement for kornlageret. Gir +{0} produksjon av storfekjøtt per time i {1} dager.",
@@ -12471,9 +12472,51 @@
     "dialog_event_announcement_description_126": "En massiv kjøttspisende plante har spiret i Fatal Flora-hagen med appetitt på soldatene dine! Heldigvis har innbyggerne dine laget Soldatkjeks for å lokke den. I Fatal Flora-fellene, gi planten mat for å tjene belønninger som Fatal Flora-dekorasjoner som øker offentlig orden og legger til effekter i dekorasjonsdistriktet ditt. Konkurrer med andre om rangering belønninger—bli med og nyt skattene!",
     "dialog_event_announcement_header_126": "Dødelig plantefelle",
     "dialog_title_gachadeco2x2": "Dødelig plantefelle",
-    "help_deco_gacha": "En massiv kjøtteterplante har slått rot foran &lt;b&gt;Fatal Flora Garden&lt;/b&gt;, og det ser ut til at den har utviklet en smak for soldatene dine! Men frykt ikke—de ressurssterke innbyggerne har laget en snack som planten rett og slett ikke kan motstå. Ved å mate den med &lt;b&gt;Soldatkjeks&lt;/b&gt;, vil du bli generøst belønnet.\n\n&lt;b&gt;Fôring av planten:&lt;/b&gt;\nHver mating vil gi deg belønninger - de ettertraktede Fatal Flora-dekorasjonene. Disse dekorasjonene har ikke bare stort offentlig orden-verdi for sin størrelse, men de kan også gi ekstra effekter til kongeriket ditt! Fatal Flora-dekorasjoner kan plasseres i Fatal Flora Garden Decoration District, og øker både PO-verdien og styrken til distriktet selv.\n&lt;b&gt;Rangering og nivåer:&lt;/b&gt;\nEt rangsystem vil spore fremgangen din, og tilby belønninger basert på rangeringen din. Arrangementet inkluderer også et system med flere nivåer. Etter hvert som du avanserer gjennom nivåene, vil sjansen for å få den beste Fatal Flora-dekorasjonen forbedres."
+    "help_deco_gacha": "En massiv kjøtteterplante har slått rot foran &lt;b&gt;Fatal Flora Garden&lt;/b&gt;, og det ser ut til at den har utviklet en smak for soldatene dine! Men frykt ikke—de ressurssterke innbyggerne har laget en snack som planten rett og slett ikke kan motstå. Ved å mate den med &lt;b&gt;Soldatkjeks&lt;/b&gt;, vil du bli generøst belønnet.\n\n&lt;b&gt;Fôring av planten:&lt;/b&gt;\nHver mating vil gi deg belønninger - de ettertraktede Fatal Flora-dekorasjonene. Disse dekorasjonene har ikke bare stort offentlig orden-verdi for sin størrelse, men de kan også gi ekstra effekter til kongeriket ditt! Fatal Flora-dekorasjoner kan plasseres i Fatal Flora Garden Decoration District, og øker både PO-verdien og styrken til distriktet selv.\n&lt;b&gt;Rangering og nivåer:&lt;/b&gt;\nEt rangsystem vil spore fremgangen din, og tilby belønninger basert på rangeringen din. Arrangementet inkluderer også et system med flere nivåer. Etter hvert som du avanserer gjennom nivåene, vil sjansen for å få den beste Fatal Flora-dekorasjonen forbedres.",
+    "webshop_GlacialMeadBow_desc": "Eksepsjonelt kraftig isbre forsvarer med en forsvarsstyrke på {0}",
+    "webshop_GlacialMeadMace_desc": "Enestående kraftig glacial nærkampsforsvarer med en forsvarsstyrke på {0}",
+    "webshop_GlacialMeadRanger_desc": "En enestående kraftig islang avstandangriper med en angrepsstyrke på {0}",
+    "webshop_GlacialMeadShieldMaiden_desc": "Eksepsjonelt kraftig ismelee-angriper med en angrepsstyrke på {0}",
+    "webshop_blackfriday_VIP_name": "VIP Black Friday-tilbud",
+    "webshop_blackfriday_combat_name": "Black Friday-tilbud - Kamp",
+    "webshop_blackfriday_economy_name": "Black Friday-tilbud - Økonomi",
+    "webshop_blackfriday_experience_name": "Black Friday-tilbud - Opplevelse",
+    "webshop_blackfriday_extraLarge_name": "Ekstra stor Black Friday-tilbud",
+    "webshop_blackfriday_giant_name": "Kjempe Black Friday-tilbud",
+    "webshop_blackfriday_huge_name": "Kjempe Black Friday-tilbud",
+    "webshop_blackfriday_large_name": "Stort Black Friday-tilbud",
+    "webshop_blackfriday_medium_name": "Moderat Black Friday-tilbud",
+    "webshop_blackfriday_small_name": "Liten Black Friday-tilbud",
+    "dialog_chestOffer_desc_christmas": "Pakkefestlige overraskelser med julekisten!",
+    "dialog_chestOffer_title_christmas": "Julekiste",
+    "dialog_attack_wave14": "Bølge 14",
+    "dialog_attack_wave15": "Bølge 15",
+    "dialog_attack_wave16": "Bølge 16",
+    "dialog_attack_wave17": "Bølge 17",
+    "dialog_attack_wave18": "Bølge 18",
+    "dialog_attack_wave19": "Bølge 19",
+    "dialog_attack_wave20": "Bølge 20",
+    "dialog_attack_wave21": "Bølge 21",
+    "dialog_attack_wave22": "Bølge 22",
+    "dialog_attack_wave23": "Bølge 23",
+    "dialog_attack_wave24": "Bølge 24",
+    "dialog_attack_wave25": "Bølge 25",
+    "dialog_attack_wave26": "Bølge 26",
+    "dialog_attack_wave27": "Bølge 27",
+    "dialog_attack_wave28": "Bølge 28",
+    "dialog_attack_wave29": "Bølge 29",
+    "dialog_attack_wave30": "Bølge 30",
+    "dialog_legendTemple_unlockTier_locked": "Alle ferdigheter i dette nivået er låst.",
+    "dialog_messageHeader_kingstowerLost_title": "Tapt kongelig tårn",
+    "webshop_DragonHoardResProductionSpdTools_862_desc": "Et midlertidig byggeelement for borgen. Gir +{0}% bonusutgang for drageskattressurser og +{1}% bonusproduksjonshastighet for alle verktøy i {2} dager.",
+    "webshop_RecruitSpeedProductionSpdTools_864_desc": "Et midlertidig byggeelement for vakthuset. Gir +{0}% rekrutteringshastighet og +{1}% bonusproduksjonshastighet for alle verktøy i {2} dager.",
+    "webshop_RefineryResourcesProductionSpdTools_384_desc": "Et midlertidig byggeelement for vakthuset. Gir +{0}% bonusutgang for raffinerikilder og +{1}% bonusproduksjonshastighet for alle verktøy i {2} dager.",
+    "webshop_ToolsmithProductionSpdTools_385_desc": "Et midlertidig byggeelement for vakthuset. Gir +{0}% bonusproduksjon for verktøykomponenter og +{1}% bonus produksjonshastighet for alle verktøy i {2} dager.",
+    "dialog_chestOffer_desc_blackfriday": "Røykende het eksklusiv Black Friday-tilbud!",
+    "dialog_chestOffer_title_blackfriday": "Black Friday tilbudskiste"
   },
   "effects": {
+    "dialog_fame_rewardAttackBoost": "+{0}% styrke i gårdsrommet når du angriper",
     "equip_effect_description_conquerSpeedBonus": "+{0} % reisehastighet for hær under erobringer",
     "equip_effect_description_cooldownReduction": "–{0} % angrepsventetid etter seier",
     "equip_effect_description_fameDefenseBonus": "+{0} % hederspoeng fra forsvar",
@@ -13498,7 +13541,7 @@
     "ci_effect_defenseUnitAmountYardBonus": "+{0} til troppekapasiteten i gårdsplassforsvar",
     "ci_effect_attackUnitAmountReinforcementBonus": "+{0} til troppekapasiteten for siste angrep",
     "ci_effect_attackUnitAmountReinforcementBoost": "+{0} % til troppekapasiteten for siste angrep",
-    "effect_description_defenseUnitAmountYardBonus": "Kapasitet for forsvarstropper på gårdsplassen",
+    "effect_description_defenseUnitAmountYardBonus": "+{0} til troppens kapasitet for det siste angrepet",
     "effect_description_allianceDefenseUnitAmountYardBonus": "+{0} i kapasitet for alliansestøttetropper",
     "effect_description_hiddenSoldiersSpace": "Kapasitet i ly for enheter",
     "subscription_convenience_description_AutoCooldownSkip": "Aktiver innstilling for automatisk bruk av tidshopp for å hoppe over angrepsventetiden til enkelte datastyrte mål.",
@@ -13619,6 +13662,7 @@
     "equip_effect_description_offensiveRangeBonusTCICapped": "+{0}% angrepsstyrke for langdistansesoldater",
     "effect_desc_CraftingQueueProductionBoost_4": "{0}% bonusproduksjon for elementer i Dragehvelvet",
     "effect_name_CraftingQueueProductionBoost_4": "Bonus på utbytte av ildsprutende smiekomponenter",
+    "webshop_decoWithEffects_WallDefCourtDefCourtCap_desc": "Maks antall {0}, effektgrense delt mellom dekorasjoner, Offentlig orden +{1}, +{2}% bonus til kapasitet for veggforsvarstroppene, +{3}% bonus til styrke i gården ved forsvar (maks +120%), +{4} bonus til kapasitet for gårdsforsvarstroppene (maks +100k), Byggestørrelse {5}x{6}.",
     "ci_effect_lootBonusPVE": "+{0} % ressurser som plyndres fra datastyrte mål",
     "ci_effect_defenseBonusNotMainCastle": "+{0} % styrke for enheter som er stasjonert i utposter og på landemerker",
     "ci_effect_unboostedBeefProduction": "+{0} oksekjøtt per time",
@@ -13788,7 +13832,8 @@
     "effect_description_transportTaxDecreaseBoostIce": "-{0}% Ressursetransportkostnader: De tusen vintrers land",
     "effect_description_transportTaxDecreaseBoostIsland": "-{0}% Ressurs transportkostnader: Stormøyene",
     "effect_description_transportTaxDecreaseBoostSand": "-{0}% Ressurstransportkostnader: Brennende sand",
-    "effect_description_transportTaxDecreaseBoostVulcano": "-{0}% Transportkostnader for ressurser: Flammetoppene"
+    "effect_description_transportTaxDecreaseBoostVulcano": "-{0}% Transportkostnader for ressurser: Flammetoppene",
+    "effect_group_1_8_passive": "Kampkraftbonus for defensive avstands-enheter"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Helt",
@@ -17641,7 +17686,15 @@
     "ChristmasArcher_name": "Julebueskytter",
     "ChristmasGuardian_name": "Julevokter",
     "ChristmasHuntress_name": "Juledame",
-    "ChristmasWarrior_name": "Julekriger"
+    "ChristmasWarrior_name": "Julekriger",
+    "equipment_unique_1200": "Nøtteknekkerens snøkule",
+    "equipment_unique_1200_desc": "Forvandler hæren din til en hær av nøtteknekker-soldater.",
+    "equipment_unique_1201": "Nøtteknekkerens snøkule",
+    "equipment_unique_1201_desc": "Forvandler hæren din til en hær av nøtteknekker-soldater.",
+    "equipment_unique_1202": "Nøtteknekkerens snøkule",
+    "equipment_unique_1202_desc": "Forvandler hæren din til en hær av nøtteknekker-soldater.",
+    "equipment_unique_1203": "Gavepakket garnison",
+    "equipment_unique_1203_desc": "La ånden av Vintertide varme hjerter og sjeler over hele De fire kongedømmene. Forvandle slottet ditt til en gavepakket bastion."
   },
   "generic": {
     "activity": "Aktivitet",
@@ -19692,7 +19745,9 @@
     "yourRanking": "Din rangering",
     "refresh": "Oppdater",
     "rewardHubCollect": "Krev belønningene dine i Belønningshuben!",
-    "eyecatcher_valuable": "Verdifull!"
+    "eyecatcher_valuable": "Verdifull!",
+    "eventBuilding_apprenticeSmith_nopackages": "Mestersmeden har ingen tilgjengelige pakker.",
+    "eventNotRunning": "Arrangementet foregår ikke for øyeblikket."
   },
   "help": {
     "help_location": "Her har du en global oversikt over viktig innhold fra slottet ditt og utpostene.",
@@ -24244,7 +24299,9 @@
     "ChristmasHuntress_desc": "Disse årvåkne jentene står vakt i vinterens skoger, deres holly-toppede piler klare til å avverge enhver som truer deres rike.",
     "ChristmasHuntress_short_info": "Ekstremt kraftig avstandsforsvarer",
     "ChristmasWarrior_desc": "Bevæpnet med peppermynte-stripede lanser, disse fryktinngytende krigerne stormer frem med en ustoppelig høytidånd, og skaper frykt hos alle som står i veien for dem.",
-    "ChristmasWarrior_short_info": "Ekstremt kraftig nærkampsangriper"
+    "ChristmasWarrior_short_info": "Ekstremt kraftig nærkampsangriper",
+    "nomadcoinbooststone_name": "Nomade-sparegris",
+    "nomadcoinbooststone_short_info": "Øker antallet mynter plyndret i nomadiske leirer"
   },
   "generic_flash": {
     "Footer": {

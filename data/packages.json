@@ -52013,7 +52013,9 @@
       "relationIDs": "999,409",
       "costHalloweenLTPEToken": 7500,
       "buildingID": 3250,
-      "buildingAmount": 1
+      "buildingAmount": 1,
+      "minLevel": 50,
+      "validKingdoms": "0,1,2,3"
     },
     {
       "packageID": 3638,
@@ -53697,7 +53699,7 @@
       "costGoldToken": 1950,
       "addSoldierBiscuit": 20,
       "stock": 2,
-      "minLevel": 10,
+      "minLevel": 20,
       "relationIDs": "400,999",
       "sortOrder": 3.5
     },
@@ -53709,7 +53711,7 @@
       "costGoldToken": 2950,
       "addSoldierBiscuit": 20,
       "stock": 2,
-      "minLevel": 10,
+      "minLevel": 20,
       "relationIDs": "400,999",
       "sortOrder": 3.6
     }

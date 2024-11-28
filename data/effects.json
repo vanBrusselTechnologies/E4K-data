@@ -2862,7 +2862,7 @@
       "effectID": 337,
       "crossplayID": 337,
       "name": "currencyLootBoostBaronEconomy",
-      "effectTypeID": 2,
+      "effectTypeID": 168,
       "capID": 99,
       "sortOrder": "1.2.12"
     },
@@ -4614,7 +4614,7 @@
     {
       "effectID": 12208,
       "name": "relicCurrencyLootBoostNomadTabletsNomad",
-      "effectTypeID": 2,
+      "effectTypeID": 168,
       "capID": 99,
       "sortOrder": "6.14.3",
       "isPvEFight": 1
@@ -4622,7 +4622,7 @@
     {
       "effectID": 12209,
       "name": "relicCurrencyLootBoostSamuraiTokensSamurai",
-      "effectTypeID": 2,
+      "effectTypeID": 168,
       "capID": 99,
       "sortOrder": "6.16.3",
       "isPvEFight": 1
@@ -4630,7 +4630,7 @@
     {
       "effectID": 12210,
       "name": "relicCurrencyLootBoostKhanMedalsNomad",
-      "effectTypeID": 2,
+      "effectTypeID": 168,
       "capID": 99,
       "sortOrder": "6.17.1",
       "isPvEFight": 1
@@ -4638,7 +4638,7 @@
     {
       "effectID": 12211,
       "name": "relicCurrencyLootBoostSamuraiMedalsSamurai",
-      "effectTypeID": 2,
+      "effectTypeID": 168,
       "capID": 99,
       "sortOrder": "6.20.1",
       "isPvEFight": 1
@@ -4815,7 +4815,7 @@
     {
       "effectID": 12410,
       "name": "relicCurrencyLootBoostNomadTabletsNomad",
-      "effectTypeID": 2,
+      "effectTypeID": 168,
       "capID": 99,
       "sortOrder": "6.14.3",
       "isPvEFight": 1
@@ -4823,7 +4823,7 @@
     {
       "effectID": 12411,
       "name": "relicCurrencyLootBoostSamuraiTokensSamurai",
-      "effectTypeID": 2,
+      "effectTypeID": 168,
       "capID": 99,
       "sortOrder": "6.16.3",
       "isPvEFight": 1
@@ -4831,7 +4831,7 @@
     {
       "effectID": 12412,
       "name": "relicCurrencyLootBoostKhanMedalsNomad",
-      "effectTypeID": 2,
+      "effectTypeID": 168,
       "capID": 99,
       "sortOrder": "6.17.1",
       "isPvEFight": 1
@@ -4839,7 +4839,7 @@
     {
       "effectID": 12413,
       "name": "relicCurrencyLootBoostSamuraiMedalsSamurai",
-      "effectTypeID": 2,
+      "effectTypeID": 168,
       "capID": 99,
       "sortOrder": "6.20.1",
       "isPvEFight": 1

@@ -891,7 +891,10 @@
     "errorCode_450": "Uma confirmação foi enviada e pode levar até uma hora. Você só pode alterar sua senha uma vez ao dia, então tente novamente amanhã, se necessário.",
     "errorCode_OBJECT_INVALID_STATE": "Esta ação não é possível no momento. Tente novamente mais tarde.",
     "errorCode_title": "Atenção!",
-    "error_twisted_firestarter_while_protected": "Você não pode sabotar outros jogadores enquanto o modo de proteção estiver ativado."
+    "error_twisted_firestarter_while_protected": "Você não pode sabotar outros jogadores enquanto o modo de proteção estiver ativado.",
+    "dialog_shoppingCartPrimeDay_DontShowNotification": "Não mostrar este diálogo novamente para esta oferta",
+    "dialog_shoppingCartPrimeDay_GoToShopButton": "Ir para a loja",
+    "dialog_shoppingCartPrimeDay_SeeOfferButton": "Ver oferta"
   },
   "buildings_and_decorations": {
     "bakery_name": "Padaria",
@@ -3410,7 +3413,6 @@
     "dialog_noobshield_header": "Proteção contra ataques",
     "dialog_noobshield_text": "Enquanto sua proteção contra ataques estiver ativa, você estará a salvo de ataques de outros senhores de castelo. No entanto, você perderá a sua proteção se atacar outro senhor de castelo. Entretanto, os ataques aos castelos de barões usurpadores não afetam a sua proteção contra ataques.",
     "dialog_resourceOverview_metropolBonus": "Bônus de metrópole",
-    "dialog_fame_rewardAttackBoost": "+{0}% de bônus de ataque a todos os alvos",
     "dialog_fame_rewardFameBoost": "+{0}% glória ganha",
     "dialog_titleUp_goToGloryDialog": "Visão geral dos Títulos de glória",
     "dialog_Commander_bonusGloryTitle": "+{0}% bônus de ataque do Título de glória",
@@ -12187,7 +12189,6 @@
     "webshop_summer2_small_name": "Pequeno Pacote de Verão Escaldante",
     "webshop_summerDecoE_Combat": "Oferta de decoração de verão escaldante - combate",
     "dialog_crafting_recipe_buildingRequired": "Esta receita requer a seguinte edificação para ser desbloqueada:\n{0}",
-    "webshop_decoWithEffects_WallDefCourtDefCourtCap_desc": "Contagem máxima {0}, limite de efeito compartilhado entre decorações, Ordem Pública +{1}, +{2}% de bônus na capacidade das tropas de defesa de parede, +{3}% de bônus na força no pátio ao defender (máx. +120%), +{4} bônus na capacidade das tropas de defesa do pátio (máx. +100k), Tamanho do edifício {4}x{5}.",
     "merchantitem_resources_3569_name": "Pacote de carne superior",
     "webshop_beeftoolsmithdays_desc": "Um item de construção temporário para o ferreiro. Concede +{0} produção de carne bovina por hora durante {1} dias.",
     "webshop_beefgrannarydays_desc": "Um item de construção temporário para o celeiro. Concede +{0} produção de carne bovina por hora durante {1} dias.",
@@ -12471,9 +12472,51 @@
     "dialog_event_announcement_description_126": "Uma enorme planta carnívora brotou no Jardim Fatal Flora com um apetite por seus soldados! Felizmente, seus cidadãos fizeram Biscoitos de Soldado para atraí-la. No evento Armadilha da Flora Fatal, alimente a planta para ganhar recompensas como Decorações da Flora Fatal que aumentam a Ordem Pública e adicionam efeitos em seu Distrito de Decoração. Compita com outros por recompensas de classificação—junte-se e aproveite os despojos!",
     "dialog_event_announcement_header_126": "Armadilha de flora fatal",
     "dialog_title_gachadeco2x2": "Armadilha de flora fatal",
-    "help_deco_gacha": "Uma enorme planta carnívora fincou raízes em frente ao &lt;b&gt;Jardim Fatal Flora&lt;/b&gt;, e parece que ela desenvolveu um gosto por seus soldados! Mas não tema—seus habitantes engenhosos criaram um lanche que a planta simplesmente não consegue resistir. Ao alimentá-la com &lt;b&gt;Biscoitos de Soldado&lt;/b&gt;, você será generosamente recompensado.\n\n&lt;b&gt;Alimentando a Planta:&lt;/b&gt;\nCada alimentação irá lhe conceder recompensas - as cobiçadas Decorações Fatal Flora. Essas decorações não apenas têm um alto valor de Ordem Pública para seu tamanho, mas também podem conceder efeitos adicionais ao seu reino! As Decorações Fatal Flora podem ser colocadas no Distrito de Decoração do Jardim Fatal Flora, aumentando tanto o valor de OP quanto o poder do próprio distrito.\n&lt;b&gt;Classificação e Níveis:&lt;/b&gt;\nUm sistema de classificação acompanhará seu progresso, oferecendo recompensas de conquista com base em sua classificação. O evento também inclui um sistema com vários níveis. À medida que você avança pelos níveis, a chance de obter a melhor Decoração Fatal Flora melhora."
+    "help_deco_gacha": "Uma enorme planta carnívora fincou raízes em frente ao &lt;b&gt;Jardim Fatal Flora&lt;/b&gt;, e parece que ela desenvolveu um gosto por seus soldados! Mas não tema—seus habitantes engenhosos criaram um lanche que a planta simplesmente não consegue resistir. Ao alimentá-la com &lt;b&gt;Biscoitos de Soldado&lt;/b&gt;, você será generosamente recompensado.\n\n&lt;b&gt;Alimentando a Planta:&lt;/b&gt;\nCada alimentação irá lhe conceder recompensas - as cobiçadas Decorações Fatal Flora. Essas decorações não apenas têm um alto valor de Ordem Pública para seu tamanho, mas também podem conceder efeitos adicionais ao seu reino! As Decorações Fatal Flora podem ser colocadas no Distrito de Decoração do Jardim Fatal Flora, aumentando tanto o valor de OP quanto o poder do próprio distrito.\n&lt;b&gt;Classificação e Níveis:&lt;/b&gt;\nUm sistema de classificação acompanhará seu progresso, oferecendo recompensas de conquista com base em sua classificação. O evento também inclui um sistema com vários níveis. À medida que você avança pelos níveis, a chance de obter a melhor Decoração Fatal Flora melhora.",
+    "webshop_GlacialMeadBow_desc": "Defensor glacial excepcionalmente poderoso com uma força de defesa de {0}",
+    "webshop_GlacialMeadMace_desc": "Defensor corpo a corpo excepcionalmente poderoso com uma força de defesa de {0}",
+    "webshop_GlacialMeadRanger_desc": "Atacante glacial excepcionalmente poderoso com uma força de ataque de {0}",
+    "webshop_GlacialMeadShieldMaiden_desc": "Atacante glacial excepcionalmente poderoso com uma força de ataque de {0}",
+    "webshop_blackfriday_VIP_name": "Oferta VIP da Black Friday",
+    "webshop_blackfriday_combat_name": "Oferta da Black Friday - Combate",
+    "webshop_blackfriday_economy_name": "Oferta da Black Friday - Economia",
+    "webshop_blackfriday_experience_name": "Oferta da Black Friday - Experiência",
+    "webshop_blackfriday_extraLarge_name": "Oferta extra grande da Black Friday",
+    "webshop_blackfriday_giant_name": "Oferta Gigante da Black Friday",
+    "webshop_blackfriday_huge_name": "Grande oferta de Black Friday",
+    "webshop_blackfriday_large_name": "Grande promoção da Black Friday",
+    "webshop_blackfriday_medium_name": "Oferta Média da Black Friday",
+    "webshop_blackfriday_small_name": "Pequena oferta da Black Friday",
+    "dialog_chestOffer_desc_christmas": "Desembrulhe surpresas festivas com o Baú de Natal!",
+    "dialog_chestOffer_title_christmas": "Baú de Natal",
+    "dialog_attack_wave14": "Onda 14",
+    "dialog_attack_wave15": "Onda 15",
+    "dialog_attack_wave16": "Onda 16",
+    "dialog_attack_wave17": "Onda 17",
+    "dialog_attack_wave18": "Onda 18",
+    "dialog_attack_wave19": "Onda 19",
+    "dialog_attack_wave20": "Onda 20",
+    "dialog_attack_wave21": "Onda 21",
+    "dialog_attack_wave22": "Onda 22",
+    "dialog_attack_wave23": "Onda 23",
+    "dialog_attack_wave24": "Onda 24",
+    "dialog_attack_wave25": "Onda 25",
+    "dialog_attack_wave26": "Onda 26",
+    "dialog_attack_wave27": "Onda 27",
+    "dialog_attack_wave28": "Onda 28",
+    "dialog_attack_wave29": "Onda 29",
+    "dialog_attack_wave30": "Onda 30",
+    "dialog_legendTemple_unlockTier_locked": "Todas as habilidades neste nível estão bloqueadas.",
+    "dialog_messageHeader_kingstowerLost_title": "Torre real perdida",
+    "webshop_DragonHoardResProductionSpdTools_862_desc": "Um item de construção temporário para a fortaleza. Concede +{0}% de bônus de produção para recursos do tesouro do dragão e +{1}% de velocidade de produção de bônus para todas as ferramentas por {2} dias.",
+    "webshop_RecruitSpeedProductionSpdTools_864_desc": "Um item de construção temporário para a casa de guarda. Concede +{0}% de velocidade de recrutamento e +{1}% de velocidade de produção adicional para todas as ferramentas durante {2} dias.",
+    "webshop_RefineryResourcesProductionSpdTools_384_desc": "Um item de construção temporário para o posto de guarda. Concede +{0}% de bônus de produção para recursos de refinaria e +{1}% de velocidade de produção para todas as ferramentas por {2} dias.",
+    "webshop_ToolsmithProductionSpdTools_385_desc": "Um item de construção temporário para a casa de guarda. Concede +{0}% de bônus de produção para componentes de ferreiro e +{1}% de velocidade de produção para todas as ferramentas por {2} dias.",
+    "dialog_chestOffer_desc_blackfriday": "Oferta exclusiva e quente da Black Friday!",
+    "dialog_chestOffer_title_blackfriday": "Cofre de ofertas da Black Friday"
   },
   "effects": {
+    "dialog_fame_rewardAttackBoost": "+{0}% de força no pátio ao atacar",
     "equip_effect_description_conquerSpeedBonus": "+{0}% velocidade de viagem do exército durante conquistas",
     "equip_effect_description_cooldownReduction": "-{0}% tempo de espera de ataque depois da vitória",
     "equip_effect_description_fameDefenseBonus": "+{0}% pontos de glória obtidos ao defender",
@@ -13498,7 +13541,7 @@
     "ci_effect_defenseUnitAmountYardBonus": "+{0} de capacidade de tropa na defesa no pátio",
     "ci_effect_attackUnitAmountReinforcementBonus": "+{0} de capacidade de tropa no assalto final",
     "ci_effect_attackUnitAmountReinforcementBoost": "+{0}% de capacidade de tropa no assalto final",
-    "effect_description_defenseUnitAmountYardBonus": "Capacidade de tropas da defesa do pátio",
+    "effect_description_defenseUnitAmountYardBonus": "+{0} à capacidade das tropas para o assalto final",
     "effect_description_allianceDefenseUnitAmountYardBonus": "+{0} na capacidade de tropa de apoio de aliança",
     "effect_description_hiddenSoldiersSpace": "Capacidade de abrigo de unidades",
     "subscription_convenience_description_AutoCooldownSkip": "Habilite a opção para utilizar automaticamente avanços de tempo para ignorar o tempo de espera de ataque de certos alvos NPC.",
@@ -13619,6 +13662,7 @@
     "equip_effect_description_offensiveRangeBonusTCICapped": "+{0}% força de ataque das unidades de longo alcance",
     "effect_desc_CraftingQueueProductionBoost_4": "{0}% de bônus de produção para componentes do covil do dragão",
     "effect_name_CraftingQueueProductionBoost_4": "Bônus em componentes de forja de fôlego de dragão",
+    "webshop_decoWithEffects_WallDefCourtDefCourtCap_desc": "Contagem máxima {0}, limite de efeito compartilhado entre decorações, Ordem Pública +{1}, +{2}% de bônus para a capacidade das tropas de defesa das muralhas, +{3}% de bônus para a força no pátio ao defender (máx. +120%), +{4} bônus para a capacidade das tropas de defesa no pátio (máx. +100k), Tamanho do edifício {5}x{6}.",
     "ci_effect_lootBonusPVE": "+{0}% recursos saqueados de alvos NPC",
     "ci_effect_defenseBonusNotMainCastle": "+{0}% de força para unidades posicionadas em postos avançados e locais de interesse",
     "ci_effect_unboostedBeefProduction": "+{0} carne por hora",
@@ -13788,7 +13832,8 @@
     "effect_description_transportTaxDecreaseBoostIce": "-{0}% Custos de transporte de recursos: O Glaciar do Inverno Eterno",
     "effect_description_transportTaxDecreaseBoostIsland": "-{0}% Custos de transporte de recursos: As Ilhas da Tempestade",
     "effect_description_transportTaxDecreaseBoostSand": "-{0}% Custos de transporte de recursos: Areias Ardentes",
-    "effect_description_transportTaxDecreaseBoostVulcano": "-{0}% Custos de transporte de recursos: Os Picos do Fogo"
+    "effect_description_transportTaxDecreaseBoostVulcano": "-{0}% Custos de transporte de recursos: Os Picos do Fogo",
+    "effect_group_1_8_passive": "Bônus de força de combate para unidades defensivas de longo alcance"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Herói",
@@ -17641,7 +17686,15 @@
     "ChristmasArcher_name": "Arqueiro de Natal",
     "ChristmasGuardian_name": "Guardião de Natal",
     "ChristmasHuntress_name": "Caçadora de Natal",
-    "ChristmasWarrior_name": "Guerreiro de Natal"
+    "ChristmasWarrior_name": "Guerreiro de Natal",
+    "equipment_unique_1200": "Globo de neve do quebra-nozes",
+    "equipment_unique_1200_desc": "Transforma seu exército em um exército de soldados quebra-nozes.",
+    "equipment_unique_1201": "Globo de neve do quebra-nozes",
+    "equipment_unique_1201_desc": "Transforma seu exército em um exército de soldados quebra-nozes.",
+    "equipment_unique_1202": "Globo de neve do quebra-nozes",
+    "equipment_unique_1202_desc": "Transforma seu exército em um exército de soldados quebra-nozes.",
+    "equipment_unique_1203": "Garnisão embrulhada como presente",
+    "equipment_unique_1203_desc": "Deixe o espírito do Inverno aquecer corações e almas em todos os Quatro Reinos. Transforme seu castelo em um bastião embrulhado como um presente."
   },
   "generic": {
     "activity": "Atividade",
@@ -19692,7 +19745,9 @@
     "yourRanking": "Sua pontuação",
     "refresh": "Atualizar",
     "rewardHubCollect": "Reclame suas recompensas no Centro de Recompensas!",
-    "eyecatcher_valuable": "Valioso!"
+    "eyecatcher_valuable": "Valioso!",
+    "eventBuilding_apprenticeSmith_nopackages": "O ferreiro mestre não possui pacotes disponíveis.",
+    "eventNotRunning": "O evento não está acontecendo atualmente."
   },
   "help": {
     "help_location": "Aqui você tem uma visão geral global do conteúdo importante do seu castelo e de todos os seus postos avançados.",
@@ -24244,7 +24299,9 @@
     "ChristmasHuntress_desc": "Essas caçadoras vigilantes fazem guarda nas florestas de inverno, suas flechas com pontas de azevinho prontas para repelir qualquer um que ameace seu reino.",
     "ChristmasHuntress_short_info": "Defensor de longo alcance extremamente poderoso",
     "ChristmasWarrior_desc": "Armados com lanças listradas de hortelã, esses ferozes guerreiros avançam com um espírito festivo imparável, incutindo medo em todos que se interpõem em seu caminho.",
-    "ChristmasWarrior_short_info": "Atacante corpo a corpo extremamente poderoso"
+    "ChristmasWarrior_short_info": "Atacante corpo a corpo extremamente poderoso",
+    "nomadcoinbooststone_name": "Cofre de porquinho nômade",
+    "nomadcoinbooststone_short_info": "Aumenta o número de moedas saqueadas em acampamentos nômades"
   },
   "generic_flash": {
     "Footer": {
