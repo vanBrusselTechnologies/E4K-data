@@ -8074,6 +8074,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedGreenChristmasPresentStash": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedGreenChristmasPresentStash/Deco_Building_ExaltedGreenChristmasPresentStash.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 154,
+        "h": 148,
+        "rx": 907,
+        "ry": 916
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedGreenFrostFountain": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_ExaltedGreenFrostFountain/Deco_Building_ExaltedGreenFrostFountain.png",
@@ -8164,6 +8179,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedPurpleChristmasPyramid": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedPurpleChristmasPyramid/Deco_Building_ExaltedPurpleChristmasPyramid.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 146,
+        "h": 147,
+        "rx": 913,
+        "ry": 916
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedPurpleFrostFountain": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_ExaltedPurpleFrostFountain/Deco_Building_ExaltedPurpleFrostFountain.png",
@@ -8235,6 +8265,21 @@
         "h": 195,
         "rx": 812,
         "ry": 947
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedRedChristmasStall": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedRedChristmasStall/Deco_Building_ExaltedRedChristmasStall.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 150,
+        "h": 122,
+        "rx": 911,
+        "ry": 942
       }
     ],
     "fx": []
@@ -24211,6 +24256,82 @@
     ],
     "fx": []
   },
+  "christmasDwelling": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/christmasDwelling/christmasDwelling.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 109,
+        "h": 157,
+        "rx": 953,
+        "ry": 886
+      }
+    ],
+    "fx": [
+      {
+        "x": -41,
+        "y": -99,
+        "scale": 0.25,
+        "name": "flagHolder",
+        "rotation": 0
+      },
+      {
+        "x": 22,
+        "y": -60,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "christmasGreenhouse": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/christmasGreenhouse/christmasGreenhouse.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 159,
+        "rx": 902,
+        "ry": 911
+      }
+    ],
+    "fx": [
+      {
+        "x": 8,
+        "y": -62,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "christmasWoodcutter": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/christmasWoodcutter/christmasWoodcutter.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 137,
+        "h": 169,
+        "rx": 916,
+        "ry": 892
+      }
+    ],
+    "fx": [
+      {
+        "x": 2,
+        "y": -72,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "clockworkMill": {
     "pid": 0,
     "url": "x384/BuildingSkins/clockworkMill/clockworkMill.png",
@@ -26195,9 +26316,9 @@
       }
     ]
   },
-  "WinterResearchtower": {
+  "winterResearchtower": {
     "pid": 0,
-    "url": "x384/BuildingSkins/WinterResearchtower/WinterResearchtower.png",
+    "url": "x384/BuildingSkins/winterResearchtower/winterResearchtower.png",
     "frames": [
       {
         "x": 0,
@@ -41367,6 +41488,21 @@
     ],
     "fx": []
   },
+  "Basic_Towerbase_Level9": {
+    "pid": 0,
+    "url": "x384/Castlewall/Castlewall/Basic_Towerbase_Level9.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 42,
+        "h": 52,
+        "rx": 988,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
   "Basic_Towerbase_Transparent": {
     "pid": 0,
     "url": "x384/Castlewall/Castlewall/Basic_Towerbase_Transparent.png",
@@ -41475,21 +41611,6 @@
   "Castlewall_Defence_Level7": {
     "pid": 0,
     "url": "x384/Castlewall/Castlewall/Castlewall_Defence_Level7.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 53,
-        "h": 59,
-        "rx": 983,
-        "ry": 958
-      }
-    ],
-    "fx": []
-  },
-  "Castlewall_Defence_Level8": {
-    "pid": 0,
-    "url": "x384/Castlewall/Castlewall/Castlewall_Defence_Level8.png",
     "frames": [
       {
         "x": 0,
@@ -44902,24 +45023,279 @@
     ],
     "fx": []
   },
-  "Background_Gacha_Christmas": {
+  "Gacha_Snowman_Arm_Left": {
     "pid": 1,
-    "url": "x384/Characters/Gachas/GachaBackgrounds/Background_Gacha_Christmas.png",
+    "url": "x384/Characters/Gachas/Gacha_Snowman/Gacha_Snowman_Arm_Left.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
-        "w": 1141,
-        "h": 1521,
+        "w": 59,
+        "h": 93,
+        "rx": 970,
+        "ry": 953
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Snowman_Arm_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Gachas/Gacha_Snowman/Gacha_Snowman_Arm_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 109,
+        "rx": 974,
+        "ry": 945
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Snowman_Chest": {
+    "pid": 1,
+    "url": "x384/Characters/Gachas/Gacha_Snowman/Gacha_Snowman_Chest.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 199,
+        "h": 151,
+        "rx": 900,
+        "ry": 924
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Snowman_Ground": {
+    "pid": 1,
+    "url": "x384/Characters/Gachas/Gacha_Snowman/Gacha_Snowman_Ground.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 221,
+        "h": 83,
+        "rx": 889,
+        "ry": 958
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Snowman_Hand_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Gachas/Gacha_Snowman/Gacha_Snowman_Hand_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 61,
+        "rx": 982,
+        "ry": 969
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Snowman_Hand_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Gachas/Gacha_Snowman/Gacha_Snowman_Hand_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 54,
+        "h": 71,
+        "rx": 973,
+        "ry": 964
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Snowman_Head_Blink": {
+    "pid": 1,
+    "url": "x384/Characters/Gachas/Gacha_Snowman/Gacha_Snowman_Head_Blink.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 188,
+        "rx": 906,
+        "ry": 906
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Snowman_Head_Half_Open": {
+    "pid": 1,
+    "url": "x384/Characters/Gachas/Gacha_Snowman/Gacha_Snowman_Head_Half_Open.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 188,
+        "rx": 906,
+        "ry": 906
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Snowman_Head_Open": {
+    "pid": 1,
+    "url": "x384/Characters/Gachas/Gacha_Snowman/Gacha_Snowman_Head_Open.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 188,
+        "rx": 906,
+        "ry": 906
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Snowman_Head_Smile": {
+    "pid": 1,
+    "url": "x384/Characters/Gachas/Gacha_Snowman/Gacha_Snowman_Head_Smile.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 188,
+        "rx": 906,
+        "ry": 906
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Snowman_Head": {
+    "pid": 1,
+    "url": "x384/Characters/Gachas/Gacha_Snowman/Gacha_Snowman_Head.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 188,
+        "rx": 906,
+        "ry": 906
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Snowman_Legs": {
+    "pid": 1,
+    "url": "x384/Characters/Gachas/Gacha_Snowman/Gacha_Snowman_Legs.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 285,
+        "h": 243,
+        "rx": 857,
+        "ry": 878
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Snowman_Lower_Arm_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Gachas/Gacha_Snowman/Gacha_Snowman_Lower_Arm_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 45,
+        "rx": 977,
+        "ry": 977
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Snowman_Lower_Arm_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Gachas/Gacha_Snowman/Gacha_Snowman_Lower_Arm_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 56,
+        "rx": 974,
+        "ry": 972
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Snowman_Orb_Bottom": {
+    "pid": 1,
+    "url": "x384/Characters/Gachas/Gacha_Snowman/Gacha_Snowman_Orb_Bottom.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 161,
+        "h": 127,
+        "rx": 919,
+        "ry": 936
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Snowman_Orb_Top": {
+    "pid": 1,
+    "url": "x384/Characters/Gachas/Gacha_Snowman/Gacha_Snowman_Orb_Top.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 151,
+        "h": 81,
+        "rx": 924,
+        "ry": 959
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Snowman_Shadow": {
+    "pid": 1,
+    "url": "x384/Characters/Gachas/Gacha_Snowman/Gacha_Snowman_Shadow.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 353,
+        "h": 103,
+        "rx": 823,
+        "ry": 948
+      }
+    ],
+    "fx": []
+  },
+  "Background_Gacha_ChristmasGacha": {
+    "pid": 1,
+    "url": "x384/Characters/Gachas/GachaBackgrounds/Background_Gacha_ChristmasGacha.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 913,
+        "h": 1172,
         "rx": 999,
         "ry": 999
       }
     ],
     "fx": []
   },
-  "Background_Gacha_MotherPlant": {
+  "Background_Gacha_GachaDeco2x2": {
     "pid": 1,
-    "url": "x384/Characters/Gachas/GachaBackgrounds/Background_Gacha_MotherPlant.png",
+    "url": "x384/Characters/Gachas/GachaBackgrounds/Background_Gacha_GachaDeco2x2.png",
     "frames": [
       {
         "x": 0,
@@ -67929,6 +68305,36 @@
     ],
     "fx": []
   },
+  "items_unique_1204": {
+    "pid": 0,
+    "url": "x384/Equipment/EquipmentShared/items_unique_1204_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1205": {
+    "pid": 0,
+    "url": "x384/Equipment/EquipmentShared/items_unique_1205_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
   "items_unique_2005": {
     "pid": 0,
     "url": "x384/Equipment/EquipmentShared/items_unique_2004_Shared.png",
@@ -87512,6 +87918,66 @@
     ],
     "fx": []
   },
+  "icon_currency_FrozenCarrot_big": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_FrozenCarrot_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 85,
+        "h": 74,
+        "rx": 957,
+        "ry": 963
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_FrozenCarrot_medium": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_FrozenCarrot_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 50,
+        "rx": 971,
+        "ry": 975
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_FrozenCarrot_xl": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_FrozenCarrot_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 98,
+        "rx": 944,
+        "ry": 951
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_FrozenCarrot": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_FrozenCarrot.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 31,
+        "rx": 982,
+        "ry": 984
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_Furs_medium": {
     "pid": 1,
     "url": "x384/Icons/Icons/icon_currency_Furs_medium.png",
@@ -94862,6 +95328,21 @@
     ],
     "fx": []
   },
+  "icon_event_127": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_event_127.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 49,
+        "h": 57,
+        "rx": 975,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
   "icon_event_crossplay_small_80": {
     "pid": 0,
     "url": "x384/Icons/Icons/icon_event_crossplay_small_80.png",
@@ -95038,6 +95519,21 @@
         "h": 102,
         "rx": 947,
         "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "icon_event_xl_127": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_event_xl_127.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 89,
+        "h": 106,
+        "rx": 955,
+        "ry": 947
       }
     ],
     "fx": []
@@ -141593,6 +142089,29 @@
       }
     ]
   },
+  "Castle_Mapobject_Special_FestiveCandyCane": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_FestiveCandyCane.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 44,
+        "h": 42,
+        "rx": 998,
+        "ry": 1000
+      }
+    ],
+    "fx": [
+      {
+        "x": 14,
+        "y": 1,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Castle_Mapobject_Special_FireworkBaron": {
     "pid": 0,
     "url": "x384/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_FireworkBaron.png",
@@ -145179,6 +145698,29 @@
       }
     ]
   },
+  "Castle_Mapobject_Capital_Classic_Special_FestiveCandyCane": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_FestiveCandyCane.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 97,
+        "rx": 981,
+        "ry": 962
+      }
+    ],
+    "fx": [
+      {
+        "x": -1,
+        "y": -16,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Castle_Mapobject_Capital_Classic_Special_FireworkBaron": {
     "pid": 0,
     "url": "x384/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_FireworkBaron.png",
@@ -146810,6 +147352,29 @@
       }
     ]
   },
+  "Metropol_Mapobject_Basic_Special_FestiveCandyCane": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_FestiveCandyCane.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 62,
+        "rx": 998,
+        "ry": 994
+      }
+    ],
+    "fx": [
+      {
+        "x": 17,
+        "y": -1,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Metropol_Mapobject_Basic_Special_FireworkBaron": {
     "pid": 0,
     "url": "x384/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_FireworkBaron.png",
@@ -148372,6 +148937,29 @@
       {
         "x": 19,
         "y": 3,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "Outpost_Mapobject_Level_Special_FestiveCandyCane": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Outposts/Outpost_Mapobject_Level_Special_FestiveCandyCane/Outpost_Mapobject_Level_Special_FestiveCandyCane.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 31,
+        "rx": 1011,
+        "ry": 1003
+      }
+    ],
+    "fx": [
+      {
+        "x": 27,
+        "y": 4,
         "scale": 0.52,
         "name": "flagHolder",
         "rotation": 0
@@ -150554,6 +151142,21 @@
         "w": 75,
         "h": 97,
         "rx": 962,
+        "ry": 951
+      }
+    ],
+    "fx": []
+  },
+  "Preview_Castle_Mapobject_Special_FestiveCandyCane": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Previews/Mapobjects_Preview/Preview_Castle_Mapobject_Special_FestiveCandyCane.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 96,
+        "h": 93,
+        "rx": 950,
         "ry": 951
       }
     ],

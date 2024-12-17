@@ -13876,6 +13876,80 @@
       "mightValue": 0,
       "canSlotGem": 0,
       "skinID": 111
+    },
+    {
+      "equipmentID": 1204,
+      "crossplayID": 1204,
+      "comment1": "ChristmasGacha - 2024",
+      "comment2": "Festive Candy Cane",
+      "wearerID": 1,
+      "slotID": 5,
+      "effects": "335&amp;45,37&amp;25000",
+      "duration": 120,
+      "mightValue": 0,
+      "canSlotGem": 0,
+      "skinID": 79
+    },
+    {
+      "equipmentID": 1205,
+      "crossplayID": 1205,
+      "comment1": "ChristmasGacha - 2024",
+      "comment2": "Gingerbread Man Soul",
+      "wearerID": 2,
+      "slotID": 5,
+      "effects": "24&amp;8,334&amp;25,66&amp;10",
+      "duration": 120,
+      "mightValue": 0,
+      "canSlotGem": 0,
+      "skinID": 114
+    },
+    {
+      "equipmentID": 1206,
+      "crossplayID": 1206,
+      "comment1": "ChristmasGacha - 2024",
+      "comment2": "Nutcrackers snow globe",
+      "wearerID": 2,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 751,
+      "mightValue": 0,
+      "canSlotGem": 0,
+      "skinID": 43
+    },
+    {
+      "equipmentID": 1207,
+      "crossplayID": 1207,
+      "comment1": "ChristmasGacha - 2024",
+      "comment2": "xmasCastellan",
+      "wearerID": 1,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 2014,
+      "mightValue": 0,
+      "canSlotGem": 0,
+      "skinID": 111
+    },
+    {
+      "equipmentID": 1208,
+      "crossplayID": 1208,
+      "comment1": "ChristmasGacha - 2024",
+      "comment2": "WinterBaron",
+      "wearerID": 1,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 960,
+      "mightValue": 0,
+      "canSlotGem": 0,
+      "skinID": 80
+    },
+    {
+      "equipmentID": 1209,
+      "crossplayID": 1209,
+      "comment1": "ChristmasGacha - 2024",
+      "comment2": "General Candy Cane",
+      "wearerID": 2,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 948,
+      "mightValue": 0,
+      "canSlotGem": 0,
+      "skinID": 78
     }
   ]
 }

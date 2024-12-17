@@ -852,8 +852,12 @@ export interface ConstructionItemRecipe {
 }
 
 export interface ConstructionItem {
+    "Coalproduction"?: number;
     "Foodproduction"?: number;
+    "Glassproduction"?: number;
+    "Ironproduction"?: number;
     "Meadreduction"?: number;
+    "Oilproduction"?: number;
     "ReduceResearchResourceCosts"?: number;
     "Stoneproduction"?: number;
     "Woodproduction"?: number;
@@ -874,6 +878,7 @@ export interface ConstructionItem {
     "addRareNails"?: number;
     "addRarePaint"?: number;
     "addRareRope"?: number;
+    "coalStorage"?: number;
     "comment1": string;
     "comment2"?: string;
     "constructionItemEffectGroupID": number;
@@ -889,9 +894,11 @@ export interface ConstructionItem {
     "espionageTravelBoost"?: number;
     "feastCostsReduction"?: number;
     "foodStorage"?: number;
+    "glassStorage"?: number;
     "healSpeed"?: number;
     "honeyStorage"?: number;
     "hospitalCapacity"?: number;
+    "ironStorage"?: number;
     "isPremium"?: number;
     "level": number;
     "lockRemoval"?: string;
@@ -900,6 +907,7 @@ export interface ConstructionItem {
     "name": string;
     "offensiveToolsCostsReduction"?: number;
     "offensiveToolsSpeedBoost"?: number;
+    "oilStorage"?: number;
     "ownerGlobalEffect"?: number;
     "rarenessID": number;
     "recruitCostReduction"?: number;
@@ -1657,7 +1665,8 @@ export interface FusionSystem {
 export interface GachaEvent {
     "comment1": string;
     "comment2": string;
-    "costSoldierBiscuit": number;
+    "costFrozenCarrot"?: number;
+    "costSoldierBiscuit"?: number;
     "eventID": number;
     "freeChestResetTime": number;
     "freeChestRewardID": number;
@@ -2370,6 +2379,7 @@ export interface Package {
     "addEssenceBoosterKey"?: number;
     "addFatKingToken"?: number;
     "addFloraToken"?: number;
+    "addFrozenCarrot"?: number;
     "addFurSkinnerBoosterKey"?: number;
     "addFusionCurrency"?: number;
     "addGenXP15000"?: number;
@@ -2933,6 +2943,7 @@ export interface Reward {
     "addEpicBoosterConsumable"?: number;
     "addEpicCobblestone"?: number;
     "addFatKingToken"?: number;
+    "addFrozenCarrot"?: number;
     "addFuryDoubloon"?: number;
     "addFusionCurrency"?: number;
     "addGenXP1000"?: number;
@@ -2967,6 +2978,7 @@ export interface Reward {
     "addRareNails"?: number;
     "addRefinedLumber"?: number;
     "addRefinedStone"?: number;
+    "addRelicFragment"?: number;
     "addSaleDaysLuckyWheelTicket"?: number;
     "addSasakiToken"?: number;
     "addSceatToken"?: number;
@@ -2992,12 +3004,14 @@ export interface Reward {
     "coal"?: number;
     "comment1"?: number | string;
     "comment2"?: number | string;
+    "constructionItemAmount"?: number;
     "constructionItemIDs"?: number | string;
     "crossplayID"?: number;
     "currency1"?: number;
     "currency2"?: number;
     "decoWodID"?: number;
     "enchantedEquipmentIDs"?: string;
+    "equipmentAmount"?: number;
     "equipmentIDs"?: number | string;
     "equipmentRarenessID"?: number;
     "food"?: number;

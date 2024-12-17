@@ -17245,12 +17245,14 @@
       "packageType": "soldier",
       "comment1": "Shield Maiden 10",
       "comment2": "Central Silver Shop - NEWW",
+      "hiddenMead": 7200,
       "sortOrder": 12,
       "relationIDs": "401,102,100",
       "costSilverToken": 480,
       "unitID": 204,
       "unitAmount": 100,
-      "minLegendLevel": 650,
+      "minLevel": 70,
+      "minLegendLevel": 45,
       "stock": 10
     },
     {
@@ -17258,12 +17260,14 @@
       "packageType": "soldier",
       "comment1": "Valkyrie Ranger 10",
       "comment2": "Central Silver Shop - NEWW",
+      "hiddenMead": 7200,
       "sortOrder": 13,
       "relationIDs": "401,103,101",
       "costSilverToken": 520,
       "unitID": 214,
       "unitAmount": 100,
-      "minLegendLevel": 650,
+      "minLevel": 70,
+      "minLegendLevel": 45,
       "stock": 10
     },
     {
@@ -17271,12 +17275,14 @@
       "packageType": "soldier",
       "comment1": "Northern Protector 10",
       "comment2": "Central Silver Shop - NEWW",
+      "hiddenMead": 7200,
       "sortOrder": 14,
       "relationIDs": "401,102,101",
       "costSilverToken": 440,
       "unitID": 227,
       "unitAmount": 100,
-      "minLegendLevel": 650,
+      "minLevel": 70,
+      "minLegendLevel": 45,
       "stock": 10
     },
     {
@@ -17284,12 +17290,14 @@
       "packageType": "soldier",
       "comment1": "Valkyrie Sniper 10",
       "comment2": "Central Silver Shop - NEWW",
+      "hiddenMead": 7200,
       "sortOrder": 15,
       "relationIDs": "401,103,100",
       "costSilverToken": 400,
       "unitID": 238,
       "unitAmount": 100,
-      "minLegendLevel": 650,
+      "minLevel": 70,
+      "minLegendLevel": 45,
       "stock": 10
     },
     {
@@ -37571,7 +37579,7 @@
       "unitAmount": 10000,
       "hiddenMead": 120000,
       "minLevel": 70,
-      "minLegendLevel": 650,
+      "minLegendLevel": 45,
       "stock": 5,
       "ignoreResourceStorageCapacity": 1
     },
@@ -37587,7 +37595,7 @@
       "unitAmount": 10000,
       "hiddenMead": 120000,
       "minLevel": 70,
-      "minLegendLevel": 650,
+      "minLegendLevel": 45,
       "stock": 5,
       "ignoreResourceStorageCapacity": 1
     },
@@ -37603,7 +37611,7 @@
       "unitAmount": 10000,
       "hiddenMead": 120000,
       "minLevel": 70,
-      "minLegendLevel": 650,
+      "minLegendLevel": 45,
       "stock": 5,
       "ignoreResourceStorageCapacity": 1
     },
@@ -37619,7 +37627,7 @@
       "unitAmount": 10000,
       "hiddenMead": 120000,
       "minLevel": 70,
-      "minLegendLevel": 650,
+      "minLegendLevel": 45,
       "stock": 5,
       "ignoreResourceStorageCapacity": 1
     },
@@ -37633,7 +37641,7 @@
       "costSceatToken": 250,
       "amountMead": 480000,
       "minLevel": 70,
-      "minLegendLevel": 650,
+      "minLegendLevel": 45,
       "stock": 5,
       "ignoreResourceStorageCapacity": 1
     },
@@ -37647,7 +37655,7 @@
       "costSceatToken": 500,
       "amountMead": 480000,
       "minLevel": 70,
-      "minLegendLevel": 650,
+      "minLegendLevel": 45,
       "stock": 5,
       "ignoreResourceStorageCapacity": 1
     },
@@ -37661,7 +37669,7 @@
       "relationIDs": "999,412",
       "costSceatToken": 500,
       "minLevel": 70,
-      "minLegendLevel": 930,
+      "minLegendLevel": 45,
       "stock": 5
     },
     {
@@ -37674,7 +37682,7 @@
       "relationIDs": "999,412",
       "costSceatToken": 750,
       "minLevel": 70,
-      "minLegendLevel": 930,
+      "minLegendLevel": 45,
       "stock": 5
     },
     {
@@ -37687,7 +37695,7 @@
       "relationIDs": "999,412",
       "costSceatToken": 1000,
       "minLevel": 70,
-      "minLegendLevel": 930,
+      "minLegendLevel": 45,
       "stock": 5
     },
     {
@@ -37699,7 +37707,7 @@
       "relationIDs": "999,412",
       "costSceatToken": 200,
       "minLevel": 70,
-      "minLegendLevel": 930,
+      "minLegendLevel": 45,
       "stock": 5,
       "lootBox": "4+1"
     },
@@ -37712,7 +37720,7 @@
       "relationIDs": "999,412",
       "costSceatToken": 450,
       "minLevel": 70,
-      "minLegendLevel": 930,
+      "minLegendLevel": 45,
       "stock": 5,
       "lootBox": "8+1"
     },
@@ -37725,7 +37733,7 @@
       "relationIDs": "999,412",
       "costSceatToken": 700,
       "minLevel": 70,
-      "minLegendLevel": 930,
+      "minLegendLevel": 45,
       "stock": 5,
       "lootBox": "12+1"
     },
@@ -53714,6 +53722,135 @@
       "minLevel": 20,
       "relationIDs": "400,999",
       "sortOrder": 3.6
+    },
+    {
+      "packageID": 3182,
+      "packageType": "constructionItem",
+      "comment1": "SlumTrader- Food Prod",
+      "comment2": "Native village Ice",
+      "relationIDs": "50,52,53",
+      "packagePriceCoal": 40000,
+      "constructionItemID": 893,
+      "constructionItemAmount": 1
+    },
+    {
+      "packageID": 3183,
+      "packageType": "constructionItem",
+      "comment1": "SlumTrader- Coal Prod",
+      "comment2": "Native village Ice",
+      "relationIDs": "50,52,53",
+      "packagePriceCoal": 40000,
+      "constructionItemID": 894,
+      "constructionItemAmount": 1
+    },
+    {
+      "packageID": 3184,
+      "packageType": "constructionItem",
+      "comment1": "SlumTrader- Coal Storage",
+      "comment2": "Native village Ice",
+      "relationIDs": "2,8,14",
+      "packagePriceCoal": 40000,
+      "constructionItemID": 895,
+      "constructionItemAmount": 1
+    },
+    {
+      "packageID": 3185,
+      "packageType": "constructionItem",
+      "comment1": "SlumTrader- Iron Prod",
+      "comment2": "Native village Desert",
+      "relationIDs": "50,52,53",
+      "packagePriceOil": 40000,
+      "constructionItemID": 896,
+      "constructionItemAmount": 1
+    },
+    {
+      "packageID": 3186,
+      "packageType": "constructionItem",
+      "comment1": "SlumTrader- Oil Prod",
+      "comment2": "Native village Desert",
+      "relationIDs": "50,52,53",
+      "packagePriceOil": 40000,
+      "constructionItemID": 897,
+      "constructionItemAmount": 1
+    },
+    {
+      "packageID": 3187,
+      "packageType": "constructionItem",
+      "comment1": "SlumTrader- Oil Storage",
+      "comment2": "Native village Desert",
+      "relationIDs": "1,8,14",
+      "packagePriceOil": 40000,
+      "constructionItemID": 898,
+      "constructionItemAmount": 1
+    },
+    {
+      "packageID": 3188,
+      "packageType": "constructionItem",
+      "comment1": "SlumTrader- Iron Storage",
+      "comment2": "Native village Volcano",
+      "relationIDs": "50,52,53",
+      "packagePriceGlass": 40000,
+      "constructionItemID": 899,
+      "constructionItemAmount": 1
+    },
+    {
+      "packageID": 3189,
+      "packageType": "constructionItem",
+      "comment1": "SlumTrader- Glass Prod",
+      "comment2": "Native village Volcano",
+      "relationIDs": "50,52,53",
+      "packagePriceGlass": 40000,
+      "constructionItemID": 900,
+      "constructionItemAmount": 1
+    },
+    {
+      "packageID": 3190,
+      "packageType": "constructionItem",
+      "comment1": "SlumTrader- Glass Storage",
+      "comment2": "Native village Volcano",
+      "addPrincessToken": 1,
+      "relationIDs": "3,8,14",
+      "packagePriceGlass": 40000,
+      "constructionItemID": 901,
+      "constructionItemAmount": 1
+    },
+    {
+      "packageID": 3191,
+      "packageType": "currency",
+      "comment1": "FrozenCarrot",
+      "comment2": "Gold Shop - Frozen Carrot cheap",
+      "costGoldToken": 1950,
+      "addFrozenCarrot": 150,
+      "stock": 2,
+      "minLevel": 20,
+      "relationIDs": "400,999",
+      "sortOrder": 3.5
+    },
+    {
+      "packageID": 3192,
+      "packageType": "currency",
+      "comment1": "FrozenCarrot",
+      "comment2": "Gold Shop - Frozen Carrot expensive",
+      "costGoldToken": 4950,
+      "addFrozenCarrot": 350,
+      "stock": 2,
+      "minLevel": 20,
+      "relationIDs": "400,999",
+      "sortOrder": 3.6
+    },
+    {
+      "packageID": 3193,
+      "packageType": "building",
+      "comment1": "January  LTPE Shop - 2025",
+      "comment2": "LTPE Shop - decoDistrict2x2 -",
+      "costIceLTPEToken": 7500,
+      "buildingID": 3250,
+      "buildingAmount": 1,
+      "stock": 1,
+      "sortOrder": 1,
+      "relationIDs": "999,410",
+      "minLevel": 50,
+      "validKingdoms": "0,1,2,3"
     }
   ]
 }

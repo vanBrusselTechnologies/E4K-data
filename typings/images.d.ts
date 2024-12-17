@@ -88,8 +88,8 @@ export interface Images {
     "BackgroundResource_Icecream_Stone": ImageData;
     "BackgroundResource_Volcano_Food": ImageData;
     "BackgroundResource_Volcano_Stone": ImageData;
-    "Background_Gacha_Christmas": ImageData;
-    "Background_Gacha_MotherPlant": ImageData;
+    "Background_Gacha_ChristmasGacha": ImageData;
+    "Background_Gacha_GachaDeco2x2": ImageData;
     "Background_GeneralsHub": ImageData;
     "Background_GeneralsHub_Back": ImageData;
     "Background_GeneralsHub_BackLight": ImageData;
@@ -387,6 +387,7 @@ export interface Images {
     "Basic_Towerbase_Level6": ImageData;
     "Basic_Towerbase_Level7": ImageData;
     "Basic_Towerbase_Level8": ImageData;
+    "Basic_Towerbase_Level9": ImageData;
     "Basic_Towerbase_Transparent": ImageData;
     "Basic_Tutorialmarker_5x5": ImageData;
     "Bg_AllianceBattleGround_122_160": ImageData;
@@ -665,6 +666,7 @@ export interface Images {
     "Castle_Mapobject_Capital_Classic_Special_Easter": ImageData;
     "Castle_Mapobject_Capital_Classic_Special_Emblem": ImageData;
     "Castle_Mapobject_Capital_Classic_Special_EmperorsChessSet": ImageData;
+    "Castle_Mapobject_Capital_Classic_Special_FestiveCandyCane": ImageData;
     "Castle_Mapobject_Capital_Classic_Special_FireworkBaron": ImageData;
     "Castle_Mapobject_Capital_Classic_Special_FlowerBracelet": ImageData;
     "Castle_Mapobject_Capital_Classic_Special_FreshTea": ImageData;
@@ -735,6 +737,7 @@ export interface Images {
     "Castle_Mapobject_Special_Easter": ImageData;
     "Castle_Mapobject_Special_Emblem": ImageData;
     "Castle_Mapobject_Special_EmperorsChessSet": ImageData;
+    "Castle_Mapobject_Special_FestiveCandyCane": ImageData;
     "Castle_Mapobject_Special_FireworkBaron": ImageData;
     "Castle_Mapobject_Special_FlowerBracelet": ImageData;
     "Castle_Mapobject_Special_FreshTea": ImageData;
@@ -788,7 +791,6 @@ export interface Images {
     "Castlewall_Defence_Level5": ImageData;
     "Castlewall_Defence_Level6": ImageData;
     "Castlewall_Defence_Level7": ImageData;
-    "Castlewall_Defence_Level8": ImageData;
     "CattleFarm_Building_Level1": ImageData;
     "CattleFarm_Building_Level2": ImageData;
     "CattleFarm_Building_Level3": ImageData;
@@ -1012,16 +1014,19 @@ export interface Images {
     "Deco_Building_EternalBlossoms": ImageData;
     "Deco_Building_EternityGarden": ImageData;
     "Deco_Building_ExaltedGreenChristmasFountain": ImageData;
+    "Deco_Building_ExaltedGreenChristmasPresentStash": ImageData;
     "Deco_Building_ExaltedGreenFrostFountain": ImageData;
     "Deco_Building_ExaltedGreenLavaShrineofDuality": ImageData;
     "Deco_Building_ExaltedGreenOktoberfestGarden": ImageData;
     "Deco_Building_ExaltedGreenWaterShrineofDuality": ImageData;
     "Deco_Building_ExaltedPurpleChristmasFountain": ImageData;
+    "Deco_Building_ExaltedPurpleChristmasPyramid": ImageData;
     "Deco_Building_ExaltedPurpleFrostFountain": ImageData;
     "Deco_Building_ExaltedPurpleLavaShrineofDuality": ImageData;
     "Deco_Building_ExaltedPurpleOktoberfestGarden": ImageData;
     "Deco_Building_ExaltedPurpleWaterShrineofDuality": ImageData;
     "Deco_Building_ExaltedRedChristmasFountain": ImageData;
+    "Deco_Building_ExaltedRedChristmasStall": ImageData;
     "Deco_Building_ExaltedRedFrostFountain": ImageData;
     "Deco_Building_ExaltedRedLavaShrineofDuality": ImageData;
     "Deco_Building_ExaltedRedOktoberfestGarden": ImageData;
@@ -2173,6 +2178,23 @@ export interface Images {
     "Gacha_MotherPlant_Root_Front_Left": ImageData;
     "Gacha_MotherPlant_Root_Front_Right": ImageData;
     "Gacha_MotherPlant_Stone": ImageData;
+    "Gacha_Snowman_Arm_Left": ImageData;
+    "Gacha_Snowman_Arm_Right": ImageData;
+    "Gacha_Snowman_Chest": ImageData;
+    "Gacha_Snowman_Ground": ImageData;
+    "Gacha_Snowman_Hand_Left": ImageData;
+    "Gacha_Snowman_Hand_Right": ImageData;
+    "Gacha_Snowman_Head": ImageData;
+    "Gacha_Snowman_Head_Blink": ImageData;
+    "Gacha_Snowman_Head_Half_Open": ImageData;
+    "Gacha_Snowman_Head_Open": ImageData;
+    "Gacha_Snowman_Head_Smile": ImageData;
+    "Gacha_Snowman_Legs": ImageData;
+    "Gacha_Snowman_Lower_Arm_Left": ImageData;
+    "Gacha_Snowman_Lower_Arm_Right": ImageData;
+    "Gacha_Snowman_Orb_Bottom": ImageData;
+    "Gacha_Snowman_Orb_Top": ImageData;
+    "Gacha_Snowman_Shadow": ImageData;
     "General_Alien_Arm_Left": ImageData;
     "General_Alien_Arm_Right": ImageData;
     "General_Alien_Armor_Back": ImageData;
@@ -3176,6 +3198,7 @@ export interface Images {
     "Metropol_Mapobject_Basic_Special_Easter": ImageData;
     "Metropol_Mapobject_Basic_Special_Emblem": ImageData;
     "Metropol_Mapobject_Basic_Special_EmperorsChessSet": ImageData;
+    "Metropol_Mapobject_Basic_Special_FestiveCandyCane": ImageData;
     "Metropol_Mapobject_Basic_Special_FireworkBaron": ImageData;
     "Metropol_Mapobject_Basic_Special_FlowerBracelet": ImageData;
     "Metropol_Mapobject_Basic_Special_FreshTea": ImageData;
@@ -3367,6 +3390,7 @@ export interface Images {
     "Outpost_Mapobject_Level_Special_Easter": ImageData;
     "Outpost_Mapobject_Level_Special_Emblem": ImageData;
     "Outpost_Mapobject_Level_Special_EmperorsChessSet": ImageData;
+    "Outpost_Mapobject_Level_Special_FestiveCandyCane": ImageData;
     "Outpost_Mapobject_Level_Special_FireworkBaron": ImageData;
     "Outpost_Mapobject_Level_Special_FlowerBracelet": ImageData;
     "Outpost_Mapobject_Level_Special_FreshTea": ImageData;
@@ -3606,6 +3630,7 @@ export interface Images {
     "Preview_Castle_Mapobject_Special_Easter": ImageData;
     "Preview_Castle_Mapobject_Special_Emblem": ImageData;
     "Preview_Castle_Mapobject_Special_EmperorsChessSet": ImageData;
+    "Preview_Castle_Mapobject_Special_FestiveCandyCane": ImageData;
     "Preview_Castle_Mapobject_Special_FireworkBaron": ImageData;
     "Preview_Castle_Mapobject_Special_FlowerBracelet": ImageData;
     "Preview_Castle_Mapobject_Special_FreshTea": ImageData;
@@ -4407,7 +4432,6 @@ export interface Images {
     "WinterOffensive_Woodcutter_Building_Level2": ImageData;
     "WinterOffensive_Woodcutter_Building_Level3": ImageData;
     "WinterOffensive_Workshop_Building_Level1": ImageData;
-    "WinterResearchtower": ImageData;
     "WolfKing_Mapobject": ImageData;
     "WolfkingCastle_BackWall_Left": ImageData;
     "WolfkingCastle_BackWall_Right": ImageData;
@@ -4497,6 +4521,9 @@ export interface Images {
     "box_pedestal_4": ImageData;
     "carnivalBarracks": ImageData;
     "carnivalMill": ImageData;
+    "christmasDwelling": ImageData;
+    "christmasGreenhouse": ImageData;
+    "christmasWoodcutter": ImageData;
     "clockworkMill": ImageData;
     "daffodilWorkshop": ImageData;
     "desert_bronze": ImageData;
@@ -5243,6 +5270,10 @@ export interface Images {
     "icon_currency_FloraToken": ImageData;
     "icon_currency_FloraToken_big": ImageData;
     "icon_currency_FloraToken_medium": ImageData;
+    "icon_currency_FrozenCarrot": ImageData;
+    "icon_currency_FrozenCarrot_big": ImageData;
+    "icon_currency_FrozenCarrot_medium": ImageData;
+    "icon_currency_FrozenCarrot_xl": ImageData;
     "icon_currency_FurSkinnerBoosterKey": ImageData;
     "icon_currency_FurSkinnerBoosterKey_big": ImageData;
     "icon_currency_FurSkinnerBoosterKey_medium": ImageData;
@@ -5982,6 +6013,7 @@ export interface Images {
     "icon_event_106": ImageData;
     "icon_event_106_collector": ImageData;
     "icon_event_113": ImageData;
+    "icon_event_127": ImageData;
     "icon_event_3": ImageData;
     "icon_event_4": ImageData;
     "icon_event_71": ImageData;
@@ -6023,6 +6055,7 @@ export interface Images {
     "icon_event_xl_106_collector": ImageData;
     "icon_event_xl_111": ImageData;
     "icon_event_xl_113": ImageData;
+    "icon_event_xl_127": ImageData;
     "icon_event_xxs": ImageData;
     "icon_events_berimond_enter": ImageData;
     "icon_events_berimond_sendtroops": ImageData;
@@ -7371,6 +7404,8 @@ export interface Images {
     "items_unique_1197": ImageData;
     "items_unique_1198": ImageData;
     "items_unique_12": ImageData;
+    "items_unique_1204": ImageData;
+    "items_unique_1205": ImageData;
     "items_unique_13": ImageData;
     "items_unique_14": ImageData;
     "items_unique_15": ImageData;
@@ -8266,6 +8301,7 @@ export interface Images {
     "winterMarket": ImageData;
     "winterMill": ImageData;
     "winterQuarry": ImageData;
+    "winterResearchtower": ImageData;
     "winterStonemason": ImageData;
     "winterStorehouse": ImageData;
     "winterWorkshop": ImageData;

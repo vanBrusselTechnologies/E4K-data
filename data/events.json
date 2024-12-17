@@ -74,7 +74,7 @@
       "areaTypes": "1,12",
       "eventType": "TempServer",
       "hubType": "Adventure",
-      "eventDuration": "Long",
+      "eventDuration": "Short",
       "minLevel": 6,
       "maxLevel": 99
     },
@@ -94,7 +94,7 @@
       "kIDs": 0,
       "eventType": "AllianceBattleGround",
       "hubType": "Adventure",
-      "eventDuration": "Long",
+      "eventDuration": "Short",
       "packageIDs": 1594,
       "minLevel": 6,
       "maxLevel": 99
@@ -980,6 +980,7 @@
       "comment2": "Donation Event",
       "eventType": "DonationEvent",
       "hubType": "Adventure",
+      "eventDuration": "Long",
       "minLevel": 70,
       "maxLevel": 99
     },
@@ -1005,6 +1006,17 @@
       "kIDs": 0,
       "areaTypes": 1,
       "eventType": "GachaDeco2x2",
+      "minLevel": 10,
+      "maxLevel": 1020
+    },
+    {
+      "eventID": 127,
+      "comment1": "ChristmasGacha",
+      "kIDs": 0,
+      "areaTypes": 1,
+      "eventType": "ChristmasGacha",
+      "hubType": "Adventure",
+      "eventDuration": "Long",
       "minLevel": 10,
       "maxLevel": 1020
     }
