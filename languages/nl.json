@@ -2050,7 +2050,11 @@
     "deco_ExaltedPurpleChristmasPyramid_name": "Verheven paarse kerstpiramide",
     "deco_ExaltedRedChristmasStall_name": "Verheven rode kerstkraam",
     "ci_appearance_christmasWoodcutter": "Relikwiehouthakker",
-    "ci_appearance_christmasWoodcutter_flavour": "Houthakkers vormen hout tot feestelijke decoraties en stevige gereedschappen, hun handen zijn druk bezig met het creëren van wonderen voor het seizoen."
+    "ci_appearance_christmasWoodcutter_flavour": "Houthakkers vormen hout tot feestelijke decoraties en stevige gereedschappen, hun handen zijn druk bezig met het creëren van wonderen voor het seizoen.",
+    "buildersQuarters_name": "Bouwers kwartier",
+    "buildersQuarters_short_info": "Ontgrendelt een bouwslot.",
+    "buildersQuarters_slot_number": "Extra bouwslots in dit kasteel",
+    "dialog_crane_slot_number": "Extra wachtrijplaatsen in dit kasteel"
   },
   "dialogs": {
     "dialog_festival_desc": "Gebruik voedsel om een festival te geven voor uw burgers! Zolang het festival duurt, wordt er in al uw kastelen aanmerkelijk sneller gerekruteerd. Hoe groter het festival, hoe groter het effect.",
@@ -3148,7 +3152,6 @@
     "dialog_pointEvent_eventEnd_title": "Adelswedstrijd ten einde",
     "dialog_pointEvent_eventEnd_copy": "De tijd is om en de adelswedstrijd is afgelopen. Je hebt {0} adelpunten gewonnen en hebt de {1}e plaats behaald. Toon de volgende keer wat meer inzet en je wint dan ongetwijfeld de koninklijke beloning!",
     "crane_short_info": "Staat je toe om een extra gebouw in dit kasteel in de wachtrij te zetten.",
-    "dialog_crane_slot_number": "Extra bouwplaatsen in dit kasteel",
     "dialog_ressources_productivity": "Productiviteit van jagen",
     "dialog_festival_fourthEvent": "Adellijk banket",
     "dialog_ExplainLootDungeon": "Om bouwstoffen te plunderen, moet je vijandelijke forten aanvallen.",
@@ -12559,7 +12562,10 @@
     "webshop_snowglobecarrots_huge_name": "Grote sneeuwbolvoorzieningen",
     "webshop_snowglobecarrots_large_name": "Grote sneeuwbolvoorraad",
     "webshop_snowglobecarrots_medium_name": "Middelgrote sneeuwbolvoorraad",
-    "webshop_snowglobecarrots_small_name": "Kleine sneeuwbolvoorraden"
+    "webshop_snowglobecarrots_small_name": "Kleine sneeuwbolvoorraden",
+    "tooltip_rankingGlobal_combined": "De ranking toont de alliantie waarvan je deel uitmaakte toen je je bij het evenement voegde, met de punten die zijn verdiend via het Architectenpad.",
+    "sorting_buildingLevel_ascending_tooltip": "Sorteer op: Bouwniveau oplopend",
+    "sorting_buildingLevel_descending_tooltip": "Sorteer op: Gebouwniveau aflopend"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% kracht in de binnenplaats bij aanvallen",

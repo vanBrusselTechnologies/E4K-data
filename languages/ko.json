@@ -2050,7 +2050,11 @@
     "deco_ExaltedPurpleChristmasPyramid_name": "고귀한 보라색 크리스마스 피라미드",
     "deco_ExaltedRedChristmasStall_name": "고귀한 빨간 크리스마스 가판대",
     "ci_appearance_christmasWoodcutter": "유물 나무꾼",
-    "ci_appearance_christmasWoodcutter_flavour": "나무꾼들은 나무를 축제 장식과 튼튼한 도구로 형태를 만들며, 그들의 손은 시즌의 경이로움을 만드는 데 분주하다."
+    "ci_appearance_christmasWoodcutter_flavour": "나무꾼들은 나무를 축제 장식과 튼튼한 도구로 형태를 만들며, 그들의 손은 시즌의 경이로움을 만드는 데 분주하다.",
+    "buildersQuarters_name": "건축가의 숙소",
+    "buildersQuarters_short_info": "건설 슬롯을 잠금 해제합니다.",
+    "buildersQuarters_slot_number": "이 성의 추가 건설 슬롯",
+    "dialog_crane_slot_number": "이 성의 추가 대기 슬롯"
   },
   "dialogs": {
     "dialog_festival_desc": "식량으로 잔치를 열어 백성들을 배불리 먹이십시오! 잔치가 계속되는 동안 모든 성의 모집 속도가 눈에 띄게 증가합니다. 더 큰 잔치를 벌일수록 효과도 더 증가합니다.",
@@ -3148,7 +3152,6 @@
     "dialog_pointEvent_eventEnd_title": "귀족 대회 종료",
     "dialog_pointEvent_eventEnd_copy": "귀족 대회의 기한이 만료되었습니다. 대회가 진행되는 동안 귀족 점수 {0}점을 달성했으며 최종 순위는 {1}위입니다. 다음 대회에서 조금만 더 노력하면 왕의 보상을 획득할 수 있을 것입니다!",
     "crane_short_info": "이 성에 추가 건물을 대기열에 추가할 수 있습니다.",
-    "dialog_crane_slot_number": "이 성의 추가 건설 슬롯",
     "dialog_ressources_productivity": "사냥의 생산량",
     "dialog_festival_fourthEvent": "고상한 만찬",
     "dialog_ExplainLootDungeon": "자원을 약탈하려면 적 성채를 공격해야 합니다.",
@@ -12559,7 +12562,10 @@
     "webshop_snowglobecarrots_huge_name": "거대한 눈구슬 용품",
     "webshop_snowglobecarrots_large_name": "대형 눈송이 구의 용품",
     "webshop_snowglobecarrots_medium_name": "중형 눈덩이 용품",
-    "webshop_snowglobecarrots_small_name": "작은 눈구슬 용품"
+    "webshop_snowglobecarrots_small_name": "작은 눈구슬 용품",
+    "tooltip_rankingGlobal_combined": "순위는 이벤트에 참여할 때 소속된 동맹과 아키텍트 트랙에서 획득한 점수를 표시합니다.",
+    "sorting_buildingLevel_ascending_tooltip": "정렬 기준: 건물 수준 오름차순",
+    "sorting_buildingLevel_descending_tooltip": "정렬 기준: 건물 수준 내림차순"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% 공격 시 안뜰의 힘",

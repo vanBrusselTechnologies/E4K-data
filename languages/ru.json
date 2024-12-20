@@ -2050,7 +2050,11 @@
     "deco_ExaltedPurpleChristmasPyramid_name": "Возвышенная фиолетовая рождественская пирамида",
     "deco_ExaltedRedChristmasStall_name": "Возвышенный красный рождественский киоск",
     "ci_appearance_christmasWoodcutter": "Древний дровосек",
-    "ci_appearance_christmasWoodcutter_flavour": "Лесорубы формируют древесину в праздничные украшения и прочные инструменты, их руки заняты созданием чудес для сезона."
+    "ci_appearance_christmasWoodcutter_flavour": "Лесорубы формируют древесину в праздничные украшения и прочные инструменты, их руки заняты созданием чудес для сезона.",
+    "buildersQuarters_name": "Квартиры строителя",
+    "buildersQuarters_short_info": "Разблокирует слот для строительства.",
+    "buildersQuarters_slot_number": "Дополнительные строительные слоты в этом замке",
+    "dialog_crane_slot_number": "Дополнительные слоты очереди в этом замке"
   },
   "dialogs": {
     "dialog_festival_desc": "Используй еду, чтобы устроить пир для твоих горожан! Во время проведения пира, скорость найма во всех твоих замках заметно увеличится. Чем больше пир, тем больше эффект.",
@@ -3148,7 +3152,6 @@
     "dialog_pointEvent_eventEnd_title": "Дворянское состязание завершено.",
     "dialog_pointEvent_eventEnd_copy": "Время вышло и дворянское состязание завершено. Ты выигрываешь в состязании очки дворянства ({0}) и занимаешь позицию {1} в рейтинге. Приложи немного больше усилий в следующем состязании, и ты обязательно получишь королевскую награду!",
     "crane_short_info": "Позволяет вам поставить в очередь дополнительное здание в этом замке.",
-    "dialog_crane_slot_number": "Дополнительные слоты для строительства в этом замке",
     "dialog_ressources_productivity": "Продуктивность за счет охоты",
     "dialog_festival_fourthEvent": "Аристократический банкет",
     "dialog_ExplainLootDungeon": "Чтобы награбить ресурсов, необходимо нападать на вражеские крепости.",
@@ -12559,7 +12562,10 @@
     "webshop_snowglobecarrots_huge_name": "Огромные запасы снежного шара",
     "webshop_snowglobecarrots_large_name": "Большие запасы снежного шара",
     "webshop_snowglobecarrots_medium_name": "Средние запасы снежного шара",
-    "webshop_snowglobecarrots_small_name": "Малые запасы снежного шара"
+    "webshop_snowglobecarrots_small_name": "Малые запасы снежного шара",
+    "tooltip_rankingGlobal_combined": "Рейтинг будет отображать альянс, частью которого вы были, когда присоединились к событию, с очками, заработанными на Архитекторском треке.",
+    "sorting_buildingLevel_ascending_tooltip": "Сортировать по: Уровень здания по возрастанию",
+    "sorting_buildingLevel_descending_tooltip": "Сортировать по: Уровень здания по убыванию"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% силы во дворе при атаке",

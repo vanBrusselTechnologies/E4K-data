@@ -2050,7 +2050,11 @@
     "deco_ExaltedPurpleChristmasPyramid_name": "Yüceltilmiş mor Noel piramidi",
     "deco_ExaltedRedChristmasStall_name": "Yüce Kırmızı Noel Tezgahı",
     "ci_appearance_christmasWoodcutter": "Kalıntı oduncu",
-    "ci_appearance_christmasWoodcutter_flavour": "Ağaç kesiciler, ahşabı şenlikli süslemelere ve sağlam aletlere şekil veriyor, elleri sezona harikalar yaratmakla meşguldür."
+    "ci_appearance_christmasWoodcutter_flavour": "Ağaç kesiciler, ahşabı şenlikli süslemelere ve sağlam aletlere şekil veriyor, elleri sezona harikalar yaratmakla meşguldür.",
+    "buildersQuarters_name": "İnşaatçıların Mahallesi",
+    "buildersQuarters_short_info": "Bir inşaat yuvasını açar.",
+    "buildersQuarters_slot_number": "Bu kalede ekstra inşaat alanları",
+    "dialog_crane_slot_number": "Bu kalede ekstra kuyruk slotları"
   },
   "dialogs": {
     "dialog_festival_desc": "Yurttaşlarınıza bir şenlik düzenlemek için yiyecek kullanın!\nŞenlik devam ettiği sürece askere alma hızı tüm kalelerinizde belirgin şekilde artacak. Şenlik ne kadar büyük olursa, etkisi de o kadar büyük olur.",
@@ -3148,7 +3152,6 @@
     "dialog_pointEvent_eventEnd_title": "Asalet yarışması sona erdi",
     "dialog_pointEvent_eventEnd_copy": "Süre doldu ve asalet yarışması sona erdi. Yarışmada {0} puan kazandın ve sıralamadaki yerin {1} oldu. Gelecek yarışmada biraz daha gayret edersen kraliyet ödülünü kesin alırsın!",
     "crane_short_info": "Bu kalede ek bir bina sıraya almanıza izin verir.",
-    "dialog_crane_slot_number": "Bu kaledeki ek inşaat alanları",
     "dialog_ressources_productivity": "Avcılık üretkenliğin",
     "dialog_festival_fourthEvent": "Aristokratik şölen",
     "dialog_ExplainLootDungeon": "Ham maddeleri yağmalamak için düşman kalelerine saldırman gerekir.",
@@ -12559,7 +12562,10 @@
     "webshop_snowglobecarrots_huge_name": "Büyük kar küresi malzemeleri",
     "webshop_snowglobecarrots_large_name": "Büyük kar küresi malzemeleri",
     "webshop_snowglobecarrots_medium_name": "Orta kar küresi malzemeleri",
-    "webshop_snowglobecarrots_small_name": "Küçük kar küresi malzemeleri"
+    "webshop_snowglobecarrots_small_name": "Küçük kar küresi malzemeleri",
+    "tooltip_rankingGlobal_combined": "Sıralama, etkinliğe katıldığınızda parçası olduğunuz ittifakı ve Mimarlık Rotasından kazandığınız puanları gösterecektir.",
+    "sorting_buildingLevel_ascending_tooltip": "Sırala: Bina seviyesi artan",
+    "sorting_buildingLevel_descending_tooltip": "Sırala: Bina seviyesi azalan"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% av gücü avluda saldırırken",

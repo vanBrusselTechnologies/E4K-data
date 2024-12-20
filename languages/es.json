@@ -2050,7 +2050,11 @@
     "deco_ExaltedPurpleChristmasPyramid_name": "Pirámide navideña púrpura exaltada",
     "deco_ExaltedRedChristmasStall_name": "Puesto de Navidad rojo exaltado",
     "ci_appearance_christmasWoodcutter": "leñador reliquia",
-    "ci_appearance_christmasWoodcutter_flavour": "Los leñadores moldean la madera en decoraciones festivas y herramientas resistentes, sus manos están ocupadas creando maravillas para la temporada."
+    "ci_appearance_christmasWoodcutter_flavour": "Los leñadores moldean la madera en decoraciones festivas y herramientas resistentes, sus manos están ocupadas creando maravillas para la temporada.",
+    "buildersQuarters_name": "Alojamiento del constructor",
+    "buildersQuarters_short_info": "Desbloquea un espacio de construcción.",
+    "buildersQuarters_slot_number": "Espacios de construcción adicionales en este castillo",
+    "dialog_crane_slot_number": "Espacios adicionales en la cola de este castillo"
   },
   "dialogs": {
     "dialog_festival_desc": "¡Usa comida para celebrar un festín para tus ciudadanos! La velocidad de reclutamiento aumentará considerablemente en todos tus castillos mientras dure el festín. Mientras más grande sea el festín, mayor será el efecto.",
@@ -3148,7 +3152,6 @@
     "dialog_pointEvent_eventEnd_title": "El concurso de la nobleza terminó",
     "dialog_pointEvent_eventEnd_copy": "Se acabó el tiempo y el concurso de la nobleza ha finalizado. Ganaste {0} puntos de nobleza en el concurso y llegaste al puesto n.º {1} en el ranking. ¡Dedica un poco más de esfuerzo al próximo concurso y seguramente obtendrás la recompensa real!",
     "crane_short_info": "Te permite agregar un edificio adicional en este castillo.",
-    "dialog_crane_slot_number": "Espacios de construcción adicionales en este castillo",
     "dialog_ressources_productivity": "Productividad obtenida de cazar",
     "dialog_festival_fourthEvent": "Banquete aristocrático",
     "dialog_ExplainLootDungeon": "Para saquear recursos, debes atacar fortalezas enemigas.",
@@ -12559,7 +12562,10 @@
     "webshop_snowglobecarrots_huge_name": "Grandes provisiones de bola de nieve",
     "webshop_snowglobecarrots_large_name": "Grandes provisiones de bola de nieve",
     "webshop_snowglobecarrots_medium_name": "Provisiones de bola de nieve mediana",
-    "webshop_snowglobecarrots_small_name": "Pequeñas provisiones de bola de nieve"
+    "webshop_snowglobecarrots_small_name": "Pequeñas provisiones de bola de nieve",
+    "tooltip_rankingGlobal_combined": "El ranking mostrará la alianza de la que formabas parte cuando te uniste al evento, con los puntos obtenidos a partir de la Ruta del Arquitecto.",
+    "sorting_buildingLevel_ascending_tooltip": "Ordenar por: Nivel de construcción ascendente",
+    "sorting_buildingLevel_descending_tooltip": "Ordenar por: Nivel del edificio descendente"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% de fuerza en el patio al atacar",

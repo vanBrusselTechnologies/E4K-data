@@ -2050,7 +2050,11 @@
     "deco_ExaltedPurpleChristmasPyramid_name": "Erhabene lila Weihnachts pyramide",
     "deco_ExaltedRedChristmasStall_name": "Erhabener roter Weihnachtsstand",
     "ci_appearance_christmasWoodcutter": "Relikt-Holzfäller",
-    "ci_appearance_christmasWoodcutter_flavour": "Holzfäller formen Holz zu festlichen Dekorationen und robusten Werkzeugen, ihre Hände sind beschäftigt, Wunder für die Saison zu schaffen."
+    "ci_appearance_christmasWoodcutter_flavour": "Holzfäller formen Holz zu festlichen Dekorationen und robusten Werkzeugen, ihre Hände sind beschäftigt, Wunder für die Saison zu schaffen.",
+    "buildersQuarters_name": "Baumeisterquartier",
+    "buildersQuarters_short_info": "Schaltet einen Bauplatz frei.",
+    "buildersQuarters_slot_number": "Zusätzliche Bauplätze in dieser Burg",
+    "dialog_crane_slot_number": "Zusätzliche Warteschlangenplätze in dieser Burg"
   },
   "dialogs": {
     "dialog_festival_desc": "Setzt Nahrung ein, um ein Fest für Eure Bürger zu feiern!\nSolange das Fest läuft, wird die Rekrutierungsgeschwindigkeit in all Euren Burgen deutlich erhöht. Je größer das Fest ist, desto größer ist auch der Effekt.",
@@ -3148,7 +3152,6 @@
     "dialog_pointEvent_eventEnd_title": "Wettstreit der Adligen beendet",
     "dialog_pointEvent_eventEnd_copy": "Die Zeit ist abgelaufen und der Wettstreit der Adligen beendet. Ihr habt im Wettstreit {0} Adelspunkte erhalten und seid in der Rangfolge auf Platz {1} gelandet. Gebt Euch beim nächsten Wettstreit noch mehr Mühe und Ihr werdet mit Sicherheit die königliche Belohnung erhalten!",
     "crane_short_info": "Erlaubt Ihnen, ein zusätzliches Gebäude in dieser Burg einzuplanen.",
-    "dialog_crane_slot_number": "Zusätzliche Bauslots in dieser Burg",
     "dialog_ressources_productivity": "Produktivität durch Jagd",
     "dialog_festival_fourthEvent": "Adelsbankett",
     "dialog_ExplainLootDungeon": "Um Rohstoffe zu plündern, müsst Ihr gegnerische Festungen angreifen.",
@@ -12559,7 +12562,10 @@
     "webshop_snowglobecarrots_huge_name": "Riesige Schneekugel-Vorräte",
     "webshop_snowglobecarrots_large_name": "Große Schneekugelvorräte",
     "webshop_snowglobecarrots_medium_name": "Mittlere Schneekugelvorräte",
-    "webshop_snowglobecarrots_small_name": "Kleine Schneekugel-Artikel"
+    "webshop_snowglobecarrots_small_name": "Kleine Schneekugel-Artikel",
+    "tooltip_rankingGlobal_combined": "Die Rangliste zeigt die Allianz, der Sie angehörten, als Sie an der Veranstaltung teilnahmen, mit Punkten, die Sie im Architektenpfad verdient haben.",
+    "sorting_buildingLevel_ascending_tooltip": "Sortieren nach: Baulevel aufsteigend",
+    "sorting_buildingLevel_descending_tooltip": "Sortieren nach: Gebäudeebene absteigend"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% Stärke im Innenhof beim Angreifen",

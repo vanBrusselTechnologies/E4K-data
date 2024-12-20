@@ -2050,7 +2050,11 @@
     "deco_ExaltedPurpleChristmasPyramid_name": "Piramide natalizia viola esaltata",
     "deco_ExaltedRedChristmasStall_name": "Chiosco di Natale rosso esaltato",
     "ci_appearance_christmasWoodcutter": "taglialegna reliquia",
-    "ci_appearance_christmasWoodcutter_flavour": "I boscaioli modellano il legno in decorazioni festive e strumenti robusti, le loro mani sono occupate a creare meraviglie per la stagione."
+    "ci_appearance_christmasWoodcutter_flavour": "I boscaioli modellano il legno in decorazioni festive e strumenti robusti, le loro mani sono occupate a creare meraviglie per la stagione.",
+    "buildersQuarters_name": "Alloggi del costruttore",
+    "buildersQuarters_short_info": "Sblocca uno slot di costruzione.",
+    "buildersQuarters_slot_number": "Slot di costruzione extra in questo castello",
+    "dialog_crane_slot_number": "Slot di coda extra in questo castello"
   },
   "dialogs": {
     "dialog_festival_desc": "Usa il cibo per organizzare un banchetto per i tuoi cittadini! La velocità di reclutamento aumenterà notevolmente in tutti i castelli per la durata del banchetto. Più grande è il banchetto, maggiore sarà leffetto.",
@@ -3148,7 +3152,6 @@
     "dialog_pointEvent_eventEnd_title": "Contesa dei nobili terminata",
     "dialog_pointEvent_eventEnd_copy": "Il tempo è scaduto e la contesa dei nobili è finita. Hai ottenuto {0} punti nobiltà e raggiunto la posizione numero {1} in classifica. Impegnati nella prossima contesa e riceverai senzaltro il premio regale!",
     "crane_short_info": "Ti consente di mettere in coda un edificio aggiuntivo in questo castello.",
-    "dialog_crane_slot_number": "Slot di costruzione aggiuntivi in questo castello",
     "dialog_ressources_productivity": "Produttività dalla caccia",
     "dialog_festival_fourthEvent": "Banchetto della nobiltà",
     "dialog_ExplainLootDungeon": "Per saccheggiare le risorse, devi attaccare le fortezze nemiche.",
@@ -12559,7 +12562,10 @@
     "webshop_snowglobecarrots_huge_name": "Grandi provviste di palla di neve",
     "webshop_snowglobecarrots_large_name": "Grandi provviste di palla di neve",
     "webshop_snowglobecarrots_medium_name": "Forniture di palla di neve media",
-    "webshop_snowglobecarrots_small_name": "Piccole provviste di palla di neve"
+    "webshop_snowglobecarrots_small_name": "Piccole provviste di palla di neve",
+    "tooltip_rankingGlobal_combined": "La classifica mostrerà lalleanza di cui facevi parte quando hai partecipato allevento, con i punti guadagnati dalla Traccia Architetto.",
+    "sorting_buildingLevel_ascending_tooltip": "Ordina per: Livello edificio crescente",
+    "sorting_buildingLevel_descending_tooltip": "Ordina per: Livello delledificio decrescente"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% di forza nel cortile quando si attacca",

@@ -2050,7 +2050,11 @@
     "deco_ExaltedPurpleChristmasPyramid_name": "Exalted Purple Christmas Pyramid",
     "deco_ExaltedRedChristmasStall_name": "Exalted Red Christmas Stall",
     "ci_appearance_christmasWoodcutter": "Christmas Relic Woodcutter",
-    "ci_appearance_christmasWoodcutter_flavour": "Woodcutters shape timber into festive decorations and sturdy tools, their hands busy crafting wonders for the season."
+    "ci_appearance_christmasWoodcutter_flavour": "Woodcutters shape timber into festive decorations and sturdy tools, their hands busy crafting wonders for the season.",
+    "buildersQuarters_name": "Builders Quarters",
+    "buildersQuarters_short_info": "Unlocks a construction slot.",
+    "buildersQuarters_slot_number": "Extra construction slots in this castle",
+    "dialog_crane_slot_number": "Extra queue slots in this castle"
   },
   "dialogs": {
     "dialog_festival_desc": "Use your food to hold a feast for your citizens!\nSoldiers will be recruited much more quickly in all of your castles for as long as the feast lasts. The bigger the feast, the greater the effect.",
@@ -3148,7 +3152,6 @@
     "dialog_pointEvent_eventEnd_title": "Nobility contest over",
     "dialog_pointEvent_eventEnd_copy": "Time has run out and the nobility contest has finished. Youve won {0} nobility points in the contest and reached place {1} in the rankings. Work harder in the next contest and youll definitely win the royal reward!",
     "crane_short_info": "Allows you to queue up an additional building in this castle.",
-    "dialog_crane_slot_number": "Extra construction slots in this castle",
     "dialog_ressources_productivity": "Productivity from hunting",
     "dialog_festival_fourthEvent": "Aristocratic banquet",
     "dialog_ExplainLootDungeon": "Attack enemy fortresses to plunder resources.",
@@ -12559,7 +12562,10 @@
     "webshop_snowglobecarrots_huge_name": "Huge Snowglobe Provisions",
     "webshop_snowglobecarrots_large_name": "Large Snowglobe Provisions",
     "webshop_snowglobecarrots_medium_name": "Medium Snowglobe Provisions",
-    "webshop_snowglobecarrots_small_name": "Small Snowglobe Provisions"
+    "webshop_snowglobecarrots_small_name": "Small Snowglobe Provisions",
+    "tooltip_rankingGlobal_combined": "The ranking will display the alliance you were part of when you joined the event, with points earned from the Architect Track.",
+    "sorting_buildingLevel_ascending_tooltip": "Sort by: Building level ascending",
+    "sorting_buildingLevel_descending_tooltip": "Sort by: Building level descending"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% strength in courtyard when attacking",

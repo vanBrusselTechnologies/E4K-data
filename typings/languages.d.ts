@@ -983,6 +983,9 @@ export interface Language {
         "builder_name": string;
         "builder_short_info": string;
         "builder_upgrade_info": string;
+        "buildersQuarters_name": string;
+        "buildersQuarters_short_info": string;
+        "buildersQuarters_slot_number": string;
         "building_info_emporium": string;
         "building_instant_complete": string;
         "building_instant_complete_description": string;
@@ -1761,6 +1764,7 @@ export interface Language {
         "defense_complete": string;
         "demolish_instant_complete_description": string;
         "dialog_beyondTheHorizon_altar_occupation_time": string;
+        "dialog_crane_slot_number": string;
         "dialog_primeday_primesale_buildingExists": string;
         "dialog_reinforcedvault_header": string;
         "dragonBreathForge_name": string;
@@ -4496,7 +4500,6 @@ export interface Language {
         "dialog_crafting_unlock_tempQueueSlotMultiple_desc": string;
         "dialog_crafting_unlock_tempQueueSlotNumber_desc": string;
         "dialog_crafting_unlock_tempQueueSlot_desc": string;
-        "dialog_crane_slot_number": string;
         "dialog_craneteaser_copy1": string;
         "dialog_craneteaser_discount": string;
         "dialog_createAccount_changeCrest": string;
@@ -11212,6 +11215,8 @@ export interface Language {
         "skeletalscytheman_short_info": string;
         "skipCurrentResearch_copy": string;
         "skipCurrentResearch_title": string;
+        "sorting_buildingLevel_ascending_tooltip": string;
+        "sorting_buildingLevel_descending_tooltip": string;
         "spy_dialog_guardCount": string;
         "spy_dialog_sabotageCosts": string;
         "spy_dialog_sabotageDamage": string;
@@ -11688,6 +11693,7 @@ export interface Language {
         "today": string;
         "tomorrow": string;
         "tooltip_gachaName_GachaDeco2x2": string;
+        "tooltip_rankingGlobal_combined": string;
         "treasuremap_0_copy": string;
         "treasuremap_0_title": string;
         "treasuremap_10_copy": string;

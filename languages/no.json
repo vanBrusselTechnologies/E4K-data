@@ -2050,7 +2050,11 @@
     "deco_ExaltedPurpleChristmasPyramid_name": "Hyllet lilla julepyramide",
     "deco_ExaltedRedChristmasStall_name": "Opphøyet rød julebod",
     "ci_appearance_christmasWoodcutter": "Levning-trekutter",
-    "ci_appearance_christmasWoodcutter_flavour": "Tømmerhoggerne former tre til festlige dekorasjoner og solide verktøy, hendene deres er opptatt med å lage underverker for sesongen."
+    "ci_appearance_christmasWoodcutter_flavour": "Tømmerhoggerne former tre til festlige dekorasjoner og solide verktøy, hendene deres er opptatt med å lage underverker for sesongen.",
+    "buildersQuarters_name": "Bygningsmesterens kvarter",
+    "buildersQuarters_short_info": "Låser opp en byggeplass.",
+    "buildersQuarters_slot_number": "Ekstra byggeplasser i denne borgen",
+    "dialog_crane_slot_number": "Ekstra køplasser i dette slottet"
   },
   "dialogs": {
     "dialog_festival_desc": "Bruk mat til å holde en festival for folket! Rekrutteringshastigheten vil markant økes ved alle slottene dine så lenge festivalen varer. Desto større festival, jo bedre effekt.",
@@ -3148,7 +3152,6 @@
     "dialog_pointEvent_eventEnd_title": "Nobilitetskonkurransen er over",
     "dialog_pointEvent_eventEnd_copy": "Tiden er ute og nobilitetskonkurransen er over. Du har vunnet {0} nobilitetspoeng i konkurransen og endte på {1}.-plass. Legg litt mer innsats i neste konkurranse og du vil garantert bli rikelig belønnet!",
     "crane_short_info": "Lar deg sette opp en ekstra bygning i denne borgen.",
-    "dialog_crane_slot_number": "Ekstra byggefelt i dette slottet",
     "dialog_ressources_productivity": "Produktivitet fra jakt",
     "dialog_festival_fourthEvent": "Aristokratbankett",
     "dialog_ExplainLootDungeon": "For å plyndre ressurser, må du angripe fiendtlige fort.",
@@ -12559,7 +12562,10 @@
     "webshop_snowglobecarrots_huge_name": "Store snøglobe-ressurser",
     "webshop_snowglobecarrots_large_name": "Store snøglobe-forsyninger",
     "webshop_snowglobecarrots_medium_name": "Middels store snøglobeforsyninger",
-    "webshop_snowglobecarrots_small_name": "Små snøglobe forsyninger"
+    "webshop_snowglobecarrots_small_name": "Små snøglobe forsyninger",
+    "tooltip_rankingGlobal_combined": "Rangeringen vil vise alliansen du var en del av da du ble med på arrangementet, med poeng opptjent fra Arkitektsporet.",
+    "sorting_buildingLevel_ascending_tooltip": "Sorter etter: Bygning nivå stigende",
+    "sorting_buildingLevel_descending_tooltip": "Sorter etter: Bygningsnivå synkende"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% styrke i gårdsrommet når du angriper",

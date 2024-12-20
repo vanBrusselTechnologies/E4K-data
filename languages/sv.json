@@ -2050,7 +2050,11 @@
     "deco_ExaltedPurpleChristmasPyramid_name": "Upphöjd lila julpyramid",
     "deco_ExaltedRedChristmasStall_name": "Upphöjd röd julstånd",
     "ci_appearance_christmasWoodcutter": "relikskogshuggare",
-    "ci_appearance_christmasWoodcutter_flavour": "Trädfällare formar trä till festliga dekorationer och robusta verktyg, deras händer är upptagna med att skapa underverk för säsongen."
+    "ci_appearance_christmasWoodcutter_flavour": "Trädfällare formar trä till festliga dekorationer och robusta verktyg, deras händer är upptagna med att skapa underverk för säsongen.",
+    "buildersQuarters_name": "Byggarens kvarter",
+    "buildersQuarters_short_info": "Låser upp en byggplats.",
+    "buildersQuarters_slot_number": "Extra byggplatser i detta slott",
+    "dialog_crane_slot_number": "Extra köplatser i detta slott"
   },
   "dialogs": {
     "dialog_festival_desc": "Använd mat för att anordna en fest för dina medborgare! Rekryteringshastigheten ökar betydligt i alla dina slott så länge festen försiggår. Ju större festen är, desto större effekt.",
@@ -3148,7 +3152,6 @@
     "dialog_pointEvent_eventEnd_title": "Ädelhetstävlingen är över",
     "dialog_pointEvent_eventEnd_copy": "Tiden är ute och ädelhetstävlingen är över. Du har vunnit {0} ädelhetspoäng och tog dig in på plats {1} på ranglistan. Kämpa ännu lite hårdare i nästa tävling så kan det bli du som kammar hem den kungliga belöningen!",
     "crane_short_info": "Gör det möjligt att köa en extra byggnad i detta slott.",
-    "dialog_crane_slot_number": "Extra konstruktionsplatser i det här slottet",
     "dialog_ressources_productivity": "Produktivitet från jakt",
     "dialog_festival_fourthEvent": "Aristokratisk bankett",
     "dialog_ExplainLootDungeon": "För att plundra resurser måste du anfalla fientliga fästningar.",
@@ -12559,7 +12562,10 @@
     "webshop_snowglobecarrots_huge_name": "Stora snöglobstillgångar",
     "webshop_snowglobecarrots_large_name": "Stora snöglobförsörjningar",
     "webshop_snowglobecarrots_medium_name": "Mellanstora snöglobstillgångar",
-    "webshop_snowglobecarrots_small_name": "Små snöglobstillbehör"
+    "webshop_snowglobecarrots_small_name": "Små snöglobstillbehör",
+    "tooltip_rankingGlobal_combined": "Rankingen visar den allians du var en del av när du gick med i evenemanget, med poäng som tjänats från Arkitektspåret.",
+    "sorting_buildingLevel_ascending_tooltip": "Sortera efter: Byggnivå stigande",
+    "sorting_buildingLevel_descending_tooltip": "Sortera efter: Byggnadsnivå i fallande ordning"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% styrka på gården vid angrepp",

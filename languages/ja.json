@@ -2050,7 +2050,11 @@
     "deco_ExaltedPurpleChristmasPyramid_name": "崇高な紫のクリスマスピラミッド",
     "deco_ExaltedRedChristmasStall_name": "崇高な赤いクリスマススタンド",
     "ci_appearance_christmasWoodcutter": "聖遺物の木こり",
-    "ci_appearance_christmasWoodcutter_flavour": "木こりたちは木材を祝祭の装飾品や堅牢な道具に形作り、彼らの手は季節の驚異を作ることに忙しい。"
+    "ci_appearance_christmasWoodcutter_flavour": "木こりたちは木材を祝祭の装飾品や堅牢な道具に形作り、彼らの手は季節の驚異を作ることに忙しい。",
+    "buildersQuarters_name": "建設者の宿舎",
+    "buildersQuarters_short_info": "建設スロットを解除します。",
+    "buildersQuarters_slot_number": "この城の追加建設スロット",
+    "dialog_crane_slot_number": "この城の追加キューのスロット"
   },
   "dialogs": {
     "dialog_festival_desc": "食料を集めて宴会を開きましょう！\n宴会が続く限り、兵の雇用スピードがすべての城で速くなります。宴会が豪華になるほど、効果も大きくなります。",
@@ -3148,7 +3152,6 @@
     "dialog_pointEvent_eventEnd_title": "貴族の争奪戦終了",
     "dialog_pointEvent_eventEnd_copy": "貴族の争奪戦は終了しました。この争奪戦で{0}貴族ポイントを獲得しました。レベル別ランキングでは{1}位に入りました。次の争奪戦では王の報酬がもらえるように頑張ってください！",
     "crane_short_info": "この城に追加の建物をキューイングすることができます。",
-    "dialog_crane_slot_number": "追加の建設スロット",
     "dialog_ressources_productivity": "狩人使用時の生産性",
     "dialog_festival_fourthEvent": "貴族の祝宴",
     "dialog_ExplainLootDungeon": "敵の要塞を攻撃すれば、資源を略奪できます。",
@@ -12559,7 +12562,10 @@
     "webshop_snowglobecarrots_huge_name": "巨大なスノーグローブの備品",
     "webshop_snowglobecarrots_large_name": "大きなスノーグローブの備品",
     "webshop_snowglobecarrots_medium_name": "中型スノードームの備品",
-    "webshop_snowglobecarrots_small_name": "小さなスノーグローブの備品"
+    "webshop_snowglobecarrots_small_name": "小さなスノーグローブの備品",
+    "tooltip_rankingGlobal_combined": "ランキングは、イベントに参加したときに所属していた同盟と、アーキテクトトラックから獲得したポイントを表示します。",
+    "sorting_buildingLevel_ascending_tooltip": "並べ替え：建物のレベル昇順",
+    "sorting_buildingLevel_descending_tooltip": "並べ替え: 建物レベル降順"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% の攻撃時の中庭の強さ",

@@ -2050,7 +2050,11 @@
     "deco_ExaltedPurpleChristmasPyramid_name": "Hævet lilla julepyramide",
     "deco_ExaltedRedChristmasStall_name": "Forbedret rød julebod",
     "ci_appearance_christmasWoodcutter": "Relikviesavværker",
-    "ci_appearance_christmasWoodcutter_flavour": "Træskærer former træ til festlige dekorationer og robuste værktøjer, deres hænder arbejder med at skabe vidundere til sæsonen."
+    "ci_appearance_christmasWoodcutter_flavour": "Træskærer former træ til festlige dekorationer og robuste værktøjer, deres hænder arbejder med at skabe vidundere til sæsonen.",
+    "buildersQuarters_name": "Bygherrens kvarter",
+    "buildersQuarters_short_info": "Åbner en byggeplads.",
+    "buildersQuarters_slot_number": "Ekstra byggepladser i dette slot",
+    "dialog_crane_slot_number": "Ekstra køslot i denne borg"
   },
   "dialogs": {
     "dialog_festival_desc": "Brug mad til at holde en fest for dine borgere! Rekrutteringshastigheden vil forøges på i jeres borge, så længe festen varer. Jo større festen er, jo større er effekten.",
@@ -3148,7 +3152,6 @@
     "dialog_pointEvent_eventEnd_title": "Adelskonkurrencen er ovre",
     "dialog_pointEvent_eventEnd_copy": "Tiden er løbet ud, og adelskonkurrencen er ovre. I har vundet {0} adelspoint i konkurrencen og har opnået plads {1} på ranglisten. Gør jer lidt mere umage i den næste konkurrence, så får I sikkert den kongelige belønning!",
     "crane_short_info": "Giver dig mulighed for at køe en ekstra bygning i denne borg.",
-    "dialog_crane_slot_number": "Ekstra byggepladser i denne borg",
     "dialog_ressources_productivity": "Produktivitet fra jagt",
     "dialog_festival_fourthEvent": "Aristokratisk banket",
     "dialog_ExplainLootDungeon": "Du skal angribe en fjendtlig borgherres fæstning for at plyndre ressourcer.",
@@ -12559,7 +12562,10 @@
     "webshop_snowglobecarrots_huge_name": "Kæmpe sneboldeudstyr",
     "webshop_snowglobecarrots_large_name": "Store snebolds forsyninger",
     "webshop_snowglobecarrots_medium_name": "Mellem snebolds forsyninger",
-    "webshop_snowglobecarrots_small_name": "Små sneboldforsyninger"
+    "webshop_snowglobecarrots_small_name": "Små sneboldforsyninger",
+    "tooltip_rankingGlobal_combined": "Rangeringen viser den alliance, du var en del af, da du deltog i begivenheden, med point optjent fra Arkitektsporet.",
+    "sorting_buildingLevel_ascending_tooltip": "Sorter efter: Bygningsniveau stigende",
+    "sorting_buildingLevel_descending_tooltip": "Sorter efter: Bygningsniveau faldende"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% styrke i gården ved angreb",

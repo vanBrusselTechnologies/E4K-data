@@ -2050,7 +2050,11 @@
     "deco_ExaltedPurpleChristmasPyramid_name": "Pyramide de Noël pourpre exaltée",
     "deco_ExaltedRedChristmasStall_name": "Stand de Noël rouge exalté",
     "ci_appearance_christmasWoodcutter": "Bûcheron relique",
-    "ci_appearance_christmasWoodcutter_flavour": "Les bûcherons façonnent le bois en décorations festives et outils robustes, leurs mains occupées à créer des merveilles pour la saison."
+    "ci_appearance_christmasWoodcutter_flavour": "Les bûcherons façonnent le bois en décorations festives et outils robustes, leurs mains occupées à créer des merveilles pour la saison.",
+    "buildersQuarters_name": "Quartiers du constructeur",
+    "buildersQuarters_short_info": "Débloque un emplacement de construction.",
+    "buildersQuarters_slot_number": "Emplacements de construction supplémentaires dans ce château",
+    "dialog_crane_slot_number": "Emplacements supplémentaires dans cette file dattente de château"
   },
   "dialogs": {
     "dialog_festival_desc": "Utilisez de la nourriture pour organiser une fête pour vos villageois ! Tant que la fête durera, la vitesse de recrutement sera considérablement augmentée dans tous vos châteaux. Plus la fête est grande, plus son effet est important.",
@@ -3148,7 +3152,6 @@
     "dialog_pointEvent_eventEnd_title": "Concours de noblesse terminé",
     "dialog_pointEvent_eventEnd_copy": "Le temps est écoulé et le concours de noblesse est terminé. Vous avez gagné {0} points de noblesse pendant le concours et avez atteint la place {1} dans le classement. Investissez-vous plus lors du prochain concours et vous décrocherez assurément la récompense royale !",
     "crane_short_info": "Vous permet de planifier un bâtiment supplémentaire dans ce château.",
-    "dialog_crane_slot_number": "Emplacements de construction supplémentaires dans ce château",
     "dialog_ressources_productivity": "Productivité due à la chasse",
     "dialog_festival_fourthEvent": "Banquet aristocrate",
     "dialog_ExplainLootDungeon": "Pour piller des ressources, vous devez attaquer des forteresses ennemies.",
@@ -12559,7 +12562,10 @@
     "webshop_snowglobecarrots_huge_name": "Immenses provisions de boule à neige",
     "webshop_snowglobecarrots_large_name": "Grandes provisions de boule à neige",
     "webshop_snowglobecarrots_medium_name": "Provisions de boule à neige moyenne",
-    "webshop_snowglobecarrots_small_name": "Petites provisions de boule à neige"
+    "webshop_snowglobecarrots_small_name": "Petites provisions de boule à neige",
+    "tooltip_rankingGlobal_combined": "Le classement affichera lalliance à laquelle vous apparteniez lorsque vous avez rejoint lévénement, avec des points gagnés grâce à la Piste de lArchitecte.",
+    "sorting_buildingLevel_ascending_tooltip": "Trier par : Niveau de bâtiment croissant",
+    "sorting_buildingLevel_descending_tooltip": "Trier par : Niveau du bâtiment décroissant"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% de force dans la cour lors de lattaque",

@@ -2050,7 +2050,11 @@
     "deco_ExaltedPurpleChristmasPyramid_name": "Ylevä purppurainen joulupyramidi",
     "deco_ExaltedRedChristmasStall_name": "Ylevä punainen joulukioski",
     "ci_appearance_christmasWoodcutter": "Pyhäinjäännösmetsuri",
-    "ci_appearance_christmasWoodcutter_flavour": "Puunkatkaisijat muotoilevat puuta juhlaviin koristeisiin ja kestäviin työkaluihin, heidän kädet ovat kiireisiä luomassa ihmeitä kauden aikana."
+    "ci_appearance_christmasWoodcutter_flavour": "Puunkatkaisijat muotoilevat puuta juhlaviin koristeisiin ja kestäviin työkaluihin, heidän kädet ovat kiireisiä luomassa ihmeitä kauden aikana.",
+    "buildersQuarters_name": "Rakentajan asunnot",
+    "buildersQuarters_short_info": "Avaa rakennuspaikan.",
+    "buildersQuarters_slot_number": "Lisärakennuspaikkoja tässä linnassa",
+    "dialog_crane_slot_number": "Lisäjonoslotit tässä linnassa"
   },
   "dialogs": {
     "dialog_festival_desc": "Järjestä kansalaisillesi kestit ruokaa käyttämällä! Värväys nopeutuu kaikissa linnoissasi huomattavasti, niin kauan kuin kestit jatkuvat. Mitä isommat kestit järjestät, sitä suurempi niiden vaikutus on.",
@@ -3148,7 +3152,6 @@
     "dialog_pointEvent_eventEnd_title": "Aateliskisa päättyi",
     "dialog_pointEvent_eventEnd_copy": "Aika loppui ja aateliskisa päättyi. Voitit kisassa {0} aatelispistettä ja saavutit sijoituksissa {1}. sijan. Yritä kovempaa seuraavassa kisassa, niin saat varmasti kuninkaallisen palkinnon!",
     "crane_short_info": "Sallii sinun jonottaa ylimääräinen rakennus tähän linnaan.",
-    "dialog_crane_slot_number": "Tässä linnassa on lisää rakennuspaikkoja",
     "dialog_ressources_productivity": "Tuottavuus metsästyksestä",
     "dialog_festival_fourthEvent": "Ylimyksen juhla-ateria",
     "dialog_ExplainLootDungeon": "Resursseja ryöstääksesi sinun täytyy hyökätä vihollisten linnoihin.",
@@ -12559,7 +12562,10 @@
     "webshop_snowglobecarrots_huge_name": "Suuret lumipallo-varusteet",
     "webshop_snowglobecarrots_large_name": "Suuret lumipallo-varastot",
     "webshop_snowglobecarrots_medium_name": "Keskikokoiset lumipallon tarvikkeet",
-    "webshop_snowglobecarrots_small_name": "Pienet lumipallo-varastot"
+    "webshop_snowglobecarrots_small_name": "Pienet lumipallo-varastot",
+    "tooltip_rankingGlobal_combined": "Ranking näyttää liittouman, johon kuuluitte liittyessänne tapahtumaan, sekä pisteet, jotka saatiin Arkkitehtiradalta.",
+    "sorting_buildingLevel_ascending_tooltip": "Lajittele: Rakennustaso nousevasti",
+    "sorting_buildingLevel_descending_tooltip": "Lajittele: Rakennustaso laskeva"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% voimaa pihalla hyökätessä",

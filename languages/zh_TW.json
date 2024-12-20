@@ -2050,7 +2050,11 @@
     "deco_ExaltedPurpleChristmasPyramid_name": "崇高的紫色聖誕金字塔",
     "deco_ExaltedRedChristmasStall_name": "崇高的紅色聖誕攤位",
     "ci_appearance_christmasWoodcutter": "聖物伐木工",
-    "ci_appearance_christmasWoodcutter_flavour": "伐木工將木材塑造成節日裝飾和堅固的工具，他們的手忙於為這個季節創造奇蹟。"
+    "ci_appearance_christmasWoodcutter_flavour": "伐木工將木材塑造成節日裝飾和堅固的工具，他們的手忙於為這個季節創造奇蹟。",
+    "buildersQuarters_name": "建築工人的宿舍",
+    "buildersQuarters_short_info": "解鎖一個建設插槽。",
+    "buildersQuarters_slot_number": "此城堡中的額外建設槽",
+    "dialog_crane_slot_number": "這座城堡中的額外隊列插槽"
   },
   "dialogs": {
     "dialog_festival_desc": "用食物幫你的居民舉辦一場盛宴吧！在盛宴期間，你所有城堡的招募速度會大幅提高。宴會越大，效果越好。",
@@ -3148,7 +3152,6 @@
     "dialog_pointEvent_eventEnd_title": "貴族競賽結束",
     "dialog_pointEvent_eventEnd_copy": "貴族競賽的活動時間已經結束，你在比賽裡贏得了 {0} 貴族得分並贏得排行榜中的第 {1} 名。下次再努力一點，你肯定可以贏得皇家獎勵的！",
     "crane_short_info": "允許您在這座城堡中排隊一個額外的建築。",
-    "dialog_crane_slot_number": "這個城堡的額外建造欄位",
     "dialog_ressources_productivity": "狩獵的生產力",
     "dialog_festival_fourthEvent": "貴族宴會",
     "dialog_ExplainLootDungeon": "要劫掠資源，你必須進攻敵方堡壘。",
@@ -12559,7 +12562,10 @@
     "webshop_snowglobecarrots_huge_name": "巨型雪球物資",
     "webshop_snowglobecarrots_large_name": "大型雪景球物資",
     "webshop_snowglobecarrots_medium_name": "中型雪球用品",
-    "webshop_snowglobecarrots_small_name": "小雪球物資"
+    "webshop_snowglobecarrots_small_name": "小雪球物資",
+    "tooltip_rankingGlobal_combined": "排名將顯示您加入活動時所屬的聯盟，以及從建築師路徑獲得的積分。",
+    "sorting_buildingLevel_ascending_tooltip": "排序：建築等級升序",
+    "sorting_buildingLevel_descending_tooltip": "排序：建築等級遞減"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% 的庭院攻擊強度",

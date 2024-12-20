@@ -2050,7 +2050,11 @@
     "deco_ExaltedPurpleChristmasPyramid_name": "Wzniosła purpurowa piramida świąteczna",
     "deco_ExaltedRedChristmasStall_name": "Wzniosły czerwony bożonarodzeniowy stragan",
     "ci_appearance_christmasWoodcutter": "Bożonarodzeniowy Drwal sprzed Wieków",
-    "ci_appearance_christmasWoodcutter_flavour": "Drwale formują drewno w świąteczne dekoracje i solidne narzędzia, a ich ręce są zajęte tworzeniem cudów na ten sezon."
+    "ci_appearance_christmasWoodcutter_flavour": "Drwale formują drewno w świąteczne dekoracje i solidne narzędzia, a ich ręce są zajęte tworzeniem cudów na ten sezon.",
+    "buildersQuarters_name": "Kwatera budowniczego",
+    "buildersQuarters_short_info": "Odblokowuje slot budowy.",
+    "buildersQuarters_slot_number": "Dodatkowe miejsca budowy w tym zamku",
+    "dialog_crane_slot_number": "Dodatkowe miejsca w kolejce w tym zamku"
   },
   "dialogs": {
     "dialog_festival_desc": "Użyj jedzenia, aby zorganizować święto dla Twoich obywateli! Szybkość rekrutacji znacznie będzie rosła we wszystkich twoich zamkach przez czas obchodów święta. Im większe święto, tym większe efekty.",
@@ -3148,7 +3152,6 @@
     "dialog_pointEvent_eventEnd_title": "Koniec konkursu szlachectwa",
     "dialog_pointEvent_eventEnd_copy": "Czas konkursu szlachectwa dobiegł końca. Zdobyta przez ciebie liczba punktów szlachectwa: {0}. Zajmujesz {1} miejsce w rankingu. Następnym razem bardziej się postaraj, a królewska nagroda na pewno do ciebie trafi!",
     "crane_short_info": "Pozwala na dodanie dodatkowego budynku w tym zamku.",
-    "dialog_crane_slot_number": "Dodatkowe pola budowy w zamku",
     "dialog_ressources_productivity": "Produkcja z polowania",
     "dialog_festival_fourthEvent": "Bankiet dla arystokracji",
     "dialog_ExplainLootDungeon": "Aby plądrować zasoby, musisz atakować na wrogie fortece.",
@@ -12559,7 +12562,10 @@
     "webshop_snowglobecarrots_huge_name": "Ogromne zapasy kuli śnieżnej",
     "webshop_snowglobecarrots_large_name": "Duże zapasy śnieżnej kuli",
     "webshop_snowglobecarrots_medium_name": "Średnie zapasy kuli śnieżnej",
-    "webshop_snowglobecarrots_small_name": "Małe zasoby śnieżnej kuli"
+    "webshop_snowglobecarrots_small_name": "Małe zasoby śnieżnej kuli",
+    "tooltip_rankingGlobal_combined": "Ranking wyświetli sojusz, do którego należałeś, gdy dołączyłeś do wydarzenia, z punktami zdobytymi z ścieżki architekta.",
+    "sorting_buildingLevel_ascending_tooltip": "Sortuj według: Poziom budynku rosnąco",
+    "sorting_buildingLevel_descending_tooltip": "Sortuj według: Poziom budynku malejąco"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% siły na dziedzińcu podczas ataku",

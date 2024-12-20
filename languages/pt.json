@@ -2050,7 +2050,11 @@
     "deco_ExaltedPurpleChristmasPyramid_name": "Pirâmide natalina roxa exaltada",
     "deco_ExaltedRedChristmasStall_name": "Estande de Natal vermelho exaltado",
     "ci_appearance_christmasWoodcutter": "Madeireiro relíquia",
-    "ci_appearance_christmasWoodcutter_flavour": "Os madeireiros moldam a madeira em decorações festivas e ferramentas robustas, suas mãos ocupadas criando maravilhas para a temporada."
+    "ci_appearance_christmasWoodcutter_flavour": "Os madeireiros moldam a madeira em decorações festivas e ferramentas robustas, suas mãos ocupadas criando maravilhas para a temporada.",
+    "buildersQuarters_name": "Alojamento do construtor",
+    "buildersQuarters_short_info": "Desbloqueia um espaço de construção.",
+    "buildersQuarters_slot_number": "Slots de construção extras neste castelo",
+    "dialog_crane_slot_number": "Slots de fila extras neste castelo"
   },
   "dialogs": {
     "dialog_festival_desc": "Use comida para organizar um banquete para os cidadãos! A velocidade de recrutamento aumentará consideravelmente em todos os seus castelos durante o banquete. Quanto maior o banquete, maior o efeito.",
@@ -3148,7 +3152,6 @@
     "dialog_pointEvent_eventEnd_title": "Concurso de nobreza encerrado",
     "dialog_pointEvent_eventEnd_copy": "O prazo se esgotou e o concurso de nobreza terminou. Você ganhou {0} pontos de nobreza e chegou ao {1}º lugar na classificação. No próximo concurso, esforce-se mais para receber a recompensa real!",
     "crane_short_info": "Permite que você coloque um edifício adicional em fila neste castelo.",
-    "dialog_crane_slot_number": "Slots de construção adicionais no castelo",
     "dialog_ressources_productivity": "Produtividade da caça",
     "dialog_festival_fourthEvent": "Banquete aristocrático",
     "dialog_ExplainLootDungeon": "Para saquear recursos, você deve atacar fortalezas inimigas.",
@@ -12559,7 +12562,10 @@
     "webshop_snowglobecarrots_huge_name": "Grandes suprimentos de globo de neve",
     "webshop_snowglobecarrots_large_name": "Grandes suprimentos de globo de neve",
     "webshop_snowglobecarrots_medium_name": "Suprimentos de bola de neve média",
-    "webshop_snowglobecarrots_small_name": "Pequenos suprimentos de globo de neve"
+    "webshop_snowglobecarrots_small_name": "Pequenos suprimentos de globo de neve",
+    "tooltip_rankingGlobal_combined": "O ranking exibirá a aliança da qual você fez parte quando se juntou ao evento, com pontos ganhos na Trilha do Arquiteto.",
+    "sorting_buildingLevel_ascending_tooltip": "Ordenar por: Nível de construção crescente",
+    "sorting_buildingLevel_descending_tooltip": "Ordenar por: Nível do edifício em ordem decrescente"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% de força no pátio ao atacar",
