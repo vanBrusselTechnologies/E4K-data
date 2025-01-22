@@ -2322,6 +2322,7 @@ export interface Language {
         "btn_send": string;
         "btn_writeNewMessage_blocked_dailyLimit": string;
         "btn_writeNewMessage_blocked_lowLevel": string;
+        "buildingType": string;
         "building_level_undecided": string;
         "bundlePackage_short_info": string;
         "bundlePackage_type_equipmentBundle": string;
@@ -4411,6 +4412,7 @@ export interface Language {
         "dialog_collecttaxstatus_get": string;
         "dialog_collecttaxstatus_getInstant": string;
         "dialog_collecttaxstatus_timeToGet": string;
+        "dialog_combinedReward_header": string;
         "dialog_combinedRewards_claim": string;
         "dialog_combinedRewards_copy": string;
         "dialog_combinedRewards_eventEnded": string;
@@ -4858,6 +4860,7 @@ export interface Language {
         "dialog_eventEndDonationEvent_Reached": string;
         "dialog_eventEndDonationEvent_desc": string;
         "dialog_eventEndDonationEvent_title": string;
+        "dialog_eventEndLTPE_desc": string;
         "dialog_eventHub_empty": string;
         "dialog_eventHub_title": string;
         "dialog_eventKing_desc": string;
@@ -8439,7 +8442,7 @@ export interface Language {
         "dialog_siegeMessage_factionEnemy": string;
         "dialog_siegeMessage_factionOwn": string;
         "dialog_siegeMessage_monumentConquered": string;
-        "dialog_siegeMessage_outpostConquered": string;
+        "dialog_siegeMessage_outpostConquered": string[];
         "dialog_siegeMessage_outpostConqueredDistrict": string;
         "dialog_siegeMessage_outpostConqueredDistrict_header": string;
         "dialog_siegeMessage_resourceIslandConquered": string;
@@ -9591,6 +9594,7 @@ export interface Language {
         "event_title_103": string;
         "event_title_116": string;
         "event_title_12": string;
+        "event_title_123": string;
         "event_title_127": string;
         "event_title_13": string;
         "event_title_14": string;
@@ -9645,6 +9649,7 @@ export interface Language {
         "event_title_92": string;
         "event_title_94": string;
         "event_title_97": string;
+        "eventend_rewards_generic": string;
         "expansion_blocked_legendTemple": string;
         "facebook_connectOption": string;
         "facebook_gameRequest_giftSending_desc": string;
@@ -9672,12 +9677,16 @@ export interface Language {
         "fameBoost_package_hours_singular": string;
         "fameBoost_package_minutes_plural": string;
         "filter_decoType_all": string;
+        "filter_decoType_districts": string;
+        "filter_decoType_effect": string;
         "filter_decoType_onlyLocals": string;
         "filter_decoType_onlyRelics": string;
         "filter_decoType_onlyWithEffects": string;
         "filter_decoType_others": string;
+        "filter_decoType_othersDeco": string;
         "filter_decoType_sources": string;
         "filter_decoType_targets": string;
+        "filter_decoType_unique": string;
         "filter_gridSize_all": string;
         "filter_gridSize_custom": string;
         "filters_subfilter_88": string;
@@ -10392,6 +10401,7 @@ export interface Language {
         "kingdom_island_village_countdown_copy": string;
         "kingdom_island_village_desc": string;
         "kingdom_island_village_sinking_copy": string;
+        "kingsBanner_info": string;
         "kingstower_unitWarningQuestion_Maya": string;
         "largekhantabletchest_name": string;
         "largesamuraitokenchest_name": string;
@@ -10962,9 +10972,11 @@ export interface Language {
         "rankingRange_single": string;
         "ranking_TopX_alliance": string;
         "ranking_best_alliance": string;
+        "ranking_calculating": string;
         "ranking_description_ChristmasGacha": string;
         "ranking_description_DonationEvent": string;
         "ranking_description_GachaDeco2x2": string;
+        "ranking_description_LTPE": string;
         "ranking_rewardPoints_alliance": string;
         "reachedResearchMax": string;
         "recharge": string;
@@ -11106,6 +11118,7 @@ export interface Language {
         "research_skip": string;
         "research_start": string;
         "reviveAll": string;
+        "rewardHubRankingInfo": string;
         "rewardPass_condition_durationSeasonEnd_desc": string;
         "rewardPass_condition_toNextPromotion_desc": string;
         "rewardPass_condition_topPromotion_desc": string;
@@ -11209,6 +11222,8 @@ export interface Language {
         "shapeshifterrangedjoker_short_info": string;
         "shop_limitedPackage_plural": string;
         "shop_limitedPackage_singular": string;
+        "siegeMessage_outpostcaptured_buildingstatus": string;
+        "siegeMessage_outpostlost_buildingstatus": string;
         "skeletalhunter_name": string;
         "skeletalhunter_short_info": string;
         "skeletalscytheman_name": string;
@@ -12394,6 +12409,7 @@ export interface Language {
         "webshop_offer_dailyBundle_summerHoliday_desc": string;
         "webshop_offer_dailyBundle_title": string;
         "webshop_offer_dailyBundle_valentines_desc": string;
+        "webshop_offer_dailyBundle_wintertime_desc": string;
         "webshop_offer_dailyBundle_yourOrderSummary": string;
         "webshop_offer_growthpackage_claimNow": string;
         "webshop_offer_growthpackage_cond_2": string;
@@ -14991,6 +15007,18 @@ export interface Language {
         "equipment_unique_1208_desc": string;
         "equipment_unique_1209": string;
         "equipment_unique_1209_desc": string;
+        "equipment_unique_1210": string;
+        "equipment_unique_1210_desc": string;
+        "equipment_unique_1211": string;
+        "equipment_unique_1211_desc": string;
+        "equipment_unique_1212": string;
+        "equipment_unique_1212_desc": string;
+        "equipment_unique_1213": string;
+        "equipment_unique_1213_desc": string;
+        "equipment_unique_1214": string;
+        "equipment_unique_1214_desc": string;
+        "equipment_unique_1215": string;
+        "equipment_unique_1215_desc": string;
         "equipment_unique_12_desc": string;
         "equipment_unique_13": string;
         "equipment_unique_13_desc": string;

@@ -5134,6 +5134,51 @@
       "costImperialDucat": 200,
       "activationTime": 1036800,
       "effects": "46&amp;556,84&amp;555"
+    },
+    {
+      "skillID": 434,
+      "crossplayID": 434,
+      "requiredSkillIDs": 391,
+      "skillGroupID": 68,
+      "level": 1,
+      "skillTreeID": 7,
+      "tier": 6,
+      "sortOrder": 761,
+      "requiredBuildings": 2543,
+      "requiredLegendLevel": 950,
+      "costImperialDucat": 900,
+      "activationTime": 2073600,
+      "effects": "180&amp;3182"
+    },
+    {
+      "skillID": 444,
+      "crossplayID": 444,
+      "requiredSkillIDs": 434,
+      "skillGroupID": 69,
+      "level": 1,
+      "skillTreeID": 7,
+      "tier": 6,
+      "sortOrder": 762,
+      "requiredBuildings": 2545,
+      "requiredLegendLevel": 950,
+      "costImperialDucat": 900,
+      "activationTime": 2073600,
+      "effects": "180&amp;3183"
+    },
+    {
+      "skillID": 445,
+      "crossplayID": 445,
+      "requiredSkillIDs": 434,
+      "skillGroupID": 70,
+      "level": 1,
+      "skillTreeID": 7,
+      "tier": 6,
+      "sortOrder": 763,
+      "requiredBuildings": 2549,
+      "requiredLegendLevel": 950,
+      "costImperialDucat": 900,
+      "activationTime": 2073600,
+      "effects": "180&amp;3181"
     }
   ]
 }

@@ -3495,7 +3495,6 @@ export interface Unit {
     "healingOrder"?: number;
     "healingTime"?: number;
     "hybrid"?: number;
-    "inventoryType"?: number;
     "isAuxiliary"?: number;
     "isKamikaze"?: number;
     "isYardTool"?: number;
