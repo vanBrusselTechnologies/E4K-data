@@ -45443,6 +45443,471 @@
     ],
     "fx": []
   },
+  "General_Alice_Arm_Left": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Alice/General_Alice_Arm_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 132,
+        "h": 146,
+        "rx": 935,
+        "ry": 926
+      }
+    ],
+    "fx": []
+  },
+  "General_Alice_Arm_Right": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Alice/General_Alice_Arm_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 75,
+        "h": 168,
+        "rx": 983,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "General_Alice_Bag_Holder_Right": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Alice/General_Alice_Bag_Holder_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 104,
+        "rx": 991,
+        "ry": 948
+      }
+    ],
+    "fx": []
+  },
+  "General_Alice_Bag_Holder": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Alice/General_Alice_Bag_Holder.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 92,
+        "h": 203,
+        "rx": 954,
+        "ry": 898
+      }
+    ],
+    "fx": []
+  },
+  "General_Alice_Bag": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Alice/General_Alice_Bag.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 346,
+        "h": 346,
+        "rx": 827,
+        "ry": 823
+      }
+    ],
+    "fx": []
+  },
+  "General_Alice_Belt": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Alice/General_Alice_Belt.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 132,
+        "h": 211,
+        "rx": 934,
+        "ry": 894
+      }
+    ],
+    "fx": []
+  },
+  "General_Alice_Face": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Alice/General_Alice_Face.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 205,
+        "rx": 912,
+        "ry": 897
+      }
+    ],
+    "fx": []
+  },
+  "General_Alice_Feet": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Alice/General_Alice_Feet.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 194,
+        "h": 141,
+        "rx": 903,
+        "ry": 929
+      }
+    ],
+    "fx": []
+  },
+  "General_Alice_Forearm_Left": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Alice/General_Alice_Forearm_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 106,
+        "h": 124,
+        "rx": 947,
+        "ry": 942
+      }
+    ],
+    "fx": []
+  },
+  "General_Alice_Forearm_Right": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Alice/General_Alice_Forearm_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 116,
+        "h": 136,
+        "rx": 982,
+        "ry": 876
+      }
+    ],
+    "fx": []
+  },
+  "General_Alice_Hair": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Alice/General_Alice_Hair.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 81,
+        "h": 118,
+        "rx": 959,
+        "ry": 941
+      }
+    ],
+    "fx": []
+  },
+  "General_Alice_Hand_Left": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Alice/General_Alice_Hand_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 81,
+        "rx": 945,
+        "ry": 954
+      }
+    ],
+    "fx": []
+  },
+  "General_Alice_Hand_Right": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Alice/General_Alice_Hand_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 74,
+        "rx": 972,
+        "ry": 963
+      }
+    ],
+    "fx": []
+  },
+  "General_Alice_Hips_Back_Left": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Alice/General_Alice_Hips_Back_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 80,
+        "h": 61,
+        "rx": 873,
+        "ry": 998
+      }
+    ],
+    "fx": []
+  },
+  "General_Alice_Hips_Back_Right": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Alice/General_Alice_Hips_Back_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 75,
+        "h": 118,
+        "rx": 1052,
+        "ry": 940
+      }
+    ],
+    "fx": []
+  },
+  "General_Alice_Hips_Left": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Alice/General_Alice_Hips_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 210,
+        "rx": 873,
+        "ry": 896
+      }
+    ],
+    "fx": []
+  },
+  "General_Alice_Hips_Right": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Alice/General_Alice_Hips_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 98,
+        "h": 208,
+        "rx": 1029,
+        "ry": 893
+      }
+    ],
+    "fx": []
+  },
+  "General_Alice_Legs": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Alice/General_Alice_Legs.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 255,
+        "rx": 935,
+        "ry": 872
+      }
+    ],
+    "fx": []
+  },
+  "General_Alice_Medal": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Alice/General_Alice_Medal.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 88,
+        "h": 141,
+        "rx": 956,
+        "ry": 929
+      }
+    ],
+    "fx": []
+  },
+  "General_Alice_Neck": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Alice/General_Alice_Neck.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 102,
+        "rx": 945,
+        "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "General_Alice_Pan": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Alice/General_Alice_Pan.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 191,
+        "h": 268,
+        "rx": 905,
+        "ry": 859
+      }
+    ],
+    "fx": []
+  },
+  "General_Alice_Pants": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Alice/General_Alice_Pants.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 229,
+        "h": 457,
+        "rx": 882,
+        "ry": 782
+      }
+    ],
+    "fx": []
+  },
+  "General_Alice_Paper_Bag": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Alice/General_Alice_Paper_Bag.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 288,
+        "h": 219,
+        "rx": 856,
+        "ry": 890
+      }
+    ],
+    "fx": []
+  },
+  "General_Alice_Scarf": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Alice/General_Alice_Scarf.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 212,
+        "h": 167,
+        "rx": 894,
+        "ry": 915
+      }
+    ],
+    "fx": []
+  },
+  "General_Alice_Shadow": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Alice/General_Alice_Shadow.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 339,
+        "h": 36,
+        "rx": 830,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "General_Alice_Shoulder_Left": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Alice/General_Alice_Shoulder_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 62,
+        "h": 52,
+        "rx": 969,
+        "ry": 974
+      }
+    ],
+    "fx": []
+  },
+  "General_Alice_Shoulder_Right": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Alice/General_Alice_Shoulder_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 36,
+        "h": 57,
+        "rx": 982,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "General_Alice_Stick": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Alice/General_Alice_Stick.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 68,
+        "h": 1021,
+        "rx": 966,
+        "ry": 489
+      }
+    ],
+    "fx": []
+  },
+  "General_Alice_Tools": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Alice/General_Alice_Tools.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 104,
+        "h": 258,
+        "rx": 948,
+        "ry": 871
+      }
+    ],
+    "fx": []
+  },
+  "General_Alice_Torso": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Alice/General_Alice_Torso.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 236,
+        "rx": 905,
+        "ry": 877
+      }
+    ],
+    "fx": []
+  },
+  "General_Alice_Waist": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Alice/General_Alice_Waist.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 104,
+        "rx": 919,
+        "ry": 855
+      }
+    ],
+    "fx": []
+  },
   "General_Alien_Arm_Left": {
     "pid": 1,
     "url": "x768/Characters/Generals/General_Alien/General_Alien_Arm_Left.png",
@@ -49613,6 +50078,1206 @@
     ],
     "fx": []
   },
+  "General_Tizi_Arm_Left": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Arm_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 163,
+        "h": 114,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Arm_Right": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Arm_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 107,
+        "h": 173,
+        "rx": 924,
+        "ry": 981
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Belt": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Belt.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 281,
+        "h": 154,
+        "rx": 859,
+        "ry": 923
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Chest": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Chest.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 241,
+        "h": 323,
+        "rx": 879,
+        "ry": 838
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Crown_Back": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Crown_Back.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 447,
+        "h": 337,
+        "rx": 776,
+        "ry": 831
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Crown_Center": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Crown_Center.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 149,
+        "h": 183,
+        "rx": 925,
+        "ry": 908
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Ears": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Ears.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 137,
+        "h": 159,
+        "rx": 931,
+        "ry": 920
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Fabric": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Fabric.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 104,
+        "h": 549,
+        "rx": 948,
+        "ry": 725
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Face": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Face.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 115,
+        "h": 146,
+        "rx": 942,
+        "ry": 927
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Feather_1": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Feather_1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 56,
+        "h": 274,
+        "rx": 981,
+        "ry": 989
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Feather_2": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Feather_2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 232,
+        "rx": 956,
+        "ry": 991
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Feather_3": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Feather_3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 44,
+        "h": 190,
+        "rx": 970,
+        "ry": 995
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Feathers": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Feathers.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 507,
+        "h": 324,
+        "rx": 746,
+        "ry": 838
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Foot_Left": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Foot_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 91,
+        "h": 126,
+        "rx": 954,
+        "ry": 937
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Foot_Right": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Foot_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 108,
+        "h": 95,
+        "rx": 946,
+        "ry": 952
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Forearm_Left": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Forearm_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 179,
+        "h": 108,
+        "rx": 982,
+        "ry": 919
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Forearm_Right": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Forearm_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 177,
+        "rx": 974,
+        "ry": 840
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Hair": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Hair.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 181,
+        "h": 405,
+        "rx": 909,
+        "ry": 797
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Hand_Left_Back": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Hand_Left_Back.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 117,
+        "rx": 973,
+        "ry": 941
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Hand_Left_Front": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Hand_Left_Front.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 123,
+        "rx": 977,
+        "ry": 938
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Hand_Right_Back": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Hand_Right_Back.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 96,
+        "rx": 961,
+        "ry": 952
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Hand_Right_Top": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Hand_Right_Top.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 73,
+        "h": 126,
+        "rx": 963,
+        "ry": 937
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Hips_Left": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Hips_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 209,
+        "rx": 947,
+        "ry": 895
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Hips_Right": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Hips_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 31,
+        "h": 177,
+        "rx": 984,
+        "ry": 911
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Leg_Left": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Leg_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 147,
+        "h": 653,
+        "rx": 926,
+        "ry": 673
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Leg_Right": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Leg_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 151,
+        "h": 672,
+        "rx": 924,
+        "ry": 664
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Neck": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Neck.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 107,
+        "h": 127,
+        "rx": 946,
+        "ry": 936
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Necklace_Left": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Necklace_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 71,
+        "h": 75,
+        "rx": 988,
+        "ry": 936
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Necklace_Right": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Necklace_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 41,
+        "h": 77,
+        "rx": 979,
+        "ry": 932
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Ornament_Gold_Left": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Ornament_Gold_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 43,
+        "h": 71,
+        "rx": 977,
+        "ry": 993
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Ornament_Gold_Right": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Ornament_Gold_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 43,
+        "h": 72,
+        "rx": 979,
+        "ry": 992
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Ornament_Green_Left": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Ornament_Green_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 42,
+        "h": 71,
+        "rx": 978,
+        "ry": 993
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Ornament_Green_Right": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Ornament_Green_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 43,
+        "h": 72,
+        "rx": 979,
+        "ry": 992
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Ring_Gold_Left": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Ring_Gold_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 15,
+        "h": 33,
+        "rx": 992,
+        "ry": 996
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Ring_Gold_Right": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Ring_Gold_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 15,
+        "h": 33,
+        "rx": 992,
+        "ry": 995
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Ring_Green_Left": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Ring_Green_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 13,
+        "h": 36,
+        "rx": 993,
+        "ry": 996
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Ring_Green_Right": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Ring_Green_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 13,
+        "h": 35,
+        "rx": 993,
+        "ry": 997
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Ring": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Ring.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 91,
+        "h": 251,
+        "rx": 954,
+        "ry": 874
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Scepter": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Scepter.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 353,
+        "rx": 912,
+        "ry": 823
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Shadow": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Shadow.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 533,
+        "h": 91,
+        "rx": 733,
+        "ry": 954
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Shoulder_Left": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Shoulder_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 157,
+        "h": 111,
+        "rx": 921,
+        "ry": 944
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Shoulder_Right": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Shoulder_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 121,
+        "rx": 952,
+        "ry": 939
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Skirt_Back": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Skirt_Back.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 219,
+        "h": 595,
+        "rx": 890,
+        "ry": 702
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Skirt_Left": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Skirt_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 273,
+        "h": 759,
+        "rx": 863,
+        "ry": 620
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Skirt_Right": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Skirt_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 197,
+        "h": 793,
+        "rx": 901,
+        "ry": 603
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Skirt_Top": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Skirt_Top.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 217,
+        "h": 96,
+        "rx": 891,
+        "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Stick": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Stick.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 276,
+        "h": 969,
+        "rx": 735,
+        "ry": 45
+      }
+    ],
+    "fx": []
+  },
+  "General_Tizi_Wrap_Back": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tizi/General_Tizi_Wrap_Back.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 145,
+        "h": 178,
+        "rx": 927,
+        "ry": 911
+      }
+    ],
+    "fx": []
+  },
+  "General_Tom_Arm_Left": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tom/General_Tom_Arm_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 215,
+        "rx": 936,
+        "ry": 816
+      }
+    ],
+    "fx": []
+  },
+  "General_Tom_Arm_Right": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tom/General_Tom_Arm_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 119,
+        "h": 115,
+        "rx": 930,
+        "ry": 942
+      }
+    ],
+    "fx": []
+  },
+  "General_Tom_Belt_1": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tom/General_Tom_Belt_1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 233,
+        "h": 147,
+        "rx": 883,
+        "ry": 926
+      }
+    ],
+    "fx": []
+  },
+  "General_Tom_Belt_2": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tom/General_Tom_Belt_2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 240,
+        "h": 113,
+        "rx": 880,
+        "ry": 943
+      }
+    ],
+    "fx": []
+  },
+  "General_Tom_Belt": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tom/General_Tom_Belt.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 197,
+        "h": 68,
+        "rx": 901,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
+  "General_Tom_Big_Bag": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tom/General_Tom_Big_Bag.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 165,
+        "h": 316,
+        "rx": 917,
+        "ry": 842
+      }
+    ],
+    "fx": []
+  },
+  "General_Tom_Big_Belt": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tom/General_Tom_Big_Belt.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 178,
+        "rx": 982,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "General_Tom_Blanket": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tom/General_Tom_Blanket.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 358,
+        "h": 155,
+        "rx": 821,
+        "ry": 922
+      }
+    ],
+    "fx": []
+  },
+  "General_Tom_Boots": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tom/General_Tom_Boots.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 499,
+        "h": 376,
+        "rx": 750,
+        "ry": 812
+      }
+    ],
+    "fx": []
+  },
+  "General_Tom_Box": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tom/General_Tom_Box.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 303,
+        "h": 220,
+        "rx": 848,
+        "ry": 890
+      }
+    ],
+    "fx": []
+  },
+  "General_Tom_Buckle": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tom/General_Tom_Buckle.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 28,
+        "h": 86,
+        "rx": 986,
+        "ry": 988
+      }
+    ],
+    "fx": []
+  },
+  "General_Tom_Chest": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tom/General_Tom_Chest.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 215,
+        "h": 217,
+        "rx": 892,
+        "ry": 891
+      }
+    ],
+    "fx": []
+  },
+  "General_Tom_Face": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tom/General_Tom_Face.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 235,
+        "rx": 907,
+        "ry": 882
+      }
+    ],
+    "fx": []
+  },
+  "General_Tom_Forarm_Left": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tom/General_Tom_Forarm_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 87,
+        "h": 119,
+        "rx": 956,
+        "ry": 940
+      }
+    ],
+    "fx": []
+  },
+  "General_Tom_Forarm_Right": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tom/General_Tom_Forarm_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 172,
+        "h": 96,
+        "rx": 999,
+        "ry": 952
+      }
+    ],
+    "fx": []
+  },
+  "General_Tom_Hand_Left": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tom/General_Tom_Hand_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 83,
+        "rx": 958,
+        "ry": 958
+      }
+    ],
+    "fx": []
+  },
+  "General_Tom_Hand_Right": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tom/General_Tom_Hand_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 86,
+        "rx": 961,
+        "ry": 957
+      }
+    ],
+    "fx": []
+  },
+  "General_Tom_Hang_Small_Belt": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tom/General_Tom_Hang_Small_Belt.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 29,
+        "h": 307,
+        "rx": 985,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Tom_Hang_Sword_1": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tom/General_Tom_Hang_Sword_1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 152,
+        "rx": 987,
+        "ry": 969
+      }
+    ],
+    "fx": []
+  },
+  "General_Tom_Hang_Sword_2": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tom/General_Tom_Hang_Sword_2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 137,
+        "h": 207,
+        "rx": 931,
+        "ry": 896
+      }
+    ],
+    "fx": []
+  },
+  "General_Tom_Hang_Sword_3": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tom/General_Tom_Hang_Sword_3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 37,
+        "h": 356,
+        "rx": 981,
+        "ry": 993
+      }
+    ],
+    "fx": []
+  },
+  "General_Tom_Hips": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tom/General_Tom_Hips.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 281,
+        "h": 383,
+        "rx": 859,
+        "ry": 808
+      }
+    ],
+    "fx": []
+  },
+  "General_Tom_Legs": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tom/General_Tom_Legs.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 283,
+        "h": 443,
+        "rx": 858,
+        "ry": 778
+      }
+    ],
+    "fx": []
+  },
+  "General_Tom_Neck": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tom/General_Tom_Neck.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 259,
+        "h": 177,
+        "rx": 870,
+        "ry": 911
+      }
+    ],
+    "fx": []
+  },
+  "General_Tom_Necklace": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tom/General_Tom_Necklace.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 105,
+        "h": 167,
+        "rx": 947,
+        "ry": 916
+      }
+    ],
+    "fx": []
+  },
+  "General_Tom_Shoulder_Left": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tom/General_Tom_Shoulder_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 109,
+        "h": 201,
+        "rx": 945,
+        "ry": 899
+      }
+    ],
+    "fx": []
+  },
+  "General_Tom_Shoulder_Piece": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tom/General_Tom_Shoulder_Piece.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 335,
+        "h": 141,
+        "rx": 832,
+        "ry": 929
+      }
+    ],
+    "fx": []
+  },
+  "General_Tom_Shoulder_Right": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tom/General_Tom_Shoulder_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 167,
+        "rx": 950,
+        "ry": 916
+      }
+    ],
+    "fx": []
+  },
+  "General_Tom_Small_Bag": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tom/General_Tom_Small_Bag.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 89,
+        "h": 215,
+        "rx": 955,
+        "ry": 892
+      }
+    ],
+    "fx": []
+  },
+  "General_Tom_Smalll_Sword": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tom/General_Tom_Smalll_Sword.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 916,
+        "rx": 972,
+        "ry": 88
+      }
+    ],
+    "fx": []
+  },
+  "General_Tom_Stripe": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tom/General_Tom_Stripe.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 265,
+        "rx": 970,
+        "ry": 867
+      }
+    ],
+    "fx": []
+  },
+  "General_Tom_Sword": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Tom/General_Tom_Sword.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 233,
+        "h": 1000,
+        "rx": 863,
+        "ry": 0
+      }
+    ],
+    "fx": []
+  },
   "General_Toril_Arm_Left": {
     "pid": 1,
     "url": "x768/Characters/Generals/General_Toril/General_Toril_Arm_Left.png",
@@ -51083,6 +52748,21 @@
     ],
     "fx": []
   },
+  "Background_Generals_Overview_Alice": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Alice.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2421,
+        "h": 2433,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
   "Background_Generals_Overview_AlienGeneral": {
     "pid": 1,
     "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_AlienGeneral.png",
@@ -51308,6 +52988,21 @@
     ],
     "fx": []
   },
+  "Background_Generals_Overview_Preview_Hasan": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_Hasan.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2422,
+        "h": 2434,
+        "rx": 998,
+        "ry": 998
+      }
+    ],
+    "fx": []
+  },
   "Background_Generals_Overview_Preview_Horatio": {
     "pid": 1,
     "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_Horatio.png",
@@ -51423,6 +53118,21 @@
         "w": 2421,
         "h": 2433,
         "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Background_Generals_Overview_Preview_Tizi": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_Tizi.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2421,
+        "h": 2433,
+        "rx": 998,
         "ry": 999
       }
     ],
@@ -51572,6 +53282,36 @@
         "y": 0,
         "w": 2420,
         "h": 2432,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Background_Generals_Overview_Tizi": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Tizi.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2421,
+        "h": 2433,
+        "rx": 998,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Background_Generals_Overview_Tom": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Tom.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2420,
+        "h": 2433,
         "rx": 999,
         "ry": 999
       }
@@ -78920,22 +80660,22 @@
   },
   "icon_ci_effect_alien": {
     "pid": 0,
-    "url": "x768/Misc/CI_Icons/icon_ci_effect_alien.png",
+    "url": "x768/Icons/CI_Icons/icon_ci_effect_alien.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
-        "w": 119,
-        "h": 116,
-        "rx": 940,
-        "ry": 942
+        "w": 118,
+        "h": 115,
+        "rx": 941,
+        "ry": 943
       }
     ],
     "fx": []
   },
   "icon_ci_effect_anniversary": {
     "pid": 2,
-    "url": "x768/Misc/CI_Icons/icon_ci_effect_anniversary.png",
+    "url": "x768/Icons/CI_Icons/icon_ci_effect_anniversary.png",
     "frames": [
       {
         "x": 0,
@@ -78950,7 +80690,7 @@
   },
   "icon_ci_effect_autumn": {
     "pid": 2,
-    "url": "x768/Misc/CI_Icons/icon_ci_effect_autumn.png",
+    "url": "x768/Icons/CI_Icons/icon_ci_effect_autumn.png",
     "frames": [
       {
         "x": 0,
@@ -78980,7 +80720,7 @@
   },
   "icon_ci_effect_blackleague": {
     "pid": 2,
-    "url": "x768/Misc/CI_Icons/icon_ci_effect_blackleague.png",
+    "url": "x768/Icons/CI_Icons/icon_ci_effect_blackleague.png",
     "frames": [
       {
         "x": 0,
@@ -78995,7 +80735,7 @@
   },
   "icon_ci_effect_christmas": {
     "pid": 0,
-    "url": "x768/Misc/CI_Icons/icon_ci_effect_christmas.png",
+    "url": "x768/Icons/CI_Icons/icon_ci_effect_christmas.png",
     "frames": [
       {
         "x": 0,
@@ -79025,7 +80765,7 @@
   },
   "icon_ci_effect_easter": {
     "pid": 0,
-    "url": "x768/Misc/CI_Icons/icon_ci_effect_easter.png",
+    "url": "x768/Icons/CI_Icons/icon_ci_effect_easter.png",
     "frames": [
       {
         "x": 0,
@@ -79040,7 +80780,7 @@
   },
   "icon_ci_effect_elven": {
     "pid": 2,
-    "url": "x768/Misc/CI_Icons/icon_ci_effect_elven.png",
+    "url": "x768/Icons/CI_Icons/icon_ci_effect_elven.png",
     "frames": [
       {
         "x": 0,
@@ -79055,7 +80795,7 @@
   },
   "icon_ci_effect_goat": {
     "pid": 2,
-    "url": "x768/Misc/CI_Icons/icon_ci_effect_goat.png",
+    "url": "x768/Icons/CI_Icons/icon_ci_effect_goat.png",
     "frames": [
       {
         "x": 0,
@@ -79070,7 +80810,7 @@
   },
   "icon_ci_effect_granite": {
     "pid": 2,
-    "url": "x768/Misc/CI_Icons/icon_ci_effect_granite.png",
+    "url": "x768/Icons/CI_Icons/icon_ci_effect_granite.png",
     "frames": [
       {
         "x": 0,
@@ -79085,7 +80825,7 @@
   },
   "icon_ci_effect_halloween": {
     "pid": 2,
-    "url": "x768/Misc/CI_Icons/icon_ci_effect_halloween.png",
+    "url": "x768/Icons/CI_Icons/icon_ci_effect_halloween.png",
     "frames": [
       {
         "x": 0,
@@ -79115,7 +80855,7 @@
   },
   "icon_ci_effect_indian": {
     "pid": 0,
-    "url": "x768/Misc/CI_Icons/icon_ci_effect_indian.png",
+    "url": "x768/Icons/CI_Icons/icon_ci_effect_indian.png",
     "frames": [
       {
         "x": 0,
@@ -79130,7 +80870,7 @@
   },
   "icon_ci_effect_mayan": {
     "pid": 0,
-    "url": "x768/Misc/CI_Icons/icon_ci_effect_mayan.png",
+    "url": "x768/Icons/CI_Icons/icon_ci_effect_mayan.png",
     "frames": [
       {
         "x": 0,
@@ -79145,7 +80885,7 @@
   },
   "icon_ci_effect_nature": {
     "pid": 2,
-    "url": "x768/Misc/CI_Icons/icon_ci_effect_nature.png",
+    "url": "x768/Icons/CI_Icons/icon_ci_effect_nature.png",
     "frames": [
       {
         "x": 0,
@@ -79160,7 +80900,7 @@
   },
   "icon_ci_effect_newking": {
     "pid": 0,
-    "url": "x768/Misc/CI_Icons/icon_ci_effect_newking.png",
+    "url": "x768/Icons/CI_Icons/icon_ci_effect_newking.png",
     "frames": [
       {
         "x": 0,
@@ -79190,7 +80930,7 @@
   },
   "icon_ci_effect_octoberfest": {
     "pid": 0,
-    "url": "x768/Misc/CI_Icons/icon_ci_effect_octoberfest.png",
+    "url": "x768/Icons/CI_Icons/icon_ci_effect_octoberfest.png",
     "frames": [
       {
         "x": 0,
@@ -79205,7 +80945,7 @@
   },
   "icon_ci_effect_pirates": {
     "pid": 2,
-    "url": "x768/Misc/CI_Icons/icon_ci_effect_pirates.png",
+    "url": "x768/Icons/CI_Icons/icon_ci_effect_pirates.png",
     "frames": [
       {
         "x": 0,
@@ -79250,7 +80990,7 @@
   },
   "icon_ci_effect_spring": {
     "pid": 2,
-    "url": "x768/Misc/CI_Icons/icon_ci_effect_spring.png",
+    "url": "x768/Icons/CI_Icons/icon_ci_effect_spring.png",
     "frames": [
       {
         "x": 0,
@@ -79265,7 +81005,7 @@
   },
   "icon_ci_effect_stpatrick": {
     "pid": 0,
-    "url": "x768/Misc/CI_Icons/icon_ci_effect_stpatrick.png",
+    "url": "x768/Icons/CI_Icons/icon_ci_effect_stpatrick.png",
     "frames": [
       {
         "x": 0,
@@ -79280,7 +81020,7 @@
   },
   "icon_ci_effect_summer": {
     "pid": 2,
-    "url": "x768/Misc/CI_Icons/icon_ci_effect_summer.png",
+    "url": "x768/Icons/CI_Icons/icon_ci_effect_summer.png",
     "frames": [
       {
         "x": 0,
@@ -79310,22 +81050,22 @@
   },
   "icon_ci_effect_venicecarnival": {
     "pid": 0,
-    "url": "x768/Misc/CI_Icons/icon_ci_effect_venicecarnival.png",
+    "url": "x768/Icons/CI_Icons/icon_ci_effect_venicecarnival.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
-        "w": 91,
-        "h": 117,
+        "w": 90,
+        "h": 116,
         "rx": 954,
-        "ry": 941
+        "ry": 942
       }
     ],
     "fx": []
   },
   "icon_ci_effect_winter": {
     "pid": 2,
-    "url": "x768/Misc/CI_Icons/icon_ci_effect_winter.png",
+    "url": "x768/Icons/CI_Icons/icon_ci_effect_winter.png",
     "frames": [
       {
         "x": 0,
@@ -79340,7 +81080,7 @@
   },
   "icon_ci_effect_wood": {
     "pid": 2,
-    "url": "x768/Misc/CI_Icons/icon_ci_effect_wood.png",
+    "url": "x768/Icons/CI_Icons/icon_ci_effect_wood.png",
     "frames": [
       {
         "x": 0,
@@ -79698,6 +81438,51 @@
     ],
     "fx": []
   },
+  "icon_general_Alice_xl": {
+    "pid": 2,
+    "url": "x768/Icons/GeneralIcons/icon_general_Alice_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 208,
+        "h": 211,
+        "rx": 897,
+        "ry": 894
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_Alice_xxl": {
+    "pid": 2,
+    "url": "x768/Icons/GeneralIcons/icon_general_Alice_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 257,
+        "h": 261,
+        "rx": 868,
+        "ry": 867
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_Alice": {
+    "pid": 2,
+    "url": "x768/Icons/GeneralIcons/icon_general_Alice.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 138,
+        "h": 140,
+        "rx": 931,
+        "ry": 930
+      }
+    ],
+    "fx": []
+  },
   "icon_general_AlienGeneral_xl": {
     "pid": 2,
     "url": "x768/Icons/GeneralIcons/icon_general_AlienGeneral_xl.png",
@@ -79784,6 +81569,21 @@
         "h": 143,
         "rx": 928,
         "ry": 928
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_attack_avatar_Alice": {
+    "pid": 2,
+    "url": "x768/Icons/GeneralIcons/icon_general_attack_avatar_Alice.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 313,
+        "h": 397,
+        "rx": 843,
+        "ry": 804
       }
     ],
     "fx": []
@@ -79994,6 +81794,36 @@
         "h": 396,
         "rx": 842,
         "ry": 804
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_attack_avatar_Tizi": {
+    "pid": 1,
+    "url": "x768/Icons/GeneralIcons/icon_general_attack_avatar_Tizi.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 313,
+        "h": 402,
+        "rx": 843,
+        "ry": 799
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_attack_avatar_Tom": {
+    "pid": 2,
+    "url": "x768/Icons/GeneralIcons/icon_general_attack_avatar_Tom.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 314,
+        "h": 401,
+        "rx": 843,
+        "ry": 799
       }
     ],
     "fx": []
@@ -80718,6 +82548,51 @@
     ],
     "fx": []
   },
+  "icon_general_preview_Hasan_xl": {
+    "pid": 1,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_Hasan_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 186,
+        "h": 216,
+        "rx": 916,
+        "ry": 891
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Hasan_xxl": {
+    "pid": 1,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_Hasan_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 245,
+        "h": 283,
+        "rx": 886,
+        "ry": 856
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Hasan": {
+    "pid": 1,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_Hasan.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 124,
+        "h": 144,
+        "rx": 944,
+        "ry": 928
+      }
+    ],
+    "fx": []
+  },
   "icon_general_preview_Horatio_xl": {
     "pid": 0,
     "url": "x768/Icons/GeneralIcons/icon_general_preview_Horatio_xl.png",
@@ -81074,6 +82949,51 @@
         "h": 144,
         "rx": 937,
         "ry": 927
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Tizi_xl": {
+    "pid": 1,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_Tizi_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 214,
+        "rx": 893,
+        "ry": 893
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Tizi_xxl": {
+    "pid": 1,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_Tizi_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 279,
+        "h": 280,
+        "rx": 860,
+        "ry": 860
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Tizi": {
+    "pid": 1,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_Tizi.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 143,
+        "rx": 928,
+        "ry": 928
       }
     ],
     "fx": []
@@ -81543,6 +83463,96 @@
     ],
     "fx": []
   },
+  "icon_general_Tizi_xl": {
+    "pid": 1,
+    "url": "x768/Icons/GeneralIcons/icon_general_Tizi_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 215,
+        "h": 215,
+        "rx": 892,
+        "ry": 892
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_Tizi_xxl": {
+    "pid": 1,
+    "url": "x768/Icons/GeneralIcons/icon_general_Tizi_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 264,
+        "rx": 868,
+        "ry": 868
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_Tizi": {
+    "pid": 1,
+    "url": "x768/Icons/GeneralIcons/icon_general_Tizi.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 143,
+        "rx": 928,
+        "ry": 928
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_Tom_xl": {
+    "pid": 2,
+    "url": "x768/Icons/GeneralIcons/icon_general_Tom_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 166,
+        "h": 214,
+        "rx": 918,
+        "ry": 893
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_Tom_xxl": {
+    "pid": 2,
+    "url": "x768/Icons/GeneralIcons/icon_general_Tom_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 266,
+        "rx": 897,
+        "ry": 867
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_Tom": {
+    "pid": 2,
+    "url": "x768/Icons/GeneralIcons/icon_general_Tom.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 143,
+        "rx": 946,
+        "ry": 929
+      }
+    ],
+    "fx": []
+  },
   "icon_general_Toril_xl": {
     "pid": 2,
     "url": "x768/Icons/GeneralIcons/icon_general_Toril_xl.png",
@@ -81723,6 +83733,21 @@
     ],
     "fx": []
   },
+  "icon_squared_general_Alice": {
+    "pid": 2,
+    "url": "x768/Icons/GeneralIcons/icon_squared_general_Alice.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 117,
+        "h": 117,
+        "rx": 941,
+        "ry": 941
+      }
+    ],
+    "fx": []
+  },
   "icon_squared_general_AlienGeneral": {
     "pid": 2,
     "url": "x768/Icons/GeneralIcons/icon_squared_general_AlienGeneral.png",
@@ -81823,6 +83848,36 @@
         "w": 117,
         "h": 117,
         "rx": 941,
+        "ry": 941
+      }
+    ],
+    "fx": []
+  },
+  "icon_squared_general_Tizi": {
+    "pid": 1,
+    "url": "x768/Icons/GeneralIcons/icon_squared_general_Tizi.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 93,
+        "h": 117,
+        "rx": 953,
+        "ry": 941
+      }
+    ],
+    "fx": []
+  },
+  "icon_squared_general_Tom": {
+    "pid": 2,
+    "url": "x768/Icons/GeneralIcons/icon_squared_general_Tom.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 113,
+        "h": 117,
+        "rx": 943,
         "ry": 941
       }
     ],
@@ -83313,6 +85368,36 @@
     ],
     "fx": []
   },
+  "icon_buildingslot_construction_xs": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_buildingslot_construction_xs.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 41,
+        "h": 41,
+        "rx": 979,
+        "ry": 979
+      }
+    ],
+    "fx": []
+  },
+  "icon_buildingslot_queue_xs": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_buildingslot_queue_xs.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 41,
+        "h": 41,
+        "rx": 979,
+        "ry": 979
+      }
+    ],
+    "fx": []
+  },
   "icon_buildmenu_b": {
     "pid": 1,
     "url": "x768/Icons/Icons/icon_buildmenu_b.png",
@@ -83883,9 +85968,9 @@
     ],
     "fx": []
   },
-  "icon_ci_small": {
+  "icon_ci_small_ds": {
     "pid": 0,
-    "url": "x768/Icons/Icons/icon_ci_small.png",
+    "url": "x768/Icons/Icons/icon_ci_small_ds.png",
     "frames": [
       {
         "x": 0,
@@ -83894,6 +85979,21 @@
         "h": 67,
         "rx": 963,
         "ry": 966
+      }
+    ],
+    "fx": []
+  },
+  "icon_ci_small": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_ci_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 62,
+        "rx": 966,
+        "ry": 969
       }
     ],
     "fx": []
@@ -92088,6 +94188,36 @@
     ],
     "fx": []
   },
+  "icon_currency_ShardAlice_xl": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_ShardAlice_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 193,
+        "h": 201,
+        "rx": 903,
+        "ry": 899
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_ShardAlice": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_ShardAlice.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 68,
+        "h": 67,
+        "rx": 966,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_ShardAlyssa_xl": {
     "pid": 0,
     "url": "x768/Icons/Icons/icon_currency_ShardAlyssa_xl.png",
@@ -92231,6 +94361,66 @@
         "x": 0,
         "y": 0,
         "w": 68,
+        "h": 67,
+        "rx": 966,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_ShardTizi_xl": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_ShardTizi_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 193,
+        "h": 201,
+        "rx": 903,
+        "ry": 899
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_ShardTizi": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_ShardTizi.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 67,
+        "rx": 966,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_ShardTom_xl": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_ShardTom_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 193,
+        "h": 201,
+        "rx": 903,
+        "ry": 899
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_ShardTom": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_ShardTom.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
         "h": 67,
         "rx": 966,
         "ry": 966
@@ -93561,6 +95751,216 @@
   "icon_currency_TimeDoubloon": {
     "pid": 0,
     "url": "x768/Icons/Icons/icon_currency_TimeDoubloon.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 67,
+        "rx": 966,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_TiziToken_big_ds": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_TiziToken_big_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 113,
+        "h": 117,
+        "rx": 943,
+        "ry": 941
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_TiziToken_big": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_TiziToken_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 107,
+        "h": 111,
+        "rx": 946,
+        "ry": 944
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_TiziToken_ds": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_TiziToken_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 69,
+        "h": 71,
+        "rx": 965,
+        "ry": 964
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_TiziToken_medium_ds": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_TiziToken_medium_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 89,
+        "h": 93,
+        "rx": 955,
+        "ry": 953
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_TiziToken_medium": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_TiziToken_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 85,
+        "h": 89,
+        "rx": 957,
+        "ry": 955
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_TiziToken_small": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_TiziToken_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 33,
+        "h": 35,
+        "rx": 983,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_TiziToken": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_TiziToken.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 67,
+        "rx": 967,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_TomAliceToken_big_ds": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_TomAliceToken_big_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 117,
+        "h": 117,
+        "rx": 941,
+        "ry": 941
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_TomAliceToken_big": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_TomAliceToken_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 111,
+        "rx": 944,
+        "ry": 944
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_TomAliceToken_ds": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_TomAliceToken_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 71,
+        "h": 71,
+        "rx": 964,
+        "ry": 964
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_TomAliceToken_medium_ds": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_TomAliceToken_medium_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 93,
+        "h": 93,
+        "rx": 953,
+        "ry": 953
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_TomAliceToken_medium": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_TomAliceToken_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 89,
+        "h": 89,
+        "rx": 955,
+        "ry": 955
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_TomAliceToken_small": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_TomAliceToken_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 35,
+        "rx": 982,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_TomAliceToken": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_TomAliceToken.png",
     "frames": [
       {
         "x": 0,
@@ -95290,6 +97690,36 @@
       {
         "x": 0,
         "y": 0,
+        "w": 25,
+        "h": 31,
+        "rx": 987,
+        "ry": 984
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_building": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_effect_building.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 52,
+        "h": 67,
+        "rx": 973,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_deco_xxs": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_effect_deco_xxs.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
         "w": 33,
         "h": 33,
         "rx": 983,
@@ -95298,9 +97728,9 @@
     ],
     "fx": []
   },
-  "icon_effect_building": {
+  "icon_effect_deco": {
     "pid": 0,
-    "url": "x768/Icons/Icons/icon_effect_building.png",
+    "url": "x768/Icons/Icons/icon_effect_deco.png",
     "frames": [
       {
         "x": 0,
@@ -97259,6 +99689,21 @@
         "h": 193,
         "rx": 894,
         "ry": 903
+      }
+    ],
+    "fx": []
+  },
+  "icon_help_info_flat": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_help_info_flat.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 71,
+        "h": 71,
+        "rx": 964,
+        "ry": 964
       }
     ],
     "fx": []
@@ -101204,6 +103649,21 @@
         "h": 67,
         "rx": 945,
         "ry": 966
+      }
+    ],
+    "fx": []
+  },
+  "icon_ranking_rewards_ds": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_ranking_rewards_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 101,
+        "h": 101,
+        "rx": 949,
+        "ry": 949
       }
     ],
     "fx": []
@@ -109173,6 +111633,21 @@
     ],
     "fx": []
   },
+  "icon_event_601": {
+    "pid": 0,
+    "url": "x768/Icons/IconsShared/icon_event_601_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 97,
+        "h": 111,
+        "rx": 951,
+        "ry": 944
+      }
+    ],
+    "fx": []
+  },
   "icon_event_blacksmith": {
     "pid": 0,
     "url": "x768/Icons/IconsShared/icon_event_blacksmith_Shared.png",
@@ -110120,7 +112595,7 @@
   },
   "LegendSkill_1_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_1_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_1_xl.png",
     "frames": [
       {
         "x": 0,
@@ -110135,7 +112610,7 @@
   },
   "LegendSkill_1": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_1.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_1.png",
     "frames": [
       {
         "x": 0,
@@ -110150,7 +112625,7 @@
   },
   "LegendSkill_2_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_2_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_2_xl.png",
     "frames": [
       {
         "x": 0,
@@ -110165,7 +112640,7 @@
   },
   "LegendSkill_2": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_2.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_2.png",
     "frames": [
       {
         "x": 0,
@@ -110180,7 +112655,7 @@
   },
   "LegendSkill_3_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_3_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_3_xl.png",
     "frames": [
       {
         "x": 0,
@@ -110195,7 +112670,7 @@
   },
   "LegendSkill_3": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_3.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_3.png",
     "frames": [
       {
         "x": 0,
@@ -110210,7 +112685,7 @@
   },
   "LegendSkill_4_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_4_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_4_xl.png",
     "frames": [
       {
         "x": 0,
@@ -110225,7 +112700,7 @@
   },
   "LegendSkill_4": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_4.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_4.png",
     "frames": [
       {
         "x": 0,
@@ -110240,7 +112715,7 @@
   },
   "LegendSkill_5_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_5_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_5_xl.png",
     "frames": [
       {
         "x": 0,
@@ -110255,7 +112730,7 @@
   },
   "LegendSkill_5": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_5.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_5.png",
     "frames": [
       {
         "x": 0,
@@ -110270,7 +112745,7 @@
   },
   "LegendSkill_6_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_6_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_6_xl.png",
     "frames": [
       {
         "x": 0,
@@ -110285,7 +112760,7 @@
   },
   "LegendSkill_6": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_6.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_6.png",
     "frames": [
       {
         "x": 0,
@@ -110300,7 +112775,7 @@
   },
   "LegendSkill_7_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_7_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_7_xl.png",
     "frames": [
       {
         "x": 0,
@@ -110315,7 +112790,7 @@
   },
   "LegendSkill_7": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_7.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_7.png",
     "frames": [
       {
         "x": 0,
@@ -110330,7 +112805,7 @@
   },
   "LegendSkill_8_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_8_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_8_xl.png",
     "frames": [
       {
         "x": 0,
@@ -110345,7 +112820,7 @@
   },
   "LegendSkill_8": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_8.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_8.png",
     "frames": [
       {
         "x": 0,
@@ -110360,7 +112835,7 @@
   },
   "LegendSkill_9_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_9_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_9_xl.png",
     "frames": [
       {
         "x": 0,
@@ -110375,7 +112850,7 @@
   },
   "LegendSkill_9": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_9.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_9.png",
     "frames": [
       {
         "x": 0,
@@ -110390,7 +112865,7 @@
   },
   "LegendSkill_10_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_10_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_10_xl.png",
     "frames": [
       {
         "x": 0,
@@ -110405,7 +112880,7 @@
   },
   "LegendSkill_10": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_10.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_10.png",
     "frames": [
       {
         "x": 0,
@@ -110420,7 +112895,7 @@
   },
   "LegendSkill_11_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_11_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_11_xl.png",
     "frames": [
       {
         "x": 0,
@@ -110435,7 +112910,7 @@
   },
   "LegendSkill_12_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_12_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_12_xl.png",
     "frames": [
       {
         "x": 0,
@@ -110450,7 +112925,7 @@
   },
   "LegendSkill_12": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_12.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_12.png",
     "frames": [
       {
         "x": 0,
@@ -110465,7 +112940,7 @@
   },
   "LegendSkill_13_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_13_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_13_xl.png",
     "frames": [
       {
         "x": 0,
@@ -110480,7 +112955,7 @@
   },
   "LegendSkill_13": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_13.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_13.png",
     "frames": [
       {
         "x": 0,
@@ -110495,7 +112970,7 @@
   },
   "LegendSkill_14_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_14_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_14_xl.png",
     "frames": [
       {
         "x": 0,
@@ -110510,7 +112985,7 @@
   },
   "LegendSkill_14": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_14.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_14.png",
     "frames": [
       {
         "x": 0,
@@ -110525,7 +113000,7 @@
   },
   "LegendSkill_15_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_15_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_15_xl.png",
     "frames": [
       {
         "x": 0,
@@ -110540,7 +113015,7 @@
   },
   "LegendSkill_15": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_15.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_15.png",
     "frames": [
       {
         "x": 0,
@@ -110555,7 +113030,7 @@
   },
   "LegendSkill_16_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_16_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_16_xl.png",
     "frames": [
       {
         "x": 0,
@@ -110570,7 +113045,7 @@
   },
   "LegendSkill_16": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_16.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_16.png",
     "frames": [
       {
         "x": 0,
@@ -110585,7 +113060,7 @@
   },
   "LegendSkill_17_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_17_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_17_xl.png",
     "frames": [
       {
         "x": 0,
@@ -110600,7 +113075,7 @@
   },
   "LegendSkill_17": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_17.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_17.png",
     "frames": [
       {
         "x": 0,
@@ -110615,7 +113090,7 @@
   },
   "LegendSkill_18_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_18_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_18_xl.png",
     "frames": [
       {
         "x": 0,
@@ -110630,7 +113105,7 @@
   },
   "LegendSkill_18": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_18.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_18.png",
     "frames": [
       {
         "x": 0,
@@ -110645,7 +113120,7 @@
   },
   "LegendSkill_19_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_19_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_19_xl.png",
     "frames": [
       {
         "x": 0,
@@ -110660,7 +113135,7 @@
   },
   "LegendSkill_19": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_19.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_19.png",
     "frames": [
       {
         "x": 0,
@@ -110675,7 +113150,7 @@
   },
   "LegendSkill_20_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_20_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_20_xl.png",
     "frames": [
       {
         "x": 0,
@@ -110690,7 +113165,7 @@
   },
   "LegendSkill_21_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_21_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_21_xl.png",
     "frames": [
       {
         "x": 0,
@@ -110705,7 +113180,7 @@
   },
   "LegendSkill_21": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_21.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_21.png",
     "frames": [
       {
         "x": 0,
@@ -110720,7 +113195,7 @@
   },
   "LegendSkill_22_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_22_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_22_xl.png",
     "frames": [
       {
         "x": 0,
@@ -110735,7 +113210,7 @@
   },
   "LegendSkill_22": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_22.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_22.png",
     "frames": [
       {
         "x": 0,
@@ -110750,7 +113225,7 @@
   },
   "LegendSkill_23_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_23_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_23_xl.png",
     "frames": [
       {
         "x": 0,
@@ -110765,7 +113240,7 @@
   },
   "LegendSkill_23": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_23.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_23.png",
     "frames": [
       {
         "x": 0,
@@ -110780,7 +113255,7 @@
   },
   "LegendSkill_24_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_24_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_24_xl.png",
     "frames": [
       {
         "x": 0,
@@ -110795,7 +113270,7 @@
   },
   "LegendSkill_24": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_24.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_24.png",
     "frames": [
       {
         "x": 0,
@@ -110810,7 +113285,7 @@
   },
   "LegendSkill_25_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_25_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_25_xl.png",
     "frames": [
       {
         "x": 0,
@@ -110825,7 +113300,7 @@
   },
   "LegendSkill_25": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_25.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_25.png",
     "frames": [
       {
         "x": 0,
@@ -110840,7 +113315,7 @@
   },
   "LegendSkill_26_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_26_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_26_xl.png",
     "frames": [
       {
         "x": 0,
@@ -110855,7 +113330,7 @@
   },
   "LegendSkill_26": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_26.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_26.png",
     "frames": [
       {
         "x": 0,
@@ -110870,7 +113345,7 @@
   },
   "LegendSkill_27_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_27_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_27_xl.png",
     "frames": [
       {
         "x": 0,
@@ -110885,7 +113360,7 @@
   },
   "LegendSkill_27": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_27.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_27.png",
     "frames": [
       {
         "x": 0,
@@ -110900,7 +113375,7 @@
   },
   "LegendSkill_28_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_28_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_28_xl.png",
     "frames": [
       {
         "x": 0,
@@ -110915,7 +113390,7 @@
   },
   "LegendSkill_28": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_28.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_28.png",
     "frames": [
       {
         "x": 0,
@@ -110930,7 +113405,7 @@
   },
   "LegendSkill_29_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_29_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_29_xl.png",
     "frames": [
       {
         "x": 0,
@@ -110945,7 +113420,7 @@
   },
   "LegendSkill_29": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_29.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_29.png",
     "frames": [
       {
         "x": 0,
@@ -110960,7 +113435,7 @@
   },
   "LegendSkill_30_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_30_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_30_xl.png",
     "frames": [
       {
         "x": 0,
@@ -110975,7 +113450,7 @@
   },
   "LegendSkill_30": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_30.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_30.png",
     "frames": [
       {
         "x": 0,
@@ -110990,7 +113465,7 @@
   },
   "LegendSkill_31_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_31_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_31_xl.png",
     "frames": [
       {
         "x": 0,
@@ -111005,7 +113480,7 @@
   },
   "LegendSkill_31": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_31.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_31.png",
     "frames": [
       {
         "x": 0,
@@ -111020,7 +113495,7 @@
   },
   "LegendSkill_32_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_32_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_32_xl.png",
     "frames": [
       {
         "x": 0,
@@ -111035,7 +113510,7 @@
   },
   "LegendSkill_32": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_32.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_32.png",
     "frames": [
       {
         "x": 0,
@@ -111050,7 +113525,7 @@
   },
   "LegendSkill_33_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_33_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_33_xl.png",
     "frames": [
       {
         "x": 0,
@@ -111065,7 +113540,7 @@
   },
   "LegendSkill_33": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_33.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_33.png",
     "frames": [
       {
         "x": 0,
@@ -111080,7 +113555,7 @@
   },
   "LegendSkill_34_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_34_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_34_xl.png",
     "frames": [
       {
         "x": 0,
@@ -111095,7 +113570,7 @@
   },
   "LegendSkill_34": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_34.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_34.png",
     "frames": [
       {
         "x": 0,
@@ -111110,7 +113585,7 @@
   },
   "LegendSkill_35_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_35_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_35_xl.png",
     "frames": [
       {
         "x": 0,
@@ -111125,7 +113600,7 @@
   },
   "LegendSkill_35": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_35.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_35.png",
     "frames": [
       {
         "x": 0,
@@ -111140,7 +113615,7 @@
   },
   "LegendSkill_36_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_36_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_36_xl.png",
     "frames": [
       {
         "x": 0,
@@ -111155,7 +113630,7 @@
   },
   "LegendSkill_36": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_36.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_36.png",
     "frames": [
       {
         "x": 0,
@@ -111170,7 +113645,7 @@
   },
   "LegendSkill_37_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_37_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_37_xl.png",
     "frames": [
       {
         "x": 0,
@@ -111185,7 +113660,7 @@
   },
   "LegendSkill_37": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_37.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_37.png",
     "frames": [
       {
         "x": 0,
@@ -111200,7 +113675,7 @@
   },
   "LegendSkill_38_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_38_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_38_xl.png",
     "frames": [
       {
         "x": 0,
@@ -111215,7 +113690,7 @@
   },
   "LegendSkill_38": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_38.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_38.png",
     "frames": [
       {
         "x": 0,
@@ -111230,7 +113705,7 @@
   },
   "LegendSkill_39_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_39_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_39_xl.png",
     "frames": [
       {
         "x": 0,
@@ -111245,7 +113720,7 @@
   },
   "LegendSkill_39": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_39.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_39.png",
     "frames": [
       {
         "x": 0,
@@ -111260,7 +113735,7 @@
   },
   "LegendSkill_40_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_40_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_40_xl.png",
     "frames": [
       {
         "x": 0,
@@ -111275,7 +113750,7 @@
   },
   "LegendSkill_40": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_40.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_40.png",
     "frames": [
       {
         "x": 0,
@@ -111290,7 +113765,7 @@
   },
   "LegendSkill_41_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_41_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_41_xl.png",
     "frames": [
       {
         "x": 0,
@@ -111305,7 +113780,7 @@
   },
   "LegendSkill_41": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_41.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_41.png",
     "frames": [
       {
         "x": 0,
@@ -111320,7 +113795,7 @@
   },
   "LegendSkill_42_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_42_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_42_xl.png",
     "frames": [
       {
         "x": 0,
@@ -111335,7 +113810,7 @@
   },
   "LegendSkill_42": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_42.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_42.png",
     "frames": [
       {
         "x": 0,
@@ -111350,7 +113825,7 @@
   },
   "LegendSkill_43_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_43_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_43_xl.png",
     "frames": [
       {
         "x": 0,
@@ -111365,7 +113840,7 @@
   },
   "LegendSkill_44_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_44_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_44_xl.png",
     "frames": [
       {
         "x": 0,
@@ -111380,7 +113855,7 @@
   },
   "LegendSkill_44": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_44.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_44.png",
     "frames": [
       {
         "x": 0,
@@ -111395,7 +113870,7 @@
   },
   "LegendSkill_45_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_45_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_45_xl.png",
     "frames": [
       {
         "x": 0,
@@ -111410,7 +113885,7 @@
   },
   "LegendSkill_45": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_45.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_45.png",
     "frames": [
       {
         "x": 0,
@@ -111425,7 +113900,7 @@
   },
   "LegendSkill_46_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_46_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_46_xl.png",
     "frames": [
       {
         "x": 0,
@@ -111440,7 +113915,7 @@
   },
   "LegendSkill_46": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_46.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_46.png",
     "frames": [
       {
         "x": 0,
@@ -111455,7 +113930,7 @@
   },
   "LegendSkill_47_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_47_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_47_xl.png",
     "frames": [
       {
         "x": 0,
@@ -111470,7 +113945,7 @@
   },
   "LegendSkill_47": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_47.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_47.png",
     "frames": [
       {
         "x": 0,
@@ -111485,7 +113960,7 @@
   },
   "LegendSkill_48_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_48_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_48_xl.png",
     "frames": [
       {
         "x": 0,
@@ -111500,7 +113975,7 @@
   },
   "LegendSkill_48": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_48.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_48.png",
     "frames": [
       {
         "x": 0,
@@ -111515,7 +113990,7 @@
   },
   "LegendSkill_49_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_49_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_49_xl.png",
     "frames": [
       {
         "x": 0,
@@ -111530,7 +114005,7 @@
   },
   "LegendSkill_49": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_49.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_49.png",
     "frames": [
       {
         "x": 0,
@@ -111545,7 +114020,7 @@
   },
   "LegendSkill_50_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_50_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_50_xl.png",
     "frames": [
       {
         "x": 0,
@@ -111560,7 +114035,7 @@
   },
   "LegendSkill_50": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_50.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_50.png",
     "frames": [
       {
         "x": 0,
@@ -111575,7 +114050,7 @@
   },
   "LegendSkill_51_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_51_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_51_xl.png",
     "frames": [
       {
         "x": 0,
@@ -111590,7 +114065,7 @@
   },
   "LegendSkill_51": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_51.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_51.png",
     "frames": [
       {
         "x": 0,
@@ -111605,7 +114080,7 @@
   },
   "LegendSkill_52_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_52_xl.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_52_xl.png",
     "frames": [
       {
         "x": 0,
@@ -111620,7 +114095,7 @@
   },
   "LegendSkill_52": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/LegendSkill_52.png",
+    "url": "x768/Icons/SkillIcons/LegendSkill_52.png",
     "frames": [
       {
         "x": 0,
@@ -111635,7 +114110,7 @@
   },
   "SceatSkill_1_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_1_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_1_xl.png",
     "frames": [
       {
         "x": 0,
@@ -111650,7 +114125,7 @@
   },
   "SceatSkill_1": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_1.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_1.png",
     "frames": [
       {
         "x": 0,
@@ -111665,7 +114140,7 @@
   },
   "SceatSkill_2_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_2_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_2_xl.png",
     "frames": [
       {
         "x": 0,
@@ -111680,7 +114155,7 @@
   },
   "SceatSkill_2": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_2.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_2.png",
     "frames": [
       {
         "x": 0,
@@ -111695,7 +114170,7 @@
   },
   "SceatSkill_3_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_3_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_3_xl.png",
     "frames": [
       {
         "x": 0,
@@ -111710,7 +114185,7 @@
   },
   "SceatSkill_3": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_3.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_3.png",
     "frames": [
       {
         "x": 0,
@@ -111725,7 +114200,7 @@
   },
   "SceatSkill_4_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_4_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_4_xl.png",
     "frames": [
       {
         "x": 0,
@@ -111740,7 +114215,7 @@
   },
   "SceatSkill_4": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_4.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_4.png",
     "frames": [
       {
         "x": 0,
@@ -111755,7 +114230,7 @@
   },
   "SceatSkill_5_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_5_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_5_xl.png",
     "frames": [
       {
         "x": 0,
@@ -111770,7 +114245,7 @@
   },
   "SceatSkill_5": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_5.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_5.png",
     "frames": [
       {
         "x": 0,
@@ -111785,7 +114260,7 @@
   },
   "SceatSkill_6_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_6_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_6_xl.png",
     "frames": [
       {
         "x": 0,
@@ -111800,7 +114275,7 @@
   },
   "SceatSkill_6": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_6.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_6.png",
     "frames": [
       {
         "x": 0,
@@ -111815,7 +114290,7 @@
   },
   "SceatSkill_7_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_7_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_7_xl.png",
     "frames": [
       {
         "x": 0,
@@ -111830,7 +114305,7 @@
   },
   "SceatSkill_7": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_7.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_7.png",
     "frames": [
       {
         "x": 0,
@@ -111845,7 +114320,7 @@
   },
   "SceatSkill_8_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_8_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_8_xl.png",
     "frames": [
       {
         "x": 0,
@@ -111860,7 +114335,7 @@
   },
   "SceatSkill_8": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_8.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_8.png",
     "frames": [
       {
         "x": 0,
@@ -111875,7 +114350,7 @@
   },
   "SceatSkill_9_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_9_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_9_xl.png",
     "frames": [
       {
         "x": 0,
@@ -111890,7 +114365,7 @@
   },
   "SceatSkill_9": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_9.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_9.png",
     "frames": [
       {
         "x": 0,
@@ -111905,7 +114380,7 @@
   },
   "SceatSkill_10_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_10_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_10_xl.png",
     "frames": [
       {
         "x": 0,
@@ -111920,7 +114395,7 @@
   },
   "SceatSkill_10": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_10.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_10.png",
     "frames": [
       {
         "x": 0,
@@ -111935,7 +114410,7 @@
   },
   "SceatSkill_11_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_11_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_11_xl.png",
     "frames": [
       {
         "x": 0,
@@ -111950,7 +114425,7 @@
   },
   "SceatSkill_11": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_11.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_11.png",
     "frames": [
       {
         "x": 0,
@@ -111965,7 +114440,7 @@
   },
   "SceatSkill_12_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_12_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_12_xl.png",
     "frames": [
       {
         "x": 0,
@@ -111980,7 +114455,7 @@
   },
   "SceatSkill_12": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_12.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_12.png",
     "frames": [
       {
         "x": 0,
@@ -111995,7 +114470,7 @@
   },
   "SceatSkill_13_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_13_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_13_xl.png",
     "frames": [
       {
         "x": 0,
@@ -112010,7 +114485,7 @@
   },
   "SceatSkill_13": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_13.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_13.png",
     "frames": [
       {
         "x": 0,
@@ -112025,7 +114500,7 @@
   },
   "SceatSkill_14_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_14_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_14_xl.png",
     "frames": [
       {
         "x": 0,
@@ -112040,7 +114515,7 @@
   },
   "SceatSkill_14": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_14.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_14.png",
     "frames": [
       {
         "x": 0,
@@ -112055,7 +114530,7 @@
   },
   "SceatSkill_15_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_15_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_15_xl.png",
     "frames": [
       {
         "x": 0,
@@ -112070,7 +114545,7 @@
   },
   "SceatSkill_15": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_15.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_15.png",
     "frames": [
       {
         "x": 0,
@@ -112085,7 +114560,7 @@
   },
   "SceatSkill_16_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_16_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_16_xl.png",
     "frames": [
       {
         "x": 0,
@@ -112100,7 +114575,7 @@
   },
   "SceatSkill_16": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_16.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_16.png",
     "frames": [
       {
         "x": 0,
@@ -112115,7 +114590,7 @@
   },
   "SceatSkill_17_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_17_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_17_xl.png",
     "frames": [
       {
         "x": 0,
@@ -112130,7 +114605,7 @@
   },
   "SceatSkill_17": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_17.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_17.png",
     "frames": [
       {
         "x": 0,
@@ -112145,7 +114620,7 @@
   },
   "SceatSkill_18_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_18_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_18_xl.png",
     "frames": [
       {
         "x": 0,
@@ -112160,7 +114635,7 @@
   },
   "SceatSkill_18": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_18.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_18.png",
     "frames": [
       {
         "x": 0,
@@ -112175,7 +114650,7 @@
   },
   "SceatSkill_19_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_19_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_19_xl.png",
     "frames": [
       {
         "x": 0,
@@ -112190,7 +114665,7 @@
   },
   "SceatSkill_19": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_19.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_19.png",
     "frames": [
       {
         "x": 0,
@@ -112205,7 +114680,7 @@
   },
   "SceatSkill_20_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_20_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_20_xl.png",
     "frames": [
       {
         "x": 0,
@@ -112220,7 +114695,7 @@
   },
   "SceatSkill_20": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_20.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_20.png",
     "frames": [
       {
         "x": 0,
@@ -112235,7 +114710,7 @@
   },
   "SceatSkill_21_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_21_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_21_xl.png",
     "frames": [
       {
         "x": 0,
@@ -112250,7 +114725,7 @@
   },
   "SceatSkill_21": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_21.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_21.png",
     "frames": [
       {
         "x": 0,
@@ -112265,7 +114740,7 @@
   },
   "SceatSkill_22_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_22_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_22_xl.png",
     "frames": [
       {
         "x": 0,
@@ -112280,7 +114755,7 @@
   },
   "SceatSkill_22": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_22.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_22.png",
     "frames": [
       {
         "x": 0,
@@ -112295,7 +114770,7 @@
   },
   "SceatSkill_23_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_23_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_23_xl.png",
     "frames": [
       {
         "x": 0,
@@ -112310,7 +114785,7 @@
   },
   "SceatSkill_23": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_23.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_23.png",
     "frames": [
       {
         "x": 0,
@@ -112325,7 +114800,7 @@
   },
   "SceatSkill_24_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_24_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_24_xl.png",
     "frames": [
       {
         "x": 0,
@@ -112340,7 +114815,7 @@
   },
   "SceatSkill_24": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_24.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_24.png",
     "frames": [
       {
         "x": 0,
@@ -112355,7 +114830,7 @@
   },
   "SceatSkill_25_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_25_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_25_xl.png",
     "frames": [
       {
         "x": 0,
@@ -112370,7 +114845,7 @@
   },
   "SceatSkill_25": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_25.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_25.png",
     "frames": [
       {
         "x": 0,
@@ -112385,7 +114860,7 @@
   },
   "SceatSkill_26_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_26_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_26_xl.png",
     "frames": [
       {
         "x": 0,
@@ -112400,7 +114875,7 @@
   },
   "SceatSkill_26": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_26.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_26.png",
     "frames": [
       {
         "x": 0,
@@ -112415,7 +114890,7 @@
   },
   "SceatSkill_27_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_27_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_27_xl.png",
     "frames": [
       {
         "x": 0,
@@ -112430,7 +114905,7 @@
   },
   "SceatSkill_27": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_27.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_27.png",
     "frames": [
       {
         "x": 0,
@@ -112445,7 +114920,7 @@
   },
   "SceatSkill_28_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_28_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_28_xl.png",
     "frames": [
       {
         "x": 0,
@@ -112460,7 +114935,7 @@
   },
   "SceatSkill_28": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_28.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_28.png",
     "frames": [
       {
         "x": 0,
@@ -112475,7 +114950,7 @@
   },
   "SceatSkill_29_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_29_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_29_xl.png",
     "frames": [
       {
         "x": 0,
@@ -112490,7 +114965,7 @@
   },
   "SceatSkill_29": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_29.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_29.png",
     "frames": [
       {
         "x": 0,
@@ -112505,7 +114980,7 @@
   },
   "SceatSkill_30_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_30_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_30_xl.png",
     "frames": [
       {
         "x": 0,
@@ -112520,7 +114995,7 @@
   },
   "SceatSkill_30": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_30.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_30.png",
     "frames": [
       {
         "x": 0,
@@ -112535,7 +115010,7 @@
   },
   "SceatSkill_31_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_31_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_31_xl.png",
     "frames": [
       {
         "x": 0,
@@ -112550,7 +115025,7 @@
   },
   "SceatSkill_31": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_31.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_31.png",
     "frames": [
       {
         "x": 0,
@@ -112565,7 +115040,7 @@
   },
   "SceatSkill_32_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_32_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_32_xl.png",
     "frames": [
       {
         "x": 0,
@@ -112580,7 +115055,7 @@
   },
   "SceatSkill_32": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_32.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_32.png",
     "frames": [
       {
         "x": 0,
@@ -112595,7 +115070,7 @@
   },
   "SceatSkill_33_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_33_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_33_xl.png",
     "frames": [
       {
         "x": 0,
@@ -112610,7 +115085,7 @@
   },
   "SceatSkill_33": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_33.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_33.png",
     "frames": [
       {
         "x": 0,
@@ -112625,7 +115100,7 @@
   },
   "SceatSkill_34_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_34_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_34_xl.png",
     "frames": [
       {
         "x": 0,
@@ -112640,7 +115115,7 @@
   },
   "SceatSkill_34": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_34.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_34.png",
     "frames": [
       {
         "x": 0,
@@ -112655,7 +115130,7 @@
   },
   "SceatSkill_35_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_35_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_35_xl.png",
     "frames": [
       {
         "x": 0,
@@ -112670,7 +115145,7 @@
   },
   "SceatSkill_35": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_35.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_35.png",
     "frames": [
       {
         "x": 0,
@@ -112685,13 +115160,13 @@
   },
   "SceatSkill_36_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_36_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_36_xl.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
         "w": 159,
-        "h": 161,
+        "h": 162,
         "rx": 920,
         "ry": 919
       }
@@ -112700,7 +115175,7 @@
   },
   "SceatSkill_36": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_36.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_36.png",
     "frames": [
       {
         "x": 0,
@@ -112715,7 +115190,7 @@
   },
   "SceatSkill_37_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_37_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_37_xl.png",
     "frames": [
       {
         "x": 0,
@@ -112730,7 +115205,7 @@
   },
   "SceatSkill_37": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_37.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_37.png",
     "frames": [
       {
         "x": 0,
@@ -112745,7 +115220,7 @@
   },
   "SceatSkill_38_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_38_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_38_xl.png",
     "frames": [
       {
         "x": 0,
@@ -112760,7 +115235,7 @@
   },
   "SceatSkill_38": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_38.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_38.png",
     "frames": [
       {
         "x": 0,
@@ -112775,7 +115250,7 @@
   },
   "SceatSkill_39_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_39_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_39_xl.png",
     "frames": [
       {
         "x": 0,
@@ -112790,7 +115265,7 @@
   },
   "SceatSkill_39": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_39.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_39.png",
     "frames": [
       {
         "x": 0,
@@ -112805,7 +115280,7 @@
   },
   "SceatSkill_40_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_40_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_40_xl.png",
     "frames": [
       {
         "x": 0,
@@ -112820,7 +115295,7 @@
   },
   "SceatSkill_40": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_40.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_40.png",
     "frames": [
       {
         "x": 0,
@@ -112835,7 +115310,7 @@
   },
   "SceatSkill_41_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_41_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_41_xl.png",
     "frames": [
       {
         "x": 0,
@@ -112850,7 +115325,7 @@
   },
   "SceatSkill_41": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_41.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_41.png",
     "frames": [
       {
         "x": 0,
@@ -112865,7 +115340,7 @@
   },
   "SceatSkill_43_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_43_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_43_xl.png",
     "frames": [
       {
         "x": 0,
@@ -112880,7 +115355,7 @@
   },
   "SceatSkill_43": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_43.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_43.png",
     "frames": [
       {
         "x": 0,
@@ -112895,7 +115370,7 @@
   },
   "SceatSkill_44_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_44_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_44_xl.png",
     "frames": [
       {
         "x": 0,
@@ -112910,7 +115385,7 @@
   },
   "SceatSkill_44": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_44.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_44.png",
     "frames": [
       {
         "x": 0,
@@ -112925,7 +115400,7 @@
   },
   "SceatSkill_45_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_45_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_45_xl.png",
     "frames": [
       {
         "x": 0,
@@ -112940,7 +115415,7 @@
   },
   "SceatSkill_45": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_45.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_45.png",
     "frames": [
       {
         "x": 0,
@@ -112955,7 +115430,7 @@
   },
   "SceatSkill_46_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_46_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_46_xl.png",
     "frames": [
       {
         "x": 0,
@@ -112970,7 +115445,7 @@
   },
   "SceatSkill_46": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_46.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_46.png",
     "frames": [
       {
         "x": 0,
@@ -112985,7 +115460,7 @@
   },
   "SceatSkill_47_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_47_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_47_xl.png",
     "frames": [
       {
         "x": 0,
@@ -113000,7 +115475,7 @@
   },
   "SceatSkill_47": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_47.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_47.png",
     "frames": [
       {
         "x": 0,
@@ -113015,7 +115490,7 @@
   },
   "SceatSkill_48_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_48_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_48_xl.png",
     "frames": [
       {
         "x": 0,
@@ -113030,7 +115505,7 @@
   },
   "SceatSkill_48": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_48.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_48.png",
     "frames": [
       {
         "x": 0,
@@ -113045,7 +115520,7 @@
   },
   "SceatSkill_49_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_49_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_49_xl.png",
     "frames": [
       {
         "x": 0,
@@ -113060,7 +115535,7 @@
   },
   "SceatSkill_49": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_49.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_49.png",
     "frames": [
       {
         "x": 0,
@@ -113075,7 +115550,7 @@
   },
   "SceatSkill_50_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_50_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_50_xl.png",
     "frames": [
       {
         "x": 0,
@@ -113090,7 +115565,7 @@
   },
   "SceatSkill_50": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_50.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_50.png",
     "frames": [
       {
         "x": 0,
@@ -113315,7 +115790,7 @@
   },
   "SceatSkill_58_xl": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_58_xl.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_58_xl.png",
     "frames": [
       {
         "x": 0,
@@ -113330,7 +115805,7 @@
   },
   "SceatSkill_58": {
     "pid": 2,
-    "url": "x768/Misc/SkillIcons/SceatSkill_58.png",
+    "url": "x768/Icons/SkillIcons/SceatSkill_58.png",
     "frames": [
       {
         "x": 0,
@@ -122148,66 +124623,6 @@
     ],
     "fx": []
   },
-  "global_primetime_background_Advent2024": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_Advent2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1281,
-        "h": 1601,
-        "rx": 359,
-        "ry": 199
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_background_Anniversary2024": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_Anniversary2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1536,
-        "h": 1733,
-        "rx": 231,
-        "ry": 133
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_background_BlackFriday2024": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_BlackFriday2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1302,
-        "h": 1760,
-        "rx": 349,
-        "ry": 120
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_background_Christmas2024": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_Christmas2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1535,
-        "h": 1731,
-        "rx": 232,
-        "ry": 134
-      }
-    ],
-    "fx": []
-  },
   "global_primetime_background_generic1": {
     "pid": 1,
     "url": "x768/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_generic1.png",
@@ -122253,62 +124668,32 @@
     ],
     "fx": []
   },
-  "global_primetime_background_Halloween2024": {
+  "global_primetime_background_StPatricksDay2025": {
     "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_Halloween2024.png",
+    "url": "x768/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_StPatricksDay2025.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
-        "w": 1282,
+        "w": 1281,
         "h": 1601,
-        "rx": 358,
+        "rx": 359,
         "ry": 199
       }
     ],
     "fx": []
   },
-  "global_primetime_background_NewYear2025": {
+  "global_primetime_background_ValentinesDay2025": {
     "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_NewYear2025.png",
+    "url": "x768/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_ValentinesDay2025.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
-        "w": 1535,
-        "h": 1729,
-        "rx": 232,
-        "ry": 135
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_background_Oktoberfest2024": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_Oktoberfest2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1536,
-        "h": 1731,
-        "rx": 231,
-        "ry": 134
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_background_SinglesDays2024": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_SinglesDays2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1536,
-        "h": 1731,
-        "rx": 231,
-        "ry": 134
+        "w": 1302,
+        "h": 1760,
+        "rx": 349,
+        "ry": 120
       }
     ],
     "fx": []
@@ -122324,66 +124709,6 @@
         "h": 1760,
         "rx": 349,
         "ry": 120
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_hub_teaser_Advent2024": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_Advent2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1537,
-        "h": 1331,
-        "rx": 231,
-        "ry": 334
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_hub_teaser_Anniversary2024": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_Anniversary2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1537,
-        "h": 1331,
-        "rx": 231,
-        "ry": 334
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_hub_teaser_BlackFriday2024": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_BlackFriday2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1537,
-        "h": 1331,
-        "rx": 231,
-        "ry": 334
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_hub_teaser_Christmas2024": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_Christmas2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1537,
-        "h": 1331,
-        "rx": 231,
-        "ry": 334
       }
     ],
     "fx": []
@@ -122418,66 +124743,6 @@
     ],
     "fx": []
   },
-  "global_primetime_hub_teaser_Halloween2024": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_Halloween2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1537,
-        "h": 1331,
-        "rx": 231,
-        "ry": 334
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_hub_teaser_NewYear2025": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_NewYear2025.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1537,
-        "h": 1331,
-        "rx": 231,
-        "ry": 334
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_hub_teaser_Oktoberfest2024": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_Oktoberfest2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1537,
-        "h": 1331,
-        "rx": 231,
-        "ry": 334
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_hub_teaser_SinglesDay2024": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_SinglesDay2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1537,
-        "h": 1331,
-        "rx": 231,
-        "ry": 334
-      }
-    ],
-    "fx": []
-  },
   "global_primetime_hub_teaser_Winter2024": {
     "pid": 1,
     "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_Winter2024.png",
@@ -122489,81 +124754,6 @@
         "h": 1331,
         "rx": 231,
         "ry": 334
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_teaser_Advent2024": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_Advent2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1249,
-        "h": 985,
-        "rx": 375,
-        "ry": 507
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_teaser_Anniversary2024": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_Anniversary2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1301,
-        "h": 1171,
-        "rx": 349,
-        "ry": 414
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_teaser_BlackFriday2024": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_BlackFriday2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1502,
-        "h": 1416,
-        "rx": 248,
-        "ry": 299
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_teaser_BlackFriday2024Front": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_BlackFriday2024Front.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1537,
-        "h": 240,
-        "rx": 231,
-        "ry": 860
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_teaser_Christmas2024": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_Christmas2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1301,
-        "h": 1171,
-        "rx": 349,
-        "ry": 414
       }
     ],
     "fx": []
@@ -122613,66 +124803,6 @@
     ],
     "fx": []
   },
-  "global_primetime_teaser_Halloween2024": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_Halloween2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1249,
-        "h": 985,
-        "rx": 375,
-        "ry": 507
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_teaser_NewYear2025": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_NewYear2025.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1301,
-        "h": 1171,
-        "rx": 349,
-        "ry": 414
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_teaser_Oktoberfest2024": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_Oktoberfest2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1301,
-        "h": 1171,
-        "rx": 349,
-        "ry": 414
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_teaser_SinglesDay2024": {
-    "pid": 1,
-    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_SinglesDay2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1301,
-        "h": 1171,
-        "rx": 349,
-        "ry": 414
-      }
-    ],
-    "fx": []
-  },
   "global_primetime_teaser_Winter2024": {
     "pid": 1,
     "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_Winter2024.png",
@@ -122699,6 +124829,111 @@
         "h": 638,
         "rx": 231,
         "ry": 462
+      }
+    ],
+    "fx": []
+  },
+  "global_primetime_hub_teaser_Carnival2025": {
+    "pid": 1,
+    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers2025/global_primetime_hub_teaser_Carnival2025.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1537,
+        "h": 1331,
+        "rx": 231,
+        "ry": 334
+      }
+    ],
+    "fx": []
+  },
+  "global_primetime_hub_teaser_StPatricksDay2025": {
+    "pid": 1,
+    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers2025/global_primetime_hub_teaser_StPatricksDay2025.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1537,
+        "h": 1331,
+        "rx": 231,
+        "ry": 334
+      }
+    ],
+    "fx": []
+  },
+  "global_primetime_hub_teaser_ValentinesDay2025": {
+    "pid": 1,
+    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers2025/global_primetime_hub_teaser_ValentinesDay2025.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1537,
+        "h": 1331,
+        "rx": 231,
+        "ry": 334
+      }
+    ],
+    "fx": []
+  },
+  "global_primetime_teaser_Carnival2025": {
+    "pid": 1,
+    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers2025/global_primetime_teaser_Carnival2025.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1301,
+        "h": 1171,
+        "rx": 349,
+        "ry": 414
+      }
+    ],
+    "fx": []
+  },
+  "global_primetime_teaser_StPatricksDay2025": {
+    "pid": 1,
+    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers2025/global_primetime_teaser_StPatricksDay2025.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1249,
+        "h": 985,
+        "rx": 375,
+        "ry": 507
+      }
+    ],
+    "fx": []
+  },
+  "global_primetime_teaser_ValentinesDay2025": {
+    "pid": 1,
+    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers2025/global_primetime_teaser_ValentinesDay2025.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1537,
+        "h": 1278,
+        "rx": 231,
+        "ry": 408
+      }
+    ],
+    "fx": []
+  },
+  "global_primetime_teaser_ValentinesDay2025Front": {
+    "pid": 1,
+    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers2025/global_primetime_teaser_ValentinesDay2025Front.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1460,
+        "h": 272,
+        "rx": 280,
+        "ry": 868
       }
     ],
     "fx": []
@@ -123453,69 +125688,9 @@
     ],
     "fx": []
   },
-  "Teaser_OffersHub_Big_WhaleChest_15": {
+  "Teaser_OffersHub_Big_WhaleChest_20": {
     "pid": 1,
-    "url": "x768/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_15.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1537,
-        "h": 665,
-        "rx": 231,
-        "ry": 667
-      }
-    ],
-    "fx": []
-  },
-  "Teaser_OffersHub_Big_WhaleChest_16": {
-    "pid": 1,
-    "url": "x768/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_16.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1537,
-        "h": 665,
-        "rx": 231,
-        "ry": 667
-      }
-    ],
-    "fx": []
-  },
-  "Teaser_OffersHub_Big_WhaleChest_17": {
-    "pid": 1,
-    "url": "x768/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_17.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1537,
-        "h": 665,
-        "rx": 231,
-        "ry": 667
-      }
-    ],
-    "fx": []
-  },
-  "Teaser_OffersHub_Big_WhaleChest_18": {
-    "pid": 1,
-    "url": "x768/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_18.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 1537,
-        "h": 665,
-        "rx": 231,
-        "ry": 667
-      }
-    ],
-    "fx": []
-  },
-  "Teaser_OffersHub_Big_WhaleChest_19": {
-    "pid": 1,
-    "url": "x768/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_19.png",
+    "url": "x768/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_20.png",
     "frames": [
       {
         "x": 0,
@@ -124668,6 +126843,21 @@
     ],
     "fx": []
   },
+  "Teaser_OffersHub_Big_WhaleChest_15": {
+    "pid": 1,
+    "url": "x768/Misc/TeasersShared/Teaser_OffersHub_Big_40_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1537,
+        "h": 665,
+        "rx": 231,
+        "ry": 667
+      }
+    ],
+    "fx": []
+  },
   "Teaser_OffersHub_Big_41": {
     "pid": 1,
     "url": "x768/Misc/TeasersShared/Teaser_OffersHub_Big_41_Shared.png",
@@ -124716,6 +126906,21 @@
   "Teaser_OffersHub_Big_44": {
     "pid": 1,
     "url": "x768/Misc/TeasersShared/Teaser_OffersHub_Big_44_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1537,
+        "h": 665,
+        "rx": 231,
+        "ry": 667
+      }
+    ],
+    "fx": []
+  },
+  "Teaser_OffersHub_Big_45": {
+    "pid": 1,
+    "url": "x768/Misc/TeasersShared/Teaser_OffersHub_Big_45_Shared.png",
     "frames": [
       {
         "x": 0,
@@ -142619,13 +144824,13 @@
         "w": 71,
         "h": 95,
         "rx": 996,
-        "ry": 974
+        "ry": 972
       }
     ],
     "fx": [
       {
         "x": 50,
-        "y": -8,
+        "y": -10,
         "scale": 0.75,
         "name": "flagHolder",
         "rotation": 0
@@ -142640,15 +144845,15 @@
         "x": 0,
         "y": 0,
         "w": 71,
-        "h": 91,
+        "h": 90,
         "rx": 998,
-        "ry": 978
+        "ry": 977
       }
     ],
     "fx": [
       {
         "x": 48,
-        "y": 11,
+        "y": 9,
         "scale": 0.75,
         "name": "flagHolder",
         "rotation": 0
@@ -142662,16 +144867,16 @@
       {
         "x": 0,
         "y": 0,
-        "w": 66,
+        "w": 67,
         "h": 87,
-        "rx": 1001,
-        "ry": 979
+        "rx": 1000,
+        "ry": 980
       }
     ],
     "fx": [
       {
         "x": 21,
-        "y": -8,
+        "y": -7,
         "scale": 0.75,
         "name": "flagHolder",
         "rotation": 0
@@ -142711,13 +144916,13 @@
         "w": 98,
         "h": 85,
         "rx": 982,
-        "ry": 987
+        "ry": 986
       }
     ],
     "fx": [
       {
         "x": 50,
-        "y": -3,
+        "y": -4,
         "scale": 0.75,
         "name": "flagHolder",
         "rotation": 0
@@ -146524,13 +148729,13 @@
         "w": 128,
         "h": 146,
         "rx": 968,
-        "ry": 944
+        "ry": 937
       }
     ],
     "fx": [
       {
         "x": -1,
-        "y": -30,
+        "y": -38,
         "scale": 0.75,
         "name": "flagHolder",
         "rotation": 0
@@ -146570,13 +148775,13 @@
         "w": 127,
         "h": 168,
         "rx": 968,
-        "ry": 923
+        "ry": 920
       }
     ],
     "fx": [
       {
         "x": -2,
-        "y": -43,
+        "y": -46,
         "scale": 0.75,
         "name": "flagHolder",
         "rotation": 0
@@ -146591,15 +148796,15 @@
         "x": 0,
         "y": 0,
         "w": 138,
-        "h": 154,
+        "h": 153,
         "rx": 960,
-        "ry": 936
+        "ry": 932
       }
     ],
     "fx": [
       {
         "x": -3,
-        "y": -39,
+        "y": -44,
         "scale": 0.75,
         "name": "flagHolder",
         "rotation": 0
@@ -148330,13 +150535,13 @@
         "w": 103,
         "h": 111,
         "rx": 977,
-        "ry": 978
+        "ry": 962
       }
     ],
     "fx": [
       {
         "x": 6,
-        "y": -20,
+        "y": -35,
         "scale": 0.75,
         "name": "flagHolder",
         "rotation": 0
@@ -148351,15 +150556,15 @@
         "x": 0,
         "y": 0,
         "w": 92,
-        "h": 116,
+        "h": 115,
         "rx": 980,
-        "ry": 974
+        "ry": 960
       }
     ],
     "fx": [
       {
         "x": 4,
-        "y": -20,
+        "y": -35,
         "scale": 0.75,
         "name": "flagHolder",
         "rotation": 0
@@ -148376,13 +150581,13 @@
         "w": 105,
         "h": 103,
         "rx": 979,
-        "ry": 980
+        "ry": 970
       }
     ],
     "fx": [
       {
         "x": 42,
-        "y": -15,
+        "y": -25,
         "scale": 0.75,
         "name": "flagHolder",
         "rotation": 0
@@ -148399,13 +150604,13 @@
         "w": 86,
         "h": 110,
         "rx": 982,
-        "ry": 980
+        "ry": 965
       }
     ],
     "fx": [
       {
         "x": 5,
-        "y": -12,
+        "y": -27,
         "scale": 0.75,
         "name": "flagHolder",
         "rotation": 0
@@ -148422,13 +150627,13 @@
         "w": 92,
         "h": 117,
         "rx": 981,
-        "ry": 961
+        "ry": 954
       }
     ],
     "fx": [
       {
         "x": 6,
-        "y": -3,
+        "y": -10,
         "scale": 0.75,
         "name": "flagHolder",
         "rotation": 0
@@ -148443,15 +150648,15 @@
         "x": 0,
         "y": 0,
         "w": 117,
-        "h": 111,
+        "h": 110,
         "rx": 967,
-        "ry": 974
+        "ry": 962
       }
     ],
     "fx": [
       {
         "x": 3,
-        "y": -10,
+        "y": -23,
         "scale": 0.75,
         "name": "flagHolder",
         "rotation": 0

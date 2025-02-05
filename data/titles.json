@@ -197,72 +197,6 @@
       "effects": "132&amp;10"
     },
     {
-      "titleID": 28,
-      "crossplayID": 28,
-      "previousTitleID": 27,
-      "type": "FAME",
-      "threshold": 22724097,
-      "decay": 9,
-      "displayType": "suffix",
-      "mightValue": 129000,
-      "effects": "53&amp;20"
-    },
-    {
-      "titleID": 29,
-      "crossplayID": 29,
-      "previousTitleID": 28,
-      "type": "FAME",
-      "threshold": 34494489,
-      "decay": 10,
-      "displayType": "suffix",
-      "mightValue": 144000,
-      "effects": "51&amp;20"
-    },
-    {
-      "titleID": 30,
-      "crossplayID": 30,
-      "previousTitleID": 29,
-      "type": "FAME",
-      "topX": 100,
-      "decay": 10,
-      "displayType": "suffix",
-      "mightValue": 160000,
-      "effects": "46&amp;489"
-    },
-    {
-      "titleID": 31,
-      "crossplayID": 31,
-      "previousTitleID": 30,
-      "type": "FAME",
-      "topX": 50,
-      "decay": 10,
-      "displayType": "suffix",
-      "mightValue": 180000,
-      "effects": "46&amp;493"
-    },
-    {
-      "titleID": 32,
-      "crossplayID": 32,
-      "previousTitleID": 31,
-      "type": "FAME",
-      "topX": 10,
-      "decay": 10,
-      "displayType": "suffix",
-      "mightValue": 210000,
-      "effects": "48&amp;20"
-    },
-    {
-      "titleID": 33,
-      "crossplayID": 33,
-      "previousTitleID": 32,
-      "type": "FAME",
-      "topX": 1,
-      "decay": 10,
-      "displayType": "suffix",
-      "mightValue": 250000,
-      "effects": "66&amp;50"
-    },
-    {
       "titleID": 18,
       "crossplayID": 18,
       "previousTitleID": 17,
@@ -371,6 +305,72 @@
       "displayType": "suffix",
       "mightValue": 115000,
       "effects": "52&amp;5"
+    },
+    {
+      "titleID": 28,
+      "crossplayID": 28,
+      "previousTitleID": 27,
+      "type": "FAME",
+      "threshold": 22724097,
+      "decay": 9,
+      "displayType": "suffix",
+      "mightValue": 129000,
+      "effects": "53&amp;20"
+    },
+    {
+      "titleID": 29,
+      "crossplayID": 29,
+      "previousTitleID": 28,
+      "type": "FAME",
+      "threshold": 34494489,
+      "decay": 10,
+      "displayType": "suffix",
+      "mightValue": 144000,
+      "effects": "51&amp;20"
+    },
+    {
+      "titleID": 30,
+      "crossplayID": 30,
+      "previousTitleID": 29,
+      "type": "FAME",
+      "topX": 100,
+      "decay": 10,
+      "displayType": "suffix",
+      "mightValue": 160000,
+      "effects": "46&amp;489"
+    },
+    {
+      "titleID": 31,
+      "crossplayID": 31,
+      "previousTitleID": 30,
+      "type": "FAME",
+      "topX": 50,
+      "decay": 10,
+      "displayType": "suffix",
+      "mightValue": 180000,
+      "effects": "46&amp;493"
+    },
+    {
+      "titleID": 32,
+      "crossplayID": 32,
+      "previousTitleID": 31,
+      "type": "FAME",
+      "topX": 10,
+      "decay": 10,
+      "displayType": "suffix",
+      "mightValue": 210000,
+      "effects": "48&amp;20"
+    },
+    {
+      "titleID": 33,
+      "crossplayID": 33,
+      "previousTitleID": 32,
+      "type": "FAME",
+      "topX": 1,
+      "decay": 10,
+      "displayType": "suffix",
+      "mightValue": 250000,
+      "effects": "66&amp;50"
     },
     {
       "titleID": 50,

@@ -2327,9 +2327,11 @@ export interface Language {
         "bundlePackage_short_info": string;
         "bundlePackage_type_equipmentBundle": string;
         "burningBuildings": string;
+        "button_communityHub_short": string;
         "buyRubies": string;
         "cancelChange": string;
         "capReachedRanking_DonationEvent": string;
+        "capReachedRanking_title": string;
         "capacity_1": string;
         "caravanGuy_copy_short": string;
         "caravanGuy_title": string;
@@ -2644,11 +2646,14 @@ export interface Language {
         "currency_description_SamuraiToken": string;
         "currency_description_SasakiToken": string;
         "currency_description_ShapeShifterBloodpointBoosterKey": string;
+        "currency_description_ShardAlice": string;
         "currency_description_ShardAlyssa": string;
         "currency_description_ShardDiana": string;
         "currency_description_ShardHoratio": string;
         "currency_description_ShardLeo": string;
         "currency_description_ShardSasaki": string;
+        "currency_description_ShardTizi": string;
+        "currency_description_ShardTom": string;
         "currency_description_ShardToril": string;
         "currency_description_ShardUniversal": string;
         "currency_description_SilverRune": string;
@@ -2657,6 +2662,8 @@ export interface Language {
         "currency_description_Souls": string;
         "currency_description_Tea": string;
         "currency_description_TeaTimeBoosterKey": string;
+        "currency_description_TiziToken": string;
+        "currency_description_TomAliceToken": string;
         "currency_description_Tonic": string;
         "currency_description_TonicBooster": string;
         "currency_description_WishingWellCoin": string;
@@ -2720,17 +2727,22 @@ export interface Language {
         "currency_name_SamuraiTokens": string;
         "currency_name_SasakiToken": string;
         "currency_name_ShapeShifterBloodpointBoosterKey": string;
+        "currency_name_ShardAlice": string;
         "currency_name_ShardAlyssa": string;
         "currency_name_ShardDiana": string;
         "currency_name_ShardHoratio": string;
         "currency_name_ShardLeo": string;
         "currency_name_ShardSasaki": string;
+        "currency_name_ShardTizi": string;
+        "currency_name_ShardTom": string;
         "currency_name_ShardToril": string;
         "currency_name_ShardUniversal": string;
         "currency_name_SoulSuckerBoosterKey": string;
         "currency_name_Souls": string;
         "currency_name_Tea": string;
         "currency_name_TeaTimeBoosterKey": string;
+        "currency_name_TiziToken": string;
+        "currency_name_TomAliceToken": string;
         "currency_name_Tonic": string;
         "currency_name_TonicBooster": string;
         "currency_name_balloons": string;
@@ -4104,6 +4116,7 @@ export interface Language {
         "dialog_chestOffer_desc_18": string;
         "dialog_chestOffer_desc_advent": string;
         "dialog_chestOffer_desc_blackfriday": string;
+        "dialog_chestOffer_desc_carnival": string;
         "dialog_chestOffer_desc_christmas": string;
         "dialog_chestOffer_desc_oktoberfest": string;
         "dialog_chestOffer_title_01": string;
@@ -4126,6 +4139,7 @@ export interface Language {
         "dialog_chestOffer_title_18": string;
         "dialog_chestOffer_title_advent": string;
         "dialog_chestOffer_title_blackfriday": string;
+        "dialog_chestOffer_title_carnival": string;
         "dialog_chestOffer_title_christmas": string;
         "dialog_chestOffer_title_oktoberfest": string;
         "dialog_chooseCastleConfirm_desc": string;
@@ -5314,6 +5328,7 @@ export interface Language {
         "dialog_highscore_league4": string;
         "dialog_highscore_league5": string;
         "dialog_highscore_name": string;
+        "dialog_highscore_name_alliance_search": string;
         "dialog_highscore_noRankings": string;
         "dialog_highscore_search": string;
         "dialog_highscore_searchAlliance": string;
@@ -6399,7 +6414,7 @@ export interface Language {
         "dialog_longPointsEvent_eventcamp_message_india": string;
         "dialog_longPointsEvent_eventcamp_message_maya": string;
         "dialog_longPointsEvent_eventcamp_message_midas": string;
-        "dialog_longPointsEvent_eventcamp_message_newking": string;
+        "dialog_longPointsEvent_eventcamp_message_newKing": string;
         "dialog_longPointsEvent_eventcamp_message_oktoberfestLTPE": string;
         "dialog_longPointsEvent_eventcamp_message_pirates": string;
         "dialog_longPointsEvent_eventcamp_message_spring": string;
@@ -8558,6 +8573,7 @@ export interface Language {
         "dialog_startDonationEvent_subtitle1": string;
         "dialog_startDonationEvent_subtitle2": string;
         "dialog_startDonationEvent_subtitle3": string;
+        "dialog_startDonationEvent_subtitle4": string;
         "dialog_startDonationEvent_title": string;
         "dialog_startOpenGate_decription": string;
         "dialog_startOpenGate_decription_short": string;
@@ -10057,6 +10073,12 @@ export interface Language {
         "generals_characters_106_name": string;
         "generals_characters_106_narrative": string;
         "generals_characters_106_summary": string;
+        "generals_characters_107_name": string;
+        "generals_characters_107_narrative": string;
+        "generals_characters_107_summary": string;
+        "generals_characters_108_name": string;
+        "generals_characters_108_narrative": string;
+        "generals_characters_108_summary": string;
         "generals_characters_109_name": string;
         "generals_characters_109_narrative": string;
         "generals_characters_109_summary": string;
@@ -10087,6 +10109,9 @@ export interface Language {
         "generals_characters_118_name": string;
         "generals_characters_118_narrative": string;
         "generals_characters_118_summary": string;
+        "generals_characters_119_name": string;
+        "generals_characters_119_narrative": string;
+        "generals_characters_119_summary": string;
         "generals_introduction_cinematic01_desc": string;
         "generals_introduction_cinematic01_name": string;
         "generals_introduction_cinematic02_desc": string;
@@ -10978,6 +11003,7 @@ export interface Language {
         "ranking_description_GachaDeco2x2": string;
         "ranking_description_LTPE": string;
         "ranking_rewardPoints_alliance": string;
+        "ranking_server": string;
         "reachedResearchMax": string;
         "recharge": string;
         "red_faction_short": string;
@@ -18000,7 +18026,6 @@ export interface Language {
         "building_with_level": string;
         "buildings": string;
         "buildslot_title": string;
-        "button_communityHub_short": string;
         "button_faction_ranking": string;
         "buy": string;
         "canNotAttackCastle": string;

@@ -474,8 +474,7 @@
       "donationItemSetID": 4,
       "donationTypeID": 2,
       "currencyID": 8000,
-      "ratio": 1,
-      "maxPointLimit": 79650
+      "ratio": 1
     },
     {
       "donationItemID": 54,
@@ -483,8 +482,7 @@
       "donationItemSetID": 4,
       "donationTypeID": 2,
       "currencyID": 28,
-      "ratio": 2,
-      "maxPointLimit": 11400
+      "ratio": 2
     },
     {
       "donationItemID": 55,
@@ -492,8 +490,7 @@
       "donationItemSetID": 4,
       "donationTypeID": 2,
       "currencyID": 15,
-      "ratio": 4,
-      "maxPointLimit": 11400
+      "ratio": 4
     },
     {
       "donationItemID": 56,
@@ -501,8 +498,7 @@
       "donationItemSetID": 4,
       "donationTypeID": 2,
       "currencyID": 29,
-      "ratio": 8,
-      "maxPointLimit": 11400
+      "ratio": 8
     },
     {
       "donationItemID": 57,
@@ -510,8 +506,7 @@
       "donationItemSetID": 4,
       "donationTypeID": 2,
       "currencyID": 13,
-      "ratio": 45,
-      "maxPointLimit": 11400
+      "ratio": 45
     },
     {
       "donationItemID": 58,
@@ -519,8 +514,7 @@
       "donationItemSetID": 4,
       "donationTypeID": 2,
       "currencyID": 7,
-      "ratio": 1200,
-      "maxPointLimit": 11400
+      "ratio": 1200
     },
     {
       "donationItemID": 59,
@@ -528,8 +522,7 @@
       "donationItemSetID": 4,
       "donationTypeID": 2,
       "currencyID": 10,
-      "ratio": 3750,
-      "maxPointLimit": 11400
+      "ratio": 3750
     },
     {
       "donationItemID": 60,
@@ -537,8 +530,7 @@
       "donationItemSetID": 4,
       "donationTypeID": 2,
       "currencyID": 1,
-      "ratio": 1750,
-      "maxPointLimit": 11400
+      "ratio": 1750
     }
   ]
 }

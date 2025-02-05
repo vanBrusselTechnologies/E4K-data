@@ -4377,8 +4377,7 @@
       "crossplayID": 70191,
       "comment1": "UnitAmountWall",
       "comment2": "Common",
-      "equipmentIDs": 993,
-      "reward2": "de"
+      "equipmentIDs": 993
     },
     {
       "rewardID": 70192,
@@ -7068,6 +7067,78 @@
       "comment1": "New Might Point Rewards",
       "comment2": 20000000,
       "addWishingWellCoin": 5
+    },
+    {
+      "rewardID": 6961,
+      "comment1": "Global Leaderboard Brackets",
+      "comment2": "First",
+      "addDragonScaleSplinters": 35000,
+      "constructionItemIDs": "862+2",
+      "units": "567+200"
+    },
+    {
+      "rewardID": 6962,
+      "comment1": "Global Leaderboard Brackets",
+      "comment2": "Second",
+      "addDragonScaleSplinters": 31500,
+      "constructionItemIDs": 862,
+      "units": "567+175"
+    },
+    {
+      "rewardID": 6963,
+      "comment1": "Global Leaderboard Brackets",
+      "comment2": "Third",
+      "addDragonScaleSplinters": 28000,
+      "constructionItemIDs": 863,
+      "units": "567+150"
+    },
+    {
+      "rewardID": 6964,
+      "comment1": "Global Leaderboard Brackets",
+      "comment2": "4 - 5",
+      "addDragonScaleSplinters": 24500,
+      "constructionItemIDs": 863,
+      "units": "567+125"
+    },
+    {
+      "rewardID": 6965,
+      "comment1": "Global Leaderboard Brackets",
+      "comment2": "6 - 10",
+      "addDragonScaleSplinters": 21000,
+      "constructionItemIDs": 863,
+      "units": "567+100"
+    },
+    {
+      "rewardID": 6966,
+      "comment1": "Global Leaderboard Brackets",
+      "comment2": "11 - 25",
+      "addDragonScaleSplinters": 17500,
+      "constructionItemIDs": 863,
+      "units": "567+75"
+    },
+    {
+      "rewardID": 6967,
+      "comment1": "Global Leaderboard Brackets",
+      "comment2": "26 - 50",
+      "addDragonScaleSplinters": 14000,
+      "constructionItemIDs": 863,
+      "units": "567+50"
+    },
+    {
+      "rewardID": 6968,
+      "comment1": "Global Leaderboard Brackets",
+      "comment2": "51 - 100",
+      "addDragonScaleSplinters": 10500,
+      "constructionItemIDs": 863,
+      "units": "567+25"
+    },
+    {
+      "rewardID": 6969,
+      "comment1": "Global Leaderboard Brackets",
+      "comment2": "101 - 200",
+      "addDragonScaleSplinters": 7000,
+      "constructionItemIDs": 863,
+      "units": "567+10"
     },
     {
       "rewardID": 60000,
@@ -50734,7 +50805,8 @@
       "rewardID": 7469,
       "comment1": "Reward 72",
       "comment2": "Activity Reward NewKing 2022",
-      "addNewKingLTPEToken": 2500
+      "addNewKingLTPEToken": 2500,
+      "lootBox": "33+5"
     },
     {
       "rewardID": 7470,
@@ -56955,8 +57027,8 @@
       "rewardID": 8445,
       "comment1": "NewKing February Top1",
       "comment2": "Lvl 870",
-      "addSceatToken": 500,
-      "decoWodID": 2855
+      "decoWodID": 2855,
+      "addDragonScaleSplinters": 35000
     },
     {
       "rewardID": 8446,

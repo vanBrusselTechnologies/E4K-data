@@ -53844,11 +53844,25 @@
       "comment1": "January  LTPE Shop - 2025",
       "comment2": "LTPE Shop - decoDistrict2x2 -",
       "costIceLTPEToken": 7500,
+      "stock": 1,
+      "sortOrder": 1,
+      "relationIDs": "999,410",
+      "buildingID": 3250,
+      "buildingAmount": 1,
+      "minLevel": 50,
+      "validKingdoms": "0,1,2,3"
+    },
+    {
+      "packageID": 3194,
+      "packageType": "building",
+      "comment1": "February LTPE Shop - 2025",
+      "comment2": "LTPE Shop - decoDistrict2x2 -",
+      "costNewKingLTPEToken": 7500,
       "buildingID": 3250,
       "buildingAmount": 1,
       "stock": 1,
       "sortOrder": 1,
-      "relationIDs": "999,410",
+      "relationIDs": "999,406",
       "minLevel": 50,
       "validKingdoms": "0,1,2,3"
     }

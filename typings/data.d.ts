@@ -125,6 +125,7 @@ export interface Data {
     kingdoms: Kingdom[];
     kingsMarkets: KingsMarket[];
     landmarks: Landmark[];
+    leaderboardRewards: leaderboardRewards[];
     leaguetypeEvents: LeagueTypeEvent[];
     leaguetypes: LeagueType[];
     leaguetypeTopXSizes: LeagueTypeTopXSize[];
@@ -1176,7 +1177,7 @@ export interface DonationItem {
     "donationItemID": number;
     "donationItemSetID": number;
     "donationTypeID": number;
-    "maxPointLimit": number;
+    "maxPointLimit"?: number;
     "ratio": number;
 }
 
@@ -1978,6 +1979,14 @@ export interface Landmark {
     "landmarkID": number;
     "minDefenseLevel": number;
     "preBuiltCastleID"?: number;
+}
+
+export interface leaderboardRewards {
+    "eventTypeID": number;
+    "leaderboardRewardID": number;
+    "leaderboardRewardSetID": number;
+    "maxRank": number;
+    "rewardIDs": number;
 }
 
 export interface LeagueTypeEvent {
@@ -3035,7 +3044,6 @@ export interface Reward {
     "mead"?: number;
     "oil"?: number;
     "relicEquipments"?: string;
-    "reward2"?: string;
     "rewardBags"?: string;
     "rewardID": number;
     "stone"?: number;
@@ -3495,6 +3503,7 @@ export interface Unit {
     "healingOrder"?: number;
     "healingTime"?: number;
     "hybrid"?: number;
+    "inventoryType"?: number;
     "isAuxiliary"?: number;
     "isKamikaze"?: number;
     "isYardTool"?: number;
@@ -3640,6 +3649,7 @@ export interface WorldmapSkin {
     "definesAllCastleLevels"?: number;
     "definesMoat"?: number;
     "definesResources"?: number;
+    "increasedSize"?: number;
     "name": string;
     "skinID": number;
 }
