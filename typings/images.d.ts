@@ -430,6 +430,7 @@ export interface Images {
     "Builder_Building_Level3": ImageData;
     "Builder_Building_Level4": ImageData;
     "Builder_Building_Level5": ImageData;
+    "BuildersQuarters_Building_Level1": ImageData;
     "Buildinglot_Moat_Bridge_Level1_Classic": ImageData;
     "Buildinglot_Moat_Bridge_Level1_Dessert": ImageData;
     "Buildinglot_Moat_Bridge_Level1_Faction": ImageData;
@@ -1039,6 +1040,8 @@ export interface Images {
     "Deco_Building_ExaltedGreenLavaShrineofDuality": ImageData;
     "Deco_Building_ExaltedGreenOktoberfestGarden": ImageData;
     "Deco_Building_ExaltedGreenWaterShrineofDuality": ImageData;
+    "Deco_Building_ExaltedPedestalofEternalLove": ImageData;
+    "Deco_Building_ExaltedPedestalofPassionateLove": ImageData;
     "Deco_Building_ExaltedPurpleChristmasFountain": ImageData;
     "Deco_Building_ExaltedPurpleChristmasPyramid": ImageData;
     "Deco_Building_ExaltedPurpleFrostFountain": ImageData;
@@ -6039,6 +6042,7 @@ export interface Images {
     "icon_effect_coalProduction": ImageData;
     "icon_effect_coalProductionBoost": ImageData;
     "icon_effect_conquerSpeedBonus": ImageData;
+    "icon_effect_constructionQueue": ImageData;
     "icon_effect_craftingQueueProductionBoost": ImageData;
     "icon_effect_crane": ImageData;
     "icon_effect_deco": ImageData;
@@ -6123,6 +6127,7 @@ export interface Images {
     "icon_effect_researchBoost": ImageData;
     "icon_effect_returnTravelBoost": ImageData;
     "icon_effect_returnTravelBoostPVP": ImageData;
+    "icon_effect_simultaneousConstruction": ImageData;
     "icon_effect_smashChance": ImageData;
     "icon_effect_speedBonus": ImageData;
     "icon_effect_speedBonusPVP": ImageData;

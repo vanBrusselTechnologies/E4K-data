@@ -18,15 +18,15 @@
       "characterID": 2,
       "crossplayID": 2,
       "name": "drunkKnight",
-      "spinRarities": "1,1,1,1",
-      "tombolas": "6002+10002",
+      "spinRarities": "1,1,1,2",
+      "tombolas": "6002+10002#6005+10005",
       "coolDownInSeconds": 604800,
       "maxFreeOpenings": 1,
       "freeOpeningTombolaID": 10002,
       "unluckyTotalPoints": 15,
       "badLuckProtectionDrawAmount": 15,
       "packageIDs": 10516,
-      "badLuckSpinRarities": "1,1,2,3"
+      "badLuckSpinRarities": "1,1,2,4"
     },
     {
       "characterID": 3,

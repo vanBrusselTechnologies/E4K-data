@@ -2053,8 +2053,10 @@
     "ci_appearance_christmasWoodcutter_flavour": "Træskærer former træ til festlige dekorationer og robuste værktøjer, deres hænder arbejder med at skabe vidundere til sæsonen.",
     "buildersQuarters_name": "Bygherrens kvarter",
     "buildersQuarters_short_info": "Åbner en byggeplads.",
-    "buildersQuarters_slot_number": "Ekstra byggepladser i dette slot",
-    "dialog_crane_slot_number": "Ekstra køslot i denne borg"
+    "effect_name_simultaneousConstruction": "Ekstra byggepladser i dette slot",
+    "effect_name_constructionQueue": "Ekstra køslot i denne borg",
+    "deco_ExaltedPedestalOfEternalLove_name": "Mindesmærke til evig kærlighed",
+    "deco_ExaltedPedestalOfPassionateLove_name": "Mindesmærke til ære for den brændende kærlighed"
   },
   "dialogs": {
     "dialog_festival_desc": "Brug mad til at holde en fest for dine borgere! Rekrutteringshastigheden vil forøges på i jeres borge, så længe festen varer. Jo større festen er, jo større er effekten.",
@@ -12610,7 +12612,8 @@
     "generals_characters_119_name": "Tizi",
     "generals_characters_119_narrative": "Dronning af den sammenfiltrede vildmark\n\n&quot;Styrke definerer en dronning, og ingen er stærkere end mig.&quot;\n\nDybt inde i den utemmede vildmark ligger den sammenfiltrede vildmark, et rige indhyllet i mysterium og stærkt beskyttet af sin ophøjede dronning, Tizi. Født ind i en stamme af frygtløse krigere var Tizis skæbne som leder klar fra en tidlig alder. Modig, snu og ubarmhjertig, steg hun hurtigt over sine jævnbyrdige og vandt sin plads som den stærkeste blandt sit folk. Under vejledning af sin far, stammens hersker, mestrede hun kampens, strategiens og lederskabets veje og forberedte sig på at forsvare sit hjemland mod alle trusler.\n\nDa hendes far døde, besteg Tizi tronen og blev skjoldet for sit folk. Slotsherrerne fra Det Store Imperium, draget af skatte skjult i hendes vilde lande, forsøgte ofte at invadere, men gang på gang blev de drevet tilbage af Tizi og hendes krigere. Gennem sin styrke og beslutsomhed forvandlede hun sit rige til en ubestridelig bastion, frygtet af alle, der forsøgte at erobre det.\n\nMen ikke alle hendes fjender kommer fra imperiet. Blandt hendes mest frygtede rivaler er den oprørske pirat Alyssa, hvis angreb fra Stormøerne har udløst en ubarmhjertig fejde. Hvor andre bliver skræmt af Tizis magt, ser Alyssa en udfordring, og deres kampe er blevet legendariske fortællinger om kvikhed og vildskab, der genlyder på tværs af kongerigerne.\n\nFor sit folk er Tizi mere end en hersker - hun er deres beskytter og legemliggørelsen af deres ubarmhjertige vilje. Hendes krigere, trænet under hendes skarpe blik, står som et uknuseligt skjold mod dem, der tør træde ind. Mens udenforstående måske kalder hende barbarisk, kender hendes folk hende som en retfærdig og retfærdig leder, der sætter deres velstand over alt andet.\n\nUnder Tizis styre trives hendes kongerige. Dets skatte forbliver urørte, dets vilde lande utemmede. Hendes arv er en frygtløs ledelse, utrættelig styrke og grænseløs loyalitet overfor sit folk. For hendes fjender er hun en ustopbar naturkraft; for hendes undersåtter er hun hjertet og sjælen i den vildmark, de kalder hjem.",
     "generals_characters_119_summary": "Voldsom angriber og frygtløs leder.",
-    "dialog_highscore_name_alliance_search": "Søg efter navn / alliance"
+    "dialog_highscore_name_alliance_search": "Søg efter navn / alliance",
+    "dialog_generals_inn_drawChances_drunkKnight_TiziToken": "Dette er trækchancerne for denne patrons belønningskategorier med det valgte tilbud. Hver kategori indeholder specifikke belønningsformer, som vil blive valgt tilfældigt. For hver betalt tilbud udføres der fire træk, hver træk har chancerne angivet nedenfor.\n\nTrækchance              Belønningskategorier\n\n09.00%                  - Tizi fragmenter\n\n00.50%                  - Tizis tilbud til Ulrich\n\n03.00%                  - Tilbud til prinsesse Beatrice\n\n05.00%                  - Tilbud til Sir Ulrich\n\n08.00%                  - Tilbud til kong Ludwig\n\n02.00%                  - Færdighedsreset tokens\n\n03.40%                  - Udstyr\n\n22.00%                  - Belejrings- og forsvarsværktøjer\n\n10.00%                  - Tidspring\n\n07.00%                  - Hurtig rejse fjer\n\n08.00%                  - Byggeelementer\n\n05.00%                  - Lykkehjul billetter\n\n12.00%                  - Militære enheder\n\n05.10%                  - Dekorationer"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% enhedens kampstyrke ved angreb",

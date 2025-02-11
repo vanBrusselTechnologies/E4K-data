@@ -985,7 +985,6 @@ export interface Language {
         "builder_upgrade_info": string;
         "buildersQuarters_name": string;
         "buildersQuarters_short_info": string;
-        "buildersQuarters_slot_number": string;
         "building_info_emporium": string;
         "building_instant_complete": string;
         "building_instant_complete_description": string;
@@ -1390,6 +1389,8 @@ export interface Language {
         "deco_ExaltedGreenLavaShrineofDuality_name": string;
         "deco_ExaltedGreenOktoberfestGarden_name": string;
         "deco_ExaltedGreenWaterShrineofDuality_name": string;
+        "deco_ExaltedPedestalOfEternalLove_name": string;
+        "deco_ExaltedPedestalOfPassionateLove_name": string;
         "deco_ExaltedPurpleChristmasFountain_name": string;
         "deco_ExaltedPurpleChristmasPyramid_name": string;
         "deco_ExaltedPurpleFrostFountain_name": string;
@@ -1764,7 +1765,6 @@ export interface Language {
         "defense_complete": string;
         "demolish_instant_complete_description": string;
         "dialog_beyondTheHorizon_altar_occupation_time": string;
-        "dialog_crane_slot_number": string;
         "dialog_primeday_primesale_buildingExists": string;
         "dialog_reinforcedvault_header": string;
         "dragonBreathForge_name": string;
@@ -1784,6 +1784,8 @@ export interface Language {
         "dworkshop_upgrade_info": string;
         "effect_desc_CraftingQueueProductionBoost_3": string;
         "effect_name_CraftingQueueProductionBoost_3": string;
+        "effect_name_constructionQueue": string;
+        "effect_name_simultaneousConstruction": string;
         "emporium_name": string;
         "emporium_short_info": string;
         "emporium_upgrade_info": string;
@@ -5179,6 +5181,7 @@ export interface Language {
         "dialog_generals_inn_character_gamblingPrincess": string;
         "dialog_generals_inn_cinematics_header_desc": string;
         "dialog_generals_inn_drawChances_desc": string;
+        "dialog_generals_inn_drawChances_drunkKnight_TiziToken": string;
         "dialog_generals_inn_drawChances_drunkKnight_knightToken": string;
         "dialog_generals_inn_drawChances_fatKing_fatKingToken": string;
         "dialog_generals_inn_drawChances_gamblingPrincess_SasakiToken": string;

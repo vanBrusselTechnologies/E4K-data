@@ -125,7 +125,6 @@ export interface Data {
     kingdoms: Kingdom[];
     kingsMarkets: KingsMarket[];
     landmarks: Landmark[];
-    leaderboardRewards: leaderboardRewards[];
     leaguetypeEvents: LeagueTypeEvent[];
     leaguetypes: LeagueType[];
     leaguetypeTopXSizes: LeagueTypeTopXSize[];
@@ -1981,14 +1980,6 @@ export interface Landmark {
     "preBuiltCastleID"?: number;
 }
 
-export interface leaderboardRewards {
-    "eventTypeID": number;
-    "leaderboardRewardID": number;
-    "leaderboardRewardSetID": number;
-    "maxRank": number;
-    "rewardIDs": number;
-}
-
 export interface LeagueTypeEvent {
     "allianceRewardThresholdPoints"?: number;
     "difficultyIDforMaxPoints"?: string;
@@ -2997,6 +2988,7 @@ export interface Reward {
     "addShardHoratio"?: number;
     "addShardLeo"?: number;
     "addShardSasaki"?: number;
+    "addShardTizi"?: number;
     "addShardToril"?: number;
     "addSilverToken"?: number;
     "addSoldierBiscuit"?: number;
@@ -3005,6 +2997,7 @@ export interface Reward {
     "addStPatrickLTPEToken"?: number;
     "addSteel"?: number;
     "addTimeDoubloon"?: number;
+    "addTiziToken"?: number;
     "addTwinFlameAxes"?: number;
     "addVigorDoubloon"?: number;
     "addWishingWellCoin"?: number;

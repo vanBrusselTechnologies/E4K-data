@@ -218,6 +218,20 @@
       "upgradeCurrencyIDs": "10000,",
       "isPreview": 0,
       "isNPCGeneral": 1
+    },
+    {
+      "generalID": 119,
+      "crossplayID": 119,
+      "generalName": "Tizi",
+      "attackSlots": "101191,101192,101193,101194",
+      "defenseSlots": "101196,101197,101198,101199",
+      "generalRarityID": 3,
+      "maxLevel": 100,
+      "maxStarLevel": 10,
+      "unlockCurrencyID": 10009,
+      "upgradeCurrencyIDs": "10000,10009",
+      "isPreview": 0,
+      "isNPCGeneral": 0
     }
   ]
 }

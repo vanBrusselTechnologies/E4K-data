@@ -694,6 +694,13 @@
       "assetName": "SasakiToken"
     },
     {
+      "currencyID": 6005,
+      "crossplayID": 6005,
+      "Name": "TiziToken",
+      "JSONKey": "TTK",
+      "assetName": "TiziToken"
+    },
+    {
       "currencyID": 10000,
       "crossplayID": 10000,
       "Name": "ShardUniversal",
@@ -741,6 +748,13 @@
       "Name": "ShardDiana",
       "JSONKey": "SDN",
       "assetName": "ShardDiana"
+    },
+    {
+      "currencyID": 10009,
+      "crossplayID": 10009,
+      "Name": "ShardTizi",
+      "JSONKey": "STT",
+      "assetName": "ShardTizi"
     },
     {
       "currencyID": 9999,

@@ -2053,8 +2053,10 @@
     "ci_appearance_christmasWoodcutter_flavour": "伐木工將木材塑造成節日裝飾和堅固的工具，他們的手忙於為這個季節創造奇蹟。",
     "buildersQuarters_name": "建築工人的宿舍",
     "buildersQuarters_short_info": "解鎖一個建設插槽。",
-    "buildersQuarters_slot_number": "此城堡中的額外建設槽",
-    "dialog_crane_slot_number": "這座城堡中的額外隊列插槽"
+    "effect_name_simultaneousConstruction": "此城堡中的額外建設槽",
+    "effect_name_constructionQueue": "這座城堡中的額外隊列插槽",
+    "deco_ExaltedPedestalOfEternalLove_name": "永恆的愛基座",
+    "deco_ExaltedPedestalOfPassionateLove_name": "激情的愛基座"
   },
   "dialogs": {
     "dialog_festival_desc": "用食物幫你的居民舉辦一場盛宴吧！在盛宴期間，你所有城堡的招募速度會大幅提高。宴會越大，效果越好。",
@@ -12610,7 +12612,8 @@
     "generals_characters_119_name": "提茲",
     "generals_characters_119_narrative": "缠绕荒野的女王\n\n「力量定義了女王，而沒有任何人比我更強。」\n\n在未馴化的荒野深處，隱藏著一個神秘的領域，受到其尊貴女王Tizi的激烈保護。Tizi出生於一個無畏的戰士部落，從小便註定了她作為領袖的命運。勇敢、狡猾且堅定不移，她迅速超越同儕，贏得了作為她民族最強者的地位。在父親——部落的統治者的指導下，她掌握了戰鬥、策略和領導的方式，為捍衛家園準備抵禦一切威脅。\n\n當她的父親去世時，Tizi登上王位，成為她人民的盾牌。大帝國的城堡領主因她的野外隱藏的寶藏而頻繁試圖入侵，但Tizi和她的戰士們一次又一次地將他們驅逐。憑藉她的力量和決心，她將她的王國轉變為一個不可侵犯的堡壘，令所有試圖征服它的人聞風喪膽。\n\n但並非所有敵人都來自帝國。在她最強大的競爭對手中，有叛軍海盜Alyssa，她從風暴群島的襲擊引發了一場無情的宿怨。在其他人被Tizi的威力所震懾時，Alyssa卻看到了挑戰，他們之間的戰鬥已成為智慧與兇猛的傳奇故事，回蕩在各個王國。\n\n對她的人民而言，Tizi不僅僅是一位統治者——她是他們的保護者，是他們堅定意志的化身。她的戰士們在她嚴厲目光的訓練下，作為不可動搖的盾牌，抵擋任何敢於侵犯者。儘管外人可能稱她為野蠻人，但她的人民知道，她是一位公正而正義的領袖，把他們的繁榮置於一切之上。\n\n在Tizi的統治下，她的王國繁榮昌盛。其財富依然無損，她的荒野依然未馴化。她的遺產是無畏的領導力、無情的力量和對人民的無限忠誠。對她的敵人而言，她是自然界不可阻擋的力量；對她的臣民而言，她是他們稱之為家的荒野的心靈與靈魂。",
     "generals_characters_119_summary": "兇猛的攻擊者和無畏的領袖。",
-    "dialog_highscore_name_alliance_search": "按名稱 / 聯盟搜尋"
+    "dialog_highscore_name_alliance_search": "按名稱 / 聯盟搜尋",
+    "dialog_generals_inn_drawChances_drunkKnight_TiziToken": "這些是此贊助商的獎勵類別在選定提供下的抽獎機會。每個類別包含特定的獎勵類型，將隨機選擇。每進行一次付費提供，會進行四次抽獎，每次抽獎的機會如下所示。\n\n抽獎機會        獎勵類別\n\n09.00%                  - Tizi碎片\n\n00.50%                  - Tizi對Ulrich的提供\n\n03.00%                  - 向比阿特麗斯公主的提供\n\n05.00%                  - 向烏爾里希爵士的提供\n\n08.00%                  - 向路德維希國王的提供\n\n02.00%                  - 技能重置代幣\n\n03.40%                  - 裝備\n\n22.00%                 - 進攻與防禦工具\n\n10.00%                 - 時間跳躍\n\n07.00%                 - 快速旅行羽毛\n\n08.00%                 - 建設物品\n\n05.00%                 - 幸運輪票\n\n12.00%                 - 軍事單位\n\n05.10%                 - 裝飾品"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% 單位攻擊時的戰鬥力",
