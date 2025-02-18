@@ -1,0 +1,67 @@
+{
+  "leaderboardReward": [
+    {
+      "leaderboardRewardID": 1,
+      "eventTypeID": 123,
+      "leaderboardRewardSetID": 1,
+      "maxRank": 1,
+      "rewardIDs": 6961
+    },
+    {
+      "leaderboardRewardID": 2,
+      "eventTypeID": 123,
+      "leaderboardRewardSetID": 1,
+      "maxRank": 2,
+      "rewardIDs": 6962
+    },
+    {
+      "leaderboardRewardID": 3,
+      "eventTypeID": 123,
+      "leaderboardRewardSetID": 1,
+      "maxRank": 3,
+      "rewardIDs": 6963
+    },
+    {
+      "leaderboardRewardID": 4,
+      "eventTypeID": 123,
+      "leaderboardRewardSetID": 1,
+      "maxRank": 5,
+      "rewardIDs": 6964
+    },
+    {
+      "leaderboardRewardID": 5,
+      "eventTypeID": 123,
+      "leaderboardRewardSetID": 1,
+      "maxRank": 10,
+      "rewardIDs": 6965
+    },
+    {
+      "leaderboardRewardID": 6,
+      "eventTypeID": 123,
+      "leaderboardRewardSetID": 1,
+      "maxRank": 25,
+      "rewardIDs": 6966
+    },
+    {
+      "leaderboardRewardID": 7,
+      "eventTypeID": 123,
+      "leaderboardRewardSetID": 1,
+      "maxRank": 50,
+      "rewardIDs": 6967
+    },
+    {
+      "leaderboardRewardID": 8,
+      "eventTypeID": 123,
+      "leaderboardRewardSetID": 1,
+      "maxRank": 100,
+      "rewardIDs": 6968
+    },
+    {
+      "leaderboardRewardID": 9,
+      "eventTypeID": 123,
+      "leaderboardRewardSetID": 1,
+      "maxRank": 200,
+      "rewardIDs": 6969
+    }
+  ]
+}

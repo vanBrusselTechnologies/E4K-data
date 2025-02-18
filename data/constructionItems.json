@@ -29799,6 +29799,36 @@
       "constructionItemEffectGroupID": 51,
       "disassemblingTombolaID": 3,
       "glassStorage": 250000
+    },
+    {
+      "constructionItemID": 902,
+      "crossplayID": 902,
+      "comment1": "Temporary",
+      "comment2": "Carnival Sales 2025",
+      "name": "carnivalBarrelWorkshop",
+      "constructionItemGroupID": 266,
+      "level": 4,
+      "rarenessID": 4,
+      "slotTypeID": 0,
+      "duration": 345600,
+      "constructionItemEffectGroupID": 51,
+      "disassemblingTombolaID": 2,
+      "effects": "66&amp;25"
+    },
+    {
+      "constructionItemID": 903,
+      "crossplayID": 903,
+      "comment1": "Temporary",
+      "comment2": "Carnival Sales 2025",
+      "name": "carnivalHoneyGardens",
+      "constructionItemGroupID": 267,
+      "level": 4,
+      "rarenessID": 4,
+      "slotTypeID": 0,
+      "duration": 345600,
+      "constructionItemEffectGroupID": 51,
+      "disassemblingTombolaID": 2,
+      "effects": "503&amp;25"
     }
   ]
 }

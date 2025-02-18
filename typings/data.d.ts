@@ -125,6 +125,7 @@ export interface Data {
     kingdoms: Kingdom[];
     kingsMarkets: KingsMarket[];
     landmarks: Landmark[];
+    leaderboardRewards: LeaderboardReward[];
     leaguetypeEvents: LeagueTypeEvent[];
     leaguetypes: LeagueType[];
     leaguetypeTopXSizes: LeagueTypeTopXSize[];
@@ -1978,6 +1979,14 @@ export interface Landmark {
     "landmarkID": number;
     "minDefenseLevel": number;
     "preBuiltCastleID"?: number;
+}
+
+export interface LeaderboardReward {
+    "eventTypeID": number;
+    "leaderboardRewardID": number;
+    "leaderboardRewardSetID": number;
+    "maxRank": number;
+    "rewardIDs": number;
 }
 
 export interface LeagueTypeEvent {

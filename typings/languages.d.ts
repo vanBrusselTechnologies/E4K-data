@@ -21,67 +21,6 @@ export interface Languages {
 }
 
 export interface Language {
-    "Empty": {
-        "dialog_primeday_specialoffer_charges_singular": string;
-    };
-    "Research": {
-        "ci_blueprint_unboostedMeadProduction_secondary_premium": string;
-        "dialog_researchTower_blueprintsCategory1_title": string;
-        "dialog_researchTower_blueprintsCategory2_title": string;
-        "dialog_researchTower_blueprintsCategory3_title": string;
-        "dialog_researchTower_blueprintsCategory4_title": string;
-        "dialog_researchTower_blueprintsCategory5_title": string;
-        "dialog_researchTower_blueprintsCategory7_title": string;
-        "dialog_researchTower_manualsCategory10_title": string;
-        "dialog_researchTower_manualsCategory1_title": string;
-        "dialog_researchTower_manualsCategory2_title": string;
-        "dialog_researchTower_manualsCategory3_title": string;
-        "dialog_researchTower_manualsCategory4_title": string;
-        "dialog_researchTower_manualsCategory5_title": string;
-        "dialog_researchTower_manualsCategory6_title": string;
-        "dialog_researchTower_manualsCategory7_title": string;
-        "dialog_researchTower_manualsCategory8_title": string;
-        "dialog_researchTower_manualsCategory9_title": string;
-        "legendaryLevel_placeholder": string;
-        "requiredlevel_legendaryLevel_placeholder": string;
-        "requiredlevel_xpLevel_placeholder": string;
-        "research_201_copy": string;
-        "research_201_title": string;
-        "research_202_copy": string;
-        "research_203_copy": string;
-        "research_203_title": string;
-        "research_204_copy": string;
-        "research_204_title": string;
-        "research_reachedResearchMax_value": string;
-        "research_recipe_copy": string;
-        "research_recipe_long_title": string;
-        "research_recipe_ruby_title": string;
-        "research_recipe_short_title": string;
-        "research_tab_1": string;
-        "research_tab_2": string;
-        "research_tab_3": string;
-        "research_tab_4": string;
-        "research_tab_5": string;
-    };
-    "Shop": {
-        "shopPackage_001": string;
-        "shopPackage_002": string;
-        "shopPackage_003": string;
-        "shopPackage_004": string;
-        "shopPackage_005": string;
-        "shopPackage_006": string;
-        "shopPackage_011": string;
-        "shopPackage_012": string;
-        "shopPackage_013": string;
-        "shopPackage_015": string;
-        "shopPackage_specialOffer_101": string;
-        "shopPackage_specialOffer_102": string;
-        "shopPackage_specialOffer_103": string;
-        "shopPackage_specialOffer_104": string;
-        "shopPackage_specialOffer_105": string;
-        "shopPackage_specialOffer_106": string;
-        "shopPackage_specialOffer_111": string;
-    };
     "achievements": {
         "achievementDesc_122": string;
         "achievementDesc_345": string;
@@ -1000,6 +939,10 @@ export interface Language {
         "ci_appearance_AnniversaryDefensiveWorkshop_flavour": string;
         "ci_appearance_AnniversaryEstate": string;
         "ci_appearance_AnniversaryEstate_flavour": string;
+        "ci_appearance_CarnivalBarrelWorkshop": string;
+        "ci_appearance_CarnivalBarrelWorkshop_flavour": string;
+        "ci_appearance_CarnivalHoneyGardens": string;
+        "ci_appearance_CarnivalHoneyGardens_flavour": string;
         "ci_appearance_ChristmasDwelling": string;
         "ci_appearance_ChristmasDwelling_flavour": string;
         "ci_appearance_ChristmasGreenhouse": string;
@@ -1383,6 +1326,7 @@ export interface Language {
         "deco_EasterTower_name": string;
         "deco_EggTree_name": string;
         "deco_ElephantMonument_name": string;
+        "deco_ExaltedCarnivalGondola_name": string;
         "deco_ExaltedGreenChristmasFountain_name": string;
         "deco_ExaltedGreenChristmasPresentStash_name": string;
         "deco_ExaltedGreenFrostFountain_name": string;
@@ -5183,6 +5127,7 @@ export interface Language {
         "dialog_generals_inn_drawChances_desc": string;
         "dialog_generals_inn_drawChances_drunkKnight_TiziToken": string;
         "dialog_generals_inn_drawChances_drunkKnight_knightToken": string;
+        "dialog_generals_inn_drawChances_fatKing_TomAliceToken": string;
         "dialog_generals_inn_drawChances_fatKing_fatKingToken": string;
         "dialog_generals_inn_drawChances_gamblingPrincess_SasakiToken": string;
         "dialog_generals_inn_drawChances_gamblingPrincess_princessToken": string;
@@ -6658,7 +6603,6 @@ export interface Language {
         "dialog_mainDonationEvent_DonationLimit": string;
         "dialog_mainDonationEvent_architect": string;
         "dialog_mainDonationEvent_eventType_help": string;
-        "dialog_mainDonationEvent_helpPopup": string;
         "dialog_mainDonationEvent_maxLevel": string;
         "dialog_mainDonationEvent_nextLevelPoints": string;
         "dialog_mainDonationEvent_reward_CurrentLevel": string;
@@ -7510,6 +7454,7 @@ export interface Language {
         "dialog_primeday_specialoffer_bonus": string;
         "dialog_primeday_specialoffer_buysLeft": string;
         "dialog_primeday_specialoffer_charges": string;
+        "dialog_primeday_specialoffer_charges_singular": string;
         "dialog_primeday_specialoffer_description": string;
         "dialog_primeday_specialoffer_endTimer": string;
         "dialog_primeday_specialoffer_reward": string;
@@ -10240,6 +10185,7 @@ export interface Language {
         "generals_skill_name_unitAmountWallCommon": string;
         "generals_skill_name_unitAmountWallLegendary": string;
         "generic_cancel_button": string;
+        "generic_cooldown": string;
         "generic_delete_button": string;
         "generic_edit_button": string;
         "generic_hiddenPassword": string;
@@ -10251,6 +10197,7 @@ export interface Language {
         "generic_server": string;
         "generic_success": string;
         "generic_timeSkips_inventoryFull_warning_desc": string;
+        "generic_title_wait": string;
         "giftPackage_881": string;
         "giftPackage_881_desc": string;
         "giftPackage_882": string;
@@ -10300,6 +10247,8 @@ export interface Language {
         "grimsshield_short_info": string;
         "helpPopup_ChristmasGacha": string;
         "helpPopup_GachaDeco2x2": string;
+        "help_DonationEvent": string;
+        "help_LongTermPointEvent": string;
         "help_autoSpyDialog": string;
         "help_ci_disassemble": string;
         "help_construction_inventory_event": string;
@@ -10326,7 +10275,6 @@ export interface Language {
         "help_generals_skillTree": string;
         "help_legendTemple": string;
         "help_loginBonus": string;
-        "help_longPointsEvent": string;
         "help_longPointsEvent_rewardsList": string;
         "help_luckyWheel_pointsEvent_prizeCategories": string;
         "help_monument_resetMessage": string;
@@ -11004,7 +10952,7 @@ export interface Language {
         "ranking_description_ChristmasGacha": string;
         "ranking_description_DonationEvent": string;
         "ranking_description_GachaDeco2x2": string;
-        "ranking_description_LTPE": string;
+        "ranking_description_LongTermPointEvent": string;
         "ranking_rewardPoints_alliance": string;
         "ranking_server": string;
         "reachedResearchMax": string;
@@ -11249,6 +11197,23 @@ export interface Language {
         "shapeshiftermeleejoker_short_info": string;
         "shapeshifterrangedjoker_name": string;
         "shapeshifterrangedjoker_short_info": string;
+        "shopPackage_001": string;
+        "shopPackage_002": string;
+        "shopPackage_003": string;
+        "shopPackage_004": string;
+        "shopPackage_005": string;
+        "shopPackage_006": string;
+        "shopPackage_011": string;
+        "shopPackage_012": string;
+        "shopPackage_013": string;
+        "shopPackage_015": string;
+        "shopPackage_specialOffer_101": string;
+        "shopPackage_specialOffer_102": string;
+        "shopPackage_specialOffer_103": string;
+        "shopPackage_specialOffer_104": string;
+        "shopPackage_specialOffer_105": string;
+        "shopPackage_specialOffer_106": string;
+        "shopPackage_specialOffer_111": string;
         "shop_limitedPackage_plural": string;
         "shop_limitedPackage_singular": string;
         "siegeMessage_outpostcaptured_buildingstatus": string;
@@ -11737,6 +11702,7 @@ export interface Language {
         "today": string;
         "tomorrow": string;
         "tooltip_gachaName_GachaDeco2x2": string;
+        "tooltip_rankingGlobal": string;
         "tooltip_rankingGlobal_combined": string;
         "treasuremap_0_copy": string;
         "treasuremap_0_title": string;
@@ -12424,6 +12390,7 @@ export interface Language {
         "webshop_offer_advent_8": string;
         "webshop_offer_advent_9": string;
         "webshop_offer_dailyBundlePackage_name_1": string;
+        "webshop_offer_dailyBundle_Carnival_desc": string;
         "webshop_offer_dailyBundle_alreadyPurchased": string;
         "webshop_offer_dailyBundle_blackFridayBonus_desc": string;
         "webshop_offer_dailyBundle_blackFriday_desc": string;
@@ -12602,6 +12569,13 @@ export interface Language {
         "webshop_support_1": string;
         "webshop_termsConditions_1": string;
         "webshop_timeLimitedOffer_name": string;
+        "webshop_tizibase_VIP_name": string;
+        "webshop_tizibase_extraLarge_name": string;
+        "webshop_tizibase_giant_name": string;
+        "webshop_tizibase_huge_name": string;
+        "webshop_tizibase_large_name": string;
+        "webshop_tizibase_medium_name": string;
+        "webshop_tizibase_small_name": string;
         "webshop_tokenbundle_VIP_name": string;
         "webshop_tokenbundle_extraLarge_name": string;
         "webshop_tokenbundle_giant_name": string;
@@ -15048,6 +15022,12 @@ export interface Language {
         "equipment_unique_1214_desc": string;
         "equipment_unique_1215": string;
         "equipment_unique_1215_desc": string;
+        "equipment_unique_1216": string;
+        "equipment_unique_1216_desc": string;
+        "equipment_unique_1217": string;
+        "equipment_unique_1217_desc": string;
+        "equipment_unique_1218": string;
+        "equipment_unique_1218_desc": string;
         "equipment_unique_12_desc": string;
         "equipment_unique_13": string;
         "equipment_unique_13_desc": string;
@@ -24055,8 +24035,45 @@ export interface Language {
         "tut_tapOnQuests_copy_OLD": string;
     };
     "research": {
+        "ci_blueprint_unboostedMeadProduction_secondary_premium": string;
+        "dialog_researchTower_blueprintsCategory1_title": string;
+        "dialog_researchTower_blueprintsCategory2_title": string;
+        "dialog_researchTower_blueprintsCategory3_title": string;
+        "dialog_researchTower_blueprintsCategory4_title": string;
+        "dialog_researchTower_blueprintsCategory5_title": string;
         "dialog_researchTower_blueprintsCategory6_Title": string;
+        "dialog_researchTower_blueprintsCategory7_title": string;
+        "dialog_researchTower_manualsCategory10_title": string;
+        "dialog_researchTower_manualsCategory1_title": string;
+        "dialog_researchTower_manualsCategory2_title": string;
+        "dialog_researchTower_manualsCategory3_title": string;
+        "dialog_researchTower_manualsCategory4_title": string;
+        "dialog_researchTower_manualsCategory5_title": string;
+        "dialog_researchTower_manualsCategory6_title": string;
+        "dialog_researchTower_manualsCategory7_title": string;
+        "dialog_researchTower_manualsCategory8_title": string;
+        "dialog_researchTower_manualsCategory9_title": string;
+        "legendaryLevel_placeholder": string;
+        "requiredlevel_legendaryLevel_placeholder": string;
+        "requiredlevel_xpLevel_placeholder": string;
+        "research_201_copy": string;
+        "research_201_title": string;
+        "research_202_copy": string;
         "research_202_title": string;
+        "research_203_copy": string;
+        "research_203_title": string;
+        "research_204_copy": string;
+        "research_204_title": string;
+        "research_reachedResearchMax_value": string;
+        "research_recipe_copy": string;
+        "research_recipe_long_title": string;
+        "research_recipe_ruby_title": string;
+        "research_recipe_short_title": string;
+        "research_tab_1": string;
+        "research_tab_2": string;
+        "research_tab_3": string;
+        "research_tab_4": string;
+        "research_tab_5": string;
     };
     "tooltips": {
         "LocalBuildingIndicatorBubble_tooltip": string;

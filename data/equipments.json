@@ -14016,6 +14016,42 @@
       "mightValue": 0,
       "canSlotGem": 0,
       "skinID": 120
+    },
+    {
+      "equipmentID": 1216,
+      "comment1": "Carnival Sales 2025",
+      "wearerID": 2,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 967,
+      "effects": "24&amp;6,334&amp;25",
+      "duration": 120,
+      "mightValue": 0,
+      "canSlotGem": 0,
+      "skinID": 83
+    },
+    {
+      "equipmentID": 1217,
+      "comment1": "Carnival Sales 2025",
+      "wearerID": 2,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 967,
+      "effects": "24&amp;7,334&amp;5",
+      "duration": 72,
+      "mightValue": 0,
+      "canSlotGem": 0,
+      "skinID": 83
+    },
+    {
+      "equipmentID": 1218,
+      "comment1": "Carnival Sales 2025",
+      "wearerID": 1,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 970,
+      "effects": "335&amp;45,37&amp;25000",
+      "duration": 120,
+      "mightValue": 0,
+      "canSlotGem": 0,
+      "skinID": 84
     }
   ]
 }

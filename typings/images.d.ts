@@ -1034,6 +1034,7 @@ export interface Images {
     "Deco_Building_ElephantMonument": ImageData;
     "Deco_Building_EternalBlossoms": ImageData;
     "Deco_Building_EternityGarden": ImageData;
+    "Deco_Building_ExaltedCarnivalGondola": ImageData;
     "Deco_Building_ExaltedGreenChristmasFountain": ImageData;
     "Deco_Building_ExaltedGreenChristmasPresentStash": ImageData;
     "Deco_Building_ExaltedGreenFrostFountain": ImageData;
@@ -4680,6 +4681,8 @@ export interface Images {
     "box_pedestal_3": ImageData;
     "box_pedestal_4": ImageData;
     "carnivalBarracks": ImageData;
+    "carnivalBarrelWorkshop": ImageData;
+    "carnivalHoneyGardens": ImageData;
     "carnivalMill": ImageData;
     "christmasDwelling": ImageData;
     "christmasGreenhouse": ImageData;
