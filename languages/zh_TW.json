@@ -12587,7 +12587,8 @@
     "webshop_tizibase_small_name": "糾結荒野的小皇冠",
     "webshop_offer_dailyBundle_Carnival_desc": "嘉年華特惠 + {0}% 更高的獎勵！",
     "dialog_generals_inn_drawChances_fatKing_TomAliceToken": "這些是該顧客在所選提供下的獎勵類別的抽取機會。每個類別包含特定的獎勵類型，將隨機選擇。每個付費提供進行四次抽取，每次抽取的機會如下所示。\n\n抽取機會        獎勵類別\n\n04.50%                  - 湯姆碎片\n\n04.50%                  - 愛麗絲碎片\n\n00.50%                  - 湯姆和愛麗絲的獻給路德維希國王的提議\n\n03.00%                  - 獻給碧翠絲公主的提議\n\n05.00%                  - 獻給烏爾里希爵士的提議\n\n08.00%                  - 獻給路德維希國王的提議\n\n02.00%                  - 技能重置代幣\n\n03.40%                  - 裝備\n\n22.00%                  - 攻城和防禦工具\n\n10.00%                  - 時間跳過\n\n07.00%                  - 快速旅行羽毛\n\n08.00%                  - 建築物品\n\n05.00%                  - 幸運抽獎票\n\n12.00%                  - 軍事單位\n\n05.10%                  - 裝飾品",
-    "tooltip_rankingGlobal": "排名將顯示您最後一次提高分數時所屬的聯盟。"
+    "tooltip_rankingGlobal": "排名將顯示您最後一次提高分數時所屬的聯盟。",
+    "longPointsEvent_pointRanking_tooltip": "賽季得分排名"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% 單位攻擊時的戰鬥力",

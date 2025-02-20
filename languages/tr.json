@@ -12587,7 +12587,8 @@
     "webshop_tizibase_small_name": "Dolaşık vahşi doğanın küçük tacı",
     "webshop_offer_dailyBundle_Carnival_desc": "Karnaval Özel + {0}% daha yüksek bonus!",
     "dialog_generals_inn_drawChances_fatKing_TomAliceToken": "Bu, bu patronun seçilen teklifi ile ödül kategorileri için çekiliş şanslarıdır. Her kategori, rastgele seçilecek belirli ödül türlerini içerir. Her ücretli teklif için dört çekiliş gerçekleştirilir, her çekiliş aşağıda listelenen şanslara sahiptir.\n\nÇekiliş Şansı        Ödül Kategorileri\n\n04.50%                  - Tom parçaları\n\n04.50%                  - Alice parçaları\n\n00.50%                  - Tom ve Alicein Kral Ludwige Teklifi\n\n03.00%                  - Prenses Beatricee Teklif\n\n05.00%                  - Sir Ulriche Teklif\n\n08.00%                  - Kral Ludwige Teklif\n\n02.00%                  - Yetenek sıfırlama jetonları\n\n03.40%                  - Ekipman\n\n22.00%                  - Kuşatma ve savunma araçları\n\n10.00%                  - Zaman Atlama\n\n07.00%                  - Hızlı seyahat tüyleri\n\n08.00%                  - İnşaat öğeleri\n\n05.00%                  - Şans Çarkı biletleri\n\n12.00%                  - Askeri birimler\n\n05.10%                  - Dekorasyonlar",
-    "tooltip_rankingGlobal": "Sıralama, son puanınızı artırdığınızda parçası olduğunuz ittifakı gösterecektir."
+    "tooltip_rankingGlobal": "Sıralama, son puanınızı artırdığınızda parçası olduğunuz ittifakı gösterecektir.",
+    "longPointsEvent_pointRanking_tooltip": "Mevsim puanları sıralaması"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% birimin savaş gücü saldırırken",

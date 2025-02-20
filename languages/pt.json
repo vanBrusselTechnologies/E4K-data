@@ -12587,7 +12587,8 @@
     "webshop_tizibase_small_name": "Pequena coroa da selva emaranhada",
     "webshop_offer_dailyBundle_Carnival_desc": "Especial de Carnaval + {0}% de bônus maior!",
     "dialog_generals_inn_drawChances_fatKing_TomAliceToken": "Estas são as chances de sorteio para as categorias de recompensa deste patrono com a oferta selecionada. Cada categoria contém tipos específicos de recompensa, que serão escolhidos aleatoriamente. Para cada oferta paga, quatro sorteios são realizados, cada sorteio tem as chances listadas abaixo.\n\nChance de Sorteio        Categorias de Recompensa\n\n04.50%                  - Fragmentos do Tom\n\n04.50%                  - Fragmentos da Alice\n\n00.50%                  - Oferta do Tom e Alice para o Rei Ludwig\n\n03.00%                  - Oferta para a Princesa Beatrice\n\n05.00%                  - Oferta para o Sir Ulrich\n\n08.00%                  - Oferta para o Rei Ludwig\n\n02.00%                  - Tokens de reset de habilidade\n\n03.40%                  - Equipamento\n\n22.00%                  - Ferramentas de cerco e defesa\n\n10.00%                  - Saltos de tempo\n\n07.00%                  - Penas de viagem rápida\n\n08.00%                  - Itens de construção\n\n05.00%                  - Bilhetes da Roda da Fortuna\n\n12.00%                  - Unidades militares\n\n05.10%                  - Decorações",
-    "tooltip_rankingGlobal": "O ranking exibirá a aliança da qual você fez parte quando aumentou sua pontuação pela última vez."
+    "tooltip_rankingGlobal": "O ranking exibirá a aliança da qual você fez parte quando aumentou sua pontuação pela última vez.",
+    "longPointsEvent_pointRanking_tooltip": "Ranking dos pontos sazonais"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% de força de combate da unidade ao atacar",

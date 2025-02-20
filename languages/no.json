@@ -12587,7 +12587,8 @@
     "webshop_tizibase_small_name": "Liten krone av den sammenfiltrede villmarken",
     "webshop_offer_dailyBundle_Carnival_desc": "Karneval Spesial + {0}% høyere bonus!",
     "dialog_generals_inn_drawChances_fatKing_TomAliceToken": "Dette er trekkningssjansene for denne patronens belønningskategorier med det valgte tilbudet. Hver kategori inneholder spesifikke belønningsformer, som vil bli valgt tilfeldig. For hvert betalte tilbud, utføres det fire trekninger, hver trekning har sjansene oppført nedenfor.\n\nTrekkningssjansene        Belønningskategorier\n\n04.50%                  - Tom-splinter\n\n04.50%                  - Alice-splinter\n\n00.50%                  - Tom &amp; Alices tilbud til Kong Ludwig\n\n03.00%                  - Tilbud til Prinsesse Beatrice\n\n05.00%                  - Tilbud til Sir Ulrich\n\n08.00%                  - Tilbud til Kong Ludwig\n\n02.00%                  - Ferdighetsreset tokens\n\n03.40%                  - Utstyr\n\n22.00%                  - Beleiring &amp; forsvar verktøy\n\n10.00%                  - Tidsklipp\n\n07.00%                  - Rask reise fjær\n\n08.00%                  - Byggeelementer\n\n05.00%                  - Lykkehjul billetter\n\n12.00%                  - Militære enheter\n\n05.10%                  - Dekorasjoner",
-    "tooltip_rankingGlobal": "Rangeringen viser alliansen du var en del av da du sist økte poengsummen din."
+    "tooltip_rankingGlobal": "Rangeringen viser alliansen du var en del av da du sist økte poengsummen din.",
+    "longPointsEvent_pointRanking_tooltip": "Høytidspoeng-rankingliste"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% enhetens kampstyrke ved angrep",

@@ -12587,7 +12587,8 @@
     "webshop_tizibase_small_name": "Mała korona z poplątanej puszczy",
     "webshop_offer_dailyBundle_Carnival_desc": "Specjal Karnawałowy + {0}% wyższy bonus!",
     "dialog_generals_inn_drawChances_fatKing_TomAliceToken": "Oto szanse na losowanie dla kategorii nagród tego patrona z wybranym oferowaniem. Każda kategoria zawiera konkretne typy nagród, które będą losowo wybierane. Dla każdej płatnej oferty odbywa się cztery losowania, każde z szansami wymienionymi poniżej.\n\nSzansa losowania        Kategorie nagród\n\n04.50%                  - Kryształy Toma\n\n04.50%                  - Kryształy Alicji\n\n00.50%                  - Oferta Toma i Alicji dla Króla Ludwika\n\n03.00%                  - Oferta dla Księżniczki Beatrice\n\n05.00%                  - Oferta dla Sir Ulricha\n\n08.00%                  - Oferta dla Króla Ludwika\n\n02.00%                  - Tokeny resetowania umiejętności\n\n03.40%                  - Sprzęt\n\n22.00%                  - Narzędzia oblężnicze i obronne\n\n10.00%                  - Przejścia czasowe\n\n07.00%                  - Pióra szybkiej podróży\n\n08.00%                  - Elementy budowlane\n\n05.00%                  - Bilety na Koło Fortuny\n\n12.00%                  - Jednostki wojskowe\n\n05.10%                  - Dekoracje",
-    "tooltip_rankingGlobal": "Ranking wyświetli sojusz, którego byłeś częścią, gdy ostatnio zwiększyłeś swój wynik."
+    "tooltip_rankingGlobal": "Ranking wyświetli sojusz, którego byłeś częścią, gdy ostatnio zwiększyłeś swój wynik.",
+    "longPointsEvent_pointRanking_tooltip": "Rankingi punktów sezonowych"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% siły bojowej jednostki podczas ataku",

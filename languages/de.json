@@ -12587,7 +12587,8 @@
     "webshop_tizibase_small_name": "Kleine Krone des verworrenen Wildnis",
     "webshop_offer_dailyBundle_Carnival_desc": "Karnevalsspecial + {0}% höherer Bonus!",
     "dialog_generals_inn_drawChances_fatKing_TomAliceToken": "Dies sind die Ziehchancen für die Belohnungskategorien dieses Patrons mit dem ausgewählten Angebot. Jede Kategorie enthält spezifische Belohnungstypen, die zufällig ausgewählt werden. Für jedes bezahlte Angebot werden vier Ziehungen durchgeführt, jede Ziehung hat die unten aufgeführten Chancen.\n\nZiehchance        Belohnungskategorien\n\n04.50%                  - Tom-Splitter\n\n04.50%                  - Alice-Splitter\n\n00.50%                  - Toms &amp; Alices Angebot an König Ludwig\n\n03.00%                  - Angebot an Prinzessin Beatrice\n\n05.00%                  - Angebot an Sir Ulrich\n\n08.00%                  - Angebot an König Ludwig\n\n02.00%                  - Fähigkeiten-Reset-Token\n\n03.40%                  - Ausrüstung\n\n22.00%                  - Belagerungs- und Verteidigungstools\n\n10.00%                  - Zeitüberspringen\n\n07.00%                  - Schnelle Reise-Federn\n\n08.00%                  - Bauartikel\n\n05.00%                  - Glücksrad-Tickets\n\n12.00%                  - Militäreinheiten\n\n05.10%                  - Dekorationen",
-    "tooltip_rankingGlobal": "Die Rangliste zeigt die Allianz an, der Sie angehörten, als Sie zuletzt Ihren Punktestand erhöht haben."
+    "tooltip_rankingGlobal": "Die Rangliste zeigt die Allianz an, der Sie angehörten, als Sie zuletzt Ihren Punktestand erhöht haben.",
+    "longPointsEvent_pointRanking_tooltip": "Saisonpunkte-Rangliste"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% Einheit Kampfkraft beim Angreifen",

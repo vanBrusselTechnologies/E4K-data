@@ -4945,6 +4945,17 @@ export interface Images {
     "icon_building_MilitaryDistrict_small": ImageData;
     "icon_building_TradeDistrict_small": ImageData;
     "icon_building_locally_stored": ImageData;
+    "icon_building_related_effect_castlewall": ImageData;
+    "icon_building_related_effect_crane": ImageData;
+    "icon_building_related_effect_forge": ImageData;
+    "icon_building_related_effect_gate": ImageData;
+    "icon_building_related_effect_hideout": ImageData;
+    "icon_building_related_effect_houseoffire": ImageData;
+    "icon_building_related_effect_militarycamp": ImageData;
+    "icon_building_related_effect_moat": ImageData;
+    "icon_building_related_effect_publicorder": ImageData;
+    "icon_building_related_effect_tower": ImageData;
+    "icon_building_related_effect_watchtower": ImageData;
     "icon_building_relic": ImageData;
     "icon_buildinglevel_sort_down": ImageData;
     "icon_buildinglevel_sort_up": ImageData;

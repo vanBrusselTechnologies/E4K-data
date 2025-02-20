@@ -10437,6 +10437,7 @@ export interface Language {
         "loc_village": string;
         "longPointsEventBooster_name": string;
         "longPointsEventBooster_short_info": string;
+        "longPointsEvent_pointRanking_tooltip": string;
         "lord_effectlist_battleEffects_title": string;
         "maintenance_discord_desc": string;
         "maintenance_freeze_desc": string;

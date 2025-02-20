@@ -12587,7 +12587,8 @@
     "webshop_tizibase_small_name": "얽힌 황야의 작은 왕관",
     "webshop_offer_dailyBundle_Carnival_desc": "카니발 스페셜 + {0}% 더 높은 보너스!",
     "dialog_generals_inn_drawChances_fatKing_TomAliceToken": "이것들은 선택된 오퍼링과 함께 이 후원자의 보상 카테고리에 대한 추첨 확률입니다. 각 카테고리에는 특정 보상 유형이 포함되어 있으며 무작위로 선택됩니다. 유료 오퍼링마다 4회 추첨이 수행되며 각 추첨에는 아래에 나열된 확률이 있습니다.\n\n추첨 확률        보상 카테고리\n\n04.50%                  - 톰의 파편\n\n04.50%                  - 앨리스의 파편\n\n00.50%                  - 톰과 앨리스의 루드비히 왕에게 바치는 제안\n\n03.00%                  - 비아트리체 공주에게 바치는 제안\n\n05.00%                  - 울리히 경에게 바치는 제안\n\n08.00%                  - 루드비히 왕에게 바치는 제안\n\n02.00%                  - 스킬 리셋 토큰\n\n03.40%                  - 장비\n\n22.00%                  - 포위 및 방어 도구\n\n10.00%                  - 시간 건너뛰기\n\n07.00%                  - 빠른 이동 깃털\n\n08.00%                  - 건설 아이템\n\n05.00%                  - 행운의 바퀴 티켓\n\n12.00%                  - 군사 유닛\n\n05.10%                  - 장식",
-    "tooltip_rankingGlobal": "랭킹은 마지막으로 점수를 올렸을 때 속해 있었던 동맹을 표시합니다."
+    "tooltip_rankingGlobal": "랭킹은 마지막으로 점수를 올렸을 때 속해 있었던 동맹을 표시합니다.",
+    "longPointsEvent_pointRanking_tooltip": "시즌 점수 순위"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% 유닛 전투력 공격 시",

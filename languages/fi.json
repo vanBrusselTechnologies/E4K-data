@@ -12587,7 +12587,8 @@
     "webshop_tizibase_small_name": "Pieni kruunu sotkuisesta erämaasta",
     "webshop_offer_dailyBundle_Carnival_desc": "Karnevaali Erikoistarjous + {0}% korkeampi bonus!",
     "dialog_generals_inn_drawChances_fatKing_TomAliceToken": "Nämä ovat tämän asiakkaan palkintokategorioiden arvontamahdollisuudet valitulla tarjouksella. Jokaisessa kategoriassa on tiettyjä palkintotyyppejä, jotka valitaan satunnaisesti. Jokaiselle maksetulle tarjoukselle suoritetaan neljä arvontaa, ja jokaisessa arvonnassa on alla luetellut mahdollisuudet.\n\nArvontamahdollisuus        Palkintokategoriat\n\n04.50%                  - Tomin sirpaleet\n\n04.50%                  - Alicen sirpaleet\n\n00.50%                  - Tomin ja Alicen tarjous kuningas Ludvigille\n\n03.00%                  - Tarjous prinsessa Beatricelle\n\n05.00%                  - Tarjous ritari Ulrichille\n\n08.00%                  - Tarjous kuningas Ludvigille\n\n02.00%                  - Taitojen nollauskolikot\n\n03.40%                  - Varusteet\n\n22.00%                  - Hyökkäys- ja puolustustyökalut\n\n10.00%                  - Aikasiirrot\n\n07.00%                  - Nopeat matkafedrat\n\n08.00%                  - Rakennusvälineet\n\n05.00%                  - Onnenpyörän liput\n\n12.00%                  - Sotilasyksiköt\n\n05.10%                  - Koristeet",
-    "tooltip_rankingGlobal": "Ranking näyttää liittosi, johon kuuluit, kun viimeksi nostit pistettäsi."
+    "tooltip_rankingGlobal": "Ranking näyttää liittosi, johon kuuluit, kun viimeksi nostit pistettäsi.",
+    "longPointsEvent_pointRanking_tooltip": "Kausipistesijoitukset"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% yksikön taisteluvoima hyökkäyksessä",

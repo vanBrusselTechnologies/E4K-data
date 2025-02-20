@@ -12587,7 +12587,8 @@
     "webshop_tizibase_small_name": "Pequeña corona de la selva enredada",
     "webshop_offer_dailyBundle_Carnival_desc": "Carnaval Especial + {0}% de bonificación adicional!",
     "dialog_generals_inn_drawChances_fatKing_TomAliceToken": "Estas son las probabilidades de sorteo para las categorías de recompensas de este cliente con la oferta seleccionada. Cada categoría contiene tipos de recompensas específicos, que serán elegidos al azar. Por cada oferta pagada, se realizan cuatro sorteos, cada sorteo tiene las probabilidades que se indican a continuación.\n\nProbabilidad de Sorteo        Categorías de Recompensas\n\n04.50%                  - Fragmentos de Tom\n\n04.50%                  - Fragmentos de Alicia\n\n00.50%                  - Oferta de Tom y Alicia para el Rey Luis\n\n03.00%                  - Oferta para la Princesa Beatriz\n\n05.00%                  - Oferta para Sir Ulrich\n\n08.00%                  - Oferta para el Rey Luis\n\n02.00%                  - Fichas de reinicio de habilidades\n\n03.40%                  - Equipamiento\n\n22.00%                  - Herramientas de asedio y defensa\n\n10.00%                  - Saltos de tiempo\n\n07.00%                  - Plumas de viaje rápido\n\n08.00%                  - Artículos de construcción\n\n05.00%                  - Boletos de la Rueda de la Fortuna\n\n12.00%                  - Unidades militares\n\n05.10%                  - Decoraciones",
-    "tooltip_rankingGlobal": "El ranking mostrará la alianza de la que formabas parte cuando aumentaste tu puntuación por última vez."
+    "tooltip_rankingGlobal": "El ranking mostrará la alianza de la que formabas parte cuando aumentaste tu puntuación por última vez.",
+    "longPointsEvent_pointRanking_tooltip": "Clasificación de puntos de temporada"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% de fuerza de combate de la unidad al atacar",

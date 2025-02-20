@@ -12587,7 +12587,8 @@
     "webshop_tizibase_small_name": "Petite couronne de la forêt enchevêtrée",
     "webshop_offer_dailyBundle_Carnival_desc": "Spécial Carnaval + {0}% de bonus supplémentaire !",
     "dialog_generals_inn_drawChances_fatKing_TomAliceToken": "Voici les chances de tirage pour les catégories de récompenses de ce client avec loffre sélectionnée. Chaque catégorie contient des types de récompenses spécifiques, qui seront choisis au hasard. Pour chaque offre payante, quatre tirages sont effectués, chaque tirage ayant les chances énumérées ci-dessous.\n\nChance de Tirage        Catégories de Récompenses\n\n04.50%                  - Éclats de Tom\n\n04.50%                  - Éclats dAlice\n\n00.50%                  - Offre de Tom et Alice au Roi Ludwig\n\n03.00%                  - Offre à la Princesse Béatrice\n\n05.00%                  - Offre à Sir Ulrich\n\n08.00%                  - Offre au Roi Ludwig\n\n02.00%                  - Jetons de réinitialisation de compétences\n\n03.40%                  - Équipement\n\n22.00%                  - Outils de siège et de défense\n\n10.00%                  - Sauts dans le temps\n\n07.00%                  - Plumes de voyage rapide\n\n08.00%                  - Articles de construction\n\n05.00%                  - Billets de la Roue de la Fortune\n\n12.00%                  - Unités militaires\n\n05.10%                  - Décorations",
-    "tooltip_rankingGlobal": "Le classement affichera lalliance à laquelle vous apparteniez lorsque vous avez augmenté votre score pour la dernière fois."
+    "tooltip_rankingGlobal": "Le classement affichera lalliance à laquelle vous apparteniez lorsque vous avez augmenté votre score pour la dernière fois.",
+    "longPointsEvent_pointRanking_tooltip": "Classement de points de saison"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% de force de combat de lunité lors de lattaque",

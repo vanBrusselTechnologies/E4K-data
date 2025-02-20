@@ -12587,7 +12587,8 @@
     "webshop_tizibase_small_name": "Liten krona av den snåriga vildmarken",
     "webshop_offer_dailyBundle_Carnival_desc": "Karnevalspecial + {0}% högre bonus!",
     "dialog_generals_inn_drawChances_fatKing_TomAliceToken": "Detta är dragningarna för belöningskategorier för denna patron med det valda erbjudandet. Varje kategori innehåller specifika belöningstyper som kommer att väljas slumpmässigt. För varje betald erbjudande görs fyra dragningar, där varje dragning har chanserna listade nedan.\n\nDragningens chans       Belöningskategorier\n\n04.50%                  - Tom-skärvor\n\n04.50%                  - Alice-skärvor\n\n00.50%                  - Toms och Alices erbjudande till kung Ludwig\n\n03.00%                  - Erbjudande till prinsessan Beatrice\n\n05.00%                  - Erbjudande till sir Ulrich\n\n08.00%                  - Erbjudande till kung Ludwig\n\n02.00%                  - Färdighetsåterställnings-token\n\n03.40%                  - Utrustning\n\n22.00%                  - Belägrings- och försvarsinstrument\n\n10.00%                  - Tidsöverskridningar\n\n07.00%                  - Snabbrestfjädrar\n\n08.00%                  - Byggföremål\n\n05.00%                  - Lyckohjulbiljetter\n\n12.00%                  - Militär enheter\n\n05.10%                  - Dekorationer",
-    "tooltip_rankingGlobal": "Rankingen kommer att visa den allians du var en del av när du senast höjde din poäng."
+    "tooltip_rankingGlobal": "Rankingen kommer att visa den allians du var en del av när du senast höjde din poäng.",
+    "longPointsEvent_pointRanking_tooltip": "Säsongspoängsrankingar"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% enhetens stridskraft vid angrepp",

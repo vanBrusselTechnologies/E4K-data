@@ -110126,6 +110126,21 @@
     ],
     "fx": []
   },
+  "icon_building_related_effect_militarycamp": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_effect_commander_small_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 29,
+        "h": 32,
+        "rx": 985,
+        "ry": 984
+      }
+    ],
+    "fx": []
+  },
   "icon_effect_supportSpeedBonus": {
     "pid": 0,
     "url": "x384/Icons/IconsShared/icon_effect_conquerSpeedBonus_Shared.png",
@@ -110257,6 +110272,21 @@
         "h": 31,
         "rx": 982,
         "ry": 984
+      }
+    ],
+    "fx": []
+  },
+  "icon_building_related_effect_crane": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_effect_crane_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 31,
+        "h": 35,
+        "rx": 984,
+        "ry": 982
       }
     ],
     "fx": []
@@ -110621,6 +110651,21 @@
     ],
     "fx": []
   },
+  "icon_building_related_effect_houseoffire": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_effect_fireBrigadeBonus_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 27,
+        "h": 31,
+        "rx": 986,
+        "ry": 984
+      }
+    ],
+    "fx": []
+  },
   "icon_effect_fireBrigadeBonus": {
     "pid": 0,
     "url": "x384/Icons/IconsShared/icon_effect_fireBrigadeBonus_Shared.png",
@@ -110756,6 +110801,21 @@
     ],
     "fx": []
   },
+  "icon_building_related_effect_hideout": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_effect_hideoutCapacity_small_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 33,
+        "h": 26,
+        "rx": 983,
+        "ry": 987
+      }
+    ],
+    "fx": []
+  },
   "icon_effect_hideoutCapacity_small": {
     "pid": 0,
     "url": "x384/Icons/IconsShared/icon_effect_hideoutCapacity_small_Shared.png",
@@ -110842,6 +110902,51 @@
         "h": 27,
         "rx": 983,
         "ry": 986
+      }
+    ],
+    "fx": []
+  },
+  "icon_building_related_effect_tower": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_effect_keep_stat_small_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 26,
+        "h": 23,
+        "rx": 987,
+        "ry": 988
+      }
+    ],
+    "fx": []
+  },
+  "icon_building_related_effect_gate": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_effect_keep_stat_small_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 26,
+        "h": 23,
+        "rx": 987,
+        "ry": 988
+      }
+    ],
+    "fx": []
+  },
+  "icon_building_related_effect_castlewall": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_effect_keep_stat_small_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 26,
+        "h": 23,
+        "rx": 987,
+        "ry": 988
       }
     ],
     "fx": []
@@ -111161,6 +111266,21 @@
     ],
     "fx": []
   },
+  "icon_building_related_effect_moat": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_effect_moat_small_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 43,
+        "h": 21,
+        "rx": 978,
+        "ry": 989
+      }
+    ],
+    "fx": []
+  },
   "icon_effect_offensiveMeleeBonus": {
     "pid": 0,
     "url": "x384/Icons/IconsShared/icon_effect_offensiveMeleeBonus_Shared.png",
@@ -111277,6 +111397,21 @@
         "h": 23,
         "rx": 981,
         "ry": 988
+      }
+    ],
+    "fx": []
+  },
+  "icon_building_related_effect_publicorder": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_effect_publicorder_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 31,
+        "h": 31,
+        "rx": 984,
+        "ry": 984
       }
     ],
     "fx": []
@@ -111431,6 +111566,21 @@
     ],
     "fx": []
   },
+  "icon_building_related_effect_forge": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_effect_toolProductionSpeedBoostAll_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 28,
+        "rx": 982,
+        "ry": 986
+      }
+    ],
+    "fx": []
+  },
   "icon_effect_toolProductionSpeedBoostAll": {
     "pid": 0,
     "url": "x384/Icons/IconsShared/icon_effect_toolProductionSpeedBoostAll_Shared.png",
@@ -111547,6 +111697,21 @@
         "h": 22,
         "rx": 980,
         "ry": 989
+      }
+    ],
+    "fx": []
+  },
+  "icon_building_related_effect_watchtower": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_effect_watchtower_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 37,
+        "h": 20,
+        "rx": 981,
+        "ry": 990
       }
     ],
     "fx": []
