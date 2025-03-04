@@ -12588,7 +12588,14 @@
     "webshop_offer_dailyBundle_Carnival_desc": "Karnevalsspecial + {0}% höherer Bonus!",
     "dialog_generals_inn_drawChances_fatKing_TomAliceToken": "Dies sind die Ziehchancen für die Belohnungskategorien dieses Patrons mit dem ausgewählten Angebot. Jede Kategorie enthält spezifische Belohnungstypen, die zufällig ausgewählt werden. Für jedes bezahlte Angebot werden vier Ziehungen durchgeführt, jede Ziehung hat die unten aufgeführten Chancen.\n\nZiehchance        Belohnungskategorien\n\n04.50%                  - Tom-Splitter\n\n04.50%                  - Alice-Splitter\n\n00.50%                  - Toms &amp; Alices Angebot an König Ludwig\n\n03.00%                  - Angebot an Prinzessin Beatrice\n\n05.00%                  - Angebot an Sir Ulrich\n\n08.00%                  - Angebot an König Ludwig\n\n02.00%                  - Fähigkeiten-Reset-Token\n\n03.40%                  - Ausrüstung\n\n22.00%                  - Belagerungs- und Verteidigungstools\n\n10.00%                  - Zeitüberspringen\n\n07.00%                  - Schnelle Reise-Federn\n\n08.00%                  - Bauartikel\n\n05.00%                  - Glücksrad-Tickets\n\n12.00%                  - Militäreinheiten\n\n05.10%                  - Dekorationen",
     "tooltip_rankingGlobal": "Die Rangliste zeigt die Allianz an, der Sie angehörten, als Sie zuletzt Ihren Punktestand erhöht haben.",
-    "longPointsEvent_pointRanking_tooltip": "Saisonpunkte-Rangliste"
+    "longPointsEvent_pointRanking_tooltip": "Saisonpunkte-Rangliste",
+    "webshop_carnivaloffer_VIP_name": "VIP Karneval Extravaganza",
+    "webshop_carnivaloffer_extraLarge_name": "Extra große Karnevalsextravaganz",
+    "webshop_carnivaloffer_giant_name": "Riesige Karnevalsextravaganz",
+    "webshop_carnivaloffer_huge_name": "Großes Karnevalsspektakel",
+    "webshop_carnivaloffer_large_name": "Große Karnevalsextravaganz",
+    "webshop_carnivaloffer_medium_name": "Mittelgroße Karnevals-Extravaganz",
+    "webshop_carnivaloffer_small_name": "Kleine Karnevalsextravaganz"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% Einheit Kampfkraft beim Angreifen",
@@ -19867,7 +19874,9 @@
     "eventNotRunning": "Die Veranstaltung findet derzeit nicht statt.",
     "gachaPull_button_ChristmasGacha": "Geben",
     "currency_description_FrozenCarrot": "Gefrorene Karotten, durch uralte Wintermagie durchzogen, erhalten den geheimnisvollen Schneemann. Bieten Sie sie während des verzauberten Schneekugel-Events an, um erstaunliche Belohnungen freizuschalten!",
-    "currency_name_FrozenCarrot": "Gefrorene Karotte"
+    "currency_name_FrozenCarrot": "Gefrorene Karotte",
+    "panel_buildinglist_SlotBuildConstruction": "Das Baumeisterquartier wird gebaut",
+    "panel_buildinglist_SlotBuildUpgradeCap": "Verbessern Sie das Baumeisterquartier! Verfügbar ab Stufe {0}"
   },
   "help": {
     "help_location": "Hier seht Ihr eine globale Übersicht über die wichtigen \nBesitztümer Eurer Burg und aller Außenposten.",

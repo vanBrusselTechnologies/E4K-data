@@ -12588,7 +12588,14 @@
     "webshop_offer_dailyBundle_Carnival_desc": "Karneval Spesial + {0}% høyere bonus!",
     "dialog_generals_inn_drawChances_fatKing_TomAliceToken": "Dette er trekkningssjansene for denne patronens belønningskategorier med det valgte tilbudet. Hver kategori inneholder spesifikke belønningsformer, som vil bli valgt tilfeldig. For hvert betalte tilbud, utføres det fire trekninger, hver trekning har sjansene oppført nedenfor.\n\nTrekkningssjansene        Belønningskategorier\n\n04.50%                  - Tom-splinter\n\n04.50%                  - Alice-splinter\n\n00.50%                  - Tom &amp; Alices tilbud til Kong Ludwig\n\n03.00%                  - Tilbud til Prinsesse Beatrice\n\n05.00%                  - Tilbud til Sir Ulrich\n\n08.00%                  - Tilbud til Kong Ludwig\n\n02.00%                  - Ferdighetsreset tokens\n\n03.40%                  - Utstyr\n\n22.00%                  - Beleiring &amp; forsvar verktøy\n\n10.00%                  - Tidsklipp\n\n07.00%                  - Rask reise fjær\n\n08.00%                  - Byggeelementer\n\n05.00%                  - Lykkehjul billetter\n\n12.00%                  - Militære enheter\n\n05.10%                  - Dekorasjoner",
     "tooltip_rankingGlobal": "Rangeringen viser alliansen du var en del av da du sist økte poengsummen din.",
-    "longPointsEvent_pointRanking_tooltip": "Høytidspoeng-rankingliste"
+    "longPointsEvent_pointRanking_tooltip": "Høytidspoeng-rankingliste",
+    "webshop_carnivaloffer_VIP_name": "VIP karneval extravaganza",
+    "webshop_carnivaloffer_extraLarge_name": "Ekstra stor karnevalseksplosjon",
+    "webshop_carnivaloffer_giant_name": "Kjempe karneval extravaganza",
+    "webshop_carnivaloffer_huge_name": "Kjempe karneval extravaganza",
+    "webshop_carnivaloffer_large_name": "Stor karnevalekstravaganza",
+    "webshop_carnivaloffer_medium_name": "Middels stor karnevalseventyr",
+    "webshop_carnivaloffer_small_name": "Liten karnevalseventyr"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% enhetens kampstyrke ved angrep",
@@ -19867,7 +19874,9 @@
     "eventNotRunning": "Arrangementet foregår ikke for øyeblikket.",
     "gachaPull_button_ChristmasGacha": "Gi",
     "currency_description_FrozenCarrot": "Frosne gulrøtter, infundert med gammel vintermagi, opprettholder den mystiske snømannen. Tilby dem under den Fortryllede Snøklode-arrangementet for å låse opp fantastiske belønninger!",
-    "currency_name_FrozenCarrot": "Frossen gulrot"
+    "currency_name_FrozenCarrot": "Frossen gulrot",
+    "panel_buildinglist_SlotBuildConstruction": "Byggherrenes kvartal bygges",
+    "panel_buildinglist_SlotBuildUpgradeCap": "Oppgrader byggherrenes kvartal! Tilgjengelig fra nivå {0}"
   },
   "help": {
     "help_location": "Her har du en global oversikt over viktig innhold fra slottet ditt og utpostene.",

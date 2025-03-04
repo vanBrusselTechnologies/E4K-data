@@ -219,6 +219,26 @@
       "slotID": 101199,
       "crossplayID": 101199,
       "abilityGroupIDs": 1003
+    },
+    {
+      "slotID": 101071,
+      "crossplayID": 101071,
+      "abilityGroupIDs": 1002
+    },
+    {
+      "slotID": 101076,
+      "crossplayID": 101076,
+      "abilityGroupIDs": "1002,1016"
+    },
+    {
+      "slotID": 101081,
+      "crossplayID": 101081,
+      "abilityGroupIDs": "1019,1013"
+    },
+    {
+      "slotID": 101086,
+      "crossplayID": 101086,
+      "abilityGroupIDs": 1013
     }
   ]
 }

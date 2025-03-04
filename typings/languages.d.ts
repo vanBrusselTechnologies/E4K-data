@@ -12051,6 +12051,13 @@ export interface Language {
         "webshop_bloodcrowInvasion_medium_name": string;
         "webshop_bloodcrowInvasion_small_name": string;
         "webshop_cancelNow": string;
+        "webshop_carnivaloffer_VIP_name": string;
+        "webshop_carnivaloffer_extraLarge_name": string;
+        "webshop_carnivaloffer_giant_name": string;
+        "webshop_carnivaloffer_huge_name": string;
+        "webshop_carnivaloffer_large_name": string;
+        "webshop_carnivaloffer_medium_name": string;
+        "webshop_carnivaloffer_small_name": string;
         "webshop_christmas_VIP_name": string;
         "webshop_christmas_combat_name": string;
         "webshop_christmas_economy_name": string;
@@ -19072,6 +19079,8 @@ export interface Language {
         "panel_action_worldmap": string;
         "panel_attackWarning": string;
         "panel_attackWarning_noobProtection": string;
+        "panel_buildinglist_SlotBuildConstruction": string;
+        "panel_buildinglist_SlotBuildUpgradeCap": string;
         "panel_buildinglist_SlotConstruction": string;
         "panel_buildinglist_getFreeSlot": string;
         "panel_create_crest_bg": string;

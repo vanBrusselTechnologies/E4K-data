@@ -12588,7 +12588,14 @@
     "webshop_offer_dailyBundle_Carnival_desc": "카니발 스페셜 + {0}% 더 높은 보너스!",
     "dialog_generals_inn_drawChances_fatKing_TomAliceToken": "이것들은 선택된 오퍼링과 함께 이 후원자의 보상 카테고리에 대한 추첨 확률입니다. 각 카테고리에는 특정 보상 유형이 포함되어 있으며 무작위로 선택됩니다. 유료 오퍼링마다 4회 추첨이 수행되며 각 추첨에는 아래에 나열된 확률이 있습니다.\n\n추첨 확률        보상 카테고리\n\n04.50%                  - 톰의 파편\n\n04.50%                  - 앨리스의 파편\n\n00.50%                  - 톰과 앨리스의 루드비히 왕에게 바치는 제안\n\n03.00%                  - 비아트리체 공주에게 바치는 제안\n\n05.00%                  - 울리히 경에게 바치는 제안\n\n08.00%                  - 루드비히 왕에게 바치는 제안\n\n02.00%                  - 스킬 리셋 토큰\n\n03.40%                  - 장비\n\n22.00%                  - 포위 및 방어 도구\n\n10.00%                  - 시간 건너뛰기\n\n07.00%                  - 빠른 이동 깃털\n\n08.00%                  - 건설 아이템\n\n05.00%                  - 행운의 바퀴 티켓\n\n12.00%                  - 군사 유닛\n\n05.10%                  - 장식",
     "tooltip_rankingGlobal": "랭킹은 마지막으로 점수를 올렸을 때 속해 있었던 동맹을 표시합니다.",
-    "longPointsEvent_pointRanking_tooltip": "시즌 점수 순위"
+    "longPointsEvent_pointRanking_tooltip": "시즌 점수 순위",
+    "webshop_carnivaloffer_VIP_name": "VIP 카니발 엑스트라바간자",
+    "webshop_carnivaloffer_extraLarge_name": "특대 카니발 행사",
+    "webshop_carnivaloffer_giant_name": "거대한 카니발 잔치",
+    "webshop_carnivaloffer_huge_name": "거대한 카니발 축제",
+    "webshop_carnivaloffer_large_name": "대규모 카니발 축제",
+    "webshop_carnivaloffer_medium_name": "중간 규모의 카니발 환상",
+    "webshop_carnivaloffer_small_name": "작은 카니발 축제"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% 유닛 전투력 공격 시",
@@ -19867,7 +19874,9 @@
     "eventNotRunning": "현재 이벤트는 진행되지 않습니다.",
     "gachaPull_button_ChristmasGacha": "주다",
     "currency_description_FrozenCarrot": "고대 겨울 마법이 주입된 냉동 당근은 신비로운 눈사람을 지탱합니다. 매혹적인 눈구슬 이벤트 중에 제공하여 놀라운 보상을 잠금 해제하세요!",
-    "currency_name_FrozenCarrot": "냉동 당근"
+    "currency_name_FrozenCarrot": "냉동 당근",
+    "panel_buildinglist_SlotBuildConstruction": "건축가의 숙소가 건설 중입니다",
+    "panel_buildinglist_SlotBuildUpgradeCap": "건축가의 숙소를 업그레이드하세요! {0} 레벨부터 이용 가능합니다."
   },
   "help": {
     "help_location": "여기에서 성과 전초기지의 중요한 정보를 대략 찾아볼 수 있습니다.",

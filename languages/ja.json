@@ -12588,7 +12588,14 @@
     "webshop_offer_dailyBundle_Carnival_desc": "カーニバル特別 + {0}%のボーナスアップ！",
     "dialog_generals_inn_drawChances_fatKing_TomAliceToken": "これらは、選択したオファリングによるこのパトロンの報酬カテゴリの抽選確率です。各カテゴリには、特定の報酬タイプが含まれており、ランダムに選ばれます。有料オファリングごとに、4回の抽選が行われ、各抽選には以下に示す確率があります。\n\n抽選確率        報酬カテゴリ\n\n04.50%                  - トムの破片\n\n04.50%                  - アリスの破片\n\n00.50%                  - トムとアリスのルート・ルードウィヒへのオファリング\n\n03.00%                  - ビアトリス王女へのオファリング\n\n05.00%                  - ウルリッヒ卿へのオファリング\n\n08.00%                  - ルードウィヒ王へのオファリング\n\n02.00%                  - スキルリセットトークン\n\n03.40%                  - 装備\n\n22.00%                  - 包囲と防衛ツール\n\n10.00%                  - タイムスキップ\n\n07.00%                  - ファストトラベルの羽根\n\n08.00%                  - 建設アイテム\n\n05.00%                  - ルーレットのチケット\n\n12.00%                  - 軍隊\n\n05.10%                  - 装飾品",
     "tooltip_rankingGlobal": "ランキングは、最後にスコアを上げたときに所属していた同盟を表示します。",
-    "longPointsEvent_pointRanking_tooltip": "シーズンポイントのランキング"
+    "longPointsEvent_pointRanking_tooltip": "シーズンポイントのランキング",
+    "webshop_carnivaloffer_VIP_name": "VIPカーニバルエクストラバガンザ",
+    "webshop_carnivaloffer_extraLarge_name": "特大カーニバルエクストラバガンザ",
+    "webshop_carnivaloffer_giant_name": "巨大なカーニバルの祭典",
+    "webshop_carnivaloffer_huge_name": "巨大なカーニバルの祭典",
+    "webshop_carnivaloffer_large_name": "大規模カーニバルエクストラバガンザ",
+    "webshop_carnivaloffer_medium_name": "中規模のカーニバルの饗宴",
+    "webshop_carnivaloffer_small_name": "小さなカーニバルの祭典"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% ユニットの攻撃時の戦闘力",
@@ -19867,7 +19874,9 @@
     "eventNotRunning": "イベントは現在実施されていません。",
     "gachaPull_button_ChristmasGacha": "与える",
     "currency_description_FrozenCarrot": "古代の冬の魔法が注入された冷凍ニンジンは、神秘的な雪だるまを支えています。魅了されたスノーグローブイベント中に提供して、素晴らしい報酬をアンロックしましょう！",
-    "currency_name_FrozenCarrot": "凍ったニンジン"
+    "currency_name_FrozenCarrot": "凍ったニンジン",
+    "panel_buildinglist_SlotBuildConstruction": "建設者の宿舎が建設中です",
+    "panel_buildinglist_SlotBuildUpgradeCap": "建設者の宿舎をアップグレード！レベル{0}から利用可能"
   },
   "help": {
     "help_location": "ここから、城や基地の\n重要な情報を見ることができます。",

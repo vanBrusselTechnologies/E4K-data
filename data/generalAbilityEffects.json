@@ -1,6 +1,42 @@
 {
   "generalAbilityEffect": [
     {
+      "abilityEffectID": 102610,
+      "crossplayID": 102610,
+      "effects": "21026&amp;759+1#760+1",
+      "priority": 75
+    },
+    {
+      "abilityEffectID": 102620,
+      "crossplayID": 102620,
+      "effects": "21026&amp;705+1.3#707+1.3",
+      "priority": 76
+    },
+    {
+      "abilityEffectID": 102630,
+      "crossplayID": 102630,
+      "effects": "21026&amp;706+1.6#708+1.6",
+      "priority": 77
+    },
+    {
+      "abilityEffectID": 102615,
+      "crossplayID": 102615,
+      "effects": "21026&amp;716+1#717+1",
+      "priority": 195
+    },
+    {
+      "abilityEffectID": 102625,
+      "crossplayID": 102625,
+      "effects": "21026&amp;701+1.3#703+1.3",
+      "priority": 196
+    },
+    {
+      "abilityEffectID": 102635,
+      "crossplayID": 102635,
+      "effects": "21026&amp;702+1.6#704+1.6",
+      "priority": 197
+    },
+    {
       "abilityEffectID": 100110,
       "crossplayID": 100110,
       "effects": "21001&amp;6",
@@ -953,42 +989,6 @@
       "crossplayID": 103935,
       "effects": "21039&amp;25",
       "priority": 39
-    },
-    {
-      "abilityEffectID": 102610,
-      "crossplayID": 102610,
-      "effects": "21026&amp;759+1#760+1",
-      "priority": 75
-    },
-    {
-      "abilityEffectID": 102620,
-      "crossplayID": 102620,
-      "effects": "21026&amp;705+1.3#707+1.3",
-      "priority": 76
-    },
-    {
-      "abilityEffectID": 102630,
-      "crossplayID": 102630,
-      "effects": "21026&amp;706+1.6#708+1.6",
-      "priority": 77
-    },
-    {
-      "abilityEffectID": 102615,
-      "crossplayID": 102615,
-      "effects": "21026&amp;716+1#717+1",
-      "priority": 195
-    },
-    {
-      "abilityEffectID": 102625,
-      "crossplayID": 102625,
-      "effects": "21026&amp;701+1.3#703+1.3",
-      "priority": 196
-    },
-    {
-      "abilityEffectID": 102635,
-      "crossplayID": 102635,
-      "effects": "21026&amp;702+1.6#704+1.6",
-      "priority": 197
     }
   ]
 }

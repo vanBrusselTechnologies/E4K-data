@@ -12588,7 +12588,14 @@
     "webshop_offer_dailyBundle_Carnival_desc": "Karnaval Özel + {0}% daha yüksek bonus!",
     "dialog_generals_inn_drawChances_fatKing_TomAliceToken": "Bu, bu patronun seçilen teklifi ile ödül kategorileri için çekiliş şanslarıdır. Her kategori, rastgele seçilecek belirli ödül türlerini içerir. Her ücretli teklif için dört çekiliş gerçekleştirilir, her çekiliş aşağıda listelenen şanslara sahiptir.\n\nÇekiliş Şansı        Ödül Kategorileri\n\n04.50%                  - Tom parçaları\n\n04.50%                  - Alice parçaları\n\n00.50%                  - Tom ve Alicein Kral Ludwige Teklifi\n\n03.00%                  - Prenses Beatricee Teklif\n\n05.00%                  - Sir Ulriche Teklif\n\n08.00%                  - Kral Ludwige Teklif\n\n02.00%                  - Yetenek sıfırlama jetonları\n\n03.40%                  - Ekipman\n\n22.00%                  - Kuşatma ve savunma araçları\n\n10.00%                  - Zaman Atlama\n\n07.00%                  - Hızlı seyahat tüyleri\n\n08.00%                  - İnşaat öğeleri\n\n05.00%                  - Şans Çarkı biletleri\n\n12.00%                  - Askeri birimler\n\n05.10%                  - Dekorasyonlar",
     "tooltip_rankingGlobal": "Sıralama, son puanınızı artırdığınızda parçası olduğunuz ittifakı gösterecektir.",
-    "longPointsEvent_pointRanking_tooltip": "Mevsim puanları sıralaması"
+    "longPointsEvent_pointRanking_tooltip": "Mevsim puanları sıralaması",
+    "webshop_carnivaloffer_VIP_name": "VIP Karnaval Şöleni",
+    "webshop_carnivaloffer_extraLarge_name": "Ekstra büyük karnaval gösterisi",
+    "webshop_carnivaloffer_giant_name": "Devasa Karnaval Şöleni",
+    "webshop_carnivaloffer_huge_name": "Büyük Karnaval Şöleni",
+    "webshop_carnivaloffer_large_name": "Büyük Karnaval Şöleni",
+    "webshop_carnivaloffer_medium_name": "Orta Ölçekli Karnaval Şöleni",
+    "webshop_carnivaloffer_small_name": "Küçük Karnaval Şenliği"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% birimin savaş gücü saldırırken",
@@ -19867,7 +19874,9 @@
     "eventNotRunning": "Etkinlik şu anda gerçekleşmiyor.",
     "gachaPull_button_ChristmasGacha": "Ver",
     "currency_description_FrozenCarrot": "Eski kış büyüsü ile infüze edilmiş donmuş havuçlar, gizemli kardan adamı destekler. Harika ödülleri açmak için Büyülü Kar Küresi etkinliği sırasında onları sunun!",
-    "currency_name_FrozenCarrot": "Donmuş havuç"
+    "currency_name_FrozenCarrot": "Donmuş havuç",
+    "panel_buildinglist_SlotBuildConstruction": "İnşaatçıların konutları inşa ediliyor",
+    "panel_buildinglist_SlotBuildUpgradeCap": "İnşaatçıların konutlarını yükseltin! {0} seviyesinden itibaren mevcut"
   },
   "help": {
     "help_location": "Buradan kalenin tüm önemli ögelerine ve ileri karakollara genel olarak bakabilirsin.",

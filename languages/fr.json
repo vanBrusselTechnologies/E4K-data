@@ -12588,7 +12588,14 @@
     "webshop_offer_dailyBundle_Carnival_desc": "Spécial Carnaval + {0}% de bonus supplémentaire !",
     "dialog_generals_inn_drawChances_fatKing_TomAliceToken": "Voici les chances de tirage pour les catégories de récompenses de ce client avec loffre sélectionnée. Chaque catégorie contient des types de récompenses spécifiques, qui seront choisis au hasard. Pour chaque offre payante, quatre tirages sont effectués, chaque tirage ayant les chances énumérées ci-dessous.\n\nChance de Tirage        Catégories de Récompenses\n\n04.50%                  - Éclats de Tom\n\n04.50%                  - Éclats dAlice\n\n00.50%                  - Offre de Tom et Alice au Roi Ludwig\n\n03.00%                  - Offre à la Princesse Béatrice\n\n05.00%                  - Offre à Sir Ulrich\n\n08.00%                  - Offre au Roi Ludwig\n\n02.00%                  - Jetons de réinitialisation de compétences\n\n03.40%                  - Équipement\n\n22.00%                  - Outils de siège et de défense\n\n10.00%                  - Sauts dans le temps\n\n07.00%                  - Plumes de voyage rapide\n\n08.00%                  - Articles de construction\n\n05.00%                  - Billets de la Roue de la Fortune\n\n12.00%                  - Unités militaires\n\n05.10%                  - Décorations",
     "tooltip_rankingGlobal": "Le classement affichera lalliance à laquelle vous apparteniez lorsque vous avez augmenté votre score pour la dernière fois.",
-    "longPointsEvent_pointRanking_tooltip": "Classement de points de saison"
+    "longPointsEvent_pointRanking_tooltip": "Classement de points de saison",
+    "webshop_carnivaloffer_VIP_name": "Extravagance VIP du Carnaval",
+    "webshop_carnivaloffer_extraLarge_name": "Extravagance de carnaval extra large",
+    "webshop_carnivaloffer_giant_name": "Extravagance de Carnaval Géante",
+    "webshop_carnivaloffer_huge_name": "Grande extravagance de carnaval",
+    "webshop_carnivaloffer_large_name": "Grande extravagance de carnaval",
+    "webshop_carnivaloffer_medium_name": "Extravagance Carnavalesque Moyenne",
+    "webshop_carnivaloffer_small_name": "Petite extravagance de carnaval"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% de force de combat de lunité lors de lattaque",
@@ -19867,7 +19874,9 @@
     "eventNotRunning": "Lévénement nest pas actuellement en cours.",
     "gachaPull_button_ChristmasGacha": "Donner",
     "currency_description_FrozenCarrot": "Carottes congelées, infusées de magie ancienne dhiver, soutiennent le mystérieux bonhomme de neige. Offrez-les lors de lévénement Boule à Neige Enchantée pour débloquer des récompenses incroyables !",
-    "currency_name_FrozenCarrot": "Carotte congelée"
+    "currency_name_FrozenCarrot": "Carotte congelée",
+    "panel_buildinglist_SlotBuildConstruction": "Les quartiers des bâtisseurs sont en construction",
+    "panel_buildinglist_SlotBuildUpgradeCap": "Améliorez les quartiers des bâtisseurs ! Disponible à partir du niveau {0}"
   },
   "help": {
     "help_location": "Ici, vous avez un aperçu global des contenus importants de votre château et de tous vos avant-postes.",

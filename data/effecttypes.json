@@ -1386,6 +1386,16 @@
       "effectTypeID": 193,
       "crossplayID": 193,
       "name": "enableCraftingRecipeGroups"
+    },
+    {
+      "effectTypeID": 195,
+      "crossplayID": 195,
+      "name": "constructionQueue"
+    },
+    {
+      "effectTypeID": 196,
+      "crossplayID": 196,
+      "name": "simultaneousConstruction"
     }
   ]
 }

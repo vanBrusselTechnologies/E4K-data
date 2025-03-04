@@ -3786,6 +3786,20 @@
       "spaceIDs": 3
     },
     {
+      "effectID": 418,
+      "crossplayID": 418,
+      "name": "constructionQueue",
+      "effectTypeID": 195,
+      "capID": 99
+    },
+    {
+      "effectID": 419,
+      "crossplayID": 419,
+      "name": "simultaneousConstruction",
+      "effectTypeID": 196,
+      "capID": 99
+    },
+    {
       "effectID": 2101,
       "name": "relicOffensiveMeleeBonus",
       "effectTypeID": 23,

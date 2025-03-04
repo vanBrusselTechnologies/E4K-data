@@ -12588,7 +12588,14 @@
     "webshop_offer_dailyBundle_Carnival_desc": "Karnevalsspecial + {0}% højere bonus!",
     "dialog_generals_inn_drawChances_fatKing_TomAliceToken": "Dette er trækchancerne for denne patrons belønningskategorier med det valgte tilbud. Hver kategori indeholder specifikke belønningsmuligheder, som vil blive valgt tilfældigt. For hvert betalt tilbud udføres fire træk, hver træk har chancerne nævnt nedenfor.\n\nTrækchance        Belønningskategorier\n\n04.50%                  - Tom-splitter\n\n04.50%                  - Alice-splitter\n\n00.50%                  - Tom &amp; Alices tilbud til Kong Ludwig\n\n03.00%                  - Tilbud til Prinsesse Beatrice\n\n05.00%                  - Tilbud til Sir Ulrich\n\n08.00%                  - Tilbud til Kong Ludwig\n\n02.00%                  - Færdigheder nulstillings tokens\n\n03.40%                  - Udstyr\n\n22.00%                  - Belejring &amp; forsvarsredskaber\n\n10.00%                  - Tidspring\n\n07.00%                  - Hurtige rejse fjer\n\n08.00%                  - Bygningselementer\n\n05.00%                  - Lykkehjul billetter\n\n12.00%                  - Militære enheder\n\n05.10%                  - Dekorationer",
     "tooltip_rankingGlobal": "Rangeringen viser den alliance, du var en del af, da du sidst forbedrede din score.",
-    "longPointsEvent_pointRanking_tooltip": "Rangliste over sæsonpoint"
+    "longPointsEvent_pointRanking_tooltip": "Rangliste over sæsonpoint",
+    "webshop_carnivaloffer_VIP_name": "VIP karneval ekstravaganza",
+    "webshop_carnivaloffer_extraLarge_name": "Ekstra stor karnevalsekstravaganza",
+    "webshop_carnivaloffer_giant_name": "Kæmpe karnevalseventyr",
+    "webshop_carnivaloffer_huge_name": "Kæmpe karnevalsevent",
+    "webshop_carnivaloffer_large_name": "Stort karnevalsshow",
+    "webshop_carnivaloffer_medium_name": "Mellemliggende karnevalsekstravaganza",
+    "webshop_carnivaloffer_small_name": "Lille karnevalsevent"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% enhedens kampstyrke ved angreb",
@@ -19867,7 +19874,9 @@
     "eventNotRunning": "Begivenheden kører i øjeblikket ikke.",
     "gachaPull_button_ChristmasGacha": "Giv",
     "currency_description_FrozenCarrot": "Frosne gulerødder, infunderet med gammel vintermagi, opretholder den mystiske snemands liv. Giv dem under den Fortryllede Sneglobe-begivenhed for at låse op for fantastiske belønninger!",
-    "currency_name_FrozenCarrot": "Frossen gulerod"
+    "currency_name_FrozenCarrot": "Frossen gulerod",
+    "panel_buildinglist_SlotBuildConstruction": "Byggelejlighederne bliver bygget",
+    "panel_buildinglist_SlotBuildUpgradeCap": "Opgrader byggelejlighederne! Tilgængelig fra niveau {0}"
   },
   "help": {
     "help_location": "Her har I en global oversigt over det vigtige indhold i jeres borg og alle jeres forposter.",

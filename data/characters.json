@@ -4,15 +4,15 @@
       "characterID": 1,
       "crossplayID": 1,
       "name": "fatKing",
-      "spinRarities": "1,1,1,1",
-      "tombolas": "6001+10001",
+      "spinRarities": "1,1,1,2",
+      "tombolas": "6001+10001#6006+10006",
       "coolDownInSeconds": 259200,
       "maxFreeOpenings": 2,
       "freeOpeningTombolaID": 10001,
       "unluckyTotalPoints": 10,
       "badLuckProtectionDrawAmount": 30,
       "packageIDs": 10515,
-      "badLuckSpinRarities": "1,1,2,3"
+      "badLuckSpinRarities": "1,1,2,4"
     },
     {
       "characterID": 2,

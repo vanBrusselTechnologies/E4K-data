@@ -12588,7 +12588,14 @@
     "webshop_offer_dailyBundle_Carnival_desc": "Speciale Carnevale + {0}% di bonus più alto!",
     "dialog_generals_inn_drawChances_fatKing_TomAliceToken": "Queste sono le possibilità di estrazione per le categorie di ricompensa di questo patrono con lofferta selezionata. Ogni categoria contiene specifici tipi di ricompense, che saranno scelti casualmente. Per ogni offerta a pagamento, vengono effettuati quattro sorteggi, ciascun sorteggio ha le possibilità elencate di seguito.\n\nPossibilità di Estrazione        Categorie di Ricompensa\n\n04.50%                  - Frammenti di Tom\n\n04.50%                  - Frammenti di Alice\n\n00.50%                  - Offerta di Tom e Alice al Re Ludwig\n\n03.00%                  - Offerta alla Principessa Beatrice\n\n05.00%                  - Offerta a Sir Ulrich\n\n08.00%                  - Offerta al Re Ludwig\n\n02.00%                  - Gettoni di ripristino abilità\n\n03.40%                  - Equipaggiamento\n\n22.00%                  - Strumenti dassedio e difesa\n\n10.00%                  - Salti temporali\n\n07.00%                  - Piume di viaggio veloce\n\n08.00%                  - Elementi di costruzione\n\n05.00%                  - Biglietti della Ruota della Fortuna\n\n12.00%                  - Unità militari\n\n05.10%                  - Decorazioni",
     "tooltip_rankingGlobal": "La classifica mostrerà lalleanza di cui facevi parte quando hai aumentato il tuo punteggio per lultima volta.",
-    "longPointsEvent_pointRanking_tooltip": "Classifica dei punti stagionali"
+    "longPointsEvent_pointRanking_tooltip": "Classifica dei punti stagionali",
+    "webshop_carnivaloffer_VIP_name": "Extravaganza VIP del Carnevale",
+    "webshop_carnivaloffer_extraLarge_name": "Extravaganza di carnevale extra large",
+    "webshop_carnivaloffer_giant_name": "Grande Stravaganza del Carnevale",
+    "webshop_carnivaloffer_huge_name": "Grande stravaganza di carnevale",
+    "webshop_carnivaloffer_large_name": "Grande Extravaganza del Carnevale",
+    "webshop_carnivaloffer_medium_name": "Carnival Extravaganza di Media Grandezza",
+    "webshop_carnivaloffer_small_name": "Piccola festa di carnevale"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% di forza di combattimento dellunità in attacco",
@@ -19867,7 +19874,9 @@
     "eventNotRunning": "Levento attualmente non è in corso.",
     "gachaPull_button_ChristmasGacha": "Dare",
     "currency_description_FrozenCarrot": "Carote congelate, infuse con antica magia invernale, sostengono il misterioso pupazzo di neve. Offrile durante levento Sfera di Neve Incantata per sbloccare premi straordinari!",
-    "currency_name_FrozenCarrot": "Carota congelata"
+    "currency_name_FrozenCarrot": "Carota congelata",
+    "panel_buildinglist_SlotBuildConstruction": "Gli appartamenti del costruttore sono in fase di costruzione",
+    "panel_buildinglist_SlotBuildUpgradeCap": "Aggiorna gli appartamenti del costruttore! Disponibile dal livello {0}"
   },
   "help": {
     "help_location": "Qui hai una panoramica globale dei contenuti importanti del castello e di tutti gli avamposti.",

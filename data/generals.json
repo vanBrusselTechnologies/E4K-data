@@ -85,28 +85,28 @@
       "generalID": 107,
       "crossplayID": 107,
       "generalName": "Tom",
-      "attackSlots": "101071,101072,101073",
-      "defenseSlots": "101076,101077,101078",
-      "generalRarityID": 2,
+      "attackSlots": 101071,
+      "defenseSlots": 101076,
+      "generalRarityID": 1,
       "maxLevel": 60,
       "maxStarLevel": 5,
       "unlockCurrencyID": 10007,
       "upgradeCurrencyIDs": "10000,10007",
-      "isPreview": 1,
+      "isPreview": 0,
       "isNPCGeneral": 0
     },
     {
       "generalID": 108,
       "crossplayID": 108,
       "generalName": "Alice",
-      "attackSlots": "101081,101082,101083",
-      "defenseSlots": "101086,101087,101088",
-      "generalRarityID": 2,
+      "attackSlots": 101081,
+      "defenseSlots": 101086,
+      "generalRarityID": 1,
       "maxLevel": 60,
       "maxStarLevel": 5,
       "unlockCurrencyID": 10008,
       "upgradeCurrencyIDs": "10000,10008",
-      "isPreview": 1,
+      "isPreview": 0,
       "isNPCGeneral": 0
     },
     {
@@ -231,6 +231,20 @@
       "unlockCurrencyID": 10009,
       "upgradeCurrencyIDs": "10000,10009",
       "isPreview": 0,
+      "isNPCGeneral": 0
+    },
+    {
+      "generalID": 120,
+      "crossplayID": 120,
+      "generalName": "Hasan",
+      "attackSlots": "101201,101202,101203",
+      "defenseSlots": "101206,101207,101208",
+      "generalRarityID": 2,
+      "maxLevel": 100,
+      "maxStarLevel": 10,
+      "unlockCurrencyID": 10010,
+      "upgradeCurrencyIDs": "10000,10010",
+      "isPreview": 1,
       "isNPCGeneral": 0
     }
   ]

@@ -12588,7 +12588,14 @@
     "webshop_offer_dailyBundle_Carnival_desc": "Carnival Special + {0}% higher bonus!",
     "dialog_generals_inn_drawChances_fatKing_TomAliceToken": "These are the draw chances for this patrons reward categories with the selected offering. Each category contains specific reward types, which will be randomly chosen. For each paid offering, four draws are performed, each draw has the chances listed below.\n\nDraw Chance        Reward Categories\n\n04.50%                  - Tom shards\n\n04.50%                  - Alice shards\n\n00.50%                  - Tom &amp; Alices Offering to King Ludwig\n\n03.00%                  - Offering to Princess Beatrice\n\n05.00%                  - Offering to Sir Ulrich\n\n08.00%                  - Offering to King Ludwig\n\n02.00%                  - Skill reset tokens\n\n03.40%                  - Equipment\n\n22.00%                  - Siege &amp; defense tools\n\n10.00%                  - Time Skips\n\n07.00%                  - Fast travel feathers\n\n08.00%                  - Build items\n\n05.00%                  - Wheel of Fortune tickets\n\n12.00%                  - Military units\n\n05.10%                  - Decorations",
     "tooltip_rankingGlobal": "The ranking will display the alliance you were part of when you last increased your score.",
-    "longPointsEvent_pointRanking_tooltip": "Season points rankings"
+    "longPointsEvent_pointRanking_tooltip": "Season points rankings",
+    "webshop_carnivaloffer_VIP_name": "VIP Carnival Extravaganza",
+    "webshop_carnivaloffer_extraLarge_name": "Extra Large Carnival Extravaganza",
+    "webshop_carnivaloffer_giant_name": "Giant Carnival Extravaganza",
+    "webshop_carnivaloffer_huge_name": "Huge Carnival Extravaganza",
+    "webshop_carnivaloffer_large_name": "Large Carnival Extravaganza",
+    "webshop_carnivaloffer_medium_name": "Medium Carnival Extravaganza",
+    "webshop_carnivaloffer_small_name": "Small Carnival Extravaganza"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% unit combat strength when attacking",
@@ -19867,7 +19874,9 @@
     "eventNotRunning": "The event is currently not running.",
     "gachaPull_button_ChristmasGacha": "Give",
     "currency_description_FrozenCarrot": "Frozen Carrots, infused with ancient winter magic, sustain the mysterious snowman. Offer them during the Enchanted Snowglobe event to unlock amazing rewards!",
-    "currency_name_FrozenCarrot": "Frozen Carrot"
+    "currency_name_FrozenCarrot": "Frozen Carrot",
+    "panel_buildinglist_SlotBuildConstruction": "Builder`s Quarters is being built",
+    "panel_buildinglist_SlotBuildUpgradeCap": "Upgrade the Builder`s Quarters! Available from level {0}"
   },
   "help": {
     "help_location": "Here you have a global overview of the important contents of your castle and all your outposts.",

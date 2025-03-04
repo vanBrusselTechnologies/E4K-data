@@ -12588,7 +12588,14 @@
     "webshop_offer_dailyBundle_Carnival_desc": "嘉年華特惠 + {0}% 更高的獎勵！",
     "dialog_generals_inn_drawChances_fatKing_TomAliceToken": "這些是該顧客在所選提供下的獎勵類別的抽取機會。每個類別包含特定的獎勵類型，將隨機選擇。每個付費提供進行四次抽取，每次抽取的機會如下所示。\n\n抽取機會        獎勵類別\n\n04.50%                  - 湯姆碎片\n\n04.50%                  - 愛麗絲碎片\n\n00.50%                  - 湯姆和愛麗絲的獻給路德維希國王的提議\n\n03.00%                  - 獻給碧翠絲公主的提議\n\n05.00%                  - 獻給烏爾里希爵士的提議\n\n08.00%                  - 獻給路德維希國王的提議\n\n02.00%                  - 技能重置代幣\n\n03.40%                  - 裝備\n\n22.00%                  - 攻城和防禦工具\n\n10.00%                  - 時間跳過\n\n07.00%                  - 快速旅行羽毛\n\n08.00%                  - 建築物品\n\n05.00%                  - 幸運抽獎票\n\n12.00%                  - 軍事單位\n\n05.10%                  - 裝飾品",
     "tooltip_rankingGlobal": "排名將顯示您最後一次提高分數時所屬的聯盟。",
-    "longPointsEvent_pointRanking_tooltip": "賽季得分排名"
+    "longPointsEvent_pointRanking_tooltip": "賽季得分排名",
+    "webshop_carnivaloffer_VIP_name": "VIP嘉年華盛事",
+    "webshop_carnivaloffer_extraLarge_name": "特大嘉年華盛會",
+    "webshop_carnivaloffer_giant_name": "巨型嘉年華盛會",
+    "webshop_carnivaloffer_huge_name": "巨大的嘉年華盛會",
+    "webshop_carnivaloffer_large_name": "大型嘉年華盛會",
+    "webshop_carnivaloffer_medium_name": "中型嘉年華盛典",
+    "webshop_carnivaloffer_small_name": "小型嘉年華盛會"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% 單位攻擊時的戰鬥力",
@@ -19867,7 +19874,9 @@
     "eventNotRunning": "該事件目前未進行。",
     "gachaPull_button_ChristmasGacha": "給",
     "currency_description_FrozenCarrot": "冷凍胡蘿蔔，注入古老的冬季魔法，維持神秘的雪人。在迷人的雪球活動中提供它們以解鎖驚人的獎勵！",
-    "currency_name_FrozenCarrot": "冷凍胡蘿蔔"
+    "currency_name_FrozenCarrot": "冷凍胡蘿蔔",
+    "panel_buildinglist_SlotBuildConstruction": "建築工人的宿舍正在建造中",
+    "panel_buildinglist_SlotBuildUpgradeCap": "升級建築工人的宿舍！可從{0}級獲得"
   },
   "help": {
     "help_location": "在這裡，你可以看到關於你的城堡和所有前哨重要內容的總體概況。",

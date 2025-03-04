@@ -12588,7 +12588,14 @@
     "webshop_offer_dailyBundle_Carnival_desc": "Carnaval Special + {0}% hogere bonus!",
     "dialog_generals_inn_drawChances_fatKing_TomAliceToken": "Dit zijn de trekkingskansen voor de beloningscategorieën van deze patron met het geselecteerde aanbod. Elke categorie bevat specifieke beloningssoorten, die willekeurig zullen worden gekozen. Voor elk betaald aanbod worden er vier trekkingen uitgevoerd, elke trekking heeft de onderstaande kansen.\n\nTrekking Kans        Beloningscategorieën\n\n04.50%                  - Tom fragmenten\n\n04.50%                  - Alice fragmenten\n\n00.50%                  - Tom &amp; Alices aanbieding aan Koning Ludwig\n\n03.00%                  - Aanbieding aan Prinses Beatrice\n\n05.00%                  - Aanbieding aan Sir Ulrich\n\n08.00%                  - Aanbieding aan Koning Ludwig\n\n02.00%                  - Vaardigheid reset tokens\n\n03.40%                  - Uitrusting\n\n22.00%                  - Belegerings- en verdedigingsgereedschappen\n\n10.00%                  - Tijd overslaan\n\n07.00%                  - Snelle reisveren\n\n08.00%                  - Bouwitems\n\n05.00%                  - Geluksrad tickets\n\n12.00%                  - Militaire eenheden\n\n05.10%                  - Decoraties",
     "tooltip_rankingGlobal": "De ranking toont de alliantie waartoe je behoorde toen je je score voor het laatst verhoogde.",
-    "longPointsEvent_pointRanking_tooltip": "Klassement seizoenspunten"
+    "longPointsEvent_pointRanking_tooltip": "Klassement seizoenspunten",
+    "webshop_carnivaloffer_VIP_name": "VIP Carnaval Extravaganza",
+    "webshop_carnivaloffer_extraLarge_name": "Extra grote carnaval extravaganza",
+    "webshop_carnivaloffer_giant_name": "Giant Carnival Extravaganza",
+    "webshop_carnivaloffer_huge_name": "Groot carnavalsspektakel",
+    "webshop_carnivaloffer_large_name": "Grote carnaval extravaganza",
+    "webshop_carnivaloffer_medium_name": "Middelgrote carnaval extravaganza",
+    "webshop_carnivaloffer_small_name": "Kleine carnavalsextravaganza"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% eenheid vechtkracht bij aanvallen",
@@ -19867,7 +19874,9 @@
     "eventNotRunning": "Het evenement is momenteel niet aan de gang.",
     "gachaPull_button_ChristmasGacha": "Geef",
     "currency_description_FrozenCarrot": "Bevroren wortelen, doordrenkt met oude wintermagie, ondersteunen de mysterieuze sneeuwman. Bied ze aan tijdens het Betoverde Sneeuwbol-evenement om geweldige beloningen te ontgrendelen!",
-    "currency_name_FrozenCarrot": "Bevroren wortel"
+    "currency_name_FrozenCarrot": "Bevroren wortel",
+    "panel_buildinglist_SlotBuildConstruction": "De bouwerkwartieren worden gebouwd",
+    "panel_buildinglist_SlotBuildUpgradeCap": "Upgrade de bouwerkwartieren! Beschikbaar vanaf niveau {0}"
   },
   "help": {
     "help_location": "Hier krijg je een globaal overzicht van alle belangrijke inhoud van je kasteel en al je buitenposten.",

@@ -111401,6 +111401,21 @@
     ],
     "fx": []
   },
+  "icon_building_related_effect_default": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_effect_publicorder_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 31,
+        "h": 31,
+        "rx": 984,
+        "ry": 984
+      }
+    ],
+    "fx": []
+  },
   "icon_building_related_effect_publicorder": {
     "pid": 0,
     "url": "x384/Icons/IconsShared/icon_effect_publicorder_Shared.png",
@@ -111517,6 +111532,21 @@
         "h": 34,
         "rx": 980,
         "ry": 983
+      }
+    ],
+    "fx": []
+  },
+  "icon_building_related_effect_buildersquarters": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_effect_simultaneousConstruction_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 30,
+        "rx": 982,
+        "ry": 985
       }
     ],
     "fx": []

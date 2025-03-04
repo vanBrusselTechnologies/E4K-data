@@ -634,7 +634,6 @@ export interface Building {
     "comment1"?: number | string;
     "comment2"?: number | string;
     "constructionItemGroupIDs"?: number | string;
-    "constructionSlotCount"?: number;
     "costAquamarine"?: number;
     "costC1"?: number;
     "costC2"?: number;
@@ -1756,9 +1755,9 @@ export interface GeneralRarity {
 }
 
 export interface General {
-    "attackSlots"?: string;
+    "attackSlots"?: number | string;
     "crossplayID": number;
-    "defenseSlots"?: string;
+    "defenseSlots"?: number | string;
     "generalID": number;
     "generalName": string;
     "generalRarityID": number;
@@ -2993,11 +2992,13 @@ export interface Reward {
     "addSceatToken"?: number;
     "addShapeShifterCharm"?: number;
     "addShapeShifterInsignia"?: number;
+    "addShardAlice"?: number;
     "addShardAlyssa"?: number;
     "addShardHoratio"?: number;
     "addShardLeo"?: number;
     "addShardSasaki"?: number;
     "addShardTizi"?: number;
+    "addShardTom"?: number;
     "addShardToril"?: number;
     "addSilverToken"?: number;
     "addSoldierBiscuit"?: number;
@@ -3007,6 +3008,7 @@ export interface Reward {
     "addSteel"?: number;
     "addTimeDoubloon"?: number;
     "addTiziToken"?: number;
+    "addTomAliceToken"?: number;
     "addTwinFlameAxes"?: number;
     "addVigorDoubloon"?: number;
     "addWishingWellCoin"?: number;

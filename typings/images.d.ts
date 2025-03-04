@@ -4945,8 +4945,10 @@ export interface Images {
     "icon_building_MilitaryDistrict_small": ImageData;
     "icon_building_TradeDistrict_small": ImageData;
     "icon_building_locally_stored": ImageData;
+    "icon_building_related_effect_buildersquarters": ImageData;
     "icon_building_related_effect_castlewall": ImageData;
     "icon_building_related_effect_crane": ImageData;
+    "icon_building_related_effect_default": ImageData;
     "icon_building_related_effect_forge": ImageData;
     "icon_building_related_effect_gate": ImageData;
     "icon_building_related_effect_hideout": ImageData;
