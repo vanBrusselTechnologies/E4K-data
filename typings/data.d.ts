@@ -1981,9 +1981,12 @@ export interface Landmark {
 }
 
 export interface LeaderboardReward {
+    "comment1"?: string;
+    "comment2"?: string;
     "eventTypeID": number;
     "leaderboardRewardID": number;
     "leaderboardRewardSetID": number;
+    "leagueID"?: number;
     "maxRank": number;
     "rewardIDs": number;
 }
@@ -2405,6 +2408,7 @@ export interface Package {
     "addLegendaryToken"?: number;
     "addLuckyWheelTicket"?: number;
     "addPegasusTicket"?: number;
+    "addPlaster"?: number;
     "addPrincessToken"?: number;
     "addRareBoosterConsumable"?: number;
     "addRareFarmingtools"?: number;
@@ -2417,14 +2421,13 @@ export interface Package {
     "addSamuraiToken"?: number;
     "addSasakiToken"?: number;
     "addSceatToken"?: number;
-    "addShapeShifterBloodpointBoosterKey"?: number;
-    "addShapeShifterCharmBoosterKey"?: number;
     "addShogunPointBoosterKey"?: number;
     "addSilverToken"?: number;
     "addSoldierBiscuit"?: number;
     "addSoulSuckerBoosterKey"?: number;
     "addStatuetteBooster"?: number;
     "addTeaTimeBoosterKey"?: number;
+    "addTomAliceToken"?: number;
     "addTonic"?: number;
     "addTonicBooster"?: number;
     "amountBeef"?: number;
@@ -2448,6 +2451,7 @@ export interface Package {
     "comment2"?: string;
     "constructionItemAmount"?: number;
     "constructionItemID"?: number;
+    "constructionItemIDs"?: number;
     "cost1MinSkip"?: number;
     "costAnniversaryToken"?: number;
     "costDecoDust"?: number;
@@ -2467,8 +2471,6 @@ export interface Package {
     "costSamuraiMedal"?: number;
     "costSamuraiToken"?: number;
     "costSceatToken"?: number;
-    "costShapeShifterCharm"?: number;
-    "costShapeShifterInsignia"?: number;
     "costSilverToken"?: number;
     "costSpringLTPEToken"?: number;
     "costStPatrickLTPEToken"?: number;
@@ -2956,12 +2958,14 @@ export interface Reward {
     "addFusionCurrency"?: number;
     "addGenXP1000"?: number;
     "addGenXP10000"?: number;
+    "addGenXP15000"?: number;
     "addGenXP2500"?: number;
     "addGenXP500"?: number;
     "addGenXP5000"?: number;
     "addGeneralsSkillsResetToken"?: number;
     "addGoldToken"?: number;
     "addHalloweenLTPEToken"?: number;
+    "addHasanToken"?: number;
     "addIceLTPEToken"?: number;
     "addImperialDucat"?: number;
     "addKhanMedal"?: number;
@@ -2990,10 +2994,9 @@ export interface Reward {
     "addSaleDaysLuckyWheelTicket"?: number;
     "addSasakiToken"?: number;
     "addSceatToken"?: number;
-    "addShapeShifterCharm"?: number;
-    "addShapeShifterInsignia"?: number;
     "addShardAlice"?: number;
     "addShardAlyssa"?: number;
+    "addShardHasan"?: number;
     "addShardHoratio"?: number;
     "addShardLeo"?: number;
     "addShardSasaki"?: number;

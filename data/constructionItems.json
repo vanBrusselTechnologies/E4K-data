@@ -29106,7 +29106,7 @@
       "duration": 2419200,
       "constructionItemEffectGroupID": 51,
       "disassemblingTombolaID": 4,
-      "unitWallCount": 250
+      "effects": "420&amp;250"
     },
     {
       "constructionItemID": 855,
@@ -29121,7 +29121,7 @@
       "duration": 2419200,
       "constructionItemEffectGroupID": 51,
       "disassemblingTombolaID": 4,
-      "unitWallCount": 200
+      "effects": "420&amp;200"
     },
     {
       "constructionItemID": 856,
@@ -29829,6 +29829,66 @@
       "constructionItemEffectGroupID": 51,
       "disassemblingTombolaID": 2,
       "effects": "503&amp;25"
+    },
+    {
+      "constructionItemID": 904,
+      "crossplayID": 904,
+      "comment1": "Temporary",
+      "comment2": "natureResearchtower",
+      "name": "natureResearchtower",
+      "constructionItemGroupID": 268,
+      "level": 4,
+      "rarenessID": 4,
+      "slotTypeID": 0,
+      "duration": 2419200,
+      "constructionItemEffectGroupID": 51,
+      "disassemblingTombolaID": 2,
+      "effects": "296&amp;80000,298&amp;8000"
+    },
+    {
+      "constructionItemID": 905,
+      "crossplayID": 905,
+      "comment1": "Temporary",
+      "comment2": "easternTavern",
+      "name": "easternTavern",
+      "constructionItemGroupID": 269,
+      "level": 4,
+      "rarenessID": 4,
+      "slotTypeID": 0,
+      "duration": 2419200,
+      "constructionItemEffectGroupID": 51,
+      "disassemblingTombolaID": 2,
+      "effects": "296&amp;80000,298&amp;8000"
+    },
+    {
+      "constructionItemID": 906,
+      "crossplayID": 906,
+      "comment1": "Temporary",
+      "comment2": "IndiaDrillground",
+      "name": "IndiaDrillground",
+      "constructionItemGroupID": 270,
+      "level": 4,
+      "rarenessID": 4,
+      "slotTypeID": 0,
+      "duration": 2419200,
+      "constructionItemEffectGroupID": 51,
+      "disassemblingTombolaID": 2,
+      "effects": "296&amp;80000,298&amp;8000"
+    },
+    {
+      "constructionItemID": 907,
+      "crossplayID": 907,
+      "comment1": "Temporary",
+      "comment2": "tropicalSummerKiwiEstate",
+      "name": "tropicalSummerKiwiEstate",
+      "constructionItemGroupID": 271,
+      "level": 4,
+      "rarenessID": 4,
+      "slotTypeID": 0,
+      "duration": 2419200,
+      "constructionItemEffectGroupID": 51,
+      "disassemblingTombolaID": 2,
+      "effects": "296&amp;80000,298&amp;8000"
     }
   ]
 }

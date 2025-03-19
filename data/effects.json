@@ -3800,6 +3800,13 @@
       "capID": 99
     },
     {
+      "effectID": 420,
+      "crossplayID": 420,
+      "name": "unitWallAbsoluteAmount",
+      "effectTypeID": 194,
+      "capID": 99
+    },
+    {
       "effectID": 2101,
       "name": "relicOffensiveMeleeBonus",
       "effectTypeID": 23,

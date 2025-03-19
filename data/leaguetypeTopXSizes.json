@@ -22,6 +22,13 @@
       "topXValue": "50,10,1"
     },
     {
+      "Comment": "AR1 ltID 4",
+      "zoneID": 325,
+      "eventID": 83,
+      "leaguetypeID": 4,
+      "topXValue": "50,10,1"
+    },
+    {
       "Comment": "ARAB1 ltID 1",
       "zoneID": 330,
       "eventID": 83,
@@ -40,6 +47,13 @@
       "zoneID": 330,
       "eventID": 83,
       "leaguetypeID": 3,
+      "topXValue": "25,5,1"
+    },
+    {
+      "Comment": "ARAB1 ltID 4",
+      "zoneID": 330,
+      "eventID": 83,
+      "leaguetypeID": 4,
       "topXValue": "25,5,1"
     },
     {
@@ -64,6 +78,13 @@
       "topXValue": "50,10,1"
     },
     {
+      "Comment": "ASIA1 ltID 4",
+      "zoneID": 333,
+      "eventID": 83,
+      "leaguetypeID": 4,
+      "topXValue": "50,10,1"
+    },
+    {
       "Comment": "AU1 ltID 1",
       "zoneID": 311,
       "eventID": 83,
@@ -85,6 +106,13 @@
       "topXValue": "50,10,1"
     },
     {
+      "Comment": "AU1 ltID 4",
+      "zoneID": 311,
+      "eventID": 83,
+      "leaguetypeID": 4,
+      "topXValue": "50,10,1"
+    },
+    {
       "Comment": "BR1 ltID 1",
       "zoneID": 277,
       "eventID": 83,
@@ -102,7 +130,7 @@
       "Comment": "BR1 ltID 3",
       "zoneID": 277,
       "eventID": 83,
-      "leaguetypeID": 3,
+      "leaguetypeID": 4,
       "topXValue": "75,25,1"
     },
     {
@@ -123,7 +151,7 @@
       "Comment": "CN1 ltID 3",
       "zoneID": 299,
       "eventID": 83,
-      "leaguetypeID": 3,
+      "leaguetypeID": 4,
       "topXValue": "25,5,1"
     },
     {
@@ -144,7 +172,7 @@
       "Comment": "DE1 ltID 3",
       "zoneID": 217,
       "eventID": 83,
-      "leaguetypeID": 3,
+      "leaguetypeID": 4,
       "topXValue": "300,150,5"
     },
     {
@@ -165,7 +193,7 @@
       "Comment": "DE2 ltID 3",
       "zoneID": 443,
       "eventID": 83,
-      "leaguetypeID": 3,
+      "leaguetypeID": 4,
       "topXValue": "250,100,5"
     },
     {
@@ -186,7 +214,7 @@
       "Comment": "ES1 ltID 3",
       "zoneID": 271,
       "eventID": 83,
-      "leaguetypeID": 3,
+      "leaguetypeID": 4,
       "topXValue": "100,30,1"
     },
     {
@@ -207,7 +235,7 @@
       "Comment": "FR1 ltID 3",
       "zoneID": 258,
       "eventID": 83,
-      "leaguetypeID": 3,
+      "leaguetypeID": 4,
       "topXValue": "150,50,1"
     },
     {
@@ -228,7 +256,7 @@
       "Comment": "GB1 ltID 3",
       "zoneID": 269,
       "eventID": 83,
-      "leaguetypeID": 3,
+      "leaguetypeID": 4,
       "topXValue": "100,30,1"
     },
     {
@@ -249,7 +277,7 @@
       "Comment": "GR1 ltID 3",
       "zoneID": 329,
       "eventID": 83,
-      "leaguetypeID": 3,
+      "leaguetypeID": 4,
       "topXValue": "50,10,1"
     },
     {
@@ -270,7 +298,7 @@
       "Comment": "HANT1 ltID 3",
       "zoneID": 447,
       "eventID": 83,
-      "leaguetypeID": 3,
+      "leaguetypeID": 4,
       "topXValue": "25,5,1"
     },
     {
@@ -291,7 +319,7 @@
       "Comment": "HIS1 ltID 3",
       "zoneID": 276,
       "eventID": 83,
-      "leaguetypeID": 3,
+      "leaguetypeID": 4,
       "topXValue": "75,25,1"
     },
     {
@@ -312,7 +340,7 @@
       "Comment": "ID1 ltID 3",
       "zoneID": 332,
       "eventID": 83,
-      "leaguetypeID": 3,
+      "leaguetypeID": 4,
       "topXValue": "25,5,1"
     },
     {
@@ -337,6 +365,13 @@
       "topXValue": "75,25,1"
     },
     {
+      "Comment": "IN1 ltID 4",
+      "zoneID": 331,
+      "eventID": 83,
+      "leaguetypeID": 4,
+      "topXValue": "75,25,1"
+    },
+    {
       "Comment": "INT2 ltID 1",
       "zoneID": 327,
       "eventID": 83,
@@ -355,6 +390,13 @@
       "zoneID": 327,
       "eventID": 83,
       "leaguetypeID": 3,
+      "topXValue": "200,75,3"
+    },
+    {
+      "Comment": "INT2 ltID 4",
+      "zoneID": 327,
+      "eventID": 83,
+      "leaguetypeID": 4,
       "topXValue": "200,75,3"
     },
     {
@@ -379,6 +421,13 @@
       "topXValue": "25,5,1"
     },
     {
+      "Comment": "INT3 ltID 4",
+      "zoneID": 667,
+      "eventID": 83,
+      "leaguetypeID": 4,
+      "topXValue": "25,5,1"
+    },
+    {
       "Comment": "INT4 ltID 1",
       "zoneID": 832,
       "eventID": 83,
@@ -397,6 +446,13 @@
       "zoneID": 832,
       "eventID": 83,
       "leaguetypeID": 3,
+      "topXValue": "75,25,1"
+    },
+    {
+      "Comment": "INT4 ltID 4",
+      "zoneID": 832,
+      "eventID": 83,
+      "leaguetypeID": 4,
       "topXValue": "75,25,1"
     },
     {
@@ -421,6 +477,13 @@
       "topXValue": "150,50,1"
     },
     {
+      "Comment": "IT1 ltID 4",
+      "zoneID": 273,
+      "eventID": 83,
+      "leaguetypeID": 4,
+      "topXValue": "150,50,1"
+    },
+    {
       "Comment": "JP1 ltID 1",
       "zoneID": 278,
       "eventID": 83,
@@ -439,6 +502,13 @@
       "zoneID": 278,
       "eventID": 83,
       "leaguetypeID": 3,
+      "topXValue": "50,10,1"
+    },
+    {
+      "Comment": "JP1 ltID 4",
+      "zoneID": 278,
+      "eventID": 83,
+      "leaguetypeID": 4,
       "topXValue": "50,10,1"
     },
     {
@@ -463,6 +533,13 @@
       "topXValue": "25,5,1"
     },
     {
+      "Comment": "KR1 ltID 4",
+      "zoneID": 298,
+      "eventID": 83,
+      "leaguetypeID": 4,
+      "topXValue": "25,5,1"
+    },
+    {
       "Comment": "MX1 ltID 1",
       "zoneID": 326,
       "eventID": 83,
@@ -481,6 +558,13 @@
       "zoneID": 326,
       "eventID": 83,
       "leaguetypeID": 3,
+      "topXValue": "75,25,1"
+    },
+    {
+      "Comment": "MX1 ltID 4",
+      "zoneID": 326,
+      "eventID": 83,
+      "leaguetypeID": 4,
       "topXValue": "75,25,1"
     },
     {
@@ -505,6 +589,13 @@
       "topXValue": "75,25,1"
     },
     {
+      "Comment": "NL1 ltID 4",
+      "zoneID": 270,
+      "eventID": 83,
+      "leaguetypeID": 4,
+      "topXValue": "75,25,1"
+    },
+    {
       "Comment": "PH1 ltID 1",
       "zoneID": 324,
       "eventID": 83,
@@ -523,6 +614,13 @@
       "zoneID": 324,
       "eventID": 83,
       "leaguetypeID": 3,
+      "topXValue": "25,5,1"
+    },
+    {
+      "Comment": "PH1 ltID 4",
+      "zoneID": 324,
+      "eventID": 83,
+      "leaguetypeID": 4,
       "topXValue": "25,5,1"
     },
     {
@@ -547,6 +645,13 @@
       "topXValue": "150,50,1"
     },
     {
+      "Comment": "PL1 ltID 4",
+      "zoneID": 259,
+      "eventID": 83,
+      "leaguetypeID": 4,
+      "topXValue": "150,50,1"
+    },
+    {
       "Comment": "PL1 1 ltID 1",
       "zoneID": 446,
       "eventID": 83,
@@ -565,6 +670,13 @@
       "zoneID": 446,
       "eventID": 83,
       "leaguetypeID": 3,
+      "topXValue": "50,10,1"
+    },
+    {
+      "Comment": "PL1 1 ltID 4",
+      "zoneID": 446,
+      "eventID": 83,
+      "leaguetypeID": 4,
       "topXValue": "50,10,1"
     },
     {
@@ -589,6 +701,13 @@
       "topXValue": "150,50,1"
     },
     {
+      "Comment": "PT1 ltID 4",
+      "zoneID": 272,
+      "eventID": 83,
+      "leaguetypeID": 4,
+      "topXValue": "150,50,1"
+    },
+    {
       "Comment": "RU1 ltID 1",
       "zoneID": 274,
       "eventID": 83,
@@ -607,6 +726,13 @@
       "zoneID": 274,
       "eventID": 83,
       "leaguetypeID": 3,
+      "topXValue": "75,25,1"
+    },
+    {
+      "Comment": "RU1 ltID 4",
+      "zoneID": 274,
+      "eventID": 83,
+      "leaguetypeID": 4,
       "topXValue": "75,25,1"
     },
     {
@@ -631,6 +757,13 @@
       "topXValue": "50,10,1"
     },
     {
+      "Comment": "SKN1 ltID 4",
+      "zoneID": 275,
+      "eventID": 83,
+      "leaguetypeID": 4,
+      "topXValue": "50,10,1"
+    },
+    {
       "Comment": "TR1 ltID 1",
       "zoneID": 328,
       "eventID": 83,
@@ -649,6 +782,13 @@
       "zoneID": 328,
       "eventID": 83,
       "leaguetypeID": 3,
+      "topXValue": "75,25,1"
+    },
+    {
+      "Comment": "TR1 ltID 4",
+      "zoneID": 328,
+      "eventID": 83,
+      "leaguetypeID": 4,
       "topXValue": "75,25,1"
     },
     {
@@ -673,6 +813,13 @@
       "topXValue": "150,50,1"
     },
     {
+      "Comment": "US1 ltID 4",
+      "zoneID": 260,
+      "eventID": 83,
+      "leaguetypeID": 4,
+      "topXValue": "150,50,1"
+    },
+    {
       "Comment": "US2 ltID 1",
       "zoneID": 445,
       "eventID": 83,
@@ -694,6 +841,13 @@
       "topXValue": "150,50,1"
     },
     {
+      "Comment": "US2 ltID 4",
+      "zoneID": 445,
+      "eventID": 83,
+      "leaguetypeID": 4,
+      "topXValue": "150,50,1"
+    },
+    {
       "Comment": "WORLD1 ltID 1",
       "zoneID": 880,
       "eventID": 83,
@@ -712,6 +866,13 @@
       "zoneID": 880,
       "eventID": 83,
       "leaguetypeID": 3,
+      "topXValue": "25,5,1"
+    },
+    {
+      "Comment": "WORLD1 ltID 4",
+      "zoneID": 880,
+      "eventID": 83,
+      "leaguetypeID": 4,
       "topXValue": "25,5,1"
     },
     {
@@ -757,6 +918,13 @@
       "topXValue": "6,4,2"
     },
     {
+      "Comment": "QA-Test ltID 4",
+      "zoneID": 314,
+      "eventID": 83,
+      "leaguetypeID": 4,
+      "topXValue": "6,4,2"
+    },
+    {
       "Comment": "Shop ltID 1",
       "zoneID": 537,
       "eventID": 83,
@@ -775,6 +943,13 @@
       "zoneID": 537,
       "eventID": 83,
       "leaguetypeID": 3,
+      "topXValue": "6,4,2"
+    },
+    {
+      "Comment": "Shop ltID 4",
+      "zoneID": 537,
+      "eventID": 83,
+      "leaguetypeID": 4,
       "topXValue": "6,4,2"
     }
   ]

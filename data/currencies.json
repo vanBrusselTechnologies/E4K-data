@@ -708,6 +708,13 @@
       "assetName": "TomAliceToken"
     },
     {
+      "currencyID": 6007,
+      "crossplayID": 6007,
+      "Name": "OfferingHasan",
+      "JSONKey": "HAT",
+      "assetName": "OfferingHasan"
+    },
+    {
       "currencyID": 10000,
       "crossplayID": 10000,
       "Name": "ShardUniversal",
@@ -776,6 +783,13 @@
       "Name": "ShardTizi",
       "JSONKey": "STT",
       "assetName": "ShardTizi"
+    },
+    {
+      "currencyID": 10010,
+      "crossplayID": 10010,
+      "Name": "ShardHasan",
+      "JSONKey": "SHS",
+      "assetName": "ShardHasan"
     },
     {
       "currencyID": 9999,

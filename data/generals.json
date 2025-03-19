@@ -244,6 +244,20 @@
       "maxStarLevel": 10,
       "unlockCurrencyID": 10010,
       "upgradeCurrencyIDs": "10000,10010",
+      "isPreview": 0,
+      "isNPCGeneral": 0
+    },
+    {
+      "generalID": 121,
+      "crossplayID": 121,
+      "generalName": "Diana",
+      "attackSlots": "101211,101212,101213,101214",
+      "defenseSlots": "101216,101217,101218,101219",
+      "generalRarityID": 3,
+      "maxLevel": 100,
+      "maxStarLevel": 10,
+      "unlockCurrencyID": 10011,
+      "upgradeCurrencyIDs": "10000,10011",
       "isPreview": 1,
       "isNPCGeneral": 0
     }

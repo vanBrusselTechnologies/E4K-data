@@ -112,6 +112,7 @@ export interface Images {
     "Background_Generals_Overview_BlueGeneral": ImageData;
     "Background_Generals_Overview_BottomDeco": ImageData;
     "Background_Generals_Overview_BottomLine": ImageData;
+    "Background_Generals_Overview_Hasan": ImageData;
     "Background_Generals_Overview_Horatio": ImageData;
     "Background_Generals_Overview_KingOlafson": ImageData;
     "Background_Generals_Overview_Leo": ImageData;
@@ -121,6 +122,7 @@ export interface Images {
     "Background_Generals_Overview_Preview_Alyssa": ImageData;
     "Background_Generals_Overview_Preview_BabaVarjuka": ImageData;
     "Background_Generals_Overview_Preview_BlueGeneral": ImageData;
+    "Background_Generals_Overview_Preview_Diana": ImageData;
     "Background_Generals_Overview_Preview_Hasan": ImageData;
     "Background_Generals_Overview_Preview_Horatio": ImageData;
     "Background_Generals_Overview_Preview_KingOlafson": ImageData;
@@ -2351,6 +2353,26 @@ export interface Images {
     "General_BlueGeneral_Skirt_Left": ImageData;
     "General_BlueGeneral_Skirt_Right": ImageData;
     "General_BlueGeneral_Thumb": ImageData;
+    "General_Hasan_Arm_Left": ImageData;
+    "General_Hasan_Arm_Right": ImageData;
+    "General_Hasan_Bag": ImageData;
+    "General_Hasan_Belt": ImageData;
+    "General_Hasan_Chest": ImageData;
+    "General_Hasan_Chest_Lower": ImageData;
+    "General_Hasan_Coat_Back": ImageData;
+    "General_Hasan_Coat_Left": ImageData;
+    "General_Hasan_Coat_Right": ImageData;
+    "General_Hasan_Colar": ImageData;
+    "General_Hasan_Compas": ImageData;
+    "General_Hasan_Face": ImageData;
+    "General_Hasan_Hand_Left": ImageData;
+    "General_Hasan_Legs": ImageData;
+    "General_Hasan_Pendulum": ImageData;
+    "General_Hasan_Saber": ImageData;
+    "General_Hasan_Shield": ImageData;
+    "General_Hasan_Shoulder_Left": ImageData;
+    "General_Hasan_Shoulder_Right": ImageData;
+    "General_Hasan_Tools": ImageData;
     "General_Horatio_Arm_Left": ImageData;
     "General_Horatio_Arm_Right": ImageData;
     "General_Horatio_Belt_Bottom": ImageData;
@@ -4715,6 +4737,7 @@ export interface Images {
     "generals_cutscene_2": ImageData;
     "giantsForestWoodcutter": ImageData;
     "giantsForestlumbermill": ImageData;
+    "global_primetime_background_Easter2024": ImageData;
     "global_primetime_background_StPatricksDay2025": ImageData;
     "global_primetime_background_ValentinesDay2025": ImageData;
     "global_primetime_background_Winter2024": ImageData;
@@ -4722,6 +4745,7 @@ export interface Images {
     "global_primetime_background_generic2": ImageData;
     "global_primetime_background_generic3": ImageData;
     "global_primetime_hub_teaser_Carnival2025": ImageData;
+    "global_primetime_hub_teaser_Easter2024": ImageData;
     "global_primetime_hub_teaser_StPatricksDay2025": ImageData;
     "global_primetime_hub_teaser_ValentinesDay2025": ImageData;
     "global_primetime_hub_teaser_Winter2024": ImageData;
@@ -4729,6 +4753,7 @@ export interface Images {
     "global_primetime_hub_teaser_generic2": ImageData;
     "global_primetime_hub_teaser_generic3": ImageData;
     "global_primetime_teaser_Carnival2025": ImageData;
+    "global_primetime_teaser_Easter2024": ImageData;
     "global_primetime_teaser_StPatricksDay2025": ImageData;
     "global_primetime_teaser_ValentinesDay2025": ImageData;
     "global_primetime_teaser_ValentinesDay2025Front": ImageData;
@@ -4867,6 +4892,9 @@ export interface Images {
     "icon_add_rubies": ImageData;
     "icon_add_xl": ImageData;
     "icon_addpenny": ImageData;
+    "icon_advisor_character_big_ds": ImageData;
+    "icon_advisor_character_ds": ImageData;
+    "icon_advisor_character_xs_ds": ImageData;
     "icon_all": ImageData;
     "icon_all_waves": ImageData;
     "icon_alliance": ImageData;
@@ -4908,6 +4936,8 @@ export interface Images {
     "icon_arrow_d_up": ImageData;
     "icon_arrow_d_up_dark": ImageData;
     "icon_arrow_flat_dark": ImageData;
+    "icon_arrow_movement_backward": ImageData;
+    "icon_arrow_movement_forward": ImageData;
     "icon_arrow_red_move_attack_big": ImageData;
     "icon_arrow_show_me": ImageData;
     "icon_arrow_small_show_me": ImageData;
@@ -5605,6 +5635,13 @@ export interface Images {
     "icon_currency_OctoberfestLTPEToken_medium": ImageData;
     "icon_currency_OctoberfestLTPEToken_small": ImageData;
     "icon_currency_OctoberfestLTPEToken_xl": ImageData;
+    "icon_currency_OfferingHasan": ImageData;
+    "icon_currency_OfferingHasan_big": ImageData;
+    "icon_currency_OfferingHasan_big_ds": ImageData;
+    "icon_currency_OfferingHasan_ds": ImageData;
+    "icon_currency_OfferingHasan_medium": ImageData;
+    "icon_currency_OfferingHasan_medium_ds": ImageData;
+    "icon_currency_OfferingHasan_small": ImageData;
     "icon_currency_PearlRelic": ImageData;
     "icon_currency_PegasusTicket": ImageData;
     "icon_currency_PegasusTicket_big": ImageData;
@@ -5727,6 +5764,8 @@ export interface Images {
     "icon_currency_ShardAlyssa_xl": ImageData;
     "icon_currency_ShardDiana": ImageData;
     "icon_currency_ShardDiana_xl": ImageData;
+    "icon_currency_ShardHasan": ImageData;
+    "icon_currency_ShardHasan_xl": ImageData;
     "icon_currency_ShardHoratio": ImageData;
     "icon_currency_ShardHoratio_xl": ImageData;
     "icon_currency_ShardLeo": ImageData;
@@ -6219,6 +6258,7 @@ export interface Images {
     "icon_event_71": ImageData;
     "icon_event_72": ImageData;
     "icon_event_80": ImageData;
+    "icon_event_83": ImageData;
     "icon_event_85": ImageData;
     "icon_event_97": ImageData;
     "icon_event_blacksmith": ImageData;
@@ -6252,6 +6292,7 @@ export interface Images {
     "icon_event_small_71": ImageData;
     "icon_event_small_72": ImageData;
     "icon_event_small_80": ImageData;
+    "icon_event_small_83": ImageData;
     "icon_event_small_85": ImageData;
     "icon_event_small_97": ImageData;
     "icon_event_xl_106": ImageData;
@@ -6271,6 +6312,9 @@ export interface Images {
     "icon_everwinter": ImageData;
     "icon_everwinter_paper_dark": ImageData;
     "icon_exchange_flat": ImageData;
+    "icon_failure_gold": ImageData;
+    "icon_failure_time": ImageData;
+    "icon_failure_troops_tools": ImageData;
     "icon_fallback": ImageData;
     "icon_favourite": ImageData;
     "icon_favourite_active": ImageData;
@@ -6348,6 +6392,9 @@ export interface Images {
     "icon_general_BlueGeneral": ImageData;
     "icon_general_BlueGeneral_xl": ImageData;
     "icon_general_BlueGeneral_xxl": ImageData;
+    "icon_general_Hasan": ImageData;
+    "icon_general_Hasan_xl": ImageData;
+    "icon_general_Hasan_xxl": ImageData;
     "icon_general_Horatio": ImageData;
     "icon_general_Horatio_xl": ImageData;
     "icon_general_Horatio_xxl": ImageData;
@@ -6617,6 +6664,7 @@ export interface Images {
     "icon_general_attack_avatar_Alyssa": ImageData;
     "icon_general_attack_avatar_BabaVarjuka": ImageData;
     "icon_general_attack_avatar_BlueGeneral": ImageData;
+    "icon_general_attack_avatar_Hasan": ImageData;
     "icon_general_attack_avatar_Horatio": ImageData;
     "icon_general_attack_avatar_KingOlafson": ImageData;
     "icon_general_attack_avatar_Leo": ImageData;
@@ -6662,6 +6710,9 @@ export interface Images {
     "icon_general_preview_BlueGeneral": ImageData;
     "icon_general_preview_BlueGeneral_xl": ImageData;
     "icon_general_preview_BlueGeneral_xxl": ImageData;
+    "icon_general_preview_Diana": ImageData;
+    "icon_general_preview_Diana_xl": ImageData;
+    "icon_general_preview_Diana_xxl": ImageData;
     "icon_general_preview_Hasan": ImageData;
     "icon_general_preview_Hasan_xl": ImageData;
     "icon_general_preview_Hasan_xxl": ImageData;
@@ -7083,6 +7134,7 @@ export interface Images {
     "icon_points_small_71": ImageData;
     "icon_points_small_72": ImageData;
     "icon_points_small_80": ImageData;
+    "icon_points_small_83": ImageData;
     "icon_post_flat_dark": ImageData;
     "icon_power_rank": ImageData;
     "icon_power_rank_big": ImageData;
@@ -7308,6 +7360,7 @@ export interface Images {
     "icon_squared_general_AlienGeneral": ImageData;
     "icon_squared_general_Alyssa": ImageData;
     "icon_squared_general_BabaVarjuka": ImageData;
+    "icon_squared_general_Hasan": ImageData;
     "icon_squared_general_Horatio": ImageData;
     "icon_squared_general_Leo": ImageData;
     "icon_squared_general_SamuraiGeneral": ImageData;

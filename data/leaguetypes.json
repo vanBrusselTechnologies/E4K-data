@@ -313,21 +313,28 @@
       "comment2": "LongTermPointEvent",
       "leaguetypeID": 1,
       "eventID": 83,
-      "minLevel": 50,
-      "maxLevel": 69
+      "minLevel": 70,
+      "maxLevel": 269
     },
     {
       "comment2": "LongTermPointEvent",
       "leaguetypeID": 2,
       "eventID": 83,
-      "minLevel": 70,
-      "maxLevel": 869
+      "minLevel": 270,
+      "maxLevel": 719
     },
     {
       "comment2": "LongTermPointEvent",
       "leaguetypeID": 3,
       "eventID": 83,
-      "minLevel": 870,
+      "minLevel": 720,
+      "maxLevel": 1019
+    },
+    {
+      "comment2": "LongTermPointEvent",
+      "leaguetypeID": 4,
+      "eventID": 83,
+      "minLevel": 1020,
       "maxLevel": 1020
     },
     {

@@ -1388,6 +1388,13 @@
       "name": "enableCraftingRecipeGroups"
     },
     {
+      "effectTypeID": 194,
+      "crossplayID": 194,
+      "name": "UnitWallAbsoluteAmount",
+      "sortCategory": 2,
+      "sortGroup": 1
+    },
+    {
       "effectTypeID": 195,
       "crossplayID": 195,
       "name": "constructionQueue"
