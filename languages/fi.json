@@ -833,7 +833,14 @@
     "error_twisted_firestarter_while_protected": "Et voi sabotoida muita pelaajia, kun suojaustila on päällä.",
     "dialog_shoppingCartPrimeDay_DontShowNotification": "Älä näytä tätä keskustelua uudelleen tälle tarjoukselle",
     "dialog_shoppingCartPrimeDay_GoToShopButton": "Mene kauppaan",
-    "dialog_shoppingCartPrimeDay_SeeOfferButton": "Katso tarjous"
+    "dialog_shoppingCartPrimeDay_SeeOfferButton": "Katso tarjous",
+    "advisor_AttackFailed_reason4": "Neuvonantajasi hyökkäys ei voi jatkua. Hyökkäyksen aloittamiseksi ei ole tarpeeksi yksiköitä ja/tai työkaluja. Myös muut komentajat voivat epäonnistua hyökkäystensä käynnistämisessä, jos uusia yksiköitä ei rekrytoida.",
+    "advisor_AttackFailed_reason5": "Hyökkäyksesi ei voinut valmistua ajan hyppyjen puutteen vuoksi. Jos aikahyppyjä ei ole saatavilla, tulevat komentajat eivät ehkä pysty suorittamaan peräkkäisiä hyökkäyksiä ja heidän on pakko vetäytyä.",
+    "advisor_AttackFailed_reason2": "Neuvon hyökkäys ei voi jatkua. Ei tarpeeksi rubiineja tai nopeita matkustussulkia hyökkäyksen aloittamiseen. Myös muut komentajat voivat epäonnistua hyökkäystensä aloittamisessa, jos resursseja ei täydentä.",
+    "advisor_AttackFailed_reason1": "Neuvojan hyökkäys ei voi jatkua. Ei tarpeeksi kultaa hyökkäyksen aloittamiseksi. Muut komentajat saattavat myös epäonnistua hyökkäysten aloittamisessa, jos resursseja ei täydennetä.",
+    "advisor_AttackFailed_reason0": "Neuvojan hyökkäys ei voinut edetä. Tarkista neuvonantajan yleiskatsaus puuttuvista resursseista tai muista ongelmista, jotka estävät hyökkäystä.",
+    "info_attack_threshold": "Olet saavuttanut päivittäisen rajan 1000 hyökkäystä. Jokainen uusi hyökkäys lisää nyt kustannuksia, jotka nousevat eksponentiaalisesti.",
+    "title_attack_threshold": "Lisätyt hyökkäyskustannukset"
   },
   "buildings_and_decorations": {
     "bakery_name": "Leipomo",
@@ -2000,7 +2007,25 @@
     "ci_appearance_CarnivalBarrelWorkshop_flavour": "Käsityöläiset kääntävät hihansa ylös vilkkaassa työpajassa, luoden eloisia tynnyreitä, joissa on värikkäitä kuvioita, valmiina säilyttämään karnevaalin makeudet ja henget.",
     "ci_appearance_CarnivalHoneyGardens": "Karnevaalin hunajapuutarha",
     "ci_appearance_CarnivalHoneyGardens_flavour": "Kultaiset mehiläispesät kimaltelevat auringossa, kun surisevat mehiläiset tanssivat kukkivien kukkien välissä, kun hoitajat valmistavat makeita herkkuja ilahduttaakseen karnevaalivieraita.",
-    "deco_ExaltedCarnivalGondola_name": "Ylevä karnevaaligondoli"
+    "deco_ExaltedCarnivalGondola_name": "Ylevä karnevaaligondoli",
+    "ci_appearance_BrokenEggDwellings": "Rikkoutuneen munan asunto",
+    "ci_appearance_BrokenEggDwellings_flavor": "Tuoreiden kukkien tuoksu leijailee avoimista ikkunoista, kun auringonvalo tanssii maalattujen munien päällä. Vartijat vaihtavat hyväntuulisia vitsejä, punovat seppeleitä ja valmistautuvat kauden iloiselle uudistumiselle.",
+    "ci_appearance_BrokenEggGreenhouse": "Rikkoutuneen munan kasvihuone",
+    "ci_appearance_BrokenEggGreenhouse_flavor": "Sisällä sotilaat liikkuvat tuoreiden maaperän ja puhkeavien kukkien tuoksun keskellä, hoitaen varovasti uutta elämää samalla kun he valmistavat koreja, jotka ovat täynnä värikkäitä kukkia ja maalattuja munia.",
+    "ci_appearance_BrokenEggStorehouse": "Rikkoutuneiden munien varasto",
+    "ci_appearance_BrokenEggStorehouse_flavor": "Varasto on täynnä tuoreita sadonkorjuuja, makeita herkkuja ja värikkäitä munia, varmistaen, että mikään juhla ei jää ilman juhlallista saalista.",
+    "deco_ExaltedGreenEasterHotspring_name": "Ylevä vihreä pääsiäislähde",
+    "deco_ExaltedGreenEasterRuins_name": "Ylevät vihreät pääsiäisrauniot",
+    "deco_ExaltedGreenEggTree_name": "Ylevä vihreä hoitaja",
+    "deco_ExaltedGreenMarchHaresHideout_name": "Ylevä vihreä huhtikuun jäniksen piilopaikka",
+    "deco_ExaltedPurpleEasterHotspring_name": "Ylevä purppura pääsiäislähde",
+    "deco_ExaltedPurpleEasterRuins_name": "Ylevät violetit pääsiäisrauniot",
+    "deco_ExaltedPurpleEggTree_name": "Ylevä purppuranhohtoinen hoitaja",
+    "deco_ExaltedPurpleMarchHaresHideout_name": "Ylevän purppuranpupun piilopaikka",
+    "deco_ExaltedRedEasterHotspring_name": "Ylevä punainen pääsiäislähde",
+    "deco_ExaltedRedEasterRuins_name": "Ylevät punaiset pääsiäisrauniot",
+    "deco_ExaltedRedEggTree_name": "Ylevä punainen hoidon vartija",
+    "deco_ExaltedRedMarchHaresHideout_name": "Ylevän punaisen marsukanin piilopaikka"
   },
   "dialogs": {
     "dialog_festival_desc": "Järjestä kansalaisillesi kestit ruokaa käyttämällä! Värväys nopeutuu kaikissa linnoissasi huomattavasti, niin kauan kuin kestit jatkuvat. Mitä isommat kestit järjestät, sitä suurempi niiden vaikutus on.",
@@ -12621,7 +12646,48 @@
     "webshop_hasanbase_huge_name": "Hienon piirityksen insinöörin suuri mitali",
     "webshop_hasanbase_large_name": "Suuri mitali piirityksen insinöörille",
     "webshop_hasanbase_medium_name": "Keskikokoinen piiritysinsinöörin mitali",
-    "webshop_hasanbase_small_name": "Pieni mitali piiritysinsinööriltä"
+    "webshop_hasanbase_small_name": "Pieni mitali piiritysinsinööriltä",
+    "advisor_AttackCancelAll": "Oletko varma, että haluat peruuttaa kaikki neuvonantajien hyökkäykset? Kaikki käynnissä olevat hyökkäykset peruutetaan, ja kaikki käytetyt resurssit menetetään.",
+    "advisor_AttackCancel": "Oletko varma, että haluat peruuttaa neuvonantajan hyökkäyksen? Kaikki käytetyt resurssit menetetään.",
+    "advisor_AttackNumber": "Neuvojan hyökkäys: (0)/(1)",
+    "advisor_AttackSummary_defeat": "(0) Hyökkäykset - tappio",
+    "advisor_AttackSummary_pending": "(0) Hyökkäykset - odottavat",
+    "advisor_AttackSummary_stopped": "(0) Hyökkäykset - pysäytetty",
+    "advisor_AttackSummary_victory": "(0) Hyökkäykset - voitto",
+    "attack_advisor": "Neuvojan hyökkäys",
+    "advisor_attackInfo": "Jokaisesta hyökkäyksestä maksetaan, kun se alkaa, ja sama kustannus koskee jokaista hyökkäystä.",
+    "attackProgress": "Käynnissä hyökkäykset",
+    "attack_standard": "Vakiohyökkäys",
+    "attack_amount": "Hyökkäysten määrä:",
+    "attack_setUp": "Aseta hyökkäyksesi!",
+    "button_SelectCamp": "Valitse nomadileiri",
+    "button_activateAdvisor": "Aktivoi neuvonantaja",
+    "button_attackAdvisor": "Neuvojan hyökkäys",
+    "button_buyToken": "Osta token",
+    "button_cancelAdvisor": "Peruuta hyökkäys",
+    "button_cancelAdvisorAll": "Peruuta kaikki hyökkäykset",
+    "button_freeToken": "Hanki ilmainen token",
+    "commander": "Komentajat:",
+    "generic_currentCost": "Nykyiset kustannukset:",
+    "generic_currentLosses": "Nykyiset taistelutappiot:",
+    "generic_timer": "Jäljellä oleva aika tapahtumalle:",
+    "generic_totalCost": "Kokonaiskustannukset:",
+    "generic_totalLosses": "Kokonaiskamppahdit:",
+    "lootCurrent": "Nykyinen saalis:",
+    "lootTotal": "Kokonaislupaus:",
+    "title_advisorInformation": "Neuvojan toiminnallisuus",
+    "title_advisor_AttackCancel": "Peruuta hyökkäys?",
+    "title_advisor_AttackCancelAll": "Peruutetaanko kaikki neuvonantajahyökkäykset?",
+    "title_advisor_AttackFailed": "Neuvon hyökkäys epäonnistui!",
+    "title_advisor_AttackOverview": "Neuvojan hyökkäyksen yleiskatsaus",
+    "title_advisor_AttackSummary": "Neuvojan hyökkäysraportti",
+    "title_advisor_activate": "Aktivoi neuvonantaja",
+    "title_advisor_buyToken": "Osta neuvonantajamerkki",
+    "title_advisor_freeToken": "Hanki neuvontatunnus",
+    "title_advisor_nomad": "Nomadi-neuvoja",
+    "currency_description_OfferingHasan": "Vaihto kuningas Ludwigin kanssa kenraalien majatalossa saadaksesi erittäin arvokkaita palkintoja. Palkintosarjat sisältävät aina siruja Hasania varten. Hasanin tarjouksen vaihtaminen voidaan tehdä vain rajoitetun ajan!",
+    "currency_name_OfferingHasan": "Hasanin lahja Ludwigilta",
+    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "Nämä ovat tämän suojelijan palkintokategorioiden arvontamahdollisuudet valitun tarjouksen kanssa. Jokaisessa kategoriassa on erityisiä palkintotyyppejä, jotka valitaan satunnaisesti. Jokaiselle maksulliselle tarjoukselle suoritetaan neljä arvausta, jokaisella arvalla on alla luetellut mahdollisuudet.\n\nArvontamahdollisuus        Palkintokategoriat\n\n09.00%                  - Hasan-palaset\n\n00.50%                  - Hasanin tarjous Ludwigin\n\n03.00%                  - Tarjous prinsessa Beatricelle\n\n05.00%                  - Tarjous Sir Ulrichille\n\n08.00%                  - Tarjous kuningas Ludwigin\n\n02.00%                  - Taitojen nollaus-tokenit\n\n03.40%                  - Varustus"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% yksikön taisteluvoima hyökkäyksessä",
@@ -17308,7 +17374,7 @@
     "equipment_unique_1061_desc": "Muuttaa linnasi kuohuvaksi linnakkeeksi.",
     "equipment_unique_1062_desc": "Muuttaa linnasi kuohuvaksi linnakkeeksi.",
     "equip_effect_description_emptyGemSocket_name": "Tyhjä jalokivipaikka",
-    "equip_effect_description_appearance_baron_transformationTarget": "Muutos koskee päälinnoja, etuvartioita, pääkaupunkeja ja metropoleja.",
+    "equip_effect_description_appearance_baron_transformationTarget": "Näytä dominanssisi LTPE:ssä tällä harvinaisella esineellä, joka muuttaa päälinnoituksesi, etuvartiosi, pääkaupunkisi tai metropolisi todelliseksi ainutlaatuiseksi läsnäoloksi, joka erottuu muista pelaajista.",
     "equip_effect_description_appearance_commander_transformationTarget": "Muutos koskee marssivia armeijoita kuningaskunnissa ja Myrskysaarten sotalaivoissa.",
     "equip_effect_description_noGemSocket_name": "Ei paikkaa jalokivelle",
     "equip_effect_description_permanentAppearance": "Pysyvä esine",
@@ -17938,7 +18004,11 @@
     "equipment_unique_1240": "Suuri ametisti-lotus",
     "equipment_unique_1241": "Suuri ametisti-lotus",
     "equipment_unique_1242": "Suuri ametisti-lotus",
-    "equipment_unique_1243": "Suuri ametisti-lotus"
+    "equipment_unique_1243": "Suuri ametisti-lotus",
+    "equipment_unique_1263": "Pääsiäislinnunpönttö",
+    "equipment_unique_1263_desc": "Vapauta pääsiäislinnun iloinen henki toivottaaksesi tervetulleeksi uusiutumisen kauden. Muuta linna eläväksi turvapaikaksi, joka on koristeltu eloisilla pesillä ja värikkäillä pääsiäismunilla, heijastaen kevään paluun iloa.",
+    "equipment_unique_1264": "Pääsiäisferni",
+    "equipment_unique_1264_desc": "Muuta armeijasi uudistuksen voimaksi, marssimalla avautuvien saniaisten ja piilotettujen pääsiäismunien alla, omaksuen kasvun ja juhlan hengen."
   },
   "generic": {
     "activity": "Toiminta",
@@ -19997,7 +20067,11 @@
     "panel_buildinglist_SlotBuildConstruction": "Rakentajien asuntola on rakenteilla",
     "panel_buildinglist_SlotBuildUpgradeCap": "Päivitä rakentajien asuntola! Saatavilla tasolta {0}",
     "currency_description_HollowMoonEgg": "Tyhjät kuun munat, unohtuneella taialla väritettyinä, ovat salaperäisen Kutsujan etsimät. Tarjoa niitä Kuun tyhjennys tapahtuman aikana avatakseen mystisiä palkintoja!",
-    "currency_name_HollowMoonEgg": "Ontto kuun muna"
+    "currency_name_HollowMoonEgg": "Ontto kuun muna",
+    "currency_description_AdvisorFreeToken": "Erityinen sopimus, joka antaa sinulle mahdollisuuden palkata ja aktivoida mikä tahansa neuvonantaja. Käytä sitä hyödyksesi heidän asiantuntemustaan ja aloita useita peräkkäisiä hyökkäyksiä.",
+    "currency_description_NomadAdvisorToken": "Temujin Mergenin käskyn token, joka antaa pääsyn hänen strategiseen mestaruutensa. Käytä sitä aktivoidaksesi Nomadineuvojan ja vapauttaaksesi armottomia peräkkäisiä hyökkäyksiä nomadileireille.",
+    "currency_name_AdvisorFreeToken": "Neuvon sopimus",
+    "currency_name_NomadAdvisorToken": "Polkuopastajan sinetti"
   },
   "help": {
     "help_location": "Täältä saat yleiskatsauksen linnaasi ja etuvartioihisi liittyvään sisältöön.",
@@ -20373,7 +20447,12 @@
     "help_generals_abilityDialog": "Tässä voit valita kenraalisi kyvyt. \nKyvyt parantavat kenraalin ja hänen armeijansa taisteluvoimaa merkittävästi. Kyvyt aktivoituvat taistelun tietyissä vaiheissa antaen tehokkaita vaikutuksia kenraalin armeijalle ja joukoille.\nValitse vasemmalta puolelta jokin kyky oikealla olevaan kykypaikkaan. Vain paikkoihin sijoitetut kyvyt aktivoituvat taistelussa! Muista tallentaa tekemäsi muutokset ennen kykyvalikon sulkemista!\n\nVoit avata lisää kykypaikkoja taitopuusta, mutta joillakin kenraaleilla on vain rajoitettu määrä kykypaikkoja saatavilla.",
     "help_generals_introduction_popup": "Tästä näet lyhyen yhteenvedon kenraaleista ja heidän taidoistaan.\nJos haluat hankkia jonkin kenraalin, napauta kohtaa &quot;Kenraalit&quot;.",
     "help_defense_icon_allianceDefenseUnitAmount": "Linnasi päätornin liittoumatuen sotilaiden määrä ja kokonaiskapasiteetti. Liittouman jäsenet voivat lähettää sotilaita tukemaan puolustustasi. Tukikapasiteetin ylittävät joukot sijoitetaan reserviin, eivätkä ne osallistu taisteluun.",
-    "help_travelPlanning_autoCooldownSkip": "Tästä voit valita matkustustapasi matkanopeuden lisäämiseksi. Vaikutus ja kulut riippuvat valinnastasi. Voit myös hidastaa valitsemiasi yksiköitä, jotta ne saapuisivat perille juuri oikeaan aikaan.\n\nAktivoi automaattinen ohitus, niin ohitat välittömästi aktiivisen odotusajan, kun armeija saapuu kohteeseen. Tarvittava määrä ajanohituksia vähennetään varastostasi, kun saavut. Mahdollisen ylimääräisen ajanohituksen arvo maksetaan takaisin ajanohituksina."
+    "help_travelPlanning_autoCooldownSkip": "Tästä voit valita matkustustapasi matkanopeuden lisäämiseksi. Vaikutus ja kulut riippuvat valinnastasi. Voit myös hidastaa valitsemiasi yksiköitä, jotta ne saapuisivat perille juuri oikeaan aikaan.\n\nAktivoi automaattinen ohitus, niin ohitat välittömästi aktiivisen odotusajan, kun armeija saapuu kohteeseen. Tarvittava määrä ajanohituksia vähennetään varastostasi, kun saavut. Mahdollisen ylimääräisen ajanohituksen arvo maksetaan takaisin ajanohituksina.",
+    "advisor_speechBubble_nomad": "Todellinen soturi ei koskaan epäröi. Taottu aroilla, tiedän, että vain nopeat selviytyvät. Ohjauksellani joukkojasi iskevät armottomasti - ei odottelua, ei armoa, vain voitto.",
+    "description_advisorInformation_nomad": "Temujin Mergen, Polkuopas, joka oli kerran pelätty sotapäällikkö, tarjoaa nyt vertaansa vailla olevaa asiantuntemustaan taistelukentällä asiasi hyväksi. Nomadi-invasiotapahtuman aikana hän voimistaa joukkojasi suorittamaan useita peräkkäisiä hyökkäyksiä nomadi-leireihin, iskemällä armotta ja jättämällä viholliselle ei tilaa palautua. Kutsu neuvonantajasi, suunnittele massahyökkäyksiä ja dominoi taistelukenttää.\n\nAktivoi Nomadineuvonantaja käyttämällä Neuvonantosopimusta tai Polkuopaan Sinettiä, ja käytä sitten Neuvonantajan Hyökkäystä vapauttaaksesi sarjan koordinoituja iskuja valitulla muotoilulla ja komentajalla. Automaattinen viivästysohitus on käytössä, mikä varmistaa saumattoman toteutuksen. Hyökkäys kuitenkin lopetetaan, jos komentaja voitetaan tai jos jokin seuraavista ehdoista täyttyy:\n\n- Riittämätön Kulta – Hyökkäystä ei voida lähettää kultapulan vuoksi. Myös muut komentajat voivat epäonnistua hyökkäystensä käynnistämisessä.\n- Riittämättömät Rubiinit tai Feathers – Hyökkäystä ei voida lähettää rubiinien tai höyhenten puutteen vuoksi. Myös muut komentajat voivat epäonnistua hyökkäystensä käynnistämisessä.\n- Riittämättömät Yksiköt ja/tai Työkalut – Hyökkäystä ei voida lähettää tarvittavien yksiköiden tai työkalujen puutteen vuoksi. Myös muut komentajat voivat epäonnistua hyökkäystensä käynnistämisessä.\n- Riittämättömät Aikasiirrot – Hyökkäyksiä ei voida suorittaa aikasiirtojen puutteen vuoksi. Tulevia viivästykkiä ei voida ohittaa, mikä pakottaa komentajat vetäytymään.\n\nIske nopeasti, pidä joukkosi elävänä ja varmista, että Polkuoppaan strategia vie sinut voittoon.",
+    "info_attackAdvisor": "Käytä neuvonantajan hyökkäystä käynnistääksesi peräkkäisiä hyökkäyksiä valitulla muodostelmalla ja komentajalla. Automaattinen ohitus viiletysajoista sovelletaan automaattisesti. Jos hyökkäys epäonnistuu tai komentaja voitetaan, he vetäytyvät ja peruuttavat jäljellä olevat hyökkäykset. Jos tarvittavat resurssit loppuvat, seuraavaa hyökkäystä ei käynnistetä.",
+    "info_battleMessage": "Lähetä taisteluraportti jokaisesta hyökkäyksestä",
+    "intro_advisor_nomad": "Temujin Mergen, Polkujuoksija, tuo asiantuntemuksensa asiaasi. Nomadi-invaasion aikana suorita peräkkäisiä hyökkäyksiä nomadileireihin ilman taukoja."
   },
   "playertitles": {
     "playerTitle_50_jap": "Myrskyvaltias",
@@ -24588,7 +24667,8 @@
     "ChristmasWarrior_desc": "Piparmintun raidallisia keihäitä kantaen, nämä hurjat soturit syöksyvät eteenpäin pysäyttämättömällä lomahengellä, aiheuttaen pelkoa kaikille, jotka seisovat heidän tiellään.",
     "ChristmasWarrior_short_info": "Äärimmäisen voimakas lähitaistelija",
     "nomadcoinbooststone_name": "Paimentolaisten säästöpossu",
-    "nomadcoinbooststone_short_info": "Lisää varkausleireistä ryöstettyjen kolikoiden määrää"
+    "nomadcoinbooststone_short_info": "Lisää varkausleireistä ryöstettyjen kolikoiden määrää",
+    "advisor_AttackFailed_reason3": "Neuvon hyökkäys ei voi jatkua. Ei tarpeeksi rubiineja tai nopeita matkustussulkia hyökkäyksen aloittamiseen. Myös muut komentajat voivat epäonnistua hyökkäystensä aloittamisessa, jos resursseja ei täydentä."
   },
   "generic_flash": {
     "Footer": {

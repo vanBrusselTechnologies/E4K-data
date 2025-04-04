@@ -833,7 +833,14 @@
     "error_twisted_firestarter_while_protected": "在保护模式开启时，您无法破坏其他玩家。",
     "dialog_shoppingCartPrimeDay_DontShowNotification": "不要再为此优惠显示此对话框",
     "dialog_shoppingCartPrimeDay_GoToShopButton": "去商店",
-    "dialog_shoppingCartPrimeDay_SeeOfferButton": "查看优惠"
+    "dialog_shoppingCartPrimeDay_SeeOfferButton": "查看优惠",
+    "advisor_AttackFailed_reason4": "您的顾问攻击无法继续。没有足够的单位和/或工具来发起攻击。如果没有招募新的单位，其他指挥官也可能无法发起攻击。",
+    "advisor_AttackFailed_reason5": "由于缺少时间跳跃，您的攻击无法完成。如果没有可用的时间跳跃，未来的指挥官可能无法发起连续攻击，并被迫撤退。",
+    "advisor_AttackFailed_reason2": "您的顾问攻击无法继续。没有足够的宝石或快速旅行羽毛来发起攻击。如果资源没有补充，其他指挥官也可能无法发起他们的攻击。",
+    "advisor_AttackFailed_reason1": "您的顾问攻击无法继续。没有足够的黄金来发起攻击。如果资源未得到补充，其他指挥官也可能无法发起攻击。",
+    "advisor_AttackFailed_reason0": "您的顾问攻击无法继续。请查看顾问概述以获取有关缺少资源或其他阻止攻击的问题的详细信息。",
+    "info_attack_threshold": "您已达到每日1000次攻击的限制。每次新攻击现在的成本将增加，并呈指数增长。",
+    "title_attack_threshold": "增加的攻击成本"
   },
   "buildings_and_decorations": {
     "bakery_name": "面包房",
@@ -2000,7 +2007,25 @@
     "ci_appearance_CarnivalBarrelWorkshop_flavour": "工匠们在繁忙的工作室里卷起袖子，制作出装饰有多彩图案的生动酒桶，准备存放狂欢节的甜蜜和精神。",
     "ci_appearance_CarnivalHoneyGardens": "狂欢节蜜园",
     "ci_appearance_CarnivalHoneyGardens_flavour": "金色蜂窝在阳光下闪烁，嗡嗡作响的蜜蜂在盛开的花朵间舞动，而护工们则准备甜点以取悦嘉年华的游客。",
-    "deco_ExaltedCarnivalGondola_name": "崇高的嘉年华贡多拉"
+    "deco_ExaltedCarnivalGondola_name": "崇高的嘉年华贡多拉",
+    "ci_appearance_BrokenEggDwellings": "破碎的蛋居所",
+    "ci_appearance_BrokenEggDwellings_flavor": "新鲜花朵的香气透过开窗飘进来，阳光在彩蛋上跳跃。守卫们互相开玩笑，编织花环，为这个季节的快乐重生做准备。",
+    "ci_appearance_BrokenEggGreenhouse": "破碎鸡蛋温室",
+    "ci_appearance_BrokenEggGreenhouse_flavor": "里面，士兵们在新鲜土壤和萌芽花朵的香气中移动，小心翼翼地照顾新生命，同时准备装满鲜艳花卉和彩绘鸡蛋的篮子。",
+    "ci_appearance_BrokenEggStorehouse": "破碎鸡蛋仓库",
+    "ci_appearance_BrokenEggStorehouse_flavor": "仓库里满是新鲜的收成、甜蜜的美食和五彩斑斓的鸡蛋，确保没有庆祝活动会缺少其节日的丰盈。",
+    "deco_ExaltedGreenEasterHotspring_name": "崇高的绿色复活节温泉",
+    "deco_ExaltedGreenEasterRuins_name": "崇高的绿色复活节遗址",
+    "deco_ExaltedGreenEggTree_name": "崇高的绿色养护者",
+    "deco_ExaltedGreenMarchHaresHideout_name": "崇高绿色三月兔的藏身处",
+    "deco_ExaltedPurpleEasterHotspring_name": "崇高的紫色复活节温泉",
+    "deco_ExaltedPurpleEasterRuins_name": "崇高的紫色复活节遗址",
+    "deco_ExaltedPurpleEggTree_name": "崇高的紫色养护守护者",
+    "deco_ExaltedPurpleMarchHaresHideout_name": "尊贵的紫色三月兔的藏身处",
+    "deco_ExaltedRedEasterHotspring_name": "崇高的红色复活节温泉",
+    "deco_ExaltedRedEasterRuins_name": "崇高的红色复活节遗迹",
+    "deco_ExaltedRedEggTree_name": "崇高的红色养护守护者",
+    "deco_ExaltedRedMarchHaresHideout_name": "崇高的红色三月兔藏身处"
   },
   "dialogs": {
     "dialog_festival_desc": "用食物请您的市民大餐一顿吧！宴会持续期间，您所有城堡的招募速度会大大提高。宴会越丰盛，效果越好。",
@@ -12621,7 +12646,48 @@
     "webshop_hasanbase_huge_name": "巨型围攻工程师勋章",
     "webshop_hasanbase_large_name": "大型攻城工程师勋章",
     "webshop_hasanbase_medium_name": "中型攻城工程师的勋章",
-    "webshop_hasanbase_small_name": "小型攻城工程师奖章"
+    "webshop_hasanbase_small_name": "小型攻城工程师奖章",
+    "advisor_AttackCancelAll": "您确定要取消所有顾问攻击吗？所有正在进行的攻击将被召回，任何已花费的资源将会丢失。",
+    "advisor_AttackCancel": "您确定要取消顾问攻击吗？任何花费的资源将会丢失。",
+    "advisor_AttackNumber": "顾问攻击: (0)/(1)",
+    "advisor_AttackSummary_defeat": "(0) 攻击 - 失败",
+    "advisor_AttackSummary_pending": "(0) 攻击 - 待处理",
+    "advisor_AttackSummary_stopped": "(0) 攻击 - 停止",
+    "advisor_AttackSummary_victory": "(0) 攻击 - 胜利",
+    "attack_advisor": "顾问攻击",
+    "advisor_attackInfo": "每次攻击在开始时支付，且每次攻击适用相同成本。",
+    "attackProgress": "攻击正在进行中：",
+    "attack_standard": "标准攻击",
+    "attack_amount": "攻击数量：",
+    "attack_setUp": "设置你的攻击！",
+    "button_SelectCamp": "选择游牧营地",
+    "button_activateAdvisor": "激活顾问",
+    "button_attackAdvisor": "顾问攻击",
+    "button_buyToken": "购买代币",
+    "button_cancelAdvisor": "取消攻击",
+    "button_cancelAdvisorAll": "取消所有攻击",
+    "button_freeToken": "获取免费代币",
+    "commander": "指挥官：",
+    "generic_currentCost": "当前费用：",
+    "generic_currentLosses": "当前战斗损失：",
+    "generic_timer": "活动剩余时间：",
+    "generic_totalCost": "总成本：",
+    "generic_totalLosses": "总战斗损失：",
+    "lootCurrent": "当前战利品：",
+    "lootTotal": "总战利品：",
+    "title_advisorInformation": "顾问功能",
+    "title_advisor_AttackCancel": "取消攻击？",
+    "title_advisor_AttackCancelAll": "取消所有顾问攻击？",
+    "title_advisor_AttackFailed": "顾问攻击失败！",
+    "title_advisor_AttackOverview": "顾问攻击概述",
+    "title_advisor_AttackSummary": "顾问攻击报告",
+    "title_advisor_activate": "激活顾问",
+    "title_advisor_buyToken": "购买顾问令牌",
+    "title_advisor_freeToken": "获取顾问令牌",
+    "title_advisor_nomad": "游牧顾问",
+    "currency_description_OfferingHasan": "与路德维希王在将军旅馆进行交换，以获得非常宝贵的奖励。奖励抽奖总是包括哈桑的碎片。哈桑的提议只能在有限时间内交换！",
+    "currency_name_OfferingHasan": "哈桑对路德维希的献礼",
+    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "这些是此赞助商在所选提供的奖励类别的抽奖机会。每个类别包含特定的奖励类型，随机选择。每个付费提供进行四次抽奖，每次抽奖都有以下列出的机会。\n\n抽奖机会        奖励类别\n\n09.00%                  - 哈桑碎片\n\n00.50%                  - 哈桑对路德维希的提议\n\n03.00%                  - 提供给比阿特丽斯公主\n\n05.00%                  - 提供给乌尔里希爵士\n\n08.00%                  - 提供给路德维希国王\n\n02.00%                  - 技能重置代币\n\n03.40%                  - 装备"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% 单位在攻击时的战斗力",
@@ -17308,7 +17374,7 @@
     "equipment_unique_1061_desc": "将你的城堡变成一座泡沫堡垒。",
     "equipment_unique_1062_desc": "将你的城堡变成一座泡沫堡垒。",
     "equip_effect_description_emptyGemSocket_name": "空宝石栏位",
-    "equip_effect_description_appearance_baron_transformationTarget": "转化将应用于主城堡、前哨、首都与首府。",
+    "equip_effect_description_appearance_baron_transformationTarget": "用这个稀有物品展示你在LTPE中的主导地位，将你的主要城堡、前哨、首都或大都市转变为真正独特的存在，让你与其他玩家区别开来。",
     "equip_effect_description_appearance_commander_transformationTarget": "转化将应用于王国中的行军部队与风暴岛屿中的战舰。",
     "equip_effect_description_noGemSocket_name": "无宝石栏位",
     "equip_effect_description_permanentAppearance": "永久装备",
@@ -17938,7 +18004,11 @@
     "equipment_unique_1240": "大紫水晶莲花",
     "equipment_unique_1241": "大紫水晶莲花",
     "equipment_unique_1242": "大紫水晶莲花",
-    "equipment_unique_1243": "大紫水晶莲花"
+    "equipment_unique_1243": "大紫水晶莲花",
+    "equipment_unique_1263": "复活节鸟舍",
+    "equipment_unique_1263_desc": "释放复活节鸟舍的快乐精神，以迎接更新的季节。将您的城堡变成一个充满活力的避风港，装饰着鲜艳的鸟巢和五彩缤纷的复活节彩蛋，回响着春天归来的喜悦。",
+    "equipment_unique_1264": "复活节蕨类",
+    "equipment_unique_1264_desc": "将您的军队转变为一种更新的力量，在展开的蕨类植物和隐藏的复活节彩蛋下行军，拥抱成长和庆祝的精神。"
   },
   "generic": {
     "activity": "活动",
@@ -19997,7 +20067,11 @@
     "panel_buildinglist_SlotBuildConstruction": "建筑工人的宿舍正在建设中",
     "panel_buildinglist_SlotBuildUpgradeCap": "升级建筑工人的宿舍！可在{0}级获得",
     "currency_description_HollowMoonEgg": "空心月球蛋，充满遗忘的魔法，被神秘的召唤者所追寻。在空心月球召唤事件期间提供它们，以解锁神秘奖励！",
-    "currency_name_HollowMoonEgg": "空心月球蛋"
+    "currency_name_HollowMoonEgg": "空心月球蛋",
+    "currency_description_AdvisorFreeToken": "一份特殊合同，允许您雇用并激活任何顾问。利用他们的专业知识发起多个连续攻击。",
+    "currency_description_NomadAdvisorToken": "特穆金·梅尔根的指挥令牌，授予访问他战略大师的权限。使用它来激活游牧顾问，并对游牧营地展开无情的连续攻击。",
+    "currency_name_AdvisorFreeToken": "顾问合同",
+    "currency_name_NomadAdvisorToken": "向导的印章"
   },
   "help": {
     "help_location": "您可以在这里看到您城堡和所有前哨的重要信息。",
@@ -20373,7 +20447,12 @@
     "help_generals_abilityDialog": "这里可以为将军选择能力。\n能力将大幅提高将军及其军队的战斗力。能力会在战斗中的特定阶段触发，为将军的军队和部队带来威力十足的效果。\n选择左侧的技能，然后分配到右侧的技能栏中。只有分配到技能栏中的能力才会在战斗中激活！所以在关闭能力菜单之前，一定要记得保存所作的任意更改！\n\n您可以在技能树中解锁更多技能栏，但部分将军的可用技能栏数量具有上限。",
     "help_generals_introduction_popup": "此处可以查看将军及其技能的简要概览。\n要获得将军，请点击“前往将军”。",
     "help_defense_icon_allianceDefenseUnitAmount": "您城堡主堡中可接受联盟支援的士兵数目和总部队容量。联盟成员可派遣士兵支援您的防御。超出支援容量上限的所有部队都将归入后备部队中，不会参加战斗。",
-    "help_travelPlanning_autoCooldownSkip": "您可在此处选择一种交通方式来提高行军速度。效果和费用由您的选择而定。您也可以放慢所选单位的速度，使其能够在您需要的时间抵达目的地。\n\n启用自动跳过功能后，当军队抵达目标时，会立即跳过一个启用的冷却时间。所需的跳过时间道具将直接从您的库存中扣除。任何多余的跳过时间值将以跳过时间道具的形式返还给您。"
+    "help_travelPlanning_autoCooldownSkip": "您可在此处选择一种交通方式来提高行军速度。效果和费用由您的选择而定。您也可以放慢所选单位的速度，使其能够在您需要的时间抵达目的地。\n\n启用自动跳过功能后，当军队抵达目标时，会立即跳过一个启用的冷却时间。所需的跳过时间道具将直接从您的库存中扣除。任何多余的跳过时间值将以跳过时间道具的形式返还给您。",
+    "advisor_speechBubble_nomad": "真正的战士从不犹豫。在草原上锻造，我知道只有快速者才能生存。在我的指导下，你的部队毫不留情地进攻——没有等待，没有怜悯，只有胜利。",
+    "description_advisorInformation_nomad": "特穆金·梅尔根，指路人，曾是一个令人畏惧的战争领主，现在为你的事业提供他无与伦比的战场专业知识。在游牧民族入侵事件期间，他增强了你的力量，发起对游牧营地的多次连续攻击，毫不留情，给敌人留下没有恢复的空间。呼唤你的顾问，计划大规模的攻击，主宰战场。\n\n使用顾问合同或指路人的印章激活游牧顾问，然后使用顾问攻击释放一系列协调攻击，选择相应的编队和指挥官。应用自动跳过冷却时间，确保无缝执行。然而，如果指挥官被击败，或者满足以下任何条件，攻击将停止：\n\n- 黄金不足 – 由于缺乏黄金，无法发送攻击。其他指挥官也可能无法发起攻击。\n- 缺乏宝石或羽毛 – 由于缺乏宝石或羽毛，无法发送攻击。其他指挥官也可能无法发起攻击。\n- 单位和/或工具不足 – 由于缺乏所需的单位或工具，无法发送攻击。其他指挥官也可能无法发起攻击。\n- 时间跳过不足 – 由于缺乏时间跳过，无法完成攻击。未来的冷却时间无法跳过，迫使指挥官撤退。\n\n迅速打击，保持你的力量，并确保指路人的策略引领你走向胜利。",
+    "info_attackAdvisor": "使用顾问攻击通过选择的阵型和指挥官发起连续攻击。冷却时间的自动跳过将自动应用。如果攻击失败或指挥官被击败，他们将撤退，取消剩余的攻击。如果所需资源耗尽，则不会开始下一次攻击。",
+    "info_battleMessage": "为每次攻击发送战斗报告",
+    "intro_advisor_nomad": "特穆金·梅尔根，探索者，将他的专业知识带入你的事业。在游牧民族入侵期间，无间断地对游牧民族营地发起连续攻击。"
   },
   "playertitles": {
     "playerTitle_50_jap": "风暴君主的",
@@ -24588,7 +24667,8 @@
     "ChristmasWarrior_desc": "手持薄荷条纹长矛，这些凶猛的战士们以不可阻挡的节日精神向前冲锋，让所有挡在他们面前的人心生恐惧。",
     "ChristmasWarrior_short_info": "极其强大的近战攻击者",
     "nomadcoinbooststone_name": "游牧部落存钱罐",
-    "nomadcoinbooststone_short_info": "增加在游牧营地掠夺的硬币数量"
+    "nomadcoinbooststone_short_info": "增加在游牧营地掠夺的硬币数量",
+    "advisor_AttackFailed_reason3": "您的顾问攻击无法继续。没有足够的宝石或快速旅行羽毛来发起攻击。如果资源没有补充，其他指挥官也可能无法发起他们的攻击。"
   },
   "generic_flash": {
     "Footer": {

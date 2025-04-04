@@ -833,7 +833,14 @@
     "error_twisted_firestarter_while_protected": "No puedes sabotear a otros jugadores mientras el modo de protección esté activado.",
     "dialog_shoppingCartPrimeDay_DontShowNotification": "No mostrar este diálogo de nuevo para esta oferta",
     "dialog_shoppingCartPrimeDay_GoToShopButton": "Ir a la tienda",
-    "dialog_shoppingCartPrimeDay_SeeOfferButton": "Ver oferta"
+    "dialog_shoppingCartPrimeDay_SeeOfferButton": "Ver oferta",
+    "advisor_AttackFailed_reason4": "Tu ataque del asesor no puede continuar. No hay suficientes unidades y/o herramientas para lanzar el ataque. Otros comandantes también pueden fallar al lanzar sus ataques si no se reclutan nuevas unidades.",
+    "advisor_AttackFailed_reason5": "Tu ataque no pudo completarse debido a la falta de saltos de tiempo. Si no hay saltos de tiempo disponibles, los futuros comandantes pueden no poder lanzar ataques consecutivos y se verán obligados a retirarse.",
+    "advisor_AttackFailed_reason2": "Tu ataque de asesor no puede continuar. No hay suficientes Rubíes o Plumas de Viaje Rápido para lanzar el ataque. Otros comandantes también pueden fallar en lanzar sus ataques si los recursos no se reabastecen.",
+    "advisor_AttackFailed_reason1": "Tu ataque de asesor no puede continuar. No hay suficiente oro para lanzar el ataque. Otros comandantes también pueden fallar en lanzar sus ataques si los recursos no son reabastecidos.",
+    "advisor_AttackFailed_reason0": "Tu ataque de asesor no pudo continuar. Verifica la visión general del asesor para obtener detalles sobre los recursos faltantes u otros problemas que impidan el ataque.",
+    "info_attack_threshold": "Has alcanzado el límite diario de 1,000 ataques. Cada nuevo ataque tendrá ahora un costo incrementado, aumentando exponencialmente.",
+    "title_attack_threshold": "Costos de ataque aumentados"
   },
   "buildings_and_decorations": {
     "bakery_name": "Panadería",
@@ -2000,7 +2007,25 @@
     "ci_appearance_CarnivalBarrelWorkshop_flavour": "Los artesanos se arremangan en el bullicioso taller, creando barriles vibrantes adornados con patrones coloridos, listos para almacenar la dulzura y los espíritus del carnaval.",
     "ci_appearance_CarnivalHoneyGardens": "Jardín de miel del carnaval",
     "ci_appearance_CarnivalHoneyGardens_flavour": "Los panales dorados brillan al sol mientras las abejas zumbantes bailan entre flores en flor, mientras los cuidadores preparan dulces para deleitar a los asistentes al carnaval.",
-    "deco_ExaltedCarnivalGondola_name": "Góndola del carnaval exaltado"
+    "deco_ExaltedCarnivalGondola_name": "Góndola del carnaval exaltado",
+    "ci_appearance_BrokenEggDwellings": "Vivienda del huevo roto",
+    "ci_appearance_BrokenEggDwellings_flavor": "El aroma de las flores frescas flota a través de las ventanas abiertas mientras la luz del sol baila sobre los huevos pintados. Los guardias intercambian bromas amistosas, tejen guirnaldas y se preparan para la alegre renovación de la temporada.",
+    "ci_appearance_BrokenEggGreenhouse": "Invernadero de huevo roto",
+    "ci_appearance_BrokenEggGreenhouse_flavor": "Dentro, los soldados se mueven entre el aroma de la tierra fresca y las flores en brote, cuidando con cuidado de la nueva vida mientras preparan cestas llenas de vibrantes flores y huevos pintados.",
+    "ci_appearance_BrokenEggStorehouse": "Almacén de huevos rotos",
+    "ci_appearance_BrokenEggStorehouse_flavor": "El almacén está repleto de frescas cosechas, dulces golosinas y coloridos huevos, asegurando que ninguna celebración pase sin su festivo botín.",
+    "deco_ExaltedGreenEasterHotspring_name": "Manantial verde exaltado de Pascua",
+    "deco_ExaltedGreenEasterRuins_name": "Ruinas verdes exaltadas de Pascua",
+    "deco_ExaltedGreenEggTree_name": "Guardián Verde Exaltado de la Nutrición",
+    "deco_ExaltedGreenMarchHaresHideout_name": "Escondite de la liebre verde exaltada",
+    "deco_ExaltedPurpleEasterHotspring_name": "Manantial púrpura exaltado de Pascua",
+    "deco_ExaltedPurpleEasterRuins_name": "Ruinas moradas exaltadas de Pascua",
+    "deco_ExaltedPurpleEggTree_name": "Guardián púrpura exaltado de la nutrición",
+    "deco_ExaltedPurpleMarchHaresHideout_name": "Escondite del exaltado liebre púrpura",
+    "deco_ExaltedRedEasterHotspring_name": "Manantial rojo de Pascua exaltado",
+    "deco_ExaltedRedEasterRuins_name": "Ruinas rojas exaltadas de Pascua",
+    "deco_ExaltedRedEggTree_name": "Guardia roja exaltada de la crianza",
+    "deco_ExaltedRedMarchHaresHideout_name": "Escondite de la liebre roja exaltada"
   },
   "dialogs": {
     "dialog_festival_desc": "¡Usa comida para celebrar un festín para tus ciudadanos! La velocidad de reclutamiento aumentará considerablemente en todos tus castillos mientras dure el festín. Mientras más grande sea el festín, mayor será el efecto.",
@@ -12621,7 +12646,48 @@
     "webshop_hasanbase_huge_name": "Gran medallón del ingeniero de asedio",
     "webshop_hasanbase_large_name": "Gran medallón del ingeniero de asedio",
     "webshop_hasanbase_medium_name": "Medallón medio del ingeniero de asedio",
-    "webshop_hasanbase_small_name": "Pequeño medallón del ingeniero de asedio"
+    "webshop_hasanbase_small_name": "Pequeño medallón del ingeniero de asedio",
+    "advisor_AttackCancelAll": "¿Estás seguro de que deseas cancelar todos los ataques de asesores? Todos los ataques en curso serán cancelados y se perderán los recursos gastados.",
+    "advisor_AttackCancel": "¿Estás seguro de que quieres cancelar el ataque del asesor? Cualquier recurso gastado se perderá.",
+    "advisor_AttackNumber": "Ataque del asesor: (0)/(1)",
+    "advisor_AttackSummary_defeat": "(0) Ataques - derrota",
+    "advisor_AttackSummary_pending": "(0) Ataques - pendientes",
+    "advisor_AttackSummary_stopped": "(0) Ataques - detenidos",
+    "advisor_AttackSummary_victory": "(0) Ataques - victoria",
+    "attack_advisor": "Ataque del asesor",
+    "advisor_attackInfo": "Cada ataque se paga al comenzar, aplicándose el mismo costo a cada ataque.",
+    "attackProgress": "Ataques en progreso:",
+    "attack_standard": "Ataque estándar",
+    "attack_amount": "Cantidad de ataques:",
+    "attack_setUp": "¡Configura tus ataques!",
+    "button_SelectCamp": "Selecciona campamento nómada",
+    "button_activateAdvisor": "Activar asesor",
+    "button_attackAdvisor": "Ataque del asesor",
+    "button_buyToken": "Comprar token",
+    "button_cancelAdvisor": "Cancelar ataque",
+    "button_cancelAdvisorAll": "Cancelar todos los ataques",
+    "button_freeToken": "Obtén un token gratis",
+    "commander": "Comandantes:",
+    "generic_currentCost": "Costos actuales:",
+    "generic_currentLosses": "Pérdidas actuales en batalla:",
+    "generic_timer": "Tiempo restante del evento:",
+    "generic_totalCost": "Costes totales:",
+    "generic_totalLosses": "Pérdidas totales de batalla:",
+    "lootCurrent": "Botín actual:",
+    "lootTotal": "Botín total:",
+    "title_advisorInformation": "Funcionalidad del asesor",
+    "title_advisor_AttackCancel": "¿Cancelar ataque?",
+    "title_advisor_AttackCancelAll": "¿Cancelar todos los ataques de asesores?",
+    "title_advisor_AttackFailed": "¡El ataque del asesor ha fallado!",
+    "title_advisor_AttackOverview": "Resumen del ataque del asesor",
+    "title_advisor_AttackSummary": "Informe de ataque del asesor",
+    "title_advisor_activate": "Activar asesor",
+    "title_advisor_buyToken": "Compra el Token Asesor",
+    "title_advisor_freeToken": "Obtén el token del asesor",
+    "title_advisor_nomad": "Asesor nómada",
+    "currency_description_OfferingHasan": "Intercambio con el rey Ludwig en la taberna de los generales para obtener recompensas muy valiosas. Los sorteos de recompensas siempre incluyen fragmentos para Hasan. El intercambio de la oferta de Hasan solo se puede hacer por tiempo limitado.",
+    "currency_name_OfferingHasan": "Ofrecimiento de Hasan a Ludwig",
+    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "Estas son las oportunidades de sorteo para las categorías de recompensas de este patrón con la oferta seleccionada. Cada categoría contiene tipos de recompensas específicas, que serán elegidas al azar. Por cada oferta pagada, se realizan cuatro sorteos, cada sorteo tiene las oportunidades listadas a continuación.\n\nOportunidad de sorteo        Categorías de recompensas\n\n09.00%                  - Fragmentos de Hasan\n\n00.50%                  - Oferta de Hasan a Ludwig\n\n03.00%                  - Oferta a la Princesa Beatriz\n\n05.00%                  - Oferta a Sir Ulrich\n\n08.00%                  - Oferta al Rey Ludwig\n\n02.00%                  - Tokens de reinicio de habilidades\n\n03.40%                  - Equipamiento"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% de fuerza de combate de la unidad al atacar",
@@ -17308,7 +17374,7 @@
     "equipment_unique_1061_desc": "Tu castillo se vuelve una fortaleza espumosa.",
     "equipment_unique_1062_desc": "Tu castillo se vuelve una fortaleza espumosa.",
     "equip_effect_description_emptyGemSocket_name": "Espacio de gema vacío",
-    "equip_effect_description_appearance_baron_transformationTarget": "La transformación se aplica a castillos principales, fortines, capitales y metrópolis.",
+    "equip_effect_description_appearance_baron_transformationTarget": "Demuestra tu dominio en el LTPE con este raro objeto, transformando tus castillos principales, puestos avanzados, capital o metrópoli en una presencia verdaderamente única que te distingue de otros jugadores.",
     "equip_effect_description_appearance_commander_transformationTarget": "La transformación se aplica a las tropas en movimiento en los reinos y a los buques de guerra en las Islas Tempestuosas.",
     "equip_effect_description_noGemSocket_name": "Sin espacio de gema",
     "equip_effect_description_permanentAppearance": "Objeto permanente",
@@ -17938,7 +18004,11 @@
     "equipment_unique_1240": "Gran loto amatista",
     "equipment_unique_1241": "Gran loto amatista",
     "equipment_unique_1242": "Gran loto amatista",
-    "equipment_unique_1243": "Gran loto amatista"
+    "equipment_unique_1243": "Gran loto amatista",
+    "equipment_unique_1263": "Casa para pájaros de Pascua",
+    "equipment_unique_1263_desc": "Desata el alegre espíritu de la Casa de Aves de Pascua para dar la bienvenida a la temporada de renovación. Transforma tu castillo en un refugio animado, adornado con nidos vibrantes y coloridos huevos de Pascua, reflejando la alegría del regreso de la primavera.",
+    "equipment_unique_1264": "helecho de Pascua",
+    "equipment_unique_1264_desc": "Transforma tu ejército en una fuerza de renovación, marchando bajo helechos desplegándose y huevos de Pascua ocultos, abrazando el espíritu de crecimiento y celebración."
   },
   "generic": {
     "activity": "Actividad",
@@ -19997,7 +20067,11 @@
     "panel_buildinglist_SlotBuildConstruction": "Se están construyendo los alojamientos del constructor",
     "panel_buildinglist_SlotBuildUpgradeCap": "¡Mejora los alojamientos del constructor! Disponible desde el nivel {0}",
     "currency_description_HollowMoonEgg": "Los huevos huecos de luna, imbuidos de magia olvidada, son buscados por el enigmático Invocador. ¡Ofrécelos durante el Evento de Invocación de la Luna Hueca para desbloquear recompensas místicas!",
-    "currency_name_HollowMoonEgg": "Huevo hueco de luna"
+    "currency_name_HollowMoonEgg": "Huevo hueco de luna",
+    "currency_description_AdvisorFreeToken": "Un contrato especial que te permite contratar y activar cualquier asesor. Utilízalo para aprovechar su experiencia y lanzar múltiples ataques consecutivos.",
+    "currency_description_NomadAdvisorToken": "Un token del mando de Temujin Mergen, que otorga acceso a su maestría estratégica. Úsalo para activar al Asesor Nómada y desatar ataques consecutivos implacables en los Campamentos Nómadas.",
+    "currency_name_AdvisorFreeToken": "Contrato de asesor",
+    "currency_name_NomadAdvisorToken": "Sello del Guía"
   },
   "help": {
     "help_location": "Aquí tienes una vista global del contenido importante de tu castillo y de todas tus bases remotas.",
@@ -20373,7 +20447,12 @@
     "help_generals_abilityDialog": "Desde aquí puedes seleccionar las aptitudes del general.\nLas aptitudes mejoran considerablemente el poder de combate de un general y su ejército, se activan durante una fase determinada de la batalla y otorgan poderosos efectos al ejército y las tropas de un general.\nSelecciona una aptitud en el lado izquierdo para asignarla en uno de los espacios de la derecha. Al asignarse, las aptitudes se activarán en combate. Asegúrate de guardar los cambios antes de cerrar el menú de aptitudes.\n\nPuedes desbloquear más espacios de aptitud en el árbol de habilidades, aunque ciertos generales tienen espacios limitados.",
     "help_generals_introduction_popup": "Aquí puedes ver una breve vista general de los generales y sus habilidades.\nPara conseguir un general, pulsa A los generales.",
     "help_defense_icon_allianceDefenseUnitAmount": "El número de soldados y la capacidad total de tropas para las ayudas de la alianza en el torreón de tu castillo. Los miembros de la alianza pueden enviar soldados para ayudarte a defenderte. Las tropas que sobrepasen el límite de capacidad entrarán en reserva y no participarán en la batalla.",
-    "help_travelPlanning_autoCooldownSkip": "Aquí puedes elegir un modo de transporte para aumentar la velocidad de viaje. El efecto y el coste depende de lo que elijas. También puedes ralentizar las unidades seleccionadas para que lleguen exactamente cuando mejor te convenga.\n\nActiva la función de omisión automática para saltarte al instante un tiempo de espera activo cuando un ejército llegue al objetivo. Las reducciones de tiempo necesarias se consumirán automáticamente al llegar. El valor sobrante de las reducciones de tiempo se devuelve en forma de reducciones de tiempo."
+    "help_travelPlanning_autoCooldownSkip": "Aquí puedes elegir un modo de transporte para aumentar la velocidad de viaje. El efecto y el coste depende de lo que elijas. También puedes ralentizar las unidades seleccionadas para que lleguen exactamente cuando mejor te convenga.\n\nActiva la función de omisión automática para saltarte al instante un tiempo de espera activo cuando un ejército llegue al objetivo. Las reducciones de tiempo necesarias se consumirán automáticamente al llegar. El valor sobrante de las reducciones de tiempo se devuelve en forma de reducciones de tiempo.",
+    "advisor_speechBubble_nomad": "Un verdadero guerrero nunca duda. Forjado en las estepas, sé que solo sobreviven los rápidos. Con mi guía, tus fuerzas golpean implacablemente: sin esperar, sin piedad, solo victoria.",
+    "description_advisorInformation_nomad": "Temujin Mergen, el Guerrero, una vez un temido señor de la guerra, ahora ofrece su incomparable experiencia en el campo de batalla a tu causa. Durante el Evento de Invasión Nómada, empodera a tus fuerzas para lanzar múltiples ataques consecutivos a los Campamentos Nómadas, golpeando sin piedad y dejando al enemigo sin oportunidad de recuperarse. Llama a tu asesor, planea asaltos masivos y domina el campo de batalla.\n\nActiva al Asesor Nómada usando un Contrato de Asesor o el Sello del Guerrero, luego usa el Ataque del Asesor para desatar una serie de golpes coordinados con la formación y el comandante seleccionados. Se aplica un salto automático de enfriamiento, asegurando una ejecución sin problemas. Sin embargo, el asalto cesará si el comandante es derrotado o si se cumple alguna de las siguientes condiciones:\n\n- Oro Insuficiente – No se puede enviar el ataque debido a la falta de oro. Otros comandantes también pueden fallar en lanzar sus ataques.\n- Rubíes o Plumas Insuficientes – No se puede enviar el ataque debido a la falta de rubíes o plumas. Otros comandantes también pueden fallar en lanzar sus ataques.\n- Unidades y/o Herramientas Insuficientes – No se puede enviar el ataque debido a la falta de unidades o herramientas requeridas. Otros comandantes también pueden fallar en lanzar sus ataques.\n- Salto de Tiempo Insuficiente – No se pueden completar los ataques debido a la falta de saltos de tiempo. Los enfriamientos futuros no se pueden saltar, obligando a los comandantes a retirarse.\n\nAtaca rápidamente, mantén tus fuerzas y asegúrate de que la estrategia del Guerrero te lleve a la victoria.",
+    "info_attackAdvisor": "Utiliza el Ataque del Asesor para lanzar ataques consecutivos con la formación y el comandante elegidos. Se aplica automáticamente el salto automático para los tiempos de espera. Si un ataque falla o el comandante es derrotado, se retiran, cancelando los ataques restantes. Si se agotan los recursos necesarios, no comenzará el siguiente ataque.",
+    "info_battleMessage": "Envía un informe de batalla por cada ataque",
+    "intro_advisor_nomad": "Temujin Mergen, el Pionero, aporta su experiencia a tu causa. Durante la Invasión Nómada, lanza ataques consecutivos a los Campamentos Nómadas sin tiempo de inactividad."
   },
   "playertitles": {
     "playerTitle_50_jap": "Lord de tormentas",
@@ -24588,7 +24667,8 @@
     "ChristmasWarrior_desc": "Armados con lanzas de rayas de menta, estos feroces guerreros cargan hacia adelante con un espíritu navideño imparable, infundiendo miedo a todos los que se interponen en su camino.",
     "ChristmasWarrior_short_info": "Atacante cuerpo a cuerpo extremadamente poderoso",
     "nomadcoinbooststone_name": "Hucha de cerdito nómada",
-    "nomadcoinbooststone_short_info": "Aumenta el número de monedas saqueadas en campamentos nómadas"
+    "nomadcoinbooststone_short_info": "Aumenta el número de monedas saqueadas en campamentos nómadas",
+    "advisor_AttackFailed_reason3": "Tu ataque de asesor no puede continuar. No hay suficientes Rubíes o Plumas de Viaje Rápido para lanzar el ataque. Otros comandantes también pueden fallar en lanzar sus ataques si los recursos no se reabastecen."
   },
   "generic_flash": {
     "Footer": {

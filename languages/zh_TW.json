@@ -833,7 +833,14 @@
     "error_twisted_firestarter_while_protected": "在保護模式啟用時，您無法破壞其他玩家。",
     "dialog_shoppingCartPrimeDay_DontShowNotification": "不要再為此優惠顯示此對話框",
     "dialog_shoppingCartPrimeDay_GoToShopButton": "去商店",
-    "dialog_shoppingCartPrimeDay_SeeOfferButton": "查看優惠"
+    "dialog_shoppingCartPrimeDay_SeeOfferButton": "查看優惠",
+    "advisor_AttackFailed_reason4": "您的顧問攻擊無法繼續。沒有足夠的單位和/或工具來發動攻擊。如果沒有招募新的單位，其他指揮官也可能無法發動攻擊。",
+    "advisor_AttackFailed_reason5": "由於缺少時間跳躍，您的攻擊無法完成。如果沒有可用的時間跳躍，未來的指揮官可能無法發起連續攻擊，並被迫撤退。",
+    "advisor_AttackFailed_reason2": "您的顧問攻擊無法繼續。沒有足夠的寶石或快速旅行羽毛來發起攻擊。如果資源未得到補充，其他指揮官也可能無法發起他們的攻擊。",
+    "advisor_AttackFailed_reason1": "您的顧問攻擊無法繼續。沒有足夠的黃金來發動攻擊。如果資源未得到補充，其他指揮官也可能無法發動攻擊。",
+    "advisor_AttackFailed_reason0": "您的顧問攻擊無法進行。請檢查顧問概述以獲取有關缺少資源或其他阻止攻擊的問題的詳細信息。",
+    "info_attack_threshold": "您已達到每天1000次攻擊的限制。每次新的攻擊現在將增加成本，並呈指數增長。",
+    "title_attack_threshold": "增加的攻擊成本"
   },
   "buildings_and_decorations": {
     "bakery_name": "麵包房",
@@ -2000,7 +2007,25 @@
     "ci_appearance_CarnivalBarrelWorkshop_flavour": "工匠們在熱鬧的工作坊裡捲起袖子，打造著裝飾有五彩圖案的生動酒桶，準備儲存狂歡節的甜蜜與精神。",
     "ci_appearance_CarnivalHoneyGardens": "嘉年華蜜園",
     "ci_appearance_CarnivalHoneyGardens_flavour": "金色蜂巢在陽光下閃爍，嗡嗡的蜜蜂在盛開的花朵間起舞，而護理人員則準備甜蜜的美食以取悅嘉年華的遊客。",
-    "deco_ExaltedCarnivalGondola_name": "崇高的嘉年華貢多拉"
+    "deco_ExaltedCarnivalGondola_name": "崇高的嘉年華貢多拉",
+    "ci_appearance_BrokenEggDwellings": "破碎的蛋居所",
+    "ci_appearance_BrokenEggDwellings_flavor": "新鮮花朵的香氣透過打開的窗戶飄進來，陽光在彩蛋上跳舞。衛兵們互相開著友好的玩笑，編織花環，準備迎接季節的快樂重生。",
+    "ci_appearance_BrokenEggGreenhouse": "破蛋溫室",
+    "ci_appearance_BrokenEggGreenhouse_flavor": "裡面，士兵們在新鮮土壤和萌芽花朵的香氣中移動，小心翼翼地照顧新生命，同時準備裝滿鮮豔花卉和彩繪雞蛋的籃子。",
+    "ci_appearance_BrokenEggStorehouse": "破碎雞蛋儲藏室",
+    "ci_appearance_BrokenEggStorehouse_flavor": "倉庫裡充滿了新鮮的收成、甜蜜的美味和五顏六色的蛋，確保沒有任何慶祝活動會缺少其節日的豐富。",
+    "deco_ExaltedGreenEasterHotspring_name": "崇高的綠色復活節溫泉",
+    "deco_ExaltedGreenEasterRuins_name": "崇高的綠色復活節遺跡",
+    "deco_ExaltedGreenEggTree_name": "崇高的綠色護理者",
+    "deco_ExaltedGreenMarchHaresHideout_name": "崇高的綠色三月兔藏身處",
+    "deco_ExaltedPurpleEasterHotspring_name": "崇高的紫色復活節溫泉",
+    "deco_ExaltedPurpleEasterRuins_name": "尊貴的紫色復活節遺址",
+    "deco_ExaltedPurpleEggTree_name": "崇高的紫色護理守護者",
+    "deco_ExaltedPurpleMarchHaresHideout_name": "崇高的紫色三月兔的藏身處",
+    "deco_ExaltedRedEasterHotspring_name": "崇高的紅色復活節溫泉",
+    "deco_ExaltedRedEasterRuins_name": "崇高的紅色復活節遺跡",
+    "deco_ExaltedRedEggTree_name": "崇高的紅色養護守護者",
+    "deco_ExaltedRedMarchHaresHideout_name": "崇高的紅色三月兔藏身處"
   },
   "dialogs": {
     "dialog_festival_desc": "用食物幫你的居民舉辦一場盛宴吧！在盛宴期間，你所有城堡的招募速度會大幅提高。宴會越大，效果越好。",
@@ -12621,7 +12646,48 @@
     "webshop_hasanbase_huge_name": "巨型圍攻工程師勳章",
     "webshop_hasanbase_large_name": "大型攻城工程師獎章",
     "webshop_hasanbase_medium_name": "中型攻城工程師的勳章",
-    "webshop_hasanbase_small_name": "小型攻城工程師獎章"
+    "webshop_hasanbase_small_name": "小型攻城工程師獎章",
+    "advisor_AttackCancelAll": "您確定要取消所有顧問攻擊嗎？所有正在進行的攻擊將被召回，任何已花費的資源將會損失。",
+    "advisor_AttackCancel": "您確定要取消顧問攻擊嗎？任何花費的資源將會損失。",
+    "advisor_AttackNumber": "顧問攻擊: (0)/(1)",
+    "advisor_AttackSummary_defeat": "(0) 攻擊 - 失敗",
+    "advisor_AttackSummary_pending": "(0) 攻擊 - 待處理",
+    "advisor_AttackSummary_stopped": "(0) 攻擊 - 停止",
+    "advisor_AttackSummary_victory": "(0) 攻擊 - 勝利",
+    "attack_advisor": "顧問攻擊",
+    "advisor_attackInfo": "每次攻擊在開始時支付，並對每次攻擊應用相同的成本。",
+    "attackProgress": "攻擊進行中：",
+    "attack_standard": "標準攻擊",
+    "attack_amount": "攻擊次數：",
+    "attack_setUp": "設置你的攻擊！",
+    "button_SelectCamp": "選擇遊牧營地",
+    "button_activateAdvisor": "啟用顧問",
+    "button_attackAdvisor": "顧問攻擊",
+    "button_buyToken": "購買代幣",
+    "button_cancelAdvisor": "取消攻擊",
+    "button_cancelAdvisorAll": "取消所有攻擊",
+    "button_freeToken": "獲得免費代幣",
+    "commander": "指揮官：",
+    "generic_currentCost": "當前費用：",
+    "generic_currentLosses": "目前戰鬥損失：",
+    "generic_timer": "活動剩餘時間：",
+    "generic_totalCost": "總成本：",
+    "generic_totalLosses": "總戰鬥損失：",
+    "lootCurrent": "目前的戰利品：",
+    "lootTotal": "總戰利品：",
+    "title_advisorInformation": "顧問功能",
+    "title_advisor_AttackCancel": "取消攻擊？",
+    "title_advisor_AttackCancelAll": "取消所有顧問攻擊？",
+    "title_advisor_AttackFailed": "顧問攻擊失敗！",
+    "title_advisor_AttackOverview": "顧問攻擊概述",
+    "title_advisor_AttackSummary": "顧問攻擊報告",
+    "title_advisor_activate": "啟用顧問",
+    "title_advisor_buyToken": "購買顧問代幣",
+    "title_advisor_freeToken": "獲取顧問令牌",
+    "title_advisor_nomad": "遊牧顧問",
+    "currency_description_OfferingHasan": "與路德維希王在將軍旅館進行交換以獲得非常珍貴的獎勵。獎勵抽獎總是包括哈桑的碎片。哈桑的提議只能在有限時間內進行交換！",
+    "currency_name_OfferingHasan": "哈桑對路德維希的奉獻",
+    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "這些是此贊助商在所選提供的獎勵類別的抽獎機會。每個類別包含特定的獎勵類型，隨機選擇。每個付費提供進行四次抽獎，每次抽獎都有以下列出的機會。\n\n抽獎機會        獎勵類別\n\n09.00%                  - 哈桑碎片\n\n00.50%                  - 哈桑對路德維希的提議\n\n03.00%                  - 提供給比阿特麗斯公主\n\n05.00%                  - 提供給烏爾里希爵士\n\n08.00%                  - 提供給路德維希國王\n\n02.00%                  - 技能重置代幣\n\n03.40%                  - 裝備"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% 單位攻擊時的戰鬥力",
@@ -17308,7 +17374,7 @@
     "equipment_unique_1061_desc": "將你的城堡變成泡沫般的要塞。",
     "equipment_unique_1062_desc": "將你的城堡變成泡沫般的要塞。",
     "equip_effect_description_emptyGemSocket_name": "空寶石槽",
-    "equip_effect_description_appearance_baron_transformationTarget": "變化適用於主城堡、前哨、首都和商貿都市。",
+    "equip_effect_description_appearance_baron_transformationTarget": "用這個稀有物品展示你在LTPE中的主導地位，將你的主要城堡、前哨、首都或大都市轉變為真正獨特的存在，讓你與其他玩家區分開來。",
     "equip_effect_description_appearance_commander_transformationTarget": "變化適用於王國中行進的軍隊和風暴島嶼的戰船。",
     "equip_effect_description_noGemSocket_name": "沒有寶石欄位",
     "equip_effect_description_permanentAppearance": "永久性物品",
@@ -17938,7 +18004,11 @@
     "equipment_unique_1240": "大紫水晶蓮花",
     "equipment_unique_1241": "大紫水晶蓮花",
     "equipment_unique_1242": "大紫水晶蓮花",
-    "equipment_unique_1243": "大紫水晶蓮花"
+    "equipment_unique_1243": "大紫水晶蓮花",
+    "equipment_unique_1263": "復活節鳥屋",
+    "equipment_unique_1263_desc": "釋放復活節鳥舍的快樂精神，迎接重生的季節。將你的城堡變成一個充滿活力的避風港，裝飾著鮮豔的巢穴和色彩繽紛的復活節彩蛋，迴響著春天回歸的喜悅。",
+    "equipment_unique_1264": "復活節蕨類",
+    "equipment_unique_1264_desc": "將你的軍隊轉變為更新的力量，在展開的蕨類和隱藏的復活節彩蛋下行軍，擁抱成長和慶祝的精神。"
   },
   "generic": {
     "activity": "活動",
@@ -19997,7 +20067,11 @@
     "panel_buildinglist_SlotBuildConstruction": "建築工人的宿舍正在建造中",
     "panel_buildinglist_SlotBuildUpgradeCap": "升級建築工人的宿舍！可從{0}級獲得",
     "currency_description_HollowMoonEgg": "空心月亮蛋，充滿被遺忘的魔法，被神秘的召喚者所追求。在空心月亮召喚事件中提供它們以解鎖神秘獎勵！",
-    "currency_name_HollowMoonEgg": "空心月亮蛋"
+    "currency_name_HollowMoonEgg": "空心月亮蛋",
+    "currency_description_AdvisorFreeToken": "一份特殊合約，讓您可以雇用並啟用任何顧問。用它來利用他們的專業知識，發起多次連續攻擊。",
+    "currency_description_NomadAdvisorToken": "特穆金·梅爾根的指揮令牌，授予訪問他的戰略大師的權限。使用它來啟動遊牧顧問，並對遊牧營地發動無情的連續攻擊。",
+    "currency_name_AdvisorFreeToken": "顧問合約",
+    "currency_name_NomadAdvisorToken": "向導的印章"
   },
   "help": {
     "help_location": "在這裡，你可以看到關於你的城堡和所有前哨重要內容的總體概況。",
@@ -20373,7 +20447,12 @@
     "help_generals_abilityDialog": "你可在此選擇將軍的能力。\n能力將會顯著提升將軍和其軍隊的戰鬥威力。在戰鬥的某個階段能力即會觸發，賦予強大的力量而影響將軍的軍隊和部隊。\n請從左側的能力清單中選取，並將其分配到右側的能力欄位。只有指派到欄位中的能力會在戰鬥中發動！關閉能力選單前，請務必儲存任何更動！\n\n你可以在你的技能樹中解鎖更多能力欄位，然後部分將軍只有限定數量的能力欄位。",
     "help_generals_introduction_popup": "你可在此找到關於將軍和其技能的簡易概覽。\n要取得將軍，請點擊「前往將軍處」。",
     "help_defense_icon_allianceDefenseUnitAmount": "你的城堡堡壘中可容納的同盟支援總部隊和士兵數量。同盟成員可以派士兵來支援你的防禦。超出支援容量限制的所有部隊將被放在預備軍而不會參與戰鬥。",
-    "help_travelPlanning_autoCooldownSkip": "你可在這裡選擇交通模式來加快巡遊速度。效果和費用取決於你選擇的項目。你也可以放慢所選的部隊，以使他們準時在你需要的時間點抵達。\n\n啟用自動略過，以在軍隊抵達目標所在地時立即略過進行中的冷卻時間。將會在抵達時直接從你的庫存中取用所需的略過時間。任何剩餘的略過時間值，則會以略過時間的形式退還。"
+    "help_travelPlanning_autoCooldownSkip": "你可在這裡選擇交通模式來加快巡遊速度。效果和費用取決於你選擇的項目。你也可以放慢所選的部隊，以使他們準時在你需要的時間點抵達。\n\n啟用自動略過，以在軍隊抵達目標所在地時立即略過進行中的冷卻時間。將會在抵達時直接從你的庫存中取用所需的略過時間。任何剩餘的略過時間值，則會以略過時間的形式退還。",
+    "advisor_speechBubble_nomad": "真正的戰士從不猶豫。在草原上鍛造，我知道只有快速者才能生存。在我的指導下，你的部隊毫不留情地進攻——沒有等待，沒有仁慈，只有勝利。",
+    "description_advisorInformation_nomad": "特穆金·梅爾根，指路者，曾是一位令人畏懼的軍閥，現在為您的事業提供他無與倫比的戰場專業知識。在遊牧民族入侵事件期間，他增強了您的力量，發起對遊牧營地的多次連續攻擊，毫不留情，讓敵人沒有恢復的空間。呼喚您的顧問，計劃大規模的攻擊，主宰戰場。\n\n使用顧問合約或指路者的印章激活遊牧顧問，然後使用顧問攻擊釋放一系列協調攻擊，搭配選定的編隊和指揮官。自動跳過冷卻時間的功能已啟用，確保無縫執行。然而，如果指揮官被擊敗，或滿足以下任一條件，攻擊將停止：\n\n- 黃金不足 – 由於缺乏黃金，無法發送攻擊。其他指揮官也可能無法發起攻擊。\n- 缺乏紅寶石或羽毛 – 由於缺乏紅寶石或羽毛，無法發送攻擊。其他指揮官也可能無法發起攻擊。\n- 單位和/或工具不足 – 由於缺乏所需的單位或工具，無法發送攻擊。其他指揮官也可能無法發起攻擊。\n- 時間跳過不足 – 由於缺乏時間跳過，無法完成攻擊。未來的冷卻時間無法跳過，迫使指揮官撤退。\n\n迅速打擊，保持您的力量，並確保指路者的策略引領您獲得勝利。",
+    "info_attackAdvisor": "使用顧問攻擊發起選定陣型和指揮官的連續攻擊。冷卻時間的自動跳過會自動應用。如果攻擊失敗或指揮官被擊敗，他們將撤退，取消剩餘的攻擊。如果所需的資源耗盡，則不會開始下一次攻擊。",
+    "info_battleMessage": "為每次攻擊發送戰鬥報告",
+    "intro_advisor_nomad": "特穆金·梅爾根，探索者，將他的專業知識帶入你的事業。在遊牧民族入侵期間，對遊牧民族營地發動連續攻擊，無間斷。"
   },
   "playertitles": {
     "playerTitle_50_jap": "暴風領主的",
@@ -24588,7 +24667,8 @@
     "ChristmasWarrior_desc": "手持薄荷條紋長矛，這些兇猛的戰士們以不可阻擋的節日精神向前衝鋒，讓所有擋在他們面前的人心生恐懼。",
     "ChristmasWarrior_short_info": "極其強大的近戰攻擊者",
     "nomadcoinbooststone_name": "遊牧民小豬撲滿",
-    "nomadcoinbooststone_short_info": "增加在遊牧營地掠奪的硬幣數量"
+    "nomadcoinbooststone_short_info": "增加在遊牧營地掠奪的硬幣數量",
+    "advisor_AttackFailed_reason3": "您的顧問攻擊無法繼續。沒有足夠的寶石或快速旅行羽毛來發起攻擊。如果資源未得到補充，其他指揮官也可能無法發起他們的攻擊。"
   },
   "generic_flash": {
     "Footer": {

@@ -2451,7 +2451,6 @@ export interface Package {
     "comment2"?: string;
     "constructionItemAmount"?: number;
     "constructionItemID"?: number;
-    "constructionItemIDs"?: number;
     "cost1MinSkip"?: number;
     "costAnniversaryToken"?: number;
     "costDecoDust"?: number;
@@ -2965,7 +2964,6 @@ export interface Reward {
     "addGeneralsSkillsResetToken"?: number;
     "addGoldToken"?: number;
     "addHalloweenLTPEToken"?: number;
-    "addHasanToken"?: number;
     "addIceLTPEToken"?: number;
     "addImperialDucat"?: number;
     "addKhanMedal"?: number;
@@ -2980,6 +2978,7 @@ export interface Reward {
     "addMayaLTPEToken"?: number;
     "addNewKingLTPEToken"?: number;
     "addOctoberfestLTPEToken"?: number;
+    "addOfferingHasan"?: number;
     "addPegasusTicket"?: number;
     "addPiratesLTPEToken"?: number;
     "addPlaster"?: number;

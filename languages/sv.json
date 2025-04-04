@@ -833,7 +833,14 @@
     "error_twisted_firestarter_while_protected": "Du kan inte sabotera andra spelare medan skyddsläget är aktiverat.",
     "dialog_shoppingCartPrimeDay_DontShowNotification": "Visa inte denna dialogruta igen för detta erbjudande",
     "dialog_shoppingCartPrimeDay_GoToShopButton": "Gå till affären",
-    "dialog_shoppingCartPrimeDay_SeeOfferButton": "Se erbjudande"
+    "dialog_shoppingCartPrimeDay_SeeOfferButton": "Se erbjudande",
+    "advisor_AttackFailed_reason4": "Din rådgivares attack kan inte fortsätta. Inte tillräckligt med enheter och/eller verktyg för att inleda attacken. Andra befälhavare kan också misslyckas med att inleda sina attacker om inte nya enheter rekryteras.",
+    "advisor_AttackFailed_reason5": "Ditt angrepp kunde inte slutföras på grund av brist på tidsöverskridningar. Om inga tidsöverskridningar är tillgängliga kan framtida befälhavare vara oförmögna att genomföra på varandra följande angrepp och tvingas dra sig tillbaka.",
+    "advisor_AttackFailed_reason2": "Din rådgivares attack kan inte fortsätta. Inte tillräckligt med rubiner eller snabba resefjädrar för att starta attacken. Andra kommandanter kan också misslyckas med att starta sina attacker om resurserna inte fylls på.",
+    "advisor_AttackFailed_reason1": "Din rådgivares attack kan inte fortsätta. Inte tillräckligt med guld för att starta attacken. Andra befälhavare kan också misslyckas med att starta sina attacker om resurserna inte fylls på.",
+    "advisor_AttackFailed_reason0": "Din rådgivart attack kunde inte fortsätta. Kontrollera rådgivarens översikt för detaljer om saknade resurser eller andra problem som hindrar attacken.",
+    "info_attack_threshold": "Du har nått det dagliga taket på 1 000 attacker. Varje ny attack kommer nu att ha ökade kostnader som växer exponentiellt.",
+    "title_attack_threshold": "Ökade attackkostnader"
   },
   "buildings_and_decorations": {
     "bakery_name": "Bageri",
@@ -2000,7 +2007,25 @@
     "ci_appearance_CarnivalBarrelWorkshop_flavour": "Hantverkarna viker upp ärmarna i den livliga verkstaden och skapar livfulla tunnor prydda med färgglada mönster, redo att lagra sötman och andarna från karnevalen.",
     "ci_appearance_CarnivalHoneyGardens": "Karnevalens honungsträdgård",
     "ci_appearance_CarnivalHoneyGardens_flavour": "Gyllene honungskakor glittrar i solen medan surrande bin dansar mellan blommande blommor, medan omsorgspersoner förbereder sötsaker för att glädja karnevalbesökarna.",
-    "deco_ExaltedCarnivalGondola_name": "Upphöjd karnevalsgondol"
+    "deco_ExaltedCarnivalGondola_name": "Upphöjd karnevalsgondol",
+    "ci_appearance_BrokenEggDwellings": "Krossat ägg bostad",
+    "ci_appearance_BrokenEggDwellings_flavor": "Doften av färska blommor svävar genom öppna fönster medan solljuset dansar över målade ägg. Vakterna utbyter vänskapliga skämt, väver kransar och förbereder sig för säsongens glada förnyelse.",
+    "ci_appearance_BrokenEggGreenhouse": "Växthus för trasiga ägg",
+    "ci_appearance_BrokenEggGreenhouse_flavor": "Inuti rör sig soldaterna bland doften av frisk jord och knoppande blommor, och tar varsamt hand om nytt liv medan de förbereder korgar som är fyllda med livliga blommor och målade ägg.",
+    "ci_appearance_BrokenEggStorehouse": "Lager för trasiga ägg",
+    "ci_appearance_BrokenEggStorehouse_flavor": "Lagerhuset är fullt av färska skördar, söta godsaker och färgglada ägg, vilket säkerställer att ingen fest går utan sin festliga skörd.",
+    "deco_ExaltedGreenEasterHotspring_name": "Upphöjd grön påskvarm källa",
+    "deco_ExaltedGreenEasterRuins_name": "Upphöjda gröna påskrörelser",
+    "deco_ExaltedGreenEggTree_name": "Upphöjd grön väktare av vård",
+    "deco_ExaltedGreenMarchHaresHideout_name": "Upphöjd grön marskanins gömställe",
+    "deco_ExaltedPurpleEasterHotspring_name": "Upphöjd lila påskkälla",
+    "deco_ExaltedPurpleEasterRuins_name": "Upphöjda lila påskruiner",
+    "deco_ExaltedPurpleEggTree_name": "Upphöjd lila väktare av näring",
+    "deco_ExaltedPurpleMarchHaresHideout_name": "Gömställe för den upphöjda lila marskaninen",
+    "deco_ExaltedRedEasterHotspring_name": "Upphöjd röd påskkälla",
+    "deco_ExaltedRedEasterRuins_name": "Upphöjda röda påskruiner",
+    "deco_ExaltedRedEggTree_name": "Upphöjd röd vårdande väktare",
+    "deco_ExaltedRedMarchHaresHideout_name": "Upphöjt gömställe för den röda marskaninen"
   },
   "dialogs": {
     "dialog_festival_desc": "Använd mat för att anordna en fest för dina medborgare! Rekryteringshastigheten ökar betydligt i alla dina slott så länge festen försiggår. Ju större festen är, desto större effekt.",
@@ -12621,7 +12646,48 @@
     "webshop_hasanbase_huge_name": "Stort medaljong av belägringsingenjören",
     "webshop_hasanbase_large_name": "Stort medaljong av belägringsingenjören",
     "webshop_hasanbase_medium_name": "Medium medaljong av belägringsingenjören",
-    "webshop_hasanbase_small_name": "Liten medaljong av belägringsingenjören"
+    "webshop_hasanbase_small_name": "Liten medaljong av belägringsingenjören",
+    "advisor_AttackCancelAll": "Är du säker på att du vill avbryta alla rådgivart attacker? Alla pågående attacker kommer att återkallas och alla resurser som har använts kommer att gå förlorade.",
+    "advisor_AttackCancel": "Är du säker på att du vill avbryta rådgivarattacken? Alla använda resurser kommer att gå förlorade.",
+    "advisor_AttackNumber": "Rådgivarattack: (0)/(1)",
+    "advisor_AttackSummary_defeat": "(0) Attacker - nederlag",
+    "advisor_AttackSummary_pending": "(0) Attacker - väntande",
+    "advisor_AttackSummary_stopped": "(0) Attacker - stoppade",
+    "advisor_AttackSummary_victory": "(0) Angrepp - seger",
+    "attack_advisor": "Rådgivarattack",
+    "advisor_attackInfo": "Varje attack betalas när den börjar, med samma kostnad tillämpad på varje attack.",
+    "attackProgress": "Pågående attacker:",
+    "attack_standard": "Standardattack",
+    "attack_amount": "Antal attacker:",
+    "attack_setUp": "Ställ in dina attacker!",
+    "button_SelectCamp": "Välj nomadläger",
+    "button_activateAdvisor": "Aktivera rådgivaren",
+    "button_attackAdvisor": "Rådgivarattack",
+    "button_buyToken": "Köp token",
+    "button_cancelAdvisor": "Avbryt attacken",
+    "button_cancelAdvisorAll": "Avbryt alla attacker",
+    "button_freeToken": "Få gratis token",
+    "commander": "Befälhavare:",
+    "generic_currentCost": "Aktuella kostnader:",
+    "generic_currentLosses": "Aktuella stridsförluster:",
+    "generic_timer": "Tid kvar till evenemanget:",
+    "generic_totalCost": "Totala kostnader:",
+    "generic_totalLosses": "Totala strider:",
+    "lootCurrent": "Aktuell byte:",
+    "lootTotal": "Total byte:",
+    "title_advisorInformation": "Rådgivarfunktionalitet",
+    "title_advisor_AttackCancel": "Avbryt attacken?",
+    "title_advisor_AttackCancelAll": "Avbryt alla rådgivares attacker?",
+    "title_advisor_AttackFailed": "Rådgivarens attack misslyckades!",
+    "title_advisor_AttackOverview": "Översikt över rådgivarens attack",
+    "title_advisor_AttackSummary": "Rapport om rådgivartattack",
+    "title_advisor_activate": "Aktivera rådgivaren",
+    "title_advisor_buyToken": "Köp rådgivartoken",
+    "title_advisor_freeToken": "Få rådgivartoken",
+    "title_advisor_nomad": "Nomadrådgivare",
+    "currency_description_OfferingHasan": "Byte med kung Ludwig i generalernas värdshus för att få mycket värdefulla belöningar. Belöningsdragningar inkluderar alltid fragment för Hasan. Utbyte av Hasans erbjudande kan endast göras under en begränsad tid!",
+    "currency_name_OfferingHasan": "Hasans erbjudande till kung Ludwig",
+    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "Detta är dragningens chanser för denna patrons belöningskategorier med det valda erbjudandet. Varje kategori innehåller specifika belöningsformer som kommer att väljas slumpmässigt. För varje betald erbjudande görs fyra dragningar, varje dragning har chanserna som anges nedan.\n\nDragning chans        Belöningskategorier\n\n09.00%                  - Hasan fragment\n\n00.50%                  - Hasans erbjudande till Ludwig\n\n03.00%                  - Erbjudande till Prinsessan Beatrice\n\n05.00%                  - Erbjudande till Sir Ulrich\n\n08.00%                  - Erbjudande till Kung Ludwig\n\n02.00%                  - Färdighetsåterställnings tokens\n\n03.40%                  - Utrustning"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% enhetens stridskraft vid angrepp",
@@ -17308,7 +17374,7 @@
     "equipment_unique_1061_desc": "Slottet blir en skummig fästning.",
     "equipment_unique_1062_desc": "Slottet blir en skummig fästning.",
     "equip_effect_description_emptyGemSocket_name": "Tom ädelstensplats",
-    "equip_effect_description_appearance_baron_transformationTarget": "Förvandlingen gäller för huvudslott, utposten, huvudstaden och metropolen.",
+    "equip_effect_description_appearance_baron_transformationTarget": "Visa din dominans i LTPE med detta sällsynta föremål, som förvandlar dina huvudslott, utposter, huvudstad eller metropol till en verkligt unik närvaro som särskiljer dig från andra spelare.",
     "equip_effect_description_appearance_commander_transformationTarget": "Förvandlingen gäller för marscherande arméer i kungadömen samt krigsskepp på Stormöarna.",
     "equip_effect_description_noGemSocket_name": "Ingen ädelstensplats",
     "equip_effect_description_permanentAppearance": "Permanent föremål",
@@ -17938,7 +18004,11 @@
     "equipment_unique_1240": "Stor ametistlotus",
     "equipment_unique_1241": "Stor ametistlotus",
     "equipment_unique_1242": "Stor ametistlotus",
-    "equipment_unique_1243": "Stor ametistlotus"
+    "equipment_unique_1243": "Stor ametistlotus",
+    "equipment_unique_1263": "Påskfågelhus",
+    "equipment_unique_1263_desc": "Frigör den glada anden av påskfågelboet för att välkomna förnyelsens säsong. Förvandla ditt slott till en livlig tillflyktsort, prydd med färgglada bon och färgglada påskägg, som ekar glädjen av vårens återkomst.",
+    "equipment_unique_1264": "Påskfern",
+    "equipment_unique_1264_desc": "Transformera din armé till en kraft av förnyelse, marscherande under utvecklade ormbunkar och gömda påskägg, omfamna växande och firandets anda."
   },
   "generic": {
     "activity": "Aktivera",
@@ -19997,7 +20067,11 @@
     "panel_buildinglist_SlotBuildConstruction": "Byggmästarnas kvarter byggs",
     "panel_buildinglist_SlotBuildUpgradeCap": "Uppgradera byggmästarnas kvarter! Tillgänglig från nivå {0}",
     "currency_description_HollowMoonEgg": "Hållet måneägg, genomsyrade av glömd magi, efterfrågas av den gåtfulla Åkallaren. Erbjud dem under evenemanget Åkallande av den Håliga Månen för att låsa upp mystiska belöningar!",
-    "currency_name_HollowMoonEgg": "Hållet måneägg"
+    "currency_name_HollowMoonEgg": "Hållet måneägg",
+    "currency_description_AdvisorFreeToken": "Ett speciellt kontrakt som låter dig anställa och aktivera vilken rådgivare som helst. Använd det för att utnyttja deras expertis och starta flera på varandra följande attacker.",
+    "currency_description_NomadAdvisorToken": "Ett token från Temujin Mergens kommando som ger tillgång till hans strategiska mästerskap. Använd det för att aktivera nomadrådgivaren och släppa obarmhärtiga på varandra följande attacker på nomadläger.",
+    "currency_name_AdvisorFreeToken": "Rådgivarkontrakt",
+    "currency_name_NomadAdvisorToken": "Vägledarens sigill"
   },
   "help": {
     "help_location": "Här har du en global översikt över ditt slotts viktiga innehåll och alla dina utposter.",
@@ -20373,7 +20447,12 @@
     "help_generals_abilityDialog": "Här väljer du generalens förmågor.\nFörmågor gör generalen och generalens armé rejält mycket starkare i strid. Förmågorna aktiveras vid en viss tidpunkt i striden och ger generalens armé och trupper användbara effekter.\nVälj en förmåga till vänster för att lägga in den i en förmågeplats till höger. Bara förmågor som har tilldelats platser är aktiva i strid, så se till att spara ändringarna innan du stänger förmågemenyn!\n\nDu kan låsa upp fler förmågeplatser i färdighetsträdet, men tänk på att vissa generaler bara har ett begränsat antal platser.",
     "help_generals_introduction_popup": "Här hittar du en kort översikt om generalerna och deras färdigheter.\nTryck på &quot;Till generalerna&quot; för att skaffa en general.",
     "help_defense_icon_allianceDefenseUnitAmount": "Antalet soldater och total truppkapacitet för allianssupporten i slottets kärntorn. Alliansmedlemmar kan skicka soldater för att stödja ditt försvar. Alla trupper som överskrider supportkapacitetsgränsen placeras i reserven och deltar inte i striden.",
-    "help_travelPlanning_autoCooldownSkip": "Här kan du välja ett transportmedel för att öka resehastigheten. Effekten och kostnaderna beror på vad du väljer. Du kan också sakta ner de valda enheterna så att de anländer precis när det passar dig.\n\nAktivera autoskipp för att skippa en aktiv återhämtning direkt när armén anländer till målet. De tidskippar som krävs tas direkt från ditt lager vid ankomsten. Alla eventuella överflödiga tidskipp betals tillbaka i tidskipp."
+    "help_travelPlanning_autoCooldownSkip": "Här kan du välja ett transportmedel för att öka resehastigheten. Effekten och kostnaderna beror på vad du väljer. Du kan också sakta ner de valda enheterna så att de anländer precis när det passar dig.\n\nAktivera autoskipp för att skippa en aktiv återhämtning direkt när armén anländer till målet. De tidskippar som krävs tas direkt från ditt lager vid ankomsten. Alla eventuella överflödiga tidskipp betals tillbaka i tidskipp.",
+    "advisor_speechBubble_nomad": "En sann krigare tvekar aldrig. Smidd i stäpperna vet jag att endast de snabba överlever. Med min vägledning slår dina styrkor obevekligt - ingen väntan, ingen nåd, bara seger.",
+    "description_advisorInformation_nomad": "Temujin Mergen, Stiftern, en gång en fruktad krigsherre, erbjuder nu sin oöverträffade expertis på slagfältet för din sak. Under Nomad Invasion Event stärker han dina styrkor för att lansera flera på varandra följande attacker mot Nomadläger, slår obarmhärtigt och lämnar ingen plats för fienden att återhämta sig. Kalla på din rådgivare, planera massangrepp och dominera slagfältet.\n\nAktivera Nomadrådgivaren med hjälp av ett rådgivarkontrakt eller Stiftarens sigill, och använd sedan rådgivarnas attack för att frigöra en serie koordinerade attacker med den valda formationen och befälhavaren. Automatisk hoppa över nedkylningar tillämpas, vilket säkerställer en sömlös utförande. Angreppet kommer dock att upphöra om befälhavaren besegras eller om något av följande villkor uppfylls:\n\n- Otillräckligt guld – Attacken kan inte skickas på grund av brist på guld. Andra befälhavare kan också misslyckas med att inleda sina attacker.\n- Otillräckliga rubiner eller fjädrar – Attacken kan inte skickas på grund av brist på rubiner eller fjädrar. Andra befälhavare kan också misslyckas med att inleda sina attacker.\n- Otillräckliga enheter och/eller verktyg – Attacken kan inte skickas på grund av brist på nödvändiga enheter eller verktyg. Andra befälhavare kan också misslyckas med att inleda sina attacker.\n- Otillräckliga tidsöverskridningar – Attacker kan inte slutföras på grund av brist på tidsöverskridningar. Framtida nedkylningar kan inte överskridas, vilket tvingar befälhavarna att dra sig tillbaka.\n\nSlå snabbt, upprätthåll dina styrkor och se till att Stiftarens strategi leder dig till seger.",
+    "info_attackAdvisor": "Använd rådgivarattacken för att starta följande attacker med vald formation och befälhavare. Auto-hopp tillämpas. Vid misslyckad attack eller nederlag drar sig befälhavaren tillbaka och avbryter resten. Utan resurser startar ingen ny attack.",
+    "info_battleMessage": "Skicka en stridsrapport för varje attack",
+    "intro_advisor_nomad": "Temujin Mergen, Stigfinnaren, ger sin expertis till din sak. Under Nomadinvasionen utför du efterföljande attacker mot Nomadläger utan avbrott."
   },
   "playertitles": {
     "playerTitle_50_jap": "Stormherre",
@@ -24588,7 +24667,8 @@
     "ChristmasWarrior_desc": "Beväpnade med pepparmintsrandiga lanser, dessa fruktade krigare rusar fram med en ostopplig semesterglädje och väcker rädsla hos alla som står i deras väg.",
     "ChristmasWarrior_short_info": "Extremt kraftfull närstridsanfallare",
     "nomadcoinbooststone_name": "Nomadspargris",
-    "nomadcoinbooststone_short_info": "Ökar antalet mynt som plundras i nomadläger"
+    "nomadcoinbooststone_short_info": "Ökar antalet mynt som plundras i nomadläger",
+    "advisor_AttackFailed_reason3": "Din rådgivares attack kan inte fortsätta. Inte tillräckligt med rubiner eller snabba resefjädrar för att starta attacken. Andra kommandanter kan också misslyckas med att starta sina attacker om resurserna inte fylls på."
   },
   "generic_flash": {
     "Footer": {

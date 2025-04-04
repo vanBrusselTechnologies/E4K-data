@@ -833,7 +833,14 @@
     "error_twisted_firestarter_while_protected": "You can not sabotage other players while protection mode is enabled.",
     "dialog_shoppingCartPrimeDay_DontShowNotification": "Dont show this dialogue again for this offer",
     "dialog_shoppingCartPrimeDay_GoToShopButton": "Go To Shop",
-    "dialog_shoppingCartPrimeDay_SeeOfferButton": "See Offer"
+    "dialog_shoppingCartPrimeDay_SeeOfferButton": "See Offer",
+    "advisor_AttackFailed_reason4": "Your Advisor attack cannot continue.\nNot enough Units and/or Tools to launch the attack. Other commanders may also fail to launch their attacks if new units are not recruited.",
+    "advisor_AttackFailed_reason5": "Your attack could not be completed due to a lack of Time Skips. If no Time Skips are available, future commanders may be unable to launch consecutive attacks and will be forced to retreat.",
+    "advisor_AttackFailed_reason2": "Your Advisor attack cannot continue.\nNot enough Rubies or Fast Travel Feathers to launch the attack. Other commanders may also fail to launch their attacks if the resources are not replenished.",
+    "advisor_AttackFailed_reason1": "Your Advisor attack cannot continue.\nNot enough Gold to launch the attack. Other commanders may also fail to launch their attacks if the resources are not replenished.",
+    "advisor_AttackFailed_reason0": "Your Advisor attack could not proceed. Check the Advisor Overview for details on missing resources or other issues preventing the attack.",
+    "info_attack_threshold": "Youve hit the daily limit of 1,000 attacks. Each new attack will now have an increased cost, rising exponentially.",
+    "title_attack_threshold": "Increased Attack Costs"
   },
   "buildings_and_decorations": {
     "bakery_name": "Bakery",
@@ -2000,7 +2007,25 @@
     "ci_appearance_CarnivalBarrelWorkshop_flavour": "Artisans roll up their sleeves in the bustling workshop, crafting vibrant barrels adorned with colorful patterns, ready to store the sweetness and spirits of the carnival.",
     "ci_appearance_CarnivalHoneyGardens": "Carnival Honey Garden",
     "ci_appearance_CarnivalHoneyGardens_flavour": "Golden honeycombs glisten in the sun as buzzing bees dance between blooming flowers, while caretakers prepare sweet treats to delight carnival-goers.",
-    "deco_ExaltedCarnivalGondola_name": "Exalted Carnival Gondola"
+    "deco_ExaltedCarnivalGondola_name": "Exalted Carnival Gondola",
+    "ci_appearance_BrokenEggDwellings": "Broken Egg Dwelling",
+    "ci_appearance_BrokenEggDwellings_flavor": "The scent of fresh blossoms drifts through open windows as sunlight dances across painted eggs. Guards exchange good-natured jests, weaving garlands and preparing for the season’s joyful renewal",
+    "ci_appearance_BrokenEggGreenhouse": "Broken Egg Greenhouse",
+    "ci_appearance_BrokenEggGreenhouse_flavor": "Inside, soldiers move among the scent of fresh soil and budding flowers, carefully tending to new life as they prepare baskets brimming with vibrant blooms and painted eggs.",
+    "ci_appearance_BrokenEggStorehouse": "Broken Egg Storehouse",
+    "ci_appearance_BrokenEggStorehouse_flavor": "The storehouse brims with fresh harvests, sweet treats, and colorful eggs, ensuring no celebration goes without its festive bounty.",
+    "deco_ExaltedGreenEasterHotspring_name": "Exalted Green Easter Hotspring",
+    "deco_ExaltedGreenEasterRuins_name": "Exalted Green Easter Ruins",
+    "deco_ExaltedGreenEggTree_name": "Exalted Green Guardian of Nurture",
+    "deco_ExaltedGreenMarchHaresHideout_name": "Exalted Green March hares hideout",
+    "deco_ExaltedPurpleEasterHotspring_name": "Exalted Purple Easter Hotspring",
+    "deco_ExaltedPurpleEasterRuins_name": "Exalted Purple Easter Ruins",
+    "deco_ExaltedPurpleEggTree_name": "Exalted Purple Guardian of Nurture",
+    "deco_ExaltedPurpleMarchHaresHideout_name": "Exalted Purple March hares hideout",
+    "deco_ExaltedRedEasterHotspring_name": "Exalted Red Easter Hotspring",
+    "deco_ExaltedRedEasterRuins_name": "Exalted Red Easter Ruins",
+    "deco_ExaltedRedEggTree_name": "Exalted Red Guardian of Nurture",
+    "deco_ExaltedRedMarchHaresHideout_name": "Exalted Red March hares hideout"
   },
   "dialogs": {
     "dialog_festival_desc": "Use your food to hold a feast for your citizens!\nSoldiers will be recruited much more quickly in all of your castles for as long as the feast lasts. The bigger the feast, the greater the effect.",
@@ -12621,7 +12646,48 @@
     "webshop_hasanbase_huge_name": "Huge Medallion of the Siege Engineer",
     "webshop_hasanbase_large_name": "Large Medallion of the Siege Engineer",
     "webshop_hasanbase_medium_name": "Medium Medallion of the Siege Engineer",
-    "webshop_hasanbase_small_name": "Small Medallion of the Siege Engineer"
+    "webshop_hasanbase_small_name": "Small Medallion of the Siege Engineer",
+    "advisor_AttackCancelAll": "Are you sure you want to cancel all Advisor attacks? All ongoing attacks will be recalled, and any resources spent will be lost.",
+    "advisor_AttackCancel": "Are you sure you want to cancel the Advisor attack? Any resources spent will be lost.",
+    "advisor_AttackNumber": "Advisor Attack: (0)/(1)",
+    "advisor_AttackSummary_defeat": "(0) Attacks - defeat",
+    "advisor_AttackSummary_pending": "(0) Attacks - pending",
+    "advisor_AttackSummary_stopped": "(0) Attacks - stopped",
+    "advisor_AttackSummary_victory": "(0) Attacks - victory",
+    "attack_advisor": "Advisor Attack",
+    "advisor_attackInfo": "Each attack is paid for when it begins, with the same cost applied to every attack.",
+    "attackProgress": "Attacks in progress:",
+    "attack_standard": "Standard Attack",
+    "attack_amount": "Amount of Attacks:",
+    "attack_setUp": "Set up your attacks!",
+    "button_SelectCamp": "Select Nomad Camp",
+    "button_activateAdvisor": "Activate Advisor",
+    "button_attackAdvisor": "Advisor Attack",
+    "button_buyToken": "Buy Token",
+    "button_cancelAdvisor": "Cancel Attack",
+    "button_cancelAdvisorAll": "Cancel All Attacks",
+    "button_freeToken": "Get Free Token",
+    "commander": "Commanders:",
+    "generic_currentCost": "Current Costs:",
+    "generic_currentLosses": "Curent Battle Losses:",
+    "generic_timer": "Event time remaining:",
+    "generic_totalCost": "Total Costs:",
+    "generic_totalLosses": "Total Battle Losses:",
+    "lootCurrent": "Current Loot:",
+    "lootTotal": "Total Loot:",
+    "title_advisorInformation": "Advisor Functionality",
+    "title_advisor_AttackCancel": "Cancel Attack?",
+    "title_advisor_AttackCancelAll": "Cancel all Advisor Attacks?",
+    "title_advisor_AttackFailed": "Advisor Attack has failed!",
+    "title_advisor_AttackOverview": "Advisor Attack Overview",
+    "title_advisor_AttackSummary": "Advisor Attack Report",
+    "title_advisor_activate": "Activate Advisor",
+    "title_advisor_buyToken": "Buy Advisor Token",
+    "title_advisor_freeToken": "Get Advisor Token",
+    "title_advisor_nomad": "Nomad Advisor",
+    "currency_description_OfferingHasan": "Exchange with King Ludwig in the Generals Inn to get very valuable rewards. Reward draws always includes shards for Hasan. Exchanging Hasans offering can only be done for a limited time!",
+    "currency_name_OfferingHasan": "Hasans Offering to Ludwig",
+    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "These are the draw chances for this patrons reward categories with the selected offering. Each category contains specific reward types, which will be randomly chosen. For each paid offering, four draws are performed, each draw has the chances listed below.\n\nDraw Chance        Reward Categories\n\n09.00%                  - Hasan shards\n\n00.50%                  - Hasans Offering to Ludwig\n\n03.00%                  - Offering to Princess Beatrice\n\n05.00%                  - Offering to Sir Ulrich\n\n08.00%                  - Offering to King Ludwig\n\n02.00%                  - Skill reset tokens\n\n03.40%                  - Equipment"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% unit combat strength when attacking",
@@ -17308,7 +17374,7 @@
     "equipment_unique_1061_desc": "Transforms your castle into a foamy fortress.",
     "equipment_unique_1062_desc": "Transforms your castle into a foamy fortress.",
     "equip_effect_description_emptyGemSocket_name": "Empty gem slot",
-    "equip_effect_description_appearance_baron_transformationTarget": "Transformation applies to main castles, outpost, capital and metropolis.",
+    "equip_effect_description_appearance_baron_transformationTarget": "Show off your dominance in the LTPE with this rare item, transforming your main castles, outposts, capital, or metropolis into a truly unique presence that sets you apart from other players.",
     "equip_effect_description_appearance_commander_transformationTarget": "Transformation applies to marching armies in kingdoms and warships in the Storm Islands.",
     "equip_effect_description_noGemSocket_name": "No gem slot",
     "equip_effect_description_permanentAppearance": "Permanent Item",
@@ -17938,7 +18004,11 @@
     "equipment_unique_1240": "Grand Amethyst Lotus",
     "equipment_unique_1241": "Grand Amethyst Lotus",
     "equipment_unique_1242": "Grand Amethyst Lotus",
-    "equipment_unique_1243": "Grand Amethyst Lotus"
+    "equipment_unique_1243": "Grand Amethyst Lotus",
+    "equipment_unique_1263": "Easter Birdhouse",
+    "equipment_unique_1263_desc": "Unleash the cheerful spirit of the Easter Birdhouse to welcome the season of renewal. Transform your castle into a lively haven, adorned with vibrant nests and colorful Easter eggs, echoing the joy of spring’s return.",
+    "equipment_unique_1264": "Easter Fern",
+    "equipment_unique_1264_desc": "Transform your army into a force of renewal, marching beneath unfurling ferns and hidden Easter eggs, embracing the spirit of growth and celebration."
   },
   "generic": {
     "activity": "Activity",
@@ -19997,7 +20067,11 @@
     "panel_buildinglist_SlotBuildConstruction": "Builder`s Quarters is being built",
     "panel_buildinglist_SlotBuildUpgradeCap": "Upgrade the Builder`s Quarters! Available from level {0}",
     "currency_description_HollowMoonEgg": "Hollow Moon Eggs, imbued with forgotten magic, are sought by the enigmatic Summoner. Offer them during the Summoning of the Hollow Moon event to unlock mystical rewards!",
-    "currency_name_HollowMoonEgg": "Hollow Moon Egg"
+    "currency_name_HollowMoonEgg": "Hollow Moon Egg",
+    "currency_description_AdvisorFreeToken": "A special contract that lets you hire and activate any advisor. Use it to harness their expertise and launch multiple consecutive attacks.",
+    "currency_description_NomadAdvisorToken": "A token of Temujin Mergen’s command, granting access to his strategic mastery. Use it to activate the Nomad Advisor and unleash relentless consecutive attacks on Nomad Camps.",
+    "currency_name_AdvisorFreeToken": "Advisor Contract",
+    "currency_name_NomadAdvisorToken": "Pathfinders Seal"
   },
   "help": {
     "help_location": "Here you have a global overview of the important contents of your castle and all your outposts.",
@@ -20373,7 +20447,12 @@
     "help_generals_abilityDialog": "Here you can select the abilities for your general. \nAbilities will significatly improve the combat power of a general and their army. Abilities will be triggered during a certain phase of battle, granting powerful effects to the generals army and troops.\nSelect an ability on the left side to assign it to an ability slot to the right. Only abilties assigned to slots will be active in battle! Make sure to save any changes before closing the abilities menu!\n\nYou can unlock more ability slots in your skill tree, however certain generals have a limited number of ability slots available.",
     "help_generals_introduction_popup": "Here you can find a brief overview about the Generals and their Skills.\nTo get a general, tap on &quot;To the generals&quot;.",
     "help_defense_icon_allianceDefenseUnitAmount": "The number of soldiers and total troop capacity for the alliance support in your castle keep. Alliance members can send soldiers to support your defense. All troops exceeding the support capacity limit are placed in the reserve and do not participate in battle.",
-    "help_travelPlanning_autoCooldownSkip": "Here you can choose a mode of transportation to increase travel speed. The effect and costs depend on what you choose. You can also slow down the selected units so that they arrive exactly when you need them to.\n\nActivate auto skip to instantly skip an active cooldown when the army arrives at the target. The required time skips are directly taken from your stocks upon arrival. Any excess time skip value is payed back in form of time skips."
+    "help_travelPlanning_autoCooldownSkip": "Here you can choose a mode of transportation to increase travel speed. The effect and costs depend on what you choose. You can also slow down the selected units so that they arrive exactly when you need them to.\n\nActivate auto skip to instantly skip an active cooldown when the army arrives at the target. The required time skips are directly taken from your stocks upon arrival. Any excess time skip value is payed back in form of time skips.",
+    "advisor_speechBubble_nomad": "A true warrior never hesitates. Forged in the steppes, I know only the swift survive. With my guidance, your forces strike relentlessly—no waiting, no mercy, only victory.",
+    "description_advisorInformation_nomad": "Temujin Mergen, the Pathfinder, once a feared warlord, now offers his unmatched battlefield expertise to your cause. During the Nomad Invasion Event, he empowers your forces to launch multiple consecutive attacks on Nomad Camps, striking relentlessly and leaving no room for the enemy to recover. Call upon your advisor, plan bulk assaults, and dominate the battlefield.\n\nActivate the Nomad Advisor using an Advisor Contract or the Pathfinder’s Seal, then use Advisor Attack to unleash a series of coordinated strikes with the selected formation and commander. Auto-skip for cooldowns is applied, ensuring seamless execution. However, the assault will cease if the commander is defeated or if any of the following conditions are met:\n\nInsufficient Gold – Attack cannot be sent due to a lack of Gold. Other commanders may also fail to launch their attacks.\nInsufficient Rubies or Feathers – Attack cannot be sent due to a lack of Rubies or Feathers. Other commanders may also fail to launch their attacks.\nInsufficient Units and/or Tools – Attack cannot be sent due to a lack of required units or tools. Other commanders may also fail to launch their attacks.\nInsufficient Time Skips – Attacks cannot be completed due to a lack of Time Skips. Future cooldowns may not be skipped, forcing commanders to retreat.\n\nStrike swiftly, sustain your forces, and ensure the Pathfinder’s strategy leads you to victory.",
+    "info_attackAdvisor": "Use Advisor Attack to launch consecutive attacks with the chosen formation and commander. Auto-skip for cooldowns automatically applies. If an attack fails or the commander is defeated, they retreat, cancelling remaining attacks. If required resources run out, the next attack won’t start.",
+    "info_battleMessage": "Send a Battle Report for each attack",
+    "intro_advisor_nomad": "Temujin Mergen, the Pathfinder, brings his expertise to your cause. During the Nomad Invasion, launch consecutive attacks on Nomad Camps with no downtime."
   },
   "playertitles": {
     "playerTitle_50_jap": "Storm Lord",
@@ -24588,7 +24667,8 @@
     "ChristmasWarrior_desc": "Armed with peppermint-striped lances, these fierce warriors charge forward with unstoppable holiday spirit, striking fear into all who stand in their way.",
     "ChristmasWarrior_short_info": "Extremely powerful melee attacker",
     "nomadcoinbooststone_name": "Nomad piggy bank",
-    "nomadcoinbooststone_short_info": "Increases the number of coins looted in nomad camps"
+    "nomadcoinbooststone_short_info": "Increases the number of coins looted in nomad camps",
+    "advisor_AttackFailed_reason3": "Your Advisor attack cannot continue.\nNot enough Rubies or Fast Travel Feathers to launch the attack. Other commanders may also fail to launch their attacks if the resources are not replenished."
   },
   "generic_flash": {
     "Footer": {

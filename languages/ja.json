@@ -833,7 +833,14 @@
     "error_twisted_firestarter_while_protected": "保護モードが有効な間は他のプレイヤーを妨害することはできません。",
     "dialog_shoppingCartPrimeDay_DontShowNotification": "このオファーについてはこのダイアログを再表示しない",
     "dialog_shoppingCartPrimeDay_GoToShopButton": "ショップに行く",
-    "dialog_shoppingCartPrimeDay_SeeOfferButton": "オファーを見る"
+    "dialog_shoppingCartPrimeDay_SeeOfferButton": "オファーを見る",
+    "advisor_AttackFailed_reason4": "あなたのアドバイザーの攻撃は続行できません。攻撃を開始するためのユニットと/またはツールが不足しています。他の指揮官も新しいユニットが募集されないと攻撃を開始できない場合があります。",
+    "advisor_AttackFailed_reason5": "時間スキップが不足しているため、攻撃を完了できませんでした。時間スキップが利用できない場合、将来の指揮官は連続攻撃を実施できず、撤退を余儀なくされる可能性があります。",
+    "advisor_AttackFailed_reason2": "あなたのアドバイザーの攻撃は続行できません。攻撃を開始するためのルビーまたはファストトラベルフェザーが不足しています。他の指揮官も、リソースが補充されていない場合は攻撃を開始できない可能性があります。",
+    "advisor_AttackFailed_reason1": "あなたのアドバイザーの攻撃を続けることはできません。攻撃を開始するのに十分な金がありません。他の指揮官もリソースが補充されない場合、攻撃を開始できない可能性があります。",
+    "advisor_AttackFailed_reason0": "あなたのアドバイザー攻撃が進行できませんでした。攻撃を妨げているリソースの欠如やその他の問題については、アドバイザーの概要を確認してください。",
+    "info_attack_threshold": "1,000回の攻撃のデイリーリミットに達しました。新しい攻撃ごとにコストが増加し、指数関数的に上昇します。",
+    "title_attack_threshold": "攻撃コストの増加"
   },
   "buildings_and_decorations": {
     "bakery_name": "パン屋",
@@ -2000,7 +2007,25 @@
     "ci_appearance_CarnivalBarrelWorkshop_flavour": "職人たちは賑やかな工房で袖をまくり、カラフルな模様で飾られた鮮やかな樽を作り上げ、カーニバルの甘さと精霊を収納する準備を整えます。",
     "ci_appearance_CarnivalHoneyGardens": "カーニバルの蜂蜜ガーデン",
     "ci_appearance_CarnivalHoneyGardens_flavour": "黄金のハニカムが太陽の下で輝き、ブンブンと鳴く蜂が花が咲く間で踊り、世話をする人々がカーニバルの訪問者を喜ばせるために甘いお菓子を用意しています。",
-    "deco_ExaltedCarnivalGondola_name": "崇高なカーニバルのゴンドラ"
+    "deco_ExaltedCarnivalGondola_name": "崇高なカーニバルのゴンドラ",
+    "ci_appearance_BrokenEggDwellings": "壊れた卵の住居",
+    "ci_appearance_BrokenEggDwellings_flavor": "新鮮な花の香りが開いた窓を通り抜け、日光が色とりどりの卵の上で踊ります。警備員たちは友好的な冗談を交わしながら、花冠を編み、季節の楽しい再生に備えます。",
+    "ci_appearance_BrokenEggGreenhouse": "壊れた卵の温室",
+    "ci_appearance_BrokenEggGreenhouse_flavor": "内部では、兵士たちが新鮮な土と芽吹く花の香りの中を移動し、新しい命を慎重に育てながら、鮮やかな花と塗られた卵であふれたバスケットを準備しています。",
+    "ci_appearance_BrokenEggStorehouse": "壊れた卵の倉庫",
+    "ci_appearance_BrokenEggStorehouse_flavor": "倉庫は新鮮な収穫物、甘いお菓子、カラフルな卵であふれ、どの祝賀もその祝祭の富なしには過ぎ去らないことを保証しています。",
+    "deco_ExaltedGreenEasterHotspring_name": "崇高な緑のイースターホットスプリング",
+    "deco_ExaltedGreenEasterRuins_name": "崇高な緑のイースター遺跡",
+    "deco_ExaltedGreenEggTree_name": "崇高な緑の育成者",
+    "deco_ExaltedGreenMarchHaresHideout_name": "崇高な緑の3月ウサギの隠れ家",
+    "deco_ExaltedPurpleEasterHotspring_name": "高貴な紫のイースター温泉",
+    "deco_ExaltedPurpleEasterRuins_name": "崇高な紫のイースター遺跡",
+    "deco_ExaltedPurpleEggTree_name": "高貴な育成の紫の守護者",
+    "deco_ExaltedPurpleMarchHaresHideout_name": "高尚な紫色のウサギの隠れ家",
+    "deco_ExaltedRedEasterHotspring_name": "崇高な赤いイースター温泉",
+    "deco_ExaltedRedEasterRuins_name": "崇高な赤いイースターの遺跡",
+    "deco_ExaltedRedEggTree_name": "崇高な赤い育成の守護者",
+    "deco_ExaltedRedMarchHaresHideout_name": "崇高な赤い三月ウサギの隠れ家"
   },
   "dialogs": {
     "dialog_festival_desc": "食料を集めて宴会を開きましょう！\n宴会が続く限り、兵の雇用スピードがすべての城で速くなります。宴会が豪華になるほど、効果も大きくなります。",
@@ -12621,7 +12646,48 @@
     "webshop_hasanbase_huge_name": "巨大な包囲工学者のメダル",
     "webshop_hasanbase_large_name": "大きな包囲工学者のメダル",
     "webshop_hasanbase_medium_name": "中型包囲エンジニアのメダル",
-    "webshop_hasanbase_small_name": "包囲工学者の小さなメダル"
+    "webshop_hasanbase_small_name": "包囲工学者の小さなメダル",
+    "advisor_AttackCancelAll": "すべてのアドバイザー攻撃をキャンセルしてもよろしいですか？すべての進行中の攻撃は取り消され、消費されたリソースは失われます。",
+    "advisor_AttackCancel": "アドバイザーの攻撃をキャンセルしてもよろしいですか？費やしたリソースは失われます。",
+    "advisor_AttackNumber": "アドバイザー攻撃: (0)/(1)",
+    "advisor_AttackSummary_defeat": "(0) 攻撃 - 敗北",
+    "advisor_AttackSummary_pending": "(0) 攻撃 - 保留中",
+    "advisor_AttackSummary_stopped": "(0) 攻撃 - 停止しました",
+    "advisor_AttackSummary_victory": "(0) 攻撃 - 勝利",
+    "attack_advisor": "アドバイザー攻撃",
+    "advisor_attackInfo": "各攻撃は発生時に支払いが行われ、同じコストがすべての攻撃に適用されます。",
+    "attackProgress": "進行中の攻撃：",
+    "attack_standard": "標準攻撃",
+    "attack_amount": "攻撃の数：",
+    "attack_setUp": "攻撃を設定してください！",
+    "button_SelectCamp": "遊牧民キャンプを選択",
+    "button_activateAdvisor": "アドバイザーを有効化",
+    "button_attackAdvisor": "アドバイザー攻撃",
+    "button_buyToken": "トークンを購入",
+    "button_cancelAdvisor": "攻撃をキャンセル",
+    "button_cancelAdvisorAll": "すべての攻撃をキャンセル",
+    "button_freeToken": "無料トークンを取得する",
+    "commander": "指揮官:",
+    "generic_currentCost": "現在のコスト：",
+    "generic_currentLosses": "現在の戦闘損失：",
+    "generic_timer": "イベントの残り時間：",
+    "generic_totalCost": "総コスト:",
+    "generic_totalLosses": "総合戦闘損失:",
+    "lootCurrent": "現在の戦利品：",
+    "lootTotal": "合計の戦利品：",
+    "title_advisorInformation": "アドバイザーの機能",
+    "title_advisor_AttackCancel": "攻撃をキャンセルしますか？",
+    "title_advisor_AttackCancelAll": "すべてのアドバイザー攻撃をキャンセルしますか？",
+    "title_advisor_AttackFailed": "アドバイザーの攻撃に失敗しました！",
+    "title_advisor_AttackOverview": "アドバイザー攻撃の概要",
+    "title_advisor_AttackSummary": "アドバイザーハンティングレポート",
+    "title_advisor_activate": "アドバイザーを有効化",
+    "title_advisor_buyToken": "アドバイザートークンを購入",
+    "title_advisor_freeToken": "アドバイザーのトークンを取得",
+    "title_advisor_nomad": "ノマドアドバイザー",
+    "currency_description_OfferingHasan": "将軍の宿でルートヴィヒ王と交換し、非常に貴重な報酬を獲得します。報酬抽選には常にハサンのかけらが含まれています。ハサンのオファーの交換は限られた時間のみ可能です！",
+    "currency_name_OfferingHasan": "ハサンのルートヴィヒへの捧げ物",
+    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "これは、選択されたオファーに対するこのパトロンの報酬カテゴリーの抽選確率です。各カテゴリーには、特定の報酬タイプが含まれており、ランダムに選ばれます。有料オファーごとに、4回の抽選が行われ、それぞれの抽選には以下に示す確率があります。\n\n抽選確率        報酬カテゴリー\n\n09.00%                  - ハサンの破片\n\n00.50%                  - ルートヴィヒへのハサンのオファー\n\n03.00%                  - ビアトリス王女へのオファー\n\n05.00%                  - ウルリッヒ卿へのオファー\n\n08.00%                  - ルートヴィヒ王へのオファー\n\n02.00%                  - スキルリセットトークン\n\n03.40%                  - 装備"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% ユニットの攻撃時の戦闘力",
@@ -17308,7 +17374,7 @@
     "equipment_unique_1061_desc": "城を泡の砦に変化させます。",
     "equipment_unique_1062_desc": "城を泡の砦に変化させます。",
     "equip_effect_description_emptyGemSocket_name": "空のジェムスロット",
-    "equip_effect_description_appearance_baron_transformationTarget": "城、基地、首都、貿易都市に変化が適用されます。",
+    "equip_effect_description_appearance_baron_transformationTarget": "この珍しいアイテムでLTPEでの支配力を示し、メインキャッスル、前哨基地、首都、または大都市を他のプレイヤーと差別化する真にユニークな存在に変えましょう。",
     "equip_effect_description_appearance_commander_transformationTarget": "王国での行進中の軍と嵐の島での戦艦に変化が適用されます。",
     "equip_effect_description_noGemSocket_name": "ジェムスロットがありません",
     "equip_effect_description_permanentAppearance": "永久アイテム",
@@ -17938,7 +18004,11 @@
     "equipment_unique_1240": "グランドアメジストロータス",
     "equipment_unique_1241": "グランドアメジストロータス",
     "equipment_unique_1242": "グランドアメジストロータス",
-    "equipment_unique_1243": "グランドアメジストロータス"
+    "equipment_unique_1243": "グランドアメジストロータス",
+    "equipment_unique_1263": "イースターのバードハウス",
+    "equipment_unique_1263_desc": "イースターバードハウスの陽気な精神を解き放ち、再生の季節を迎え入れましょう。あなたの城を生き生きとした避難所に変え、鮮やかな巣やカラフルなイースターエッグで飾り、春の到来の喜びを反映させましょう。",
+    "equipment_unique_1264": "イースターのシダ",
+    "equipment_unique_1264_desc": "あなたの軍を更新の力に変え、広がるシダの下や隠れたイースターエッグの下を行進し、成長と祝福の精神を抱きしめましょう。"
   },
   "generic": {
     "activity": "アクティビティ",
@@ -19997,7 +20067,11 @@
     "panel_buildinglist_SlotBuildConstruction": "建設者の宿舎が建設中です",
     "panel_buildinglist_SlotBuildUpgradeCap": "建設者の宿舎をアップグレード！レベル{0}から利用可能",
     "currency_description_HollowMoonEgg": "空洞の月の卵は、忘れ去られた魔法を宿しており、神秘的な召喚者によって求められています。ハロウ・ムーンイベントでそれらを提供して、神秘的な報酬を解除しましょう！",
-    "currency_name_HollowMoonEgg": "空洞の月の卵"
+    "currency_name_HollowMoonEgg": "空洞の月の卵",
+    "currency_description_AdvisorFreeToken": "任意のアドバイザーを雇い、アクティブにする特別な契約です。彼らの専門知識を活用し、複数の連続攻撃を開始するために使用してください。",
+    "currency_description_NomadAdvisorToken": "テムジン・メルゲンの指揮からのトークンで、彼の戦略的マスタリーへのアクセスを付与します。これを使用してノマドアドバイザーをアクティブにし、ノマドキャンプに対して容赦ない連続攻撃を解き放ちます。",
+    "currency_name_AdvisorFreeToken": "アドバイザー契約",
+    "currency_name_NomadAdvisorToken": "道案内者の印"
   },
   "help": {
     "help_location": "ここから、城や基地の\n重要な情報を見ることができます。",
@@ -20373,7 +20447,12 @@
     "help_generals_abilityDialog": "ここでは総督のアビリティを選択できます。\nアビリティは、総督とその軍の戦闘力を大幅に向上させます。戦闘の特定の局面で能力が発動し、総督の軍や部隊に強力な効果が付与されます。\n左側でアビリティを選択すると、右側のアビリティスロットに割り当てられます。スロットに割り当てられたアビリティのみがバトルで有効化されます。アビリティメニューを閉じる前に、変更を保存するのをお忘れなく！\n\nスキルツリーでは、より多くのアビリティスロットを解放することができますが、特定の総督は使用できるアビリティスロットに上限があります。",
     "help_generals_introduction_popup": "ここでは、総督とそのスキルについての簡単な概要を確認できます。\n総督を獲得するには「総督へ」をタップしてください。",
     "help_defense_icon_allianceDefenseUnitAmount": "城の天守閣に駐留している同盟支援の兵士の数と部隊の定員です。同盟メンバーは兵士を派遣し、防衛を支援することができます。支援能力の上限を超えた部隊はすべて予備役となり、戦闘には参加しません",
-    "help_travelPlanning_autoCooldownSkip": "ここでは、移動スピードを上げるために輸送モードを選択できます。効果と費用は、選択肢によって異なります。また、部隊が必要な時ぴったりに到着するよう、選択した部隊を遅くすることもできます。\n\n自動スキップを有効化すると、軍隊がターゲットに到着した時、有効なクールダウンが即座にスキップされます。必要なタイムスキップは到着時にストックから直接使用されます。余分なタイムスキップの値は、タイムスキップとして払い戻しがされます。"
+    "help_travelPlanning_autoCooldownSkip": "ここでは、移動スピードを上げるために輸送モードを選択できます。効果と費用は、選択肢によって異なります。また、部隊が必要な時ぴったりに到着するよう、選択した部隊を遅くすることもできます。\n\n自動スキップを有効化すると、軍隊がターゲットに到着した時、有効なクールダウンが即座にスキップされます。必要なタイムスキップは到着時にストックから直接使用されます。余分なタイムスキップの値は、タイムスキップとして払い戻しがされます。",
+    "advisor_speechBubble_nomad": "真の戦士は決して躊躇しない。草原で鍛えられた私は、速い者だけが生き残ることを知っている。私の指導の下で、あなたの軍は容赦なく攻撃する - 待機なし、慈悲なし、勝利のみ。",
+    "description_advisorInformation_nomad": "テムジン・メルゲン、パスファインダーは、かつて恐れられた指導者であり、今ではあなたの目的のために比類のない戦場の専門知識を提供します。ノマド侵略イベント中、彼はあなたの軍隊を強化し、ノマドキャンプに対して連続して複数の攻撃を仕掛け、容赦なく攻撃し、敵が回復する余地を与えません。アドバイザーを呼び、バルク攻撃を計画し、戦場を支配してください。\n\nアドバイザー契約またはパスファインダーの印を使用してノマドアドバイザーをアクティブにし、その後、選択した編成と指揮官で一連の協調攻撃を解き放つためにアドバイザー攻撃を使用します。クールダウンの自動スキップが適用され、シームレスな実行が保証されます。ただし、指揮官が敗北するか、次の条件のいずれかが満たされると、攻撃は停止します：\n\n- ゴールド不足 – ゴールドが不足しているため、攻撃を送信できません。 他の指揮官も攻撃を開始できない場合があります。\n- ルビーまたは羽の不足 – ルビーまたは羽が不足しているため、攻撃を送信できません。 他の指揮官も攻撃を開始できない場合があります。\n- ユニットおよび/またはツールの不足 – 必要なユニットまたはツールが不足しているため、攻撃を送信できません。 他の指揮官も攻撃を開始できない場合があります。\n- 時間スキップの不足 – 時間スキップが不足しているため、攻撃を完了できません。 将来のクールダウンをスキップできず、指揮官は撤退を余儀なくされます。\n\n迅速に攻撃し、部隊を維持し、パスファインダーの戦略があなたを勝利に導くことを確実にしてください。",
+    "info_attackAdvisor": "アドバイザー攻撃を使用して、選択したフォーメーションと指揮官で連続攻撃を開始します。クールダウンの自動スキップが自動的に適用されます。攻撃が失敗するか、指揮官が敗北した場合、彼らは撤退し、残りの攻撃をキャンセルします。必要なリソースが尽きた場合、次の攻撃は開始されません。",
+    "info_battleMessage": "各攻撃のために戦闘報告を送信する",
+    "intro_advisor_nomad": "パスファインダーのテムジン・メルゲンがあなたのために専門知識を提供します。ノマド侵略中に、休止なくノマドキャンプに連続攻撃を仕掛けてください。"
   },
   "playertitles": {
     "playerTitle_50_jap": "嵐の支配者",
@@ -24588,7 +24667,8 @@
     "ChristmasWarrior_desc": "ペパーミントのストライプの槍を持ったこれらの凶暴な戦士たちは、止められないホリデースピリットで前進し、彼らの道に立ちふさがるすべての者に恐怖を与えます。",
     "ChristmasWarrior_short_info": "非常に強力な近接攻撃者",
     "nomadcoinbooststone_name": "遊牧民の金箱",
-    "nomadcoinbooststone_short_info": "遊牧民キャンプで略奪されたコインの数を増やす"
+    "nomadcoinbooststone_short_info": "遊牧民キャンプで略奪されたコインの数を増やす",
+    "advisor_AttackFailed_reason3": "あなたのアドバイザーの攻撃は続行できません。攻撃を開始するためのルビーまたはファストトラベルフェザーが不足しています。他の指揮官も、リソースが補充されていない場合は攻撃を開始できない可能性があります。"
   },
   "generic_flash": {
     "Footer": {

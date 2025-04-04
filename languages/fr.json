@@ -833,7 +833,14 @@
     "error_twisted_firestarter_while_protected": "Vous ne pouvez pas saboter dautres joueurs tant que le mode protection est activé.",
     "dialog_shoppingCartPrimeDay_DontShowNotification": "Ne pas afficher à nouveau ce dialogue pour cette offre",
     "dialog_shoppingCartPrimeDay_GoToShopButton": "Aller au magasin",
-    "dialog_shoppingCartPrimeDay_SeeOfferButton": "Voir loffre"
+    "dialog_shoppingCartPrimeDay_SeeOfferButton": "Voir loffre",
+    "advisor_AttackFailed_reason4": "Lattaque de votre conseiller ne peut pas continuer. Pas assez dunités et/ou doutils pour lancer lattaque. Dautres commandants peuvent également échouer à lancer leurs attaques si de nouvelles unités ne sont pas recrutées.",
+    "advisor_AttackFailed_reason5": "Votre attaque na pas pu être complétée en raison dun manque de sauts dans le temps. Si aucun saut temporel nest disponible, les futurs commandants pourraient ne pas être en mesure de lancer des attaques consécutives et seront contraints de se retirer.",
+    "advisor_AttackFailed_reason2": "Lattaque de votre conseiller ne peut pas continuer. Pas assez de Rubis ou de Plumes de Voyage Rapide pour lancer lattaque. Dautres commandants peuvent également échouer à lancer leurs attaques si les ressources ne sont pas réapprovisionnées.",
+    "advisor_AttackFailed_reason1": "Votre attaque de conseiller ne peut pas continuer. Pas assez dor pour lancer lattaque. Dautres commandants peuvent également échouer à lancer leurs attaques si les ressources ne sont pas reconstituées.",
+    "advisor_AttackFailed_reason0": "Votre attaque de conseiller na pas pu se poursuivre. Vérifiez laperçu du conseiller pour plus de détails sur les ressources manquantes ou dautres problèmes empêchant lattaque.",
+    "info_attack_threshold": "Vous avez atteint la limite quotidienne de 1 000 attaques. Chaque nouvelle attaque aura désormais un coût accru, augmentant de manière exponentielle.",
+    "title_attack_threshold": "Coûts dattaque augmentés"
   },
   "buildings_and_decorations": {
     "bakery_name": "Boulangerie",
@@ -2000,7 +2007,25 @@
     "ci_appearance_CarnivalBarrelWorkshop_flavour": "Les artisans retroussent leurs manches dans latelier animé, façonnant des fûts vibrants ornés de motifs colorés, prêts à stocker la douceur et les esprits du carnaval.",
     "ci_appearance_CarnivalHoneyGardens": "Jardin de miel du carnaval",
     "ci_appearance_CarnivalHoneyGardens_flavour": "Les rayons de miel dorés scintillent au soleil tandis que les abeilles bourdonnantes dansent entre les fleurs en fleurs, tandis que les gardiens préparent des douceurs pour ravir les visiteurs du carnaval.",
-    "deco_ExaltedCarnivalGondola_name": "Gondole de carnaval exaltée"
+    "deco_ExaltedCarnivalGondola_name": "Gondole de carnaval exaltée",
+    "ci_appearance_BrokenEggDwellings": "Demeure de lœuf brisé",
+    "ci_appearance_BrokenEggDwellings_flavor": "Le parfum des fleurs fraîches flotte à travers les fenêtres ouvertes tandis que la lumière du soleil danse sur les œufs peints. Les gardes échangent des plaisanteries amicales, tissent des couronnes et se préparent à la joyeuse renaissance de la saison.",
+    "ci_appearance_BrokenEggGreenhouse": "Serre dœuf cassé",
+    "ci_appearance_BrokenEggGreenhouse_flavor": "À lintérieur, les soldats se déplacent parmi le parfum de la terre fraîche et des fleurs bourgeonnantes, prenant soin de la nouvelle vie tout en préparant des paniers débordant de fleurs vibrantes et dœufs peints.",
+    "ci_appearance_BrokenEggStorehouse": "Entrepôt dœufs cassés",
+    "ci_appearance_BrokenEggStorehouse_flavor": "Le magasin déborde de récoltes fraîches, de douceurs et dœufs colorés, garantissant quaucune célébration ne se déroule sans son butin festif.",
+    "deco_ExaltedGreenEasterHotspring_name": "Source chaude verte exaltée de Pâques",
+    "deco_ExaltedGreenEasterRuins_name": "Ruines vertes exhalées de Pâques",
+    "deco_ExaltedGreenEggTree_name": "Garde vert exalté de la nature",
+    "deco_ExaltedGreenMarchHaresHideout_name": "Cachette du lièvre vert exalté",
+    "deco_ExaltedPurpleEasterHotspring_name": "Source pourpre exaltée de Pâques",
+    "deco_ExaltedPurpleEasterRuins_name": "Ruines pourpres exalées de Pâques",
+    "deco_ExaltedPurpleEggTree_name": "Gardien pourpre exhalé de la nutrition",
+    "deco_ExaltedPurpleMarchHaresHideout_name": "Cachette du lièvre pourpre exalté",
+    "deco_ExaltedRedEasterHotspring_name": "Source rouge exaltée de Pâques",
+    "deco_ExaltedRedEasterRuins_name": "Ruines rouges exaltées de Pâques",
+    "deco_ExaltedRedEggTree_name": "Gardien rouge exalté de la nature",
+    "deco_ExaltedRedMarchHaresHideout_name": "Cachette du lièvre rouge exalté"
   },
   "dialogs": {
     "dialog_festival_desc": "Utilisez de la nourriture pour organiser une fête pour vos villageois ! Tant que la fête durera, la vitesse de recrutement sera considérablement augmentée dans tous vos châteaux. Plus la fête est grande, plus son effet est important.",
@@ -12621,7 +12646,48 @@
     "webshop_hasanbase_huge_name": "Immense médaille de lingénieur de siège",
     "webshop_hasanbase_large_name": "Grand médaillon de lingénieur de siège",
     "webshop_hasanbase_medium_name": "Médaillon moyen de lingénieur de siège",
-    "webshop_hasanbase_small_name": "Petit médaillon de lingénieur de siège"
+    "webshop_hasanbase_small_name": "Petit médaillon de lingénieur de siège",
+    "advisor_AttackCancelAll": "Êtes-vous sûr de vouloir annuler toutes les attaques des conseillers ? Toutes les attaques en cours seront rappelées et toutes les ressources dépensées seront perdues.",
+    "advisor_AttackCancel": "Êtes-vous sûr de vouloir annuler lattaque de lAdvisor? Toutes les ressources dépensées seront perdues.",
+    "advisor_AttackNumber": "Attaque du conseiller : (0)/(1)",
+    "advisor_AttackSummary_defeat": "(0) Attaques - défaite",
+    "advisor_AttackSummary_pending": "(0) Attaques - en attente",
+    "advisor_AttackSummary_stopped": "(0) Attaques - arrêtées",
+    "advisor_AttackSummary_victory": "(0) Attaques - victoire",
+    "attack_advisor": "Attaque du conseiller",
+    "advisor_attackInfo": "Chaque attaque est payée au début, avec le même coût appliqué à chaque attaque.",
+    "attackProgress": "Attaques en cours :",
+    "attack_standard": "Attaque standard",
+    "attack_amount": "Nombre dattaques :",
+    "attack_setUp": "Configurez vos attaques !",
+    "button_SelectCamp": "Sélectionnez le camp nomade",
+    "button_activateAdvisor": "Activer le conseiller",
+    "button_attackAdvisor": "Attaque du conseiller",
+    "button_buyToken": "Acheter un token",
+    "button_cancelAdvisor": "Annuler lattaque",
+    "button_cancelAdvisorAll": "Annuler toutes les attaques",
+    "button_freeToken": "Obtenez un jeton gratuit",
+    "commander": "Commandants :",
+    "generic_currentCost": "Coûts actuels :",
+    "generic_currentLosses": "Pertes de bataille actuelles :",
+    "generic_timer": "Temps restant pour lévénement :",
+    "generic_totalCost": "Coûts totaux :",
+    "generic_totalLosses": "Pertes de bataille totales :",
+    "lootCurrent": "Butin actuel :",
+    "lootTotal": "Butin total :",
+    "title_advisorInformation": "Fonctionnalité du conseiller",
+    "title_advisor_AttackCancel": "Annuler lattaque?",
+    "title_advisor_AttackCancelAll": "Annuler toutes les attaques des conseillers ?",
+    "title_advisor_AttackFailed": "Lattaque de ladvisor a échoué !",
+    "title_advisor_AttackOverview": "Aperçu de lattaque du conseiller",
+    "title_advisor_AttackSummary": "Rapport dattaque du conseiller",
+    "title_advisor_activate": "Activer le conseiller",
+    "title_advisor_buyToken": "Achetez le jeton de conseiller",
+    "title_advisor_freeToken": "Obtenir le jeton dagent",
+    "title_advisor_nomad": "Conseiller nomade",
+    "currency_description_OfferingHasan": "Échange avec le roi Ludwig à lauberge des généraux pour obtenir des récompenses très précieuses. Les tirages de récompenses incluent toujours des éclats pour Hasan. Léchange de loffre de Hasan ne peut se faire que pendant une période limitée !",
+    "currency_name_OfferingHasan": "Offre de Hasan à Ludwig",
+    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "Voici les chances de tirage pour les catégories de récompenses de ce patron avec loffre sélectionnée. Chaque catégorie contient des types de récompenses spécifiques, qui seront choisis au hasard. Pour chaque offre payante, quatre tirages sont effectués, chaque tirage a les chances indiquées ci-dessous.\n\nChance de tirage        Catégories de récompenses\n\n09.00%                  - Fragments de Hasan\n\n00.50%                  - LOffre de Hasan à Ludwig\n\n03.00%                  - Offre à la Princesse Béatrice\n\n05.00%                  - Offre à Sir Ulrich\n\n08.00%                  - Offre au Roi Ludwig\n\n02.00%                  - Jetons de réinitialisation des compétences\n\n03.40%                  - Équipement"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% de force de combat de lunité lors de lattaque",
@@ -17308,7 +17374,7 @@
     "equipment_unique_1061_desc": "Transforme votre château en fort mousseux.",
     "equipment_unique_1062_desc": "Transforme votre château en fort mousseux.",
     "equip_effect_description_emptyGemSocket_name": "Emplacement de gemme vide",
-    "equip_effect_description_appearance_baron_transformationTarget": "La transformation sapplique au château principal, à lavant-poste, à la capitale ou à la cité.",
+    "equip_effect_description_appearance_baron_transformationTarget": "Montrez votre domination dans le LTPE avec cet objet rare, transformant vos châteaux principaux, avant-postes, capitale ou métropole en une présence véritablement unique qui vous distingue des autres joueurs.",
     "equip_effect_description_appearance_commander_transformationTarget": "La transformation sapplique aux armées en marche dans les royaumes et aux navires de guerre dans les Îles orageuses.",
     "equip_effect_description_noGemSocket_name": "Aucun emplacement de gemme",
     "equip_effect_description_permanentAppearance": "Objet permanent",
@@ -17938,7 +18004,11 @@
     "equipment_unique_1240": "Grand lotus améthyste",
     "equipment_unique_1241": "Grand lotus améthyste",
     "equipment_unique_1242": "Grand lotus améthyste",
-    "equipment_unique_1243": "Grand lotus améthyste"
+    "equipment_unique_1243": "Grand lotus améthyste",
+    "equipment_unique_1263": "Nichoir de Pâques",
+    "equipment_unique_1263_desc": "Libérez lesprit joyeux de la Maison de lOiseau de Pâques pour accueillir la saison du renouveau. Transformez votre château en un havre vivant, orné de nids vibrants et dœufs de Pâques colorés, résonnant de la joie du retour du printemps.",
+    "equipment_unique_1264": "Fougère de Pâques",
+    "equipment_unique_1264_desc": "Transformez votre armée en une force de renouveau, marchant sous des fougères déployées et des œufs de Pâques cachés, embrassant lesprit de croissance et de célébration."
   },
   "generic": {
     "activity": "Activité",
@@ -19997,7 +20067,11 @@
     "panel_buildinglist_SlotBuildConstruction": "Les quartiers des bâtisseurs sont en construction",
     "panel_buildinglist_SlotBuildUpgradeCap": "Améliorez les quartiers des bâtisseurs ! Disponible à partir du niveau {0}",
     "currency_description_HollowMoonEgg": "Les œufs creux de lune, imprégnés de magie oubliée, sont recherchés par lénigmatique Invocateur. Offrez-les lors de lévénement dInvocation de la Lune Creuse pour débloquer des récompenses mystiques !",
-    "currency_name_HollowMoonEgg": "Œuf creux de lune"
+    "currency_name_HollowMoonEgg": "Œuf creux de lune",
+    "currency_description_AdvisorFreeToken": "Un contrat spécial qui vous permet dembaucher et dactiver nimporte quel conseiller. Utilisez-le pour tirer parti de leur expertise et lancer plusieurs attaques consécutives.",
+    "currency_description_NomadAdvisorToken": "Un jeton du commandement de Temujin Mergen, donnant accès à sa maîtrise stratégique. Utilisez-le pour activer le Conseiller nomade et déclencher des attaques consécutives implacables sur les camps nomades.",
+    "currency_name_AdvisorFreeToken": "Contrat de conseiller",
+    "currency_name_NomadAdvisorToken": "Sceau du Guide"
   },
   "help": {
     "help_location": "Ici, vous avez un aperçu global des contenus importants de votre château et de tous vos avant-postes.",
@@ -20373,7 +20447,12 @@
     "help_generals_abilityDialog": "Ici, vous pouvez sélectionner les capacités de votre général.\nCelles-ci augmentent considérablement sa puissance de combat et celle de son armée. Lors dune phase spécifique dun combat, les capacités se déclenchent et octroient de puissants effets aux troupes du général.\nSélectionnez une capacité à gauche pour laffecter à un emplacement à droite. Seules les capacités affectées à un emplacement sont actives en combat. Veillez à enregistrer tout changement avant de fermer le menu des capacités.\n\nIl est possible de débloquer davantage demplacements de capacité dans votre arbre de compétences. Cependant, certains généraux ont un nombre limité demplacement disponibles.",
     "help_generals_introduction_popup": "Vous trouverez ici un bref aperçu des généraux et de leurs compétences.\nPour obtenir un général, appuyez sur « Voir les généraux ».",
     "help_defense_icon_allianceDefenseUnitAmount": "Le nombre de soldats et la capacité en troupes totale du soutien dalliance dans le donjon de votre château. Les membres de lalliance peuvent envoyer des soldats pour soutenir votre défense. Toutes les troupes qui dépassent la limite de capacité sont placées en réserve et ne participent pas au combat.",
-    "help_travelPlanning_autoCooldownSkip": "Ici, vous pouvez choisir un moyen de transport pour augmenter la vitesse de déplacement. Leffet et le coût dépendent de votre choix. Vous pouvez également ralentir les unités sélectionnées afin quelles arrivent au moment où vous le souhaitez.\n\nActivez laccélération automatique pour passer instantanément un temps de recharge actif lorsque larmée arrive à destination. Les accélérateurs nécessaires sont directement prélevés de votre inventaire à larrivée. Toute utilisation daccélérateur excédentaire vous est remboursée."
+    "help_travelPlanning_autoCooldownSkip": "Ici, vous pouvez choisir un moyen de transport pour augmenter la vitesse de déplacement. Leffet et le coût dépendent de votre choix. Vous pouvez également ralentir les unités sélectionnées afin quelles arrivent au moment où vous le souhaitez.\n\nActivez laccélération automatique pour passer instantanément un temps de recharge actif lorsque larmée arrive à destination. Les accélérateurs nécessaires sont directement prélevés de votre inventaire à larrivée. Toute utilisation daccélérateur excédentaire vous est remboursée.",
+    "advisor_speechBubble_nomad": "Un vrai guerrier nhésite jamais. Forgé dans les steppes, je sais que seuls les rapides survivent. Avec mon aide, tes forces frappent sans relâche — pas dattente, pas de pitié, seulement la victoire.",
+    "description_advisorInformation_nomad": "Temujin Mergen, le Guide, autrefois un seigneur de guerre redouté, offre maintenant son expertise inégalée sur le champ de bataille à votre cause. Pendant lévénement dinvasion des Nomades, il donne à vos forces le pouvoir de lancer plusieurs attaques consécutives sur des camps nomades, frappant sans relâche et ne laissant aucune chance à lennemi de se rétablir. Appelez votre conseiller, planifiez des attaques massives et dominez le champ de bataille.\n\nActivez le conseiller nomade en utilisant un contrat de conseiller ou le sceau du Guide, puis utilisez lattaque du conseiller pour libérer une série de frappes coordonnées avec la formation et le commandant sélectionnés. Un saut automatique pour les temps dattente est appliqué, garantissant une exécution fluide. Cependant, lassaut cessera si le commandant est vaincu ou si lune des conditions suivantes est remplie :\n\n- Or insuffisant – Lattaque ne peut pas être envoyée en raison dun manque dor. Dautres commandants peuvent également échouer à lancer leurs attaques.\n- Rubis ou plumes insuffisants – Lattaque ne peut pas être envoyée en raison dun manque de rubis ou de plumes. Dautres commandants peuvent également échouer à lancer leurs attaques.\n- Unités et/ou outils insuffisants – Lattaque ne peut pas être envoyée en raison dun manque dunités ou doutils requis. Dautres commandants peuvent également échouer à lancer leurs attaques.\n- Temps de saut insuffisant – Les attaques ne peuvent pas être complétées en raison dun manque de temps de saut. Les temps dattente futurs ne peuvent pas être sautés, obligeant les commandants à se retirer.\n\nFrappez rapidement, maintenez vos forces et assurez-vous que la stratégie du Guide vous mène à la victoire.",
+    "info_attackAdvisor": "Utilisez lattaque de l’Advisor pour lancer des frappes consécutives avec la formation et le commandant choisis. Le saut automatique sapplique. En cas déchec ou de défaite, le commandant se retire, annulant les attaques restantes. Sans ressources, l’attaque ne démarre pas.",
+    "info_battleMessage": "Envoyez un rapport de bataille pour chaque attaque",
+    "intro_advisor_nomad": "Temujin Mergen, le Pionnier, apporte son expertise à votre cause. Pendant lInvasion Nomade, lancez des attaques consécutives sur les Camps Nomades sans temps darrêt."
   },
   "playertitles": {
     "playerTitle_50_jap": "Roi des orages",
@@ -24588,7 +24667,8 @@
     "ChristmasWarrior_desc": "Armés de lances rayées de menthe, ces guerriers féroces chargent en avant avec un esprit de fête inarrêtable, inspirant la peur à tous ceux qui se dressent sur leur chemin.",
     "ChristmasWarrior_short_info": "Attaquant de mêlée extrêmement puissant",
     "nomadcoinbooststone_name": "Tirelire nomade",
-    "nomadcoinbooststone_short_info": "Augmente le nombre de pièces volées dans les camps nomades"
+    "nomadcoinbooststone_short_info": "Augmente le nombre de pièces volées dans les camps nomades",
+    "advisor_AttackFailed_reason3": "Lattaque de votre conseiller ne peut pas continuer. Pas assez de Rubis ou de Plumes de Voyage Rapide pour lancer lattaque. Dautres commandants peuvent également échouer à lancer leurs attaques si les ressources ne sont pas réapprovisionnées."
   },
   "generic_flash": {
     "Footer": {

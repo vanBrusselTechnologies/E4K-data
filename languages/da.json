@@ -833,7 +833,14 @@
     "error_twisted_firestarter_while_protected": "Du kan ikke sabotere andre spillere, mens beskyttelsesmodus er aktiveret.",
     "dialog_shoppingCartPrimeDay_DontShowNotification": "Vis ikke denne dialog igen for dette tilbud",
     "dialog_shoppingCartPrimeDay_GoToShopButton": "Gå til butikken",
-    "dialog_shoppingCartPrimeDay_SeeOfferButton": "Se tilbud"
+    "dialog_shoppingCartPrimeDay_SeeOfferButton": "Se tilbud",
+    "advisor_AttackFailed_reason4": "Din rådgivers angreb kan ikke fortsætte. Der er ikke nok enheder og/eller værktøjer til at iværksætte angrebet. Andre kommandanter kan også mislykkes med at iværksætte deres angreb, hvis nye enheder ikke rekrutteres.",
+    "advisor_AttackFailed_reason5": "Dit angreb kunne ikke fuldføres på grund af mangel på tidspring. Hvis der ikke er nogen tidspring tilgængelige, kan fremtidige kommandører være ude af stand til at udføre på hinanden følgende angreb og vil blive tvunget til at trække sig tilbage.",
+    "advisor_AttackFailed_reason2": "Din rådgivers angreb kan ikke fortsætte. Ikke nok rubiner eller hurtigrejse-fjer til at starte angrebet. Andre kommandører kan også fejle i at starte deres angreb, hvis ressourcerne ikke genopfyldes.",
+    "advisor_AttackFailed_reason1": "Din rådgiverangreb kan ikke fortsætte. Ikke nok guld til at starte angrebet. Andre kommandører kan også fejle i at starte deres angreb, hvis ressourcerne ikke genopfyldes.",
+    "advisor_AttackFailed_reason0": "Dit rådgiverangreb kunne ikke fortsætte. Tjek rådgiveroversigten for detaljer om manglende ressourcer eller andre problemer, der forhindrer angrebet.",
+    "info_attack_threshold": "Du har nået den daglige grænse på 1000 angreb. Hver ny angreb vil nu have en stigende omkostning, der vokser eksponentielt.",
+    "title_attack_threshold": "Forøgede angrebsomkostninger"
   },
   "buildings_and_decorations": {
     "bakery_name": "Bageri",
@@ -2000,7 +2007,25 @@
     "ci_appearance_CarnivalBarrelWorkshop_flavour": "Håndværkerne opruller ærmerne i den travle værksted og skaber livlige tønder prydet med farverige mønstre, klar til at opbevare sødmen og ånderne fra karnevalet.",
     "ci_appearance_CarnivalHoneyGardens": "Karnevalens honninghave",
     "ci_appearance_CarnivalHoneyGardens_flavour": "Gyldne honningkager glitrer i solen, mens summende bier danser mellem blomstrende blomster, mens omsorgspersoner forbereder søde godbidder til at glæde karnevalsgæsterne.",
-    "deco_ExaltedCarnivalGondola_name": "Hævet karnevalsgondol"
+    "deco_ExaltedCarnivalGondola_name": "Hævet karnevalsgondol",
+    "ci_appearance_BrokenEggDwellings": "Knust æg boligen",
+    "ci_appearance_BrokenEggDwellings_flavor": "Duften af friske blomster svæver ind gennem åbne vinduer, mens sollyset danser over malede æg. Vagterne udveksler gode vitser, væver kranse og forbereder sig på sæsonens glædelige fornyelse.",
+    "ci_appearance_BrokenEggGreenhouse": "Glasgård til knækkede æg",
+    "ci_appearance_BrokenEggGreenhouse_flavor": "Indenfor bevæger soldaterne sig blandt duften af frisk jord og spirende blomster, mens de forsigtigt plejer nyt liv, mens de forbereder kurve fyldt med livlige blomster og malede æg.",
+    "ci_appearance_BrokenEggStorehouse": "Lager til knuste æg",
+    "ci_appearance_BrokenEggStorehouse_flavor": "Lageret er fyldt med friske høstvarer, søde godter og farverige æg, hvilket sikrer, at ingen fest går uden sin festlige rigdom.",
+    "deco_ExaltedGreenEasterHotspring_name": "Det ophøjede grønne påskevarmt springvand",
+    "deco_ExaltedGreenEasterRuins_name": "Hævede grønne påsketræer",
+    "deco_ExaltedGreenEggTree_name": "Hævet grøn vogter for pleje",
+    "deco_ExaltedGreenMarchHaresHideout_name": "Fjernet grøn marskanins skjul",
+    "deco_ExaltedPurpleEasterHotspring_name": "Eksalteret lilla påskekilde",
+    "deco_ExaltedPurpleEasterRuins_name": "Hævede lilla påske ruiner",
+    "deco_ExaltedPurpleEggTree_name": "Hævet lilla vogter for næring",
+    "deco_ExaltedPurpleMarchHaresHideout_name": "Hellig purpur påskehars skjul",
+    "deco_ExaltedRedEasterHotspring_name": "Hædret rød påske varmekilde",
+    "deco_ExaltedRedEasterRuins_name": "Hævet rødt påskekrater",
+    "deco_ExaltedRedEggTree_name": "Den ophøjede røde beskytter af pleje",
+    "deco_ExaltedRedMarchHaresHideout_name": "Forbedret rød marskanins skjul"
   },
   "dialogs": {
     "dialog_festival_desc": "Brug mad til at holde en fest for dine borgere! Rekrutteringshastigheden vil forøges på i jeres borge, så længe festen varer. Jo større festen er, jo større er effekten.",
@@ -12621,7 +12646,48 @@
     "webshop_hasanbase_huge_name": "Kæmpe medaljon fra belejringsingeniøren",
     "webshop_hasanbase_large_name": "Stor medalje til belejringsingeniøren",
     "webshop_hasanbase_medium_name": "Mellem medaillon af belejringsingeniøren",
-    "webshop_hasanbase_small_name": "Lille medaljon af belejringsingeniøren"
+    "webshop_hasanbase_small_name": "Lille medaljon af belejringsingeniøren",
+    "advisor_AttackCancelAll": "Er du sikker på, at du vil annullere alle rådgiverangreb? Alle igangværende angreb vil blive tilbagekaldt, og eventuelle brugte ressourcer vil gå tabt.",
+    "advisor_AttackCancel": "Er du sikker på, at du vil annullere rådgiverangrebet? Alle anvendte ressourcer vil gå tabt.",
+    "advisor_AttackNumber": "Rådgiverangreb: (0)/(1)",
+    "advisor_AttackSummary_defeat": "(0) Angreb - nederlag",
+    "advisor_AttackSummary_pending": "(0) Angreb - ventende",
+    "advisor_AttackSummary_stopped": "(0) Angreb - stoppet",
+    "advisor_AttackSummary_victory": "(0) Angreb - sejr",
+    "attack_advisor": "Rådgiverangreb",
+    "advisor_attackInfo": "Hver angreb betales for, når det begynder, med den samme pris anvendt på hvert angreb.",
+    "attackProgress": "Angreb i gang:",
+    "attack_standard": "Standardangreb",
+    "attack_amount": "Antal angreb:",
+    "attack_setUp": "Opsæt dine angreb!",
+    "button_SelectCamp": "Vælg nomadelejr",
+    "button_activateAdvisor": "Aktiver rådgiveren",
+    "button_attackAdvisor": "Rådgiverangreb",
+    "button_buyToken": "Køb token",
+    "button_cancelAdvisor": "Annuller angreb",
+    "button_cancelAdvisorAll": "Afbryd alle angreb",
+    "button_freeToken": "Få gratis token",
+    "commander": "Kommandører:",
+    "generic_currentCost": "Nuværende omkostninger:",
+    "generic_currentLosses": "Nuværende kamp tab:",
+    "generic_timer": "Tid tilbage til begivenheden:",
+    "generic_totalCost": "Samlede omkostninger:",
+    "generic_totalLosses": "Samlede kamp tab:",
+    "lootCurrent": "Nuværende bytte:",
+    "lootTotal": "Total bytte:",
+    "title_advisorInformation": "Rådgiverfunktionalitet",
+    "title_advisor_AttackCancel": "Afbryd angreb?",
+    "title_advisor_AttackCancelAll": "Afbryd alle rådgiverangreb?",
+    "title_advisor_AttackFailed": "Rådgiverangreb mislykkedes!",
+    "title_advisor_AttackOverview": "Oversigt over rådgiverens angreb",
+    "title_advisor_AttackSummary": "Rådgiverangrebsrapport",
+    "title_advisor_activate": "Aktiver rådgiveren",
+    "title_advisor_buyToken": "Køb rådgiver-token",
+    "title_advisor_freeToken": "Få rådgiver-token",
+    "title_advisor_nomad": "Nomadrådgiver",
+    "currency_description_OfferingHasan": "Udveksling med Kong Ludwig i Generalernes Kro for at få meget værdifulde belønninger. Belønningsudtrækning inkluderer altid fragmenter til Hasan. Udveksling af Hasans tilbud kan kun gøres i begrænset tid!",
+    "currency_name_OfferingHasan": "Hasans gave til kong Ludwig",
+    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "Dette er trækchancerne for denne patrons belønningskategorier med det valgte tilbud. Hver kategori indeholder specifikke belønningsformer, som vil blive valgt tilfældigt. For hvert betalt tilbud udføres der fire træk, hvor hvert træk har de chancer, der er angivet nedenfor.\n\nTrækchance        Belønningskategorier\n\n09.00%                  - Hasan-skærver\n\n00.50%                  - Hasans tilbud til Ludwig\n\n03.00%                  - Tilbud til prinsesse Beatrice\n\n05.00%                  - Tilbud til Sir Ulrich\n\n08.00%                  - Tilbud til kong Ludwig\n\n02.00%                  - Færdighedsreset tokens\n\n03.40%                  - Udstyr"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% enhedens kampstyrke ved angreb",
@@ -17308,7 +17374,7 @@
     "equipment_unique_1061_desc": "Forvandler din borg til et skummende fæstningsværk.",
     "equipment_unique_1062_desc": "Forvandler din borg til et skummende fæstningsværk.",
     "equip_effect_description_emptyGemSocket_name": "Tom ædelstensplads",
-    "equip_effect_description_appearance_baron_transformationTarget": "Forvandlingen gælder for dine hovedborge, forposter, hovedstæder og købstæder.",
+    "equip_effect_description_appearance_baron_transformationTarget": "Vis din dominans i LTPE med denne sjældne genstand, der forvandler dine hovedslotte, forposter, hovedstad eller metropol til en virkelig unik tilstedeværelse, der adskiller dig fra andre spillere.",
     "equip_effect_description_appearance_commander_transformationTarget": "Forvandlingen gælder for dine marcherende hære i kongerigerne og for dine krigsskibe på Stormøerne.",
     "equip_effect_description_noGemSocket_name": "Ingen plads til ædelsten",
     "equip_effect_description_permanentAppearance": "Permanent genstand",
@@ -17938,7 +18004,11 @@
     "equipment_unique_1240": "Grand amethyst lotus",
     "equipment_unique_1241": "Grand amethyst lotus",
     "equipment_unique_1242": "Grand amethyst lotus",
-    "equipment_unique_1243": "Grand amethyst lotus"
+    "equipment_unique_1243": "Grand amethyst lotus",
+    "equipment_unique_1263": "Fuglehus til påske",
+    "equipment_unique_1263_desc": "Slip den glade ånd fra påskefuglehuset løs for at byde velkommen til fornyelsens sæson. Forvandl dit slot til et livligt fristed, pyntet med farverige reder og farverige påskeæg, der ekkoer glæden ved forårets tilbagevenden.",
+    "equipment_unique_1264": "Påske bregne",
+    "equipment_unique_1264_desc": "Forvandl din hær til en kraft af fornyelse, marcherende under udsprungne bregner og skjulte påskeæg, omfavnende vækstens og fejringsånden."
   },
   "generic": {
     "activity": "Aktivitet",
@@ -19997,7 +20067,11 @@
     "panel_buildinglist_SlotBuildConstruction": "Byggelejlighederne bliver bygget",
     "panel_buildinglist_SlotBuildUpgradeCap": "Opgrader byggelejlighederne! Tilgængelig fra niveau {0}",
     "currency_description_HollowMoonEgg": "Hule måneæg, fyldt med glemt magi, er eftertragtet af den gådefulde Kaldende. Giv dem under Begivenheden Kaldelse af den Hule Måne for at låse op for mystiske belønninger!",
-    "currency_name_HollowMoonEgg": "Hul måneæg"
+    "currency_name_HollowMoonEgg": "Hul måneæg",
+    "currency_description_AdvisorFreeToken": "En særlig kontrakt, der giver dig mulighed for at ansætte og aktivere enhver rådgiver. Brug den til at udnytte deres ekspertise og iværksætte flere på hinanden følgende angreb.",
+    "currency_description_NomadAdvisorToken": "Et token fra Temujin Mergens kommando, der giver adgang til hans strategiske dygtighed. Brug det til at aktivere Nomadrådgiveren og slippe uophørlige, sammenhængende angreb på nomadlejre.",
+    "currency_name_AdvisorFreeToken": "Rådgiverkontrakt",
+    "currency_name_NomadAdvisorToken": "Førerens segl"
   },
   "help": {
     "help_location": "Her har I en global oversigt over det vigtige indhold i jeres borg og alle jeres forposter.",
@@ -20373,7 +20447,12 @@
     "help_generals_abilityDialog": "Her kan du vælge din generals færdigheder. \nFærdigheder bruges til markant at forbedre kampstyrken i generalens hær. I løbet af en kamp vil de valgte færdigheder blive aktiveret på bestemte tidspunkter for at give generalens hær og troppeenheder en fordel.\nVælg en færdighed i venstre side for at placere den på en af pladserne til højre. Kun tildelte færdigheder vil være aktive i kamp! Sørg for at gemme samtlige ændringer, før du lukker færdighedsmenuen!\n\nDu kan låse op for flere pladser i dit evnetræ, men nogle generaler har kun et begrænset antal færdighedspladser til rådighed.",
     "help_generals_introduction_popup": "Her finder du en kort oversigt over generalerne og deres evner.\nFå en general ved at trykke på &quot;Til generalerne&quot;.",
     "help_defense_icon_allianceDefenseUnitAmount": "Antallet af soldater og den samlede kapacitet for alliancens hjælpetropper i dit borgtårn. Alliancemedlemmer kan sende soldater for at hjælpe dig med at beskytte din borg. Tropper, der overskrider kapaciteten, fungerer som reserver og deltager ikke i kampen.",
-    "help_travelPlanning_autoCooldownSkip": "Her kan du vælge en transportmåde for at øge dine rejsehastighed. Effekten og udgifterne afhænger af dine valg. Du kan også sagtne farten for valgte enheder, så de ankommer nøjagtigt, når du har brug for dem.\n\nAktivér &quot;Spring over automatisk&quot; for at springe et måls nedkølingstid over, når din hær ankommer til målet. De nødvendige tidstilbud vil blive taget direkte fra dit lager ved ankomst. Hvis du har tid tilovers, vil den blive refunderet i form af nye tidstilbud."
+    "help_travelPlanning_autoCooldownSkip": "Her kan du vælge en transportmåde for at øge dine rejsehastighed. Effekten og udgifterne afhænger af dine valg. Du kan også sagtne farten for valgte enheder, så de ankommer nøjagtigt, når du har brug for dem.\n\nAktivér &quot;Spring over automatisk&quot; for at springe et måls nedkølingstid over, når din hær ankommer til målet. De nødvendige tidstilbud vil blive taget direkte fra dit lager ved ankomst. Hvis du har tid tilovers, vil den blive refunderet i form af nye tidstilbud.",
+    "advisor_speechBubble_nomad": "En ægte kriger tøver aldrig. Smedet i stepperne ved jeg, at kun de hurtige overlever. Med min vejledning slår dine styrker ubarmhjertigt - ingen ventetid, ingen nåde, kun sejr.",
+    "description_advisorInformation_nomad": "Temujin Mergen, Stifteren, engang en frygtet krigsherre, tilbyder nu sin uovertrufne ekspertise fra slagmarken til din sag. Under Nomadeinvasionsbegivenheden styrker han dine styrker til at iværksætte flere på hinanden følgende angreb på nomadelæger, og rammer ubarmhjertigt og efterlader ingen plads til fjenden til at komme sig. Kald på din rådgiver, planlæg masseangreb, og dominer slagmarken.\n\nAktivér Nomaderådgiveren ved hjælp af en Rådgiverkontrakt eller Stifterens Segl, og brug derefter Rådgiverangreb til at frigive en række koordinerede angreb med den valgte formation og kommandør. Automatisk udeladelse af nedetid anvendes, hvilket sikrer en problemfri udførelse. Angrebet vil dog stoppe, hvis kommandøren bliver besejret, eller hvis nogen af følgende betingelser er opfyldt:\n\n- Utilstrækkeligt guld – Angrebet kan ikke sendes på grund af mangel på guld. Andre kommandører kan også mislykkes i at iværksætte deres angreb.\n- Utilstrækkelige rubiner eller fjer – Angrebet kan ikke sendes på grund af mangel på rubiner eller fjer. Andre kommandører kan også mislykkes i at iværksætte deres angreb.\n- Utilstrækkelige enheder og/eller værktøjer – Angrebet kan ikke sendes på grund af mangel på krævede enheder eller værktøjer. Andre kommandører kan også mislykkes i at iværksætte deres angreb.\n- Utilstrækkelig tidsudladninger – Angreb kan ikke afsluttes på grund af mangel på tidsudladninger. Fremtidige nedetider kan ikke springes over, hvilket tvinger kommandørerne til at trække sig tilbage.\n\nSlå hurtigt, hold dine styrker i live, og sørg for, at Stifterens strategi fører dig til sejr.",
+    "info_attackAdvisor": "Brug rådgiverangreb til at starte efterfølgende angreb med den valgte formation og kommandør. Automatisk springning for cooldowns anvendes automatisk. Hvis et angreb fejler, eller hvis kommandøren bliver besejret, trækker de sig tilbage og annullerer de resterende angreb. Hvis de nødvendige ressourcer løber tør, vil det næste angreb ikke starte.",
+    "info_battleMessage": "Send en kamp rapport for hver angreb",
+    "intro_advisor_nomad": "Temujin Mergen, Stifinder, bringer sin ekspertise til din sag. Under nomadeinvasionen, udfør efterfølgende angreb på nomadelejre uden pause."
   },
   "playertitles": {
     "playerTitle_50_jap": "Stormherre",
@@ -24588,7 +24667,8 @@
     "ChristmasWarrior_desc": "Udrageret med pebermynte-stribede lanser, disse frygtindgydende krigere charger frem med en ustoppelig ferieånd, og skaber frygt hos alle, der står i deres vej.",
     "ChristmasWarrior_short_info": "Ekstremt kraftfuld nærkampsangriber",
     "nomadcoinbooststone_name": "Nomadesparegris",
-    "nomadcoinbooststone_short_info": "Øger antallet af mønter, der er plyndret i nomadiske lejre"
+    "nomadcoinbooststone_short_info": "Øger antallet af mønter, der er plyndret i nomadiske lejre",
+    "advisor_AttackFailed_reason3": "Din rådgivers angreb kan ikke fortsætte. Ikke nok rubiner eller hurtigrejse-fjer til at starte angrebet. Andre kommandører kan også fejle i at starte deres angreb, hvis ressourcerne ikke genopfyldes."
   },
   "generic_flash": {
     "Footer": {

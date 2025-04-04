@@ -833,7 +833,14 @@
     "error_twisted_firestarter_while_protected": "Non puoi sabotare altri giocatori mentre è attivata la modalità protezione.",
     "dialog_shoppingCartPrimeDay_DontShowNotification": "Non mostrare di nuovo questo dialogo per questa offerta",
     "dialog_shoppingCartPrimeDay_GoToShopButton": "Vai al negozio",
-    "dialog_shoppingCartPrimeDay_SeeOfferButton": "Visualizza offerta"
+    "dialog_shoppingCartPrimeDay_SeeOfferButton": "Visualizza offerta",
+    "advisor_AttackFailed_reason4": "Lattacco del tuo consulente non può continuare. Non ci sono abbastanza unità e/o strumenti per lanciare lattacco. Altri comandanti potrebbero anche fallire nel lanciare i loro attacchi se non vengono reclutate nuove unità.",
+    "advisor_AttackFailed_reason5": "Il tuo attacco non può essere completato a causa della mancanza di Salti Temporali. Se non sono disponibili Salti Temporali, i futuri comandanti potrebbero non essere in grado di lanciare attacchi consecutivi e saranno costretti a ritirarsi.",
+    "advisor_AttackFailed_reason2": "Lattacco del tuo consigliere non può continuare. Non ci sono abbastanza Rubini o Piume di Viaggio Veloce per lanciare lattacco. Altri comandanti potrebbero anche non riuscire a lanciare i loro attacchi se le risorse non vengono reintegrate.",
+    "advisor_AttackFailed_reason1": "Il tuo attacco di consulente non può continuare. Non ci sono abbastanza oro per lanciare lattacco. Altri comandanti potrebbero anche fallire nel lanciare i loro attacchi se le risorse non vengono reintegrate.",
+    "advisor_AttackFailed_reason0": "Il tuo attacco del consulente non può procedere. Controlla la panoramica del consulente per dettagli su risorse mancanti o altri problemi che impediscono lattacco.",
+    "info_attack_threshold": "Hai raggiunto il limite giornaliero di 1000 attacchi. Ogni nuovo attacco avrà ora un costo aumentato, che crescerà esponenzialmente.",
+    "title_attack_threshold": "Aumento dei costi di attacco"
   },
   "buildings_and_decorations": {
     "bakery_name": "Fornaio",
@@ -2000,7 +2007,25 @@
     "ci_appearance_CarnivalBarrelWorkshop_flavour": "Gli artigiani rimboccano le maniche nel vivace laboratorio, creando barili vivaci decorati con motivi colorati, pronti a conservare la dolcezza e gli spiriti del carnevale.",
     "ci_appearance_CarnivalHoneyGardens": "Giardino di miele del Carnevale",
     "ci_appearance_CarnivalHoneyGardens_flavour": "I favi doro brillano al sole mentre le api ronzanti danzano tra i fiori in fiore, mentre i custodi preparano dolci prelibatezze per deliziare i visitatori del carnevale.",
-    "deco_ExaltedCarnivalGondola_name": "Gondola del carnevale esaltato"
+    "deco_ExaltedCarnivalGondola_name": "Gondola del carnevale esaltato",
+    "ci_appearance_BrokenEggDwellings": "Dimora delluovo rotto",
+    "ci_appearance_BrokenEggDwellings_flavor": "Il profumo dei fiori freschi si diffonde attraverso le finestre aperte mentre la luce del sole danza sulle uova dipinte. Le guardie scambiano battute bonarie, intrecciano ghirlande e si preparano per la gioiosa rinnovazione della stagione.",
+    "ci_appearance_BrokenEggGreenhouse": "Serra per uova rotte",
+    "ci_appearance_BrokenEggGreenhouse_flavor": "Allinterno, i soldati si muovono tra il profumo di terra fresca e fiori in bocciolo, curando con attenzione la nuova vita mentre preparano ceste stracolme di fiori vivaci e uova dipinte.",
+    "ci_appearance_BrokenEggStorehouse": "Magazzino delle uova rotte",
+    "ci_appearance_BrokenEggStorehouse_flavor": "Il magazzino è colmo di raccolti freschi, dolci prelibatezze e uova colorate, assicurando che nessuna celebrazione passi senza il suo bottino festivo.",
+    "deco_ExaltedGreenEasterHotspring_name": "Sorgente calda verde esaltata di Pasqua",
+    "deco_ExaltedGreenEasterRuins_name": "Rovine pasquali verdi esaltate",
+    "deco_ExaltedGreenEggTree_name": "Guardiano Verde Esaltato della Natura",
+    "deco_ExaltedGreenMarchHaresHideout_name": "Tana dellesaltato leprotto verde",
+    "deco_ExaltedPurpleEasterHotspring_name": "Sorgente purpurea esaltata di Pasqua",
+    "deco_ExaltedPurpleEasterRuins_name": "Rovine viola esaltate di Pasqua",
+    "deco_ExaltedPurpleEggTree_name": "Guardiano porpora esaltato della nutrizione",
+    "deco_ExaltedPurpleMarchHaresHideout_name": "Tana dellesaltato leprotto viola",
+    "deco_ExaltedRedEasterHotspring_name": "Sorgente rossa esaltata di Pasqua",
+    "deco_ExaltedRedEasterRuins_name": "Rovine rosse esaltate di Pasqua",
+    "deco_ExaltedRedEggTree_name": "Guardiano rosso esaltato della cura",
+    "deco_ExaltedRedMarchHaresHideout_name": "Nascondiglio dellesaltato leprotto rosso"
   },
   "dialogs": {
     "dialog_festival_desc": "Usa il cibo per organizzare un banchetto per i tuoi cittadini! La velocità di reclutamento aumenterà notevolmente in tutti i castelli per la durata del banchetto. Più grande è il banchetto, maggiore sarà leffetto.",
@@ -12621,7 +12646,48 @@
     "webshop_hasanbase_huge_name": "Grande medaglione dellingegnere dassedio",
     "webshop_hasanbase_large_name": "Grande medaglione dellingegnere dassedio",
     "webshop_hasanbase_medium_name": "Medaglione medio dellingegnere dassedio",
-    "webshop_hasanbase_small_name": "Piccolo medaglione dellingegnere dassedio"
+    "webshop_hasanbase_small_name": "Piccolo medaglione dellingegnere dassedio",
+    "advisor_AttackCancelAll": "Sei sicuro di voler annullare tutti gli attacchi degli advisor? Tutti gli attacchi in corso saranno richiamati e le risorse spese andranno perse.",
+    "advisor_AttackCancel": "Sei sicuro di voler annullare lattacco dellAdvisor? Qualsiasi risorsa spesa andrà persa.",
+    "advisor_AttackNumber": "Attacco delladvisor: (0)/(1)",
+    "advisor_AttackSummary_defeat": "(0) Attacchi - sconfitta",
+    "advisor_AttackSummary_pending": "(0) Attacchi - in attesa",
+    "advisor_AttackSummary_stopped": "(0) Attacchi - fermati",
+    "advisor_AttackSummary_victory": "(0) Attacchi - vittoria",
+    "attack_advisor": "Attacco del consulente",
+    "advisor_attackInfo": "Ogni attacco è pagato allinizio, con lo stesso costo applicato a ogni attacco.",
+    "attackProgress": "Attacchi in corso:",
+    "attack_standard": "Attacco standard",
+    "attack_amount": "Numero di attacchi:",
+    "attack_setUp": "Imposta i tuoi attacchi!",
+    "button_SelectCamp": "Seleziona il campo nomade",
+    "button_activateAdvisor": "Attiva consulente",
+    "button_attackAdvisor": "Attacco del consulente",
+    "button_buyToken": "Acquista token",
+    "button_cancelAdvisor": "Annulla attacco",
+    "button_cancelAdvisorAll": "Annulla tutti gli attacchi",
+    "button_freeToken": "Ottieni un token gratuito",
+    "commander": "Comandanti:",
+    "generic_currentCost": "Costi attuali:",
+    "generic_currentLosses": "Perdite in battaglia attuali:",
+    "generic_timer": "Tempo rimanente per levento:",
+    "generic_totalCost": "Costi totali:",
+    "generic_totalLosses": "Perdite totali in battaglia:",
+    "lootCurrent": "Bottino attuale:",
+    "lootTotal": "Loot totale:",
+    "title_advisorInformation": "Funzionalità delladvisor",
+    "title_advisor_AttackCancel": "Annulla attacco?",
+    "title_advisor_AttackCancelAll": "Annulla tutti gli attacchi degli advisor?",
+    "title_advisor_AttackFailed": "Lattacco delladvisor è fallito!",
+    "title_advisor_AttackOverview": "Panoramica dellattacco delladvisor",
+    "title_advisor_AttackSummary": "Rapporto dattacco del consulente",
+    "title_advisor_activate": "Attiva consulente",
+    "title_advisor_buyToken": "Acquista il Token del Consulente",
+    "title_advisor_freeToken": "Ottieni il token dellAdvisor",
+    "title_advisor_nomad": "Consigliere nomade",
+    "currency_description_OfferingHasan": "Scambio con il re Ludovico nellosteria dei generali per ottenere ricompense molto preziose. I sorteggi delle ricompense includono sempre frammenti per Hasan. Lo scambio dellofferta di Hasan può essere fatto solo per un tempo limitato!",
+    "currency_name_OfferingHasan": "Offerta di Hasan a Ludovico",
+    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "Queste sono le possibilità di estrazione per le categorie di ricompensa di questo patron con lofferta selezionata. Ogni categoria contiene tipi di ricompensa specifici, che verranno scelti casualmente. Per ogni offerta a pagamento, vengono effettuate quattro estrazioni, ciascuna estrazione ha le possibilità elencate di seguito.\n\nPossibilità di estrazione        Categorie di ricompensa\n\n09.00%                  - Frammenti di Hasan\n\n00.50%                  - Offerta di Hasan a Ludwig\n\n03.00%                  - Offerta alla Principessa Beatrice\n\n05.00%                  - Offerta a Sir Ulrich\n\n08.00%                  - Offerta al Re Ludwig\n\n02.00%                  - Token di reset delle abilità\n\n03.40%                  - Equipaggiamento"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% di forza di combattimento dellunità in attacco",
@@ -17308,7 +17374,7 @@
     "equipment_unique_1061_desc": "Trasforma il tuo castello in una fortezza spumeggiante.",
     "equipment_unique_1062_desc": "Trasforma il tuo castello in una fortezza spumeggiante.",
     "equip_effect_description_emptyGemSocket_name": "Slot gemma vuoto",
-    "equip_effect_description_appearance_baron_transformationTarget": "La trasformazione si applica a castelli principali, avamposti, capitali e metropoli.",
+    "equip_effect_description_appearance_baron_transformationTarget": "Mostra la tua dominanza nel LTPE con questo oggetto raro, trasformando i tuoi castelli principali, avamposti, capitale o metropoli in una presenza davvero unica che ti distingue dagli altri giocatori.",
     "equip_effect_description_appearance_commander_transformationTarget": "La trasformazione si applica alle milizie in marcia nei regni e alle navi da guerra sulle Isole della Tempesta.",
     "equip_effect_description_noGemSocket_name": "Nessuno slot gemma",
     "equip_effect_description_permanentAppearance": "Oggetto permanente",
@@ -17938,7 +18004,11 @@
     "equipment_unique_1240": "Grande loto ametista",
     "equipment_unique_1241": "Grande loto ametista",
     "equipment_unique_1242": "Grande loto ametista",
-    "equipment_unique_1243": "Grande loto ametista"
+    "equipment_unique_1243": "Grande loto ametista",
+    "equipment_unique_1263": "Casetta per uccelli di Pasqua",
+    "equipment_unique_1263_desc": "Libera lo spirito allegro della Casetta di Pasqua per dare il benvenuto alla stagione del rinnovamento. Trasforma il tuo castello in un rifugio vivace, adornato con nidi vibranti e colorate uova di Pasqua, che echeggiano la gioia del ritorno della primavera.",
+    "equipment_unique_1264": "Felce di Pasqua",
+    "equipment_unique_1264_desc": "Trasforma il tuo esercito in una forza di rinnovamento, marciando sotto felci che si dispiegano e uova di Pasqua nascoste, abbracciando lo spirito di crescita e celebrazione."
   },
   "generic": {
     "activity": "Attività",
@@ -19997,7 +20067,11 @@
     "panel_buildinglist_SlotBuildConstruction": "Gli appartamenti del costruttore sono in fase di costruzione",
     "panel_buildinglist_SlotBuildUpgradeCap": "Aggiorna gli appartamenti del costruttore! Disponibile dal livello {0}",
     "currency_description_HollowMoonEgg": "Uova cave di luna, impregnate di magia dimenticata, sono ricercate dallenigmatico Invocatore. Offrile durante lEvento di Evocazione della Luna Cava per sbloccare premi mistici!",
-    "currency_name_HollowMoonEgg": "Uovo cavo della luna"
+    "currency_name_HollowMoonEgg": "Uovo cavo della luna",
+    "currency_description_AdvisorFreeToken": "Un contratto speciale che ti consente di assumere e attivare qualsiasi consulente. Usalo per sfruttare la loro esperienza e lanciare attacchi consecutivi multipli.",
+    "currency_description_NomadAdvisorToken": "Un token del comando di Temujin Mergen, che concede accesso alla sua maestria strategica. Usalo per attivare il Consigliere Nomade e scatenare attacchi consecutivi incessanti sui Campi Nomadi.",
+    "currency_name_AdvisorFreeToken": "Contratto di consulente",
+    "currency_name_NomadAdvisorToken": "Sigillo del Guida"
   },
   "help": {
     "help_location": "Qui hai una panoramica globale dei contenuti importanti del castello e di tutti gli avamposti.",
@@ -20373,7 +20447,12 @@
     "help_generals_abilityDialog": "Qui puoi selezionare i talenti per il tuo generale.\nI talenti migliorano notevolmente la potenza di combattimento di un generale e della sua milizia. Durante una determinata fase della battaglia, i talenti si attivano e conferiscono potenti effetti alla milizia e alle truppe del generale.\nSeleziona un talento a sinistra per assegnarlo a uno degli slot talento sulla destra. Solo i talenti assegnati agli slot saranno attivi in battaglia! Assicurati di salvare le modifiche prima di chiudere il menu dei talenti!\n\nPuoi sbloccare altri slot talento nel tuo albero delle abilità, ma alcuni generali hanno una quantità limitata di slot talento disponibili.",
     "help_generals_introduction_popup": "Qui puoi trovare una breve panoramica sui generali e sulle loro abilità.\nPer ottenere un generale, tocca &quot;Ai generali&quot;.",
     "help_defense_icon_allianceDefenseUnitAmount": "Il numero di soldati e la capacità totale di truppe della coalizione a supporto della tua fortezza. I membri della coalizione possono inviare soldati a sostegno della tua difesa. Tutte le truppe che superano il limite di capacità del supporto vengono messe in riserva e non partecipano alla battaglia.",
-    "help_travelPlanning_autoCooldownSkip": "Qui puoi scegliere un mezzo di trasporto per aumentare la velocità di viaggio. Leffetto e i costi dipendono da quello che scegli. Puoi anche rallentare le unità selezionate in modo che arrivino esattamente quando ne hai bisogno.\n\nAttiva il salto automatico per saltare istantaneamente unattesa attiva quando la milizia raggiunge il bersaglio. I salti temporali necessari vengono prelevati direttamente dalle tue scorte al momento dellarrivo. Qualsiasi valore in eccesso viene restituito sotto forma di salti temporali."
+    "help_travelPlanning_autoCooldownSkip": "Qui puoi scegliere un mezzo di trasporto per aumentare la velocità di viaggio. Leffetto e i costi dipendono da quello che scegli. Puoi anche rallentare le unità selezionate in modo che arrivino esattamente quando ne hai bisogno.\n\nAttiva il salto automatico per saltare istantaneamente unattesa attiva quando la milizia raggiunge il bersaglio. I salti temporali necessari vengono prelevati direttamente dalle tue scorte al momento dellarrivo. Qualsiasi valore in eccesso viene restituito sotto forma di salti temporali.",
+    "advisor_speechBubble_nomad": "Un vero guerriero non esita mai. Forgiato nelle steppe, so che solo i veloci sopravvivono. Con la mia guida, le tue forze colpiscono incessantemente—nessuna attesa, nessuna pietà, solo vittoria.",
+    "description_advisorInformation_nomad": "Temujin Mergen, il Guida, un tempo temuto signore della guerra, ora offre la sua ineguagliabile esperienza sul campo di battaglia alla tua causa. Durante lEvento di Invasione dei Nomadi, potenzia le tue forze per lanciare più attacchi consecutivi ai Campi Nomadi, colpendo senza pietà e lasciando al nemico nessuno spazio per recuperare. Chiama il tuo consigliere, pianifica attacchi di massa e domina il campo di battaglia.\n\nAttiva il Consigliere Nomade utilizzando un Contratto di Consigliere o il Sigillo del Guida, quindi usa lAttacco del Consigliere per scatenare una serie di colpi coordinati con la formazione e il comandante selezionati. Viene applicato il salto automatico per i cooldown, garantendo unesecuzione senza problemi. Tuttavia, lassalto si fermerà se il comandante sarà sconfitto o se verrà soddisfatta una delle seguenti condizioni:\n\n- Oro Insufficiente – Non può essere inviato alcun attacco a causa della mancanza di oro. Altri comandanti potrebbero anche fallire nel lanciare i loro attacchi.\n- Rubini o Piume Insufficienti – Non può essere inviato alcun attacco a causa della mancanza di rubini o piume. Altri comandanti potrebbero anche fallire nel lanciare i loro attacchi.\n- Unità e/o Strumenti Insufficienti – Non può essere inviato alcun attacco a causa della mancanza di unità o strumenti necessari. Altri comandanti potrebbero anche fallire nel lanciare i loro attacchi.\n- Salti di Tempo Insufficienti – Non è possibile completare gli attacchi a causa della mancanza di salti di tempo. I futuri cooldown non possono essere saltati, costringendo i comandanti a ritirarsi.\n\nColpisci rapidamente, mantieni le tue forze e assicurati che la strategia del Guida ti porti alla vittoria.",
+    "info_attackAdvisor": "Usa lattacco dellAdvisor per lanciare attacchi consecutivi con la formazione e il comandante scelti. Si applica automaticamente il salto automatico per i tempi di recupero. Se un attacco fallisce o il comandante viene sconfitto, si ritirano, annullando gli attacchi rimanenti. Se le risorse richieste terminano, il prossimo attacco non inizierà.",
+    "info_battleMessage": "Invia un rapporto di battaglia per ogni attacco",
+    "intro_advisor_nomad": "Temujin Mergen, il Pioniere, porta la sua esperienza alla tua causa. Durante lInvasione Nomade, lancia attacchi consecutivi ai Campi Nomadi senza pause."
   },
   "playertitles": {
     "playerTitle_50_jap": "Signore della Tempesta",
@@ -24588,7 +24667,8 @@
     "ChristmasWarrior_desc": "Armati di lance a strisce di menta, questi fieri guerrieri caricano in avanti con uno spirito festivo inarrestabile, incutendo paura a tutti coloro che si frappongono sul loro cammino.",
     "ChristmasWarrior_short_info": "Attaccante corpo a corpo estremamente potente",
     "nomadcoinbooststone_name": "Salvadanaio dei nomadi",
-    "nomadcoinbooststone_short_info": "Aumenta il numero di monete rubate nei campi nomadi"
+    "nomadcoinbooststone_short_info": "Aumenta il numero di monete rubate nei campi nomadi",
+    "advisor_AttackFailed_reason3": "Lattacco del tuo consigliere non può continuare. Non ci sono abbastanza Rubini o Piume di Viaggio Veloce per lanciare lattacco. Altri comandanti potrebbero anche non riuscire a lanciare i loro attacchi se le risorse non vengono reintegrate."
   },
   "generic_flash": {
     "Footer": {

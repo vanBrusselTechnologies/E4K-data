@@ -833,7 +833,14 @@
     "error_twisted_firestarter_while_protected": "Nie możesz sabotować innych graczy, gdy tryb ochrony jest włączony.",
     "dialog_shoppingCartPrimeDay_DontShowNotification": "Nie pokazuj tego dialogu ponownie dla tej oferty",
     "dialog_shoppingCartPrimeDay_GoToShopButton": "Idź do sklepu",
-    "dialog_shoppingCartPrimeDay_SeeOfferButton": "Zobacz ofertę"
+    "dialog_shoppingCartPrimeDay_SeeOfferButton": "Zobacz ofertę",
+    "advisor_AttackFailed_reason4": "Atak twojego doradcy nie może trwać. Brakuje jednostek i/lub narzędzi do rozpoczęcia ataku. Inni dowódcy mogą również nie być w stanie przeprowadzić swoich ataków, jeśli nie zostaną zrekrutowane nowe jednostki.",
+    "advisor_AttackFailed_reason5": "Twoja atak nie mogła zostać zakończona z powodu braku skoków czasowych. Jeśli nie ma dostępnych skoków czasowych, przyszli dowódcy mogą nie być w stanie przeprowadzać kolejnych ataków i będą zmuszeni się wycofać.",
+    "advisor_AttackFailed_reason2": "Atak Twojego doradcy nie może kontynuować. Brakuje wystarczającej ilości rubinów lub piór szybkiej podróży, aby rozpocząć atak. Inni dowódcy mogą również nie zainicjować swoich ataków, jeśli zasoby nie zostaną uzupełnione.",
+    "advisor_AttackFailed_reason1": "Twój atak doradcy nie może się kontynuować. Nie ma wystarczająco dużo złota, aby rozpocząć atak. Inni dowódcy mogą również nie zdołać rozpocząć swoich ataków, jeśli zasoby nie zostaną uzupełnione.",
+    "advisor_AttackFailed_reason0": "Twój atak doradcy nie mógł się odbyć. Sprawdź przegląd doradcy, aby uzyskać szczegóły dotyczące brakujących zasobów lub innych problemów uniemożliwiających atak.",
+    "info_attack_threshold": "Osiągnąłeś dzienny limit 1000 atak. Każda nowa atak teraz będzie miała wyższy koszt, rosnący w sposób wykładniczy.",
+    "title_attack_threshold": "Zwiększone koszty ataku"
   },
   "buildings_and_decorations": {
     "bakery_name": "Piekarnia",
@@ -2000,7 +2007,25 @@
     "ci_appearance_CarnivalBarrelWorkshop_flavour": "Rzemieślnicy podwijają rękawy w tętniącej życiem warsztacie, tworząc żywe beczki ozdobione kolorowymi wzorami, gotowe do przechowywania słodyczy i duchów karnawału.",
     "ci_appearance_CarnivalHoneyGardens": "Miodowy ogród karnawałowy",
     "ci_appearance_CarnivalHoneyGardens_flavour": "Złote plastry miodu błyszczą w słońcu, gdy brzęczące pszczoły tańczą między kwitnącymi kwiatami, podczas gdy opiekunowie przygotowują słodkie przysmaki, aby zachwycić uczestników karnawału.",
-    "deco_ExaltedCarnivalGondola_name": "Wzniosła gondola karnawałowa"
+    "deco_ExaltedCarnivalGondola_name": "Wzniosła gondola karnawałowa",
+    "ci_appearance_BrokenEggDwellings": "Mieszkanie z zepsutego jajka",
+    "ci_appearance_BrokenEggDwellings_flavor": "Zapach świeżych kwiatów unosi się przez otwarte okna, podczas gdy promienie słoneczne tańczą nad malowanymi jajkami. Strażnicy wymieniają się dobrotliwymi żartami, plecionymi wiankami i przygotowują się na radosne odnowienie sezonu.",
+    "ci_appearance_BrokenEggGreenhouse": "Szklarnia na złamane jaja",
+    "ci_appearance_BrokenEggGreenhouse_flavor": "Wewnątrz żołnierze poruszają się wśród zapachu świeżej gleby i pączkujących kwiatów, starannie pielęgnując nowe życie, podczas gdy przygotowują kosze pełne żywych kwiatów i malowanych jaj.",
+    "ci_appearance_BrokenEggStorehouse": "Magazyn połamanych jaj",
+    "ci_appearance_BrokenEggStorehouse_flavor": "Magazyn wypełniony jest świeżymi zbiorami, słodkimi smakołykami i kolorowymi jajkami, zapewniając, że żadna uroczystość nie odbędzie się bez swojego festywnego skarbu.",
+    "deco_ExaltedGreenEasterHotspring_name": "Wzniesione zielone wiosenne gorące źródło",
+    "deco_ExaltedGreenEasterRuins_name": "Wzniosłe zielone ruiny wielkanocne",
+    "deco_ExaltedGreenEggTree_name": "Wzniosły Zielony Stróż Pielęgnacji",
+    "deco_ExaltedGreenMarchHaresHideout_name": "Kryjówka wzniosłego zielonego marcowego zająca",
+    "deco_ExaltedPurpleEasterHotspring_name": "Wzniosłe fioletowe źródło wielkanocne",
+    "deco_ExaltedPurpleEasterRuins_name": "Wzniosłe purpurowe wielkanocne ruiny",
+    "deco_ExaltedPurpleEggTree_name": "Wzniosły fioletowy strażnik odżywiania",
+    "deco_ExaltedPurpleMarchHaresHideout_name": "Kryjówka wzniosłego fioletowego zająca",
+    "deco_ExaltedRedEasterHotspring_name": "Wzniosłe czerwone źródło wielkanocne",
+    "deco_ExaltedRedEasterRuins_name": "Wzniośle czerwone wielkanocne ruiny",
+    "deco_ExaltedRedEggTree_name": "Wzniosły czerwony strażnik opieki",
+    "deco_ExaltedRedMarchHaresHideout_name": "Kryjówka wywyższonego czerwonego zająca"
   },
   "dialogs": {
     "dialog_festival_desc": "Użyj jedzenia, aby zorganizować święto dla Twoich obywateli! Szybkość rekrutacji znacznie będzie rosła we wszystkich twoich zamkach przez czas obchodów święta. Im większe święto, tym większe efekty.",
@@ -12621,7 +12646,48 @@
     "webshop_hasanbase_huge_name": "Ogromny medalion inżyniera oblężenia",
     "webshop_hasanbase_large_name": "Duży medalik inżyniera oblężniczego",
     "webshop_hasanbase_medium_name": "Średni medalion inżyniera oblężniczego",
-    "webshop_hasanbase_small_name": "Mały medalik inżyniera oblężniczego"
+    "webshop_hasanbase_small_name": "Mały medalik inżyniera oblężniczego",
+    "advisor_AttackCancelAll": "Czy na pewno chcesz anulować wszystkie ataki doradcze? Wszystkie trwające ataki zostaną odwołane, a wszelkie wydane zasoby zostaną utracone.",
+    "advisor_AttackCancel": "Czy na pewno chcesz anulować atak doradcy? Jakiekolwiek wydane zasoby zostaną utracone.",
+    "advisor_AttackNumber": "Atak doradcy: (0)/(1)",
+    "advisor_AttackSummary_defeat": "(0) Ataki - porażka",
+    "advisor_AttackSummary_pending": "(0) Ataki - oczekujące",
+    "advisor_AttackSummary_stopped": "(0) Ataki - zatrzymane",
+    "advisor_AttackSummary_victory": "(0) Ataki - zwycięstwo",
+    "attack_advisor": "Atak doradcy",
+    "advisor_attackInfo": "Każdy atak jest opłacany w momencie rozpoczęcia, a ta sama cena obowiązuje dla każdego ataku.",
+    "attackProgress": "Ataki w toku:",
+    "attack_standard": "Standardowy atak",
+    "attack_amount": "Liczba ataków:",
+    "attack_setUp": "Skonfiguruj swoje ataki!",
+    "button_SelectCamp": "Wybierz oboz nomadów",
+    "button_activateAdvisor": "Aktywuj doradcę",
+    "button_attackAdvisor": "Atak doradcy",
+    "button_buyToken": "Kup token",
+    "button_cancelAdvisor": "Anuluj atak",
+    "button_cancelAdvisorAll": "Anuluj wszystkie ataki",
+    "button_freeToken": "Zdobądź darmowy token",
+    "commander": "Dowódcy:",
+    "generic_currentCost": "Aktualne koszty:",
+    "generic_currentLosses": "Aktualne straty w bitwie:",
+    "generic_timer": "Czas pozostały do wydarzenia:",
+    "generic_totalCost": "Całkowite koszty:",
+    "generic_totalLosses": "Całkowite straty w bitwie:",
+    "lootCurrent": "Obecna zdobycz:",
+    "lootTotal": "Całkowity łup:",
+    "title_advisorInformation": "Funkcjonalność doradcy",
+    "title_advisor_AttackCancel": "Anulować atak?",
+    "title_advisor_AttackCancelAll": "Czy anulować wszystkie ataki doradcze?",
+    "title_advisor_AttackFailed": "Atak doradcy nie powiódł się!",
+    "title_advisor_AttackOverview": "Przegląd ataku doradcy",
+    "title_advisor_AttackSummary": "Raport o ataku doradcy",
+    "title_advisor_activate": "Aktywuj doradcę",
+    "title_advisor_buyToken": "Kup token doradcy",
+    "title_advisor_freeToken": "Zdobyć token doradcy",
+    "title_advisor_nomad": "Doradca nomadów",
+    "currency_description_OfferingHasan": "Wymiana z królem Ludwigiem w Gospodzie Generałów na bardzo cenne nagrody. Losowania nagród zawsze zawierają fragmenty dla Hasana. Wymiana oferty Hasana może być dokonana tylko przez ograniczony czas!",
+    "currency_name_OfferingHasan": "Ofiara Hasana dla Ludwika",
+    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "To są szanse losowania dla kategorii nagród tego patrona z wybraną ofertą. Każda kategoria zawiera konkretne typy nagród, które zostaną losowo wybrane. Dla każdej płatnej oferty wykonuje się cztery losowania, każde losowanie ma szanse wymienione poniżej.\n\nSzansa losowania        Kategorie nagród\n\n09.00%                  - Strzępy Hasana\n\n00.50%                  - Oferta Hasana dla Ludwiga\n\n03.00%                  - Oferta dla Księżniczki Beatrice\n\n05.00%                  - Oferta dla Sir Ulricha\n\n08.00%                  - Oferta dla Króla Ludwiga\n\n02.00%                  - Tokeny resetowania umiejętności\n\n03.40%                  - Wyposażenie"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% siły bojowej jednostki podczas ataku",
@@ -17308,7 +17374,7 @@
     "equipment_unique_1061_desc": "Zmienia twój zamek w spienioną fortecę.",
     "equipment_unique_1062_desc": "Zmienia twój zamek w spienioną fortecę.",
     "equip_effect_description_emptyGemSocket_name": "Puste pole klejnotu",
-    "equip_effect_description_appearance_baron_transformationTarget": "Transformacja ma zastosowanie do zamku głównego, posterunku, stolicy oraz metropolii.",
+    "equip_effect_description_appearance_baron_transformationTarget": "Pokaż swoją dominację w LTPE za pomocą tego rzadkiego przedmiotu, przekształcając swoje główne zamki, placówki, stolicę lub metropolię w naprawdę unikalną obecność, która wyróżnia cię spośród innych graczy.",
     "equip_effect_description_appearance_commander_transformationTarget": "Transformacja ma zastosowanie do maszerujących armii w królestwach i okrętów wojennych na Archipelagu Sztormu.",
     "equip_effect_description_noGemSocket_name": "Brak pola na klejnot",
     "equip_effect_description_permanentAppearance": "Przedmiot permanentny",
@@ -17938,7 +18004,11 @@
     "equipment_unique_1240": "Wielki ametystowy lotos",
     "equipment_unique_1241": "Wielki ametystowy lotos",
     "equipment_unique_1242": "Wielki ametystowy lotos",
-    "equipment_unique_1243": "Wielki ametystowy lotos"
+    "equipment_unique_1243": "Wielki ametystowy lotos",
+    "equipment_unique_1263": "Wielkanocna budka dla ptaków",
+    "equipment_unique_1263_desc": "Uwolnij radosnego ducha Wielkanocnego Domku dla Ptaków, aby powitać sezon odnowy. Przekształć swój zamek w tętniące życiem schronienie, ozdobione kolorowymi gniazdami i kolorowymi jajkami wielkanocnymi, odzwierciedlając radość z powrotu wiosny.",
+    "equipment_unique_1264": "Wielkanocny paproć",
+    "equipment_unique_1264_desc": "Przekształć swoją armię w siłę odnowy, maszerując pod rozpościerającymi się paprociami i ukrytymi wielkanocnymi jajkami, przyjmując ducha wzrostu i celebracji."
   },
   "generic": {
     "activity": "Działania",
@@ -19997,7 +20067,11 @@
     "panel_buildinglist_SlotBuildConstruction": "Kwatera budowniczych jest w budowie",
     "panel_buildinglist_SlotBuildUpgradeCap": "Ulepsz Kwaterę budowniczych! Dostępne od poziomu {0}",
     "currency_description_HollowMoonEgg": "Puste jajka księżycowe, przesiąknięte zapomnianą magią, są poszukiwane przez tajemniczego Przywoływacza. Ofiaruj je podczas Wydarzenia Przywołania Pustej Księżyca, aby odblokować mistyczne nagrody!",
-    "currency_name_HollowMoonEgg": "Puste jajko księżycowe"
+    "currency_name_HollowMoonEgg": "Puste jajko księżycowe",
+    "currency_description_AdvisorFreeToken": "Specjalna umowa, która pozwala na zatrudnienie i aktywację dowolnego doradcy. Użyj jej, aby wykorzystać ich wiedzę i przeprowadzić wiele kolejnych ataków.",
+    "currency_description_NomadAdvisorToken": "Token dowództwa Temujina Mergena, dający dostęp do jego strategicznej biegłości. Użyj go, aby aktywować doradcę nomadów i uwolnić nieustanne, kolejno następujące ataki na obozy nomadów.",
+    "currency_name_AdvisorFreeToken": "Umowa doradcza",
+    "currency_name_NomadAdvisorToken": "Pieczęć Przewodnika"
   },
   "help": {
     "help_location": "W tym miejscu masz globalny przegląd ważnych elementów zamku oraz wszystkich posterunków.",
@@ -20373,7 +20447,12 @@
     "help_generals_abilityDialog": "W tym miejscu możesz wybrać zdolności twojego generała. \nZdolności znacząco zwiększają siłę bojową generała i przynależnej mu armii. Zdolności aktywowane są w określonej fazie bitwy, zapewniając potężne efekty generałowi i jego wojskom.\nWybierz zdolność po lewej stronie, aby przypisać ją do pola zdolności po prawej. Jedynie zdolności przypisane do pól będą aktywne w bitwie! Pamiętaj też o zapisaniu wszelkich zmian przed zamknięciem menu zdolności!\n\nDodatkowe pola zdolności mogą zostać odblokowane na drzewie umiejętności, aczkolwiek warto pamiętać, że niektórzy generałowie dysponują ograniczoną liczbą dostępnych pól zdolności.",
     "help_generals_introduction_popup": "Tu znajdziesz przegląd generałów i ich umiejętności.\nAby zdobyć generała, kliknij przycisk „Do generałów”.",
     "help_defense_icon_allianceDefenseUnitAmount": "Liczba żołnierzy i całkowity limit wojsk dla wsparcia sojuszu w twojej warowni zamkowej. Członkowie sojuszu mogą wysyłać żołnierzy do wsparcia twojej obrony. Wszystkie oddziały przekraczające limit wsparcia trafiają do rezerwy i nie biorą udziału w bitwie.",
-    "help_travelPlanning_autoCooldownSkip": "Tutaj możesz wybrać sposób transportu, aby zwiększyć prędkość przemieszczania. Efekt i koszty zależą od tego, co wybierzesz. Możesz także spowalniać wybrane jednostki, aby docierały dokładnie wtedy, gdy ich potrzebujesz.\n\nAktywuj automatyczne pominięcie, aby natychmiastowo pominąć aktywny czas ochłonięcia, gdy armia dotrze do celu. Po dotarciu do celu pominięcie czasu jest odbierane bezpośrednio z zasobów. Wszelkie nadmiarowe wartości pominięcia czasu są zwracane w formie pominięć czasu."
+    "help_travelPlanning_autoCooldownSkip": "Tutaj możesz wybrać sposób transportu, aby zwiększyć prędkość przemieszczania. Efekt i koszty zależą od tego, co wybierzesz. Możesz także spowalniać wybrane jednostki, aby docierały dokładnie wtedy, gdy ich potrzebujesz.\n\nAktywuj automatyczne pominięcie, aby natychmiastowo pominąć aktywny czas ochłonięcia, gdy armia dotrze do celu. Po dotarciu do celu pominięcie czasu jest odbierane bezpośrednio z zasobów. Wszelkie nadmiarowe wartości pominięcia czasu są zwracane w formie pominięć czasu.",
+    "advisor_speechBubble_nomad": "Prawdziwy wojownik nigdy nie waha się. Wykuwany na stepach, wiem, że tylko szybcy przetrwają. Pod moim kierownictwem twoje siły uderzają nieustannie - bez czekania, bez litości, tylko zwycięstwo.",
+    "description_advisorInformation_nomad": "Temujin Mergen, Przewodnik, niegdyś przerażający władca wojny, teraz oferuje swoje niezrównane doświadczenie na polu bitwy dla twojej sprawy. W trakcie Wydarzenia Inwazji Nomadów wzmacnia twoje siły, aby mogły przeprowadzić kilka kolejnych ataków na obozowiska Nomadów, nieustannie uderzając i nie dając wrogowi szansy na regenerację. Zadzwoń do swojego doradcy, zaplanuj masowe ataki i zdominuj pole bitwy.\n\nAktywuj Doradcę Nomadów za pomocą Umowy Doradczej lub Pieczęci Przewodnika, a następnie użyj Ataku Doradcy, aby uwolnić serię skoordynowanych uderzeń z wybraną formacją i dowódcą. Zastosowane jest automatyczne pomijanie czasów odczekania, co zapewnia płynne wykonanie. Jednak atak zostanie przerwany, jeśli dowódca zostanie pokonany lub jeśli spełnione zostanie któreś z następujących warunków:\n\n- Niewystarczająca ilość złota – Atak nie może być wysłany z powodu braku złota. Inni dowódcy również mogą nie zdołać rozpocząć swoich ataków.\n- Niewystarczająca ilość rubinów lub piór – Atak nie może być wysłany z powodu braku rubinów lub piór. Inni dowódcy również mogą nie zdołać rozpocząć swoich ataków.\n- Niewystarczająca ilość jednostek i/lub narzędzi – Atak nie może być wysłany z powodu braku wymaganych jednostek lub narzędzi. Inni dowódcy również mogą nie zdołać rozpocząć swoich ataków.\n- Niewystarczająca ilość przeskoków czasowych – Ataków nie można zakończyć z powodu braku przeskoków czasowych. Przyszłe czasy odczekania nie mogą być pomijane, zmuszając dowódców do wycofania się.\n\nUderzaj szybko, utrzymuj swoje siły i upewnij się, że strategia Przewodnika prowadzi cię do zwycięstwa.",
+    "info_attackAdvisor": "Użyj ataku doradcy, aby rozpocząć kolejne ataki z wybraną formacją i dowódcą. Automatyczne pomijanie czasów odnowienia jest automatycznie stosowane. Jeśli atak się nie powiedzie lub dowódca zostanie pokonany, wycofają się, anulując pozostałe ataki. Jeśli potrzebne zasoby się skończą, następny atak nie rozpocznie się.",
+    "info_battleMessage": "Wyślij raport z bitwy dla każdego ataku",
+    "intro_advisor_nomad": "Temujin Mergen, Przewodnik, wnosi swoje doświadczenie do twojej sprawy. Podczas Inwazji Nomadów przeprowadzaj kolejne ataki na obozowiska nomadów bez przerwy."
   },
   "playertitles": {
     "playerTitle_50_jap": "Władca Sztormu",
@@ -24588,7 +24667,8 @@
     "ChristmasWarrior_desc": "Uzbrojeni w lance w paski z mięty, ci dzicy wojownicy pędzą naprzód z niepowstrzymanym świątecznym duchem, wzbudzając strach wśród wszystkich, którzy stają im na drodze.",
     "ChristmasWarrior_short_info": "Ekstremalnie potężny napastnik w walce wręcz",
     "nomadcoinbooststone_name": "Świnka-skarbonka nomadów",
-    "nomadcoinbooststone_short_info": "Zwiększa liczbę monet zrabowanych w obozach nomadów"
+    "nomadcoinbooststone_short_info": "Zwiększa liczbę monet zrabowanych w obozach nomadów",
+    "advisor_AttackFailed_reason3": "Atak Twojego doradcy nie może kontynuować. Brakuje wystarczającej ilości rubinów lub piór szybkiej podróży, aby rozpocząć atak. Inni dowódcy mogą również nie zainicjować swoich ataków, jeśli zasoby nie zostaną uzupełnione."
   },
   "generic_flash": {
     "Footer": {

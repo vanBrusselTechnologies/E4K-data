@@ -426,6 +426,11 @@ export interface Language {
     "alerts_and_errors": {
         "ALLI_IS_NOT_AUTO_JOIN_ENABLED": string;
         "ALLI_IS_NOT_AUTO_JOIN_ENABLED_HEADER": string;
+        "advisor_AttackFailed_reason0": string;
+        "advisor_AttackFailed_reason1": string;
+        "advisor_AttackFailed_reason2": string;
+        "advisor_AttackFailed_reason4": string;
+        "advisor_AttackFailed_reason5": string;
         "alert_AchievementLevelTooLow": string;
         "alert_C2PurchaseNotEnabled": string;
         "alert_OverwriteOldAccount_copy": string;
@@ -839,6 +844,7 @@ export interface Language {
         "error_shapeshifter_equipment_insufficientTime": string;
         "error_twisted_firestarter_while_protected": string;
         "help_message_read_combat_forwarded": string;
+        "info_attack_threshold": string;
         "kingstower_unitWarningQuestion": string;
         "laboratory_unitWarningQuestion": string;
         "needDefWorkshopUpgrade": string;
@@ -856,6 +862,7 @@ export interface Language {
         "register_emptyName_copy": string;
         "spyWarning_warning": string;
         "target_not_owned": string;
+        "title_attack_threshold": string;
     };
     "buildings_and_decorations": {
         "Armory_name": string;
@@ -939,6 +946,12 @@ export interface Language {
         "ci_appearance_AnniversaryDefensiveWorkshop_flavour": string;
         "ci_appearance_AnniversaryEstate": string;
         "ci_appearance_AnniversaryEstate_flavour": string;
+        "ci_appearance_BrokenEggDwellings": string;
+        "ci_appearance_BrokenEggDwellings_flavor": string;
+        "ci_appearance_BrokenEggGreenhouse": string;
+        "ci_appearance_BrokenEggGreenhouse_flavor": string;
+        "ci_appearance_BrokenEggStorehouse": string;
+        "ci_appearance_BrokenEggStorehouse_flavor": string;
         "ci_appearance_CarnivalBarrelWorkshop": string;
         "ci_appearance_CarnivalBarrelWorkshop_flavour": string;
         "ci_appearance_CarnivalHoneyGardens": string;
@@ -1329,22 +1342,34 @@ export interface Language {
         "deco_ExaltedCarnivalGondola_name": string;
         "deco_ExaltedGreenChristmasFountain_name": string;
         "deco_ExaltedGreenChristmasPresentStash_name": string;
+        "deco_ExaltedGreenEasterHotspring_name": string;
+        "deco_ExaltedGreenEasterRuins_name": string;
+        "deco_ExaltedGreenEggTree_name": string;
         "deco_ExaltedGreenFrostFountain_name": string;
         "deco_ExaltedGreenLavaShrineofDuality_name": string;
+        "deco_ExaltedGreenMarchHaresHideout_name": string;
         "deco_ExaltedGreenOktoberfestGarden_name": string;
         "deco_ExaltedGreenWaterShrineofDuality_name": string;
         "deco_ExaltedPedestalOfEternalLove_name": string;
         "deco_ExaltedPedestalOfPassionateLove_name": string;
         "deco_ExaltedPurpleChristmasFountain_name": string;
         "deco_ExaltedPurpleChristmasPyramid_name": string;
+        "deco_ExaltedPurpleEasterHotspring_name": string;
+        "deco_ExaltedPurpleEasterRuins_name": string;
+        "deco_ExaltedPurpleEggTree_name": string;
         "deco_ExaltedPurpleFrostFountain_name": string;
         "deco_ExaltedPurpleLavaShrineofDuality_name": string;
+        "deco_ExaltedPurpleMarchHaresHideout_name": string;
         "deco_ExaltedPurpleOktoberfestGarden_name": string;
         "deco_ExaltedPurpleWaterShrineofDuality_name": string;
         "deco_ExaltedRedChristmasFountain_name": string;
         "deco_ExaltedRedChristmasStall_name": string;
+        "deco_ExaltedRedEasterHotspring_name": string;
+        "deco_ExaltedRedEasterRuins_name": string;
+        "deco_ExaltedRedEggTree_name": string;
         "deco_ExaltedRedFrostFountain_name": string;
         "deco_ExaltedRedLavaShrineofDuality_name": string;
+        "deco_ExaltedRedMarchHaresHideout_name": string;
         "deco_ExaltedRedOktoberfestGarden_name": string;
         "deco_FallenGiantRed_name": string;
         "deco_FallenGiant_name": string;
@@ -2194,6 +2219,14 @@ export interface Language {
         "aa_package_16_72_001_p75_copy": string;
         "aa_package_16_72_001_p75_title": string;
         "achievementDesc_123": string;
+        "advisor_AttackCancel": string;
+        "advisor_AttackCancelAll": string;
+        "advisor_AttackNumber": string;
+        "advisor_AttackSummary_defeat": string;
+        "advisor_AttackSummary_pending": string;
+        "advisor_AttackSummary_stopped": string;
+        "advisor_AttackSummary_victory": string;
+        "advisor_attackInfo": string;
         "alert_OverwriteOldAccount_details_copy": string;
         "alert_account_deleted_goLoginScreen": string;
         "alert_accountdeleted_login_createNewAccount_copy": string;
@@ -2237,11 +2270,16 @@ export interface Language {
         "allyforge_tooltip_inventoryFull_gems": string;
         "alreadyConquerMetropolMovement_Maya": string;
         "apprenticePennies_notEnough_tooltip": string;
+        "attackProgress": string;
         "attackScreen_unitsTools_clearSlot": string;
         "attackScreen_unitsTools_selectedTools": string;
         "attackScreen_unitsTools_selectedUnits": string;
         "attackScreen_unitsTools_waveFlank": string;
         "attackScreen_units_hideUnits": string;
+        "attack_advisor": string;
+        "attack_amount": string;
+        "attack_setUp": string;
+        "attack_standard": string;
         "autoCooldownSkip": string;
         "beefProductionPerHour": string;
         "beefProductionPerHour_freeze": string;
@@ -2273,7 +2311,14 @@ export interface Language {
         "bundlePackage_short_info": string;
         "bundlePackage_type_equipmentBundle": string;
         "burningBuildings": string;
+        "button_SelectCamp": string;
+        "button_activateAdvisor": string;
+        "button_attackAdvisor": string;
+        "button_buyToken": string;
+        "button_cancelAdvisor": string;
+        "button_cancelAdvisorAll": string;
         "button_communityHub_short": string;
+        "button_freeToken": string;
         "buyRubies": string;
         "cancelChange": string;
         "capReachedRanking_DonationEvent": string;
@@ -2513,6 +2558,7 @@ export interface Language {
         "colossus_donateResource_labelPoints": string;
         "colossus_donate_minPoints": string;
         "colossus_donate_minWoodStone": string;
+        "commander": string;
         "condition_score": string;
         "confirmSelection": string;
         "convenienceFeature_AutoCooldownSkip_desc": string;
@@ -2586,6 +2632,7 @@ export interface Language {
         "currency_description_LegendaryMaterial": string;
         "currency_description_LegendarySoulStone": string;
         "currency_description_LegendaryToken": string;
+        "currency_description_OfferingHasan": string;
         "currency_description_PearlRelic": string;
         "currency_description_RareFlint": string;
         "currency_description_RoyalCapitalCoin": string;
@@ -2671,6 +2718,7 @@ export interface Language {
         "currency_name_HeritageBoosterKey": string;
         "currency_name_LegendaryMaterial": string;
         "currency_name_LegendaryToken": string;
+        "currency_name_OfferingHasan": string;
         "currency_name_SaleDaysLuckyWheelTicket": string;
         "currency_name_SamuraiToken": string;
         "currency_name_SamuraiTokens": string;
@@ -5132,6 +5180,7 @@ export interface Language {
         "dialog_generals_inn_drawChances_drunkKnight_TiziToken": string;
         "dialog_generals_inn_drawChances_drunkKnight_knightToken": string;
         "dialog_generals_inn_drawChances_fatKing_HasanToken": string;
+        "dialog_generals_inn_drawChances_fatKing_OfferingHasan": string;
         "dialog_generals_inn_drawChances_fatKing_TomAliceToken": string;
         "dialog_generals_inn_drawChances_fatKing_fatKingToken": string;
         "dialog_generals_inn_drawChances_gamblingPrincess_SasakiToken": string;
@@ -10203,6 +10252,8 @@ export interface Language {
         "generals_skill_name_unitAmountWallLegendary": string;
         "generic_cancel_button": string;
         "generic_cooldown": string;
+        "generic_currentCost": string;
+        "generic_currentLosses": string;
         "generic_delete_button": string;
         "generic_edit_button": string;
         "generic_hiddenPassword": string;
@@ -10214,7 +10265,10 @@ export interface Language {
         "generic_server": string;
         "generic_success": string;
         "generic_timeSkips_inventoryFull_warning_desc": string;
+        "generic_timer": string;
         "generic_title_wait": string;
+        "generic_totalCost": string;
+        "generic_totalLosses": string;
         "giftPackage_881": string;
         "giftPackage_881_desc": string;
         "giftPackage_882": string;
@@ -10456,6 +10510,8 @@ export interface Language {
         "longPointsEventBooster_name": string;
         "longPointsEventBooster_short_info": string;
         "longPointsEvent_pointRanking_tooltip": string;
+        "lootCurrent": string;
+        "lootTotal": string;
         "lord_effectlist_battleEffects_title": string;
         "maintenance_discord_desc": string;
         "maintenance_freeze_desc": string;
@@ -11718,6 +11774,16 @@ export interface Language {
         "thornking_cowTower": string;
         "thornking_finalboss": string;
         "thornking_tower": string;
+        "title_advisorInformation": string;
+        "title_advisor_AttackCancel": string;
+        "title_advisor_AttackCancelAll": string;
+        "title_advisor_AttackFailed": string;
+        "title_advisor_AttackOverview": string;
+        "title_advisor_AttackSummary": string;
+        "title_advisor_activate": string;
+        "title_advisor_buyToken": string;
+        "title_advisor_freeToken": string;
+        "title_advisor_nomad": string;
         "title_christmasgacha": string;
         "today": string;
         "tomorrow": string;
@@ -15155,6 +15221,10 @@ export interface Language {
         "equipment_unique_1261_desc": string;
         "equipment_unique_1262": string;
         "equipment_unique_1262_desc": string;
+        "equipment_unique_1263": string;
+        "equipment_unique_1263_desc": string;
+        "equipment_unique_1264": string;
+        "equipment_unique_1264_desc": string;
         "equipment_unique_12_desc": string;
         "equipment_unique_13": string;
         "equipment_unique_13_desc": string;
@@ -18243,6 +18313,7 @@ export interface Language {
         "currency_SK": string;
         "currency_TR": string;
         "currency_US": string;
+        "currency_description_AdvisorFreeToken": string;
         "currency_description_AllianceInfluence": string;
         "currency_description_AllianceStatuette": string;
         "currency_description_ApprenticeToken": string;
@@ -18276,6 +18347,7 @@ export interface Language {
         "currency_description_LegendaryMysteryBoxKey": string;
         "currency_description_LotusFlowerLTPEToken": string;
         "currency_description_LuckyWheelTicket": string;
+        "currency_description_NomadAdvisorToken": string;
         "currency_description_OctoberfestLTPEToken": string;
         "currency_description_PegasusTicket": string;
         "currency_description_RampartDoubloon": string;
@@ -18320,6 +18392,7 @@ export interface Language {
         "currency_name_5HourSkip": string;
         "currency_name_5MinSkip": string;
         "currency_name_60MinSkip": string;
+        "currency_name_AdvisorFreeToken": string;
         "currency_name_AllianceInfluence": string;
         "currency_name_AllianceStatuette": string;
         "currency_name_ApprenticeToken": string;
@@ -18362,6 +18435,7 @@ export interface Language {
         "currency_name_LegendarySoulstone": string;
         "currency_name_LotusFlowerLTPEToken": string;
         "currency_name_LuckyWheelTicket": string;
+        "currency_name_NomadAdvisorToken": string;
         "currency_name_OctoberfestLTPEToken": string;
         "currency_name_PearlRelic": string;
         "currency_name_PegasusTicket": string;
@@ -20661,6 +20735,8 @@ export interface Language {
     };
     "help": {
         "Help_loginBonus_Helptext": string;
+        "advisor_speechBubble_nomad": string;
+        "description_advisorInformation_nomad": string;
         "dialog_ci_inventory_buyMaterials": string;
         "dialog_difficultyScaling_help_desc": string;
         "dialog_luckyWheel_text_help": string;
@@ -20979,6 +21055,8 @@ export interface Language {
         "help_villageListOverview": string;
         "help_villageRepair": string;
         "help_villageShop": string;
+        "info_attackAdvisor": string;
+        "info_battleMessage": string;
         "ingameHelp_category_1": string;
         "ingameHelp_category_10": string;
         "ingameHelp_category_10_text_1": string;
@@ -21025,6 +21103,7 @@ export interface Language {
         "ingameHelp_toolUse_melee": string;
         "ingameHelp_toolUse_moat": string;
         "ingameHelp_toolUse_ranged": string;
+        "intro_advisor_nomad": string;
         "speechbubble_launchTaxman": string;
         "speechbubble_waitForCollect": string;
         "tip_barrackUnit": string;
@@ -24523,6 +24602,7 @@ export interface Language {
         "WinterXPTool_name": string;
         "WinterXPTool_short_info": string;
         "additionalWaves": string;
+        "advisor_AttackFailed_reason3": string;
         "alieninvasionantibanner_name": string;
         "alieninvasionantibanner_short_info": string;
         "alieninvasionantibundle_name": string;

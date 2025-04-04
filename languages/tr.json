@@ -833,7 +833,14 @@
     "error_twisted_firestarter_while_protected": "Koruma modu etkinken diğer oyuncuları sabotaj edemezsiniz.",
     "dialog_shoppingCartPrimeDay_DontShowNotification": "Bu teklif için bu diyaloğu bir daha gösterme",
     "dialog_shoppingCartPrimeDay_GoToShopButton": "Dükkana git",
-    "dialog_shoppingCartPrimeDay_SeeOfferButton": "Teklifi Gör"
+    "dialog_shoppingCartPrimeDay_SeeOfferButton": "Teklifi Gör",
+    "advisor_AttackFailed_reason4": "Danışmanınızın saldırısı devam edemez. Saldırıyı başlatmak için yeterli birim ve/veya araç yok. Diğer komutanlar da yeni birimler işe alınmadıkça saldırılarını başlatmakta başarısız olabilir.",
+    "advisor_AttackFailed_reason5": "Saldırı tamamlanamadı çünkü zaman atlamaları yok. Zaman atlamaları mevcut değilse, gelecekteki komutanlar ardışık saldırılar düzenleyemeyebilir ve geri çekilmek zorunda kalabilirler.",
+    "advisor_AttackFailed_reason2": "Danışmanınızın saldırısı devam edemez. Saldırıyı başlatmak için yeterli Ruby veya Hızlı Seyahat Tüyü yok. Diğer komutanlar da kaynaklar yenilenmezse saldırılarını başlatamama riski taşıyabilir.",
+    "advisor_AttackFailed_reason1": "Danışmanınızın saldırısı devam edemez. Saldırıyı başlatmak için yeterli altın yok. Diğer komutanlar, kaynaklar yenilenmezse saldırılarını başlatmakta başarısız olabilir.",
+    "advisor_AttackFailed_reason0": "Danışman saldırınız ilerleyemedi. Saldırıyı engelleyen eksik kaynaklar veya diğer sorunlar hakkında ayrıntılar için Danışman Genel Bakışını kontrol edin.",
+    "info_attack_threshold": "Günlük 1.000 saldırı sınırına ulaştınız. Her yeni saldırı şimdi maliyetini artıracak ve bu maliyetler üssel olarak yükselecek.",
+    "title_attack_threshold": "Artan saldırı maliyetleri"
   },
   "buildings_and_decorations": {
     "bakery_name": "Fırın",
@@ -2000,7 +2007,25 @@
     "ci_appearance_CarnivalBarrelWorkshop_flavour": "Zanaatkarlar, hareketli atölyede kollarını sıvayıp, rengarenk desenlerle süslenmiş canlı fıçıları ustaca yapıyorlar; karnavalın tatlılığını ve ruhlarını depolamak üzere hazırlar.",
     "ci_appearance_CarnivalHoneyGardens": "Karnaval Bal Bahçesi",
     "ci_appearance_CarnivalHoneyGardens_flavour": "Altın petekler güneşin altında parlıyor, vızıldayan arılar çiçek açan çiçekler arasında dans ederken, bakıcılar karnaval ziyaretçilerini memnun etmek için tatlı ikramlar hazırlıyor.",
-    "deco_ExaltedCarnivalGondola_name": "Yüce Karnaval Gondolası"
+    "deco_ExaltedCarnivalGondola_name": "Yüce Karnaval Gondolası",
+    "ci_appearance_BrokenEggDwellings": "Kırık yumurta konutu",
+    "ci_appearance_BrokenEggDwellings_flavor": "Taze çiçeklerin kokusu açık pencerelerden süzülerek, güneş ışığı boyalı yumurtalar üzerinde dans ediyor. Bekçiler dostane şakalar yaparak çiçekler örüyor ve sezonun neşeli yenilenmesine hazırlanıyorlar.",
+    "ci_appearance_BrokenEggGreenhouse": "Kırık yumurta serası",
+    "ci_appearance_BrokenEggGreenhouse_flavor": "İçeride askerler, taze toprak ve tomurcuğun kokusu arasında hareket ederken, yeni hayata dikkatlice bakıyor ve canlı çiçekler ve boyalı yumurtalarla dolu sepetler hazırlıyorlar.",
+    "ci_appearance_BrokenEggStorehouse": "Kırık yumurta deposu",
+    "ci_appearance_BrokenEggStorehouse_flavor": "Depo, taze hasatlarla, tatlı ikramlarla ve renkli yumurtalarla dolup taşıyor; bu da hiçbir kutlamanın festivale ait zenginliği olmadan geçmeyeceğini garanti ediyor.",
+    "deco_ExaltedGreenEasterHotspring_name": "Yüceltilmiş Yeşil Paskalya Kaplıcası",
+    "deco_ExaltedGreenEasterRuins_name": "Yüce Yeşil Paskalya Harabeleri",
+    "deco_ExaltedGreenEggTree_name": "Yüceltilmiş Yeşil Bakım Koruyucusu",
+    "deco_ExaltedGreenMarchHaresHideout_name": "Yüce Yeşil Mart Tavşanının Saklanma Yeri",
+    "deco_ExaltedPurpleEasterHotspring_name": "Yüceltilmiş mor Paskalya sıcaklığı",
+    "deco_ExaltedPurpleEasterRuins_name": "Yüce mor Paskalya kalıntıları",
+    "deco_ExaltedPurpleEggTree_name": "Yüce Mor Beslenme Koruyucusu",
+    "deco_ExaltedPurpleMarchHaresHideout_name": "Yüce mor mart tavşanının saklanma yeri",
+    "deco_ExaltedRedEasterHotspring_name": "Yüceltilmiş Kırmızı Paskalya Kaplıcası",
+    "deco_ExaltedRedEasterRuins_name": "Yüce Kırmızı Paskalya Harabeleri",
+    "deco_ExaltedRedEggTree_name": "Yüce Kırmızı Bakım Koruyucusu",
+    "deco_ExaltedRedMarchHaresHideout_name": "Yüceltilmiş kırmızı mart tavşanının saklanma yeri"
   },
   "dialogs": {
     "dialog_festival_desc": "Yurttaşlarınıza bir şenlik düzenlemek için yiyecek kullanın!\nŞenlik devam ettiği sürece askere alma hızı tüm kalelerinizde belirgin şekilde artacak. Şenlik ne kadar büyük olursa, etkisi de o kadar büyük olur.",
@@ -12621,7 +12646,48 @@
     "webshop_hasanbase_huge_name": "Büyük Kuşatma Mühendisi Madalyası",
     "webshop_hasanbase_large_name": "Büyük kuşatma mühendisinin madalyası",
     "webshop_hasanbase_medium_name": "Orta kuşatma mühendisinin madalyonu",
-    "webshop_hasanbase_small_name": "Küçük kuşatma mühendisi madalyası"
+    "webshop_hasanbase_small_name": "Küçük kuşatma mühendisi madalyası",
+    "advisor_AttackCancelAll": "Tüm danışman saldırılarını iptal etmek istediğinizden emin misiniz? Tüm devam eden saldırılar geri çağrılacak ve harcanan kaynaklar kaybolacaktır.",
+    "advisor_AttackCancel": "Danışman saldırısını iptal etmek istediğinize emin misiniz? Harcanan kaynaklar kaybolacaktır.",
+    "advisor_AttackNumber": "Danışman Saldırısı: (0)/(1)",
+    "advisor_AttackSummary_defeat": "(0) Saldırılar - yenilgi",
+    "advisor_AttackSummary_pending": "(0) Saldırılar - beklemede",
+    "advisor_AttackSummary_stopped": "(0) Saldırılar - durduruldu",
+    "advisor_AttackSummary_victory": "(0) Saldırılar - zafer",
+    "attack_advisor": "Danışman saldırısı",
+    "advisor_attackInfo": "Her saldırı başladığında ödenir ve her saldırıya aynı maliyet uygulanır.",
+    "attackProgress": "Saldırılar devam ediyor:",
+    "attack_standard": "Standart saldırı",
+    "attack_amount": "Saldırı sayısı:",
+    "attack_setUp": "Saldırılarını ayarla!",
+    "button_SelectCamp": "Göçebe kampı seçin",
+    "button_activateAdvisor": "Danışmanı etkinleştir",
+    "button_attackAdvisor": "Danışman saldırısı",
+    "button_buyToken": "Token satın al",
+    "button_cancelAdvisor": "Saldırıyı iptal et",
+    "button_cancelAdvisorAll": "Tüm saldırıları iptal et",
+    "button_freeToken": "Ücretsiz jeton al",
+    "commander": "Komutanlar:",
+    "generic_currentCost": "Mevcut Maliyetler:",
+    "generic_currentLosses": "Güncel savaş kayıpları:",
+    "generic_timer": "Etkinlik için kalan süre:",
+    "generic_totalCost": "Toplam Maliyetler:",
+    "generic_totalLosses": "Toplam Savaş Kaybı:",
+    "lootCurrent": "Mevcut ganimet:",
+    "lootTotal": "Toplam ganimet:",
+    "title_advisorInformation": "Danışman İşlevselliği",
+    "title_advisor_AttackCancel": "Saldırıyı iptal et?",
+    "title_advisor_AttackCancelAll": "Tüm Danışman Saldırılarını İptal Et?",
+    "title_advisor_AttackFailed": "Danışman saldırısı başarısız oldu!",
+    "title_advisor_AttackOverview": "Danışman Saldırı Genel Bakışı",
+    "title_advisor_AttackSummary": "Danışman Saldırı Raporu",
+    "title_advisor_activate": "Danışmanı etkinleştir",
+    "title_advisor_buyToken": "Danışman Jetonu satın al",
+    "title_advisor_freeToken": "Danışman jetonunu al",
+    "title_advisor_nomad": "Göçebe Danışmanı",
+    "currency_description_OfferingHasan": "General Hanında Kral Ludwig ile değişim yaparak çok değerli ödüller elde edin. Ödül çekilişleri her zaman Hasan için parçalar içerir. Hasanın teklifinin değiştirilmesi sadece sınırlı bir süre için yapılabilir!",
+    "currency_name_OfferingHasan": "Hasanın Kral Ludwige sunumu",
+    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "Bu, seçilen teklif ile bu patronun ödül kategorileri için çekiliş şanslarıdır. Her kategori, rastgele seçilecek belirli ödül türlerini içerir. Her ücretli teklif için dört çekiliş gerçekleştirilir, her çekilişin aşağıda listelenen şansları vardır.\n\nÇekiliş Şansı        Ödül Kategorileri\n\n09.00%                  - Hasan parçaları\n\n00.50%                  - Ludwig için Hasanın Teklifi\n\n03.00%                  - Prenses Beatricee Teklif\n\n05.00%                  - Sir Ulriche Teklif\n\n08.00%                  - Kral Ludwige Teklif\n\n02.00%                  - Yetenek sıfırlama jetonları\n\n03.40%                  - Ekipman"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% birimin savaş gücü saldırırken",
@@ -17308,7 +17374,7 @@
     "equipment_unique_1061_desc": "Kaleni bir köpüklü hisara dönüştürür.",
     "equipment_unique_1062_desc": "Kaleni bir köpüklü hisara dönüştürür.",
     "equip_effect_description_emptyGemSocket_name": "Boş kıymetli taş yuvası",
-    "equip_effect_description_appearance_baron_transformationTarget": "Dönüşüm ana kaleye, karakola, başkente ve metropole uygulanır.",
+    "equip_effect_description_appearance_baron_transformationTarget": "Bu nadir item ile LTPEdeki hakimiyetinizi gösterin, ana kalelerinizi, ileri karakollarınızı, başkent veya metropolünüzü sizi diğer oyunculardan farklı kılan gerçekten benzersiz bir varlığa dönüştürün.",
     "equip_effect_description_appearance_commander_transformationTarget": "Dönüşüm, krallıklardaki ilerleyen ordulara ve Fırtına Adalarındaki savaş gemilerine uygulanır.",
     "equip_effect_description_noGemSocket_name": "Kıymetli taş yuvası yok",
     "equip_effect_description_permanentAppearance": "Kalıcı Öğe",
@@ -17938,7 +18004,11 @@
     "equipment_unique_1240": "Büyük ametist lotus",
     "equipment_unique_1241": "Büyük ametist lotus",
     "equipment_unique_1242": "Büyük ametist lotus",
-    "equipment_unique_1243": "Büyük ametist lotus"
+    "equipment_unique_1243": "Büyük ametist lotus",
+    "equipment_unique_1263": "Paskalya kuş evi",
+    "equipment_unique_1263_desc": "Yenileme mevsimini karşılamak için Paskalya Kuş Evinin neşeli ruhunu serbest bırakın. Şatonuzu, canlı yuvalar ve renkli Paskalya yumurtalarıyla süslenmiş, baharın dönüşünün sevincini yansıtan canlı bir sığınak haline getirin.",
+    "equipment_unique_1264": "Paskalya eğrelti otu",
+    "equipment_unique_1264_desc": "Orduğunuzu yenilenme gücüne dönüştürün, açılan fernlerin ve gizli Paskalya yumurtalarının altında yürüyerek, büyüme ve kutlama ruhunu kucaklayın."
   },
   "generic": {
     "activity": "Etkinlik",
@@ -19997,7 +20067,11 @@
     "panel_buildinglist_SlotBuildConstruction": "İnşaatçıların konutları inşa ediliyor",
     "panel_buildinglist_SlotBuildUpgradeCap": "İnşaatçıların konutlarını yükseltin! {0} seviyesinden itibaren mevcut",
     "currency_description_HollowMoonEgg": "Boş Ay Yumurtaları, unutulmuş büyü ile dolu, gizemli Çağırıcı tarafından aranıyor. Boş Ayın Çağrılması etkinliği sırasında onları sunarak mistik ödülleri açın!",
-    "currency_name_HollowMoonEgg": "Boş Ay Yumurtası"
+    "currency_name_HollowMoonEgg": "Boş Ay Yumurtası",
+    "currency_description_AdvisorFreeToken": "Herhangi bir danışmanı işe almanıza ve etkinleştirmenize olanak tanıyan özel bir sözleşme. Uzmanlıklarından yararlanmak ve ardışık birden fazla saldırı başlatmak için kullanın.",
+    "currency_description_NomadAdvisorToken": "Temujin Mergenin komutasından bir token, stratejik ustalığına erişim sağlar. Bunu Nomad Danışmanını etkinleştirmek ve Göçebe Kamplarına karşı amansız ardışık saldırılar başlatmak için kullanın.",
+    "currency_name_AdvisorFreeToken": "Danışman Sözleşmesi",
+    "currency_name_NomadAdvisorToken": "Rehberin mührü"
   },
   "help": {
     "help_location": "Buradan kalenin tüm önemli ögelerine ve ileri karakollara genel olarak bakabilirsin.",
@@ -20373,7 +20447,12 @@
     "help_generals_abilityDialog": "Generalinin yeteneklerini buradan seçebilirsin. \nYetenekler bir generalin ve ordusunun savaş gücünü önemli ölçüde geliştirir. Bir savaşın belirli bir aşamasında yetenekler tetiklenerek generalin ordusuna ve birliklerine güçlü etkiler verir.\nSol taraftaki bir yeteneği seçerek sağdaki bir yetenek yuvasına ata. Savaşta sadece yuvalara atanan yetenekler etkindir! Yetenek menüsünü kapatmadan önce tüm değişiklikleri kaydetmeyi unutma!\n\nBeceri ağacında daha fazla yeteneğin kilidini açabilirsin ancak belirli generallerin yetenek yuvaları sınırlıdır.",
     "help_generals_introduction_popup": "Burada Generaller ve Becerileri hakkında genel bir özet bulabilirsin.\nBir general almak için &quot;Generallere&quot; düğmesinin üzerine tıkla.",
     "help_defense_icon_allianceDefenseUnitAmount": "İçkalendeki ittifak desteği için asker sayısı ve toplam birlik kapasitesi. İttifak üyeleri, savunmanı desteklemek için sana asker gönderebilir. Destek kapasitesi sınırını aşan tüm birlikler, yedeğe alınır ve savaşa katılmaz.",
-    "help_travelPlanning_autoCooldownSkip": "Seyahat hızını artırmak için buradan bir ulaşım yolu seçebilirsin. Etki ve maliyet, seçimine göre değişir. Ayrıca tam olarak ihtiyacın olduğu anda varmaları için seçili birimleri yavaşlatabilirsin.\n\nOrdu, hedefe vardığında etkin bir bekleme süresini anında atlamak için oto atlamayı etkinleştir. Gereken süre atlamalar, vardığında doğrudan stoklarından alınır. Fazladan süre atlamalar, süre atlama olarak geri ödenir."
+    "help_travelPlanning_autoCooldownSkip": "Seyahat hızını artırmak için buradan bir ulaşım yolu seçebilirsin. Etki ve maliyet, seçimine göre değişir. Ayrıca tam olarak ihtiyacın olduğu anda varmaları için seçili birimleri yavaşlatabilirsin.\n\nOrdu, hedefe vardığında etkin bir bekleme süresini anında atlamak için oto atlamayı etkinleştir. Gereken süre atlamalar, vardığında doğrudan stoklarından alınır. Fazladan süre atlamalar, süre atlama olarak geri ödenir.",
+    "advisor_speechBubble_nomad": "Gerçek bir savaşçı asla tereddüt etmez. Bozkırlarda şekillendim, sadece hızlı olanların hayatta kaldığını biliyorum. Rehberliğimle, güçleriniz acımasızca saldırır - beklemek yok, merhamet yok, sadece zafer.",
+    "description_advisorInformation_nomad": "Temujin Mergen, Yoldaş, bir zamanlar korkulan bir savaş lorduydu, şimdi eşsiz savaş alanı uzmanlığını davanız için sunuyor. Göçebe İstilası Etkinliği sırasında, güçlerinizi göçebe kamplara ardışık birden fazla saldırı başlatmaları için güçlendiriyor, amansızca vuruyor ve düşmana toparlanma şansı vermiyor. Danışmanınızı çağırın, toplu saldırılar planlayın ve savaş alanında üstünlük sağlayın.\n\nGöçebe Danışmanı, Danışman Sözleşmesi veya Yoldaşın Mührü kullanarak etkinleştirin, ardından seçilen formasyon ve komutan ile koordineli bir dizi saldırıyı serbest bırakmak için Danışman Saldırısını kullanın. Bekleme süreleri için otomatik atlama uygulanır, bu da kesintisiz bir yürütme sağlar. Ancak, komutan yenilirse veya aşağıdaki koşullardan herhangi biri karşılanırsa saldırı duracaktır:\n\n- Yetersiz Altın – Altın eksikliği nedeniyle saldırı gönderilemez. Diğer komutanlar da saldırılarını başlatmada başarısız olabilir.\n- Yetersiz Zümrüt veya Tüy – Zümrüt veya tüy eksikliği nedeniyle saldırı gönderilemez. Diğer komutanlar da saldırılarını başlatmada başarısız olabilir.\n- Yetersiz Birimler ve/veya Araçlar – Gerekli birimler veya araçlar eksikliği nedeniyle saldırı gönderilemez. Diğer komutanlar da saldırılarını başlatmada başarısız olabilir.\n- Yetersiz Zaman Atlama – Zaman atlamaları eksikliği nedeniyle saldırılar tamamlanamaz. Gelecek bekleme süreleri atlanamaz, bu da komutanların geri çekilmek zorunda kalmasına yol açar.\n\nHızla vurun, güçlerinizi koruyun ve Yoldaşın stratejisinin size zafer getirdiğinden emin olun.",
+    "info_attackAdvisor": "Seçilen formasyon ve komutan ile ardışık saldırılar başlatmak için Danışman Saldırısını kullanın. Soğuma süreleri için otomatik atlama otomatik olarak uygulanır. Bir saldırı başarısız olursa veya komutan yenilirse, geri çekilirler ve kalan saldırıları iptal ederler. Gerekli kaynaklar tükenirse, bir sonraki saldırı başlamayacaktır.",
+    "info_battleMessage": "Her saldırı için bir savaş raporu gönderin",
+    "intro_advisor_nomad": "Yol gösterici Temujin Mergen, uzmanlığını davanıza getiriyor. Göçebe İstilası sırasında, aralıksız Göçebe Kamplarına ardışık saldırılar başlatın."
   },
   "playertitles": {
     "playerTitle_50_jap": "Fırtına Lordu",
@@ -24588,7 +24667,8 @@
     "ChristmasWarrior_desc": "Nane çizgili mızraklarla donanmış bu vahşi savaşçılar, durdurulamaz bir tatil ruhuyla öne doğru atılır ve yollarına çıkan herkese korku salar.",
     "ChristmasWarrior_short_info": "Son derece güçlü yakın dövüş saldırganı",
     "nomadcoinbooststone_name": "Göçebe kumbarası",
-    "nomadcoinbooststone_short_info": "Göçebe kamplarda yağmalanan madeni paraların sayısını artırır"
+    "nomadcoinbooststone_short_info": "Göçebe kamplarda yağmalanan madeni paraların sayısını artırır",
+    "advisor_AttackFailed_reason3": "Danışmanınızın saldırısı devam edemez. Saldırıyı başlatmak için yeterli Ruby veya Hızlı Seyahat Tüyü yok. Diğer komutanlar da kaynaklar yenilenmezse saldırılarını başlatamama riski taşıyabilir."
   },
   "generic_flash": {
     "Footer": {

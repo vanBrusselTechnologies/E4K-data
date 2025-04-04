@@ -833,7 +833,14 @@
     "error_twisted_firestarter_while_protected": "Je kunt andere spelers niet saboteren terwijl de beschermingsmodus is ingeschakeld.",
     "dialog_shoppingCartPrimeDay_DontShowNotification": "Toon deze dialoog niet opnieuw voor deze aanbieding",
     "dialog_shoppingCartPrimeDay_GoToShopButton": "Ga naar de winkel",
-    "dialog_shoppingCartPrimeDay_SeeOfferButton": "Bekijk aanbod"
+    "dialog_shoppingCartPrimeDay_SeeOfferButton": "Bekijk aanbod",
+    "advisor_AttackFailed_reason4": "Uw adviseur aanval kan niet doorgaan. Niet genoeg eenheden en/of gereedschappen om de aanval te lanceren. Andere commandanten kunnen ook falen in het lanceren van hun aanvallen als er geen nieuwe eenheden worden gerekruteerd.",
+    "advisor_AttackFailed_reason5": "Jouw aanval kon niet worden voltooid vanwege een gebrek aan tijdsprongen. Als er geen tijdsprongen beschikbaar zijn, kunnen toekomstige commandanten mogelijk geen opeenvolgende aanvallen uitvoeren en zullen ze gedwongen worden zich terug te trekken.",
+    "advisor_AttackFailed_reason2": "De aanval van uw adviseur kan niet doorgaan. Niet genoeg Robijnen of Snelle Reisveren om de aanval te starten. Andere commandanten kunnen ook falen in hun aanvallen als de middelen niet worden aangevuld.",
+    "advisor_AttackFailed_reason1": "Uw adviseur aanval kan niet doorgaan. Niet genoeg goud om de aanval te lanceren. Andere bevelhebbers kunnen ook falen om hun aanvallen te lanceren als de middelen niet worden aangevuld.",
+    "advisor_AttackFailed_reason0": "Uw adviseur aanval kon niet doorgaan. Controleer het overzicht van de adviseur voor details over ontbrekende middelen of andere problemen die de aanval verhinderen.",
+    "info_attack_threshold": "Je hebt de dagelijkse limiet van 1000 aanvallen bereikt. Elke nieuwe aanval zal nu een verhoogde kost hebben, die exponentieel stijgt.",
+    "title_attack_threshold": "Verhoogde aanvalskosten"
   },
   "buildings_and_decorations": {
     "bakery_name": "Bakkerij",
@@ -2000,7 +2007,25 @@
     "ci_appearance_CarnivalBarrelWorkshop_flavour": "Ambachtslieden rollen hun mouwen op in de drukke werkplaats, waar ze levendige vaten maken versierd met kleurrijke patronen, klaar om de zoetheid en geesten van het carnaval op te slaan.",
     "ci_appearance_CarnivalHoneyGardens": "Carnavalshoningtuin",
     "ci_appearance_CarnivalHoneyGardens_flavour": "Gouden honingraten glinsteren in de zon terwijl zoemende bijen dansen tussen bloeiende bloemen, terwijl verzorgers zoete lekkernijen bereiden om de carnavalbezoekers te verwennen.",
-    "deco_ExaltedCarnivalGondola_name": "Verheven carnavalsgondel"
+    "deco_ExaltedCarnivalGondola_name": "Verheven carnavalsgondel",
+    "ci_appearance_BrokenEggDwellings": "Gebroken ei woning",
+    "ci_appearance_BrokenEggDwellings_flavor": "De geur van verse bloemen waait door open ramen terwijl zonlicht danst over geschilderde eieren. Bewakers wisselen goede-natuurgrappen uit, vlechten kransen en bereiden zich voor op de vrolijke vernieuwing van het seizoen.",
+    "ci_appearance_BrokenEggGreenhouse": "Brokkel eierschuur",
+    "ci_appearance_BrokenEggGreenhouse_flavor": "Binnen bewegen soldaten zich tussen de geur van verse aarde en bloeiende bloemen, terwijl ze zorgvuldig voor nieuw leven zorgen en manden voorbereiden die vol zitten met levendige bloemen en geschilderde eieren.",
+    "ci_appearance_BrokenEggStorehouse": "Opslagplaats voor gebroken eieren",
+    "ci_appearance_BrokenEggStorehouse_flavor": "Het magazijn staat vol met verse oogsten, zoete lekkernijen en kleurrijke eieren, zodat geen enkele viering zonder zijn feestelijke rijkdom voorbijgaat.",
+    "deco_ExaltedGreenEasterHotspring_name": "Verheven groene paaswarmwaterbron",
+    "deco_ExaltedGreenEasterRuins_name": "Verheven groene paasruïnes",
+    "deco_ExaltedGreenEggTree_name": "Verheven groene verzorger",
+    "deco_ExaltedGreenMarchHaresHideout_name": "Schuilplaats van de verheven groene maartse haas",
+    "deco_ExaltedPurpleEasterHotspring_name": "Verheven paarse paasbron",
+    "deco_ExaltedPurpleEasterRuins_name": "Verheven paarse paasruïnes",
+    "deco_ExaltedPurpleEggTree_name": "Verheven paarse hoeder van de voeding",
+    "deco_ExaltedPurpleMarchHaresHideout_name": "Schuilplaats van de verheven paarse haas",
+    "deco_ExaltedRedEasterHotspring_name": "Verheven rode Pasen-hotspring",
+    "deco_ExaltedRedEasterRuins_name": "Verheven rode paaskruinen",
+    "deco_ExaltedRedEggTree_name": "Verheven rode bewaker van de verzorging",
+    "deco_ExaltedRedMarchHaresHideout_name": "Schuilplaats van de verheven rode maartse haas"
   },
   "dialogs": {
     "dialog_festival_desc": "Gebruik voedsel om een festival te geven voor uw burgers! Zolang het festival duurt, wordt er in al uw kastelen aanmerkelijk sneller gerekruteerd. Hoe groter het festival, hoe groter het effect.",
@@ -12621,7 +12646,48 @@
     "webshop_hasanbase_huge_name": "Grote medaille van de belegeringsingenieur",
     "webshop_hasanbase_large_name": "Groot medaillon van de belegeringsingenieur",
     "webshop_hasanbase_medium_name": "Middelgroot medaillon van de belegeringsingenieur",
-    "webshop_hasanbase_small_name": "Kleine medaille van de belegeringsingenieur"
+    "webshop_hasanbase_small_name": "Kleine medaille van de belegeringsingenieur",
+    "advisor_AttackCancelAll": "Weet je zeker dat je alle aanvallen van adviseurs wilt annuleren? Alle lopende aanvallen worden teruggeroepen en alle uitgegeven middelen gaan verloren.",
+    "advisor_AttackCancel": "Weet je zeker dat je de aanval van de adviseur wilt annuleren? Alle gebruikte middelen gaan verloren.",
+    "advisor_AttackNumber": "Adviseur-aanval: (0)/(1)",
+    "advisor_AttackSummary_defeat": "(0) Aanvallen - nederlaag",
+    "advisor_AttackSummary_pending": "(0) Aanvallen - in afwachting",
+    "advisor_AttackSummary_stopped": "(0) Aanvallen - gestopt",
+    "advisor_AttackSummary_victory": "(0) Aanvallen - overwinning",
+    "attack_advisor": "Adviseur aanval",
+    "advisor_attackInfo": "Elk aanval wordt betaald wanneer deze begint, met dezelfde kosten die op elke aanval worden toegepast.",
+    "attackProgress": "Aanvallen in uitvoering:",
+    "attack_standard": "Standaardaanval",
+    "attack_amount": "Aantal aanvallen:",
+    "attack_setUp": "Stel je aanvallen in!",
+    "button_SelectCamp": "Selecteer nomadenkamp",
+    "button_activateAdvisor": "Activeer adviseur",
+    "button_attackAdvisor": "Adviseur aanval",
+    "button_buyToken": "Koop token",
+    "button_cancelAdvisor": "Annuleer aanval",
+    "button_cancelAdvisorAll": "Annuleer alle aanvallen",
+    "button_freeToken": "Krijg gratis token",
+    "commander": "Commandanten:",
+    "generic_currentCost": "Huidige kosten:",
+    "generic_currentLosses": "Huidige slagverliezen:",
+    "generic_timer": "Tijd die resteert voor het evenement:",
+    "generic_totalCost": "Totale kosten:",
+    "generic_totalLosses": "Totaal slag verliezen:",
+    "lootCurrent": "Huidige buit:",
+    "lootTotal": "Totaal aan buit:",
+    "title_advisorInformation": "Adviesfunctie",
+    "title_advisor_AttackCancel": "Aanval annuleren?",
+    "title_advisor_AttackCancelAll": "Alle aanvallen van adviseurs annuleren?",
+    "title_advisor_AttackFailed": "Adviseursaanval mislukt!",
+    "title_advisor_AttackOverview": "Overzicht van de aanval van de adviseur",
+    "title_advisor_AttackSummary": "Adviseur aanval rapport",
+    "title_advisor_activate": "Activeer adviseur",
+    "title_advisor_buyToken": "Koop adviseur-token",
+    "title_advisor_freeToken": "Verkrijg adviseur-token",
+    "title_advisor_nomad": "Nomade adviseur",
+    "currency_description_OfferingHasan": "Ruil met koning Ludwig in de herberg van de generaals om zeer waardevolle beloningen te krijgen. Beloningsloterijen bevatten altijd fragmenten voor Hasan. Het ruilen van Hasans aanbod kan alleen voor een beperkte tijd!",
+    "currency_name_OfferingHasan": "Hasans aanbod aan koning Ludwig",
+    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "Dit zijn de trekkingkansen voor de beloningscategorieën van deze patron met de geselecteerde aanbieding. Elke categorie bevat specifieke beloningstypes die willekeurig worden gekozen. Voor elke betaalde aanbieding worden vier trekkingen uitgevoerd, elke trekking heeft de hieronder vermelde kansen.\n\nTrekking kans        Beloningscategorieën\n\n09.00%                  - Hasan fragmenten\n\n00.50%                  - Hasans aanbieding aan Ludwig\n\n03.00%                  - Aanbieding aan Prinses Beatrice\n\n05.00%                  - Aanbieding aan Sir Ulrich\n\n08.00%                  - Aanbieding aan Koning Ludwig\n\n02.00%                  - Vaardigheidsreset tokens\n\n03.40%                  - Uitrusting"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% eenheid vechtkracht bij aanvallen",
@@ -17308,7 +17374,7 @@
     "equipment_unique_1061_desc": "Transformeert je kasteel tot een schuimfort.",
     "equipment_unique_1062_desc": "Transformeert je kasteel tot een schuimfort.",
     "equip_effect_description_emptyGemSocket_name": "Leeg edelsteenvak",
-    "equip_effect_description_appearance_baron_transformationTarget": "Transformatie is van toepassing op hoofdkastelen, buitenpost, hoofdstad en metropool.",
+    "equip_effect_description_appearance_baron_transformationTarget": "Toon je dominantie in LTPE met dit zeldzame item, dat je hoofdcastelen, vooruitgeschoven posten, hoofdstad of metropool transformeert in een werkelijk unieke aanwezigheid die je onderscheidt van andere spelers.",
     "equip_effect_description_appearance_commander_transformationTarget": "Transformatie is van toepassing op marcherende legers in koninkrijken en oorlogsschepen op de Stormeilanden.",
     "equip_effect_description_noGemSocket_name": "Geen edelsteenvak",
     "equip_effect_description_permanentAppearance": "Permanent item",
@@ -17938,7 +18004,11 @@
     "equipment_unique_1240": "Grote amethistlotus",
     "equipment_unique_1241": "Grote amethistlotus",
     "equipment_unique_1242": "Grote amethistlotus",
-    "equipment_unique_1243": "Grote amethistlotus"
+    "equipment_unique_1243": "Grote amethistlotus",
+    "equipment_unique_1263": "Paashuisje",
+    "equipment_unique_1263_desc": "Bevrijd de vrolijke geest van het Paashuisje om het seizoen van vernieuwing te verwelkomen. Transformeer je kasteel in een levendig toevluchtsoord, versierd met kleurrijke nesten en kleurrijke paaseieren, die de vreugde van de terugkeer van de lente weergeven.",
+    "equipment_unique_1264": "Paasvaren",
+    "equipment_unique_1264_desc": "Transformeer je leger in een kracht van vernieuwing, marcherend onder openvouwende varens en verborgen paaseieren, de geest van groei en viering omarmend."
   },
   "generic": {
     "activity": "Activiteit",
@@ -19997,7 +20067,11 @@
     "panel_buildinglist_SlotBuildConstruction": "De bouwerkwartieren worden gebouwd",
     "panel_buildinglist_SlotBuildUpgradeCap": "Upgrade de bouwerkwartieren! Beschikbaar vanaf niveau {0}",
     "currency_description_HollowMoonEgg": "Holle maanei, doordrenkt met vergeten magie, worden gezocht door de mysterieuze Oproeper. Bied ze aan tijdens het Oproepen van de Holle Maan evenement om mystieke beloningen te ontgrendelen!",
-    "currency_name_HollowMoonEgg": "Holle maan ei"
+    "currency_name_HollowMoonEgg": "Holle maan ei",
+    "currency_description_AdvisorFreeToken": "Een speciaal contract waarmee je elke adviseur kunt inhuren en activeren. Gebruik het om hun expertise te benutten en meerdere opeenvolgende aanvallen te lanceren.",
+    "currency_description_NomadAdvisorToken": "Een token van het bevel van Temujin Mergen, dat toegang geeft tot zijn strategisch meesterschap. Gebruik het om de nomade adviseur te activeren en meedogenloze opeenvolgende aanvallen op nomadenkampen te ontketenen.",
+    "currency_name_AdvisorFreeToken": "Adviseurcontract",
+    "currency_name_NomadAdvisorToken": "Zegel van de gids"
   },
   "help": {
     "help_location": "Hier krijg je een globaal overzicht van alle belangrijke inhoud van je kasteel en al je buitenposten.",
@@ -20373,7 +20447,12 @@
     "help_generals_abilityDialog": "Hier kun je de vaardigheden voor je generaal selecteren. \nVaardigheden verbeteren de vechtkracht van een generaal en het betreffende leger aanzienlijk. Tijdens een bepaalde fase van een gevecht worden vermogens geactiveerd, die krachtige effecten toekennen aan het leger en de troepen van de generaal.\nSelecteer links een vermogen om toe te wijzen aan een vermogensvak rechts. Alleen vermogens die zijn toegewezen aan vakken zijn actief in het gevecht! Zorg dat je alle wijzigingen opslaat voordat je het vermogensmenu sluit!\n\nJe kunt meer vermogensvakken ontgrendelen in je vaardighedenoverzicht, maar let op want bepaalde generaals hebben maar een beperkt aantal vakken beschikbaar.",
     "help_generals_introduction_popup": "Hier vind je een kort overzicht van de generaals en hun vaardigheden.\nTik op Naar de generaals om een generaal te halen.",
     "help_defense_icon_allianceDefenseUnitAmount": "Het aantal soldaten en de totale troepencapaciteit voor de bondgenootschapsondersteuning in de slottoren van je kasteel. Bondgenootschapsleden kunnen soldaten sturen om je verdediging te ondersteunen. Alle troepen boven de capaciteitslimiet voor ondersteunende troepen worden in reserve geplaatst en kunnen niet meedoen aan het gevecht.",
-    "help_travelPlanning_autoCooldownSkip": "Hier kun je een transportmiddel kiezen om de reissnelheid te verhogen. Het effect en de kosten zijn afhankelijk van wat je kiest. Je kunt ook de geselecteerde eenheden vertragen, zodat ze precies aankomen als je ze nodig hebt.\n\nActiveer automatisch overslaan om direct de actieve afkoeling over te slaan als het leger aankomt bij het doelwit. De vereiste tijdsprongen worden bij aankomst direct uit je voorraad gehaald. Eventueel resterende tijd wordt terugbetaald in de vorm van tijdsprongen."
+    "help_travelPlanning_autoCooldownSkip": "Hier kun je een transportmiddel kiezen om de reissnelheid te verhogen. Het effect en de kosten zijn afhankelijk van wat je kiest. Je kunt ook de geselecteerde eenheden vertragen, zodat ze precies aankomen als je ze nodig hebt.\n\nActiveer automatisch overslaan om direct de actieve afkoeling over te slaan als het leger aankomt bij het doelwit. De vereiste tijdsprongen worden bij aankomst direct uit je voorraad gehaald. Eventueel resterende tijd wordt terugbetaald in de vorm van tijdsprongen.",
+    "advisor_speechBubble_nomad": "Een ware krijger aarzelt nooit. Gesmeed in de steppen weet ik dat alleen de snelsten overleven. Met mijn begeleiding slaan jouw troepen meedogenloos toe - geen wachten, geen genade, alleen overwinning.",
+    "description_advisorInformation_nomad": "Temujin Mergen, de Padvinder, ooit een gevreesde oorlogsheer, biedt nu zijn ongeëvenaarde expertise op het slagveld aan voor uw zaak. Tijdens het Nomadeninvasie-evenement versterkt hij uw troepen om meerdere opeenvolgende aanvallen op Nomadenkampen uit te voeren, onverbiddelijk toeslaan en de vijand geen kans geven om zich te herstellen. Roep uw adviseur op, plan massale aanvallen en domineer het slagveld.\n\nActiveer de Nomad Adviseur met een Adviseurcontract of het Padvinderseel, en gebruik vervolgens de Adviseuraanval om een reeks gecoördineerde aanvallen los te laten met de geselecteerde formatie en commandant. Automatisch overslaan voor afkoeltijden wordt toegepast, wat zorgt voor een naadloze uitvoering. De aanval zal echter stoppen als de commandant wordt verslagen of als aan een van de volgende voorwaarden wordt voldaan:\n\n- Onvoldoende Goud – De aanval kan niet worden verzonden vanwege een gebrek aan goud. Andere commandanten kunnen ook falen in het lanceren van hun aanvallen.\n- Onvoldoende Robijnen of Veren – De aanval kan niet worden verzonden vanwege een gebrek aan robijnen of veren. Andere commandanten kunnen ook falen in het lanceren van hun aanvallen.\n- Onvoldoende Eenheden en/of Gereedschappen – De aanval kan niet worden verzonden vanwege een gebrek aan vereiste eenheden of gereedschappen. Andere commandanten kunnen ook falen in het lanceren van hun aanvallen.\n- Onvoldoende Tijdoverslagen – Aanvallen kunnen niet worden voltooid vanwege een gebrek aan tijdoverslagen. Toekomstige afkoeltijden kunnen niet worden overgeslagen, waardoor commandanten gedwongen worden zich terug te trekken.\n\nSla snel toe, houd uw troepen in leven en zorg ervoor dat de strategie van de Padvinder u naar de overwinning leidt.",
+    "info_attackAdvisor": "Gebruik de Adviseur-aanval voor opeenvolgende aanvallen met de gekozen formatie en commandant. Auto-overslaan wordt toegepast. Bij mislukking of nederlaag trekt de commandant zich terug en annuleert de rest. Zonder middelen start de volgende aanval niet.",
+    "info_battleMessage": "Stuur een gevechtsverslag voor elke aanval",
+    "intro_advisor_nomad": "Temujin Mergen, de Padvinder, brengt zijn expertise naar uw zaak. Tijdens de Nomadeninvasie voert u opeenvolgende aanvallen uit op Nomadenkampen zonder pauzes."
   },
   "playertitles": {
     "playerTitle_50_jap": "Stormheer",
@@ -24588,7 +24667,8 @@
     "ChristmasWarrior_desc": "Gewapend met pepermuntgestreepte lanzen, stormen deze woeste krijgers voort met een onstopbare vakantiespirit die angst inboezemt bij iedereen die in hun weg staat.",
     "ChristmasWarrior_short_info": "Extreem krachtige mêlee-aanvaller",
     "nomadcoinbooststone_name": "Nomaden-spaarvarken",
-    "nomadcoinbooststone_short_info": "Verhoogt het aantal munten dat in nomadenkampen is geroofd"
+    "nomadcoinbooststone_short_info": "Verhoogt het aantal munten dat in nomadenkampen is geroofd",
+    "advisor_AttackFailed_reason3": "De aanval van uw adviseur kan niet doorgaan. Niet genoeg Robijnen of Snelle Reisveren om de aanval te starten. Andere commandanten kunnen ook falen in hun aanvallen als de middelen niet worden aangevuld."
   },
   "generic_flash": {
     "Footer": {
