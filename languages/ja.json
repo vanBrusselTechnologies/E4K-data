@@ -2025,7 +2025,22 @@
     "deco_ExaltedRedEasterHotspring_name": "崇高な赤いイースター温泉",
     "deco_ExaltedRedEasterRuins_name": "崇高な赤いイースターの遺跡",
     "deco_ExaltedRedEggTree_name": "崇高な赤い育成の守護者",
-    "deco_ExaltedRedMarchHaresHideout_name": "崇高な赤い三月ウサギの隠れ家"
+    "deco_ExaltedRedMarchHaresHideout_name": "崇高な赤い三月ウサギの隠れ家",
+    "deco_ExaltedGuardianOfNurtureGreen_name": "崇高な緑の育成の守護者",
+    "deco_ExaltedGuardianOfNurturePurple_name": "高貴な紫の育成の守護者",
+    "deco_ExaltedGuardianOfNurtureRed_name": "高貴な赤い育成の守護者",
+    "ci_appearance_theBrokenEggDwelling": "壊れた卵の住居",
+    "ci_appearance_theBrokenEggDwelling_flavor": "新鮮な花の香りが開いた窓から漂い、日差しが彩られた卵の上で踊ります。警備員たちは気軽な冗談を交わし、花冠を編み、季節の喜ばしい再生の準備をしています。",
+    "ci_appearance_theBrokenEggGreenhouse": "壊れた卵の温室",
+    "ci_appearance_theBrokenEggGreenhouse_flavor": "内部では、兵士たちが新鮮な土と芽吹く花の香りの中を移動し、新しい命を注意深く世話しながら、鮮やかな花と塗られた卵であふれたバスケットを準備しています。",
+    "ci_appearance_theBrokenEggStorehouse": "壊れた卵の保管庫",
+    "ci_appearance_theBrokenEggStorehouse_flavor": "倉庫は新鮮な収穫物、甘いお菓子、カラフルな卵で溢れかえり、どんなお祝いもその祝祭の豊かさなしで行われることはありません。",
+    "ci_appearance_theBrokenEggTavern": "居酒屋「割れた卵」",
+    "ci_appearance_theBrokenEggTavern_flavor": "あなたのステップに春を込めて、偉大な帝国で最も素晴らしい酒場でくつろいでください。",
+    "ci_appearance_theBrokenEggDwelling_flavour": "新鮮な花の香りが開いた窓を通り抜け、日光が塗られた卵の上で踊ります。守衛たちは親しみのある冗談を交わし、花冠を編み、季節の喜ばしい再生の準備をしています。",
+    "ci_appearance_theBrokenEggGreenhouse_flavour": "内部では、兵士たちが新鮮な土と芽吹く花々の香りの中を移動しながら、新しい命を丁寧に育て、鮮やかな花と塗装された卵が溢れるバスケットを準備しています。",
+    "ci_appearance_theBrokenEggStorehouse_flavour": "倉庫は新鮮な収穫物や甘いお菓子、カラフルな卵で溢れており、どんなお祝いもそのお祭りの富なしには行われないことを保証しています。",
+    "ci_appearance_theBrokenEggTavern_flavour": "あなたのステップに弾みをつけて、大帝国で最も「卵のような」酒場でくつろいでください。"
   },
   "dialogs": {
     "dialog_festival_desc": "食料を集めて宴会を開きましょう！\n宴会が続く限り、兵の雇用スピードがすべての城で速くなります。宴会が豪華になるほど、効果も大きくなります。",
@@ -12629,8 +12644,8 @@
     "generals_characters_120_summary": "巧妙な戦術家であり、容赦ない包囲専門家。",
     "generals_characters_120_name": "ハサン",
     "generals_characters_120_narrative": "マスターエンジニア ハサン\n\n「包囲は力の試練ではなく、忍耐、精度、そして避けられない運命の試練です。」\n\nアリスが初めてレンチを握る前、戦争の流れを変える発明を考え始める前に、ハサンがいました。彼の名前は防衛者たちを混乱させるほどの名戦術家です。偉大なる帝国で最も尊敬される包囲戦略家であり、彼は歴史が数え切れないほど多くの城壁を打ち破り、強固な拠点を耐え抜いてきました。静かな知恵と揺るぎない忍耐を持つ男、ハサンは戦闘に急ぐことはありません。彼は待ち、見守り、そして時が来たときに、絹を切り裂く刃のように素早く決断を下します。\n\n他の者が不可侵の要塞を見る時、ハサンは千の解決策が隠されたパズルを見るのです。すべての戦闘は、最初の矢が放たれるずっと前に勝利が決まっている。敵が運命を悟る前に、彼の戦闘地図に勝利が刻まれています。数年にわたり磨かれた彼の思考は、それ自体が戦争のエンジンであり、回転し、計算し、防御を一つ一つ分解しています。ハサンにとって、包囲は力任せではありません。それは避けられない運命を意味します。ゆっくりと締まる絞首刑のように、時間が経つにつれて圧力が増し、無敵だと思っていた者たちの心の中で降伏のささやきが大きくなっていきます。\n\nしかし、彼の戦術的な brilliance にもかかわらず、ハサンは戦闘の混沌に慣れていないわけではありません。彼は戦略の計画を好みますが、瞬間が要求する時には敵と顔をつき合わせることをためらいません。彼のシミターは、磨かれているがしばしば触れられることなく、威圧のためではなく、忍耐を弱さと誤解する者への最後の教訓です。彼は指揮するように戦い、精度と目的を持って敵の隊列を切り裂き、彼らの防御を解体するのと同じように容易に切り抜けます。壊れないバリケードはなく、彼の手の届かない要塞はありません。そして、彼が正しい瞬間だと判断したとき、彼の道を阻むものは何もありません。\n\nアリスにとって、彼は単なる教師以上の存在でした。彼は、独創性と忍耐が最も強力な敵を打ち破ることができるという証明でした。彼女が革新的な武器を作り出すのと同様に、彼は自分のテントの影から勝利を作り出し、パイプの煙が戦場の上でうねるのは、崩壊する要塞の最後の前兆のようです。\n\n鋭い視線を持ち、さらに鋭い頭脳を持つハサンは、門を突撃する必要はありません。彼はただ待っています。なぜなら、結局のところ、壁は崩れ、敵は動揺し、いつも通り彼が勝つからです。",
-    "event_announcement_description_128": "再生の祭りが始まると、神秘的なホロウムーンの召喚者が現れ、古代の魔法で満たされた不気味な金の卵を残します。これらのホロウムーンエッグには、希少な宝物、強力な装備、貴重な資源が含まれています。それらを召喚者に捧げ、報酬を解放し、独占的な賞品のためにランクを上げましょう。運はあなたに味方するのか、それともホロウムーンがその影を落とすのか？",
-    "event_announcement_header_128": "ハロウムーンの召喚",
+    "dialog_event_announcement_description_128": "再生の祭りが始まると、神秘的なホロウムーンの召喚者が現れ、古代の魔法で満たされた不気味な金の卵を残します。これらのホロウムーンエッグには、希少な宝物、強力な装備、貴重な資源が含まれています。それらを召喚者に捧げ、報酬を解放し、独占的な賞品のためにランクを上げましょう。運はあなたに味方するのか、それともホロウムーンがその影を落とすのか？",
+    "dialog_event_announcement_header_128": "ハロウムーンの召喚",
     "event_end_description_EasterGacha": "祭りが薄れ、霧が退くと、ホロウムーンの召喚者は消え、魔法の卵とその秘密を持ち去ります。神秘を受け入れ、運命を試してくれてありがとう。次の食の時まで...",
     "event_end_header_EasterGacha": "ハロウムーンの召喚",
     "event_title_128": "ハロウムーンの召喚",
@@ -12687,7 +12702,10 @@
     "title_advisor_nomad": "ノマドアドバイザー",
     "currency_description_OfferingHasan": "将軍の宿でルートヴィヒ王と交換し、非常に貴重な報酬を獲得します。報酬抽選には常にハサンのかけらが含まれています。ハサンのオファーの交換は限られた時間のみ可能です！",
     "currency_name_OfferingHasan": "ハサンのルートヴィヒへの捧げ物",
-    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "これは、選択されたオファーに対するこのパトロンの報酬カテゴリーの抽選確率です。各カテゴリーには、特定の報酬タイプが含まれており、ランダムに選ばれます。有料オファーごとに、4回の抽選が行われ、それぞれの抽選には以下に示す確率があります。\n\n抽選確率        報酬カテゴリー\n\n09.00%                  - ハサンの破片\n\n00.50%                  - ルートヴィヒへのハサンのオファー\n\n03.00%                  - ビアトリス王女へのオファー\n\n05.00%                  - ウルリッヒ卿へのオファー\n\n08.00%                  - ルートヴィヒ王へのオファー\n\n02.00%                  - スキルリセットトークン\n\n03.40%                  - 装備"
+    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "これは、選択されたオファーに対するこのパトロンの報酬カテゴリーの抽選確率です。各カテゴリーには、特定の報酬タイプが含まれており、ランダムに選ばれます。有料オファーごとに、4回の抽選が行われ、それぞれの抽選には以下に示す確率があります。\n\n抽選確率        報酬カテゴリー\n\n09.00%                  - ハサンの破片\n\n00.50%                  - ルートヴィヒへのハサンのオファー\n\n03.00%                  - ビアトリス王女へのオファー\n\n05.00%                  - ウルリッヒ卿へのオファー\n\n08.00%                  - ルートヴィヒ王へのオファー\n\n02.00%                  - スキルリセットトークン\n\n03.40%                  - 装備",
+    "TITLE_EASTERGACHA": "ハロウムーンの召喚",
+    "intro_advisor_nomad_short": "ノマド侵略中に、ダウンタイムなしでノマドキャンプに連続攻撃を仕掛けます。",
+    "advisor_attack": "アドバイザーの攻撃"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% ユニットの攻撃時の戦闘力",
@@ -14025,7 +14043,9 @@
     "ci_effect_unitWallAbsoluteAmount_tt": "城壁に配置される部隊の数：",
     "ci_effect_unitWallAbsoluteAmount": "城壁の最大部隊数　+{0}",
     "ci_effect_unitWallAbsoluteAmountTCI": "城壁の最大部隊数　+{0}",
-    "equip_effect_description_unitWallAbsoluteAmount": "+{0} ユニット制限 壁に"
+    "equip_effect_description_unitWallAbsoluteAmount": "+{0} ユニット制限 壁に",
+    "equip_effect_description_allianceFameBoost": "+{0}% 攻撃時に獲得した栄光ポイント",
+    "equip_effect_description_allianceTravelSupportBoost": "アライアンスサポートの移動時間: -{0}%"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "英雄",
@@ -17374,7 +17394,7 @@
     "equipment_unique_1061_desc": "城を泡の砦に変化させます。",
     "equipment_unique_1062_desc": "城を泡の砦に変化させます。",
     "equip_effect_description_emptyGemSocket_name": "空のジェムスロット",
-    "equip_effect_description_appearance_baron_transformationTarget": "この珍しいアイテムでLTPEでの支配力を示し、メインキャッスル、前哨基地、首都、または大都市を他のプレイヤーと差別化する真にユニークな存在に変えましょう。",
+    "equip_effect_description_appearance_baron_transformationTarget": "変革は主要な城、前哨、首都、そして大都市に適用されます。",
     "equip_effect_description_appearance_commander_transformationTarget": "王国での行進中の軍と嵐の島での戦艦に変化が適用されます。",
     "equip_effect_description_noGemSocket_name": "ジェムスロットがありません",
     "equip_effect_description_permanentAppearance": "永久アイテム",
@@ -18005,10 +18025,19 @@
     "equipment_unique_1241": "グランドアメジストロータス",
     "equipment_unique_1242": "グランドアメジストロータス",
     "equipment_unique_1243": "グランドアメジストロータス",
-    "equipment_unique_1263": "イースターのバードハウス",
-    "equipment_unique_1263_desc": "イースターバードハウスの陽気な精神を解き放ち、再生の季節を迎え入れましょう。あなたの城を生き生きとした避難所に変え、鮮やかな巣やカラフルなイースターエッグで飾り、春の到来の喜びを反映させましょう。",
-    "equipment_unique_1264": "イースターのシダ",
-    "equipment_unique_1264_desc": "あなたの軍を更新の力に変え、広がるシダの下や隠れたイースターエッグの下を行進し、成長と祝福の精神を抱きしめましょう。"
+    "equipment_unique_1263": "凍てついた花",
+    "equipment_unique_1263_desc": "あなたの軍隊をミツバチの戦車に変え、敵への成功した攻撃から得られたミツバチの数を増やします。これはどういうことですか？",
+    "equipment_unique_1264": "凍てついた花",
+    "equipment_unique_1264_desc": "あなたの軍隊をミツバチの戦車に変え、敵への成功した攻撃から得られたミツバチの数を増やします。これはどういうことですか？",
+    "equip_effect_description_appearance_baron_transformationTarget_increasedSizeLTPE": "変換は、主要な城、前哨基地、首都、そして大都市に適用されます。世界地図上であなたの城のサイズを増加させます。",
+    "equipment_unique_1265": "凍てついた花",
+    "equipment_unique_1265_desc": "あなたの軍隊をミツバチの戦車に変え、敵への成功した攻撃から得られたミツバチの数を増やします。これはどういうことですか？",
+    "equipment_unique_1266": "春の贈り物",
+    "equipment_unique_1266_desc": "豊かな春の約束ほど刺激的なものはありません。あなたの城を壮大な春の花に変えましょう。",
+    "equipment_unique_1267": "イースターの鳥小屋",
+    "equipment_unique_1267_desc": "イースターのバードハウスの楽しいスピリットを解き放ち、再生の季節を迎えましょう。お城を色とりどりの巣やカラフルなイースターエッグで飾られた活気ある聖域に変え、春の訪れの喜びを反響させましょう。",
+    "equipment_unique_1268": "イースターのシダ",
+    "equipment_unique_1268_desc": "あなたの軍を再生の力に変え、広がるシダの下や隠れたイースターエッグの下を行進し、成長と祝祭の精神を抱きしめましょう。"
   },
   "generic": {
     "activity": "アクティビティ",

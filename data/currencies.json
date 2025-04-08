@@ -710,9 +710,9 @@
     {
       "currencyID": 6007,
       "crossplayID": 6007,
-      "Name": "OfferingHasan",
+      "Name": "HasanToken",
       "JSONKey": "HAT",
-      "assetName": "OfferingHasan"
+      "assetName": "HasanToken"
     },
     {
       "currencyID": 10000,
@@ -1098,6 +1098,13 @@
       "Name": "FrozenCarrot",
       "JSONKey": "CC",
       "assetName": "FrozenCarrot"
+    },
+    {
+      "currencyID": 80,
+      "crossplayID": 80,
+      "Name": "HollowMoonEgg",
+      "JSONKey": "HME",
+      "assetName": "HollowMoonEgg"
     },
     {
       "currencyID": 100000,

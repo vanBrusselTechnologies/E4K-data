@@ -2025,7 +2025,22 @@
     "deco_ExaltedRedEasterHotspring_name": "Manantial rojo de Pascua exaltado",
     "deco_ExaltedRedEasterRuins_name": "Ruinas rojas exaltadas de Pascua",
     "deco_ExaltedRedEggTree_name": "Guardia roja exaltada de la crianza",
-    "deco_ExaltedRedMarchHaresHideout_name": "Escondite de la liebre roja exaltada"
+    "deco_ExaltedRedMarchHaresHideout_name": "Escondite de la liebre roja exaltada",
+    "deco_ExaltedGuardianOfNurtureGreen_name": "Guardabosques Verde Exaltado del Cuidado",
+    "deco_ExaltedGuardianOfNurturePurple_name": "Guardián púrpura exaltado del sustento",
+    "deco_ExaltedGuardianOfNurtureRed_name": "Guardián Rojo Exaltado de la Nutrición",
+    "ci_appearance_theBrokenEggDwelling": "Casa de huevo roto",
+    "ci_appearance_theBrokenEggDwelling_flavor": "El aroma de las flores frescas flota a través de las ventanas abiertas mientras la luz del sol danza sobre los huevos pintados. Los guardias intercambian bromas amistosas, tejiendo guirnaldas y preparándose para la alegre renovación de la temporada.",
+    "ci_appearance_theBrokenEggGreenhouse": "Invernadero de huevo roto",
+    "ci_appearance_theBrokenEggGreenhouse_flavor": "Dentro, los soldados se mueven entre el aroma de la tierra fresca y las flores que brotan, cuidando con esmero la nueva vida mientras preparan cestas repletas de flores vibrantes y huevos pintados.",
+    "ci_appearance_theBrokenEggStorehouse": "Almacén de huevos rotos",
+    "ci_appearance_theBrokenEggStorehouse_flavor": "El almacén rebosa de cosechas frescas, dulces y coloridos huevos, asegurando que ninguna celebración pase sin su abundancia festiva.",
+    "ci_appearance_theBrokenEggTavern": "taberna El Huevo Roto",
+    "ci_appearance_theBrokenEggTavern_flavor": "Pon un resorte en tus pasos y relájate en la taberna más excelente del Gran Imperio.",
+    "ci_appearance_theBrokenEggDwelling_flavour": "El aroma de las flores frescas flota a través de las ventanas abiertas mientras la luz del sol danza sobre los huevos pintados. Los guardias intercambian bromas amistosas, trenzando guirnaldas y preparándose para la alegre renovación de la temporada.",
+    "ci_appearance_theBrokenEggGreenhouse_flavour": "Dentro, los soldados se mueven entre el aroma de la tierra fresca y las flores brotadoras, cuidando cuidadosamente la nueva vida mientras preparan cestas repletas de vibrantes flores y huevos pintados.",
+    "ci_appearance_theBrokenEggStorehouse_flavour": "El almacén rebosa de cosechas frescas, dulces golosinas y coloridos huevos, asegurando que ninguna celebración se quede sin su abundancia festiva.",
+    "ci_appearance_theBrokenEggTavern_flavour": "Pon un salto en tus pasos y relájate en la taberna más huevocéntrica del Gran Imperio."
   },
   "dialogs": {
     "dialog_festival_desc": "¡Usa comida para celebrar un festín para tus ciudadanos! La velocidad de reclutamiento aumentará considerablemente en todos tus castillos mientras dure el festín. Mientras más grande sea el festín, mayor será el efecto.",
@@ -12629,8 +12644,8 @@
     "generals_characters_120_summary": "Táctico magistral y especialista en asedios incansable.",
     "generals_characters_120_name": "Hasan",
     "generals_characters_120_narrative": "Maestro Ingeniero Hasan\n\n&quot;Un asedio no es una prueba de fuerza, es una prueba de paciencia, precisión e inevitabilidad.&quot;\n\nMucho antes de que las manos de Alice agarraran por primera vez una llave inglesa, antes de que su mente comenzara a dar forma a las invenciones que cambiarían el rumbo de la guerra, estaba Hasan, el maestro táctico cuyo nombre podía hacer que los defensores entraran en pánico. El estratega de asedios más reverenciado del Gran Imperio, ha hecho estallar más muros y ha sobrevivido más fortalezas de las que la historia se atreve a contar. Un hombre de sabia tranquilidad e inquebrantable paciencia, Hasan no se apresura a la batalla. Espera, observa y cuando llega el momento adecuado, ataca rápida y decisivamente, como una hoja cortando seda.\n\nDonde otros ven una fortaleza impenetrable, Hasan ve un rompecabezas con mil soluciones. Cada batalla se gana mucho antes de que vuele la primera flecha, cada victoria grabada en las líneas de sus mapas de batalla antes de que el enemigo siquiera sepa que está condenado. Su mente, agudizada a través de años de incansable perfeccionamiento, es una máquina de guerra en sí misma, girando, calculando y desmantelando defensas pieza por pieza. Para Hasan, un asedio no se trata de fuerza bruta. Se trata de inevitabilidad. El lento apretón de un lazo, la presión aumentando con cada hora que pasa, el susurro de rendición volviéndose más fuerte en las mentes de aquellos que se creían intocables.\n\nSin embargo, a pesar de su brillantez táctica, Hasan no es ajeno al caos de la batalla. Aunque prefiere el ritmo medido de la estrategia, no duda en enfrentarse a sus enemigos cara a cara cuando el momento lo exige. Su cimitarra, mantenida pulida pero a menudo intacta, no es para intimidación, es una lección final para aquellos que confunden paciencia con debilidad. Lucha como manda, con precisión y propósito, cortando a través de las filas enemigas con la misma facilidad con la que desmantela sus defensas. Ningún barricada es inquebrantable, ninguna fortaleza está más allá de su alcance, y cuando considera que el momento es correcto, no hay nada que se interponga en su camino.\n\nPara Alice, él fue más que un maestro. Fue la prueba de que la ingeniosidad y la paciencia pueden romper incluso a los enemigos más fuertes. Así como ella crea armas de innovación, él crea victorias desde las sombras de su tienda, el humo de su pipa retorciéndose sobre el campo de batalla como el último presagio de una fortaleza destinada a caer.\n\nCon una mirada tan aguda como su hoja y una mente aún más afilada, Hasan no necesita asaltar las puertas. Simplemente espera. Porque al final, los muros se desmoronarán, el enemigo vacilará, y como siempre, él ganará.",
-    "event_announcement_description_128": "Con el inicio del Festival de Renacimiento, el enigmático Invocador de la Luna Hueca aparece, dejando atrás huevos dorados espeluznantes llenos de magia antigua. Estos Huevos de la Luna Hueca contienen tesoros raros, equipo poderoso y recursos valiosos. Ofrécelos al Invocador, desbloquea recompensas y asciende en las filas por premios exclusivos. ¿La fortuna te favorecerá, o la Luna Hueca proyectará su sombra?",
-    "event_announcement_header_128": "Invocación de la Luna Hueca",
+    "dialog_event_announcement_description_128": "Con el inicio del Festival de Renacimiento, el enigmático Invocador de la Luna Hueca aparece, dejando atrás huevos dorados espeluznantes llenos de magia antigua. Estos Huevos de la Luna Hueca contienen tesoros raros, equipo poderoso y recursos valiosos. Ofrécelos al Invocador, desbloquea recompensas y asciende en las filas por premios exclusivos. ¿La fortuna te favorecerá, o la Luna Hueca proyectará su sombra?",
+    "dialog_event_announcement_header_128": "Invocación de la Luna Hueca",
     "event_end_description_EasterGacha": "A medida que el festival se desvanece y la niebla se retira, el Invocador de la Luna Hueca desaparece, llevándose sus huevos encantados y sus secretos. Gracias por abrazar el misterio y probar tu destino. Hasta el próximo eclipse...",
     "event_end_header_EasterGacha": "Invocación de la Luna Hueca",
     "event_title_128": "Invocación de la Luna Hueca",
@@ -12687,7 +12702,10 @@
     "title_advisor_nomad": "Asesor nómada",
     "currency_description_OfferingHasan": "Intercambio con el rey Ludwig en la taberna de los generales para obtener recompensas muy valiosas. Los sorteos de recompensas siempre incluyen fragmentos para Hasan. El intercambio de la oferta de Hasan solo se puede hacer por tiempo limitado.",
     "currency_name_OfferingHasan": "Ofrecimiento de Hasan a Ludwig",
-    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "Estas son las oportunidades de sorteo para las categorías de recompensas de este patrón con la oferta seleccionada. Cada categoría contiene tipos de recompensas específicas, que serán elegidas al azar. Por cada oferta pagada, se realizan cuatro sorteos, cada sorteo tiene las oportunidades listadas a continuación.\n\nOportunidad de sorteo        Categorías de recompensas\n\n09.00%                  - Fragmentos de Hasan\n\n00.50%                  - Oferta de Hasan a Ludwig\n\n03.00%                  - Oferta a la Princesa Beatriz\n\n05.00%                  - Oferta a Sir Ulrich\n\n08.00%                  - Oferta al Rey Ludwig\n\n02.00%                  - Tokens de reinicio de habilidades\n\n03.40%                  - Equipamiento"
+    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "Estas son las oportunidades de sorteo para las categorías de recompensas de este patrón con la oferta seleccionada. Cada categoría contiene tipos de recompensas específicas, que serán elegidas al azar. Por cada oferta pagada, se realizan cuatro sorteos, cada sorteo tiene las oportunidades listadas a continuación.\n\nOportunidad de sorteo        Categorías de recompensas\n\n09.00%                  - Fragmentos de Hasan\n\n00.50%                  - Oferta de Hasan a Ludwig\n\n03.00%                  - Oferta a la Princesa Beatriz\n\n05.00%                  - Oferta a Sir Ulrich\n\n08.00%                  - Oferta al Rey Ludwig\n\n02.00%                  - Tokens de reinicio de habilidades\n\n03.40%                  - Equipamiento",
+    "TITLE_EASTERGACHA": "Invocación de la Luna Hueca",
+    "intro_advisor_nomad_short": "Durante la invasión nómada, lanza ataques consecutivos a los campamentos nómadas sin tiempo de inactividad.",
+    "advisor_attack": "Ataque del asesor"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% de fuerza de combate de la unidad al atacar",
@@ -14025,7 +14043,9 @@
     "ci_effect_unitWallAbsoluteAmount_tt": "Capacidad de tropas en el muro del castillo:",
     "ci_effect_unitWallAbsoluteAmount": "Límite de unidades en el muro: +{0}",
     "ci_effect_unitWallAbsoluteAmountTCI": "Límite de unidades en el muro: +{0}",
-    "equip_effect_description_unitWallAbsoluteAmount": "+{0} límite de unidades en la pared"
+    "equip_effect_description_unitWallAbsoluteAmount": "+{0} límite de unidades en la pared",
+    "equip_effect_description_allianceFameBoost": "+{0}% puntos de gloria ganados al atacar",
+    "equip_effect_description_allianceTravelSupportBoost": "Tiempo de viaje de apoyo a la alianza: -{0}%"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Héroe",
@@ -17374,7 +17394,7 @@
     "equipment_unique_1061_desc": "Tu castillo se vuelve una fortaleza espumosa.",
     "equipment_unique_1062_desc": "Tu castillo se vuelve una fortaleza espumosa.",
     "equip_effect_description_emptyGemSocket_name": "Espacio de gema vacío",
-    "equip_effect_description_appearance_baron_transformationTarget": "Demuestra tu dominio en el LTPE con este raro objeto, transformando tus castillos principales, puestos avanzados, capital o metrópoli en una presencia verdaderamente única que te distingue de otros jugadores.",
+    "equip_effect_description_appearance_baron_transformationTarget": "La transformación se aplica a los castillos principales, el puesto avanzado, la capital y la metrópoli.",
     "equip_effect_description_appearance_commander_transformationTarget": "La transformación se aplica a las tropas en movimiento en los reinos y a los buques de guerra en las Islas Tempestuosas.",
     "equip_effect_description_noGemSocket_name": "Sin espacio de gema",
     "equip_effect_description_permanentAppearance": "Objeto permanente",
@@ -18005,10 +18025,19 @@
     "equipment_unique_1241": "Gran loto amatista",
     "equipment_unique_1242": "Gran loto amatista",
     "equipment_unique_1243": "Gran loto amatista",
-    "equipment_unique_1263": "Casa para pájaros de Pascua",
-    "equipment_unique_1263_desc": "Desata el alegre espíritu de la Casa de Aves de Pascua para dar la bienvenida a la temporada de renovación. Transforma tu castillo en un refugio animado, adornado con nidos vibrantes y coloridos huevos de Pascua, reflejando la alegría del regreso de la primavera.",
-    "equipment_unique_1264": "helecho de Pascua",
-    "equipment_unique_1264_desc": "Transforma tu ejército en una fuerza de renovación, marchando bajo helechos desplegándose y huevos de Pascua ocultos, abrazando el espíritu de crecimiento y celebración."
+    "equipment_unique_1263": "flor congelada",
+    "equipment_unique_1263_desc": "Transforma tu ejército en un carro de abejas y aumenta las abejas reclamadas de ataques exitosos a tus enemigos, ¿cómo puede ser esto?",
+    "equipment_unique_1264": "flor congelada",
+    "equipment_unique_1264_desc": "Transforma tu ejército en un carro de abejas y aumenta las abejas reclamadas de ataques exitosos a tus enemigos, ¿cómo puede ser esto?",
+    "equip_effect_description_appearance_baron_transformationTarget_increasedSizeLTPE": "La transformación se aplica a los castillos principales, puestos avanzados, capital y metrópoli. Aumenta el tamaño de tu castillo en el mapa del mundo.",
+    "equipment_unique_1265": "flor congelada",
+    "equipment_unique_1265_desc": "Transforma tu ejército en un carro de abejas y aumenta las abejas reclamadas de ataques exitosos a tus enemigos, ¿cómo puede ser esto?",
+    "equipment_unique_1266": "Regalo de primavera",
+    "equipment_unique_1266_desc": "No hay nada más emocionante que la promesa de una abundante primavera. Transforma tu castillo en una majestuosa flor de primavera.",
+    "equipment_unique_1267": "Casa de aves de Pascua",
+    "equipment_unique_1267_desc": "Desata el alegre espíritu de la Casa de Aves de Pascua para dar la bienvenida a la temporada de renovación. Transforma tu castillo en un refugio animado, adornado con nidos vibrantes y coloridos huevos de Pascua, reflejando la alegría del regreso de la primavera.",
+    "equipment_unique_1268": "helecho de Pascua",
+    "equipment_unique_1268_desc": "Transforma tu ejército en una fuerza de renovación, marchando bajo helechos desplegados y huevos de Pascua ocultos, abrazando el espíritu de crecimiento y celebración."
   },
   "generic": {
     "activity": "Actividad",

@@ -905,17 +905,17 @@
     {
       "capID": 11500,
       "crossplayID": 11500,
-      "maxTotalBonus": 900
+      "maxTotalBonus": 4000
     },
     {
       "capID": 35,
       "crossplayID": 35,
-      "maxTotalBonus": 40000
+      "maxTotalBonus": 50000
     },
     {
       "capID": 36,
       "crossplayID": 36,
-      "maxTotalBonus": 400000
+      "maxTotalBonus": 500000
     },
     {
       "capID": 37,
@@ -940,12 +940,12 @@
     {
       "capID": 41,
       "crossplayID": 41,
-      "maxTotalBonus": 70
+      "maxTotalBonus": 400
     },
     {
       "capID": 42,
       "crossplayID": 42,
-      "maxTotalBonus": 40000
+      "maxTotalBonus": 50000
     },
     {
       "capID": 43,
@@ -975,12 +975,12 @@
     {
       "capID": 48,
       "crossplayID": 48,
-      "maxTotalBonus": 100000
+      "maxTotalBonus": 150000
     },
     {
       "capID": 49,
       "crossplayID": 49,
-      "maxTotalBonus": 60000
+      "maxTotalBonus": 75000
     },
     {
       "capID": 50,
@@ -1015,7 +1015,7 @@
     {
       "capID": 56,
       "crossplayID": 56,
-      "maxTotalBonus": 40000
+      "maxTotalBonus": 150000
     },
     {
       "capID": 57,
@@ -1025,7 +1025,7 @@
     {
       "capID": 58,
       "crossplayID": 58,
-      "maxTotalBonus": 14
+      "maxTotalBonus": 150
     },
     {
       "capID": 59,
@@ -1121,6 +1121,31 @@
       "capID": 77,
       "crossplayID": 77,
       "maxTotalBonus": 50
+    },
+    {
+      "capID": 78,
+      "crossplayID": 78,
+      "maxTotalBonus": 150
+    },
+    {
+      "capID": 79,
+      "crossplayID": 79,
+      "maxTotalBonus": 30
+    },
+    {
+      "capID": 80,
+      "crossplayID": 80,
+      "maxTotalBonus": 30
+    },
+    {
+      "capID": 81,
+      "crossplayID": 81,
+      "maxTotalBonus": 100
+    },
+    {
+      "capID": 82,
+      "crossplayID": 82,
+      "maxTotalBonus": 100
     }
   ]
 }

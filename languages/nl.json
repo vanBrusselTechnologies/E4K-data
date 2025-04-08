@@ -2025,7 +2025,22 @@
     "deco_ExaltedRedEasterHotspring_name": "Verheven rode Pasen-hotspring",
     "deco_ExaltedRedEasterRuins_name": "Verheven rode paaskruinen",
     "deco_ExaltedRedEggTree_name": "Verheven rode bewaker van de verzorging",
-    "deco_ExaltedRedMarchHaresHideout_name": "Schuilplaats van de verheven rode maartse haas"
+    "deco_ExaltedRedMarchHaresHideout_name": "Schuilplaats van de verheven rode maartse haas",
+    "deco_ExaltedGuardianOfNurtureGreen_name": "Verheven Groene Bewaker van de Zorg",
+    "deco_ExaltedGuardianOfNurturePurple_name": "Verheven paarse voedingswachter",
+    "deco_ExaltedGuardianOfNurtureRed_name": "Verheven Rode Beschermer van de Verzorging",
+    "ci_appearance_theBrokenEggDwelling": "Gebroken ei woning",
+    "ci_appearance_theBrokenEggDwelling_flavor": "De geur van verse bloesems waait door open ramen terwijl zonlicht danst over geschilderde eieren. Bewakers wisselen goedhartige grappen uit, vlechten kransen en bereiden zich voor op de vrolijke vernieuwing van het seizoen.",
+    "ci_appearance_theBrokenEggGreenhouse": "Kwekerij van een gebroken ei",
+    "ci_appearance_theBrokenEggGreenhouse_flavor": "Binnen bewegen soldaten zich tussen de geur van verse aarde en bloeiende bloemen, terwijl ze zorgvuldig zorgen voor nieuw leven, terwijl ze manden voorbereiden die vol zitten met levendige bloemen en geschilderde eieren.",
+    "ci_appearance_theBrokenEggStorehouse": "Opslag voor gebroken eieren",
+    "ci_appearance_theBrokenEggStorehouse_flavor": "Het magazijn is gevuld met verse oogsten, zoete lekkernijen en kleurrijke eieren, zodat geen enkele viering zonder zijn feestelijke overvloed gaat.",
+    "ci_appearance_theBrokenEggTavern": "Herberg Het Rotte Ei",
+    "ci_appearance_theBrokenEggTavern_flavor": "Zet een lente in je stap en ontspan in de meest voortreffelijke herberg van het Grote Rijk.",
+    "ci_appearance_theBrokenEggDwelling_flavour": "De geur van verse bloemen waft door open ramen terwijl zonlicht danst op beschilderde eieren. Bewakers wisselen goedhartige grappen uit, vlechten kransen en bereiden zich voor op de vreugdevolle vernieuwing van het seizoen.",
+    "ci_appearance_theBrokenEggGreenhouse_flavour": "Binnen bewegen soldaten zich tussen de geur van verse aarde en bloeiende bloemen, terwijl ze voorzichtig zorgen voor nieuw leven terwijl ze manden voorbereiden vol levendige bloemen en geschilderde eieren.",
+    "ci_appearance_theBrokenEggStorehouse_flavour": "De opslagplaats puilt uit van verse oogsten, zoetigheden en kleurrijke eieren, waardoor geen enkele viering zonder zijn feestelijke overvloed blijft.",
+    "ci_appearance_theBrokenEggTavern_flavour": "Geef je stappen een sprongetje en ontspan in de meest ei-achtige herberg van het Grote Rijk."
   },
   "dialogs": {
     "dialog_festival_desc": "Gebruik voedsel om een festival te geven voor uw burgers! Zolang het festival duurt, wordt er in al uw kastelen aanmerkelijk sneller gerekruteerd. Hoe groter het festival, hoe groter het effect.",
@@ -12629,8 +12644,8 @@
     "generals_characters_120_summary": "Meesterlijke tacticus en onvermoeibare belegeringsspecialist.",
     "generals_characters_120_name": "Hasan",
     "generals_characters_120_narrative": "Meester Ingenieur Hasan\n\n&quot;Een belegering is geen test van kracht, het is een test van geduld, precisie en onontkoombaarheid.&quot;\n\nLang voordat Alice voor het eerst een moersleutel vasthield, voordat haar geest begon met het vormen van de uitvindingen die de loop van de oorlog zouden veranderen, was daar Hasan, de meester tacticus wiens naam alleen al verdedigers in paniek kon brengen. De meest vereerde belegering-strateeg van het Grote Rijk, hij heeft meer muren verwoest en meer vestigingen overleefd dan de geschiedenis durft te tellen. Een man van stille wijsheid en onwrikbaar geduld, Hasan haast zich niet naar de strijd. Hij wacht, hij observeert, en wanneer het juiste moment is aangebroken, slaat hij snel en doeltreffend toe, als een mes dat door zijde snijdt.\n\nWaar anderen een ondoordringbare vesting zien, ziet Hasan een puzzel met duizend oplossingen. Elke strijd is lang voordat de eerste pijl wordt afgeschoten, gewonnen; elke overwinning is in de lijnen van zijn strijdkaarten gegraveerd voordat de vijand zelfs maar beseft dat ze gedoemd zijn. Zijn geest, gescherpt door jaren van onvermoeibare verfijning, is op zichzelf een oorlogsmachine die draait, rekent en verdedigingen stuk voor stuk afbreekt. Voor Hasan gaat een belegering niet over brute kracht. Het gaat over onontkoombaarheid. De langzame verstrakking van een strik, de druk die toeneemt met elk voorbijgaand uur, het gefluister van overgave dat luider wordt in de gedachten van degenen die zichzelf onaanraakbaar achten.\n\nToch, ondanks al zijn tactische genialiteit, is Hasan geen onbekende met de chaos van de strijd. Hoewel hij de gemeten snelheid van strategie verkiest, aarzelt hij niet om zijn vijanden van aangezicht tot aangezicht te ontmoeten wanneer het moment dat vereist. Zijn sabel, die glanzend maar vaak onaangeroerd wordt gehouden, is niet voor intimidatie, het is een laatste les voor degenen die geduld met zwakte verwarren. Hij vecht zoals hij bevelen geeft, met precisie en doel, door de linies van de vijand snijdend met dezelfde gemakkelijkheid als hij hun verdedigingen afbreekt. Geen barricade is onbreekbaar, geen vesting buiten zijn bereik, en wanneer hij het moment juist acht, is er niets dat hem zal tegenhouden.\n\nVoor Alice was hij meer dan een leraar. Hij was het bewijs dat vindingrijkheid en geduld zelfs de sterkste vijanden kunnen breken. Net zoals zij wapens van innovatie vervaardigt, creëert hij overwinningen vanuit de schaduw van zijn tent, terwijl pijprook boven het slagveld krult als het laatste voorteken van een vesting die gedoemd is te vallen.\n\nMet een blik zo scherp als zijn mes en een geest die nog scherper is, heeft Hasan geen behoefte om de poorten aan te vallen. Hij wacht gewoon. Want uiteindelijk zullen de muren instorten, zal de vijand wankelen, en zoals altijd zal hij winnen.",
-    "event_announcement_description_128": "Naarmate het Festival van Wedergeboorte begint, verschijnt de raadselachtige Oproeper van de Holle Maan, die griezelige gouden eieren vol oude magie achterlaat. Deze Holle Maan Eieren bevatten zeldzame schatten, krachtige uitrusting en waardevolle hulpbronnen. Bied ze aan de Oproeper aan, ontgrendel beloningen en klim in de rangen voor exclusieve prijzen. Zal het geluk je gunstig gezind zijn, of zal de Holle Maan zijn schaduw werpen?",
-    "event_announcement_header_128": "Oproep van de Holle Maan",
+    "dialog_event_announcement_description_128": "Naarmate het Festival van Wedergeboorte begint, verschijnt de raadselachtige Oproeper van de Holle Maan, die griezelige gouden eieren vol oude magie achterlaat. Deze Holle Maan Eieren bevatten zeldzame schatten, krachtige uitrusting en waardevolle hulpbronnen. Bied ze aan de Oproeper aan, ontgrendel beloningen en klim in de rangen voor exclusieve prijzen. Zal het geluk je gunstig gezind zijn, of zal de Holle Maan zijn schaduw werpen?",
+    "dialog_event_announcement_header_128": "Oproep van de Holle Maan",
     "event_end_description_EasterGacha": "Terwijl het festival vervaagt en de mist zich terugtrekt, verdwijnt de Oproeper van de Holle Maan, en neemt zijn betoverde eieren en hun geheimen mee. Bedankt dat je de mysterieuze omarmde en je lot hebt getest. Tot de volgende eclips...",
     "event_end_header_EasterGacha": "Oproep van de Holle Maan",
     "event_title_128": "Oproep van de Holle Maan",
@@ -12687,7 +12702,10 @@
     "title_advisor_nomad": "Nomade adviseur",
     "currency_description_OfferingHasan": "Ruil met koning Ludwig in de herberg van de generaals om zeer waardevolle beloningen te krijgen. Beloningsloterijen bevatten altijd fragmenten voor Hasan. Het ruilen van Hasans aanbod kan alleen voor een beperkte tijd!",
     "currency_name_OfferingHasan": "Hasans aanbod aan koning Ludwig",
-    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "Dit zijn de trekkingkansen voor de beloningscategorieën van deze patron met de geselecteerde aanbieding. Elke categorie bevat specifieke beloningstypes die willekeurig worden gekozen. Voor elke betaalde aanbieding worden vier trekkingen uitgevoerd, elke trekking heeft de hieronder vermelde kansen.\n\nTrekking kans        Beloningscategorieën\n\n09.00%                  - Hasan fragmenten\n\n00.50%                  - Hasans aanbieding aan Ludwig\n\n03.00%                  - Aanbieding aan Prinses Beatrice\n\n05.00%                  - Aanbieding aan Sir Ulrich\n\n08.00%                  - Aanbieding aan Koning Ludwig\n\n02.00%                  - Vaardigheidsreset tokens\n\n03.40%                  - Uitrusting"
+    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "Dit zijn de trekkingkansen voor de beloningscategorieën van deze patron met de geselecteerde aanbieding. Elke categorie bevat specifieke beloningstypes die willekeurig worden gekozen. Voor elke betaalde aanbieding worden vier trekkingen uitgevoerd, elke trekking heeft de hieronder vermelde kansen.\n\nTrekking kans        Beloningscategorieën\n\n09.00%                  - Hasan fragmenten\n\n00.50%                  - Hasans aanbieding aan Ludwig\n\n03.00%                  - Aanbieding aan Prinses Beatrice\n\n05.00%                  - Aanbieding aan Sir Ulrich\n\n08.00%                  - Aanbieding aan Koning Ludwig\n\n02.00%                  - Vaardigheidsreset tokens\n\n03.40%                  - Uitrusting",
+    "TITLE_EASTERGACHA": "Oproep van de Holle Maan",
+    "intro_advisor_nomad_short": "Tijdens de nomadeninvasie, voer achtereenvolgende aanvallen uit op nomadencampings zonder onderbreking.",
+    "advisor_attack": "Adviseur-aanval"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% eenheid vechtkracht bij aanvallen",
@@ -14025,7 +14043,9 @@
     "ci_effect_unitWallAbsoluteAmount_tt": "Troepencapaciteit op de kasteelmuur:",
     "ci_effect_unitWallAbsoluteAmount": "+{0} eenhedenlimiet op de muren",
     "ci_effect_unitWallAbsoluteAmountTCI": "+{0} eenhedenlimiet op de muren",
-    "equip_effect_description_unitWallAbsoluteAmount": "+{0} eenhedenlimiet op de muur"
+    "equip_effect_description_unitWallAbsoluteAmount": "+{0} eenhedenlimiet op de muur",
+    "equip_effect_description_allianceFameBoost": "+{0}% roempunten verdiend bij een aanval",
+    "equip_effect_description_allianceTravelSupportBoost": "Reistijd voor alliantieondersteuning: -{0}%"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Held",
@@ -17374,7 +17394,7 @@
     "equipment_unique_1061_desc": "Transformeert je kasteel tot een schuimfort.",
     "equipment_unique_1062_desc": "Transformeert je kasteel tot een schuimfort.",
     "equip_effect_description_emptyGemSocket_name": "Leeg edelsteenvak",
-    "equip_effect_description_appearance_baron_transformationTarget": "Toon je dominantie in LTPE met dit zeldzame item, dat je hoofdcastelen, vooruitgeschoven posten, hoofdstad of metropool transformeert in een werkelijk unieke aanwezigheid die je onderscheidt van andere spelers.",
+    "equip_effect_description_appearance_baron_transformationTarget": "Transformatie geldt voor de belangrijkste kastelen, voorpost, hoofdstad en metropool.",
     "equip_effect_description_appearance_commander_transformationTarget": "Transformatie is van toepassing op marcherende legers in koninkrijken en oorlogsschepen op de Stormeilanden.",
     "equip_effect_description_noGemSocket_name": "Geen edelsteenvak",
     "equip_effect_description_permanentAppearance": "Permanent item",
@@ -18005,10 +18025,19 @@
     "equipment_unique_1241": "Grote amethistlotus",
     "equipment_unique_1242": "Grote amethistlotus",
     "equipment_unique_1243": "Grote amethistlotus",
-    "equipment_unique_1263": "Paashuisje",
-    "equipment_unique_1263_desc": "Bevrijd de vrolijke geest van het Paashuisje om het seizoen van vernieuwing te verwelkomen. Transformeer je kasteel in een levendig toevluchtsoord, versierd met kleurrijke nesten en kleurrijke paaseieren, die de vreugde van de terugkeer van de lente weergeven.",
-    "equipment_unique_1264": "Paasvaren",
-    "equipment_unique_1264_desc": "Transformeer je leger in een kracht van vernieuwing, marcherend onder openvouwende varens en verborgen paaseieren, de geest van groei en viering omarmend."
+    "equipment_unique_1263": "Bevroren bloesem",
+    "equipment_unique_1263_desc": "Transformeert je leger in een bijenwagen en verhoogt het aantal bijen dat wordt verkregen uit succesvolle aanvallen op je vijanden, hoe kan dit?",
+    "equipment_unique_1264": "Bevroren bloesem",
+    "equipment_unique_1264_desc": "Transformeert je leger in een bijenwagen en verhoogt het aantal bijen dat wordt verkregen uit succesvolle aanvallen op je vijanden, hoe kan dit?",
+    "equip_effect_description_appearance_baron_transformationTarget_increasedSizeLTPE": "Transformatie geldt voor de hoofdcastelen, buitenposten, hoofdstad en metropool. Verhoogt de grootte van je kasteel op de wereldkaart.",
+    "equipment_unique_1265": "Bevroren bloesem",
+    "equipment_unique_1265_desc": "Transformeert je leger in een bijenwagen en verhoogt het aantal bijen dat wordt verkregen uit succesvolle aanvallen op je vijanden, hoe kan dit?",
+    "equipment_unique_1266": "Voorjaarscadeau",
+    "equipment_unique_1266_desc": "Er is niets spannender dan de belofte van een overvloedige lente. Transformeer je kasteel in een majestueuze lentebloem.",
+    "equipment_unique_1267": "Paas vogelhuis",
+    "equipment_unique_1267_desc": "Laat de vrolijke geest van het Paashuisje los om het seizoen van vernieuwing te verwelkomen. Transformeer je kasteel in een levendig toevluchtsoord, versierd met kleurrijke nesten en kleurrijke paaseieren, die de vreugde van de terugkeer van de lente weergeven.",
+    "equipment_unique_1268": "Paasvaren",
+    "equipment_unique_1268_desc": "Transformeer je leger in een kracht van vernieuwing, marcherend onder zich ontvouwende varens en verborgen paaseieren, de geest van groei en viering omarmend."
   },
   "generic": {
     "activity": "Activiteit",

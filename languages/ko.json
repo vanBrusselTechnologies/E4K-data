@@ -2025,7 +2025,22 @@
     "deco_ExaltedRedEasterHotspring_name": "고귀한 붉은 부활절 온천",
     "deco_ExaltedRedEasterRuins_name": "고귀한 빨간 부활절 유적",
     "deco_ExaltedRedEggTree_name": "고귀한 붉은 양육의 수호자",
-    "deco_ExaltedRedMarchHaresHideout_name": "고귀한 붉은 3월 토끼의 은신처"
+    "deco_ExaltedRedMarchHaresHideout_name": "고귀한 붉은 3월 토끼의 은신처",
+    "deco_ExaltedGuardianOfNurtureGreen_name": "고귀한 녹색 양육의 수호자",
+    "deco_ExaltedGuardianOfNurturePurple_name": "고귀한 보라색 양육의 수호자",
+    "deco_ExaltedGuardianOfNurtureRed_name": "고귀한 붉은 양육의 수호자",
+    "ci_appearance_theBrokenEggDwelling": "부서진 달걀 주거지",
+    "ci_appearance_theBrokenEggDwelling_flavor": "신선한 꽃의 향기가 열린 창문을 통해 퍼지고, 햇빛이 칠해진 계란 위에서 춤을 춥니다. 경비원들은 좋은-natured 농담을 주고받으며 화환을 엮고 계절의 즐거운 재생을 준비합니다.",
+    "ci_appearance_theBrokenEggGreenhouse": "깨진 알 온실",
+    "ci_appearance_theBrokenEggGreenhouse_flavor": "안에서는 군인들이 신선한 흙과 꽃이 피어나는 향기 속에서 움직이며, 새로운 생명을 조심스럽게 돌보며 화려한 꽃과 채색된 달걀로 가득한 바구니를 준비합니다.",
+    "ci_appearance_theBrokenEggStorehouse": "부서진 계란 저장소",
+    "ci_appearance_theBrokenEggStorehouse_flavor": "창고는 신선한 수확물, 달콤한 간식, 다채로운 계란으로 가득 차 있어 어떤 축제도 축제의 풍요로움 없이 지나가지 않도록 보장합니다.",
+    "ci_appearance_theBrokenEggTavern": "깨진 알 선술집",
+    "ci_appearance_theBrokenEggTavern_flavor": "당신의 발걸음에 봄을 담고 대제국에서 가장 뛰어난 선술집에서 휴식을 취하세요.",
+    "ci_appearance_theBrokenEggDwelling_flavour": "신선한 꽃의 향기가 열린 창문을 통해 퍼지며 햇빛이 칠해진 계란 위에서 춤을 춥니다. 경비원들은 유쾌한 농담을 주고받으며 화환을 엮고 계절의 즐거운 재생을 준비합니다.",
+    "ci_appearance_theBrokenEggGreenhouse_flavour": "안에서는 군인들이 신선한 흙과 꽃이 피어나는 냄새 사이를 이동하며, 새로운 생명을 세심하게 돌보며 다채로운 꽃과 칠해진 계란으로 가득 찬 바구니를 준비합니다.",
+    "ci_appearance_theBrokenEggStorehouse_flavour": "창고는 신선한 수확물, 달콤한 간식, 다채로운 알로 가득 차 있으며, 어떤 축하도 축제의 풍요 없이 지나치지 않도록 보장합니다.",
+    "ci_appearance_theBrokenEggTavern_flavour": "당신의 발걸음에 활력을 주고, 대제국에서 가장 계란 같은 선술집에서 편안하게 쉬세요."
   },
   "dialogs": {
     "dialog_festival_desc": "식량으로 잔치를 열어 백성들을 배불리 먹이십시오! 잔치가 계속되는 동안 모든 성의 모집 속도가 눈에 띄게 증가합니다. 더 큰 잔치를 벌일수록 효과도 더 증가합니다.",
@@ -12629,8 +12644,8 @@
     "generals_characters_120_summary": "능숙한 전술가이자 끈질긴 포위 전문가입니다.",
     "generals_characters_120_name": "하산",
     "generals_characters_120_narrative": "마스터 엔지니어 하산\n\n&quot;공성전은 힘의 시험이 아니라 인내, 정밀함, 그리고 불가피함의 시험이다.&quot;\n\n앨리스의 손이 처음으로 렌치를 움켜잡기 전, 그녀의 마음이 전쟁의 흐름을 바꿀 발명품을 구상하기 시작하기 전, 그곳에 하산이 있었다. 그의 이름은 수비수를 패닉에 빠뜨릴 수 있는 마스터 전술가의 이름이었다. 대제국에서 가장 존경받는 공성 전략가로서 그는 역사상 가장 많은 성벽을 무너뜨리고 수많은 요새를 초월했다. 조용한 지혜와 흔들리지 않는 인내를 가진 그는 전투에 서두르지 않는다. 그는 기다리고, 지켜보며, 그리고 적절한 순간이 오면, 비단을 자르는 칼처럼 신속하고 단호하게 타격을 가한다.\n\n다른 사람들이 불침투의 요새를 볼 때 하산은 천 가지 해결책이 있는 퍼즐을 본다. 모든 전투는 첫 화살이 날아가기 훨씬 전에 이미 승리하고 있으며, 적이 자신들이 파멸할 것이라는 것을 알기 전 그의 전투 지도에 승리가 새겨진다. 지칠 줄 모르고 다듬어온 그의 마음은 스스로가 하나의 전쟁 엔진이라 돌아가며 방어를 하나씩 분해해 나간다. 하산에게 공성전은 힘의 싸움이 아니다. 그것은 불가피함이다. 느리게 조여지는 올가미, 시간이 지날수록 증가하는 압박감, 자신이 무적이라고 생각한 이들의 마음 속에서 점점 커지는 항복의 속삭임.\n\n그의 전술적 재능에도 불구하고 하산은 전투의 혼돈에 익숙하지 않지 않다. 그는 전략의 측정된 속도를 선호하지만, 순간이 요구할 때 적과 얼굴을 맞대는 것을 주저하지 않는다. 그의 시미타르는 잘 닦여 있지만 자주 손을 대지 않으며, 위협을 위한 것이 아니라 인내를 약함으로 착각하는 자들을 위한 마지막 교훈이다. 그는 명령하며 싸우고, 정밀함과 목표를 가지고 적의 대열을 가로지르며 방어를 해체하는 것처럼 수월하게 적의 대열을 가로지른다. 어떤 바리케이드도 무너뜨릴 수 없고 그의 손이 닿지 않는 요새는 없으며, 그가 순간을 적절하다고 판단할 때 그를 막을 수 있는 것은 없다.\n\n앨리스에게 그는 단순한 스승 그 이상이었다. 그는 독창성과 인내가 가장 강력한 적을 무너뜨릴 수 있다는 증거였다. 그녀가 혁신의 무기를 만들듯이 그는 자신의 텐트 그림자 속에서 승리를 만들어내고, 파이프 연기가 전투의 위로 감도는 것은 무너질 요새의 마지막 예언과도 같았다.\n\n날카로운 시선과 더 날카로운 마음을 가진 하산은 문을 돌파할 필요가 없다. 그는 그저 기다릴 뿐이다. 왜냐하면 결국 벽은 무너지고 적은 주저하며 항상 그가 승리할 것이기 때문이다.",
-    "event_announcement_description_128": "재생의 축제가 시작되면 신비로운 헐렁한 달의 소환사가 나타나고 고대 마법이 가득한 기이한 금색 알을 남깁니다. 이 헐렁한 달의 알에는 희귀한 보물, 강력한 장비 및 귀중한 자원이 들어 있습니다. 소환자에게 그것들을 제공하고 보상을 잠금 해제하며 독점 상금을 위해 등급을 올리십시오. 운이 당신을 선호할 것인가, 아니면 헐렁한 달이 그림자를 드리울 것인가?",
-    "event_announcement_header_128": "홀로우 문 소환",
+    "dialog_event_announcement_description_128": "재생의 축제가 시작되면 신비로운 헐렁한 달의 소환사가 나타나고 고대 마법이 가득한 기이한 금색 알을 남깁니다. 이 헐렁한 달의 알에는 희귀한 보물, 강력한 장비 및 귀중한 자원이 들어 있습니다. 소환자에게 그것들을 제공하고 보상을 잠금 해제하며 독점 상금을 위해 등급을 올리십시오. 운이 당신을 선호할 것인가, 아니면 헐렁한 달이 그림자를 드리울 것인가?",
+    "dialog_event_announcement_header_128": "홀로우 문 소환",
     "event_end_description_EasterGacha": "축제가 사라지고 안개가 물러나면서 홀로우 문 소환사가 사라지고 마법의 알과 그 비밀을 가지고 떠납니다. 신비를 받아들이고 운명을 시험해 주셔서 감사합니다. 다음 일식까지...",
     "event_end_header_EasterGacha": "홀로우 문 소환",
     "event_title_128": "홀로우 문 소환",
@@ -12687,7 +12702,10 @@
     "title_advisor_nomad": "유목민 고문",
     "currency_description_OfferingHasan": "장군의 여관에서 루드비히 왕과 교환하여 매우 귀중한 보상을 받으세요. 보상 추첨에는 항상 하산의 조각이 포함됩니다. 하산의 제안을 교환하는 것은 제한된 시간 동안만 가능합니다!",
     "currency_name_OfferingHasan": "하산의 루드비히에게 바치는 선물",
-    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "이는 선택된 제안과 함께 이 후원자의 보상 카테고리에 대한 추첨 확률입니다. 각 카테고리에는 특정 보상 유형이 포함되어 있으며 무작위로 선택됩니다. 유료 제안마다 네 번의 추첨이 수행되며 각 추첨에는 아래에 나열된 확률이 있습니다.\n\n추첨 확률        보상 카테고리\n\n09.00%                  - 하산 조각\n\n00.50%                  - 루트비히를 위한 하산의 제안\n\n03.00%                  - 비아트리체 공주를 위한 제안\n\n05.00%                  - 울리히 경을 위한 제안\n\n08.00%                  - 루트비히 왕을 위한 제안\n\n02.00%                  - 스킬 리셋 토큰\n\n03.40%                  - 장비"
+    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "이는 선택된 제안과 함께 이 후원자의 보상 카테고리에 대한 추첨 확률입니다. 각 카테고리에는 특정 보상 유형이 포함되어 있으며 무작위로 선택됩니다. 유료 제안마다 네 번의 추첨이 수행되며 각 추첨에는 아래에 나열된 확률이 있습니다.\n\n추첨 확률        보상 카테고리\n\n09.00%                  - 하산 조각\n\n00.50%                  - 루트비히를 위한 하산의 제안\n\n03.00%                  - 비아트리체 공주를 위한 제안\n\n05.00%                  - 울리히 경을 위한 제안\n\n08.00%                  - 루트비히 왕을 위한 제안\n\n02.00%                  - 스킬 리셋 토큰\n\n03.40%                  - 장비",
+    "TITLE_EASTERGACHA": "홀로우 문 소환",
+    "intro_advisor_nomad_short": "유목민 침략 중에는 다운타임 없이 유목민 캠프에 연속 공격을 시작하세요.",
+    "advisor_attack": "조언자 공격"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% 유닛 전투력 공격 시",
@@ -14025,7 +14043,9 @@
     "ci_effect_unitWallAbsoluteAmount_tt": "성벽의 병력 정원:",
     "ci_effect_unitWallAbsoluteAmount": "성벽의 유닛 제한 +{0}",
     "ci_effect_unitWallAbsoluteAmountTCI": "성벽의 유닛 제한 +{0}",
-    "equip_effect_description_unitWallAbsoluteAmount": "+{0} 유닛 한도 벽에"
+    "equip_effect_description_unitWallAbsoluteAmount": "+{0} 유닛 한도 벽에",
+    "equip_effect_description_allianceFameBoost": "+{0}% 공격 시 획득한 명성 포인트",
+    "equip_effect_description_allianceTravelSupportBoost": "동맹 지원 이동 시간: -{0}%"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "영웅",
@@ -17374,7 +17394,7 @@
     "equipment_unique_1061_desc": "성을 거품 요새로 변신시킵니다.",
     "equipment_unique_1062_desc": "성을 거품 요새로 변신시킵니다.",
     "equip_effect_description_emptyGemSocket_name": "빈 보석 슬롯",
-    "equip_effect_description_appearance_baron_transformationTarget": "이 희귀 아이템으로 LTPE에서의 우위를 보여주고, 주요 성, 전초 기지, 수도 또는 대도시를 다른 플레이어와 차별화되는 진정으로 독특한 존재로 변화시킵니다.",
+    "equip_effect_description_appearance_baron_transformationTarget": "변형은 주요 성, 전초기지, 수도 및 대도시에 적용됩니다.",
     "equip_effect_description_appearance_commander_transformationTarget": "행군 중인 왕국의 군대와 폭풍 제도의 전함에 변신을 적용합니다.",
     "equip_effect_description_noGemSocket_name": "보석 슬롯 없음",
     "equip_effect_description_permanentAppearance": "영구 아이템",
@@ -18005,10 +18025,19 @@
     "equipment_unique_1241": "그랜드 자수정 연꽃",
     "equipment_unique_1242": "그랜드 자수정 연꽃",
     "equipment_unique_1243": "그랜드 자수정 연꽃",
-    "equipment_unique_1263": "부활절 새집",
-    "equipment_unique_1263_desc": "부활절 새집의 즐거운 정신을 해방시켜 재생의 계절을 환영하세요. 당신의 성을 생기 넘치는 안식처로 변모시키고, 생동감 넘치는 둥지와 다채로운 부활절 달걀로 장식하여 봄의 귀환의 기쁨을 울려 퍼뜨리세요.",
-    "equipment_unique_1264": "부활절 고사리",
-    "equipment_unique_1264_desc": "당신의 군대를 갱신의 힘으로 변환하세요. 펼쳐진 고사리와 숨겨진 부활절 달걀 아래에서 행진하며 성장과 축하의 정신을 수용합니다."
+    "equipment_unique_1263": "얼어붙은 꽃",
+    "equipment_unique_1263_desc": "당신의 군대를 벌꿀 전차로 변환하고 적에게 성공적인 공격에서 얻은 벌의 수를 증가시킵니다. 어떻게 이럴 수 있나요?",
+    "equipment_unique_1264": "얼어붙은 꽃",
+    "equipment_unique_1264_desc": "당신의 군대를 벌꿀 전차로 변환하고 적에게 성공적인 공격에서 얻은 벌의 수를 증가시킵니다. 어떻게 이럴 수 있나요?",
+    "equip_effect_description_appearance_baron_transformationTarget_increasedSizeLTPE": "변환은 주요 성, 전초 기지, 수도 및 대도시에 적용됩니다. 세계 지도에서 성의 크기를 증가시킵니다.",
+    "equipment_unique_1265": "얼어붙은 꽃",
+    "equipment_unique_1265_desc": "당신의 군대를 벌꿀 전차로 변환하고 적에게 성공적인 공격에서 얻은 벌의 수를 증가시킵니다. 어떻게 이럴 수 있나요?",
+    "equipment_unique_1266": "봄의 선물",
+    "equipment_unique_1266_desc": "풍성한 봄의 약속보다 더 흥미로운 것은 없습니다. 당신의 성을 장대한 봄꽃으로 변형하세요.",
+    "equipment_unique_1267": "부활절 새집",
+    "equipment_unique_1267_desc": "부활절 새집의 즐거운 정신을 발산하여 재생의 계절을 맞이하십시오. 성을 생동감 넘치는 피난처로 변신시키고, 화려한 둥지와 다채로운 부활절 달걀로 장식하여 봄의 도래의 기쁨을 반향하게 하십시오.",
+    "equipment_unique_1268": "부활절 고사리",
+    "equipment_unique_1268_desc": "당신의 군대를 재생의 힘으로 변형시키고, 펼쳐진 양치식물과 숨겨진 부활절 달걀 아래에서 행진하며 성장과 축하의 정신을 포용하세요."
   },
   "generic": {
     "activity": "활동",

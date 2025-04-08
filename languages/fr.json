@@ -2025,7 +2025,22 @@
     "deco_ExaltedRedEasterHotspring_name": "Source rouge exaltée de Pâques",
     "deco_ExaltedRedEasterRuins_name": "Ruines rouges exaltées de Pâques",
     "deco_ExaltedRedEggTree_name": "Gardien rouge exalté de la nature",
-    "deco_ExaltedRedMarchHaresHideout_name": "Cachette du lièvre rouge exalté"
+    "deco_ExaltedRedMarchHaresHideout_name": "Cachette du lièvre rouge exalté",
+    "deco_ExaltedGuardianOfNurtureGreen_name": "Gardien vert exalté de la nature",
+    "deco_ExaltedGuardianOfNurturePurple_name": "Gardien pourpre exalté de la nature",
+    "deco_ExaltedGuardianOfNurtureRed_name": "Gardien rouge exalté de la Nurture",
+    "ci_appearance_theBrokenEggDwelling": "Demeure de lœuf cassé",
+    "ci_appearance_theBrokenEggDwelling_flavor": "Le parfum des fleurs fraîches flotte à travers les fenêtres ouvertes tandis que la lumière du soleil danse sur les œufs peints. Les gardes échangent des plaisanteries amicales, tissant des guirlandes et se préparant au joyeux renouveau de la saison.",
+    "ci_appearance_theBrokenEggGreenhouse": "Serre de lœuf brisé",
+    "ci_appearance_theBrokenEggGreenhouse_flavor": "À lintérieur, les soldats se déplacent parmi lodeur de la terre fraîche et des fleurs bourgeonnantes, soccupant soigneusement de la nouvelle vie alors quils préparent des paniers débordant de fleurs vives et dœufs peints.",
+    "ci_appearance_theBrokenEggStorehouse": "Entrepôt dœufs cassés",
+    "ci_appearance_theBrokenEggStorehouse_flavor": "Le magasin déborde de récoltes fraîches, de douceurs sucrées et dœufs colorés, garantissant quaucune célébration ne se déroule sans sa richesse festive.",
+    "ci_appearance_theBrokenEggTavern": "Taverne de lœuf brisé",
+    "ci_appearance_theBrokenEggTavern_flavor": "Mettez du printemps dans vos pas et détendez-vous dans la taverne la plus excellente de la Grande Empire.",
+    "ci_appearance_theBrokenEggDwelling_flavour": "Le parfum des fleurs fraîches flotte à travers les fenêtres ouvertes tandis que la lumière du soleil danse sur les œufs peints. Les gardes échangent des plaisanteries bienveillantes, tissant des couronnes et se préparant à la joyeuse renaissance de la saison.",
+    "ci_appearance_theBrokenEggGreenhouse_flavour": "À lintérieur, les soldats se déplacent parmi le parfum de la terre fraîche et des fleurs bourgeonnantes, prenant soin de la nouvelle vie alors quils préparent des paniers débordant de fleurs éclatantes et dœufs peints.",
+    "ci_appearance_theBrokenEggStorehouse_flavour": "Le magasin déborde de récoltes fraîches, de douceurs sucrées et dœufs colorés, garantissant quaucune célébration ne se passe sans sa richesse festive.",
+    "ci_appearance_theBrokenEggTavern_flavour": "Mettez du dynamisme dans votre pas et détendez-vous dans la taverne la plus œufesque du Grand Empire."
   },
   "dialogs": {
     "dialog_festival_desc": "Utilisez de la nourriture pour organiser une fête pour vos villageois ! Tant que la fête durera, la vitesse de recrutement sera considérablement augmentée dans tous vos châteaux. Plus la fête est grande, plus son effet est important.",
@@ -12629,8 +12644,8 @@
     "generals_characters_120_summary": "Tacticien maître et spécialiste du siège inflexible.",
     "generals_characters_120_name": "Hasan",
     "generals_characters_120_narrative": "Ingénieur Maître Hasan\n\n&quot;Un siège nest pas un test de force, cest un test de patience, de précision et dinévitabilité.&quot;\n\nBien avant quAlice ne saisisse pour la première fois une clé à molette, avant que son esprit ne commence à façonner les inventions qui changeraient le cours de la guerre, il y avait Hasan, le maître tacticien dont le simple nom pouvait plonger les défenseurs dans la panique. Le stratège de siège le plus respecté du Grand Empire, il a brisé plus de murs et a survécu à plus de forteresses que lhistoire nose le compter. Un homme de sagesse tranquille et de patience inébranlable, Hasan ne se précipite pas au combat. Il attend, il observe, et quand le moment est venu, il frappe rapidement et de manière décisive, comme une lame coupant à travers de la soie.\n\nLà où dautres voient une forteresse imprenable, Hasan voit un puzzle avec mille solutions. Chaque bataille est remportée bien avant que la première flèche ne vole, chaque victoire gravée dans les lignes de ses cartes de bataille avant même que lennemi sache quil est condamné. Son esprit, aiguisé par des années de perfectionnement sans relâche, est à lui seul une machine de guerre, tournant, calculant et démantelant les défenses pièce par pièce. Pour Hasan, un siège nest pas une question de force brute. Cest une question dinévitabilité. Le lent resserrement dun nœud coulant, la pression qui monte à chaque heure qui passe, le murmure de la reddition devenant de plus en plus fort dans lesprit de ceux qui se croyaient intouchables.\n\nPourtant, malgré son génie tactique, Hasan nest pas étranger au chaos de la bataille. Bien quil préfère le rythme mesuré de la stratégie, il nhésite pas à affronter ses ennemis face à face lorsque le moment le demande. Son cimeterre, gardé poli mais souvent intact, nest pas destiné à intimider, cest une dernière leçon pour ceux qui confondent patience et faiblesse. Il se bat comme il commande, avec précision et but, coupant à travers les rangs ennemis aussi facilement quil démantèle leurs défenses. Aucun barrage nest infranchissable, aucune forteresse nest hors de sa portée, et quand il juge que le moment est venu, rien ne se mettra en travers de son chemin.\n\nPour Alice, il était plus quun enseignant. Il était la preuve que lingéniosité et la patience peuvent briser même les ennemis les plus forts. Tout comme elle crée des armes dinnovation, il crée des victoires depuis lombre de sa tente, la fumée de sa pipe enroulant le champ de bataille comme le dernier présage dune forteresse vouée à tomber.\n\nAvec un regard aussi acéré que sa lame et un esprit encore plus acéré, Hasan na pas besoin de tempêter les portes. Il attend simplement. Car à la fin, les murs seffondreront, lennemi fléchira, et comme toujours, il gagnera.",
-    "event_announcement_description_128": "Alors que le Festival de Renaissance commence, lénigmatique Invocateur de la Lune Creuse émerge, laissant derrière lui des œufs dorés étranges remplis de magie ancienne. Ces Œufs de Lune Creuse renferment des trésors rares, du matériel puissant et des ressources précieuses. Offrez-les à lInvocateur, débloquez des récompenses et grimpez dans les rangs pour des prix exclusifs. La fortune vous sourira-t-elle, ou la Lune Creuse projettera-t-elle son ombre?",
-    "event_announcement_header_128": "Invocation de la Lune Creuse",
+    "dialog_event_announcement_description_128": "Alors que le Festival de Renaissance commence, lénigmatique Invocateur de la Lune Creuse émerge, laissant derrière lui des œufs dorés étranges remplis de magie ancienne. Ces Œufs de Lune Creuse renferment des trésors rares, du matériel puissant et des ressources précieuses. Offrez-les à lInvocateur, débloquez des récompenses et grimpez dans les rangs pour des prix exclusifs. La fortune vous sourira-t-elle, ou la Lune Creuse projettera-t-elle son ombre?",
+    "dialog_event_announcement_header_128": "Invocation de la Lune Creuse",
     "event_end_description_EasterGacha": "Alors que le festival sestompe et que la brume se retire, lInvocateur de la Lune Creuse disparaît, emportant avec lui ses œufs enchantés et leurs secrets. Merci davoir embrassé le mystère et testé votre destin. Jusquà la prochaine éclipse...",
     "event_end_header_EasterGacha": "Invocation de la Lune Creuse",
     "event_title_128": "Invocation de la Lune Creuse",
@@ -12687,7 +12702,10 @@
     "title_advisor_nomad": "Conseiller nomade",
     "currency_description_OfferingHasan": "Échange avec le roi Ludwig à lauberge des généraux pour obtenir des récompenses très précieuses. Les tirages de récompenses incluent toujours des éclats pour Hasan. Léchange de loffre de Hasan ne peut se faire que pendant une période limitée !",
     "currency_name_OfferingHasan": "Offre de Hasan à Ludwig",
-    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "Voici les chances de tirage pour les catégories de récompenses de ce patron avec loffre sélectionnée. Chaque catégorie contient des types de récompenses spécifiques, qui seront choisis au hasard. Pour chaque offre payante, quatre tirages sont effectués, chaque tirage a les chances indiquées ci-dessous.\n\nChance de tirage        Catégories de récompenses\n\n09.00%                  - Fragments de Hasan\n\n00.50%                  - LOffre de Hasan à Ludwig\n\n03.00%                  - Offre à la Princesse Béatrice\n\n05.00%                  - Offre à Sir Ulrich\n\n08.00%                  - Offre au Roi Ludwig\n\n02.00%                  - Jetons de réinitialisation des compétences\n\n03.40%                  - Équipement"
+    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "Voici les chances de tirage pour les catégories de récompenses de ce patron avec loffre sélectionnée. Chaque catégorie contient des types de récompenses spécifiques, qui seront choisis au hasard. Pour chaque offre payante, quatre tirages sont effectués, chaque tirage a les chances indiquées ci-dessous.\n\nChance de tirage        Catégories de récompenses\n\n09.00%                  - Fragments de Hasan\n\n00.50%                  - LOffre de Hasan à Ludwig\n\n03.00%                  - Offre à la Princesse Béatrice\n\n05.00%                  - Offre à Sir Ulrich\n\n08.00%                  - Offre au Roi Ludwig\n\n02.00%                  - Jetons de réinitialisation des compétences\n\n03.40%                  - Équipement",
+    "TITLE_EASTERGACHA": "Invocation de la Lune Creuse",
+    "intro_advisor_nomad_short": "Pendant linvasion des nomades, lancez des attaques consécutives sur les camps nomades sans temps darrêt.",
+    "advisor_attack": "Attaque de lAdvisor"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% de force de combat de lunité lors de lattaque",
@@ -14025,7 +14043,9 @@
     "ci_effect_unitWallAbsoluteAmount_tt": "Capacité de troupe sur le mur du château :",
     "ci_effect_unitWallAbsoluteAmount": "Nombre limite dunités sur les murs : +{0}",
     "ci_effect_unitWallAbsoluteAmountTCI": "Nombre limite dunités sur les murs : +{0}",
-    "equip_effect_description_unitWallAbsoluteAmount": "+{0} limite dunités sur le mur"
+    "equip_effect_description_unitWallAbsoluteAmount": "+{0} limite dunités sur le mur",
+    "equip_effect_description_allianceFameBoost": "+{0}% points de gloire gagnés lors de lattaque",
+    "equip_effect_description_allianceTravelSupportBoost": "Temps de voyage de soutien à lalliance : -{0}%"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Héros",
@@ -17374,7 +17394,7 @@
     "equipment_unique_1061_desc": "Transforme votre château en fort mousseux.",
     "equipment_unique_1062_desc": "Transforme votre château en fort mousseux.",
     "equip_effect_description_emptyGemSocket_name": "Emplacement de gemme vide",
-    "equip_effect_description_appearance_baron_transformationTarget": "Montrez votre domination dans le LTPE avec cet objet rare, transformant vos châteaux principaux, avant-postes, capitale ou métropole en une présence véritablement unique qui vous distingue des autres joueurs.",
+    "equip_effect_description_appearance_baron_transformationTarget": "La transformation sapplique aux châteaux principaux, aux avant-postes, à la capitale et à la métropole.",
     "equip_effect_description_appearance_commander_transformationTarget": "La transformation sapplique aux armées en marche dans les royaumes et aux navires de guerre dans les Îles orageuses.",
     "equip_effect_description_noGemSocket_name": "Aucun emplacement de gemme",
     "equip_effect_description_permanentAppearance": "Objet permanent",
@@ -18005,10 +18025,19 @@
     "equipment_unique_1241": "Grand lotus améthyste",
     "equipment_unique_1242": "Grand lotus améthyste",
     "equipment_unique_1243": "Grand lotus améthyste",
-    "equipment_unique_1263": "Nichoir de Pâques",
-    "equipment_unique_1263_desc": "Libérez lesprit joyeux de la Maison de lOiseau de Pâques pour accueillir la saison du renouveau. Transformez votre château en un havre vivant, orné de nids vibrants et dœufs de Pâques colorés, résonnant de la joie du retour du printemps.",
-    "equipment_unique_1264": "Fougère de Pâques",
-    "equipment_unique_1264_desc": "Transformez votre armée en une force de renouveau, marchant sous des fougères déployées et des œufs de Pâques cachés, embrassant lesprit de croissance et de célébration."
+    "equipment_unique_1263": "Fleur gelée",
+    "equipment_unique_1263_desc": "Transforme votre armée en un char dabeilles et augmente le nombre dabeilles obtenues lors des attaques réussies contre vos ennemis, comment cela peut-il être?",
+    "equipment_unique_1264": "Fleur gelée",
+    "equipment_unique_1264_desc": "Transforme votre armée en un char dabeilles et augmente le nombre dabeilles obtenues lors des attaques réussies contre vos ennemis, comment cela peut-il être?",
+    "equip_effect_description_appearance_baron_transformationTarget_increasedSizeLTPE": "La transformation sapplique aux châteaux principaux, avant-postes, capitale et métropole. Augmente la taille de votre château sur la carte du monde.",
+    "equipment_unique_1265": "Fleur gelée",
+    "equipment_unique_1265_desc": "Transforme votre armée en un char dabeilles et augmente le nombre dabeilles obtenues lors des attaques réussies contre vos ennemis, comment cela peut-il être?",
+    "equipment_unique_1266": "Cadeau de printemps",
+    "equipment_unique_1266_desc": "Il ny a rien de plus excitant que la promesse dun printemps généreux. Transformez votre château en une majestueuse fleur printanière.",
+    "equipment_unique_1267": "Nichoir de Pâques",
+    "equipment_unique_1267_desc": "Libérez lesprit joyeux de la maison doiseaux de Pâques pour accueillir la saison du renouveau. Transformez votre château en un refuge vivant, orné de nids colorés et dœufs de Pâques colorés, résonnant avec la joie du retour du printemps.",
+    "equipment_unique_1268": "Fougère de Pâques",
+    "equipment_unique_1268_desc": "Transformez votre armée en une force de renouveau, marchant sous des fougères déployées et des œufs de Pâques cachés, embrassant lesprit de croissance et de célébration."
   },
   "generic": {
     "activity": "Activité",

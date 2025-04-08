@@ -2025,7 +2025,22 @@
     "deco_ExaltedRedEasterHotspring_name": "Ylevä punainen pääsiäislähde",
     "deco_ExaltedRedEasterRuins_name": "Ylevät punaiset pääsiäisrauniot",
     "deco_ExaltedRedEggTree_name": "Ylevä punainen hoidon vartija",
-    "deco_ExaltedRedMarchHaresHideout_name": "Ylevän punaisen marsukanin piilopaikka"
+    "deco_ExaltedRedMarchHaresHideout_name": "Ylevän punaisen marsukanin piilopaikka",
+    "deco_ExaltedGuardianOfNurtureGreen_name": "Ylevä vihreä hoivaaja",
+    "deco_ExaltedGuardianOfNurturePurple_name": "Ylevä violetti ravintovartija",
+    "deco_ExaltedGuardianOfNurtureRed_name": "Ylevä punainen hoidon vartija",
+    "ci_appearance_theBrokenEggDwelling": "Rikkoutuneen munan asunto",
+    "ci_appearance_theBrokenEggDwelling_flavor": "Tuoreiden kukkien tuoksu leijuu avoimista ikkunoista, kun auringonvalo tanssii maalattujen munien päällä. Vartijat vaihtavat ystävällisiä vitsejä, punovat seppeleitä ja valmistautuvat kauden iloiselle uudistumiselle.",
+    "ci_appearance_theBrokenEggGreenhouse": "Rikkoutuneen munan kasvihuone",
+    "ci_appearance_theBrokenEggGreenhouse_flavor": "Sisällä sotilaat liikkuvat tuoreen maan ja puhkeavien kukkien tuoksussa, huolellisesti hoitaen uutta elämää, kun he valmistavat koreja täynnä eloisia kukkia ja maalattuja munia.",
+    "ci_appearance_theBrokenEggStorehouse": "Rikkoutuneiden munien varasto",
+    "ci_appearance_theBrokenEggStorehouse_flavor": "Varasto on täynnä tuoreita sadonkorjuuja, makeita herkkuja ja värikkäitä munia, varmistaen, että mikään juhla ei jää ilman juhlallista runsauttaan.",
+    "ci_appearance_theBrokenEggTavern": "Särkyneiden munien majatalo",
+    "ci_appearance_theBrokenEggTavern_flavor": "Laita kevät askeliisi ja rentoudu Suuren Imperiumin parhaassa tavernassa.",
+    "ci_appearance_theBrokenEggDwelling_flavour": "Tuoreiden kukkien tuoksu leijuu avoimista ikkunoista, kun auringonvalo tanssii maalatuilla munilla. Vartijat vaihtavat hyväntuulisia vitsailuja, punovat seppeleitä ja valmistautuvat kauden iloiselle uudistumiselle.",
+    "ci_appearance_theBrokenEggGreenhouse_flavour": "Sisällä sotilaat liikkuvat tuoreiden maaperien ja puhkeavien kukkien tuoksussa, hoitaen huolellisesti uutta elämää valmistellessaan koreja täynnä eloisia kukkia ja maalattuja munia.",
+    "ci_appearance_theBrokenEggStorehouse_flavour": "Varasto on täynnä tuoreita satoja, makeita herkkuja ja värikkäitä munia, varmistaen, että mikään juhla ei jää ilman juhlapuuhia.",
+    "ci_appearance_theBrokenEggTavern_flavour": "Lisää energiaa askeliisi ja rentoudu Suuren Imperiumin parhaassa munakuppihenkisessä tavernassa."
   },
   "dialogs": {
     "dialog_festival_desc": "Järjestä kansalaisillesi kestit ruokaa käyttämällä! Värväys nopeutuu kaikissa linnoissasi huomattavasti, niin kauan kuin kestit jatkuvat. Mitä isommat kestit järjestät, sitä suurempi niiden vaikutus on.",
@@ -12629,8 +12644,8 @@
     "generals_characters_120_summary": "Mestaristrategi ja väsymätön piiritysasiantuntija.",
     "generals_characters_120_name": "Hasan",
     "generals_characters_120_narrative": "Mestari Insinööri Hasan\n\n&quot;Kohdistus ei ole voiman testi, se on kärsivällisyyden, tarkkuuden ja väistämättömyyden testi.&quot;\n\nKauan ennen kuin Alicen kädet tarttuivat ensimmäistä kertaa avaimenvarteen, ennen kuin hänen mielensä alkoi muovata keksintöjä, jotka kääntäisivät sodan kulun, oli olemassa Hasan, mestaritaktikko, jonka pelkkä nimi saattoi saada puolustajat paniikkiin. Suuren Imperiumin arvostetuin piiritysstrategi, hän on murskannut enemmän seiniä ja kestänyt enemmän linnakkeita kuin historia uskaltaa laskea. Hiljaisen viisauden ja järkkymättömän kärsivällisyyden omaava mies, Hasan ei kiirehdi taisteluun. Hän odottaa, hän tarkkailee, ja kun aika on oikea, hän iskee nopeasti ja päättäväisesti, kuin terä leikkaamassa silkkiä.\n\nSiinä missä muut näkevät läpäisemättömän linnoituksen, Hasan näkee palapelin, jossa on tuhat ratkaisua. Jokainen taistelu voitetaan kauan ennen kuin ensimmäinen nuoli lentää, jokainen voitto kaiverrettuna taistelukarttoihinsa ennen kuin vihollinen edes tietää olevansa tuomittu. Hänen mielensä, hiottu vuosien uuvuttavassa kehittämisessä, on itsessään sotakone, joka pyörii, laskee ja purkaa puolustuksia pala palalta. Hasanin mielestä piiritys ei ole raakavoiman asia. Se on väistämättömyyden asia. Kiemurteleva köysi, paine kasvaa joka kuluvalla tunnilla, antautumisen kuiskaus kasvaa äänekkäämmäksi niiden mielissä, jotka luulivat olevansa koskemattomia.\n\nKuitenkin, kaiken taktisen nerokkuutensa ohella, Hasan ei ole vieras taistelun kaaokselle. Vaikka hän suosii strategian mitattua tahtia, hän ei epäröi kohdata vihollisiaan kasvotusten, kun hetki sitä vaatii. Hänen scimitaarinsa, joka pidetään kiillotettuna mutta usein koskemattomana, ei ole pelottamista varten, se on viimeinen oppitunti niille, jotka sekoittavat kärsivällisyyden heikkouteen. Hän taistelee kuten komentoaa, tarkkuudella ja tarkoituksella, leikkaamalla vihollisten rivejä läpi yhtä vaivattomasti kuin hän purkaa heidän puolustuksiaan. Yksikään este ei ole murrettavissa, yksikään linnoitus ei ole hänen ulottuvillaan, ja kun hän katsoo hetken olevan oikea, mikään ei seiso hänen tiellään.\n\nAlicelle hän oli enemmän kuin opettaja. Hän oli todistus siitä, että kekseliäisyys ja kärsivällisyys voivat murtaa jopa vahvimmat viholliset. Aivan kuten hän luo innovaatioaseita, hän luo voittoja teltassaan varjoista, putkik smoke kiemurrellen taistelukentän ylle kuin viimeinen enteetön linnoituksen tuhoutumiselle.\n\nTerällä yhtä terävä kuin miekka ja mieli vielä terävämpi, Hasan ei tarvitse hyökätä portteihin. Hän yksinkertaisesti odottaa. Koska lopulta muurit sortuvat, vihollinen horjuu, ja kuten aina, hän voittaa.",
-    "event_announcement_description_128": "Kun Uudelleensyntymisen Festivaali alkaa, salaperäinen Tyhjän Kuun Kutsuja ilmestyy, jättäen jälkeensä karmivia kultaisia munia, jotka ovat täynnä muinaista magiaa. Nämä Tyhjät Kuun Munat sisältävät harvinaisia aarteita, voimakkaita varusteita ja arvokkaita resursseja. Tarjoa ne Kutsujalle, avaa palkintoja ja kiipeä riveissä saadaksesi eksklusiivisia palkintoja. Suosiiko onni sinua, vai heittääkö Tyhjä Kuu varjonsa?",
-    "event_announcement_header_128": "Hollow Moonin kutsuminen",
+    "dialog_event_announcement_description_128": "Kun Uudelleensyntymisen Festivaali alkaa, salaperäinen Tyhjän Kuun Kutsuja ilmestyy, jättäen jälkeensä karmivia kultaisia munia, jotka ovat täynnä muinaista magiaa. Nämä Tyhjät Kuun Munat sisältävät harvinaisia aarteita, voimakkaita varusteita ja arvokkaita resursseja. Tarjoa ne Kutsujalle, avaa palkintoja ja kiipeä riveissä saadaksesi eksklusiivisia palkintoja. Suosiiko onni sinua, vai heittääkö Tyhjä Kuu varjonsa?",
+    "dialog_event_announcement_header_128": "Hollow Moonin kutsuminen",
     "event_end_description_EasterGacha": "Kun festivaali haihtuu ja sumu vetäytyy, Tyhjän Kuun Kutsuja katoaa, ottaen mukaansa lumotut munansa ja niiden salaisuudet. Kiitos, että olet omaksunut mysteerin ja testannut kohtaloasi. Kunnes seuraava pimennys...",
     "event_end_header_EasterGacha": "Hollow Moonin kutsuminen",
     "event_title_128": "Hollow Moonin kutsuminen",
@@ -12687,7 +12702,10 @@
     "title_advisor_nomad": "Nomadi-neuvoja",
     "currency_description_OfferingHasan": "Vaihto kuningas Ludwigin kanssa kenraalien majatalossa saadaksesi erittäin arvokkaita palkintoja. Palkintosarjat sisältävät aina siruja Hasania varten. Hasanin tarjouksen vaihtaminen voidaan tehdä vain rajoitetun ajan!",
     "currency_name_OfferingHasan": "Hasanin lahja Ludwigilta",
-    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "Nämä ovat tämän suojelijan palkintokategorioiden arvontamahdollisuudet valitun tarjouksen kanssa. Jokaisessa kategoriassa on erityisiä palkintotyyppejä, jotka valitaan satunnaisesti. Jokaiselle maksulliselle tarjoukselle suoritetaan neljä arvausta, jokaisella arvalla on alla luetellut mahdollisuudet.\n\nArvontamahdollisuus        Palkintokategoriat\n\n09.00%                  - Hasan-palaset\n\n00.50%                  - Hasanin tarjous Ludwigin\n\n03.00%                  - Tarjous prinsessa Beatricelle\n\n05.00%                  - Tarjous Sir Ulrichille\n\n08.00%                  - Tarjous kuningas Ludwigin\n\n02.00%                  - Taitojen nollaus-tokenit\n\n03.40%                  - Varustus"
+    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "Nämä ovat tämän suojelijan palkintokategorioiden arvontamahdollisuudet valitun tarjouksen kanssa. Jokaisessa kategoriassa on erityisiä palkintotyyppejä, jotka valitaan satunnaisesti. Jokaiselle maksulliselle tarjoukselle suoritetaan neljä arvausta, jokaisella arvalla on alla luetellut mahdollisuudet.\n\nArvontamahdollisuus        Palkintokategoriat\n\n09.00%                  - Hasan-palaset\n\n00.50%                  - Hasanin tarjous Ludwigin\n\n03.00%                  - Tarjous prinsessa Beatricelle\n\n05.00%                  - Tarjous Sir Ulrichille\n\n08.00%                  - Tarjous kuningas Ludwigin\n\n02.00%                  - Taitojen nollaus-tokenit\n\n03.40%                  - Varustus",
+    "TITLE_EASTERGACHA": "Hollow Moonin kutsuminen",
+    "intro_advisor_nomad_short": "Nomadien hyökkäyksen aikana, suorita peräkkäisiä hyökkäyksiä nomadileireihin ilman taukoa.",
+    "advisor_attack": "Neuvon hyökkäys"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% yksikön taisteluvoima hyökkäyksessä",
@@ -14025,7 +14043,9 @@
     "ci_effect_unitWallAbsoluteAmount_tt": "Linnanmuurien joukkokapasiteetti:",
     "ci_effect_unitWallAbsoluteAmount": "+{0} yksikkörajoitukseen muurilla",
     "ci_effect_unitWallAbsoluteAmountTCI": "+{0} yksikkörajoitukseen muurilla",
-    "equip_effect_description_unitWallAbsoluteAmount": "+{0} yksikköraja seinällä"
+    "equip_effect_description_unitWallAbsoluteAmount": "+{0} yksikköraja seinällä",
+    "equip_effect_description_allianceFameBoost": "+{0}% kunniapisteitä ansaittu hyökkäyksissä",
+    "equip_effect_description_allianceTravelSupportBoost": "Liittouman tukematka-aika: -{0}%"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Sankari",
@@ -17374,7 +17394,7 @@
     "equipment_unique_1061_desc": "Muuttaa linnasi kuohuvaksi linnakkeeksi.",
     "equipment_unique_1062_desc": "Muuttaa linnasi kuohuvaksi linnakkeeksi.",
     "equip_effect_description_emptyGemSocket_name": "Tyhjä jalokivipaikka",
-    "equip_effect_description_appearance_baron_transformationTarget": "Näytä dominanssisi LTPE:ssä tällä harvinaisella esineellä, joka muuttaa päälinnoituksesi, etuvartiosi, pääkaupunkisi tai metropolisi todelliseksi ainutlaatuiseksi läsnäoloksi, joka erottuu muista pelaajista.",
+    "equip_effect_description_appearance_baron_transformationTarget": "Muutokset koskevat päälinnoja, etuvartioita, pääkaupunkia ja metropolia.",
     "equip_effect_description_appearance_commander_transformationTarget": "Muutos koskee marssivia armeijoita kuningaskunnissa ja Myrskysaarten sotalaivoissa.",
     "equip_effect_description_noGemSocket_name": "Ei paikkaa jalokivelle",
     "equip_effect_description_permanentAppearance": "Pysyvä esine",
@@ -18005,10 +18025,19 @@
     "equipment_unique_1241": "Suuri ametisti-lotus",
     "equipment_unique_1242": "Suuri ametisti-lotus",
     "equipment_unique_1243": "Suuri ametisti-lotus",
-    "equipment_unique_1263": "Pääsiäislinnunpönttö",
-    "equipment_unique_1263_desc": "Vapauta pääsiäislinnun iloinen henki toivottaaksesi tervetulleeksi uusiutumisen kauden. Muuta linna eläväksi turvapaikaksi, joka on koristeltu eloisilla pesillä ja värikkäillä pääsiäismunilla, heijastaen kevään paluun iloa.",
-    "equipment_unique_1264": "Pääsiäisferni",
-    "equipment_unique_1264_desc": "Muuta armeijasi uudistuksen voimaksi, marssimalla avautuvien saniaisten ja piilotettujen pääsiäismunien alla, omaksuen kasvun ja juhlan hengen."
+    "equipment_unique_1263": "Jäätynyt kukka",
+    "equipment_unique_1263_desc": "Muuttaa armeijasi mehiläisvaunuksi ja lisää menestyksellisistä hyökkäyksistä vihollisiisi saatuja mehiläisiä, miten tämä on mahdollista?",
+    "equipment_unique_1264": "Jäätynyt kukka",
+    "equipment_unique_1264_desc": "Muuttaa armeijasi mehiläisvaunuksi ja lisää menestyksellisistä hyökkäyksistä vihollisiisi saatuja mehiläisiä, miten tämä on mahdollista?",
+    "equip_effect_description_appearance_baron_transformationTarget_increasedSizeLTPE": "Muuntautuminen koskee päälinnoituksia, etuvartioita, pääkaupunkia ja metropolia. Suurentaa linnasi kokoa maailmankartalla.",
+    "equipment_unique_1265": "Jäätynyt kukka",
+    "equipment_unique_1265_desc": "Muuttaa armeijasi mehiläisvaunuksi ja lisää menestyksellisistä hyökkäyksistä vihollisiisi saatuja mehiläisiä, miten tämä on mahdollista?",
+    "equipment_unique_1266": "Kevään lahja",
+    "equipment_unique_1266_desc": "Ei ole mitään jännittävämpää kuin runsaan kevään lupaus. Muuta linnaasi majesteettiseksi kevätkukkaseksi.",
+    "equipment_unique_1267": "Pääsiäislinnunpönttö",
+    "equipment_unique_1267_desc": "Päästä irti pääsiäislinnun iloinen henki toivottaaksesi tervetulleeksi uudistumisen kauden. Muuta linnaasi eloisaksi turvapaikaksi, koristeltuna värikkäillä pesillä ja värikkäillä pääsiäismunilla, heijastaen kevään paluun iloa.",
+    "equipment_unique_1268": "Pääsiäissaniainen",
+    "equipment_unique_1268_desc": "Muuta armeijasi uudistamisen voimaksi, marssimalla avautuvien saniaisten ja piilotettujen pääsiäismunien alla, omaksuen kasvun ja juhlan hengen."
   },
   "generic": {
     "activity": "Toiminta",

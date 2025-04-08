@@ -2025,7 +2025,22 @@
     "deco_ExaltedRedEasterHotspring_name": "崇高的紅色復活節溫泉",
     "deco_ExaltedRedEasterRuins_name": "崇高的紅色復活節遺跡",
     "deco_ExaltedRedEggTree_name": "崇高的紅色養護守護者",
-    "deco_ExaltedRedMarchHaresHideout_name": "崇高的紅色三月兔藏身處"
+    "deco_ExaltedRedMarchHaresHideout_name": "崇高的紅色三月兔藏身處",
+    "deco_ExaltedGuardianOfNurtureGreen_name": "崇高的綠色護理守護者",
+    "deco_ExaltedGuardianOfNurturePurple_name": "崇高的紫色滋養守護者",
+    "deco_ExaltedGuardianOfNurtureRed_name": "崇高的紅色養護守護者",
+    "ci_appearance_theBrokenEggDwelling": "破蛋棲息地",
+    "ci_appearance_theBrokenEggDwelling_flavor": "新鮮花朵的香氣飄散在打開的窗戶間，陽光在彩繪的蛋上舞動。警衛們互相開著善意的玩笑，編織花環，準備迎接季節的歡樂更新。",
+    "ci_appearance_theBrokenEggGreenhouse": "破碎雞蛋溫室",
+    "ci_appearance_theBrokenEggGreenhouse_flavor": "在裡面，士兵們在新鮮土壤和初綻花朵的香氣中穿行，小心翼翼地照顧著新生命，同時準備著裝滿鮮豔花朵和繪畫蛋的籃子。",
+    "ci_appearance_theBrokenEggStorehouse": "破蛋儲藏室",
+    "ci_appearance_theBrokenEggStorehouse_flavor": "倉庫充滿了新鮮的收成、甜美的款待和色彩繽紛的雞蛋，確保沒有慶祝活動會缺少其節慶的富饒。",
+    "ci_appearance_theBrokenEggTavern": "破蛋酒館",
+    "ci_appearance_theBrokenEggTavern_flavor": "在你的步伐中注入春天的活力，並在大帝國最出色的酒館中放鬆心情。",
+    "ci_appearance_theBrokenEggDwelling_flavour": "新鮮花朵的香氣透過開放的窗戶飄散，陽光在彩繪的蛋上舞動。守衛們互相嬉笑著，編織花環，為季節的快樂重生做準備。",
+    "ci_appearance_theBrokenEggGreenhouse_flavour": "裡面，士兵們在新鮮泥土和花朵綻放的香氣中移動，小心翼翼地照顧著新生命，準備著滿載鮮豔花朵和彩繪蛋的籃子。",
+    "ci_appearance_theBrokenEggStorehouse_flavour": "倉庫充滿了新鮮的收成、甜點和五顏六色的蛋，確保沒有任何慶祝活動沒有它的節日豐富。",
+    "ci_appearance_theBrokenEggTavern_flavour": "為您的步伐注入活力，並在偉大帝國最「蛋殼」的酒館中放鬆。"
   },
   "dialogs": {
     "dialog_festival_desc": "用食物幫你的居民舉辦一場盛宴吧！在盛宴期間，你所有城堡的招募速度會大幅提高。宴會越大，效果越好。",
@@ -12629,8 +12644,8 @@
     "generals_characters_120_summary": "精明的戰術家和無情的圍攻專家。",
     "generals_characters_120_name": "哈珊",
     "generals_characters_120_narrative": "大師工程師哈桑\n\n「圍攻不是力量的考驗，而是耐心、精準和必然性的考驗。」\n\n在愛麗絲第一次握住扳手之前，在她的心智開始塑造那些將改變戰爭潮流的發明之前，哈桑早已存在，這位大師級的戰術家，他的名字足以讓防守者感到恐慌。大帝國最受尊敬的圍攻戰略家，他摧毀的城牆比歷史敢於計算的還要多，存活下來的據點更是數不勝數。擁有沉靜智慧和堅定耐心的人，哈桑不急於上戰場。他耐心等待，靜靜觀察，而當時機成熟時，他迅速而果斷地出擊，就像刀刃劃過絲綢。\n\n在其他人眼中，堅不可摧的堡壘，哈桑卻看作是一個擁有千種解決方案的難題。每場戰鬥在第一支箭發射之前就已經贏得，每場勝利在敵人甚至還不知道自己已經注定失敗之前，就已經銘刻在他的戰鬥地圖上。他的思維經過多年不懈的打磨，已成為一台戰爭機器，逐步運轉，計算並一點一滴地拆解防禦。對哈桑來說，圍攻不僅僅是蛮力，而是必然性。慢慢收緊的繩索，隨著每個小時的流逝而加大的壓力，那些原本以為自己不可侵犯者心中越來越響亮的投降低語。\n\n然而，儘管他在戰術上極為聰明，哈桑對戰鬥的混亂並不陌生。雖然他更喜歡戰略的穩健節奏，但在關鍵時刻，他絕不會猶豫與敵人面對面交鋒。他的彎刀雖然保持光亮卻常常未曾動過，並不是用來威懾的，而是給那些誤以為耐心是軟弱的人的最後一課。他戰鬥如同指揮，精準而有目的地切割敵人的陣營，輕鬆地拆解他們的防禦。沒有任何障礙是不可逾越的，沒有任何據點在他能力範圍之外，當他認為時機成熟時，沒有任何東西能夠阻擋他。\n\n對愛麗絲來說，他不僅僅是一位老師。他是創造力和耐心能打破最強大敵人的證明。正如她創造創新武器一樣，他在帳篷的陰影中醞釀勝利，煙霧在戰場上盤旋，彷彿是註定要墜落的堡壘的最後預兆。\n\n他的目光如刀鋒般銳利，思維更是鋒利，哈桑無需衝擊大門。他只是靜靜等待。因為最終，牆壁將會崩潰，敵人將會動搖，而他，依舊會勝利。",
-    "event_announcement_description_128": "隨著重生節的開始，神秘的空心月召喚者出現，留下了充滿古老魔法的陰森金蛋。這些空心月蛋蘊藏著稀有的寶藏、強大的裝備和珍貴的資源。把它們獻給召喚者，解鎖獎勵，並在排行榜上爬升以獲得獨家獎品。運氣會眷顧你，還是空心月會投下它的陰影？",
-    "event_announcement_header_128": "空心月亮的召喚",
+    "dialog_event_announcement_description_128": "隨著重生節的開始，神秘的空心月召喚者出現，留下了充滿古老魔法的陰森金蛋。這些空心月蛋蘊藏著稀有的寶藏、強大的裝備和珍貴的資源。把它們獻給召喚者，解鎖獎勵，並在排行榜上爬升以獲得獨家獎品。運氣會眷顧你，還是空心月會投下它的陰影？",
+    "dialog_event_announcement_header_128": "空心月亮的召喚",
     "event_end_description_EasterGacha": "隨著節日的消逝和霧氣的退去，空心月亮的召喚者消失了，帶走了他的魔法蛋和它們的秘密。感謝您擁抱神秘並測試您的命運。直到下一次日蝕……",
     "event_end_header_EasterGacha": "空心月亮的召喚",
     "event_title_128": "空心月亮的召喚",
@@ -12687,7 +12702,10 @@
     "title_advisor_nomad": "遊牧顧問",
     "currency_description_OfferingHasan": "與路德維希王在將軍旅館進行交換以獲得非常珍貴的獎勵。獎勵抽獎總是包括哈桑的碎片。哈桑的提議只能在有限時間內進行交換！",
     "currency_name_OfferingHasan": "哈桑對路德維希的奉獻",
-    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "這些是此贊助商在所選提供的獎勵類別的抽獎機會。每個類別包含特定的獎勵類型，隨機選擇。每個付費提供進行四次抽獎，每次抽獎都有以下列出的機會。\n\n抽獎機會        獎勵類別\n\n09.00%                  - 哈桑碎片\n\n00.50%                  - 哈桑對路德維希的提議\n\n03.00%                  - 提供給比阿特麗斯公主\n\n05.00%                  - 提供給烏爾里希爵士\n\n08.00%                  - 提供給路德維希國王\n\n02.00%                  - 技能重置代幣\n\n03.40%                  - 裝備"
+    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "這些是此贊助商在所選提供的獎勵類別的抽獎機會。每個類別包含特定的獎勵類型，隨機選擇。每個付費提供進行四次抽獎，每次抽獎都有以下列出的機會。\n\n抽獎機會        獎勵類別\n\n09.00%                  - 哈桑碎片\n\n00.50%                  - 哈桑對路德維希的提議\n\n03.00%                  - 提供給比阿特麗斯公主\n\n05.00%                  - 提供給烏爾里希爵士\n\n08.00%                  - 提供給路德維希國王\n\n02.00%                  - 技能重置代幣\n\n03.40%                  - 裝備",
+    "TITLE_EASTERGACHA": "空心月亮的召喚",
+    "intro_advisor_nomad_short": "在遊牧民族入侵期間，對遊牧營地發動連續攻擊，無需停頓。",
+    "advisor_attack": "顧問攻擊"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% 單位攻擊時的戰鬥力",
@@ -14025,7 +14043,9 @@
     "ci_effect_unitWallAbsoluteAmount_tt": "城牆容納的部隊數量：",
     "ci_effect_unitWallAbsoluteAmount": "+{0} 城牆上的部隊上限",
     "ci_effect_unitWallAbsoluteAmountTCI": "+{0} 城牆上的部隊上限",
-    "equip_effect_description_unitWallAbsoluteAmount": "+{0} 單位限制在牆上"
+    "equip_effect_description_unitWallAbsoluteAmount": "+{0} 單位限制在牆上",
+    "equip_effect_description_allianceFameBoost": "+{0}% 攻擊時獲得的榮耀點",
+    "equip_effect_description_allianceTravelSupportBoost": "聯盟支持旅行時間: -{0}%"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "英雄",
@@ -17374,7 +17394,7 @@
     "equipment_unique_1061_desc": "將你的城堡變成泡沫般的要塞。",
     "equipment_unique_1062_desc": "將你的城堡變成泡沫般的要塞。",
     "equip_effect_description_emptyGemSocket_name": "空寶石槽",
-    "equip_effect_description_appearance_baron_transformationTarget": "用這個稀有物品展示你在LTPE中的主導地位，將你的主要城堡、前哨、首都或大都市轉變為真正獨特的存在，讓你與其他玩家區分開來。",
+    "equip_effect_description_appearance_baron_transformationTarget": "轉變適用於主要城堡、前哨、首都和大都市。",
     "equip_effect_description_appearance_commander_transformationTarget": "變化適用於王國中行進的軍隊和風暴島嶼的戰船。",
     "equip_effect_description_noGemSocket_name": "沒有寶石欄位",
     "equip_effect_description_permanentAppearance": "永久性物品",
@@ -18005,10 +18025,19 @@
     "equipment_unique_1241": "大紫水晶蓮花",
     "equipment_unique_1242": "大紫水晶蓮花",
     "equipment_unique_1243": "大紫水晶蓮花",
-    "equipment_unique_1263": "復活節鳥屋",
-    "equipment_unique_1263_desc": "釋放復活節鳥舍的快樂精神，迎接重生的季節。將你的城堡變成一個充滿活力的避風港，裝飾著鮮豔的巢穴和色彩繽紛的復活節彩蛋，迴響著春天回歸的喜悅。",
-    "equipment_unique_1264": "復活節蕨類",
-    "equipment_unique_1264_desc": "將你的軍隊轉變為更新的力量，在展開的蕨類和隱藏的復活節彩蛋下行軍，擁抱成長和慶祝的精神。"
+    "equipment_unique_1263": "冰凍蜜花",
+    "equipment_unique_1263_desc": "將你的軍隊轉化為蜜蜂戰車，並增加從成功攻擊敵人中獲得的蜜蜂數量，這怎麼可能？",
+    "equipment_unique_1264": "冰凍蜜花",
+    "equipment_unique_1264_desc": "將你的軍隊轉化為蜜蜂戰車，並增加從成功攻擊敵人中獲得的蜜蜂數量，這怎麼可能？",
+    "equip_effect_description_appearance_baron_transformationTarget_increasedSizeLTPE": "轉化適用於主要城堡、前哨、首都和大都市。增加您在世界地圖上的城堡大小。",
+    "equipment_unique_1265": "冰凍蜜花",
+    "equipment_unique_1265_desc": "將你的軍隊轉化為蜜蜂戰車，並增加從成功攻擊敵人中獲得的蜜蜂數量，這怎麼可能？",
+    "equipment_unique_1266": "春之恩賜",
+    "equipment_unique_1266_desc": "沒有什麼比豐盛的春天承諾更令人興奮。將你的城堡變成一朵壯麗的春天花朵。",
+    "equipment_unique_1267": "復活節鳥屋",
+    "equipment_unique_1267_desc": "釋放復活節鳥舍的歡樂精神，迎接更新的季節。將你的城堡變成一個充滿活力的避風港，裝飾著色彩斑斕的巢和五彩的復活節彩蛋，迴響著春天回歸的喜悅。",
+    "equipment_unique_1268": "復活節蕨類",
+    "equipment_unique_1268_desc": "將你的軍隊轉化為一股更新的力量，在展開的蕨類植物和隱藏的復活節彩蛋下行進，擁抱成長和慶祝的精神。"
   },
   "generic": {
     "activity": "活動",

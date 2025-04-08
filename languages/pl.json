@@ -2025,7 +2025,22 @@
     "deco_ExaltedRedEasterHotspring_name": "Wzniosłe czerwone źródło wielkanocne",
     "deco_ExaltedRedEasterRuins_name": "Wzniośle czerwone wielkanocne ruiny",
     "deco_ExaltedRedEggTree_name": "Wzniosły czerwony strażnik opieki",
-    "deco_ExaltedRedMarchHaresHideout_name": "Kryjówka wywyższonego czerwonego zająca"
+    "deco_ExaltedRedMarchHaresHideout_name": "Kryjówka wywyższonego czerwonego zająca",
+    "deco_ExaltedGuardianOfNurtureGreen_name": "Wzniosły Zielony Strażnik Pielęgnacji",
+    "deco_ExaltedGuardianOfNurturePurple_name": "Wzniosły purpurowy stróż odżywienia",
+    "deco_ExaltedGuardianOfNurtureRed_name": "Wzniosły Czerwony Strażnik Opieki",
+    "ci_appearance_theBrokenEggDwelling": "Złamane jajko mieszkanie",
+    "ci_appearance_theBrokenEggDwelling_flavor": "Zapach świeżych kwiatów unosi się przez otwarte okna, podczas gdy promienie słońca tańczą nad malowanymi jajkami. Strażnicy wymieniają dobre-naturdowe żarty, plecioną girlandy i przygotowują się na radosne odnowienie sezonu.",
+    "ci_appearance_theBrokenEggGreenhouse": "Szklarnia ze złamanym jajkiem",
+    "ci_appearance_theBrokenEggGreenhouse_flavor": "Wewnątrz żołnierze poruszają się wśród zapachu świeżej ziemi i kwitnących kwiatów, starannie dbając o nowe życie, podczas gdy przygotowują kosze pełne żywych kwiatów i malowanych jaj.",
+    "ci_appearance_theBrokenEggStorehouse": "Magazyn połamanych jajek",
+    "ci_appearance_theBrokenEggStorehouse_flavor": "Magazyn jest pełen świeżych zbiorów, słodkich smakołyków i kolorowych jaj, co zapewnia, że żadna celebracja nie odbywa się bez swojego festywnego bogactwa.",
+    "ci_appearance_theBrokenEggTavern": "Tawerna „Pod Stłuczonym Jajem”",
+    "ci_appearance_theBrokenEggTavern_flavor": "Wprowadź wiosnę w swoje kroki i odpręż się w najdoskonalszej tawernie Wielkiego Imperium.",
+    "ci_appearance_theBrokenEggDwelling_flavour": "Zapach świeżych kwiatów unosi się przez otwarte okna, podczas gdy promienie słońca tańczą na malowanych jajkach. Strażnicy wymieniają uprzejme żarty, plecionkując wianki i przygotowując się do radosnej odnowy sezonu.",
+    "ci_appearance_theBrokenEggGreenhouse_flavour": "Wewnątrz żołnierze poruszają się wśród zapachu świeżej ziemi i kwitnących kwiatów, ostrożnie dbając o nowe życie, gdy przygotowują kosze wypełnione żywymi kwiatami i malowanymi jajkami.",
+    "ci_appearance_theBrokenEggStorehouse_flavour": "Magazyn pęka w szwach od świeżych zbiorów, słodkich przysmaków i kolorowych jajek, co zapewnia, że żadne święto nie odbędzie się bez festiwalowego bogactwa.",
+    "ci_appearance_theBrokenEggTavern_flavour": "Dodaj energii do swoich kroków i zrelaksuj się w najwspanialszej jajecznej tawernie Wielkiego Imperium."
   },
   "dialogs": {
     "dialog_festival_desc": "Użyj jedzenia, aby zorganizować święto dla Twoich obywateli! Szybkość rekrutacji znacznie będzie rosła we wszystkich twoich zamkach przez czas obchodów święta. Im większe święto, tym większe efekty.",
@@ -12629,8 +12644,8 @@
     "generals_characters_120_summary": "Mistrzowski taktyk i nieustępliwy specjalista od oblężeń.",
     "generals_characters_120_name": "Hasan",
     "generals_characters_120_narrative": "Mistrz inżynier Hasan\n\n&quot;Oblężenie nie jest testem siły, ale testem cierpliwości, precyzji i nieuchronności.&quot;\n\nDługo przed tym, jak dłonie Alicji po raz pierwszy chwyciły klucz, zanim jej umysł zaczął kształtować wynalazki, które odwrócą losy wojny, był Hasan, mistrz taktyki, którego samo imię mogło wprawić obrońców w panikę. Najbardziej ceniony strateg oblężniczy Wielkiego Imperium, zburzył więcej murów i przetrwał więcej bastionów, niż historia odważy się policzyć. Człowiek o cichej mądrości i niewzruszonej cierpliwości, Hasan nie spieszy się do walki. Czeka, obserwuje, a kiedy przychodzi odpowiedni moment, uderza szybko i zdecydowanie, jak ostrze przecinające jedwab.\n\nTam, gdzie inni widzą nieprzeniknioną twierdzę, Hasan widzi zagadkę z tysiącem rozwiązań. Każda bitwa jest wygrana długo przed tym, jak pierwszy strzał zostanie oddany, każda zwycięstwo wyryte na jego mapach bitewnych, zanim wróg zdąży zorientować się, że jest skazany na zagładę. Jego umysł, wyostrzone przez lata nieustannej pracy, jest maszyną wojenną w sobie, obracającą się, obliczającą i demontującą obronę kawałek po kawałku. Dla Hasana oblężenie nie polega na brutalnej sile. To kwestia nieuchronności. Powolne zaciskanie pętli, presja narastająca z każdą mijającą godziną, szept o poddaniu się staje się coraz głośniejszy w umysłach tych, którzy myśleli, że są nietykalni.\n\nJednak mimo jego taktycznej genialności, Hasan nie jest obcy chaosowi bitwy. Choć woli miarowe tempo strategii, nie waha się stanąć twarzą w twarz z wrogiem, gdy moment tego wymaga. Jego scimitar, utrzymywany w polerze, ale często nietknięty, nie jest do zastraszania, lecz ostateczną lekcją dla tych, którzy mylą cierpliwość ze słabością. Walczy tak, jak dowodzi, z precyzją i celem, przecinając szeregi wroga tak łatwo, jak demontuje ich obronę. Żaden barykada nie jest nie do przełamania, żadna twierdza nie jest poza jego zasięgiem, a kiedy uzna moment za odpowiedni, nic nie stanie na jego drodze.\n\nDla Alicji był więcej niż nauczycielem. Był dowodem na to, że pomysłowość i cierpliwość mogą przełamać nawet najsilniejszych wrogów. Tak jak ona tworzy broń innowacji, on tworzy zwycięstwa z cieni swojego namiotu, dym z fajki unoszący się nad polem bitwy niczym ostatni omen twierdzy skazanej na upadek.\n\nZ spojrzeniem tak ostrym jak jego ostrze i umysłem jeszcze ostrzejszym, Hasan nie musi szturmować bram. Po prostu czeka. Bo na końcu mury się zawalą, wróg się załamie, a jak zawsze on zwycięży.",
-    "event_announcement_description_128": "Gdy Festiwal Odrodzenia się zaczyna, tajemniczy Przywoływacz Pustej Księżyca się pojawia, zostawiając za sobą złowieszcze złote jaja wypełnione starożytną magią. Te Puste Księżycowe Jaja zawierają rzadkie skarby, potężny sprzęt i cenne zasoby. Ofiaruj je Przywoływaczowi, odblokuj nagrody i wspinaj się w rankingu po ekskluzywne nagrody. Czy fortuna będzie ci sprzyjać, czy Pusty Księżyc rzuci cień?",
-    "event_announcement_header_128": "Przywołanie Pustej Księżyca",
+    "dialog_event_announcement_description_128": "Gdy Festiwal Odrodzenia się zaczyna, tajemniczy Przywoływacz Pustej Księżyca się pojawia, zostawiając za sobą złowieszcze złote jaja wypełnione starożytną magią. Te Puste Księżycowe Jaja zawierają rzadkie skarby, potężny sprzęt i cenne zasoby. Ofiaruj je Przywoływaczowi, odblokuj nagrody i wspinaj się w rankingu po ekskluzywne nagrody. Czy fortuna będzie ci sprzyjać, czy Pusty Księżyc rzuci cień?",
+    "dialog_event_announcement_header_128": "Przywołanie Pustej Księżyca",
     "event_end_description_EasterGacha": "Gdy festiwal blednieje, a mgła ustępuje, Przywoływacz Pustej Księżyca znika, zabierając ze sobą swoje zaczarowane jaja i ich tajemnice. Dziękujemy za przyjęcie tajemnicy i wypróbowanie swojego losu. Do następnego zaćmienia...",
     "event_end_header_EasterGacha": "Przywołanie Pustej Księżyca",
     "event_title_128": "Przywołanie Pustej Księżyca",
@@ -12687,7 +12702,10 @@
     "title_advisor_nomad": "Doradca nomadów",
     "currency_description_OfferingHasan": "Wymiana z królem Ludwigiem w Gospodzie Generałów na bardzo cenne nagrody. Losowania nagród zawsze zawierają fragmenty dla Hasana. Wymiana oferty Hasana może być dokonana tylko przez ograniczony czas!",
     "currency_name_OfferingHasan": "Ofiara Hasana dla Ludwika",
-    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "To są szanse losowania dla kategorii nagród tego patrona z wybraną ofertą. Każda kategoria zawiera konkretne typy nagród, które zostaną losowo wybrane. Dla każdej płatnej oferty wykonuje się cztery losowania, każde losowanie ma szanse wymienione poniżej.\n\nSzansa losowania        Kategorie nagród\n\n09.00%                  - Strzępy Hasana\n\n00.50%                  - Oferta Hasana dla Ludwiga\n\n03.00%                  - Oferta dla Księżniczki Beatrice\n\n05.00%                  - Oferta dla Sir Ulricha\n\n08.00%                  - Oferta dla Króla Ludwiga\n\n02.00%                  - Tokeny resetowania umiejętności\n\n03.40%                  - Wyposażenie"
+    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "To są szanse losowania dla kategorii nagród tego patrona z wybraną ofertą. Każda kategoria zawiera konkretne typy nagród, które zostaną losowo wybrane. Dla każdej płatnej oferty wykonuje się cztery losowania, każde losowanie ma szanse wymienione poniżej.\n\nSzansa losowania        Kategorie nagród\n\n09.00%                  - Strzępy Hasana\n\n00.50%                  - Oferta Hasana dla Ludwiga\n\n03.00%                  - Oferta dla Księżniczki Beatrice\n\n05.00%                  - Oferta dla Sir Ulricha\n\n08.00%                  - Oferta dla Króla Ludwiga\n\n02.00%                  - Tokeny resetowania umiejętności\n\n03.40%                  - Wyposażenie",
+    "TITLE_EASTERGACHA": "Przywołanie Pustej Księżyca",
+    "intro_advisor_nomad_short": "Podczas inwazji nomadów przeprowadzaj kolejne ataki na obozy nomadów bez przerwy.",
+    "advisor_attack": "Atak doradcy"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% siły bojowej jednostki podczas ataku",
@@ -14025,7 +14043,9 @@
     "ci_effect_unitWallAbsoluteAmount_tt": "Liczba wojsk na murze zamkowym:",
     "ci_effect_unitWallAbsoluteAmount": "+{0} jednostek dostępnych na murach",
     "ci_effect_unitWallAbsoluteAmountTCI": "+{0} jednostek dostępnych na murach",
-    "equip_effect_description_unitWallAbsoluteAmount": "+{0} limit jednostek na murze"
+    "equip_effect_description_unitWallAbsoluteAmount": "+{0} limit jednostek na murze",
+    "equip_effect_description_allianceFameBoost": "+{0}% punkty chwały zdobyte podczas ataku",
+    "equip_effect_description_allianceTravelSupportBoost": "Czas podróży wsparcia sojuszu: -{0}%"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Bohater",
@@ -17374,7 +17394,7 @@
     "equipment_unique_1061_desc": "Zmienia twój zamek w spienioną fortecę.",
     "equipment_unique_1062_desc": "Zmienia twój zamek w spienioną fortecę.",
     "equip_effect_description_emptyGemSocket_name": "Puste pole klejnotu",
-    "equip_effect_description_appearance_baron_transformationTarget": "Pokaż swoją dominację w LTPE za pomocą tego rzadkiego przedmiotu, przekształcając swoje główne zamki, placówki, stolicę lub metropolię w naprawdę unikalną obecność, która wyróżnia cię spośród innych graczy.",
+    "equip_effect_description_appearance_baron_transformationTarget": "Transformacja dotyczy głównych zamków, posterunku, stolicy i metropolii.",
     "equip_effect_description_appearance_commander_transformationTarget": "Transformacja ma zastosowanie do maszerujących armii w królestwach i okrętów wojennych na Archipelagu Sztormu.",
     "equip_effect_description_noGemSocket_name": "Brak pola na klejnot",
     "equip_effect_description_permanentAppearance": "Przedmiot permanentny",
@@ -18005,10 +18025,19 @@
     "equipment_unique_1241": "Wielki ametystowy lotos",
     "equipment_unique_1242": "Wielki ametystowy lotos",
     "equipment_unique_1243": "Wielki ametystowy lotos",
-    "equipment_unique_1263": "Wielkanocna budka dla ptaków",
-    "equipment_unique_1263_desc": "Uwolnij radosnego ducha Wielkanocnego Domku dla Ptaków, aby powitać sezon odnowy. Przekształć swój zamek w tętniące życiem schronienie, ozdobione kolorowymi gniazdami i kolorowymi jajkami wielkanocnymi, odzwierciedlając radość z powrotu wiosny.",
-    "equipment_unique_1264": "Wielkanocny paproć",
-    "equipment_unique_1264_desc": "Przekształć swoją armię w siłę odnowy, maszerując pod rozpościerającymi się paprociami i ukrytymi wielkanocnymi jajkami, przyjmując ducha wzrostu i celebracji."
+    "equipment_unique_1263": "Zamarznięty kwiat",
+    "equipment_unique_1263_desc": "Przekształca twoją armię w wóz pszczeli i zwiększa liczbę pszczół zdobywanych z udanych ataków na twoich wrogów, jak to może być?",
+    "equipment_unique_1264": "Zamarznięty kwiat",
+    "equipment_unique_1264_desc": "Przekształca twoją armię w wóz pszczeli i zwiększa liczbę pszczół zdobywanych z udanych ataków na twoich wrogów, jak to może być?",
+    "equip_effect_description_appearance_baron_transformationTarget_increasedSizeLTPE": "Transformacja dotyczy głównych zamków, placówek, stolicy i metropolii. Zwiększa rozmiar twojego zamku na mapie świata.",
+    "equipment_unique_1265": "Zamarznięty kwiat",
+    "equipment_unique_1265_desc": "Przekształca twoją armię w wóz pszczeli i zwiększa liczbę pszczół zdobywanych z udanych ataków na twoich wrogów, jak to może być?",
+    "equipment_unique_1266": "Podarunek Wiosny",
+    "equipment_unique_1266_desc": "Nie ma nic bardziej ekscytującego niż obietnica obfitej wiosny. Przekształć swój zamek w majestatyczny wiosenny kwiat.",
+    "equipment_unique_1267": "Wielkanocna budka dla ptaków",
+    "equipment_unique_1267_desc": "Uwolnij radosnego ducha wielkanocnej budki dla ptaków, aby powitać sezon odnowy. Przekształć swój zamek w tętniące życiem schronienie, ozdobione kolorowymi gniazdami i kolorowymi jajkami wielkanocnymi, odzwierciedlając radość z powrotu wiosny.",
+    "equipment_unique_1268": "Wielkanocny paproć",
+    "equipment_unique_1268_desc": "Przekształć swoją armię w siłę odnowy, maszerując pod rozwijającymi się paprociami i ukrytymi jajkami wielkanocnymi, przyjmując ducha wzrostu i świętowania."
   },
   "generic": {
     "activity": "Działania",

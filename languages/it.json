@@ -2025,7 +2025,22 @@
     "deco_ExaltedRedEasterHotspring_name": "Sorgente rossa esaltata di Pasqua",
     "deco_ExaltedRedEasterRuins_name": "Rovine rosse esaltate di Pasqua",
     "deco_ExaltedRedEggTree_name": "Guardiano rosso esaltato della cura",
-    "deco_ExaltedRedMarchHaresHideout_name": "Nascondiglio dellesaltato leprotto rosso"
+    "deco_ExaltedRedMarchHaresHideout_name": "Nascondiglio dellesaltato leprotto rosso",
+    "deco_ExaltedGuardianOfNurtureGreen_name": "Guardiano Verde Esaltato della Nutrizione",
+    "deco_ExaltedGuardianOfNurturePurple_name": "Guardiano viola esaltato della nutrizione",
+    "deco_ExaltedGuardianOfNurtureRed_name": "Guardiano Rosso Esaltato della Nutrizione",
+    "ci_appearance_theBrokenEggDwelling": "Dimora delluovo rotto",
+    "ci_appearance_theBrokenEggDwelling_flavor": "Il profumo dei fiori freschi aleggia attraverso le finestre aperte mentre la luce del sole danza sulle uova dipinte. Le guardie scambiano scherzi bonari, tessendo ghirlande e preparando il gioioso rinnovamento della stagione.",
+    "ci_appearance_theBrokenEggGreenhouse": "Serra delluovo rotto",
+    "ci_appearance_theBrokenEggGreenhouse_flavor": "Allinterno, i soldati si muovono tra il profumo di terra fresca e fiori in boccio, curando con attenzione la nuova vita mentre preparano cesti stracolmi di fiori vivaci e uova dipinte.",
+    "ci_appearance_theBrokenEggStorehouse": "Magazzino delle uova rotte",
+    "ci_appearance_theBrokenEggStorehouse_flavor": "Il magazzino trabocca di raccolti freschi, dolci prelibatezze e uova colorate, assicurando che nessuna celebrazione passi senza il suo bottino festivo.",
+    "ci_appearance_theBrokenEggTavern": "Taverna Luovo rotto",
+    "ci_appearance_theBrokenEggTavern_flavor": "Metti una primavera nei tuoi passi e rilassati nella più eccellente taverna del Grande Impero.",
+    "ci_appearance_theBrokenEggDwelling_flavour": "Il profumo dei fiori freschi aleggia attraverso le finestre aperte mentre la luce del sole danza sulle uova dipinte. Le guardie si scambiano scherzi bonari, intrecciando ghirlande e preparando la gioiosa rinascita della stagione.",
+    "ci_appearance_theBrokenEggGreenhouse_flavour": "Allinterno, i soldati si muovono tra il profumo di terra fresca e fiori che sbocciano, curando con attenzione la nuova vita mentre preparano ceste piene di fiori vivaci e uova dipinte.",
+    "ci_appearance_theBrokenEggStorehouse_flavour": "Il magazzino trabocca di raccolti freschi, dolci prelibatezze e uova colorate, assicurando che nessuna celebrazione passi senza la sua ricchezza festiva.",
+    "ci_appearance_theBrokenEggTavern_flavour": "Metti un salto nei tuoi passi e rilassati nella più uovosa taverna del Grande Impero."
   },
   "dialogs": {
     "dialog_festival_desc": "Usa il cibo per organizzare un banchetto per i tuoi cittadini! La velocità di reclutamento aumenterà notevolmente in tutti i castelli per la durata del banchetto. Più grande è il banchetto, maggiore sarà leffetto.",
@@ -12629,8 +12644,8 @@
     "generals_characters_120_summary": "Tattico esperto e instancabile specialista dassedio.",
     "generals_characters_120_name": "Hasan",
     "generals_characters_120_narrative": "Ingegnere Maestro Hasan\n\n&quot;Un assedio non è una prova di forza, è una prova di pazienza, precisione e ineluttabilità.&quot;\n\nMolto prima che le mani di Alice afferrassero per la prima volta una chiave inglese, prima che la sua mente iniziasse a plasmare le invenzioni che avrebbero cambiato le sorti della guerra, cera Hasan, il maestro stratega il cui stesso nome poteva mandare i difensori nel panico. Il più venerato stratega dassedio del Grande Impero, ha distrutto più mura e ha resistito a più fortezze di quanto la storia osi contare. Un uomo di saggezza silenziosa e pazienza incrollabile, Hasan non si precipita in battaglia. Aspetta, osserva, e quando il momento è giusto, colpisce veloce e decisivo, come una lama che taglia la seta.\n\nDove altri vedono una fortezza impenetrabile, Hasan vede un puzzle con mille soluzioni. Ogni battaglia è vinta molto prima che il primo dardo venga scagliato, ogni vittoria incisa nelle linee delle sue mappe di battaglia prima che il nemico sappia di essere condannato. La sua mente, affinata da anni di incessante perfezionamento, è un motore di guerra a sé stante che gira, calcola e smantella le difese pezzo dopo pezzo. Per Hasan, un assedio non riguarda la forza bruta. Riguarda linevitabilità. Il lento stringere di un cappio, la pressione che aumenta ad ogni ora che passa, il sussurro della resa che cresce più forte nella mente di coloro che si credono intoccabili.\n\nEppure, per tutta la sua brillantezza tattica, Hasan non è estraneo al caos della battaglia. Sebbene preferisca il ritmo misurato della strategia, non esita a incontrare i suoi nemici faccia a faccia quando il momento lo richiede. Il suo scimitarra, tenuto lucido ma spesso intatto, non è per intimidire, è una lezione finale per coloro che scambiano la pazienza per debolezza. Combattendo come comanda, con precisione e scopo, si fa strada tra le file nemiche con la stessa facilità con cui smantella le loro difese. Nessun barricata è infrangibile, nessuna fortezza oltre il suo raggio dazione, e quando ritiene che il momento sia giusto, non cè nulla che possa fermarlo.\n\nPer Alice, era più di un insegnante. Era la prova che ingegnosità e pazienza possono spezzare anche i nemici più forti. Proprio come lei crea armi di innovazione, lui crea vittorie dallombra della sua tenda, il fumo della pipa che si arriccia sopra il campo di battaglia come lultimo presagio di una fortezza destinata a cadere.\n\nCon uno sguardo affilato come la sua lama e una mente ancora più affilata, Hasan non ha bisogno di assaltare le porte. Aspetta semplicemente. Perché alla fine, le mura crolleranno, il nemico vacillerà e, come sempre, lui vincerà.",
-    "event_announcement_description_128": "Con linizio del Festival della Rinascita, lenigmatico Evocatore della Luna Cava emerge, lasciando dietro di sé uova dorate inquietanti piene di magia antica. Queste Uova della Luna Cava contengono tesori rari, equipaggiamenti potenti e risorse preziose. Offrile allEvocatore, sblocca ricompense e scala le classifiche per premi esclusivi. La fortuna ti sorriderà o la Luna Cava getterà la sua ombra?",
-    "event_announcement_header_128": "Evocazione della Luna Cava",
+    "dialog_event_announcement_description_128": "Con linizio del Festival della Rinascita, lenigmatico Evocatore della Luna Cava emerge, lasciando dietro di sé uova dorate inquietanti piene di magia antica. Queste Uova della Luna Cava contengono tesori rari, equipaggiamenti potenti e risorse preziose. Offrile allEvocatore, sblocca ricompense e scala le classifiche per premi esclusivi. La fortuna ti sorriderà o la Luna Cava getterà la sua ombra?",
+    "dialog_event_announcement_header_128": "Evocazione della Luna Cava",
     "event_end_description_EasterGacha": "Mentre il festival svanisce e la nebbia si ritira, lEvocatore della Luna Cava svanisce, portando con sé le sue uova incantate e i loro segreti. Grazie per aver abbracciato il mistero e messo alla prova il tuo destino. Fino alla prossima eclissi...",
     "event_end_header_EasterGacha": "Evocazione della Luna Cava",
     "event_title_128": "Evocazione della Luna Cava",
@@ -12687,7 +12702,10 @@
     "title_advisor_nomad": "Consigliere nomade",
     "currency_description_OfferingHasan": "Scambio con il re Ludovico nellosteria dei generali per ottenere ricompense molto preziose. I sorteggi delle ricompense includono sempre frammenti per Hasan. Lo scambio dellofferta di Hasan può essere fatto solo per un tempo limitato!",
     "currency_name_OfferingHasan": "Offerta di Hasan a Ludovico",
-    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "Queste sono le possibilità di estrazione per le categorie di ricompensa di questo patron con lofferta selezionata. Ogni categoria contiene tipi di ricompensa specifici, che verranno scelti casualmente. Per ogni offerta a pagamento, vengono effettuate quattro estrazioni, ciascuna estrazione ha le possibilità elencate di seguito.\n\nPossibilità di estrazione        Categorie di ricompensa\n\n09.00%                  - Frammenti di Hasan\n\n00.50%                  - Offerta di Hasan a Ludwig\n\n03.00%                  - Offerta alla Principessa Beatrice\n\n05.00%                  - Offerta a Sir Ulrich\n\n08.00%                  - Offerta al Re Ludwig\n\n02.00%                  - Token di reset delle abilità\n\n03.40%                  - Equipaggiamento"
+    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "Queste sono le possibilità di estrazione per le categorie di ricompensa di questo patron con lofferta selezionata. Ogni categoria contiene tipi di ricompensa specifici, che verranno scelti casualmente. Per ogni offerta a pagamento, vengono effettuate quattro estrazioni, ciascuna estrazione ha le possibilità elencate di seguito.\n\nPossibilità di estrazione        Categorie di ricompensa\n\n09.00%                  - Frammenti di Hasan\n\n00.50%                  - Offerta di Hasan a Ludwig\n\n03.00%                  - Offerta alla Principessa Beatrice\n\n05.00%                  - Offerta a Sir Ulrich\n\n08.00%                  - Offerta al Re Ludwig\n\n02.00%                  - Token di reset delle abilità\n\n03.40%                  - Equipaggiamento",
+    "TITLE_EASTERGACHA": "Evocazione della Luna Cava",
+    "intro_advisor_nomad_short": "Durante linvasione dei nomadi, lancia attacchi consecutivi sui campi nomadi senza pausa.",
+    "advisor_attack": "Attacco dellAdvisor"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% di forza di combattimento dellunità in attacco",
@@ -14025,7 +14043,9 @@
     "ci_effect_unitWallAbsoluteAmount_tt": "Capacità per truppe sulle mura del castello:",
     "ci_effect_unitWallAbsoluteAmount": "+{0} limite di unità sulle mura",
     "ci_effect_unitWallAbsoluteAmountTCI": "+{0} limite di unità sulle mura",
-    "equip_effect_description_unitWallAbsoluteAmount": "+{0} limite di unità sul muro"
+    "equip_effect_description_unitWallAbsoluteAmount": "+{0} limite di unità sul muro",
+    "equip_effect_description_allianceFameBoost": "+{0}% punti gloria guadagnati attaccando",
+    "equip_effect_description_allianceTravelSupportBoost": "Tempo di viaggio di supporto allalleanza: -{0}%"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Eroe",
@@ -17374,7 +17394,7 @@
     "equipment_unique_1061_desc": "Trasforma il tuo castello in una fortezza spumeggiante.",
     "equipment_unique_1062_desc": "Trasforma il tuo castello in una fortezza spumeggiante.",
     "equip_effect_description_emptyGemSocket_name": "Slot gemma vuoto",
-    "equip_effect_description_appearance_baron_transformationTarget": "Mostra la tua dominanza nel LTPE con questo oggetto raro, trasformando i tuoi castelli principali, avamposti, capitale o metropoli in una presenza davvero unica che ti distingue dagli altri giocatori.",
+    "equip_effect_description_appearance_baron_transformationTarget": "La trasformazione si applica ai castelli principali, avamposti, capitale e metropoli.",
     "equip_effect_description_appearance_commander_transformationTarget": "La trasformazione si applica alle milizie in marcia nei regni e alle navi da guerra sulle Isole della Tempesta.",
     "equip_effect_description_noGemSocket_name": "Nessuno slot gemma",
     "equip_effect_description_permanentAppearance": "Oggetto permanente",
@@ -18005,10 +18025,19 @@
     "equipment_unique_1241": "Grande loto ametista",
     "equipment_unique_1242": "Grande loto ametista",
     "equipment_unique_1243": "Grande loto ametista",
-    "equipment_unique_1263": "Casetta per uccelli di Pasqua",
-    "equipment_unique_1263_desc": "Libera lo spirito allegro della Casetta di Pasqua per dare il benvenuto alla stagione del rinnovamento. Trasforma il tuo castello in un rifugio vivace, adornato con nidi vibranti e colorate uova di Pasqua, che echeggiano la gioia del ritorno della primavera.",
-    "equipment_unique_1264": "Felce di Pasqua",
-    "equipment_unique_1264_desc": "Trasforma il tuo esercito in una forza di rinnovamento, marciando sotto felci che si dispiegano e uova di Pasqua nascoste, abbracciando lo spirito di crescita e celebrazione."
+    "equipment_unique_1263": "Bocciolo ghiacciato",
+    "equipment_unique_1263_desc": "Trasforma il tuo esercito in un carro di api e aumenta il numero di api guadagnate dagli attacchi riusciti contro i tuoi nemici, come può essere questo?",
+    "equipment_unique_1264": "Bocciolo ghiacciato",
+    "equipment_unique_1264_desc": "Trasforma il tuo esercito in un carro di api e aumenta il numero di api guadagnate dagli attacchi riusciti contro i tuoi nemici, come può essere questo?",
+    "equip_effect_description_appearance_baron_transformationTarget_increasedSizeLTPE": "La trasformazione si applica ai castelli principali, avamposti, capitale e metropoli. Aumenta le dimensioni del tuo castello sulla mappa del mondo.",
+    "equipment_unique_1265": "Bocciolo ghiacciato",
+    "equipment_unique_1265_desc": "Trasforma il tuo esercito in un carro di api e aumenta il numero di api guadagnate dagli attacchi riusciti contro i tuoi nemici, come può essere questo?",
+    "equipment_unique_1266": "Dono di primavera",
+    "equipment_unique_1266_desc": "Non cè nulla di più emozionante della promessa di una primavera abbondante. Trasforma il tuo castello in un maestoso fiore primaverile.",
+    "equipment_unique_1267": "Casetta per uccelli di Pasqua",
+    "equipment_unique_1267_desc": "Libera lo spirito gioioso della casetta per uccelli di Pasqua per dare il benvenuto alla stagione del rinnovamento. Trasforma il tuo castello in un rifugio vivace, adornato con nidi vivaci e colorate uova di Pasqua, che echeggiano la gioia del ritorno della primavera.",
+    "equipment_unique_1268": "Felce di Pasqua",
+    "equipment_unique_1268_desc": "Trasforma il tuo esercito in una forza di rinnovamento, marciando sotto felci che si dispiegano e uova di Pasqua nascoste, abbracciando lo spirito di crescita e celebrazione."
   },
   "generic": {
     "activity": "Attività",

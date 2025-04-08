@@ -2025,7 +2025,22 @@
     "deco_ExaltedRedEasterHotspring_name": "Hædret rød påske varmekilde",
     "deco_ExaltedRedEasterRuins_name": "Hævet rødt påskekrater",
     "deco_ExaltedRedEggTree_name": "Den ophøjede røde beskytter af pleje",
-    "deco_ExaltedRedMarchHaresHideout_name": "Forbedret rød marskanins skjul"
+    "deco_ExaltedRedMarchHaresHideout_name": "Forbedret rød marskanins skjul",
+    "deco_ExaltedGuardianOfNurtureGreen_name": "Den ophøjede grønne vogter af næring",
+    "deco_ExaltedGuardianOfNurturePurple_name": "Den ophøjede lilla vogter af næring",
+    "deco_ExaltedGuardianOfNurtureRed_name": "Den ophøjede røde beskytter af pleje",
+    "ci_appearance_theBrokenEggDwelling": "Brudt æg bolig",
+    "ci_appearance_theBrokenEggDwelling_flavor": "Duften af friske blomster svæver gennem åbne vinduer, mens sollyset danser over malede æg. Vagterne udveksler gode-naturdige jests, væver kranse og forbereder sig på sæsonens glade fornyelse.",
+    "ci_appearance_theBrokenEggGreenhouse": "Glasdrivhus til det knuste æg",
+    "ci_appearance_theBrokenEggGreenhouse_flavor": "Indenfor bevæger soldaterne sig blandt duften af frisk jord og spirende blomster, mens de omhyggeligt passer på nyt liv, mens de forbereder kurve fyldt med farverige blomster og malede æg.",
+    "ci_appearance_theBrokenEggStorehouse": "Lager for brækkede æg",
+    "ci_appearance_theBrokenEggStorehouse_flavor": "Lageret er fyldt med friske høstvarer, søde godter og farverige æg, hvilket sikrer, at ingen fest går uden sin festlige rigdom.",
+    "ci_appearance_theBrokenEggTavern": "Kroen Det knuste æg",
+    "ci_appearance_theBrokenEggTavern_flavor": "Sæt et forår i dine skridt og slap af i den mest fantastiske kro i det Store Imperium.",
+    "ci_appearance_theBrokenEggDwelling_flavour": "Duften af friske blomster svæver gennem åbne vinduer, mens sollyset danser over malede æg. Vagterne udveksler godmodige jester, snor kranse og forbereder sig på sæsonens glade fornyelse.",
+    "ci_appearance_theBrokenEggGreenhouse_flavour": "Indenfor bevæger soldaterne sig blandt duften af frisk jord og spirende blomster, mens de omhyggeligt passer nye liv, mens de forbereder kurve fyldt med livlige blomster og malede æg.",
+    "ci_appearance_theBrokenEggStorehouse_flavour": "Lageret flyder over med friske høst, søde lækkerier og farverige æg, hvilket sikrer, at ingen fejring går uden sin festlige rigdom.",
+    "ci_appearance_theBrokenEggTavern_flavour": "Sæt gang i dine skridt og slap af i den mest „æggefine“ kro i Det Store Imperium."
   },
   "dialogs": {
     "dialog_festival_desc": "Brug mad til at holde en fest for dine borgere! Rekrutteringshastigheden vil forøges på i jeres borge, så længe festen varer. Jo større festen er, jo større er effekten.",
@@ -12629,8 +12644,8 @@
     "generals_characters_120_summary": "Mesterlig taktiker og utrættelig belejringsekspert.",
     "generals_characters_120_name": "Hasan",
     "generals_characters_120_narrative": "Mesteringeniør Hasan\n\n&quot;En belejring er ikke en test af styrke, men en test af tålmodighed, præcision og uundgåelighed.&quot;\n\nLænge før Alices hænder første gang greb en nøgle, før hendes sind begyndte at forme de opfindelser, der ville ændre krigens gang, var der Hasan, den mesterlige taktiker, hvis navn alene kunne sende forsvarerne i panik. Den Store Imperiums mest beundrede belejringsstrateg, han har brudt flere mure og overlevet flere fæstninger, end historien tør at tælle. En mand med stille visdom og urokkelig tålmodighed, Hasan haster ikke til kamp. Han venter, han observerer, og når tiden er inde, slår han hurtigt og afgørende, som en klinge der skærer gennem silke.\n\nHvor andre ser en uigennemtrængelig fæstning, ser Hasan et puslespil med tusinde løsninger. Hver kamp vindes længe før den første pil flyver, hver sejr indgraveret i linjerne på hans kampkort, før fjenden overhovedet ved, at de er fortabte. Hans sind, slebet gennem år med utrætteligt forfining, er en krigsmaskine i sig selv, der drejer, beregner og nedbryder forsvar stykke for stykke. For Hasan handler en belejring ikke om råstyrke. Det handler om uundgåelighed. Den langsomme stramning af en løkke, presset der stiger med hver forløbne time, hvisken om overgivelse, der bliver højere i sindet på dem, der troede, de var usåelige.\n\nAlligevel, trods al sin taktiske genialitet, er Hasan ikke fremmed for kampens kaos. Selvom han foretrækker den målte takt af strategi, tøver han ikke med at møde sine fjender ansigt til ansigt, når øjeblikket kræver det. Hans sabel, holdt poleret men ofte ubenyttet, er ikke til intimidation, men en sidste lektion for dem, der forveksler tålmodighed med svaghed. Han kæmper, som han befaler, med præcision og formål, skærer gennem fjendens rækker så let som han nedbryder deres forsvar. Ingen barrikade er uigennemtrængelig, ingen fæstning uden for hans rækkevidde, og når han anser øjeblikket for at være rigtigt, er der intet, der vil stå i vejen for ham.\n\nFor Alice var han mere end en lærer. Han var bevis på, at opfindsomhed og tålmodighed kan knække selv de stærkeste fjender. Ligesom hun skaber våben af innovation, skaber han sejre fra skyggerne af sit telt, røg fra piben svæver over slagmarken som den sidste varsling om en fæstning, der er dømt til at falde.\n\nMed et blik så skarpt som hans klinge og et sind endnu skarpere, har Hasan ikke brug for at storme portene. Han venter simpelthen. For i sidste ende vil murene kollapse, fjenden vil vakle, og som altid vil han sejre.",
-    "event_announcement_description_128": "Da Festivalet for Genfødsel begynder, dukker den gådefulde Kaldende af den Hule Måne op, og efterlader uhyggelige gyldne æg fyldt med gammel magi. Disse Hule Måne Æg indeholder sjældne skatte, kraftigt udstyr og værdifulde ressourcer. Tilbyd dem til Kaldende, lås op for belønninger og klatre i rang for eksklusive præmier. Vil lykken være med dig, eller vil den Hule Måne kaste sin skygge?",
-    "event_announcement_header_128": "Kaldelse af den Hule Måne",
+    "dialog_event_announcement_description_128": "Da Festivalet for Genfødsel begynder, dukker den gådefulde Kaldende af den Hule Måne op, og efterlader uhyggelige gyldne æg fyldt med gammel magi. Disse Hule Måne Æg indeholder sjældne skatte, kraftigt udstyr og værdifulde ressourcer. Tilbyd dem til Kaldende, lås op for belønninger og klatre i rang for eksklusive præmier. Vil lykken være med dig, eller vil den Hule Måne kaste sin skygge?",
+    "dialog_event_announcement_header_128": "Kaldelse af den Hule Måne",
     "event_end_description_EasterGacha": "Mens festivalet svinder og tågen trækker sig tilbage, forsvinder Kaldende til den Hule Måne og tager sine fortryllede æg og deres hemmeligheder med sig. Tak for at du omfavnede mysteriet og testede din skæbne. Indtil den næste formørkelse...",
     "event_end_header_EasterGacha": "Kaldelse af den Hule Måne",
     "event_title_128": "Kaldelse af den Hule Måne",
@@ -12687,7 +12702,10 @@
     "title_advisor_nomad": "Nomadrådgiver",
     "currency_description_OfferingHasan": "Udveksling med Kong Ludwig i Generalernes Kro for at få meget værdifulde belønninger. Belønningsudtrækning inkluderer altid fragmenter til Hasan. Udveksling af Hasans tilbud kan kun gøres i begrænset tid!",
     "currency_name_OfferingHasan": "Hasans gave til kong Ludwig",
-    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "Dette er trækchancerne for denne patrons belønningskategorier med det valgte tilbud. Hver kategori indeholder specifikke belønningsformer, som vil blive valgt tilfældigt. For hvert betalt tilbud udføres der fire træk, hvor hvert træk har de chancer, der er angivet nedenfor.\n\nTrækchance        Belønningskategorier\n\n09.00%                  - Hasan-skærver\n\n00.50%                  - Hasans tilbud til Ludwig\n\n03.00%                  - Tilbud til prinsesse Beatrice\n\n05.00%                  - Tilbud til Sir Ulrich\n\n08.00%                  - Tilbud til kong Ludwig\n\n02.00%                  - Færdighedsreset tokens\n\n03.40%                  - Udstyr"
+    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "Dette er trækchancerne for denne patrons belønningskategorier med det valgte tilbud. Hver kategori indeholder specifikke belønningsformer, som vil blive valgt tilfældigt. For hvert betalt tilbud udføres der fire træk, hvor hvert træk har de chancer, der er angivet nedenfor.\n\nTrækchance        Belønningskategorier\n\n09.00%                  - Hasan-skærver\n\n00.50%                  - Hasans tilbud til Ludwig\n\n03.00%                  - Tilbud til prinsesse Beatrice\n\n05.00%                  - Tilbud til Sir Ulrich\n\n08.00%                  - Tilbud til kong Ludwig\n\n02.00%                  - Færdighedsreset tokens\n\n03.40%                  - Udstyr",
+    "TITLE_EASTERGACHA": "Kaldelse af den Hule Måne",
+    "intro_advisor_nomad_short": "Under nomadinvationen, udfør efterfølgende angreb på nomadecamps uden nedetid.",
+    "advisor_attack": "Rådgiverangreb"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% enhedens kampstyrke ved angreb",
@@ -14025,7 +14043,9 @@
     "ci_effect_unitWallAbsoluteAmount_tt": "Troppekapacitet på borgmuren:",
     "ci_effect_unitWallAbsoluteAmount": "+{0} enhedsgrænse på muren",
     "ci_effect_unitWallAbsoluteAmountTCI": "+{0} enhedsgrænse på muren",
-    "equip_effect_description_unitWallAbsoluteAmount": "+{0} enhedsgrænse på muren"
+    "equip_effect_description_unitWallAbsoluteAmount": "+{0} enhedsgrænse på muren",
+    "equip_effect_description_allianceFameBoost": "+{0}% ærepoint optjent ved angreb",
+    "equip_effect_description_allianceTravelSupportBoost": "Alliance støtte rejsetid: -{0}%"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Helt",
@@ -17374,7 +17394,7 @@
     "equipment_unique_1061_desc": "Forvandler din borg til et skummende fæstningsværk.",
     "equipment_unique_1062_desc": "Forvandler din borg til et skummende fæstningsværk.",
     "equip_effect_description_emptyGemSocket_name": "Tom ædelstensplads",
-    "equip_effect_description_appearance_baron_transformationTarget": "Vis din dominans i LTPE med denne sjældne genstand, der forvandler dine hovedslotte, forposter, hovedstad eller metropol til en virkelig unik tilstedeværelse, der adskiller dig fra andre spillere.",
+    "equip_effect_description_appearance_baron_transformationTarget": "Transformation gælder for hovedslotte, forpost, hovedstad og metropol.",
     "equip_effect_description_appearance_commander_transformationTarget": "Forvandlingen gælder for dine marcherende hære i kongerigerne og for dine krigsskibe på Stormøerne.",
     "equip_effect_description_noGemSocket_name": "Ingen plads til ædelsten",
     "equip_effect_description_permanentAppearance": "Permanent genstand",
@@ -18005,10 +18025,19 @@
     "equipment_unique_1241": "Grand amethyst lotus",
     "equipment_unique_1242": "Grand amethyst lotus",
     "equipment_unique_1243": "Grand amethyst lotus",
-    "equipment_unique_1263": "Fuglehus til påske",
-    "equipment_unique_1263_desc": "Slip den glade ånd fra påskefuglehuset løs for at byde velkommen til fornyelsens sæson. Forvandl dit slot til et livligt fristed, pyntet med farverige reder og farverige påskeæg, der ekkoer glæden ved forårets tilbagevenden.",
-    "equipment_unique_1264": "Påske bregne",
-    "equipment_unique_1264_desc": "Forvandl din hær til en kraft af fornyelse, marcherende under udsprungne bregner og skjulte påskeæg, omfavnende vækstens og fejringsånden."
+    "equipment_unique_1263": "Indefrosset blomst",
+    "equipment_unique_1263_desc": "Transformer din hær til en bi-vogn og øger antallet af bier, der opnås fra succesfulde angreb på dine fjender, hvordan kan dette være?",
+    "equipment_unique_1264": "Indefrosset blomst",
+    "equipment_unique_1264_desc": "Transformer din hær til en bi-vogn og øger antallet af bier, der opnås fra succesfulde angreb på dine fjender, hvordan kan dette være?",
+    "equip_effect_description_appearance_baron_transformationTarget_increasedSizeLTPE": "Transformation gælder for hovedborge, forposter, hovedstad og metropol. Øger størrelsen på dit slot på verdenskortet.",
+    "equipment_unique_1265": "Indefrosset blomst",
+    "equipment_unique_1265_desc": "Transformer din hær til en bi-vogn og øger antallet af bier, der opnås fra succesfulde angreb på dine fjender, hvordan kan dette være?",
+    "equipment_unique_1266": "Forårsgave",
+    "equipment_unique_1266_desc": "Der er ikke noget mere spændende end løftet om en overflod af forår. Forvandl dit slot til en storslået forårsblomst.",
+    "equipment_unique_1267": "Påskefuglehus",
+    "equipment_unique_1267_desc": "Slip den glade ånd fra påskefuglehuset løs for at byde sæsonen for fornyelse velkommen. Forvandle dit slot til et livligt fristed, udsmykket med farverige reder og farverige påskeæg, der ekkoer glæden ved forårets tilbagevenden.",
+    "equipment_unique_1268": "Påske-bregne",
+    "equipment_unique_1268_desc": "Transformér din hær til en fornyelsesmagt, marcherende under udfoldede bregner og skjulte påskeæg, omfavnende ånden af vækst og fejring."
   },
   "generic": {
     "activity": "Aktivitet",

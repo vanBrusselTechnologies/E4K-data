@@ -3804,7 +3804,39 @@
       "crossplayID": 420,
       "name": "unitWallAbsoluteAmount",
       "effectTypeID": 194,
-      "capID": 99
+      "capID": 78
+    },
+    {
+      "effectID": 421,
+      "crossplayID": 421,
+      "name": "DefenseBoostFrontCapped",
+      "effectTypeID": 49,
+      "capID": 79,
+      "sortOrder": "1.10.1"
+    },
+    {
+      "effectID": 422,
+      "crossplayID": 422,
+      "name": "DefenseBoostFlankCapped",
+      "effectTypeID": 50,
+      "capID": 80,
+      "sortOrder": "1.11.1"
+    },
+    {
+      "effectID": 423,
+      "crossplayID": 423,
+      "name": "AttackBoostFrontCapped",
+      "effectTypeID": 53,
+      "capID": 81,
+      "sortOrder": "1.4.1"
+    },
+    {
+      "effectID": 424,
+      "crossplayID": 424,
+      "name": "AttackBoostFlankCapped",
+      "effectTypeID": 54,
+      "capID": 82,
+      "sortOrder": "1.5.1"
     },
     {
       "effectID": 2101,

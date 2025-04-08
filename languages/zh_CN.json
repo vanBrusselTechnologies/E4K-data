@@ -2025,7 +2025,22 @@
     "deco_ExaltedRedEasterHotspring_name": "崇高的红色复活节温泉",
     "deco_ExaltedRedEasterRuins_name": "崇高的红色复活节遗迹",
     "deco_ExaltedRedEggTree_name": "崇高的红色养护守护者",
-    "deco_ExaltedRedMarchHaresHideout_name": "崇高的红色三月兔藏身处"
+    "deco_ExaltedRedMarchHaresHideout_name": "崇高的红色三月兔藏身处",
+    "deco_ExaltedGuardianOfNurtureGreen_name": "崇高的绿色养护守护者",
+    "deco_ExaltedGuardianOfNurturePurple_name": "尊贵的紫色滋养守护者",
+    "deco_ExaltedGuardianOfNurtureRed_name": "崇高的红色养护守护者",
+    "ci_appearance_theBrokenEggDwelling": "破蛋栖息地",
+    "ci_appearance_theBrokenEggDwelling_flavor": "新鲜花朵的香气飘散在打开的窗户间，阳光在彩绘的蛋上舞动。警卫们互相开着善意的玩笑，编织花环，准备迎接季节的欢乐更新。",
+    "ci_appearance_theBrokenEggGreenhouse": "破碎鸡蛋温室",
+    "ci_appearance_theBrokenEggGreenhouse_flavor": "在里面，士兵们在新鲜土壤和初绽花朵的香气中穿行，谨慎地照料着新生命，准备着装满鲜艳花卉和涂绘蛋的篮子。",
+    "ci_appearance_theBrokenEggStorehouse": "破蛋存储库",
+    "ci_appearance_theBrokenEggStorehouse_flavor": "仓库满是新鲜的收成、美味的甜点和五颜六色的鸡蛋，确保没有庆祝活动会缺少它的节庆财富。",
+    "ci_appearance_theBrokenEggTavern": "破鸡蛋酒馆",
+    "ci_appearance_theBrokenEggTavern_flavor": "在你的步伐中注入一丝春意，在大帝国最优秀的酒馆中放松身心。",
+    "ci_appearance_theBrokenEggDwelling_flavour": "新鲜花朵的香气穿过敞开的窗户，阳光在彩绘的蛋上舞动。守卫们互相开着善意的玩笑，编织花环，准备迎接季节的快乐重生。",
+    "ci_appearance_theBrokenEggGreenhouse_flavour": "在里面，士兵们在新鲜泥土和花朵绽放的香气中移动，细心照料着新生命，同时准备装满鲜艳花朵和彩绘鸡蛋的篮子。",
+    "ci_appearance_theBrokenEggStorehouse_flavour": "仓库装满了新鲜的收成、甜美的美食和五颜六色的鸡蛋，确保没有庆祝活动缺少它的节日财富。",
+    "ci_appearance_theBrokenEggTavern_flavour": "为您的步伐注入活力，在伟大帝国最“蛋壳”的酒馆中放松一下。"
   },
   "dialogs": {
     "dialog_festival_desc": "用食物请您的市民大餐一顿吧！宴会持续期间，您所有城堡的招募速度会大大提高。宴会越丰盛，效果越好。",
@@ -12629,8 +12644,8 @@
     "generals_characters_120_summary": "精明的战术家和无情的围攻专家。",
     "generals_characters_120_name": "哈桑",
     "generals_characters_120_narrative": "大师工程师哈桑\n\n“围攻不是力量的考验，而是耐心、精确和必然性的考验。”\n\n在爱丽丝第一次握住扳手之前，在她的思维开始塑造那些将改变战争潮流的发明之前，哈桑就已经存在了，这位大师级的战术家，他的名字足以让防守者陷入恐慌。大帝国最受尊敬的围攻战略家，他摧毁的城墙比历史敢于计算的还要多，生存下来的据点更是数不胜数。一个拥有沉静智慧和坚定耐心的人，哈桑不急于上战场。他耐心等待，静静观察，而当时机成熟时，他迅速而果断地出击，就像刀刃划过丝绸。\n\n在其他人看来，坚不可摧的堡垒，哈桑看到的是一个拥有千种解决方案的难题。每场战斗在第一支箭射出之前就已经赢得，每场胜利在敌人甚至不知道自己已经注定失败之前，就已经铭刻在他的战斗地图上。他的思维经过多年不懈的打磨，已成为一台战争机器，逐步转动，计算并一点点拆解防御。对哈桑来说，围攻不仅仅是蛮力，而是必然性。慢慢收紧的缰绳，随着每个小时的流逝而加大的压力，那些原本以为自己不可侵犯者心中越来越响亮的投降低语。\n\n然而，尽管他战术上极其聪明，但哈桑对战斗的混乱并不陌生。虽然他更喜欢战略的稳健节奏，但在关键时刻，他绝不会犹豫与敌人面对面交锋。他的弯刀虽然保持光亮却常常未曾动过，并不是用来威慑的，而是给那些误以为耐心是软弱的人的最后一课。他战斗如同指挥，精准而有目的地切割敌人的阵营，轻松地拆解他们的防御。没有任何障碍是不可逾越的，没有任何据点在他能力范围之外，当他认为时机成熟时，没有任何东西能够阻挡他。\n\n对爱丽丝来说，他不仅仅是一个老师。他是一个证明，创造力和耐心可以打破最强大的敌人。正如她创造创新武器一样，他在帐篷的阴影中酝酿胜利，烟雾在战场上盘旋，仿佛是注定要坠落的堡垒的最后预兆。\n\n他的目光如刀锋般锐利，思维更是锋利，哈桑无需冲击大门。他只是静静等待。因为最终，墙壁将会崩溃，敌人将会动摇，而他，依旧会胜利。",
-    "event_announcement_description_128": "随着重生节的开始，神秘的空心月召唤者出现，留下了充满古老魔法的阴森金蛋。这些空心月蛋蕴藏着稀有的宝藏、强大的装备和珍贵的资源。将它们献给召唤者，解锁奖励，并在排行榜上爬升以获得独家奖品。运气会眷顾你吗，还是空心月会投下它的阴影？",
-    "event_announcement_header_128": "空心月亮的召唤",
+    "dialog_event_announcement_description_128": "随着重生节的开始，神秘的空心月召唤者出现，留下了充满古老魔法的阴森金蛋。这些空心月蛋蕴藏着稀有的宝藏、强大的装备和珍贵的资源。将它们献给召唤者，解锁奖励，并在排行榜上爬升以获得独家奖品。运气会眷顾你吗，还是空心月会投下它的阴影？",
+    "dialog_event_announcement_header_128": "空心月亮的召唤",
     "event_end_description_EasterGacha": "当节日消退，雾霭散去时，空心月亮的召唤者消失了，带走了他的魔法蛋和它们的秘密。感谢您拥抱神秘和测试您的命运。直到下一个日食……",
     "event_end_header_EasterGacha": "空心月亮的召唤",
     "event_title_128": "空心月亮的召唤",
@@ -12687,7 +12702,10 @@
     "title_advisor_nomad": "游牧顾问",
     "currency_description_OfferingHasan": "与路德维希王在将军旅馆进行交换，以获得非常宝贵的奖励。奖励抽奖总是包括哈桑的碎片。哈桑的提议只能在有限时间内交换！",
     "currency_name_OfferingHasan": "哈桑对路德维希的献礼",
-    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "这些是此赞助商在所选提供的奖励类别的抽奖机会。每个类别包含特定的奖励类型，随机选择。每个付费提供进行四次抽奖，每次抽奖都有以下列出的机会。\n\n抽奖机会        奖励类别\n\n09.00%                  - 哈桑碎片\n\n00.50%                  - 哈桑对路德维希的提议\n\n03.00%                  - 提供给比阿特丽斯公主\n\n05.00%                  - 提供给乌尔里希爵士\n\n08.00%                  - 提供给路德维希国王\n\n02.00%                  - 技能重置代币\n\n03.40%                  - 装备"
+    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "这些是此赞助商在所选提供的奖励类别的抽奖机会。每个类别包含特定的奖励类型，随机选择。每个付费提供进行四次抽奖，每次抽奖都有以下列出的机会。\n\n抽奖机会        奖励类别\n\n09.00%                  - 哈桑碎片\n\n00.50%                  - 哈桑对路德维希的提议\n\n03.00%                  - 提供给比阿特丽斯公主\n\n05.00%                  - 提供给乌尔里希爵士\n\n08.00%                  - 提供给路德维希国王\n\n02.00%                  - 技能重置代币\n\n03.40%                  - 装备",
+    "TITLE_EASTERGACHA": "空心月亮的召唤",
+    "intro_advisor_nomad_short": "在游牧民族入侵期间，连续攻击游牧营地，不需停顿。",
+    "advisor_attack": "顾问攻击"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% 单位在攻击时的战斗力",
@@ -14025,7 +14043,9 @@
     "ci_effect_unitWallAbsoluteAmount_tt": "城墙部队容量：",
     "ci_effect_unitWallAbsoluteAmount": "+{0} 城墙上的单位上限",
     "ci_effect_unitWallAbsoluteAmountTCI": "+{0} 城墙上的单位上限",
-    "equip_effect_description_unitWallAbsoluteAmount": "+{0} 单位限制在墙上"
+    "equip_effect_description_unitWallAbsoluteAmount": "+{0} 单位限制在墙上",
+    "equip_effect_description_allianceFameBoost": "+{0}% 攻击时获得的荣耀点",
+    "equip_effect_description_allianceTravelSupportBoost": "联盟支持旅行时间: -{0}%"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "英雄",
@@ -17374,7 +17394,7 @@
     "equipment_unique_1061_desc": "将你的城堡变成一座泡沫堡垒。",
     "equipment_unique_1062_desc": "将你的城堡变成一座泡沫堡垒。",
     "equip_effect_description_emptyGemSocket_name": "空宝石栏位",
-    "equip_effect_description_appearance_baron_transformationTarget": "用这个稀有物品展示你在LTPE中的主导地位，将你的主要城堡、前哨、首都或大都市转变为真正独特的存在，让你与其他玩家区别开来。",
+    "equip_effect_description_appearance_baron_transformationTarget": "转变适用于主要城堡、前哨、首都和大都市。",
     "equip_effect_description_appearance_commander_transformationTarget": "转化将应用于王国中的行军部队与风暴岛屿中的战舰。",
     "equip_effect_description_noGemSocket_name": "无宝石栏位",
     "equip_effect_description_permanentAppearance": "永久装备",
@@ -18005,10 +18025,19 @@
     "equipment_unique_1241": "大紫水晶莲花",
     "equipment_unique_1242": "大紫水晶莲花",
     "equipment_unique_1243": "大紫水晶莲花",
-    "equipment_unique_1263": "复活节鸟舍",
-    "equipment_unique_1263_desc": "释放复活节鸟舍的快乐精神，以迎接更新的季节。将您的城堡变成一个充满活力的避风港，装饰着鲜艳的鸟巢和五彩缤纷的复活节彩蛋，回响着春天归来的喜悦。",
-    "equipment_unique_1264": "复活节蕨类",
-    "equipment_unique_1264_desc": "将您的军队转变为一种更新的力量，在展开的蕨类植物和隐藏的复活节彩蛋下行军，拥抱成长和庆祝的精神。"
+    "equipment_unique_1263": "冰封之花",
+    "equipment_unique_1263_desc": "将你的军队转变为蜜蜂战车，并增加从成功攻击敌人中获得的蜜蜂数量，这怎么可能？",
+    "equipment_unique_1264": "冰封之花",
+    "equipment_unique_1264_desc": "将你的军队转变为蜜蜂战车，并增加从成功攻击敌人中获得的蜜蜂数量，这怎么可能？",
+    "equip_effect_description_appearance_baron_transformationTarget_increasedSizeLTPE": "转化适用于主要城堡、前哨、首都和大都市。增加您在世界地图上的城堡大小。",
+    "equipment_unique_1265": "冰封之花",
+    "equipment_unique_1265_desc": "将你的军队转变为蜜蜂战车，并增加从成功攻击敌人中获得的蜜蜂数量，这怎么可能？",
+    "equipment_unique_1266": "春天的礼物",
+    "equipment_unique_1266_desc": "没有什么比丰盈春天的承诺更令人兴奋。将你的城堡变成一朵宏伟的春花。",
+    "equipment_unique_1267": "复活节鸟屋",
+    "equipment_unique_1267_desc": "释放复活节鸟舍的快乐精神，迎接更新的季节。将你的城堡变成一个充满活力的避风港，装饰着色彩斑斓的巢和五彩的复活节彩蛋，回响着春天归来的喜悦。",
+    "equipment_unique_1268": "复活节蕨类",
+    "equipment_unique_1268_desc": "将你的军队转变为一种更新的力量，在展开的蕨类植物和隐藏的复活节彩蛋下行进，拥抱增长和庆祝的精神。"
   },
   "generic": {
     "activity": "活动",

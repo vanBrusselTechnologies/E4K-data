@@ -8127,6 +8127,36 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedGreenEasterHotspring": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedGreenEasterHotspring/Deco_Building_ExaltedGreenEasterHotspring.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 744,
+        "h": 468,
+        "rx": 647,
+        "ry": 911
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedGreenEasterRuins": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedGreenEasterRuins/Deco_Building_ExaltedGreenEasterRuins.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 759,
+        "h": 518,
+        "rx": 638,
+        "ry": 856
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedGreenFrostFountain": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_ExaltedGreenFrostFountain/Deco_Building_ExaltedGreenFrostFountain.png",
@@ -8183,6 +8213,51 @@
         "h": 421,
         "rx": 621,
         "ry": 860
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedGuardianOfNurtureGreen": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedGuardianOfNurtureGreen/Deco_Building_ExaltedGuardianOfNurtureGreen.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 288,
+        "h": 216,
+        "rx": 823,
+        "ry": 918
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedGuardianOfNurturePurple": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedGuardianOfNurturePurple/Deco_Building_ExaltedGuardianOfNurturePurple.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 288,
+        "h": 216,
+        "rx": 823,
+        "ry": 918
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedGuardianOfNurtureRed": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedGuardianOfNurtureRed/Deco_Building_ExaltedGuardianOfNurtureRed.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 288,
+        "h": 216,
+        "rx": 823,
+        "ry": 918
       }
     ],
     "fx": []
@@ -8258,6 +8333,36 @@
         "h": 292,
         "rx": 828,
         "ry": 834
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedPurpleEasterHotspring": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedPurpleEasterHotspring/Deco_Building_ExaltedPurpleEasterHotspring.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 744,
+        "h": 468,
+        "rx": 647,
+        "ry": 911
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedPurpleEasterRuins": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedPurpleEasterRuins/Deco_Building_ExaltedPurpleEasterRuins.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 759,
+        "h": 518,
+        "rx": 638,
+        "ry": 856
       }
     ],
     "fx": []
@@ -8348,6 +8453,36 @@
         "h": 243,
         "rx": 824,
         "ry": 884
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedRedEasterHotspring": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedRedEasterHotspring/Deco_Building_ExaltedRedEasterHotspring.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 744,
+        "h": 468,
+        "rx": 647,
+        "ry": 911
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedRedEasterRuins": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedRedEasterRuins/Deco_Building_ExaltedRedEasterRuins.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 759,
+        "h": 518,
+        "rx": 638,
+        "ry": 856
       }
     ],
     "fx": []
@@ -25961,6 +26096,105 @@
         "h": 245,
         "rx": 903,
         "ry": 860
+      }
+    ],
+    "fx": [
+      {
+        "x": 5,
+        "y": -80,
+        "scale": 0.5,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "theBrokenEggDwelling": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/theBrokenEggDwelling/theBrokenEggDwelling.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 241,
+        "h": 297,
+        "rx": 907,
+        "ry": 784
+      }
+    ],
+    "fx": [
+      {
+        "x": 51,
+        "y": -203,
+        "scale": 0.5,
+        "name": "flagHolder",
+        "rotation": 0
+      },
+      {
+        "x": 53,
+        "y": -115,
+        "scale": 0.5,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "theBrokenEggGreenhouse": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/theBrokenEggGreenhouse/theBrokenEggGreenhouse.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 316,
+        "h": 323,
+        "rx": 805,
+        "ry": 818
+      }
+    ],
+    "fx": [
+      {
+        "x": 17,
+        "y": -115,
+        "scale": 0.5,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "theBrokenEggStorehouse": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/theBrokenEggStorehouse/theBrokenEggStorehouse.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 294,
+        "h": 393,
+        "rx": 819,
+        "ry": 742
+      }
+    ],
+    "fx": [
+      {
+        "x": 15,
+        "y": -186,
+        "scale": 0.5,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "theBrokenEggTavern": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/theBrokenEggTavern/theBrokenEggTavern.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 232,
+        "h": 226,
+        "rx": 905,
+        "ry": 874
       }
     ],
     "fx": [
@@ -44956,6 +45190,231 @@
       }
     ]
   },
+  "Gacha_Easterbunny_Arm_Left": {
+    "pid": 1,
+    "url": "x768/Characters/Gachas/Gacha_Easterbunny/Gacha_Easterbunny_Arm_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 123,
+        "h": 228,
+        "rx": 940,
+        "ry": 897
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Easterbunny_Arm_Right": {
+    "pid": 1,
+    "url": "x768/Characters/Gachas/Gacha_Easterbunny/Gacha_Easterbunny_Arm_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 108,
+        "h": 242,
+        "rx": 942,
+        "ry": 884
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Easterbunny_Chest": {
+    "pid": 1,
+    "url": "x768/Characters/Gachas/Gacha_Easterbunny/Gacha_Easterbunny_Chest.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 427,
+        "h": 379,
+        "rx": 778,
+        "ry": 819
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Easterbunny_Hand_Left": {
+    "pid": 1,
+    "url": "x768/Characters/Gachas/Gacha_Easterbunny/Gacha_Easterbunny_Hand_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 81,
+        "h": 133,
+        "rx": 955,
+        "ry": 934
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Easterbunny_Hand_Right": {
+    "pid": 1,
+    "url": "x768/Characters/Gachas/Gacha_Easterbunny/Gacha_Easterbunny_Hand_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 108,
+        "h": 151,
+        "rx": 952,
+        "ry": 920
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Easterbunny_Head_Half_Open": {
+    "pid": 1,
+    "url": "x768/Characters/Gachas/Gacha_Easterbunny/Gacha_Easterbunny_Head_Half_Open.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 313,
+        "h": 441,
+        "rx": 808,
+        "ry": 789
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Easterbunny_Head_Open": {
+    "pid": 1,
+    "url": "x768/Characters/Gachas/Gacha_Easterbunny/Gacha_Easterbunny_Head_Open.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 312,
+        "h": 432,
+        "rx": 808,
+        "ry": 798
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Easterbunny_Head_Smile": {
+    "pid": 1,
+    "url": "x768/Characters/Gachas/Gacha_Easterbunny/Gacha_Easterbunny_Head_Smile.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 314,
+        "h": 425,
+        "rx": 808,
+        "ry": 805
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Easterbunny_Head": {
+    "pid": 1,
+    "url": "x768/Characters/Gachas/Gacha_Easterbunny/Gacha_Easterbunny_Head.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 313,
+        "h": 433,
+        "rx": 808,
+        "ry": 797
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Easterbunny_Legs": {
+    "pid": 1,
+    "url": "x768/Characters/Gachas/Gacha_Easterbunny/Gacha_Easterbunny_Legs.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 403,
+        "h": 503,
+        "rx": 842,
+        "ry": 815
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Easterbunny_Lowerarm_Left": {
+    "pid": 1,
+    "url": "x768/Characters/Gachas/Gacha_Easterbunny/Gacha_Easterbunny_Lowerarm_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 102,
+        "rx": 942,
+        "ry": 951
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Easterbunny_Lowerarm_Right": {
+    "pid": 1,
+    "url": "x768/Characters/Gachas/Gacha_Easterbunny/Gacha_Easterbunny_Lowerarm_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 114,
+        "h": 125,
+        "rx": 943,
+        "ry": 939
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Easterbunny_Orb_Bottom": {
+    "pid": 1,
+    "url": "x768/Characters/Gachas/Gacha_Easterbunny/Gacha_Easterbunny_Orb_Bottom.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 332,
+        "h": 283,
+        "rx": 836,
+        "ry": 859
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Easterbunny_Orb_Top": {
+    "pid": 1,
+    "url": "x768/Characters/Gachas/Gacha_Easterbunny/Gacha_Easterbunny_Orb_Top.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 303,
+        "h": 178,
+        "rx": 849,
+        "ry": 911
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Easterbunny_Shadow_Bag": {
+    "pid": 1,
+    "url": "x768/Characters/Gachas/Gacha_Easterbunny/Gacha_Easterbunny_Shadow_Bag.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 613,
+        "h": 365,
+        "rx": 693,
+        "ry": 817
+      }
+    ],
+    "fx": []
+  },
   "Gacha_MotherPlant_Body": {
     "pid": 1,
     "url": "x768/Characters/Gachas/Gacha_MotherPlant/Gacha_MotherPlant_Body.png",
@@ -45415,6 +45874,21 @@
         "y": 0,
         "w": 1825,
         "h": 2343,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Background_Gacha_EasterGacha": {
+    "pid": 1,
+    "url": "x768/Characters/Gachas/GachaBackgrounds/Background_Gacha_EasterGacha.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2281,
+        "h": 2731,
         "rx": 999,
         "ry": 999
       }
@@ -69273,6 +69747,21 @@
     ],
     "fx": []
   },
+  "items_unique_1266": {
+    "pid": 0,
+    "url": "x768/Equipment/EquipmentShared/items_unique_983_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 129,
+        "h": 129,
+        "rx": 935,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
   "items_unique_994": {
     "pid": 0,
     "url": "x768/Equipment/EquipmentShared/items_unique_990_Shared.png",
@@ -70611,6 +71100,36 @@
   "items_unique_1215": {
     "pid": 0,
     "url": "x768/Equipment/EquipmentShared/items_unique_1215_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 129,
+        "rx": 935,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1267": {
+    "pid": 0,
+    "url": "x768/Equipment/EquipmentShared/items_unique_1267_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 129,
+        "rx": 935,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1268": {
+    "pid": 0,
+    "url": "x768/Equipment/EquipmentShared/items_unique_1268_Shared.png",
     "frames": [
       {
         "x": 0,
@@ -81086,9 +81605,9 @@
     ],
     "fx": []
   },
-  "icon_advisor_character_big_ds": {
+  "icon_advisor_nomad_big_ds": {
     "pid": 1,
-    "url": "x768/Icons/AdvisorIcons/icon_advisor_character_big_ds.png",
+    "url": "x768/Icons/AdvisorIcons/icon_advisor_nomad_big_ds.png",
     "frames": [
       {
         "x": 0,
@@ -81101,9 +81620,24 @@
     ],
     "fx": []
   },
-  "icon_advisor_character_ds": {
+  "icon_advisor_nomad_camp": {
     "pid": 1,
-    "url": "x768/Icons/AdvisorIcons/icon_advisor_character_ds.png",
+    "url": "x768/Icons/AdvisorIcons/icon_advisor_nomad_camp.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 241,
+        "h": 181,
+        "rx": 879,
+        "ry": 909
+      }
+    ],
+    "fx": []
+  },
+  "icon_advisor_nomad_ds": {
+    "pid": 1,
+    "url": "x768/Icons/AdvisorIcons/icon_advisor_nomad_ds.png",
     "frames": [
       {
         "x": 0,
@@ -81116,9 +81650,9 @@
     ],
     "fx": []
   },
-  "icon_advisor_character_xs_ds": {
+  "icon_advisor_nomad_xs_ds": {
     "pid": 1,
-    "url": "x768/Icons/AdvisorIcons/icon_advisor_character_xs_ds.png",
+    "url": "x768/Icons/AdvisorIcons/icon_advisor_nomad_xs_ds.png",
     "frames": [
       {
         "x": 0,
@@ -87671,6 +88205,81 @@
     ],
     "fx": []
   },
+  "icon_currency_AdvisorFreeToken_big": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_AdvisorFreeToken_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 82,
+        "h": 90,
+        "rx": 959,
+        "ry": 955
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_AdvisorFreeToken_medium": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_AdvisorFreeToken_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 69,
+        "h": 76,
+        "rx": 965,
+        "ry": 962
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_AdvisorFreeToken_small": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_AdvisorFreeToken_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 31,
+        "h": 35,
+        "rx": 984,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_AdvisorFreeToken_xl": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_AdvisorFreeToken_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 135,
+        "h": 149,
+        "rx": 932,
+        "ry": 925
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_AdvisorFreeToken": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_AdvisorFreeToken.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 61,
+        "h": 67,
+        "rx": 969,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_AllianceInfluence_big": {
     "pid": 1,
     "url": "x768/Icons/Icons/icon_currency_AllianceInfluence_big.png",
@@ -91736,6 +92345,111 @@
     ],
     "fx": []
   },
+  "icon_currency_HasanToken_big_ds": {
+    "pid": 1,
+    "url": "x768/Icons/Icons/icon_currency_HasanToken_big_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 117,
+        "h": 117,
+        "rx": 941,
+        "ry": 941
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_HasanToken_big": {
+    "pid": 1,
+    "url": "x768/Icons/Icons/icon_currency_HasanToken_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 112,
+        "h": 111,
+        "rx": 944,
+        "ry": 944
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_HasanToken_ds": {
+    "pid": 1,
+    "url": "x768/Icons/Icons/icon_currency_HasanToken_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 71,
+        "h": 71,
+        "rx": 964,
+        "ry": 964
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_HasanToken_medium_ds": {
+    "pid": 1,
+    "url": "x768/Icons/Icons/icon_currency_HasanToken_medium_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 93,
+        "h": 93,
+        "rx": 953,
+        "ry": 953
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_HasanToken_medium": {
+    "pid": 1,
+    "url": "x768/Icons/Icons/icon_currency_HasanToken_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 90,
+        "h": 89,
+        "rx": 955,
+        "ry": 955
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_HasanToken_small": {
+    "pid": 1,
+    "url": "x768/Icons/Icons/icon_currency_HasanToken_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 35,
+        "rx": 982,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_HasanToken": {
+    "pid": 1,
+    "url": "x768/Icons/Icons/icon_currency_HasanToken.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 68,
+        "h": 67,
+        "rx": 966,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_Heritage_medium": {
     "pid": 1,
     "url": "x768/Icons/Icons/icon_currency_Heritage_medium.png",
@@ -91822,6 +92536,66 @@
         "h": 78,
         "rx": 963,
         "ry": 961
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_HollowMoonEgg_big": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_HollowMoonEgg_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 135,
+        "h": 147,
+        "rx": 932,
+        "ry": 926
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_HollowMoonEgg_medium": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_HollowMoonEgg_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 89,
+        "h": 97,
+        "rx": 955,
+        "ry": 951
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_HollowMoonEgg_xl": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_HollowMoonEgg_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 179,
+        "h": 195,
+        "rx": 910,
+        "ry": 902
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_HollowMoonEgg": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_HollowMoonEgg.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 63,
+        "h": 67,
+        "rx": 968,
+        "ry": 966
       }
     ],
     "fx": []
@@ -93236,6 +94010,81 @@
     ],
     "fx": []
   },
+  "icon_currency_NomadAdvisorToken_big": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_NomadAdvisorToken_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 95,
+        "rx": 952,
+        "ry": 952
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_NomadAdvisorToken_medium": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_NomadAdvisorToken_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 77,
+        "rx": 961,
+        "ry": 961
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_NomadAdvisorToken_small": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_NomadAdvisorToken_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 35,
+        "rx": 982,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_NomadAdvisorToken_xl": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_NomadAdvisorToken_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 149,
+        "h": 149,
+        "rx": 925,
+        "ry": 925
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_NomadAdvisorToken": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_NomadAdvisorToken.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 67,
+        "rx": 966,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_OctoberfestLTPEToken_big": {
     "pid": 0,
     "url": "x768/Icons/Icons/icon_currency_OctoberfestLTPEToken_big.png",
@@ -93321,111 +94170,6 @@
         "w": 65,
         "h": 67,
         "rx": 967,
-        "ry": 966
-      }
-    ],
-    "fx": []
-  },
-  "icon_currency_OfferingHasan_big_ds": {
-    "pid": 1,
-    "url": "x768/Icons/Icons/icon_currency_OfferingHasan_big_ds.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 117,
-        "h": 117,
-        "rx": 941,
-        "ry": 941
-      }
-    ],
-    "fx": []
-  },
-  "icon_currency_OfferingHasan_big": {
-    "pid": 1,
-    "url": "x768/Icons/Icons/icon_currency_OfferingHasan_big.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 113,
-        "h": 111,
-        "rx": 943,
-        "ry": 944
-      }
-    ],
-    "fx": []
-  },
-  "icon_currency_OfferingHasan_ds": {
-    "pid": 1,
-    "url": "x768/Icons/Icons/icon_currency_OfferingHasan_ds.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 71,
-        "h": 71,
-        "rx": 964,
-        "ry": 964
-      }
-    ],
-    "fx": []
-  },
-  "icon_currency_OfferingHasan_medium_ds": {
-    "pid": 1,
-    "url": "x768/Icons/Icons/icon_currency_OfferingHasan_medium_ds.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 93,
-        "h": 94,
-        "rx": 953,
-        "ry": 953
-      }
-    ],
-    "fx": []
-  },
-  "icon_currency_OfferingHasan_medium": {
-    "pid": 1,
-    "url": "x768/Icons/Icons/icon_currency_OfferingHasan_medium.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 90,
-        "h": 89,
-        "rx": 955,
-        "ry": 955
-      }
-    ],
-    "fx": []
-  },
-  "icon_currency_OfferingHasan_small": {
-    "pid": 1,
-    "url": "x768/Icons/Icons/icon_currency_OfferingHasan_small.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 35,
-        "h": 35,
-        "rx": 982,
-        "ry": 982
-      }
-    ],
-    "fx": []
-  },
-  "icon_currency_OfferingHasan": {
-    "pid": 1,
-    "url": "x768/Icons/Icons/icon_currency_OfferingHasan.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 67,
-        "h": 67,
-        "rx": 966,
         "ry": 966
       }
     ],
@@ -98771,6 +99515,21 @@
     ],
     "fx": []
   },
+  "icon_event_128": {
+    "pid": 1,
+    "url": "x768/Icons/Icons/icon_event_128.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 117,
+        "rx": 944,
+        "ry": 941
+      }
+    ],
+    "fx": []
+  },
   "icon_event_crossplay_small_80": {
     "pid": 0,
     "url": "x768/Icons/Icons/icon_event_crossplay_small_80.png",
@@ -98966,6 +99725,21 @@
     ],
     "fx": []
   },
+  "icon_event_xl_128": {
+    "pid": 1,
+    "url": "x768/Icons/Icons/icon_event_xl_128.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 199,
+        "h": 209,
+        "rx": 900,
+        "ry": 895
+      }
+    ],
+    "fx": []
+  },
   "icon_event_xxs": {
     "pid": 0,
     "url": "x768/Icons/Icons/icon_event_xxs.png",
@@ -98996,9 +99770,9 @@
     ],
     "fx": []
   },
-  "icon_failure_gold": {
+  "icon_failure_0": {
     "pid": 1,
-    "url": "x768/Icons/Icons/icon_failure_gold.png",
+    "url": "x768/Icons/Icons/icon_failure_0.png",
     "frames": [
       {
         "x": 0,
@@ -99011,9 +99785,9 @@
     ],
     "fx": []
   },
-  "icon_failure_time": {
+  "icon_failure_1": {
     "pid": 1,
-    "url": "x768/Icons/Icons/icon_failure_time.png",
+    "url": "x768/Icons/Icons/icon_failure_1.png",
     "frames": [
       {
         "x": 0,
@@ -99026,9 +99800,24 @@
     ],
     "fx": []
   },
-  "icon_failure_troops_tools": {
+  "icon_failure_4": {
     "pid": 1,
-    "url": "x768/Icons/Icons/icon_failure_troops_tools.png",
+    "url": "x768/Icons/Icons/icon_failure_4.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 241,
+        "h": 241,
+        "rx": 879,
+        "ry": 879
+      }
+    ],
+    "fx": []
+  },
+  "icon_failure_5": {
+    "pid": 1,
+    "url": "x768/Icons/Icons/icon_failure_5.png",
     "frames": [
       {
         "x": 0,
@@ -100867,6 +101656,21 @@
         "h": 146,
         "rx": 917,
         "ry": 927
+      }
+    ],
+    "fx": []
+  },
+  "icon_hud_advisor_nomad": {
+    "pid": 1,
+    "url": "x768/Icons/Icons/icon_hud_advisor_nomad.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 117,
+        "h": 119,
+        "rx": 941,
+        "ry": 940
       }
     ],
     "fx": []
@@ -112946,6 +113750,36 @@
     ],
     "fx": []
   },
+  "icon_failure_3": {
+    "pid": 1,
+    "url": "x768/Icons/IconsShared/icon_failure_2_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 241,
+        "h": 241,
+        "rx": 879,
+        "ry": 879
+      }
+    ],
+    "fx": []
+  },
+  "icon_failure_2": {
+    "pid": 1,
+    "url": "x768/Icons/IconsShared/icon_failure_2_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 241,
+        "h": 241,
+        "rx": 879,
+        "ry": 879
+      }
+    ],
+    "fx": []
+  },
   "icon_deco_gacha_milestone_box_closed": {
     "pid": 0,
     "url": "x768/Icons/IconsShared/icon_gacha_milestone_box_closed.png",
@@ -122261,6 +123095,66 @@
       }
     ]
   },
+  "teaser_advisor_activation": {
+    "pid": 1,
+    "url": "x768/Misc/AdvisorTeasers/teaser_advisor_activation.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1221,
+        "h": 687,
+        "rx": 389,
+        "ry": 656
+      }
+    ],
+    "fx": []
+  },
+  "teaser_advisor_attack_cancel": {
+    "pid": 1,
+    "url": "x768/Misc/AdvisorTeasers/teaser_advisor_attack_cancel.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1221,
+        "h": 413,
+        "rx": 389,
+        "ry": 793
+      }
+    ],
+    "fx": []
+  },
+  "teaser_advisor_attack_fail": {
+    "pid": 1,
+    "url": "x768/Misc/AdvisorTeasers/teaser_advisor_attack_fail.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1221,
+        "h": 413,
+        "rx": 389,
+        "ry": 793
+      }
+    ],
+    "fx": []
+  },
+  "teaser_advisor_attack_success": {
+    "pid": 1,
+    "url": "x768/Misc/AdvisorTeasers/teaser_advisor_attack_success.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1221,
+        "h": 413,
+        "rx": 389,
+        "ry": 793
+      }
+    ],
+    "fx": []
+  },
   "Background_GeneralsHub_Back": {
     "pid": 1,
     "url": "x768/Misc/DialogBackgrounds/Background_GeneralsHub_Back.png",
@@ -125021,6 +125915,21 @@
     ],
     "fx": []
   },
+  "announcement_teaser_128": {
+    "pid": 1,
+    "url": "x768/Misc/GenericTeasersShared/announcement_teaser_128_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1537,
+        "h": 1311,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
   "teaser_help_mail_16": {
     "pid": 1,
     "url": "x768/Misc/GenericTeasersShared/content_help_mail_0_Shared.png",
@@ -125069,6 +125978,21 @@
   "end_teaser_127": {
     "pid": 1,
     "url": "x768/Misc/GenericTeasersShared/end_teaser_127_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1221,
+        "h": 413,
+        "rx": 389,
+        "ry": 793
+      }
+    ],
+    "fx": []
+  },
+  "end_teaser_128": {
+    "pid": 1,
+    "url": "x768/Misc/GenericTeasersShared/end_teaser_128_Shared.png",
     "frames": [
       {
         "x": 0,
@@ -125756,6 +126680,21 @@
     ],
     "fx": []
   },
+  "global_primetime_background_Spring2024": {
+    "pid": 1,
+    "url": "x768/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_Spring2024.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1281,
+        "h": 1601,
+        "rx": 359,
+        "ry": 199
+      }
+    ],
+    "fx": []
+  },
   "global_primetime_background_StPatricksDay2025": {
     "pid": 1,
     "url": "x768/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_StPatricksDay2025.png",
@@ -125846,6 +126785,21 @@
     ],
     "fx": []
   },
+  "global_primetime_hub_teaser_Spring2024": {
+    "pid": 1,
+    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_Spring2024.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1537,
+        "h": 1331,
+        "rx": 231,
+        "ry": 334
+      }
+    ],
+    "fx": []
+  },
   "global_primetime_hub_teaser_Winter2024": {
     "pid": 1,
     "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_Winter2024.png",
@@ -125917,6 +126871,21 @@
         "h": 358,
         "rx": 231,
         "ry": 742
+      }
+    ],
+    "fx": []
+  },
+  "global_primetime_teaser_Spring2024": {
+    "pid": 1,
+    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_Spring2024.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1249,
+        "h": 985,
+        "rx": 375,
+        "ry": 507
       }
     ],
     "fx": []
@@ -126787,6 +127756,21 @@
         "h": 665,
         "rx": 231,
         "ry": 667
+      }
+    ],
+    "fx": []
+  },
+  "Teaser_OffersHub_Big_WhaleChest_7": {
+    "pid": 1,
+    "url": "x768/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_7.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1537,
+        "h": 667,
+        "rx": 231,
+        "ry": 666
       }
     ],
     "fx": []
@@ -145771,6 +146755,29 @@
       }
     ]
   },
+  "Castle_Mapobject_Special_EasterFern": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_EasterFern.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 80,
+        "rx": 1000,
+        "ry": 977
+      }
+    ],
+    "fx": [
+      {
+        "x": 26,
+        "y": -5,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Castle_Mapobject_Special_Emblem": {
     "pid": 0,
     "url": "x768/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_Emblem.png",
@@ -149653,6 +150660,29 @@
       }
     ]
   },
+  "Castle_Mapobject_Capital_Classic_Special_EasterFern": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_EasterFern.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 118,
+        "h": 151,
+        "rx": 973,
+        "ry": 933
+      }
+    ],
+    "fx": [
+      {
+        "x": 47,
+        "y": -9,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Castle_Mapobject_Capital_Classic_Special_Emblem": {
     "pid": 0,
     "url": "x768/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_Emblem.png",
@@ -151505,6 +152535,29 @@
       }
     ]
   },
+  "Metropol_Mapobject_Basic_Special_EasterFern": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_EasterFern.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 88,
+        "h": 99,
+        "rx": 984,
+        "ry": 979
+      }
+    ],
+    "fx": [
+      {
+        "x": 8,
+        "y": -7,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Metropol_Mapobject_Basic_Special_Emblem": {
     "pid": 0,
     "url": "x768/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_Emblem.png",
@@ -153251,6 +154304,29 @@
       {
         "x": 35,
         "y": 4,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "Outpost_Mapobject_Level_Special_EasterFern": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Outposts/Outpost_Mapobject_Level_Special_EasterFern/Outpost_Mapobject_Level_Special_EasterFern.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 46,
+        "h": 68,
+        "rx": 1002,
+        "ry": 980
+      }
+    ],
+    "fx": [
+      {
+        "x": 35,
+        "y": -5,
         "scale": 0.75,
         "name": "flagHolder",
         "rotation": 0
@@ -155603,6 +156679,21 @@
         "h": 131,
         "rx": 966,
         "ry": 955
+      }
+    ],
+    "fx": []
+  },
+  "Preview_Castle_Mapobject_Special_EasterFern": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Previews/Mapobjects_Preview/Preview_Castle_Mapobject_Special_EasterFern.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 100,
+        "h": 138,
+        "rx": 979,
+        "ry": 945
       }
     ],
     "fx": []

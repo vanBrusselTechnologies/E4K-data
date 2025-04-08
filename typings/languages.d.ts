@@ -1062,6 +1062,18 @@ export interface Language {
         "ci_appearance_samuraiGuardhouse_flavour": string;
         "ci_appearance_samuraiTavern": string;
         "ci_appearance_samuraiTavern_flavour": string;
+        "ci_appearance_theBrokenEggDwelling": string;
+        "ci_appearance_theBrokenEggDwelling_flavor": string;
+        "ci_appearance_theBrokenEggDwelling_flavour": string;
+        "ci_appearance_theBrokenEggGreenhouse": string;
+        "ci_appearance_theBrokenEggGreenhouse_flavor": string;
+        "ci_appearance_theBrokenEggGreenhouse_flavour": string;
+        "ci_appearance_theBrokenEggStorehouse": string;
+        "ci_appearance_theBrokenEggStorehouse_flavor": string;
+        "ci_appearance_theBrokenEggStorehouse_flavour": string;
+        "ci_appearance_theBrokenEggTavern": string;
+        "ci_appearance_theBrokenEggTavern_flavor": string;
+        "ci_appearance_theBrokenEggTavern_flavour": string;
         "ci_appearance_tropicalSummerDefensiveWorkshop": string;
         "ci_appearance_tropicalSummerDefensiveWorkshop_flavour": string;
         "ci_appearance_tropicalSummerMilitarycamp": string;
@@ -1350,6 +1362,9 @@ export interface Language {
         "deco_ExaltedGreenMarchHaresHideout_name": string;
         "deco_ExaltedGreenOktoberfestGarden_name": string;
         "deco_ExaltedGreenWaterShrineofDuality_name": string;
+        "deco_ExaltedGuardianOfNurtureGreen_name": string;
+        "deco_ExaltedGuardianOfNurturePurple_name": string;
+        "deco_ExaltedGuardianOfNurtureRed_name": string;
         "deco_ExaltedPedestalOfEternalLove_name": string;
         "deco_ExaltedPedestalOfPassionateLove_name": string;
         "deco_ExaltedPurpleChristmasFountain_name": string;
@@ -2110,6 +2125,7 @@ export interface Language {
         "Reward_single_value_tenthAnniversary": string;
         "Reward_single_value_winter": string;
         "SaleDaysLuckyWheelTicket_name": string;
+        "TITLE_EASTERGACHA": string;
         "a_package_16_72_001_copy": string;
         "a_package_16_72_001_p100_copy": string;
         "a_package_16_72_001_p100_title": string;
@@ -2226,6 +2242,7 @@ export interface Language {
         "advisor_AttackSummary_pending": string;
         "advisor_AttackSummary_stopped": string;
         "advisor_AttackSummary_victory": string;
+        "advisor_attack": string;
         "advisor_attackInfo": string;
         "alert_OverwriteOldAccount_details_copy": string;
         "alert_account_deleted_goLoginScreen": string;
@@ -4886,9 +4903,11 @@ export interface Language {
         "dialog_event_announcement_description_123": string;
         "dialog_event_announcement_description_126": string;
         "dialog_event_announcement_description_127": string;
+        "dialog_event_announcement_description_128": string;
         "dialog_event_announcement_header_123": string;
         "dialog_event_announcement_header_126": string;
         "dialog_event_announcement_header_127": string;
+        "dialog_event_announcement_header_128": string;
         "dialog_eventdungeonWin_title": string;
         "dialog_eventdungeon_1_missionAccomplished_title": string;
         "dialog_eventdungeon_1_tip": string;
@@ -9601,9 +9620,7 @@ export interface Language {
         "eventEnd_colon": string;
         "eventKing_name": string;
         "event_announcement_description_126": string;
-        "event_announcement_description_128": string;
         "event_announcement_header_126": string;
-        "event_announcement_header_128": string;
         "event_end_description_ChristmasGacha": string;
         "event_end_description_EasterGacha": string;
         "event_end_description_GachaDeco2x2": string;
@@ -10433,6 +10450,7 @@ export interface Language {
         "ingame_server_outage_mail_upgradeMode": string;
         "ingame_server_outage_title": string;
         "instantBuild_skipBuilding_text_v2": string;
+        "intro_advisor_nomad_short": string;
         "ironStorage_capacityBonus_tt": string;
         "isUnique": string;
         "island_dungeon_desc": string;
@@ -13198,6 +13216,8 @@ export interface Language {
         "equip_effect_castellan_description_defenseUnitAmountWall": string;
         "equip_effect_description_AttackBoostYardDecoCapped": string;
         "equip_effect_description_MeadProductionIncrease": string;
+        "equip_effect_description_allianceFameBoost": string;
+        "equip_effect_description_allianceTravelSupportBoost": string;
         "equip_effect_description_attackBonus": string;
         "equip_effect_description_attackBonusMainCastle": string;
         "equip_effect_description_attackBonusNotMainCastle": string;
@@ -14129,6 +14149,7 @@ export interface Language {
         "equip_effect_description_appearance_baron_metropolis": string;
         "equip_effect_description_appearance_baron_outpost": string;
         "equip_effect_description_appearance_baron_transformationTarget": string;
+        "equip_effect_description_appearance_baron_transformationTarget_increasedSizeLTPE": string;
         "equip_effect_description_appearance_commander_army": string;
         "equip_effect_description_appearance_commander_ship": string;
         "equip_effect_description_appearance_commander_transformationTarget": string;
@@ -15225,6 +15246,14 @@ export interface Language {
         "equipment_unique_1263_desc": string;
         "equipment_unique_1264": string;
         "equipment_unique_1264_desc": string;
+        "equipment_unique_1265": string;
+        "equipment_unique_1265_desc": string;
+        "equipment_unique_1266": string;
+        "equipment_unique_1266_desc": string;
+        "equipment_unique_1267": string;
+        "equipment_unique_1267_desc": string;
+        "equipment_unique_1268": string;
+        "equipment_unique_1268_desc": string;
         "equipment_unique_12_desc": string;
         "equipment_unique_13": string;
         "equipment_unique_13_desc": string;

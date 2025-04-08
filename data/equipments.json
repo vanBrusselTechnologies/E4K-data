@@ -14656,6 +14656,88 @@
       "mightValue": 0,
       "canSlotGem": 1,
       "skinID": 41
+    },
+    {
+      "equipmentID": 1263,
+      "crossplayID": 1263,
+      "comment1": "Easter Gacha 2025, POs",
+      "comment2": "Frozen Blossom",
+      "wearerID": 2,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 715,
+      "effects": "24&amp;6,334&amp;25",
+      "duration": 120,
+      "mightValue": 0,
+      "canSlotGem": 0,
+      "skinID": 27
+    },
+    {
+      "equipmentID": 1264,
+      "crossplayID": 1264,
+      "comment1": "Easter Gacha 2025, POs",
+      "comment2": "Frozen Blossom",
+      "wearerID": 2,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 715,
+      "effects": "24&amp;7,334&amp;5",
+      "duration": 120,
+      "mightValue": 0,
+      "canSlotGem": 0,
+      "skinID": 27
+    },
+    {
+      "equipmentID": 1265,
+      "crossplayID": 1265,
+      "comment1": "Easter Gacha 2025, gift",
+      "comment2": "Frozen Blossom",
+      "wearerID": 2,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 715,
+      "effects": "24&amp;4,23&amp;15,66&amp;5",
+      "duration": 120,
+      "mightValue": 0,
+      "canSlotGem": 0,
+      "skinID": 27
+    },
+    {
+      "equipmentID": 1266,
+      "crossplayID": 1266,
+      "comment1": "Easter Gacha 2025, POs",
+      "comment2": "Gift of Spring",
+      "wearerID": 1,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 983,
+      "effects": "335&amp;45,37&amp;25000",
+      "duration": 120,
+      "mightValue": 0,
+      "canSlotGem": 0,
+      "skinID": 88
+    },
+    {
+      "equipmentID": 1267,
+      "crossplayID": 1267,
+      "comment1": "Top X Gacha",
+      "comment2": "Easter Fern",
+      "wearerID": 1,
+      "slotID": 5,
+      "effects": "335&amp;45,37&amp;25000",
+      "duration": 120,
+      "mightValue": 0,
+      "canSlotGem": 0,
+      "skinID": 122
+    },
+    {
+      "equipmentID": 1268,
+      "crossplayID": 1268,
+      "comment1": "Top X Gacha",
+      "comment2": "Easter Birdhouse",
+      "wearerID": 2,
+      "slotID": 5,
+      "effects": "24&amp;8,334&amp;25,66&amp;10",
+      "duration": 120,
+      "mightValue": 0,
+      "canSlotGem": 0,
+      "skinID": 121
     }
   ]
 }

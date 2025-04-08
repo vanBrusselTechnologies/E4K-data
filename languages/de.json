@@ -2025,7 +2025,22 @@
     "deco_ExaltedRedEasterHotspring_name": "Erhabene rote Ostern-Heißquelle",
     "deco_ExaltedRedEasterRuins_name": "Erhabene rote Oster-Ruinen",
     "deco_ExaltedRedEggTree_name": "Erhabener roter Wächter der Pflege",
-    "deco_ExaltedRedMarchHaresHideout_name": "Versteck des erhabenen roten Märzhasen"
+    "deco_ExaltedRedMarchHaresHideout_name": "Versteck des erhabenen roten Märzhasen",
+    "deco_ExaltedGuardianOfNurtureGreen_name": "Erhabener Grüner Wächter der Pflege",
+    "deco_ExaltedGuardianOfNurturePurple_name": "Erhabener lila Wächter der Pflege",
+    "deco_ExaltedGuardianOfNurtureRed_name": "Erhabener roter Wächter der Pflege",
+    "ci_appearance_theBrokenEggDwelling": "Kaputtes Ei-Domizil",
+    "ci_appearance_theBrokenEggDwelling_flavor": "Der Duft frischer Blüten weht durch offene Fenster, während das Sonnenlicht über bemalte Eier tanzt. Wachen tauschen wohlmeinende Scherze aus, flechten Kränze und bereiten sich auf die fröhliche Erneuerung der Saison vor.",
+    "ci_appearance_theBrokenEggGreenhouse": "Gewächshaus für gebrochene Eier",
+    "ci_appearance_theBrokenEggGreenhouse_flavor": "Drinnen bewegen sich Soldaten zwischen dem Duft von frischer Erde und blühenden Blumen, pflegen sorgfältig neues Leben, während sie Körbe mit lebhaften Blumen und bemalten Eiern vorbereiten.",
+    "ci_appearance_theBrokenEggStorehouse": "Lager für zerbrochene Eier",
+    "ci_appearance_theBrokenEggStorehouse_flavor": "Das Lager quillt über mit frischen Ernten, süßen Leckereien und bunten Eiern, sodass kein Fest ohne seinen festlichen Reichtum auskommt.",
+    "ci_appearance_theBrokenEggTavern": "Wirtshaus zum zerbrochenen Ei",
+    "ci_appearance_theBrokenEggTavern_flavor": "Setze einen Frühling in deinen Schritt und entspanne dich in der großartigsten Taverne des Großen Imperiums.",
+    "ci_appearance_theBrokenEggDwelling_flavour": "Der Duft frischer Blüten zieht durch offene Fenster, während das Sonnenlicht über bemalte Eier tanzt. Die Wachen tauschen gutmütige Scherze aus, flechten Kränze und bereiten sich auf die fröhliche Erneuerung der Saison vor.",
+    "ci_appearance_theBrokenEggGreenhouse_flavour": "Drinnen bewegen sich Soldaten zwischen dem Duft von frischer Erde und blühenden Blumen, kümmern sich sorgfältig um neues Leben, während sie Körbe mit lebhaften Blüten und bemalten Eiern vorbereiten.",
+    "ci_appearance_theBrokenEggStorehouse_flavour": "Das Lagerhaus quillt über mit frischen Ernten, süßen Leckereien und bunten Eiern und sorgt dafür, dass kein Fest ohne seinen festlichen Reichtum auskommt.",
+    "ci_appearance_theBrokenEggTavern_flavour": "Setze einen Schwung in deinen Schritt und entspanne dich in der besten „Eierschale“-Taverne des Großen Imperiums."
   },
   "dialogs": {
     "dialog_festival_desc": "Setzt Nahrung ein, um ein Fest für Eure Bürger zu feiern!\nSolange das Fest läuft, wird die Rekrutierungsgeschwindigkeit in all Euren Burgen deutlich erhöht. Je größer das Fest ist, desto größer ist auch der Effekt.",
@@ -12629,8 +12644,8 @@
     "generals_characters_120_summary": "Meisterhafter Taktiker und unermüdlicher Belagerungsspezialist.",
     "generals_characters_120_name": "Hasan",
     "generals_characters_120_narrative": "Meisteringenieur Hasan\n\n&quot;Eine Belagerung ist kein Test der Stärke, sondern ein Test der Geduld, Präzision und Unvermeidlichkeit.&quot;\n\nLange bevor Alice zum ersten Mal einen Schlüssel ergriff, bevor ihr Geist begann, die Erfindungen zu formen, die den Lauf des Krieges verändern würden, gab es Hasan, den Meistertaktiker, dessen Name allein Verteidiger in Panik versetzen konnte. Der am meisten verehrte Belagerungsstratege des Großen Imperiums hat mehr Mauern zerbrochen und mehr Festungen überlebt, als die Geschichte zu zählen wagt. Ein Mann von stiller Weisheit und unerschütterlicher Geduld, Hasan eilt nicht zur Schlacht. Er wartet, er beobachtet, und wenn die Zeit reif ist, schlägt er schnell und entscheidend zu, wie eine Klinge, die durch Seide schneidet.\n\nWo andere eine durchdringbare Festung sehen, sieht Hasan ein Puzzle mit tausend Lösungen. Jede Schlacht wird lange bevor der erste Pfeil fliegt gewonnen, jeder Sieg ist in die Linien seiner Schlachtkarten eingraviert, bevor der Feind überhaupt weiß, dass er verloren ist. Sein Geist, geschliffen durch Jahre unermüdlichen Verfeinerns, ist eine Kriegsmaschine an sich, die sich dreht, berechnet und Verteidigungen Stück für Stück demontiert. Für Hasan geht es bei einer Belagerung nicht um rohe Gewalt. Es geht um Unvermeidlichkeit. Das langsame Straffen einer Schlinge, der Druck, der mit jeder vergehenden Stunde steigt, das Flüstern der Kapitulation wird in den Köpfen derjenigen, die sich unberührbar glaubten, lauter.\n\nDoch trotz all seiner taktischen Brillanz ist Hasan mit dem Chaos der Schlacht vertraut. Obwohl er das gemessene Tempo der Strategie bevorzugt, zögert er nicht, sich seinen Feinden von Angesicht zu Angesicht zu stellen, wenn der Moment es erfordert. Sein Scimitar, der glänzend gehalten, aber oft unberührt bleibt, ist nicht zur Einschüchterung, sondern eine letzte Lektion für jene, die Geduld mit Schwäche verwechseln. Er kämpft, wie er befiehlt, mit Präzision und Zielstrebigkeit, durch die Reihen des Feindes schneidend, so mühelos wie er deren Verteidigungen demontiert. Keine Barrikade ist unüberwindbar, keine Festung außerhalb seiner Reichweite, und wenn er den Moment für richtig erachtet, wird nichts ihn aufhalten.\n\nFür Alice war er mehr als ein Lehrer. Er war der Beweis, dass Einfallsreichtum und Geduld selbst die stärksten Feinde brechen können. Genau wie sie Waffen der Innovation schafft, kreiert er Siege aus den Schatten seines Zeltes, während der Rauch seiner Pfeife über das Schlachtfeld aufsteigt wie das letzte Omen einer Festung, die zum Fall verurteilt ist.\n\nMit einem Blick so scharf wie sein Schwert und einem Verstand, der noch schärfer ist, braucht Hasan nicht, um die Tore zu stürmen. Er wartet einfach. Denn am Ende werden die Wände einstürzen, der Feind wird wanken, und wie immer wird er gewinnen.",
-    "event_announcement_description_128": "Mit Beginn des Festivals der Wiedergeburt erscheint der rätselhafte Beschwörer des Hohlen Mondes und hinterlässt unheimliche goldene Eier, die mit uralter Magie gefüllt sind. Diese Hohlen Mond-Eier enthalten seltene Schätze, mächtige Ausrüstung und wertvolle Ressourcen. Biete sie dem Beschwörer an, schalte Belohnungen frei und steig in den Rängen für exklusive Preise auf. Wird das Glück dir hold sein, oder wird der Hohe Mond seinen Schatten werfen?",
-    "event_announcement_header_128": "Beschwörung des Hohlen Mondes",
+    "dialog_event_announcement_description_128": "Mit Beginn des Festivals der Wiedergeburt erscheint der rätselhafte Beschwörer des Hohlen Mondes und hinterlässt unheimliche goldene Eier, die mit uralter Magie gefüllt sind. Diese Hohlen Mond-Eier enthalten seltene Schätze, mächtige Ausrüstung und wertvolle Ressourcen. Biete sie dem Beschwörer an, schalte Belohnungen frei und steig in den Rängen für exklusive Preise auf. Wird das Glück dir hold sein, oder wird der Hohe Mond seinen Schatten werfen?",
+    "dialog_event_announcement_header_128": "Beschwörung des Hohlen Mondes",
     "event_end_description_EasterGacha": "Während das Festival verblasst und der Nebel sich zurückzieht, verschwindet der Beschwörer des Hohlen Mondes und nimmt seine verzauberten Eier und deren Geheimnisse mit. Danke, dass du das Geheimnis umarmt und dein Schicksal getestet hast. Bis zur nächsten Sonnenfinsternis...",
     "event_end_header_EasterGacha": "Beschwörung des Hohlen Mondes",
     "event_title_128": "Beschwörung des Hohlen Mondes",
@@ -12687,7 +12702,10 @@
     "title_advisor_nomad": "Nomadenberater",
     "currency_description_OfferingHasan": "Tausch mit König Ludwig in der Generalenherberge, um sehr wertvolle Belohnungen zu erhalten. Belohnungsauslosungen enthalten immer Fragmente für Hasan. Der Austausch von Hasans Angebot kann nur für eine begrenzte Zeit erfolgen!",
     "currency_name_OfferingHasan": "Hasans Geschenk an König Ludwig",
-    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "Dies sind die Ziehchancen für die Belohnungskategorien dieses Patrons mit dem ausgewählten Angebot. Jede Kategorie enthält spezifische Belohnungstypen, die zufällig ausgewählt werden. Für jedes bezahlte Angebot werden vier Ziehungen durchgeführt, jede Ziehung hat die Chancen, die unten aufgeführt sind.\n\nZiehchance        Belohnungskategorien\n\n09.00%                  - Hasan-Scherben\n\n00.50%                  - Hasans Angebot an Ludwig\n\n03.00%                  - Angebot an Prinzessin Beatrice\n\n05.00%                  - Angebot an Sir Ulrich\n\n08.00%                  - Angebot an König Ludwig\n\n02.00%                  - Tokens für Fähigkeitsrücksetzung\n\n03.40%                  - Ausrüstung"
+    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "Dies sind die Ziehchancen für die Belohnungskategorien dieses Patrons mit dem ausgewählten Angebot. Jede Kategorie enthält spezifische Belohnungstypen, die zufällig ausgewählt werden. Für jedes bezahlte Angebot werden vier Ziehungen durchgeführt, jede Ziehung hat die Chancen, die unten aufgeführt sind.\n\nZiehchance        Belohnungskategorien\n\n09.00%                  - Hasan-Scherben\n\n00.50%                  - Hasans Angebot an Ludwig\n\n03.00%                  - Angebot an Prinzessin Beatrice\n\n05.00%                  - Angebot an Sir Ulrich\n\n08.00%                  - Angebot an König Ludwig\n\n02.00%                  - Tokens für Fähigkeitsrücksetzung\n\n03.40%                  - Ausrüstung",
+    "TITLE_EASTERGACHA": "Beschwörung des Hohlen Mondes",
+    "intro_advisor_nomad_short": "Während der Nomadeninvasion führen Sie aufeinanderfolgende Angriffe auf Nomadenlager ohne Pause durch.",
+    "advisor_attack": "Beraterangriff"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% Einheit Kampfkraft beim Angreifen",
@@ -14025,7 +14043,9 @@
     "ci_effect_unitWallAbsoluteAmount_tt": "Truppenkapazität auf der Burgmauer:",
     "ci_effect_unitWallAbsoluteAmount": "+{0} Einheitenlimit auf der Mauer",
     "ci_effect_unitWallAbsoluteAmountTCI": "+{0} Einheitenlimit auf der Mauer",
-    "equip_effect_description_unitWallAbsoluteAmount": "+{0} Einheitenlimit an der Wand"
+    "equip_effect_description_unitWallAbsoluteAmount": "+{0} Einheitenlimit an der Wand",
+    "equip_effect_description_allianceFameBoost": "+{0}% Ruhmpunkte beim Angreifen verdient",
+    "equip_effect_description_allianceTravelSupportBoost": "Reisezeit für Allianzunterstützung: -{0}%"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Held",
@@ -17374,7 +17394,7 @@
     "equipment_unique_1061_desc": "Verwandelt Eure Burg in eine Schaumfestung.",
     "equipment_unique_1062_desc": "Verwandelt Eure Burg in eine Schaumfestung.",
     "equip_effect_description_emptyGemSocket_name": "Leerer Edelsteinplatz",
-    "equip_effect_description_appearance_baron_transformationTarget": "Zeigen Sie Ihre Dominanz im LTPE mit diesem seltenen Gegenstand, der Ihre Hauptburgen, Außenposten, Hauptstadt oder Metropole in eine wirklich einzigartige Präsenz verwandelt, die Sie von anderen Spielern abhebt.",
+    "equip_effect_description_appearance_baron_transformationTarget": "Die Transformation gilt für Hauptburgen, Außenposten, Hauptstadt und Metropole.",
     "equip_effect_description_appearance_commander_transformationTarget": "Die Verwandlung gilt für marschierende Armeen in Königreichen und Kriegsschiffe auf den Sturminseln.",
     "equip_effect_description_noGemSocket_name": "Kein Edelsteinslot",
     "equip_effect_description_permanentAppearance": "Permanenter Gegenstand",
@@ -18005,10 +18025,19 @@
     "equipment_unique_1241": "Großer Amethystlotus",
     "equipment_unique_1242": "Großer Amethystlotus",
     "equipment_unique_1243": "Großer Amethystlotus",
-    "equipment_unique_1263": "Oster-Vogelhaus",
-    "equipment_unique_1263_desc": "Entfesseln Sie den fröhlichen Geist des Oster-Vogelhauses, um die Saison der Erneuerung willkommen zu heißen. Verwandeln Sie Ihr Schloss in einen lebhaften Zufluchtsort, geschmückt mit lebhaften Nestern und bunten Ostereiern, die die Freude über die Rückkehr des Frühlings widerspiegeln.",
-    "equipment_unique_1264": "Osterfarn",
-    "equipment_unique_1264_desc": "Verwandle deine Armee in eine Kraft der Erneuerung, die unter sich entfaltenden Farnen und versteckten Ostereiern marschiert und den Geist des Wachstums und der Feierlichkeiten umarmt."
+    "equipment_unique_1263": "Gefrorene Blüte",
+    "equipment_unique_1263_desc": "Verwandelt deine Armee in einen Bienenwagen und erhöht die Anzahl der Bienen, die aus erfolgreichen Angriffen auf deine Feinde gewonnen werden. Wie kann das sein?",
+    "equipment_unique_1264": "Gefrorene Blüte",
+    "equipment_unique_1264_desc": "Verwandelt deine Armee in einen Bienenwagen und erhöht die Anzahl der Bienen, die aus erfolgreichen Angriffen auf deine Feinde gewonnen werden. Wie kann das sein?",
+    "equip_effect_description_appearance_baron_transformationTarget_increasedSizeLTPE": "Die Transformation gilt für Hauptburgen, Außenposten, Hauptstädte und Metropolen. Erhöht die Größe deiner Burg auf der Weltkarte.",
+    "equipment_unique_1265": "Gefrorene Blüte",
+    "equipment_unique_1265_desc": "Verwandelt deine Armee in einen Bienenwagen und erhöht die Anzahl der Bienen, die aus erfolgreichen Angriffen auf deine Feinde gewonnen werden. Wie kann das sein?",
+    "equipment_unique_1266": "Frühlingsgeschenk",
+    "equipment_unique_1266_desc": "Nichts ist aufregender als das Versprechen eines üppigen Frühlings. Verwandle dein Schloss in eine majestätische Frühlingsblüte.",
+    "equipment_unique_1267": "Oster Vogelhaus",
+    "equipment_unique_1267_desc": "Entfesseln Sie den fröhlichen Geist des Oster-Vogelhauses, um die Saison der Erneuerung willkommen zu heißen. Verwandeln Sie Ihr Schloss in einen lebhaften Zufluchtsort, geschmückt mit bunten Nestern und farbenfrohen Ostereiern, die die Freude über die Rückkehr des Frühlings widerspiegeln.",
+    "equipment_unique_1268": "Osterfarn",
+    "equipment_unique_1268_desc": "Verwandle deine Armee in eine Kraft der Erneuerung, die unter sich entfaltetenden Farnen und versteckten Ostereiern marschiert und den Geist von Wachstum und Feierlichkeiten umarmt."
   },
   "generic": {
     "activity": "Aktivität",

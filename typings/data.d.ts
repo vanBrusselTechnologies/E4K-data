@@ -575,6 +575,7 @@ export interface BossDungeon {
     "lootWood": number;
     "lootc1": number;
     "lootc2": number;
+    "playerCooldownDelay": number;
 }
 
 export interface BuildingPosition {
@@ -644,6 +645,7 @@ export interface Building {
     "costFloraToken"?: number;
     "costGlass"?: number;
     "costGoldToken"?: number;
+    "costImperialDucat"?: number;
     "costIron"?: number;
     "costKhanMedal"?: number;
     "costKhanTablet"?: number;
@@ -879,7 +881,7 @@ export interface ConstructionItem {
     "addRarePaint"?: number;
     "addRareRope"?: number;
     "coalStorage"?: number;
-    "comment1": string;
+    "comment1"?: string;
     "comment2"?: string;
     "constructionItemEffectGroupID": number;
     "constructionItemGroupID": number;
@@ -1666,6 +1668,7 @@ export interface GachaEvent {
     "comment1": string;
     "comment2": string;
     "costFrozenCarrot"?: number;
+    "costHollowMoonEgg"?: number;
     "costSoldierBiscuit"?: number;
     "eventID": number;
     "freeChestResetTime": number;
@@ -2397,6 +2400,7 @@ export interface Package {
     "addGeneralsSkillsResetToken"?: number;
     "addGoldToken"?: number;
     "addHeritageBoosterKey"?: number;
+    "addHollowMoonEgg"?: number;
     "addImperialPatronageCharter"?: number;
     "addInfluenceBooster"?: number;
     "addKhanTablet"?: number;
@@ -2957,6 +2961,7 @@ export interface Reward {
     "addFusionCurrency"?: number;
     "addGenXP1000"?: number;
     "addGenXP10000"?: number;
+    "addGenXP12500"?: number;
     "addGenXP15000"?: number;
     "addGenXP2500"?: number;
     "addGenXP500"?: number;
@@ -2964,6 +2969,8 @@ export interface Reward {
     "addGeneralsSkillsResetToken"?: number;
     "addGoldToken"?: number;
     "addHalloweenLTPEToken"?: number;
+    "addHasanToken"?: number;
+    "addHollowMoonEgg"?: number;
     "addIceLTPEToken"?: number;
     "addImperialDucat"?: number;
     "addKhanMedal"?: number;

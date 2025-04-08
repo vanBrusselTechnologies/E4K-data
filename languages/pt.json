@@ -2025,7 +2025,22 @@
     "deco_ExaltedRedEasterHotspring_name": "Fonte vermelha exaltada de Páscoa",
     "deco_ExaltedRedEasterRuins_name": "Ruínas vermelhas exaltadas de Páscoa",
     "deco_ExaltedRedEggTree_name": "Guardião Vermelho Exaltado da Nutrição",
-    "deco_ExaltedRedMarchHaresHideout_name": "Esconderijo do lebre vermelho exaltado"
+    "deco_ExaltedRedMarchHaresHideout_name": "Esconderijo do lebre vermelho exaltado",
+    "deco_ExaltedGuardianOfNurtureGreen_name": "Guardião Verde Exaltado da Nutrição",
+    "deco_ExaltedGuardianOfNurturePurple_name": "Guardiã roxa exaltada da nutrição",
+    "deco_ExaltedGuardianOfNurtureRed_name": "Guardião Vermelho Exaltado da Nutrição",
+    "ci_appearance_theBrokenEggDwelling": "Moradia de ovo quebrado",
+    "ci_appearance_theBrokenEggDwelling_flavor": "O aroma das flores frescas flutua através das janelas abertas enquanto a luz do sol dança sobre os ovos pintados. Os guardas trocam brincadeiras de bom humor, trançando guirlandas e se preparando para a alegre renovação da estação.",
+    "ci_appearance_theBrokenEggGreenhouse": "Estufa de ovo quebrado",
+    "ci_appearance_theBrokenEggGreenhouse_flavor": "Dentro, os soldados se movem entre o cheiro de terra fresca e flores brotando, cuidando cuidadosamente da nova vida enquanto preparam cestas repletas de flores vibrantes e ovos pintados.",
+    "ci_appearance_theBrokenEggStorehouse": "Armazém de ovos quebrados",
+    "ci_appearance_theBrokenEggStorehouse_flavor": "O armazém transborda de colheitas frescas, doces e ovos coloridos, garantindo que nenhuma celebração passe sem sua fartura festiva.",
+    "ci_appearance_theBrokenEggTavern": "Taberna do ovo quebrado",
+    "ci_appearance_theBrokenEggTavern_flavor": "Coloque uma primavera em seus passos e relaxe na taverna mais excelente do Grande Império.",
+    "ci_appearance_theBrokenEggDwelling_flavour": "O aroma das flores frescas flutua pelas janelas abertas enquanto a luz do sol dança sobre os ovos pintados. Os guardas trocam brincadeiras amigáveis, trançando guirlandas e se preparando para a alegre renovação da temporada.",
+    "ci_appearance_theBrokenEggGreenhouse_flavour": "Dentro, os soldados se movem entre o cheiro de terra fresca e flores brotando, cuidando cuidadosamente da nova vida enquanto preparam cestos repletos de flores vibrantes e ovos pintados.",
+    "ci_appearance_theBrokenEggStorehouse_flavour": "O armazém transborda de colheitas frescas, doces guloseimas e ovos coloridos, garantindo que nenhuma celebração fique sem sua riqueza festiva.",
+    "ci_appearance_theBrokenEggTavern_flavour": "Coloque um impulso nos seus passos e relaxe na taverna mais ovóide do Grande Império."
   },
   "dialogs": {
     "dialog_festival_desc": "Use comida para organizar um banquete para os cidadãos! A velocidade de recrutamento aumentará consideravelmente em todos os seus castelos durante o banquete. Quanto maior o banquete, maior o efeito.",
@@ -12629,8 +12644,8 @@
     "generals_characters_120_summary": "Tático magistral e especialista incansável em cerco.",
     "generals_characters_120_name": "Hasan",
     "generals_characters_120_narrative": "Mestre Engenheiro Hasan\n\n&quot;Um cerco não é um teste de força, mas um teste de paciência, precisão e inevitabilidade.&quot;\n\nMuito antes de as mãos de Alice segurarem uma chave inglesa pela primeira vez, antes que sua mente começasse a moldar as invenções que mudariam o curso da guerra, havia Hasan, o mestre tático cujo nome sozinho poderia enviar os defensores ao pânico. O estrategista de cerco mais reverenciado do Grande Império, ele destruiu mais muros e sobreviveu a mais fortalezas do que a história se atreve a contar. Um homem de sabedoria silenciosa e paciência inabalável, Hasan não se apressa para a batalha. Ele espera, observa, e quando a hora é certa, ataca rápida e decisivamente, como uma lâmina cortando seda.\n\nOnde outros veem uma fortaleza impenetrável, Hasan vê um quebra-cabeça com mil soluções. Cada batalha é ganha muito antes que a primeira flecha voe, cada vitória gravada nas linhas de seus mapas de batalha antes que o inimigo saiba que está condenado. Sua mente, aguçada através de anos de refinamento incansável, é uma máquina de guerra em si mesma, girando, calculando e desmontando defesas peça por peça. Para Hasan, um cerco não se trata de força bruta. Trata-se de inevitabilidade. O lento apertar de uma laço, a pressão aumentando a cada hora que passa, o sussurro de rendição crescendo mais alto nas mentes daqueles que se achavam intocáveis.\n\nNo entanto, apesar de toda a sua genialidade tática, Hasan não é estranho ao caos da batalha. Embora prefira o ritmo medido da estratégia, ele não hesita em enfrentar seus inimigos cara a cara quando o momento exige. Sua cimitarra, mantida polida, mas muitas vezes intocada, não é para intimidar, mas uma lição final para aqueles que confundem paciência com fraqueza. Ele luta como comanda, com precisão e propósito, cortando através das fileiras inimigas com a mesma facilidade com que desmonta suas defesas. Nenhuma barricada é inquebrável, nenhuma fortaleza além de seu alcance, e quando ele considera o momento certo, não há nada que fique em seu caminho.\n\nPara Alice, ele era mais do que um professor. Ele era a prova de que engenhosidade e paciência podem quebrar até os inimigos mais fortes. Assim como ela cria armas de inovação, ele cria vitórias das sombras de sua tenda, a fumaça do cachimbo subindo sobre o campo de batalha como o último presságio de uma fortaleza condenada a cair.\n\nCom um olhar tão afiado quanto sua lâmina e uma mente ainda mais afiada, Hasan não precisa tempestuar os portões. Ele simplesmente espera. Porque no final, as paredes desmoronarão, o inimigo vacilará, e como sempre, ele vencerá.",
-    "event_announcement_description_128": "Com o início do Festival de Renascimento, o enigmático Invocador da Lua Oca surge, deixando para trás ovos dourados estranhos cheios de magia antiga. Esses Ovos da Lua Oca contêm tesouros raros, equipamentos poderosos e recursos valiosos. Ofereça-os ao Invocador, desbloqueie recompensas e suba nas classificações para prêmios exclusivos. A sorte irá te favorecer, ou a Lua Oca lançará sua sombra?",
-    "event_announcement_header_128": "Evocação da Lua Oca",
+    "dialog_event_announcement_description_128": "Com o início do Festival de Renascimento, o enigmático Invocador da Lua Oca surge, deixando para trás ovos dourados estranhos cheios de magia antiga. Esses Ovos da Lua Oca contêm tesouros raros, equipamentos poderosos e recursos valiosos. Ofereça-os ao Invocador, desbloqueie recompensas e suba nas classificações para prêmios exclusivos. A sorte irá te favorecer, ou a Lua Oca lançará sua sombra?",
+    "dialog_event_announcement_header_128": "Evocação da Lua Oca",
     "event_end_description_EasterGacha": "À medida que o festival se desvanece e a névoa se retira, o Invocador da Lua Oca desaparece, levando consigo seus ovos encantados e seus segredos. Obrigado por abraçar o mistério e testar seu destino. Até o próximo eclipse...",
     "event_end_header_EasterGacha": "Evocação da Lua Oca",
     "event_title_128": "Evocação da Lua Oca",
@@ -12687,7 +12702,10 @@
     "title_advisor_nomad": "Conselheiro nômade",
     "currency_description_OfferingHasan": "Troca com o rei Ludwig na Taverna dos Generais para ganhar recompensas muito valiosas. Os sorteios de recompensas sempre incluem fragmentos para Hasan. A troca da oferta de Hasan só pode ser feita por um tempo limitado!",
     "currency_name_OfferingHasan": "Oferta de Hasan a Ludwig",
-    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "Estas são as chances de sorteio para as categorias de recompensas deste patrono com a oferta selecionada. Cada categoria contém tipos específicos de recompensa, que serão escolhidos aleatoriamente. Para cada oferta paga, são realizados quatro sorteios, cada sorteio tem as chances listadas abaixo.\n\nChance de Sorteio        Categorias de Recompensas\n\n09.00%                  - Fragmentos de Hasan\n\n00.50%                  - Oferta de Hasan a Ludwig\n\n03.00%                  - Oferta à Princesa Beatrice\n\n05.00%                  - Oferta a Sir Ulrich\n\n08.00%                  - Oferta ao Rei Ludwig\n\n02.00%                  - Tokens de reinicialização de habilidades\n\n03.40%                  - Equipamento"
+    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "Estas são as chances de sorteio para as categorias de recompensas deste patrono com a oferta selecionada. Cada categoria contém tipos específicos de recompensa, que serão escolhidos aleatoriamente. Para cada oferta paga, são realizados quatro sorteios, cada sorteio tem as chances listadas abaixo.\n\nChance de Sorteio        Categorias de Recompensas\n\n09.00%                  - Fragmentos de Hasan\n\n00.50%                  - Oferta de Hasan a Ludwig\n\n03.00%                  - Oferta à Princesa Beatrice\n\n05.00%                  - Oferta a Sir Ulrich\n\n08.00%                  - Oferta ao Rei Ludwig\n\n02.00%                  - Tokens de reinicialização de habilidades\n\n03.40%                  - Equipamento",
+    "TITLE_EASTERGACHA": "Evocação da Lua Oca",
+    "intro_advisor_nomad_short": "Durante a invasão nômade, lance ataques consecutivos nos acampamentos nômades sem intervalos.",
+    "advisor_attack": "Ataque do Conselheiro"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% de força de combate da unidade ao atacar",
@@ -14025,7 +14043,9 @@
     "ci_effect_unitWallAbsoluteAmount_tt": "Capacidade de tropas na muralha do castelo:",
     "ci_effect_unitWallAbsoluteAmount": "+{0} limite de unidades na muralha",
     "ci_effect_unitWallAbsoluteAmountTCI": "+{0} limite de unidades na muralha",
-    "equip_effect_description_unitWallAbsoluteAmount": "+{0} limite de unidades na parede"
+    "equip_effect_description_unitWallAbsoluteAmount": "+{0} limite de unidades na parede",
+    "equip_effect_description_allianceFameBoost": "+{0}% pontos de glória ganhos ao atacar",
+    "equip_effect_description_allianceTravelSupportBoost": "Tempo de viagem de suporte da aliança: -{0}%"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Herói",
@@ -17374,7 +17394,7 @@
     "equipment_unique_1061_desc": "Transforma seu castelo em fortaleza de espuma.",
     "equipment_unique_1062_desc": "Transforma seu castelo em fortaleza de espuma.",
     "equip_effect_description_emptyGemSocket_name": "Slot de gema vazio",
-    "equip_effect_description_appearance_baron_transformationTarget": "Mostre sua dominância no LTPE com este item raro, transformando seus castelos principais, postos avançados, capital ou metrópole em uma presença verdadeiramente única que o diferencia de outros jogadores.",
+    "equip_effect_description_appearance_baron_transformationTarget": "A transformação se aplica aos castelos principais, posto avançado, capital e metrópole.",
     "equip_effect_description_appearance_commander_transformationTarget": "A transformação se aplica a exércitos em marcha em reinos e navios de guerra nas Ilhas da Tempestade.",
     "equip_effect_description_noGemSocket_name": "Nenhum slot de gema",
     "equip_effect_description_permanentAppearance": "Item permanente",
@@ -18005,10 +18025,19 @@
     "equipment_unique_1241": "Grande Lótus Ametista",
     "equipment_unique_1242": "Grande Lótus Ametista",
     "equipment_unique_1243": "Grande Lótus Ametista",
-    "equipment_unique_1263": "Casa de passarinho de Páscoa",
-    "equipment_unique_1263_desc": "Libere o alegre espírito da Casa de Pássaros da Páscoa para dar boas-vindas à temporada de renovação. Transforme seu castelo em um refúgio animado, adornado com ninhos vibrantes e ovos de Páscoa coloridos, refletindo a alegria do retorno da primavera.",
-    "equipment_unique_1264": "Samambaia de Páscoa",
-    "equipment_unique_1264_desc": "Transforme seu exército em uma força de renovação, marchando sob samambaias desdobradas e ovos de Páscoa ocultos, abraçando o espírito de crescimento e celebração."
+    "equipment_unique_1263": "Flor congelada",
+    "equipment_unique_1263_desc": "Transforma seu exército em uma carroça de abelhas e aumenta o número de abelhas conquistadas em ataques bem-sucedidos contra seus inimigos, como isso pode ser?",
+    "equipment_unique_1264": "Flor congelada",
+    "equipment_unique_1264_desc": "Transforma seu exército em uma carroça de abelhas e aumenta o número de abelhas conquistadas em ataques bem-sucedidos contra seus inimigos, como isso pode ser?",
+    "equip_effect_description_appearance_baron_transformationTarget_increasedSizeLTPE": "A transformação se aplica a castelos principais, postos avançados, capital e metrópole. Aumenta o tamanho do seu castelo no mapa do mundo.",
+    "equipment_unique_1265": "Flor congelada",
+    "equipment_unique_1265_desc": "Transforma seu exército em uma carroça de abelhas e aumenta o número de abelhas conquistadas em ataques bem-sucedidos contra seus inimigos, como isso pode ser?",
+    "equipment_unique_1266": "Presente da primavera",
+    "equipment_unique_1266_desc": "Não há nada mais emocionante do que a promessa de uma primavera abundante. Transforme seu castelo em uma majestosa flor da primavera.",
+    "equipment_unique_1267": "Casa de passarinho de Páscoa",
+    "equipment_unique_1267_desc": "Libere o alegre espírito da Casa de Páscoa para dar as boas-vindas à temporada de renovação. Transforme seu castelo em um refúgio vibrante, adornado com ninhos coloridos e ovos de Páscoa coloridos, ecoando a alegria do retorno da primavera.",
+    "equipment_unique_1268": "Samambaia de Páscoa",
+    "equipment_unique_1268_desc": "Transforme seu exército em uma força de renovação, marchando sob samambaias desdobradas e ovos de Páscoa escondidos, abraçando o espírito de crescimento e celebração."
   },
   "generic": {
     "activity": "Atividade",

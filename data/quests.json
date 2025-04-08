@@ -23713,7 +23713,6 @@
       "xp": 150,
       "stone": 40,
       "food": 200,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -23729,7 +23728,6 @@
       "conditions": "buildings+1+127|205#decos+5",
       "xp": 150,
       "currency1": 250,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -23759,7 +23757,6 @@
       "xp": 162,
       "stone": 120,
       "coal": 150,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -23776,7 +23773,6 @@
       "xp": 51,
       "wood": 50,
       "coal": 80,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -23794,7 +23790,6 @@
       "xp": 46,
       "stone": 20,
       "coal": 100,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -23811,7 +23806,6 @@
       "xp": 335,
       "currency1": 250,
       "coal": 50,
-      "maxLevelForXP": 45,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -23828,7 +23822,6 @@
       "xp": 584,
       "currency1": 500,
       "coal": 70,
-      "maxLevelForXP": 45,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -23845,7 +23838,6 @@
       "xp": 1183,
       "currency1": 750,
       "coal": 80,
-      "maxLevelForXP": 45,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -23862,7 +23854,6 @@
       "xp": 197,
       "currency1": 120,
       "food": 500,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -23879,7 +23870,6 @@
       "xp": 168,
       "currency1": 150,
       "food": 1500,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -23896,7 +23886,6 @@
       "xp": 150,
       "wood": 150,
       "stone": 120,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -23913,7 +23902,6 @@
       "xp": 200,
       "currency1": 200,
       "food": 200,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -23930,7 +23918,6 @@
       "xp": 1179,
       "stone": 100,
       "food": 150,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -23944,7 +23931,6 @@
       "numberOfQuestsInSeries": 2,
       "questGiverID": 13,
       "conditions": "starter+1+261",
-      "maxLevelForXP": 40,
       "shownKingdomID": -1,
       "triggerKingdomID": -1
     },
@@ -23961,7 +23947,6 @@
       "xp": 180,
       "currency1": 250,
       "food": 1500,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -23975,7 +23960,6 @@
       "numberOfQuestsInSeries": 2,
       "questGiverID": 13,
       "conditions": "starter+1+263",
-      "maxLevelForXP": 40,
       "shownKingdomID": -1,
       "triggerKingdomID": -1
     },
@@ -23992,7 +23976,6 @@
       "xp": 555,
       "currency2": 200,
       "currency1": 1500,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24006,7 +23989,6 @@
       "numberOfQuestsInSeries": 6,
       "questGiverID": 12,
       "conditions": "starter+1+154",
-      "maxLevelForXP": 40,
       "shownKingdomID": -1,
       "triggerKingdomID": -1
     },
@@ -24020,7 +24002,6 @@
       "numberOfQuestsInSeries": 6,
       "questGiverID": 12,
       "conditions": "starter+1+265",
-      "maxLevelForXP": 40,
       "shownKingdomID": -1,
       "triggerKingdomID": -1
     },
@@ -24034,7 +24015,6 @@
       "numberOfQuestsInSeries": 6,
       "questGiverID": 12,
       "conditions": "starter+1+266",
-      "maxLevelForXP": 40,
       "shownKingdomID": -1,
       "triggerKingdomID": -1
     },
@@ -24048,7 +24028,6 @@
       "numberOfQuestsInSeries": 6,
       "questGiverID": 12,
       "conditions": "starter+1+267",
-      "maxLevelForXP": 40,
       "shownKingdomID": -1,
       "triggerKingdomID": -1
     },
@@ -24062,7 +24041,6 @@
       "numberOfQuestsInSeries": 6,
       "questGiverID": 12,
       "conditions": "starter+1+268",
-      "maxLevelForXP": 40,
       "shownKingdomID": -1,
       "triggerKingdomID": -1
     },
@@ -24076,7 +24054,6 @@
       "numberOfQuestsInSeries": 6,
       "questGiverID": 12,
       "conditions": "starter+1+269",
-      "maxLevelForXP": 40,
       "shownKingdomID": -1,
       "triggerKingdomID": -1
     },
@@ -24090,7 +24067,6 @@
       "numberOfQuestsInSeries": 1,
       "questGiverID": 12,
       "conditions": "starter+1+270",
-      "maxLevelForXP": 40,
       "shownKingdomID": -1,
       "triggerKingdomID": -1
     },
@@ -24104,7 +24080,6 @@
       "numberOfQuestsInSeries": 1,
       "questGiverID": 13,
       "conditions": "starter+1+271",
-      "maxLevelForXP": 40,
       "shownKingdomID": -1,
       "triggerKingdomID": -1
     },
@@ -24122,7 +24097,6 @@
       "xp": 129,
       "wood": 20,
       "food": 40,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24140,7 +24114,6 @@
       "xp": 145,
       "stone": 40,
       "food": 60,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24158,7 +24131,6 @@
       "xp": 160,
       "wood": 60,
       "food": 80,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24176,7 +24148,6 @@
       "xp": 170,
       "stone": 80,
       "food": 100,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24194,7 +24165,6 @@
       "xp": 180,
       "wood": 100,
       "food": 150,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24212,7 +24182,6 @@
       "xp": 190,
       "stone": 120,
       "food": 200,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24230,7 +24199,6 @@
       "xp": 200,
       "wood": 140,
       "food": 250,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24265,7 +24233,6 @@
       "xp": 126,
       "wood": 60,
       "stone": 20,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24283,7 +24250,6 @@
       "xp": 145,
       "wood": 80,
       "food": 40,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24301,7 +24267,6 @@
       "xp": 155,
       "wood": 100,
       "stone": 60,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24319,7 +24284,6 @@
       "xp": 165,
       "wood": 150,
       "food": 80,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24337,7 +24301,6 @@
       "xp": 175,
       "wood": 200,
       "stone": 100,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24355,7 +24318,6 @@
       "xp": 185,
       "wood": 250,
       "food": 120,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24373,7 +24335,6 @@
       "xp": 195,
       "wood": 300,
       "stone": 140,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24408,7 +24369,6 @@
       "xp": 124,
       "wood": 20,
       "stone": 60,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24426,7 +24386,6 @@
       "xp": 145,
       "stone": 80,
       "food": 40,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24444,7 +24403,6 @@
       "xp": 155,
       "wood": 60,
       "stone": 100,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24462,7 +24420,6 @@
       "xp": 165,
       "stone": 150,
       "food": 80,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24480,7 +24437,6 @@
       "xp": 175,
       "wood": 100,
       "stone": 200,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24498,7 +24454,6 @@
       "xp": 185,
       "stone": 250,
       "food": 120,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24516,7 +24471,6 @@
       "xp": 195,
       "wood": 140,
       "stone": 300,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24550,7 +24504,6 @@
       "conditions": "buildings+1+128|206",
       "xp": 140,
       "currency1": 50,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24567,7 +24520,6 @@
       "conditions": "buildings+2+129|207",
       "xp": 150,
       "currency1": 100,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24584,7 +24536,6 @@
       "conditions": "buildings+3+130|208",
       "xp": 160,
       "currency1": 150,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24601,7 +24552,6 @@
       "conditions": "buildings+4+131|209",
       "xp": 170,
       "currency1": 200,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24618,7 +24568,6 @@
       "conditions": "buildings+5+191|210",
       "xp": 180,
       "currency1": 250,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24635,7 +24584,6 @@
       "conditions": "buildings+5+192|211",
       "xp": 190,
       "currency1": 300,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24652,7 +24600,6 @@
       "conditions": "buildings+5+193|212",
       "xp": 200,
       "currency1": 350,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24686,7 +24633,6 @@
       "xp": 50,
       "wood": 40,
       "stone": 40,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24704,7 +24650,6 @@
       "xp": 70,
       "wood": 80,
       "stone": 80,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24722,7 +24667,6 @@
       "xp": 90,
       "wood": 120,
       "stone": 120,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24740,7 +24684,6 @@
       "xp": 110,
       "wood": 160,
       "stone": 160,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24758,7 +24701,6 @@
       "xp": 130,
       "wood": 200,
       "stone": 200,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24776,7 +24718,6 @@
       "xp": 150,
       "wood": 240,
       "stone": 240,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24811,7 +24752,6 @@
       "xp": 80,
       "currency2": 10,
       "wood": 250,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24829,7 +24769,6 @@
       "xp": 85,
       "currency2": 10,
       "stone": 250,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24848,7 +24787,6 @@
       "xp": 90,
       "currency2": 10,
       "wood": 300,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24866,7 +24804,6 @@
       "xp": 95,
       "currency2": 10,
       "stone": 300,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24885,7 +24822,6 @@
       "xp": 100,
       "currency2": 10,
       "wood": 350,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24903,7 +24839,6 @@
       "xp": 105,
       "currency2": 10,
       "stone": 350,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24922,7 +24857,6 @@
       "xp": 110,
       "currency2": 10,
       "wood": 400,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24940,7 +24874,6 @@
       "xp": 115,
       "currency2": 10,
       "stone": 400,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24959,7 +24892,6 @@
       "xp": 120,
       "currency2": 10,
       "wood": 450,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24977,7 +24909,6 @@
       "xp": 125,
       "currency2": 10,
       "stone": 450,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -24996,7 +24927,6 @@
       "xp": 130,
       "currency2": 10,
       "wood": 500,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -25014,7 +24944,6 @@
       "xp": 135,
       "currency2": 10,
       "stone": 500,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -25068,7 +24997,6 @@
       "currency2": 10,
       "currency1": 250,
       "equipmentIDs": 134,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -25087,7 +25015,6 @@
       "currency2": 20,
       "currency1": 290,
       "equipmentIDs": 135,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -25106,7 +25033,6 @@
       "currency2": 30,
       "currency1": 320,
       "equipmentIDs": 136,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -25125,7 +25051,6 @@
       "currency2": 40,
       "currency1": 350,
       "equipmentIDs": 137,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -25144,7 +25069,6 @@
       "currency2": 50,
       "currency1": 380,
       "equipmentIDs": 138,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -25163,7 +25087,6 @@
       "currency2": 60,
       "currency1": 410,
       "equipmentIDs": 139,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -25182,7 +25105,6 @@
       "currency2": 70,
       "currency1": 460,
       "equipmentIDs": 140,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -25201,7 +25123,6 @@
       "currency2": 80,
       "currency1": 520,
       "equipmentIDs": 141,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -25634,7 +25555,6 @@
       "xp": 50,
       "stone": 150,
       "coal": 20,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -25653,7 +25573,6 @@
       "xp": 60,
       "wood": 200,
       "coal": 30,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -25672,7 +25591,6 @@
       "xp": 60,
       "stone": 250,
       "coal": 40,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -25691,7 +25609,6 @@
       "xp": 60,
       "wood": 300,
       "coal": 50,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -25710,7 +25627,6 @@
       "xp": 70,
       "stone": 350,
       "coal": 60,
-      "maxLevelForXP": 40,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -25729,7 +25645,6 @@
       "xp": 70,
       "wood": 400,
       "coal": 70,
-      "maxLevelForXP": 45,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -25748,7 +25663,6 @@
       "xp": 80,
       "stone": 450,
       "coal": 80,
-      "maxLevelForXP": 45,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },
@@ -25767,7 +25681,6 @@
       "xp": 80,
       "wood": 500,
       "coal": 90,
-      "maxLevelForXP": 45,
       "shownKingdomID": 2,
       "triggerKingdomID": 2
     },

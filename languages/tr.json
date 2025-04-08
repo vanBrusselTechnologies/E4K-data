@@ -2025,7 +2025,22 @@
     "deco_ExaltedRedEasterHotspring_name": "Yüceltilmiş Kırmızı Paskalya Kaplıcası",
     "deco_ExaltedRedEasterRuins_name": "Yüce Kırmızı Paskalya Harabeleri",
     "deco_ExaltedRedEggTree_name": "Yüce Kırmızı Bakım Koruyucusu",
-    "deco_ExaltedRedMarchHaresHideout_name": "Yüceltilmiş kırmızı mart tavşanının saklanma yeri"
+    "deco_ExaltedRedMarchHaresHideout_name": "Yüceltilmiş kırmızı mart tavşanının saklanma yeri",
+    "deco_ExaltedGuardianOfNurtureGreen_name": "Yüceltilmiş Yeşil Bakım Koruyucusu",
+    "deco_ExaltedGuardianOfNurturePurple_name": "Yüce Mor Beslenme Koruyucusu",
+    "deco_ExaltedGuardianOfNurtureRed_name": "Yüceltilmiş Kırmızı Bakım Koruyucusu",
+    "ci_appearance_theBrokenEggDwelling": "Kırık yumurta konutu",
+    "ci_appearance_theBrokenEggDwelling_flavor": "Taze çiçeklerin kokusu açık pencerelerden süzülürken güneş ışığı boyalı yumurtalar üzerinde dans eder. Bekçiler iyi niyetli şakalar değiştirir, çelenkler dokur ve sezonun neşeli yenilenmesi için hazırlanırlar.",
+    "ci_appearance_theBrokenEggGreenhouse": "Kırık Yumurta Serası",
+    "ci_appearance_theBrokenEggGreenhouse_flavor": "İçeride, askerler taze toprak ve filizlenen çiçeklerin arasında hareket ederken, yeni hayata dikkatlice bakıyorlar ve rengarenk çiçekler ve boyalı yumurtalarla dolu sepetler hazırlıyorlar.",
+    "ci_appearance_theBrokenEggStorehouse": "Kırık yumurta deposu",
+    "ci_appearance_theBrokenEggStorehouse_flavor": "Depo, taze hasatlarla, tatlı ikramlarla ve renkli yumurtalarla dolup taşıyor ve hiçbir kutlama, şenlikli zenginliği olmadan geçmiyor.",
+    "ci_appearance_theBrokenEggTavern": "Kırık Yumurta hanı",
+    "ci_appearance_theBrokenEggTavern_flavor": "Adımlarınıza bir bahar katın ve Büyük İmparatorluğun en iyi hanesinde dinlenin.",
+    "ci_appearance_theBrokenEggDwelling_flavour": "Taze çiçeklerin kokusu açık pencerelerden içeri süzülürken, güneş ışığı boyalı yumurtalar üzerinde dans ediyor. Bekçiler dostça şakalar yaparak çiçekler örüyor ve sezonun neşeli yenilenmesine hazırlanıyor.",
+    "ci_appearance_theBrokenEggGreenhouse_flavour": "İçeride, askerler taze toprağın ve filizlenen çiçeklerin kokusunun arasında hareket ederken, yeni hayatı dikkatle besleyerek rengarenk çiçeklerle ve boyalı yumurtalarla dolu sepetler hazırlıyorlar.",
+    "ci_appearance_theBrokenEggStorehouse_flavour": "Depo, taze hasat, tatlı ikramlar ve renkli yumurtalarla dolup taşıyor, hiçbir kutlamanın festivallerin zenginliğinden mahrum kalmamasını sağlıyor.",
+    "ci_appearance_theBrokenEggTavern_flavour": "Adımlarınıza bir zıplama katın ve Büyük İmparatorluğun en yumurta benzeri tavernasında rahatlayın."
   },
   "dialogs": {
     "dialog_festival_desc": "Yurttaşlarınıza bir şenlik düzenlemek için yiyecek kullanın!\nŞenlik devam ettiği sürece askere alma hızı tüm kalelerinizde belirgin şekilde artacak. Şenlik ne kadar büyük olursa, etkisi de o kadar büyük olur.",
@@ -12629,8 +12644,8 @@
     "generals_characters_120_summary": "Usta taktikçi ve amansız kuşatma uzmanı.",
     "generals_characters_120_name": "Hasan",
     "generals_characters_120_narrative": "Usta Mühendis Hasan\n\n&quot;Bir kuşatma, güç testi değil, sabır, hassasiyet ve kaçınılmazlık testidir.&quot;\n\nAlice’in ilk kez bir anahtarı kavramasından, zihninin savaşın seyrini değiştirecek icatları şekillendirmeye başlamasından çok önce, Hasan vardı; ismi bile savunucuları panik içinde bırakabilecek bir ustalık taktiği sahibi. Büyük İmparatorlukun en saygın kuşatma stratejisti, tarihin saymaya cesaret edemeyeceği kadar çok duvarı yıkmış ve kaleyi aşmayı başarmıştır. Sessiz bir bilgelik ve sarsılmaz bir sabırla dolu olan Hasan, savaşa acele etmez. Bekler, izler ve zaman geldiğinde hızlı ve kararlı bir şekilde saldırır, ipe geçerken bir bıçak gibi.\n\nDiğerlerinin geçilemez bir kale gördüğü yerde, Hasan binlerce çözümü olan bir bulmaca görür. Her savaş, ilk ok havalandan çok önce kazanılır, her zafer düşman bile daha kaderinin ne olduğunu bilmeden, savaş haritalarının çizgilerine kazınır. Yılların yorulmak bilmeyen ince ayarlarıyla keskinleştirilmiş aklı, kendisi bir savaş motorudur; döner, hesaplar ve savunmaları parça parça söküp atar. Hasan için bir kuşatma, ham güçle ilgili değildir. Kaçınılmazlık ile ilgilidir. Bir boğazdaki yavaş sıkışma, her geçen saatle artan baskı, kendilerini dokunulmaz sananların zihinlerinde büyüyen teslim olma fısıldaması.\n\nAncak tüm taktik dahiliğine rağmen, Hasan savaşın kaosuna yabancı değildir. Stratejinin ölçülü temposunu tercih etse de, anın gerektirdiği anlarda düşmanlarıyla yüz yüze gelmekten çekinmez. Parlatılmış ama sıklıkla dokunulmamış kılıcı, korkutmak için değildir; sabrı zayıflıkla karıştıranlar için son bir derstir. Keskinlik ve amaçla savaşır; düşman saflarını sorunsuz bir şekilde keserken, savunmalarını da aynı şekilde söküp atar. Hiçbir engel kırılmaz değildir, hiçbir kale onun erişiminin ötesinde değildir ve o doğru anı gördüğünde, önünde duracak hiçbir şey yoktur.\n\nAlice için, o sadece bir öğretmenden fazlasıydı. Yetenek ve sabrın en güçlü düşmanları bile yenebileceğinin kanıtıydı. O, yenilikçi silahlar yaparken, Hasan da çadırının gölgelerinden zaferler inşa eder; boru dumanı savaş alanının üzerinde, düşmesi beklenen bir kalenin son işareti gibi kıvrılır.\n\nBıçağı kadar keskin bir bakış ve ondan daha keskin bir akılla, Hasan kapıları zorlamaya gerek duymuyor. Sadece bekliyor. Çünkü sonunda, duvarlar çökecek, düşman tökezleyecek ve her zamanki gibi o kazanacak.",
-    "event_announcement_description_128": "Yeniden doğuş Festivali başladığında, gizemli Boş Ayın Çağırıcısı ortaya çıkarak ardında eski büyü ile dolu korkutucu altın yumurtalar bırakır. Bu Boş Ay Yumurtaları nadir hazineler, güçlü ekipman ve değerli kaynaklar bulundurur. Onları Çağırıcıya sunun, ödülleri açın ve özel ödüller için sıralarda yükselin. Şans sizinle mi olacak yoksa Boş Ay gölgesini mi atacaktır?",
-    "event_announcement_header_128": "Boş Ayın Çağrılması",
+    "dialog_event_announcement_description_128": "Yeniden doğuş Festivali başladığında, gizemli Boş Ayın Çağırıcısı ortaya çıkarak ardında eski büyü ile dolu korkutucu altın yumurtalar bırakır. Bu Boş Ay Yumurtaları nadir hazineler, güçlü ekipman ve değerli kaynaklar bulundurur. Onları Çağırıcıya sunun, ödülleri açın ve özel ödüller için sıralarda yükselin. Şans sizinle mi olacak yoksa Boş Ay gölgesini mi atacaktır?",
+    "dialog_event_announcement_header_128": "Boş Ayın Çağrılması",
     "event_end_description_EasterGacha": "Festival solarken ve sis çekilirken, Boş Ayın Çağrıcısı kaybolur, büyülü yumurtalarını ve sırlarını alarak. Gizemi kucaklayıp kaderini test ettiğin için teşekkür ederiz. Bir sonraki tutulmaya kadar...",
     "event_end_header_EasterGacha": "Boş Ayın Çağrılması",
     "event_title_128": "Boş Ayın Çağrılması",
@@ -12687,7 +12702,10 @@
     "title_advisor_nomad": "Göçebe Danışmanı",
     "currency_description_OfferingHasan": "General Hanında Kral Ludwig ile değişim yaparak çok değerli ödüller elde edin. Ödül çekilişleri her zaman Hasan için parçalar içerir. Hasanın teklifinin değiştirilmesi sadece sınırlı bir süre için yapılabilir!",
     "currency_name_OfferingHasan": "Hasanın Kral Ludwige sunumu",
-    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "Bu, seçilen teklif ile bu patronun ödül kategorileri için çekiliş şanslarıdır. Her kategori, rastgele seçilecek belirli ödül türlerini içerir. Her ücretli teklif için dört çekiliş gerçekleştirilir, her çekilişin aşağıda listelenen şansları vardır.\n\nÇekiliş Şansı        Ödül Kategorileri\n\n09.00%                  - Hasan parçaları\n\n00.50%                  - Ludwig için Hasanın Teklifi\n\n03.00%                  - Prenses Beatricee Teklif\n\n05.00%                  - Sir Ulriche Teklif\n\n08.00%                  - Kral Ludwige Teklif\n\n02.00%                  - Yetenek sıfırlama jetonları\n\n03.40%                  - Ekipman"
+    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "Bu, seçilen teklif ile bu patronun ödül kategorileri için çekiliş şanslarıdır. Her kategori, rastgele seçilecek belirli ödül türlerini içerir. Her ücretli teklif için dört çekiliş gerçekleştirilir, her çekilişin aşağıda listelenen şansları vardır.\n\nÇekiliş Şansı        Ödül Kategorileri\n\n09.00%                  - Hasan parçaları\n\n00.50%                  - Ludwig için Hasanın Teklifi\n\n03.00%                  - Prenses Beatricee Teklif\n\n05.00%                  - Sir Ulriche Teklif\n\n08.00%                  - Kral Ludwige Teklif\n\n02.00%                  - Yetenek sıfırlama jetonları\n\n03.40%                  - Ekipman",
+    "TITLE_EASTERGACHA": "Boş Ayın Çağrılması",
+    "intro_advisor_nomad_short": "Göçebe İstilası sırasında, kesintisiz olarak göçebe kamplara ardışık saldırılar başlatın.",
+    "advisor_attack": "Danışman Saldırısı"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% birimin savaş gücü saldırırken",
@@ -14025,7 +14043,9 @@
     "ci_effect_unitWallAbsoluteAmount_tt": "Kale duvarı üzerinde birlik kapasitesi:",
     "ci_effect_unitWallAbsoluteAmount": "+{0} surda birlik limiti",
     "ci_effect_unitWallAbsoluteAmountTCI": "+{0} surda birlik limiti",
-    "equip_effect_description_unitWallAbsoluteAmount": "+{0} birim sınırı duvarda"
+    "equip_effect_description_unitWallAbsoluteAmount": "+{0} birim sınırı duvarda",
+    "equip_effect_description_allianceFameBoost": "+{0}% saldırı sırasında kazanılan şöhret puanı",
+    "equip_effect_description_allianceTravelSupportBoost": "İttifak destek seyahat süresi: -{0}%"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Kahraman",
@@ -17374,7 +17394,7 @@
     "equipment_unique_1061_desc": "Kaleni bir köpüklü hisara dönüştürür.",
     "equipment_unique_1062_desc": "Kaleni bir köpüklü hisara dönüştürür.",
     "equip_effect_description_emptyGemSocket_name": "Boş kıymetli taş yuvası",
-    "equip_effect_description_appearance_baron_transformationTarget": "Bu nadir item ile LTPEdeki hakimiyetinizi gösterin, ana kalelerinizi, ileri karakollarınızı, başkent veya metropolünüzü sizi diğer oyunculardan farklı kılan gerçekten benzersiz bir varlığa dönüştürün.",
+    "equip_effect_description_appearance_baron_transformationTarget": "Dönüşüm, ana kalelere, ileri karakola, başkente ve metropole uygulanır.",
     "equip_effect_description_appearance_commander_transformationTarget": "Dönüşüm, krallıklardaki ilerleyen ordulara ve Fırtına Adalarındaki savaş gemilerine uygulanır.",
     "equip_effect_description_noGemSocket_name": "Kıymetli taş yuvası yok",
     "equip_effect_description_permanentAppearance": "Kalıcı Öğe",
@@ -18005,10 +18025,19 @@
     "equipment_unique_1241": "Büyük ametist lotus",
     "equipment_unique_1242": "Büyük ametist lotus",
     "equipment_unique_1243": "Büyük ametist lotus",
-    "equipment_unique_1263": "Paskalya kuş evi",
-    "equipment_unique_1263_desc": "Yenileme mevsimini karşılamak için Paskalya Kuş Evinin neşeli ruhunu serbest bırakın. Şatonuzu, canlı yuvalar ve renkli Paskalya yumurtalarıyla süslenmiş, baharın dönüşünün sevincini yansıtan canlı bir sığınak haline getirin.",
-    "equipment_unique_1264": "Paskalya eğrelti otu",
-    "equipment_unique_1264_desc": "Orduğunuzu yenilenme gücüne dönüştürün, açılan fernlerin ve gizli Paskalya yumurtalarının altında yürüyerek, büyüme ve kutlama ruhunu kucaklayın."
+    "equipment_unique_1263": "Donmuş çiçek",
+    "equipment_unique_1263_desc": "Ordunuza bir arı arabasına dönüştürür ve düşmanlarınıza başarılı saldırılardan kazanılan arı sayısını artırır, bu nasıl mümkün olabilir?",
+    "equipment_unique_1264": "Donmuş çiçek",
+    "equipment_unique_1264_desc": "Ordunuza bir arı arabasına dönüştürür ve düşmanlarınıza başarılı saldırılardan kazanılan arı sayısını artırır, bu nasıl mümkün olabilir?",
+    "equip_effect_description_appearance_baron_transformationTarget_increasedSizeLTPE": "Dönüşüm, ana kalelere, dış karakollara, başkente ve metropole uygulanır. Dünya haritasında kalenizin boyutunu artırır.",
+    "equipment_unique_1265": "Donmuş çiçek",
+    "equipment_unique_1265_desc": "Ordunuza bir arı arabasına dönüştürür ve düşmanlarınıza başarılı saldırılardan kazanılan arı sayısını artırır, bu nasıl mümkün olabilir?",
+    "equipment_unique_1266": "Bahar hediyesi",
+    "equipment_unique_1266_desc": "Bol bir baharın vaadinden daha heyecan verici bir şey yok. Şatonuzu ihtişamlı bir bahar çiçeğine dönüştürün.",
+    "equipment_unique_1267": "Paskalya Kuş Evi",
+    "equipment_unique_1267_desc": "Yenileme mevsimini karşılamak için Paskalya Kuş Evinin neşeli ruhunu serbest bırakın. Şatonuzu canlı bir sığınak haline getirin, renkli yuvalar ve rengarenk Paskalya yumurtaları ile süsleyin, baharın dönüşünün neşesini yansıtın.",
+    "equipment_unique_1268": "Paskalya eğreltiotu",
+    "equipment_unique_1268_desc": "Ordunu yenileme gücüne dönüştür, açılan eğrelti otlarının ve gizli Paskalya yumurtalarının altında yürüyerek, büyüme ve kutlama ruhunu kucakla."
   },
   "generic": {
     "activity": "Etkinlik",

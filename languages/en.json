@@ -2025,7 +2025,22 @@
     "deco_ExaltedRedEasterHotspring_name": "Exalted Red Easter Hotspring",
     "deco_ExaltedRedEasterRuins_name": "Exalted Red Easter Ruins",
     "deco_ExaltedRedEggTree_name": "Exalted Red Guardian of Nurture",
-    "deco_ExaltedRedMarchHaresHideout_name": "Exalted Red March hares hideout"
+    "deco_ExaltedRedMarchHaresHideout_name": "Exalted Red March hares hideout",
+    "deco_ExaltedGuardianOfNurtureGreen_name": "Exalted Green Guardian of Nurture",
+    "deco_ExaltedGuardianOfNurturePurple_name": "Exalted Purple Guardian of Nurture",
+    "deco_ExaltedGuardianOfNurtureRed_name": "Exalted Red Guardian of Nurture",
+    "ci_appearance_theBrokenEggDwelling": "Broken Egg Dwelling",
+    "ci_appearance_theBrokenEggDwelling_flavor": "The scent of fresh blossoms drifts through open windows as sunlight dances across painted eggs. Guards exchange good-natured jests, weaving garlands and preparing for the season’s joyful renewal",
+    "ci_appearance_theBrokenEggGreenhouse": "Broken Egg Greenhouse",
+    "ci_appearance_theBrokenEggGreenhouse_flavor": "Inside, soldiers move among the scent of fresh soil and budding flowers, carefully tending to new life as they prepare baskets brimming with vibrant blooms and painted eggs.",
+    "ci_appearance_theBrokenEggStorehouse": "Broken Egg Storehouse",
+    "ci_appearance_theBrokenEggStorehouse_flavor": "The storehouse brims with fresh harvests, sweet treats, and colorful eggs, ensuring no celebration goes without its festive bounty.",
+    "ci_appearance_theBrokenEggTavern": "Broken Egg tavern",
+    "ci_appearance_theBrokenEggTavern_flavor": "Put a spring in your step and unwind in the Great Empires most eggselent tavern.",
+    "ci_appearance_theBrokenEggDwelling_flavour": "The scent of fresh blossoms drifts through open windows as sunlight dances across painted eggs. Guards exchange good-natured jests, weaving garlands and preparing for the season’s joyful renewal",
+    "ci_appearance_theBrokenEggGreenhouse_flavour": "Inside, soldiers move among the scent of fresh soil and budding flowers, carefully tending to new life as they prepare baskets brimming with vibrant blooms and painted eggs.",
+    "ci_appearance_theBrokenEggStorehouse_flavour": "The storehouse brims with fresh harvests, sweet treats, and colorful eggs, ensuring no celebration goes without its festive bounty.",
+    "ci_appearance_theBrokenEggTavern_flavour": "Put a spring in your step and unwind in the Great Empires most eggselent tavern."
   },
   "dialogs": {
     "dialog_festival_desc": "Use your food to hold a feast for your citizens!\nSoldiers will be recruited much more quickly in all of your castles for as long as the feast lasts. The bigger the feast, the greater the effect.",
@@ -12629,8 +12644,8 @@
     "generals_characters_120_summary": "Masterful tactician and relentless siege specialist.",
     "generals_characters_120_name": "Hasan",
     "generals_characters_120_narrative": "Master Engineer Hasan\n\n&quot;A siege is not a test of strength, it is a test of patience, precision, and inevitability.&quot;\n\nLong before Alice’s hands first grasped a wrench, before her mind began shaping the inventions that would turn the tides of war, there was Hasan, the master tactician whose very name could send defenders into a panic. The Great Empire’s most revered siege strategist, he has shattered more walls and outlasted more strongholds than history dares to count. A man of quiet wisdom and unshakable patience, Hasan does not rush to battle. He waits, he watches, and when the time is right, he strikes swift and decisive, like a blade cutting through silk.\n\nWhere others see an impenetrable fortress, Hasan sees a puzzle with a thousand solutions. Every battle is won long before the first arrow flies, every victory etched into the lines of his battle maps before the enemy even knows they are doomed. His mind, honed through years of tireless refinement, is a war engine in itself turning, calculating, and dismantling defenses piece by piece. To Hasan, a siege is not about brute force. It is about inevitability. The slow tightening of a noose, the pressure mounting with every passing hour, the whisper of surrender growing louder in the minds of those who thought themselves untouchable.\n\nYet, for all his tactical brilliance, Hasan is no stranger to the chaos of battle. Though he prefers the measured pace of strategy, he does not hesitate to meet his foes face-to-face when the moment demands it. His scimitar, kept polished but often untouched, is not for intimidation, it is a final lesson for those who mistake patience for weakness. He fights as he commands, with precision and purpose, cutting through enemy ranks as effortlessly as he dismantles their defenses. No barricade is unbreakable, no stronghold beyond his reach, and when he deems the moment right, there is nothing that will stand in his way.\n\nTo Alice, he was more than a teacher. He was proof that ingenuity and patience can break even the strongest of foes. Just as she crafts weapons of innovation, he crafts victories from the shadows of his tent, pipe smoke curling above the battlefield like the final omen of a fortress doomed to fall.\n\nWith a gaze as sharp as his blade and a mind sharper still, Hasan does not need to storm the gates. He simply waits. Because in the end, the walls will crumble, the enemy will falter, and as always he will win.",
-    "event_announcement_description_128": "As the Festival of Rebirth begins, the enigmatic Summoner of the Hollow Moon emerges, leaving behind eerie golden eggs filled with ancient magic. These Hollow Moon Eggs hold rare treasures, powerful equipment, and valuable resources. Offer them to the Summoner, unlock rewards, and climb the ranks for exclusive prizes. Will fortune favor you, or will the Hollow Moon cast its shadow?",
-    "event_announcement_header_128": "Summoning of the Hollow Moon",
+    "dialog_event_announcement_description_128": "As the Festival of Rebirth begins, the enigmatic Summoner of the Hollow Moon emerges, leaving behind eerie golden eggs filled with ancient magic. These Hollow Moon Eggs hold rare treasures, powerful equipment, and valuable resources. Offer them to the Summoner, unlock rewards, and climb the ranks for exclusive prizes. Will fortune favor you, or will the Hollow Moon cast its shadow?",
+    "dialog_event_announcement_header_128": "Summoning of the Hollow Moon",
     "event_end_description_EasterGacha": "As the festival fades and the mist recedes, the Summoner of the Hollow Moon vanishes, taking his enchanted eggs and their secrets with him. Thank you for embracing the mystery and testing your fate. Until the next eclipse…",
     "event_end_header_EasterGacha": "Summoning of the Hollow Moon End",
     "event_title_128": "Summoning of the Hollow Moon",
@@ -12687,7 +12702,10 @@
     "title_advisor_nomad": "Nomad Advisor",
     "currency_description_OfferingHasan": "Exchange with King Ludwig in the Generals Inn to get very valuable rewards. Reward draws always includes shards for Hasan. Exchanging Hasans offering can only be done for a limited time!",
     "currency_name_OfferingHasan": "Hasans Offering to Ludwig",
-    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "These are the draw chances for this patrons reward categories with the selected offering. Each category contains specific reward types, which will be randomly chosen. For each paid offering, four draws are performed, each draw has the chances listed below.\n\nDraw Chance        Reward Categories\n\n09.00%                  - Hasan shards\n\n00.50%                  - Hasans Offering to Ludwig\n\n03.00%                  - Offering to Princess Beatrice\n\n05.00%                  - Offering to Sir Ulrich\n\n08.00%                  - Offering to King Ludwig\n\n02.00%                  - Skill reset tokens\n\n03.40%                  - Equipment"
+    "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "These are the draw chances for this patrons reward categories with the selected offering. Each category contains specific reward types, which will be randomly chosen. For each paid offering, four draws are performed, each draw has the chances listed below.\n\nDraw Chance        Reward Categories\n\n09.00%                  - Hasan shards\n\n00.50%                  - Hasans Offering to Ludwig\n\n03.00%                  - Offering to Princess Beatrice\n\n05.00%                  - Offering to Sir Ulrich\n\n08.00%                  - Offering to King Ludwig\n\n02.00%                  - Skill reset tokens\n\n03.40%                  - Equipment",
+    "TITLE_EASTERGACHA": "Summoning of the Hollow Moon",
+    "intro_advisor_nomad_short": "During the Nomad Invasion, launch consecutive attacks on Nomad Camps with no downtime.",
+    "advisor_attack": "Advisor Attack"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% unit combat strength when attacking",
@@ -14025,7 +14043,9 @@
     "ci_effect_unitWallAbsoluteAmount_tt": "Unit limit on the wall:",
     "ci_effect_unitWallAbsoluteAmount": "+{0} unit limit on the wall",
     "ci_effect_unitWallAbsoluteAmountTCI": "+{0} unit limit on the wall",
-    "equip_effect_description_unitWallAbsoluteAmount": "+{0} unit limit on the wall"
+    "equip_effect_description_unitWallAbsoluteAmount": "+{0} unit limit on the wall",
+    "equip_effect_description_allianceFameBoost": "+{0}% glory points earned when attacking",
+    "equip_effect_description_allianceTravelSupportBoost": "Alliance support travel time: -{0}%"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Hero",
@@ -17374,7 +17394,7 @@
     "equipment_unique_1061_desc": "Transforms your castle into a foamy fortress.",
     "equipment_unique_1062_desc": "Transforms your castle into a foamy fortress.",
     "equip_effect_description_emptyGemSocket_name": "Empty gem slot",
-    "equip_effect_description_appearance_baron_transformationTarget": "Show off your dominance in the LTPE with this rare item, transforming your main castles, outposts, capital, or metropolis into a truly unique presence that sets you apart from other players.",
+    "equip_effect_description_appearance_baron_transformationTarget": "Transformation applies to main castles, outpost, capital and metropolis.",
     "equip_effect_description_appearance_commander_transformationTarget": "Transformation applies to marching armies in kingdoms and warships in the Storm Islands.",
     "equip_effect_description_noGemSocket_name": "No gem slot",
     "equip_effect_description_permanentAppearance": "Permanent Item",
@@ -18005,10 +18025,19 @@
     "equipment_unique_1241": "Grand Amethyst Lotus",
     "equipment_unique_1242": "Grand Amethyst Lotus",
     "equipment_unique_1243": "Grand Amethyst Lotus",
-    "equipment_unique_1263": "Easter Birdhouse",
-    "equipment_unique_1263_desc": "Unleash the cheerful spirit of the Easter Birdhouse to welcome the season of renewal. Transform your castle into a lively haven, adorned with vibrant nests and colorful Easter eggs, echoing the joy of spring’s return.",
-    "equipment_unique_1264": "Easter Fern",
-    "equipment_unique_1264_desc": "Transform your army into a force of renewal, marching beneath unfurling ferns and hidden Easter eggs, embracing the spirit of growth and celebration."
+    "equipment_unique_1263": "Frozen blossom",
+    "equipment_unique_1263_desc": "Transforms your army into a bee chariot and increases the bees claimed from successful attacks on your enemies, how can this bee?",
+    "equipment_unique_1264": "Frozen blossom",
+    "equipment_unique_1264_desc": "Transforms your army into a bee chariot and increases the bees claimed from successful attacks on your enemies, how can this bee?",
+    "equip_effect_description_appearance_baron_transformationTarget_increasedSizeLTPE": "Transformation applies to main castles, outpost, capital and metropolis. Increases your castle size on the world map.",
+    "equipment_unique_1265": "Frozen blossom",
+    "equipment_unique_1265_desc": "Transforms your army into a bee chariot and increases the bees claimed from successful attacks on your enemies, how can this bee?",
+    "equipment_unique_1266": "Gift of Spring",
+    "equipment_unique_1266_desc": "There is nothing more exciting than the promise of a bountiful spring. Transforms your castle into a majestic springtime blossom.",
+    "equipment_unique_1267": "Easter Birdhouse",
+    "equipment_unique_1267_desc": "Unleash the cheerful spirit of the Easter Birdhouse to welcome the season of renewal. Transform your castle into a lively haven, adorned with vibrant nests and colorful Easter eggs, echoing the joy of spring’s return.",
+    "equipment_unique_1268": "Easter Fern",
+    "equipment_unique_1268_desc": "Transform your army into a force of renewal, marching beneath unfurling ferns and hidden Easter eggs, embracing the spirit of growth and celebration."
   },
   "generic": {
     "activity": "Activity",
