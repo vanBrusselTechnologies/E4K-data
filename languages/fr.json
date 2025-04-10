@@ -840,7 +840,9 @@
     "advisor_AttackFailed_reason1": "Votre attaque de conseiller ne peut pas continuer. Pas assez dor pour lancer lattaque. Dautres commandants peuvent également échouer à lancer leurs attaques si les ressources ne sont pas reconstituées.",
     "advisor_AttackFailed_reason0": "Votre attaque de conseiller na pas pu se poursuivre. Vérifiez laperçu du conseiller pour plus de détails sur les ressources manquantes ou dautres problèmes empêchant lattaque.",
     "info_attack_threshold": "Vous avez atteint la limite quotidienne de 1 000 attaques. Chaque nouvelle attaque aura désormais un coût accru, augmentant de manière exponentielle.",
-    "title_attack_threshold": "Coûts dattaque augmentés"
+    "title_attack_threshold": "Coûts dattaque augmentés",
+    "info_advisor_warning_commander": "Ce type de commandant ne peut pas être utilisé pour les attaques de conseiller. Pour pouvoir lancer des attaques de conseiller, veuillez passer à un autre commandant.",
+    "title_advisor_warning_commander": "Attention !"
   },
   "buildings_and_decorations": {
     "bakery_name": "Boulangerie",
@@ -12190,7 +12192,7 @@
     "dialog_researchTower_manualsCategory16_title": "Manuels des flèches en verre de dragon",
     "dialog_researchTower_manualsCategory17_title": "Manuels des armures en écailles de dragon",
     "dialog_researchTower_manualsCategory18_title": "Manuels des flèches en écailles de dragon",
-    "webshop_decoWithEffects_FoodHoneyMeadProductionCap_desc": "Effet cap partagé entre les décorations, Ordre public +{0}, +{1} bonus à la production alimentaire par heure (max +40k), +{2} bonus à la production de miel par heure (max +40k), +{3} bonus à la production de hydromel par heure (max +400k), Taille du bâtiment {4}x{5}.",
+    "webshop_decoWithEffects_FoodHoneyMeadProductionCap_desc": "Capacité deffet partagée entre les décorations, Ordre public +{0}, +{1} bonus à la production de nourriture par heure (max. +50k), +{2} bonus à la production de miel par heure (max. +50k), +{3} bonus à la production dhydromel par heure (max. +500k), Taille du bâtiment {4}x{5}.",
     "webshop_decoWithEffects_XP2BarrowsCapacity_desc": "Effet partagé entre les décorations, Ordre public +{0}, +{1}% dXP supplémentaire obtenu en combattant, +{2}% dXP supplémentaire obtenu en construisant, +{3} bonus à la capacité des barrows de marché, Taille du bâtiment {4}x{5}.",
     "webshop_FruitPirate_desc": "Attaquant de mêlée estival exceptionnellement puissant avec une force dattaque de {0}",
     "webshop_SummerHuntress_desc": "Attaquant à distance dété exceptionnellement puissant avec une force dattaque de {0}",
@@ -12675,7 +12677,7 @@
     "attack_standard": "Attaque standard",
     "attack_amount": "Nombre dattaques :",
     "attack_setUp": "Configurez vos attaques !",
-    "button_SelectCamp": "Sélectionnez le camp nomade",
+    "button_SelectCamp_nomad": "Sélectionnez le camp nomade",
     "button_activateAdvisor": "Activer le conseiller",
     "button_attackAdvisor": "Attaque du conseiller",
     "button_buyToken": "Acheter un token",
@@ -12705,7 +12707,22 @@
     "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "Voici les chances de tirage pour les catégories de récompenses de ce patron avec loffre sélectionnée. Chaque catégorie contient des types de récompenses spécifiques, qui seront choisis au hasard. Pour chaque offre payante, quatre tirages sont effectués, chaque tirage a les chances indiquées ci-dessous.\n\nChance de tirage        Catégories de récompenses\n\n09.00%                  - Fragments de Hasan\n\n00.50%                  - LOffre de Hasan à Ludwig\n\n03.00%                  - Offre à la Princesse Béatrice\n\n05.00%                  - Offre à Sir Ulrich\n\n08.00%                  - Offre au Roi Ludwig\n\n02.00%                  - Jetons de réinitialisation des compétences\n\n03.40%                  - Équipement",
     "TITLE_EASTERGACHA": "Invocation de la Lune Creuse",
     "intro_advisor_nomad_short": "Pendant linvasion des nomades, lancez des attaques consécutives sur les camps nomades sans temps darrêt.",
-    "advisor_attack": "Attaque de lAdvisor"
+    "advisor_attack": "Attaque de lAdvisor",
+    "dialog_privateOffer_conversion_1": "Démarrage du Maître Bâtisseur",
+    "dialog_privateOffer_conversion_2": "Pack davantages de larchitecte",
+    "dialog_privateOffer_conversion_3": "Ensemble de plans de lEmpire",
+    "webshop_conversion_large_name": "Ensemble de plans de lEmpire",
+    "webshop_conversion_medium_name": "Pack davantages de larchitecte",
+    "webshop_conversion_small_name": "Démarrage du Maître Bâtisseur",
+    "webshop_decoWithEffects_RecSpeedToolProdRecCostCap_desc": "Effet cap partagé entre les décorations, Ordre public +{0}, +{1}% bonus à la vitesse de recrutement (max. +4k%), +{2}% bonus à la vitesse de production doutils (max. 400%), -{3}% réduction du coût en pièces pour le recrutement (max. 20%), Taille du bâtiment {4}x{5}.",
+    "webshop_decoWithEffects_WallDefCourtDefCourtAllCap_desc": "Nombre max {0}, plafond deffet partagé entre les décorations, Ordre public +{1}, +{2}% de bonus à la capacité des troupes de défense des murs (max 150%), +{3}% de bonus à la force dans la cour lors de la défense (max +120%), +{4} bonus à la capacité des troupes de défense dans la cour (max +150k), Taille du bâtiment {5}x{6}.",
+    "webshop_summoningcircle_VIP_name": "Cercle dInvocation VIP",
+    "webshop_summoningcircle_extralarge_name": "Cercle dinvocation extra large",
+    "webshop_summoningcircle_giant_name": "Cercle dinvocation géant",
+    "webshop_summoningcircle_huge_name": "Grand cercle dinvocation",
+    "webshop_summoningcircle_large_name": "Grand cercle dinvocation",
+    "webshop_summoningcircle_medium_name": "Cercle dinvocation moyen",
+    "webshop_summoningcircle_small_name": "Petit cercle dinvocation"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% de force de combat de lunité lors de lattaque",
@@ -18034,10 +18051,10 @@
     "equipment_unique_1265_desc": "Transforme votre armée en un char dabeilles et augmente le nombre dabeilles obtenues lors des attaques réussies contre vos ennemis, comment cela peut-il être?",
     "equipment_unique_1266": "Cadeau de printemps",
     "equipment_unique_1266_desc": "Il ny a rien de plus excitant que la promesse dun printemps généreux. Transformez votre château en une majestueuse fleur printanière.",
-    "equipment_unique_1267": "Nichoir de Pâques",
-    "equipment_unique_1267_desc": "Libérez lesprit joyeux de la maison doiseaux de Pâques pour accueillir la saison du renouveau. Transformez votre château en un refuge vivant, orné de nids colorés et dœufs de Pâques colorés, résonnant avec la joie du retour du printemps.",
-    "equipment_unique_1268": "Fougère de Pâques",
-    "equipment_unique_1268_desc": "Transformez votre armée en une force de renouveau, marchant sous des fougères déployées et des œufs de Pâques cachés, embrassant lesprit de croissance et de célébration."
+    "equipment_unique_1267": "Fougère de Pâques",
+    "equipment_unique_1267_desc": "Transformez votre armée en une force de renouveau, marchant sous des fougères déployées et des œufs de Pâques cachés, embrassant lesprit de croissance et de célébration.",
+    "equipment_unique_1268": "Nid doiseau de Pâques",
+    "equipment_unique_1268_desc": "Libérez lesprit joyeux du nid de Pâques pour accueillir la saison du renouveau. Transformez votre château en un havre animé, orné de nids vibrants et dœufs de Pâques colorés, faisant écho à la joie du retour du printemps."
   },
   "generic": {
     "activity": "Activité",
@@ -20478,10 +20495,10 @@
     "help_defense_icon_allianceDefenseUnitAmount": "Le nombre de soldats et la capacité en troupes totale du soutien dalliance dans le donjon de votre château. Les membres de lalliance peuvent envoyer des soldats pour soutenir votre défense. Toutes les troupes qui dépassent la limite de capacité sont placées en réserve et ne participent pas au combat.",
     "help_travelPlanning_autoCooldownSkip": "Ici, vous pouvez choisir un moyen de transport pour augmenter la vitesse de déplacement. Leffet et le coût dépendent de votre choix. Vous pouvez également ralentir les unités sélectionnées afin quelles arrivent au moment où vous le souhaitez.\n\nActivez laccélération automatique pour passer instantanément un temps de recharge actif lorsque larmée arrive à destination. Les accélérateurs nécessaires sont directement prélevés de votre inventaire à larrivée. Toute utilisation daccélérateur excédentaire vous est remboursée.",
     "advisor_speechBubble_nomad": "Un vrai guerrier nhésite jamais. Forgé dans les steppes, je sais que seuls les rapides survivent. Avec mon aide, tes forces frappent sans relâche — pas dattente, pas de pitié, seulement la victoire.",
-    "description_advisorInformation_nomad": "Temujin Mergen, le Guide, autrefois un seigneur de guerre redouté, offre maintenant son expertise inégalée sur le champ de bataille à votre cause. Pendant lévénement dinvasion des Nomades, il donne à vos forces le pouvoir de lancer plusieurs attaques consécutives sur des camps nomades, frappant sans relâche et ne laissant aucune chance à lennemi de se rétablir. Appelez votre conseiller, planifiez des attaques massives et dominez le champ de bataille.\n\nActivez le conseiller nomade en utilisant un contrat de conseiller ou le sceau du Guide, puis utilisez lattaque du conseiller pour libérer une série de frappes coordonnées avec la formation et le commandant sélectionnés. Un saut automatique pour les temps dattente est appliqué, garantissant une exécution fluide. Cependant, lassaut cessera si le commandant est vaincu ou si lune des conditions suivantes est remplie :\n\n- Or insuffisant – Lattaque ne peut pas être envoyée en raison dun manque dor. Dautres commandants peuvent également échouer à lancer leurs attaques.\n- Rubis ou plumes insuffisants – Lattaque ne peut pas être envoyée en raison dun manque de rubis ou de plumes. Dautres commandants peuvent également échouer à lancer leurs attaques.\n- Unités et/ou outils insuffisants – Lattaque ne peut pas être envoyée en raison dun manque dunités ou doutils requis. Dautres commandants peuvent également échouer à lancer leurs attaques.\n- Temps de saut insuffisant – Les attaques ne peuvent pas être complétées en raison dun manque de temps de saut. Les temps dattente futurs ne peuvent pas être sautés, obligeant les commandants à se retirer.\n\nFrappez rapidement, maintenez vos forces et assurez-vous que la stratégie du Guide vous mène à la victoire.",
     "info_attackAdvisor": "Utilisez lattaque de l’Advisor pour lancer des frappes consécutives avec la formation et le commandant choisis. Le saut automatique sapplique. En cas déchec ou de défaite, le commandant se retire, annulant les attaques restantes. Sans ressources, l’attaque ne démarre pas.",
     "info_battleMessage": "Envoyez un rapport de bataille pour chaque attaque",
-    "intro_advisor_nomad": "Temujin Mergen, le Pionnier, apporte son expertise à votre cause. Pendant lInvasion Nomade, lancez des attaques consécutives sur les Camps Nomades sans temps darrêt."
+    "intro_advisor_nomad": "Temujin Mergen, le Pionnier, apporte son expertise à votre cause. Pendant lInvasion Nomade, lancez des attaques consécutives sur les Camps Nomades sans temps darrêt.",
+    "description_advisorInformation_nomad": "Temujin Mergen, le Pisteur, autrefois un seigneur de guerre redouté, offre désormais son expertise inégalée sur le champ de bataille à votre cause. Pendant lÉvénement dInvasion Nomade, il renforce vos forces pour lancer plusieurs attaques consécutives sur les Camps Nomades, frappant sans relâche et ne laissant aucune chance à lennemi de se rétablir. Faites appel à votre conseiller, planifiez des assauts massifs et dominez le champ de bataille.\n\nActivez le Conseiller Nomade en utilisant un Contrat de Conseiller ou le Sceau du Pisteur, puis utilisez lAttaque du Conseiller pour déclencher une série de frappes coordonnées avec la formation et le commandant sélectionnés. Le saut automatique pour les temps de recharge est appliqué, garantissant une exécution sans faille. Cependant, lassaut cessera si le commandant est vaincu ou si lune des conditions suivantes est remplie :\n\nOr insuffisant – Lattaque ne peut pas être envoyée en raison dun manque dor. Dautres commandants peuvent également échouer à lancer leurs attaques.\nRubis ou plumes insuffisants – Lattaque ne peut pas être envoyée en raison dun manque de rubis ou de plumes. Dautres commandants peuvent également échouer à lancer leurs attaques.\nUnités et/ou outils insuffisants – Lattaque ne peut pas être envoyée en raison dun manque dunités ou doutils requis. Dautres commandants peuvent également échouer à lancer leurs attaques.\nTemps de sauts insuffisants – Les attaques ne peuvent pas être complétées en raison dun manque de sauts dans le temps. Les futurs temps de recharge peuvent ne pas être sautés, forçant les commandants à se retirer.\n\nLes commandants Premium et VIP ne peuvent pas être utilisés pour les Attaques Conseillers. Frappez rapidement, soutenez vos forces et assurez-vous que la stratégie du Pisteur vous mène à la victoire."
   },
   "playertitles": {
     "playerTitle_50_jap": "Roi des orages",

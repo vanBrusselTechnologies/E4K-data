@@ -2519,7 +2519,7 @@ export interface Package {
     "packagePriceStone"?: number;
     "packagePriceWood"?: number;
     "packageType": string;
-    "relationIDs"?: number | string;
+    "relationIDs": number | string;
     "relicEquipments"?: string;
     "rewardBags"?: number | string;
     "sortOrder"?: number;

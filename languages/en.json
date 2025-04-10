@@ -840,7 +840,9 @@
     "advisor_AttackFailed_reason1": "Your Advisor attack cannot continue.\nNot enough Gold to launch the attack. Other commanders may also fail to launch their attacks if the resources are not replenished.",
     "advisor_AttackFailed_reason0": "Your Advisor attack could not proceed. Check the Advisor Overview for details on missing resources or other issues preventing the attack.",
     "info_attack_threshold": "Youve hit the daily limit of 1,000 attacks. Each new attack will now have an increased cost, rising exponentially.",
-    "title_attack_threshold": "Increased Attack Costs"
+    "title_attack_threshold": "Increased Attack Costs",
+    "info_advisor_warning_commander": "This type of commander cant be used for Advisor Attacks. To be able to launch Advisor Attacks, please switch to a different commander.",
+    "title_advisor_warning_commander": "Attention!"
   },
   "buildings_and_decorations": {
     "bakery_name": "Bakery",
@@ -12190,7 +12192,7 @@
     "dialog_researchTower_manualsCategory16_title": "Dragon glass arrows manuals",
     "dialog_researchTower_manualsCategory17_title": "Dragon scale armor manuals",
     "dialog_researchTower_manualsCategory18_title": "Dragon scale arrows manuals",
-    "webshop_decoWithEffects_FoodHoneyMeadProductionCap_desc": "Effect cap shared across decorations, Public Order +{0}, +{1} bonus to food production per hour (max +40k), +{2} bonus to honey production per hour (max +40k), +{3} bonus to mead production per hour (max +400k), Building size {4}x{5}.",
+    "webshop_decoWithEffects_FoodHoneyMeadProductionCap_desc": "Effect cap shared across decorations, Public Order +{0}, +{1} bonus to food production per hour (max +50k), +{2} bonus to honey production per hour (max +50k), +{3} bonus to mead production per hour (max +500k), Building size {4}x{5}.",
     "webshop_decoWithEffects_XP2BarrowsCapacity_desc": "Effect cap shared across decorations, Public Order +{0}, +{1}% increased XP obtained from fighting, +{2}% increased XP obtained from building, +{3} bonus to market barrows capacity, Building size {4}x{5}.",
     "webshop_FruitPirate_desc": "Outstandingly powerful summertime melee attacker with an attack strength of {0}",
     "webshop_SummerHuntress_desc": "Outstandingly powerful summertime ranged attacker with an attack strength of {0}",
@@ -12675,7 +12677,7 @@
     "attack_standard": "Standard Attack",
     "attack_amount": "Amount of Attacks:",
     "attack_setUp": "Set up your attacks!",
-    "button_SelectCamp": "Select Nomad Camp",
+    "button_SelectCamp_nomad": "Select Nomad Camp",
     "button_activateAdvisor": "Activate Advisor",
     "button_attackAdvisor": "Advisor Attack",
     "button_buyToken": "Buy Token",
@@ -12705,7 +12707,22 @@
     "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "These are the draw chances for this patrons reward categories with the selected offering. Each category contains specific reward types, which will be randomly chosen. For each paid offering, four draws are performed, each draw has the chances listed below.\n\nDraw Chance        Reward Categories\n\n09.00%                  - Hasan shards\n\n00.50%                  - Hasans Offering to Ludwig\n\n03.00%                  - Offering to Princess Beatrice\n\n05.00%                  - Offering to Sir Ulrich\n\n08.00%                  - Offering to King Ludwig\n\n02.00%                  - Skill reset tokens\n\n03.40%                  - Equipment",
     "TITLE_EASTERGACHA": "Summoning of the Hollow Moon",
     "intro_advisor_nomad_short": "During the Nomad Invasion, launch consecutive attacks on Nomad Camps with no downtime.",
-    "advisor_attack": "Advisor Attack"
+    "advisor_attack": "Advisor Attack",
+    "dialog_privateOffer_conversion_1": "Master Builder’s Kickstart",
+    "dialog_privateOffer_conversion_2": "Architect’s Advantage Pack",
+    "dialog_privateOffer_conversion_3": "Empire Blueprint Bundle",
+    "webshop_conversion_large_name": "Empire Blueprint Bundle",
+    "webshop_conversion_medium_name": "Architect’s Advantage Pack",
+    "webshop_conversion_small_name": "Master Builder’s Kickstart",
+    "webshop_decoWithEffects_RecSpeedToolProdRecCostCap_desc": "Effect cap shared across decorations, Public Order +{0}, +{1}% bonus to recruitment speed (max +4k%), +{2}% bonus to tool production speed (max 400%), +{3}% reduction of recruitment coin cost (max 20%), Building size {4}x{5}.",
+    "webshop_decoWithEffects_WallDefCourtDefCourtAllCap_desc": "Max count {0}, effect cap shared across decorations, Public Order +{1}, +{2}% bonus to wall defence troops capacity (max 150%), +{3}% bonus to strength in courtyard when defending (max +120%), +{4} bonus to courtyard defense troops capacity (max +150k), Building size {5}x{6}.",
+    "webshop_summoningcircle_VIP_name": "VIP Summoning Circle",
+    "webshop_summoningcircle_extralarge_name": "Extra Large Summoning Circle",
+    "webshop_summoningcircle_giant_name": "Giant Summoning Circle",
+    "webshop_summoningcircle_huge_name": "Huge Summoning Circle",
+    "webshop_summoningcircle_large_name": "Large Summoning Circle",
+    "webshop_summoningcircle_medium_name": "Medium Summoning Circle",
+    "webshop_summoningcircle_small_name": "Small Summoning Circle"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% unit combat strength when attacking",
@@ -18034,10 +18051,10 @@
     "equipment_unique_1265_desc": "Transforms your army into a bee chariot and increases the bees claimed from successful attacks on your enemies, how can this bee?",
     "equipment_unique_1266": "Gift of Spring",
     "equipment_unique_1266_desc": "There is nothing more exciting than the promise of a bountiful spring. Transforms your castle into a majestic springtime blossom.",
-    "equipment_unique_1267": "Easter Birdhouse",
-    "equipment_unique_1267_desc": "Unleash the cheerful spirit of the Easter Birdhouse to welcome the season of renewal. Transform your castle into a lively haven, adorned with vibrant nests and colorful Easter eggs, echoing the joy of spring’s return.",
-    "equipment_unique_1268": "Easter Fern",
-    "equipment_unique_1268_desc": "Transform your army into a force of renewal, marching beneath unfurling ferns and hidden Easter eggs, embracing the spirit of growth and celebration."
+    "equipment_unique_1267": "Easter Fern",
+    "equipment_unique_1267_desc": "Transform your army into a force of renewal, marching beneath unfurling ferns and hidden Easter eggs, embracing the spirit of growth and celebration.",
+    "equipment_unique_1268": "Easter Birdnest",
+    "equipment_unique_1268_desc": "Unleash the cheerful spirit of the Easter Birdnest to welcome the season of renewal. Transform your castle into a lively haven, adorned with vibrant nests and colorful Easter eggs, echoing the joy of spring’s return."
   },
   "generic": {
     "activity": "Activity",
@@ -20478,10 +20495,10 @@
     "help_defense_icon_allianceDefenseUnitAmount": "The number of soldiers and total troop capacity for the alliance support in your castle keep. Alliance members can send soldiers to support your defense. All troops exceeding the support capacity limit are placed in the reserve and do not participate in battle.",
     "help_travelPlanning_autoCooldownSkip": "Here you can choose a mode of transportation to increase travel speed. The effect and costs depend on what you choose. You can also slow down the selected units so that they arrive exactly when you need them to.\n\nActivate auto skip to instantly skip an active cooldown when the army arrives at the target. The required time skips are directly taken from your stocks upon arrival. Any excess time skip value is payed back in form of time skips.",
     "advisor_speechBubble_nomad": "A true warrior never hesitates. Forged in the steppes, I know only the swift survive. With my guidance, your forces strike relentlessly—no waiting, no mercy, only victory.",
-    "description_advisorInformation_nomad": "Temujin Mergen, the Pathfinder, once a feared warlord, now offers his unmatched battlefield expertise to your cause. During the Nomad Invasion Event, he empowers your forces to launch multiple consecutive attacks on Nomad Camps, striking relentlessly and leaving no room for the enemy to recover. Call upon your advisor, plan bulk assaults, and dominate the battlefield.\n\nActivate the Nomad Advisor using an Advisor Contract or the Pathfinder’s Seal, then use Advisor Attack to unleash a series of coordinated strikes with the selected formation and commander. Auto-skip for cooldowns is applied, ensuring seamless execution. However, the assault will cease if the commander is defeated or if any of the following conditions are met:\n\nInsufficient Gold – Attack cannot be sent due to a lack of Gold. Other commanders may also fail to launch their attacks.\nInsufficient Rubies or Feathers – Attack cannot be sent due to a lack of Rubies or Feathers. Other commanders may also fail to launch their attacks.\nInsufficient Units and/or Tools – Attack cannot be sent due to a lack of required units or tools. Other commanders may also fail to launch their attacks.\nInsufficient Time Skips – Attacks cannot be completed due to a lack of Time Skips. Future cooldowns may not be skipped, forcing commanders to retreat.\n\nStrike swiftly, sustain your forces, and ensure the Pathfinder’s strategy leads you to victory.",
     "info_attackAdvisor": "Use Advisor Attack to launch consecutive attacks with the chosen formation and commander. Auto-skip for cooldowns automatically applies. If an attack fails or the commander is defeated, they retreat, cancelling remaining attacks. If required resources run out, the next attack won’t start.",
     "info_battleMessage": "Send a Battle Report for each attack",
-    "intro_advisor_nomad": "Temujin Mergen, the Pathfinder, brings his expertise to your cause. During the Nomad Invasion, launch consecutive attacks on Nomad Camps with no downtime."
+    "intro_advisor_nomad": "Temujin Mergen, the Pathfinder, brings his expertise to your cause. During the Nomad Invasion, launch consecutive attacks on Nomad Camps with no downtime.",
+    "description_advisorInformation_nomad": "Temujin Mergen, the Pathfinder, once a feared warlord, now offers his unmatched battlefield expertise to your cause. During the Nomad Invasion Event, he empowers your forces to launch multiple consecutive attacks on Nomad Camps, striking relentlessly and leaving no room for the enemy to recover. Call upon your advisor, plan bulk assaults, and dominate the battlefield.\n\nActivate the Nomad Advisor using an Advisor Contract or the Pathfinder’s Seal, then use Advisor Attack to unleash a series of coordinated strikes with the selected formation and commander. Auto-skip for cooldowns is applied, ensuring seamless execution. However, the assault will cease if the commander is defeated or if any of the following conditions are met:\n\nInsufficient Gold – Attack cannot be sent due to a lack of Gold. Other commanders may also fail to launch their attacks.\nInsufficient Rubies or Feathers – Attack cannot be sent due to a lack of Rubies or Feathers. Other commanders may also fail to launch their attacks.\nInsufficient Units and/or Tools – Attack cannot be sent due to a lack of required units or tools. Other commanders may also fail to launch their attacks.\nInsufficient Time Skips – Attacks cannot be completed due to a lack of Time Skips. Future cooldowns may not be skipped, forcing commanders to retreat.\n\nPremium and VIP Commanders cannot be used for the Advisor Attacks.\nStrike swiftly, sustain your forces, and ensure the Pathfinder’s strategy leads you to victory."
   },
   "playertitles": {
     "playerTitle_50_jap": "Storm Lord",

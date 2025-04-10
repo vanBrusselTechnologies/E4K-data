@@ -840,7 +840,9 @@
     "advisor_AttackFailed_reason1": "Ihr Beraterangriff kann nicht fortgesetzt werden. Nicht genug Gold, um den Angriff zu starten. Andere Kommandanten könnten ebenfalls scheitern, ihre Angriffe zu starten, wenn die Ressourcen nicht aufgefüllt werden.",
     "advisor_AttackFailed_reason0": "Ihr Beraterangriff konnte nicht fortgesetzt werden. Überprüfen Sie die Übersicht des Beraters auf Details zu fehlenden Ressourcen oder anderen Problemen, die den Angriff verhindern.",
     "info_attack_threshold": "Sie haben das tägliche Limit von 1000 Angriffen erreicht. Jeder neue Angriff wird jetzt höhere Kosten verursachen, die exponentiell steigen.",
-    "title_attack_threshold": "Erhöhte Angriffskosten"
+    "title_attack_threshold": "Erhöhte Angriffskosten",
+    "info_advisor_warning_commander": "Dieser Typ Kommandant kann nicht für Beraterangriffe verwendet werden. Um Beraterangriffe starten zu können, wechseln Sie bitte zu einem anderen Kommandanten.",
+    "title_advisor_warning_commander": "Achtung!"
   },
   "buildings_and_decorations": {
     "bakery_name": "Bäckerei",
@@ -12190,7 +12192,7 @@
     "dialog_researchTower_manualsCategory16_title": "Drachen-Glaspfeil-Handbücher",
     "dialog_researchTower_manualsCategory17_title": "Handbücher für Drachen Schuppenrüstung",
     "dialog_researchTower_manualsCategory18_title": "Handbücher für Drachen Schuppenpfeile",
-    "webshop_decoWithEffects_FoodHoneyMeadProductionCap_desc": "Effektkappe, die über Dekorationen geteilt wird, Öffentliche Ordnung +{0}, +{1} Bonus auf die Nahrungsproduktion pro Stunde (max. +40k), +{2} Bonus auf die Honigproduktion pro Stunde (max. +40k), +{3} Bonus auf die Metproduktion pro Stunde (max. +400k), Gebäudegröße {4}x{5}.",
+    "webshop_decoWithEffects_FoodHoneyMeadProductionCap_desc": "Effektkapazität, die über Dekorationen geteilt wird, Öffentliche Ordnung +{0}, +{1} Bonus auf die Lebensmittelproduktion pro Stunde (max. +50k), +{2} Bonus auf die Honigproduktion pro Stunde (max. +50k), +{3} Bonus auf die Metproduktion pro Stunde (max. +500k), Gebäudegröße {4}x{5}.",
     "webshop_decoWithEffects_XP2BarrowsCapacity_desc": "Effekt, der deles mellem dekorationer, Öffentliche Ordnung +{0}, +{1}% erhöhte XP aus Kämpfen, +{2}% erhöhte XP aus dem Bau, +{3} Bonus für die Kapazität der Marktbarrow, Gebäudgröße {4}x{5}.",
     "webshop_FruitPirate_desc": "Außergewöhnlich starker Sommer-Nahkampf-Angreifer mit einer Angriffsstärke von {0}",
     "webshop_SummerHuntress_desc": "Außergewöhnlich starke Sommer-Fernkämpferin mit einer Angriffsstärke von {0}",
@@ -12675,7 +12677,7 @@
     "attack_standard": "Standardangriff",
     "attack_amount": "Anzahl der Angriffe:",
     "attack_setUp": "Richten Sie Ihre Angriffe ein!",
-    "button_SelectCamp": "Wählen Sie das Nomadenlager",
+    "button_SelectCamp_nomad": "Wählen Sie das Nomadenlager",
     "button_activateAdvisor": "Berater aktivieren",
     "button_attackAdvisor": "Beraterangriff",
     "button_buyToken": "Token kaufen",
@@ -12705,7 +12707,22 @@
     "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "Dies sind die Ziehchancen für die Belohnungskategorien dieses Patrons mit dem ausgewählten Angebot. Jede Kategorie enthält spezifische Belohnungstypen, die zufällig ausgewählt werden. Für jedes bezahlte Angebot werden vier Ziehungen durchgeführt, jede Ziehung hat die Chancen, die unten aufgeführt sind.\n\nZiehchance        Belohnungskategorien\n\n09.00%                  - Hasan-Scherben\n\n00.50%                  - Hasans Angebot an Ludwig\n\n03.00%                  - Angebot an Prinzessin Beatrice\n\n05.00%                  - Angebot an Sir Ulrich\n\n08.00%                  - Angebot an König Ludwig\n\n02.00%                  - Tokens für Fähigkeitsrücksetzung\n\n03.40%                  - Ausrüstung",
     "TITLE_EASTERGACHA": "Beschwörung des Hohlen Mondes",
     "intro_advisor_nomad_short": "Während der Nomadeninvasion führen Sie aufeinanderfolgende Angriffe auf Nomadenlager ohne Pause durch.",
-    "advisor_attack": "Beraterangriff"
+    "advisor_attack": "Beraterangriff",
+    "dialog_privateOffer_conversion_1": "Kickstart des Meisterbauers",
+    "dialog_privateOffer_conversion_2": "Architekten Vorteils-Paket",
+    "dialog_privateOffer_conversion_3": "Imperium Bauplan Bundle",
+    "webshop_conversion_large_name": "Imperium Bauplan Bundle",
+    "webshop_conversion_medium_name": "Architekten Vorteils-Paket",
+    "webshop_conversion_small_name": "Kickstart des Meisterbauers",
+    "webshop_decoWithEffects_RecSpeedToolProdRecCostCap_desc": "Effekt-Kappe, die über Dekorationen geteilt wird, Öffentliche Ordnung +{0}, +{1}% Bonus auf Rekrutierungsgeschwindigkeit (max. +4k%), +{2}% Bonus auf Werkzeugproduktionsgeschwindigkeit (max. 400%), -{3}% Reduzierung der Rekrutierungskosten (max. 20%), Gebäudgröße {4}x{5}.",
+    "webshop_decoWithEffects_WallDefCourtDefCourtAllCap_desc": "Max-Anzahl {0}, Effektgrenze geteilt über Dekorationen, Öffentliche Ordnung +{1}, +{2}% Bonus auf die Kapazität der Truppen zur Wandverteidigung (max. 150%), +{3}% Bonus auf die Stärke im Innenhof während der Verteidigung (max. +120%), +{4} Bonus zur Kapazität der Truppen zur Innenhofverteidigung (max. +150k), Gebäudegröße {5}x{6}.",
+    "webshop_summoningcircle_VIP_name": "VIP Beschwörungskreis",
+    "webshop_summoningcircle_extralarge_name": "Extra großer Beschwörungszirkel",
+    "webshop_summoningcircle_giant_name": "Gigantischer Beschwörungsring",
+    "webshop_summoningcircle_huge_name": "Riesiger Beschwörungszirkel",
+    "webshop_summoningcircle_large_name": "Großer Beschwörungsring",
+    "webshop_summoningcircle_medium_name": "Mittlerer Beschwörungsring",
+    "webshop_summoningcircle_small_name": "Kleiner Beschwörungskreis"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% Einheit Kampfkraft beim Angreifen",
@@ -18034,10 +18051,10 @@
     "equipment_unique_1265_desc": "Verwandelt deine Armee in einen Bienenwagen und erhöht die Anzahl der Bienen, die aus erfolgreichen Angriffen auf deine Feinde gewonnen werden. Wie kann das sein?",
     "equipment_unique_1266": "Frühlingsgeschenk",
     "equipment_unique_1266_desc": "Nichts ist aufregender als das Versprechen eines üppigen Frühlings. Verwandle dein Schloss in eine majestätische Frühlingsblüte.",
-    "equipment_unique_1267": "Oster Vogelhaus",
-    "equipment_unique_1267_desc": "Entfesseln Sie den fröhlichen Geist des Oster-Vogelhauses, um die Saison der Erneuerung willkommen zu heißen. Verwandeln Sie Ihr Schloss in einen lebhaften Zufluchtsort, geschmückt mit bunten Nestern und farbenfrohen Ostereiern, die die Freude über die Rückkehr des Frühlings widerspiegeln.",
-    "equipment_unique_1268": "Osterfarn",
-    "equipment_unique_1268_desc": "Verwandle deine Armee in eine Kraft der Erneuerung, die unter sich entfaltetenden Farnen und versteckten Ostereiern marschiert und den Geist von Wachstum und Feierlichkeiten umarmt."
+    "equipment_unique_1267": "Osterfarn",
+    "equipment_unique_1267_desc": "Verwandle deine Armee in eine Kraft der Erneuerung, die unter sich entfaltenden Farnen und versteckten Ostereiern marschiert und den Geist von Wachstum und Feierlichkeit umarmt.",
+    "equipment_unique_1268": "Oster-Vogelnest",
+    "equipment_unique_1268_desc": "Entfesseln Sie den fröhlichen Geist des Oster-Vogelnests, um die Saison der Erneuerung willkommen zu heißen. Verwandeln Sie Ihr Schloss in ein lebhaftes Refugium, geschmückt mit lebhaften Nestern und bunten Ostereiern, die die Freude über die Rückkehr des Frühlings widerspiegeln."
   },
   "generic": {
     "activity": "Aktivität",
@@ -20478,10 +20495,10 @@
     "help_defense_icon_allianceDefenseUnitAmount": "Die Anzahl der Soldaten und der gesamten Truppenkapazität für die Allianzunterstützung in Eurem Bergfried. Allianzmitglieder können Soldaten zur Unterstützung Eurer Verteidigung schicken. Alle Truppen, die die Unterstützungskapazität übersteigen, gelten als Reserve und nehmen nicht am Kampf teil.",
     "help_travelPlanning_autoCooldownSkip": "Hier könnt Ihr eine Transportmethode wählen, um das Reisetempo zu erhöhen. Effekt und Kosten hängen von Eurer Wahl ab. Ihr könnt die gewählten Einheiten auch verlangsamen, damit sie genau dann eintreffen, wenn Ihr sie braucht.\n\nAktiviert automatische Beschleuniger, um einen aktiven Cooldown sofort zu überspringen, wenn eine Armee ihr Ziel erreicht. Die erforderlichen Beschleuniger werden bei Eurer Ankunft aus Eurem Vorrat genommen. Überschüssige Beschleunigerwerte werden in Form von Beschleunigern rückerstattet.",
     "advisor_speechBubble_nomad": "Ein wahrer Krieger zögert niemals. Geschmiedet in den Steppen weiß ich, dass nur die Schnellen überleben. Mit meiner Anleitung schlagen deine Truppen unermüdlich zu – kein Warten, keine Gnade, nur Sieg.",
-    "description_advisorInformation_nomad": "Temujin Mergen, der Pfadfinder, einst ein gefürchteter Warlord, bietet jetzt sein unvergleichliches Fachwissen auf dem Schlachtfeld für Ihre Sache an. Während des Nomadeninvasionsereignisses ermächtigt er Ihre Truppen, mehrere aufeinanderfolgende Angriffe auf Nomadenlager zu starten, unermüdlich zuzuschlagen und dem Feind keinen Raum zum Erholen zu lassen. Rufen Sie Ihren Berater an, planen Sie Großangriffe und dominieren Sie das Schlachtfeld.\n\nAktivieren Sie den Nomadenberater mit einem Beratervertrag oder dem Siegel des Pfadfinders und nutzen Sie dann den Beraterangriff, um eine Reihe koordinierter Angriffe mit der gewählten Formation und dem Kommandanten freizusetzen. Eine automatische Überspringung der Abkühlzeiten wird angewendet, um eine nahtlose Ausführung zu gewährleisten. Der Angriff wird jedoch eingestellt, wenn der Kommandant besiegt wird oder wenn eine der folgenden Bedingungen erfüllt ist:\n\n- Unzureichendes Gold – Der Angriff kann aufgrund von Goldmangel nicht gesendet werden. Andere Kommandanten könnten ebenfalls scheitern, ihre Angriffe zu starten.\n- Unzureichende Rubine oder Federn – Der Angriff kann aufgrund von Mangel an Rubinen oder Federn nicht gesendet werden. Andere Kommandanten könnten ebenfalls scheitern, ihre Angriffe zu starten.\n- Unzureichende Einheiten und/oder Werkzeuge – Der Angriff kann aufgrund von Mangel an erforderlichen Einheiten oder Werkzeugen nicht gesendet werden. Andere Kommandanten könnten ebenfalls scheitern, ihre Angriffe zu starten.\n- Unzureichende Zeitüberspringungen – Angriffe können aufgrund von Mangel an Zeitüberspringungen nicht abgeschlossen werden. Zukünftige Abkühlzeiten können nicht übersprungen werden, was die Kommandanten zwingt, sich zurückzuziehen.\n\nSchlagen Sie schnell zu, erhalten Sie Ihre Kräfte und stellen Sie sicher, dass die Strategie des Pfadfinders Sie zum Sieg führt.",
     "info_attackAdvisor": "Verwenden Sie den Beraterangriff für aufeinanderfolgende Angriffe mit gewählter Formation und Kommandant. Auto-Überspringen wird angewendet. Bei Fehlschlag oder Niederlage zieht sich der Kommandant zurück und bricht verbleibende Angriffe ab. Fehlen Ressourcen, startet kein weiterer Angriff.",
     "info_battleMessage": "Sende einen Kampfbericht für jeden Angriff",
-    "intro_advisor_nomad": "Temujin Mergen, der Wegbereiter, bringt sein Fachwissen in Ihre Sache ein. Während der Nomadeninvasion führen Sie aufeinanderfolgende Angriffe auf Nomadenlager ohne Unterbrechung durch."
+    "intro_advisor_nomad": "Temujin Mergen, der Wegbereiter, bringt sein Fachwissen in Ihre Sache ein. Während der Nomadeninvasion führen Sie aufeinanderfolgende Angriffe auf Nomadenlager ohne Unterbrechung durch.",
+    "description_advisorInformation_nomad": "Temujin Mergen, der Pfadfinder, einst ein gefürchteter Warlord, bietet nun sein unvergleichliches Fachwissen auf dem Schlachtfeld für deine Sache an. Während des Nomadeninvasions-Events stärkt er deine Truppen, um mehrere aufeinanderfolgende Angriffe auf Nomadenlager zu starten, unermüdlich zuschlagend und dem Feind keinen Raum zur Erholung lassend. Rufe deinen Berater, plane Massenausfälle und dominiere das Schlachtfeld.\n\nAktiviere den Nomadenberater mit einem Beratervertrag oder dem Siegel des Pfadfinders und nutze dann den Beraterangriff, um eine Serie koordinierter Angriffe mit der gewählten Formation und dem Kommandanten freizusetzen. Automatisches Überspringen von Abklingzeiten wird angewendet, um eine nahtlose Ausführung zu gewährleisten. Der Angriff wird jedoch beendet, wenn der Kommandant besiegt wird oder wenn eine der folgenden Bedingungen erfüllt ist:\n\nUnzureichendes Gold – Der Angriff kann aufgrund eines Mangels an Gold nicht gesendet werden. Andere Kommandanten könnten auch scheitern, ihre Angriffe zu starten.\nUnzureichende Rubine oder Federn – Der Angriff kann aufgrund eines Mangels an Rubinen oder Federn nicht gesendet werden. Andere Kommandanten könnten auch scheitern, ihre Angriffe zu starten.\nUnzureichende Einheiten und/oder Werkzeuge – Der Angriff kann aufgrund eines Mangels an erforderlichen Einheiten oder Werkzeugen nicht gesendet werden. Andere Kommandanten könnten auch scheitern, ihre Angriffe zu starten.\nUnzureichende Zeitüberspringen – Angriffe können aufgrund eines Mangels an Zeitüberspringen nicht abgeschlossen werden. Zukünftige Abklingzeiten können nicht übersprungen werden, was die Kommandanten zwingt, sich zurückzuziehen.\n\nPremium- und VIP-Kommandanten können nicht für die Beraterangriffe verwendet werden. Schlage schnell zu, halte deine Truppen aufrecht und stelle sicher, dass die Strategie des Pfadfinders dich zum Sieg führt."
   },
   "playertitles": {
     "playerTitle_50_jap": "Sturmlord",

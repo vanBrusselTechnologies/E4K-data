@@ -840,7 +840,9 @@
     "advisor_AttackFailed_reason1": "Din rådgivares attack kan inte fortsätta. Inte tillräckligt med guld för att starta attacken. Andra befälhavare kan också misslyckas med att starta sina attacker om resurserna inte fylls på.",
     "advisor_AttackFailed_reason0": "Din rådgivart attack kunde inte fortsätta. Kontrollera rådgivarens översikt för detaljer om saknade resurser eller andra problem som hindrar attacken.",
     "info_attack_threshold": "Du har nått det dagliga taket på 1 000 attacker. Varje ny attack kommer nu att ha ökade kostnader som växer exponentiellt.",
-    "title_attack_threshold": "Ökade attackkostnader"
+    "title_attack_threshold": "Ökade attackkostnader",
+    "info_advisor_warning_commander": "Denna typ av befälhavare kan inte användas för rådgivart attacker. För att kunna starta rådgivart attacker, vänligen byt till en annan befälhavare.",
+    "title_advisor_warning_commander": "Uppmärksamhet!"
   },
   "buildings_and_decorations": {
     "bakery_name": "Bageri",
@@ -12190,7 +12192,7 @@
     "dialog_researchTower_manualsCategory16_title": "Drakglas-pil.manualer",
     "dialog_researchTower_manualsCategory17_title": "Handböcker för drakfjälls rustningar",
     "dialog_researchTower_manualsCategory18_title": "Handböcker för drakfjällspilar",
-    "webshop_decoWithEffects_FoodHoneyMeadProductionCap_desc": "Effektkåpa som delas mellan dekorationer, Offentlig ordning +{0}, +{1} bonus på matproduktion per timme (max +40k), +{2} bonus på honungsproduktion per timme (max +40k), +{3} bonus på mjödproduktion per timme (max +400k), Byggstorlek {4}x{5}.",
+    "webshop_decoWithEffects_FoodHoneyMeadProductionCap_desc": "Maximal effektkapacitet som delas mellan dekorationer, Offentlig ordning +{0}, +{1} bonus till matproduktion per timme (max. +50k), +{2} bonus till honungsproduktion per timme (max. +50k), +{3} bonus till mjödproduktion per timme (max. +500k), Byggstørrelse {4}x{5}.",
     "webshop_decoWithEffects_XP2BarrowsCapacity_desc": "Effekt delad mellan dekorationer, Offentlig ordning +{0}, +{1}% ökad XP från strid, +{2}% ökad XP från byggande, +{3} bonus till marknadsvagnars kapacitet, Byggnadsstorlek {4}x{5}.",
     "webshop_FruitPirate_desc": "Enastående stark sommarens närstridskämpe med en attackstyrka på {0}",
     "webshop_SummerHuntress_desc": "Enastående stark sommarlig distansanfallare med en anfallsstyrka på {0}",
@@ -12675,7 +12677,7 @@
     "attack_standard": "Standardattack",
     "attack_amount": "Antal attacker:",
     "attack_setUp": "Ställ in dina attacker!",
-    "button_SelectCamp": "Välj nomadläger",
+    "button_SelectCamp_nomad": "Välj nomadläger",
     "button_activateAdvisor": "Aktivera rådgivaren",
     "button_attackAdvisor": "Rådgivarattack",
     "button_buyToken": "Köp token",
@@ -12705,7 +12707,22 @@
     "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "Detta är dragningens chanser för denna patrons belöningskategorier med det valda erbjudandet. Varje kategori innehåller specifika belöningsformer som kommer att väljas slumpmässigt. För varje betald erbjudande görs fyra dragningar, varje dragning har chanserna som anges nedan.\n\nDragning chans        Belöningskategorier\n\n09.00%                  - Hasan fragment\n\n00.50%                  - Hasans erbjudande till Ludwig\n\n03.00%                  - Erbjudande till Prinsessan Beatrice\n\n05.00%                  - Erbjudande till Sir Ulrich\n\n08.00%                  - Erbjudande till Kung Ludwig\n\n02.00%                  - Färdighetsåterställnings tokens\n\n03.40%                  - Utrustning",
     "TITLE_EASTERGACHA": "Åkallande av den Håliga Månen",
     "intro_advisor_nomad_short": "Under nomadens invasion, starta efterföljande attacker på nomadläger utan nedtid.",
-    "advisor_attack": "Rådgivarattack"
+    "advisor_attack": "Rådgivarattack",
+    "dialog_privateOffer_conversion_1": "Mästarbyggarens kickstart",
+    "dialog_privateOffer_conversion_2": "Arkitektens fördelspaket",
+    "dialog_privateOffer_conversion_3": "Imperiets blueprint-paket",
+    "webshop_conversion_large_name": "Imperiets blueprint-paket",
+    "webshop_conversion_medium_name": "Arkitektens fördelspaket",
+    "webshop_conversion_small_name": "Mästarbyggarens kickstart",
+    "webshop_decoWithEffects_RecSpeedToolProdRecCostCap_desc": "Effektgräns som delas mellan dekorationer, Offentlig ordning +{0}, +{1}% bonus på rekryteringshastighet (max +4k%), +{2}% bonus på verktygstillverkningshastighet (max 400%), -{3}% minskning av rekryteringskostnader (max 20%), Byggnadsstorlek {4}x{5}.",
+    "webshop_decoWithEffects_WallDefCourtDefCourtAllCap_desc": "Maximalt antal {0}, effektgräns delat mellan dekorationer, Offentlig ordning +{1}, +{2}% bonus på kapaciteten hos väggförsvarstrupparna (max 150%), +{3}% bonus på styrka i gården vid försvar (max +120%), +{4} bonus på kapaciteten hos gårdsförsvarstrupparna (max +150k), Byggnadsstorlek {5}x{6}.",
+    "webshop_summoningcircle_VIP_name": "VIP Åkallande Cirkel",
+    "webshop_summoningcircle_extralarge_name": "Extra stor åkallande cirkel",
+    "webshop_summoningcircle_giant_name": "Giant Summoning Circle",
+    "webshop_summoningcircle_huge_name": "Stort åkallande cirkel",
+    "webshop_summoningcircle_large_name": "Stort åkallande cirkel",
+    "webshop_summoningcircle_medium_name": "Mellanstor åkallande cirkel",
+    "webshop_summoningcircle_small_name": "Liten åkallande cirkel"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% enhetens stridskraft vid angrepp",
@@ -18034,10 +18051,10 @@
     "equipment_unique_1265_desc": "Transformera din armé till en bi-vagn och öka antalet bin som hävdas från framgångsrika attacker på dina fiender, hur kan detta vara?",
     "equipment_unique_1266": "Vårens gåva",
     "equipment_unique_1266_desc": "Det finns inget mer spännande än löftet om en riklig vår. Förvandla ditt slott till en majestätisk vårblomma.",
-    "equipment_unique_1267": "Påskfågelhus",
-    "equipment_unique_1267_desc": "Släpp loss den glada andan av påskfågelhuset för att välkomna förnyelsens säsong. Förvandla ditt slott till en livlig tillflyktsort, prytt med färgglada bon och färgglada påskägg, som ekar glädjen av vårens återkomst.",
-    "equipment_unique_1268": "Påskfjäder",
-    "equipment_unique_1268_desc": "Transformera din armé till en kraft av förnyelse, marscherande under utfällda ormbunkar och dolda påskägg, och omfamna andan av tillväxt och firande."
+    "equipment_unique_1267": "Påskormbär",
+    "equipment_unique_1267_desc": "Transformera din armé till en kraft av förnyelse, marscherande under utfällda ormbunkar och dolda påskägg, och omfamna andan av tillväxt och firande.",
+    "equipment_unique_1268": "Påskfågelbo",
+    "equipment_unique_1268_desc": "Släpp den glada andan av påskfågeln fri för att välkomna förnyelsens säsong. Förvandla ditt slott till en livfull tillflyktsort, prydd med färgstarka bon och färgglada påskägg, som ekar glädjen av vårens återkomst."
   },
   "generic": {
     "activity": "Aktivera",
@@ -20478,10 +20495,10 @@
     "help_defense_icon_allianceDefenseUnitAmount": "Antalet soldater och total truppkapacitet för allianssupporten i slottets kärntorn. Alliansmedlemmar kan skicka soldater för att stödja ditt försvar. Alla trupper som överskrider supportkapacitetsgränsen placeras i reserven och deltar inte i striden.",
     "help_travelPlanning_autoCooldownSkip": "Här kan du välja ett transportmedel för att öka resehastigheten. Effekten och kostnaderna beror på vad du väljer. Du kan också sakta ner de valda enheterna så att de anländer precis när det passar dig.\n\nAktivera autoskipp för att skippa en aktiv återhämtning direkt när armén anländer till målet. De tidskippar som krävs tas direkt från ditt lager vid ankomsten. Alla eventuella överflödiga tidskipp betals tillbaka i tidskipp.",
     "advisor_speechBubble_nomad": "En sann krigare tvekar aldrig. Smidd i stäpperna vet jag att endast de snabba överlever. Med min vägledning slår dina styrkor obevekligt - ingen väntan, ingen nåd, bara seger.",
-    "description_advisorInformation_nomad": "Temujin Mergen, Stiftern, en gång en fruktad krigsherre, erbjuder nu sin oöverträffade expertis på slagfältet för din sak. Under Nomad Invasion Event stärker han dina styrkor för att lansera flera på varandra följande attacker mot Nomadläger, slår obarmhärtigt och lämnar ingen plats för fienden att återhämta sig. Kalla på din rådgivare, planera massangrepp och dominera slagfältet.\n\nAktivera Nomadrådgivaren med hjälp av ett rådgivarkontrakt eller Stiftarens sigill, och använd sedan rådgivarnas attack för att frigöra en serie koordinerade attacker med den valda formationen och befälhavaren. Automatisk hoppa över nedkylningar tillämpas, vilket säkerställer en sömlös utförande. Angreppet kommer dock att upphöra om befälhavaren besegras eller om något av följande villkor uppfylls:\n\n- Otillräckligt guld – Attacken kan inte skickas på grund av brist på guld. Andra befälhavare kan också misslyckas med att inleda sina attacker.\n- Otillräckliga rubiner eller fjädrar – Attacken kan inte skickas på grund av brist på rubiner eller fjädrar. Andra befälhavare kan också misslyckas med att inleda sina attacker.\n- Otillräckliga enheter och/eller verktyg – Attacken kan inte skickas på grund av brist på nödvändiga enheter eller verktyg. Andra befälhavare kan också misslyckas med att inleda sina attacker.\n- Otillräckliga tidsöverskridningar – Attacker kan inte slutföras på grund av brist på tidsöverskridningar. Framtida nedkylningar kan inte överskridas, vilket tvingar befälhavarna att dra sig tillbaka.\n\nSlå snabbt, upprätthåll dina styrkor och se till att Stiftarens strategi leder dig till seger.",
     "info_attackAdvisor": "Använd rådgivarattacken för att starta följande attacker med vald formation och befälhavare. Auto-hopp tillämpas. Vid misslyckad attack eller nederlag drar sig befälhavaren tillbaka och avbryter resten. Utan resurser startar ingen ny attack.",
     "info_battleMessage": "Skicka en stridsrapport för varje attack",
-    "intro_advisor_nomad": "Temujin Mergen, Stigfinnaren, ger sin expertis till din sak. Under Nomadinvasionen utför du efterföljande attacker mot Nomadläger utan avbrott."
+    "intro_advisor_nomad": "Temujin Mergen, Stigfinnaren, ger sin expertis till din sak. Under Nomadinvasionen utför du efterföljande attacker mot Nomadläger utan avbrott.",
+    "description_advisorInformation_nomad": "Temujin Mergen, Stigfinnaren, en gång en fruktad krigsherre, erbjuder nu sin oöverträffade expertis på slagfältet till din sak. Under Nomadinvasionshändelsen stärker han dina styrkor att lansera flera på varandra följande attacker mot Nomadläger, och slår obarmhärtigt och lämnar ingen plats för fienden att återhämta sig. Kalla på din rådgivare, planera massangrepp och dominera slagfältet.\n\nAktivera Nomadrådgivaren med ett Rådgivarkontrakt eller Stigfinnarens sigill, och använd sedan Rådgivartattacken för att frigöra en serie koordinerade attacker med den valda formationen och befälhavaren. Automatisk hoppa över för nedetider tillämpas, vilket säkerställer sömlös utförande. Emellertid kommer attacken att upphöra om befälhavaren besegras eller om något av följande villkor uppfylls:\n\nOtillräckligt guld – Attacken kan inte skickas på grund av brist på guld. Andra befälhavare kan också misslyckas med att starta sina attacker.\nOtillräckliga rubiner eller fjädrar – Attacken kan inte skickas på grund av brist på rubiner eller fjädrar. Andra befälhavare kan också misslyckas med att starta sina attacker.\nOtillräckliga enheter och/eller verktyg – Attacken kan inte skickas på grund av brist på nödvändiga enheter eller verktyg. Andra befälhavare kan också misslyckas med att starta sina attacker.\nOtillräckliga tidsöverhopp – Attacker kan inte slutföras på grund av brist på tidsöverhopp. Framtida nedetider kan inte hoppa över, vilket tvingar befälhavare att dra sig tillbaka.\n\nPremium- och VIP-befälhavare kan inte användas för Rådgivart attacker.\nSlå snabbt, upprätthåll dina styrkor och se till att Stigfinnarens strategi leder dig till seger."
   },
   "playertitles": {
     "playerTitle_50_jap": "Stormherre",

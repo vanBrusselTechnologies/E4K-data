@@ -840,7 +840,9 @@
     "advisor_AttackFailed_reason1": "Din rådgivers angrep kan ikke fortsette. Ikke nok gull til å starte angrepet. Andre kommandanter kan også mislykkes med å starte angrepene sine hvis ressursene ikke blir påfylt.",
     "advisor_AttackFailed_reason0": "Angrepet fra rådgiveren din kunne ikke fortsette. Sjekk oversikten over rådgiveren for detaljer om manglende ressurser eller andre problemer som forhindrer angrepet.",
     "info_attack_threshold": "Du har nådd den daglige grensen på 1000 angrep. Hver ny angrep vil nå ha økte kostnader som vokser eksponentielt.",
-    "title_attack_threshold": "Økte angrepskostnader"
+    "title_attack_threshold": "Økte angrepskostnader",
+    "info_advisor_warning_commander": "Denne typen kommandant kan ikke brukes til rådgiverangrep. For å kunne starte rådgiverangrep, vennligst bytt til en annen kommandant.",
+    "title_advisor_warning_commander": "Oppmerksomhet!"
   },
   "buildings_and_decorations": {
     "bakery_name": "Bakeri",
@@ -12190,7 +12192,7 @@
     "dialog_researchTower_manualsCategory16_title": "Manualer for dragonglasspiler",
     "dialog_researchTower_manualsCategory17_title": "Manualer for drageskjellbrynje",
     "dialog_researchTower_manualsCategory18_title": "Manualer for drageskjellpiler",
-    "webshop_decoWithEffects_FoodHoneyMeadProductionCap_desc": "Effektkap delt mellom dekorasjoner, Offentlig orden +{0}, +{1} bonus til matproduksjon per time (maks +40k), +{2} bonus til honningproduksjon per time (maks +40k), +{3} bonus til mjødproduksjon per time (maks +400k), Bygningens størrelse {4}x{5}.",
+    "webshop_decoWithEffects_FoodHoneyMeadProductionCap_desc": "Maksimal effektkapasitet delt mellom dekorasjoner, Offentlig orden +{0}, +{1} bonus til matproduksjon per time (maks. +50k), +{2} bonus til honningproduksjon per time (maks. +50k), +{3} bonus til mjødproduksjon per time (maks. +500k), Bygningsstørrelse {4}x{5}.",
     "webshop_decoWithEffects_XP2BarrowsCapacity_desc": "Effekt delt mellom dekorasjoner, Offentlig orden +{0}, +{1}% økt XP fra kamp, +{2}% økt XP fra bygging, +{3} bonus til markedskapasitet, Bygning størrelse {4}x{5}.",
     "webshop_FruitPirate_desc": "Utrolig mektig nærkampsangriper om sommeren med en angrepsstyrke på {0}",
     "webshop_SummerHuntress_desc": "Utrolig mektig sommerlig avstandangriper med en angrepsstyrke på {0}",
@@ -12675,7 +12677,7 @@
     "attack_standard": "Standardangrep",
     "attack_amount": "Antall angrep:",
     "attack_setUp": "Sett opp angrepene dine!",
-    "button_SelectCamp": "Velg nomadeleir",
+    "button_SelectCamp_nomad": "Velg nomadeleir",
     "button_activateAdvisor": "Aktiver rådgiver",
     "button_attackAdvisor": "Rådgiverangrep",
     "button_buyToken": "Kjøp token",
@@ -12705,7 +12707,22 @@
     "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "Dette er trekksjansene for denne patronens belønningskategorier med det valgte tilbudet. Hver kategori inneholder spesifikke belønningstyper, som vil bli valgt tilfeldig. For hvert betalt tilbud utføres det fire trekk, hvor hvert trekk har sjansene oppført nedenfor.\n\nTrekksjanse        Belønningskategorier\n\n09.00%                  - Hasan-skjold\n\n00.50%                  - Hasans tilbud til Ludwig\n\n03.00%                  - Tilbud til Prinsesse Beatrice\n\n05.00%                  - Tilbud til Sir Ulrich\n\n08.00%                  - Tilbud til Kong Ludwig\n\n02.00%                  - Ferdighetsreset-token\n\n03.40%                  - Utstyr",
     "TITLE_EASTERGACHA": "Kall av den Hule Månen",
     "intro_advisor_nomad_short": "Under nomadinvasjonen, start påfølgende angrep på nomadleirer uten nedetid.",
-    "advisor_attack": "Rådgiverangrep"
+    "advisor_attack": "Rådgiverangrep",
+    "dialog_privateOffer_conversion_1": "Masterbyggerens oppstart",
+    "dialog_privateOffer_conversion_2": "Arkitektens fordelspakke",
+    "dialog_privateOffer_conversion_3": "Imperium blåkopi pakke",
+    "webshop_conversion_large_name": "Imperium blåkopi pakke",
+    "webshop_conversion_medium_name": "Arkitektens fordelspakke",
+    "webshop_conversion_small_name": "Masterbyggerens oppstart",
+    "webshop_decoWithEffects_RecSpeedToolProdRecCostCap_desc": "Effektgrense delt på tvers av dekorasjoner, Offentlig orden +{0}, +{1}% bonus til rekrutteringshastighet (maks. +4k%), +{2}% bonus til verktøyproduksjonshastighet (maks. 400%), -{3}% reduksjon av rekrutteringskostnadene (maks. 20%), Bygningens størrelse {4}x{5}.",
+    "webshop_decoWithEffects_WallDefCourtDefCourtAllCap_desc": "Maks antall {0}, effektgrense delt mellom dekorasjoner, Offentlig orden +{1}, +{2}% bonus til kapasiteten til veggforsvarstrupper (maks 150%), +{3}% bonus til styrke i gården under forsvar (maks +120%), +{4} bonus til kapasiteten til gårdsforsvarstrupper (maks +150k), Bygningens størrelse {5}x{6}.",
+    "webshop_summoningcircle_VIP_name": "VIP Kallsirkel",
+    "webshop_summoningcircle_extralarge_name": "Ekstra stor påkallingssirkel",
+    "webshop_summoningcircle_giant_name": "Kjempeinnkalling sirkel",
+    "webshop_summoningcircle_huge_name": "Kjempeinnkallingssirkel",
+    "webshop_summoningcircle_large_name": "Stor tilkallingssirkel",
+    "webshop_summoningcircle_medium_name": "Middels stor påkallingssirkel",
+    "webshop_summoningcircle_small_name": "Liten kallingssirkel"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% enhetens kampstyrke ved angrep",
@@ -18034,10 +18051,10 @@
     "equipment_unique_1265_desc": "Forvandler hæren din til en bie-vogn og øker antallet av bier som kreves fra vellykkede angrep på fiendene dine, hvordan kan dette være?",
     "equipment_unique_1266": "Vårgave",
     "equipment_unique_1266_desc": "Det er ingenting mer spennende enn løftet om en rikelig vår. Forvandle slottet ditt til en majestetisk vårblomst.",
-    "equipment_unique_1267": "Påske fuglehus",
-    "equipment_unique_1267_desc": "Slipp den glade ånden fra påskefuglehuset løs for å ønske velkommen til fornyelsens sesong. Forvandle slottet ditt til et livlig fristed, prydet med fargerike reder og fargerike påskeegg, som gjenspeiler gleden over vårens tilbakekomst.",
-    "equipment_unique_1268": "Påskebregne",
-    "equipment_unique_1268_desc": "Transformér hæren din til en fornyelsesstyrke, marsjerende under utfoldede bregner og skjulte påskeegg, og omfavn ånden av vekst og feiring."
+    "equipment_unique_1267": "Påskebregne",
+    "equipment_unique_1267_desc": "Transformer hæren din til en fornyelseskraft som marsjerer under utfoldede bregner og skjulte påskeegg, og omfavner ånden av vekst og feiring.",
+    "equipment_unique_1268": "Påskefuglerede",
+    "equipment_unique_1268_desc": "Slipp den glade ånden av påskefuglen løs for å ønske sesongen av fornyelse velkommen. Forvandle slottet ditt til et livlig fristed, dekorert med fargerike reder og fargerike påskeegg, som gjenspeiler gleden over vårens tilbakekomst."
   },
   "generic": {
     "activity": "Aktivitet",
@@ -20478,10 +20495,10 @@
     "help_defense_icon_allianceDefenseUnitAmount": "Antallet soldater og den totale troppekapasiteten for alliansestøtte i slottsfestningen din. Alliansemedlemmer kan sende soldater for å støtte forsvaret ditt. Alle tropper som overskrider støttekapasiteten, plasseres blant reservene og deltar ikke i kamp.",
     "help_travelPlanning_autoCooldownSkip": "Her kan du velge en form for transport for å øke reisehastigheten. Effekten og kostnaden kommer an på hva du velger. Du kan også sette ned farten til valgte enheter, slik at de kommer frem nøyaktig når du trenger det.\n\nAktiver «Hopp over automatisk» for å umiddelbart hoppe over en aktiv ventetid når hæren når målet. De nødvendige tidshoppene blir tatt fra forrådene dine ved ankomst. Eventuell overflødig tidshoppverdi blir betalt tilbake i form av tidshopp.",
     "advisor_speechBubble_nomad": "En sann kriger nøler aldri. Smidd i steppene vet jeg at bare de raske overlever. Med min veiledning slår styrkene dine utrettelig - ingen venting, ingen nåde, bare seier.",
-    "description_advisorInformation_nomad": "Temujin Mergen, Stifteren, engang en fryktet krigsherre, tilbyr nå sin uovertrufne ekspertise på slagmarken til din sak. Under Nomadeinvasjonsarrangementet gir han styrkene dine styrke til å lansere flere påfølgende angrep på Nomadeleirer, og slår ubarmhjertig og etterlater ingen rom for fienden til å komme seg. Kall på rådgiveren din, planlegg masseangrep, og dominer slagmarken.\n\nAktiver Nomaderådgiveren ved hjelp av en Rådgiverkontrakt eller Stifterens segl, og bruk deretter Rådgiverangrepet for å slippe løs en serie koordinerte angrep med den valgte formasjonen og kommandøren. Automatisk hopp for nedetider er anvendelig, noe som sikrer sømløs utførelse. Angrepet vil imidlertid stoppe hvis kommandøren blir beseiret eller hvis en av følgende betingelser er oppfylt:\n\n- Utilstrekkelig gull – Angrepet kan ikke sendes på grunn av mangel på gull. Andre kommandører kan også feile i å starte angrepene sine.\n- Utilstrekkelige rubiner eller fjær – Angrepet kan ikke sendes på grunn av mangel på rubiner eller fjær. Andre kommandører kan også feile i å starte angrepene sine.\n- Utilstrekkelige enheter og/eller verktøy – Angrepet kan ikke sendes på grunn av mangel på nødvendige enheter eller verktøy. Andre kommandører kan også feile i å starte angrepene sine.\n- Utilstrekkelig tidshopp – Angrep kan ikke fullføres på grunn av mangel på tidshopp. Fremtidige nedetider kan ikke hoppes over, noe som tvinger kommandørene til å trekke seg tilbake.\n\nSlå raskt, oppretthold styrkene dine, og sørg for at Stifterens strategi fører deg til seier.",
     "info_attackAdvisor": "Bruk rådgiverangrep for å starte påfølgende angrep med valgt formasjon og kommandør. Automatisk hopp for nedkjølingsperioder gjelder automatisk. Hvis et angrep mislykkes eller kommandøren blir beseiret, trekker de seg tilbake og avbryter de gjenværende angrepene. Hvis nødvendige ressurser går tom, vil neste angrep ikke starte.",
     "info_battleMessage": "Send en kamp rapport for hver angrep",
-    "intro_advisor_nomad": "Temujin Mergen, Stifinneren, bringer sin ekspertise til din sak. Under Nomadeinvasjonen, start påfølgende angrep på Nomadeleirer uten nedetid."
+    "intro_advisor_nomad": "Temujin Mergen, Stifinneren, bringer sin ekspertise til din sak. Under Nomadeinvasjonen, start påfølgende angrep på Nomadeleirer uten nedetid.",
+    "description_advisorInformation_nomad": "Temujin Mergen, Stifinneren, en gang en fryktet krigsherre, tilbyr nå sin enestående ekspertise fra slagmarken til din sak. Under Nomadeinvasjonen styrker han dine styrker til å lansere flere påfølgende angrep på nomadeleirer, og slår ubarmhjertig og gir fienden ingen rom for å komme seg. Kall på din rådgiver, planlegg masseangrep, og dominer slagmarken.\n\nAktiver Nomaderådgiveren ved å bruke en rådgiverkontrakt eller Stifinnerens segl, og bruk Rådgiverangrep for å slippe løs en serie koordinerte angrep med den valgte formasjonen og kommandøren. Automatisk hopp for nedetid blir brukt, noe som sikrer sømløs utførelse. Imidlertid vil angrepet opphøre hvis kommandøren blir beseiret eller hvis noen av følgende betingelser oppfylles:\n\nUtilstrekkelig gull – Angrep kan ikke sendes på grunn av mangel på gull. Andre kommandører kan også mislykkes i å iverksette sine angrep.\nUtilstrekkelige rubiner eller fjær – Angrep kan ikke sendes på grunn av mangel på rubiner eller fjær. Andre kommandører kan også mislykkes i å iverksette sine angrep.\nUtilstrekkelige enheter og/eller verktøy – Angrep kan ikke sendes på grunn av mangel på nødvendige enheter eller verktøy. Andre kommandører kan også mislykkes i å iverksette sine angrep.\nUtilstrekkelig tidshopp – Angrep kan ikke fullføres på grunn av mangel på tidshopp. Fremtidige nedetider kan ikke hoppes over, noe som tvinger kommandører til å trekke seg tilbake.\n\nPremium- og VIP-kommandører kan ikke brukes til rådgiverangrep.\nSlå raskt, oppretthold styrkene dine, og sørg for at Stifinnerens strategi fører deg til seier."
   },
   "playertitles": {
     "playerTitle_50_jap": "Stormherre",

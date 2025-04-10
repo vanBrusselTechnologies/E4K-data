@@ -840,7 +840,9 @@
     "advisor_AttackFailed_reason1": "Tu ataque de asesor no puede continuar. No hay suficiente oro para lanzar el ataque. Otros comandantes también pueden fallar en lanzar sus ataques si los recursos no son reabastecidos.",
     "advisor_AttackFailed_reason0": "Tu ataque de asesor no pudo continuar. Verifica la visión general del asesor para obtener detalles sobre los recursos faltantes u otros problemas que impidan el ataque.",
     "info_attack_threshold": "Has alcanzado el límite diario de 1,000 ataques. Cada nuevo ataque tendrá ahora un costo incrementado, aumentando exponencialmente.",
-    "title_attack_threshold": "Costos de ataque aumentados"
+    "title_attack_threshold": "Costos de ataque aumentados",
+    "info_advisor_warning_commander": "Este tipo de comandante no se puede usar para ataques de asesores. Para poder lanzar ataques de asesores, cambie a un comandante diferente.",
+    "title_advisor_warning_commander": "¡Atención!"
   },
   "buildings_and_decorations": {
     "bakery_name": "Panadería",
@@ -12190,7 +12192,7 @@
     "dialog_researchTower_manualsCategory16_title": "Manuales de flechas de vidrio de dragón",
     "dialog_researchTower_manualsCategory17_title": "Manuales de armadura de escamas de dragón",
     "dialog_researchTower_manualsCategory18_title": "Manuales de flechas de escamas de dragón",
-    "webshop_decoWithEffects_FoodHoneyMeadProductionCap_desc": "Efecto compartido entre decoraciones, Orden público +{0}, +{1} bonificación a la producción de alimentos por hora (máx. +40k), +{2} bonificación a la producción de miel por hora (máx. +40k), +{3} bonificación a la producción de hidromiel por hora (máx. +400k), Tamaño del edificio {4}x{5}.",
+    "webshop_decoWithEffects_FoodHoneyMeadProductionCap_desc": "Capacidad máxima del efecto compartido entre decoraciones, Orden público +{0}, +{1} bonificación a la producción de alimentos por hora (máx. +50k), +{2} bonificación a la producción de miel por hora (máx. +50k), +{3} bonificación a la producción de hidromiel por hora (máx. +500k), Tamaño del edificio {4}x{5}.",
     "webshop_decoWithEffects_XP2BarrowsCapacity_desc": "Efecto compartido entre decoraciones, Orden público +{0}, +{1}% de XP aumentado obtenido de peleas, +{2}% de XP aumentado obtenido de construcción, +{3} bonificación a la capacidad de los carritos de mercado, Tamaño del edificio {4}x{5}.",
     "webshop_FruitPirate_desc": "Atacante cuerpo a cuerpo de verano excepcionalmente fuerte con una fuerza de ataque de {0}.",
     "webshop_SummerHuntress_desc": "Atacante a distancia de verano excepcionalmente fuerte con una fuerza de ataque de {0}.",
@@ -12675,7 +12677,7 @@
     "attack_standard": "Ataque estándar",
     "attack_amount": "Cantidad de ataques:",
     "attack_setUp": "¡Configura tus ataques!",
-    "button_SelectCamp": "Selecciona campamento nómada",
+    "button_SelectCamp_nomad": "Selecciona campamento nómada",
     "button_activateAdvisor": "Activar asesor",
     "button_attackAdvisor": "Ataque del asesor",
     "button_buyToken": "Comprar token",
@@ -12705,7 +12707,22 @@
     "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "Estas son las oportunidades de sorteo para las categorías de recompensas de este patrón con la oferta seleccionada. Cada categoría contiene tipos de recompensas específicas, que serán elegidas al azar. Por cada oferta pagada, se realizan cuatro sorteos, cada sorteo tiene las oportunidades listadas a continuación.\n\nOportunidad de sorteo        Categorías de recompensas\n\n09.00%                  - Fragmentos de Hasan\n\n00.50%                  - Oferta de Hasan a Ludwig\n\n03.00%                  - Oferta a la Princesa Beatriz\n\n05.00%                  - Oferta a Sir Ulrich\n\n08.00%                  - Oferta al Rey Ludwig\n\n02.00%                  - Tokens de reinicio de habilidades\n\n03.40%                  - Equipamiento",
     "TITLE_EASTERGACHA": "Invocación de la Luna Hueca",
     "intro_advisor_nomad_short": "Durante la invasión nómada, lanza ataques consecutivos a los campamentos nómadas sin tiempo de inactividad.",
-    "advisor_attack": "Ataque del asesor"
+    "advisor_attack": "Ataque del asesor",
+    "dialog_privateOffer_conversion_1": "Inicio del Maestro Constructor",
+    "dialog_privateOffer_conversion_2": "Paquete de ventajas del arquitecto",
+    "dialog_privateOffer_conversion_3": "Paquete de planos del imperio",
+    "webshop_conversion_large_name": "Paquete de planos del imperio",
+    "webshop_conversion_medium_name": "Paquete de ventajas del arquitecto",
+    "webshop_conversion_small_name": "Inicio del Maestro Constructor",
+    "webshop_decoWithEffects_RecSpeedToolProdRecCostCap_desc": "Efecto de límite compartido entre decoraciones, Orden Público +{0}, +{1}% de bonificación a la velocidad de reclutamiento (máx. +4k%), +{2}% de bonificación a la velocidad de producción de herramientas (máx. 400%), -{3}% de reducción del costo en monedas de reclutamiento (máx. 20%), Tamaño del edificio {4}x{5}.",
+    "webshop_decoWithEffects_WallDefCourtDefCourtAllCap_desc": "Máximo número {0}, límite de efecto compartido entre decoraciones, Orden público +{1}, +{2}% de bonificación a la capacidad de tropas de defensa de la muralla (máx. 150%), +{3}% de bonificación a la fuerza en el patio al defender (máx. +120%), +{4} bonificación a la capacidad de las tropas de defensa en el patio (máx. +150k), Tamaño del edificio {5}x{6}.",
+    "webshop_summoningcircle_VIP_name": "Círculo de Invocación VIP",
+    "webshop_summoningcircle_extralarge_name": "Círculo de invocación extra grande",
+    "webshop_summoningcircle_giant_name": "Círculo de invocación gigante",
+    "webshop_summoningcircle_huge_name": "Círculo de invocación enorme",
+    "webshop_summoningcircle_large_name": "Gran círculo de invocación",
+    "webshop_summoningcircle_medium_name": "Círculo de invocación medio",
+    "webshop_summoningcircle_small_name": "Círculo de invocación pequeño"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% de fuerza de combate de la unidad al atacar",
@@ -18034,10 +18051,10 @@
     "equipment_unique_1265_desc": "Transforma tu ejército en un carro de abejas y aumenta las abejas reclamadas de ataques exitosos a tus enemigos, ¿cómo puede ser esto?",
     "equipment_unique_1266": "Regalo de primavera",
     "equipment_unique_1266_desc": "No hay nada más emocionante que la promesa de una abundante primavera. Transforma tu castillo en una majestuosa flor de primavera.",
-    "equipment_unique_1267": "Casa de aves de Pascua",
-    "equipment_unique_1267_desc": "Desata el alegre espíritu de la Casa de Aves de Pascua para dar la bienvenida a la temporada de renovación. Transforma tu castillo en un refugio animado, adornado con nidos vibrantes y coloridos huevos de Pascua, reflejando la alegría del regreso de la primavera.",
-    "equipment_unique_1268": "helecho de Pascua",
-    "equipment_unique_1268_desc": "Transforma tu ejército en una fuerza de renovación, marchando bajo helechos desplegados y huevos de Pascua ocultos, abrazando el espíritu de crecimiento y celebración."
+    "equipment_unique_1267": "helecho de Pascua",
+    "equipment_unique_1267_desc": "Transforma tu ejército en una fuerza de renovación, marchando bajo helechos desplegados y huevos de Pascua ocultos, abrazando el espíritu de crecimiento y celebración.",
+    "equipment_unique_1268": "Nido de Pascua",
+    "equipment_unique_1268_desc": "Desata el espíritu alegre del nido de Pascua para dar la bienvenida a la temporada de renovación. Transforma tu castillo en un refugio animado, adornado con nidos vibrantes y coloridos huevos de Pascua, resonando la alegría del regreso de la primavera."
   },
   "generic": {
     "activity": "Actividad",
@@ -20478,10 +20495,10 @@
     "help_defense_icon_allianceDefenseUnitAmount": "El número de soldados y la capacidad total de tropas para las ayudas de la alianza en el torreón de tu castillo. Los miembros de la alianza pueden enviar soldados para ayudarte a defenderte. Las tropas que sobrepasen el límite de capacidad entrarán en reserva y no participarán en la batalla.",
     "help_travelPlanning_autoCooldownSkip": "Aquí puedes elegir un modo de transporte para aumentar la velocidad de viaje. El efecto y el coste depende de lo que elijas. También puedes ralentizar las unidades seleccionadas para que lleguen exactamente cuando mejor te convenga.\n\nActiva la función de omisión automática para saltarte al instante un tiempo de espera activo cuando un ejército llegue al objetivo. Las reducciones de tiempo necesarias se consumirán automáticamente al llegar. El valor sobrante de las reducciones de tiempo se devuelve en forma de reducciones de tiempo.",
     "advisor_speechBubble_nomad": "Un verdadero guerrero nunca duda. Forjado en las estepas, sé que solo sobreviven los rápidos. Con mi guía, tus fuerzas golpean implacablemente: sin esperar, sin piedad, solo victoria.",
-    "description_advisorInformation_nomad": "Temujin Mergen, el Guerrero, una vez un temido señor de la guerra, ahora ofrece su incomparable experiencia en el campo de batalla a tu causa. Durante el Evento de Invasión Nómada, empodera a tus fuerzas para lanzar múltiples ataques consecutivos a los Campamentos Nómadas, golpeando sin piedad y dejando al enemigo sin oportunidad de recuperarse. Llama a tu asesor, planea asaltos masivos y domina el campo de batalla.\n\nActiva al Asesor Nómada usando un Contrato de Asesor o el Sello del Guerrero, luego usa el Ataque del Asesor para desatar una serie de golpes coordinados con la formación y el comandante seleccionados. Se aplica un salto automático de enfriamiento, asegurando una ejecución sin problemas. Sin embargo, el asalto cesará si el comandante es derrotado o si se cumple alguna de las siguientes condiciones:\n\n- Oro Insuficiente – No se puede enviar el ataque debido a la falta de oro. Otros comandantes también pueden fallar en lanzar sus ataques.\n- Rubíes o Plumas Insuficientes – No se puede enviar el ataque debido a la falta de rubíes o plumas. Otros comandantes también pueden fallar en lanzar sus ataques.\n- Unidades y/o Herramientas Insuficientes – No se puede enviar el ataque debido a la falta de unidades o herramientas requeridas. Otros comandantes también pueden fallar en lanzar sus ataques.\n- Salto de Tiempo Insuficiente – No se pueden completar los ataques debido a la falta de saltos de tiempo. Los enfriamientos futuros no se pueden saltar, obligando a los comandantes a retirarse.\n\nAtaca rápidamente, mantén tus fuerzas y asegúrate de que la estrategia del Guerrero te lleve a la victoria.",
     "info_attackAdvisor": "Utiliza el Ataque del Asesor para lanzar ataques consecutivos con la formación y el comandante elegidos. Se aplica automáticamente el salto automático para los tiempos de espera. Si un ataque falla o el comandante es derrotado, se retiran, cancelando los ataques restantes. Si se agotan los recursos necesarios, no comenzará el siguiente ataque.",
     "info_battleMessage": "Envía un informe de batalla por cada ataque",
-    "intro_advisor_nomad": "Temujin Mergen, el Pionero, aporta su experiencia a tu causa. Durante la Invasión Nómada, lanza ataques consecutivos a los Campamentos Nómadas sin tiempo de inactividad."
+    "intro_advisor_nomad": "Temujin Mergen, el Pionero, aporta su experiencia a tu causa. Durante la Invasión Nómada, lanza ataques consecutivos a los Campamentos Nómadas sin tiempo de inactividad.",
+    "description_advisorInformation_nomad": "Temujin Mergen, el Caminante, una vez un temido señor de la guerra, ahora ofrece su incomparable experiencia en el campo de batalla a tu causa. Durante el Evento de Invasión Nómada, potencia a tus fuerzas para lanzar múltiples ataques consecutivos sobre los Campamentos Nómadas, golpeando implacablemente y sin dejar espacio al enemigo para recuperarse. Llama a tu asesor, planea asaltos masivos y domina el campo de batalla.\n\nActiva al Asesor Nómada utilizando un Contrato de Asesor o el Sello del Caminante, luego utiliza el Ataque del Asesor para desatar una serie de ataques coordinados con la formación y el comandante seleccionados. Se aplica el salto automático para los tiempos de enfriamiento, asegurando una ejecución fluida. Sin embargo, el asalto se detendrá si el comandante es derrotado o si se cumple alguna de las siguientes condiciones:\n\nOro insuficiente - No se puede enviar el ataque debido a la falta de oro. Otros comandantes también pueden fallar en lanzar sus ataques.\nRubíes o plumas insuficientes - No se puede enviar el ataque debido a la falta de rubíes o plumas. Otros comandantes también pueden fallar en lanzar sus ataques.\nUnidades y/o herramientas insuficientes - No se puede enviar el ataque debido a la falta de unidades o herramientas requeridas. Otros comandantes también pueden fallar en lanzar sus ataques.\nSaltos de tiempo insuficientes - No se pueden completar los ataques debido a la falta de saltos de tiempo. Los futuros tiempos de enfriamiento pueden no ser saltados, forzando a los comandantes a retirarse.\n\nLos comandantes Premium y VIP no pueden ser utilizados para los Ataques del Asesor. Ataca rápidamente, mantén tus fuerzas y asegúrate de que la estrategia del Caminante te lleve a la victoria."
   },
   "playertitles": {
     "playerTitle_50_jap": "Lord de tormentas",

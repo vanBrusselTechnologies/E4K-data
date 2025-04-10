@@ -840,7 +840,9 @@
     "advisor_AttackFailed_reason1": "您的顧問攻擊無法繼續。沒有足夠的黃金來發動攻擊。如果資源未得到補充，其他指揮官也可能無法發動攻擊。",
     "advisor_AttackFailed_reason0": "您的顧問攻擊無法進行。請檢查顧問概述以獲取有關缺少資源或其他阻止攻擊的問題的詳細信息。",
     "info_attack_threshold": "您已達到每天1000次攻擊的限制。每次新的攻擊現在將增加成本，並呈指數增長。",
-    "title_attack_threshold": "增加的攻擊成本"
+    "title_attack_threshold": "增加的攻擊成本",
+    "info_advisor_warning_commander": "這種類型的指揮官無法用於顧問攻擊。要啟動顧問攻擊，請切換到其他指揮官。",
+    "title_advisor_warning_commander": "注意！"
   },
   "buildings_and_decorations": {
     "bakery_name": "麵包房",
@@ -12190,7 +12192,7 @@
     "dialog_researchTower_manualsCategory16_title": "龍玻璃箭頭手冊",
     "dialog_researchTower_manualsCategory17_title": "龍鱗甲手冊",
     "dialog_researchTower_manualsCategory18_title": "龍鱗箭手冊",
-    "webshop_decoWithEffects_FoodHoneyMeadProductionCap_desc": "在裝飾中共享的效果上限，公共秩序 +{0}，每小時食品生產 +{1} 獎勵（最多 +40k），每小時蜂蜜生產 +{2} 獎勵（最多 +40k），每小時麥酒生產 +{3} 獎勵（最多 +400k），建築大小 {4}x{5}。",
+    "webshop_decoWithEffects_FoodHoneyMeadProductionCap_desc": "在裝飾之間共享的效果上限，公共秩序 +{0}，每小時食品生產 +{1} 獎勵（最多 +50k），每小時蜂蜜生產 +{2} 獎勵（最多 +50k），每小時美酒生產 +{3} 獎勵（最多 +500k），建築大小 {4}x{5}。",
     "webshop_decoWithEffects_XP2BarrowsCapacity_desc": "效果在裝飾中共享，公共秩序 +{0}，戰鬥獲得的XP增加 +{1}%，建築獲得的XP增加 +{2}%，市場手推車容量增加 +{3}，建築尺寸 {4}x{5}。",
     "webshop_FruitPirate_desc": "傑出強大的夏日近戰型攻擊兵，攻擊力為{0}",
     "webshop_SummerHuntress_desc": "傑出強大的夏日遠距離攻擊兵，攻擊力為 {0}",
@@ -12675,7 +12677,7 @@
     "attack_standard": "標準攻擊",
     "attack_amount": "攻擊次數：",
     "attack_setUp": "設置你的攻擊！",
-    "button_SelectCamp": "選擇遊牧營地",
+    "button_SelectCamp_nomad": "選擇遊牧營地",
     "button_activateAdvisor": "啟用顧問",
     "button_attackAdvisor": "顧問攻擊",
     "button_buyToken": "購買代幣",
@@ -12705,7 +12707,22 @@
     "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "這些是此贊助商在所選提供的獎勵類別的抽獎機會。每個類別包含特定的獎勵類型，隨機選擇。每個付費提供進行四次抽獎，每次抽獎都有以下列出的機會。\n\n抽獎機會        獎勵類別\n\n09.00%                  - 哈桑碎片\n\n00.50%                  - 哈桑對路德維希的提議\n\n03.00%                  - 提供給比阿特麗斯公主\n\n05.00%                  - 提供給烏爾里希爵士\n\n08.00%                  - 提供給路德維希國王\n\n02.00%                  - 技能重置代幣\n\n03.40%                  - 裝備",
     "TITLE_EASTERGACHA": "空心月亮的召喚",
     "intro_advisor_nomad_short": "在遊牧民族入侵期間，對遊牧營地發動連續攻擊，無需停頓。",
-    "advisor_attack": "顧問攻擊"
+    "advisor_attack": "顧問攻擊",
+    "dialog_privateOffer_conversion_1": "大師建築師的啟動",
+    "dialog_privateOffer_conversion_2": "建築師優勢包",
+    "dialog_privateOffer_conversion_3": "帝國藍圖套件",
+    "webshop_conversion_large_name": "帝國藍圖套件",
+    "webshop_conversion_medium_name": "建築師優勢包",
+    "webshop_conversion_small_name": "大師建築師的啟動",
+    "webshop_decoWithEffects_RecSpeedToolProdRecCostCap_desc": "效果上限共享於裝飾，公共秩序 +{0}，+{1}% 招募速度獎勵（最大 +4k%），+{2}% 工具生產速度獎勵（最大 400%），-{3}% 招募貨幣成本減少（最大 20%），建築大小 {4}x{5}。",
+    "webshop_decoWithEffects_WallDefCourtDefCourtAllCap_desc": "最大數量 {0}，效果上限在裝飾物間共享，公共秩序 +{1}，牆壁防禦部隊能力 +{2}% 加成（最多 150%），防禦時庭院的力量 +{3}% 加成（最多 +120%），庭院防禦部隊能力 +{4} 加成（最多 +150k），建築大小 {5}x{6}。",
+    "webshop_summoningcircle_VIP_name": "VIP召喚圈",
+    "webshop_summoningcircle_extralarge_name": "特大召喚圈",
+    "webshop_summoningcircle_giant_name": "巨型召喚圈",
+    "webshop_summoningcircle_huge_name": "巨大的召喚圈",
+    "webshop_summoningcircle_large_name": "大型召喚圈",
+    "webshop_summoningcircle_medium_name": "中型召喚圈",
+    "webshop_summoningcircle_small_name": "小型召喚圈"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% 單位攻擊時的戰鬥力",
@@ -18034,10 +18051,10 @@
     "equipment_unique_1265_desc": "將你的軍隊轉化為蜜蜂戰車，並增加從成功攻擊敵人中獲得的蜜蜂數量，這怎麼可能？",
     "equipment_unique_1266": "春之恩賜",
     "equipment_unique_1266_desc": "沒有什麼比豐盛的春天承諾更令人興奮。將你的城堡變成一朵壯麗的春天花朵。",
-    "equipment_unique_1267": "復活節鳥屋",
-    "equipment_unique_1267_desc": "釋放復活節鳥舍的歡樂精神，迎接更新的季節。將你的城堡變成一個充滿活力的避風港，裝飾著色彩斑斕的巢和五彩的復活節彩蛋，迴響著春天回歸的喜悅。",
-    "equipment_unique_1268": "復活節蕨類",
-    "equipment_unique_1268_desc": "將你的軍隊轉化為一股更新的力量，在展開的蕨類植物和隱藏的復活節彩蛋下行進，擁抱成長和慶祝的精神。"
+    "equipment_unique_1267": "復活節蕨類",
+    "equipment_unique_1267_desc": "將你的軍隊轉變為一種更新的力量，在展開的蕨類植物和隱藏的復活節彩蛋下行進，擁抱成長和慶祝的精神。",
+    "equipment_unique_1268": "復活節鳥巢",
+    "equipment_unique_1268_desc": "釋放復活節鳥巢的快樂精神，以迎接更新的季節。將您的城堡轉變為一個生機勃勃的避風港，裝飾著色彩繽紛的鳥巢和彩色的復活節彩蛋，迴響著春天回歸的喜悅。"
   },
   "generic": {
     "activity": "活動",
@@ -20478,10 +20495,10 @@
     "help_defense_icon_allianceDefenseUnitAmount": "你的城堡堡壘中可容納的同盟支援總部隊和士兵數量。同盟成員可以派士兵來支援你的防禦。超出支援容量限制的所有部隊將被放在預備軍而不會參與戰鬥。",
     "help_travelPlanning_autoCooldownSkip": "你可在這裡選擇交通模式來加快巡遊速度。效果和費用取決於你選擇的項目。你也可以放慢所選的部隊，以使他們準時在你需要的時間點抵達。\n\n啟用自動略過，以在軍隊抵達目標所在地時立即略過進行中的冷卻時間。將會在抵達時直接從你的庫存中取用所需的略過時間。任何剩餘的略過時間值，則會以略過時間的形式退還。",
     "advisor_speechBubble_nomad": "真正的戰士從不猶豫。在草原上鍛造，我知道只有快速者才能生存。在我的指導下，你的部隊毫不留情地進攻——沒有等待，沒有仁慈，只有勝利。",
-    "description_advisorInformation_nomad": "特穆金·梅爾根，指路者，曾是一位令人畏懼的軍閥，現在為您的事業提供他無與倫比的戰場專業知識。在遊牧民族入侵事件期間，他增強了您的力量，發起對遊牧營地的多次連續攻擊，毫不留情，讓敵人沒有恢復的空間。呼喚您的顧問，計劃大規模的攻擊，主宰戰場。\n\n使用顧問合約或指路者的印章激活遊牧顧問，然後使用顧問攻擊釋放一系列協調攻擊，搭配選定的編隊和指揮官。自動跳過冷卻時間的功能已啟用，確保無縫執行。然而，如果指揮官被擊敗，或滿足以下任一條件，攻擊將停止：\n\n- 黃金不足 – 由於缺乏黃金，無法發送攻擊。其他指揮官也可能無法發起攻擊。\n- 缺乏紅寶石或羽毛 – 由於缺乏紅寶石或羽毛，無法發送攻擊。其他指揮官也可能無法發起攻擊。\n- 單位和/或工具不足 – 由於缺乏所需的單位或工具，無法發送攻擊。其他指揮官也可能無法發起攻擊。\n- 時間跳過不足 – 由於缺乏時間跳過，無法完成攻擊。未來的冷卻時間無法跳過，迫使指揮官撤退。\n\n迅速打擊，保持您的力量，並確保指路者的策略引領您獲得勝利。",
     "info_attackAdvisor": "使用顧問攻擊發起選定陣型和指揮官的連續攻擊。冷卻時間的自動跳過會自動應用。如果攻擊失敗或指揮官被擊敗，他們將撤退，取消剩餘的攻擊。如果所需的資源耗盡，則不會開始下一次攻擊。",
     "info_battleMessage": "為每次攻擊發送戰鬥報告",
-    "intro_advisor_nomad": "特穆金·梅爾根，探索者，將他的專業知識帶入你的事業。在遊牧民族入侵期間，對遊牧民族營地發動連續攻擊，無間斷。"
+    "intro_advisor_nomad": "特穆金·梅爾根，探索者，將他的專業知識帶入你的事業。在遊牧民族入侵期間，對遊牧民族營地發動連續攻擊，無間斷。",
+    "description_advisorInformation_nomad": "特穆金·梅爾根，開路先鋒，曾是一位令人畏懼的戰爭領主，現在將他無與倫比的戰場專業知識提供給你的事業。在遊牧民族入侵事件期間，他增強你的軍隊以對遊牧營地發起多次連續攻擊，毫不留情，給敵人留下恢復的餘地。召喚你的顧問，計劃大規模攻擊，並主宰戰場。\n\n使用顧問合約或開路先鋒的印章激活遊牧顧問，然後使用顧問攻擊釋放一系列與選定編隊和指揮官協調的打擊。應用自動跳過冷卻時間，確保無縫執行。但是，如果指揮官被擊敗或滿足以下任一條件，攻擊將停止：\n\n金幣不足 - 由於缺乏金幣，無法發送攻擊。其他指揮官也可能無法發起攻擊。\n紅寶石或羽毛不足 - 由於缺乏紅寶石或羽毛，無法發送攻擊。其他指揮官也可能無法發起攻擊。\n單位和/或工具不足 - 由於缺乏所需單位或工具，無法發送攻擊。其他指揮官也可能無法發起攻擊。\n時間跳躍不足 - 由於缺乏時間跳躍，無法完成攻擊。未來的冷卻時間可能無法跳過，迫使指揮官撤退。\n\n高級和VIP指揮官不能用於顧問攻擊。\n迅速出擊，保持你的力量，確保開路先鋒的戰略將你引向勝利。"
   },
   "playertitles": {
     "playerTitle_50_jap": "暴風領主的",

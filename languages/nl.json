@@ -840,7 +840,9 @@
     "advisor_AttackFailed_reason1": "Uw adviseur aanval kan niet doorgaan. Niet genoeg goud om de aanval te lanceren. Andere bevelhebbers kunnen ook falen om hun aanvallen te lanceren als de middelen niet worden aangevuld.",
     "advisor_AttackFailed_reason0": "Uw adviseur aanval kon niet doorgaan. Controleer het overzicht van de adviseur voor details over ontbrekende middelen of andere problemen die de aanval verhinderen.",
     "info_attack_threshold": "Je hebt de dagelijkse limiet van 1000 aanvallen bereikt. Elke nieuwe aanval zal nu een verhoogde kost hebben, die exponentieel stijgt.",
-    "title_attack_threshold": "Verhoogde aanvalskosten"
+    "title_attack_threshold": "Verhoogde aanvalskosten",
+    "info_advisor_warning_commander": "Dit type commandant kan niet worden gebruikt voor adviseur-aanvallen. Om adviseur-aanvallen te kunnen lanceren, schakel over naar een andere commandant.",
+    "title_advisor_warning_commander": "Let op!"
   },
   "buildings_and_decorations": {
     "bakery_name": "Bakkerij",
@@ -12190,7 +12192,7 @@
     "dialog_researchTower_manualsCategory16_title": "Handleidingen voor drakenglas pijlen",
     "dialog_researchTower_manualsCategory17_title": "Handleidingen voor draken schubbenpantsers",
     "dialog_researchTower_manualsCategory18_title": "Handleidingen voor draken schubbenpijlen",
-    "webshop_decoWithEffects_FoodHoneyMeadProductionCap_desc": "Effect cap gedeeld over decoraties, Openbare orde +{0}, +{1} bonus op voedselproductie per uur (max. +40k), +{2} bonus op honingproductie per uur (max. +40k), +{3} bonus op medeproductie per uur (max. +400k), Gebouwgrootte {4}x{5}.",
+    "webshop_decoWithEffects_FoodHoneyMeadProductionCap_desc": "Maximale effectcapaciteit die over decoraties is verdeeld, Publieke orde +{0}, +{1} bonus op voedselproductie per uur (max. +50k), +{2} bonus op honingproductie per uur (max. +50k), +{3} bonus op meedproductie per uur (max. +500k), Gebouwgrootte {4}x{5}.",
     "webshop_decoWithEffects_XP2BarrowsCapacity_desc": "Effect gedeeld tussen decoraties, Publieke orde +{0}, +{1}% verhoogde XP verkregen uit gevechten, +{2}% verhoogde XP verkregen uit bouwen, +{3} bonus voor de capaciteit van de marktkarretjes, Gebouwgrootte {4}x{5}.",
     "webshop_FruitPirate_desc": "Buitengewoon sterke zomertijd-mêleeaanvaller met een aanvalskracht van {0}",
     "webshop_SummerHuntress_desc": "Buitengewoon sterke zomerse afstandsaanvaller met een aanvalskracht van {0}",
@@ -12675,7 +12677,7 @@
     "attack_standard": "Standaardaanval",
     "attack_amount": "Aantal aanvallen:",
     "attack_setUp": "Stel je aanvallen in!",
-    "button_SelectCamp": "Selecteer nomadenkamp",
+    "button_SelectCamp_nomad": "Selecteer nomadenkamp",
     "button_activateAdvisor": "Activeer adviseur",
     "button_attackAdvisor": "Adviseur aanval",
     "button_buyToken": "Koop token",
@@ -12705,7 +12707,22 @@
     "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "Dit zijn de trekkingkansen voor de beloningscategorieën van deze patron met de geselecteerde aanbieding. Elke categorie bevat specifieke beloningstypes die willekeurig worden gekozen. Voor elke betaalde aanbieding worden vier trekkingen uitgevoerd, elke trekking heeft de hieronder vermelde kansen.\n\nTrekking kans        Beloningscategorieën\n\n09.00%                  - Hasan fragmenten\n\n00.50%                  - Hasans aanbieding aan Ludwig\n\n03.00%                  - Aanbieding aan Prinses Beatrice\n\n05.00%                  - Aanbieding aan Sir Ulrich\n\n08.00%                  - Aanbieding aan Koning Ludwig\n\n02.00%                  - Vaardigheidsreset tokens\n\n03.40%                  - Uitrusting",
     "TITLE_EASTERGACHA": "Oproep van de Holle Maan",
     "intro_advisor_nomad_short": "Tijdens de nomadeninvasie, voer achtereenvolgende aanvallen uit op nomadencampings zonder onderbreking.",
-    "advisor_attack": "Adviseur-aanval"
+    "advisor_attack": "Adviseur-aanval",
+    "dialog_privateOffer_conversion_1": "Kickstart van de Meesterbouwer",
+    "dialog_privateOffer_conversion_2": "Architectenvoordeelpakket",
+    "dialog_privateOffer_conversion_3": "Imperium blauwdruk bundel",
+    "webshop_conversion_large_name": "Imperium blauwdruk bundel",
+    "webshop_conversion_medium_name": "Architectenvoordeelpakket",
+    "webshop_conversion_small_name": "Kickstart van de Meesterbouwer",
+    "webshop_decoWithEffects_RecSpeedToolProdRecCostCap_desc": "Effect cap gedeeld over decoraties, Publieke Orde +{0}, +{1}% bonus op rekruteringssnelheid (max. +4k%), +{2}% bonus op gereedschapproductiesnelheid (max. 400%), -{3}% vermindering van rekruteringskosten in munten (max. 20%), Gebouwgrootte {4}x{5}.",
+    "webshop_decoWithEffects_WallDefCourtDefCourtAllCap_desc": "Max aantal {0}, effectlimiet gedeeld tussen decoraties, Publieke orde +{1}, +{2}% bonus op de capaciteit van muurverdedigingstroepen (max 150%), +{3}% bonus op kracht in de binnenplaats bij verdediging (max +120%), +{4} bonus op de capaciteit van binnenplaatsverdedigingstroepen (max +150k), Gebouwgrootte {5}x{6}.",
+    "webshop_summoningcircle_VIP_name": "VIP Oproepkring",
+    "webshop_summoningcircle_extralarge_name": "Extra grote oproepcirkel",
+    "webshop_summoningcircle_giant_name": "Giant Summoning Circle",
+    "webshop_summoningcircle_huge_name": "Grote oproepcirkel",
+    "webshop_summoningcircle_large_name": "Grote oproepcirkel",
+    "webshop_summoningcircle_medium_name": "Middelgrote oproeprond",
+    "webshop_summoningcircle_small_name": "Kleine oproepcirkel"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% eenheid vechtkracht bij aanvallen",
@@ -18034,10 +18051,10 @@
     "equipment_unique_1265_desc": "Transformeert je leger in een bijenwagen en verhoogt het aantal bijen dat wordt verkregen uit succesvolle aanvallen op je vijanden, hoe kan dit?",
     "equipment_unique_1266": "Voorjaarscadeau",
     "equipment_unique_1266_desc": "Er is niets spannender dan de belofte van een overvloedige lente. Transformeer je kasteel in een majestueuze lentebloem.",
-    "equipment_unique_1267": "Paas vogelhuis",
-    "equipment_unique_1267_desc": "Laat de vrolijke geest van het Paashuisje los om het seizoen van vernieuwing te verwelkomen. Transformeer je kasteel in een levendig toevluchtsoord, versierd met kleurrijke nesten en kleurrijke paaseieren, die de vreugde van de terugkeer van de lente weergeven.",
-    "equipment_unique_1268": "Paasvaren",
-    "equipment_unique_1268_desc": "Transformeer je leger in een kracht van vernieuwing, marcherend onder zich ontvouwende varens en verborgen paaseieren, de geest van groei en viering omarmend."
+    "equipment_unique_1267": "Paaskruid",
+    "equipment_unique_1267_desc": "Transformeer je leger in een kracht van vernieuwing, marcherend onder ontvouwde varens en verborgen paaseieren, het omarmen van de geest van groei en viering.",
+    "equipment_unique_1268": "Paasvogelnest",
+    "equipment_unique_1268_desc": "Laat de vrolijke geest van het Paaskuiken los om het seizoen van vernieuwing te verwelkomen. Transformeer je kasteel in een levendig toevluchtsoord, versierd met kleurrijke nesten en kleurrijke paaseieren, dat de vreugde van de terugkeer van de lente weerkaatst."
   },
   "generic": {
     "activity": "Activiteit",
@@ -20478,10 +20495,10 @@
     "help_defense_icon_allianceDefenseUnitAmount": "Het aantal soldaten en de totale troepencapaciteit voor de bondgenootschapsondersteuning in de slottoren van je kasteel. Bondgenootschapsleden kunnen soldaten sturen om je verdediging te ondersteunen. Alle troepen boven de capaciteitslimiet voor ondersteunende troepen worden in reserve geplaatst en kunnen niet meedoen aan het gevecht.",
     "help_travelPlanning_autoCooldownSkip": "Hier kun je een transportmiddel kiezen om de reissnelheid te verhogen. Het effect en de kosten zijn afhankelijk van wat je kiest. Je kunt ook de geselecteerde eenheden vertragen, zodat ze precies aankomen als je ze nodig hebt.\n\nActiveer automatisch overslaan om direct de actieve afkoeling over te slaan als het leger aankomt bij het doelwit. De vereiste tijdsprongen worden bij aankomst direct uit je voorraad gehaald. Eventueel resterende tijd wordt terugbetaald in de vorm van tijdsprongen.",
     "advisor_speechBubble_nomad": "Een ware krijger aarzelt nooit. Gesmeed in de steppen weet ik dat alleen de snelsten overleven. Met mijn begeleiding slaan jouw troepen meedogenloos toe - geen wachten, geen genade, alleen overwinning.",
-    "description_advisorInformation_nomad": "Temujin Mergen, de Padvinder, ooit een gevreesde oorlogsheer, biedt nu zijn ongeëvenaarde expertise op het slagveld aan voor uw zaak. Tijdens het Nomadeninvasie-evenement versterkt hij uw troepen om meerdere opeenvolgende aanvallen op Nomadenkampen uit te voeren, onverbiddelijk toeslaan en de vijand geen kans geven om zich te herstellen. Roep uw adviseur op, plan massale aanvallen en domineer het slagveld.\n\nActiveer de Nomad Adviseur met een Adviseurcontract of het Padvinderseel, en gebruik vervolgens de Adviseuraanval om een reeks gecoördineerde aanvallen los te laten met de geselecteerde formatie en commandant. Automatisch overslaan voor afkoeltijden wordt toegepast, wat zorgt voor een naadloze uitvoering. De aanval zal echter stoppen als de commandant wordt verslagen of als aan een van de volgende voorwaarden wordt voldaan:\n\n- Onvoldoende Goud – De aanval kan niet worden verzonden vanwege een gebrek aan goud. Andere commandanten kunnen ook falen in het lanceren van hun aanvallen.\n- Onvoldoende Robijnen of Veren – De aanval kan niet worden verzonden vanwege een gebrek aan robijnen of veren. Andere commandanten kunnen ook falen in het lanceren van hun aanvallen.\n- Onvoldoende Eenheden en/of Gereedschappen – De aanval kan niet worden verzonden vanwege een gebrek aan vereiste eenheden of gereedschappen. Andere commandanten kunnen ook falen in het lanceren van hun aanvallen.\n- Onvoldoende Tijdoverslagen – Aanvallen kunnen niet worden voltooid vanwege een gebrek aan tijdoverslagen. Toekomstige afkoeltijden kunnen niet worden overgeslagen, waardoor commandanten gedwongen worden zich terug te trekken.\n\nSla snel toe, houd uw troepen in leven en zorg ervoor dat de strategie van de Padvinder u naar de overwinning leidt.",
     "info_attackAdvisor": "Gebruik de Adviseur-aanval voor opeenvolgende aanvallen met de gekozen formatie en commandant. Auto-overslaan wordt toegepast. Bij mislukking of nederlaag trekt de commandant zich terug en annuleert de rest. Zonder middelen start de volgende aanval niet.",
     "info_battleMessage": "Stuur een gevechtsverslag voor elke aanval",
-    "intro_advisor_nomad": "Temujin Mergen, de Padvinder, brengt zijn expertise naar uw zaak. Tijdens de Nomadeninvasie voert u opeenvolgende aanvallen uit op Nomadenkampen zonder pauzes."
+    "intro_advisor_nomad": "Temujin Mergen, de Padvinder, brengt zijn expertise naar uw zaak. Tijdens de Nomadeninvasie voert u opeenvolgende aanvallen uit op Nomadenkampen zonder pauzes.",
+    "description_advisorInformation_nomad": "Temujin Mergen, de Wegwijzer, ooit een gevreesde oorlogheer, biedt nu zijn ongeëvenaarde expertise op het slagveld aan voor jouw zaak. Tijdens het Nomadeninvasie-evenement versterkt hij jouw troepen om meerdere opeenvolgende aanvallen op Nomadenkampen te lanceren, onophoudelijk toeslaan en de vijand geen kans te geven om te herstellen. Roep jouw adviseur op, plan massale aanvallen en domineer het slagveld.\n\nActiveer de Nomad Adviseur met een Adviseur Contract of het Systeem van de Wegwijzer, en gebruik vervolgens de Adviseur Aanval om een reeks gecoördineerde aanvallen te ontketenen met de geselecteerde formatie en commandant. Automatisch overslaan voor afkoeltijden wordt toegepast, wat een naadloze uitvoering garandeert. De aanval zal echter stoppen als de commandant wordt verslagen of als aan een van de volgende voorwaarden wordt voldaan:\n\nOnvoldoende goud – De aanval kan niet worden verzonden wegens gebrek aan goud. Andere commandanten kunnen ook falen om hun aanvallen te lanceren.\nOnvoldoende robijnen of veren – De aanval kan niet worden verzonden wegens gebrek aan robijnen of veren. Andere commandanten kunnen ook falen om hun aanvallen te lanceren.\nOnvoldoende eenheden en/of gereedschappen – De aanval kan niet worden verzonden wegens gebrek aan vereiste eenheden of gereedschappen. Andere commandanten kunnen ook falen om hun aanvallen te lanceren.\nOnvoldoende tijdsprongen – Aanvallen kunnen niet worden voltooid wegens gebrek aan tijdsprongen. Toekomstige afkoeltijden kunnen niet worden overgeslagen, waardoor commandanten gedwongen worden zich terug te trekken.\n\nPremium en VIP-commandanten kunnen niet worden gebruikt voor de Adviseeraanvallen. Sla snel toe, ondersteun je troepen en zorg ervoor dat de strategie van de Wegwijzer je naar de overwinning leidt."
   },
   "playertitles": {
     "playerTitle_50_jap": "Stormheer",

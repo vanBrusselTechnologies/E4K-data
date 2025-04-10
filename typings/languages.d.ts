@@ -844,6 +844,7 @@ export interface Language {
         "error_shapeshifter_equipment_insufficientTime": string;
         "error_twisted_firestarter_while_protected": string;
         "help_message_read_combat_forwarded": string;
+        "info_advisor_warning_commander": string;
         "info_attack_threshold": string;
         "kingstower_unitWarningQuestion": string;
         "laboratory_unitWarningQuestion": string;
@@ -862,6 +863,7 @@ export interface Language {
         "register_emptyName_copy": string;
         "spyWarning_warning": string;
         "target_not_owned": string;
+        "title_advisor_warning_commander": string;
         "title_attack_threshold": string;
     };
     "buildings_and_decorations": {
@@ -2328,7 +2330,7 @@ export interface Language {
         "bundlePackage_short_info": string;
         "bundlePackage_type_equipmentBundle": string;
         "burningBuildings": string;
-        "button_SelectCamp": string;
+        "button_SelectCamp_nomad": string;
         "button_activateAdvisor": string;
         "button_attackAdvisor": string;
         "button_buyToken": string;
@@ -7557,6 +7559,9 @@ export interface Language {
         "dialog_privateBestsellerShop_easter1": string;
         "dialog_privateBestsellerShop_easter2": string;
         "dialog_privateBestsellerShop_title": string;
+        "dialog_privateOffer_conversion_1": string;
+        "dialog_privateOffer_conversion_2": string;
+        "dialog_privateOffer_conversion_3": string;
         "dialog_privateOffer_showMe": string;
         "dialog_privateOffer_valueLong": string;
         "dialog_privateOffer_valueLong_rubies": string;
@@ -12232,6 +12237,9 @@ export interface Language {
         "webshop_constructionItems_large_name": string;
         "webshop_constructionItems_medium_name": string;
         "webshop_constructionItems_small_name": string;
+        "webshop_conversion_large_name": string;
+        "webshop_conversion_medium_name": string;
+        "webshop_conversion_small_name": string;
         "webshop_cyberMonday_VIP_name": string;
         "webshop_cyberMonday_extraLarge_name": string;
         "webshop_cyberMonday_giant_name": string;
@@ -12257,7 +12265,9 @@ export interface Language {
         "webshop_decoWithEffects_HoneyFoodMeadProductionGeneric_desc": string;
         "webshop_decoWithEffects_HoneyProdHoneyStorageCap_desc": string;
         "webshop_decoWithEffects_MeadProdMeadStorageCap_desc": string;
+        "webshop_decoWithEffects_RecSpeedToolProdRecCostCap_desc": string;
         "webshop_decoWithEffects_RecrutSpeedRecrutCostGeneric_desc": string;
+        "webshop_decoWithEffects_WallDefCourtDefCourtAllCap_desc": string;
         "webshop_decoWithEffects_XP2BarrowsCapacity_desc": string;
         "webshop_decoWithEffects_attackCombat_desc": string;
         "webshop_decoWithEffects_defenderStrength_desc": string;
@@ -12684,6 +12694,13 @@ export interface Language {
         "webshop_summer_large_name": string;
         "webshop_summer_medium_name": string;
         "webshop_summer_small_name": string;
+        "webshop_summoningcircle_VIP_name": string;
+        "webshop_summoningcircle_extralarge_name": string;
+        "webshop_summoningcircle_giant_name": string;
+        "webshop_summoningcircle_huge_name": string;
+        "webshop_summoningcircle_large_name": string;
+        "webshop_summoningcircle_medium_name": string;
+        "webshop_summoningcircle_small_name": string;
         "webshop_support_1": string;
         "webshop_termsConditions_1": string;
         "webshop_timeLimitedOffer_name": string;

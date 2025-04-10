@@ -840,7 +840,9 @@
     "advisor_AttackFailed_reason1": "Seu ataque de conselheiro não pode continuar. Não há ouro suficiente para lançar o ataque. Outros comandantes também podem falhar em lançar seus ataques se os recursos não forem reabastecidos.",
     "advisor_AttackFailed_reason0": "Seu ataque de consultor não pôde prosseguir. Verifique a visão geral do consultor para obter detalhes sobre recursos ausentes ou outros problemas que impedem o ataque.",
     "info_attack_threshold": "Você atingiu o limite diário de 1.000 ataques. Cada novo ataque agora terá um custo aumentado, aumentando exponencialmente.",
-    "title_attack_threshold": "Aumento dos custos de ataque"
+    "title_attack_threshold": "Aumento dos custos de ataque",
+    "info_advisor_warning_commander": "Esse tipo de comandante não pode ser usado para ataques de conselheiros. Para poder lançar ataques de conselheiros, troque para um comandante diferente.",
+    "title_advisor_warning_commander": "Atenção!"
   },
   "buildings_and_decorations": {
     "bakery_name": "Padaria",
@@ -12190,7 +12192,7 @@
     "dialog_researchTower_manualsCategory16_title": "Manuais de flechas de vidro de dragão",
     "dialog_researchTower_manualsCategory17_title": "Manuais de armaduras de escama de dragão",
     "dialog_researchTower_manualsCategory18_title": "Manuais de flechas de escama de dragão",
-    "webshop_decoWithEffects_FoodHoneyMeadProductionCap_desc": "Efeito cap compartilhado entre decorações, Ordem Pública +{0}, +{1} bônus na produção de alimentos por hora (máx. +40k), +{2} bônus na produção de mel por hora (máx. +40k), +{3} bônus na produção de hidromel por hora (máx. +400k), Tamanho do edifício {4}x{5}.",
+    "webshop_decoWithEffects_FoodHoneyMeadProductionCap_desc": "Capacidade máxima do efeito compartilhado entre decorações, Ordem Pública +{0}, +{1} bônus para produção de alimentos por hora (máx. +50k), +{2} bônus para produção de mel por hora (máx. +50k), +{3} bônus para produção de hidromel por hora (máx. +500k), Tamanho do edifício {4}x{5}.",
     "webshop_decoWithEffects_XP2BarrowsCapacity_desc": "Efeito compartilhado entre decorações, Ordem Pública +{0}, +{1}% de XP aumentado obtido em combate, +{2}% de XP aumentado obtido em construção, +{3} bônus na capacidade dos carrinhos do mercado, Tamanho do edifício {4}x{5}.",
     "webshop_FruitPirate_desc": "Atacante corpo a corpo de verão excepcionalmente poderoso com força de ataque de {0}",
     "webshop_SummerHuntress_desc": "Atacante a distância de verão excepcionalmente poderoso com força de ataque de {0}",
@@ -12675,7 +12677,7 @@
     "attack_standard": "Ataque padrão",
     "attack_amount": "Quantidade de ataques:",
     "attack_setUp": "Configure seus ataques!",
-    "button_SelectCamp": "Selecione acampamento",
+    "button_SelectCamp_nomad": "Selecione acampamento",
     "button_activateAdvisor": "Ativar conselheiro",
     "button_attackAdvisor": "Ataque do conselheiro",
     "button_buyToken": "Comprar token",
@@ -12705,7 +12707,22 @@
     "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "Estas são as chances de sorteio para as categorias de recompensas deste patrono com a oferta selecionada. Cada categoria contém tipos específicos de recompensa, que serão escolhidos aleatoriamente. Para cada oferta paga, são realizados quatro sorteios, cada sorteio tem as chances listadas abaixo.\n\nChance de Sorteio        Categorias de Recompensas\n\n09.00%                  - Fragmentos de Hasan\n\n00.50%                  - Oferta de Hasan a Ludwig\n\n03.00%                  - Oferta à Princesa Beatrice\n\n05.00%                  - Oferta a Sir Ulrich\n\n08.00%                  - Oferta ao Rei Ludwig\n\n02.00%                  - Tokens de reinicialização de habilidades\n\n03.40%                  - Equipamento",
     "TITLE_EASTERGACHA": "Evocação da Lua Oca",
     "intro_advisor_nomad_short": "Durante a invasão nômade, lance ataques consecutivos nos acampamentos nômades sem intervalos.",
-    "advisor_attack": "Ataque do Conselheiro"
+    "advisor_attack": "Ataque do Conselheiro",
+    "dialog_privateOffer_conversion_1": "Impulso do Mestre Construtor",
+    "dialog_privateOffer_conversion_2": "Pacote de vantagens do arquiteto",
+    "dialog_privateOffer_conversion_3": "Pacote de plantas do império",
+    "webshop_conversion_large_name": "Pacote de plantas do império",
+    "webshop_conversion_medium_name": "Pacote de vantagens do arquiteto",
+    "webshop_conversion_small_name": "Impulso do Mestre Construtor",
+    "webshop_decoWithEffects_RecSpeedToolProdRecCostCap_desc": "Efeito cap compartilhado entre decorações, Ordem Pública +{0}, +{1}% de bônus na velocidade de recrutamento (máx. +4k%), +{2}% de bônus na velocidade de produção de ferramentas (máx. 400%), -{3}% de redução no custo de moeda de recrutamento (máx. 20%), Tamanho do prédio {4}x{5}.",
+    "webshop_decoWithEffects_WallDefCourtDefCourtAllCap_desc": "Contagem máxima {0}, limite de efeito compartilhado entre decorações, Ordem Pública +{1}, +{2}% de bônus na capacidade das tropas de defesa da parede (máx. 150%), +{3}% de bônus na força no pátio ao defender (máx. +120%), +{4} bônus na capacidade das tropas de defesa do pátio (máx. +150k), Tamanho do edifício {5}x{6}.",
+    "webshop_summoningcircle_VIP_name": "Círculo de Invocação VIP",
+    "webshop_summoningcircle_extralarge_name": "Círculo de convocação extra grande",
+    "webshop_summoningcircle_giant_name": "Círculo de Invocação Gigante",
+    "webshop_summoningcircle_huge_name": "Círculo de invocação enorme",
+    "webshop_summoningcircle_large_name": "Grande círculo de invocação",
+    "webshop_summoningcircle_medium_name": "Círculo de invocação médio",
+    "webshop_summoningcircle_small_name": "Pequeno círculo de invocação"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% de força de combate da unidade ao atacar",
@@ -18034,10 +18051,10 @@
     "equipment_unique_1265_desc": "Transforma seu exército em uma carroça de abelhas e aumenta o número de abelhas conquistadas em ataques bem-sucedidos contra seus inimigos, como isso pode ser?",
     "equipment_unique_1266": "Presente da primavera",
     "equipment_unique_1266_desc": "Não há nada mais emocionante do que a promessa de uma primavera abundante. Transforme seu castelo em uma majestosa flor da primavera.",
-    "equipment_unique_1267": "Casa de passarinho de Páscoa",
-    "equipment_unique_1267_desc": "Libere o alegre espírito da Casa de Páscoa para dar as boas-vindas à temporada de renovação. Transforme seu castelo em um refúgio vibrante, adornado com ninhos coloridos e ovos de Páscoa coloridos, ecoando a alegria do retorno da primavera.",
-    "equipment_unique_1268": "Samambaia de Páscoa",
-    "equipment_unique_1268_desc": "Transforme seu exército em uma força de renovação, marchando sob samambaias desdobradas e ovos de Páscoa escondidos, abraçando o espírito de crescimento e celebração."
+    "equipment_unique_1267": "Samambaia de Páscoa",
+    "equipment_unique_1267_desc": "Transforme seu exército em uma força de renovação, marchando sob samambaias desdobradas e ovos de Páscoa escondidos, abraçando o espírito de crescimento e celebração.",
+    "equipment_unique_1268": "Ninho de Páscoa",
+    "equipment_unique_1268_desc": "Liberte o espírito alegre do Ninho da Páscoa para dar boas-vindas à temporada de renovação. Transforme seu castelo em um refúgio vibrante, adornado com ninhos vibrantes e coloridos ovos de Páscoa, ecoando a alegria do retorno da primavera."
   },
   "generic": {
     "activity": "Atividade",
@@ -20478,10 +20495,10 @@
     "help_defense_icon_allianceDefenseUnitAmount": "O número de soldados e capacidade total de tropas para apoio de aliança no forte do seu castelo. Membros da aliança podem enviar soldados para apoiar a sua defesa. Todas as tropas que excederem a capacidade limite serão colocadas na reserva e não participarão da batalha.",
     "help_travelPlanning_autoCooldownSkip": "Aqui você pode escolher o modo de transporte para aumentar a velocidade de viagem. O efeito e custos dependem da sua escolha. Você também pode desacelerar as unidades selecionadas para que elas cheguem exatamente quando você precisar.\n\nAtive o avanço automático para pular instantaneamente um tempo de espera ativo quando seu exército chegar ao alvo. Os avanços de tempo necessários serão retirados diretamente do seu estoque no momento da chegada. Qualquer valor excessivo de avanço de tempo será devolvido na forma de avanços de tempo.",
     "advisor_speechBubble_nomad": "Um verdadeiro guerreiro nunca hesita. Forjado nas estepes, sei que apenas os rápidos sobrevivem. Com minha orientação, suas forças atacam implacavelmente - sem esperar, sem misericórdia, apenas vitória.",
-    "description_advisorInformation_nomad": "Temujin Mergen, o Guia, uma vez um temido senhor da guerra, agora oferece sua incomparável experiência no campo de batalha à sua causa. Durante o Evento de Invasão Nômade, ele capacita suas forças a lançar múltiplos ataques consecutivos em Acampamentos Nômades, atacando implacavelmente e deixando ao inimigo nenhum espaço para se recuperar. Chame seu conselheiro, planeje ataques em massa e domine o campo de batalha.\n\nAtive o Conselheiro Nômade usando um Contrato de Conselheiro ou o Selo do Guia, e então use o Ataque do Conselheiro para liberar uma série de ataques coordenados com a formação e o comandante selecionados. O pulo automático para cooldowns é aplicado, garantindo uma execução suave. No entanto, o ataque cessará se o comandante for derrotado ou se qualquer uma das seguintes condições for atendida:\n\n- Ouro Insuficiente – O ataque não pode ser enviado devido à falta de Ouro. Outros comandantes também podem falhar em lançar seus ataques.\n- Rubis ou penas insuficientes – O ataque não pode ser enviado devido à falta de Rubis ou penas. Outros comandantes também podem falhar em lançar seus ataques.\n- Unidades e/ou ferramentas insuficientes – O ataque não pode ser enviado devido à falta de unidades ou ferramentas necessárias. Outros comandantes também podem falhar em lançar seus ataques.\n- Pulando o tempo insuficiente – Ataques não podem ser completados devido à falta de Pulando o tempo. Cooldowns futuros não podem ser pulados, forçando os comandantes a recuar.\n\nAtaque rapidamente, mantenha suas forças e assegure-se de que a estratégia do Guia o leve à vitória.",
     "info_attackAdvisor": "Use o Ataque do Conselheiro para lançar ataques consecutivos com a formação e o comandante escolhidos. O pulo automático para os tempos de espera aplica-se automaticamente. Se um ataque falhar ou o comandante for derrotado, eles se retiram, cancelando os ataques restantes. Se os recursos necessários acabarem, o próximo ataque não começará.",
     "info_battleMessage": "Envie um relatório de batalha para cada ataque",
-    "intro_advisor_nomad": "Temujin Mergen, o Pioneiro, traz sua experiência para sua causa. Durante a Invasão Nômade, lance ataques consecutivos aos Acampamentos Nômades sem tempo de inatividade."
+    "intro_advisor_nomad": "Temujin Mergen, o Pioneiro, traz sua experiência para sua causa. Durante a Invasão Nômade, lance ataques consecutivos aos Acampamentos Nômades sem tempo de inatividade.",
+    "description_advisorInformation_nomad": "Temujin Mergen, o Desbravador, antes um temido senhor da guerra, agora oferece sua incomparável experiência de campo de batalha à sua causa. Durante o Evento de Invasão Nômade, ele potencializa suas forças para lançar múltiplos ataques consecutivos em Acampamentos Nômades, atacando incansavelmente e não dando chance para o inimigo se recuperar. Chame seu conselheiro, planeje ataques em massa e domine o campo de batalha.\n\nAtive o Conselheiro Nômade usando um Contrato de Conselheiro ou o Selo do Desbravador, e em seguida use o Ataque do Conselheiro para desencadear uma série de ataques coordenados com a formação e comandante selecionados. A opção de pular automaticamente os tempos de espera é aplicada, garantindo uma execução perfeita. No entanto, o ataque será interrompido se o comandante for derrotado ou se alguma das seguintes condições for atendida:\n\nOuro Insuficiente – O ataque não pode ser enviado devido à falta de Ouro. Outros comandantes também podem falhar em lançar seus ataques.\nRubis ou Penas Insuficientes – O ataque não pode ser enviado devido à falta de Rubis ou Penas. Outros comandantes também podem falhar em lançar seus ataques.\nUnidades e/ou Ferramentas Insuficientes – O ataque não pode ser enviado devido à falta de unidades ou ferramentas necessárias. Outros comandantes também podem falhar em lançar seus ataques.\nPuladores de Tempo Insuficientes – Os ataques não podem ser concluídos devido à falta de Puladores de Tempo. Futuros tempos de espera podem não ser pulados, forçando os comandantes a recuar.\n\nComandantes Premium e VIP não podem ser usados para os Ataques do Conselheiro.\nAtaque rapidamente, sustente suas forças e garanta que a estratégia do Desbravador te leve à vitória."
   },
   "playertitles": {
     "playerTitle_50_jap": "Lorde da Tempestade",

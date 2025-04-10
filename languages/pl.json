@@ -840,7 +840,9 @@
     "advisor_AttackFailed_reason1": "Twój atak doradcy nie może się kontynuować. Nie ma wystarczająco dużo złota, aby rozpocząć atak. Inni dowódcy mogą również nie zdołać rozpocząć swoich ataków, jeśli zasoby nie zostaną uzupełnione.",
     "advisor_AttackFailed_reason0": "Twój atak doradcy nie mógł się odbyć. Sprawdź przegląd doradcy, aby uzyskać szczegóły dotyczące brakujących zasobów lub innych problemów uniemożliwiających atak.",
     "info_attack_threshold": "Osiągnąłeś dzienny limit 1000 atak. Każda nowa atak teraz będzie miała wyższy koszt, rosnący w sposób wykładniczy.",
-    "title_attack_threshold": "Zwiększone koszty ataku"
+    "title_attack_threshold": "Zwiększone koszty ataku",
+    "info_advisor_warning_commander": "Ten typ dowódcy nie może być używany do ataków doradców. Aby móc przeprowadzać ataki doradców, przełącz się na innego dowódcę.",
+    "title_advisor_warning_commander": "Uwaga!"
   },
   "buildings_and_decorations": {
     "bakery_name": "Piekarnia",
@@ -12190,7 +12192,7 @@
     "dialog_researchTower_manualsCategory16_title": "Instrukcje dotyczące smoczego szkła strzał",
     "dialog_researchTower_manualsCategory17_title": "Podręczniki na zbroję ze smoczych łusek",
     "dialog_researchTower_manualsCategory18_title": "Podręczniki na strzały ze smoczych łusek",
-    "webshop_decoWithEffects_FoodHoneyMeadProductionCap_desc": "Efekt kapsułowy dzielony między dekoracjami, Porządek publiczny +{0}, +{1} bonus do produkcji żywności na godzinę (maks. +40k), +{2} bonus do produkcji miodu na godzinę (maks. +40k), +{3} bonus do produkcji miodu na godzinę (maks. +400k), Rozmiar budynku {4}x{5}.",
+    "webshop_decoWithEffects_FoodHoneyMeadProductionCap_desc": "Maksymalna pojemność efektu dzielonego pomiędzy dekoracjami, Porządek publiczny +{0}, +{1} bonus do produkcji żywności na godzinę (maks. +50k), +{2} bonus do produkcji miodu na godzinę (maks. +50k), +{3} bonus do produkcji miodu na godzinę (maks. +500k), Rozmiar budynku {4}x{5}.",
     "webshop_decoWithEffects_XP2BarrowsCapacity_desc": "Efekt dzielony między dekoracjami, Porządek publiczny +{0}, +{1}% zwiększone XP uzyskane z walki, +{2}% zwiększone XP uzyskane z budowy, +{3} bonus do pojemności wózków rynkowych, Rozmiar budynku {4}x{5}.",
     "webshop_FruitPirate_desc": "Niezwykle potężny napastnik do walki wręcz w sierpniu ({0} siły ataku)",
     "webshop_SummerHuntress_desc": "Niezwykle potężna letnia jednostka atakująca dystansowo o sile ataku {0}",
@@ -12675,7 +12677,7 @@
     "attack_standard": "Standardowy atak",
     "attack_amount": "Liczba ataków:",
     "attack_setUp": "Skonfiguruj swoje ataki!",
-    "button_SelectCamp": "Wybierz oboz nomadów",
+    "button_SelectCamp_nomad": "Wybierz oboz nomadów",
     "button_activateAdvisor": "Aktywuj doradcę",
     "button_attackAdvisor": "Atak doradcy",
     "button_buyToken": "Kup token",
@@ -12705,7 +12707,22 @@
     "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "To są szanse losowania dla kategorii nagród tego patrona z wybraną ofertą. Każda kategoria zawiera konkretne typy nagród, które zostaną losowo wybrane. Dla każdej płatnej oferty wykonuje się cztery losowania, każde losowanie ma szanse wymienione poniżej.\n\nSzansa losowania        Kategorie nagród\n\n09.00%                  - Strzępy Hasana\n\n00.50%                  - Oferta Hasana dla Ludwiga\n\n03.00%                  - Oferta dla Księżniczki Beatrice\n\n05.00%                  - Oferta dla Sir Ulricha\n\n08.00%                  - Oferta dla Króla Ludwiga\n\n02.00%                  - Tokeny resetowania umiejętności\n\n03.40%                  - Wyposażenie",
     "TITLE_EASTERGACHA": "Przywołanie Pustej Księżyca",
     "intro_advisor_nomad_short": "Podczas inwazji nomadów przeprowadzaj kolejne ataki na obozy nomadów bez przerwy.",
-    "advisor_attack": "Atak doradcy"
+    "advisor_attack": "Atak doradcy",
+    "dialog_privateOffer_conversion_1": "Start Mistrza Budownictwa",
+    "dialog_privateOffer_conversion_2": "Pakiet korzyści architekta",
+    "dialog_privateOffer_conversion_3": "Zestaw planów imperium",
+    "webshop_conversion_large_name": "Zestaw planów imperium",
+    "webshop_conversion_medium_name": "Pakiet korzyści architekta",
+    "webshop_conversion_small_name": "Start Mistrza Budownictwa",
+    "webshop_decoWithEffects_RecSpeedToolProdRecCostCap_desc": "Limit efektu dzielony między dekoracjami, Porządek publiczny +{0}, +{1}% bonus do prędkości rekrutacji (maks. +4k%), +{2}% bonus do prędkości produkcji narzędzi (maks. 400%), -{3}% redukcja kosztu rekrutacji w monetach (maks. 20%), Rozmiar budynku {4}x{5}.",
+    "webshop_decoWithEffects_WallDefCourtDefCourtAllCap_desc": "Maksymalna liczba {0}, limit efektów dzielony między dekoracjami, Porządek publiczny +{1}, +{2}% bonus do pojemności wojsk obrony murów (maks. 150%), +{3}% bonus do siły na dziedzińcu podczas obrony (maks. +120%), +{4} bonus do pojemności wojsk obrony dziedzińca (maks. +150k), Rozmiar budynku {5}x{6}.",
+    "webshop_summoningcircle_VIP_name": "VIP Krąg Przywołania",
+    "webshop_summoningcircle_extralarge_name": "Ekstra duża krąg przywołania",
+    "webshop_summoningcircle_giant_name": "Gigantyczne koło wezwania",
+    "webshop_summoningcircle_huge_name": "Ogromne okrąg przywołania",
+    "webshop_summoningcircle_large_name": "Duże koło przywołania",
+    "webshop_summoningcircle_medium_name": "Średni krąg przyzywania",
+    "webshop_summoningcircle_small_name": "Mały krąg przywołania"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% siły bojowej jednostki podczas ataku",
@@ -18034,10 +18051,10 @@
     "equipment_unique_1265_desc": "Przekształca twoją armię w wóz pszczeli i zwiększa liczbę pszczół zdobywanych z udanych ataków na twoich wrogów, jak to może być?",
     "equipment_unique_1266": "Podarunek Wiosny",
     "equipment_unique_1266_desc": "Nie ma nic bardziej ekscytującego niż obietnica obfitej wiosny. Przekształć swój zamek w majestatyczny wiosenny kwiat.",
-    "equipment_unique_1267": "Wielkanocna budka dla ptaków",
-    "equipment_unique_1267_desc": "Uwolnij radosnego ducha wielkanocnej budki dla ptaków, aby powitać sezon odnowy. Przekształć swój zamek w tętniące życiem schronienie, ozdobione kolorowymi gniazdami i kolorowymi jajkami wielkanocnymi, odzwierciedlając radość z powrotu wiosny.",
-    "equipment_unique_1268": "Wielkanocny paproć",
-    "equipment_unique_1268_desc": "Przekształć swoją armię w siłę odnowy, maszerując pod rozwijającymi się paprociami i ukrytymi jajkami wielkanocnymi, przyjmując ducha wzrostu i świętowania."
+    "equipment_unique_1267": "Wielkanocny paproć",
+    "equipment_unique_1267_desc": "Przekształć swoją armię w siłę odnowy, maszerując pod rozłożonymi paprociami i ukrytymi pisankami, przyjmując ducha wzrostu i świętowania.",
+    "equipment_unique_1268": "Wielkanocne gniazdo",
+    "equipment_unique_1268_desc": "Uwolnij radosnego ducha Wielkanocnego Gniazda, aby powitać sezon odnowy. Przekształć swój zamek w tętniące życiem schronienie, ozdobione kolorowymi gniazdami i kolorowymi jajkami wielkanocnymi, odzwierciedlając radość z powrotu wiosny."
   },
   "generic": {
     "activity": "Działania",
@@ -20478,10 +20495,10 @@
     "help_defense_icon_allianceDefenseUnitAmount": "Liczba żołnierzy i całkowity limit wojsk dla wsparcia sojuszu w twojej warowni zamkowej. Członkowie sojuszu mogą wysyłać żołnierzy do wsparcia twojej obrony. Wszystkie oddziały przekraczające limit wsparcia trafiają do rezerwy i nie biorą udziału w bitwie.",
     "help_travelPlanning_autoCooldownSkip": "Tutaj możesz wybrać sposób transportu, aby zwiększyć prędkość przemieszczania. Efekt i koszty zależą od tego, co wybierzesz. Możesz także spowalniać wybrane jednostki, aby docierały dokładnie wtedy, gdy ich potrzebujesz.\n\nAktywuj automatyczne pominięcie, aby natychmiastowo pominąć aktywny czas ochłonięcia, gdy armia dotrze do celu. Po dotarciu do celu pominięcie czasu jest odbierane bezpośrednio z zasobów. Wszelkie nadmiarowe wartości pominięcia czasu są zwracane w formie pominięć czasu.",
     "advisor_speechBubble_nomad": "Prawdziwy wojownik nigdy nie waha się. Wykuwany na stepach, wiem, że tylko szybcy przetrwają. Pod moim kierownictwem twoje siły uderzają nieustannie - bez czekania, bez litości, tylko zwycięstwo.",
-    "description_advisorInformation_nomad": "Temujin Mergen, Przewodnik, niegdyś przerażający władca wojny, teraz oferuje swoje niezrównane doświadczenie na polu bitwy dla twojej sprawy. W trakcie Wydarzenia Inwazji Nomadów wzmacnia twoje siły, aby mogły przeprowadzić kilka kolejnych ataków na obozowiska Nomadów, nieustannie uderzając i nie dając wrogowi szansy na regenerację. Zadzwoń do swojego doradcy, zaplanuj masowe ataki i zdominuj pole bitwy.\n\nAktywuj Doradcę Nomadów za pomocą Umowy Doradczej lub Pieczęci Przewodnika, a następnie użyj Ataku Doradcy, aby uwolnić serię skoordynowanych uderzeń z wybraną formacją i dowódcą. Zastosowane jest automatyczne pomijanie czasów odczekania, co zapewnia płynne wykonanie. Jednak atak zostanie przerwany, jeśli dowódca zostanie pokonany lub jeśli spełnione zostanie któreś z następujących warunków:\n\n- Niewystarczająca ilość złota – Atak nie może być wysłany z powodu braku złota. Inni dowódcy również mogą nie zdołać rozpocząć swoich ataków.\n- Niewystarczająca ilość rubinów lub piór – Atak nie może być wysłany z powodu braku rubinów lub piór. Inni dowódcy również mogą nie zdołać rozpocząć swoich ataków.\n- Niewystarczająca ilość jednostek i/lub narzędzi – Atak nie może być wysłany z powodu braku wymaganych jednostek lub narzędzi. Inni dowódcy również mogą nie zdołać rozpocząć swoich ataków.\n- Niewystarczająca ilość przeskoków czasowych – Ataków nie można zakończyć z powodu braku przeskoków czasowych. Przyszłe czasy odczekania nie mogą być pomijane, zmuszając dowódców do wycofania się.\n\nUderzaj szybko, utrzymuj swoje siły i upewnij się, że strategia Przewodnika prowadzi cię do zwycięstwa.",
     "info_attackAdvisor": "Użyj ataku doradcy, aby rozpocząć kolejne ataki z wybraną formacją i dowódcą. Automatyczne pomijanie czasów odnowienia jest automatycznie stosowane. Jeśli atak się nie powiedzie lub dowódca zostanie pokonany, wycofają się, anulując pozostałe ataki. Jeśli potrzebne zasoby się skończą, następny atak nie rozpocznie się.",
     "info_battleMessage": "Wyślij raport z bitwy dla każdego ataku",
-    "intro_advisor_nomad": "Temujin Mergen, Przewodnik, wnosi swoje doświadczenie do twojej sprawy. Podczas Inwazji Nomadów przeprowadzaj kolejne ataki na obozowiska nomadów bez przerwy."
+    "intro_advisor_nomad": "Temujin Mergen, Przewodnik, wnosi swoje doświadczenie do twojej sprawy. Podczas Inwazji Nomadów przeprowadzaj kolejne ataki na obozowiska nomadów bez przerwy.",
+    "description_advisorInformation_nomad": "Temujin Mergen, Wyszukiwacz, niegdyś przerażający władca wojenny, teraz oferuje swoje niezrównane doświadczenie na polu bitwy dla twojej sprawy. Podczas Wydarzenia Inwazji Nomadów, wzmacnia twoje siły, by przeprowadzać wiele kolejnych ataków na obozy nomadów, uderzając nieustannie i nie dając wrogowi miejsca na regenerację. Wezwij swojego doradcę, zaplanuj masowe ataki i zdominuj pole bitwy.\n\nAktywuj Doradcę Nomadów za pomocą Kontraktu Doradcy lub Pieczęci Wyszukiwacza, a następnie użyj Ataku Doradcy, aby uwolnić serię skoordynowanych uderzeń z wybraną formacją i dowódcą. Automatyczne pomijanie czasów oczekiwania jest stosowane, co zapewnia bezproblemową realizację. Jednak atak zostanie przerwany, jeśli dowódca zostanie pokonany lub jeśli spełniony zostanie którykolwiek z następujących warunków:\n\nNiewystarczająco dużo złota – Atak nie może być wysłany z powodu braku złota. Inni dowódcy również mogą nie zdołać rozpocząć swoich ataków.\nNiewystarczająco dużo rubinów lub piór – Atak nie może być wysłany z powodu braku rubinów lub piór. Inni dowódcy również mogą nie zdołać rozpocząć swoich ataków.\nNiewystarczające jednostki i/lub narzędzia – Atak nie może być wysłany z powodu braku wymaganych jednostek lub narzędzi. Inni dowódcy również mogą nie zdołać rozpocząć swoich ataków.\nNiewystarczająco dużo przeskoków czasowych – Ataki nie mogą być ukończone z powodu braku przeskoków czasowych. Przyszłe czasy oczekiwania mogą nie zostać pominięte, zmuszając dowódców do wycofania się.\n\nDowódcy Premium i VIP nie mogą być używani do Ataków Doradców.\nUderzaj szybko, utrzymuj swoje siły i upewnij się, że strategia Wyszukiwacza prowadzi cię do zwycięstwa."
   },
   "playertitles": {
     "playerTitle_50_jap": "Władca Sztormu",

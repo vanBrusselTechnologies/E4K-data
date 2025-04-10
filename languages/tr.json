@@ -840,7 +840,9 @@
     "advisor_AttackFailed_reason1": "Danışmanınızın saldırısı devam edemez. Saldırıyı başlatmak için yeterli altın yok. Diğer komutanlar, kaynaklar yenilenmezse saldırılarını başlatmakta başarısız olabilir.",
     "advisor_AttackFailed_reason0": "Danışman saldırınız ilerleyemedi. Saldırıyı engelleyen eksik kaynaklar veya diğer sorunlar hakkında ayrıntılar için Danışman Genel Bakışını kontrol edin.",
     "info_attack_threshold": "Günlük 1.000 saldırı sınırına ulaştınız. Her yeni saldırı şimdi maliyetini artıracak ve bu maliyetler üssel olarak yükselecek.",
-    "title_attack_threshold": "Artan saldırı maliyetleri"
+    "title_attack_threshold": "Artan saldırı maliyetleri",
+    "info_advisor_warning_commander": "Bu tür bir komutan, Danışman Saldırıları için kullanılamaz. Danışman Saldırılarını başlatabilmek için lütfen farklı bir komutana geçin.",
+    "title_advisor_warning_commander": "Dikkat!"
   },
   "buildings_and_decorations": {
     "bakery_name": "Fırın",
@@ -12190,7 +12192,7 @@
     "dialog_researchTower_manualsCategory16_title": "Ejderha camı ok kılavuzları",
     "dialog_researchTower_manualsCategory17_title": "Ejderha Pulu Zırh El Kitapları",
     "dialog_researchTower_manualsCategory18_title": "Ejderha Pulu Ok El Kitapları",
-    "webshop_decoWithEffects_FoodHoneyMeadProductionCap_desc": "Dekorasyonlar arasında paylaşılan etki kapağı, Kamu düzeni +{0}, saat başına gıda üretimine +{1} bonus (maks. +40k), saat başına bal üretimine +{2} bonus (maks. +40k), saat başına mey üretimine +{3} bonus (maks. +400k), Bina boyutu {4}x{5}.",
+    "webshop_decoWithEffects_FoodHoneyMeadProductionCap_desc": "Süslemeler arasında paylaşılan etki kapasitesi, Kamu düzeni +{0}, +{1} saatlik gıda üretimi için bonus (max +50k), +{2} saatlik bal üretimi için bonus (max +50k), +{3} saatlik mey üretimi için bonus (max +500k), Bina boyutu {4}x{5}.",
     "webshop_decoWithEffects_XP2BarrowsCapacity_desc": "Dekorasyonlar arasında paylaşılan etki, Kamu Düzeni +{0}, savaşlardan elde edilen XPde +{1}% artış, inşaattan elde edilen XPde +{2}% artış, pazar arabalarının kapasitesine +{3} bonus, Bina boyutu {4}x{5}.",
     "webshop_FruitPirate_desc": "{0} saldırı gücüne sahip olağanüstü güçlü yaz mevsimi yakın dövüş saldırı birliği",
     "webshop_SummerHuntress_desc": "{0} saldırı gücüne sahip olağanüstü güçlü yaz mevsimi menzilli dövüş saldırı birliği",
@@ -12675,7 +12677,7 @@
     "attack_standard": "Standart saldırı",
     "attack_amount": "Saldırı sayısı:",
     "attack_setUp": "Saldırılarını ayarla!",
-    "button_SelectCamp": "Göçebe kampı seçin",
+    "button_SelectCamp_nomad": "Göçebe kampı seçin",
     "button_activateAdvisor": "Danışmanı etkinleştir",
     "button_attackAdvisor": "Danışman saldırısı",
     "button_buyToken": "Token satın al",
@@ -12705,7 +12707,22 @@
     "dialog_generals_inn_drawChances_fatKing_OfferingHasan": "Bu, seçilen teklif ile bu patronun ödül kategorileri için çekiliş şanslarıdır. Her kategori, rastgele seçilecek belirli ödül türlerini içerir. Her ücretli teklif için dört çekiliş gerçekleştirilir, her çekilişin aşağıda listelenen şansları vardır.\n\nÇekiliş Şansı        Ödül Kategorileri\n\n09.00%                  - Hasan parçaları\n\n00.50%                  - Ludwig için Hasanın Teklifi\n\n03.00%                  - Prenses Beatricee Teklif\n\n05.00%                  - Sir Ulriche Teklif\n\n08.00%                  - Kral Ludwige Teklif\n\n02.00%                  - Yetenek sıfırlama jetonları\n\n03.40%                  - Ekipman",
     "TITLE_EASTERGACHA": "Boş Ayın Çağrılması",
     "intro_advisor_nomad_short": "Göçebe İstilası sırasında, kesintisiz olarak göçebe kamplara ardışık saldırılar başlatın.",
-    "advisor_attack": "Danışman Saldırısı"
+    "advisor_attack": "Danışman Saldırısı",
+    "dialog_privateOffer_conversion_1": "Usta İnşaatçının Hızlandırması",
+    "dialog_privateOffer_conversion_2": "Mimarın avantaj paketi",
+    "dialog_privateOffer_conversion_3": "İmparatorluk mavi baskı paketi",
+    "webshop_conversion_large_name": "İmparatorluk mavi baskı paketi",
+    "webshop_conversion_medium_name": "Mimarın avantaj paketi",
+    "webshop_conversion_small_name": "Usta İnşaatçının Hızlandırması",
+    "webshop_decoWithEffects_RecSpeedToolProdRecCostCap_desc": "Dekorasyonlar arasında paylaşılan etki sınırı, Kamu düzeni +{0}, +{1}% işe alım hızı bonusu (maks +4k%), +{2}% alet üretim hızı bonusu (maks 400%), -{3}% işe alım para maliyetinde azalma (maks %20), Bina boyutu {4}x{5}.",
+    "webshop_decoWithEffects_WallDefCourtDefCourtAllCap_desc": "Maks sayım {0}, sürek etkisi dekorasyonlar arasında paylaşıldı, Kamu Düzeni +{1}, duvar savunma birlikleri kapasitesine +{2}% bonus (maks. %150), savunma sırasında avludaki güç için +{3}% bonus (maks. +%120), avlu savunma birlikleri kapasitesine +{4} bonus (maks. +150k), Bina boyutu {5}x{6}.",
+    "webshop_summoningcircle_VIP_name": "VIP Çağırma Çemberi",
+    "webshop_summoningcircle_extralarge_name": "Ekstra büyük çağrı çemberi",
+    "webshop_summoningcircle_giant_name": "Dev Çağırma Dairesi",
+    "webshop_summoningcircle_huge_name": "Büyük Çağırma Dairesi",
+    "webshop_summoningcircle_large_name": "Büyük çağrı çemberi",
+    "webshop_summoningcircle_medium_name": "Orta Çağırma Dairesi",
+    "webshop_summoningcircle_small_name": "Küçük çağırma dairesi"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% birimin savaş gücü saldırırken",
@@ -18034,10 +18051,10 @@
     "equipment_unique_1265_desc": "Ordunuza bir arı arabasına dönüştürür ve düşmanlarınıza başarılı saldırılardan kazanılan arı sayısını artırır, bu nasıl mümkün olabilir?",
     "equipment_unique_1266": "Bahar hediyesi",
     "equipment_unique_1266_desc": "Bol bir baharın vaadinden daha heyecan verici bir şey yok. Şatonuzu ihtişamlı bir bahar çiçeğine dönüştürün.",
-    "equipment_unique_1267": "Paskalya Kuş Evi",
-    "equipment_unique_1267_desc": "Yenileme mevsimini karşılamak için Paskalya Kuş Evinin neşeli ruhunu serbest bırakın. Şatonuzu canlı bir sığınak haline getirin, renkli yuvalar ve rengarenk Paskalya yumurtaları ile süsleyin, baharın dönüşünün neşesini yansıtın.",
-    "equipment_unique_1268": "Paskalya eğreltiotu",
-    "equipment_unique_1268_desc": "Ordunu yenileme gücüne dönüştür, açılan eğrelti otlarının ve gizli Paskalya yumurtalarının altında yürüyerek, büyüme ve kutlama ruhunu kucakla."
+    "equipment_unique_1267": "Paskalya eğrelti otu",
+    "equipment_unique_1267_desc": "Ordunuza yenilenme gücü kazandırın, açılan fernlerin ve gizli Paskalya yumurtalarının altında yürüyerek büyüme ve kutlama ruhunu benimseyin.",
+    "equipment_unique_1268": "Paskalya Kuş Yuvası",
+    "equipment_unique_1268_desc": "Yenilenme mevsimini karşılamak için Paskalya Kuşunun neşeli ruhunu serbest bırakın. Şatonuzu, canlı bir sığınak haline getirin; renkli yuvalar ve renkli Paskalya yumurtalarıyla süsleyin, baharın dönüşünün sevincini yansıtın."
   },
   "generic": {
     "activity": "Etkinlik",
@@ -20478,10 +20495,10 @@
     "help_defense_icon_allianceDefenseUnitAmount": "İçkalendeki ittifak desteği için asker sayısı ve toplam birlik kapasitesi. İttifak üyeleri, savunmanı desteklemek için sana asker gönderebilir. Destek kapasitesi sınırını aşan tüm birlikler, yedeğe alınır ve savaşa katılmaz.",
     "help_travelPlanning_autoCooldownSkip": "Seyahat hızını artırmak için buradan bir ulaşım yolu seçebilirsin. Etki ve maliyet, seçimine göre değişir. Ayrıca tam olarak ihtiyacın olduğu anda varmaları için seçili birimleri yavaşlatabilirsin.\n\nOrdu, hedefe vardığında etkin bir bekleme süresini anında atlamak için oto atlamayı etkinleştir. Gereken süre atlamalar, vardığında doğrudan stoklarından alınır. Fazladan süre atlamalar, süre atlama olarak geri ödenir.",
     "advisor_speechBubble_nomad": "Gerçek bir savaşçı asla tereddüt etmez. Bozkırlarda şekillendim, sadece hızlı olanların hayatta kaldığını biliyorum. Rehberliğimle, güçleriniz acımasızca saldırır - beklemek yok, merhamet yok, sadece zafer.",
-    "description_advisorInformation_nomad": "Temujin Mergen, Yoldaş, bir zamanlar korkulan bir savaş lorduydu, şimdi eşsiz savaş alanı uzmanlığını davanız için sunuyor. Göçebe İstilası Etkinliği sırasında, güçlerinizi göçebe kamplara ardışık birden fazla saldırı başlatmaları için güçlendiriyor, amansızca vuruyor ve düşmana toparlanma şansı vermiyor. Danışmanınızı çağırın, toplu saldırılar planlayın ve savaş alanında üstünlük sağlayın.\n\nGöçebe Danışmanı, Danışman Sözleşmesi veya Yoldaşın Mührü kullanarak etkinleştirin, ardından seçilen formasyon ve komutan ile koordineli bir dizi saldırıyı serbest bırakmak için Danışman Saldırısını kullanın. Bekleme süreleri için otomatik atlama uygulanır, bu da kesintisiz bir yürütme sağlar. Ancak, komutan yenilirse veya aşağıdaki koşullardan herhangi biri karşılanırsa saldırı duracaktır:\n\n- Yetersiz Altın – Altın eksikliği nedeniyle saldırı gönderilemez. Diğer komutanlar da saldırılarını başlatmada başarısız olabilir.\n- Yetersiz Zümrüt veya Tüy – Zümrüt veya tüy eksikliği nedeniyle saldırı gönderilemez. Diğer komutanlar da saldırılarını başlatmada başarısız olabilir.\n- Yetersiz Birimler ve/veya Araçlar – Gerekli birimler veya araçlar eksikliği nedeniyle saldırı gönderilemez. Diğer komutanlar da saldırılarını başlatmada başarısız olabilir.\n- Yetersiz Zaman Atlama – Zaman atlamaları eksikliği nedeniyle saldırılar tamamlanamaz. Gelecek bekleme süreleri atlanamaz, bu da komutanların geri çekilmek zorunda kalmasına yol açar.\n\nHızla vurun, güçlerinizi koruyun ve Yoldaşın stratejisinin size zafer getirdiğinden emin olun.",
     "info_attackAdvisor": "Seçilen formasyon ve komutan ile ardışık saldırılar başlatmak için Danışman Saldırısını kullanın. Soğuma süreleri için otomatik atlama otomatik olarak uygulanır. Bir saldırı başarısız olursa veya komutan yenilirse, geri çekilirler ve kalan saldırıları iptal ederler. Gerekli kaynaklar tükenirse, bir sonraki saldırı başlamayacaktır.",
     "info_battleMessage": "Her saldırı için bir savaş raporu gönderin",
-    "intro_advisor_nomad": "Yol gösterici Temujin Mergen, uzmanlığını davanıza getiriyor. Göçebe İstilası sırasında, aralıksız Göçebe Kamplarına ardışık saldırılar başlatın."
+    "intro_advisor_nomad": "Yol gösterici Temujin Mergen, uzmanlığını davanıza getiriyor. Göçebe İstilası sırasında, aralıksız Göçebe Kamplarına ardışık saldırılar başlatın.",
+    "description_advisorInformation_nomad": "Temujin Mergen, Yol Gösterici, bir zamanlar korkulan bir savaş lordu, şimdi eşsiz savaş alanı uzmanlığını davanıza sunuyor. Göçebe İstilası Etkinliği sırasında, güçlerinizi Göçebe Kamplarına birden fazla ardışık saldırı düzenlemesi için güçlendiriyor, acımasızca saldırıyor ve düşmanın toparlanması için hiçbir alan bırakmıyor. Danışmanınızı çağırın, toplu saldırılar planlayın ve savaş alanında hakimiyet kurun.\n\nGöçebe Danışmanı, bir Danışman Sözleşmesi veya Yol Göstericinin Mührü ile etkinleştirin, ardından Danışman Saldırısını kullanarak seçilen formasyon ve komutan ile bir dizi koordine edilmiş saldırıyı serbest bırakın. Bekleme süreleri için otomatik atlama uygulanır, böylece kesintisiz bir uygulama sağlanır. Ancak, komutan yenilgiye uğrarsa veya aşağıdaki koşullardan herhangi biri sağlanırsa saldırı duracaktır:\n\nYetersiz Altın – Altın eksikliği nedeniyle saldırı gönderilemez. Diğer komutanlar da saldırılarını başlatmada başarısız olabilir.\nYetersiz Yakut veya Tüy – Yakut veya tüy eksikliği nedeniyle saldırı gönderilemez. Diğer komutanlar da saldırılarını başlatmada başarısız olabilir.\nYetersiz Birimler ve/veya Araçlar – Gerekli birimlerin veya araçların eksikliği nedeniyle saldırı gönderilemez. Diğer komutanlar da saldırılarını başlatmada başarısız olabilir.\nYetersiz Zaman Atlama – Zaman atlamalarının eksikliği nedeniyle saldırılar tamamlanaamaz. Gelecekteki bekleme süreleri atlanamaz, bu da komutanların geri çekilmesine zorlar.\n\nPremium ve VIP Komutanlar, Danışman Saldırıları için kullanılamaz.\nHızlı bir şekilde saldırın, güçlerinizi koruyun ve Yol Göstericinin stratejisinin sizi zaferle yönlendirmesini sağlayın."
   },
   "playertitles": {
     "playerTitle_50_jap": "Fırtına Lordu",
