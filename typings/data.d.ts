@@ -2706,7 +2706,6 @@ export interface Quest {
     "leaguetypeID"?: number;
     "mapID"?: number;
     "maxLevel"?: number;
-    "maxLevelForXP"?: number;
     "maxQuest"?: number;
     "maxRepeatCount"?: number;
     "numberOfQuestsInSeries"?: number;

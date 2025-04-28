@@ -1336,6 +1336,11 @@ export interface Language {
         "deco_ChristmasDecoWithEffect_name": string;
         "deco_CyberMondday22_name": string;
         "deco_DarkRoomHalloween_name": string;
+        "deco_DawnHopliteMonument1_name": string;
+        "deco_DawnHopliteMonument2_name": string;
+        "deco_DawnHopliteMonument3_name": string;
+        "deco_DawnHopliteMonument4_name": string;
+        "deco_DawnHopliteMonument5_name": string;
         "deco_DeathMask_name": string;
         "deco_DessertKingdomScorpionTomb_name": string;
         "deco_DonationEventDecorationDay1_name": string;
@@ -1349,6 +1354,11 @@ export interface Language {
         "deco_DonationEventDecorationNight4_name": string;
         "deco_DonationEventDecorationNight5_name": string;
         "deco_DragonBall_name": string;
+        "deco_DuskHopliteMonument1_name": string;
+        "deco_DuskHopliteMonument2_name": string;
+        "deco_DuskHopliteMonument3_name": string;
+        "deco_DuskHopliteMonument4_name": string;
+        "deco_DuskHopliteMonument5_name": string;
         "deco_EasterGiantDeco_name": string;
         "deco_EasterTower_name": string;
         "deco_EggTree_name": string;
@@ -4253,6 +4263,7 @@ export interface Language {
         "dialog_ci_disassemble_desc1": string;
         "dialog_ci_disassemble_desc2": string;
         "dialog_ci_disassemble_header": string;
+        "dialog_ci_disassemble_multiple_desc2": string;
         "dialog_ci_disassemble_tempCi_boosters_desc1": string;
         "dialog_ci_disassemble_tempCi_currency_desc1": string;
         "dialog_ci_disassemble_tempCi_desc1": string;
@@ -12158,6 +12169,7 @@ export interface Language {
         "webshop_bloodcrowInvasion_large_name": string;
         "webshop_bloodcrowInvasion_medium_name": string;
         "webshop_bloodcrowInvasion_small_name": string;
+        "webshop_buildersQuarters_description": string;
         "webshop_cancelNow": string;
         "webshop_carnivaloffer_VIP_name": string;
         "webshop_carnivaloffer_extraLarge_name": string;
@@ -12240,6 +12252,7 @@ export interface Language {
         "webshop_conversion_large_name": string;
         "webshop_conversion_medium_name": string;
         "webshop_conversion_small_name": string;
+        "webshop_crane_description": string;
         "webshop_cyberMonday_VIP_name": string;
         "webshop_cyberMonday_extraLarge_name": string;
         "webshop_cyberMonday_giant_name": string;
@@ -12268,6 +12281,7 @@ export interface Language {
         "webshop_decoWithEffects_RecSpeedToolProdRecCostCap_desc": string;
         "webshop_decoWithEffects_RecrutSpeedRecrutCostGeneric_desc": string;
         "webshop_decoWithEffects_WallDefCourtDefCourtAllCap_desc": string;
+        "webshop_decoWithEffects_WallDefCourtDefCourtCapNoLimit_desc": string;
         "webshop_decoWithEffects_XP2BarrowsCapacity_desc": string;
         "webshop_decoWithEffects_attackCombat_desc": string;
         "webshop_decoWithEffects_defenderStrength_desc": string;
@@ -13126,6 +13140,8 @@ export interface Language {
         "effect_group_6_9_active_malus": string;
         "effect_group_6_9_passive": string;
         "effect_group_8_4_active": string;
+        "effect_name_AttackBoostFlankCapped": string;
+        "effect_name_AttackBoostFrontCapped": string;
         "effect_name_AttackBoostYardDecoCapped": string;
         "effect_name_CraftingQueueProductionBoost_4": string;
         "effect_name_allianceDefenseUnitAmountYardBonusCapped": string;
@@ -13231,6 +13247,8 @@ export interface Language {
         "effect_name_woodProductionBoostMainCapped": string;
         "effect_unitWallAbsoluteAmount": string;
         "equip_effect_castellan_description_defenseUnitAmountWall": string;
+        "equip_effect_description_AttackBoostFlankCapped": string;
+        "equip_effect_description_AttackBoostFrontCapped": string;
         "equip_effect_description_AttackBoostYardDecoCapped": string;
         "equip_effect_description_MeadProductionIncrease": string;
         "equip_effect_description_allianceFameBoost": string;

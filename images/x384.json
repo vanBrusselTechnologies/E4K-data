@@ -7707,6 +7707,81 @@
     ],
     "fx": []
   },
+  "Deco_Building_DawnHopliteMonument1": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_DawnHopliteMonument1/Deco_Building_DawnHopliteMonument1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 137,
+        "h": 109,
+        "rx": 916,
+        "ry": 957
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_DawnHopliteMonument2": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_DawnHopliteMonument2/Deco_Building_DawnHopliteMonument2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 137,
+        "h": 118,
+        "rx": 916,
+        "ry": 948
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_DawnHopliteMonument3": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_DawnHopliteMonument3/Deco_Building_DawnHopliteMonument3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 141,
+        "h": 128,
+        "rx": 915,
+        "ry": 938
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_DawnHopliteMonument4": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_DawnHopliteMonument4/Deco_Building_DawnHopliteMonument4.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 151,
+        "h": 129,
+        "rx": 915,
+        "ry": 938
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_DawnHopliteMonument5": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_DawnHopliteMonument5/Deco_Building_DawnHopliteMonument5.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 151,
+        "h": 141,
+        "rx": 915,
+        "ry": 926
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_DeathMask": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_DeathMask/Deco_Building_DeathMask.png",
@@ -7943,6 +8018,81 @@
         "h": 136,
         "rx": 919,
         "ry": 928
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_DuskHopliteMonument1": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_DuskHopliteMonument1/Deco_Building_DuskHopliteMonument1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 137,
+        "h": 109,
+        "rx": 916,
+        "ry": 957
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_DuskHopliteMonument2": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_DuskHopliteMonument2/Deco_Building_DuskHopliteMonument2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 137,
+        "h": 118,
+        "rx": 916,
+        "ry": 948
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_DuskHopliteMonument3": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_DuskHopliteMonument3/Deco_Building_DuskHopliteMonument3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 141,
+        "h": 128,
+        "rx": 915,
+        "ry": 938
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_DuskHopliteMonument4": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_DuskHopliteMonument4/Deco_Building_DuskHopliteMonument4.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 151,
+        "h": 129,
+        "rx": 915,
+        "ry": 938
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_DuskHopliteMonument5": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_DuskHopliteMonument5/Deco_Building_DuskHopliteMonument5.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 151,
+        "h": 140,
+        "rx": 915,
+        "ry": 926
       }
     ],
     "fx": []
@@ -47995,6 +48145,261 @@
     ],
     "fx": []
   },
+  "General_Diana_Arm_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Diana/General_Diana_Arm_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 56,
+        "h": 94,
+        "rx": 994,
+        "ry": 986
+      }
+    ],
+    "fx": []
+  },
+  "General_Diana_Arm_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Diana/General_Diana_Arm_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 80,
+        "h": 103,
+        "rx": 938,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "General_Diana_Armore_Plate": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Diana/General_Diana_Armore_Plate.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 94,
+        "rx": 944,
+        "ry": 952
+      }
+    ],
+    "fx": []
+  },
+  "General_Diana_Chest": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Diana/General_Diana_Chest.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 117,
+        "h": 222,
+        "rx": 941,
+        "ry": 889
+      }
+    ],
+    "fx": []
+  },
+  "General_Diana_Face": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Diana/General_Diana_Face.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 93,
+        "h": 85,
+        "rx": 953,
+        "ry": 957
+      }
+    ],
+    "fx": []
+  },
+  "General_Diana_Forearm_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Diana/General_Diana_Forearm_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 311,
+        "h": 178,
+        "rx": 844,
+        "ry": 911
+      }
+    ],
+    "fx": []
+  },
+  "General_Diana_Forearm_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Diana/General_Diana_Forearm_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 70,
+        "rx": 967,
+        "ry": 965
+      }
+    ],
+    "fx": []
+  },
+  "General_Diana_Fur_Left_Back": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Diana/General_Diana_Fur_Left_Back.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 71,
+        "h": 76,
+        "rx": 964,
+        "ry": 962
+      }
+    ],
+    "fx": []
+  },
+  "General_Diana_Fur_Left_Front": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Diana/General_Diana_Fur_Left_Front.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 73,
+        "h": 69,
+        "rx": 963,
+        "ry": 965
+      }
+    ],
+    "fx": []
+  },
+  "General_Diana_Fur_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Diana/General_Diana_Fur_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 103,
+        "h": 80,
+        "rx": 948,
+        "ry": 960
+      }
+    ],
+    "fx": []
+  },
+  "General_Diana_Hand_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Diana/General_Diana_Hand_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 44,
+        "rx": 973,
+        "ry": 978
+      }
+    ],
+    "fx": []
+  },
+  "General_Diana_Hips_Protection": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Diana/General_Diana_Hips_Protection.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 115,
+        "h": 73,
+        "rx": 942,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "General_Diana_Hips": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Diana/General_Diana_Hips.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 163,
+        "h": 135,
+        "rx": 918,
+        "ry": 932
+      }
+    ],
+    "fx": []
+  },
+  "General_Diana_Legs": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Diana/General_Diana_Legs.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 291,
+        "h": 363,
+        "rx": 854,
+        "ry": 818
+      }
+    ],
+    "fx": []
+  },
+  "General_Diana_Scabbard": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Diana/General_Diana_Scabbard.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 227,
+        "h": 177,
+        "rx": 886,
+        "ry": 911
+      }
+    ],
+    "fx": []
+  },
+  "General_Diana_Sword": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Diana/General_Diana_Sword.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 311,
+        "h": 99,
+        "rx": 795,
+        "ry": 964
+      }
+    ],
+    "fx": []
+  },
+  "General_Diana_Tunic": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Diana/General_Diana_Tunic.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 203,
+        "h": 181,
+        "rx": 898,
+        "ry": 974
+      }
+    ],
+    "fx": []
+  },
   "General_Hasan_Arm_Left": {
     "pid": 1,
     "url": "x384/Characters/Generals/General_Hasan/General_Hasan_Arm_Left.png",
@@ -53725,6 +54130,21 @@
     ],
     "fx": []
   },
+  "Background_Generals_Overview_Diana": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Diana.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1211,
+        "h": 1217,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
   "Background_Generals_Overview_Hasan": {
     "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Hasan.png",
@@ -54080,6 +54500,21 @@
         "w": 1211,
         "h": 1217,
         "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Background_Generals_Overview_Preview_Valenta": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_Valenta.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1212,
+        "h": 1217,
+        "rx": 998,
         "ry": 999
       }
     ],
@@ -82685,6 +83120,21 @@
     ],
     "fx": []
   },
+  "icon_general_attack_avatar_Diana": {
+    "pid": 1,
+    "url": "x384/Icons/GeneralIcons/icon_general_attack_avatar_Diana.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 157,
+        "h": 197,
+        "rx": 921,
+        "ry": 903
+      }
+    ],
+    "fx": []
+  },
   "icon_general_attack_avatar_Hasan": {
     "pid": 1,
     "url": "x384/Icons/GeneralIcons/icon_general_attack_avatar_Hasan.png",
@@ -83026,6 +83476,51 @@
         "h": 72,
         "rx": 963,
         "ry": 964
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_Diana_xl": {
+    "pid": 1,
+    "url": "x384/Icons/GeneralIcons/icon_general_Diana_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 106,
+        "h": 102,
+        "rx": 944,
+        "ry": 951
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_Diana_xxl": {
+    "pid": 1,
+    "url": "x384/Icons/GeneralIcons/icon_general_Diana_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 137,
+        "h": 133,
+        "rx": 932,
+        "ry": 938
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_Diana": {
+    "pid": 1,
+    "url": "x384/Icons/GeneralIcons/icon_general_Diana.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 69,
+        "rx": 965,
+        "ry": 967
       }
     ],
     "fx": []
@@ -84260,6 +84755,51 @@
     ],
     "fx": []
   },
+  "icon_general_preview_Valenta_xl": {
+    "pid": 1,
+    "url": "x384/Icons/GeneralIcons/icon_general_preview_Valenta_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 97,
+        "h": 105,
+        "rx": 947,
+        "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Valenta_xxl": {
+    "pid": 1,
+    "url": "x384/Icons/GeneralIcons/icon_general_preview_Valenta_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 139,
+        "rx": 927,
+        "ry": 931
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Valenta": {
+    "pid": 1,
+    "url": "x384/Icons/GeneralIcons/icon_general_preview_Valenta.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 70,
+        "rx": 965,
+        "ry": 965
+      }
+    ],
+    "fx": []
+  },
   "icon_general_preview_WolfKing_xl": {
     "pid": 0,
     "url": "x384/Icons/GeneralIcons/icon_general_preview_WolfKing_xl.png",
@@ -84893,6 +85433,21 @@
   "icon_squared_general_BabaVarjuka": {
     "pid": 2,
     "url": "x384/Icons/GeneralIcons/icon_squared_general_BabaVarjuka.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 59,
+        "rx": 970,
+        "ry": 970
+      }
+    ],
+    "fx": []
+  },
+  "icon_squared_general_Diana": {
+    "pid": 2,
+    "url": "x384/Icons/GeneralIcons/icon_squared_general_Diana.png",
     "frames": [
       {
         "x": 0,
@@ -85951,6 +86506,21 @@
         "h": 61,
         "rx": 984,
         "ry": 969
+      }
+    ],
+    "fx": []
+  },
+  "icon_arrow_movement_backward_cancel": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_arrow_movement_backward_cancel.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 37,
+        "rx": 983,
+        "ry": 980
       }
     ],
     "fx": []
@@ -90188,6 +90758,111 @@
   "icon_currency_DecoDust": {
     "pid": 1,
     "url": "x384/Icons/Icons/icon_currency_DecoDust.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 35,
+        "rx": 982,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_DianaToken_big_ds": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_DianaToken_big_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 59,
+        "rx": 970,
+        "ry": 970
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_DianaToken_big": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_DianaToken_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 57,
+        "rx": 971,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_DianaToken_ds": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_DianaToken_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 37,
+        "h": 37,
+        "rx": 981,
+        "ry": 981
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_DianaToken_medium_ds": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_DianaToken_medium_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 47,
+        "rx": 976,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_DianaToken_medium": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_DianaToken_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 45,
+        "rx": 977,
+        "ry": 977
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_DianaToken_small": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_DianaToken_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 19,
+        "h": 18,
+        "rx": 990,
+        "ry": 991
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_DianaToken": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_DianaToken.png",
     "frames": [
       {
         "x": 0,
@@ -118408,7 +119083,7 @@
         "x": 0,
         "y": 0,
         "w": 51,
-        "h": 53,
+        "h": 54,
         "rx": 974,
         "ry": 973
       }
@@ -118756,6 +119431,21 @@
         "h": 39,
         "rx": 984,
         "ry": 980
+      }
+    ],
+    "fx": []
+  },
+  "icon_message_advisor_nomad": {
+    "pid": 0,
+    "url": "x384/Kingdoms/KingdomsShared/icon_message_advisor_nomad_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 35,
+        "rx": 982,
+        "ry": 982
       }
     ],
     "fx": []
@@ -153554,9 +154244,9 @@
       {
         "x": 0,
         "y": 0,
-        "w": 68,
-        "h": 42,
-        "rx": 984,
+        "w": 65,
+        "h": 39,
+        "rx": 985,
         "ry": 1019
       }
     ],
@@ -153569,10 +154259,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 58,
-        "h": 37,
-        "rx": 989,
-        "ry": 1022
+        "w": 65,
+        "h": 39,
+        "rx": 985,
+        "ry": 1019
       }
     ],
     "fx": []

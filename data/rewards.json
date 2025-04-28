@@ -7323,22 +7323,30 @@
     {
       "rewardID": 6985,
       "comment1": "Easter Gacha",
-      "units": "336+1500"
+      "units": "336+1500",
+      "hiddenMead": 36000,
+      "ignoreResourceStorageCapacity": 1
     },
     {
       "rewardID": 6986,
       "comment1": "Easter Gacha",
-      "units": "347+1500"
+      "units": "347+1500",
+      "hiddenMead": 36000,
+      "ignoreResourceStorageCapacity": 1
     },
     {
       "rewardID": 6987,
       "comment1": "Easter Gacha",
-      "units": "288+1500"
+      "units": "288+1500",
+      "hiddenMead": 36000,
+      "ignoreResourceStorageCapacity": 1
     },
     {
       "rewardID": 6988,
       "comment1": "Easter Gacha",
-      "units": "299+1500"
+      "units": "299+1500",
+      "hiddenMead": 36000,
+      "ignoreResourceStorageCapacity": 1
     },
     {
       "rewardID": 6989,
@@ -7580,6 +7588,146 @@
       "rewardID": 8577,
       "comment1": "Easter Gacha",
       "constructionItemIDs": 914
+    },
+    {
+      "rewardID": 8578,
+      "comment1": "DonationEventBuilderPointType, April 25",
+      "comment2": "Tier1",
+      "decoWodID": 3220,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 8579,
+      "comment1": "DonationEventBuilderPointType, April 25",
+      "comment2": "Tier2",
+      "decoWodID": 3221,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 8580,
+      "comment1": "DonationEventBuilderPointType, April 25",
+      "comment2": "Tier3",
+      "decoWodID": 3222,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 8581,
+      "comment1": "DonationEventBuilderPointType, April 25",
+      "comment2": "Tier4",
+      "decoWodID": 3223,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 8582,
+      "comment1": "DonationEventBuilderPointType, April 25",
+      "comment2": "Tier5",
+      "decoWodID": 3224,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 8583,
+      "comment1": "DonationEventBuilderPointType, April 25",
+      "comment2": "Tier6",
+      "decoWodID": 3225,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 8584,
+      "comment1": "DonationEventBuilderPointType, April 25",
+      "comment2": "Tier7",
+      "decoWodID": 3226,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 8585,
+      "comment1": "DonationEventBuilderPointType, April 25",
+      "comment2": "Tier8",
+      "decoWodID": 3227,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 8586,
+      "comment1": "DonationEventBuilderPointType, April 25",
+      "comment2": "Tier9",
+      "decoWodID": 3228,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 8587,
+      "comment1": "DonationEventBuilderPointType, April 25",
+      "comment2": "Tier10",
+      "decoWodID": 3229,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 8588,
+      "comment1": "DonationEventArchitectPointType, April 25",
+      "comment2": "Tier1",
+      "decoWodID": 3230,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 8589,
+      "comment1": "DonationEventArchitectPointType, April 25",
+      "comment2": "Tier2",
+      "decoWodID": 3231,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 8590,
+      "comment1": "DonationEventArchitectPointType, April 25",
+      "comment2": "Tier3",
+      "decoWodID": 3232,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 8591,
+      "comment1": "DonationEventArchitectPointType, April 25",
+      "comment2": "Tier4",
+      "decoWodID": 3233,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 8592,
+      "comment1": "DonationEventArchitectPointType, April 25",
+      "comment2": "Tier5",
+      "decoWodID": 3234,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 8593,
+      "comment1": "DonationEventArchitectPointType, April 25",
+      "comment2": "Tier6",
+      "decoWodID": 3235,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 8594,
+      "comment1": "DonationEventArchitectPointType, April 25",
+      "comment2": "Tier7",
+      "decoWodID": 3236,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 8595,
+      "comment1": "DonationEventArchitectPointType, April 25",
+      "comment2": "Tier8",
+      "decoWodID": 3237,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 8596,
+      "comment1": "DonationEventArchitectPointType, April 25",
+      "comment2": "Tier9",
+      "decoWodID": 3238,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 8597,
+      "comment1": "DonationEventArchitectPointType, April 25",
+      "comment2": "Tier10",
+      "decoWodID": 3239,
+      "toDecoGlobalStorage": 1
     },
     {
       "rewardID": 60000,
