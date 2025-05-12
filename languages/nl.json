@@ -12679,7 +12679,7 @@
     "advisor_AttackNumber": "Adviseur-aanval: {0}/{1}",
     "advisor_AttackSummary_defeat": "{0} Aanvallen - nederlaag",
     "advisor_AttackSummary_pending": "{0} Aanvallen - in afwachting",
-    "advisor_AttackSummary_stopped": "{0} Aanvallen - gestopt",
+    "advisor_AttackSummary_stopped": "{0} Aanvallen - verzenden mislukt / niet aangekomen",
     "advisor_AttackSummary_victory": "{0} Aanvallen - overwinning",
     "attack_advisor": "Adviseur aanval",
     "advisor_attackInfo": "Elk aanval wordt betaald wanneer deze begint, met dezelfde kosten die op elke aanval worden toegepast.",
@@ -12736,7 +12736,11 @@
     "webshop_decoWithEffects_WallDefCourtDefCourtCapNoLimit_desc": "Effect cap gedeeld over decoraties, Openbare orde +{0}, +{1}% bonus op de capaciteit van muurverdedigingstroepen (max 150%), +{2}% bonus op de kracht in de binnenplaats bij verdedigen (max +120%), +{3} bonus op de capaciteit van binnenplaatsverdedigingstroepen (max +150k), Gebouwgrootte {4}x{5}.",
     "dialog_ci_disassemble_multiple_desc2": "Het item wordt vernietigd en in ruil daarvoor ontvang je de hierboven vermelde crafting-materialen per gedemonteerd item. Weet je zeker dat je dit item wilt demonteren?",
     "webshop_buildersQuarters_description": "Ontgrendelt een bouwslot.\n\nBouwniveau: {0}\nExtra bouwslots per kasteel: {1}\nLimiet per kasteel: {2}",
-    "webshop_crane_description": "Stelt u in staat om een extra gebouw in deze kasteel in te plannen.\n\nBouwniveau: {0}\nExtra wachtrij slots per kasteel: {1}\nLimiet per kasteel: {2}"
+    "webshop_crane_description": "Stelt u in staat om een extra gebouw in deze kasteel in te plannen.\n\nBouwniveau: {0}\nExtra wachtrij slots per kasteel: {1}\nLimiet per kasteel: {2}",
+    "dialog_chestOffer_desc_conversion": "Ontgrendel spannende beloningen met het Architectenpakket!",
+    "dialog_privateBestsellerShop_buildingResourceBundle_tooltip": "Architectenbronpakket",
+    "webshop_nomadadvisor_token": "Adviseurstoken",
+    "button_advisorCancelAll": "Annuleer alle aanvallen van adviseurs"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% eenheid vechtkracht bij aanvallen",
@@ -14077,7 +14081,7 @@
     "equip_effect_description_unitWallAbsoluteAmount": "+{0} eenhedenlimiet op de muur",
     "equip_effect_description_allianceFameBoost": "+{0}% roempunten verdiend bij een aanval",
     "equip_effect_description_allianceTravelSupportBoost": "Reistijd voor alliantieondersteuning: -{0}%",
-    "effect_name_AttackBoostFlankCapped": "+{0}% vechtkracht aan de frontlinie bij aanvallen",
+    "effect_name_AttackBoostFlankCapped": "vechtkracht aan de frontlinie bij aanvallen",
     "effect_name_AttackBoostFrontCapped": "Vechtkracht van eenheden bij een aanval op het front",
     "equip_effect_description_AttackBoostFlankCapped": "+{0}% vechtkracht op de flanken bij aanval",
     "equip_effect_description_AttackBoostFrontCapped": "+{0}% vechtkracht aan de voorkant bij aanvallen"

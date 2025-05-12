@@ -12679,7 +12679,7 @@
     "advisor_AttackNumber": "アドバイザー攻撃: {0}/{1}",
     "advisor_AttackSummary_defeat": "{0} 攻撃 - 敗北",
     "advisor_AttackSummary_pending": "{0} 攻撃 - 保留中",
-    "advisor_AttackSummary_stopped": "{0} 攻撃 - 停止しました",
+    "advisor_AttackSummary_stopped": "{0} 攻撃 - 送信に失敗 / 到着していません",
     "advisor_AttackSummary_victory": "{0} 攻撃 - 勝利",
     "attack_advisor": "アドバイザー攻撃",
     "advisor_attackInfo": "各攻撃は発生時に支払いが行われ、同じコストがすべての攻撃に適用されます。",
@@ -12736,7 +12736,11 @@
     "webshop_decoWithEffects_WallDefCourtDefCourtCapNoLimit_desc": "装飾に共通する効果、公秩序 +{0}、壁防衛部隊の能力に +{1}% ボーナス (最大 150%)、防御時に中庭の強さに対する +{2}% ボーナス (最大 +120%)、中庭防衛部隊の能力に対する +{3} ボーナス (最大 +150k)、建物のサイズ {4}x{5}。",
     "dialog_ci_disassemble_multiple_desc2": "アイテムは破壊され、その代わりに分解されたアイテムごとに上記のクラフト素材を受け取ります。このアイテムを分解してもよろしいですか？",
     "webshop_buildersQuarters_description": "建設スロットを解除します。\n\n建物レベル: {0}\n城ごとの追加建設スロット: {1}\n城ごとの制限: {2}",
-    "webshop_crane_description": "この城に追加の建物をキューに入れることができます。\n\n建物レベル: {0}\n城ごとの追加キューのスロット: {1}\n城ごとの制限: {2}"
+    "webshop_crane_description": "この城に追加の建物をキューに入れることができます。\n\n建物レベル: {0}\n城ごとの追加キューのスロット: {1}\n城ごとの制限: {2}",
+    "dialog_chestOffer_desc_conversion": "建築家のバンドルでワクワクする報酬を解除しよう！",
+    "dialog_privateBestsellerShop_buildingResourceBundle_tooltip": "建築家のリソースバンドル",
+    "webshop_nomadadvisor_token": "アドバイザーのトークン",
+    "button_advisorCancelAll": "すべてのアドバイザーの攻撃をキャンセル"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% ユニットの攻撃時の戦闘力",
@@ -14077,7 +14081,7 @@
     "equip_effect_description_unitWallAbsoluteAmount": "+{0} ユニット制限 壁に",
     "equip_effect_description_allianceFameBoost": "+{0}% 攻撃時に獲得した栄光ポイント",
     "equip_effect_description_allianceTravelSupportBoost": "アライアンスサポートの移動時間: -{0}%",
-    "effect_name_AttackBoostFlankCapped": "+{0}% 戦闘力が攻撃時に前線に加わります",
+    "effect_name_AttackBoostFlankCapped": "戦闘力が攻撃時に前線に加わります",
     "effect_name_AttackBoostFrontCapped": "前線攻撃時の部隊の戦闘力",
     "equip_effect_description_AttackBoostFlankCapped": "+{0}% 側面の攻撃力が上昇する",
     "equip_effect_description_AttackBoostFrontCapped": "+{0}% 戦闘力（前線）攻撃時"

@@ -1100,6 +1100,34 @@
       "assetName": "FrozenCarrot"
     },
     {
+      "currencyID": 76,
+      "crossplayID": 76,
+      "Name": "AdvisorFreeToken",
+      "JSONKey": "AFT",
+      "assetName": "AdvisorFreeToken"
+    },
+    {
+      "currencyID": 77,
+      "crossplayID": 77,
+      "Name": "NomadAdvisorToken",
+      "JSONKey": "NAT",
+      "assetName": "NomadAdvisorToken"
+    },
+    {
+      "currencyID": 78,
+      "crossplayID": 78,
+      "Name": "SamuraiAdvisorToken",
+      "JSONKey": "SAT",
+      "assetName": "SamuraiAdvisorToken"
+    },
+    {
+      "currencyID": 79,
+      "crossplayID": 79,
+      "Name": "BaronAdvisorToken",
+      "JSONKey": "BAT",
+      "assetName": "BaronAdvisorToken"
+    },
+    {
       "currencyID": 80,
       "crossplayID": 80,
       "Name": "HollowMoonEgg",

@@ -12679,7 +12679,7 @@
     "advisor_AttackNumber": "고문 공격: {0}/{1}",
     "advisor_AttackSummary_defeat": "{0} 공격 - 패배",
     "advisor_AttackSummary_pending": "{0} 공격 - 대기 중",
-    "advisor_AttackSummary_stopped": "{0} 공격 - 중지됨",
+    "advisor_AttackSummary_stopped": "{0} 공격 - 전송 실패 / 도착하지 않음",
     "advisor_AttackSummary_victory": "{0} 공격 - 승리",
     "attack_advisor": "고문 공격",
     "advisor_attackInfo": "각 공격은 시작할 때 비용이 청구되며, 모든 공격에 동일한 비용이 적용됩니다.",
@@ -12736,7 +12736,11 @@
     "webshop_decoWithEffects_WallDefCourtDefCourtCapNoLimit_desc": "장식에 걸쳐 공유되는 효과, 공공 질서 +{0}, 벽 방어군의 수용력에 +{1}% 보너스 (최대 150%), 방어 시 안뜰의 힘에 +{2}% 보너스 (최대 +120%), 안뜰 방어군의 수용력에 +{3} 보너스 (최대 +150k), 건물 크기 {4}x{5}.",
     "dialog_ci_disassemble_multiple_desc2": "아이템은 파괴되며 그 대가로 분해된 아이템당 위에 나열된 제작 재료를 받게 됩니다. 이 아이템을 분해하시겠습니까?",
     "webshop_buildersQuarters_description": "건설 슬롯을 잠금 해제합니다.\n\n건물 수준: {0}\n성마다 추가 건설 슬롯: {1}\n성마다 제한: {2}",
-    "webshop_crane_description": "이 성에 추가 건물을 대기열에 추가할 수 있습니다.\n\n건물 수준: {0}\n성당 추가 대기열 슬롯: {1}\n성당 제한: {2}"
+    "webshop_crane_description": "이 성에 추가 건물을 대기열에 추가할 수 있습니다.\n\n건물 수준: {0}\n성당 추가 대기열 슬롯: {1}\n성당 제한: {2}",
+    "dialog_chestOffer_desc_conversion": "건축가 번들로 흥미진진한 보상을 잠금 해제하세요!",
+    "dialog_privateBestsellerShop_buildingResourceBundle_tooltip": "건축가의 자원 번들",
+    "webshop_nomadadvisor_token": "조언자의 토큰",
+    "button_advisorCancelAll": "모든 자문 공격 취소"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% 유닛 전투력 공격 시",
@@ -14077,7 +14081,7 @@
     "equip_effect_description_unitWallAbsoluteAmount": "+{0} 유닛 한도 벽에",
     "equip_effect_description_allianceFameBoost": "+{0}% 공격 시 획득한 명성 포인트",
     "equip_effect_description_allianceTravelSupportBoost": "동맹 지원 이동 시간: -{0}%",
-    "effect_name_AttackBoostFlankCapped": "+{0}% 전투력이 공격 시 전선에서 증가합니다",
+    "effect_name_AttackBoostFlankCapped": "전투력이 공격 시 전선에서 증가합니다",
     "effect_name_AttackBoostFrontCapped": "전선 공격 시 유닛의 전투력",
     "equip_effect_description_AttackBoostFlankCapped": "+{0}% 측면에서 공격할 때 전투력이 증가합니다",
     "equip_effect_description_AttackBoostFrontCapped": "+{0}% 전투력(전선) 공격 시"

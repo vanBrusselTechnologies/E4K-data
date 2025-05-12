@@ -86517,10 +86517,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 67,
-        "h": 73,
+        "w": 70,
+        "h": 80,
         "rx": 968,
-        "ry": 960
+        "ry": 954
       }
     ],
     "fx": []
@@ -109250,6 +109250,36 @@
     ],
     "fx": []
   },
+  "icon_timeout_ds": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_timeout_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 76,
+        "rx": 963,
+        "ry": 964
+      }
+    ],
+    "fx": []
+  },
+  "icon_timeout": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_timeout.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 71,
+        "h": 71,
+        "rx": 964,
+        "ry": 964
+      }
+    ],
+    "fx": []
+  },
   "icon_tool_type_basic_small": {
     "pid": 1,
     "url": "x768/Icons/Icons/icon_tool_type_basic_small.png",
@@ -128513,6 +128543,51 @@
   "Teaser_OffersHub_Big_WhaleChest_20": {
     "pid": 1,
     "url": "x768/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_20.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1537,
+        "h": 665,
+        "rx": 231,
+        "ry": 667
+      }
+    ],
+    "fx": []
+  },
+  "Teaser_OffersHub_Big_WhaleChest_21": {
+    "pid": 1,
+    "url": "x768/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_21.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1537,
+        "h": 665,
+        "rx": 231,
+        "ry": 667
+      }
+    ],
+    "fx": []
+  },
+  "Teaser_OffersHub_Big_WhaleChest_22": {
+    "pid": 1,
+    "url": "x768/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_22.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1537,
+        "h": 665,
+        "rx": 231,
+        "ry": 667
+      }
+    ],
+    "fx": []
+  },
+  "Teaser_OffersHub_Big_WhaleChest_23": {
+    "pid": 1,
+    "url": "x768/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_23.png",
     "frames": [
       {
         "x": 0,

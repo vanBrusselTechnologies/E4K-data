@@ -12679,7 +12679,7 @@
     "advisor_AttackNumber": "Rådgiverangrep: {0}/{1}",
     "advisor_AttackSummary_defeat": "{0} Angrep - nederlag",
     "advisor_AttackSummary_pending": "{0} Angrep - ventende",
-    "advisor_AttackSummary_stopped": "{0} Angrep - stoppet",
+    "advisor_AttackSummary_stopped": "{0} Angrep - sending mislyktes / ikke ankommet",
     "advisor_AttackSummary_victory": "{0} Angrep - seier",
     "attack_advisor": "Rådgiverangrep",
     "advisor_attackInfo": "Hver angrep betales når det begynner, med samme kostnad brukt på hvert angrep.",
@@ -12736,7 +12736,11 @@
     "webshop_decoWithEffects_WallDefCourtDefCourtCapNoLimit_desc": "Effektkap delt på dekorasjoner, Offentlig orden +{0}, +{1}% bonus til kapasiteten til forsvarstroppene på muren (maks 150%), +{2}% bonus til styrken i gårdsplassen ved forsvar (maks +120%), +{3} bonus til kapasiteten til forsvarstroppene i gårdsplassen (maks +150k), Bygningens størrelse {4}x{5}.",
     "dialog_ci_disassemble_multiple_desc2": "Objektet vil bli ødelagt, og i bytte vil du motta de håndverksmaterialene som er oppført ovenfor per demontert objekt. Er du sikker på at du vil demontere dette objektet?",
     "webshop_buildersQuarters_description": "Låser opp en byggeplass.\n\nBygning nivå: {0}\nEkstra byggeplasser per slott: {1}\nGrense per slott: {2}",
-    "webshop_crane_description": "Lar deg stille opp et ekstra bygg i dette slottet.\n\nBygningsnivå: {0}\nEkstra køplasser per slott: {1}\nGrense per slott: {2}"
+    "webshop_crane_description": "Lar deg stille opp et ekstra bygg i dette slottet.\n\nBygningsnivå: {0}\nEkstra køplasser per slott: {1}\nGrense per slott: {2}",
+    "dialog_chestOffer_desc_conversion": "Lås opp spennende belønninger med arkitektpakken!",
+    "dialog_privateBestsellerShop_buildingResourceBundle_tooltip": "Arkitektens ressursbunt",
+    "webshop_nomadadvisor_token": "Rådgivers token",
+    "button_advisorCancelAll": "Avbryt alle rådgiverangrep"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% enhetens kampstyrke ved angrep",
@@ -14077,7 +14081,7 @@
     "equip_effect_description_unitWallAbsoluteAmount": "+{0} enhetsgrense på veggen",
     "equip_effect_description_allianceFameBoost": "+{0}% hederspoeng opptjent ved angrep",
     "equip_effect_description_allianceTravelSupportBoost": "Reisetid for allianse støtte: -{0}%",
-    "effect_name_AttackBoostFlankCapped": "+{0}% kampstyrke på fronten når det angripes",
+    "effect_name_AttackBoostFlankCapped": "kampstyrke på fronten når det angripes",
     "effect_name_AttackBoostFrontCapped": "Kampstyrke for enheter ved angrep på fronten",
     "equip_effect_description_AttackBoostFlankCapped": "+{0}% kampstyrke på flanker ved angrep",
     "equip_effect_description_AttackBoostFrontCapped": "+{0}% kampstyrke på fronten ved angrep"

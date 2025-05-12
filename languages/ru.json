@@ -12679,7 +12679,7 @@
     "advisor_AttackNumber": "Атака советника: {0}/{1}",
     "advisor_AttackSummary_defeat": "{0} Атаки - поражение",
     "advisor_AttackSummary_pending": "{0} Атаки - в ожидании",
-    "advisor_AttackSummary_stopped": "{0} Атаки - остановлены",
+    "advisor_AttackSummary_stopped": "{0} Атаки - не удалось отправить / не пришло",
     "advisor_AttackSummary_victory": "{0} Атаки - победа",
     "attack_advisor": "Атака советника",
     "advisor_attackInfo": "Каждая атака оплачивается при начале, при этом одинаковая стоимость применяется к каждой атаке.",
@@ -12736,7 +12736,11 @@
     "webshop_decoWithEffects_WallDefCourtDefCourtCapNoLimit_desc": "Эффект, разделяемый между украшениями, Общественный порядок +{0}, +{1}% бонус к емкости защитных войск на стене (макс. 150%), +{2}% бонус к силе во дворе при защите (макс. +120%), +{3} бонус к емкости защитных войск во дворе (макс. +150k), Размер здания {4}x{5}.",
     "dialog_ci_disassemble_multiple_desc2": "Предмет будет уничтожен, а взамен вы получите материалы для крафта, указанные выше, за каждый разобранный предмет. Вы уверены, что хотите разобрать этот предмет?",
     "webshop_buildersQuarters_description": "Разблокирует строительный слот.\n\nУровень здания: {0}\nДополнительные строительные слоты на замок: {1}\nЛимит на замок: {2}",
-    "webshop_crane_description": "Позволяет вам добавить дополнительное здание в этот замок.\n\nУровень здания: {0}\nДополнительные слоты очереди на замок: {1}\nЛимит на замок: {2}"
+    "webshop_crane_description": "Позволяет вам добавить дополнительное здание в этот замок.\n\nУровень здания: {0}\nДополнительные слоты очереди на замок: {1}\nЛимит на замок: {2}",
+    "dialog_chestOffer_desc_conversion": "Разблокируйте захватывающие награды с помощью Пакета Архитектора!",
+    "dialog_privateBestsellerShop_buildingResourceBundle_tooltip": "Пакет ресурсов архитектора",
+    "webshop_nomadadvisor_token": "Токен советника",
+    "button_advisorCancelAll": "Отменить все атаки советников"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% боевой мощи юнита при атаке",
@@ -14077,7 +14081,7 @@
     "equip_effect_description_unitWallAbsoluteAmount": "+{0} лимит юнитов на стене",
     "equip_effect_description_allianceFameBoost": "+{0}% очков славы, полученных при атаке",
     "equip_effect_description_allianceTravelSupportBoost": "Время путешествия для поддержки альянса: -{0}%",
-    "effect_name_AttackBoostFlankCapped": "+{0}% боевой мощи на фронте при атаке",
+    "effect_name_AttackBoostFlankCapped": "боевой мощи на фронте при атаке",
     "effect_name_AttackBoostFrontCapped": "Боевые силы юнитов при атаке фронта",
     "equip_effect_description_AttackBoostFlankCapped": "+{0}% боевой силы на флангах при атаке",
     "equip_effect_description_AttackBoostFrontCapped": "+{0}% боевой мощи на фронте при атаке"

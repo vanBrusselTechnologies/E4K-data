@@ -12679,7 +12679,7 @@
     "advisor_AttackNumber": "Attaque du conseiller : {0}/{1}",
     "advisor_AttackSummary_defeat": "{0} Attaques - défaite",
     "advisor_AttackSummary_pending": "{0} Attaques - en attente",
-    "advisor_AttackSummary_stopped": "{0} Attaques - arrêtées",
+    "advisor_AttackSummary_stopped": "{0} Attaques - échec denvoi / non arrivé",
     "advisor_AttackSummary_victory": "{0} Attaques - victoire",
     "attack_advisor": "Attaque du conseiller",
     "advisor_attackInfo": "Chaque attaque est payée au début, avec le même coût appliqué à chaque attaque.",
@@ -12736,7 +12736,11 @@
     "webshop_decoWithEffects_WallDefCourtDefCourtCapNoLimit_desc": "Effet partagé entre les décorations, Ordre public +{0}, +{1}% de bonus à la capacité des troupes de défense des murs (max 150%), +{2}% de bonus à la force dans la cour lors de la défense (max +120%), +{3} bonus à la capacité des troupes de défense dans la cour (max +150k), Taille du bâtiment {4}x{5}.",
     "dialog_ci_disassemble_multiple_desc2": "Lobjet sera détruit et en échange, vous recevrez les matériaux de fabrication énumérés ci-dessus par objet désassemblé. Êtes-vous sûr de vouloir démonter cet objet?",
     "webshop_buildersQuarters_description": "Débloque un emplacement de construction.\n\nNiveau de construction : {0}\nEmplacements de construction supplémentaires par château : {1}\nLimite par château : {2}",
-    "webshop_crane_description": "Vous permet dajouter un bâtiment supplémentaire dans ce château.\n\nNiveau du bâtiment : {0}\nEmplacements de file dattente supplémentaires par château : {1}\nLimite par château : {2}"
+    "webshop_crane_description": "Vous permet dajouter un bâtiment supplémentaire dans ce château.\n\nNiveau du bâtiment : {0}\nEmplacements de file dattente supplémentaires par château : {1}\nLimite par château : {2}",
+    "dialog_chestOffer_desc_conversion": "Déverrouillez des récompenses passionnantes avec le Pack de lArchitecte!",
+    "dialog_privateBestsellerShop_buildingResourceBundle_tooltip": "Pack de ressources de larchitecte",
+    "webshop_nomadadvisor_token": "Jeton de conseiller",
+    "button_advisorCancelAll": "Annuler toutes les attaques de conseillers"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% de force de combat de lunité lors de lattaque",
@@ -14077,7 +14081,7 @@
     "equip_effect_description_unitWallAbsoluteAmount": "+{0} limite dunités sur le mur",
     "equip_effect_description_allianceFameBoost": "+{0}% points de gloire gagnés lors de lattaque",
     "equip_effect_description_allianceTravelSupportBoost": "Temps de voyage de soutien à lalliance : -{0}%",
-    "effect_name_AttackBoostFlankCapped": "+{0}% de force de combat à lavant lors de lattaque",
+    "effect_name_AttackBoostFlankCapped": "de force de combat à lavant lors de lattaque",
     "effect_name_AttackBoostFrontCapped": "Force de combat des unités lors de lattaque du front",
     "equip_effect_description_AttackBoostFlankCapped": "+{0}% force de combat sur les flancs lors de lattaque",
     "equip_effect_description_AttackBoostFrontCapped": "+{0}% de force de combat à lavant lors de lattaque"

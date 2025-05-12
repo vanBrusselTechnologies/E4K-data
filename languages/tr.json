@@ -12679,7 +12679,7 @@
     "advisor_AttackNumber": "Danışman Saldırısı: {0}/{1}",
     "advisor_AttackSummary_defeat": "{0} Saldırılar - yenilgi",
     "advisor_AttackSummary_pending": "{0} Saldırılar - beklemede",
-    "advisor_AttackSummary_stopped": "{0} Saldırılar - durduruldu",
+    "advisor_AttackSummary_stopped": "{0} Saldırılar - göndermede hata / ulaşmadı",
     "advisor_AttackSummary_victory": "{0} Saldırılar - zafer",
     "attack_advisor": "Danışman saldırısı",
     "advisor_attackInfo": "Her saldırı başladığında ödenir ve her saldırıya aynı maliyet uygulanır.",
@@ -12736,7 +12736,11 @@
     "webshop_decoWithEffects_WallDefCourtDefCourtCapNoLimit_desc": "Dekorasyonlar arasında paylaşılan etki, Kamu düzeni +{0}, duvar savunma birliklerinin kapasitesine +{1}% bonus (maks 150%), savunmada avludaki güç için +{2}% bonus (maks +120%), avlu savunma birliklerinin kapasitesine +{3} bonus (maks +150k), Bina boyutu {4}x{5}.",
     "dialog_ci_disassemble_multiple_desc2": "Öğe yok edilecek ve bunun karşılığında her sökülen öğe başına yukarıda listelenen el sanatları malzemelerini alacaksınız. Bu öğeyi sökmek istediğinizden emin misiniz?",
     "webshop_buildersQuarters_description": "Bir inşaat slotunu açar.\n\nBina seviyesi: {0}\nKale başına ek inşaat slotları: {1}\nKale başına limit: {2}",
-    "webshop_crane_description": "Bu kalede ek bir bina sıraya almanıza olanak tanır.\n\nBina seviyesi: {0}\nKale başına ekstra kuyruk slotları: {1}\nKale başına limit: {2}"
+    "webshop_crane_description": "Bu kalede ek bir bina sıraya almanıza olanak tanır.\n\nBina seviyesi: {0}\nKale başına ekstra kuyruk slotları: {1}\nKale başına limit: {2}",
+    "dialog_chestOffer_desc_conversion": "Mimar Paketi ile heyecan verici ödülleri açın!",
+    "dialog_privateBestsellerShop_buildingResourceBundle_tooltip": "Mimarın kaynak paketi",
+    "webshop_nomadadvisor_token": "Danışmanın jetonu",
+    "button_advisorCancelAll": "Tüm Danışman Saldırılarını İptal Et"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% birimin savaş gücü saldırırken",
@@ -14077,7 +14081,7 @@
     "equip_effect_description_unitWallAbsoluteAmount": "+{0} birim sınırı duvarda",
     "equip_effect_description_allianceFameBoost": "+{0}% saldırı sırasında kazanılan şöhret puanı",
     "equip_effect_description_allianceTravelSupportBoost": "İttifak destek seyahat süresi: -{0}%",
-    "effect_name_AttackBoostFlankCapped": "+{0}% savaş gücü cephede saldırırken",
+    "effect_name_AttackBoostFlankCapped": "savaş gücü cephede saldırırken",
     "effect_name_AttackBoostFrontCapped": "Cephenin saldırısında birimlerin savaş gücü",
     "equip_effect_description_AttackBoostFlankCapped": "+{0}% saldırı sırasında kanatlarda savaş gücü",
     "equip_effect_description_AttackBoostFrontCapped": "+{0}% savaş gücü cephede saldırırken"

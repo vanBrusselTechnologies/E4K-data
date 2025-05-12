@@ -12679,7 +12679,7 @@
     "advisor_AttackNumber": "Beraterangriff: {0}/{1}",
     "advisor_AttackSummary_defeat": "{0} Angriffe - Niederlage",
     "advisor_AttackSummary_pending": "{0} Angriffe - ausstehend",
-    "advisor_AttackSummary_stopped": "{0} Angriffe - gestoppt",
+    "advisor_AttackSummary_stopped": "{0} Angriffe - Versand fehlgeschlagen / nicht angekommen",
     "advisor_AttackSummary_victory": "{0} Angriffe - Sieg",
     "attack_advisor": "Beraterangriff",
     "advisor_attackInfo": "Jeder Angriff wird beim Beginn bezahlt, wobei die gleiche Kosten für jeden Angriff gilt.",
@@ -12736,7 +12736,11 @@
     "webshop_decoWithEffects_WallDefCourtDefCourtCapNoLimit_desc": "Effektkap auf Dekorationen verteilt, Öffentliche Ordnung +{0}, +{1}% Bonus auf die Kapazität der Verteidigungstruppen an der Mauer (max. 150%), +{2}% Bonus auf die Stärke im Innenhof bei Verteidigung (max. +120%), +{3} Bonus auf die Kapazität der Verteidigungstruppen im Innenhof (max. +150k), Gebäudegröße {4}x{5}.",
     "dialog_ci_disassemble_multiple_desc2": "Der Artikel wird zerstört und im Austausch erhalten Sie die oben aufgeführten Crafting-Materialien pro zerlegtem Artikel. Sind Sie sicher, dass Sie diesen Artikel zerlegen möchten?",
     "webshop_buildersQuarters_description": "Entsperrt einen Bauplatz.\n\nGebäudeniveau: {0}\nZusätzliche Bauplätze pro Burg: {1}\nLimit pro Burg: {2}",
-    "webshop_crane_description": "Ermöglicht es Ihnen, ein zusätzliches Gebäude in dieser Burg einzuplanen.\n\nGebäudeniveau: {0}\nZusätzliche Warteschlangenplätze pro Burg: {1}\nLimit pro Burg: {2}"
+    "webshop_crane_description": "Ermöglicht es Ihnen, ein zusätzliches Gebäude in dieser Burg einzuplanen.\n\nGebäudeniveau: {0}\nZusätzliche Warteschlangenplätze pro Burg: {1}\nLimit pro Burg: {2}",
+    "dialog_chestOffer_desc_conversion": "Schalte spannende Belohnungen mit dem Architekten-Paket frei!",
+    "dialog_privateBestsellerShop_buildingResourceBundle_tooltip": "Architekten-Ressourcenpaket",
+    "webshop_nomadadvisor_token": "Berater-Token",
+    "button_advisorCancelAll": "Alle Beraterangriffe abbrechen"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% Einheit Kampfkraft beim Angreifen",
@@ -14077,7 +14081,7 @@
     "equip_effect_description_unitWallAbsoluteAmount": "+{0} Einheitenlimit an der Wand",
     "equip_effect_description_allianceFameBoost": "+{0}% Ruhmpunkte beim Angreifen verdient",
     "equip_effect_description_allianceTravelSupportBoost": "Reisezeit für Allianzunterstützung: -{0}%",
-    "effect_name_AttackBoostFlankCapped": "+{0}% Kampfkraft an der Front bei Angriffen",
+    "effect_name_AttackBoostFlankCapped": "Kampfkraft an der Front bei Angriffen",
     "effect_name_AttackBoostFrontCapped": "Kampfkraft der Einheiten beim Angriff auf die Front",
     "equip_effect_description_AttackBoostFlankCapped": "+{0}% Kampfkraft an den Flanken beim Angreifen",
     "equip_effect_description_AttackBoostFrontCapped": "+{0}% Kampfkraft an der Front beim Angreifen"

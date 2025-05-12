@@ -12679,7 +12679,7 @@
     "advisor_AttackNumber": "Neuvojan hyökkäys: {0}/{1}",
     "advisor_AttackSummary_defeat": "{0} Hyökkäykset - tappio",
     "advisor_AttackSummary_pending": "{0} Hyökkäykset - odottavat",
-    "advisor_AttackSummary_stopped": "{0} Hyökkäykset - pysäytetty",
+    "advisor_AttackSummary_stopped": "{0} Hyökkäykset - lähetys epäonnistui / ei saapunut",
     "advisor_AttackSummary_victory": "{0} Hyökkäykset - voitto",
     "attack_advisor": "Neuvojan hyökkäys",
     "advisor_attackInfo": "Jokaisesta hyökkäyksestä maksetaan, kun se alkaa, ja sama kustannus koskee jokaista hyökkäystä.",
@@ -12736,7 +12736,11 @@
     "webshop_decoWithEffects_WallDefCourtDefCourtCapNoLimit_desc": "Vaikutus, joka jaetaan koristeiden kesken, Julkinen järjestys +{0}, +{1}% bonus muurin puolustusjoukkojen kapasiteettiin (max 150%), +{2}% bonus voimaan pihalla puolustettaessa (max +120%), +{3} bonus pihan puolustuspajojen kapasiteettiin (max +150k), Rakennuksen koko {4}x{5}.",
     "dialog_ci_disassemble_multiple_desc2": "Esine tuhotaan, ja sen sijaan saat yllä olevat askartelumateriaalit jokaista purettua esinettä kohden. Oletko varma, että haluat purkaa tämän esineen?",
     "webshop_buildersQuarters_description": "Avaa rakennuspaikan.\n\nRakennustaso: {0}\nLisärakennuspaikat linnaa kohti: {1}\nRaja per linna: {2}",
-    "webshop_crane_description": "Sallii sinun jonottaa ylimääräinen rakennus tässä linnassa.\n\nRakennustaso: {0}\nLisäjonotilat per linna: {1}\nRaja per linna: {2}"
+    "webshop_crane_description": "Sallii sinun jonottaa ylimääräinen rakennus tässä linnassa.\n\nRakennustaso: {0}\nLisäjonotilat per linna: {1}\nRaja per linna: {2}",
+    "dialog_chestOffer_desc_conversion": "Avaa jännittäviä palkintoja Arkkitehdin paketilla!",
+    "dialog_privateBestsellerShop_buildingResourceBundle_tooltip": "Arkkitehdin resurssipaketti",
+    "webshop_nomadadvisor_token": "Neuvojan merkki",
+    "button_advisorCancelAll": "Peruuta kaikki neuvonantajien hyökkäykset"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% yksikön taisteluvoima hyökkäyksessä",
@@ -14077,7 +14081,7 @@
     "equip_effect_description_unitWallAbsoluteAmount": "+{0} yksikköraja seinällä",
     "equip_effect_description_allianceFameBoost": "+{0}% kunniapisteitä ansaittu hyökkäyksissä",
     "equip_effect_description_allianceTravelSupportBoost": "Liittouman tukematka-aika: -{0}%",
-    "effect_name_AttackBoostFlankCapped": "+{0}% taisteluvahvuudesta eturintamassa hyökkäyksessä",
+    "effect_name_AttackBoostFlankCapped": "taisteluvahvuudesta eturintamassa hyökkäyksessä",
     "effect_name_AttackBoostFrontCapped": "Yksiköiden taisteluvoima hyökkäyksessä eturintamaan",
     "equip_effect_description_AttackBoostFlankCapped": "+{0}% taisteluvoimaa sivustoilla hyökkäyksessä",
     "equip_effect_description_AttackBoostFrontCapped": "+{0}% taisteluvahvuutta eturintamassa hyökkäyksessä"

@@ -12679,7 +12679,7 @@
     "advisor_AttackNumber": "Attacco delladvisor: {0}/{1}",
     "advisor_AttackSummary_defeat": "{0} Attacchi - sconfitta",
     "advisor_AttackSummary_pending": "{0} Attacchi - in attesa",
-    "advisor_AttackSummary_stopped": "{0} Attacchi - fermati",
+    "advisor_AttackSummary_stopped": "{0} Attacchi - invio fallito / non arrivato",
     "advisor_AttackSummary_victory": "{0} Attacchi - vittoria",
     "attack_advisor": "Attacco del consulente",
     "advisor_attackInfo": "Ogni attacco è pagato allinizio, con lo stesso costo applicato a ogni attacco.",
@@ -12736,7 +12736,11 @@
     "webshop_decoWithEffects_WallDefCourtDefCourtCapNoLimit_desc": "Effetto condiviso tra le decorazioni, Ordine Pubblico +{0}, +{1}% di bonus alla capacità delle truppe di difesa delle mura (max 150%), +{2}% di bonus alla forza nel cortile durante la difesa (max +120%), +{3} bonus alla capacità delle truppe di difesa nel cortile (max +150k), Dimensioni delledificio {4}x{5}.",
     "dialog_ci_disassemble_multiple_desc2": "Loggetto verrà distrutto e in cambio riceverai i materiali di crafting elencati sopra per ogni oggetto smontato. Sei sicuro di voler smontare questo oggetto?",
     "webshop_buildersQuarters_description": "Sblocca uno slot di costruzione.\n\nLivello edificio: {0}\nSlot di costruzione extra per castello: {1}\nLimite per castello: {2}",
-    "webshop_crane_description": "Ti consente di mettere in coda un edificio aggiuntivo in questo castello.\n\nLivello edificio: {0}\nSlot di coda extra per castello: {1}\nLimite per castello: {2}"
+    "webshop_crane_description": "Ti consente di mettere in coda un edificio aggiuntivo in questo castello.\n\nLivello edificio: {0}\nSlot di coda extra per castello: {1}\nLimite per castello: {2}",
+    "dialog_chestOffer_desc_conversion": "Sblocca premi entusiasmanti con il Pacchetto dellArchitetto!",
+    "dialog_privateBestsellerShop_buildingResourceBundle_tooltip": "Pacchetto risorse dellarchitetto",
+    "webshop_nomadadvisor_token": "Gettone dellistruttore",
+    "button_advisorCancelAll": "Annulla tutti gli attacchi degli advisor"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% di forza di combattimento dellunità in attacco",
@@ -14077,7 +14081,7 @@
     "equip_effect_description_unitWallAbsoluteAmount": "+{0} limite di unità sul muro",
     "equip_effect_description_allianceFameBoost": "+{0}% punti gloria guadagnati attaccando",
     "equip_effect_description_allianceTravelSupportBoost": "Tempo di viaggio di supporto allalleanza: -{0}%",
-    "effect_name_AttackBoostFlankCapped": "+{0}% di forza in combattimento al fronte durante lattacco",
+    "effect_name_AttackBoostFlankCapped": "di forza in combattimento al fronte durante lattacco",
     "effect_name_AttackBoostFrontCapped": "Forza di combattimento delle unità durante lattacco al fronte",
     "equip_effect_description_AttackBoostFlankCapped": "+{0}% forza in combattimento sui fianchi durante lattacco",
     "equip_effect_description_AttackBoostFrontCapped": "+{0}% di forza in combattimento sul fronte durante lattacco"

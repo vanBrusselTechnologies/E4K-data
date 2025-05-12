@@ -54022,7 +54022,7 @@
       "comment1": "March LTPE Shop - 2025 Lvl 1020",
       "comment2": "Mead Range Offensive 10",
       "costStPatrickLTPEToken": 100,
-      "unitID": 215,
+      "unitID": 214,
       "unitAmount": 100,
       "hiddenMead": 500,
       "ignoreResourceStorageCapacity": 1,
@@ -54036,7 +54036,7 @@
       "comment1": "March LTPE Shop - 2025 Lvl 1020",
       "comment2": "Mead Meele Offensive 10",
       "costStPatrickLTPEToken": 100,
-      "unitID": 216,
+      "unitID": 204,
       "unitAmount": 100,
       "hiddenMead": 500,
       "ignoreResourceStorageCapacity": 1,
@@ -54128,6 +54128,7 @@
       "costStPatrickLTPEToken": 5000,
       "stock": 1,
       "minLegendLevel": 720,
+      "maxLegendLevel": 949,
       "sortOrder": 1,
       "relationIDs": "999,411",
       "buildingID": 3213,
@@ -54272,7 +54273,7 @@
       "comment1": "March LTPE Shop - 2025 Lvl 720-1019",
       "comment2": "Mead Range Offensive 10",
       "costStPatrickLTPEToken": 100,
-      "unitID": 215,
+      "unitID": 214,
       "unitAmount": 100,
       "hiddenMead": 500,
       "ignoreResourceStorageCapacity": 1,
@@ -54287,7 +54288,7 @@
       "comment1": "March LTPE Shop - 2025 Lvl 720-1019",
       "comment2": "Mead Meele Offensive 10",
       "costStPatrickLTPEToken": 100,
-      "unitID": 216,
+      "unitID": 204,
       "unitAmount": 100,
       "hiddenMead": 500,
       "ignoreResourceStorageCapacity": 1,
@@ -54531,7 +54532,7 @@
       "comment1": "March LTPE Shop - 2025 Lvl 270-719",
       "comment2": "Mead Range Offensive 10",
       "costStPatrickLTPEToken": 100,
-      "unitID": 215,
+      "unitID": 214,
       "unitAmount": 100,
       "hiddenMead": 500,
       "ignoreResourceStorageCapacity": 1,
@@ -54546,7 +54547,7 @@
       "comment1": "March LTPE Shop - 2025 Lvl 270-719",
       "comment2": "Mead Meele Offensive 10",
       "costStPatrickLTPEToken": 100,
-      "unitID": 216,
+      "unitID": 204,
       "unitAmount": 100,
       "hiddenMead": 500,
       "ignoreResourceStorageCapacity": 1,
@@ -54790,7 +54791,7 @@
       "comment1": "March LTPE Shop - 2025 Lvl 70-269",
       "comment2": "Mead Range Offensive 10",
       "costStPatrickLTPEToken": 100,
-      "unitID": 215,
+      "unitID": 214,
       "unitAmount": 100,
       "hiddenMead": 500,
       "ignoreResourceStorageCapacity": 1,
@@ -54805,7 +54806,7 @@
       "comment1": "March LTPE Shop - 2025 Lvl 70-269",
       "comment2": "Mead Meele Offensive 10",
       "costStPatrickLTPEToken": 100,
-      "unitID": 216,
+      "unitID": 204,
       "unitAmount": 100,
       "hiddenMead": 500,
       "ignoreResourceStorageCapacity": 1,
@@ -54906,7 +54907,7 @@
       "minLegendLevel": 950,
       "sortOrder": 1,
       "relationIDs": "999,405",
-      "buildingID": 3213,
+      "buildingID": 3214,
       "buildingAmount": 1,
       "validKingdoms": "0,1,2,3"
     },
@@ -55050,7 +55051,7 @@
       "comment1": "April LTPE Shop - 2025 Lvl 1020",
       "comment2": "Mead Range Offensive 10",
       "costSpringLTPEToken": 100,
-      "unitID": 215,
+      "unitID": 214,
       "unitAmount": 100,
       "hiddenMead": 500,
       "ignoreResourceStorageCapacity": 1,
@@ -55064,7 +55065,7 @@
       "comment1": "April LTPE Shop - 2025 Lvl 1020",
       "comment2": "Mead Meele Offensive 10",
       "costSpringLTPEToken": 100,
-      "unitID": 216,
+      "unitID": 204,
       "unitAmount": 100,
       "hiddenMead": 500,
       "ignoreResourceStorageCapacity": 1,
@@ -55156,9 +55157,10 @@
       "costSpringLTPEToken": 5000,
       "stock": 1,
       "minLegendLevel": 720,
+      "maxLegendLevel": 949,
       "sortOrder": 1,
       "relationIDs": "999,405",
-      "buildingID": 3213,
+      "buildingID": 3214,
       "buildingAmount": 1,
       "validKingdoms": "0,1,2,3"
     },
@@ -55300,7 +55302,7 @@
       "comment1": "April LTPE Shop - 2025 Lvl 720-1019",
       "comment2": "Mead Range Offensive 10",
       "costSpringLTPEToken": 100,
-      "unitID": 215,
+      "unitID": 214,
       "unitAmount": 100,
       "hiddenMead": 500,
       "ignoreResourceStorageCapacity": 1,
@@ -55315,7 +55317,7 @@
       "comment1": "April LTPE Shop - 2025 Lvl 720-1019",
       "comment2": "Mead Meele Offensive 10",
       "costSpringLTPEToken": 100,
-      "unitID": 216,
+      "unitID": 204,
       "unitAmount": 100,
       "hiddenMead": 500,
       "ignoreResourceStorageCapacity": 1,
@@ -55417,7 +55419,7 @@
       "maxLegendLevel": 719,
       "sortOrder": 1,
       "relationIDs": "999,405",
-      "buildingID": 3213,
+      "buildingID": 3214,
       "buildingAmount": 1,
       "validKingdoms": "0,1,2,3"
     },
@@ -55559,7 +55561,7 @@
       "comment1": "April LTPE Shop - 2025 Lvl 270-719",
       "comment2": "Mead Range Offensive 10",
       "costSpringLTPEToken": 100,
-      "unitID": 215,
+      "unitID": 214,
       "unitAmount": 100,
       "hiddenMead": 500,
       "ignoreResourceStorageCapacity": 1,
@@ -55574,7 +55576,7 @@
       "comment1": "April LTPE Shop - 2025 Lvl 270-719",
       "comment2": "Mead Meele Offensive 10",
       "costSpringLTPEToken": 100,
-      "unitID": 216,
+      "unitID": 204,
       "unitAmount": 100,
       "hiddenMead": 500,
       "ignoreResourceStorageCapacity": 1,
@@ -55676,7 +55678,7 @@
       "maxLegendLevel": 269,
       "sortOrder": 1,
       "relationIDs": "999,405",
-      "buildingID": 3213,
+      "buildingID": 3214,
       "buildingAmount": 1,
       "validKingdoms": "0,1,2,3"
     },
@@ -55818,7 +55820,7 @@
       "comment1": "April LTPE Shop - 2025 Lvl 70-269",
       "comment2": "Mead Range Offensive 10",
       "costSpringLTPEToken": 100,
-      "unitID": 215,
+      "unitID": 214,
       "unitAmount": 100,
       "hiddenMead": 500,
       "ignoreResourceStorageCapacity": 1,
@@ -55833,7 +55835,7 @@
       "comment1": "April LTPE Shop - 2025 Lvl 70-269",
       "comment2": "Mead Meele Offensive 10",
       "costSpringLTPEToken": 100,
-      "unitID": 216,
+      "unitID": 204,
       "unitAmount": 100,
       "hiddenMead": 500,
       "ignoreResourceStorageCapacity": 1,
@@ -55934,7 +55936,7 @@
       "minLegendLevel": 950,
       "sortOrder": 1,
       "relationIDs": "999,407",
-      "buildingID": 3213,
+      "buildingID": 3215,
       "buildingAmount": 1,
       "validKingdoms": "0,1,2,3"
     },
@@ -56078,7 +56080,7 @@
       "comment1": "May LTPE Shop - 2025 Lvl 1020",
       "comment2": "Mead Range Offensive 10",
       "costLotusFlowerLTPEToken": 100,
-      "unitID": 215,
+      "unitID": 214,
       "unitAmount": 100,
       "hiddenMead": 500,
       "ignoreResourceStorageCapacity": 1,
@@ -56092,7 +56094,7 @@
       "comment1": "May LTPE Shop - 2025 Lvl 1020",
       "comment2": "Mead Meele Offensive 10",
       "costLotusFlowerLTPEToken": 100,
-      "unitID": 216,
+      "unitID": 204,
       "unitAmount": 100,
       "hiddenMead": 500,
       "ignoreResourceStorageCapacity": 1,
@@ -56184,9 +56186,10 @@
       "costLotusFlowerLTPEToken": 5000,
       "stock": 1,
       "minLegendLevel": 720,
+      "maxLegendLevel": 949,
       "sortOrder": 1,
       "relationIDs": "999,407",
-      "buildingID": 3213,
+      "buildingID": 3215,
       "buildingAmount": 1,
       "validKingdoms": "0,1,2,3"
     },
@@ -56328,7 +56331,7 @@
       "comment1": "May LTPE Shop - 2025 Lvl 720-1019",
       "comment2": "Mead Range Offensive 10",
       "costLotusFlowerLTPEToken": 100,
-      "unitID": 215,
+      "unitID": 214,
       "unitAmount": 100,
       "hiddenMead": 500,
       "ignoreResourceStorageCapacity": 1,
@@ -56343,7 +56346,7 @@
       "comment1": "May LTPE Shop - 2025 Lvl 720-1019",
       "comment2": "Mead Meele Offensive 10",
       "costLotusFlowerLTPEToken": 100,
-      "unitID": 216,
+      "unitID": 204,
       "unitAmount": 100,
       "hiddenMead": 500,
       "ignoreResourceStorageCapacity": 1,
@@ -56445,7 +56448,7 @@
       "maxLegendLevel": 719,
       "sortOrder": 1,
       "relationIDs": "999,407",
-      "buildingID": 3213,
+      "buildingID": 3215,
       "buildingAmount": 1,
       "validKingdoms": "0,1,2,3"
     },
@@ -56587,7 +56590,7 @@
       "comment1": "May LTPE Shop - 2025 Lvl 270-719",
       "comment2": "Mead Range Offensive 10",
       "costLotusFlowerLTPEToken": 100,
-      "unitID": 215,
+      "unitID": 214,
       "unitAmount": 100,
       "hiddenMead": 500,
       "ignoreResourceStorageCapacity": 1,
@@ -56602,7 +56605,7 @@
       "comment1": "May LTPE Shop - 2025 Lvl 270-719",
       "comment2": "Mead Meele Offensive 10",
       "costLotusFlowerLTPEToken": 100,
-      "unitID": 216,
+      "unitID": 204,
       "unitAmount": 100,
       "hiddenMead": 500,
       "ignoreResourceStorageCapacity": 1,
@@ -56704,7 +56707,7 @@
       "maxLegendLevel": 269,
       "sortOrder": 1,
       "relationIDs": "999,407",
-      "buildingID": 3213,
+      "buildingID": 3215,
       "buildingAmount": 1,
       "validKingdoms": "0,1,2,3"
     },
@@ -56846,7 +56849,7 @@
       "comment1": "May LTPE Shop - 2025 Lvl 70-269",
       "comment2": "Mead Range Offensive 10",
       "costLotusFlowerLTPEToken": 100,
-      "unitID": 215,
+      "unitID": 214,
       "unitAmount": 100,
       "hiddenMead": 500,
       "ignoreResourceStorageCapacity": 1,
@@ -56861,7 +56864,7 @@
       "comment1": "May LTPE Shop - 2025 Lvl 70-269",
       "comment2": "Mead Meele Offensive 10",
       "costLotusFlowerLTPEToken": 100,
-      "unitID": 216,
+      "unitID": 204,
       "unitAmount": 100,
       "hiddenMead": 500,
       "ignoreResourceStorageCapacity": 1,
@@ -56961,8 +56964,8 @@
       "stock": 1,
       "minLegendLevel": 950,
       "sortOrder": 1,
-      "relationIDs": "999,407",
-      "buildingID": 3213,
+      "relationIDs": "999,414",
+      "buildingID": 3216,
       "buildingAmount": 1,
       "validKingdoms": "0,1,2,3"
     },
@@ -56977,7 +56980,7 @@
       "stock": 1,
       "minLegendLevel": 950,
       "sortOrder": 2,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4009,
@@ -56990,7 +56993,7 @@
       "stock": 2,
       "minLegendLevel": 950,
       "sortOrder": 3,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4010,
@@ -57002,7 +57005,7 @@
       "stock": 1,
       "minLegendLevel": 950,
       "sortOrder": 4,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4011,
@@ -57014,7 +57017,7 @@
       "stock": 1,
       "minLegendLevel": 950,
       "sortOrder": 5,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4012,
@@ -57026,7 +57029,7 @@
       "stock": 1,
       "minLegendLevel": 950,
       "sortOrder": 6,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4013,
@@ -57038,7 +57041,7 @@
       "stock": 2,
       "minLegendLevel": 950,
       "sortOrder": 7,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4014,
@@ -57050,7 +57053,7 @@
       "stock": 1,
       "minLegendLevel": 950,
       "sortOrder": 8,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4015,
@@ -57062,7 +57065,7 @@
       "stock": 5,
       "minLegendLevel": 950,
       "sortOrder": 9,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4016,
@@ -57074,7 +57077,7 @@
       "stock": 5,
       "minLegendLevel": 950,
       "sortOrder": 10,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4017,
@@ -57086,7 +57089,7 @@
       "stock": 1,
       "minLegendLevel": 950,
       "sortOrder": 11,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4018,
@@ -57098,7 +57101,7 @@
       "stock": 5,
       "minLegendLevel": 950,
       "sortOrder": 12,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4019,
@@ -57106,13 +57109,13 @@
       "comment1": "June LTPE Shop - 2025 Lvl 1020",
       "comment2": "Mead Range Offensive 10",
       "costMayaLTPEToken": 100,
-      "unitID": 215,
+      "unitID": 214,
       "unitAmount": 100,
       "hiddenMead": 500,
       "ignoreResourceStorageCapacity": 1,
       "minLegendLevel": 950,
       "sortOrder": 13,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4020,
@@ -57120,13 +57123,13 @@
       "comment1": "June LTPE Shop - 2025 Lvl 1020",
       "comment2": "Mead Meele Offensive 10",
       "costMayaLTPEToken": 100,
-      "unitID": 216,
+      "unitID": 204,
       "unitAmount": 100,
       "hiddenMead": 500,
       "ignoreResourceStorageCapacity": 1,
       "minLegendLevel": 950,
       "sortOrder": 14,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4021,
@@ -57140,7 +57143,7 @@
       "ignoreResourceStorageCapacity": 1,
       "minLegendLevel": 950,
       "sortOrder": 15,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4022,
@@ -57154,7 +57157,7 @@
       "ignoreResourceStorageCapacity": 1,
       "minLegendLevel": 950,
       "sortOrder": 16,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4023,
@@ -57166,7 +57169,7 @@
       "unitAmount": 100,
       "minLegendLevel": 950,
       "sortOrder": 17,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4024,
@@ -57178,7 +57181,7 @@
       "unitAmount": 100,
       "minLegendLevel": 950,
       "sortOrder": 18,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4025,
@@ -57190,7 +57193,7 @@
       "unitAmount": 100,
       "minLegendLevel": 950,
       "sortOrder": 19,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4026,
@@ -57202,7 +57205,7 @@
       "unitAmount": 100,
       "minLegendLevel": 950,
       "sortOrder": 20,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4027,
@@ -57212,9 +57215,10 @@
       "costMayaLTPEToken": 5000,
       "stock": 1,
       "minLegendLevel": 720,
+      "maxLegendLevel": 949,
       "sortOrder": 1,
-      "relationIDs": "999,407",
-      "buildingID": 3213,
+      "relationIDs": "999,414",
+      "buildingID": 3216,
       "buildingAmount": 1,
       "validKingdoms": "0,1,2,3"
     },
@@ -57230,7 +57234,7 @@
       "minLegendLevel": 720,
       "maxLegendLevel": 949,
       "sortOrder": 2,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4029,
@@ -57244,7 +57248,7 @@
       "minLegendLevel": 720,
       "maxLegendLevel": 949,
       "sortOrder": 3,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4030,
@@ -57257,7 +57261,7 @@
       "minLegendLevel": 720,
       "maxLegendLevel": 949,
       "sortOrder": 4,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4031,
@@ -57270,7 +57274,7 @@
       "minLegendLevel": 720,
       "maxLegendLevel": 949,
       "sortOrder": 5,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4032,
@@ -57283,7 +57287,7 @@
       "minLegendLevel": 720,
       "maxLegendLevel": 949,
       "sortOrder": 6,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4033,
@@ -57296,7 +57300,7 @@
       "minLegendLevel": 720,
       "maxLegendLevel": 949,
       "sortOrder": 7,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4034,
@@ -57309,7 +57313,7 @@
       "minLegendLevel": 720,
       "maxLegendLevel": 949,
       "sortOrder": 8,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4035,
@@ -57322,7 +57326,7 @@
       "minLegendLevel": 720,
       "maxLegendLevel": 949,
       "sortOrder": 9,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4036,
@@ -57335,7 +57339,7 @@
       "minLegendLevel": 720,
       "maxLegendLevel": 949,
       "sortOrder": 10,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4037,
@@ -57348,7 +57352,7 @@
       "minLegendLevel": 720,
       "maxLegendLevel": 949,
       "sortOrder": 11,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4038,
@@ -57356,14 +57360,14 @@
       "comment1": "June LTPE Shop - 2025 Lvl 720-1019",
       "comment2": "Mead Range Offensive 10",
       "costMayaLTPEToken": 100,
-      "unitID": 215,
+      "unitID": 214,
       "unitAmount": 100,
       "hiddenMead": 500,
       "ignoreResourceStorageCapacity": 1,
       "minLegendLevel": 720,
       "maxLegendLevel": 949,
       "sortOrder": 12,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4039,
@@ -57371,14 +57375,14 @@
       "comment1": "June LTPE Shop - 2025 Lvl 720-1019",
       "comment2": "Mead Meele Offensive 10",
       "costMayaLTPEToken": 100,
-      "unitID": 216,
+      "unitID": 204,
       "unitAmount": 100,
       "hiddenMead": 500,
       "ignoreResourceStorageCapacity": 1,
       "minLegendLevel": 720,
       "maxLegendLevel": 949,
       "sortOrder": 13,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4040,
@@ -57393,7 +57397,7 @@
       "minLegendLevel": 720,
       "maxLegendLevel": 949,
       "sortOrder": 14,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4041,
@@ -57408,7 +57412,7 @@
       "minLegendLevel": 720,
       "maxLegendLevel": 949,
       "sortOrder": 15,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4042,
@@ -57421,7 +57425,7 @@
       "minLegendLevel": 720,
       "maxLegendLevel": 949,
       "sortOrder": 16,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4043,
@@ -57434,7 +57438,7 @@
       "minLegendLevel": 720,
       "maxLegendLevel": 949,
       "sortOrder": 17,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4044,
@@ -57447,7 +57451,7 @@
       "minLegendLevel": 720,
       "maxLegendLevel": 949,
       "sortOrder": 18,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4045,
@@ -57460,7 +57464,7 @@
       "minLegendLevel": 720,
       "maxLegendLevel": 949,
       "sortOrder": 19,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4046,
@@ -57472,8 +57476,8 @@
       "minLegendLevel": 270,
       "maxLegendLevel": 719,
       "sortOrder": 1,
-      "relationIDs": "999,407",
-      "buildingID": 3213,
+      "relationIDs": "999,414",
+      "buildingID": 3216,
       "buildingAmount": 1,
       "validKingdoms": "0,1,2,3"
     },
@@ -57489,7 +57493,7 @@
       "minLegendLevel": 270,
       "maxLegendLevel": 719,
       "sortOrder": 2,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4048,
@@ -57503,7 +57507,7 @@
       "minLegendLevel": 270,
       "maxLegendLevel": 719,
       "sortOrder": 3,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4049,
@@ -57516,7 +57520,7 @@
       "minLegendLevel": 270,
       "maxLegendLevel": 719,
       "sortOrder": 4,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4050,
@@ -57529,7 +57533,7 @@
       "minLegendLevel": 270,
       "maxLegendLevel": 719,
       "sortOrder": 5,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4051,
@@ -57542,7 +57546,7 @@
       "minLegendLevel": 270,
       "maxLegendLevel": 719,
       "sortOrder": 6,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4052,
@@ -57555,7 +57559,7 @@
       "minLegendLevel": 270,
       "maxLegendLevel": 719,
       "sortOrder": 7,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4053,
@@ -57568,7 +57572,7 @@
       "minLegendLevel": 270,
       "maxLegendLevel": 719,
       "sortOrder": 8,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4054,
@@ -57581,7 +57585,7 @@
       "minLegendLevel": 270,
       "maxLegendLevel": 719,
       "sortOrder": 9,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4055,
@@ -57594,7 +57598,7 @@
       "minLegendLevel": 270,
       "maxLegendLevel": 719,
       "sortOrder": 10,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4056,
@@ -57607,7 +57611,7 @@
       "minLegendLevel": 270,
       "maxLegendLevel": 719,
       "sortOrder": 11,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4057,
@@ -57615,14 +57619,14 @@
       "comment1": "June LTPE Shop - 2025 Lvl 270-719",
       "comment2": "Mead Range Offensive 10",
       "costMayaLTPEToken": 100,
-      "unitID": 215,
+      "unitID": 214,
       "unitAmount": 100,
       "hiddenMead": 500,
       "ignoreResourceStorageCapacity": 1,
       "minLegendLevel": 270,
       "maxLegendLevel": 719,
       "sortOrder": 12,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4058,
@@ -57630,14 +57634,14 @@
       "comment1": "June LTPE Shop - 2025 Lvl 270-719",
       "comment2": "Mead Meele Offensive 10",
       "costMayaLTPEToken": 100,
-      "unitID": 216,
+      "unitID": 204,
       "unitAmount": 100,
       "hiddenMead": 500,
       "ignoreResourceStorageCapacity": 1,
       "minLegendLevel": 270,
       "maxLegendLevel": 719,
       "sortOrder": 13,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4059,
@@ -57652,7 +57656,7 @@
       "minLegendLevel": 270,
       "maxLegendLevel": 719,
       "sortOrder": 14,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4060,
@@ -57667,7 +57671,7 @@
       "minLegendLevel": 270,
       "maxLegendLevel": 719,
       "sortOrder": 15,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4061,
@@ -57680,7 +57684,7 @@
       "minLegendLevel": 270,
       "maxLegendLevel": 719,
       "sortOrder": 16,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4062,
@@ -57693,7 +57697,7 @@
       "minLegendLevel": 270,
       "maxLegendLevel": 719,
       "sortOrder": 17,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4063,
@@ -57706,7 +57710,7 @@
       "minLegendLevel": 270,
       "maxLegendLevel": 719,
       "sortOrder": 18,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4064,
@@ -57719,7 +57723,7 @@
       "minLegendLevel": 270,
       "maxLegendLevel": 719,
       "sortOrder": 19,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4065,
@@ -57731,8 +57735,8 @@
       "minLevel": 70,
       "maxLegendLevel": 269,
       "sortOrder": 1,
-      "relationIDs": "999,407",
-      "buildingID": 3213,
+      "relationIDs": "999,414",
+      "buildingID": 3216,
       "buildingAmount": 1,
       "validKingdoms": "0,1,2,3"
     },
@@ -57748,7 +57752,7 @@
       "minLevel": 70,
       "maxLegendLevel": 269,
       "sortOrder": 2,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4067,
@@ -57762,7 +57766,7 @@
       "minLevel": 70,
       "maxLegendLevel": 269,
       "sortOrder": 3,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4068,
@@ -57775,7 +57779,7 @@
       "minLevel": 70,
       "maxLegendLevel": 269,
       "sortOrder": 4,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4069,
@@ -57788,7 +57792,7 @@
       "minLevel": 70,
       "maxLegendLevel": 269,
       "sortOrder": 5,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4070,
@@ -57801,7 +57805,7 @@
       "minLevel": 70,
       "maxLegendLevel": 269,
       "sortOrder": 6,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4071,
@@ -57814,7 +57818,7 @@
       "minLevel": 70,
       "maxLegendLevel": 269,
       "sortOrder": 7,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4072,
@@ -57827,7 +57831,7 @@
       "minLevel": 70,
       "maxLegendLevel": 269,
       "sortOrder": 8,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4073,
@@ -57840,7 +57844,7 @@
       "minLevel": 70,
       "maxLegendLevel": 269,
       "sortOrder": 9,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4074,
@@ -57853,7 +57857,7 @@
       "minLevel": 70,
       "maxLegendLevel": 269,
       "sortOrder": 10,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4075,
@@ -57866,7 +57870,7 @@
       "minLevel": 70,
       "maxLegendLevel": 269,
       "sortOrder": 11,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4076,
@@ -57874,14 +57878,14 @@
       "comment1": "June LTPE Shop - 2025 Lvl 70-269",
       "comment2": "Mead Range Offensive 10",
       "costMayaLTPEToken": 100,
-      "unitID": 215,
+      "unitID": 214,
       "unitAmount": 100,
       "hiddenMead": 500,
       "ignoreResourceStorageCapacity": 1,
       "minLevel": 70,
       "maxLegendLevel": 269,
       "sortOrder": 12,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4077,
@@ -57889,14 +57893,14 @@
       "comment1": "June LTPE Shop - 2025 Lvl 70-269",
       "comment2": "Mead Meele Offensive 10",
       "costMayaLTPEToken": 100,
-      "unitID": 216,
+      "unitID": 204,
       "unitAmount": 100,
       "hiddenMead": 500,
       "ignoreResourceStorageCapacity": 1,
       "minLevel": 70,
       "maxLegendLevel": 269,
       "sortOrder": 13,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4078,
@@ -57911,7 +57915,7 @@
       "minLevel": 70,
       "maxLegendLevel": 269,
       "sortOrder": 14,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4079,
@@ -57926,7 +57930,7 @@
       "minLevel": 70,
       "maxLegendLevel": 269,
       "sortOrder": 15,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4080,
@@ -57939,7 +57943,7 @@
       "minLevel": 70,
       "maxLegendLevel": 269,
       "sortOrder": 16,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4081,
@@ -57952,7 +57956,7 @@
       "minLevel": 70,
       "maxLegendLevel": 269,
       "sortOrder": 17,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4082,
@@ -57965,7 +57969,7 @@
       "minLevel": 70,
       "maxLegendLevel": 269,
       "sortOrder": 18,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 4083,
@@ -57978,7 +57982,7 @@
       "minLevel": 70,
       "maxLegendLevel": 269,
       "sortOrder": 19,
-      "relationIDs": "999,407"
+      "relationIDs": "999,414"
     },
     {
       "packageID": 3195,

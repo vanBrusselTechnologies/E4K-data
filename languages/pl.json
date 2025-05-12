@@ -12679,7 +12679,7 @@
     "advisor_AttackNumber": "Atak doradcy: {0}/{1}",
     "advisor_AttackSummary_defeat": "{0} Ataki - porażka",
     "advisor_AttackSummary_pending": "{0} Ataki - oczekujące",
-    "advisor_AttackSummary_stopped": "{0} Ataki - zatrzymane",
+    "advisor_AttackSummary_stopped": "{0} Ataki - nie udało się wysłać / nie dotarło",
     "advisor_AttackSummary_victory": "{0} Ataki - zwycięstwo",
     "attack_advisor": "Atak doradcy",
     "advisor_attackInfo": "Każdy atak jest opłacany w momencie rozpoczęcia, a ta sama cena obowiązuje dla każdego ataku.",
@@ -12736,7 +12736,11 @@
     "webshop_decoWithEffects_WallDefCourtDefCourtCapNoLimit_desc": "Efekt wspólny dla dekoracji, Porządek publiczny +{0}, +{1}% bonus do pojemności wojsk obronnych na murze (max 150%), +{2}% bonus do siły na dziedzińcu podczas obrony (max +120%), +{3} bonus do pojemności wojsk obronnych na dziedzińcu (max +150k), Rozmiar budynku {4}x{5}.",
     "dialog_ci_disassemble_multiple_desc2": "Przedmiot zostanie zniszczony, a w zamian otrzymasz materiały do rzemiosła wymienione powyżej za każdy rozebrany przedmiot. Czy jesteś pewien, że chcesz rozebrać ten przedmiot?",
     "webshop_buildersQuarters_description": "Odblokowuje slot budowy.\n\nPoziom budynku: {0}\nDodatkowe sloty budowy na zamek: {1}\nLimit na zamek: {2}",
-    "webshop_crane_description": "Pozwala na dodanie dodatkowego budynku w tym zamku.\n\nPoziom budynku: {0}\nDodatkowe sloty kolejki na zamek: {1}\nLimit na zamek: {2}"
+    "webshop_crane_description": "Pozwala na dodanie dodatkowego budynku w tym zamku.\n\nPoziom budynku: {0}\nDodatkowe sloty kolejki na zamek: {1}\nLimit na zamek: {2}",
+    "dialog_chestOffer_desc_conversion": "Odblokuj ekscytujące nagrody z Pakietem Architekta!",
+    "dialog_privateBestsellerShop_buildingResourceBundle_tooltip": "Pakiet zasobów architekta",
+    "webshop_nomadadvisor_token": "Token doradcy",
+    "button_advisorCancelAll": "Anuluj wszystkie ataki doradców"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% siły bojowej jednostki podczas ataku",
@@ -14077,7 +14081,7 @@
     "equip_effect_description_unitWallAbsoluteAmount": "+{0} limit jednostek na murze",
     "equip_effect_description_allianceFameBoost": "+{0}% punkty chwały zdobyte podczas ataku",
     "equip_effect_description_allianceTravelSupportBoost": "Czas podróży wsparcia sojuszu: -{0}%",
-    "effect_name_AttackBoostFlankCapped": "+{0}% siły bojowej na froncie podczas ataku",
+    "effect_name_AttackBoostFlankCapped": "siły bojowej na froncie podczas ataku",
     "effect_name_AttackBoostFrontCapped": "Siła bojowa jednostek przy ataku na front",
     "equip_effect_description_AttackBoostFlankCapped": "+{0}% siły ataku na skrzydłach podczas ataku",
     "equip_effect_description_AttackBoostFrontCapped": "+{0}% siły bojowej na froncie przy ataku"

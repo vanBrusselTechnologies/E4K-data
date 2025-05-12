@@ -4425,6 +4425,9 @@ export interface Images {
     "Teaser_OffersHub_Big_WhaleChest_14": ImageData;
     "Teaser_OffersHub_Big_WhaleChest_15": ImageData;
     "Teaser_OffersHub_Big_WhaleChest_20": ImageData;
+    "Teaser_OffersHub_Big_WhaleChest_21": ImageData;
+    "Teaser_OffersHub_Big_WhaleChest_22": ImageData;
+    "Teaser_OffersHub_Big_WhaleChest_23": ImageData;
     "Teaser_OffersHub_Big_WhaleChest_5": ImageData;
     "Teaser_OffersHub_Big_WhaleChest_7": ImageData;
     "Teaser_OffersHub_Medium_1": ImageData;
@@ -7562,6 +7565,8 @@ export interface Images {
     "icon_tier_primeday": ImageData;
     "icon_time_flat_b": ImageData;
     "icon_time_limited": ImageData;
+    "icon_timeout": ImageData;
+    "icon_timeout_ds": ImageData;
     "icon_tool_type_basic": ImageData;
     "icon_tool_type_basic_small": ImageData;
     "icon_tool_type_combo": ImageData;

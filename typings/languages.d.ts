@@ -2342,6 +2342,7 @@ export interface Language {
         "burningBuildings": string;
         "button_SelectCamp_nomad": string;
         "button_activateAdvisor": string;
+        "button_advisorCancelAll": string;
         "button_attackAdvisor": string;
         "button_buyToken": string;
         "button_cancelAdvisor": string;
@@ -4145,6 +4146,7 @@ export interface Language {
         "dialog_chestOffer_desc_blackfriday": string;
         "dialog_chestOffer_desc_carnival": string;
         "dialog_chestOffer_desc_christmas": string;
+        "dialog_chestOffer_desc_conversion": string;
         "dialog_chestOffer_desc_oktoberfest": string;
         "dialog_chestOffer_title_01": string;
         "dialog_chestOffer_title_02": string;
@@ -7565,6 +7567,7 @@ export interface Language {
         "dialog_primeday_worldcup_title": string;
         "dialog_privateBestsellerShop_advent_tooltip": string;
         "dialog_privateBestsellerShop_bestsellerItem": string;
+        "dialog_privateBestsellerShop_buildingResourceBundle_tooltip": string;
         "dialog_privateBestsellerShop_button": string;
         "dialog_privateBestsellerShop_desc": string;
         "dialog_privateBestsellerShop_easter1": string;
@@ -12479,6 +12482,7 @@ export interface Language {
         "webshop_nomadTabletBooster11_desc": string;
         "webshop_nomadTabletBooster12_desc": string;
         "webshop_nomadTabletBooster13_desc": string;
+        "webshop_nomadadvisor_token": string;
         "webshop_octoberfest_VIP_name": string;
         "webshop_octoberfest_extraLarge_name": string;
         "webshop_octoberfest_giant_name": string;

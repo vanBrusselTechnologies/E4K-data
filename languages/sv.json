@@ -12679,7 +12679,7 @@
     "advisor_AttackNumber": "Rådgivarattack: {0}/{1}",
     "advisor_AttackSummary_defeat": "{0} Attacker - nederlag",
     "advisor_AttackSummary_pending": "{0} Attacker - väntande",
-    "advisor_AttackSummary_stopped": "{0} Attacker - stoppade",
+    "advisor_AttackSummary_stopped": "{0} Attacker - misslyckades att skicka / inte ankommit",
     "advisor_AttackSummary_victory": "{0} Angrepp - seger",
     "attack_advisor": "Rådgivarattack",
     "advisor_attackInfo": "Varje attack betalas när den börjar, med samma kostnad tillämpad på varje attack.",
@@ -12736,7 +12736,11 @@
     "webshop_decoWithEffects_WallDefCourtDefCourtCapNoLimit_desc": "Effektkap som delas över dekorationer, Offentlig ordning +{0}, +{1}% bonus på kapaciteten för murförsvarstrupper (max 150%), +{2}% bonus på styrkan i gården vid försvar (max +120%), +{3} bonus på kapaciteten för gårdsförsvarstrupper (max +150k), Byggnadens storlek {4}x{5}.",
     "dialog_ci_disassemble_multiple_desc2": "Objektet kommer att förstöras och i utbyte får du de ovan nämnda hantverksmaterialen per demonterat objekt. Är du säker på att du vill demontera detta objekt?",
     "webshop_buildersQuarters_description": "Låser upp en byggplats.\n\nByggnadsnivå: {0}\nExtra byggplatser per slott: {1}\nGräns per slott: {2}",
-    "webshop_crane_description": "Tillåter dig att köa för en extra byggnad i detta slott.\n\nByggnadsnivå: {0}\nExtra köplatser per slott: {1}\nGräns per slott: {2}"
+    "webshop_crane_description": "Tillåter dig att köa för en extra byggnad i detta slott.\n\nByggnadsnivå: {0}\nExtra köplatser per slott: {1}\nGräns per slott: {2}",
+    "dialog_chestOffer_desc_conversion": "Lås upp spännande belöningar med arkitektens paket!",
+    "dialog_privateBestsellerShop_buildingResourceBundle_tooltip": "Arkitektens resurspaket",
+    "webshop_nomadadvisor_token": "Rådgivarens token",
+    "button_advisorCancelAll": "Avbryt alla rådgivaratacker"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% enhetens stridskraft vid angrepp",
@@ -14077,7 +14081,7 @@
     "equip_effect_description_unitWallAbsoluteAmount": "+{0} enhetsgräns på väggen",
     "equip_effect_description_allianceFameBoost": "+{0}% ära poäng intjänat vid angrepp",
     "equip_effect_description_allianceTravelSupportBoost": "Rese tid för alliansens stöd: -{0}%",
-    "effect_name_AttackBoostFlankCapped": "+{0}% stridskraft på fronten vid attack",
+    "effect_name_AttackBoostFlankCapped": "stridskraft på fronten vid attack",
     "effect_name_AttackBoostFrontCapped": "Stridskraften för enheterna vid angrepp på fronten",
     "equip_effect_description_AttackBoostFlankCapped": "+{0}% stridskraft på flanken vid anfall",
     "equip_effect_description_AttackBoostFrontCapped": "+{0}% stridskraft på fronten vid angrepp"

@@ -12679,7 +12679,7 @@
     "advisor_AttackNumber": "顾问攻击: {0}/{1}",
     "advisor_AttackSummary_defeat": "{0} 攻击 - 失败",
     "advisor_AttackSummary_pending": "{0} 攻击 - 待处理",
-    "advisor_AttackSummary_stopped": "{0} 攻击 - 停止",
+    "advisor_AttackSummary_stopped": "{0} 攻击 - 发送失败 / 未到达",
     "advisor_AttackSummary_victory": "{0} 攻击 - 胜利",
     "attack_advisor": "顾问攻击",
     "advisor_attackInfo": "每次攻击在开始时支付，且每次攻击适用相同成本。",
@@ -12736,7 +12736,11 @@
     "webshop_decoWithEffects_WallDefCourtDefCourtCapNoLimit_desc": "效果在装饰之间共享，公共秩序 +{0}，+{1}% 墙壁防御部队容量的奖励（最多 150%），+{2}% 防御时庭院的力量奖励（最多 +120%），+{3} 庭院防御部队容量的奖励（最多 +150k），建筑尺寸 {4}x{5}。",
     "dialog_ci_disassemble_multiple_desc2": "该物品将被销毁，作为交换，您将根据拆解的物品收到上述列出的制作材料。您确定要拆解此物品吗？",
     "webshop_buildersQuarters_description": "解锁一个建筑槽。\n\n建筑等级：{0}\n每座城堡的额外建筑槽：{1}\n每座城堡的限制：{2}",
-    "webshop_crane_description": "允许您在此城堡中排队额外的建筑。\n\n建筑等级：{0}\n每个城堡的额外排队位置：{1}\n每个城堡的限制：{2}"
+    "webshop_crane_description": "允许您在此城堡中排队额外的建筑。\n\n建筑等级：{0}\n每个城堡的额外排队位置：{1}\n每个城堡的限制：{2}",
+    "dialog_chestOffer_desc_conversion": "通过建筑师包解锁令人兴奋的奖励！",
+    "dialog_privateBestsellerShop_buildingResourceBundle_tooltip": "建筑师资源包",
+    "webshop_nomadadvisor_token": "顾问的标记",
+    "button_advisorCancelAll": "取消所有顾问攻击"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% 单位在攻击时的战斗力",
@@ -14077,7 +14081,7 @@
     "equip_effect_description_unitWallAbsoluteAmount": "+{0} 单位限制在墙上",
     "equip_effect_description_allianceFameBoost": "+{0}% 攻击时获得的荣耀点",
     "equip_effect_description_allianceTravelSupportBoost": "联盟支持旅行时间: -{0}%",
-    "effect_name_AttackBoostFlankCapped": "+{0}% 战斗力在攻击时位于前线",
+    "effect_name_AttackBoostFlankCapped": "战斗力在攻击时位于前线",
     "effect_name_AttackBoostFrontCapped": "单位在攻击前线时的战斗力",
     "equip_effect_description_AttackBoostFlankCapped": "+{0}% 在攻击时侧面的战斗力",
     "equip_effect_description_AttackBoostFrontCapped": "+{0}% 战斗力在前线攻击时"

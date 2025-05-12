@@ -12679,7 +12679,7 @@
     "advisor_AttackNumber": "顧問攻擊: {0}/{1}",
     "advisor_AttackSummary_defeat": "{0} 攻擊 - 失敗",
     "advisor_AttackSummary_pending": "{0} 攻擊 - 待處理",
-    "advisor_AttackSummary_stopped": "{0} 攻擊 - 停止",
+    "advisor_AttackSummary_stopped": "{0} 攻擊 - 發送失敗 / 未到達",
     "advisor_AttackSummary_victory": "{0} 攻擊 - 勝利",
     "attack_advisor": "顧問攻擊",
     "advisor_attackInfo": "每次攻擊在開始時支付，並對每次攻擊應用相同的成本。",
@@ -12736,7 +12736,11 @@
     "webshop_decoWithEffects_WallDefCourtDefCourtCapNoLimit_desc": "效果在裝飾之間共享，公共秩序 +{0}，+{1}% 墙壁防御部队容量的獎勵（最多 150%），+{2}% 防禦時庭院的力量獎勵（最多 +120%），+{3} 庭院防禦部隊容量的獎勵（最多 +150k），建築尺寸 {4}x{5}。",
     "dialog_ci_disassemble_multiple_desc2": "該物品將被摧毀，作為交換，您將根據拆解的物品收到上述列出的製作材料。您確定要拆解此物品嗎？",
     "webshop_buildersQuarters_description": "解鎖一個建設槽。\n\n建築等級：{0}\n每座城堡的額外建設槽：{1}\n每座城堡的限制：{2}",
-    "webshop_crane_description": "允許您在這個城堡中排隊額外的建築。\n\n建築等級：{0}\n每個城堡的額外排隊位置：{1}\n每個城堡的限制：{2}"
+    "webshop_crane_description": "允許您在這個城堡中排隊額外的建築。\n\n建築等級：{0}\n每個城堡的額外排隊位置：{1}\n每個城堡的限制：{2}",
+    "dialog_chestOffer_desc_conversion": "解鎖建築師包的刺激獎勵！",
+    "dialog_privateBestsellerShop_buildingResourceBundle_tooltip": "建築師資源包",
+    "webshop_nomadadvisor_token": "顧問的標記",
+    "button_advisorCancelAll": "取消所有顧問攻擊"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% 單位攻擊時的戰鬥力",
@@ -14077,7 +14081,7 @@
     "equip_effect_description_unitWallAbsoluteAmount": "+{0} 單位限制在牆上",
     "equip_effect_description_allianceFameBoost": "+{0}% 攻擊時獲得的榮耀點",
     "equip_effect_description_allianceTravelSupportBoost": "聯盟支持旅行時間: -{0}%",
-    "effect_name_AttackBoostFlankCapped": "+{0}% 戰鬥力在攻擊時位於前線",
+    "effect_name_AttackBoostFlankCapped": "戰鬥力在攻擊時位於前線",
     "effect_name_AttackBoostFrontCapped": "單位在攻擊前線時的戰鬥力",
     "equip_effect_description_AttackBoostFlankCapped": "+{0}% 攻擊時側翼的戰鬥力",
     "equip_effect_description_AttackBoostFrontCapped": "+{0}% 戰鬥力在前線進行攻擊時"

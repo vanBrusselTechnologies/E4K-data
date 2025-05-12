@@ -12679,7 +12679,7 @@
     "advisor_AttackNumber": "Advisor Attack: {0}/{1}",
     "advisor_AttackSummary_defeat": "{0} Attacks - defeat",
     "advisor_AttackSummary_pending": "{0} Attacks - pending",
-    "advisor_AttackSummary_stopped": "{0} Attacks - stopped",
+    "advisor_AttackSummary_stopped": "{0} Attacks - failed to send / not arrived",
     "advisor_AttackSummary_victory": "{0} Attacks - victory",
     "attack_advisor": "Advisor Attack",
     "advisor_attackInfo": "Each attack is paid for when it begins, with the same cost applied to every attack.",
@@ -12736,7 +12736,11 @@
     "webshop_decoWithEffects_WallDefCourtDefCourtCapNoLimit_desc": "Effect cap shared across decorations, Public Order +{0}, +{1}% bonus to wall defence troops capacity (max 150%), +{2}% bonus to strength in courtyard when defending (max +120%), +{3} bonus to courtyard defense troops capacity (max +150k), Building size {4}x{5}.",
     "dialog_ci_disassemble_multiple_desc2": "The item will be destroyed and in exchange you will receive the crafting materials listed above per disassembled item.\nAre you sure you want to disassemble this item?",
     "webshop_buildersQuarters_description": "Unlocks a construction slot.\n\nBuilding level: {0}\nExtra construction slots per castle: {1}\nLimit per castle: {2}",
-    "webshop_crane_description": "Allows you to queue up an additional building in this castle.\n\nBuilding level: {0}\nExtra queue slots per castle: {1}\nLimit per castle: {2}"
+    "webshop_crane_description": "Allows you to queue up an additional building in this castle.\n\nBuilding level: {0}\nExtra queue slots per castle: {1}\nLimit per castle: {2}",
+    "dialog_chestOffer_desc_conversion": "Unlock exciting rewards with the Architect’s Bundle!",
+    "dialog_privateBestsellerShop_buildingResourceBundle_tooltip": "Architect’s Resource Bundle",
+    "webshop_nomadadvisor_token": "Advisors Token",
+    "button_advisorCancelAll": "Cancel all Advisor Attacks"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% unit combat strength when attacking",

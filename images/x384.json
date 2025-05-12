@@ -86517,10 +86517,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 35,
-        "h": 37,
+        "w": 36,
+        "h": 41,
         "rx": 983,
-        "ry": 980
+        "ry": 976
       }
     ],
     "fx": []
@@ -109250,6 +109250,36 @@
     ],
     "fx": []
   },
+  "icon_timeout_ds": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_timeout_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 39,
+        "rx": 981,
+        "ry": 981
+      }
+    ],
+    "fx": []
+  },
+  "icon_timeout": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_timeout.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 37,
+        "h": 37,
+        "rx": 981,
+        "ry": 981
+      }
+    ],
+    "fx": []
+  },
   "icon_tool_type_basic_small": {
     "pid": 1,
     "url": "x384/Icons/Icons/icon_tool_type_basic_small.png",
@@ -128513,6 +128543,51 @@
   "Teaser_OffersHub_Big_WhaleChest_20": {
     "pid": 1,
     "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_20.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 769,
+        "h": 333,
+        "rx": 615,
+        "ry": 833
+      }
+    ],
+    "fx": []
+  },
+  "Teaser_OffersHub_Big_WhaleChest_21": {
+    "pid": 1,
+    "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_21.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 769,
+        "h": 333,
+        "rx": 615,
+        "ry": 833
+      }
+    ],
+    "fx": []
+  },
+  "Teaser_OffersHub_Big_WhaleChest_22": {
+    "pid": 1,
+    "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_22.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 769,
+        "h": 333,
+        "rx": 615,
+        "ry": 833
+      }
+    ],
+    "fx": []
+  },
+  "Teaser_OffersHub_Big_WhaleChest_23": {
+    "pid": 1,
+    "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_23.png",
     "frames": [
       {
         "x": 0,

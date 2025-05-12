@@ -128,7 +128,6 @@ export interface Data {
     leaderboardRewards: LeaderboardReward[];
     leaguetypeEvents: LeagueTypeEvent[];
     leaguetypes: LeagueType[];
-    leaguetypeTopXSizes: LeagueTypeTopXSize[];
     legendskills: LegendSkill[];
     legendskillthresholds: LegendSkillThreshold[];
     levelBoosters: LevelBooster[];
@@ -2023,14 +2022,6 @@ export interface LeagueType {
     "maxLevel": number;
     "minLevel": number;
     "subType"?: number;
-}
-
-export interface LeagueTypeTopXSize {
-    "Comment": string;
-    "eventID": number;
-    "leaguetypeID": number;
-    "topXValue": string;
-    "zoneID": number;
 }
 
 export interface LegendSkill {

@@ -31018,6 +31018,386 @@
       "units": "238+1500"
     },
     {
+      "rewardID": 11540,
+      "comment1": "Shapeshifter Activity Leaguetype: 1 pointsMin: 1 pointsMax: 199",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11541,
+      "comment1": "Shapeshifter Activity Leaguetype: 1 pointsMin: 200 pointsMax: 399",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11542,
+      "comment1": "Shapeshifter Activity Leaguetype: 1 pointsMin: 400 pointsMax:",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11543,
+      "comment1": "Shapeshifter Activity Leaguetype: 2 pointsMin: 1 pointsMax: 299",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11544,
+      "comment1": "Shapeshifter Activity Leaguetype: 2 pointsMin: 300 pointsMax: 599",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11545,
+      "comment1": "Shapeshifter Activity Leaguetype: 2 pointsMin: 600 pointsMax:",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11546,
+      "comment1": "Shapeshifter Activity Leaguetype: 3 pointsMin: 1 pointsMax: 399",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11547,
+      "comment1": "Shapeshifter Activity Leaguetype: 3 pointsMin: 400 pointsMax: 799",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11548,
+      "comment1": "Shapeshifter Activity Leaguetype: 3 pointsMin: 800 pointsMax:",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11549,
+      "comment1": "Shapeshifter Activity Leaguetype: 4 pointsMin: 1 pointsMax: 499",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11550,
+      "comment1": "Shapeshifter Activity Leaguetype: 4 pointsMin: 500 pointsMax: 999",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11551,
+      "comment1": "Shapeshifter Activity Leaguetype: 4 pointsMin: 1000 pointsMax:",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11552,
+      "comment1": "Shapeshifter Ranking Leaguetype: 1 pointsMin: 1 pointsMax: 1",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11553,
+      "comment1": "Shapeshifter Ranking Leaguetype: 1 pointsMin: 2 pointsMax: 2",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11554,
+      "comment1": "Shapeshifter Ranking Leaguetype: 1 pointsMin: 3 pointsMax: 3",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11555,
+      "comment1": "Shapeshifter Ranking Leaguetype: 1 pointsMin: 4 pointsMax: 10",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11556,
+      "comment1": "Shapeshifter Ranking Leaguetype: 1 pointsMin: 11 pointsMax: 25",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11557,
+      "comment1": "Shapeshifter Ranking Leaguetype: 1 pointsMin: 26 pointsMax: 50",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11558,
+      "comment1": "Shapeshifter Ranking Leaguetype: 1 pointsMin: 51 pointsMax: 100",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11559,
+      "comment1": "Shapeshifter Ranking Leaguetype: 1 pointsMin: 101 pointsMax: 200",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11560,
+      "comment1": "Shapeshifter Ranking Leaguetype: 1 pointsMin: 201 pointsMax: 400",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11561,
+      "comment1": "Shapeshifter Ranking Leaguetype: 1 pointsMin: 401 pointsMax: 800",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11562,
+      "comment1": "Shapeshifter Ranking Leaguetype: 1 pointsMin: 801 pointsMax: 1600",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11563,
+      "comment1": "Shapeshifter Ranking Leaguetype: 1 pointsMin: 1601 pointsMax: 3200",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11564,
+      "comment1": "Shapeshifter Ranking Leaguetype: 1 pointsMin: 3201 pointsMax: 6400",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11565,
+      "comment1": "Shapeshifter Ranking Leaguetype: 1 pointsMin: 6401 pointsMax: 12800",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11566,
+      "comment1": "Shapeshifter Ranking Leaguetype: 1 pointsMin: 12801 pointsMax: 25600",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11567,
+      "comment1": "Shapeshifter Ranking Leaguetype: 1 pointsMin: 25601 pointsMax:",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11568,
+      "comment1": "Shapeshifter Ranking Leaguetype: 2 pointsMin: 1 pointsMax: 1",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11569,
+      "comment1": "Shapeshifter Ranking Leaguetype: 2 pointsMin: 2 pointsMax: 2",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11570,
+      "comment1": "Shapeshifter Ranking Leaguetype: 2 pointsMin: 3 pointsMax: 3",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11571,
+      "comment1": "Shapeshifter Ranking Leaguetype: 2 pointsMin: 4 pointsMax: 10",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11572,
+      "comment1": "Shapeshifter Ranking Leaguetype: 2 pointsMin: 11 pointsMax: 25",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11573,
+      "comment1": "Shapeshifter Ranking Leaguetype: 2 pointsMin: 26 pointsMax: 50",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11574,
+      "comment1": "Shapeshifter Ranking Leaguetype: 2 pointsMin: 51 pointsMax: 100",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11575,
+      "comment1": "Shapeshifter Ranking Leaguetype: 2 pointsMin: 101 pointsMax: 200",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11576,
+      "comment1": "Shapeshifter Ranking Leaguetype: 2 pointsMin: 201 pointsMax: 400",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11577,
+      "comment1": "Shapeshifter Ranking Leaguetype: 2 pointsMin: 401 pointsMax: 800",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11578,
+      "comment1": "Shapeshifter Ranking Leaguetype: 2 pointsMin: 801 pointsMax: 1600",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11579,
+      "comment1": "Shapeshifter Ranking Leaguetype: 2 pointsMin: 1601 pointsMax: 3200",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11580,
+      "comment1": "Shapeshifter Ranking Leaguetype: 2 pointsMin: 3201 pointsMax: 6400",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11581,
+      "comment1": "Shapeshifter Ranking Leaguetype: 2 pointsMin: 6401 pointsMax: 12800",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11582,
+      "comment1": "Shapeshifter Ranking Leaguetype: 2 pointsMin: 12801 pointsMax: 25600",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11583,
+      "comment1": "Shapeshifter Ranking Leaguetype: 2 pointsMin: 25601 pointsMax:",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11584,
+      "comment1": "Shapeshifter Ranking Leaguetype: 3 pointsMin: 1 pointsMax: 1",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11585,
+      "comment1": "Shapeshifter Ranking Leaguetype: 3 pointsMin: 2 pointsMax: 2",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11586,
+      "comment1": "Shapeshifter Ranking Leaguetype: 3 pointsMin: 3 pointsMax: 3",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11587,
+      "comment1": "Shapeshifter Ranking Leaguetype: 3 pointsMin: 4 pointsMax: 10",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11588,
+      "comment1": "Shapeshifter Ranking Leaguetype: 3 pointsMin: 11 pointsMax: 25",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11589,
+      "comment1": "Shapeshifter Ranking Leaguetype: 3 pointsMin: 26 pointsMax: 50",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11590,
+      "comment1": "Shapeshifter Ranking Leaguetype: 3 pointsMin: 51 pointsMax: 100",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11591,
+      "comment1": "Shapeshifter Ranking Leaguetype: 3 pointsMin: 101 pointsMax: 200",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11592,
+      "comment1": "Shapeshifter Ranking Leaguetype: 3 pointsMin: 201 pointsMax: 400",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11593,
+      "comment1": "Shapeshifter Ranking Leaguetype: 3 pointsMin: 401 pointsMax: 800",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11594,
+      "comment1": "Shapeshifter Ranking Leaguetype: 3 pointsMin: 801 pointsMax: 1600",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11595,
+      "comment1": "Shapeshifter Ranking Leaguetype: 3 pointsMin: 1601 pointsMax: 3200",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11596,
+      "comment1": "Shapeshifter Ranking Leaguetype: 3 pointsMin: 3201 pointsMax: 6400",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11597,
+      "comment1": "Shapeshifter Ranking Leaguetype: 3 pointsMin: 6401 pointsMax: 12800",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11598,
+      "comment1": "Shapeshifter Ranking Leaguetype: 3 pointsMin: 12801 pointsMax: 25600",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11599,
+      "comment1": "Shapeshifter Ranking Leaguetype: 3 pointsMin: 25601 pointsMax:",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11600,
+      "comment1": "Shapeshifter Ranking Leaguetype: 4 pointsMin: 1 pointsMax: 1",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11601,
+      "comment1": "Shapeshifter Ranking Leaguetype: 4 pointsMin: 2 pointsMax: 2",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11602,
+      "comment1": "Shapeshifter Ranking Leaguetype: 4 pointsMin: 3 pointsMax: 3",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11603,
+      "comment1": "Shapeshifter Ranking Leaguetype: 4 pointsMin: 4 pointsMax: 10",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11604,
+      "comment1": "Shapeshifter Ranking Leaguetype: 4 pointsMin: 11 pointsMax: 25",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11605,
+      "comment1": "Shapeshifter Ranking Leaguetype: 4 pointsMin: 26 pointsMax: 50",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11606,
+      "comment1": "Shapeshifter Ranking Leaguetype: 4 pointsMin: 51 pointsMax: 100",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11607,
+      "comment1": "Shapeshifter Ranking Leaguetype: 4 pointsMin: 101 pointsMax: 200",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11608,
+      "comment1": "Shapeshifter Ranking Leaguetype: 4 pointsMin: 201 pointsMax: 400",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11609,
+      "comment1": "Shapeshifter Ranking Leaguetype: 4 pointsMin: 401 pointsMax: 800",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11610,
+      "comment1": "Shapeshifter Ranking Leaguetype: 4 pointsMin: 801 pointsMax: 1600",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11611,
+      "comment1": "Shapeshifter Ranking Leaguetype: 4 pointsMin: 1601 pointsMax: 3200",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11612,
+      "comment1": "Shapeshifter Ranking Leaguetype: 4 pointsMin: 3201 pointsMax: 6400",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11613,
+      "comment1": "Shapeshifter Ranking Leaguetype: 4 pointsMin: 6401 pointsMax: 12800",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11614,
+      "comment1": "Shapeshifter Ranking Leaguetype: 4 pointsMin: 12801 pointsMax: 25600",
+      "currency1": 69
+    },
+    {
+      "rewardID": 11615,
+      "comment1": "Shapeshifter Ranking Leaguetype: 4 pointsMin: 25601 pointsMax:",
+      "currency1": 69
+    },
+    {
       "rewardID": 5228,
       "comment1": "Jackpot 1",
       "comment2": "CI Keep (Unit Wall)",
@@ -35810,386 +36190,6 @@
       "comment1": "Jackpot 9",
       "comment2": "C2",
       "addFatKingToken": 10
-    },
-    {
-      "rewardID": 11540,
-      "comment1": "Shapeshifter Activity Leaguetype: 1 pointsMin: 1 pointsMax: 199",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11541,
-      "comment1": "Shapeshifter Activity Leaguetype: 1 pointsMin: 200 pointsMax: 399",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11542,
-      "comment1": "Shapeshifter Activity Leaguetype: 1 pointsMin: 400 pointsMax:",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11543,
-      "comment1": "Shapeshifter Activity Leaguetype: 2 pointsMin: 1 pointsMax: 299",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11544,
-      "comment1": "Shapeshifter Activity Leaguetype: 2 pointsMin: 300 pointsMax: 599",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11545,
-      "comment1": "Shapeshifter Activity Leaguetype: 2 pointsMin: 600 pointsMax:",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11546,
-      "comment1": "Shapeshifter Activity Leaguetype: 3 pointsMin: 1 pointsMax: 399",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11547,
-      "comment1": "Shapeshifter Activity Leaguetype: 3 pointsMin: 400 pointsMax: 799",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11548,
-      "comment1": "Shapeshifter Activity Leaguetype: 3 pointsMin: 800 pointsMax:",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11549,
-      "comment1": "Shapeshifter Activity Leaguetype: 4 pointsMin: 1 pointsMax: 499",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11550,
-      "comment1": "Shapeshifter Activity Leaguetype: 4 pointsMin: 500 pointsMax: 999",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11551,
-      "comment1": "Shapeshifter Activity Leaguetype: 4 pointsMin: 1000 pointsMax:",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11552,
-      "comment1": "Shapeshifter Ranking Leaguetype: 1 pointsMin: 1 pointsMax: 1",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11553,
-      "comment1": "Shapeshifter Ranking Leaguetype: 1 pointsMin: 2 pointsMax: 2",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11554,
-      "comment1": "Shapeshifter Ranking Leaguetype: 1 pointsMin: 3 pointsMax: 3",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11555,
-      "comment1": "Shapeshifter Ranking Leaguetype: 1 pointsMin: 4 pointsMax: 10",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11556,
-      "comment1": "Shapeshifter Ranking Leaguetype: 1 pointsMin: 11 pointsMax: 25",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11557,
-      "comment1": "Shapeshifter Ranking Leaguetype: 1 pointsMin: 26 pointsMax: 50",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11558,
-      "comment1": "Shapeshifter Ranking Leaguetype: 1 pointsMin: 51 pointsMax: 100",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11559,
-      "comment1": "Shapeshifter Ranking Leaguetype: 1 pointsMin: 101 pointsMax: 200",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11560,
-      "comment1": "Shapeshifter Ranking Leaguetype: 1 pointsMin: 201 pointsMax: 400",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11561,
-      "comment1": "Shapeshifter Ranking Leaguetype: 1 pointsMin: 401 pointsMax: 800",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11562,
-      "comment1": "Shapeshifter Ranking Leaguetype: 1 pointsMin: 801 pointsMax: 1600",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11563,
-      "comment1": "Shapeshifter Ranking Leaguetype: 1 pointsMin: 1601 pointsMax: 3200",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11564,
-      "comment1": "Shapeshifter Ranking Leaguetype: 1 pointsMin: 3201 pointsMax: 6400",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11565,
-      "comment1": "Shapeshifter Ranking Leaguetype: 1 pointsMin: 6401 pointsMax: 12800",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11566,
-      "comment1": "Shapeshifter Ranking Leaguetype: 1 pointsMin: 12801 pointsMax: 25600",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11567,
-      "comment1": "Shapeshifter Ranking Leaguetype: 1 pointsMin: 25601 pointsMax:",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11568,
-      "comment1": "Shapeshifter Ranking Leaguetype: 2 pointsMin: 1 pointsMax: 1",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11569,
-      "comment1": "Shapeshifter Ranking Leaguetype: 2 pointsMin: 2 pointsMax: 2",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11570,
-      "comment1": "Shapeshifter Ranking Leaguetype: 2 pointsMin: 3 pointsMax: 3",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11571,
-      "comment1": "Shapeshifter Ranking Leaguetype: 2 pointsMin: 4 pointsMax: 10",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11572,
-      "comment1": "Shapeshifter Ranking Leaguetype: 2 pointsMin: 11 pointsMax: 25",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11573,
-      "comment1": "Shapeshifter Ranking Leaguetype: 2 pointsMin: 26 pointsMax: 50",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11574,
-      "comment1": "Shapeshifter Ranking Leaguetype: 2 pointsMin: 51 pointsMax: 100",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11575,
-      "comment1": "Shapeshifter Ranking Leaguetype: 2 pointsMin: 101 pointsMax: 200",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11576,
-      "comment1": "Shapeshifter Ranking Leaguetype: 2 pointsMin: 201 pointsMax: 400",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11577,
-      "comment1": "Shapeshifter Ranking Leaguetype: 2 pointsMin: 401 pointsMax: 800",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11578,
-      "comment1": "Shapeshifter Ranking Leaguetype: 2 pointsMin: 801 pointsMax: 1600",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11579,
-      "comment1": "Shapeshifter Ranking Leaguetype: 2 pointsMin: 1601 pointsMax: 3200",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11580,
-      "comment1": "Shapeshifter Ranking Leaguetype: 2 pointsMin: 3201 pointsMax: 6400",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11581,
-      "comment1": "Shapeshifter Ranking Leaguetype: 2 pointsMin: 6401 pointsMax: 12800",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11582,
-      "comment1": "Shapeshifter Ranking Leaguetype: 2 pointsMin: 12801 pointsMax: 25600",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11583,
-      "comment1": "Shapeshifter Ranking Leaguetype: 2 pointsMin: 25601 pointsMax:",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11584,
-      "comment1": "Shapeshifter Ranking Leaguetype: 3 pointsMin: 1 pointsMax: 1",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11585,
-      "comment1": "Shapeshifter Ranking Leaguetype: 3 pointsMin: 2 pointsMax: 2",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11586,
-      "comment1": "Shapeshifter Ranking Leaguetype: 3 pointsMin: 3 pointsMax: 3",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11587,
-      "comment1": "Shapeshifter Ranking Leaguetype: 3 pointsMin: 4 pointsMax: 10",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11588,
-      "comment1": "Shapeshifter Ranking Leaguetype: 3 pointsMin: 11 pointsMax: 25",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11589,
-      "comment1": "Shapeshifter Ranking Leaguetype: 3 pointsMin: 26 pointsMax: 50",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11590,
-      "comment1": "Shapeshifter Ranking Leaguetype: 3 pointsMin: 51 pointsMax: 100",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11591,
-      "comment1": "Shapeshifter Ranking Leaguetype: 3 pointsMin: 101 pointsMax: 200",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11592,
-      "comment1": "Shapeshifter Ranking Leaguetype: 3 pointsMin: 201 pointsMax: 400",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11593,
-      "comment1": "Shapeshifter Ranking Leaguetype: 3 pointsMin: 401 pointsMax: 800",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11594,
-      "comment1": "Shapeshifter Ranking Leaguetype: 3 pointsMin: 801 pointsMax: 1600",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11595,
-      "comment1": "Shapeshifter Ranking Leaguetype: 3 pointsMin: 1601 pointsMax: 3200",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11596,
-      "comment1": "Shapeshifter Ranking Leaguetype: 3 pointsMin: 3201 pointsMax: 6400",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11597,
-      "comment1": "Shapeshifter Ranking Leaguetype: 3 pointsMin: 6401 pointsMax: 12800",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11598,
-      "comment1": "Shapeshifter Ranking Leaguetype: 3 pointsMin: 12801 pointsMax: 25600",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11599,
-      "comment1": "Shapeshifter Ranking Leaguetype: 3 pointsMin: 25601 pointsMax:",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11600,
-      "comment1": "Shapeshifter Ranking Leaguetype: 4 pointsMin: 1 pointsMax: 1",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11601,
-      "comment1": "Shapeshifter Ranking Leaguetype: 4 pointsMin: 2 pointsMax: 2",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11602,
-      "comment1": "Shapeshifter Ranking Leaguetype: 4 pointsMin: 3 pointsMax: 3",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11603,
-      "comment1": "Shapeshifter Ranking Leaguetype: 4 pointsMin: 4 pointsMax: 10",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11604,
-      "comment1": "Shapeshifter Ranking Leaguetype: 4 pointsMin: 11 pointsMax: 25",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11605,
-      "comment1": "Shapeshifter Ranking Leaguetype: 4 pointsMin: 26 pointsMax: 50",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11606,
-      "comment1": "Shapeshifter Ranking Leaguetype: 4 pointsMin: 51 pointsMax: 100",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11607,
-      "comment1": "Shapeshifter Ranking Leaguetype: 4 pointsMin: 101 pointsMax: 200",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11608,
-      "comment1": "Shapeshifter Ranking Leaguetype: 4 pointsMin: 201 pointsMax: 400",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11609,
-      "comment1": "Shapeshifter Ranking Leaguetype: 4 pointsMin: 401 pointsMax: 800",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11610,
-      "comment1": "Shapeshifter Ranking Leaguetype: 4 pointsMin: 801 pointsMax: 1600",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11611,
-      "comment1": "Shapeshifter Ranking Leaguetype: 4 pointsMin: 1601 pointsMax: 3200",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11612,
-      "comment1": "Shapeshifter Ranking Leaguetype: 4 pointsMin: 3201 pointsMax: 6400",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11613,
-      "comment1": "Shapeshifter Ranking Leaguetype: 4 pointsMin: 6401 pointsMax: 12800",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11614,
-      "comment1": "Shapeshifter Ranking Leaguetype: 4 pointsMin: 12801 pointsMax: 25600",
-      "currency1": 69
-    },
-    {
-      "rewardID": 11615,
-      "comment1": "Shapeshifter Ranking Leaguetype: 4 pointsMin: 25601 pointsMax:",
-      "currency1": 69
     },
     {
       "rewardID": 10762,
@@ -62711,14 +62711,14 @@
       "comment1": "Reward 78",
       "comment2": "Activity Reward LTPE April 2025 Lvl 1020",
       "addSpringLTPEToken": 800,
-      "addDragonScaleSplinters": 7500
+      "addDragonScaleSplinters": 3750
     },
     {
       "rewardID": 14733,
       "comment1": "Reward 79",
       "comment2": "Activity Reward LTPE April 2025 Lvl 1020",
       "addSpringLTPEToken": 1250,
-      "addDragonScaleSplinters": 7500
+      "addDragonScaleSplinters": 3750
     },
     {
       "rewardID": 14734,
@@ -63212,7 +63212,9 @@
       "comment1": "Reward 78",
       "comment2": "Activity Reward LTPE April 2025 Lvl 720-1019",
       "addSpringLTPEToken": 800,
-      "units": "214+7500"
+      "units": "214+7500",
+      "hiddenMead": 180000,
+      "ignoreResourceStorageCapacity": 1
     },
     {
       "rewardID": 14813,
@@ -63226,7 +63228,9 @@
       "comment1": "Reward 80",
       "comment2": "Activity Reward LTPE April 2025 Lvl 720-1019",
       "addSpringLTPEToken": 2000,
-      "units": "216+7500"
+      "units": "204+7500",
+      "hiddenMead": 180000,
+      "ignoreResourceStorageCapacity": 1
     },
     {
       "rewardID": 14815,
@@ -63713,7 +63717,9 @@
       "comment1": "Reward 78",
       "comment2": "Activity Reward LTPE April 2025 Lvl 270-719",
       "addSpringLTPEToken": 800,
-      "units": "214+7500"
+      "units": "214+7500",
+      "hiddenMead": 180000,
+      "ignoreResourceStorageCapacity": 1
     },
     {
       "rewardID": 14893,
@@ -63727,7 +63733,9 @@
       "comment1": "Reward 80",
       "comment2": "Activity Reward LTPE April 2025 Lvl 270-719",
       "addSpringLTPEToken": 2000,
-      "units": "216+7500"
+      "units": "204+7500",
+      "hiddenMead": 180000,
+      "ignoreResourceStorageCapacity": 1
     },
     {
       "rewardID": 14895,
@@ -64214,7 +64222,9 @@
       "comment1": "Reward 78",
       "comment2": "Activity Reward LTPE April 2025 Lvl 70-269",
       "addSpringLTPEToken": 800,
-      "units": "214+7500"
+      "units": "214+7500",
+      "hiddenMead": 180000,
+      "ignoreResourceStorageCapacity": 1
     },
     {
       "rewardID": 14973,
@@ -64228,7 +64238,9 @@
       "comment1": "Reward 80",
       "comment2": "Activity Reward LTPE April 2025 Lvl 70-269",
       "addSpringLTPEToken": 2000,
-      "units": "216+7500"
+      "units": "204+7500",
+      "hiddenMead": 180000,
+      "ignoreResourceStorageCapacity": 1
     },
     {
       "rewardID": 14975,
@@ -64715,14 +64727,14 @@
       "comment1": "Reward 78",
       "comment2": "Activity Reward LTPE May 2025 Lvl 1020",
       "addLotusFlowerLTPEToken": 800,
-      "addDragonScaleSplinters": 7500
+      "addDragonScaleSplinters": 3750
     },
     {
       "rewardID": 15053,
       "comment1": "Reward 79",
       "comment2": "Activity Reward LTPE May 2025 Lvl 1020",
       "addLotusFlowerLTPEToken": 1250,
-      "addDragonScaleSplinters": 7500
+      "addDragonScaleSplinters": 3750
     },
     {
       "rewardID": 15054,
@@ -65216,7 +65228,9 @@
       "comment1": "Reward 78",
       "comment2": "Activity Reward LTPE May 2025 Lvl 720-1019",
       "addLotusFlowerLTPEToken": 800,
-      "units": "214+7500"
+      "units": "214+7500",
+      "hiddenMead": 180000,
+      "ignoreResourceStorageCapacity": 1
     },
     {
       "rewardID": 15133,
@@ -65230,7 +65244,9 @@
       "comment1": "Reward 80",
       "comment2": "Activity Reward LTPE May 2025 Lvl 720-1019",
       "addLotusFlowerLTPEToken": 2000,
-      "units": "216+7500"
+      "units": "204+7500",
+      "hiddenMead": 180000,
+      "ignoreResourceStorageCapacity": 1
     },
     {
       "rewardID": 15135,
@@ -65717,7 +65733,9 @@
       "comment1": "Reward 78",
       "comment2": "Activity Reward LTPE May 2025 Lvl 270-719",
       "addLotusFlowerLTPEToken": 800,
-      "units": "214+7500"
+      "units": "214+7500",
+      "hiddenMead": 180000,
+      "ignoreResourceStorageCapacity": 1
     },
     {
       "rewardID": 15213,
@@ -65731,7 +65749,9 @@
       "comment1": "Reward 80",
       "comment2": "Activity Reward LTPE May 2025 Lvl 270-719",
       "addLotusFlowerLTPEToken": 2000,
-      "units": "216+7500"
+      "units": "204+7500",
+      "hiddenMead": 180000,
+      "ignoreResourceStorageCapacity": 1
     },
     {
       "rewardID": 15215,
@@ -66218,7 +66238,9 @@
       "comment1": "Reward 78",
       "comment2": "Activity Reward LTPE May 2025 Lvl 70-269",
       "addLotusFlowerLTPEToken": 800,
-      "units": "214+7500"
+      "units": "214+7500",
+      "hiddenMead": 180000,
+      "ignoreResourceStorageCapacity": 1
     },
     {
       "rewardID": 15293,
@@ -66232,7 +66254,9 @@
       "comment1": "Reward 80",
       "comment2": "Activity Reward LTPE May 2025 Lvl 70-269",
       "addLotusFlowerLTPEToken": 2000,
-      "units": "216+7500"
+      "units": "204+7500",
+      "hiddenMead": 180000,
+      "ignoreResourceStorageCapacity": 1
     },
     {
       "rewardID": 15295,
@@ -66719,14 +66743,14 @@
       "comment1": "Reward 78",
       "comment2": "Activity Reward LTPE June 2025 Lvl 1020",
       "addMayaLTPEToken": 800,
-      "addDragonScaleSplinters": 7500
+      "addDragonScaleSplinters": 3750
     },
     {
       "rewardID": 15373,
       "comment1": "Reward 79",
       "comment2": "Activity Reward LTPE June 2025 Lvl 1020",
       "addMayaLTPEToken": 1250,
-      "addDragonScaleSplinters": 7500
+      "addDragonScaleSplinters": 3750
     },
     {
       "rewardID": 15374,
@@ -67220,7 +67244,9 @@
       "comment1": "Reward 78",
       "comment2": "Activity Reward LTPE June 2025 Lvl 720-1019",
       "addMayaLTPEToken": 800,
-      "units": "214+7500"
+      "units": "214+7500",
+      "hiddenMead": 180000,
+      "ignoreResourceStorageCapacity": 1
     },
     {
       "rewardID": 15453,
@@ -67234,7 +67260,9 @@
       "comment1": "Reward 80",
       "comment2": "Activity Reward LTPE June 2025 Lvl 720-1019",
       "addMayaLTPEToken": 2000,
-      "units": "216+7500"
+      "units": "204+7500",
+      "hiddenMead": 180000,
+      "ignoreResourceStorageCapacity": 1
     },
     {
       "rewardID": 15455,
@@ -67721,7 +67749,9 @@
       "comment1": "Reward 78",
       "comment2": "Activity Reward LTPE June 2025 Lvl 270-719",
       "addMayaLTPEToken": 800,
-      "units": "214+7500"
+      "units": "214+7500",
+      "hiddenMead": 180000,
+      "ignoreResourceStorageCapacity": 1
     },
     {
       "rewardID": 15533,
@@ -67735,7 +67765,9 @@
       "comment1": "Reward 80",
       "comment2": "Activity Reward LTPE June 2025 Lvl 270-719",
       "addMayaLTPEToken": 2000,
-      "units": "216+7500"
+      "units": "204+7500",
+      "hiddenMead": 180000,
+      "ignoreResourceStorageCapacity": 1
     },
     {
       "rewardID": 15535,
@@ -68222,7 +68254,9 @@
       "comment1": "Reward 78",
       "comment2": "Activity Reward LTPE June 2025 Lvl 70-269",
       "addMayaLTPEToken": 800,
-      "units": "214+7500"
+      "units": "214+7500",
+      "hiddenMead": 180000,
+      "ignoreResourceStorageCapacity": 1
     },
     {
       "rewardID": 15613,
@@ -68236,7 +68270,9 @@
       "comment1": "Reward 80",
       "comment2": "Activity Reward LTPE June 2025 Lvl 70-269",
       "addMayaLTPEToken": 2000,
-      "units": "216+7500"
+      "units": "204+7500",
+      "hiddenMead": 180000,
+      "ignoreResourceStorageCapacity": 1
     },
     {
       "rewardID": 2753,

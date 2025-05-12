@@ -12679,7 +12679,7 @@
     "advisor_AttackNumber": "Ataque do conselheiro:{0}/{1}",
     "advisor_AttackSummary_defeat": "{0} Ataques - derrota",
     "advisor_AttackSummary_pending": "{0} Ataques - pendentes",
-    "advisor_AttackSummary_stopped": "{0} Ataques - parados",
+    "advisor_AttackSummary_stopped": "{0} Ataques - falha ao enviar / não chegou",
     "advisor_AttackSummary_victory": "{0} Ataques - vitória",
     "attack_advisor": "Ataque do conselheiro",
     "advisor_attackInfo": "Cada ataque é pago quando começa, com o mesmo custo aplicado a cada ataque.",
@@ -12736,7 +12736,11 @@
     "webshop_decoWithEffects_WallDefCourtDefCourtCapNoLimit_desc": "Efeito compartilhado entre decorações, Ordem Pública +{0}, +{1}% de bônus na capacidade das tropas de defesa do muro (máx. 150%), +{2}% de bônus na força no pátio ao defender (máx. +120%), +{3} bônus na capacidade das tropas de defesa no pátio (máx. +150k), Tamanho do edifício {4}x{5}.",
     "dialog_ci_disassemble_multiple_desc2": "O item será destruído e em troca você receberá os materiais de criação listados acima por item desmontado. Você tem certeza de que deseja desmontar este item?",
     "webshop_buildersQuarters_description": "Desbloqueia um slot de construção.\n\nNível do edifício: {0}\nSlots de construção extras por castelo: {1}\nLimite por castelo: {2}",
-    "webshop_crane_description": "Permite que você coloque um prédio adicional neste castelo.\n\nNível do prédio: {0}\nSlots de fila extras por castelo: {1}\nLimite por castelo: {2}"
+    "webshop_crane_description": "Permite que você coloque um prédio adicional neste castelo.\n\nNível do prédio: {0}\nSlots de fila extras por castelo: {1}\nLimite por castelo: {2}",
+    "dialog_chestOffer_desc_conversion": "Desbloqueie recompensas emocionantes com o Pacote do Arquiteto!",
+    "dialog_privateBestsellerShop_buildingResourceBundle_tooltip": "Pacote de recursos do arquiteto",
+    "webshop_nomadadvisor_token": "Token do conselheiro",
+    "button_advisorCancelAll": "Cancelar todos os ataques de conselheiros"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% de força de combate da unidade ao atacar",
@@ -14077,7 +14081,7 @@
     "equip_effect_description_unitWallAbsoluteAmount": "+{0} limite de unidades na parede",
     "equip_effect_description_allianceFameBoost": "+{0}% pontos de glória ganhos ao atacar",
     "equip_effect_description_allianceTravelSupportBoost": "Tempo de viagem de suporte da aliança: -{0}%",
-    "effect_name_AttackBoostFlankCapped": "+{0}% de força de combate na linha de frente ao atacar",
+    "effect_name_AttackBoostFlankCapped": "de força de combate na linha de frente ao atacar",
     "effect_name_AttackBoostFrontCapped": "Força de combate das unidades ao atacar a frente",
     "equip_effect_description_AttackBoostFlankCapped": "+{0}% força de combate nas laterais ao atacar",
     "equip_effect_description_AttackBoostFrontCapped": "+{0}% força de combate na frente durante o ataque"
