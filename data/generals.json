@@ -256,8 +256,22 @@
       "generalRarityID": 3,
       "maxLevel": 100,
       "maxStarLevel": 10,
-      "unlockCurrencyID": 10011,
-      "upgradeCurrencyIDs": "10000,10011",
+      "unlockCurrencyID": 10006,
+      "upgradeCurrencyIDs": "10000,10006",
+      "isPreview": 0,
+      "isNPCGeneral": 0
+    },
+    {
+      "generalID": 123,
+      "crossplayID": 123,
+      "generalName": "Garrik",
+      "attackSlots": "101231,101232,101233",
+      "defenseSlots": "101236,101237,101238",
+      "generalRarityID": 1,
+      "maxLevel": 60,
+      "maxStarLevel": 5,
+      "unlockCurrencyID": 10013,
+      "upgradeCurrencyIDs": "10000,10013",
       "isPreview": 1,
       "isNPCGeneral": 0
     }

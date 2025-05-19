@@ -14738,6 +14738,48 @@
       "mightValue": 0,
       "canSlotGem": 0,
       "skinID": 121
+    },
+    {
+      "equipmentID": 1269,
+      "crossplayID": 1269,
+      "comment1": "SaleDaysMay 2025",
+      "comment2": "EvergreenClover",
+      "wearerID": 2,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 910,
+      "effects": "24&amp;6,334&amp;25",
+      "duration": 120,
+      "mightValue": 0,
+      "canSlotGem": 1,
+      "skinID": 57
+    },
+    {
+      "equipmentID": 1270,
+      "crossplayID": 1270,
+      "comment1": "SaleDaysMay 2025",
+      "comment2": "EvergreenClover",
+      "wearerID": 2,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 910,
+      "effects": "24&amp;4,23&amp;15,66&amp;5",
+      "duration": 120,
+      "mightValue": 0,
+      "canSlotGem": 1,
+      "skinID": 57
+    },
+    {
+      "equipmentID": 1271,
+      "crossplayID": 1271,
+      "comment1": "SaleDaysMay 2025",
+      "comment2": "RosewoodBud",
+      "wearerID": 1,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 921,
+      "effects": "335&amp;45,37&amp;25000",
+      "duration": 120,
+      "mightValue": 0,
+      "canSlotGem": 1,
+      "skinID": 62
     }
   ]
 }

@@ -2639,6 +2639,7 @@ export interface Language {
         "currency_description_CommonFineSand": string;
         "currency_description_DailyDutyPoints": string;
         "currency_description_DecoCatalyst": string;
+        "currency_description_DianaToken": string;
         "currency_description_EpicResin": string;
         "currency_description_Essence": string;
         "currency_description_EssenceBoosterKey": string;
@@ -2662,7 +2663,6 @@ export interface Language {
         "currency_description_LegendaryMaterial": string;
         "currency_description_LegendarySoulStone": string;
         "currency_description_LegendaryToken": string;
-        "currency_description_OfferingHasan": string;
         "currency_description_PearlRelic": string;
         "currency_description_RareFlint": string;
         "currency_description_RoyalCapitalCoin": string;
@@ -2729,6 +2729,7 @@ export interface Language {
         "currency_name_CastlePassageToken": string;
         "currency_name_DailyDutyPoints": string;
         "currency_name_DecoCatalyst": string;
+        "currency_name_DianaToken": string;
         "currency_name_Essence": string;
         "currency_name_EssenceBoosterKey": string;
         "currency_name_FurSkinnerBoosterKey": string;
@@ -2748,7 +2749,6 @@ export interface Language {
         "currency_name_HeritageBoosterKey": string;
         "currency_name_LegendaryMaterial": string;
         "currency_name_LegendaryToken": string;
-        "currency_name_OfferingHasan": string;
         "currency_name_SaleDaysLuckyWheelTicket": string;
         "currency_name_SamuraiToken": string;
         "currency_name_SamuraiTokens": string;
@@ -2870,6 +2870,13 @@ export interface Language {
         "dialog_Berimond_travelBerimond": string;
         "dialog_ChangeApp_AccountInfo": string;
         "dialog_ChangeApp_desc": string;
+        "dialog_CoA_CustomizationRight": string;
+        "dialog_CoA_title": string;
+        "dialog_CoA_tooltip_Save": string;
+        "dialog_CoA_tooltip_SaveDenied": string;
+        "dialog_CoA_tooltip_randomize": string;
+        "dialog_CoA_tooltip_reset": string;
+        "dialog_CoAcustomization_title": string;
         "dialog_Commander_bonusGloryTitle": string;
         "dialog_Commander_bonusKingstower_UNUSED": string;
         "dialog_Commander_bonusMonument": string;
@@ -2879,6 +2886,7 @@ export interface Language {
         "dialog_EGAevent_message_won_title": string;
         "dialog_EGAevent_price1": string;
         "dialog_EGAevent_price2": string;
+        "dialog_EntryPointCoA": string;
         "dialog_ExplainInstantBuild_copy": string;
         "dialog_ExplainLootDungeon": string;
         "dialog_ExplainLootressources_copy": string;
@@ -5211,10 +5219,10 @@ export interface Language {
         "dialog_generals_inn_character_gamblingPrincess": string;
         "dialog_generals_inn_cinematics_header_desc": string;
         "dialog_generals_inn_drawChances_desc": string;
+        "dialog_generals_inn_drawChances_drunkKnight_DianaToken": string;
         "dialog_generals_inn_drawChances_drunkKnight_TiziToken": string;
         "dialog_generals_inn_drawChances_drunkKnight_knightToken": string;
         "dialog_generals_inn_drawChances_fatKing_HasanToken": string;
-        "dialog_generals_inn_drawChances_fatKing_OfferingHasan": string;
         "dialog_generals_inn_drawChances_fatKing_TomAliceToken": string;
         "dialog_generals_inn_drawChances_fatKing_fatKingToken": string;
         "dialog_generals_inn_drawChances_gamblingPrincess_SasakiToken": string;
@@ -8497,7 +8505,7 @@ export interface Language {
         "dialog_siegeMessage_factionEnemy": string;
         "dialog_siegeMessage_factionOwn": string;
         "dialog_siegeMessage_monumentConquered": string;
-        "dialog_siegeMessage_outpostConquered": string[];
+        "dialog_siegeMessage_outpostConquered": string;
         "dialog_siegeMessage_outpostConqueredDistrict": string;
         "dialog_siegeMessage_outpostConqueredDistrict_header": string;
         "dialog_siegeMessage_resourceIslandConquered": string;
@@ -10162,6 +10170,9 @@ export interface Language {
         "generals_characters_120_name": string;
         "generals_characters_120_narrative": string;
         "generals_characters_120_summary": string;
+        "generals_characters_121_name": string;
+        "generals_characters_121_narrative": string;
+        "generals_characters_121_summary": string;
         "generals_introduction_cinematic01_desc": string;
         "generals_introduction_cinematic01_name": string;
         "generals_introduction_cinematic02_desc": string;
@@ -12323,6 +12334,13 @@ export interface Language {
         "webshop_defensiveTroops_large_name": string;
         "webshop_defensiveTroops_medium_name": string;
         "webshop_defensiveTroops_small_name": string;
+        "webshop_dianabase_VIP_name": string;
+        "webshop_dianabase_extraLarge_name": string;
+        "webshop_dianabase_giant_name": string;
+        "webshop_dianabase_huge_name": string;
+        "webshop_dianabase_large_name": string;
+        "webshop_dianabase_medium_name": string;
+        "webshop_dianabase_small_name": string;
         "webshop_discountedPrice": string;
         "webshop_easter_VIP_name": string;
         "webshop_easter_extraLarge_name": string;
@@ -15293,6 +15311,12 @@ export interface Language {
         "equipment_unique_1267_desc": string;
         "equipment_unique_1268": string;
         "equipment_unique_1268_desc": string;
+        "equipment_unique_1269": string;
+        "equipment_unique_1269_desc": string;
+        "equipment_unique_1270": string;
+        "equipment_unique_1270_desc": string;
+        "equipment_unique_1271": string;
+        "equipment_unique_1271_desc": string;
         "equipment_unique_12_desc": string;
         "equipment_unique_13": string;
         "equipment_unique_13_desc": string;

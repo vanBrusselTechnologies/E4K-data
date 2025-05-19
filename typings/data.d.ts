@@ -1557,6 +1557,7 @@ export interface Event {
     "maxLevel"?: number;
     "merchantID"?: number;
     "minLevel"?: number;
+    "onlyPayUser"?: number;
     "openWithLogin"?: number;
     "packageIDs"?: number | string;
     "partPayPriceID"?: number;
@@ -2935,6 +2936,7 @@ export interface Reward {
     "addDecoCatalyst8"?: number;
     "addDecoCatalyst9"?: number;
     "addDecoDust"?: number;
+    "addDianaToken"?: number;
     "addDragonCharm"?: number;
     "addDragonGlass"?: number;
     "addDragonGlassArrows"?: number;
@@ -2975,7 +2977,6 @@ export interface Reward {
     "addMayaLTPEToken"?: number;
     "addNewKingLTPEToken"?: number;
     "addOctoberfestLTPEToken"?: number;
-    "addOfferingHasan"?: number;
     "addPegasusTicket"?: number;
     "addPiratesLTPEToken"?: number;
     "addPlaster"?: number;
@@ -2992,6 +2993,7 @@ export interface Reward {
     "addSceatToken"?: number;
     "addShardAlice"?: number;
     "addShardAlyssa"?: number;
+    "addShardDiana"?: number;
     "addShardHasan"?: number;
     "addShardHoratio"?: number;
     "addShardLeo"?: number;

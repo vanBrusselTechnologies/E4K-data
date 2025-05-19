@@ -30085,6 +30085,34 @@
       "constructionItemEffectGroupID": 28,
       "disassemblingTombolaID": 4,
       "effects": "504&amp;85"
+    },
+    {
+      "constructionItemID": 952,
+      "crossplayID": 952,
+      "comment1": "Appearance",
+      "comment2": "roseKeep",
+      "name": "roseKeep",
+      "constructionItemGroupID": 278,
+      "level": 1,
+      "rarenessID": 0,
+      "slotTypeID": 0,
+      "duration": 345600,
+      "constructionItemEffectGroupID": 28,
+      "effects": "614&amp;70,504&amp;45"
+    },
+    {
+      "constructionItemID": 953,
+      "crossplayID": 953,
+      "comment1": "Temporary Sales Days",
+      "comment2": "mistwoodBarracks",
+      "name": "mistwoodBarracks",
+      "constructionItemGroupID": 279,
+      "level": 1,
+      "rarenessID": 1,
+      "slotTypeID": 0,
+      "duration": 345600,
+      "constructionItemEffectGroupID": 51,
+      "effects": "80&amp;500,114&amp;10"
     }
   ]
 }

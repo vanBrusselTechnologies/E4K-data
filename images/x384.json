@@ -54310,6 +54310,21 @@
     ],
     "fx": []
   },
+  "Background_Generals_Overview_Preview_Garrik": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_Garrik.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1211,
+        "h": 1217,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
   "Background_Generals_Overview_Preview_Hasan": {
     "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_Hasan.png",
@@ -82535,6 +82550,231 @@
     ],
     "fx": []
   },
+  "alliance_coa_layout_1": {
+    "pid": 1,
+    "url": "x384/Icons/CrestIcons/alliance_coa_layout_1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 57,
+        "rx": 973,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "alliance_coa_layout_2": {
+    "pid": 1,
+    "url": "x384/Icons/CrestIcons/alliance_coa_layout_2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 57,
+        "rx": 973,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "alliance_coa_layout_3": {
+    "pid": 1,
+    "url": "x384/Icons/CrestIcons/alliance_coa_layout_3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 57,
+        "rx": 973,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "alliance_coa_layout_4": {
+    "pid": 1,
+    "url": "x384/Icons/CrestIcons/alliance_coa_layout_4.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 52,
+        "h": 57,
+        "rx": 974,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "alliance_coa_layout_5": {
+    "pid": 1,
+    "url": "x384/Icons/CrestIcons/alliance_coa_layout_5.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 57,
+        "rx": 973,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "alliance_coa_layout_6": {
+    "pid": 1,
+    "url": "x384/Icons/CrestIcons/alliance_coa_layout_6.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 52,
+        "h": 57,
+        "rx": 973,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "alliance_coa_layout_7": {
+    "pid": 1,
+    "url": "x384/Icons/CrestIcons/alliance_coa_layout_7.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 52,
+        "h": 57,
+        "rx": 973,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "alliance_coa_layout_8": {
+    "pid": 1,
+    "url": "x384/Icons/CrestIcons/alliance_coa_layout_8.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 52,
+        "h": 57,
+        "rx": 973,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "alliance_coa_layout_9": {
+    "pid": 1,
+    "url": "x384/Icons/CrestIcons/alliance_coa_layout_9.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 103,
+        "rx": 950,
+        "ry": 948
+      }
+    ],
+    "fx": []
+  },
+  "alliance_coa_layout_10": {
+    "pid": 1,
+    "url": "x384/Icons/CrestIcons/alliance_coa_layout_10.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 102,
+        "rx": 950,
+        "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "alliance_coa_layout_11": {
+    "pid": 1,
+    "url": "x384/Icons/CrestIcons/alliance_coa_layout_11.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 102,
+        "rx": 950,
+        "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "alliance_coa_layout_12": {
+    "pid": 1,
+    "url": "x384/Icons/CrestIcons/alliance_coa_layout_12.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 102,
+        "rx": 950,
+        "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_alliance_coa_1": {
+    "pid": 0,
+    "url": "x384/Icons/EffectIcons/icon_effect_alliance_coa_1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 43,
+        "h": 45,
+        "rx": 978,
+        "ry": 977
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_alliance_coa_2": {
+    "pid": 0,
+    "url": "x384/Icons/EffectIcons/icon_effect_alliance_coa_2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 47,
+        "rx": 977,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_alliance_coa_3": {
+    "pid": 0,
+    "url": "x384/Icons/EffectIcons/icon_effect_alliance_coa_3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 43,
+        "h": 45,
+        "rx": 978,
+        "ry": 977
+      }
+    ],
+    "fx": []
+  },
   "icon_effect_allianceDefenseUnitAmountYardBonus": {
     "pid": 0,
     "url": "x384/Icons/EffectIcons/icon_effect_allianceDefenseUnitAmountYardBonus.png",
@@ -84151,6 +84391,51 @@
         "h": 69,
         "rx": 965,
         "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Garrik_xl": {
+    "pid": 1,
+    "url": "x384/Icons/GeneralIcons/icon_general_preview_Garrik_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 103,
+        "h": 108,
+        "rx": 947,
+        "ry": 945
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Garrik_xxl": {
+    "pid": 1,
+    "url": "x384/Icons/GeneralIcons/icon_general_preview_Garrik_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 132,
+        "h": 140,
+        "rx": 936,
+        "ry": 931
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Garrik": {
+    "pid": 1,
+    "url": "x384/Icons/GeneralIcons/icon_general_preview_Garrik.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 69,
+        "h": 72,
+        "rx": 965,
+        "ry": 963
       }
     ],
     "fx": []
@@ -86161,6 +86446,36 @@
         "h": 79,
         "rx": 969,
         "ry": 960
+      }
+    ],
+    "fx": []
+  },
+  "icon_alliance_coa_tab": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_alliance_coa_tab.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 49,
+        "rx": 976,
+        "ry": 975
+      }
+    ],
+    "fx": []
+  },
+  "icon_alliance_coa": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_alliance_coa.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 49,
+        "rx": 971,
+        "ry": 975
       }
     ],
     "fx": []
@@ -137792,6 +138107,21 @@
         "rotation": 0
       }
     ]
+  },
+  "AllianceCrest_Surroundings": {
+    "pid": 0,
+    "url": "x384/Surroundings/AllianceCrest_Surroundings/AllianceCrest_Surroundings.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 124,
+        "h": 134,
+        "rx": 963,
+        "ry": 934
+      }
+    ],
+    "fx": []
   },
   "EventHub_Surroundings": {
     "pid": 0,

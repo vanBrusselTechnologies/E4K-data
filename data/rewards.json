@@ -4601,7 +4601,42 @@
       "crossplayID": 70223,
       "comment1": "HasanToken",
       "comment2": "Common",
-      "addOfferingHasan": 1
+      "addHasanToken": 1
+    },
+    {
+      "rewardID": 70224,
+      "crossplayID": 70224,
+      "comment1": "Diana 75",
+      "comment2": "Legendary",
+      "addShardDiana": 75
+    },
+    {
+      "rewardID": 70225,
+      "crossplayID": 70225,
+      "comment1": "Diana 40",
+      "comment2": "Epic",
+      "addShardDiana": 40
+    },
+    {
+      "rewardID": 70226,
+      "crossplayID": 70226,
+      "comment1": "Diana 25",
+      "comment2": "Rare",
+      "addShardDiana": 25
+    },
+    {
+      "rewardID": 70227,
+      "crossplayID": 70227,
+      "comment1": "Diana 15",
+      "comment2": "Rare",
+      "addShardDiana": 15
+    },
+    {
+      "rewardID": 70228,
+      "crossplayID": 70228,
+      "comment1": "DianaiToken",
+      "comment2": "Common",
+      "addDianaToken": 1
     },
     {
       "rewardID": 8,

@@ -295,6 +295,42 @@
       "tier": 5,
       "previousTierRequiredSkillPoints": 90,
       "minGeneralStarTier": 10
+    },
+    {
+      "tierID": 42,
+      "crossplayID": 42,
+      "generalID": 121,
+      "tier": 1,
+      "previousTierRequiredSkillPoints": 0
+    },
+    {
+      "tierID": 43,
+      "crossplayID": 43,
+      "generalID": 121,
+      "tier": 2,
+      "previousTierRequiredSkillPoints": 10
+    },
+    {
+      "tierID": 44,
+      "crossplayID": 44,
+      "generalID": 121,
+      "tier": 3,
+      "previousTierRequiredSkillPoints": 35
+    },
+    {
+      "tierID": 45,
+      "crossplayID": 45,
+      "generalID": 121,
+      "tier": 4,
+      "previousTierRequiredSkillPoints": 70
+    },
+    {
+      "tierID": 46,
+      "crossplayID": 46,
+      "generalID": 121,
+      "tier": 5,
+      "previousTierRequiredSkillPoints": 90,
+      "minGeneralStarTier": 10
     }
   ]
 }

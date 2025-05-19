@@ -44,6 +44,7 @@ export interface Images {
     "AlienInvasion_Mapobject_Level_3": ImageData;
     "AlienInvasion_Mapobject_Level_4": ImageData;
     "AlienInvasion_Mapobject_Level_5": ImageData;
+    "AllianceCrest_Surroundings": ImageData;
     "AllianceScroll_HardAllied": ImageData;
     "AllianceScroll_OwnAlliance": ImageData;
     "AllianceScroll_SameAlliance": ImageData;
@@ -125,6 +126,7 @@ export interface Images {
     "Background_Generals_Overview_Preview_BabaVarjuka": ImageData;
     "Background_Generals_Overview_Preview_BlueGeneral": ImageData;
     "Background_Generals_Overview_Preview_Diana": ImageData;
+    "Background_Generals_Overview_Preview_Garrik": ImageData;
     "Background_Generals_Overview_Preview_Hasan": ImageData;
     "Background_Generals_Overview_Preview_Horatio": ImageData;
     "Background_Generals_Overview_Preview_KingOlafson": ImageData;
@@ -4730,6 +4732,18 @@ export interface Images {
     "alienKeep": ImageData;
     "alienResearchTower": ImageData;
     "alienStable": ImageData;
+    "alliance_coa_layout_1": ImageData;
+    "alliance_coa_layout_10": ImageData;
+    "alliance_coa_layout_11": ImageData;
+    "alliance_coa_layout_12": ImageData;
+    "alliance_coa_layout_2": ImageData;
+    "alliance_coa_layout_3": ImageData;
+    "alliance_coa_layout_4": ImageData;
+    "alliance_coa_layout_5": ImageData;
+    "alliance_coa_layout_6": ImageData;
+    "alliance_coa_layout_7": ImageData;
+    "alliance_coa_layout_8": ImageData;
+    "alliance_coa_layout_9": ImageData;
     "anniversaryKeep": ImageData;
     "announcement_teaser_106": ImageData;
     "announcement_teaser_123": ImageData;
@@ -4983,6 +4997,8 @@ export interface Images {
     "icon_alliance_battle_ground_performance_xl": ImageData;
     "icon_alliance_battle_ground_small": ImageData;
     "icon_alliance_battle_ground_xl": ImageData;
+    "icon_alliance_coa": ImageData;
+    "icon_alliance_coa_tab": ImageData;
     "icon_alliance_help_pay_rubies": ImageData;
     "icon_alliance_members_small": ImageData;
     "icon_alliance_open": ImageData;
@@ -6161,6 +6177,9 @@ export interface Images {
     "icon_edit": ImageData;
     "icon_effect_additionalWaves": ImageData;
     "icon_effect_allianceDefenseUnitAmountYardBonus": ImageData;
+    "icon_effect_alliance_coa_1": ImageData;
+    "icon_effect_alliance_coa_2": ImageData;
+    "icon_effect_alliance_coa_3": ImageData;
     "icon_effect_attackBonus": ImageData;
     "icon_effect_attackBoostFlank": ImageData;
     "icon_effect_attackBoostFront": ImageData;
@@ -6813,6 +6832,9 @@ export interface Images {
     "icon_general_preview_Diana": ImageData;
     "icon_general_preview_Diana_xl": ImageData;
     "icon_general_preview_Diana_xxl": ImageData;
+    "icon_general_preview_Garrik": ImageData;
+    "icon_general_preview_Garrik_xl": ImageData;
+    "icon_general_preview_Garrik_xxl": ImageData;
     "icon_general_preview_Hasan": ImageData;
     "icon_general_preview_Hasan_xl": ImageData;
     "icon_general_preview_Hasan_xxl": ImageData;
