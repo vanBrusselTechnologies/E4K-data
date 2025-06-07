@@ -1,23 +1,17 @@
-export * from './data';
 import {Data} from './data';
-export * from './images';
 import {Images} from './images';
-export * from './languages';
 import {Languages} from './languages';
 
-declare module 'e4k-data' {
-    interface E4KData {
-        country: Countries;
-        data: Data;
-        imageData: Images;
-        imageBaseUrl: string;
-        languages: Languages;
-        network: Network;
-    }
+export * from './data';
+export * from './images';
+export * from './languages';
 
-    const e4KData: E4KData;
-    export = e4KData;
-}
+export declare const country: Countries;
+export declare const data: Data;
+export declare const imageData: Images;
+export declare const imageBaseUrl: string;
+export declare const languages: Languages;
+export declare const network: Network;
 
 ///region Country
 export interface Countries {
