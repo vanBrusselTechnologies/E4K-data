@@ -58580,6 +58580,30 @@
       "minLevel": 20,
       "sortOrder": 3.6,
       "relationIDs": "400,999"
+    },
+    {
+      "packageID": 3903,
+      "packageType": "currency",
+      "comment1": "Orange",
+      "comment2": "Gold Shop - orange cheap",
+      "costGoldToken": 1950,
+      "addOrange": 150,
+      "stock": 1,
+      "minLevel": 20,
+      "sortOrder": 3.5,
+      "relationIDs": "400,999"
+    },
+    {
+      "packageID": 3905,
+      "packageType": "currency",
+      "comment1": "Orange",
+      "comment2": "Gold Shop - orange expensive",
+      "costGoldToken": 4950,
+      "addOrange": 350,
+      "stock": 1,
+      "minLevel": 20,
+      "sortOrder": 3.6,
+      "relationIDs": "400,999"
     }
   ]
 }

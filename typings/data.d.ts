@@ -1669,6 +1669,7 @@ export interface GachaEvent {
     "comment2": string;
     "costFrozenCarrot"?: number;
     "costHollowMoonEgg"?: number;
+    "costOrange"?: number;
     "costSoldierBiscuit"?: number;
     "eventID": number;
     "freeChestResetTime": number;
@@ -2403,6 +2404,7 @@ export interface Package {
     "addLegendarySoulstone"?: number;
     "addLegendaryToken"?: number;
     "addLuckyWheelTicket"?: number;
+    "addOrange"?: number;
     "addPegasusTicket"?: number;
     "addPlaster"?: number;
     "addPrincessToken"?: number;
@@ -2977,6 +2979,7 @@ export interface Reward {
     "addMayaLTPEToken"?: number;
     "addNewKingLTPEToken"?: number;
     "addOctoberfestLTPEToken"?: number;
+    "addOrange"?: number;
     "addPegasusTicket"?: number;
     "addPiratesLTPEToken"?: number;
     "addPlaster"?: number;

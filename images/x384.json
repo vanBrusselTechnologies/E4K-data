@@ -5273,6 +5273,81 @@
     ],
     "fx": []
   },
+  "Market_Building_Level1": {
+    "pid": 0,
+    "url": "x384/Buildings/Market/Market_Building_Level1/Market_Building_Level1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 123,
+        "h": 86,
+        "rx": 939,
+        "ry": 974
+      }
+    ],
+    "fx": []
+  },
+  "Market_Building_Level2": {
+    "pid": 0,
+    "url": "x384/Buildings/Market/Market_Building_Level2/Market_Building_Level2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 135,
+        "h": 112,
+        "rx": 930,
+        "ry": 953
+      }
+    ],
+    "fx": []
+  },
+  "Market_Building_Level3": {
+    "pid": 0,
+    "url": "x384/Buildings/Market/Market_Building_Level3/Market_Building_Level3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 141,
+        "h": 114,
+        "rx": 927,
+        "ry": 951
+      }
+    ],
+    "fx": []
+  },
+  "Market_Building_Level4": {
+    "pid": 0,
+    "url": "x384/Buildings/Market/Market_Building_Level4/Market_Building_Level4.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 141,
+        "h": 143,
+        "rx": 925,
+        "ry": 922
+      }
+    ],
+    "fx": []
+  },
+  "Market_Building_Level5": {
+    "pid": 0,
+    "url": "x384/Buildings/Market/Market_Building_Level5/Market_Building_Level5.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 139,
+        "h": 157,
+        "rx": 927,
+        "ry": 909
+      }
+    ],
+    "fx": []
+  },
   "Cargo_Building_Level1": {
     "pid": 2,
     "url": "x384/Buildings/Cargo/Cargo_Building_Level1/Cargo_Building_Level1.png",
@@ -8322,6 +8397,36 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedGreenLavaMountainOfWrath": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedGreenLavaMountainOfWrath/Deco_Building_ExaltedGreenLavaMountainOfWrath.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 289,
+        "h": 264,
+        "rx": 816,
+        "ry": 881
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedGreenLavaScorpionTemple": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedGreenLavaScorpionTemple/Deco_Building_ExaltedGreenLavaScorpionTemple.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 304,
+        "h": 244,
+        "rx": 811,
+        "ry": 900
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedGreenLavaShrineofDuality": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_ExaltedGreenLavaShrineofDuality/Deco_Building_ExaltedGreenLavaShrineofDuality.png",
@@ -8333,6 +8438,21 @@
         "h": 182,
         "rx": 798,
         "ry": 962
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedGreenLizardsCove": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedGreenLizardsCove/Deco_Building_ExaltedGreenLizardsCove.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 146,
+        "h": 106,
+        "rx": 909,
+        "ry": 960
       }
     ],
     "fx": []
@@ -8352,6 +8472,36 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedGreenPirateWaterSlide": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedGreenPirateWaterSlide/Deco_Building_ExaltedGreenPirateWaterSlide.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 163,
+        "h": 151,
+        "rx": 912,
+        "ry": 916
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedGreenWaterMountainOfWrath": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedGreenWaterMountainOfWrath/Deco_Building_ExaltedGreenWaterMountainOfWrath.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 293,
+        "h": 259,
+        "rx": 814,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedGreenWaterShrineofDuality": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_ExaltedGreenWaterShrineofDuality/Deco_Building_ExaltedGreenWaterShrineofDuality.png",
@@ -8363,6 +8513,21 @@
         "h": 211,
         "rx": 810,
         "ry": 930
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedGreenWaterSpiderTemple": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedGreenWaterSpiderTemple/Deco_Building_ExaltedGreenWaterSpiderTemple.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 307,
+        "h": 233,
+        "rx": 810,
+        "ry": 909
       }
     ],
     "fx": []
@@ -8532,6 +8697,36 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedPurpleLavaMountainOfWrath": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedPurpleLavaMountainOfWrath/Deco_Building_ExaltedPurpleLavaMountainOfWrath.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 289,
+        "h": 264,
+        "rx": 816,
+        "ry": 881
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedPurpleLavaScorpionTemple": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedPurpleLavaScorpionTemple/Deco_Building_ExaltedPurpleLavaScorpionTemple.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 303,
+        "h": 245,
+        "rx": 813,
+        "ry": 899
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedPurpleLavaShrineofDuality": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_ExaltedPurpleLavaShrineofDuality/Deco_Building_ExaltedPurpleLavaShrineofDuality.png",
@@ -8562,6 +8757,36 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedPurplePirateWaterSlide": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedPurplePirateWaterSlide/Deco_Building_ExaltedPurplePirateWaterSlide.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 163,
+        "h": 151,
+        "rx": 912,
+        "ry": 916
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedPurpleWaterMountainOfWrath": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedPurpleWaterMountainOfWrath/Deco_Building_ExaltedPurpleWaterMountainOfWrath.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 293,
+        "h": 259,
+        "rx": 814,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedPurpleWaterShrineofDuality": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_ExaltedPurpleWaterShrineofDuality/Deco_Building_ExaltedPurpleWaterShrineofDuality.png",
@@ -8573,6 +8798,21 @@
         "h": 211,
         "rx": 809,
         "ry": 930
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedPurpleWaterSpiderTemple": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedPurpleWaterSpiderTemple/Deco_Building_ExaltedPurpleWaterSpiderTemple.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 307,
+        "h": 233,
+        "rx": 809,
+        "ry": 908
       }
     ],
     "fx": []
@@ -8652,6 +8892,36 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedRedLavaMountainOfWrath": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedRedLavaMountainOfWrath/Deco_Building_ExaltedRedLavaMountainOfWrath.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 289,
+        "h": 264,
+        "rx": 816,
+        "ry": 881
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedRedLavaScorpionTemple": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedRedLavaScorpionTemple/Deco_Building_ExaltedRedLavaScorpionTemple.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 303,
+        "h": 244,
+        "rx": 813,
+        "ry": 900
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedRedLavaShrineofDuality": {
     "pid": 0,
     "url": "x384/Buildings/Deco/Deco_Building_ExaltedRedLavaShrineofDuality/Deco_Building_ExaltedRedLavaShrineofDuality.png",
@@ -8678,6 +8948,51 @@
         "h": 259,
         "rx": 810,
         "ry": 931
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedRedPirateWaterSlide": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedRedPirateWaterSlide/Deco_Building_ExaltedRedPirateWaterSlide.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 163,
+        "h": 151,
+        "rx": 912,
+        "ry": 916
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedRedWaterMountainOfWrath": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedRedWaterMountainOfWrath/Deco_Building_ExaltedRedWaterMountainOfWrath.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 293,
+        "h": 259,
+        "rx": 814,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedRedWaterSpiderTemple": {
+    "pid": 0,
+    "url": "x384/Buildings/Deco/Deco_Building_ExaltedRedWaterSpiderTemple/Deco_Building_ExaltedRedWaterSpiderTemple.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 306,
+        "h": 233,
+        "rx": 810,
+        "ry": 909
       }
     ],
     "fx": []
@@ -18593,177 +18908,6 @@
       }
     ]
   },
-  "Market_Building_Level1": {
-    "pid": 0,
-    "url": "x384/Buildings/Market/Market_Building_Level1/Market_Building_Level1.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 123,
-        "h": 86,
-        "rx": 939,
-        "ry": 974
-      }
-    ],
-    "fx": [
-      {
-        "x": 10,
-        "y": -11,
-        "scale": 0.25,
-        "name": "damageHolder",
-        "rotation": 0
-      }
-    ]
-  },
-  "Market_Building_Level2": {
-    "pid": 0,
-    "url": "x384/Buildings/Market/Market_Building_Level2/Market_Building_Level2.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 135,
-        "h": 112,
-        "rx": 930,
-        "ry": 953
-      }
-    ],
-    "fx": [
-      {
-        "x": 3,
-        "y": -20,
-        "scale": 0.25,
-        "name": "damageHolder",
-        "rotation": 0
-      },
-      {
-        "x": 122,
-        "y": 0,
-        "scale": 1.74,
-        "name": "flag0",
-        "rotation": 0
-      },
-      {
-        "x": 120,
-        "y": 2,
-        "scale": 1.74,
-        "name": "flag0",
-        "rotation": 0
-      }
-    ]
-  },
-  "Market_Building_Level3": {
-    "pid": 0,
-    "url": "x384/Buildings/Market/Market_Building_Level3/Market_Building_Level3.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 141,
-        "h": 114,
-        "rx": 927,
-        "ry": 951
-      }
-    ],
-    "fx": [
-      {
-        "x": -5,
-        "y": -19,
-        "scale": 0.25,
-        "name": "damageHolder",
-        "rotation": 0
-      },
-      {
-        "x": 96,
-        "y": 4,
-        "scale": 1.74,
-        "name": "flag0",
-        "rotation": 0
-      },
-      {
-        "x": 94,
-        "y": 0,
-        "scale": 1.74,
-        "name": "flag0",
-        "rotation": 0
-      }
-    ]
-  },
-  "Market_Building_Level4": {
-    "pid": 0,
-    "url": "x384/Buildings/Market/Market_Building_Level4/Market_Building_Level4.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 141,
-        "h": 143,
-        "rx": 925,
-        "ry": 922
-      }
-    ],
-    "fx": [
-      {
-        "x": -17,
-        "y": -17,
-        "scale": 0.25,
-        "name": "damageHolder",
-        "rotation": 0
-      },
-      {
-        "x": 95,
-        "y": 0,
-        "scale": 1.74,
-        "name": "flag0",
-        "rotation": 0
-      },
-      {
-        "x": 93,
-        "y": 0,
-        "scale": 1.74,
-        "name": "flag0",
-        "rotation": 0
-      }
-    ]
-  },
-  "Market_Building_Level5": {
-    "pid": 0,
-    "url": "x384/Buildings/Market/Market_Building_Level5/Market_Building_Level5.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 139,
-        "h": 157,
-        "rx": 927,
-        "ry": 909
-      }
-    ],
-    "fx": [
-      {
-        "x": -6,
-        "y": -16,
-        "scale": 0.25,
-        "name": "damageHolder",
-        "rotation": 0
-      },
-      {
-        "x": 91,
-        "y": 0,
-        "scale": 1.74,
-        "name": "flag0",
-        "rotation": 0
-      },
-      {
-        "x": 88,
-        "y": 0,
-        "scale": 1.74,
-        "name": "flag0",
-        "rotation": 0
-      }
-    ]
-  },
   "Market_Building_Level6_C1": {
     "pid": 0,
     "url": "x384/Buildings/Market/Market_Building_Level6/Market_Building_Level6_C1.png",
@@ -25398,21 +25542,21 @@
   },
   "MayaRelicBrewery": {
     "pid": 0,
-    "url": "x384/BuildingSkins/MayaRelicBrewery/MayaRelicBrewery.png",
+    "url": "x384/BuildingSkins/PiratesBrewery/MayaRelicBrewery.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
-        "w": 121,
-        "h": 174,
-        "rx": 948,
-        "ry": 871
+        "w": 120,
+        "h": 176,
+        "rx": 949,
+        "ry": 869
       }
     ],
     "fx": [
       {
-        "x": 15,
-        "y": -52,
+        "x": 20,
+        "y": -57,
         "scale": 0.25,
         "name": "damageHolder",
         "rotation": 0
@@ -25808,6 +25952,29 @@
       }
     ]
   },
+  "PiratesBrewery": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/PiratesBrewery/PiratesBrewery.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 120,
+        "h": 176,
+        "rx": 949,
+        "ry": 869
+      }
+    ],
+    "fx": [
+      {
+        "x": 20,
+        "y": -57,
+        "scale": 0.25,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "piratesDefensiveWorkshop": {
     "pid": 0,
     "url": "x384/BuildingSkins/piratesDefensiveWorkshop/piratesDefensiveWorkshop.png",
@@ -25842,6 +26009,21 @@
         "h": 131,
         "rx": 896,
         "ry": 932
+      }
+    ],
+    "fx": []
+  },
+  "PiratesHoneyGarden": {
+    "pid": 0,
+    "url": "x384/BuildingSkins/PiratesHoneyGarden/PiratesHoneyGarden.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 116,
+        "h": 211,
+        "rx": 953,
+        "ry": 834
       }
     ],
     "fx": []
@@ -45760,6 +45942,216 @@
     ],
     "fx": []
   },
+  "Gacha_Sandman_Arm_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Gachas/Gacha_Sandman/Gacha_Sandman_Arm_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 58,
+        "h": 96,
+        "rx": 979,
+        "ry": 950
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Sandman_Arm_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Gachas/Gacha_Sandman/Gacha_Sandman_Arm_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 117,
+        "rx": 976,
+        "ry": 941
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Sandman_Chest": {
+    "pid": 1,
+    "url": "x384/Characters/Gachas/Gacha_Sandman/Gacha_Sandman_Chest.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 239,
+        "h": 210,
+        "rx": 876,
+        "ry": 916
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Sandman_Hand_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Gachas/Gacha_Sandman/Gacha_Sandman_Hand_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 44,
+        "h": 80,
+        "rx": 983,
+        "ry": 958
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Sandman_Hand_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Gachas/Gacha_Sandman/Gacha_Sandman_Hand_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 78,
+        "rx": 972,
+        "ry": 961
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Sandman_Head_Blink": {
+    "pid": 1,
+    "url": "x384/Characters/Gachas/Gacha_Sandman/Gacha_Sandman_Head_Blink.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 204,
+        "rx": 901,
+        "ry": 904
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Sandman_Head": {
+    "pid": 1,
+    "url": "x384/Characters/Gachas/Gacha_Sandman/Gacha_Sandman_Head.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 204,
+        "rx": 901,
+        "ry": 904
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Sandman_Legs": {
+    "pid": 1,
+    "url": "x384/Characters/Gachas/Gacha_Sandman/Gacha_Sandman_Legs.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 341,
+        "h": 223,
+        "rx": 848,
+        "ry": 901
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Sandman_Lowerarm_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Gachas/Gacha_Sandman/Gacha_Sandman_Lowerarm_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 49,
+        "h": 67,
+        "rx": 978,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Sandman_Lowerarm_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Gachas/Gacha_Sandman/Gacha_Sandman_Lowerarm_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 56,
+        "rx": 976,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Sandman_Orb_Bottom": {
+    "pid": 1,
+    "url": "x384/Characters/Gachas/Gacha_Sandman/Gacha_Sandman_Orb_Bottom.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 182,
+        "rx": 913,
+        "ry": 933
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Sandman_Orb_Top": {
+    "pid": 1,
+    "url": "x384/Characters/Gachas/Gacha_Sandman/Gacha_Sandman_Orb_Top.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 167,
+        "h": 95,
+        "rx": 919,
+        "ry": 951
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Sandman_Sand_Front": {
+    "pid": 1,
+    "url": "x384/Characters/Gachas/Gacha_Sandman/Gacha_Sandman_Sand_Front.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 321,
+        "h": 169,
+        "rx": 840,
+        "ry": 876
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Sandman_Shadow": {
+    "pid": 1,
+    "url": "x384/Characters/Gachas/Gacha_Sandman/Gacha_Sandman_Shadow.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 376,
+        "h": 96,
+        "rx": 809,
+        "ry": 928
+      }
+    ],
+    "fx": []
+  },
   "Gacha_Snowman_Arm_Left": {
     "pid": 1,
     "url": "x384/Characters/Gachas/Gacha_Snowman/Gacha_Snowman_Arm_Left.png",
@@ -46054,6 +46446,21 @@
         "y": 0,
         "w": 1141,
         "h": 1426,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Background_Gacha_SummerGacha": {
+    "pid": 1,
+    "url": "x384/Characters/Gachas/GachaBackgrounds/Background_Gacha_SummerGacha.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1001,
+        "h": 1199,
         "rx": 999,
         "ry": 999
       }
@@ -71592,6 +71999,36 @@
     ],
     "fx": []
   },
+  "items_unique_1272": {
+    "pid": 0,
+    "url": "x384/Equipment/EquipmentShared/items_unique_1272_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1273": {
+    "pid": 0,
+    "url": "x384/Equipment/EquipmentShared/items_unique_1273_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
   "items_unique_2005": {
     "pid": 0,
     "url": "x384/Equipment/EquipmentShared/items_unique_2004_Shared.png",
@@ -82633,9 +83070,9 @@
         "x": 0,
         "y": 0,
         "w": 52,
-        "h": 57,
+        "h": 58,
         "rx": 973,
-        "ry": 971
+        "ry": 970
       }
     ],
     "fx": []
@@ -82663,9 +83100,9 @@
         "x": 0,
         "y": 0,
         "w": 52,
-        "h": 57,
+        "h": 58,
         "rx": 973,
-        "ry": 971
+        "ry": 970
       }
     ],
     "fx": []
@@ -86473,9 +86910,9 @@
         "x": 0,
         "y": 0,
         "w": 57,
-        "h": 49,
+        "h": 52,
         "rx": 971,
-        "ry": 975
+        "ry": 974
       }
     ],
     "fx": []
@@ -95225,6 +95662,66 @@
     ],
     "fx": []
   },
+  "icon_currency_Orange_medium": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_Orange_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 43,
+        "h": 43,
+        "rx": 978,
+        "ry": 978
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_Orange_small": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_Orange_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 23,
+        "h": 22,
+        "rx": 988,
+        "ry": 989
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_Orange_xl": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_Orange_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 91,
+        "h": 91,
+        "rx": 954,
+        "ry": 954
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_Orange": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_Orange.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 35,
+        "rx": 982,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_PearlRelic": {
     "pid": 1,
     "url": "x384/Icons/Icons/icon_currency_PearlRelic.png",
@@ -100520,6 +101017,21 @@
     ],
     "fx": []
   },
+  "icon_event_130": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_event_130.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 59,
+        "rx": 977,
+        "ry": 970
+      }
+    ],
+    "fx": []
+  },
   "icon_event_crossplay_small_80": {
     "pid": 0,
     "url": "x384/Icons/Icons/icon_event_crossplay_small_80.png",
@@ -100725,6 +101237,21 @@
         "w": 101,
         "h": 105,
         "rx": 949,
+        "ry": 947
+      }
+    ],
+    "fx": []
+  },
+  "icon_event_xl_130": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_event_xl_130.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 105,
+        "rx": 960,
         "ry": 947
       }
     ],
@@ -102826,6 +103353,21 @@
         "h": 35,
         "rx": 982,
         "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "icon_indicator_locked_big": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_indicator_locked_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 56,
+        "h": 56,
+        "rx": 972,
+        "ry": 972
       }
     ],
     "fx": []
@@ -124430,6 +124972,21 @@
     ],
     "fx": []
   },
+  "end_teaser_130": {
+    "pid": 1,
+    "url": "x384/Misc/EventTeasers/end_teaser_130.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 613,
+        "h": 209,
+        "rx": 693,
+        "ry": 895
+      }
+    ],
+    "fx": []
+  },
   "teaser_allianceBattleGround_AllianceCollector_Maya_2": {
     "pid": 2,
     "url": "x384/Misc/EventTeasers/teaser_allianceBattleGround_AllianceCollector_Maya_2.png",
@@ -126965,6 +127522,21 @@
     ],
     "fx": []
   },
+  "announcement_teaser_130": {
+    "pid": 1,
+    "url": "x384/Misc/GenericTeasersShared/announcement_teaser_130_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 770,
+        "h": 657,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
   "teaser_help_mail_16": {
     "pid": 1,
     "url": "x384/Misc/GenericTeasersShared/content_help_mail_0_Shared.png",
@@ -127655,21 +128227,6 @@
     ],
     "fx": []
   },
-  "global_primetime_background_Easter2024": {
-    "pid": 1,
-    "url": "x384/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_Easter2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 769,
-        "h": 867,
-        "rx": 615,
-        "ry": 566
-      }
-    ],
-    "fx": []
-  },
   "global_primetime_background_generic1": {
     "pid": 1,
     "url": "x384/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_generic1.png",
@@ -127745,6 +128302,21 @@
     ],
     "fx": []
   },
+  "global_primetime_background_SummerJun2024": {
+    "pid": 1,
+    "url": "x384/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_SummerJun2024.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 769,
+        "h": 867,
+        "rx": 615,
+        "ry": 566
+      }
+    ],
+    "fx": []
+  },
   "global_primetime_background_ValentinesDay2025": {
     "pid": 1,
     "url": "x384/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_ValentinesDay2025.png",
@@ -127771,21 +128343,6 @@
         "h": 881,
         "rx": 674,
         "ry": 559
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_hub_teaser_Easter2024": {
-    "pid": 1,
-    "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_Easter2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 769,
-        "h": 666,
-        "rx": 615,
-        "ry": 667
       }
     ],
     "fx": []
@@ -127835,9 +128392,9 @@
     ],
     "fx": []
   },
-  "global_primetime_hub_teaser_Winter2024": {
+  "global_primetime_hub_teaser_SummerJuly2024": {
     "pid": 1,
-    "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_Winter2024.png",
+    "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_SummerJuly2024.png",
     "frames": [
       {
         "x": 0,
@@ -127850,17 +128407,32 @@
     ],
     "fx": []
   },
-  "global_primetime_teaser_Easter2024": {
+  "global_primetime_hub_teaser_SummerJun2024": {
     "pid": 1,
-    "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_Easter2024.png",
+    "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_SummerJun2024.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
-        "w": 651,
-        "h": 586,
-        "rx": 674,
-        "ry": 707
+        "w": 769,
+        "h": 666,
+        "rx": 615,
+        "ry": 667
+      }
+    ],
+    "fx": []
+  },
+  "global_primetime_hub_teaser_Winter2024": {
+    "pid": 1,
+    "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_Winter2024.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 769,
+        "h": 666,
+        "rx": 615,
+        "ry": 667
       }
     ],
     "fx": []
@@ -127921,6 +128493,51 @@
         "h": 493,
         "rx": 687,
         "ry": 753
+      }
+    ],
+    "fx": []
+  },
+  "global_primetime_teaser_SummerJuly2024": {
+    "pid": 1,
+    "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_SummerJuly2024.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 769,
+        "h": 664,
+        "rx": 615,
+        "ry": 646
+      }
+    ],
+    "fx": []
+  },
+  "global_primetime_teaser_SummerJuly2024Front": {
+    "pid": 1,
+    "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_SummerJuly2024Front.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 766,
+        "h": 142,
+        "rx": 618,
+        "ry": 908
+      }
+    ],
+    "fx": []
+  },
+  "global_primetime_teaser_SummerJun2024": {
+    "pid": 1,
+    "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_SummerJun2024.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 651,
+        "h": 586,
+        "rx": 674,
+        "ry": 707
       }
     ],
     "fx": []
@@ -128795,21 +129412,6 @@
     ],
     "fx": []
   },
-  "Teaser_OffersHub_Big_WhaleChest_7": {
-    "pid": 1,
-    "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_7.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 769,
-        "h": 335,
-        "rx": 615,
-        "ry": 832
-      }
-    ],
-    "fx": []
-  },
   "Teaser_OffersHub_Big_WhaleChest_10": {
     "pid": 0,
     "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_10.png",
@@ -128825,24 +129427,9 @@
     ],
     "fx": []
   },
-  "Teaser_OffersHub_Big_WhaleChest_11": {
-    "pid": 0,
-    "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_11.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 769,
-        "h": 333,
-        "rx": 615,
-        "ry": 833
-      }
-    ],
-    "fx": []
-  },
-  "Teaser_OffersHub_Big_WhaleChest_12": {
-    "pid": 0,
-    "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_12.png",
+  "Teaser_OffersHub_Big_WhaleChest_13": {
+    "pid": 1,
+    "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_13.png",
     "frames": [
       {
         "x": 0,
@@ -129980,21 +130567,6 @@
     ],
     "fx": []
   },
-  "Teaser_OffersHub_Big_WhaleChest_13": {
-    "pid": 1,
-    "url": "x384/Misc/TeasersShared/Teaser_OffersHub_Big_38_Shared.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 769,
-        "h": 333,
-        "rx": 615,
-        "ry": 833
-      }
-    ],
-    "fx": []
-  },
   "Teaser_OffersHub_Big_38": {
     "pid": 1,
     "url": "x384/Misc/TeasersShared/Teaser_OffersHub_Big_38_Shared.png",
@@ -130175,9 +130747,39 @@
     ],
     "fx": []
   },
+  "Teaser_OffersHub_Big_WhaleChest_11": {
+    "pid": 1,
+    "url": "x384/Misc/TeasersShared/Teaser_OffersHub_Big_WhaleChest_11_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 769,
+        "h": 333,
+        "rx": 615,
+        "ry": 833
+      }
+    ],
+    "fx": []
+  },
   "Teaser_OffersHub_Big_36": {
     "pid": 1,
     "url": "x384/Misc/TeasersShared/Teaser_OffersHub_Big_WhaleChest_11_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 769,
+        "h": 333,
+        "rx": 615,
+        "ry": 833
+      }
+    ],
+    "fx": []
+  },
+  "Teaser_OffersHub_Big_WhaleChest_12": {
+    "pid": 1,
+    "url": "x384/Misc/TeasersShared/Teaser_OffersHub_Big_WhaleChest_12_Shared.png",
     "frames": [
       {
         "x": 0,
@@ -147735,6 +148337,29 @@
       }
     ]
   },
+  "Castle_Mapobject_Special_CitrusFortress": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_CitrusFortress.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 48,
+        "rx": 1000,
+        "ry": 996
+      }
+    ],
+    "fx": [
+      {
+        "x": 16,
+        "y": 1,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Castle_Mapobject_Special_Cloudmaker": {
     "pid": 0,
     "url": "x384/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_Cloudmaker.png",
@@ -151640,6 +152265,29 @@
       }
     ]
   },
+  "Castle_Mapobject_Capital_Classic_Special_CitrusFortress": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_CitrusFortress.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 93,
+        "rx": 982,
+        "ry": 969
+      }
+    ],
+    "fx": [
+      {
+        "x": 1,
+        "y": -7,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Castle_Mapobject_Capital_Classic_Special_Cloudmaker": {
     "pid": 0,
     "url": "x384/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_Cloudmaker.png",
@@ -153515,6 +154163,29 @@
       }
     ]
   },
+  "Metropol_Mapobject_Basic_Special_CitrusFortress": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_CitrusFortress.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 61,
+        "rx": 990,
+        "ry": 999
+      }
+    ],
+    "fx": [
+      {
+        "x": 7,
+        "y": 1,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Metropol_Mapobject_Basic_Special_Cloudmaker": {
     "pid": 0,
     "url": "x384/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_Cloudmaker.png",
@@ -155307,6 +155978,29 @@
       {
         "x": 14,
         "y": 14,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "Outpost_Mapobject_Level_Special_CitrusFortress": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Outposts/Outpost_Mapobject_Level_Special_CitrusFortress/Outpost_Mapobject_Level_Special_CitrusFortress.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33,
+        "rx": 1008,
+        "ry": 1000
+      }
+    ],
+    "fx": [
+      {
+        "x": 22,
+        "y": 4,
         "scale": 0.52,
         "name": "flagHolder",
         "rotation": 0
@@ -157699,6 +158393,21 @@
         "h": 97,
         "rx": 985,
         "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "Preview_Castle_Mapobject_Special_CitrusFortress": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Previews/Mapobjects_Preview/Preview_Castle_Mapobject_Special_CitrusFortress.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 86,
+        "h": 92,
+        "rx": 978,
+        "ry": 969
       }
     ],
     "fx": []
