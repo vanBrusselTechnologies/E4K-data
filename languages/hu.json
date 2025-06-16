@@ -2075,7 +2075,11 @@
     "deco_ExaltedRedWaterSpiderTemple_name": "Felséges vörös vízpókház",
     "deco_exaltedGreenLavaScorpionTemple_name": "Fenséges skorpiótemplom",
     "deco_exaltedPurpleLavaScorpionTemple_name": "Fenséges lila láva skorpió templom",
-    "deco_exaltedRedLavaScorpionTemple_name": "Fenséges skorpiótemplom"
+    "deco_exaltedRedLavaScorpionTemple_name": "Fenséges skorpiótemplom",
+    "ci_blueprint_BeefStorageIncrease": "Prémium marhahús tárolóépítési tervrajz",
+    "ci_blueprint_RelicBeefStorageIncrease": "Prémium marhahús tárolási építési tervrajz",
+    "ci_blueprint_RelicBeefStorageIncrease_premium": "Prémium marhahús tároló elem",
+    "ci_primary_BeefStorageIncrease_premium": "Prémium marhahús tárolási építési elem"
   },
   "dialogs": {
     "dialog_festival_desc": "Használd arra az élelmeket, hogy lakomát rendezel alattvalóid számára! Amíg tart a lakoma, a toborzás sebessége jelentősen megnő az összes kastélyodban. Minél nagyobb a lakoma, annál nagyobb lesz a hatása.",
@@ -8913,7 +8917,7 @@
     "dialog_expansionLoc_desc": "Itt láthatod azokat a helyeket, ahova még építhetsz bővítést, és ahol már rendelkezel teljesen kibővített épülettel. A gombok segítségével közvetlenül az adott helyre ugorhatsz.",
     "ci_effect_elvenBakery": "+{0} közrend",
     "ci_effect_elvenResearchtower": "+{0} közrend",
-    "dialog_subscriptionHelp_loyaltyGift_desc": "A hűségajándék révén további rubinokat kapsz, ha olyan csomagot vásárolsz meg, amely kizárólag rubinokat tartalmaz. A mennyiség attól függ, mennyi ideje aktív az aktuális előfizetésed, és csak a vásárolt alap rubinmennyiségre érvényes, a bónuszokat leszámítva.",
+    "dialog_subscriptionHelp_loyaltyGift_desc": "A hűségajándéka bónusz rubinokat ad minden rubinra vonatkozó csomaghoz, amelyet vásárolsz, a napi csomagok kivételével. A bónusz összege nő az előfizetésed időtartamával, és vonatkozik a megvásárolt alap rubinokra.",
     "subscription_effect_loyaltyGift": "Szerezz +{0}%-kal több rubint kizárólag rubinokat tartalmazó csomagok vásárlásakor.",
     "dialog_loyaltyGift_title": "Hűségajándék",
     "dialog_loyaltyGift_desc": "Hűségedért rubinokat kaptál ajándékba. \nA rubinok közvetlenül a kelléktáradba kerültek.",
@@ -12792,7 +12796,19 @@
     "gachaPull_milestone_tooltip_amount_SummerGacha": "{0}/{1} Ajánlatok",
     "helpPopup_SummerGacha": "Miközben a nyári nap perzsel a gyönyörű part felett, egy ősi csoda mozog a dűnék alatt. Egy élő homokvár, amelyet elfeledett árapályok formáltak és tengerparti varázslat köti össze, csendes fenséggel emelkedik. Egy ragyogó görögdinnyét ölel a homokos karjaiban. Egy rejtélyes energiával pulzáló műtárgy, amelyet Csodák Görögdinnyéjének neveznek. De a vár nem adja ingyen a kincseit. Vágyik a Kívánság Narancsokra. Napfényes gyümölcsök, tele reménnyel és örömmel, amelyeket állítólag szerencsét hoznak azoknak, akik felajánlják őket. Néhány már díszíti a vár tornyait, csillogva, mint apró napok. De több is szükséges, hogy a varázslata életben maradjon. Mutasd be a Kívánság Narancsaidat, és a homokvár mozogni fog. Megengedi, hogy a görögdinnye mélységeiből meríts. Minden húzás egy lehetőség, hogy felfedezz ritka nyári emlékeket, varázslatos ékszereket és ragyogó meglepetéseket, amelyeket az idő és az árapály temetett el. Egy ranglista követi a nagylelkűségedet. Jutalmazza azokat, akik a legtöbbet adják. Haladj át több eseményszinten, hogy növeld az esélyeidet a legritkább kincsek megszerzésére. Megnyered a homokvár kegyét? Vagy hagyod, hogy a nyári varázslat elszökkenjen az ujjaid közül?",
     "ranking_description_SummerGacha": "Ajánld a Homokvár Kívánság Narancsait, és az feloldja a Kincseket, amelyek rejtve vannak a Csodák Görögdinnyéjében! A rangsorolási rendszer nyomon követi a fejlődésed, és elismeréseket ad a végső helyezésed alapján.",
-    "title_SummerGacha": "A szerencse homokja"
+    "title_SummerGacha": "A szerencse homokja",
+    "dialog_CoA_unsavedChanges": "Vannak nem mentett változások, biztosan be akarja zárni?",
+    "dialog_alliance_chronic50": "A nemesi ház címere megváltozott",
+    "dialog_legendTemple_sceat_71": "Hentesbolt",
+    "dialog_legendTemple_sceat_71_desc": "Megnyitja a hentesüzletet",
+    "webshop_fruitbasket_VIP_name": "VIP gyümölcskosár",
+    "webshop_fruitbasket_extralarge_name": "További gyümölcskosár",
+    "webshop_fruitbasket_giant_name": "Óriási gyümölcsöskosár",
+    "webshop_fruitbasket_huge_name": "Hatalmas gyümölcsös kosár",
+    "webshop_fruitbasket_large_name": "Nagy gyümölcskosár",
+    "webshop_fruitbasket_medium_name": "Közepes gyümölcsös kosár",
+    "webshop_fruitbasket_small_name": "Kis gyümölcsös kosár",
+    "webshop_giftsummer_name": "Nyári parti kezdete"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% egység harciereje támadáskor",
@@ -14141,7 +14157,8 @@
     "effect_description_unboostedMeadProductionCapped": "+{0} mézsörtermelés óránként",
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% toborzási sebesség",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% oldalsó egység határ támadáskor",
-    "effect_description_attackUnitAmountFrontCapped": "+{0}% egységhatár elöl"
+    "effect_description_attackUnitAmountFrontCapped": "+{0}% egységhatár elöl",
+    "ci_effect_beefCapacityBonus": "+{0} marhahús tárolókapacitás"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Hős",

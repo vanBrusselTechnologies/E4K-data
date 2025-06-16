@@ -2075,7 +2075,11 @@
     "deco_ExaltedRedWaterSpiderTemple_name": "Templul păianjenului roșu înălțat",
     "deco_exaltedGreenLavaScorpionTemple_name": "Templul Scorpionului Exaltat",
     "deco_exaltedPurpleLavaScorpionTemple_name": "Templul scorpionului purpuriu exaltat",
-    "deco_exaltedRedLavaScorpionTemple_name": "Templul Scorpionului Exaltat"
+    "deco_exaltedRedLavaScorpionTemple_name": "Templul Scorpionului Exaltat",
+    "ci_blueprint_BeefStorageIncrease": "Planul elementului de construcție pentru depozitarea cărnii premium",
+    "ci_blueprint_RelicBeefStorageIncrease": "Plan de stocare a cărnii de vită premium",
+    "ci_blueprint_RelicBeefStorageIncrease_premium": "Element de depozitare a cărnii de vită premium",
+    "ci_primary_BeefStorageIncrease_premium": "Element de construcție pentru depozitarea cărnii premium"
   },
   "dialogs": {
     "dialog_festival_desc": "Foloseşte alimente ca să organizezi un festin pentru cetăţenii tăi! Viteza de recrutare va creşte în mod considerabil la toate castelele tale în timpul festinului. Cu cât festinul este mai mare, cu atât creşte şi efectul.",
@@ -8913,7 +8917,7 @@
     "dialog_expansionLoc_desc": "Aici poți vedea toate locurile unde mai poți construi o extindere și unde ai extins deja complet. Poți folosi butoanele pentru a sări direct la locurile respective.",
     "ci_effect_elvenBakery": "+{0} ordine publică",
     "ci_effect_elvenResearchtower": "+{0} ordine publică",
-    "dialog_subscriptionHelp_loyaltyGift_desc": "Cadoul de loialitate asigură că vei primi o cantitate suplimentară de rubine după ce achiziționezi orice pachet care conține exclusiv rubine. Cantitatea depinde de durata abonamentului tău actual și se aplică doar la cantitatea de bază de rubine achiziționate excluzând bonusurile.",
+    "dialog_subscriptionHelp_loyaltyGift_desc": "Cadoul tău de loialitate adaugă rubine bonus la orice pachet doar cu rubine pe care îl achiziționezi, cu excepția pachetelor zilnice. Cantitatea bonusului crește odată cu durata abonamentului tău și se aplică rubinelor de bază cumpărate.",
     "subscription_effect_loyaltyGift": "Primește cu până la +{0}% mai multe rubine la achiziționarea pachetelor care conțin exclusiv rubine.",
     "dialog_loyaltyGift_title": "Cadou de loialitate",
     "dialog_loyaltyGift_desc": "Ai primit rubine sub formă de cadou pentru loialitatea ta. \nRubinele au fost trimise direct în inventarul tău.",
@@ -12792,7 +12796,19 @@
     "gachaPull_milestone_tooltip_amount_SummerGacha": "{0}/{1} Oferte",
     "helpPopup_SummerGacha": "Pe când soarele de vară strălucește peste țărmul de aur, o minune antică se agită sub dune. Un castel de nisip viu, sculptat de mareele uitate și legat de magia mării, se ridică cu o tăcere măreață. Acesta îmbrățișează o pepenă strălucitoare în brațele sale nisipoase. Un artefact care pulsează cu energie misterioasă, cunoscut sub numele de Pepenele Minunilor. Dar castelul nu va ceda comorile sale gratuit. El tânjește după Portocalele Dorințelor. Fructe sărutate de soare, infuzate cu speranță și bucurie, despre care se spune că aduc noroc celor care le oferă. Unele deja împodobesc turnurile castelului, strălucind ca soarele mic. Dar mai multe sunt necesare pentru a menține magia sa vie. Prezentați-vă Portocalele Dorințelor, iar castelul de nisip se va agita. Îți va permite să extragi din adâncurile pepenelui. Fiecare tragere este o șansă de a descoperi relicve rare de vară, amulete fermecate și surprize strălucitoare îngropate de timp și maree. O tablă de clasament urmărește generozitatea ta. Aceasta recompensează pe cei care oferă cel mai mult. Progresează prin mai multe niveluri de evenimente pentru a-ți crește șansele de a obține cele mai rare comori. Vei câștiga favoarea castelului de nisip? Sau vei lăsa magia verii să îți scape printre degete?",
     "ranking_description_SummerGacha": "Oferi Portocalele Dorințelor de la Castelul de Nisip și vei debloca comorile ascunse în Pepenele Minunilor! Sistemul de clasare va urmări progresul tău, oferind recompense pentru realizări în funcție de clasamentul tău final.",
-    "title_SummerGacha": "Nisipurile norocului"
+    "title_SummerGacha": "Nisipurile norocului",
+    "dialog_CoA_unsavedChanges": "Ai modificări nesalvate, dorești să închizi oricum?",
+    "dialog_alliance_chronic50": "Stema casei nobile a fost schimbată",
+    "dialog_legendTemple_sceat_71": "Măcelărie",
+    "dialog_legendTemple_sceat_71_desc": "Dezvăluie măcelăria",
+    "webshop_fruitbasket_VIP_name": "Coș de fructe VIP",
+    "webshop_fruitbasket_extralarge_name": "Coș de fructe suplimentar",
+    "webshop_fruitbasket_giant_name": "Coș de fructe uriaș",
+    "webshop_fruitbasket_huge_name": "Coș mare cu fructe",
+    "webshop_fruitbasket_large_name": "Coș mare de fructe",
+    "webshop_fruitbasket_medium_name": "Coș de fructe mediu",
+    "webshop_fruitbasket_small_name": "Micu coș de fructe",
+    "webshop_giftsummer_name": "Începutul petrecerii de vară"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% puterea de luptă a unității în atac",
@@ -14141,7 +14157,8 @@
     "effect_description_unboostedMeadProductionCapped": "+{0} producție de miere pe oră",
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% viteză de recrutare",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% limit unitate flanc la atac",
-    "effect_description_attackUnitAmountFrontCapped": "+{0}% limită de unități în față"
+    "effect_description_attackUnitAmountFrontCapped": "+{0}% limită de unități în față",
+    "ci_effect_beefCapacityBonus": "+{0} capacitate de stocare a cărnii de vită"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Erou",

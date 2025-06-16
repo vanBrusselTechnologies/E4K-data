@@ -2075,7 +2075,11 @@
     "deco_ExaltedRedWaterSpiderTemple_name": "崇高红水蜘蛛神庙",
     "deco_exaltedGreenLavaScorpionTemple_name": "崇高蝎子神殿",
     "deco_exaltedPurpleLavaScorpionTemple_name": "崇高的紫色熔岩蝎子庙",
-    "deco_exaltedRedLavaScorpionTemple_name": "崇高蝎子神殿"
+    "deco_exaltedRedLavaScorpionTemple_name": "崇高蝎子神殿",
+    "ci_blueprint_BeefStorageIncrease": "高级牛肉存储建筑物品蓝图",
+    "ci_blueprint_RelicBeefStorageIncrease": "高级牛肉存储建筑物品蓝图",
+    "ci_blueprint_RelicBeefStorageIncrease_premium": "高级牛肉存储建筑物品",
+    "ci_primary_BeefStorageIncrease_premium": "高级牛肉储存建筑物品"
   },
   "dialogs": {
     "dialog_festival_desc": "用食物请您的市民大餐一顿吧！宴会持续期间，您所有城堡的招募速度会大大提高。宴会越丰盛，效果越好。",
@@ -8913,7 +8917,7 @@
     "dialog_expansionLoc_desc": "您可以在这里查看所有仍然能够建造扩展的地方，以及已经完全扩展的地方。您可以使用按钮直接跳转到相应地点。",
     "ci_effect_elvenBakery": "+{0} 公共秩序",
     "ci_effect_elvenResearchtower": "+{0} 公共秩序",
-    "dialog_subscriptionHelp_loyaltyGift_desc": "忠诚礼物能确保您在购买仅内含红宝石的套餐后，获得额外数量的红宝石。具体数量取决于您当前订阅的时长，且仅适用于所购红宝石的基础数量，即不含额外奖励的数量。",
+    "dialog_subscriptionHelp_loyaltyGift_desc": "您的忠诚礼物为您购买的任何仅限红宝石的套餐添加了额外的红宝石，排除每日捆绑包。奖金金额随着您的订阅时长而增加，并适用于购买的基础红宝石。",
     "subscription_effect_loyaltyGift": "购买仅内含红宝石的套餐时，最多额外获得 +{0}% 的红宝石。",
     "dialog_loyaltyGift_title": "忠诚礼物",
     "dialog_loyaltyGift_desc": "您收到了红宝石作为您的忠诚礼物。\n红宝石已直接放入您的物品栏中。",
@@ -12792,7 +12796,19 @@
     "gachaPull_milestone_tooltip_amount_SummerGacha": "{0}/{1} 产品",
     "helpPopup_SummerGacha": "当夏日的阳光在金色的海岸线上炙烤时，一种古老的奇迹在沙丘下苏醒。一个活的沙堡，由被遗忘的潮汐雕刻而成，被海边的魔法束缚，静静地升起，显得威严。它在沙质的臂弯中紧紧握着一个发光的西瓜。这是一件脉动着神秘能量的文物，被称为“奇迹西瓜”。但是，城堡不会无偿地让出它的宝藏。它渴望“许愿橙”。那些阳光亲吻的水果，充满了希望和快乐，据说能给提供的人带来好运。有些已经装饰了城堡的塔楼，像小太阳一样闪闪发光。但为了保持它的魔力活着，还需要更多。请呈现你的“许愿橙”，沙堡将会动起来。它将允许你从西瓜的深处抽取。每次抽取都是揭示罕见夏季遗物、被施了魔法的小饰品和被时间与潮水埋藏的闪亮惊喜的机会。一个排行榜追踪你的慷慨。它奖励那些给予最多的人。通过多个活动等级来提升你获得最稀有宝藏的机会。你会赢得沙堡的青睐吗？还是让夏日的魔法从你的指间溜走？",
     "ranking_description_SummerGacha": "提供沙堡许愿橙子，它将解锁隐藏在奇迹西瓜中的宝藏！排名系统将跟踪您的进度，根据您的最终排名授予成就奖励。",
-    "title_SummerGacha": "财富之沙"
+    "title_SummerGacha": "财富之沙",
+    "dialog_CoA_unsavedChanges": "您有未保存的更改，您确定要关闭吗？",
+    "dialog_alliance_chronic50": "贵族家族的纹章已被更改",
+    "dialog_legendTemple_sceat_71": "肉店",
+    "dialog_legendTemple_sceat_71_desc": "解锁肉店",
+    "webshop_fruitbasket_VIP_name": "VIP水果篮",
+    "webshop_fruitbasket_extralarge_name": "额外的水果篮",
+    "webshop_fruitbasket_giant_name": "巨型水果篮",
+    "webshop_fruitbasket_huge_name": "巨大的水果篮",
+    "webshop_fruitbasket_large_name": "大水果篮",
+    "webshop_fruitbasket_medium_name": "中等水果篮",
+    "webshop_fruitbasket_small_name": "小水果篮",
+    "webshop_giftsummer_name": "夏季派对开始"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% 单位在攻击时的战斗力",
@@ -14141,7 +14157,8 @@
     "effect_description_unboostedMeadProductionCapped": "+{0} 蜂蜜酒每小时生产量",
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% 招募速度",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% 侧翼单位攻击限制",
-    "effect_description_attackUnitAmountFrontCapped": "+{0}% 单位限制在前面"
+    "effect_description_attackUnitAmountFrontCapped": "+{0}% 单位限制在前面",
+    "ci_effect_beefCapacityBonus": "+{0} 牛肉储存容量"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "英雄",

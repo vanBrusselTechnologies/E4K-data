@@ -1108,6 +1108,7 @@ export interface Language {
         "ci_blueprint_BeefProduction": string;
         "ci_blueprint_BeefProductionIncrease": string;
         "ci_blueprint_BeefProductionIncrease_premium": string;
+        "ci_blueprint_BeefStorageIncrease": string;
         "ci_blueprint_EspionageSpeedBoost": string;
         "ci_blueprint_HoneyProduction": string;
         "ci_blueprint_HoneyProductionIncrease": string;
@@ -1120,6 +1121,8 @@ export interface Language {
         "ci_blueprint_ReduceDefensiveToolsTime": string;
         "ci_blueprint_ReduceOffensiveToolsCosts": string;
         "ci_blueprint_ReduceOffensiveToolsTime": string;
+        "ci_blueprint_RelicBeefStorageIncrease": string;
+        "ci_blueprint_RelicBeefStorageIncrease_premium": string;
         "ci_blueprint_StoneStorageCapacity": string;
         "ci_blueprint_WoodStorageCapacity": string;
         "ci_blueprint_attackBoostYard": string;
@@ -1221,6 +1224,7 @@ export interface Language {
         "ci_primary_BeefProduction": string;
         "ci_primary_BeefProductionIncrease": string;
         "ci_primary_BeefProductionIncrease_premium": string;
+        "ci_primary_BeefStorageIncrease_premium": string;
         "ci_primary_EspionageSpeedBoost": string;
         "ci_primary_HospitalAdditionalSpace": string;
         "ci_primary_MeadProductionIncrease": string;
@@ -2905,7 +2909,7 @@ export interface Language {
         "dialog_CoA_tooltip_SaveDenied": string;
         "dialog_CoA_tooltip_randomize": string;
         "dialog_CoA_tooltip_reset": string;
-        "dialog_CoA_unsavedChanges"?: string;
+        "dialog_CoA_unsavedChanges": string;
         "dialog_CoAcustomization_title": string;
         "dialog_Commander_bonusGloryTitle": string;
         "dialog_Commander_bonusKingstower_UNUSED": string;
@@ -3298,6 +3302,7 @@ export interface Language {
         "dialog_alliance_chronic47_Maya": string;
         "dialog_alliance_chronic48": string;
         "dialog_alliance_chronic5": string;
+        "dialog_alliance_chronic50": string;
         "dialog_alliance_chronic57": string;
         "dialog_alliance_chronic58": string;
         "dialog_alliance_chronic59": string;
@@ -6333,6 +6338,8 @@ export interface Language {
         "dialog_legendTemple_sceat_6_name": string;
         "dialog_legendTemple_sceat_70_desc": string;
         "dialog_legendTemple_sceat_70_name": string;
+        "dialog_legendTemple_sceat_71": string;
+        "dialog_legendTemple_sceat_71_desc": string;
         "dialog_legendTemple_sceat_7_desc": string;
         "dialog_legendTemple_sceat_7_name": string;
         "dialog_legendTemple_sceat_8_desc": string;
@@ -12440,6 +12447,13 @@ export interface Language {
         "webshop_flytrap_medium_name": string;
         "webshop_flytrap_small_name": string;
         "webshop_fortifiedram_desc": string;
+        "webshop_fruitbasket_VIP_name": string;
+        "webshop_fruitbasket_extralarge_name": string;
+        "webshop_fruitbasket_giant_name": string;
+        "webshop_fruitbasket_huge_name": string;
+        "webshop_fruitbasket_large_name": string;
+        "webshop_fruitbasket_medium_name": string;
+        "webshop_fruitbasket_small_name": string;
         "webshop_genericSaleDays_extraLarge_name": string;
         "webshop_genericSaleDays_giant_name": string;
         "webshop_genericSaleDays_huge_name": string;
@@ -12447,6 +12461,7 @@ export interface Language {
         "webshop_genericSaleDays_medium_name": string;
         "webshop_genericSaleDays_small_name": string;
         "webshop_generic_errorOccured": string;
+        "webshop_giftsummer_name": string;
         "webshop_global_discount_notice": string;
         "webshop_gloryBooster11_desc": string;
         "webshop_gloryBooster12_desc": string;
@@ -12892,6 +12907,7 @@ export interface Language {
         "ci_effect_barracksStacks_blueprint": string;
         "ci_effect_barracksStacks_tt": string;
         "ci_effect_barrelWorkshop": string;
+        "ci_effect_beefCapacityBonus": string;
         "ci_effect_berimondBarracks": string;
         "ci_effect_berimondBarracks_blueprint": string;
         "ci_effect_berimondBarracks_tt": string;

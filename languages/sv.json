@@ -2075,7 +2075,11 @@
     "deco_ExaltedRedWaterSpiderTemple_name": "Upphöjd röd vattenspindeltempel",
     "deco_exaltedGreenLavaScorpionTemple_name": "Upphöjt skorpiontempel",
     "deco_exaltedPurpleLavaScorpionTemple_name": "Upphöjd lila lavaskorpiontempel",
-    "deco_exaltedRedLavaScorpionTemple_name": "Upphöjt skorpiontempel"
+    "deco_exaltedRedLavaScorpionTemple_name": "Upphöjt skorpiontempel",
+    "ci_blueprint_BeefStorageIncrease": "Plan för premium nötkött lagringsbyggnad",
+    "ci_blueprint_RelicBeefStorageIncrease": "Premium lagringsbyggnadsplan",
+    "ci_blueprint_RelicBeefStorageIncrease_premium": "Premium lagringsobjekt för nötkött",
+    "ci_primary_BeefStorageIncrease_premium": "Byggföremål för lagring av premium nötkött"
   },
   "dialogs": {
     "dialog_festival_desc": "Använd mat för att anordna en fest för dina medborgare! Rekryteringshastigheten ökar betydligt i alla dina slott så länge festen försiggår. Ju större festen är, desto större effekt.",
@@ -8913,7 +8917,7 @@
     "dialog_expansionLoc_desc": "Här kan du se alla platser som du fortfarande kan bygga utbyggnader på, och var du redan har alla utbyggnader. Du kan använda knapparna för att hoppa direkt till respektive platser.",
     "ci_effect_elvenBakery": "+{0} offentlig ordning",
     "ci_effect_elvenResearchtower": "+{0} offentlig ordning",
-    "dialog_subscriptionHelp_loyaltyGift_desc": "Lojalitetsgåvan gör att du får ett extra antal rubiner när du köper paket som bara innehåller rubiner. Antalet beror på hur lång din nuvarande prenumeration är och gäller bara grundantalet köpta rubiner, inte bonusar.",
+    "dialog_subscriptionHelp_loyaltyGift_desc": "Ditt lojalitetsgåva lägger till bonusrubiner i alla rubinpaket du köper, med undantag för dagliga paket. Bonusbeloppet växer med längden på din prenumeration och gäller för de köpta grundrubinerna.",
     "subscription_effect_loyaltyGift": "Få upp till +{0} % fler rubiner när du köper paket som bara innehåller rubiner.",
     "dialog_loyaltyGift_title": "Lojalitetsgåva",
     "dialog_loyaltyGift_desc": "Du har fått rubiner som tack för din lojalitet.\nRubinerna har skickats direkt till förrådet.",
@@ -12792,7 +12796,19 @@
     "gachaPull_milestone_tooltip_amount_SummerGacha": "{0}/{1} Erbjudanden",
     "helpPopup_SummerGacha": "När sommarsolen brinner över den gyllene kusten, rör sig ett gammalt underverk under sanddynerna. Ett levande sandslott, skulpterat av glömda tidvatten och bundet av havets magi, reser sig med tyst majestät. Det håller en lysande vattenmelon i sina sandiga armar. En artefakt som pulserar med mystisk energi, känd som Vattenmelonens Under. Men slottet kommer inte att ge sina skatter gratis. Det hungrar efter Önskande Apelsiner. Solkyssade frukter fyllda med hopp och glädje, som sägs ge tur till dem som erbjuder dem. Några pryder redan slottets torn, glittrande som små solar. Men fler behövs för att hålla dess magi vid liv. Presentera dina Önskande Apelsiner, och sandslottet kommer att röra på sig. Det kommer att tillåta dig att dra från vattenmelonens djup. Varje drag är en chans att avslöja sällsynta sommarrikedomar, förtrollade smycken och glittrande överraskningar begravda av tid och tidvatten. En rangordningslista spårar din generositet. Den belönar dem som ger mest. Gå igenom flera evenemangsnivåer för att öka dina chanser att tjäna de sällsyntaste skatterna. Kommer du att vinna sandslottets gunst? Eller låter du sommarens magi glida mellan dina fingrar?",
     "ranking_description_SummerGacha": "Erbjud Sandcastle Önskapelsiner, och det kommer att låsa upp skatterna som döljer sig i Vattmelonens Underverk! Rankningssystemet kommer att spåra din framsteg och ge prestationen belöningar baserat på din slutliga placering.",
-    "title_SummerGacha": "Lyckans sand"
+    "title_SummerGacha": "Lyckans sand",
+    "dialog_CoA_unsavedChanges": "Du har osparade ändringar, vill du ändå stänga?",
+    "dialog_alliance_chronic50": "Det ädla husets vapen har ändrats",
+    "dialog_legendTemple_sceat_71": "Köttbutik",
+    "dialog_legendTemple_sceat_71_desc": "Låser upp slakteriet",
+    "webshop_fruitbasket_VIP_name": "VIP fruktkorg",
+    "webshop_fruitbasket_extralarge_name": "Extra fruktkorg",
+    "webshop_fruitbasket_giant_name": "Jättefruktkorg",
+    "webshop_fruitbasket_huge_name": "Stor fruktkorg",
+    "webshop_fruitbasket_large_name": "Stor fruktkorg",
+    "webshop_fruitbasket_medium_name": "Mellanstor fruktkorg",
+    "webshop_fruitbasket_small_name": "Liten fruktkorg",
+    "webshop_giftsummer_name": "Sommarfeststart"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% enhetens stridskraft vid angrepp",
@@ -14141,7 +14157,8 @@
     "effect_description_unboostedMeadProductionCapped": "+{0} mjödproduktion per timme",
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% rekryteringshastighet",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% flank-enhetsgräns vid attack",
-    "effect_description_attackUnitAmountFrontCapped": "+{0}% enhetsgräns fram"
+    "effect_description_attackUnitAmountFrontCapped": "+{0}% enhetsgräns fram",
+    "ci_effect_beefCapacityBonus": "+{0} lagringskapacitet för nötkött"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Hjälte",

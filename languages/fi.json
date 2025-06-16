@@ -2075,7 +2075,11 @@
     "deco_ExaltedRedWaterSpiderTemple_name": "Ylevä punainen vesikäsitemppeli",
     "deco_exaltedGreenLavaScorpionTemple_name": "Jalostettu skorpionitemppeli",
     "deco_exaltedPurpleLavaScorpionTemple_name": "Ylevä purppuran lava skorpionin temppeli",
-    "deco_exaltedRedLavaScorpionTemple_name": "Jalostettu skorpionitemppeli"
+    "deco_exaltedRedLavaScorpionTemple_name": "Jalostettu skorpionitemppeli",
+    "ci_blueprint_BeefStorageIncrease": "Premium naudanlihan varastorakennus suunnitelma",
+    "ci_blueprint_RelicBeefStorageIncrease": "Premium naudanlihan säilytysrakennuskuva",
+    "ci_blueprint_RelicBeefStorageIncrease_premium": "Premium naudanlihan säilytyselementti",
+    "ci_primary_BeefStorageIncrease_premium": "Premium naudanlihan varastointirakennusosa"
   },
   "dialogs": {
     "dialog_festival_desc": "Järjestä kansalaisillesi kestit ruokaa käyttämällä! Värväys nopeutuu kaikissa linnoissasi huomattavasti, niin kauan kuin kestit jatkuvat. Mitä isommat kestit järjestät, sitä suurempi niiden vaikutus on.",
@@ -8913,7 +8917,7 @@
     "dialog_expansionLoc_desc": "Tästä näet kaikki paikat, joissa on vielä tilaa rakentaa laajennus, sekä paikat, jotka on jo täysin laajennettu. Painikkeilla voit siirtyä suoraan haluamaasi kohtaan.",
     "ci_effect_elvenBakery": "+{0} yleiseen järjestykseen",
     "ci_effect_elvenResearchtower": "+{0} yleiseen järjestykseen",
-    "dialog_subscriptionHelp_loyaltyGift_desc": "Lojaaliuslahjan ansiosta saat ylimääräisiä rubiineja ostettuasi paketin, joka sisältää vain rubiineja. Niiden määrä riippuu nykyisen tilauksesi kestosta, ja se pohjautuu ostettujen rubiinien määrään ennen bonuksia.",
+    "dialog_subscriptionHelp_loyaltyGift_desc": "Loyalty-lahjasi lisää bonus-rubiinit mihin tahansa ruby-pakettiin, jonka ostat, lukuun ottamatta päivittäisiä paketteja. Bonusmäärä kasvaa tilauksesi pituuden myötä ja koskee ostettuja perusrubiineja.",
     "subscription_effect_loyaltyGift": "Saat jopa +{0} % lisää rubiineja, kun ostat pelkkiä rubiineja sisältäviä paketteja.",
     "dialog_loyaltyGift_title": "Lojaaliuslahja",
     "dialog_loyaltyGift_desc": "Sait rubiineja lahjaksi lojaaliudestasi. \nNe on lähetetty suoraan tavaraluetteloosi.",
@@ -12792,7 +12796,19 @@
     "gachaPull_milestone_tooltip_amount_SummerGacha": "{0}/{1} Tarjoukset",
     "helpPopup_SummerGacha": "Kun kesäaurinko paistaa kultaiselle rannalle, muinainen ihme herää hiekkojen alta. Elävä hiekkalinna, muotoiltu unohtuneiden vuoroveden ja rannikon taian avulla, kohoaa hiljaa majesteettisesti. Se pitää kiinni hohtavasta vesimelonista hiekkaisissa käsissään. Artefakti, joka sykkii salaperäistä energiaa, tunnetaan nimellä Ihmevesimeloni. Mutta linna ei luovuta aarteitaan ilmaiseksi. Se janottaa Toiveappelsiineja. Auringonhalkaamia hedelmiä, jotka ovat täynnä toivoa ja iloa ja joiden sanotaan tuovan onnea niille, jotka tarjoavat niitä. Jotkut koristavat jo linnan torneja, hohtaen kuin pienet auringot. Mutta lisää tarvitaan, jotta sen taika pysyisi elävänä. Esitä Toiveappelsiinisi, ja hiekkalinna liikkuu. Se sallii sinun kaivaa vesimelonin syvyyksistä. Jokainen veto on mahdollisuus löytää harvinaisia kesämuistoja, taianomaisia koruja ja kimaltavia yllätyksiä, jotka ovat hautautuneet ajan ja vuoroveden alle. Luokituslista seuraa anteliaisuuttasi. Se palkitsee niitä, jotka antavat eniten. Edisty useissa tapahtumatason läpi lisätäksesi mahdollisuuksiasi voittaa harvinaisimpia aarteita. Saavutatko hiekkalinnan suosion? Vai annatko kesätaian liukua sormiesi välistä?",
     "ranking_description_SummerGacha": "Tarjoa Hiekkalinnan Toiveappelsiineja, ja se avaa aarteet, jotka ovat piilossa Ihmeiden Vesimelonissa! Luokitusjärjestelmä seuraa edistymistäsi ja myöntää saavutuspalkintoja lopullisen sijoituksesi perusteella.",
-    "title_SummerGacha": "Onnen hiekat"
+    "title_SummerGacha": "Onnen hiekat",
+    "dialog_CoA_unsavedChanges": "Sinulla on tallentamattomia muutoksia, haluatko silti sulkea?",
+    "dialog_alliance_chronic50": "Aatelisen suvun vaakuna on muutettu",
+    "dialog_legendTemple_sceat_71": "Lihapuoti",
+    "dialog_legendTemple_sceat_71_desc": "Avaa teurastamon",
+    "webshop_fruitbasket_VIP_name": "VIP hedelmäkorin",
+    "webshop_fruitbasket_extralarge_name": "Lisähedelmäkori",
+    "webshop_fruitbasket_giant_name": "Jättimäinen hedelmäkori",
+    "webshop_fruitbasket_huge_name": "Iso hedelmäkori",
+    "webshop_fruitbasket_large_name": "Iso hedelmäkori",
+    "webshop_fruitbasket_medium_name": "Keskikokoinen hedelmäkori",
+    "webshop_fruitbasket_small_name": "Pieni hedelmäkori",
+    "webshop_giftsummer_name": "Kesäjuhlan aloitus"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% yksikön taisteluvoima hyökkäyksessä",
@@ -14141,7 +14157,8 @@
     "effect_description_unboostedMeadProductionCapped": "+{0} siman tuotanto tunnissa",
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% värväysnopeus",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% sivustayksikön raja hyökkäyksessä",
-    "effect_description_attackUnitAmountFrontCapped": "+{0}% yksikköraja edessä"
+    "effect_description_attackUnitAmountFrontCapped": "+{0}% yksikköraja edessä",
+    "ci_effect_beefCapacityBonus": "+{0} naudanlihan varastointikapasiteetti"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Sankari",

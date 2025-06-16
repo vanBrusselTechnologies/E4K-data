@@ -2075,7 +2075,11 @@
     "deco_ExaltedRedWaterSpiderTemple_name": "Verheven rode water-spin-tempel",
     "deco_exaltedGreenLavaScorpionTemple_name": "Verheven schorpioentempel",
     "deco_exaltedPurpleLavaScorpionTemple_name": "Verheven paarse lavascorpionentempel",
-    "deco_exaltedRedLavaScorpionTemple_name": "Verheven schorpioentempel"
+    "deco_exaltedRedLavaScorpionTemple_name": "Verheven schorpioentempel",
+    "ci_blueprint_BeefStorageIncrease": "Bouwtekening voor premium rundvleesslagers",
+    "ci_blueprint_RelicBeefStorageIncrease": "Premium rundvlees opslag bouwitem blueprint",
+    "ci_blueprint_RelicBeefStorageIncrease_premium": "Premium opslagitem voor rundvlees",
+    "ci_primary_BeefStorageIncrease_premium": "Premium rundvlees opslag bouwitem"
   },
   "dialogs": {
     "dialog_festival_desc": "Gebruik voedsel om een festival te geven voor uw burgers! Zolang het festival duurt, wordt er in al uw kastelen aanmerkelijk sneller gerekruteerd. Hoe groter het festival, hoe groter het effect.",
@@ -8913,7 +8917,7 @@
     "dialog_expansionLoc_desc": "Hier zie je alle plekken waar je nog een uitbreiding kunt bouwen en waar je al volledig hebt uitgebreid. Je kunt de knoppen gebruiken om direct naar de betreffende locaties te springen.",
     "ci_effect_elvenBakery": "+{0} openbare orde",
     "ci_effect_elvenResearchtower": "+{0} openbare orde",
-    "dialog_subscriptionHelp_loyaltyGift_desc": "Met het loyaliteitsgeschenk ontvang je extra robijnen nadat je een pakket hebt aangeschaft met alleen robijnen. Het aantal is afhankelijk van de lengte van je huidige abonnement en is alleen van toepassing op het basisaantal robijnen dat je hebt gekocht, exclusief bonussen.",
+    "dialog_subscriptionHelp_loyaltyGift_desc": "Uw loyaliteitsgeschenk voegt bonusrubinen toe aan elk ruby-pakket dat u koopt, met uitzondering van dagelijkse bundels. Het bonusbedrag groeit met de duur van uw abonnement en is van toepassing op de aangekochte basisrubinen.",
     "subscription_effect_loyaltyGift": "Je ontvangt maximaal +{0}% extra robijnen als je pakketten koopt met alleen robijnen.",
     "dialog_loyaltyGift_title": "Loyaliteitsgeschenk",
     "dialog_loyaltyGift_desc": "Je hebt robijnen ontvangen als geschenk voor je loyaliteit. \nDe robijnen zijn rechtstreeks naar je inventaris gestuurd.",
@@ -12792,7 +12796,19 @@
     "gachaPull_milestone_tooltip_amount_SummerGacha": "{0}/{1} Aanbiedingen",
     "helpPopup_SummerGacha": "Terwijl de zomerse zon over de gouden kustlijn brandt, komt een oud wonder tot leven onder de duinen. Een levend zandkasteel, gevormd door vergeten getijden en gebonden door zee-magie, rijst op met stille majesteit. Het omhelst een gloeiende watermeloen in zijn zanderige armen. Een artefact dat pulst met mysterieuze energie, bekend als de Watermeloen der Wonderen. Maar het kasteel zal zijn schatten niet gratis prijsgeven. Het hunkert naar Wensappels. Zonovergoten vruchten doordrenkt met hoop en vreugde, die geluk zouden brengen aan degenen die ze aanbieden. Sommige sieren al de torens van het kasteel, glinsterend als kleine zonnen. Maar er zijn er meer nodig om zijn magie levend te houden. Presenteer uw Wensappels en het zandkasteel zal bewegen. Het zal u toestaan om uit de diepten van de watermeloen te trekken. Elke trek is een kans om zeldzame zomerrelikwieën, betoverde snuisterijen en sprankelende verrassingen te onthullen, begraven door de tijd en het tij. Een ranglijst houdt uw vrijgevigheid bij. Het beloont degenen die het meest geven. Vorder door meerdere evenementniveaus om uw kansen te vergroten om de zeldzaamste schatten te verdienen. Zal je de gunst van het zandkasteel verwerven? Of laat je de zomerse magie door je vingers glijden?",
     "ranking_description_SummerGacha": "Bied de Sandkasteel Wensappels aan, en het zal de schatten ontgrendelen die verborgen zijn in de Watermeloen van Wonderen! Het rangsysteem zal je voortgang volgen en prestatiebeloningen toekennen op basis van je uiteindelijke plaatsing.",
-    "title_SummerGacha": "Zand van fortuin"
+    "title_SummerGacha": "Zand van fortuin",
+    "dialog_CoA_unsavedChanges": "Je hebt onopgeslagen wijzigingen. Wil je toch afsluiten?",
+    "dialog_alliance_chronic50": "Het wapen van het nobele huis is veranderd",
+    "dialog_legendTemple_sceat_71": "Slagerij",
+    "dialog_legendTemple_sceat_71_desc": "Ontgrendelt de slagerij",
+    "webshop_fruitbasket_VIP_name": "VIP fruitmand",
+    "webshop_fruitbasket_extralarge_name": "Extra fruitmand",
+    "webshop_fruitbasket_giant_name": "Reusachtige fruitmand",
+    "webshop_fruitbasket_huge_name": "Grote fruitmand",
+    "webshop_fruitbasket_large_name": "Grote fruitmand",
+    "webshop_fruitbasket_medium_name": "Middelgrote fruitmand",
+    "webshop_fruitbasket_small_name": "Kleine fruitmand",
+    "webshop_giftsummer_name": "Zomerfeest start"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% eenheid vechtkracht bij aanvallen",
@@ -14141,7 +14157,8 @@
     "effect_description_unboostedMeadProductionCapped": "+{0} honingwijnproductie per uur",
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% rekruteringssnelheid",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% flankeenheid limiet bij aanvallen",
-    "effect_description_attackUnitAmountFrontCapped": "+{0}% eenheidslimiet aan de voorkant"
+    "effect_description_attackUnitAmountFrontCapped": "+{0}% eenheidslimiet aan de voorkant",
+    "ci_effect_beefCapacityBonus": "+{0} opslagcapaciteit voor rundvlees"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Held",

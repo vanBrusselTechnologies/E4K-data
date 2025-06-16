@@ -2075,7 +2075,11 @@
     "deco_ExaltedRedWaterSpiderTemple_name": "Tempio esaltato del ragno rosso dacqua",
     "deco_exaltedGreenLavaScorpionTemple_name": "Tempio dello scorpione esaltato",
     "deco_exaltedPurpleLavaScorpionTemple_name": "Tempio dello scorpione viola esaltato",
-    "deco_exaltedRedLavaScorpionTemple_name": "Tempio dello scorpione esaltato"
+    "deco_exaltedRedLavaScorpionTemple_name": "Tempio dello scorpione esaltato",
+    "ci_blueprint_BeefStorageIncrease": "Progetto dellelemento di costruzione per la conservazione del manzo premium",
+    "ci_blueprint_RelicBeefStorageIncrease": "Progetto di stoccaggio di manzo premium",
+    "ci_blueprint_RelicBeefStorageIncrease_premium": "Elemento di stoccaggio di carne di manzo premium",
+    "ci_primary_BeefStorageIncrease_premium": "Elemento di costruzione per la conservazione della carne premium"
   },
   "dialogs": {
     "dialog_festival_desc": "Usa il cibo per organizzare un banchetto per i tuoi cittadini! La velocità di reclutamento aumenterà notevolmente in tutti i castelli per la durata del banchetto. Più grande è il banchetto, maggiore sarà leffetto.",
@@ -8913,7 +8917,7 @@
     "dialog_expansionLoc_desc": "Qui puoi visualizzare tutti i luoghi in cui puoi ancora costruire un ampliamento e quelli in cui hai effettuato tutti gli ampliamenti possibili. Puoi utilizzare i pulsanti per passare direttamente alle rispettive posizioni.",
     "ci_effect_elvenBakery": "+{0} ordine pubblico",
     "ci_effect_elvenResearchtower": "+{0} ordine pubblico",
-    "dialog_subscriptionHelp_loyaltyGift_desc": "Il regalo fedeltà ti conferisce una quantità aggiuntiva di rubini dopo lacquisto di qualsiasi pacchetto contenente esclusivamente rubini. La quantità dipende dalla durata del tuo attuale abbonamento e si applica solo al numero di base dei rubini acquistati, esclusi i bonus.",
+    "dialog_subscriptionHelp_loyaltyGift_desc": "Il tuo regalo di fedeltà aggiunge rubini bonus a qualsiasi pacchetto solo con rubini che acquisti, escluse le offerte giornaliere. Limporto del bonus cresce con la durata del tuo abbonamento e si applica ai rubini di base acquistati.",
     "subscription_effect_loyaltyGift": "Ricevi fino a +{0}% rubini quando acquisti pacchetti contenenti soli rubini.",
     "dialog_loyaltyGift_title": "Regalo fedeltà",
     "dialog_loyaltyGift_desc": "Hai ricevuto rubini in regalo per la tua fedeltà. \nLi troverai nel tuo inventario.",
@@ -12792,7 +12796,19 @@
     "gachaPull_milestone_tooltip_amount_SummerGacha": "{0}/{1} Offerte",
     "helpPopup_SummerGacha": "Mentre il sole estivo brucia sulla costa dorata, una meraviglia antica si muove sotto le dune. Un castello di sabbia vivente, scolpito da maree dimenticate e legato da magia marina, si erge con tranquilla maestosità. Stringe unanguria luminosa tra le sue braccia sabbiose. Un artefatto pulsante di energia misteriosa, noto come lAnguria delle Meraviglie. Ma il castello non cederà i suoi tesori gratuitamente. Ha fame di Arance dei Desideri. Frutti baciati dal sole, pieni di speranza e gioia, si dice portino fortuna a coloro che li offrono. Alcuni adornano già le torri del castello, brillando come piccoli soli. Ma ne servono di più per mantenere viva la sua magia. Presenta le tue Arance dei Desideri, e il castello di sabbia si muoverà. Ti permetterà di attingere dalle profondità dellanguria. Ogni estrazione è unopportunità per scoprire rare reliquie estive, incantesimi incantati e sorprese scintillanti sepolte dal tempo e dalle maree. Una classifica tiene traccia della tua generosità. Ricompensa coloro che danno di più. Prosegui attraverso più livelli dellevento per aumentare le tue possibilità di guadagnare i tesori più rari. Guadagnerai il favore del castello? O lascerai che la magia estiva ti sfugga tra le dita?",
     "ranking_description_SummerGacha": "Offri le Arance dei Desideri del Castello di Sabbia e sbloccherai i tesori nascosti allinterno dellAnguria delle Meraviglie! Il sistema di classificazione seguirà i tuoi progressi, concedendo ricompense per traguardi in base alla tua posizione finale.",
-    "title_SummerGacha": "Sabbie della fortuna"
+    "title_SummerGacha": "Sabbie della fortuna",
+    "dialog_CoA_unsavedChanges": "Hai delle modifiche non salvate, vuoi chiudere comunque?",
+    "dialog_alliance_chronic50": "Lo stemma della casa nobiliare è stato modificato",
+    "dialog_legendTemple_sceat_71": "Macelleria",
+    "dialog_legendTemple_sceat_71_desc": "Sblocca la macelleria",
+    "webshop_fruitbasket_VIP_name": "Cesto di frutta VIP",
+    "webshop_fruitbasket_extralarge_name": "Cesta di frutta extra",
+    "webshop_fruitbasket_giant_name": "Cesta di frutta gigante",
+    "webshop_fruitbasket_huge_name": "Grande cesto di frutta",
+    "webshop_fruitbasket_large_name": "Grande cesto di frutta",
+    "webshop_fruitbasket_medium_name": "Cesto di frutta medio",
+    "webshop_fruitbasket_small_name": "Piccola cesta di frutta",
+    "webshop_giftsummer_name": "Avvio della festa estiva"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% di forza di combattimento dellunità in attacco",
@@ -14141,7 +14157,8 @@
     "effect_description_unboostedMeadProductionCapped": "+{0} produzione di idromele allora",
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% velocità di reclutamento",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% limite unità fiancheggiatrice in attacco",
-    "effect_description_attackUnitAmountFrontCapped": "+{0}% limite unità anteriore"
+    "effect_description_attackUnitAmountFrontCapped": "+{0}% limite unità anteriore",
+    "ci_effect_beefCapacityBonus": "+{0} capacità di stoccaggio della carne di manzo"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Eroe",

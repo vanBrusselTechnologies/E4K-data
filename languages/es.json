@@ -2075,7 +2075,11 @@
     "deco_ExaltedRedWaterSpiderTemple_name": "Templo exaltado de la araña de agua roja",
     "deco_exaltedGreenLavaScorpionTemple_name": "Templo del escorpión exaltado",
     "deco_exaltedPurpleLavaScorpionTemple_name": "Templo del escorpión púrpura exaltado",
-    "deco_exaltedRedLavaScorpionTemple_name": "Templo del escorpión exaltado"
+    "deco_exaltedRedLavaScorpionTemple_name": "Templo del escorpión exaltado",
+    "ci_blueprint_BeefStorageIncrease": "Plano del elemento de construcción de almacenamiento de carne premium",
+    "ci_blueprint_RelicBeefStorageIncrease": "Plano de almacenamiento de carne de res premium",
+    "ci_blueprint_RelicBeefStorageIncrease_premium": "Elemento de almacenamiento de carne de res premium",
+    "ci_primary_BeefStorageIncrease_premium": "Elemento de construcción para almacenamiento de carne premium"
   },
   "dialogs": {
     "dialog_festival_desc": "¡Usa comida para celebrar un festín para tus ciudadanos! La velocidad de reclutamiento aumentará considerablemente en todos tus castillos mientras dure el festín. Mientras más grande sea el festín, mayor será el efecto.",
@@ -8913,7 +8917,7 @@
     "dialog_expansionLoc_desc": "Aquí puedes ver todos los lugares en los que has realizado una expansión o donde aún puedes realizar una. Puedes usar los botones para ir directamente a cada ubicación.",
     "ci_effect_elvenBakery": "Orden público: +{0}",
     "ci_effect_elvenResearchtower": "Orden público: +{0}",
-    "dialog_subscriptionHelp_loyaltyGift_desc": "El regalo de lealtad te garantiza una cantidad adicional de rubíes cuando compres paquetes que solo contienen rubíes. La cantidad dependerá de la duración de tu suscripción y solo se aplicará a la cantidad base de rubíes comprados, sin tener en cuenta los bonus.",
+    "dialog_subscriptionHelp_loyaltyGift_desc": "Tu regalo de lealtad añade rubíes adicionales a cualquier paquete solo de rubíes que compres, excluyendo los paquetes diarios. La cantidad de bonificación crece con la duración de tu suscripción y se aplica a los rubíes base comprados.",
     "subscription_effect_loyaltyGift": "Recibe hasta un {0} % más de rubíes con la compra de paquetes que solo contienen rubíes.",
     "dialog_loyaltyGift_title": "Regalo de lealtad",
     "dialog_loyaltyGift_desc": "Has recibido rubíes de regalo por tu lealtad. \nSe han enviado directamente a tu inventario.",
@@ -12792,7 +12796,19 @@
     "gachaPull_milestone_tooltip_amount_SummerGacha": "{0}/{1} Ofertas",
     "helpPopup_SummerGacha": "A medida que el sol de verano arde sobre la costa dorada, una antigua maravilla se agita bajo las dunas. Un castillo de arena viviente, esculpido por mareas olvidadas y atado por la magia del mar, se eleva con tranquila majestuosidad. Abraza una sandía brillante en sus brazos arenosos. Un artefacto pulsando con energía misteriosa, conocido como la Sandía de los Milagros. Pero el castillo no cederá sus tesoros sin costo. Tiene hambre de Naranjas de Deseo. Frutas bañadas por el sol, llenas de esperanza y deleite, que se dice que otorgan suerte a quienes las ofrecen. Algunas ya adornan las torres del castillo, brillando como pequeños soles. Pero se necesitan más para mantener viva su magia. Presenta tus Naranjas de Deseo, y el castillo de arena se moverá. Te permitirá extraer de las profundidades de la sandía. Cada tirón es una oportunidad para descubrir raras reliquias de verano, encantos mágicos y sorpresas brillantes enterradas por el tiempo y las mareas. Un tablero de clasificación rastrea tu generosidad. Recompensa a quienes más dan. Avanza a través de múltiples niveles del evento para aumentar tus posibilidades de ganar los tesoros más raros. ¿Ganarás el favor del castillo? ¿O dejarás que la magia del verano se te escurra entre los dedos?",
     "ranking_description_SummerGacha": "Ofrece las Naranjas de Deseo del Castillo de Arena, y desbloquearás los tesoros ocultos dentro de la Sandía de Maravillas. ¡El sistema de clasificación seguirá tu progreso, otorgando recompensas por logros según tu posición final!",
-    "title_SummerGacha": "Arenas de la fortuna"
+    "title_SummerGacha": "Arenas de la fortuna",
+    "dialog_CoA_unsavedChanges": "Tienes cambios no guardados, ¿quieres cerrar de todos modos?",
+    "dialog_alliance_chronic50": "El escudo de armas de la noble casa ha sido cambiado",
+    "dialog_legendTemple_sceat_71": "Carnicería",
+    "dialog_legendTemple_sceat_71_desc": "Desbloquea la carnicería",
+    "webshop_fruitbasket_VIP_name": "Cesta de frutas VIP",
+    "webshop_fruitbasket_extralarge_name": "Cesta de frutas extra",
+    "webshop_fruitbasket_giant_name": "Cesta de frutas gigante",
+    "webshop_fruitbasket_huge_name": "Gran canasta de frutas",
+    "webshop_fruitbasket_large_name": "Gran cesta de frutas",
+    "webshop_fruitbasket_medium_name": "Cesta de frutas mediana",
+    "webshop_fruitbasket_small_name": "Pequeña cesta de frutas",
+    "webshop_giftsummer_name": "Inicio de la fiesta de verano"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% de fuerza de combate de la unidad al atacar",
@@ -14141,7 +14157,8 @@
     "effect_description_unboostedMeadProductionCapped": "+{0} de producción de hidromiel por hora",
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% velocidad de reclutamiento",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% límite de unidad de flanco al atacar",
-    "effect_description_attackUnitAmountFrontCapped": "+{0}% límite de unidades en la parte frontal"
+    "effect_description_attackUnitAmountFrontCapped": "+{0}% límite de unidades en la parte frontal",
+    "ci_effect_beefCapacityBonus": "+{0} capacidad de almacenamiento de carne de res"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Héroe",

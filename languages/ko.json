@@ -2075,7 +2075,11 @@
     "deco_ExaltedRedWaterSpiderTemple_name": "고귀한 붉은 물거미 신전",
     "deco_exaltedGreenLavaScorpionTemple_name": "고귀한 전갈 신전",
     "deco_exaltedPurpleLavaScorpionTemple_name": "고귀한 보라색 용암 전갈 사원",
-    "deco_exaltedRedLavaScorpionTemple_name": "고귀한 전갈 신전"
+    "deco_exaltedRedLavaScorpionTemple_name": "고귀한 전갈 신전",
+    "ci_blueprint_BeefStorageIncrease": "프리미엄 소고기 저장 건축 아이템 청사진",
+    "ci_blueprint_RelicBeefStorageIncrease": "프리미엄 소고기 저장 건축 아이템 설계도",
+    "ci_blueprint_RelicBeefStorageIncrease_premium": "프리미엄 소고기 저장 빌드 아이템",
+    "ci_primary_BeefStorageIncrease_premium": "프리미엄 소고기 저장 건설 아이템"
   },
   "dialogs": {
     "dialog_festival_desc": "식량으로 잔치를 열어 백성들을 배불리 먹이십시오! 잔치가 계속되는 동안 모든 성의 모집 속도가 눈에 띄게 증가합니다. 더 큰 잔치를 벌일수록 효과도 더 증가합니다.",
@@ -8913,7 +8917,7 @@
     "dialog_expansionLoc_desc": "여기서 현재 확장을 건설할 수 있는 모든 장소와 이미 완전히 확장된 장소를 확인할 수 있습니다. 버튼을 사용하면 각각의 장소로 바로 이동합니다.",
     "ci_effect_elvenBakery": "치안 +{0}",
     "ci_effect_elvenResearchtower": "치안 +{0}",
-    "dialog_subscriptionHelp_loyaltyGift_desc": "충성 선물을 통해 루비만 담긴 패키지를 구매한 후에 추가 루비를 받을 수 있습니다. 추가량은 현재 구독의 기간에 따라 달라지며, 구매한 루비의 기준량에만 적용되고 보너스는 제외됩니다.",
+    "dialog_subscriptionHelp_loyaltyGift_desc": "귀하의 충성도 선물은 매일 번들을 제외한 루비 전용 패키지를 구매할 때 보너스 루비를 추가합니다. 보너스 금액은 구독 기간에 따라 증가하며, 구매한 기본 루비에 적용됩니다.",
     "subscription_effect_loyaltyGift": "루비만 담긴 패키지 구매 시 최대 +{0}%의 추가 루비를 받습니다.",
     "dialog_loyaltyGift_title": "충성 선물",
     "dialog_loyaltyGift_desc": "충성에 대한 선물로 루비를 받았습니다. \n루비가 인벤토리로 즉시 발송됐습니다.",
@@ -12792,7 +12796,19 @@
     "gachaPull_milestone_tooltip_amount_SummerGacha": "{0}/{1} 제공",
     "helpPopup_SummerGacha": "여름 태양이 황금빛 해안을 비추는 가운데, 고대의 경이로움이 모래 언덕 아래에서 꿈틀거립니다. 잊혀진 조수에 의해 조각되고 해변의 마법에 묶인 살아있는 모래 성이 조용한 위엄을 가지고 일어섭니다. 그것은 빛나는 수박을 모래로 된 팔에 움켜잡고 있습니다. 신비한 에너지를 뿜어내는 유물, 원더의 수박으로 알려져 있습니다. 그러나 성은 그 보물을 무료로 내주지 않습니다. 그것은 위시 오렌지를 갈망합니다. 희망과 기쁨이 담긴 태양의 키스를 받은 과일로, 제공하는 이에게 행운을 가져다준다고 합니다. 이미 몇 개의 오렌지가 성의 탑을 장식하며 작은 태양처럼 빛나고 있습니다. 하지만 그 마법을 유지하기 위해서는 더 많은 것이 필요합니다. 당신의 위시 오렌지를 제시하면, 모래 성이 꿈틀거릴 것입니다. 그러면 수박의 깊이에서 뽑을 수 있게 해줄 것입니다. 각 당기는 것은 희귀한 여름 유물, 마법의 장신구, 시간과 조수에 묻힌 반짝이는 서프라이즈를 발견할 기회입니다. 당신의 관대함을 추적하는 순위 보드가 있습니다. 가장 많이 기부한 사람에게 보상을 줍니다. 여러 이벤트 레벨을 진행하여 가장 희귀한 보물을 얻을 기회를 높이세요. 당신은 모래 성의 호의를 얻을 수 있을까요? 아니면 여름의 마법이 손가락 사이로 미끄러져 나가는 것을 지켜볼까요?",
     "ranking_description_SummerGacha": "모래성의 소원 오렌지를 제공하면 경이로운 수박 속에 숨겨진 보물이 열립니다! 순위 시스템은 귀하의 진행 상황을 추적하고 최종 순위에 따라 성과 보상을 부여합니다.",
-    "title_SummerGacha": "행운의 모래"
+    "title_SummerGacha": "행운의 모래",
+    "dialog_CoA_unsavedChanges": "저장되지 않은 변경 사항이 있습니다. 계속 닫으시겠습니까?",
+    "dialog_alliance_chronic50": "귀족 집의 문장이 변경되었습니다",
+    "dialog_legendTemple_sceat_71": "정육점",
+    "dialog_legendTemple_sceat_71_desc": "정육점을 잠금 해제합니다",
+    "webshop_fruitbasket_VIP_name": "VIP 과일 바구니",
+    "webshop_fruitbasket_extralarge_name": "추가 과일 바구니",
+    "webshop_fruitbasket_giant_name": "거대한 과일 바구니",
+    "webshop_fruitbasket_huge_name": "거대한 과일 바구니",
+    "webshop_fruitbasket_large_name": "대형 과일 바구니",
+    "webshop_fruitbasket_medium_name": "중간 과일 바구니",
+    "webshop_fruitbasket_small_name": "작은 과일 바구니",
+    "webshop_giftsummer_name": "여름 파티 시작"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% 유닛 전투력 공격 시",
@@ -14141,7 +14157,8 @@
     "effect_description_unboostedMeadProductionCapped": "+{0} 벌꿀 술 생산량(시간당)",
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% 모집 속도",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% 측면 유닛 한도 공격 시",
-    "effect_description_attackUnitAmountFrontCapped": "+{0}% 유닛 한도 전면"
+    "effect_description_attackUnitAmountFrontCapped": "+{0}% 유닛 한도 전면",
+    "ci_effect_beefCapacityBonus": "+{0} 소고기 저장 용량"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "영웅",

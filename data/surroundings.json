@@ -429,6 +429,21 @@
       "height": 8,
       "maxLevel": 99,
       "requiredLevel": 6
+    },
+    {
+      "wodID": 900331,
+      "group": "Surroundings",
+      "name": "AllianceCrest",
+      "type": "-",
+      "level": 1,
+      "layerType": "isoObject",
+      "gridOrigin": "BOTTOM_RIGHT",
+      "gridOffsetX": 10,
+      "gridOffsetY": -2,
+      "width": 8,
+      "height": 8,
+      "kIDs": 0,
+      "maxLevel": 99
     }
   ]
 }

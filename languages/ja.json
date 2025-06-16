@@ -2075,7 +2075,11 @@
     "deco_ExaltedRedWaterSpiderTemple_name": "崇高な赤い水蜘蛛の神殿",
     "deco_exaltedGreenLavaScorpionTemple_name": "至高の蠍の神殿",
     "deco_exaltedPurpleLavaScorpionTemple_name": "崇高な紫の溶岩サソリの神殿",
-    "deco_exaltedRedLavaScorpionTemple_name": "至高の蠍の神殿"
+    "deco_exaltedRedLavaScorpionTemple_name": "至高の蠍の神殿",
+    "ci_blueprint_BeefStorageIncrease": "プレミアムビーフストレージビルドアイテムの設計図",
+    "ci_blueprint_RelicBeefStorageIncrease": "プレミアムビーフ保管建設アイテムの設計図",
+    "ci_blueprint_RelicBeefStorageIncrease_premium": "プレミアムビーフ収納ビルドアイテム",
+    "ci_primary_BeefStorageIncrease_premium": "プレミアムビーフ保管用建設アイテム"
   },
   "dialogs": {
     "dialog_festival_desc": "食料を集めて宴会を開きましょう！\n宴会が続く限り、兵の雇用スピードがすべての城で速くなります。宴会が豪華になるほど、効果も大きくなります。",
@@ -8913,7 +8917,7 @@
     "dialog_expansionLoc_desc": "建物を拡張できる場所、そしてすでにレベル上限まで拡張した場所が、ここに表示されます。ボタンをタップすれば、それぞれの場所に移動できます。",
     "ci_effect_elvenBakery": "社会秩序　+{0}",
     "ci_effect_elvenResearchtower": "社会秩序　+{0}",
-    "dialog_subscriptionHelp_loyaltyGift_desc": "ロイヤリティギフトがあると、ルビーだけの入ったパックを購入する際に追加のルビーが手に入ります。 入手できる量は所持している定期購入の期間によって決まり、ボーナス以外で購入したルビーの数量に対して適用されます。",
+    "dialog_subscriptionHelp_loyaltyGift_desc": "あなたのロイヤルティギフトは、毎日のバンドルを除く、購入するすべてのルビー専用パッケージにボーナスルビーを追加します。ボーナスの量は、サブスクリプションの長さに応じて増加し、購入したベースルビーに適用されます。",
     "subscription_effect_loyaltyGift": "ルビーだけが入ったパックを購入する際に最大{0}%多くルビーを受け取ります。",
     "dialog_loyaltyGift_title": "ロイヤリティギフト",
     "dialog_loyaltyGift_desc": "あなたの忠誠心への感謝の意としてルビーが付与されました。 \nルビーは直接インベントリに収納されました。",
@@ -12792,7 +12796,19 @@
     "gachaPull_milestone_tooltip_amount_SummerGacha": "{0}/{1} 提供",
     "helpPopup_SummerGacha": "夏の太陽が黄金の海岸を照らす中、古代の驚異が砂丘の下で目を覚まします。忘れられた潮流によって彫られ、海辺の魔法に結びつけられた生きた砂の城が、静かな威厳を持って立ち上がります。その砂の腕には、輝くスイカを抱えています。神秘的なエネルギーを宿すアーティファクト、それは「ワンダーのスイカ」として知られています。しかし、城はその宝物を無料で譲ることはありません。城は「ウィッシングオレンジ」を渇望しています。希望と喜びが注がれた太陽のキスを受けた果実で、提供する者に幸運をもたらすと言われています。すでにいくつかのオレンジが城の塔を飾り、小さな太陽のように輝いています。しかし、その魔法を生かすためには、もっと必要です。ウィッシングオレンジを持参し、砂の城を揺り動かしましょう。そうすれば、スイカの深みから引き出すことが許されます。一引きは、希少な夏の遺物、魔法のトリンケット、時と潮に埋もれたきらめくサプライズを発見するチャンスです。寛大さを追跡するランキングボードがあります。最も多く寄付した者に報いるのです。複数のイベントレベルを進むことで、最も希少な宝物を獲得するチャンスを高めましょう。あなたは砂の城の好意を得ることができるでしょうか。それとも、夏の魔法が指の間から滑り落ちるのを見守るのでしょうか？",
     "ranking_description_SummerGacha": "砂の城の願いのオレンジを提供すると、驚異のスイカの中に隠された宝物が解放されます！ランキングシステムはあなたの進捗を追跡し、最終的な順位に基づいて達成報酬を付与します。",
-    "title_SummerGacha": "運の砂"
+    "title_SummerGacha": "運の砂",
+    "dialog_CoA_unsavedChanges": "未保存の変更がありますが、閉じてもよろしいですか？",
+    "dialog_alliance_chronic50": "貴族の家の紋章が変更されました",
+    "dialog_legendTemple_sceat_71": "肉屋",
+    "dialog_legendTemple_sceat_71_desc": "肉屋をアンロックします",
+    "webshop_fruitbasket_VIP_name": "VIPフルーツバスケット",
+    "webshop_fruitbasket_extralarge_name": "エクストラフルーツバスケット",
+    "webshop_fruitbasket_giant_name": "巨大なフルーツバスケット",
+    "webshop_fruitbasket_huge_name": "巨大なフルーツバスケット",
+    "webshop_fruitbasket_large_name": "大きな果物バスケット",
+    "webshop_fruitbasket_medium_name": "中サイズのフルーツバスケット",
+    "webshop_fruitbasket_small_name": "小さな果物のバスケット",
+    "webshop_giftsummer_name": "夏のパーティースタート"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% ユニットの攻撃時の戦闘力",
@@ -14141,7 +14157,8 @@
     "effect_description_unboostedMeadProductionCapped": "+{0} の蜂蜜酒の生産量（時間あたり）",
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% 雇用スピード",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% 側面ユニット制限の攻撃時",
-    "effect_description_attackUnitAmountFrontCapped": "+{0}% ユニット制限（前面）"
+    "effect_description_attackUnitAmountFrontCapped": "+{0}% ユニット制限（前面）",
+    "ci_effect_beefCapacityBonus": "+{0} 牛肉の貯蔵能力"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "英雄",

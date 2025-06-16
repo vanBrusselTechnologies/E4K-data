@@ -2075,7 +2075,11 @@
     "deco_ExaltedRedWaterSpiderTemple_name": "Forbedret rød vand edderkop tempel",
     "deco_exaltedGreenLavaScorpionTemple_name": "Forbedret skorpiontempel",
     "deco_exaltedPurpleLavaScorpionTemple_name": "Forbedret lilla lava skorpion tempel",
-    "deco_exaltedRedLavaScorpionTemple_name": "Forbedret Skorpiontempel"
+    "deco_exaltedRedLavaScorpionTemple_name": "Forbedret Skorpiontempel",
+    "ci_blueprint_BeefStorageIncrease": "Blueprint for premium opbevaringsbygning af oksekød",
+    "ci_blueprint_RelicBeefStorageIncrease": "Premium opbevaringsbyggeelement blueprint",
+    "ci_blueprint_RelicBeefStorageIncrease_premium": "Premium opbevaringsartikel til oksekød",
+    "ci_primary_BeefStorageIncrease_premium": "Premium oksekød opbevaringsbyggeelement"
   },
   "dialogs": {
     "dialog_festival_desc": "Brug mad til at holde en fest for dine borgere! Rekrutteringshastigheden vil forøges på i jeres borge, så længe festen varer. Jo større festen er, jo større er effekten.",
@@ -8913,7 +8917,7 @@
     "dialog_expansionLoc_desc": "Her kan du se alle de steder, hvor du kan bygge en udvidelse og hvor du allerede har udvidet til det højeste niveau. Du kan bruge knapperne til at komme direkte til et sted.",
     "ci_effect_elvenBakery": "+{0} offentlig orden",
     "ci_effect_elvenResearchtower": "+{0} offentlig orden",
-    "dialog_subscriptionHelp_loyaltyGift_desc": "Loyalitetsgaven sikrer dig et ekstra antal rubiner, når du har købt en pakke, der udelukkende indeholder rubiner. Antallet afhænger af varigheden af dit aktuelle abonnement og gælder kun for grundmængden af købte rubiner – eventuelle bonusser er ikke inkluderet.",
+    "dialog_subscriptionHelp_loyaltyGift_desc": "Din loyalitetsgave tilføjer bonusrubiner til enhver pakke kun med rubiner, du køber, undtagen daglige pakker. Bonusbeløbet vokser med længden af dit abonnement og gælder for de købte basisrubiner.",
     "subscription_effect_loyaltyGift": "Få op til +{0} % flere rubiner, når du køber pakker, der udelukkende indeholder rubiner.",
     "dialog_loyaltyGift_title": "Loyalitetsgave",
     "dialog_loyaltyGift_desc": "Du fik rubiner i gave for din loyalitet. \nRubinerne er blevet overført til din inventarliste.",
@@ -12792,7 +12796,19 @@
     "gachaPull_milestone_tooltip_amount_SummerGacha": "{0}/{1} Tilbud",
     "helpPopup_SummerGacha": "Mens sommersolen brænder over den gyldne kystlinje, rører et gammelt vidunder sig under klitterne. Et levende sandslot, skulptureret af glemte tidevand og bundet af kystens magi, rejser sig med stille majestæt. Det krammer en lysende vandmelon i sine sandede arme. Et artefakt, der pulserer med mystisk energi, kendt som Vandmelon af vidundere. Men slottet vil ikke give sine skatte væk gratis. Det hungrer efter Ønskebananer. Solkyssede frugter fyldt med håb og glæde, der siges at bringe held til dem, der tilbyder dem. Nogle pryder allerede slotstårnene, der glimter som små sole. Men der kræves flere for at holde magien i live. Præsenter dine Ønskebananer, og sandslottet vil røre sig. Det vil lade dig trække fra vandmelonens dybder. Hver træk er en chance for at afdække sjældne sommerrædder, fortryllede smykker og funkende overraskelser begravet af tid og tidevand. Et rangeringsbræt følger dit generøsitet. Det belønner dem, der giver mest. Fremskrid gennem flere eventniveauer for at øge dine chancer for at tjene de sjældneste skatte. Vil du vinde sandslotts gunst? Eller lade sommermagien glide mellem dine fingre?",
     "ranking_description_SummerGacha": "Tilbyd Sandcastle Ønskeappelsiner, og det vil låse op for skattene gemt i Vandmelonen af Vidundere! Rangordningssystemet vil spore din fremgang og give præstationsbelønninger baseret på din endelige placering.",
-    "title_SummerGacha": "Lykkens sand"
+    "title_SummerGacha": "Lykkens sand",
+    "dialog_CoA_unsavedChanges": "Du har ikke gemte ændringer, vil du lukke alligevel?",
+    "dialog_alliance_chronic50": "Det ædle hus våbenskjold er blevet ændret",
+    "dialog_legendTemple_sceat_71": "Slagterbutik",
+    "dialog_legendTemple_sceat_71_desc": "Låser slagterbutikken op",
+    "webshop_fruitbasket_VIP_name": "VIP frugtkurv",
+    "webshop_fruitbasket_extralarge_name": "Ekstra frugtkurv",
+    "webshop_fruitbasket_giant_name": "Kæmpe frugtkurv",
+    "webshop_fruitbasket_huge_name": "Kæmpe frugtkurv",
+    "webshop_fruitbasket_large_name": "Stor frugtkurv",
+    "webshop_fruitbasket_medium_name": "Mellem frugtkurv",
+    "webshop_fruitbasket_small_name": "Lille frugtkurv",
+    "webshop_giftsummer_name": "Sommerfest start"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% enhedens kampstyrke ved angreb",
@@ -14141,7 +14157,8 @@
     "effect_description_unboostedMeadProductionCapped": "+{0} mjødproduktion pr. time",
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% rekrutteringshastighed",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% flanke enhedsgrænse ved angreb",
-    "effect_description_attackUnitAmountFrontCapped": "+{0}% enhed grænse foran"
+    "effect_description_attackUnitAmountFrontCapped": "+{0}% enhed grænse foran",
+    "ci_effect_beefCapacityBonus": "+{0} opbevaringskapacitet for oksekød"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Helt",

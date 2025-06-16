@@ -2075,7 +2075,11 @@
     "deco_ExaltedRedWaterSpiderTemple_name": "Exalted Red Water Spider Temple",
     "deco_exaltedGreenLavaScorpionTemple_name": "Exalted Green Lava Scorpion Temple",
     "deco_exaltedPurpleLavaScorpionTemple_name": "Exalted Purple Lava Scorpion Temple",
-    "deco_exaltedRedLavaScorpionTemple_name": "Exalted Red Lava Scorpion Temple"
+    "deco_exaltedRedLavaScorpionTemple_name": "Exalted Red Lava Scorpion Temple",
+    "ci_blueprint_BeefStorageIncrease": "Premium beef storage build item blueprint",
+    "ci_blueprint_RelicBeefStorageIncrease": "Premium relic beef storage build item blueprint",
+    "ci_blueprint_RelicBeefStorageIncrease_premium": "Premium relic beef storage build item",
+    "ci_primary_BeefStorageIncrease_premium": "Premium beef storage build item"
   },
   "dialogs": {
     "dialog_festival_desc": "Use your food to hold a feast for your citizens!\nSoldiers will be recruited much more quickly in all of your castles for as long as the feast lasts. The bigger the feast, the greater the effect.",
@@ -8913,7 +8917,7 @@
     "dialog_expansionLoc_desc": "Here you can see all the places where you can still construct an expansion and where you have already fully expanded. You can use the buttons to jump directly to the respective locations.",
     "ci_effect_elvenBakery": "+{0} public order",
     "ci_effect_elvenResearchtower": "+{0} public order",
-    "dialog_subscriptionHelp_loyaltyGift_desc": "The loyalty gift ensures you will receive an additional amount of rubies after you purchase any package containing exclusively rubies. The amount depends on the length of your current subscription and only applies to the base amount of rubies purchased excluding bonuses.",
+    "dialog_subscriptionHelp_loyaltyGift_desc": "Your loyalty gift adds bonus rubies to any ruby-only package you buy, excluding daily bundles. The bonus amount grows with your subscription length and applies to the base rubies purchased.",
     "subscription_effect_loyaltyGift": "Receive up to +{0}% more rubies on buying packages containing exclusively rubies.",
     "dialog_loyaltyGift_title": "Loyalty gift",
     "dialog_loyaltyGift_desc": "You received rubies as a gift for your loyalty. \nThe rubies have been sent directly to your inventory.",
@@ -12793,7 +12797,18 @@
     "helpPopup_SummerGacha": "As the summer sun blazes over the golden coastline, an ancient marvel stirs beneath the dunes. A living sandcastle, sculpted by forgotten tides and bound by seaside magic, rises with quiet majesty. It clutches a glowing watermelon in its sandy arms. An artifact pulsing with mysterious energy, known as the Watermelon of Wonders.\nBut the castle will not yield its treasures for free. It hungers for Wishing Oranges. Sun-kissed fruits infused with hope and delight, said to grant luck to those who offer them. Some already adorn the castle’s towers, gleaming like tiny suns. But more are needed to keep its magic alive.\nPresent your Wishing Oranges, and the sandcastle will stir. It will allow you to draw from the watermelon’s depths. Each pull is a chance to uncover rare summer relics, enchanted trinkets, and sparkling surprises buried by time and tide.\nA ranking board tracks your generosity. It rewards those who give the most. Progress through multiple event levels to increase your chances of earning the rarest treasures. Will you earn the sandcastle’s favor. Or let the summer magic slip through your fingers?",
     "ranking_description_SummerGacha": "Offer the Sandcastle Wishing Oranges, and it will unlock the treasures hidden within the Watermelon of Wonders! The ranking system will track your progress, granting achievement rewards based on your final standing.",
     "title_SummerGacha": "Sands of Fortune",
-    "dialog_CoA_unsavedChanges": "You have unsaved changes, do you want to close anyway?"
+    "dialog_CoA_unsavedChanges": "You have unsaved changes, do you want to close anyway?",
+    "dialog_alliance_chronic50": "The noble house coat of arms has been changed",
+    "dialog_legendTemple_sceat_71": "Butcher Shop",
+    "dialog_legendTemple_sceat_71_desc": "Unlocks the Butcher Shop",
+    "webshop_fruitbasket_VIP_name": "VIP Fruit Basket",
+    "webshop_fruitbasket_extralarge_name": "Extra Fruit Basket",
+    "webshop_fruitbasket_giant_name": "Giant Fruit Basket",
+    "webshop_fruitbasket_huge_name": "Huge Fruit Basket",
+    "webshop_fruitbasket_large_name": "Large Fruit Basket",
+    "webshop_fruitbasket_medium_name": "Medium Fruit Basket",
+    "webshop_fruitbasket_small_name": "Small Fruit Basket",
+    "webshop_giftsummer_name": "Summer Party Starter"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% unit combat strength when attacking",
@@ -14142,7 +14157,8 @@
     "effect_description_unboostedMeadProductionCapped": "+{0} mead production per hour",
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% recruitment speed",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% flank unit limit when attacking",
-    "effect_description_attackUnitAmountFrontCapped": "+{0}% unit limit on the front"
+    "effect_description_attackUnitAmountFrontCapped": "+{0}% unit limit on the front",
+    "ci_effect_beefCapacityBonus": "+{0} beef storage capacity"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Hero",

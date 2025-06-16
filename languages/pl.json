@@ -2075,7 +2075,11 @@
     "deco_ExaltedRedWaterSpiderTemple_name": "Wzniosła Świątynia Czerwonej Wodnej Pająka",
     "deco_exaltedGreenLavaScorpionTemple_name": "Wzniosły świątynia skorpiona",
     "deco_exaltedPurpleLavaScorpionTemple_name": "Wzniosła purpurowa lawa skorpiona świątynia",
-    "deco_exaltedRedLavaScorpionTemple_name": "Wzniosła świątynia skorpiona"
+    "deco_exaltedRedLavaScorpionTemple_name": "Wzniosła świątynia skorpiona",
+    "ci_blueprint_BeefStorageIncrease": "Plan budowy elementu do przechowywania premium wołowiny",
+    "ci_blueprint_RelicBeefStorageIncrease": "Plan elementu do przechowywania premium wołowiny",
+    "ci_blueprint_RelicBeefStorageIncrease_premium": "Premium element do przechowywania wołowiny",
+    "ci_primary_BeefStorageIncrease_premium": "Element budowy do przechowywania premium wołowiny"
   },
   "dialogs": {
     "dialog_festival_desc": "Użyj jedzenia, aby zorganizować święto dla Twoich obywateli! Szybkość rekrutacji znacznie będzie rosła we wszystkich twoich zamkach przez czas obchodów święta. Im większe święto, tym większe efekty.",
@@ -8913,7 +8917,7 @@
     "dialog_expansionLoc_desc": "Tutaj możesz zapoznać się ze wszystkimi miejscami, które możesz jeszcze rozbudować i które zostały w pełni rozbudowane. Przyciski przeniosą cię wprost we wskazane miejsca.",
     "ci_effect_elvenBakery": "+{0} pkt. porządku publicznego",
     "ci_effect_elvenResearchtower": "+{0} pkt. porządku publicznego",
-    "dialog_subscriptionHelp_loyaltyGift_desc": "Prezent lojalnościowy gwarantuje dodatkowe rubiny do zakupu każdego pakietu zawierającego wyłącznie rubiny. Liczba dodatkowych rubinów zależy od długości trwania aktywnej subskrypcji i odnosi się tylko do podstawowej liczby rubinów z wyłączeniem premii.",
+    "dialog_subscriptionHelp_loyaltyGift_desc": "Twój prezent lojalnościowy dodaje bonusowe rubiny do każdego pakietu tylko z rubinami, który kupujesz, z wyłączeniem codziennych pakietów. Kwota bonusowa rośnie wraz z długością subskrypcji i dotyczy zakupionych podstawowych rubinów.",
     "subscription_effect_loyaltyGift": "Zyskaj do {0}% dodatkowych rubinów przy zakupie pakietu zawierającego wyłącznie rubiny.",
     "dialog_loyaltyGift_title": "Prezent lojalnościowy",
     "dialog_loyaltyGift_desc": "W zamian za swą lojalność otrzymałeś prezent w postaci dodatkowych rubinów.\nRubiny zostały wysłane bezpośrednio do twojego ekwipunku.",
@@ -12792,7 +12796,19 @@
     "gachaPull_milestone_tooltip_amount_SummerGacha": "{0}/{1} Oferty",
     "helpPopup_SummerGacha": "Gdy letnie słońce płonie nad złotą linią brzegową, starożytne cuda poruszają się pod wydmami. Żywy zamek z piasku, rzeźbiony przez zapomniane przypływy i związany nadmorską magią, wznosi się z cichą majestatycznością. Trzyma w swoich piaszczystych ramionach świecącą arbuz. Artefakt pulsujący tajemniczą energią, znany jako Arbuz Cudów. Ale zamek nie odda swoich skarbów za darmo. Pragnie Pomarańczy Życzeń. Owoców musujących światłem, pełnych nadziei i radości, które mają przynieść szczęście tym, którzy je ofiarują. Niektóre już zdobią wieże zamku, błyszcząc jak małe słońca. Ale potrzeba więcej, aby utrzymać jego magię przy życiu. Przedstaw swoje Pomarańcze Życzeń, a zamek z piasku się poruszy. Pozwoli ci wyciągnąć z głębi arbuza. Każde pociągnięcie to szansa na odkrycie rzadkich letnich relikwii, zaczarowanych drobiazgów i błyszczących niespodzianek ukrytych przez czas i przypływ. Tablica rankingowa śledzi twoją hojność. Nagradza tych, którzy dają najwięcej. Przechodź przez wiele poziomów wydarzeń, aby zwiększyć swoje szanse na zdobycie najrzadszych skarbów. Czy zdobędziesz przychylność zamku z piasku? Czy pozwolisz, by letnia magia wymknęła ci się z rąk?",
     "ranking_description_SummerGacha": "Oferuj Pomarańcze Życzeń Zamku z Piasku, a odblokujesz skarby ukryte w Arbuzie Cudów! System rankingowy będzie śledził Twój postęp, przyznając nagrody za osiągnięcia w zależności od Twojego ostatecznego miejsca.",
-    "title_SummerGacha": "Piaski szczęścia"
+    "title_SummerGacha": "Piaski szczęścia",
+    "dialog_CoA_unsavedChanges": "Masz niezapisane zmiany, czy chcesz zamknąć mimo to?",
+    "dialog_alliance_chronic50": "Herb szlachetnego rodu został zmieniony",
+    "dialog_legendTemple_sceat_71": "Rzeźnia",
+    "dialog_legendTemple_sceat_71_desc": "Odblokowuje rzeźnię",
+    "webshop_fruitbasket_VIP_name": "Kosz owoców VIP",
+    "webshop_fruitbasket_extralarge_name": "Dodatkowy kosz owoców",
+    "webshop_fruitbasket_giant_name": "Gigantyczny kosz owoców",
+    "webshop_fruitbasket_huge_name": "Ogromny kosz owoców",
+    "webshop_fruitbasket_large_name": "Duży kosz owoców",
+    "webshop_fruitbasket_medium_name": "Średni kosz owoców",
+    "webshop_fruitbasket_small_name": "Mały kosz owoców",
+    "webshop_giftsummer_name": "Początek letniej imprezy"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% siły bojowej jednostki podczas ataku",
@@ -14141,7 +14157,8 @@
     "effect_description_unboostedMeadProductionCapped": "+{0} produkcji miodu pitnego na godzinę",
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% szybkość werbunku",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% limit jednostki flankowej podczas ataku",
-    "effect_description_attackUnitAmountFrontCapped": "+{0}% limit jednostek z przodu"
+    "effect_description_attackUnitAmountFrontCapped": "+{0}% limit jednostek z przodu",
+    "ci_effect_beefCapacityBonus": "+{0} pojemność magazynu wołowiny"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Bohater",

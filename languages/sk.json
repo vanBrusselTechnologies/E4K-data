@@ -2075,7 +2075,11 @@
     "deco_ExaltedRedWaterSpiderTemple_name": "Vznešený chrám červenej vodnej pavúky",
     "deco_exaltedGreenLavaScorpionTemple_name": "Vznešený chrám škorpióna",
     "deco_exaltedPurpleLavaScorpionTemple_name": "Vznešený purpurový lávový chrám škorpióna",
-    "deco_exaltedRedLavaScorpionTemple_name": "Vznešený chrám škorpiónov"
+    "deco_exaltedRedLavaScorpionTemple_name": "Vznešený chrám škorpiónov",
+    "ci_blueprint_BeefStorageIncrease": "Plán prémiového stavebného prvku na skladovanie hovädzieho",
+    "ci_blueprint_RelicBeefStorageIncrease": "Plán prémiového úložného prvku na hovädzie",
+    "ci_blueprint_RelicBeefStorageIncrease_premium": "Prémiový prvok na skladovanie hovädzieho",
+    "ci_primary_BeefStorageIncrease_premium": "Stavebný prvok pre skladovanie prémiového hovädzieho"
   },
   "dialogs": {
     "dialog_festival_desc": "Pomocou jedla udržiavaj hostinu pre svojich občanov! Kým bude hostina trvať, na všetkých tvojich hradoch sa viditeľne zvýši rýchlosť verbovania. Čím väčšia hostina, tým väčší efekt.",
@@ -8913,7 +8917,7 @@
     "dialog_expansionLoc_desc": "Tu si pozrieš všetky miesta, ktoré môžeš stále rozširovať a ktoré si už úplne rozšíril. Tieto tlačidlá môžeš použiť na preskočenie priamo na príslušné miesta.",
     "ci_effect_elvenBakery": "Verejný poriadok: +{0}",
     "ci_effect_elvenResearchtower": "Verejný poriadok: +{0}",
-    "dialog_subscriptionHelp_loyaltyGift_desc": "Dar za vernosť zaručuje, že dostaneš pri nákupe akéhokoľvek balíka, ktorý obsahuje len rubíny, istý počet rubínov navyše. Toto množstvo závisí od trvania aktuálneho odberu a platí len na základné množstvo zakúpených rubínov, nie na bonusy.",
+    "dialog_subscriptionHelp_loyaltyGift_desc": "Váš vernostný darček pridáva bonusové rubíny k akémukoľvek balíku iba s rubínmi, ktorý zakúpite, s výnimkou denných balíkov. Bonusová suma sa zvyšuje s dĺžkou vášho predplatného a vzťahuje sa na zakúpené základné rubíny.",
     "subscription_effect_loyaltyGift": "Získaj až o +{0} % viac rubínov pri nákupe balíkov len s rubínmi.",
     "dialog_loyaltyGift_title": "Dar za vernosť",
     "dialog_loyaltyGift_desc": "Za svoju vernosť dostávaš rubíny ako dar. \nTieto rubíny sa poslali priamo do inventára.",
@@ -12792,7 +12796,19 @@
     "gachaPull_milestone_tooltip_amount_SummerGacha": "{0}/{1} Ponuky",
     "helpPopup_SummerGacha": "Keď letné slnko žiari nad zlatým pobrežím, pod dunami sa prebudí starobylé zázrak. Živý pieskový hrad, sochársky zabudnutými prílivmi a viazaný morskou magiou, sa dvíha s tichou majestátnosťou. Drží žiariacu vodnú melónu vo svojich piesočných rukách. Artefakt pulzujúci tajomnou energiou, známy ako Vodná melóna zázrakov. Ale hrad nebude dávať svoje poklady zadarmo. Túži po Pomarančoch prianí. Slnkom bozkávané ovocie naplnené nádejou a radosťou, o ktorých sa hovorí, že prinášajú šťastie tým, ktorí ich ponúkajú. Niektoré už zdobia veže hradu, žiariace ako malé slnka. Ale potrebujeme viac, aby sme udržali jeho mágiu nažive. Predložte svoje Pomaranče prianí a pieskový hrad sa pohne. Umožní vám ťahať z hĺbok vodnej melóny. Každé ťahanie je šancou na odhalenie vzácnych letných relikvií, očarujúcich drobností a žiarivých prekvapení pochovaných časom a prílivom. Rebríček sleduje vašu štedrosť. Odmeňuje tých, ktorí dávajú najviac. Prejdite cez viacero úrovní podujatí, aby ste zvýšili svoje šance na získanie najvzácnejších pokladov. Získate priazeň pieskového hradu? Alebo necháte letnú mágiu prejsť medzi prstami?",
     "ranking_description_SummerGacha": "Ponúknite Pieskové pomaranče prianí a odomknú sa poklady skryté v Melóne zázrakov! Ranksystém bude sledovať váš pokrok a udeľovať odmeny za dosiahnutie na základe vášho konečného umiestnenia.",
-    "title_SummerGacha": "Piesky šťastia"
+    "title_SummerGacha": "Piesky šťastia",
+    "dialog_CoA_unsavedChanges": "Máte nespracované zmeny, chcete sa napriek tomu zatvoriť?",
+    "dialog_alliance_chronic50": "Erb šľachtického domu bol zmenený",
+    "dialog_legendTemple_sceat_71": "Mäsokombinát",
+    "dialog_legendTemple_sceat_71_desc": "Odomkne bitúnok",
+    "webshop_fruitbasket_VIP_name": "VIP ovocný koš",
+    "webshop_fruitbasket_extralarge_name": "Extra ovocný košík",
+    "webshop_fruitbasket_giant_name": "Obrovský ovocný kôš",
+    "webshop_fruitbasket_huge_name": "Veľký ovocný kôš",
+    "webshop_fruitbasket_large_name": "Veľká ovocná misa",
+    "webshop_fruitbasket_medium_name": "Stredný ovocný košík",
+    "webshop_fruitbasket_small_name": "Malý ovocný košík",
+    "webshop_giftsummer_name": "Začiatok letnej párty"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% bojovej sily jednotky pri útoku",
@@ -14141,7 +14157,8 @@
     "effect_description_unboostedMeadProductionCapped": "+{0} výroba medoviny za hodinu",
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% rýchlosť verbovania",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% limit jednotky po stranách pri útoku",
-    "effect_description_attackUnitAmountFrontCapped": "+{0}% limit jednotiek vpredu"
+    "effect_description_attackUnitAmountFrontCapped": "+{0}% limit jednotiek vpredu",
+    "ci_effect_beefCapacityBonus": "+{0} skladovacia kapacita hovädzieho"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Hrdina",

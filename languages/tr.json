@@ -2075,7 +2075,11 @@
     "deco_ExaltedRedWaterSpiderTemple_name": "Yüce Kırmızı Su Örümceği Tapınağı",
     "deco_exaltedGreenLavaScorpionTemple_name": "Yüce akrep tapınağı",
     "deco_exaltedPurpleLavaScorpionTemple_name": "Yüce mor lav akrep tapınağı",
-    "deco_exaltedRedLavaScorpionTemple_name": "Yüce akrep tapınağı"
+    "deco_exaltedRedLavaScorpionTemple_name": "Yüce akrep tapınağı",
+    "ci_blueprint_BeefStorageIncrease": "Premium sığır eti depolama inşaat öğesi planı",
+    "ci_blueprint_RelicBeefStorageIncrease": "Premium sığır eti depolama inşaat öğesi planı",
+    "ci_blueprint_RelicBeefStorageIncrease_premium": "Premium sığır eti depolama yapı öğesi",
+    "ci_primary_BeefStorageIncrease_premium": "Premium sığır eti depolama inşaat öğesi"
   },
   "dialogs": {
     "dialog_festival_desc": "Yurttaşlarınıza bir şenlik düzenlemek için yiyecek kullanın!\nŞenlik devam ettiği sürece askere alma hızı tüm kalelerinizde belirgin şekilde artacak. Şenlik ne kadar büyük olursa, etkisi de o kadar büyük olur.",
@@ -8913,7 +8917,7 @@
     "dialog_expansionLoc_desc": "Burada, hala bir genişleme inşa edebileceğin alanları ve aynı zamanda şimdiye kadar tamamen genişlediğin alanları görebilirsin. Düğmeleri kullanarak doğrudan ilgili alanların üzerine atlayabilirsin.",
     "ci_effect_elvenBakery": "+{0} kamu düzeni",
     "ci_effect_elvenResearchtower": "+{0} kamu düzeni",
-    "dialog_subscriptionHelp_loyaltyGift_desc": "Sadakat hediyesi, sadece yakut içeren herhangi bir paketi satın aldığında fazladan yakut kazanmanı sağlar. Alacağın fazladan yakut miktarı, mevcut aboneliğinin süresine bağlıdır ve yalnızca bonuslar dışında ilk başta satın alınan yakut miktarı için geçerlidir.",
+    "dialog_subscriptionHelp_loyaltyGift_desc": "Sadakat hediyeniz, satın aldığınız günlük paketler hariç, yalnızca ruby paketine bonus ruby ekler. Bonus miktarı, abonelik sürenizle birlikte artar ve satın alınan temel rubylere uygulanır.",
     "subscription_effect_loyaltyGift": "Sadece yakut içeren paketleri satın alırken +%{0} oranına kadar daha fazla yakut kazan.",
     "dialog_loyaltyGift_title": "Sadakat hediyesi",
     "dialog_loyaltyGift_desc": "Sadakatinin karşılığında hediye olarak yakutlar kazandın. \nYakutlar, doğrudan envanterine gönderildi.",
@@ -12792,7 +12796,19 @@
     "gachaPull_milestone_tooltip_amount_SummerGacha": "{0}/{1} Teklifler",
     "helpPopup_SummerGacha": "Yaz güneşi altın kıyıda parıldarken, antik bir harika kumulların altında uyanır. Unutulmuş gelgitler tarafından şekillendirilmiş ve deniz büyüsü ile bağlı olan canlı bir kum kalesi, sessiz bir ihtişamla yükselir. Kumlu kollarında parlayan bir karpuz tutar. Gizemli bir enerjiyle yüklü bir eser, Mucizeler Karpuzu olarak bilinir. Ancak kale hazinelerini ücretsiz olarak vermez. Dilek Portakalları na açlık duyar. Umut ve sevinçle dolu, onlara sunanlara şans getirdiği söylenen güneşten öpülmüş meyvelerdir. Bazıları zaten kalenin kulelerini süslüyor, küçük güneşler gibi parlıyorlar. Ancak, büyüsünü canlı tutmak için daha fazlasına ihtiyaç var. Dilek Portakallarınızı sunun ve kum kalesi hareket edecek. Karpuzun derinliklerinden çekilmenize izin verecektir. Her çekiş, zaman ve gelgit tarafından gömülen nadir yaz kalıntılarını, büyülü süs eşyalarını ve parlayan sürprizleri keşfetme şansıdır. Cömertliğinizi takip eden bir sıralama tahtası vardır. En çok verenleri ödüllendirir. En nadir hazineleri kazanma şansınızı artırmak için birden fazla etkinlik seviyesinden geçin. Kum kalesinin lütfuna erişecek misiniz? Yoksa yaz büyüsünün parmaklarınızın arasından kayıp gitmesine mi izin vereceksiniz?",
     "ranking_description_SummerGacha": "Kumdan Kaleyi Dilek Portakallarını sunun ve bu, Harikalar Karpuzunun içinde saklanan hazineleri açacaktır! Sıralama sistemi ilerlemenizi takip edecek ve nihai sıralamanıza dayalı başarı ödülleri verecektir.",
-    "title_SummerGacha": "Şans kumları"
+    "title_SummerGacha": "Şans kumları",
+    "dialog_CoA_unsavedChanges": "Kaydedilmemiş değişiklikleriniz var, yine de kapatmak ister misiniz?",
+    "dialog_alliance_chronic50": "Asil evin arması değiştirildi",
+    "dialog_legendTemple_sceat_71": "Kasap Dükkanı",
+    "dialog_legendTemple_sceat_71_desc": "Kasabı açar",
+    "webshop_fruitbasket_VIP_name": "VIP meyve sepeti",
+    "webshop_fruitbasket_extralarge_name": "Ekstra Meyve Sepeti",
+    "webshop_fruitbasket_giant_name": "Devasa Meyve Sepeti",
+    "webshop_fruitbasket_huge_name": "Büyük meyve sepeti",
+    "webshop_fruitbasket_large_name": "Büyük meyve sepeti",
+    "webshop_fruitbasket_medium_name": "Orta boy meyve sepeti",
+    "webshop_fruitbasket_small_name": "Küçük meyve sepeti",
+    "webshop_giftsummer_name": "Yaz Partisi Başlangıcı"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% birimin savaş gücü saldırırken",
@@ -14141,7 +14157,8 @@
     "effect_description_unboostedMeadProductionCapped": "+{0} bal şarabı üretimi saatlik",
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% askere alma hızı",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% yan birim sınırı saldırırken",
-    "effect_description_attackUnitAmountFrontCapped": "+{0}% birim sınırı ön tarafta"
+    "effect_description_attackUnitAmountFrontCapped": "+{0}% birim sınırı ön tarafta",
+    "ci_effect_beefCapacityBonus": "+{0} sığır eti depolama kapasitesi"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Kahraman",

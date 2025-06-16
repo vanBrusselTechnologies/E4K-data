@@ -9,6 +9,8 @@ export interface Data {
     allianceBattleGroundScorings: AllianceBattleGroundScoring[];
     allianceBattleGroundSettings: AllianceBattleGroundSetting[];
     alliancebuffs: AllianceBuff[];
+    allianceCoatColors: allianceCoatColors[];
+    allianceCoatLayouts: allianceCoatLayouts[];
     alliancefameranks: AllianceFameRank[];
     allianceforges: AllianceForge[];
     alliancehelprequests: AllianceHelpRequest[];
@@ -387,10 +389,23 @@ export interface AllianceBuff {
     "isTemporary"?: number;
     "level": number;
     "maxLevel": number;
-    "requiredAllianceFame"?: number;
     "requiredBuffID"?: number;
-    "requiredMightPoints"?: number;
-    "requiredRankID"?: number;
+}
+
+export interface allianceCoatColors {
+    "allianceCoatColorID": number;
+    "color": string;
+}
+
+export interface allianceCoatLayouts {
+    "allianceCoatLayoutID": number;
+    "comment1": string;
+    "effectIconID"?: number;
+    "effects"?: string;
+    "eventID"?: number;
+    "isDefault"?: number;
+    "maxDuration"?: number;
+    "noofColors": number;
 }
 
 export interface AllianceFameRank {
@@ -3017,6 +3032,7 @@ export interface Reward {
     "addVigorDoubloon"?: number;
     "addWishingWellCoin"?: number;
     "addXmasLTPEToken"?: number;
+    "allianceCoatLayout"?: string;
     "buildingWodID"?: number | string;
     "coal"?: number;
     "comment1"?: number | string;

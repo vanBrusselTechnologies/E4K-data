@@ -47727,6 +47727,845 @@
     ],
     "fx": []
   },
+  "General_Ashira_Bow_Arms": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Ashira/General_Ashira_Bow_Arms.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 859,
+        "h": 613,
+        "rx": 570,
+        "ry": 693
+      }
+    ],
+    "fx": []
+  },
+  "General_Ashira_Cast_Shadow": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Ashira/General_Ashira_Cast_Shadow.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 427,
+        "h": 38,
+        "rx": 786,
+        "ry": 981
+      }
+    ],
+    "fx": []
+  },
+  "General_Ashira_Coat": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Ashira/General_Ashira_Coat.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 369,
+        "h": 613,
+        "rx": 815,
+        "ry": 693
+      }
+    ],
+    "fx": []
+  },
+  "General_Ashira_Costume_Low": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Ashira/General_Ashira_Costume_Low.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 331,
+        "h": 336,
+        "rx": 834,
+        "ry": 832
+      }
+    ],
+    "fx": []
+  },
+  "General_Ashira_Head": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Ashira/General_Ashira_Head.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 859,
+        "h": 613,
+        "rx": 570,
+        "ry": 693
+      },
+      {
+        "x": 798,
+        "y": 613,
+        "w": 427,
+        "h": 38,
+        "rx": 786,
+        "ry": 981
+      },
+      {
+        "x": 859,
+        "y": 0,
+        "w": 369,
+        "h": 613,
+        "rx": 815,
+        "ry": 693
+      },
+      {
+        "x": 1481,
+        "y": 464,
+        "w": 331,
+        "h": 336,
+        "rx": 834,
+        "ry": 832
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 573,
+        "y": 613,
+        "w": 225,
+        "h": 292,
+        "rx": 887,
+        "ry": 854
+      },
+      {
+        "x": 1228,
+        "y": 579,
+        "w": 99,
+        "h": 329,
+        "rx": 950,
+        "ry": 835
+      },
+      {
+        "x": 1228,
+        "y": 0,
+        "w": 253,
+        "h": 579,
+        "rx": 873,
+        "ry": 677
+      },
+      {
+        "x": 0,
+        "y": 613,
+        "w": 573,
+        "h": 287,
+        "rx": 713,
+        "ry": 856
+      },
+      {
+        "x": 1481,
+        "y": 0,
+        "w": 341,
+        "h": 464,
+        "rx": 829,
+        "ry": 768
+      }
+    ],
+    "fx": []
+  },
+  "General_Ashira_Knife": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Ashira/General_Ashira_Knife.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 329,
+        "rx": 950,
+        "ry": 835
+      }
+    ],
+    "fx": []
+  },
+  "General_Ashira_Legs": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Ashira/General_Ashira_Legs.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 253,
+        "h": 579,
+        "rx": 873,
+        "ry": 677
+      }
+    ],
+    "fx": []
+  },
+  "General_Ashira_Quiver": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Ashira/General_Ashira_Quiver.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 573,
+        "h": 287,
+        "rx": 713,
+        "ry": 856
+      }
+    ],
+    "fx": []
+  },
+  "General_Ashira_Torso": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Ashira/General_Ashira_Torso.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 341,
+        "h": 464,
+        "rx": 829,
+        "ry": 768
+      }
+    ],
+    "fx": []
+  },
   "General_BabaVarjuka_Arm_Left": {
     "pid": 1,
     "url": "x768/Characters/Generals/General_BabaVarjuka/General_BabaVarjuka_Arm_Left.png",
@@ -48803,6 +49642,351 @@
         "h": 360,
         "rx": 797,
         "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "General_Garrik_Arm": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Garrik/General_Garrik_Arm.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 126,
+        "h": 152,
+        "rx": 998,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Garrik_Bag": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Garrik/General_Garrik_Bag.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 190,
+        "rx": 998,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Garrik_Chest": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Garrik/General_Garrik_Chest.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 282,
+        "h": 259,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Garrik_Foot_Left": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Garrik/General_Garrik_Foot_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 199,
+        "h": 280,
+        "rx": 998,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Garrik_Foot_Right": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Garrik/General_Garrik_Foot_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 172,
+        "h": 288,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Garrik_Forearm": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Garrik/General_Garrik_Forearm.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 126,
+        "h": 174,
+        "rx": 998,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Garrik_Forearmor": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Garrik/General_Garrik_Forearmor.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 209,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Garrik_Head": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Garrik/General_Garrik_Head.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 259,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Garrik_Helmet_Behind": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Garrik/General_Garrik_Helmet_Behind.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 58,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Garrik_Knee_Right": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Garrik/General_Garrik_Knee_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 275,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Garrik_Leg_Left": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Garrik/General_Garrik_Leg_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 157,
+        "h": 250,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Garrik_Leg_Right": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Garrik/General_Garrik_Leg_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 188,
+        "h": 259,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Garrik_Shadow": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Garrik/General_Garrik_Shadow.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 561,
+        "h": 60,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Garrik_Shield_Shadow": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Garrik/General_Garrik_Shield_Shadow.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 113,
+        "h": 825,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Garrik_Shield": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Garrik/General_Garrik_Shield.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 373,
+        "h": 835,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Garrik_Shoulder_Left_Behind": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Garrik/General_Garrik_Shoulder_Left_Behind.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 69,
+        "h": 105,
+        "rx": 998,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Garrik_Shoulder_Left": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Garrik/General_Garrik_Shoulder_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 178,
+        "h": 222,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Garrik_Shoulder_Right": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Garrik/General_Garrik_Shoulder_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 193,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Garrik_Skirt_Armor": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Garrik/General_Garrik_Skirt_Armor.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 415,
+        "h": 300,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Garrik_Skirt_Behind": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Garrik/General_Garrik_Skirt_Behind.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 326,
+        "h": 277,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Garrik_Skirt": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Garrik/General_Garrik_Skirt.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 424,
+        "h": 382,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Garrik_Sword": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Garrik/General_Garrik_Sword.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 299,
+        "h": 372,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "General_Garrik_Trunk": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Garrik/General_Garrik_Trunk.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 293,
+        "h": 418,
+        "rx": 999,
+        "ry": 999
       }
     ],
     "fx": []
@@ -53592,6 +54776,306 @@
     ],
     "fx": []
   },
+  "General_Valenta_Arm_Left": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Valenta/General_Valenta_Arm_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 144,
+        "h": 245,
+        "rx": 927,
+        "ry": 877
+      }
+    ],
+    "fx": []
+  },
+  "General_Valenta_Arm_Right": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Valenta/General_Valenta_Arm_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 167,
+        "h": 300,
+        "rx": 916,
+        "ry": 850
+      }
+    ],
+    "fx": []
+  },
+  "General_Valenta_Armor_Hip": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Valenta/General_Valenta_Armor_Hip.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 274,
+        "rx": 812,
+        "ry": 863
+      }
+    ],
+    "fx": []
+  },
+  "General_Valenta_Belt": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Valenta/General_Valenta_Belt.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 255,
+        "h": 125,
+        "rx": 872,
+        "ry": 937
+      }
+    ],
+    "fx": []
+  },
+  "General_Valenta_Boots": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Valenta/General_Valenta_Boots.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 574,
+        "h": 252,
+        "rx": 712,
+        "ry": 873
+      }
+    ],
+    "fx": []
+  },
+  "General_Valenta_Cape_Back": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Valenta/General_Valenta_Cape_Back.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 403,
+        "h": 242,
+        "rx": 798,
+        "ry": 879
+      }
+    ],
+    "fx": []
+  },
+  "General_Valenta_Cape": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Valenta/General_Valenta_Cape.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 393,
+        "h": 195,
+        "rx": 803,
+        "ry": 902
+      }
+    ],
+    "fx": []
+  },
+  "General_Valenta_Hand_Right": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Valenta/General_Valenta_Hand_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 151,
+        "h": 233,
+        "rx": 924,
+        "ry": 883
+      }
+    ],
+    "fx": []
+  },
+  "General_Valenta_Head": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Valenta/General_Valenta_Head.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 175,
+        "h": 207,
+        "rx": 912,
+        "ry": 896
+      }
+    ],
+    "fx": []
+  },
+  "General_Valenta_Mace_Shadow": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Valenta/General_Valenta_Mace_Shadow.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 279,
+        "h": 309,
+        "rx": 860,
+        "ry": 845
+      }
+    ],
+    "fx": []
+  },
+  "General_Valenta_Mace": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Valenta/General_Valenta_Mace.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 425,
+        "h": 627,
+        "rx": 787,
+        "ry": 686
+      }
+    ],
+    "fx": []
+  },
+  "General_Valenta_Ribbon": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Valenta/General_Valenta_Ribbon.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 212,
+        "rx": 981,
+        "ry": 1009
+      }
+    ],
+    "fx": []
+  },
+  "General_Valenta_Shadow": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Valenta/General_Valenta_Shadow.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 577,
+        "h": 62,
+        "rx": 711,
+        "ry": 969
+      }
+    ],
+    "fx": []
+  },
+  "General_Valenta_Shield": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Valenta/General_Valenta_Shield.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 263,
+        "h": 526,
+        "rx": 868,
+        "ry": 737
+      }
+    ],
+    "fx": []
+  },
+  "General_Valenta_Skirt_01": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Valenta/General_Valenta_Skirt_01.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 259,
+        "h": 611,
+        "rx": 864,
+        "ry": 990
+      }
+    ],
+    "fx": []
+  },
+  "General_Valenta_Skirt_02": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Valenta/General_Valenta_Skirt_02.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 252,
+        "h": 505,
+        "rx": 789,
+        "ry": 934
+      }
+    ],
+    "fx": []
+  },
+  "General_Valenta_Skirt_03": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Valenta/General_Valenta_Skirt_03.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 276,
+        "h": 581,
+        "rx": 932,
+        "ry": 941
+      }
+    ],
+    "fx": []
+  },
+  "General_Valenta_Tabart_02": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Valenta/General_Valenta_Tabart_02.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 427,
+        "rx": 899,
+        "ry": 786
+      }
+    ],
+    "fx": []
+  },
+  "General_Valenta_Tabart": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Valenta/General_Valenta_Tabart.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 163,
+        "h": 369,
+        "rx": 923,
+        "ry": 812
+      }
+    ],
+    "fx": []
+  },
+  "General_Valenta_Torso": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Valenta/General_Valenta_Torso.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 239,
+        "h": 253,
+        "rx": 880,
+        "ry": 873
+      }
+    ],
+    "fx": []
+  },
   "generals_cutscene_1": {
     "pid": 0,
     "url": "x768/Characters/Generals/General_VideoThumbnails/generals_cutscene_1.png",
@@ -54477,6 +55961,21 @@
     ],
     "fx": []
   },
+  "Background_Generals_Overview_Ashira": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Ashira.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2420,
+        "h": 2433,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
   "Background_Generals_Overview_BabaVarjuka": {
     "pid": 1,
     "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_BabaVarjuka.png",
@@ -54548,6 +56047,21 @@
         "h": 2433,
         "rx": 999,
         "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Background_Generals_Overview_Garrik": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Garrik.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2420,
+        "h": 2434,
+        "rx": 999,
+        "ry": 998
       }
     ],
     "fx": []
@@ -54666,6 +56180,21 @@
         "y": 0,
         "w": 2415,
         "h": 2427,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Background_Generals_Overview_Preview_Ashira": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_Ashira.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2421,
+        "h": 2433,
         "rx": 999,
         "ry": 999
       }
@@ -55102,6 +56631,21 @@
         "w": 2420,
         "h": 2432,
         "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Background_Generals_Overview_Valenta": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Valenta.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2421,
+        "h": 2433,
+        "rx": 998,
         "ry": 999
       }
     ],
@@ -83692,6 +85236,51 @@
     ],
     "fx": []
   },
+  "icon_general_Ashira_xl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_Ashira_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 203,
+        "h": 202,
+        "rx": 901,
+        "ry": 906
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_Ashira_xxl": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_Ashira_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 254,
+        "h": 254,
+        "rx": 876,
+        "ry": 874
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_Ashira": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_Ashira.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 135,
+        "h": 135,
+        "rx": 934,
+        "ry": 936
+      }
+    ],
+    "fx": []
+  },
   "icon_general_attack_avatar_Alice": {
     "pid": 2,
     "url": "x768/Icons/GeneralIcons/icon_general_attack_avatar_Alice.png",
@@ -83733,6 +85322,21 @@
         "h": 401,
         "rx": 844,
         "ry": 799
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_attack_avatar_Ashira": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_general_attack_avatar_Ashira.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 315,
+        "h": 386,
+        "rx": 842,
+        "ry": 815
       }
     ],
     "fx": []
@@ -83808,6 +85412,21 @@
         "h": 392,
         "rx": 843,
         "ry": 808
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_attack_avatar_Garrik": {
+    "pid": 2,
+    "url": "x768/Icons/GeneralIcons/icon_general_attack_avatar_Garrik.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 313,
+        "h": 401,
+        "rx": 843,
+        "ry": 799
       }
     ],
     "fx": []
@@ -84033,6 +85652,21 @@
         "h": 401,
         "rx": 843,
         "ry": 799
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_attack_avatar_Valenta": {
+    "pid": 1,
+    "url": "x768/Icons/GeneralIcons/icon_general_attack_avatar_Valenta.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 314,
+        "h": 387,
+        "rx": 842,
+        "ry": 813
       }
     ],
     "fx": []
@@ -84318,6 +85952,51 @@
         "h": 173,
         "rx": 913,
         "ry": 913
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_Garrik_xl": {
+    "pid": 2,
+    "url": "x768/Icons/GeneralIcons/icon_general_Garrik_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 204,
+        "h": 216,
+        "rx": 894,
+        "ry": 892
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_Garrik_xxl": {
+    "pid": 2,
+    "url": "x768/Icons/GeneralIcons/icon_general_Garrik_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 254,
+        "h": 268,
+        "rx": 867,
+        "ry": 864
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_Garrik": {
+    "pid": 2,
+    "url": "x768/Icons/GeneralIcons/icon_general_Garrik.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 136,
+        "h": 144,
+        "rx": 930,
+        "ry": 928
       }
     ],
     "fx": []
@@ -84738,6 +86417,51 @@
         "h": 143,
         "rx": 928,
         "ry": 928
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Ashira_xl": {
+    "pid": 1,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_Ashira_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 203,
+        "h": 201,
+        "rx": 900,
+        "ry": 906
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Ashira_xxl": {
+    "pid": 1,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_Ashira_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 258,
+        "h": 254,
+        "rx": 871,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Ashira": {
+    "pid": 1,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_Ashira.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 136,
+        "h": 134,
+        "rx": 933,
+        "ry": 937
       }
     ],
     "fx": []
@@ -86017,6 +87741,51 @@
     ],
     "fx": []
   },
+  "icon_general_Valenta_xl": {
+    "pid": 1,
+    "url": "x768/Icons/GeneralIcons/icon_general_Valenta_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 193,
+        "h": 208,
+        "rx": 895,
+        "ry": 900
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_Valenta_xxl": {
+    "pid": 1,
+    "url": "x768/Icons/GeneralIcons/icon_general_Valenta_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 242,
+        "h": 258,
+        "rx": 867,
+        "ry": 874
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_Valenta": {
+    "pid": 1,
+    "url": "x768/Icons/GeneralIcons/icon_general_Valenta.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 129,
+        "h": 138,
+        "rx": 930,
+        "ry": 934
+      }
+    ],
+    "fx": []
+  },
   "icon_general_WolfKing_xl": {
     "pid": 2,
     "url": "x768/Icons/GeneralIcons/icon_general_WolfKing_xl.png",
@@ -86152,6 +87921,21 @@
     ],
     "fx": []
   },
+  "icon_squared_general_Ashira": {
+    "pid": 0,
+    "url": "x768/Icons/GeneralIcons/icon_squared_general_Ashira.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 117,
+        "h": 114,
+        "rx": 941,
+        "ry": 944
+      }
+    ],
+    "fx": []
+  },
   "icon_squared_general_BabaVarjuka": {
     "pid": 2,
     "url": "x768/Icons/GeneralIcons/icon_squared_general_BabaVarjuka.png",
@@ -86176,6 +87960,21 @@
         "y": 0,
         "w": 117,
         "h": 117,
+        "rx": 941,
+        "ry": 941
+      }
+    ],
+    "fx": []
+  },
+  "icon_squared_general_Garrik": {
+    "pid": 2,
+    "url": "x768/Icons/GeneralIcons/icon_squared_general_Garrik.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 117,
+        "h": 118,
         "rx": 941,
         "ry": 941
       }
@@ -86320,6 +88119,21 @@
   "icon_squared_general_Uskhal": {
     "pid": 2,
     "url": "x768/Icons/GeneralIcons/icon_squared_general_Uskhal.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 117,
+        "h": 117,
+        "rx": 941,
+        "ry": 941
+      }
+    ],
+    "fx": []
+  },
+  "icon_squared_general_Valenta": {
+    "pid": 1,
+    "url": "x768/Icons/GeneralIcons/icon_squared_general_Valenta.png",
     "frames": [
       {
         "x": 0,
@@ -89932,6 +91746,96 @@
     ],
     "fx": []
   },
+  "icon_currency_AshiraToken_big": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_AshiraToken_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 111,
+        "h": 111,
+        "rx": 944,
+        "ry": 944
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_AshiraToken_ds": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_AshiraToken_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 66,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_AshiraToken_medium_ds": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_AshiraToken_medium_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 93,
+        "h": 92,
+        "rx": 953,
+        "ry": 954
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_AshiraToken_medium": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_AshiraToken_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 85,
+        "h": 84,
+        "rx": 957,
+        "ry": 958
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_AshiraToken_small": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_AshiraToken_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 35,
+        "rx": 982,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_AshiraToken": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_AshiraToken.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 61,
+        "h": 61,
+        "rx": 969,
+        "ry": 969
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_Balloons_big": {
     "pid": 1,
     "url": "x768/Icons/Icons/icon_currency_Balloons_big.png",
@@ -93228,6 +95132,111 @@
         "h": 64,
         "rx": 966,
         "ry": 968
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_GarrikToken_big_ds": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_GarrikToken_big_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 102,
+        "h": 116,
+        "rx": 948,
+        "ry": 941
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_GarrikToken_big": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_GarrikToken_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 97,
+        "h": 111,
+        "rx": 951,
+        "ry": 944
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_GarrikToken_ds": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_GarrikToken_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 62,
+        "h": 71,
+        "rx": 968,
+        "ry": 964
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_GarrikToken_medium_ds": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_GarrikToken_medium_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 94,
+        "rx": 957,
+        "ry": 952
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_GarrikToken_medium": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_GarrikToken_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 89,
+        "rx": 961,
+        "ry": 955
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_GarrikToken_small": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_GarrikToken_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 31,
+        "h": 35,
+        "rx": 984,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_GarrikToken": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_GarrikToken.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 67,
+        "rx": 970,
+        "ry": 966
       }
     ],
     "fx": []
@@ -97207,6 +99216,36 @@
     ],
     "fx": []
   },
+  "icon_currency_ShardAshira_xl": {
+    "pid": 2,
+    "url": "x768/Icons/Icons/icon_currency_ShardAshira_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 201,
+        "rx": 902,
+        "ry": 899
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_ShardAshira": {
+    "pid": 2,
+    "url": "x768/Icons/Icons/icon_currency_ShardAshira.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 68,
+        "h": 67,
+        "rx": 966,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_ShardDiana_xl": {
     "pid": 1,
     "url": "x768/Icons/Icons/icon_currency_ShardDiana_xl.png",
@@ -97225,6 +99264,36 @@
   "icon_currency_ShardDiana": {
     "pid": 1,
     "url": "x768/Icons/Icons/icon_currency_ShardDiana.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 68,
+        "h": 67,
+        "rx": 966,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_ShardGarrik_xl": {
+    "pid": 2,
+    "url": "x768/Icons/Icons/icon_currency_ShardGarrik_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 201,
+        "rx": 902,
+        "ry": 899
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_ShardGarrik": {
+    "pid": 2,
+    "url": "x768/Icons/Icons/icon_currency_ShardGarrik.png",
     "frames": [
       {
         "x": 0,
@@ -97470,6 +99539,36 @@
         "x": 0,
         "y": 0,
         "w": 68,
+        "h": 67,
+        "rx": 966,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_ShardValenta_xl": {
+    "pid": 1,
+    "url": "x768/Icons/Icons/icon_currency_ShardValenta_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 201,
+        "rx": 902,
+        "ry": 899
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_ShardValenta": {
+    "pid": 1,
+    "url": "x768/Icons/Icons/icon_currency_ShardValenta.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
         "h": 67,
         "rx": 966,
         "ry": 966
@@ -99167,6 +101266,96 @@
         "w": 57,
         "h": 68,
         "rx": 971,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_ValentaToken_big": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_ValentaToken_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 112,
+        "h": 112,
+        "rx": 944,
+        "ry": 944
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_ValentaToken_ds": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_ValentaToken_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 67,
+        "rx": 966,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_ValentaToken_medium_ds": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_ValentaToken_medium_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 93,
+        "h": 93,
+        "rx": 953,
+        "ry": 953
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_ValentaToken_medium": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_ValentaToken_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 90,
+        "h": 90,
+        "rx": 955,
+        "ry": 955
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_ValentaToken_small": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_ValentaToken_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 35,
+        "rx": 982,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_ValentaToken": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_ValentaToken.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 67,
+        "rx": 966,
         "ry": 966
       }
     ],

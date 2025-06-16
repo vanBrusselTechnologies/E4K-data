@@ -2075,7 +2075,11 @@
     "deco_ExaltedRedWaterSpiderTemple_name": "Temple exalté de laraignée rouge deau",
     "deco_exaltedGreenLavaScorpionTemple_name": "Temple scorpion exalté",
     "deco_exaltedPurpleLavaScorpionTemple_name": "Temple scorpion violet exalté",
-    "deco_exaltedRedLavaScorpionTemple_name": "Temple scorpion exalté"
+    "deco_exaltedRedLavaScorpionTemple_name": "Temple scorpion exalté",
+    "ci_blueprint_BeefStorageIncrease": "Plan de lélément de construction de stockage de bœuf premium",
+    "ci_blueprint_RelicBeefStorageIncrease": "Plan de stockage de bœuf premium",
+    "ci_blueprint_RelicBeefStorageIncrease_premium": "Élément de stockage de bœuf premium",
+    "ci_primary_BeefStorageIncrease_premium": "Élément de construction de stockage de bœuf premium"
   },
   "dialogs": {
     "dialog_festival_desc": "Utilisez de la nourriture pour organiser une fête pour vos villageois ! Tant que la fête durera, la vitesse de recrutement sera considérablement augmentée dans tous vos châteaux. Plus la fête est grande, plus son effet est important.",
@@ -8913,7 +8917,7 @@
     "dialog_expansionLoc_desc": "Ici figurent tous les emplacements où vous pouvez toujours construire une extension et ceux pour lesquels cest déjà fait. Vous pouvez utiliser les boutons pour passer directement aux emplacements respectifs.",
     "ci_effect_elvenBakery": "Ordre public +{0}",
     "ci_effect_elvenResearchtower": "Ordre public +{0}",
-    "dialog_subscriptionHelp_loyaltyGift_desc": "Le cadeau de fidélité vous octroie, pour tout achat dun pack contenant uniquement des rubis, un certain nombre de rubis supplémentaires qui varie en fonction de la durée de votre abonnement actuel et qui sapplique uniquement à la quantité de base de rubis achetés, bonus exclus.",
+    "dialog_subscriptionHelp_loyaltyGift_desc": "Votre cadeau de fidélité ajoute des rubis bonus à tout paquet uniquement de rubis que vous achetez, à lexception des forfaits quotidiens. Le montant du bonus augmente avec la durée de votre abonnement et sapplique aux rubis de base achetés.",
     "subscription_effect_loyaltyGift": "Recevez jusquà {0} % de rubis en plus lorsque vous achetez des packs ne contenant que des rubis !",
     "dialog_loyaltyGift_title": "Cadeau de fidélité",
     "dialog_loyaltyGift_desc": "Vous avez reçu des rubis en cadeau pour votre fidélité. \nIls ont déjà rejoint votre inventaire.",
@@ -12792,7 +12796,19 @@
     "gachaPull_milestone_tooltip_amount_SummerGacha": "{0}/{1} Offres",
     "helpPopup_SummerGacha": "Alors que le soleil dété brûle au-dessus de la côte dorée, une merveille ancienne séveille sous les dunes. Un château de sable vivant, sculpté par des marées oubliées et lié par la magie du bord de mer, sélève avec une majesté tranquille. Il serre une pastèque lumineuse dans ses bras sablonneux. Un artefact pulsant dénergie mystérieuse, connu sous le nom de Pastèque des merveilles. Mais le château ne cédera pas ses trésors gratuitement. Il a faim des Oranges des souhaits. Des fruits baignés de soleil, emplis despoir et de délice, réputés pour apporter de la chance à ceux qui les offrent. Certains ornent déjà les tours du château, brillants comme de petits soleils. Mais il en faut plus pour maintenir sa magie en vie. Présentez vos Oranges des souhaits, et le château de sable sanimera. Il vous permettra de puiser dans les profondeurs de la pastèque. Chaque tirage est une chance de découvrir des reliques dété rares, des bijoux enchantés et des surprises scintillantes enfouies par le temps et les marées. Un tableau de classement suit votre générosité. Il récompense ceux qui donnent le plus. Progressez à travers plusieurs niveaux dévénements pour augmenter vos chances de gagner les trésors les plus rares. Gagnerez-vous la faveur du château? Ou laisserez-vous la magie dété vous filer entre les doigts?",
     "ranking_description_SummerGacha": "Proposez les Oranges de Souhaits du Château de Sable, et cela débloquera les trésors cachés à lintérieur de la Pastèque des Merveilles ! Le système de classement suivra vos progrès, accordant des récompenses daccomplissement en fonction de votre position finale.",
-    "title_SummerGacha": "Sables de la fortune"
+    "title_SummerGacha": "Sables de la fortune",
+    "dialog_CoA_unsavedChanges": "Vous avez des modifications non enregistrées, voulez-vous quand même fermer ?",
+    "dialog_alliance_chronic50": "Le blason de la maison noble a été modifié",
+    "dialog_legendTemple_sceat_71": "Boucherie",
+    "dialog_legendTemple_sceat_71_desc": "Débloque la boucherie",
+    "webshop_fruitbasket_VIP_name": "Panier de fruits VIP",
+    "webshop_fruitbasket_extralarge_name": "Panier de fruits supplémentaire",
+    "webshop_fruitbasket_giant_name": "Panier de fruits géant",
+    "webshop_fruitbasket_huge_name": "Gros panier de fruits",
+    "webshop_fruitbasket_large_name": "Grand panier de fruits",
+    "webshop_fruitbasket_medium_name": "Panier de fruits moyen",
+    "webshop_fruitbasket_small_name": "Petit panier de fruits",
+    "webshop_giftsummer_name": "Démarrage de la fête dété"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% de force de combat de lunité lors de lattaque",
@@ -14141,7 +14157,8 @@
     "effect_description_unboostedMeadProductionCapped": "+{0} de production dhydromel par heure",
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% vitesse de recrutement",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% limite dunité de flanc lors de lattaque",
-    "effect_description_attackUnitAmountFrontCapped": "+{0}% limite dunité à lavant"
+    "effect_description_attackUnitAmountFrontCapped": "+{0}% limite dunité à lavant",
+    "ci_effect_beefCapacityBonus": "+{0} capacité de stockage de bœuf"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Héros",

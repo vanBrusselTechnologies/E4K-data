@@ -2075,7 +2075,11 @@
     "deco_ExaltedRedWaterSpiderTemple_name": "Erhabener roter Wasser-Spinnen-Tempel",
     "deco_exaltedGreenLavaScorpionTemple_name": "Erhabener Skorpiontempel",
     "deco_exaltedPurpleLavaScorpionTemple_name": "Erhabener lila Lava-Skorpion-Tempel",
-    "deco_exaltedRedLavaScorpionTemple_name": "Erhabener Skorpiontempel"
+    "deco_exaltedRedLavaScorpionTemple_name": "Erhabener Skorpiontempel",
+    "ci_blueprint_BeefStorageIncrease": "Bauplan für die Premium-Rindfleischlagerung",
+    "ci_blueprint_RelicBeefStorageIncrease": "Premium-Rinderlagerbauplan",
+    "ci_blueprint_RelicBeefStorageIncrease_premium": "Premium Rindfleischlager-Bauartikel",
+    "ci_primary_BeefStorageIncrease_premium": "Premium-Rindfleischlager-Bauartikel"
   },
   "dialogs": {
     "dialog_festival_desc": "Setzt Nahrung ein, um ein Fest für Eure Bürger zu feiern!\nSolange das Fest läuft, wird die Rekrutierungsgeschwindigkeit in all Euren Burgen deutlich erhöht. Je größer das Fest ist, desto größer ist auch der Effekt.",
@@ -8913,7 +8917,7 @@
     "dialog_expansionLoc_desc": "Hier könnt Ihr alle Orte sehen, an denen Ihr noch eine Erweiterung bauen könnt und wo Ihr bereits komplett erweitert habt. Mit den Buttons springt Ihr direkt zu den jeweiligen Orten.",
     "ci_effect_elvenBakery": "+{0} Öffentliche Ordnung",
     "ci_effect_elvenResearchtower": "+{0} Öffentliche Ordnung",
-    "dialog_subscriptionHelp_loyaltyGift_desc": "Das Treuegeschenk gewährleistet, dass Ihr zusätzliche Rubine erhaltet, nachdem Ihr ein Paket gekauft habt, das ausschließlich Rubine enthält. Die Anzahl hängt von der Dauer des aktuellen Abonnements ab und richtet sich nur nach der Basismenge an gekauften Rubinen, ohne Boni.",
+    "dialog_subscriptionHelp_loyaltyGift_desc": "Ihr Treuegeschenk fügt jedem Rubinen-Paket, das Sie kaufen, außer den täglichen Bündeln, Bonusrubine hinzu. Der Bonusbetrag wächst mit der Dauer Ihres Abonnements und gilt für die gekauften Basisrubine.",
     "subscription_effect_loyaltyGift": "Erhaltet bis zu +{0} % mehr Rubine, wenn Ihr Pakete kauft, die ausschließlich Rubine enthalten.",
     "dialog_loyaltyGift_title": "Treuegeschenk",
     "dialog_loyaltyGift_desc": "Eure Treue wurde mit einem Rubingeschenk belohnt. \nDie Rubine wurden direkt in Eurem Inventar platziert.",
@@ -12792,7 +12796,19 @@
     "gachaPull_milestone_tooltip_amount_SummerGacha": "{0}/{1} Angebote",
     "helpPopup_SummerGacha": "Während die Sommersonne über die goldene Küste brennt, regt sich ein uraltes Wunder unter den Dünen. Eine lebendige Sandburg, geformt von vergessenen Gezeiten und gebunden durch Küstenmagie, erhebt sich mit stiller Majestät. Sie hält eine leuchtende Wassermelone in ihren sandigen Armen. Ein Artefakt, das mit mysteriöser Energie pulsiert, bekannt als die Wassermelone der Wunder. Doch die Burg wird ihre Schätze nicht kostenlos herausgeben. Sie hungert nach Wünsch-Orangen. Sonnenverwöhnte Früchte, die mit Hoffnung und Freude erfüllt sind und Glück denen gewähren sollen, die sie anbieten. Einige schmücken bereits die Türme der Burg und glänzen wie kleine Sonnen. Doch es werden mehr benötigt, um ihre Magie am Leben zu erhalten. Präsentieren Sie Ihre Wünsch-Orangen, und die Sandburg wird sich rühren. Sie erlaubt Ihnen, aus den Tiefen der Wassermelone zu schöpfen. Jeder Zug ist eine Chance, seltene Sommerrelikte, verzauberte Schmuckstücke und glitzernde Überraschungen zu entdecken, die von Zeit und Tide begraben wurden. Eine Rangliste verfolgt Ihre Großzügigkeit. Sie belohnt diejenigen, die am meisten geben. Fortschritte durch mehrere Eventebenen, um Ihre Chancen auf die seltensten Schätze zu erhöhen. Werden Sie die Gunst der Sandburg gewinnen? Oder lassen Sie die Sommermagie durch Ihre Finger gleiten?",
     "ranking_description_SummerGacha": "Bieten Sie die Sandburg-Wunschorangen an, und es werden die Schätze freigeschaltet, die im Wassermelonenwunder verborgen sind! Das Rangsystem verfolgt Ihren Fortschritt und gewährt Belohnungen für Erfolge basierend auf Ihrem Endstand.",
-    "title_SummerGacha": "Sande des Glücks"
+    "title_SummerGacha": "Sande des Glücks",
+    "dialog_CoA_unsavedChanges": "Sie haben ungespeicherte Änderungen. Möchten Sie trotzdem schließen?",
+    "dialog_alliance_chronic50": "Das Wappen des edlen Hauses wurde geändert",
+    "dialog_legendTemple_sceat_71": "Metzgerei",
+    "dialog_legendTemple_sceat_71_desc": "Schaltet die Metzgerei frei",
+    "webshop_fruitbasket_VIP_name": "VIP Obstkorb",
+    "webshop_fruitbasket_extralarge_name": "Zusätzlicher Obstkorb",
+    "webshop_fruitbasket_giant_name": "Riesenfrüchtekorb",
+    "webshop_fruitbasket_huge_name": "Riesen Obstkorb",
+    "webshop_fruitbasket_large_name": "Großer Obstkorb",
+    "webshop_fruitbasket_medium_name": "Mittlere Obstschale",
+    "webshop_fruitbasket_small_name": "Kleine Obstschale",
+    "webshop_giftsummer_name": "Sommerfest-Start"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% Einheit Kampfkraft beim Angreifen",
@@ -14141,7 +14157,8 @@
     "effect_description_unboostedMeadProductionCapped": "+{0} Metproduktion pro Stunde",
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% Rekrutierungsgeschwindigkeit",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% Flanken-Einheit-Limit beim Angreifen",
-    "effect_description_attackUnitAmountFrontCapped": "+{0}% Einheitenlimit vorne"
+    "effect_description_attackUnitAmountFrontCapped": "+{0}% Einheitenlimit vorne",
+    "ci_effect_beefCapacityBonus": "+{0} Lagerkapazität für Rindfleisch"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Held",

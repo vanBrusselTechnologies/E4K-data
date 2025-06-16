@@ -2075,7 +2075,11 @@
     "deco_ExaltedRedWaterSpiderTemple_name": "Templo exaltado da aranha vermelha dágua",
     "deco_exaltedGreenLavaScorpionTemple_name": "Templo do escorpião exaltado",
     "deco_exaltedPurpleLavaScorpionTemple_name": "Templo do escorpião púrpura exaltado",
-    "deco_exaltedRedLavaScorpionTemple_name": "Templo do escorpião exaltado"
+    "deco_exaltedRedLavaScorpionTemple_name": "Templo do escorpião exaltado",
+    "ci_blueprint_BeefStorageIncrease": "Projeto do item de construção de armazenamento de carne premium",
+    "ci_blueprint_RelicBeefStorageIncrease": "Projeto de armazenamento de carne bovina premium",
+    "ci_blueprint_RelicBeefStorageIncrease_premium": "Item de armazenamento de carne bovina premium",
+    "ci_primary_BeefStorageIncrease_premium": "Item de construção para armazenamento de carne premium"
   },
   "dialogs": {
     "dialog_festival_desc": "Use comida para organizar um banquete para os cidadãos! A velocidade de recrutamento aumentará consideravelmente em todos os seus castelos durante o banquete. Quanto maior o banquete, maior o efeito.",
@@ -8913,7 +8917,7 @@
     "dialog_expansionLoc_desc": "Aqui você pode ver todos os lugares onde você ainda pode construir uma extensão e onde já estendeu completamente. Use os botões para ir diretamente aos respectivos locais.",
     "ci_effect_elvenBakery": "+{0} ordem pública",
     "ci_effect_elvenResearchtower": "+{0} ordem pública",
-    "dialog_subscriptionHelp_loyaltyGift_desc": "O presente de lealdade garante que você receba uma quantidade adicional de rubis depois de fazer uma compra de qualquer pacote que contenha apenas rubis. A quantidade depende da duração da sua assinatura atual e só se aplica à quantidade básica de rubis comprada, excluindo os bônus.",
+    "dialog_subscriptionHelp_loyaltyGift_desc": "Seu presente de fidelidade adiciona rubis de bônus a qualquer pacote apenas de rubis que você comprar, excluindo pacotes diários. O valor do bônus aumenta com a duração da sua assinatura e se aplica aos rubis base adquiridos.",
     "subscription_effect_loyaltyGift": "Receba até +{0}% rubis quando comprar pacotes que contenham apenas rubis.",
     "dialog_loyaltyGift_title": "Presente de lealdade",
     "dialog_loyaltyGift_desc": "Você recebeu rubis como presente por sua lealdade. \nOs rubis foram enviados diretamente para o seu inventário.",
@@ -12792,7 +12796,19 @@
     "gachaPull_milestone_tooltip_amount_SummerGacha": "{0}/{1} Ofertas",
     "helpPopup_SummerGacha": "Enquanto o sol de verão brilha sobre a costa dourada, uma antiga maravilha se agita sob as dunas. Um castelo de areia vivo, esculpido por marés esquecidas e ligado pela magia do mar, ergue-se com silenciosa majestade. Ele abraça uma melancia brilhante em seus braços arenosos. Um artefato pulsando com energia misteriosa, conhecido como a Melancia das Maravilhas. Mas o castelo não cederá seus tesouros de graça. Ele anseia por Laranjas dos Desejos. Frutas beijadas pelo sol, infundidas com esperança e alegria, que dizem trazer sorte àqueles que as oferecem. Algumas já adornam as torres do castelo, brilhando como pequenos sóis. Mas mais são necessárias para manter sua magia viva. Apresente suas Laranjas dos Desejos, e o castelo de areia se agitará. Ele permitirá que você extraia das profundezas da melancia. Cada puxada é uma chance de descobrir relíquias raras de verão, trinkets encantados e surpresas cintilantes enterradas pelo tempo e pela maré. Um quadro de classificação rastreia sua generosidade. Ele recompensa aqueles que mais dão. Progrida por vários níveis de eventos para aumentar suas chances de ganhar os tesouros mais raros. Você conquistará a favor do castelo de areia? Ou deixará a magia do verão escorregar por seus dedos?",
     "ranking_description_SummerGacha": "Ofereça as Laranjas dos Desejos do Castelo de Areia, e isso desbloqueará os tesouros escondidos dentro da Melancia das Maravilhas! O sistema de classificação acompanhará seu progresso, concedendo recompensas por conquistas com base em sua classificação final.",
-    "title_SummerGacha": "Areias da fortuna"
+    "title_SummerGacha": "Areias da fortuna",
+    "dialog_CoA_unsavedChanges": "Você tem alterações não salvas, deseja fechar mesmo assim?",
+    "dialog_alliance_chronic50": "O brasão da casa nobre foi alterado",
+    "dialog_legendTemple_sceat_71": "Açougue",
+    "dialog_legendTemple_sceat_71_desc": "Desbloqueia o Açougue",
+    "webshop_fruitbasket_VIP_name": "Cesta de frutas VIP",
+    "webshop_fruitbasket_extralarge_name": "Cesta de frutas extra",
+    "webshop_fruitbasket_giant_name": "Cesta de frutas gigante",
+    "webshop_fruitbasket_huge_name": "Grande cesta de frutas",
+    "webshop_fruitbasket_large_name": "Grande cesta de frutas",
+    "webshop_fruitbasket_medium_name": "Cesta de frutas média",
+    "webshop_fruitbasket_small_name": "Pequena cesta de frutas",
+    "webshop_giftsummer_name": "Início da festa de verão"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% de força de combate da unidade ao atacar",
@@ -14141,7 +14157,8 @@
     "effect_description_unboostedMeadProductionCapped": "+{0} de produção de hidromel por hora",
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% velocidade de recrutamento",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% limite da unidade de flanco ao atacar",
-    "effect_description_attackUnitAmountFrontCapped": "+{0}% limite de unidades na frente"
+    "effect_description_attackUnitAmountFrontCapped": "+{0}% limite de unidades na frente",
+    "ci_effect_beefCapacityBonus": "+{0} capacidade de armazenamento de carne bovina"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Herói",
