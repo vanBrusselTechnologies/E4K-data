@@ -2079,7 +2079,12 @@
     "ci_blueprint_BeefStorageIncrease": "プレミアムビーフストレージビルドアイテムの設計図",
     "ci_blueprint_RelicBeefStorageIncrease": "プレミアムビーフ保管建設アイテムの設計図",
     "ci_blueprint_RelicBeefStorageIncrease_premium": "プレミアムビーフ収納ビルドアイテム",
-    "ci_primary_BeefStorageIncrease_premium": "プレミアムビーフ保管用建設アイテム"
+    "ci_primary_BeefStorageIncrease_premium": "プレミアムビーフ保管用建設アイテム",
+    "butchershop_name": "肉屋",
+    "butchershop_short_info": "城内のすべての牛の農場の生産性を向上させます",
+    "butchershop_upgrade_info": "城内のすべての畜産農場の生産性ボーナスを増加させる",
+    "ci_blueprint_BeefCapacityBonus_secondary_premium": "プレミアムレリックビーフ保管の設計図",
+    "ci_secondary_BeefCapacityBonus_premium": "プレミアムビーフ保管用建設アイテム"
   },
   "dialogs": {
     "dialog_festival_desc": "食料を集めて宴会を開きましょう！\n宴会が続く限り、兵の雇用スピードがすべての城で速くなります。宴会が豪華になるほど、効果も大きくなります。",
@@ -12808,7 +12813,8 @@
     "webshop_fruitbasket_large_name": "大きな果物バスケット",
     "webshop_fruitbasket_medium_name": "中サイズのフルーツバスケット",
     "webshop_fruitbasket_small_name": "小さな果物のバスケット",
-    "webshop_giftsummer_name": "夏のパーティースタート"
+    "webshop_giftsummer_name": "夏のパーティースタート",
+    "ci_effect_beefCapacityBonus_tt": "牛肉の保管ボーナス："
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% ユニットの攻撃時の戦闘力",
@@ -14158,7 +14164,32 @@
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% 雇用スピード",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% 側面ユニット制限の攻撃時",
     "effect_description_attackUnitAmountFrontCapped": "+{0}% ユニット制限（前面）",
-    "ci_effect_beefCapacityBonus": "+{0} 牛肉の貯蔵能力"
+    "ci_effect_beefCapacityBonus": "+{0} 牛肉の貯蔵能力",
+    "equip_effect_description_allianceAttack": "+{0} 攻撃時の戦闘力。費用は同盟資金で支払われます。",
+    "equip_effect_description_allianceAttackBoost": "+{0}% 攻撃に対する戦闘力ボーナス",
+    "equip_effect_description_allianceAttackBoostAliens": "+{0}% 外国および血のカラス城に対する戦闘力ボーナス",
+    "equip_effect_description_allianceAttackBoostDaimyo": "+{0}% 大名の城に対する戦闘力ボーナス",
+    "equip_effect_description_allianceDaimyoCooldownReduction": "-{0}% 攻撃可能になるまでの待ち時間（大名城）",
+    "equip_effect_description_allianceDefenseBoost": "+{0}% 防御のための戦闘力ボーナス",
+    "equip_effect_description_allianceKhanCooldownReduction": "-{0}% 攻撃クールダウン（カーンキャンプ用）",
+    "equip_effect_description_allianceNomadCooldownReduction": "-{0}% ノマドキャンプの攻撃クールダウン",
+    "equip_effect_description_allianceRageBoost": "+{0}% ハーンキャンプ攻撃時の怒りボーナス",
+    "equip_effect_description_allianceSamuraiCooldownReduction": "-{0}% サムライキャンプの攻撃クールダウン",
+    "equip_effect_description_attackBonusUnitNomad": "+{0} ノマドおよびカーンキャンプを攻撃する際の戦闘力",
+    "equip_effect_description_battleXPBonus": "+{0}% XP 戦闘で獲得",
+    "equip_effect_description_coinLootBoost": "+{0}% NPCターゲットから略奪したコイン",
+    "equip_effect_description_coinLootBoostNomad": "+{0}% ノマドから奪ったコイン",
+    "equip_effect_description_coinLootBoostSamurai": "+{0}% サムライから奪ったコイン",
+    "equip_effect_description_cooldownReductionKhan": "-{0}% ハーンキャンプに対する攻撃クールダウン",
+    "equip_effect_description_cooldownReductionNomad": "-{0}% ノマドキャンプへの攻撃クールダウン",
+    "equip_effect_description_cooldownReductionSamurai": "-{0}% サムライキャンプに対する攻撃の待機時間",
+    "equip_effect_description_fameBoost": "+{0}% 攻撃の栄光ボーナス",
+    "equip_effect_description_strongerPeasant": "武装市民を民兵に置き換えます",
+    "equip_effect_description_unitSpeedBoost": "+{0}% 軍事、スパイ活動、貿易の移動スピード",
+    "equip_effect_description_FireBrigadeBoostBuilding": "-{0}%の火災被害を受けました",
+    "equip_effect_description_SightRadiusBonus": "+{0}% 視界半径",
+    "equip_effect_description_SurvivalBoost": "+{0}% 防御後の生存者兵士が増加",
+    "equip_effect_description_xpBoost": "+{0} 獲得したすべての経験値にボーナス"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "英雄",
@@ -20271,7 +20302,15 @@
     "generals_characters_124_name": "アシラ",
     "generals_characters_124_narrative": "オオカミの囁き手\n\n「野生の呼び声がすべて応えるためにあるわけではない。しかし、十分に耳を傾ければ、土地はあなたに道を示してくれる。」\n\n西海岸の霧に包まれた熱帯雨林の中、木々が古代の秘密を囁き、獣たちが影のように動く場所に、アシラという名前だけで知られる孤独な存在が歩いている。彼女は狩人であり、守護者であり、多くの人にとっての謎であり、自然の静かな声であり、猛烈な守護者である。\n\n森の奥深くにある村で育ったアシラは、話すよりも聞くこと、攻撃するよりも見守ることを教えられた。彼女の一族は森に精霊が宿ると信じており、アシラは誰よりもその声を聞くことができた。動物たちは彼女の存在に対して異常な信頼を示し、時間が経つにつれて、他の者が恐れていた生き物たちと絆を結んだ。幼馴染のレオと共にいる大鷹アヤラは、彼女が呼んだ時に助けに来る。オオカミたちは彼女の横で走り、ペットとしてではなく、同盟者として、彼女の合図が出されたときに草むらから襲う準備をしている。\n\n長弓と強化された矢を持つアシラの精度は比類がない。力任せに頼る者たちの中で、彼女は忍耐と本能に手を委ねる。無敵と考えられていた獣たちも、彼女の弓からの一矢によって倒れた。彼女の戦術は、彼女が故郷と呼ぶ森のように流動的であり、影から襲いかかり、緑の中に消え、疲れを知らない待ち伏せで侵入者を弱らせる。彼女は軍隊を必要とせず、ただ土地とその中に住む生き物たちがあればいい。\n\n彼女の心は帝国の残酷さに対する反乱の鼓動を打っているが、彼女は王冠や栄光のために戦っているわけではない。野生のバランスが脅かされたとき、アシラは前に出る。助けを必要とする者たちのために、彼女は静かな見張りとなり、森から現れて無力な者たちを守り、不自然なものを追い返す。彼女の力は数にあるのではなく、勇気、直感、そして自然界との揺るぎない絆にある。\n\n彼女はある人にとっては幽霊であり、他の人にとっては神話である。しかし、彼女の戦う姿を見たことがある者、または彼女の慈悲によって助けられた者にとって、彼女は伝説である。アシラ、オオカミの囁き手は、自然の野生の魂であり、自然の防衛のために引かれた弓の弦であり、最も柔らかな声でさえも土地が呼ぶ時には雷のごとく衝撃を与えることができるということを思い出させる存在である。",
     "generals_characters_124_summary": "静かな狩人と野生の激しい守護者。",
-    "currency_description_Orange": "真夏の魔法で溢れる願いのオレンジは、太陽の守護者に大切にされています。ミッドサマーミラージュイベント中に提供して、輝かしい報酬を解放しましょう！"
+    "currency_description_Orange": "真夏の魔法で溢れる願いのオレンジは、太陽の守護者に大切にされています。ミッドサマーミラージュイベント中に提供して、輝かしい報酬を解放しましょう！",
+    "currency_description_AllianceCoin": "団結した力の象徴。グランドトーナメントのクエストを完了するために使用します。ショップで購入するか、一部のアライアンスイベントで報酬として獲得できます。新しいアライアンスの挑戦が出現するにつれて、その価値は高まります。",
+    "currency_name_AllianceCoin": "アライアンスコイン",
+    "effect_name_fameBoost": "栄光ポイント",
+    "effect_name_fireBrigadeBoostBuilding": "火によるダメージを減少させる",
+    "effect_name_sightRadiusBonus": "拡張視野",
+    "effect_name_survivalBoost": "生存する割合",
+    "effect_name_xpBoost": "獲得したすべての経験値に対するボーナス",
+    "beefbooster": "牛肉生産ブースター"
   },
   "help": {
     "help_location": "ここから、城や基地の\n重要な情報を見ることができます。",

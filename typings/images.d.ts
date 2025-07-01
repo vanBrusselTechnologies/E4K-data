@@ -502,6 +502,11 @@ export interface Images {
     "Buildinglot_Moat_Part_Detail2_Dir2_Faction": ImageData;
     "Buildinglot_Moat_Part_Detail2_Icecream": ImageData;
     "Buildinglot_Moat_Part_Detail2_Volcano": ImageData;
+    "ButcherShop_Building_Level1": ImageData;
+    "ButcherShop_Building_Level2": ImageData;
+    "ButcherShop_Building_Level3": ImageData;
+    "ButcherShop_Building_Level4": ImageData;
+    "ButcherShop_Building_Level5": ImageData;
     "Camp_BackWall_Left_Faction": ImageData;
     "Camp_BackWall_Left_FactionColour_Blue": ImageData;
     "Camp_BackWall_Left_FactionColour_Red": ImageData;
@@ -4293,6 +4298,8 @@ export interface Images {
     "SceatSkill_7": ImageData;
     "SceatSkill_70": ImageData;
     "SceatSkill_70_xl": ImageData;
+    "SceatSkill_71": ImageData;
+    "SceatSkill_71_xl": ImageData;
     "SceatSkill_7_xl": ImageData;
     "SceatSkill_8": ImageData;
     "SceatSkill_8_xl": ImageData;
@@ -4911,6 +4918,7 @@ export interface Images {
     "generals_cutscene_2": ImageData;
     "giantsForestWoodcutter": ImageData;
     "giantsForestlumbermill": ImageData;
+    "global_primetime_background_IndependenceDay2024": ImageData;
     "global_primetime_background_Spring2024": ImageData;
     "global_primetime_background_StPatricksDay2025": ImageData;
     "global_primetime_background_SummerJun2024": ImageData;
@@ -4920,6 +4928,7 @@ export interface Images {
     "global_primetime_background_generic2": ImageData;
     "global_primetime_background_generic3": ImageData;
     "global_primetime_hub_teaser_Carnival2025": ImageData;
+    "global_primetime_hub_teaser_IndependenceDay2024": ImageData;
     "global_primetime_hub_teaser_Spring2024": ImageData;
     "global_primetime_hub_teaser_StPatricksDay2025": ImageData;
     "global_primetime_hub_teaser_SummerJuly2024": ImageData;
@@ -4930,6 +4939,7 @@ export interface Images {
     "global_primetime_hub_teaser_generic2": ImageData;
     "global_primetime_hub_teaser_generic3": ImageData;
     "global_primetime_teaser_Carnival2025": ImageData;
+    "global_primetime_teaser_IndependenceDay2024": ImageData;
     "global_primetime_teaser_Spring2024": ImageData;
     "global_primetime_teaser_StPatricksDay2025": ImageData;
     "global_primetime_teaser_SummerJuly2024": ImageData;
@@ -5096,7 +5106,9 @@ export interface Images {
     "icon_alliance_battle_ground_small": ImageData;
     "icon_alliance_battle_ground_xl": ImageData;
     "icon_alliance_coa": ImageData;
+    "icon_alliance_coa_small": ImageData;
     "icon_alliance_coa_tab": ImageData;
+    "icon_alliance_coa_xxs": ImageData;
     "icon_alliance_help_pay_rubies": ImageData;
     "icon_alliance_members_small": ImageData;
     "icon_alliance_open": ImageData;
@@ -5106,8 +5118,11 @@ export interface Images {
     "icon_alliance_ranking_xl": ImageData;
     "icon_alliance_small": ImageData;
     "icon_alliance_timeboost": ImageData;
+    "icon_alliance_xxs": ImageData;
     "icon_alliancemove_tab": ImageData;
     "icon_alliancerequest": ImageData;
+    "icon_ame_event_tab": ImageData;
+    "icon_ame_rules_tab": ImageData;
     "icon_aquamarine_storage": ImageData;
     "icon_aquamarine_storage_ds_big": ImageData;
     "icon_aquamarine_storage_small": ImageData;
@@ -5140,6 +5155,7 @@ export interface Images {
     "icon_autoskip_costs": ImageData;
     "icon_autoskip_costs_big": ImageData;
     "icon_autumn": ImageData;
+    "icon_beef_storage_big": ImageData;
     "icon_berimond": ImageData;
     "icon_berimond_castle": ImageData;
     "icon_berimond_earningrewards": ImageData;
@@ -5888,6 +5904,11 @@ export interface Images {
     "icon_currency_PrincessToken_medium": ImageData;
     "icon_currency_PrincessToken_medium_ds": ImageData;
     "icon_currency_PrincessToken_small": ImageData;
+    "icon_currency_QuestTicket": ImageData;
+    "icon_currency_QuestTicket_big": ImageData;
+    "icon_currency_QuestTicket_medium": ImageData;
+    "icon_currency_QuestTicket_small": ImageData;
+    "icon_currency_QuestTicket_xl": ImageData;
     "icon_currency_RampartDoubloon": ImageData;
     "icon_currency_RampartDoubloon_medium": ImageData;
     "icon_currency_RampartDoubloon_small": ImageData;
@@ -6370,6 +6391,7 @@ export interface Images {
     "icon_effect_fameOffenseBonus": ImageData;
     "icon_effect_fireBoost": ImageData;
     "icon_effect_fireBrigadeBonus": ImageData;
+    "icon_effect_fireBrigadeBoost": ImageData;
     "icon_effect_foodCapacityBonus": ImageData;
     "icon_effect_foodProductionBonus": ImageData;
     "icon_effect_foodProductionBoost": ImageData;
@@ -6419,6 +6441,7 @@ export interface Images {
     "icon_effect_researchBoost": ImageData;
     "icon_effect_returnTravelBoost": ImageData;
     "icon_effect_returnTravelBoostPVP": ImageData;
+    "icon_effect_sightRadiusBonus": ImageData;
     "icon_effect_simultaneousConstruction": ImageData;
     "icon_effect_smashChance": ImageData;
     "icon_effect_speedBonus": ImageData;
@@ -6431,6 +6454,7 @@ export interface Images {
     "icon_effect_stoneProductionBoost": ImageData;
     "icon_effect_supportSpeedBonus": ImageData;
     "icon_effect_supportTravelCostReduction": ImageData;
+    "icon_effect_survivalBoost": ImageData;
     "icon_effect_toolProductionSpeedBoostAll": ImageData;
     "icon_effect_toolProductionTimeBonus": ImageData;
     "icon_effect_travelCostReduction": ImageData;
@@ -6443,6 +6467,7 @@ export interface Images {
     "icon_effect_watchtower": ImageData;
     "icon_effect_woodProduction": ImageData;
     "icon_effect_woodProductionBoost": ImageData;
+    "icon_effect_xpBoost": ImageData;
     "icon_enemy_tab": ImageData;
     "icon_enhance_probability_b": ImageData;
     "icon_enhance_probability_b_medium": ImageData;
@@ -7032,7 +7057,9 @@ export interface Images {
     "icon_generic_village_small": ImageData;
     "icon_ggs_gift": ImageData;
     "icon_global_effect": ImageData;
+    "icon_global_effect_small": ImageData;
     "icon_global_effect_xl": ImageData;
+    "icon_global_effect_xxs": ImageData;
     "icon_global_leaderboard_ranking_ds": ImageData;
     "icon_global_leaderboard_ranking_small": ImageData;
     "icon_global_ranking": ImageData;
@@ -7279,6 +7306,7 @@ export interface Images {
     "icon_mead_storage_ds_big": ImageData;
     "icon_mead_storage_small": ImageData;
     "icon_mead_storage_xs": ImageData;
+    "icon_medico_effect": ImageData;
     "icon_meleeattackpower": ImageData;
     "icon_memberslist_small": ImageData;
     "icon_message_advisor_nomad": ImageData;
@@ -7395,6 +7423,8 @@ export interface Images {
     "icon_playerResetTime_big": ImageData;
     "icon_playerResetTime_medium": ImageData;
     "icon_playerResetTime_small": ImageData;
+    "icon_player_crest_small": ImageData;
+    "icon_player_crest_xxs": ImageData;
     "icon_plus_f": ImageData;
     "icon_points": ImageData;
     "icon_points_event_score_0": ImageData;
@@ -7462,10 +7492,12 @@ export interface Images {
     "icon_rage_booster": ImageData;
     "icon_ranking": ImageData;
     "icon_ranking_big": ImageData;
+    "icon_ranking_ds": ImageData;
     "icon_ranking_medium": ImageData;
     "icon_ranking_point_medium": ImageData;
     "icon_ranking_point_small": ImageData;
     "icon_ranking_rewards_ds": ImageData;
+    "icon_ranking_rewards_ds_small": ImageData;
     "icon_ranking_small": ImageData;
     "icon_refresh_white": ImageData;
     "icon_reinforcedvault_small": ImageData;
@@ -7666,6 +7698,8 @@ export interface Images {
     "icon_stronghold_small": ImageData;
     "icon_stronghold_xs": ImageData;
     "icon_subscription_loyalty": ImageData;
+    "icon_subscription_star_small": ImageData;
+    "icon_subscription_star_xxs": ImageData;
     "icon_summer_event": ImageData;
     "icon_support_medium_ds": ImageData;
     "icon_support_tent": ImageData;
@@ -7785,6 +7819,8 @@ export interface Images {
     "icon_usa": ImageData;
     "icon_valentine": ImageData;
     "icon_versus": ImageData;
+    "icon_villages_small": ImageData;
+    "icon_villages_xxs": ImageData;
     "icon_vulcano": ImageData;
     "icon_vulcano_paper_dark": ImageData;
     "icon_war_effort": ImageData;
@@ -7798,6 +7834,7 @@ export interface Images {
     "icon_wof_sales_day_xl": ImageData;
     "icon_wof_spin": ImageData;
     "icon_xp_booster": ImageData;
+    "icon_xp_paragon_booster_stat": ImageData;
     "icons_hud_supersale": ImageData;
     "items_common_armor_0": ImageData;
     "items_common_armor_1": ImageData;

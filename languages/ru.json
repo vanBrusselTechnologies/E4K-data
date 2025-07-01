@@ -2079,7 +2079,12 @@
     "ci_blueprint_BeefStorageIncrease": "Чертеж элемента постройки для хранения премиум говядины",
     "ci_blueprint_RelicBeefStorageIncrease": "Чертеж премиум-хранения говядины",
     "ci_blueprint_RelicBeefStorageIncrease_premium": "Премиум элемент хранения говядины",
-    "ci_primary_BeefStorageIncrease_premium": "Элемент строительства для хранения премиум говядины"
+    "ci_primary_BeefStorageIncrease_premium": "Элемент строительства для хранения премиум говядины",
+    "butchershop_name": "Мясная лавка",
+    "butchershop_short_info": "Увеличивает продуктивность всех скотоводческих ферм в замке",
+    "butchershop_upgrade_info": "Увеличивает бонус производительности всех молочных ферм в замке",
+    "ci_blueprint_BeefCapacityBonus_secondary_premium": "Чертеж хранения премиум реликвий из говядины",
+    "ci_secondary_BeefCapacityBonus_premium": "Элемент строительства для хранения премиум говядины"
   },
   "dialogs": {
     "dialog_festival_desc": "Используй еду, чтобы устроить пир для твоих горожан! Во время проведения пира, скорость найма во всех твоих замках заметно увеличится. Чем больше пир, тем больше эффект.",
@@ -12808,7 +12813,8 @@
     "webshop_fruitbasket_large_name": "Большая фруктовая корзина",
     "webshop_fruitbasket_medium_name": "Средняя фруктовая корзина",
     "webshop_fruitbasket_small_name": "Маленькая фруктовая корзина",
-    "webshop_giftsummer_name": "Начало летней вечеринки"
+    "webshop_giftsummer_name": "Начало летней вечеринки",
+    "ci_effect_beefCapacityBonus_tt": "Бонус за хранение говядины:"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% боевой мощи юнита при атаке",
@@ -14158,7 +14164,32 @@
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% скорость найма",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% лимит фланговой единицы при атаке",
     "effect_description_attackUnitAmountFrontCapped": "+{0}% лимит единиц спереди",
-    "ci_effect_beefCapacityBonus": "+{0} вместительность хранения говядины"
+    "ci_effect_beefCapacityBonus": "+{0} вместительность хранения говядины",
+    "equip_effect_description_allianceAttack": "+{0} боевое усиление при атаке. Расходы покрываются за счет средств альянса.",
+    "equip_effect_description_allianceAttackBoost": "+{0}% Бонус боевой мощи для атак",
+    "equip_effect_description_allianceAttackBoostAliens": "+{0}% Бонус боевой силы против иностранных и замков Bloodcrow",
+    "equip_effect_description_allianceAttackBoostDaimyo": "+{0}% Бонус к боевой мощи против замков даймё",
+    "equip_effect_description_allianceDaimyoCooldownReduction": "-{0}% Время отдыха после атаки для замков даймё",
+    "equip_effect_description_allianceDefenseBoost": "+{0}% Бонус к боевой мощи для защиты",
+    "equip_effect_description_allianceKhanCooldownReduction": "-{0}% Время восстановления атаки для лагерей хана",
+    "equip_effect_description_allianceNomadCooldownReduction": "-{0}% Время перезарядки атаки для кочевнических лагерей",
+    "equip_effect_description_allianceRageBoost": "+{0}% Бонус ярости за атаку на лагеря хана",
+    "equip_effect_description_allianceSamuraiCooldownReduction": "-{0}% Время восстановления атаки для самурайских лагерей",
+    "equip_effect_description_attackBonusUnitNomad": "+{0} боевой мощи при атаке на кочевников и лагеря хана",
+    "equip_effect_description_battleXPBonus": "+{0}% XP заработано в бою",
+    "equip_effect_description_coinLootBoost": "+{0}% монет, украденных у NPC-целей",
+    "equip_effect_description_coinLootBoostNomad": "+{0}% монет, похищенных у кочевников",
+    "equip_effect_description_coinLootBoostSamurai": "+{0}% монет, украденных у самурая",
+    "equip_effect_description_cooldownReductionKhan": "-{0}% Время восстановления атаки против лагерей хана",
+    "equip_effect_description_cooldownReductionNomad": "-{0}% Время восстановления атаки против кочевых лагерей",
+    "equip_effect_description_cooldownReductionSamurai": "-{0}% Время отдыха после атаки на лагеря самураев",
+    "equip_effect_description_fameBoost": "+{0}% Бонус к славе за атаки",
+    "equip_effect_description_strongerPeasant": "Заменяет вооруженного гражданина на милицию",
+    "equip_effect_description_unitSpeedBoost": "+{0}% Скорость перемещения армии, шпионажа и торговли",
+    "equip_effect_description_FireBrigadeBoostBuilding": "-{0}% полученного урона от огня",
+    "equip_effect_description_SightRadiusBonus": "+{0}% радиус обзора",
+    "equip_effect_description_SurvivalBoost": "+{0}% больше выживших солдат после защиты",
+    "equip_effect_description_xpBoost": "+{0} Бонус ко всем полученным очкам опыта"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Герой",
@@ -20271,7 +20302,15 @@
     "generals_characters_124_name": "Ашира",
     "generals_characters_124_narrative": "Волк Шептун &quot;Не каждый зов дикой природы предназначен для ответа, но если вы будете слушать достаточно внимательно, земля покажет вам свой путь.&quot; В туманных тропических лесах западного побережья, где деревья шепчут древние тайны, а звери движутся как тени, идет одинокая фигура, известная лишь как Ашира, Волк Шептун. Охотник, хранитель, загадка для многих, она является молчаливым голосом дикой природы и ее яростным защитником. Выросшая в деревне, укрытой глубоко в лесу, Аширу научили слушать, а не говорить, наблюдать, а не наносить удары. Ее родные верили, что в лесу есть дух, и Ашира, больше чем кто-либо, могла слышать его голос. Животные реагировали на ее присутствие необычным доверием, и со временем она завела связи с существами, которых другие боялись. Великий сокол Айала, спутник ее детского друга Лео, приходит ей на помощь, когда ее вызывают. Волки бегут рядом с ней, не как домашние животные, а как союзники, готовые атаковать из подлеска, когда она подает сигнал. Вооруженная длинным луком и усиленными стрелами, точность Аширы не имеет равных. Где другие полагаются на грубую силу, она позволяет терпению и инстинкту вести свою руку. Даже звери, считавшиеся непобедимыми, падали от единственной стрелы из ее лука. Ее тактика столь же гибка, как и лес, который она считает своим домом, нанося удары из теней, исчезая в зелени и изматывая захватчиков безустанными засадами. Ей не нужна армия, только земля и существа, обитающие в ней. Хотя ее сердце бьется с восстанием против жестокости империй, она не сражается за короны или славу. Когда баланс дикой природы находится под угрозой, Ашира выходит вперед. Для тех, кто в нужде, она становится молчаливым стражем, выходя из леса, чтобы защитить беззащитных и отогнать ненормальное. Ее сила не в числах, а в мужестве, интуиции и непоколебимой связи, которую она разделяет с природным миром. Для одних она призрак. Для других миф. Но для тех, кто видел, как она сражается, или был спасен ее милостью, она легенда. Ашира, Волк Шептун, является дикой душой природы, натянутой тетивой в защиту природы и напоминанием, что даже самый тихий голос может ударить с громом, когда сама земля зовет.",
     "generals_characters_124_summary": "Тихий охотник и яростный защитник дикой природы.",
-    "currency_description_Orange": "Оранжевые желания, наполненные магией середины лета, ценятся Солнцезащитником. Предлагайте их во время события Midsummer Mirage, чтобы разблокировать сияющие награды!"
+    "currency_description_Orange": "Оранжевые желания, наполненные магией середины лета, ценятся Солнцезащитником. Предлагайте их во время события Midsummer Mirage, чтобы разблокировать сияющие награды!",
+    "currency_description_AllianceCoin": "Символ единой силы. Используйте их для выполнения квестов Великого турнира. Их можно купить в магазине или выиграть в некоторых событиях альянса. Их ценность будет расти по мере появления новых вызовов альянса.",
+    "currency_name_AllianceCoin": "Монета альянса",
+    "effect_name_fameBoost": "Очки славы",
+    "effect_name_fireBrigadeBoostBuilding": "Снижает урон от огня",
+    "effect_name_sightRadiusBonus": "Расширенное поле зрения",
+    "effect_name_survivalBoost": "Процент выживших",
+    "effect_name_xpBoost": "Бонус за все полученные очки опыта",
+    "beefbooster": "Усилитель производства говядины"
   },
   "help": {
     "help_location": "Здесь представлен глобальный обзор важного содержимого твоего замка и всех твоих аванпостов.",
@@ -24783,7 +24822,7 @@
     "EnormousNomadTabletChest_short_info": "Увеличивает объем разграбленных тобой ханских пайцзыней",
     "EnormousSamuraiTokenChest_name": "Огромный сундук жетонов самураев",
     "enormousSamuraiTokenChest_short_info": "Увеличивает количество собираемых самурайских жетонов",
-    "GiantNomadTabletChest_name": "Уральский овраг",
+    "GiantNomadTabletChest_name": "Огромный сундук табличек кочевников",
     "GiantSamuraiTokenChest_name": "Сундук с огромными жетонами воина-самурая",
     "GiantSamuraiTokenChest_short_info": "Позволяет сильно повысить уровень награды и обреля сведений об Осадном башмаке черного вора!",
     "HighKingsBanner_name": "Знамя властителя",

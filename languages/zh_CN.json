@@ -2079,7 +2079,12 @@
     "ci_blueprint_BeefStorageIncrease": "高级牛肉存储建筑物品蓝图",
     "ci_blueprint_RelicBeefStorageIncrease": "高级牛肉存储建筑物品蓝图",
     "ci_blueprint_RelicBeefStorageIncrease_premium": "高级牛肉存储建筑物品",
-    "ci_primary_BeefStorageIncrease_premium": "高级牛肉储存建筑物品"
+    "ci_primary_BeefStorageIncrease_premium": "高级牛肉储存建筑物品",
+    "butchershop_name": "肉店",
+    "butchershop_short_info": "提高城堡内所有牛场的生产力",
+    "butchershop_upgrade_info": "提高城堡中所有牛场的生产力奖励",
+    "ci_blueprint_BeefCapacityBonus_secondary_premium": "高级遗物牛肉储存蓝图",
+    "ci_secondary_BeefCapacityBonus_premium": "高级牛肉存储建筑物品"
   },
   "dialogs": {
     "dialog_festival_desc": "用食物请您的市民大餐一顿吧！宴会持续期间，您所有城堡的招募速度会大大提高。宴会越丰盛，效果越好。",
@@ -12808,7 +12813,8 @@
     "webshop_fruitbasket_large_name": "大水果篮",
     "webshop_fruitbasket_medium_name": "中等水果篮",
     "webshop_fruitbasket_small_name": "小水果篮",
-    "webshop_giftsummer_name": "夏季派对开始"
+    "webshop_giftsummer_name": "夏季派对开始",
+    "ci_effect_beefCapacityBonus_tt": "牛肉储存奖励："
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% 单位在攻击时的战斗力",
@@ -14158,7 +14164,32 @@
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% 招募速度",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% 侧翼单位攻击限制",
     "effect_description_attackUnitAmountFrontCapped": "+{0}% 单位限制在前面",
-    "ci_effect_beefCapacityBonus": "+{0} 牛肉储存容量"
+    "ci_effect_beefCapacityBonus": "+{0} 牛肉储存容量",
+    "equip_effect_description_allianceAttack": "+{0} 攻击时的战斗力。费用由联盟资金支付。",
+    "equip_effect_description_allianceAttackBoost": "+{0}% 攻击的战斗力加成",
+    "equip_effect_description_allianceAttackBoostAliens": "+{0}% 对外国和血鸦城堡的战斗力加成",
+    "equip_effect_description_allianceAttackBoostDaimyo": "+{0}% 对大名城堡的战斗力加成",
+    "equip_effect_description_allianceDaimyoCooldownReduction": "-{0}% 大名城堡的攻击冷却时间",
+    "equip_effect_description_allianceDefenseBoost": "+{0}% 防御的战斗力奖励",
+    "equip_effect_description_allianceKhanCooldownReduction": "-{0}% 攻击冷却时间（针对可汗营地）",
+    "equip_effect_description_allianceNomadCooldownReduction": "-{0}% 游牧营地的攻击冷却时间",
+    "equip_effect_description_allianceRageBoost": "+{0}% 攻击可汗营地的愤怒加成",
+    "equip_effect_description_allianceSamuraiCooldownReduction": "-{0}% 攻击冷却时间为武士营地",
+    "equip_effect_description_attackBonusUnitNomad": "+{0} 攻击游牧民和可汗营地时的战斗力",
+    "equip_effect_description_battleXPBonus": "+{0}% 战斗中获得的经验值",
+    "equip_effect_description_coinLootBoost": "+{0}% 从NPC目标抢劫的金币",
+    "equip_effect_description_coinLootBoostNomad": "+{0}% 从游牧民那里抢劫的金币",
+    "equip_effect_description_coinLootBoostSamurai": "+{0}% 从武士那里掠夺的金币",
+    "equip_effect_description_cooldownReductionKhan": "-{0}% 针对可汗营地的攻击冷却时间",
+    "equip_effect_description_cooldownReductionNomad": "-{0}% 攻击冷却时间针对游牧营地",
+    "equip_effect_description_cooldownReductionSamurai": "-{0}% 攻击冷却时间针对武士营地",
+    "equip_effect_description_fameBoost": "+{0}% 攻击的荣耀加成",
+    "equip_effect_description_strongerPeasant": "用民兵替换武装公民",
+    "equip_effect_description_unitSpeedBoost": "+{0}% 军事、间谍和贸易旅行速度",
+    "equip_effect_description_FireBrigadeBoostBuilding": "-{0}% 受到的火焰伤害",
+    "equip_effect_description_SightRadiusBonus": "+{0}% 视野半径",
+    "equip_effect_description_SurvivalBoost": "+{0}% 更多生存士兵在防御后",
+    "equip_effect_description_xpBoost": "+{0} 所有获得经验值的奖金"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "英雄",
@@ -20271,7 +20302,15 @@
     "generals_characters_124_name": "阿希拉",
     "generals_characters_124_narrative": "狼的低语者 &quot;并不是每一个来自荒野的呼唤都值得回应，但如果你仔细倾听，土地会向你展示它的道路。&quot; 在西海岸薄雾笼罩的雨林中，树木低语着古老的秘密，野兽如同影子般移动，一个孤独的身影走过，她被人们称为阿希拉，狼的低语者。猎人，守护者，对许多人来说是个谜，她是野性的无声之声和激烈的捍卫者。 阿希拉在一座深藏于森林中的村庄长大，她被教导要倾听而非言语，要观察而非攻击。她的亲人相信森林有灵魂，而阿希拉比任何人都更能听到它的声音。动物们对她的存在表现出不同寻常的信任，随着时间的推移，她与其他人所畏惧的生物建立了联系。伟大的猎鹰阿雅拉，她儿时的朋友里奥的伙伴，在被召唤时前来帮助她。狼在她身边奔跑，不是作为宠物，而是作为盟友，准备在她发出信号时从灌木丛中发起攻击。 阿希拉手持长弓和强化箭矢，她的精准无与伦比。在其他人依靠蛮力的地方，她让耐心和直觉引导她的手。甚至被认为是无敌的野兽也会在她的箭矢下倒下。她的战术如同她所称之为家的森林般流畅，从阴影中出击，消失在绿意之中，并以无休止的埋伏消磨入侵者。她不需要军队，只需要土地和生活在其上的生物。虽然她的心中充满了对帝国残酷的反抗，但她并不为王冠或荣耀而战。当野性的平衡受到威胁时，阿希拉挺身而出。对于那些需要帮助的人，她成为了沉默的哨兵，从森林中走出，保护那些无助的人，击退不自然之物。她的力量不在于数量，而在于勇气、直觉以及她与自然界之间不可动摇的纽带。对一些人来说，她是一个幽灵。对另一些人来说，她是一个神话。但对那些见证她战斗，或因她的仁慈而得以幸免的人来说，她是传奇。阿希拉，狼的低语者，是野性的未驯服之魂，是大自然的防御中拉开的弓弦，也是一个提醒：即使是最温柔的声音，当土地本身召唤时，也能够以雷霆之声发出回应。",
     "generals_characters_124_summary": "沉默的猎人和野外的强大保护者。",
-    "currency_description_Orange": "愿望橙子，充满仲夏魔法，受到太阳守护者的珍视。在仲夏幻影活动中提供它们以解锁辉煌奖励！"
+    "currency_description_Orange": "愿望橙子，充满仲夏魔法，受到太阳守护者的珍视。在仲夏幻影活动中提供它们以解锁辉煌奖励！",
+    "currency_description_AllianceCoin": "团结力量的象征。使用它们来完成大赛任务。它们可以在商店中购买，或在某些联盟活动中赢得奖励。随着新的联盟挑战的出现，它们的价值将会增长。",
+    "currency_name_AllianceCoin": "联盟币",
+    "effect_name_fameBoost": "荣耀点数",
+    "effect_name_fireBrigadeBoostBuilding": "减少火焰造成的伤害",
+    "effect_name_sightRadiusBonus": "扩展视野",
+    "effect_name_survivalBoost": "生存的百分比",
+    "effect_name_xpBoost": "所有获得的经验值的奖金",
+    "beefbooster": "牛肉生产增强器"
   },
   "help": {
     "help_location": "您可以在这里看到您城堡和所有前哨的重要信息。",

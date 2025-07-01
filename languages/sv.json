@@ -2079,7 +2079,12 @@
     "ci_blueprint_BeefStorageIncrease": "Plan för premium nötkött lagringsbyggnad",
     "ci_blueprint_RelicBeefStorageIncrease": "Premium lagringsbyggnadsplan",
     "ci_blueprint_RelicBeefStorageIncrease_premium": "Premium lagringsobjekt för nötkött",
-    "ci_primary_BeefStorageIncrease_premium": "Byggföremål för lagring av premium nötkött"
+    "ci_primary_BeefStorageIncrease_premium": "Byggföremål för lagring av premium nötkött",
+    "butchershop_name": "Köttbutik",
+    "butchershop_short_info": "Ökar produktiviteten för alla nötkreatursgårdar i slottet",
+    "butchershop_upgrade_info": "Ökar produktivitetsbonusen för alla nötkreatursgårdar i slottet",
+    "ci_blueprint_BeefCapacityBonus_secondary_premium": "Premium relikvibeef lagringsplan",
+    "ci_secondary_BeefCapacityBonus_premium": "Byggföremål för premium nötköttslagring"
   },
   "dialogs": {
     "dialog_festival_desc": "Använd mat för att anordna en fest för dina medborgare! Rekryteringshastigheten ökar betydligt i alla dina slott så länge festen försiggår. Ju större festen är, desto större effekt.",
@@ -12808,7 +12813,8 @@
     "webshop_fruitbasket_large_name": "Stor fruktkorg",
     "webshop_fruitbasket_medium_name": "Mellanstor fruktkorg",
     "webshop_fruitbasket_small_name": "Liten fruktkorg",
-    "webshop_giftsummer_name": "Sommarfeststart"
+    "webshop_giftsummer_name": "Sommarfeststart",
+    "ci_effect_beefCapacityBonus_tt": "Nötkött lagringsbonus:"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% enhetens stridskraft vid angrepp",
@@ -14158,7 +14164,32 @@
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% rekryteringshastighet",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% flank-enhetsgräns vid attack",
     "effect_description_attackUnitAmountFrontCapped": "+{0}% enhetsgräns fram",
-    "ci_effect_beefCapacityBonus": "+{0} lagringskapacitet för nötkött"
+    "ci_effect_beefCapacityBonus": "+{0} lagringskapacitet för nötkött",
+    "equip_effect_description_allianceAttack": "+{0} stridskraft vid attack. Kostnaderna betalas med alliansens medel.",
+    "equip_effect_description_allianceAttackBoost": "+{0}% Stridskraftsbonus för attacker",
+    "equip_effect_description_allianceAttackBoostAliens": "+{0}% Kampkraftbonus mot utländska och Bloodcrow-slott",
+    "equip_effect_description_allianceAttackBoostDaimyo": "+{0}% Kampkraftbonus mot daimyo-slott",
+    "equip_effect_description_allianceDaimyoCooldownReduction": "-{0}% Anfallsnedkylning för daimyo-slott",
+    "equip_effect_description_allianceDefenseBoost": "+{0}% Stridskraftbonus för försvar",
+    "equip_effect_description_allianceKhanCooldownReduction": "-{0}% Angreppskylld för Khan-läger",
+    "equip_effect_description_allianceNomadCooldownReduction": "-{0}% Angreppskylning för nomadläger",
+    "equip_effect_description_allianceRageBoost": "+{0}% Raseri bonus för att attackera Khan-läger",
+    "equip_effect_description_allianceSamuraiCooldownReduction": "-{0}% Angreppskylning för samurajläger",
+    "equip_effect_description_attackBonusUnitNomad": "+{0} stridskraft vid attack på nomad- och Khan-läger",
+    "equip_effect_description_battleXPBonus": "+{0}% XP tjänat i strid",
+    "equip_effect_description_coinLootBoost": "+{0}% mynt stulna från NPC-mål",
+    "equip_effect_description_coinLootBoostNomad": "+{0}% mynt stulna från nomader",
+    "equip_effect_description_coinLootBoostSamurai": "+{0}% mynt stulna från samurajen",
+    "equip_effect_description_cooldownReductionKhan": "-{0}% Angreppsnedkylning mot Khan-läger",
+    "equip_effect_description_cooldownReductionNomad": "-{0}% Angreppskylning mot nomadläger",
+    "equip_effect_description_cooldownReductionSamurai": "-{0}% Anfallsnedkylning mot samurajläger",
+    "equip_effect_description_fameBoost": "+{0}% Ärobonus för attacker",
+    "equip_effect_description_strongerPeasant": "Ersätter den beväpnade medborgaren med milis",
+    "equip_effect_description_unitSpeedBoost": "+{0}% Militär, spionage och handelsresesnabbhet",
+    "equip_effect_description_FireBrigadeBoostBuilding": "-{0}% skada av eld lidit",
+    "equip_effect_description_SightRadiusBonus": "+{0}% synlighetsradie",
+    "equip_effect_description_SurvivalBoost": "+{0}% fler överlevande soldater efter försvar",
+    "equip_effect_description_xpBoost": "+{0} Bonus på alla intjänade erfarenhetspoäng"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Hjälte",
@@ -20271,7 +20302,15 @@
     "generals_characters_124_name": "Ashira",
     "generals_characters_124_narrative": "Vargviskaren &quot;Inte varje rop från vildmarken är avsett att besvaras, men om du lyssnar tillräckligt noga kommer landet att visa dig sin väg.&quot; I de dimhöljda regnskogarna på västkusten, där träden viskar uråldriga hemligheter och djur rör sig som skuggor, vandrar en ensamgestalt känd endast som Ashira, Vargviskaren. En jägare, en beskyddare, en gåta för många, hon är vildmarkens tysta röst och dess intensiva försvarare. Uppvuxen i en by djupt inne i skogen lärdes Ashira att lyssna snarare än att tala, att observera snarare än att slå. Hennes släkt trodde att skogen hade en ande, och Ashira, mer än någon annan, kunde höra dess röst. Djur svarade på hennes närvaro med ovanligt förtroende, och med tiden skapade hon band med varelser som andra fruktade. Den stora falken Ayala, följeslagare till hennes barndomsvän Leo, kommer till hennes hjälp när hon kallar. Vargar springer vid hennes sida, inte som husdjur, utan som allierade, redo att slå till från undervegetationen när hennes signal ges. Beväpnad med en långbåge och förstärkta pilar är Ashiras precision oöverträffad. Där andra förlitar sig på rå styrka, låter hon tålamod och instinkt styra sin hand. Även djur som troddes vara osårbara har fallit för en enda pil från hennes båge. Hennes taktik är lika flytande som skogen hon kallar hem, slår från skuggorna, försvinner i det gröna och uttröttar inkräktare med outtröttliga bakhåll. Hon behöver ingen armé, bara landet och de varelser som bor inom det. Även om hennes hjärta slår med uppror mot imperiernas grymhet, slåss hon inte för kronor eller ära. När balansen i vildmarken hotas, träder Ashira fram. För dem i nöd blir hon en tyst väktare, som kommer fram ur skogen för att skydda de hjälplösa och driva tillbaka det onaturliga. Hennes styrka ligger inte i antal, utan i mod, intuition och det oföränderliga band hon delar med naturen. För vissa är hon ett spöke. För andra en myt. Men för dem som har sett henne slåss, eller blivit skona av hennes barmhärtighet, är hon en legend. Ashira, Vargviskaren, är den otämda själen av vildmarken, en dragning i naturens försvar, och en påminnelse om att även den mjukaste rösten kan slå med åska när landet självt kallar.",
     "generals_characters_124_summary": "Tyst jägare och vild beskyddare av naturen.",
-    "currency_description_Orange": "Önskeblandningar, fyllda av midsommarens magi, uppskattas av Solbevararen. Erbjud dem under Midsummer Mirage-evenemanget för att låsa upp strålande belöningar!"
+    "currency_description_Orange": "Önskeblandningar, fyllda av midsommarens magi, uppskattas av Solbevararen. Erbjud dem under Midsummer Mirage-evenemanget för att låsa upp strålande belöningar!",
+    "currency_description_AllianceCoin": "En symbol för enad styrka. Använd dem för att slutföra Grand Tournament-uppdrag. De kan köpas i butiken eller vinnas som belöning i vissa alliansevent. Deras värde kommer att öka när nya alliansutmaningar dyker upp.",
+    "currency_name_AllianceCoin": "Alliansmynt",
+    "effect_name_fameBoost": "Hederspoäng",
+    "effect_name_fireBrigadeBoostBuilding": "Minskar skador från brand",
+    "effect_name_sightRadiusBonus": "Utvidgat synfält",
+    "effect_name_survivalBoost": "Procentandel som överlever",
+    "effect_name_xpBoost": "Bonus på alla intjänade erfarenhetspoäng",
+    "beefbooster": "Booster för nötköttsproduktion"
   },
   "help": {
     "help_location": "Här har du en global översikt över ditt slotts viktiga innehåll och alla dina utposter.",

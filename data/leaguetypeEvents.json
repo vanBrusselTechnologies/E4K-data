@@ -2091,6 +2091,15 @@
       "rewardIDs": "10363,10364,10365,10366,10367,10368,10369,10370,10371,10372,10373,10374,10375,10376,10377,10378"
     },
     {
+      "leaguetypeEventsID": 83,
+      "leaguetypeID": 1,
+      "eventID": 72,
+      "subType": 16,
+      "rewardSetID": 2,
+      "neededPointsForRewards": "105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120",
+      "rewardIDs": "10363,10364,10365,10366,10367,10368,10369,10370,10371,10372,10373,10374,10375,10376,10377,10378"
+    },
+    {
       "leaguetypeEventsID": 483,
       "leaguetypeID": 1,
       "eventID": 83,
@@ -2533,6 +2542,15 @@
       "rewardSetID": 1,
       "neededPointsForRewards": "5,20,45,65",
       "rewardIDs": "72002,72057,72058,72059,72019,72036,72056",
+      "topXValue": "10,5"
+    },
+    {
+      "leaguetypeEventsID": 82,
+      "leaguetypeID": 1,
+      "eventID": 126,
+      "rewardSetID": 2,
+      "neededPointsForRewards": "5,20,45,65",
+      "rewardIDs": "8676,8731,8732,8733,8693,8710,8730",
       "topXValue": "10,5"
     },
     {

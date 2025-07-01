@@ -2079,7 +2079,12 @@
     "ci_blueprint_BeefStorageIncrease": "Plano del elemento de construcción de almacenamiento de carne premium",
     "ci_blueprint_RelicBeefStorageIncrease": "Plano de almacenamiento de carne de res premium",
     "ci_blueprint_RelicBeefStorageIncrease_premium": "Elemento de almacenamiento de carne de res premium",
-    "ci_primary_BeefStorageIncrease_premium": "Elemento de construcción para almacenamiento de carne premium"
+    "ci_primary_BeefStorageIncrease_premium": "Elemento de construcción para almacenamiento de carne premium",
+    "butchershop_name": "Carnicería",
+    "butchershop_short_info": "Aumenta la productividad de todas las granjas de ganado en el castillo",
+    "butchershop_upgrade_info": "Aumenta el bono de productividad de todas las granjas de ganado en el castillo",
+    "ci_blueprint_BeefCapacityBonus_secondary_premium": "Plan de almacenamiento de carne de res relicario premium",
+    "ci_secondary_BeefCapacityBonus_premium": "Elemento de construcción para almacenamiento de carne de res premium"
   },
   "dialogs": {
     "dialog_festival_desc": "¡Usa comida para celebrar un festín para tus ciudadanos! La velocidad de reclutamiento aumentará considerablemente en todos tus castillos mientras dure el festín. Mientras más grande sea el festín, mayor será el efecto.",
@@ -12808,7 +12813,8 @@
     "webshop_fruitbasket_large_name": "Gran cesta de frutas",
     "webshop_fruitbasket_medium_name": "Cesta de frutas mediana",
     "webshop_fruitbasket_small_name": "Pequeña cesta de frutas",
-    "webshop_giftsummer_name": "Inicio de la fiesta de verano"
+    "webshop_giftsummer_name": "Inicio de la fiesta de verano",
+    "ci_effect_beefCapacityBonus_tt": "Bonificación de almacenamiento de carne de res:"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% de fuerza de combate de la unidad al atacar",
@@ -14158,7 +14164,32 @@
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% velocidad de reclutamiento",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% límite de unidad de flanco al atacar",
     "effect_description_attackUnitAmountFrontCapped": "+{0}% límite de unidades en la parte frontal",
-    "ci_effect_beefCapacityBonus": "+{0} capacidad de almacenamiento de carne de res"
+    "ci_effect_beefCapacityBonus": "+{0} capacidad de almacenamiento de carne de res",
+    "equip_effect_description_allianceAttack": "+{0} fuerza de combate al atacar. Los costos se pagan con los fondos de la alianza.",
+    "equip_effect_description_allianceAttackBoost": "+{0}% Bonificación de fuerza de combate para ataques",
+    "equip_effect_description_allianceAttackBoostAliens": "+{0}% Bonificación de fuerza de combate contra castillos extranjeros y Bloodcrow",
+    "equip_effect_description_allianceAttackBoostDaimyo": "+{0}% Bonificación de fuerza de combate contra castillos daimio",
+    "equip_effect_description_allianceDaimyoCooldownReduction": "-{0}% Enfriamiento de ataque para castillos daimio",
+    "equip_effect_description_allianceDefenseBoost": "+{0}% Bonificación de fuerza de combate para defensa",
+    "equip_effect_description_allianceKhanCooldownReduction": "-{0}% Tiempo de recarga de ataque para campamentos Khan",
+    "equip_effect_description_allianceNomadCooldownReduction": "-{0}% Tiempo de enfriamiento de ataque para campamentos nómadas",
+    "equip_effect_description_allianceRageBoost": "+{0}% Bonificación de furia por atacar campamentos Khan",
+    "equip_effect_description_allianceSamuraiCooldownReduction": "-{0}% Tiempo de enfriamiento de ataque para campamentos samuráis",
+    "equip_effect_description_attackBonusUnitNomad": "+{0} fuerza de combate al atacar campamentos nómadas y del Khan",
+    "equip_effect_description_battleXPBonus": "+{0}% XP ganado en batalla",
+    "equip_effect_description_coinLootBoost": "+{0}% monedas saqueadas de objetivos NPC",
+    "equip_effect_description_coinLootBoostNomad": "+{0}% monedas saqueadas a los nómadas",
+    "equip_effect_description_coinLootBoostSamurai": "+{0}% monedas saqueadas de samuráis",
+    "equip_effect_description_cooldownReductionKhan": "-{0}% Tiempo de recarga de ataque contra campamentos Khan",
+    "equip_effect_description_cooldownReductionNomad": "-{0}% Enfriamiento de ataque contra campamentos nómadas",
+    "equip_effect_description_cooldownReductionSamurai": "-{0}% Enfriamiento de ataque contra campamentos samurái",
+    "equip_effect_description_fameBoost": "+{0}% Bonificación de gloria por ataques",
+    "equip_effect_description_strongerPeasant": "Sustituye al ciudadano armado por la milicia",
+    "equip_effect_description_unitSpeedBoost": "+{0}% Velocidad de viaje militar, de espionaje y comercial",
+    "equip_effect_description_FireBrigadeBoostBuilding": "-{0}% de daño por fuego sufrido",
+    "equip_effect_description_SightRadiusBonus": "+{0}% radio de visión",
+    "equip_effect_description_SurvivalBoost": "+{0}% más soldados sobrevivientes después de la defensa",
+    "equip_effect_description_xpBoost": "+{0} Bonificación en todos los puntos de experiencia ganados"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Héroe",
@@ -20271,7 +20302,15 @@
     "generals_characters_124_name": "Ashira",
     "generals_characters_124_narrative": "El Susurrador de Lobos\n\n&quot;No todas las llamadas de la naturaleza están destinadas a ser respondidas, pero si escuchas con suficiente atención, la tierra te mostrará su camino.&quot;\n\nEn las selvas de lluvia envueltas en niebla de las costas occidentales, donde los árboles susurran secretos antiguos y las bestias se mueven como sombras, camina una figura solitaria conocida solo como Ashira, el Susurrador de Lobos. Una cazadora, una guardiana, un misterio para muchos, ella es la voz silenciosa de lo salvaje y su feroz defensora.\n\nCriada en una aldea escondida en lo profundo del bosque, Ashira fue enseñada a escuchar en lugar de hablar, a observar en lugar de atacar. Sus parientes creían que el bosque tenía un espíritu, y Ashira, más que nadie, podía escuchar su voz. Los animales respondían a su presencia con una confianza inusual, y con el tiempo formó lazos con criaturas que otros temían. El gran halcón Ayala, compañero de su amigo de la infancia Leo, viene a su ayuda cuando es llamada. Los lobos corren a su lado, no como mascotas, sino como aliados, listos para atacar desde la maleza cuando se da su señal.\n\nArmada con un arco largo y flechas reforzadas, la precisión de Ashira es inigualable. Donde otros confían en la fuerza bruta, ella deja que la paciencia y el instinto guíen su mano. Incluso bestias que se creían invencibles han caído ante una sola flecha de su arco. Sus tácticas son tan fluidas como el bosque que llama hogar, atacando desde las sombras, desapareciendo en lo verde y desgastando a los invasores con emboscadas incansables. No necesita un ejército, solo la tierra y las criaturas que habitan en ella.\n\nAunque su corazón late con rebeldía contra la crueldad de los imperios, no lucha por coronas o gloria. Cuando el equilibrio de lo salvaje está amenazado, Ashira da un paso adelante. Para los que necesitan ayuda, se convierte en una centinela silenciosa, emergiendo del bosque para proteger a los indefensos y repeler lo antinatural. Su fuerza no está en los números, sino en el coraje, la intuición y el vínculo inquebrantable que comparte con el mundo natural.\n\nPara algunos, es un fantasma. Para otros, un mito. Pero para aquellos que la han visto luchar o han sido perdonados por su misericordia, es leyenda. Ashira, el Susurrador de Lobos, es el alma indómita de lo salvaje, una cuerda de arco tensada en defensa de la naturaleza y un recordatorio de que incluso la voz más suave puede golpear con trueno cuando la tierra misma llama.",
     "generals_characters_124_summary": "Cazador silencioso y feroz protector de la naturaleza.",
-    "currency_description_Orange": "Las naranjas deseadas, llenas de magia de mediados de verano, son apreciadas por el Guardián del Sol. ¡Ofrécelas durante el evento Midsummer Mirage para desbloquear recompensas radiantes!"
+    "currency_description_Orange": "Las naranjas deseadas, llenas de magia de mediados de verano, son apreciadas por el Guardián del Sol. ¡Ofrécelas durante el evento Midsummer Mirage para desbloquear recompensas radiantes!",
+    "currency_description_AllianceCoin": "Un símbolo de fuerza unida. Úsalos para completar las misiones del Gran Torneo. Pueden comprarse en la tienda o ganarse como recompensa en algunos eventos de la alianza. Su valor crecerá a medida que surjan nuevos desafíos de la alianza.",
+    "currency_name_AllianceCoin": "Moneda de la alianza",
+    "effect_name_fameBoost": "Puntos de gloria",
+    "effect_name_fireBrigadeBoostBuilding": "Reduce el daño por fuego",
+    "effect_name_sightRadiusBonus": "Campo de visión ampliado",
+    "effect_name_survivalBoost": "Porcentaje que sobrevive",
+    "effect_name_xpBoost": "Bono en todos los puntos de experiencia ganados",
+    "beefbooster": "Acelerador de producción de carne de res"
   },
   "help": {
     "help_location": "Aquí tienes una vista global del contenido importante de tu castillo y de todas tus bases remotas.",

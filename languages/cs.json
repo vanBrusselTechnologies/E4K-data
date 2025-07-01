@@ -2079,7 +2079,12 @@
     "ci_blueprint_BeefStorageIncrease": "Plán prémiového stavebního prvku pro skladování hovězího masa",
     "ci_blueprint_RelicBeefStorageIncrease": "Plán prémiového prvku pro skladování hovězího masa",
     "ci_blueprint_RelicBeefStorageIncrease_premium": "Prémiový prvek pro skladování hovězího",
-    "ci_primary_BeefStorageIncrease_premium": "Stavební prvek pro skladování prémiového hovězího"
+    "ci_primary_BeefStorageIncrease_premium": "Stavební prvek pro skladování prémiového hovězího",
+    "butchershop_name": "Masořeznictví",
+    "butchershop_short_info": "Zvyšuje produktivitu všech farem skotu v hradu",
+    "butchershop_upgrade_info": "Zvyšuje bonus produktivity všech farem skotu na hradě",
+    "ci_blueprint_BeefCapacityBonus_secondary_premium": "Plán pro skladování prémiového reliktního hovězího",
+    "ci_secondary_BeefCapacityBonus_premium": "Stavební prvek pro skladování prémiového hovězího"
   },
   "dialogs": {
     "dialog_festival_desc": "Použijte jídlo na slavnost pro Vaše občany!\nDokud potrvá slavnost, rychlost verbování na všech Vašich hradech se výrazně zvýší. Čím větší slavnost, tím silnější účinek.",
@@ -12808,7 +12813,8 @@
     "webshop_fruitbasket_large_name": "Velký ovocný koš",
     "webshop_fruitbasket_medium_name": "Střední ovocný koš",
     "webshop_fruitbasket_small_name": "Malý ovocný koš",
-    "webshop_giftsummer_name": "Letní párty začátek"
+    "webshop_giftsummer_name": "Letní párty začátek",
+    "ci_effect_beefCapacityBonus_tt": "Bonus za skladování hovězího masa:"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% bojová síla jednotky při útoku",
@@ -14158,7 +14164,32 @@
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% rychlost verbování",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% limit jednotky po straně při útoku",
     "effect_description_attackUnitAmountFrontCapped": "+{0}% limit jednotek vpředu",
-    "ci_effect_beefCapacityBonus": "+{0} kapacita skladu hovězího"
+    "ci_effect_beefCapacityBonus": "+{0} kapacita skladu hovězího",
+    "equip_effect_description_allianceAttack": "+{0} bojová síla při útoku. Náklady jsou hrazeny z fondů aliance.",
+    "equip_effect_description_allianceAttackBoost": "+{0}% Bonus bojové síly pro útoky",
+    "equip_effect_description_allianceAttackBoostAliens": "+{0}% Bonus síly boje proti cizím a hradům Krvavých krkavců",
+    "equip_effect_description_allianceAttackBoostDaimyo": "+{0}% Bonus síly boje proti hradům daimjó",
+    "equip_effect_description_allianceDaimyoCooldownReduction": "-{0}% Doba zabraňující znovunapadení pro hrady daimjóů",
+    "equip_effect_description_allianceDefenseBoost": "+{0}% Bonus síly boje pro obranu",
+    "equip_effect_description_allianceKhanCooldownReduction": "-{0}% Doba obnovy útoku pro tábory Chána",
+    "equip_effect_description_allianceNomadCooldownReduction": "-{0}% Doba mezi útoky pro nomádské tábory",
+    "equip_effect_description_allianceRageBoost": "+{0}% Bonus vzteku za útok na tábory chána",
+    "equip_effect_description_allianceSamuraiCooldownReduction": "-{0}% Zpoždění útoku pro samurajské tábory",
+    "equip_effect_description_attackBonusUnitNomad": "+{0} bojová síla při útoku na nomádské a chánské tábory",
+    "equip_effect_description_battleXPBonus": "+{0}% XP získáno v bitvě",
+    "equip_effect_description_coinLootBoost": "+{0}% mincí ulovených z cílů NPC",
+    "equip_effect_description_coinLootBoostNomad": "+{0}% mincí uloupených od nomádů",
+    "equip_effect_description_coinLootBoostSamurai": "+{0}% mincí ukradených od samuraje",
+    "equip_effect_description_cooldownReductionKhan": "-{0}% Doba cooldownu útoku proti táborům Chána",
+    "equip_effect_description_cooldownReductionNomad": "-{0}% Doba ochlazení útoku proti kočovným táborům",
+    "equip_effect_description_cooldownReductionSamurai": "-{0}% Doba zabraňující znovunapadení proti samurajským táborům",
+    "equip_effect_description_fameBoost": "+{0}% Bonus slávy za útoky",
+    "equip_effect_description_strongerPeasant": "Nahrazuje ozbrojeného občana milicí",
+    "equip_effect_description_unitSpeedBoost": "+{0}% Rychlost cestování vojenských, špionážních a obchodních jednotek",
+    "equip_effect_description_FireBrigadeBoostBuilding": "-{0}% utržené poškození ohněm",
+    "equip_effect_description_SightRadiusBonus": "+{0}% dosah vidění",
+    "equip_effect_description_SurvivalBoost": "+{0}% více přeživších vojáků po obraně",
+    "equip_effect_description_xpBoost": "+{0} Bonus na všechny získané zkušenostní body"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Hrdina",
@@ -20271,7 +20302,15 @@
     "generals_characters_124_name": "Ašira",
     "generals_characters_124_narrative": "Šepot vlka\n\n&quot;Ne každý výkřik divočiny je určen k odpovědi, ale pokud nasloucháš dostatečně pozorně, země ti ukáže svou cestu.&quot;\n\nV mlhou zahalených deštných lesích západního pobřeží, kde stromy šeptají starobylá tajemství a bestie se pohybují jako stíny, kráčí osamělá postava známá pouze jako Ashira, šepot vlka. Lovkyně, strážkyně, záhada pro mnohé, je tichým hlasem divočiny a jejím divokým obráncem.\n\nVyrůstala v vesnici skryté hluboko v lese, Ashira se naučila naslouchat spíše než mluvit, sledovat spíše než útočit. Její příbuzní věřili, že les má ducha, a Ashira, více než kdokoli jiný, mohla slyšet jeho hlas. Zvířata reagovala na její přítomnost s neobvyklou důvěrou a s postupem času vytvářela vazby s tvory, kterých se jiní báli. Velký sokol Ayala, společník jejího přítele z dětství Lea, přichází na pomoc, když je povolána. Vlci běží po jejím boku, ne jako domácí mazlíčci, ale jako spojenci, připraveni zaútočit z podrostu, když je dán její signál.\n\nVyškolena s dlouhým lukem a posílenými šípy, Ashira je nepřekonatelná v přesnosti. Tam, kde ostatní spoléhají na hrubou sílu, dovolit trpělivosti a instinktu řídit její ruku. Dokonce i bestie, které se považovaly za neporazitelné, padly od jediné šipky z jejího luku. Její taktiky jsou stejně pružné jako les, který nazývá domovem, útočící z temnoty, mizící v zeleném a vyčerpávající vetřelce neúnavnými přepady. Nepotřebuje armádu, jen zem a tvory, které v ní žijí.\n\nI když její srdce bije vzpourou proti krutosti impérií, nebojuje pro koruny nebo slávu. Když je ohrožena rovnováha divočiny, Ashira vystupuje. Pro ty, kteří potřebují pomoc, se stává tichým strážcem, který vychází z lesa, aby chránil bezbranné a zahnal nepřirozené. Její síla není v číslech, ale v odvaze, intuici a neochvějné vazbě, kterou sdílí s přírodním světem.\n\nNěkteří ji považují za ducha. Jiní za mýtus. Ale pro ty, kteří ji viděli bojovat nebo byli zachráněni její milostí, je legendou. Ashira, šepot vlka, je divokou duší přírody, napnutá tětiva v obraně přírody a připomínka, že i ten nejtišší hlas může zasáhnout hromem, když sama země volá.",
     "generals_characters_124_summary": "Tichý lovec a zuřivý ochránce divočiny.",
-    "currency_description_Orange": "Přání pomeranče, plné magie letního slunovratu, si cení Sluneční strážce. Nabídněte je během akce Midsummer Mirage, abyste odemkli zářivé odměny!"
+    "currency_description_Orange": "Přání pomeranče, plné magie letního slunovratu, si cení Sluneční strážce. Nabídněte je během akce Midsummer Mirage, abyste odemkli zářivé odměny!",
+    "currency_description_AllianceCoin": "Symbol sjednocené síly. Použijte je k dokončení úkolů Velkého turnaje. Mohou být zakoupeny v obchodě nebo vyhrány jako odměna na některých akcích aliance. Jejich hodnota poroste, jakmile se objeví nové výzvy aliance.",
+    "currency_name_AllianceCoin": "Mince aliance",
+    "effect_name_fameBoost": "Body slávy",
+    "effect_name_fireBrigadeBoostBuilding": "Snižuje poškození ohněm",
+    "effect_name_sightRadiusBonus": "Rozšířené zorné pole",
+    "effect_name_survivalBoost": "Procento, které přežije",
+    "effect_name_xpBoost": "Bonus na všechny získané zkušenostní body",
+    "beefbooster": "Zesilovač výroby hovězího masa"
   },
   "help": {
     "help_location": "Zde máte kompletní přehled o důležitých věcech na Vašem hradě a všech Vašich základnách.",

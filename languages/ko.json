@@ -2079,7 +2079,12 @@
     "ci_blueprint_BeefStorageIncrease": "프리미엄 소고기 저장 건축 아이템 청사진",
     "ci_blueprint_RelicBeefStorageIncrease": "프리미엄 소고기 저장 건축 아이템 설계도",
     "ci_blueprint_RelicBeefStorageIncrease_premium": "프리미엄 소고기 저장 빌드 아이템",
-    "ci_primary_BeefStorageIncrease_premium": "프리미엄 소고기 저장 건설 아이템"
+    "ci_primary_BeefStorageIncrease_premium": "프리미엄 소고기 저장 건설 아이템",
+    "butchershop_name": "정육점",
+    "butchershop_short_info": "성 내 모든 소 사육장의 생산성을 높입니다",
+    "butchershop_upgrade_info": "성 내 모든 가축 농장의 생산성 보너스를 증가시킵니다",
+    "ci_blueprint_BeefCapacityBonus_secondary_premium": "프리미엄 유물 소고기 저장 청사진",
+    "ci_secondary_BeefCapacityBonus_premium": "프리미엄 소고기 보관 건설 아이템"
   },
   "dialogs": {
     "dialog_festival_desc": "식량으로 잔치를 열어 백성들을 배불리 먹이십시오! 잔치가 계속되는 동안 모든 성의 모집 속도가 눈에 띄게 증가합니다. 더 큰 잔치를 벌일수록 효과도 더 증가합니다.",
@@ -12808,7 +12813,8 @@
     "webshop_fruitbasket_large_name": "대형 과일 바구니",
     "webshop_fruitbasket_medium_name": "중간 과일 바구니",
     "webshop_fruitbasket_small_name": "작은 과일 바구니",
-    "webshop_giftsummer_name": "여름 파티 시작"
+    "webshop_giftsummer_name": "여름 파티 시작",
+    "ci_effect_beefCapacityBonus_tt": "소고기 저장 보너스:"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% 유닛 전투력 공격 시",
@@ -14158,7 +14164,32 @@
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% 모집 속도",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% 측면 유닛 한도 공격 시",
     "effect_description_attackUnitAmountFrontCapped": "+{0}% 유닛 한도 전면",
-    "ci_effect_beefCapacityBonus": "+{0} 소고기 저장 용량"
+    "ci_effect_beefCapacityBonus": "+{0} 소고기 저장 용량",
+    "equip_effect_description_allianceAttack": "+{0} 공격 시 전투력. 비용은 동맹 기금으로 지불됩니다.",
+    "equip_effect_description_allianceAttackBoost": "+{0}% 공격에 대한 전투력 보너스",
+    "equip_effect_description_allianceAttackBoostAliens": "+{0}% 외국 및 혈까마귀 성에 대한 전투력 보너스",
+    "equip_effect_description_allianceAttackBoostDaimyo": "+{0}% 다이묘 성에 대한 전투력 보너스",
+    "equip_effect_description_allianceDaimyoCooldownReduction": "-{0}% 다이묘 성의 공격 대기 시간",
+    "equip_effect_description_allianceDefenseBoost": "+{0}% 방어를 위한 전투력 보너스",
+    "equip_effect_description_allianceKhanCooldownReduction": "-{0}% 칸 캠프의 공격 쿨타임",
+    "equip_effect_description_allianceNomadCooldownReduction": "-{0}% 유목민 캠프의 공격 대기 시간",
+    "equip_effect_description_allianceRageBoost": "+{0}% 칸 캠프를 공격할 때의 분노 보너스",
+    "equip_effect_description_allianceSamuraiCooldownReduction": "-{0}% 사무라이 캠프의 공격 쿨다운",
+    "equip_effect_description_attackBonusUnitNomad": "+{0} 유목민과 칸 캠프를 공격할 때 전투력",
+    "equip_effect_description_battleXPBonus": "+{0}% XP 전투에서 획득",
+    "equip_effect_description_coinLootBoost": "+{0}% NPC 목표에서 약탈한 동전",
+    "equip_effect_description_coinLootBoostNomad": "+{0}% 유목민에게서 약탈한 동전",
+    "equip_effect_description_coinLootBoostSamurai": "+{0}% 사무라이에게서 약탈한 동전",
+    "equip_effect_description_cooldownReductionKhan": "-{0}% 칸 캠프에 대한 공격 쿨타임",
+    "equip_effect_description_cooldownReductionNomad": "-{0}% 유목민 캠프에 대한 공격 쿨타임",
+    "equip_effect_description_cooldownReductionSamurai": "-{0}% 사무라이 캠프에 대한 재공격 대기 시간",
+    "equip_effect_description_fameBoost": "+{0}% 공격에 대한 명성 보너스",
+    "equip_effect_description_strongerPeasant": "무장 시민을 민병대로 교체합니다",
+    "equip_effect_description_unitSpeedBoost": "+{0}% 군사, 스파이 및 무역 이동 속도",
+    "equip_effect_description_FireBrigadeBoostBuilding": "-{0}% 화재 피해를 입음",
+    "equip_effect_description_SightRadiusBonus": "+{0}% 시야 반경",
+    "equip_effect_description_SurvivalBoost": "+{0}% 방어 후 생존 군인이 더 많습니다",
+    "equip_effect_description_xpBoost": "+{0} 획득한 모든 경험치에 보너스"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "영웅",
@@ -20271,7 +20302,15 @@
     "generals_characters_124_name": "아시라",
     "generals_characters_124_narrative": "늑대 속삭이는 자\n\n&quot;자연의 모든 부름이 응답되어야 하는 것은 아니지만, 충분히 귀 기울이면 땅이 당신에게 길을 보여줄 것입니다.&quot;\n\n고요한 비에 감싸인 서부 해안의 열대 우림에서, 나무가 고대의 비밀을 속삭이고 짐승들이 그림자처럼 움직이는 곳에, 아시라라는 이름으로만 알려진 외로운 인물이 걷고 있습니다. 사냥꾼이자 수호자, 많은 이들에게는 신비로운 존재인 그녀는 야생의 조용한 목소리이자 맹렬한 수호자입니다.\n\n숲 깊숙한 곳에 자리 잡은 마을에서 자란 아시라는 말하기보다는 듣고, 공격하기보다는 지켜보는 법을 배웠습니다. 그녀의 친족은 숲에 영혼이 깃들어 있다고 믿었고, 아시라는 누구보다도 그 목소리를 들을 수 있었습니다. 동물들은 그녀의 존재에 대해 비상한 신뢰를 보였고, 시간이 지나면서 다른 이들이 두려워하는 생물들과 유대감을 형성했습니다. 그녀의 어린 시절 친구인 레오의 동반자인 대매가 아얄라는 그녀가 부르면 도움을 줍니다. 늑대들이 그녀의 곁에서 뛰어다니며 애완동물이 아닌 동맹으로서, 그녀의 신호가 주어질 때 숲 속에서 공격할 준비가 되어 있습니다.\n\n장궁과 강화된 화살로 무장한 아시라의 정확도는 비할 데가 없습니다. 다른 이들이 힘에 의존하는 곳에서, 그녀는 인내와 본능에 따라 손을 이끌게 합니다. 불사의 존재로 여겨졌던 짐승들도 그녀의 활에서 발사된 한 발의 화살에 쓰러졌습니다. 그녀의 전술은 그녀가 고향이라 부르는 숲처럼 유동적이며, 그림자에서 공격하고 초록 속으로 사라지며 지치지 않는 매복으로 침입자들을 지치게 합니다. 그녀는 군대가 필요하지 않으며, 오직 땅과 그 안에 사는 생물들만 있으면 됩니다.\n\n제국의 잔인함에 맞서 반란의 마음이 뛰고 있지만, 그녀는 왕관이나 영광을 위해 싸우지 않습니다. 야생의 균형이 위협받을 때, 아시라는 앞으로 나섭니다. 도움이 필요한 이들을 위해, 그녀는 고요한 감시자로 변신하여 숲에서 나와 무력한 이들을 보호하고 비정상적인 것들을 물리칩니다. 그녀의 힘은 숫자에 있지 않고, 용기와 직관, 그리고 자연 세계와 나누는 흔들림 없는 유대에 있습니다.\n\n어떤 이들에게 그녀는 유령입니다. 다른 이들에게는 신화입니다. 그러나 그녀의 싸우는 모습을 본 이들, 혹은 그녀의 자비로 구원받은 이들에게 그녀는 전설입니다. 아시라, 늑대 속삭이는 자는 야생의 길들여지지 않은 영혼이자 자연을 지키기 위해 활시위를 당긴 존재이며, 가장 부드러운 목소리조차도 땅이 부를 때 천둥처럼 치고 들어올 수 있다는 것을 상기시켜줍니다.",
     "generals_characters_124_summary": "조용한 사냥꾼이자 야생의 맹렬한 수호자.",
-    "currency_description_Orange": "여름 한가운데의 마법으로 가득한 소원을 담은 오렌지는 태양 지킴이에게 소중히 여겨집니다. 미드서머 미라지 이벤트 동안 그들을 제공하여 빛나는 보상을 잠금 해제하세요!"
+    "currency_description_Orange": "여름 한가운데의 마법으로 가득한 소원을 담은 오렌지는 태양 지킴이에게 소중히 여겨집니다. 미드서머 미라지 이벤트 동안 그들을 제공하여 빛나는 보상을 잠금 해제하세요!",
+    "currency_description_AllianceCoin": "연합의 힘의 상징. 그것들을 사용하여 그랜드 토너먼트 퀘스트를 완료하십시오. 상점에서 구입하거나 일부 연합 이벤트에서 보상으로 얻을 수 있습니다. 새로운 연합 도전이 등장함에 따라 그 가치가 높아질 것입니다.",
+    "currency_name_AllianceCoin": "동맹 동전",
+    "effect_name_fameBoost": "명성 점수",
+    "effect_name_fireBrigadeBoostBuilding": "불로 인한 피해를 줄입니다",
+    "effect_name_sightRadiusBonus": "확장된 시야",
+    "effect_name_survivalBoost": "생존 비율",
+    "effect_name_xpBoost": "획득한 모든 경험치에 대한 보너스",
+    "beefbooster": "소고기 생산 부스터"
   },
   "help": {
     "help_location": "여기에서 성과 전초기지의 중요한 정보를 대략 찾아볼 수 있습니다.",

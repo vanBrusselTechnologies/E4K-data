@@ -2079,7 +2079,12 @@
     "ci_blueprint_BeefStorageIncrease": "Blueprint for premium opbevaringsbygning af oksekød",
     "ci_blueprint_RelicBeefStorageIncrease": "Premium opbevaringsbyggeelement blueprint",
     "ci_blueprint_RelicBeefStorageIncrease_premium": "Premium opbevaringsartikel til oksekød",
-    "ci_primary_BeefStorageIncrease_premium": "Premium oksekød opbevaringsbyggeelement"
+    "ci_primary_BeefStorageIncrease_premium": "Premium oksekød opbevaringsbyggeelement",
+    "butchershop_name": "Slagterbutik",
+    "butchershop_short_info": "Øger produktiviteten af alle kvægfarme i slottet",
+    "butchershop_upgrade_info": "Øger produktivitetsbonussen for alle kvægfarme i slottet",
+    "ci_blueprint_BeefCapacityBonus_secondary_premium": "Premium relikviebeef opbevaringsplan",
+    "ci_secondary_BeefCapacityBonus_premium": "Premium oksekød opbevaringsbygning"
   },
   "dialogs": {
     "dialog_festival_desc": "Brug mad til at holde en fest for dine borgere! Rekrutteringshastigheden vil forøges på i jeres borge, så længe festen varer. Jo større festen er, jo større er effekten.",
@@ -12808,7 +12813,8 @@
     "webshop_fruitbasket_large_name": "Stor frugtkurv",
     "webshop_fruitbasket_medium_name": "Mellem frugtkurv",
     "webshop_fruitbasket_small_name": "Lille frugtkurv",
-    "webshop_giftsummer_name": "Sommerfest start"
+    "webshop_giftsummer_name": "Sommerfest start",
+    "ci_effect_beefCapacityBonus_tt": "Befordringsbonus for oksekød:"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% enhedens kampstyrke ved angreb",
@@ -14158,7 +14164,32 @@
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% rekrutteringshastighed",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% flanke enhedsgrænse ved angreb",
     "effect_description_attackUnitAmountFrontCapped": "+{0}% enhed grænse foran",
-    "ci_effect_beefCapacityBonus": "+{0} opbevaringskapacitet for oksekød"
+    "ci_effect_beefCapacityBonus": "+{0} opbevaringskapacitet for oksekød",
+    "equip_effect_description_allianceAttack": "+{0} kampstyrke ved angreb. Omkostningerne betales med alliancefondene.",
+    "equip_effect_description_allianceAttackBoost": "+{0}% Kampstyrke-bonus for angreb",
+    "equip_effect_description_allianceAttackBoostAliens": "+{0}% Kampstyrkebonus mod fremmede og blodkrage slotte",
+    "equip_effect_description_allianceAttackBoostDaimyo": "+{0}% Kampstyrkebonus mod Daimyo-slotte",
+    "equip_effect_description_allianceDaimyoCooldownReduction": "-{0}% Afkølningstid for angreb på daimyo-borgene",
+    "equip_effect_description_allianceDefenseBoost": "+{0}% Kampstyrke bonus til forsvar",
+    "equip_effect_description_allianceKhanCooldownReduction": "-{0}% Angreb køling for Khan lejre",
+    "equip_effect_description_allianceNomadCooldownReduction": "-{0}% Angrebsafkøling for nomadekampe",
+    "equip_effect_description_allianceRageBoost": "+{0}% Raseri bonus for angreb på Khan-lejre",
+    "equip_effect_description_allianceSamuraiCooldownReduction": "-{0}% Angrebs nedetid for samurai lejre",
+    "equip_effect_description_attackBonusUnitNomad": "+{0} kampstyrke når du angriber nomade- og Khan-lejre",
+    "equip_effect_description_battleXPBonus": "+{0}% XP optjent i kamp",
+    "equip_effect_description_coinLootBoost": "+{0}% mønter stjålet fra NPC-mål",
+    "equip_effect_description_coinLootBoostNomad": "+{0}% mønter stjålet fra nomader",
+    "equip_effect_description_coinLootBoostSamurai": "+{0}% mønter stjålet fra samuraien",
+    "equip_effect_description_cooldownReductionKhan": "-{0}% Angrebs cooldown mod Khan-lejre",
+    "equip_effect_description_cooldownReductionNomad": "-{0}% Angrebskøling mod nomadiske lejre",
+    "equip_effect_description_cooldownReductionSamurai": "-{0}% Afkølningstid for angreb mod samurailejre",
+    "equip_effect_description_fameBoost": "+{0}% Æresbonus for angreb",
+    "equip_effect_description_strongerPeasant": "Erstatter den bevæbnede borger med milits",
+    "equip_effect_description_unitSpeedBoost": "+{0}% Militær, spionage og handelsrejsehastighed",
+    "equip_effect_description_FireBrigadeBoostBuilding": "-{0}% brandskade",
+    "equip_effect_description_SightRadiusBonus": "+{0}% synsradius",
+    "equip_effect_description_SurvivalBoost": "+{0}% flere overlevende soldater efter forsvar",
+    "equip_effect_description_xpBoost": "+{0} Bonus på alle optjente erfaringspoint"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Helt",
@@ -20271,7 +20302,15 @@
     "generals_characters_124_name": "Ashira",
     "generals_characters_124_narrative": "Ulvens hvisker\n\n&quot;Ikke hvert kald fra vildmarken er meningen at besvares, men hvis du lytter nøje nok, vil jorden vise dig sin vej.&quot;\n\nI de tågeomsluttede regnskove på den vestlige kyst, hvor træerne hvisker gamle hemmeligheder, og bæster bevæger sig som skygger, går en ensom skikkelse kun kendt som Ashira, Ulvens hvisker. En jæger, en beskytter, et mysterium for mange, hun er den vilde stemmes stille stemme og frygtløse forsvarer.\n\nOpvokset i en landsby gemt dybt i skoven, blev Ashira lært at lytte snarere end at tale, at observere snarere end at slå. Hendes slægt troede, at skoven havde en ånd, og Ashira, mere end nogen anden, kunne høre dens stemme. Dyr reagerede på hendes tilstedeværelse med usædvanlig tillid, og over tid dannede hun bånd med væsner, som andre frygtede. Den store falke Ayala, ledsager til hendes barndomsven Leo, kommer hende til undsætning, når hun kaldes. Ulve løber ved hendes side, ikke som kæledyr, men som allierede, klar til at angribe fra undervegetationen, når hendes signal gives.\n\nBevæbnet med en langbue og forstærkede pile er Ashiras præcision uovertruffen. Hvor andre stoler på råstyrke, lader hun tålmodighed og instinkt guide sin hånd. Selv dyr, der anses for uovervindelige, er faldet for en enkelt pil fra hendes bue. Hendes taktik er lige så flydende som skoven, hun kalder hjem, som slår fra skyggerne, forsvinder ind i det grønne og slidende ned invasorer med utrættelige bagholdsangreb. Hun har ikke brug for en hær, kun jorden og de væsner, der bor i den.\n\nSelvom hendes hjerte slår med oprør mod imperiers grusomhed, kæmper hun ikke for kroner eller ære. Når balancen i vildmarken er truet, træder Ashira frem. For dem i nød bliver hun en stille vagter, der kommer frem fra skoven for at beskytte de hjælpeløse og drive det unaturlige tilbage. Hendes styrke ligger ikke i tal, men i mod, intuition og det urokkelige bånd, hun deler med den naturlige verden.\n\nFor nogle er hun et spøgelse. For andre en myte. Men for dem, der har set hende kæmpe, eller er blevet skånet af hendes nåde, er hun legende. Ashira, Ulvens hvisker, er den uforklarlige sjæl af det vilde, en bue streng trukket i naturens forsvar og en påmindelse om, at selv den blødeste stemme kan slå med torden, når jorden selv kalder.",
     "generals_characters_124_summary": "Stille jæger og frygtløs beskytter af vildmarken.",
-    "currency_description_Orange": "Ønskepomeranserne, fyldt med midsommerens magi, er værdsat af Solvogteren. Tilbyd dem under Midsummer Mirage-begivenheden for at låse op for strålende belønninger!"
+    "currency_description_Orange": "Ønskepomeranserne, fyldt med midsommerens magi, er værdsat af Solvogteren. Tilbyd dem under Midsummer Mirage-begivenheden for at låse op for strålende belønninger!",
+    "currency_description_AllianceCoin": "Et symbol på forenet styrke. Brug dem til at fuldføre opgaver i Grand Tournament. De kan købes i butikken eller vindes som belønning i nogle alliancens begivenheder. Deres værdi vil vokse, efterhånden som nye alliancens udfordringer dukker op.",
+    "currency_name_AllianceCoin": "Alliancemønt",
+    "effect_name_fameBoost": "Hæderpoint",
+    "effect_name_fireBrigadeBoostBuilding": "Reducerer skader fra ild",
+    "effect_name_sightRadiusBonus": "Udvidet synsfelt",
+    "effect_name_survivalBoost": "Procent, der overlever",
+    "effect_name_xpBoost": "Bonus på alle optjente erfaring point",
+    "beefbooster": "Boost til oksekødproduktion"
   },
   "help": {
     "help_location": "Her har I en global oversigt over det vigtige indhold i jeres borg og alle jeres forposter.",

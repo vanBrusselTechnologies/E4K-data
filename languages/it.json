@@ -2079,7 +2079,12 @@
     "ci_blueprint_BeefStorageIncrease": "Progetto dellelemento di costruzione per la conservazione del manzo premium",
     "ci_blueprint_RelicBeefStorageIncrease": "Progetto di stoccaggio di manzo premium",
     "ci_blueprint_RelicBeefStorageIncrease_premium": "Elemento di stoccaggio di carne di manzo premium",
-    "ci_primary_BeefStorageIncrease_premium": "Elemento di costruzione per la conservazione della carne premium"
+    "ci_primary_BeefStorageIncrease_premium": "Elemento di costruzione per la conservazione della carne premium",
+    "butchershop_name": "Macelleria",
+    "butchershop_short_info": "Aumenta la produttività di tutte le fattorie di bestiame nel castello",
+    "butchershop_upgrade_info": "Aumenta il bonus di produttività di tutte le fattorie di bestiame nel castello",
+    "ci_blueprint_BeefCapacityBonus_secondary_premium": "Progetto di stoccaggio per carne di manzo premium relic",
+    "ci_secondary_BeefCapacityBonus_premium": "Elemento di costruzione per la conservazione del manzo premium"
   },
   "dialogs": {
     "dialog_festival_desc": "Usa il cibo per organizzare un banchetto per i tuoi cittadini! La velocità di reclutamento aumenterà notevolmente in tutti i castelli per la durata del banchetto. Più grande è il banchetto, maggiore sarà leffetto.",
@@ -12808,7 +12813,8 @@
     "webshop_fruitbasket_large_name": "Grande cesto di frutta",
     "webshop_fruitbasket_medium_name": "Cesto di frutta medio",
     "webshop_fruitbasket_small_name": "Piccola cesta di frutta",
-    "webshop_giftsummer_name": "Avvio della festa estiva"
+    "webshop_giftsummer_name": "Avvio della festa estiva",
+    "ci_effect_beefCapacityBonus_tt": "Bonus di stoccaggio carne di manzo:"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% di forza di combattimento dellunità in attacco",
@@ -14158,7 +14164,32 @@
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% velocità di reclutamento",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% limite unità fiancheggiatrice in attacco",
     "effect_description_attackUnitAmountFrontCapped": "+{0}% limite unità anteriore",
-    "ci_effect_beefCapacityBonus": "+{0} capacità di stoccaggio della carne di manzo"
+    "ci_effect_beefCapacityBonus": "+{0} capacità di stoccaggio della carne di manzo",
+    "equip_effect_description_allianceAttack": "+{0} forza di combattimento in attacco. I costi sono coperti dai fondi dellalleanza.",
+    "equip_effect_description_allianceAttackBoost": "+{0}% Potenziamento della forza di combattimento per attacchi",
+    "equip_effect_description_allianceAttackBoostAliens": "+{0}% Bonus di forza di combattimento contro i castelli stranieri e Bloodcrow",
+    "equip_effect_description_allianceAttackBoostDaimyo": "+{0}% Bonus forza di combattimento contro i castelli daimyo",
+    "equip_effect_description_allianceDaimyoCooldownReduction": "-{0}% Attesa per lattacco ai castelli daimyo",
+    "equip_effect_description_allianceDefenseBoost": "+{0}% Bonus di forza in combattimento per difesa",
+    "equip_effect_description_allianceKhanCooldownReduction": "-{0}% Tempo di recupero attacco per i campi di Khan",
+    "equip_effect_description_allianceNomadCooldownReduction": "-{0}% Attesa per lattacco dei campi nomadi",
+    "equip_effect_description_allianceRageBoost": "+{0}% Bonus furia per attaccare i campi di Khan",
+    "equip_effect_description_allianceSamuraiCooldownReduction": "-{0}% Tempo di recupero dellattacco per i campi samurai",
+    "equip_effect_description_attackBonusUnitNomad": "+{0} forza di combattimento nellattaccare accampamenti nomadi e del Khan",
+    "equip_effect_description_battleXPBonus": "+{0}% XP guadagnato in battaglia",
+    "equip_effect_description_coinLootBoost": "+{0}% di monete rubate a obiettivi NPC",
+    "equip_effect_description_coinLootBoostNomad": "+{0}% monete rubate dai nomadi",
+    "equip_effect_description_coinLootBoostSamurai": "+{0}% monete rubate ai samurai",
+    "equip_effect_description_cooldownReductionKhan": "-{0}% Tempo di ricarica dellattacco contro i campi di Khan",
+    "equip_effect_description_cooldownReductionNomad": "-{0}% Tempo di recupero dellattacco contro i campi nomadi",
+    "equip_effect_description_cooldownReductionSamurai": "-{0}% Attesa per lattacco contro gli accampamenti dei samurai",
+    "equip_effect_description_fameBoost": "+{0}% Bonus di gloria per attacchi",
+    "equip_effect_description_strongerPeasant": "Sostituisce il cittadino armato con la milizia",
+    "equip_effect_description_unitSpeedBoost": "+{0}% Velocità di viaggio militare, di spionaggio e commerciale",
+    "equip_effect_description_FireBrigadeBoostBuilding": "-{0}% danno da fuoco subito",
+    "equip_effect_description_SightRadiusBonus": "+{0}% raggio di visione",
+    "equip_effect_description_SurvivalBoost": "+{0}% più soldati sopravvissuti dopo la difesa",
+    "equip_effect_description_xpBoost": "+{0} Bonus su tutti i punti esperienza guadagnati"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Eroe",
@@ -20271,7 +20302,15 @@
     "generals_characters_124_name": "Ashira",
     "generals_characters_124_narrative": "Il Sussurratore di Lupi\n\n&quot;Non ogni richiamo della natura è destinato ad essere risposto, ma se ascolti attentamente, la terra ti mostrerà la sua via.&quot;\n\nNelle foreste pluviali avvolte nella nebbia delle coste occidentali, dove gli alberi sussurrano antichi segreti e le bestie si muovono come ombre, cammina una figura solitaria conosciuta solo come Ashira, il Sussurratore di Lupi. Un cacciatore, una guardiana, un mistero per molti, è la voce silenziosa della natura e la sua fierissima difensore.\n\nCresciuta in un villaggio incastonato nel cuore della foresta, Ashira è stata educata a ascoltare piuttosto che a parlare, a osservare piuttosto che a colpire. I suoi simili credevano che la foresta avesse uno spirito, e Ashira, più di chiunque altro, poteva sentire la sua voce. Gli animali rispondevano alla sua presenza con una fiducia insolita, e col tempo formò legami con creature che altri temevano. Il grande falco Ayala, compagno del suo amico dinfanzia Leo, viene in suo aiuto quando viene chiamato. I lupi corrono al suo fianco, non come animali domestici, ma come alleati, pronti a colpire dalla boscaglia quando viene dato il suo segnale.\n\nArmata di un lungo arco e di frecce rinforzate, la precisione di Ashira è ineguagliata. Dove altri si affidano alla forza bruta, lei lascia che la pazienza e listinto guidino la sua mano. Anche le bestie ritenute invincibili sono cadute sotto una sola freccia del suo arco. Le sue tattiche sono fluide come la foresta che chiama casa, colpendo dalle ombre, svanendo nel verde e logorando gli invasori con agguati instancabili. Non ha bisogno di un esercito, solo della terra e delle creature che vi abitano.\n\nSebbene il suo cuore batta con ribellione contro la crudeltà degli imperi, non combatte per corone o gloria. Quando lequilibrio della natura è minacciato, Ashira si fa avanti. Per coloro che hanno bisogno, diventa un sentinella silenziosa, emergendo dalla foresta per proteggere gli indifesi e respingere linnaturale. La sua forza non risiede nei numeri, ma nel coraggio, nellintuizione e nel legame indissolubile che condivide con il mondo naturale.\n\nPer alcuni, è un fantasma. Per altri, un mito. Ma per coloro che lhanno vista combattere, o che sono stati risparmiati dalla sua misericordia, è leggenda. Ashira, il Sussurratore di Lupi, è lanima indomita della natura, una corda darco tesa in difesa della natura, e un promemoria che anche la voce più dolce può colpire come un tuono quando la terra stessa chiama.",
     "generals_characters_124_summary": "Cacciatore silenzioso e feroce protettore della natura.",
-    "currency_description_Orange": "Le arance dei desideri, piene di magia di mezza estate, sono apprezzate dal Guardiano del Sole. Offrile durante levento Midsummer Mirage per sbloccare ricompense brillanti!"
+    "currency_description_Orange": "Le arance dei desideri, piene di magia di mezza estate, sono apprezzate dal Guardiano del Sole. Offrile durante levento Midsummer Mirage per sbloccare ricompense brillanti!",
+    "currency_description_AllianceCoin": "Un simbolo di forza unita. Usali per completare le missioni del Grande Torneo. Possono essere acquistati nel negozio o vinti come ricompensa in alcuni eventi dellalleanza. Il loro valore crescerà man mano che emergeranno nuove sfide per lalleanza.",
+    "currency_name_AllianceCoin": "Moneta dellalleanza",
+    "effect_name_fameBoost": "Punti gloria",
+    "effect_name_fireBrigadeBoostBuilding": "Riduce i danni da fuoco",
+    "effect_name_sightRadiusBonus": "Campo visivo esteso",
+    "effect_name_survivalBoost": "Percentuale che sopravvive",
+    "effect_name_xpBoost": "Bonus su tutti i punti esperienza guadagnati",
+    "beefbooster": "Potenziante per la produzione di manzo"
   },
   "help": {
     "help_location": "Qui hai una panoramica globale dei contenuti importanti del castello e di tutti gli avamposti.",

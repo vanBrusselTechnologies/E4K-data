@@ -2079,7 +2079,12 @@
     "ci_blueprint_BeefStorageIncrease": "Bouwtekening voor premium rundvleesslagers",
     "ci_blueprint_RelicBeefStorageIncrease": "Premium rundvlees opslag bouwitem blueprint",
     "ci_blueprint_RelicBeefStorageIncrease_premium": "Premium opslagitem voor rundvlees",
-    "ci_primary_BeefStorageIncrease_premium": "Premium rundvlees opslag bouwitem"
+    "ci_primary_BeefStorageIncrease_premium": "Premium rundvlees opslag bouwitem",
+    "butchershop_name": "Slagerij",
+    "butchershop_short_info": "Verhoogt de productiviteit van alle rundveefarms in het kasteel",
+    "butchershop_upgrade_info": "Verhoogt de productiviteitsbonus van alle rundveebedrijven in het kasteel",
+    "ci_blueprint_BeefCapacityBonus_secondary_premium": "Premium relikwieën rundvlees opslag blauwdruk",
+    "ci_secondary_BeefCapacityBonus_premium": "Bouwitem voor premium rundvleesopslag"
   },
   "dialogs": {
     "dialog_festival_desc": "Gebruik voedsel om een festival te geven voor uw burgers! Zolang het festival duurt, wordt er in al uw kastelen aanmerkelijk sneller gerekruteerd. Hoe groter het festival, hoe groter het effect.",
@@ -12808,7 +12813,8 @@
     "webshop_fruitbasket_large_name": "Grote fruitmand",
     "webshop_fruitbasket_medium_name": "Middelgrote fruitmand",
     "webshop_fruitbasket_small_name": "Kleine fruitmand",
-    "webshop_giftsummer_name": "Zomerfeest start"
+    "webshop_giftsummer_name": "Zomerfeest start",
+    "ci_effect_beefCapacityBonus_tt": "Rundvlees opslagbonus:"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% eenheid vechtkracht bij aanvallen",
@@ -14158,7 +14164,32 @@
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% rekruteringssnelheid",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% flankeenheid limiet bij aanvallen",
     "effect_description_attackUnitAmountFrontCapped": "+{0}% eenheidslimiet aan de voorkant",
-    "ci_effect_beefCapacityBonus": "+{0} opslagcapaciteit voor rundvlees"
+    "ci_effect_beefCapacityBonus": "+{0} opslagcapaciteit voor rundvlees",
+    "equip_effect_description_allianceAttack": "+{0} gevechtskracht bij aanvallen. De kosten worden betaald met de fondsen van de alliantie.",
+    "equip_effect_description_allianceAttackBoost": "+{0}% Gevechtskrachtbonus voor aanvallen",
+    "equip_effect_description_allianceAttackBoostAliens": "+{0}% Gevechtskrachtbonus tegen buitenlandse en Bloodcrow-kastelen",
+    "equip_effect_description_allianceAttackBoostDaimyo": "+{0}% Combatkrachtbonus tegen Daimyo-kastelen",
+    "equip_effect_description_allianceDaimyoCooldownReduction": "-{0}% Hersteltijd na aanval voor daimyo-kastelen",
+    "equip_effect_description_allianceDefenseBoost": "+{0}% Vechtkrachtbonus voor verdediging",
+    "equip_effect_description_allianceKhanCooldownReduction": "-{0}% Aanvalscooldown voor Khan-kampen",
+    "equip_effect_description_allianceNomadCooldownReduction": "-{0}% Hersteltijd voor aanvallen voor nomadenkampen",
+    "equip_effect_description_allianceRageBoost": "+{0}% Woedebonus voor het aanvallen van Khan-kampen",
+    "equip_effect_description_allianceSamuraiCooldownReduction": "-{0}% Aanval koeltijd voor samoerai-kampen",
+    "equip_effect_description_attackBonusUnitNomad": "+{0} vechtkracht bij het aanvallen van nomaden- en Khan-kampen",
+    "equip_effect_description_battleXPBonus": "+{0}% XP verdiend in de strijd",
+    "equip_effect_description_coinLootBoost": "+{0}% munten geroofd van NPC-doelen",
+    "equip_effect_description_coinLootBoostNomad": "+{0}% munten geroofd van nomaden",
+    "equip_effect_description_coinLootBoostSamurai": "+{0}% munten gestolen van samurai",
+    "equip_effect_description_cooldownReductionKhan": "-{0}% Aanval cooldown tegen Khan-kampen",
+    "equip_effect_description_cooldownReductionNomad": "-{0}% Aanval koeling tegen nomadenkampen",
+    "equip_effect_description_cooldownReductionSamurai": "-{0}% Hersteltijd na aanval tegen samoerai-kampen",
+    "equip_effect_description_fameBoost": "+{0}% Roembonus voor aanvallen",
+    "equip_effect_description_strongerPeasant": "Vervangt de gewapende burger door de militie",
+    "equip_effect_description_unitSpeedBoost": "+{0}% Militair, spionage en handelsreissnelheid",
+    "equip_effect_description_FireBrigadeBoostBuilding": "-{0}% door vuur opgelopen schade",
+    "equip_effect_description_SightRadiusBonus": "+{0}% gezichtsradius",
+    "equip_effect_description_SurvivalBoost": "+{0}% meer overlevende soldaten na verdediging",
+    "equip_effect_description_xpBoost": "+{0} Bonus op alle verdiende ervaringspunten"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Held",
@@ -20271,7 +20302,15 @@
     "generals_characters_124_name": "Ashira",
     "generals_characters_124_narrative": "De Wolf Fluisteraar\n\n&quot;Niet elke roep van de wildernis is bedoeld om beantwoord te worden, maar als je goed luistert, zal het land je zijn weg tonen.&quot;\n\nIn de mistige regenwouden van de westkust, waar de bomen oude geheimen fluisteren en beesten als schaduwen bewegen, loopt een eenzame figuur die alleen bekend staat als Ashira, de Wolf Fluisteraar. Een jager, een bewaker, een mysterie voor velen, zij is de stille stem van de wildernis en een felle verdediger.\n\nOpgevoed in een dorp diep in het bos, leerde Ashira te luisteren in plaats van te spreken, te kijken in plaats van toe te slaan. Haar verwanten geloofden dat het bos een geest had, en Ashira, meer dan wie dan ook, kon haar stem horen. Dieren reageerden met ongebruikelijk vertrouwen op haar aanwezigheid, en in de loop van de tijd vormde ze banden met wezens die anderen vreesden. De grote valk Ayala, metgezel van haar kindvriend Leo, komt haar te hulp wanneer ze wordt opgeroepen. Wolven rennen aan haar zijde, niet als huisdieren, maar als bondgenoten, klaar om vanuit het struikgewas toe te slaan wanneer haar signaal wordt gegeven.\n\nBewapend met een lange boog en versterkte pijlen, is Ashiras precisie ongeëvenaard. Waar anderen vertrouwen op brute kracht, laat zij geduld en instinct haar hand leiden. Zelfs beesten die als onoverwinnelijk werden beschouwd, zijn gevallen voor een enkele pijl uit haar boog. Haar tactieken zijn zo vloeiend als het bos dat ze thuis noemt, toeslaand vanuit de schaduw, verdwijnend in het groen, en indringers vermoeiend met onophoudelijke hinderlagen. Ze heeft geen leger nodig, alleen het land en de wezens die erin wonen.\n\nHoewel haar hart klopt van rebellie tegen de wreedheid van rijken, vecht ze niet voor kroontjes of glorie. Wanneer de balans van de wildernis wordt bedreigd, stapt Ashira naar voren. Voor degenen die hulp nodig hebben, wordt ze een stille wachter, die uit het bos verschijnt om de hulpelozen te beschermen en het onnatuurlijke terug te dringen. Haar kracht ligt niet in aantallen, maar in moed, intuïtie, en de onwankelbare band die ze deelt met de natuurlijke wereld.\n\nVoor sommigen is ze een geest. Voor anderen, een mythe. Maar voor degenen die haar hebben zien vechten of door haar genade zijn gespaard, is ze een legende. Ashira, de Wolf Fluisteraar, is de ongetemde ziel van de wildernis, een boogstring die wordt getrokken ter verdediging van de natuur, en een herinnering dat zelfs de zachtste stem met donder kan toeslaan wanneer het land zelf roept.",
     "generals_characters_124_summary": "Stille jager en felle beschermer van de natuur.",
-    "currency_description_Orange": "Wens-sinaasappels, vol met de magie van de hoogzomer, worden gewaardeerd door de Zonenkoning. Bied ze aan tijdens het Midsummer Mirage-evenement om stralende beloningen te ontgrendelen!"
+    "currency_description_Orange": "Wens-sinaasappels, vol met de magie van de hoogzomer, worden gewaardeerd door de Zonenkoning. Bied ze aan tijdens het Midsummer Mirage-evenement om stralende beloningen te ontgrendelen!",
+    "currency_description_AllianceCoin": "Een symbool van verenigde kracht. Gebruik ze om de Grand Tournament-questen te voltooien. Ze kunnen in de winkel worden gekocht of gewonnen als beloning bij sommige alliantie-evenementen. Hun waarde zal stijgen naarmate er nieuwe alliantie-uitdagingen komen.",
+    "currency_name_AllianceCoin": "Alliantie munt",
+    "effect_name_fameBoost": "Roempunten",
+    "effect_name_fireBrigadeBoostBuilding": "Vermindert schade door vuur",
+    "effect_name_sightRadiusBonus": "Uitgebreid gezichtsveld",
+    "effect_name_survivalBoost": "Percentage dat overleeft",
+    "effect_name_xpBoost": "Bonus op alle verdiende ervaringspunten",
+    "beefbooster": "Vleesproductiebooster"
   },
   "help": {
     "help_location": "Hier krijg je een globaal overzicht van alle belangrijke inhoud van je kasteel en al je buitenposten.",

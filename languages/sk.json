@@ -2079,7 +2079,12 @@
     "ci_blueprint_BeefStorageIncrease": "Plán prémiového stavebného prvku na skladovanie hovädzieho",
     "ci_blueprint_RelicBeefStorageIncrease": "Plán prémiového úložného prvku na hovädzie",
     "ci_blueprint_RelicBeefStorageIncrease_premium": "Prémiový prvok na skladovanie hovädzieho",
-    "ci_primary_BeefStorageIncrease_premium": "Stavebný prvok pre skladovanie prémiového hovädzieho"
+    "ci_primary_BeefStorageIncrease_premium": "Stavebný prvok pre skladovanie prémiového hovädzieho",
+    "butchershop_name": "Mäsiarstvo",
+    "butchershop_short_info": "Zvyšuje produktivitu všetkých fariem dobytka v hrade",
+    "butchershop_upgrade_info": "Zvyšuje produktivitu všetkých farmy dobytka v hrade",
+    "ci_blueprint_BeefCapacityBonus_secondary_premium": "Plán na skladovanie prémiového reliktného hovädzieho",
+    "ci_secondary_BeefCapacityBonus_premium": "Stavebný prvok pre skladovanie prémiového hovädzieho"
   },
   "dialogs": {
     "dialog_festival_desc": "Pomocou jedla udržiavaj hostinu pre svojich občanov! Kým bude hostina trvať, na všetkých tvojich hradoch sa viditeľne zvýši rýchlosť verbovania. Čím väčšia hostina, tým väčší efekt.",
@@ -12808,7 +12813,8 @@
     "webshop_fruitbasket_large_name": "Veľká ovocná misa",
     "webshop_fruitbasket_medium_name": "Stredný ovocný košík",
     "webshop_fruitbasket_small_name": "Malý ovocný košík",
-    "webshop_giftsummer_name": "Začiatok letnej párty"
+    "webshop_giftsummer_name": "Začiatok letnej párty",
+    "ci_effect_beefCapacityBonus_tt": "Bonus za skladovanie hovädzieho:"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% bojovej sily jednotky pri útoku",
@@ -14158,7 +14164,32 @@
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% rýchlosť verbovania",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% limit jednotky po stranách pri útoku",
     "effect_description_attackUnitAmountFrontCapped": "+{0}% limit jednotiek vpredu",
-    "ci_effect_beefCapacityBonus": "+{0} skladovacia kapacita hovädzieho"
+    "ci_effect_beefCapacityBonus": "+{0} skladovacia kapacita hovädzieho",
+    "equip_effect_description_allianceAttack": "+{0} bojová sila pri útoku. Náklady sa hradia z fondov aliancie.",
+    "equip_effect_description_allianceAttackBoost": "+{0}% Bonus k bojovej sile pre útoky",
+    "equip_effect_description_allianceAttackBoostAliens": "+{0}% Bonus bojaskej sily proti cudzím a hradom Bloodcrow",
+    "equip_effect_description_allianceAttackBoostDaimyo": "+{0}% Bonus bojovej sily proti hradom daimjó",
+    "equip_effect_description_allianceDaimyoCooldownReduction": "-{0}% Schladenie útoku pre hrady Daimyov",
+    "equip_effect_description_allianceDefenseBoost": "+{0}% Bonus bojovej sily pre obranu",
+    "equip_effect_description_allianceKhanCooldownReduction": "-{0}% Doba obnovy útoku pre tábory Chána",
+    "equip_effect_description_allianceNomadCooldownReduction": "-{0}% Čas na obnovenie útoku pre nomádské tábory",
+    "equip_effect_description_allianceRageBoost": "+{0}% Bonus hnevu za útok na tábory chána",
+    "equip_effect_description_allianceSamuraiCooldownReduction": "-{0}% Čas na ochladenie útoku pre samurajské tábory",
+    "equip_effect_description_attackBonusUnitNomad": "+{0} bojová sila pri útoku na nomádske a chánske tábory",
+    "equip_effect_description_battleXPBonus": "+{0}% XP získané v boji",
+    "equip_effect_description_coinLootBoost": "+{0}% mincí ukradnutých z NPC cieľov",
+    "equip_effect_description_coinLootBoostNomad": "+{0}% mincí ukradnutých od nomádov",
+    "equip_effect_description_coinLootBoostSamurai": "+{0}% mincí ukradnutých od samuraja",
+    "equip_effect_description_cooldownReductionKhan": "-{0}% Čas na obnovenie útoku proti táborom Chána",
+    "equip_effect_description_cooldownReductionNomad": "-{0}% Čas na ochladenie útoku proti nomádskym táborom",
+    "equip_effect_description_cooldownReductionSamurai": "-{0}% Schladenie útoku proti samurajským táborom",
+    "equip_effect_description_fameBoost": "+{0}% Bonus za slávu za útoky",
+    "equip_effect_description_strongerPeasant": "Nahrádza ozbrojeného občana milíciou",
+    "equip_effect_description_unitSpeedBoost": "+{0}% Rýchlosť cestovania armády, špionáže a obchodu",
+    "equip_effect_description_FireBrigadeBoostBuilding": "-{0}% utrženej škody od ohňa",
+    "equip_effect_description_SightRadiusBonus": "+{0}% zorný uhol",
+    "equip_effect_description_SurvivalBoost": "+{0}% viac prežívajúcich vojakov po obrane",
+    "equip_effect_description_xpBoost": "+{0} Bonus na všetky získané body skúseností"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Hrdina",
@@ -20271,7 +20302,15 @@
     "generals_characters_124_name": "Ašira",
     "generals_characters_124_narrative": "Vlk Šepkajúci &quot;Nie každý výkrik divočiny má byť zodpovedaný, ale ak počúvate dostatočne pozorne, krajina vám ukáže svoju cestu.&quot; V hmlistých dažďových lesoch západného pobrežia, kde stromy šepkajú starobylé tajomstvá a zvieratá sa pohybujú ako tiene, kráča osamelá postava známa len ako Ashira, Vlk Šepkajúci. Lovec, strážca, tajomstvo pre mnohých, je tichým hlasom divočiny a jej zúrivým obrancom. Vyrastala v dedine ukrytej hlboko v lese, Ashiru naučili počúvať, nie hovoriť, sledovať, nie útočiť. Jej príbuzní verili, že les má ducha, a Ashira, viac ako ktokoľvek iný, mohla počuť jeho hlas. Zvieratá reagovali na jej prítomnosť nezvyčajným dôvtipom, a časom si vytvorila väzby s tvormi, ktorých iní sa báli. Veľký sokol Ayala, spoločník jej detského priateľa Lea, prichádza jej na pomoc, keď je zavolaný. Vlci bežia po jej boku, nie ako domáce zvieratá, ale ako spojenci, pripravení zaútočiť zo zarastenej zóny, keď je jej signál daný. Vyšla s dlhým lukom a zosilnenými šípmi, Ashirina presnosť je neprekonateľná. Kde iní sa spoliehajú na hrubú silu, ona necháva trpezlivosť a inštinkt viesť jej ruku. Dokonca aj zvieratá považované za neporaziteľné padli pred jediným šípom z jej luku. Jej taktika je taká plynulá ako les, ktorý nazýva domovom, útočiac z tieňa, miznúca v zelení a vyčerpávajúca votrelcov neúnavnými pascami. Nepotrebuje armádu, len krajinu a bytosti, ktoré v nej žijú. Hoci jej srdce bije s rebéliou proti krutosti ríš, nebojuje za koruny alebo slávu. Keď je ohrozená rovnováha divočiny, Ashira vystupuje. Pre tých, ktorí potrebujú, sa stáva tichým strážcom, vychádzajúcim z lesa, aby ochránil bezbranných a odohnal nadprirodzené. Jej sila nie je v počtoch, ale v odvahu, intuícii a nezlomnej väzbe, ktorú zdieľa s prírodným svetom. Pre niektorých je duchom. Pre iných mýtus. Ale pre tých, ktorí ju videli bojovať alebo boli ušetrení jej milosťou, je legendou. Ashira, Vlk Šepkajúci, je divoká duša divočiny, napnutá tiahlo v obrane prírody a pripomienkou, že aj ten najtichší hlas môže zasiahnuť s hromom, keď sama zem volá.",
     "generals_characters_124_summary": "Tichý lovec a divoký ochránca prírody.",
-    "currency_description_Orange": "Prianie pomaranče, plné mágie letného slnovratu, sú cenené Strážcom slnka. Ponúknite ich počas podujatia Midsummer Mirage, aby ste odomkli žiariace odmeny!"
+    "currency_description_Orange": "Prianie pomaranče, plné mágie letného slnovratu, sú cenené Strážcom slnka. Ponúknite ich počas podujatia Midsummer Mirage, aby ste odomkli žiariace odmeny!",
+    "currency_description_AllianceCoin": "Symbol zjednotenej sily. Použite ich na dokončenie úloh Veľkého turnaja. Môžu byť zakúpené v obchode alebo získané ako odmena na niektorých udalostiach aliancie. Ich hodnota bude rásť, keď sa objavia nové výzvy aliancie.",
+    "currency_name_AllianceCoin": "Minca aliancie",
+    "effect_name_fameBoost": "Body slávy",
+    "effect_name_fireBrigadeBoostBuilding": "Znižuje poškodenie ohňom",
+    "effect_name_sightRadiusBonus": "Rozšírené zorné pole",
+    "effect_name_survivalBoost": "Percento, ktoré prežije",
+    "effect_name_xpBoost": "Bonus na všetky získané skúsenostné body",
+    "beefbooster": "Posilňovač výroby hovädzieho mäsa"
   },
   "help": {
     "help_location": "Tu je uvedený celkový prehľad dôležitých obsahov na tvojom hrade a vo všetkých tvojich základniach.",

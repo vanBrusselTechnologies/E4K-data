@@ -9,8 +9,8 @@ export interface Data {
     allianceBattleGroundScorings: AllianceBattleGroundScoring[];
     allianceBattleGroundSettings: AllianceBattleGroundSetting[];
     alliancebuffs: AllianceBuff[];
-    allianceCoatColors: allianceCoatColors[];
-    allianceCoatLayouts: allianceCoatLayouts[];
+    allianceCoatColors: AllianceCoatColor[];
+    allianceCoatLayouts: AllianceCoatLayout[];
     alliancefameranks: AllianceFameRank[];
     allianceforges: AllianceForge[];
     alliancehelprequests: AllianceHelpRequest[];
@@ -392,12 +392,12 @@ export interface AllianceBuff {
     "requiredBuffID"?: number;
 }
 
-export interface allianceCoatColors {
+export interface AllianceCoatColor {
     "allianceCoatColorID": number;
     "color": string;
 }
 
-export interface allianceCoatLayouts {
+export interface AllianceCoatLayout {
     "allianceCoatLayoutID": number;
     "comment1": string;
     "effectIconID"?: number;

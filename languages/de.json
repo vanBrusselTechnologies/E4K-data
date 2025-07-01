@@ -2079,7 +2079,12 @@
     "ci_blueprint_BeefStorageIncrease": "Bauplan für die Premium-Rindfleischlagerung",
     "ci_blueprint_RelicBeefStorageIncrease": "Premium-Rinderlagerbauplan",
     "ci_blueprint_RelicBeefStorageIncrease_premium": "Premium Rindfleischlager-Bauartikel",
-    "ci_primary_BeefStorageIncrease_premium": "Premium-Rindfleischlager-Bauartikel"
+    "ci_primary_BeefStorageIncrease_premium": "Premium-Rindfleischlager-Bauartikel",
+    "butchershop_name": "Metzgerei",
+    "butchershop_short_info": "Steigert die Produktivität aller Rinderfarmen im Schloss",
+    "butchershop_upgrade_info": "Erhöht den Produktivitätsbonus aller Rinderfarmen im Schloss",
+    "ci_blueprint_BeefCapacityBonus_secondary_premium": "Bauplan für die Lagerung von Premium-Rindfleischreliquien",
+    "ci_secondary_BeefCapacityBonus_premium": "Premium-Rindfleischlager-Bauartikel"
   },
   "dialogs": {
     "dialog_festival_desc": "Setzt Nahrung ein, um ein Fest für Eure Bürger zu feiern!\nSolange das Fest läuft, wird die Rekrutierungsgeschwindigkeit in all Euren Burgen deutlich erhöht. Je größer das Fest ist, desto größer ist auch der Effekt.",
@@ -12808,7 +12813,8 @@
     "webshop_fruitbasket_large_name": "Großer Obstkorb",
     "webshop_fruitbasket_medium_name": "Mittlere Obstschale",
     "webshop_fruitbasket_small_name": "Kleine Obstschale",
-    "webshop_giftsummer_name": "Sommerfest-Start"
+    "webshop_giftsummer_name": "Sommerfest-Start",
+    "ci_effect_beefCapacityBonus_tt": "Rindfleischlagerbonus:"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% Einheit Kampfkraft beim Angreifen",
@@ -14158,7 +14164,32 @@
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% Rekrutierungsgeschwindigkeit",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% Flanken-Einheit-Limit beim Angreifen",
     "effect_description_attackUnitAmountFrontCapped": "+{0}% Einheitenlimit vorne",
-    "ci_effect_beefCapacityBonus": "+{0} Lagerkapazität für Rindfleisch"
+    "ci_effect_beefCapacityBonus": "+{0} Lagerkapazität für Rindfleisch",
+    "equip_effect_description_allianceAttack": "+{0} Kampfkraft beim Angriff. Die Kosten werden aus den Allianzmitteln bezahlt.",
+    "equip_effect_description_allianceAttackBoost": "+{0}% Kampfkraftbonus für Angriffe",
+    "equip_effect_description_allianceAttackBoostAliens": "+{0}% Kampfbonus gegen fremde und Blutkrähen-Schlösser",
+    "equip_effect_description_allianceAttackBoostDaimyo": "+{0}% Kampfstärke-Bonus gegen Daimyō-Burgen",
+    "equip_effect_description_allianceDaimyoCooldownReduction": "-{0}% Angriffscooldown für Daimyō-Burgen",
+    "equip_effect_description_allianceDefenseBoost": "+{0}% Kampfstärke-Bonus für Verteidigung",
+    "equip_effect_description_allianceKhanCooldownReduction": "-{0}% Angriffscooldown für Khanlager",
+    "equip_effect_description_allianceNomadCooldownReduction": "-{0}% Angriffscooldown für Nomadenlager",
+    "equip_effect_description_allianceRageBoost": "+{0}% Wutbonus beim Angreifen von Khan-Lagern",
+    "equip_effect_description_allianceSamuraiCooldownReduction": "-{0}% Angriffscooldown für Samurai-Lager",
+    "equip_effect_description_attackBonusUnitNomad": "+{0} Kampfstärke beim Angriff auf Nomaden- und Khanlager",
+    "equip_effect_description_battleXPBonus": "+{0}% XP im Kampf verdient",
+    "equip_effect_description_coinLootBoost": "+{0}% Münzen von NPC-Zielen geraubt",
+    "equip_effect_description_coinLootBoostNomad": "+{0}% Münzen von Nomaden geraubt",
+    "equip_effect_description_coinLootBoostSamurai": "+{0}% Münzen von Samurai geraubt",
+    "equip_effect_description_cooldownReductionKhan": "-{0}% Angriffscooldown gegen Khanlager",
+    "equip_effect_description_cooldownReductionNomad": "-{0}% Angriffscooldown gegen Nomadenlager",
+    "equip_effect_description_cooldownReductionSamurai": "-{0}% Angriffscooldown gegen Samurailager",
+    "equip_effect_description_fameBoost": "+{0}% Ruhmbonus für Angriffe",
+    "equip_effect_description_strongerPeasant": "Ersetzt den bewaffneten Bürger durch Miliz",
+    "equip_effect_description_unitSpeedBoost": "+{0}% Militär-, Spionage- und Handelsreisegeschwindigkeit",
+    "equip_effect_description_FireBrigadeBoostBuilding": "-{0}% erlittenen Feuerschaden",
+    "equip_effect_description_SightRadiusBonus": "+{0}% Sichtradius",
+    "equip_effect_description_SurvivalBoost": "+{0}% mehr überlebende Soldaten nach der Verteidigung",
+    "equip_effect_description_xpBoost": "+{0} Bonus auf alle gesammelten Erfahrungspunkte"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Held",
@@ -20271,7 +20302,15 @@
     "generals_characters_124_name": "Ashira",
     "generals_characters_124_narrative": "Der Wolf-Flüsterer\n\n&quot;Nicht jeder Ruf der Wildnis ist dazu bestimmt, beantwortet zu werden, aber wenn du genau genug hörst, wird dir das Land seinen Weg zeigen.&quot;\n\nIn den nebelverhangenen Regenwäldern der Westküste, wo die Bäume alte Geheimnisse flüstern und Bestien sich wie Schatten bewegen, wandelt eine einsame Gestalt, die nur als Ashira, der Wolf-Flüsterer, bekannt ist. Eine Jägerin, eine Wächterin, ein Rätsel für viele, ist sie die stille Stimme der Wildnis und ihre furchtlose Verteidigerin.\n\nIn einem Dorf tief im Wald aufgewachsen, wurde Ashira gelehrt, zuzuhören, anstatt zu sprechen, zu beobachten, anstatt zuzuschlagen. Ihre Verwandten glaubten, dass der Wald einen Geist hat, und Ashira konnte, mehr als jeder andere, seine Stimme hören. Tiere reagierten auf ihre Anwesenheit mit ungewöhnlichem Vertrauen, und im Laufe der Zeit knüpfte sie Bindungen zu Kreaturen, vor denen andere Angst hatten. Der große Falke Ayala, Begleiter ihres Kindheitsfreundes Leo, kommt ihr zu Hilfe, wenn sie ihn ruft. Wölfe laufen an ihrer Seite, nicht als Haustiere, sondern als Verbündete, bereit, aus dem Unterholz zu schlagen, wenn ihr Signal gegeben wird.\n\nBewaffnet mit einem Langbogen und verstärkten Pfeilen ist Ashiras Präzision unerreicht. Wo andere auf rohe Gewalt setzen, lässt sie Geduld und Instinkt ihre Hand leiten. Selbst Bestien, die für unbesiegbar gehalten werden, sind einem einzigen Pfeil aus ihrem Bogen zum Opfer gefallen. Ihre Taktik ist ebenso flüssig wie der Wald, den sie Heimat nennt, sie schlägt aus den Schatten zu, verschwindet im Grünen und erschöpft Eindringlinge mit unermüdlichen Überfällen. Sie benötigt keine Armee, nur das Land und die Kreaturen, die darin leben.\n\nObwohl ihr Herz mit Rebellion gegen die Grausamkeit der Imperien schlägt, kämpft sie nicht um Kronen oder Ruhm. Wenn das Gleichgewicht der Wildnis bedroht ist, tritt Ashira hervor. Für die Bedürftigen wird sie zu einer stillen Wache, die aus dem Wald auftaucht, um die Hilflosen zu beschützen und das Unnatürliche zurückzudrängen. Ihre Stärke liegt nicht in Zahlen, sondern in Mut, Intuition und dem unerschütterlichen Band, das sie mit der natürlichen Welt teilt.\n\nFür einige ist sie ein Geist. Für andere ein Mythos. Aber für die, die sie kämpfen gesehen haben oder von ihrer Gnade verschont wurden, ist sie eine Legende. Ashira, der Wolf-Flüsterer, ist die ungezähmte Seele der Wildnis, eine Bogensehne, die in der Verteidigung der Natur gespannt ist, und eine Erinnerung daran, dass selbst die sanfteste Stimme mit Donner schlagen kann, wenn das Land selbst ruft.",
     "generals_characters_124_summary": "Stiller Jäger und wilder Beschützer.",
-    "currency_description_Orange": "Wunschorangen, voller Midsommer-Magie, werden vom Sonnenwächter geschätzt. Biete sie während des Midsummer Mirage-Events an, um strahlende Belohnungen freizuschalten!"
+    "currency_description_Orange": "Wunschorangen, voller Midsommer-Magie, werden vom Sonnenwächter geschätzt. Biete sie während des Midsummer Mirage-Events an, um strahlende Belohnungen freizuschalten!",
+    "currency_description_AllianceCoin": "Ein Symbol vereinter Stärke. Verwenden Sie sie, um Aufgaben im Großen Turnier abzuschließen. Sie können im Shop gekauft oder als Belohnung bei einigen Allianzveranstaltungen gewonnen werden. Ihr Wert wird steigen, wenn neue Allianzherausforderungen auftauchen.",
+    "currency_name_AllianceCoin": "Allianz-Münze",
+    "effect_name_fameBoost": "Ruhmpunkte",
+    "effect_name_fireBrigadeBoostBuilding": "Reduziert Feuerschaden",
+    "effect_name_sightRadiusBonus": "Erweitertes Sichtfeld",
+    "effect_name_survivalBoost": "Prozentsatz der Überlebenden",
+    "effect_name_xpBoost": "Bonus auf alle verdienten Erfahrungspunkte",
+    "beefbooster": "Rindfleischproduktionsbooster"
   },
   "help": {
     "help_location": "Hier seht Ihr eine globale Übersicht über die wichtigen \nBesitztümer Eurer Burg und aller Außenposten.",

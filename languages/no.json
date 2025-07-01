@@ -2079,7 +2079,12 @@
     "ci_blueprint_BeefStorageIncrease": "Premium biff lagring byggeelement plan",
     "ci_blueprint_RelicBeefStorageIncrease": "Premium oppbevaringsbyggingselement blåkopi",
     "ci_blueprint_RelicBeefStorageIncrease_premium": "Premium lagringsartikkel for storfekjøtt",
-    "ci_primary_BeefStorageIncrease_premium": "Premium biff lagringsbyggeenhet"
+    "ci_primary_BeefStorageIncrease_premium": "Premium biff lagringsbyggeenhet",
+    "butchershop_name": "Slakterbutikk",
+    "butchershop_short_info": "Øker produktiviteten til alle storfe gårder i slottet",
+    "butchershop_upgrade_info": "Øker produktivitetsbonusen for alle storfefermer i slottet",
+    "ci_blueprint_BeefCapacityBonus_secondary_premium": "Premium relikvibeef lagringsplan",
+    "ci_secondary_BeefCapacityBonus_premium": "Premium storingsbygning for storfekjøtt"
   },
   "dialogs": {
     "dialog_festival_desc": "Bruk mat til å holde en festival for folket! Rekrutteringshastigheten vil markant økes ved alle slottene dine så lenge festivalen varer. Desto større festival, jo bedre effekt.",
@@ -12808,7 +12813,8 @@
     "webshop_fruitbasket_large_name": "Stor fruktkurv",
     "webshop_fruitbasket_medium_name": "Middels stor fruktkurv",
     "webshop_fruitbasket_small_name": "Liten fruktkurv",
-    "webshop_giftsummer_name": "Sommerfest start"
+    "webshop_giftsummer_name": "Sommerfest start",
+    "ci_effect_beefCapacityBonus_tt": "Biff lagringsbonus:"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% enhetens kampstyrke ved angrep",
@@ -14158,7 +14164,32 @@
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% rekrutteringshastighet",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% flanke enhetsgrense ved angrep",
     "effect_description_attackUnitAmountFrontCapped": "+{0}% enhetsgrense foran",
-    "ci_effect_beefCapacityBonus": "+{0} lagringskapasitet for biff"
+    "ci_effect_beefCapacityBonus": "+{0} lagringskapasitet for biff",
+    "equip_effect_description_allianceAttack": "+{0} kampstyrke ved angrep. Kostnadene dekkes med alliansmidlene.",
+    "equip_effect_description_allianceAttackBoost": "+{0}% Kampkraft-bonus for angrep",
+    "equip_effect_description_allianceAttackBoostAliens": "+{0}% Kampstyrkebonus mot fremmede og Bloodcrow-slott",
+    "equip_effect_description_allianceAttackBoostDaimyo": "+{0}% Kampstyrkebonus mot Daimyo-slott",
+    "equip_effect_description_allianceDaimyoCooldownReduction": "-{0}% Angrepsventetid for daimyo-slott",
+    "equip_effect_description_allianceDefenseBoost": "+{0}% Kampstyrkebonus for forsvar",
+    "equip_effect_description_allianceKhanCooldownReduction": "-{0}% Angrepsventetid for Khan-leirer",
+    "equip_effect_description_allianceNomadCooldownReduction": "-{0}% Angrepsventetid for nomadekamper",
+    "equip_effect_description_allianceRageBoost": "+{0}% Raseribonus for angrep på Khan-leirer",
+    "equip_effect_description_allianceSamuraiCooldownReduction": "-{0}% Angrepscooldown for samurai-leirer",
+    "equip_effect_description_attackBonusUnitNomad": "+{0} kampstyrke ved angrep på nomade- og Khan-leirer",
+    "equip_effect_description_battleXPBonus": "+{0}% XP opptjent i kamp",
+    "equip_effect_description_coinLootBoost": "+{0}% mynter stjålet fra NPC-mål",
+    "equip_effect_description_coinLootBoostNomad": "+{0}% mynter stjålet fra nomader",
+    "equip_effect_description_coinLootBoostSamurai": "+{0}% mynter stjålet fra samuraien",
+    "equip_effect_description_cooldownReductionKhan": "-{0}% Angrepsventetid mot Khan-leirer",
+    "equip_effect_description_cooldownReductionNomad": "-{0}% Angrepsavkjøling mot nomadiske leire",
+    "equip_effect_description_cooldownReductionSamurai": "-{0}% Angrepsventetid mot samurai-leirer",
+    "equip_effect_description_fameBoost": "+{0}% Hederbonus for angrep",
+    "equip_effect_description_strongerPeasant": "Erstatter den væpnede borger med milits",
+    "equip_effect_description_unitSpeedBoost": "+{0}% Militær, spionasje og handelsreisehastighet",
+    "equip_effect_description_FireBrigadeBoostBuilding": "-{0}% brannskade påført",
+    "equip_effect_description_SightRadiusBonus": "+{0}% synsradie",
+    "equip_effect_description_SurvivalBoost": "+{0}% flere overlevende soldater etter forsvar",
+    "equip_effect_description_xpBoost": "+{0} Bonus på alle opptjente erfaringspoeng"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Helt",
@@ -20271,7 +20302,15 @@
     "generals_characters_124_name": "Ashira",
     "generals_characters_124_narrative": "Ulvenes hvisker\n\n&quot;Ikke alle rop fra villmarken er ment å besvares, men hvis du lytter nøye nok, vil landet vise deg sin vei.&quot;\n\nI de tåkeomsluttede regnskogene på vestkysten, hvor trærne hvisker eldgamle hemmeligheter og dyr beveger seg som skygger, går en ensom skikkelse kjent bare som Ashira, Ulvenes hvisker. En jeger, en vokter, et mysterium for mange, hun er villmarkens stille stemme og sterke forsvarer.\n\nOppvokst i en landsby dypt inne i skogen, ble Ashira lært opp til å lytte i stedet for å snakke, å observere i stedet for å slå. Hennes slektninger trodde at skogen hadde en ånd, og Ashira, mer enn noen annen, kunne høre dens stemme. Dyr reagerte på hennes nærvær med uvanlig tillit, og over tid dannet hun bånd med skapninger som andre fryktet. Den store falken Ayala, følgesvenn til barndomsvennen Leo, kommer henne til unnsetning når hun blir tilkalt. Ulver løper ved hennes side, ikke som kjæledyr, men som allierte, klare til å angripe fra buskene når hun gir signalet.\n\nBevæpnet med en langbue og forsterkede piler, er Ashiras presisjon uten sidestykke. Der andre stoler på rå styrke, lar hun tålmodighet og instinkt veilede hånden sin. Selv skapninger som ble ansett som uovervinnelige, har falt for en enkelt pil fra buen hennes. Hennes taktikk er like flytende som skogen hun kaller hjem, og hun slår til fra skyggene, forsvinner inn i det grønne, og sliter ned inntrengere med utallige bakholdsangrep. Hun trenger ingen hær, bare landet og skapningene som bor i det.\n\nSelv om hjertet hennes banker med opprør mot imperienes grusomhet, kjemper hun ikke for kroner eller ære. Når balansen i villmarken er truet, trer Ashira frem. For de som trenger hjelp, blir hun en stille vokter, som dukker opp fra skogen for å beskytte de hjelpeløse og drive det unormale tilbake. Hennes styrke ligger ikke i antall, men i mot, intuisjon, og det urokkelige båndet hun deler med den naturlige verden.\n\nFor noen er hun et spøkelse. For andre, en myte. Men for de som har sett henne kjempe, eller blitt spart av hennes nåde, er hun legende. Ashira, Ulvenes hvisker, er den villfarne sjelen av villmarken, en bue som er strukket i naturens forsvar, og en påminnelse om at selv den mykeste stemmen kan slå med torden når landet selv kaller.",
     "generals_characters_124_summary": "Stille jeger og fryktløs beskytter av villmarken.",
-    "currency_description_Orange": "Ønskeappelsiner, sprengt av midsommerens magi, blir verdsatt av Solvokteren. Tilby dem under Midsummer Mirage-arrangementet for å låse opp strålende belønninger!"
+    "currency_description_Orange": "Ønskeappelsiner, sprengt av midsommerens magi, blir verdsatt av Solvokteren. Tilby dem under Midsummer Mirage-arrangementet for å låse opp strålende belønninger!",
+    "currency_description_AllianceCoin": "Et symbol på samlet styrke. Bruk dem for å fullføre Grand Tournament-oppdrag. De kan kjøpes i butikken eller vinnes som belønning i enkelte alliansearrangementer. Verdien deres vil vokse etter hvert som nye allianseutfordringer dukker opp.",
+    "currency_name_AllianceCoin": "Alliansemynter",
+    "effect_name_fameBoost": "Hederspoeng",
+    "effect_name_fireBrigadeBoostBuilding": "Reduserer skade fra ild",
+    "effect_name_sightRadiusBonus": "Utvidet synsfelt",
+    "effect_name_survivalBoost": "Prosentandel som overlever",
+    "effect_name_xpBoost": "Bonus på alle opptjente erfaringspoeng",
+    "beefbooster": "Oksekjøttproduksjonsforsterker"
   },
   "help": {
     "help_location": "Her har du en global oversikt over viktig innhold fra slottet ditt og utpostene.",

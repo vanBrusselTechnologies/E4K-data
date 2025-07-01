@@ -2079,7 +2079,12 @@
     "ci_blueprint_BeefStorageIncrease": "Prémium marhahús tárolóépítési tervrajz",
     "ci_blueprint_RelicBeefStorageIncrease": "Prémium marhahús tárolási építési tervrajz",
     "ci_blueprint_RelicBeefStorageIncrease_premium": "Prémium marhahús tároló elem",
-    "ci_primary_BeefStorageIncrease_premium": "Prémium marhahús tárolási építési elem"
+    "ci_primary_BeefStorageIncrease_premium": "Prémium marhahús tárolási építési elem",
+    "butchershop_name": "Hentesbolt",
+    "butchershop_short_info": "Növeli a kastély összes szarvasmarha-farmjának termelékenységét",
+    "butchershop_upgrade_info": "Növeli a kastély összes szarvasmarha farmjának termelési bónuszát",
+    "ci_blueprint_BeefCapacityBonus_secondary_premium": "Prémium relikviás marhahús tárolási terv",
+    "ci_secondary_BeefCapacityBonus_premium": "Prémium marhahús tároló építési elem"
   },
   "dialogs": {
     "dialog_festival_desc": "Használd arra az élelmeket, hogy lakomát rendezel alattvalóid számára! Amíg tart a lakoma, a toborzás sebessége jelentősen megnő az összes kastélyodban. Minél nagyobb a lakoma, annál nagyobb lesz a hatása.",
@@ -12808,7 +12813,8 @@
     "webshop_fruitbasket_large_name": "Nagy gyümölcskosár",
     "webshop_fruitbasket_medium_name": "Közepes gyümölcsös kosár",
     "webshop_fruitbasket_small_name": "Kis gyümölcsös kosár",
-    "webshop_giftsummer_name": "Nyári parti kezdete"
+    "webshop_giftsummer_name": "Nyári parti kezdete",
+    "ci_effect_beefCapacityBonus_tt": "Marhahús tárolási bónusz:"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% egység harciereje támadáskor",
@@ -14158,7 +14164,32 @@
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% toborzási sebesség",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% oldalsó egység határ támadáskor",
     "effect_description_attackUnitAmountFrontCapped": "+{0}% egységhatár elöl",
-    "ci_effect_beefCapacityBonus": "+{0} marhahús tárolókapacitás"
+    "ci_effect_beefCapacityBonus": "+{0} marhahús tárolókapacitás",
+    "equip_effect_description_allianceAttack": "+{0} harci erő támadáskor. A költségeket az szövetség alapjaiból fedezik.",
+    "equip_effect_description_allianceAttackBoost": "+{0}% Harci erő bónusz támadásokhoz",
+    "equip_effect_description_allianceAttackBoostAliens": "+{0}% Harci erőbónusz a külföldi és a Vérvarjú kastélyok ellen",
+    "equip_effect_description_allianceAttackBoostDaimyo": "+{0}% Harcierej bonusz a daimjó várak ellen",
+    "equip_effect_description_allianceDaimyoCooldownReduction": "-{0}% Várakozási idő a daimjó kastélyoknál",
+    "equip_effect_description_allianceDefenseBoost": "+{0}% Harci erő bónusz védelemhez",
+    "equip_effect_description_allianceKhanCooldownReduction": "-{0}% Támadási hűtési idő Khan táborokhoz",
+    "equip_effect_description_allianceNomadCooldownReduction": "-{0}% Támadási várakozási idő a nomád táborok számára",
+    "equip_effect_description_allianceRageBoost": "+{0}% Harag bónusz Khan táborok támadásáért",
+    "equip_effect_description_allianceSamuraiCooldownReduction": "-{0}% Támadási lehűlés a szamuráj táborokra",
+    "equip_effect_description_attackBonusUnitNomad": "+{0} harci erő nomád és Khan táborok támadása során",
+    "equip_effect_description_battleXPBonus": "+{0}% XP megszerezve a csatában",
+    "equip_effect_description_coinLootBoost": "+{0}% pénz, amelyet NPC célpontoktól loptak",
+    "equip_effect_description_coinLootBoostNomad": "+{0}% érmét raboltak el a nomádoktól",
+    "equip_effect_description_coinLootBoostSamurai": "+{0}% érmét loptak el a szamurájtól",
+    "equip_effect_description_cooldownReductionKhan": "-{0}% Támadási hűtési idő a Khan táborok ellen",
+    "equip_effect_description_cooldownReductionNomad": "-{0}% Támadás hűtési idő a nomád táborok ellen",
+    "equip_effect_description_cooldownReductionSamurai": "-{0}% Várakozási idő a támadásra a szamuráj táborok ellen",
+    "equip_effect_description_fameBoost": "+{0}% Dicsőségbónusz támadásokért",
+    "equip_effect_description_strongerPeasant": "Kicseréli a fegyveres polgárt milíciára",
+    "equip_effect_description_unitSpeedBoost": "+{0}% Katonai, kémkedési és kereskedelmi utazási sebesség",
+    "equip_effect_description_FireBrigadeBoostBuilding": "-{0}% tűzkár",
+    "equip_effect_description_SightRadiusBonus": "+{0}% látósugár",
+    "equip_effect_description_SurvivalBoost": "+{0}% több túlélő katona a védelem után",
+    "equip_effect_description_xpBoost": "+{0} Bónusz minden megszerzett tapasztalati pontra"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Hős",
@@ -20271,7 +20302,15 @@
     "generals_characters_124_name": "Ashira",
     "generals_characters_124_narrative": "A Farkas Suttogó\n\n&quot;Nem minden vadon hívása van szánva válaszra, de ha elég figyelmesen hallgatsz, a föld megmutatja az utat.&quot;\n\nA nyugati partvidék ködbe burkolt esőerdőiben, ahol a fák ősi titkokat súgnak és a vadak árnyékokként mozognak, egy magányos alak jár, akit csak Ashirának, a Farkas Suttogónak hívnak. Vadász, őrző, sokak számára rejtély, ő a vad természet néma hangja és heves védelmezője.\n\nEgy erdő mélyén megbúvó faluban nevelkedett, Ashira megtanulta, hogy inkább hallgasson, mint beszéljen, hogy figyeljen, mint hogy csapjon. Családja úgy hitte, hogy az erdőnek lelke van, és Ashira, senkinél jobban, hallani tudja annak hangját. Az állatok szokatlan bizalommal reagáltak a jelenlétére, és az idő múlásával kötelékeket alakított ki olyan lényekkel, akiktől mások féltek. A nagy sólyom, Ayala, gyermekkori barátja, Leo társa, segítségére siet, amikor hívja. A farkasok az oldalán futnak, nem háziállatokként, hanem szövetségesekként, készen arra, hogy a növényzetből támadjanak, amikor jelét adja.\n\nHosszú íjjal és megerősített nyilakkal felfegyverkezve, Ashira precizitása páratlan. Ahol mások a brutális erőre támaszkodnak, ő a türelemre és az ösztönre bízza a kezét. Még a legyőzhetetlennek tartott vadak is egyetlen nyílvesszővel estek el az íjából. Taktikái olyan folyékonyak, mint az erdő, amelyet otthonának hív, az árnyékból csap le, eltűnik a zöldben, és kimerítő leskelődéssel fárasztja az inváziókat. Nincs szüksége hadseregre, csak a földre és a benne élő lényekre.\n\nBár szíve lázad a birodalmak kegyetlensége ellen, nem a koronákért vagy a dicsőségért harcol. Amikor a vad természet egyensúlya veszélyben van, Ashira előlép. Azok számára, akiknek szükségük van, csendes őrszemmé válik, aki a fából kibukkanva védi a tehetetleneket és visszaveri a természetelleneseket. Az ereje nem a számokban rejlik, hanem a bátorságban, az intuícióban és abban a megbonthatatlan kötelékben, amelyet a természet világával oszt meg.\n\nNéhányaknak szellem. Másoknak mítosz. De azok számára, akik látták őt harcolni, vagy akik megkímélték az irgalmától, ő legenda. Ashira, a Farkas Suttogó, a vad természet megzabolázatlan lelke, egy íj húrja, amelyet a természet védelmére feszítettek, és emlékeztet arra, hogy még a leglágyabb hang is megüthet mint a mennydörgés, amikor maga a föld hív.",
     "generals_characters_124_summary": "Csendes vadász és heves védelmezője a vadonnak.",
-    "currency_description_Orange": "A vágyott narancsok, melyek tele vannak a nyárközép varázsával, a Napőr számára kedvesek. Ajánld fel őket a Midsummer Mirage esemény során, hogy fényes jutalmakat nyerhess!"
+    "currency_description_Orange": "A vágyott narancsok, melyek tele vannak a nyárközép varázsával, a Napőr számára kedvesek. Ajánld fel őket a Midsummer Mirage esemény során, hogy fényes jutalmakat nyerhess!",
+    "currency_description_AllianceCoin": "Az egyesített erő szimbóluma. Használja őket a Nagy Tornához kapcsolódó küldetések teljesítésére. Megvásárolhatók a boltban, vagy nyerhetők jutalomként egyes szövetségi eseményeken. Értékük nőni fog, ahogy új szövetségi kihívások jelennek meg.",
+    "currency_name_AllianceCoin": "Szövetségi érme",
+    "effect_name_fameBoost": "Dicsőségpontok",
+    "effect_name_fireBrigadeBoostBuilding": "Csökkenti a tűz okozta sérüléseket",
+    "effect_name_sightRadiusBonus": "Kiterjesztett látómező",
+    "effect_name_survivalBoost": "A túlélők aránya",
+    "effect_name_xpBoost": "Bónusz az összes megszerzett tapasztalati pontra",
+    "beefbooster": "Marhahús-termelő erősítő"
   },
   "help": {
     "help_location": "Itt áttekintheted a kastélyod és az összes erődöd fontos részeit. ",

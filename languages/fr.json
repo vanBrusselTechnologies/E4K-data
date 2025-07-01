@@ -2079,7 +2079,12 @@
     "ci_blueprint_BeefStorageIncrease": "Plan de lélément de construction de stockage de bœuf premium",
     "ci_blueprint_RelicBeefStorageIncrease": "Plan de stockage de bœuf premium",
     "ci_blueprint_RelicBeefStorageIncrease_premium": "Élément de stockage de bœuf premium",
-    "ci_primary_BeefStorageIncrease_premium": "Élément de construction de stockage de bœuf premium"
+    "ci_primary_BeefStorageIncrease_premium": "Élément de construction de stockage de bœuf premium",
+    "butchershop_name": "Boucherie",
+    "butchershop_short_info": "Augmente la productivité de toutes les fermes de bétail dans le château",
+    "butchershop_upgrade_info": "Augmente le bonus de productivité de toutes les fermes de bovins dans le château",
+    "ci_blueprint_BeefCapacityBonus_secondary_premium": "Plan de stockage de viande de bœuf relique premium",
+    "ci_secondary_BeefCapacityBonus_premium": "Élément de construction pour le stockage de boeuf premium"
   },
   "dialogs": {
     "dialog_festival_desc": "Utilisez de la nourriture pour organiser une fête pour vos villageois ! Tant que la fête durera, la vitesse de recrutement sera considérablement augmentée dans tous vos châteaux. Plus la fête est grande, plus son effet est important.",
@@ -12808,7 +12813,8 @@
     "webshop_fruitbasket_large_name": "Grand panier de fruits",
     "webshop_fruitbasket_medium_name": "Panier de fruits moyen",
     "webshop_fruitbasket_small_name": "Petit panier de fruits",
-    "webshop_giftsummer_name": "Démarrage de la fête dété"
+    "webshop_giftsummer_name": "Démarrage de la fête dété",
+    "ci_effect_beefCapacityBonus_tt": "Bonus de stockage de viande de bœuf :"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% de force de combat de lunité lors de lattaque",
@@ -14158,7 +14164,32 @@
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% vitesse de recrutement",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% limite dunité de flanc lors de lattaque",
     "effect_description_attackUnitAmountFrontCapped": "+{0}% limite dunité à lavant",
-    "ci_effect_beefCapacityBonus": "+{0} capacité de stockage de bœuf"
+    "ci_effect_beefCapacityBonus": "+{0} capacité de stockage de bœuf",
+    "equip_effect_description_allianceAttack": "+{0} force de combat lors de lattaque. Les coûts sont couverts par les fonds de lalliance.",
+    "equip_effect_description_allianceAttackBoost": "+{0}% Bonus de force de combat pour les attaques",
+    "equip_effect_description_allianceAttackBoostAliens": "+{0}% Bonus de force de combat contre les châteaux étrangers et Bloodcrow",
+    "equip_effect_description_allianceAttackBoostDaimyo": "+{0}% Bonus de force de combat contre les châteaux Daimyo",
+    "equip_effect_description_allianceDaimyoCooldownReduction": "-{0}% Délai dattaque pour les châteaux Daimyo",
+    "equip_effect_description_allianceDefenseBoost": "+{0}% Bonus de force de combat pour la défense",
+    "equip_effect_description_allianceKhanCooldownReduction": "-{0}% Délai dattaque pour les camps de Khan",
+    "equip_effect_description_allianceNomadCooldownReduction": "-{0}% Délai dattaque pour les camps nomades",
+    "equip_effect_description_allianceRageBoost": "+{0}% Bonus de rage pour attaquer les camps Khan",
+    "equip_effect_description_allianceSamuraiCooldownReduction": "-{0}% Temps de recharge dattaque pour les camps de samouraïs",
+    "equip_effect_description_attackBonusUnitNomad": "+{0} force de combat lors de lattaque des camps nomades et du Khan",
+    "equip_effect_description_battleXPBonus": "+{0}% XP gagné au combat",
+    "equip_effect_description_coinLootBoost": "+{0}% de pièces volées sur des cibles NPC",
+    "equip_effect_description_coinLootBoostNomad": "+{0}% pièces volées aux nomades",
+    "equip_effect_description_coinLootBoostSamurai": "+{0}% pièces volées aux samouraïs",
+    "equip_effect_description_cooldownReductionKhan": "-{0}% Temps de recharge dattaque contre les camps Khan",
+    "equip_effect_description_cooldownReductionNomad": "-{0}% Délai dattaque contre les camps nomades",
+    "equip_effect_description_cooldownReductionSamurai": "-{0}% Délai dattaque contre les camps de samouraïs",
+    "equip_effect_description_fameBoost": "+{0}% Bonus de gloire pour les attaques",
+    "equip_effect_description_strongerPeasant": "Remplace le citoyen armé par la milice",
+    "equip_effect_description_unitSpeedBoost": "+{0}% Vitesse de voyage militaire, despionnage et commerciale",
+    "equip_effect_description_FireBrigadeBoostBuilding": "-{0}% de dégâts par feu subis",
+    "equip_effect_description_SightRadiusBonus": "+{0}% rayon de vision",
+    "equip_effect_description_SurvivalBoost": "+{0}% de soldats survivants supplémentaires après la défense",
+    "equip_effect_description_xpBoost": "+{0} Bonus sur tous les points dexpérience gagnés"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Héros",
@@ -20271,7 +20302,15 @@
     "generals_characters_124_name": "Ashira",
     "generals_characters_124_narrative": "Le Chuchoteur de Loups\n\n&quot;Tous les appels de la nature ne sont pas destinés à être répondus, mais si vous écoutez attentivement, la terre vous montrera le chemin.&quot;\n\nDans les forêts tropicales embrumées des côtes occidentales, où les arbres murmurent des secrets anciens et où les bêtes se déplacent comme des ombres, marche une figure solitaire connue seulement sous le nom dAshira, le Chuchoteur de Loups. Une chasseuse, une gardienne, un mystère pour beaucoup, elle est la voix silencieuse de la nature et sa défenseure farouche.\n\nÉlevée dans un village niché au cœur de la forêt, Ashira a été enseignée à écouter plutôt quà parler, à observer plutôt quà frapper. Ses proches croyaient que la forêt avait un esprit, et Ashira, plus que quiconque, pouvait entendre sa voix. Les animaux répondaient à sa présence avec une confiance inhabituelle, et au fil du temps, elle tissa des liens avec des créatures que dautres craignaient. Le grand faucon Ayala, compagnon de son ami denfance Leo, vient à son aide lorsquelle lappelle. Les loups courent à ses côtés, non pas comme des animaux de compagnie, mais comme des alliés, prêts à frapper depuis les sous-bois lorsque son signal est donné.\n\nArmée dun arc long et de flèches renforcées, la précision dAshira est inégalée. Là où dautres comptent sur la force brute, elle laisse la patience et linstinct guider sa main. Même des bêtes considérées comme invincibles sont tombées sous une seule flèche de son arc. Ses tactiques sont aussi fluides que la forêt quelle appelle chez elle, frappant depuis les ombres, disparaissant dans le vert et épuisant les envahisseurs par des embuscades inlassables. Elle na besoin daucune armée, seulement de la terre et des créatures qui y résident.\n\nBien que son cœur batte avec une rébellion contre la cruauté des empires, elle ne se bat pas pour des couronnes ou la gloire. Lorsque léquilibre de la nature est menacé, Ashira fait un pas en avant. Pour ceux dans le besoin, elle devient une sentinelle silencieuse, émergeant de la forêt pour protéger les sans défense et repousser linhumain. Sa force ne réside pas dans le nombre, mais dans le courage, lintuition et le lien indéfectible quelle partage avec le monde naturel.\n\nPour certains, elle est un fantôme. Pour dautres, un mythe. Mais pour ceux qui lont vue se battre, ou qui ont été épargnés par sa miséricorde, elle est une légende. Ashira, le Chuchoteur de Loups, est lâme indomptée de la nature, une corde de larc tendue en défense de la nature, et un rappel que même la voix la plus douce peut frapper comme le tonnerre lorsque la terre elle-même appelle.",
     "generals_characters_124_summary": "Chasseur silencieux et protecteur féroce de la nature.",
-    "currency_description_Orange": "Les oranges des souhaits, débordantes de magie de la mi-été, sont chéries par le Gardien du Soleil. Offrez-les lors de lévénement Midsummer Mirage pour débloquer des récompenses éclatantes !"
+    "currency_description_Orange": "Les oranges des souhaits, débordantes de magie de la mi-été, sont chéries par le Gardien du Soleil. Offrez-les lors de lévénement Midsummer Mirage pour débloquer des récompenses éclatantes !",
+    "currency_description_AllianceCoin": "Un symbole de force unie. Utilisez-les pour compléter les quêtes du Grand Tournoi. Ils peuvent être achetés dans la boutique ou gagnés en récompense lors de certains événements dalliance. Leur valeur augmentera à mesure que de nouveaux défis dalliance émergeront.",
+    "currency_name_AllianceCoin": "Pièce dalliance",
+    "effect_name_fameBoost": "Points de gloire",
+    "effect_name_fireBrigadeBoostBuilding": "Réduit les dégâts causés par le feu",
+    "effect_name_sightRadiusBonus": "Champ de vision élargi",
+    "effect_name_survivalBoost": "Pourcentage qui survit",
+    "effect_name_xpBoost": "Bonus sur tous les points dexpérience gagnés",
+    "beefbooster": "Amplificateur de production de bœuf"
   },
   "help": {
     "help_location": "Ici, vous avez un aperçu global des contenus importants de votre château et de tous vos avant-postes.",

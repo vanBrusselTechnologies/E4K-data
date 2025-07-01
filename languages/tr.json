@@ -2079,7 +2079,12 @@
     "ci_blueprint_BeefStorageIncrease": "Premium sığır eti depolama inşaat öğesi planı",
     "ci_blueprint_RelicBeefStorageIncrease": "Premium sığır eti depolama inşaat öğesi planı",
     "ci_blueprint_RelicBeefStorageIncrease_premium": "Premium sığır eti depolama yapı öğesi",
-    "ci_primary_BeefStorageIncrease_premium": "Premium sığır eti depolama inşaat öğesi"
+    "ci_primary_BeefStorageIncrease_premium": "Premium sığır eti depolama inşaat öğesi",
+    "butchershop_name": "Kasap Dükkanı",
+    "butchershop_short_info": "Şatodaki tüm sığır çiftliklerinin verimliliğini artırır",
+    "butchershop_upgrade_info": "Şatodaki tüm sığır çiftliklerinin verimlilik bonusunu artırır",
+    "ci_blueprint_BeefCapacityBonus_secondary_premium": "Premium kalıntı sığır eti depolama planı",
+    "ci_secondary_BeefCapacityBonus_premium": "Premium sığır eti depolama inşaat öğesi"
   },
   "dialogs": {
     "dialog_festival_desc": "Yurttaşlarınıza bir şenlik düzenlemek için yiyecek kullanın!\nŞenlik devam ettiği sürece askere alma hızı tüm kalelerinizde belirgin şekilde artacak. Şenlik ne kadar büyük olursa, etkisi de o kadar büyük olur.",
@@ -12808,7 +12813,8 @@
     "webshop_fruitbasket_large_name": "Büyük meyve sepeti",
     "webshop_fruitbasket_medium_name": "Orta boy meyve sepeti",
     "webshop_fruitbasket_small_name": "Küçük meyve sepeti",
-    "webshop_giftsummer_name": "Yaz Partisi Başlangıcı"
+    "webshop_giftsummer_name": "Yaz Partisi Başlangıcı",
+    "ci_effect_beefCapacityBonus_tt": "Sığır eti depolama bonusu:"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% birimin savaş gücü saldırırken",
@@ -14158,7 +14164,32 @@
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% askere alma hızı",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% yan birim sınırı saldırırken",
     "effect_description_attackUnitAmountFrontCapped": "+{0}% birim sınırı ön tarafta",
-    "ci_effect_beefCapacityBonus": "+{0} sığır eti depolama kapasitesi"
+    "ci_effect_beefCapacityBonus": "+{0} sığır eti depolama kapasitesi",
+    "equip_effect_description_allianceAttack": "+{0} saldırı sırasında savaş gücü. Maliyetler ittifak fonları ile ödenir.",
+    "equip_effect_description_allianceAttackBoost": "+{0}% Saldırılar için savaş gücü bonusu",
+    "equip_effect_description_allianceAttackBoostAliens": "+{0}% Yabancı ve Bloodcrow kalelerine karşı savaş gücü bonusu",
+    "equip_effect_description_allianceAttackBoostDaimyo": "+{0}% Daimyo kalelerine karşı savaş gücü bonusi",
+    "equip_effect_description_allianceDaimyoCooldownReduction": "-{0}% Daimyo kaleleri için saldırı dinmesi",
+    "equip_effect_description_allianceDefenseBoost": "+{0}% Savunma için savaş gücü bonusu",
+    "equip_effect_description_allianceKhanCooldownReduction": "-{0}% Khan kampları için saldırı soğuma süresi",
+    "equip_effect_description_allianceNomadCooldownReduction": "-{0}% Göçebe kamplar için saldırı bekleme süresi",
+    "equip_effect_description_allianceRageBoost": "+{0}% Khan kamplarına saldırırken öfke bonusu",
+    "equip_effect_description_allianceSamuraiCooldownReduction": "-{0}% Samurai kampındaki saldırı soğuma süresi",
+    "equip_effect_description_attackBonusUnitNomad": "+{0} göçebe ve Han kamplarına saldırırken savaş gücü",
+    "equip_effect_description_battleXPBonus": "+{0}% XP savaşta kazanıldı",
+    "equip_effect_description_coinLootBoost": "+{0}% NPC hedeflerinden çalınan madeni paralar",
+    "equip_effect_description_coinLootBoostNomad": "+{0}% göçebelerden çalınan madeni paralar",
+    "equip_effect_description_coinLootBoostSamurai": "+{0}% samuraydan çalınan paralar",
+    "equip_effect_description_cooldownReductionKhan": "-{0}% Khan kamplarına karşı saldırı bekleme süresi",
+    "equip_effect_description_cooldownReductionNomad": "-{0}% Göçebe kamplara karşı saldırı soğuma süresi",
+    "equip_effect_description_cooldownReductionSamurai": "-{0}% Saldırı dinmesi samuray kampına karşı",
+    "equip_effect_description_fameBoost": "+{0}% Şöhret bonusu saldırılar için",
+    "equip_effect_description_strongerPeasant": "Silahlı vatandaşı milisle değiştirir",
+    "equip_effect_description_unitSpeedBoost": "+{0}% Askeri, casus ve ticaret seyahat hızı",
+    "equip_effect_description_FireBrigadeBoostBuilding": "-{0}% ateş hasarı alındı",
+    "equip_effect_description_SightRadiusBonus": "+{0}% görüş alanı",
+    "equip_effect_description_SurvivalBoost": "+{0}% daha fazla hayatta kalan asker savunmadan sonra",
+    "equip_effect_description_xpBoost": "+{0} Kazanılan tüm deneyim puanlarına bonus"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Kahraman",
@@ -20271,7 +20302,15 @@
     "generals_characters_124_name": "Ashira",
     "generals_characters_124_narrative": "Kurtların Fısıldayıcısı &quot;Yerli doğanın her çağrısı cevaplanmak için değildir, ama eğer yeterince dikkatlice dinlerseniz, toprak size yolunu gösterecektir.&quot; Batı kıyılarının sisle kaplı yağmur ormanlarında, ağaçların eski sırları fısıldadığı ve hayvanların gölgeler gibi hareket ettiği yerde, yalnızca Ashira olarak bilinen bir figür yürür, Kurtların Fısıldayıcısı. Bir avcı, bir koruyucu, birçokları için bir sırdır; o, doğanın sessiz sesi ve sert savunucusudur. Ormanın derinliklerinde yer alan bir köyde büyüyen Ashira, konuşmak yerine dinlemeyi, vurmak yerine izlemeyi öğrenmiştir. Ailesi, ormanın bir ruhu olduğunu düşünüyordu ve Ashira, herkesten daha fazla, onun sesini duyabiliyordu. Hayvanlar, onun varlığına alışılmadık bir güvenle tepki veriyordu ve zamanla, diğerlerinin korktuğu yaratıklarla bağ kurdu. Çocukluk arkadaşı Leonun yoldaşı olan büyük şahin Ayala, çağrıldığında ona yardım etmek için gelir. Kurtlar, onun yanında koşar; evcil hayvanlar gibi değil, ama müttefikler gibi, sinyalini verdiğinde çalılıklardan saldırmaya hazırdırlar. Uzun bir yay ve güçlendirilmiş oklarla silahlanmış olan Ashiranın hassasiyeti eşsizdir. Diğerleri kaba kuvvete dayanırken, o sabır ve içgüdülerin elini yönlendirmesine izin verir. Yenilmez olduğu düşünülen hayvanlar bile, oklarından birinin hedefi olmuştur. Taktikleri, evini çağırdığı ormanın akışkanlığı kadar akışkandır; gölgelerden vurur, yeşilliklere kaybolur ve yıpratıcı pusu ile düşmanları bezdirir. Bir orduya ihtiyacı yoktur, yalnızca toprak ve içinde yaşayan yaratıklar gerekir. İmparatorlukların acımasızlığına karşı isyanla çarpan kalbi olsa da, taçlar veya şan için savaşmaz. Vahşi doğanın dengesi tehdit altındaysa, Ashira ileri çıkar. İhtiyaç içinde olanlar için, o sessiz bir bekçi olur, ormandan çıkarak çaresizleri korur ve doğaüstü olanı geri püskürtür. Onun gücü sayılarda değil, cesarette, sezgide ve doğal dünyayla paylaştığı sarsılmaz bağda yatar. Bazılarına göre o bir hayalet. Bazılarına göre bir efsane. Ama onu dövüşürken görenler veya merhametiyle kurtulanlar için, o bir efsanedir. Ashira, Kurtların Fısıldayıcısı, vahşi doğanın evcilleşmemiş ruhudur, doğanın savunmasında çekilen bir yay teli ve toprağın kendisi çağırdığında en yumuşak sesin bile gök gürültüsüyle vurabileceğinin hatırlatıcısıdır.",
     "generals_characters_124_summary": "Sessiz avcı ve vahşi doğanın sert koruyucusu.",
-    "currency_description_Orange": "Orta yaz büyüsüyle dolu dilek portakalları, Güneş Bekçisi tarafından değerli bulunur. Midsummer Mirage etkinliği sırasında sunarak parlayan ödülleri açığa çıkarın!"
+    "currency_description_Orange": "Orta yaz büyüsüyle dolu dilek portakalları, Güneş Bekçisi tarafından değerli bulunur. Midsummer Mirage etkinliği sırasında sunarak parlayan ödülleri açığa çıkarın!",
+    "currency_description_AllianceCoin": "Birleşik gücün sembolü. Onları Büyük Turnuva görevlerini tamamlamak için kullanın. Dükkanlardan satın alınabilir veya bazı ittifak etkinliklerinde ödül olarak kazanılabilir. Yeni ittifak zorlukları ortaya çıktıkça değerleri artacaktır.",
+    "currency_name_AllianceCoin": "İttifak parası",
+    "effect_name_fameBoost": "Şan puanları",
+    "effect_name_fireBrigadeBoostBuilding": "Ateşten alınan hasarı azaltır",
+    "effect_name_sightRadiusBonus": "Genişletilmiş görüş alanı",
+    "effect_name_survivalBoost": "Hayatta kalanların yüzdesi",
+    "effect_name_xpBoost": "Kazanılan tüm deneyim puanlarına bonus",
+    "beefbooster": "Sığır eti üretim güçlendiricisi"
   },
   "help": {
     "help_location": "Buradan kalenin tüm önemli ögelerine ve ileri karakollara genel olarak bakabilirsin.",

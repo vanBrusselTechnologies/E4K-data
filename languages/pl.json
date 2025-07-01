@@ -2079,7 +2079,12 @@
     "ci_blueprint_BeefStorageIncrease": "Plan budowy elementu do przechowywania premium wołowiny",
     "ci_blueprint_RelicBeefStorageIncrease": "Plan elementu do przechowywania premium wołowiny",
     "ci_blueprint_RelicBeefStorageIncrease_premium": "Premium element do przechowywania wołowiny",
-    "ci_primary_BeefStorageIncrease_premium": "Element budowy do przechowywania premium wołowiny"
+    "ci_primary_BeefStorageIncrease_premium": "Element budowy do przechowywania premium wołowiny",
+    "butchershop_name": "Rzeźnia",
+    "butchershop_short_info": "Zwiększa wydajność wszystkich farm bydła w zamku",
+    "butchershop_upgrade_info": "Zwiększa bonus produktywności wszystkich farm bydła w zamku",
+    "ci_blueprint_BeefCapacityBonus_secondary_premium": "Plan przechowywania premium reliktowego wołowiny",
+    "ci_secondary_BeefCapacityBonus_premium": "Element budowy do magazynowania premium wołowiny"
   },
   "dialogs": {
     "dialog_festival_desc": "Użyj jedzenia, aby zorganizować święto dla Twoich obywateli! Szybkość rekrutacji znacznie będzie rosła we wszystkich twoich zamkach przez czas obchodów święta. Im większe święto, tym większe efekty.",
@@ -12808,7 +12813,8 @@
     "webshop_fruitbasket_large_name": "Duży kosz owoców",
     "webshop_fruitbasket_medium_name": "Średni kosz owoców",
     "webshop_fruitbasket_small_name": "Mały kosz owoców",
-    "webshop_giftsummer_name": "Początek letniej imprezy"
+    "webshop_giftsummer_name": "Początek letniej imprezy",
+    "ci_effect_beefCapacityBonus_tt": "Bonus za przechowywanie wołowiny:"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% siły bojowej jednostki podczas ataku",
@@ -14158,7 +14164,32 @@
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% szybkość werbunku",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% limit jednostki flankowej podczas ataku",
     "effect_description_attackUnitAmountFrontCapped": "+{0}% limit jednostek z przodu",
-    "ci_effect_beefCapacityBonus": "+{0} pojemność magazynu wołowiny"
+    "ci_effect_beefCapacityBonus": "+{0} pojemność magazynu wołowiny",
+    "equip_effect_description_allianceAttack": "+{0} siła bojowa podczas ataku. Koszty są pokrywane z funduszy sojuszu.",
+    "equip_effect_description_allianceAttackBoost": "+{0}% Bonus siły bojowej dla ataków",
+    "equip_effect_description_allianceAttackBoostAliens": "+{0}% Bonus siły walki przeciwko obcym i zamkom Bloodcrow",
+    "equip_effect_description_allianceAttackBoostDaimyo": "+{0}% Bonus siły walki przeciwko zamkom daimyo",
+    "equip_effect_description_allianceDaimyoCooldownReduction": "-{0}% Blokada funkcji ataku dla zamków daimyo",
+    "equip_effect_description_allianceDefenseBoost": "+{0}% Bonus siły walki dla obrony",
+    "equip_effect_description_allianceKhanCooldownReduction": "-{0}% Czas odnowienia ataku dla obozów chana",
+    "equip_effect_description_allianceNomadCooldownReduction": "-{0}% Czas odnowienia ataku dla obozów nomadów",
+    "equip_effect_description_allianceRageBoost": "+{0}% Bonus wściekłości za atak na obozy chana",
+    "equip_effect_description_allianceSamuraiCooldownReduction": "-{0}% Czas ochłodzenia ataku dla obozów samurajów",
+    "equip_effect_description_attackBonusUnitNomad": "+{0} siła bojowa podczas ataku na obozy nomadów i chana",
+    "equip_effect_description_battleXPBonus": "+{0}% XP zdobyte w bitwie",
+    "equip_effect_description_coinLootBoost": "+{0}% monet skradzionych z celów NPC",
+    "equip_effect_description_coinLootBoostNomad": "+{0}% monet skradzionych od nomadów",
+    "equip_effect_description_coinLootBoostSamurai": "+{0}% monet skradzionych od samuraja",
+    "equip_effect_description_cooldownReductionKhan": "-{0}% Czas odnowienia ataku przeciwko obozom chana",
+    "equip_effect_description_cooldownReductionNomad": "-{0}% Czas odnowienia ataku na obozowiska nomadów",
+    "equip_effect_description_cooldownReductionSamurai": "-{0}% Blokada funkcji ataku przeciwko obozom samurajów",
+    "equip_effect_description_fameBoost": "+{0}% Premia do chwały za ataki",
+    "equip_effect_description_strongerPeasant": "Zastępuje uzbrojonego obywatela milicją",
+    "equip_effect_description_unitSpeedBoost": "+{0}% Prędkość podróży wojskowej, szpiegowskiej i handlowej",
+    "equip_effect_description_FireBrigadeBoostBuilding": "-{0}% otrzymanych obrażeń od ognia",
+    "equip_effect_description_SightRadiusBonus": "+{0}% promień widzenia",
+    "equip_effect_description_SurvivalBoost": "+{0}% więcej ocalałych żołnierzy po obronie",
+    "equip_effect_description_xpBoost": "+{0} Bonus za wszystkie zdobyte punkty doświadczenia"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Bohater",
@@ -20271,7 +20302,15 @@
     "generals_characters_124_name": "Ashira",
     "generals_characters_124_narrative": "Szeptacz Wilków\n\n&quot;Nie każde wołanie dzikiej natury jest przeznaczone do odpowiedzi, ale jeśli słuchasz wystarczająco uważnie, ziemia pokaże ci swoją drogę.&quot;\n\nW spowitych mgłą lasach deszczowych zachodniego wybrzeża, gdzie drzewa szeptają pradawne sekrety, a bestie poruszają się jak cienie, kroczy samotna postać znana tylko jako Ashira, Szeptacz Wilków. Łowczyni, strażniczka, zagadka dla wielu, jest cichym głosem dzikiej natury i jej zaciekłą obrończynią.\n\nWychowana w wiosce ukrytej głęboko w lesie, Ashira nauczyła się słuchać, a nie mówić, obserwować, a nie atakować. Jej bliscy wierzyli, że las ma ducha, a Ashira, bardziej niż ktokolwiek inny, potrafiła usłyszeć jego głos. Zwierzęta reagowały na jej obecność niezwykłym zaufaniem, a z czasem zawiązała więzi z istotami, których inni się bali. Wielki sokół Ayala, towarzysz jej przyjaciela z dzieciństwa Leo, przychodzi jej z pomocą, gdy jest wzywana. Wilki biegają u jej boku, nie jako zwierzęta domowe, lecz jako sojusznicy, gotowe do ataku z zarośli, gdy wydaje sygnał.\n\nUzbrojona w długi łuk i wzmocnione strzały, precyzja Ashiry jest niezrównana. Tam, gdzie inni polegają na brutalnej sile, ona pozwala cierpliwości i instynktowi prowadzić swoją rękę. Nawet bestie uważane za niepokonane padały od jednej strzały z jej łuku. Jej taktyka jest tak płynna, jak las, który nazywa domem, uderzając z cienia, znikając w zieleni i wyczerpując intruzów nieustannymi zasadzkami. Nie potrzebuje armii, tylko ziemi i stworzeń, które w niej zamieszkują.\n\nChoć jej serce bije w oporze przeciwko okrucieństwu imperiów, nie walczy o korony ani chwałę. Gdy równowaga dzikiej natury jest zagrożona, Ashira staje do walki. Dla tych, którzy potrzebują, staje się cichym strażnikiem, wychodząc z lasu, aby chronić bezbronnych i odpychać nienaturalne. Jej siła nie tkwi w liczbie, ale w odwadze, intuicji i niezłomnej więzi, którą dzieli z naturalnym światem.\n\nDla niektórych jest duchem. Dla innych, mitem. Ale dla tych, którzy widzieli ją w walce lub zostali ocaleni przez jej łaskę, jest legendą. Ashira, Szeptacz Wilków, jest nieokiełznaną duszą dzikiej natury, cięciwą naciągniętą w obronie natury i przypomnieniem, że nawet najdelikatniejszy głos może uderzyć z grzmotem, gdy samo ziemia woła.",
     "generals_characters_124_summary": "Cichy myśliwy i dziki obrońca przyrody.",
-    "currency_description_Orange": "Wishing Oranges, pełne magii letniego przesilenia, są cenione przez Strażnika Słońca. Ofiaruj je podczas wydarzenia Midsummer Mirage, aby odblokować promienne nagrody!"
+    "currency_description_Orange": "Wishing Oranges, pełne magii letniego przesilenia, są cenione przez Strażnika Słońca. Ofiaruj je podczas wydarzenia Midsummer Mirage, aby odblokować promienne nagrody!",
+    "currency_description_AllianceCoin": "Symbol zjednoczonej siły. Użyj ich, aby ukończyć zadania w Grand Tournament. Można je kupić w sklepie lub zdobyć jako nagrodę w niektórych wydarzeniach sojuszniczych. Ich wartość będzie rosła, gdy pojawią się nowe wyzwania sojusznicze.",
+    "currency_name_AllianceCoin": "Moneta sojuszu",
+    "effect_name_fameBoost": "Punkty chwały",
+    "effect_name_fireBrigadeBoostBuilding": "Zmniejsza obrażenia od ognia",
+    "effect_name_sightRadiusBonus": "Rozszerzone pole widzenia",
+    "effect_name_survivalBoost": "Procent, który przeżywa",
+    "effect_name_xpBoost": "Bonus za wszystkie zdobyte punkty doświadczenia",
+    "beefbooster": "Wzmacniacz produkcji wołowiny"
   },
   "help": {
     "help_location": "W tym miejscu masz globalny przegląd ważnych elementów zamku oraz wszystkich posterunków.",

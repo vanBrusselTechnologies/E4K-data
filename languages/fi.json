@@ -2079,7 +2079,12 @@
     "ci_blueprint_BeefStorageIncrease": "Premium naudanlihan varastorakennus suunnitelma",
     "ci_blueprint_RelicBeefStorageIncrease": "Premium naudanlihan säilytysrakennuskuva",
     "ci_blueprint_RelicBeefStorageIncrease_premium": "Premium naudanlihan säilytyselementti",
-    "ci_primary_BeefStorageIncrease_premium": "Premium naudanlihan varastointirakennusosa"
+    "ci_primary_BeefStorageIncrease_premium": "Premium naudanlihan varastointirakennusosa",
+    "butchershop_name": "Teurastamo",
+    "butchershop_short_info": "Lisää kaikkien karjatilojen tuottavuutta linnassa",
+    "butchershop_upgrade_info": "Lisää kaikkien karjatilojen tuottavuusbonusta linnassa",
+    "ci_blueprint_BeefCapacityBonus_secondary_premium": "Premium-reliikkilihavarastointisuunnitelma",
+    "ci_secondary_BeefCapacityBonus_premium": "Premium naudanlihan säilytysrakennus"
   },
   "dialogs": {
     "dialog_festival_desc": "Järjestä kansalaisillesi kestit ruokaa käyttämällä! Värväys nopeutuu kaikissa linnoissasi huomattavasti, niin kauan kuin kestit jatkuvat. Mitä isommat kestit järjestät, sitä suurempi niiden vaikutus on.",
@@ -12808,7 +12813,8 @@
     "webshop_fruitbasket_large_name": "Iso hedelmäkori",
     "webshop_fruitbasket_medium_name": "Keskikokoinen hedelmäkori",
     "webshop_fruitbasket_small_name": "Pieni hedelmäkori",
-    "webshop_giftsummer_name": "Kesäjuhlan aloitus"
+    "webshop_giftsummer_name": "Kesäjuhlan aloitus",
+    "ci_effect_beefCapacityBonus_tt": "Naudanlihan varastobonus:"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% yksikön taisteluvoima hyökkäyksessä",
@@ -14158,7 +14164,32 @@
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% värväysnopeus",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% sivustayksikön raja hyökkäyksessä",
     "effect_description_attackUnitAmountFrontCapped": "+{0}% yksikköraja edessä",
-    "ci_effect_beefCapacityBonus": "+{0} naudanlihan varastointikapasiteetti"
+    "ci_effect_beefCapacityBonus": "+{0} naudanlihan varastointikapasiteetti",
+    "equip_effect_description_allianceAttack": "+{0} taisteluvoimaa hyökkäyksessä. Kulut maksetaan liiton varoista.",
+    "equip_effect_description_allianceAttackBoost": "+{0}% Taisteluvahvuuden bonus hyökkäyksiin",
+    "equip_effect_description_allianceAttackBoostAliens": "+{0}% Taisteluvoiman bonus vihollisten ja Bloodcrow-linnoituksia vastaan",
+    "equip_effect_description_allianceAttackBoostDaimyo": "+{0}% Taisteluvoiman bonus daimyo-linnoituksia vastaan",
+    "equip_effect_description_allianceDaimyoCooldownReduction": "-{0}% Hyökkäyksen odotusaika daimio-linnoille",
+    "equip_effect_description_allianceDefenseBoost": "+{0}% Taisteluvoiman bonus puolustukseen",
+    "equip_effect_description_allianceKhanCooldownReduction": "-{0}% Hyökkäysjäähdytys Khan-leireille",
+    "equip_effect_description_allianceNomadCooldownReduction": "-{0}% Hyökkäyksen odotusaika nomadileireille",
+    "equip_effect_description_allianceRageBoost": "+{0}% Raivobonus hyökkäyksille Khan-leireihin",
+    "equip_effect_description_allianceSamuraiCooldownReduction": "-{0}% Hyökkäyksen viivästysaika samuraileireille",
+    "equip_effect_description_attackBonusUnitNomad": "+{0} taisteluvahvuus hyökätessä nomadi- ja Khan-leirien kimppuun",
+    "equip_effect_description_battleXPBonus": "+{0}% XP ansaittu taistelussa",
+    "equip_effect_description_coinLootBoost": "+{0}% kolikoita ryöstetty NPC-kohteista",
+    "equip_effect_description_coinLootBoostNomad": "+{0}% kolikoita varastettu nomadeilta",
+    "equip_effect_description_coinLootBoostSamurai": "+{0}% kolikoita ryöstetty samurailta",
+    "equip_effect_description_cooldownReductionKhan": "-{0}% Hyökkäyksen jäähdytysaika Khan-leirejä vastaan",
+    "equip_effect_description_cooldownReductionNomad": "-{0}% Hyökkäysjähdytys nomadileirejä vastaan",
+    "equip_effect_description_cooldownReductionSamurai": "-{0}% Hyökkäyksen odotusaika samuraileirejä vastaan",
+    "equip_effect_description_fameBoost": "+{0}% Kunnia-bonus hyökkäyksille",
+    "equip_effect_description_strongerPeasant": "Korvataan aseistettu kansalainen miliisillä",
+    "equip_effect_description_unitSpeedBoost": "+{0}% Sotilas-, vakoilu- ja kaupankäyntimatkanopeus",
+    "equip_effect_description_FireBrigadeBoostBuilding": "-{0}% kärsitty tulivahinko",
+    "equip_effect_description_SightRadiusBonus": "+{0}% näkösäde",
+    "equip_effect_description_SurvivalBoost": "+{0}% enemmän eloonjääneitä sotilaita puolustuksen jälkeen",
+    "equip_effect_description_xpBoost": "+{0} Bonusta kaikista ansaitsemistasi kokemuspisteistä"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Sankari",
@@ -20271,7 +20302,15 @@
     "generals_characters_124_name": "Ashira",
     "generals_characters_124_narrative": "Suden Kuiskaaja\n\n&quot;Ei jokainen villin kutsu ole tarkoitettu vastattavaksi, mutta jos kuuntelet tarpeeksi tarkasti, maa näyttää sinulle tien.&quot;\n\nLänsirannikon sumuverhoissa sademetsissä, missä puut kuiskaavat muinaisia salaisuuksia ja eläimet liikkuvat kuin varjot, kulkee yksinäinen hahmo, jota tunnetaan vain nimellä Ashira, Suden Kuiskaaja. Metsästäjä, vartija, monille mysteeri, hän on villin hiljainen ääni ja ankara puolustaja.\n\nSyvällä metsän sisällä sijaitsevassa kylässä kasvatettuna Ashira oppi kuuntelemaan sen sijaan, että puhuisi, katsomaan sen sijaan, että iskisi. Hänen sukulaisensa uskoivat, että metsässä on henki, ja Ashira pystyi enemmän kuin kukaan muu kuulemaan sen äänen. Eläimet vastasivat hänen läsnäoloonsa epätavallisella luottamuksella, ja ajan myötä hän muodosti siteitä olentoihin, joita muut pelkäsivät. Suuri falcon Ayala, lapsuudenystävä Leion kumppani, tulee hänen avukseen, kun hän kutsuu. Sudet juoksevat hänen rinnallaan, eivät lemmikkeinä, vaan liittolaisina, valmiina iskemään aluskasvillisuudesta, kun hänen merkkiään annetaan.\n\nPitkällä jousella ja vahvistetuilla nuolilla varustettuna Ashiran tarkkuus on vertaansa vailla. Siellä missä muut tukeutuvat brutevoimaan, hän antaa kärsivällisyyden ja vaiston ohjata kättään. Jopa eläimet, joita pidetään voittamattomina, ovat kaatuneet yhdestä nuolesta hänen jousestaan. Hänen taktiikkansa ovat yhtä joustavia kuin metsä, jota hän kutsuu kodikseen, iskien varjoista, häviten vihreään ja kuluttaen hyökkääjiä väsymättömillä väijytyksillä. Hän ei tarvitse armeijaa, vain maan ja siinä asuvat olennot.\n\nVaikka hänen sydämensä sykkii kapinassa imperiumien julmuutta vastaan, hän ei taistele kruunujen tai kunnian puolesta. Kun villin tasapaino on uhattuna, Ashira astuu esiin. Niille, jotka tarvitsevat apua, hänestä tulee hiljainen vartija, joka nousee metsästä suojellakseen avuttomia ja karkottaakseen epänormaalia. Hänen voimansa ei ole lukumäärissä, vaan rohkeudessa, intuitiossa ja järkkymättömässä siteessä, jonka hän jakaa luonnon kanssa.\n\nJoillekin hän on aave. Toisille, myytti. Mutta niille, jotka ovat nähneet hänen taistelevan tai olleet säästyneitä hänen armossaan, hän on legenda. Ashira, Suden Kuiskaaja, on villin sielu, jousi, joka on vedetty luonnon puolustamiseksi, ja muistutus siitä, että jopa pehmein ääni voi iskeä ukkosen lailla, kun maa itse kutsuu.",
     "generals_characters_124_summary": "Hiljainen metsästäjä ja hurja suojelija villillä.",
-    "currency_description_Orange": "Toiveoranssit, jotka pursuavat keskikesän taikaa, ovat Aurinkovartijan kalleuksia. Tarjoa niitä Midsummer Mirage -tapahtumassa avataksesi säihkeitä palkintoja!"
+    "currency_description_Orange": "Toiveoranssit, jotka pursuavat keskikesän taikaa, ovat Aurinkovartijan kalleuksia. Tarjoa niitä Midsummer Mirage -tapahtumassa avataksesi säihkeitä palkintoja!",
+    "currency_description_AllianceCoin": "Yhdistevoiman symboli. Käytä niitä Grand Tournament -tehtävien suorittamiseen. Ne voidaan ostaa kaupasta tai voittaa palkintona joissakin liittotapahtumissa. Niiden arvo kasvaa uusien liittotavoitteiden myötä.",
+    "currency_name_AllianceCoin": "Liittouman kolikko",
+    "effect_name_fameBoost": "Mainepisteet",
+    "effect_name_fireBrigadeBoostBuilding": "Vähentää tulivahinkoja",
+    "effect_name_sightRadiusBonus": "Laajennettu näkökenttä",
+    "effect_name_survivalBoost": "Prosenttiosuus, joka elää",
+    "effect_name_xpBoost": "Bonus kaikista ansaituista kokemuspisteistä",
+    "beefbooster": "Naudanlihan tehostin"
   },
   "help": {
     "help_location": "Täältä saat yleiskatsauksen linnaasi ja etuvartioihisi liittyvään sisältöön.",

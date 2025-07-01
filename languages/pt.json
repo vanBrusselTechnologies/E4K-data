@@ -2079,7 +2079,12 @@
     "ci_blueprint_BeefStorageIncrease": "Projeto do item de construção de armazenamento de carne premium",
     "ci_blueprint_RelicBeefStorageIncrease": "Projeto de armazenamento de carne bovina premium",
     "ci_blueprint_RelicBeefStorageIncrease_premium": "Item de armazenamento de carne bovina premium",
-    "ci_primary_BeefStorageIncrease_premium": "Item de construção para armazenamento de carne premium"
+    "ci_primary_BeefStorageIncrease_premium": "Item de construção para armazenamento de carne premium",
+    "butchershop_name": "Açougue",
+    "butchershop_short_info": "Aumenta a produtividade de todas as fazendas de gado no castelo",
+    "butchershop_upgrade_info": "Aumenta o bônus de produtividade de todas as fazendas de gado no castelo",
+    "ci_blueprint_BeefCapacityBonus_secondary_premium": "Planta de armazenamento de carne bovina relíquia premium",
+    "ci_secondary_BeefCapacityBonus_premium": "Item de construção para armazenamento de carne bovina premium"
   },
   "dialogs": {
     "dialog_festival_desc": "Use comida para organizar um banquete para os cidadãos! A velocidade de recrutamento aumentará consideravelmente em todos os seus castelos durante o banquete. Quanto maior o banquete, maior o efeito.",
@@ -12808,7 +12813,8 @@
     "webshop_fruitbasket_large_name": "Grande cesta de frutas",
     "webshop_fruitbasket_medium_name": "Cesta de frutas média",
     "webshop_fruitbasket_small_name": "Pequena cesta de frutas",
-    "webshop_giftsummer_name": "Início da festa de verão"
+    "webshop_giftsummer_name": "Início da festa de verão",
+    "ci_effect_beefCapacityBonus_tt": "Bônus de armazenamento de carne bovina:"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% de força de combate da unidade ao atacar",
@@ -14158,7 +14164,32 @@
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% velocidade de recrutamento",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% limite da unidade de flanco ao atacar",
     "effect_description_attackUnitAmountFrontCapped": "+{0}% limite de unidades na frente",
-    "ci_effect_beefCapacityBonus": "+{0} capacidade de armazenamento de carne bovina"
+    "ci_effect_beefCapacityBonus": "+{0} capacidade de armazenamento de carne bovina",
+    "equip_effect_description_allianceAttack": "+{0} força de combate ao atacar. Os custos são pagos com os fundos da aliança.",
+    "equip_effect_description_allianceAttackBoost": "+{0}% Bônus de força de combate para ataques",
+    "equip_effect_description_allianceAttackBoostAliens": "+{0}% Bônus de força de combate contra castelos estrangeiros e Bloodcrow",
+    "equip_effect_description_allianceAttackBoostDaimyo": "+{0}% Bônus de força de combate contra castelos daimyo",
+    "equip_effect_description_allianceDaimyoCooldownReduction": "-{0}% Tempo de espera de ataque para castelos daimyo",
+    "equip_effect_description_allianceDefenseBoost": "+{0}% Bônus de força de combate para defesa",
+    "equip_effect_description_allianceKhanCooldownReduction": "-{0}% Tempo de recarga de ataque para campos Khan",
+    "equip_effect_description_allianceNomadCooldownReduction": "-{0}% Tempo de recarga de ataque para acampamentos nômades",
+    "equip_effect_description_allianceRageBoost": "+{0}% Bônus de fúria ao atacar acampamentos Khan",
+    "equip_effect_description_allianceSamuraiCooldownReduction": "-{0}% Tempo de recarga de ataque para acampamentos samurais",
+    "equip_effect_description_attackBonusUnitNomad": "+{0} força de combate ao atacar acampamentos nômades e do Khan",
+    "equip_effect_description_battleXPBonus": "+{0}% XP ganho em batalha",
+    "equip_effect_description_coinLootBoost": "+{0}% moedas saqueadas de alvos NPC",
+    "equip_effect_description_coinLootBoostNomad": "+{0}% moedas saqueadas dos nômades",
+    "equip_effect_description_coinLootBoostSamurai": "+{0}% moedas saqueadas de samurai",
+    "equip_effect_description_cooldownReductionKhan": "-{0}% Tempo de recarga de ataque contra acampamentos Khan",
+    "equip_effect_description_cooldownReductionNomad": "-{0}% Tempo de recarga de ataque contra acampamentos nômades",
+    "equip_effect_description_cooldownReductionSamurai": "-{0}% Tempo de espera de ataque contra acampamentos samurai",
+    "equip_effect_description_fameBoost": "+{0}% Bônus de glória para ataques",
+    "equip_effect_description_strongerPeasant": "Substitui o cidadão armado pela milícia",
+    "equip_effect_description_unitSpeedBoost": "+{0}% Velocidade de viagem militar, de espionagem e comercial",
+    "equip_effect_description_FireBrigadeBoostBuilding": "-{0}% de dano por fogo sofrido",
+    "equip_effect_description_SightRadiusBonus": "+{0}% raio de visão",
+    "equip_effect_description_SurvivalBoost": "+{0}% mais soldados sobreviventes após a defesa",
+    "equip_effect_description_xpBoost": "+{0} Bônus em todos os pontos de experiência ganhos"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Herói",
@@ -20271,7 +20302,15 @@
     "generals_characters_124_name": "Ashira",
     "generals_characters_124_narrative": "O Sussurrador de Lobos\n\n&quot;Nem todo chamado da selva deve ser respondido, mas se você ouvir com atenção, a terra te mostrará o seu caminho.&quot;\n\nNas florestas tropicais envoltas em névoa da costa ocidental, onde as árvores sussurram segredos antigos e as bestas se movem como sombras, caminha uma figura solitária conhecida apenas como Ashira, o Sussurrador de Lobos. Uma caçadora, uma guardiã, um mistério para muitos, ela é a voz silenciosa da selva e uma defensora feroz.\n\nCriada em uma aldeia escondida nas profundezas da floresta, Ashira foi ensinada a ouvir em vez de falar, a observar em vez de atacar. Seus parentes acreditavam que a floresta tinha um espírito, e Ashira, mais do que ninguém, podia ouvir sua voz. Os animais respondiam à sua presença com uma confiança incomum, e com o tempo ela formou laços com criaturas que outros temiam. O grande falcão Ayala, companheiro de seu amigo de infância Leo, vem em seu auxílio quando convocado. Lobos correm ao seu lado, não como animais de estimação, mas como aliados, prontos para atacar do sub-bosque quando seu sinal é dado.\n\nArmada com um arco longo e flechas reforçadas, a precisão de Ashira é incomparável. Onde outros confiam na força bruta, ela deixa que a paciência e o instinto guiem sua mão. Mesmo bestas consideradas invencíveis caíram diante de uma única flecha de seu arco. Suas táticas são tão fluidas quanto a floresta que chama de lar, atacando das sombras, desaparecendo no verde e desgastando os invasores com emboscadas incansáveis. Ela não precisa de um exército, apenas da terra e das criaturas que nela habitam.\n\nEmbora seu coração bata com rebelião contra a crueldade dos impérios, ela não luta por coroas ou glória. Quando o equilíbrio da selva é ameaçado, Ashira avança. Para aqueles que precisam, ela se torna uma sentinela silenciosa, emergindo da floresta para proteger os indefesos e repelir o antinatural. Sua força não está em números, mas em coragem, intuição e no vínculo inabalável que compartilha com o mundo natural.\n\nPara alguns, ela é um fantasma. Para outros, um mito. Mas para aqueles que a viram lutar ou foram poupados por sua misericórdia, ela é uma lenda. Ashira, o Sussurrador de Lobos, é a alma indomada da selva, uma corda de arco esticada em defesa da natureza e um lembrete de que até a voz mais suave pode atacar com trovão quando a própria terra clama.",
     "generals_characters_124_summary": "Caçador silencioso e feroz protetor da natureza.",
-    "currency_description_Orange": "Laranjas dos desejos, repletas de magia de meio de verão, são apreciadas pelo Guardião do Sol. Ofereça-as durante o evento Midsummer Mirage para desbloquear recompensas radiantes!"
+    "currency_description_Orange": "Laranjas dos desejos, repletas de magia de meio de verão, são apreciadas pelo Guardião do Sol. Ofereça-as durante o evento Midsummer Mirage para desbloquear recompensas radiantes!",
+    "currency_description_AllianceCoin": "Um símbolo de força unida. Use-os para completar as missões do Grande Torneio. Podem ser comprados na loja ou ganhos como recompensa em alguns eventos de aliança. Seu valor crescerá à medida que novos desafios de aliança surgirem.",
+    "currency_name_AllianceCoin": "Moeda da aliança",
+    "effect_name_fameBoost": "Pontos de glória",
+    "effect_name_fireBrigadeBoostBuilding": "Reduz o dano causado pelo fogo",
+    "effect_name_sightRadiusBonus": "Campo de visão ampliado",
+    "effect_name_survivalBoost": "Porcentagem que sobrevive",
+    "effect_name_xpBoost": "Bônus em todos os pontos de experiência ganhos",
+    "beefbooster": "Acelerador de produção de carne bovina"
   },
   "help": {
     "help_location": "Aqui você tem uma visão geral global do conteúdo importante do seu castelo e de todos os seus postos avançados.",

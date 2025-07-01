@@ -2079,7 +2079,12 @@
     "ci_blueprint_BeefStorageIncrease": "Premium beef storage build item blueprint",
     "ci_blueprint_RelicBeefStorageIncrease": "Premium relic beef storage build item blueprint",
     "ci_blueprint_RelicBeefStorageIncrease_premium": "Premium relic beef storage build item",
-    "ci_primary_BeefStorageIncrease_premium": "Premium beef storage build item"
+    "ci_primary_BeefStorageIncrease_premium": "Premium beef storage build item",
+    "butchershop_name": "Butcher Shop",
+    "butchershop_short_info": "Increases the productivity of all cattle farms in the castle",
+    "butchershop_upgrade_info": "Increases the productivity bonus of all cattle farms in the castle",
+    "ci_blueprint_BeefCapacityBonus_secondary_premium": "Premium relic beef storage blueprint",
+    "ci_secondary_BeefCapacityBonus_premium": "Premium relic beef storage build item"
   },
   "dialogs": {
     "dialog_festival_desc": "Use your food to hold a feast for your citizens!\nSoldiers will be recruited much more quickly in all of your castles for as long as the feast lasts. The bigger the feast, the greater the effect.",
@@ -12808,7 +12813,8 @@
     "webshop_fruitbasket_large_name": "Large Fruit Basket",
     "webshop_fruitbasket_medium_name": "Medium Fruit Basket",
     "webshop_fruitbasket_small_name": "Small Fruit Basket",
-    "webshop_giftsummer_name": "Summer Party Starter"
+    "webshop_giftsummer_name": "Summer Party Starter",
+    "ci_effect_beefCapacityBonus_tt": "Beef storage bonus:"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% unit combat strength when attacking",
@@ -14158,7 +14164,32 @@
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% recruitment speed",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% flank unit limit when attacking",
     "effect_description_attackUnitAmountFrontCapped": "+{0}% unit limit on the front",
-    "ci_effect_beefCapacityBonus": "+{0} beef storage capacity"
+    "ci_effect_beefCapacityBonus": "+{0} beef storage capacity",
+    "equip_effect_description_allianceAttack": "+{0} combat strength when attacking. The costs are paid using the alliance funds.",
+    "equip_effect_description_allianceAttackBoost": "+{0}% Combat strength bonus for attacks",
+    "equip_effect_description_allianceAttackBoostAliens": "+{0}% Combat strength bonus against Foreign and Bloodcrow castles",
+    "equip_effect_description_allianceAttackBoostDaimyo": "+{0}% Combat strength bonus against Daimyo castles",
+    "equip_effect_description_allianceDaimyoCooldownReduction": "-{0}% Attack cooldown for Daimyo castles",
+    "equip_effect_description_allianceDefenseBoost": "+{0}% Combat strength bonus for defense",
+    "equip_effect_description_allianceKhanCooldownReduction": "-{0}% Attack cooldown for for Khan camps",
+    "equip_effect_description_allianceNomadCooldownReduction": "-{0}% Attack cooldown for nomad camps",
+    "equip_effect_description_allianceRageBoost": "+{0}% Rage bonus for attacking Khan camps",
+    "equip_effect_description_allianceSamuraiCooldownReduction": "-{0}% Attack cooldown for samurai camps",
+    "equip_effect_description_attackBonusUnitNomad": "+{0} combat strength when attacking nomad and Khan camps",
+    "equip_effect_description_battleXPBonus": "+{0}% XP earned in battle",
+    "equip_effect_description_coinLootBoost": "+{0}% Coins looted from NPC targets",
+    "equip_effect_description_coinLootBoostNomad": "+{0}% Coins looted from nomads",
+    "equip_effect_description_coinLootBoostSamurai": "+{0}% Coins looted from samurai",
+    "equip_effect_description_cooldownReductionKhan": "-{0}% Attack cooldown against Khan camps",
+    "equip_effect_description_cooldownReductionNomad": "-{0}% Attack cooldown against nomad camps",
+    "equip_effect_description_cooldownReductionSamurai": "-{0}% Attack cooldown against samurai camps",
+    "equip_effect_description_fameBoost": "+{0}% Glory bonus for attacks",
+    "equip_effect_description_strongerPeasant": "Replaces the armed citizen with Militia",
+    "equip_effect_description_unitSpeedBoost": "+{0}% Military, espionage and trade travel speed",
+    "equip_effect_description_FireBrigadeBoostBuilding": "-{0}% fire damage suffered",
+    "equip_effect_description_SightRadiusBonus": "+{0}% Sight Radius",
+    "equip_effect_description_SurvivalBoost": "+{0}% more surviving Soldiers after Defense",
+    "equip_effect_description_xpBoost": "+{0} Bonus on all experience points earned"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Hero",
@@ -20271,7 +20302,15 @@
     "generals_characters_124_name": "Ashira",
     "generals_characters_124_narrative": "The Wolf Whisperer\n\n&quot;Not every call of the wild is meant to be answered, but if you listen closely enough, the land will show you its way.&quot;\n\nIn the mist-veiled rainforests of the western coastlands, where the trees whisper ancient secrets and beasts move like shadows, walks a solitary figure known only as Ashira, the Wolf Whisperer. A hunter, a guardian, a mystery to many, she is the wild’s silent voice and fierce defender.\n\nRaised in a village nestled deep within the forest, Ashira was taught to listen rather than speak, to watch rather than strike. Her kin believed that the forest had a spirit, and Ashira, more than anyone, could hear its voice. Animals responded to her presence with unusual trust, and over time she formed bonds with creatures that others feared. The great falcon Ayala, companion to her childhood friend Leo, comes to her aid when summoned. Wolves run at her side, not as pets, but as allies, ready to strike from the undergrowth when her signal is given.\n\nArmed with a longbow and reinforced arrows, Ashira’s precision is unmatched. Where others rely on brute force, she lets patience and instinct guide her hand. Even beasts thought invincible have fallen to a single arrow from her bow. Her tactics are as fluid as the forest she calls home, striking from the shadows, vanishing into the green, and wearing down invaders with tireless ambushes. She needs no army, only the land and the creatures that dwell within it.\n\nThough her heart beats with rebellion against the cruelty of empires, she does not fight for crowns or glory. When the balance of the wild is threatened, Ashira steps forward. For those in need, she becomes a silent sentinel, emerging from the forest to shield the helpless and drive back the unnatural. Her strength is not in numbers, but in courage, intuition, and the unshakable bond she shares with the natural world.\n\nTo some, she is a ghost. To others, a myth. But to those who have seen her fight, or been spared by her mercy, she is legend. Ashira, the Wolf Whisperer, is the untamed soul of the wild, a bowstring drawn in nature’s defense, and a reminder that even the softest voice can strike with thunder when the land itself calls.",
     "generals_characters_124_summary": "Silent hunter and fierce protector of the wild.",
-    "currency_description_Orange": "Wishing Oranges, bursting with midsummer magic, are cherished by the Sunkeeper. Offer them during the Midsummer Mirage event to unlock radiant rewards!"
+    "currency_description_Orange": "Wishing Oranges, bursting with midsummer magic, are cherished by the Sunkeeper. Offer them during the Midsummer Mirage event to unlock radiant rewards!",
+    "currency_description_AllianceCoin": "A symbol of united strength. Use them to complete Grand Tournament quests. They can be purchased in the shop or won as a reward in some alliance events. Their value will grow as new alliance challenges emerge.",
+    "currency_name_AllianceCoin": "Alliance Coin",
+    "effect_name_fameBoost": "Glory points",
+    "effect_name_fireBrigadeBoostBuilding": "Reduces damage from fire",
+    "effect_name_sightRadiusBonus": "Extended field of vision",
+    "effect_name_survivalBoost": "Percentage who survive",
+    "effect_name_xpBoost": "Bonus on all experience points earned",
+    "beefbooster": "Beef production booster"
   },
   "help": {
     "help_location": "Here you have a global overview of the important contents of your castle and all your outposts.",

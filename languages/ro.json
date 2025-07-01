@@ -2079,7 +2079,12 @@
     "ci_blueprint_BeefStorageIncrease": "Planul elementului de construcție pentru depozitarea cărnii premium",
     "ci_blueprint_RelicBeefStorageIncrease": "Plan de stocare a cărnii de vită premium",
     "ci_blueprint_RelicBeefStorageIncrease_premium": "Element de depozitare a cărnii de vită premium",
-    "ci_primary_BeefStorageIncrease_premium": "Element de construcție pentru depozitarea cărnii premium"
+    "ci_primary_BeefStorageIncrease_premium": "Element de construcție pentru depozitarea cărnii premium",
+    "butchershop_name": "Măcelărie",
+    "butchershop_short_info": "Crește productivitatea tuturor fermelor de vite din castel",
+    "butchershop_upgrade_info": "Crește bonusul de productivitate al tuturor fermelor de vite din castel",
+    "ci_blueprint_BeefCapacityBonus_secondary_premium": "Plan de depozitare a cărnii de vită relicvă premium",
+    "ci_secondary_BeefCapacityBonus_premium": "Element de construcție pentru depozitarea cărnii de vită premium"
   },
   "dialogs": {
     "dialog_festival_desc": "Foloseşte alimente ca să organizezi un festin pentru cetăţenii tăi! Viteza de recrutare va creşte în mod considerabil la toate castelele tale în timpul festinului. Cu cât festinul este mai mare, cu atât creşte şi efectul.",
@@ -12808,7 +12813,8 @@
     "webshop_fruitbasket_large_name": "Coș mare de fructe",
     "webshop_fruitbasket_medium_name": "Coș de fructe mediu",
     "webshop_fruitbasket_small_name": "Micu coș de fructe",
-    "webshop_giftsummer_name": "Începutul petrecerii de vară"
+    "webshop_giftsummer_name": "Începutul petrecerii de vară",
+    "ci_effect_beefCapacityBonus_tt": "Bonus de stocare a cărnii de vită:"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% puterea de luptă a unității în atac",
@@ -14158,7 +14164,32 @@
     "effect_description_recruitmentSpeedBoostAllCapped": "+{0}% viteză de recrutare",
     "effect_description_attackUnitAmountFlankCapped": "+{0}% limit unitate flanc la atac",
     "effect_description_attackUnitAmountFrontCapped": "+{0}% limită de unități în față",
-    "ci_effect_beefCapacityBonus": "+{0} capacitate de stocare a cărnii de vită"
+    "ci_effect_beefCapacityBonus": "+{0} capacitate de stocare a cărnii de vită",
+    "equip_effect_description_allianceAttack": "+{0} puterea de luptă la atac. Costurile sunt acoperite din fondurile alianței.",
+    "equip_effect_description_allianceAttackBoost": "+{0}% Bonus de putere de luptă pentru atacuri",
+    "equip_effect_description_allianceAttackBoostAliens": "+{0}% Bonus de putere de luptă împotriva castelurilor străine și Bloodcrow",
+    "equip_effect_description_allianceAttackBoostDaimyo": "+{0}% Bonus de forță de luptă împotriva castelului daimyo",
+    "equip_effect_description_allianceDaimyoCooldownReduction": "-{0}% Răcire atac pentru castelele daimyo",
+    "equip_effect_description_allianceDefenseBoost": "+{0}% Bonus de putere de luptă pentru apărare",
+    "equip_effect_description_allianceKhanCooldownReduction": "-{0}% Timp de reîncărcare a atacului pentru taberele Khan",
+    "equip_effect_description_allianceNomadCooldownReduction": "-{0}% Timpul de recuperare a atacului pentru taberele nomade",
+    "equip_effect_description_allianceRageBoost": "+{0}% Bonus de furie pentru atacarea taberelor Khan",
+    "equip_effect_description_allianceSamuraiCooldownReduction": "-{0}% Timp de răcire a atacului pentru taberele samurailor",
+    "equip_effect_description_attackBonusUnitNomad": "+{0} putere de luptă când ataci taberele nomade și ale Hanului",
+    "equip_effect_description_battleXPBonus": "+{0}% XP câștigat în bătălie",
+    "equip_effect_description_coinLootBoost": "+{0}% monede furate de la ținte NPC",
+    "equip_effect_description_coinLootBoostNomad": "+{0}% monede furate de la nomazi",
+    "equip_effect_description_coinLootBoostSamurai": "+{0}% monede furate de la samurai",
+    "equip_effect_description_cooldownReductionKhan": "-{0}% Timp de răcire a atacului împotriva taberelor Khan",
+    "equip_effect_description_cooldownReductionNomad": "-{0}% Răcire atac împotriva taberelor nomade",
+    "equip_effect_description_cooldownReductionSamurai": "-{0}% Răcire atac împotriva taberelor samurailor",
+    "equip_effect_description_fameBoost": "+{0}% Bonus de glorie pentru atacuri",
+    "equip_effect_description_strongerPeasant": "Înlocuiește cetățeanul înarmat cu miliția",
+    "equip_effect_description_unitSpeedBoost": "+{0}% Viteza de călătorie militară, de spionaj și comercială",
+    "equip_effect_description_FireBrigadeBoostBuilding": "-{0}% daune prin incendiu suferite",
+    "equip_effect_description_SightRadiusBonus": "+{0}% rază de vedere",
+    "equip_effect_description_SurvivalBoost": "+{0}% mai mulți soldați supraviețuitori după apărare",
+    "equip_effect_description_xpBoost": "+{0} Bonus pe toate punctele de experiență câștigate"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Erou",
@@ -20271,7 +20302,15 @@
     "generals_characters_124_name": "Ashira",
     "generals_characters_124_narrative": "Șoptitorul de Lupi\n\n&quot;Nu fiecare chemare a sălbăticiei trebuie să fie răspunsă, dar dacă asculți îndeaproape, pământul îți va arăta calea.&quot;\n\nÎn pădurile tropicale acoperite de ceață ale țărmurilor vestice, unde copacii șoptesc secrete străvechi și fiarele se mișcă ca umbre, umblă o figură solitară cunoscută doar ca Ashira, Șoptitorul de Lupi. O vânătoare, o păzitoare, un mister pentru mulți, ea este vocea tăcută a sălbăticiei și o apărătoare feroce.\n\nCrescută într-un sat ascuns adânc în pădure, Ashira a fost învățată să asculte în loc să vorbească, să observe în loc să lovească. Rudele ei credeau că pădurea are un spirit, iar Ashira, mai mult decât oricine, putea auzi vocea ei. Animalele răspundeau la prezența ei cu o încredere neobișnuită, iar în timp a format legături cu creaturi de care alții se temeau. Marele șoim Ayala, tovarăș al prietenului ei din copilărie Leo, îi vine în ajutor atunci când este chemată. Lupii alergau alături de ea, nu ca animale de companie, ci ca aliați, pregătiți să atace din subboschet atunci când semnalul ei era dat.\n\nÎnarmată cu un arc lung și săgeți întărite, precizia Ashirei este neegalată. Acolo unde alții se bazează pe forța brută, ea își lasă răbdarea și instinctul să-i ghideze mâna. Chiar și fiare considerate invincibile au căzut în fața unei singure săgeți din arcul ei. Tactica ei este la fel de fluidă ca pădurea pe care o numește acasă, atacând din umbre, dispărând în verde și obosind invadatorii cu ambuscade neobosite. Nu are nevoie de o armată, ci doar de pământul și creaturile care locuiesc în el.\n\nDeși inima ei bate cu rebeliune împotriva cruzimii imperiilor, ea nu luptă pentru coroane sau glorie. Atunci când echilibrul sălbăticiei este amenințat, Ashira înaintează. Pentru cei care au nevoie, devine un paznic tăcut, ieșind din pădure pentru a proteja pe cei neputincioși și a alunga ne-naturalul. Forța ei nu stă în numere, ci în curaj, intuiție și legătura neclintită pe care o împărtășește cu lumea naturală.\n\nPentru unii, ea este un fantomă. Pentru alții, un mit. Dar pentru cei care au văzut-o luptând sau au fost cruțați de mila ei, ea este o legendă. Ashira, Șoptitorul de Lupi, este sufletul neîmblânzit al sălbăticiei, o coardă de arc întinsă în apărarea naturii și o amintire că chiar și cea mai blândă voce poate lovi cu tunete atunci când pământul însuși cheamă.",
     "generals_characters_124_summary": "Vânător tăcut și protector feroce al sălbăticiei.",
-    "currency_description_Orange": "Portocalele dorinței, pline de magie a mijlocului verii, sunt prețuite de Păzitorul Soarelui. Oferiți-le în timpul evenimentului Midsummer Mirage pentru a debloca recompense radiante!"
+    "currency_description_Orange": "Portocalele dorinței, pline de magie a mijlocului verii, sunt prețuite de Păzitorul Soarelui. Oferiți-le în timpul evenimentului Midsummer Mirage pentru a debloca recompense radiante!",
+    "currency_description_AllianceCoin": "Un simbol al forței unite. Folosește-le pentru a finaliza misiunile de la Marele Turneu. Pot fi cumpărate din magazin sau câștigate ca recompensă în unele evenimente de alianță. Valoarea lor va crește pe măsură ce apar noi provocări de alianță.",
+    "currency_name_AllianceCoin": "Moneda alianței",
+    "effect_name_fameBoost": "Puncte de glorie",
+    "effect_name_fireBrigadeBoostBuilding": "Reduce daunele cauzate de foc",
+    "effect_name_sightRadiusBonus": "Câmp de vedere extins",
+    "effect_name_survivalBoost": "Procentul care supraviețuiește",
+    "effect_name_xpBoost": "Bonus pentru toate punctele de experiență câștigate",
+    "beefbooster": "Amplificator pentru producția de carne de vită"
   },
   "help": {
     "help_location": "Aici ai o prezentare globală a conţinuturilor importante ale castelului tău şi ale tuturor avanposturilor tale.",

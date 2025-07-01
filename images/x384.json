@@ -5273,77 +5273,77 @@
     ],
     "fx": []
   },
-  "Market_Building_Level1": {
+  "ButcherShop_Building_Level1": {
     "pid": 0,
-    "url": "x384/Buildings/Market/Market_Building_Level1/Market_Building_Level1.png",
+    "url": "x384/Buildings/ButcherShop/ButcherShop_Building_Level1/ButcherShop_Building_Level1.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
-        "w": 123,
-        "h": 86,
-        "rx": 939,
-        "ry": 974
-      }
-    ],
-    "fx": []
-  },
-  "Market_Building_Level2": {
-    "pid": 0,
-    "url": "x384/Buildings/Market/Market_Building_Level2/Market_Building_Level2.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 135,
-        "h": 112,
+        "w": 133,
+        "h": 138,
         "rx": 930,
-        "ry": 953
+        "ry": 931
       }
     ],
     "fx": []
   },
-  "Market_Building_Level3": {
+  "ButcherShop_Building_Level2": {
     "pid": 0,
-    "url": "x384/Buildings/Market/Market_Building_Level3/Market_Building_Level3.png",
+    "url": "x384/Buildings/ButcherShop/ButcherShop_Building_Level2/ButcherShop_Building_Level2.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
-        "w": 141,
-        "h": 114,
-        "rx": 927,
-        "ry": 951
+        "w": 133,
+        "h": 148,
+        "rx": 930,
+        "ry": 920
       }
     ],
     "fx": []
   },
-  "Market_Building_Level4": {
+  "ButcherShop_Building_Level3": {
     "pid": 0,
-    "url": "x384/Buildings/Market/Market_Building_Level4/Market_Building_Level4.png",
+    "url": "x384/Buildings/ButcherShop/ButcherShop_Building_Level3/ButcherShop_Building_Level3.png",
     "frames": [
       {
         "x": 0,
         "y": 0,
-        "w": 141,
-        "h": 143,
-        "rx": 925,
-        "ry": 922
-      }
-    ],
-    "fx": []
-  },
-  "Market_Building_Level5": {
-    "pid": 0,
-    "url": "x384/Buildings/Market/Market_Building_Level5/Market_Building_Level5.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 139,
-        "h": 157,
-        "rx": 927,
+        "w": 133,
+        "h": 160,
+        "rx": 930,
         "ry": 909
+      }
+    ],
+    "fx": []
+  },
+  "ButcherShop_Building_Level4": {
+    "pid": 0,
+    "url": "x384/Buildings/ButcherShop/ButcherShop_Building_Level4/ButcherShop_Building_Level4.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 137,
+        "h": 185,
+        "rx": 926,
+        "ry": 884
+      }
+    ],
+    "fx": []
+  },
+  "ButcherShop_Building_Level5": {
+    "pid": 0,
+    "url": "x384/Buildings/ButcherShop/ButcherShop_Building_Level5/ButcherShop_Building_Level5.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 145,
+        "h": 195,
+        "rx": 919,
+        "ry": 874
       }
     ],
     "fx": []
@@ -18907,6 +18907,81 @@
         "rotation": 0
       }
     ]
+  },
+  "Market_Building_Level1": {
+    "pid": 0,
+    "url": "x384/Buildings/Market/Market_Building_Level1/Market_Building_Level1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 123,
+        "h": 86,
+        "rx": 939,
+        "ry": 974
+      }
+    ],
+    "fx": []
+  },
+  "Market_Building_Level2": {
+    "pid": 0,
+    "url": "x384/Buildings/Market/Market_Building_Level2/Market_Building_Level2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 135,
+        "h": 112,
+        "rx": 930,
+        "ry": 953
+      }
+    ],
+    "fx": []
+  },
+  "Market_Building_Level3": {
+    "pid": 0,
+    "url": "x384/Buildings/Market/Market_Building_Level3/Market_Building_Level3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 141,
+        "h": 114,
+        "rx": 927,
+        "ry": 951
+      }
+    ],
+    "fx": []
+  },
+  "Market_Building_Level4": {
+    "pid": 0,
+    "url": "x384/Buildings/Market/Market_Building_Level4/Market_Building_Level4.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 141,
+        "h": 143,
+        "rx": 925,
+        "ry": 922
+      }
+    ],
+    "fx": []
+  },
+  "Market_Building_Level5": {
+    "pid": 0,
+    "url": "x384/Buildings/Market/Market_Building_Level5/Market_Building_Level5.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 139,
+        "h": 157,
+        "rx": 927,
+        "ry": 909
+      }
+    ],
+    "fx": []
   },
   "Market_Building_Level6_C1": {
     "pid": 0,
@@ -47794,714 +47869,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 431,
-        "h": 307,
-        "rx": 784,
-        "ry": 846
-      },
-      {
-        "x": 400,
-        "y": 307,
-        "w": 215,
-        "h": 20,
-        "rx": 892,
-        "ry": 990
-      },
-      {
-        "x": 431,
-        "y": 0,
-        "w": 185,
-        "h": 307,
-        "rx": 907,
-        "ry": 846
-      },
-      {
-        "x": 743,
-        "y": 233,
-        "w": 167,
-        "h": 169,
-        "rx": 916,
-        "ry": 915
-      },
-      {
-        "x": 287,
-        "y": 307,
         "w": 113,
         "h": 147,
         "rx": 943,
         "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 287,
-        "y": 307,
-        "w": 113,
-        "h": 147,
-        "rx": 943,
-        "ry": 926
-      },
-      {
-        "x": 616,
-        "y": 290,
-        "w": 51,
-        "h": 165,
-        "rx": 974,
-        "ry": 917
-      },
-      {
-        "x": 616,
-        "y": 0,
-        "w": 127,
-        "h": 290,
-        "rx": 936,
-        "ry": 838
-      },
-      {
-        "x": 0,
-        "y": 307,
-        "w": 287,
-        "h": 145,
-        "rx": 856,
-        "ry": 927
-      },
-      {
-        "x": 743,
-        "y": 0,
-        "w": 171,
-        "h": 233,
-        "rx": 914,
-        "ry": 883
       }
     ],
     "fx": []
@@ -88701,6 +88072,21 @@
     ],
     "fx": []
   },
+  "icon_alliance_coa_small": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_alliance_coa_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 37,
+        "h": 35,
+        "rx": 981,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
   "icon_alliance_coa_tab": {
     "pid": 0,
     "url": "x384/Icons/Icons/icon_alliance_coa_tab.png",
@@ -88712,6 +88098,21 @@
         "h": 49,
         "rx": 976,
         "ry": 975
+      }
+    ],
+    "fx": []
+  },
+  "icon_alliance_coa_xxs": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_alliance_coa_xxs.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 17,
+        "rx": 991,
+        "ry": 991
       }
     ],
     "fx": []
@@ -88866,6 +88267,21 @@
     ],
     "fx": []
   },
+  "icon_alliance_xxs": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_alliance_xxs.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 17,
+        "rx": 987,
+        "ry": 991
+      }
+    ],
+    "fx": []
+  },
   "icon_alliance": {
     "pid": 0,
     "url": "x384/Icons/Icons/icon_alliance.png",
@@ -88922,6 +88338,36 @@
         "h": 46,
         "rx": 972,
         "ry": 977
+      }
+    ],
+    "fx": []
+  },
+  "icon_ame_event_tab": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_ame_event_tab.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 49,
+        "h": 50,
+        "rx": 975,
+        "ry": 975
+      }
+    ],
+    "fx": []
+  },
+  "icon_ame_rules_tab": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_ame_rules_tab.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 49,
+        "h": 47,
+        "rx": 975,
+        "ry": 976
       }
     ],
     "fx": []
@@ -89372,6 +88818,21 @@
         "h": 55,
         "rx": 965,
         "ry": 972
+      }
+    ],
+    "fx": []
+  },
+  "icon_beef_storage_big": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_beef_storage_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 59,
+        "rx": 971,
+        "ry": 970
       }
     ],
     "fx": []
@@ -98061,6 +97522,81 @@
     ],
     "fx": []
   },
+  "icon_currency_QuestTicket_big": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_QuestTicket_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 43,
+        "h": 57,
+        "rx": 978,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_QuestTicket_medium": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_QuestTicket_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 33,
+        "h": 43,
+        "rx": 983,
+        "ry": 978
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_QuestTicket_small": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_QuestTicket_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 13,
+        "h": 17,
+        "rx": 993,
+        "ry": 991
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_QuestTicket_xl": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_QuestTicket_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 63,
+        "h": 84,
+        "rx": 968,
+        "ry": 958
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_QuestTicket": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_QuestTicket.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 27,
+        "h": 35,
+        "rx": 986,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_RampartDoubloon_medium": {
     "pid": 1,
     "url": "x384/Icons/Icons/icon_currency_RampartDoubloon_medium.png",
@@ -104466,6 +104002,21 @@
     ],
     "fx": []
   },
+  "icon_global_effect_small": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_global_effect_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 37,
+        "rx": 982,
+        "ry": 981
+      }
+    ],
+    "fx": []
+  },
   "icon_global_effect_xl": {
     "pid": 1,
     "url": "x384/Icons/Icons/icon_global_effect_xl.png",
@@ -104477,6 +104028,21 @@
         "h": 107,
         "rx": 950,
         "ry": 946
+      }
+    ],
+    "fx": []
+  },
+  "icon_global_effect_xxs": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_global_effect_xxs.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 17,
+        "h": 19,
+        "rx": 991,
+        "ry": 990
       }
     ],
     "fx": []
@@ -107931,6 +107497,36 @@
     ],
     "fx": []
   },
+  "icon_player_crest_small": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_player_crest_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 33,
+        "h": 32,
+        "rx": 983,
+        "ry": 984
+      }
+    ],
+    "fx": []
+  },
+  "icon_player_crest_xxs": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_player_crest_xxs.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 17,
+        "h": 17,
+        "rx": 991,
+        "ry": 991
+      }
+    ],
+    "fx": []
+  },
   "icon_playerInfluence_big": {
     "pid": 1,
     "url": "x384/Icons/Icons/icon_playerInfluence_big.png",
@@ -108936,6 +108532,21 @@
     ],
     "fx": []
   },
+  "icon_ranking_ds": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_ranking_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 49,
+        "h": 44,
+        "rx": 975,
+        "ry": 978
+      }
+    ],
+    "fx": []
+  },
   "icon_ranking_medium": {
     "pid": 1,
     "url": "x384/Icons/Icons/icon_ranking_medium.png",
@@ -108977,6 +108588,21 @@
         "h": 35,
         "rx": 972,
         "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "icon_ranking_rewards_ds_small": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_ranking_rewards_ds_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 34,
+        "rx": 982,
+        "ry": 983
       }
     ],
     "fx": []
@@ -111501,6 +111127,36 @@
     ],
     "fx": []
   },
+  "icon_subscription_star_small": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_subscription_star_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 27,
+        "h": 25,
+        "rx": 986,
+        "ry": 987
+      }
+    ],
+    "fx": []
+  },
+  "icon_subscription_star_xxs": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_subscription_star_xxs.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 17,
+        "h": 16,
+        "rx": 991,
+        "ry": 992
+      }
+    ],
+    "fx": []
+  },
   "icon_summer_event": {
     "pid": 1,
     "url": "x384/Icons/Icons/icon_summer_event.png",
@@ -112986,6 +112642,36 @@
     ],
     "fx": []
   },
+  "icon_villages_small": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_villages_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 29,
+        "h": 27,
+        "rx": 985,
+        "ry": 986
+      }
+    ],
+    "fx": []
+  },
+  "icon_villages_xxs": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_villages_xxs.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 17,
+        "h": 17,
+        "rx": 991,
+        "ry": 991
+      }
+    ],
+    "fx": []
+  },
   "icon_war_effort_big": {
     "pid": 1,
     "url": "x384/Icons/Icons/icon_war_effort_big.png",
@@ -113109,6 +112795,21 @@
   "icon_xp_booster": {
     "pid": 1,
     "url": "x384/Icons/Icons/icon_xp_booster.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 61,
+        "h": 60,
+        "rx": 969,
+        "ry": 970
+      }
+    ],
+    "fx": []
+  },
+  "icon_xp_paragon_booster_stat": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_xp_paragon_booster_stat.png",
     "frames": [
       {
         "x": 0,
@@ -115941,6 +115642,21 @@
     ],
     "fx": []
   },
+  "icon_effect_fireBrigadeBoost": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_effect_fireBrigadeBonus_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 27,
+        "h": 31,
+        "rx": 986,
+        "ry": 984
+      }
+    ],
+    "fx": []
+  },
   "icon_houseoffire": {
     "pid": 0,
     "url": "x384/Icons/IconsShared/icon_effect_fireBrigadeBonus_Shared.png",
@@ -116646,6 +116362,21 @@
     ],
     "fx": []
   },
+  "icon_effect_sightRadiusBonus": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_effect_perceptionBonus_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 38,
+        "h": 23,
+        "rx": 981,
+        "ry": 988
+      }
+    ],
+    "fx": []
+  },
   "icon_search_a_small": {
     "pid": 0,
     "url": "x384/Icons/IconsShared/icon_effect_perceptionBonus_Shared.png",
@@ -116856,6 +116587,36 @@
     ],
     "fx": []
   },
+  "icon_effect_survivalBoost": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_effect_survivalBoost_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 31,
+        "h": 33,
+        "rx": 984,
+        "ry": 983
+      }
+    ],
+    "fx": []
+  },
+  "icon_medico_effect": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_effect_survivalBoost_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 31,
+        "h": 33,
+        "rx": 984,
+        "ry": 983
+      }
+    ],
+    "fx": []
+  },
   "icon_building_related_effect_forge": {
     "pid": 0,
     "url": "x384/Icons/IconsShared/icon_effect_toolProductionSpeedBoostAll_Shared.png",
@@ -117047,6 +116808,21 @@
         "h": 29,
         "rx": 980,
         "ry": 985
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_xpBoost": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_effect_xpBoost_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 38,
+        "rx": 980,
+        "ry": 981
       }
     ],
     "fx": []
@@ -121831,6 +121607,36 @@
         "w": 35,
         "h": 39,
         "rx": 982,
+        "ry": 980
+      }
+    ],
+    "fx": []
+  },
+  "SceatSkill_71_xl": {
+    "pid": 2,
+    "url": "x384/Icons/SkillIcons/SceatSkill_71_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 119,
+        "h": 119,
+        "rx": 940,
+        "ry": 940
+      }
+    ],
+    "fx": []
+  },
+  "SceatSkill_71": {
+    "pid": 2,
+    "url": "x384/Icons/SkillIcons/SceatSkill_71.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 39,
+        "h": 39,
+        "rx": 980,
         "ry": 980
       }
     ],
@@ -130461,6 +130267,21 @@
     ],
     "fx": []
   },
+  "global_primetime_background_IndependenceDay2024": {
+    "pid": 1,
+    "url": "x384/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_IndependenceDay2024.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 641,
+        "h": 801,
+        "rx": 679,
+        "ry": 599
+      }
+    ],
+    "fx": []
+  },
   "global_primetime_background_Spring2024": {
     "pid": 1,
     "url": "x384/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_Spring2024.png",
@@ -130566,6 +130387,21 @@
     ],
     "fx": []
   },
+  "global_primetime_hub_teaser_IndependenceDay2024": {
+    "pid": 1,
+    "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_IndependenceDay2024.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 769,
+        "h": 666,
+        "rx": 615,
+        "ry": 667
+      }
+    ],
+    "fx": []
+  },
   "global_primetime_hub_teaser_Spring2024": {
     "pid": 1,
     "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_Spring2024.png",
@@ -130667,6 +130503,21 @@
         "h": 179,
         "rx": 615,
         "ry": 871
+      }
+    ],
+    "fx": []
+  },
+  "global_primetime_teaser_IndependenceDay2024": {
+    "pid": 1,
+    "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_IndependenceDay2024.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 625,
+        "h": 493,
+        "rx": 687,
+        "ry": 753
       }
     ],
     "fx": []
@@ -131619,6 +131470,21 @@
   "Teaser_OffersHub_Big_WhaleChest_13": {
     "pid": 1,
     "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_13.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 769,
+        "h": 333,
+        "rx": 615,
+        "ry": 833
+      }
+    ],
+    "fx": []
+  },
+  "Teaser_OffersHub_Big_WhaleChest_14": {
+    "pid": 0,
+    "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_14.png",
     "frames": [
       {
         "x": 0,
@@ -132759,21 +132625,6 @@
   "Teaser_OffersHub_Big_38": {
     "pid": 1,
     "url": "x384/Misc/TeasersShared/Teaser_OffersHub_Big_38_Shared.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 769,
-        "h": 333,
-        "rx": 615,
-        "ry": 833
-      }
-    ],
-    "fx": []
-  },
-  "Teaser_OffersHub_Big_WhaleChest_14": {
-    "pid": 1,
-    "url": "x384/Misc/TeasersShared/Teaser_OffersHub_Big_39_Shared.png",
     "frames": [
       {
         "x": 0,

@@ -785,7 +785,8 @@
       "kIDs": 0,
       "eventType": "PrivatePrimeTimeEvent",
       "minLevel": 6,
-      "maxLevel": 99
+      "maxLevel": 99,
+      "onlyPayUser": 1
     },
     {
       "eventID": 115,
@@ -793,7 +794,8 @@
       "kIDs": 0,
       "eventType": "ReactivationPrivatePrimeTimeEvent",
       "minLevel": 6,
-      "maxLevel": 99
+      "maxLevel": 99,
+      "onlyPayUser": 1
     },
     {
       "eventID": 87,
