@@ -55662,6 +55662,21 @@
     ],
     "fx": []
   },
+  "Background_Generals_Overview_Preview_Kaelrith": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_Kaelrith.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1211,
+        "h": 1217,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
   "Background_Generals_Overview_Preview_KingOlafson": {
     "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_KingOlafson.png",
@@ -72944,6 +72959,51 @@
     ],
     "fx": []
   },
+  "items_unique_1279": {
+    "pid": 1,
+    "url": "x384/Equipment/EquipmentShared/items_unique_1279_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1280": {
+    "pid": 1,
+    "url": "x384/Equipment/EquipmentShared/items_unique_1280_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1281": {
+    "pid": 1,
+    "url": "x384/Equipment/EquipmentShared/items_unique_1281_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
   "items_unique_2005": {
     "pid": 0,
     "url": "x384/Equipment/EquipmentShared/items_unique_2004_Shared.png",
@@ -84082,6 +84142,51 @@
     ],
     "fx": []
   },
+  "alliance_coa_layout_13": {
+    "pid": 1,
+    "url": "x384/Icons/CrestIcons/alliance_coa_layout_13.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 98,
+        "h": 102,
+        "rx": 951,
+        "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "alliance_coa_layout_14": {
+    "pid": 1,
+    "url": "x384/Icons/CrestIcons/alliance_coa_layout_14.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 98,
+        "h": 102,
+        "rx": 951,
+        "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "alliance_coa_layout_15": {
+    "pid": 1,
+    "url": "x384/Icons/CrestIcons/alliance_coa_layout_15.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 97,
+        "h": 102,
+        "rx": 951,
+        "ry": 949
+      }
+    ],
+    "fx": []
+  },
   "icon_effect_alliance_coa_1": {
     "pid": 0,
     "url": "x384/Icons/EffectIcons/icon_effect_alliance_coa_1.png",
@@ -86057,6 +86162,51 @@
         "w": 73,
         "h": 69,
         "rx": 963,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Kaelrith_xl": {
+    "pid": 1,
+    "url": "x384/Icons/GeneralIcons/icon_general_preview_Kaelrith_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 100,
+        "rx": 949,
+        "ry": 953
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Kaelrith_xxl": {
+    "pid": 1,
+    "url": "x384/Icons/GeneralIcons/icon_general_preview_Kaelrith_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 130,
+        "rx": 937,
+        "ry": 940
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Kaelrith": {
+    "pid": 1,
+    "url": "x384/Icons/GeneralIcons/icon_general_preview_Kaelrith.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 68,
+        "rx": 966,
         "ry": 967
       }
     ],
@@ -88132,6 +88282,96 @@
     ],
     "fx": []
   },
+  "icon_alliance_crest_small": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_alliance_crest_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 31,
+        "rx": 987,
+        "ry": 984
+      }
+    ],
+    "fx": []
+  },
+  "icon_alliance_division_1": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_alliance_division_1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 29,
+        "h": 34,
+        "rx": 985,
+        "ry": 983
+      }
+    ],
+    "fx": []
+  },
+  "icon_alliance_division_2": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_alliance_division_2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 29,
+        "rx": 983,
+        "ry": 985
+      }
+    ],
+    "fx": []
+  },
+  "icon_alliance_division_3": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_alliance_division_3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 32,
+        "rx": 982,
+        "ry": 984
+      }
+    ],
+    "fx": []
+  },
+  "icon_alliance_division_4": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_alliance_division_4.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 33,
+        "h": 35,
+        "rx": 983,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "icon_alliance_division_5": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_alliance_division_5.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 35,
+        "rx": 982,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
   "icon_alliance_help_pay_rubies": {
     "pid": 0,
     "url": "x384/Icons/Icons/icon_alliance_help_pay_rubies.png",
@@ -88353,6 +88593,156 @@
         "h": 50,
         "rx": 975,
         "ry": 975
+      }
+    ],
+    "fx": []
+  },
+  "icon_ame_quest_defeatTarget_completed": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_ame_quest_defeatTarget_completed.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 47,
+        "rx": 976,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "icon_ame_quest_defeatTarget": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_ame_quest_defeatTarget.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 47,
+        "rx": 976,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "icon_ame_quest_obtainCurrenciesOrResources_completed": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_ame_quest_obtainCurrenciesOrResources_completed.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 57,
+        "rx": 974,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "icon_ame_quest_obtainCurrenciesOrResources": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_ame_quest_obtainCurrenciesOrResources.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 57,
+        "rx": 974,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "icon_ame_quest_obtainUnits_completed": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_ame_quest_obtainUnits_completed.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 47,
+        "rx": 971,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "icon_ame_quest_obtainUnits": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_ame_quest_obtainUnits.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 47,
+        "rx": 971,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "icon_ame_quest_spendCurrenciesOrResources_completed": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_ame_quest_spendCurrenciesOrResources_completed.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 46,
+        "h": 47,
+        "rx": 977,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "icon_ame_quest_spendCurrenciesOrResources": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_ame_quest_spendCurrenciesOrResources.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 46,
+        "h": 47,
+        "rx": 977,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "icon_ame_quest_upgradeTarget_completed": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_ame_quest_upgradeTarget_completed.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 45,
+        "rx": 973,
+        "ry": 977
+      }
+    ],
+    "fx": []
+  },
+  "icon_ame_quest_upgradeTarget": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_ame_quest_upgradeTarget.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 45,
+        "rx": 973,
+        "ry": 977
       }
     ],
     "fx": []
@@ -90872,6 +91262,81 @@
         "w": 31,
         "h": 35,
         "rx": 984,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_AllianceCoin_big": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_AllianceCoin_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 51,
+        "rx": 974,
+        "ry": 974
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_AllianceCoin_medium": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_AllianceCoin_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 42,
+        "h": 42,
+        "rx": 979,
+        "ry": 979
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_AllianceCoin_small": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_AllianceCoin_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 18,
+        "rx": 991,
+        "ry": 991
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_AllianceCoin_xl": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_AllianceCoin_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 82,
+        "rx": 958,
+        "ry": 959
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_AllianceCoin": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_AllianceCoin.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 35,
+        "rx": 982,
         "ry": 982
       }
     ],
@@ -111982,6 +112447,21 @@
     ],
     "fx": []
   },
+  "icon_titles_small": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_titles_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 13,
+        "h": 17,
+        "rx": 993,
+        "ry": 991
+      }
+    ],
+    "fx": []
+  },
   "icon_tool_type_basic_small": {
     "pid": 1,
     "url": "x384/Icons/Icons/icon_tool_type_basic_small.png",
@@ -115598,6 +116078,21 @@
     "fx": []
   },
   "icon_glory_small": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_effect_fameDefenseBonus_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 33,
+        "rx": 987,
+        "ry": 983
+      }
+    ],
+    "fx": []
+  },
+  "icon_titles_xxs": {
     "pid": 0,
     "url": "x384/Icons/IconsShared/icon_effect_fameDefenseBonus_Shared.png",
     "frames": [
@@ -127132,6 +127627,126 @@
     ],
     "fx": []
   },
+  "teaser_AME_quest_defeatTarget": {
+    "pid": 1,
+    "url": "x384/Misc/EventTeasers/teaser_AME_quest_defeatTarget.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 227,
+        "rx": 694,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
+  "teaser_AME_quest_obtainCurrenciesOrResources": {
+    "pid": 1,
+    "url": "x384/Misc/EventTeasers/teaser_AME_quest_obtainCurrenciesOrResources.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 227,
+        "rx": 694,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
+  "teaser_AME_quest_obtainUnits": {
+    "pid": 1,
+    "url": "x384/Misc/EventTeasers/teaser_AME_quest_obtainUnits.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 227,
+        "rx": 694,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
+  "teaser_AME_quest_spendCurrenciesOrResources": {
+    "pid": 1,
+    "url": "x384/Misc/EventTeasers/teaser_AME_quest_spendCurrenciesOrResources.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 227,
+        "rx": 694,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
+  "teaser_AME_quest_upgradeTarget": {
+    "pid": 1,
+    "url": "x384/Misc/EventTeasers/teaser_AME_quest_upgradeTarget.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 227,
+        "rx": 694,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
+  "teaser_ame_starter_1": {
+    "pid": 1,
+    "url": "x384/Misc/EventTeasers/teaser_ame_starter_1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 770,
+        "h": 207,
+        "rx": 614,
+        "ry": 896
+      }
+    ],
+    "fx": []
+  },
+  "teaser_ame_starter_2": {
+    "pid": 1,
+    "url": "x384/Misc/EventTeasers/teaser_ame_starter_2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 769,
+        "h": 207,
+        "rx": 615,
+        "ry": 896
+      }
+    ],
+    "fx": []
+  },
+  "teaser_ame_starter_3": {
+    "pid": 1,
+    "url": "x384/Misc/EventTeasers/teaser_ame_starter_3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 769,
+        "h": 207,
+        "rx": 615,
+        "ry": 896
+      }
+    ],
+    "fx": []
+  },
   "teaser_berimond_splash": {
     "pid": 1,
     "url": "x384/Misc/EventTeasers/teaser_berimond_splash.png",
@@ -132618,6 +133233,51 @@
         "h": 207,
         "rx": 615,
         "ry": 896
+      }
+    ],
+    "fx": []
+  },
+  "teaser_AME_normal": {
+    "pid": 1,
+    "url": "x384/Misc/TeasersShared/teaser_AME_1_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 769,
+        "h": 291,
+        "rx": 615,
+        "ry": 854
+      }
+    ],
+    "fx": []
+  },
+  "teaser_AME_qualification": {
+    "pid": 1,
+    "url": "x384/Misc/TeasersShared/teaser_AME_2_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 769,
+        "h": 291,
+        "rx": 615,
+        "ry": 854
+      }
+    ],
+    "fx": []
+  },
+  "teaser_AME_adjustments": {
+    "pid": 1,
+    "url": "x384/Misc/TeasersShared/teaser_AME_2_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 769,
+        "h": 291,
+        "rx": 615,
+        "ry": 854
       }
     ],
     "fx": []
@@ -149940,6 +150600,29 @@
       }
     ]
   },
+  "Castle_Mapobject_Special_BaronBaloon": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_BaronBaloon.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 49,
+        "h": 51,
+        "rx": 999,
+        "ry": 994
+      }
+    ],
+    "fx": [
+      {
+        "x": 13,
+        "y": -2,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Castle_Mapobject_Special_BaronCarnival": {
     "pid": 0,
     "url": "x384/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_BaronCarnival.png",
@@ -150906,6 +151589,29 @@
       }
     ]
   },
+  "Castle_Mapobject_Special_KegCastle": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_KegCastle.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 53,
+        "rx": 997,
+        "ry": 994
+      }
+    ],
+    "fx": [
+      {
+        "x": 18,
+        "y": 0,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Castle_Mapobject_Special_LostAnchor": {
     "pid": 0,
     "url": "x384/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_LostAnchor.png",
@@ -151038,6 +151744,29 @@
       {
         "x": 3,
         "y": 10,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "Castle_Mapobject_Special_PirateCove": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_PirateCove.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 64,
+        "h": 69,
+        "rx": 994,
+        "ry": 980
+      }
+    ],
+    "fx": [
+      {
+        "x": 23,
+        "y": -6,
         "scale": 0.52,
         "name": "flagHolder",
         "rotation": 0
@@ -153868,6 +154597,29 @@
       }
     ]
   },
+  "Castle_Mapobject_Capital_Classic_Special_BaronBaloon": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_BaronBaloon.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 89,
+        "h": 104,
+        "rx": 977,
+        "ry": 957
+      }
+    ],
+    "fx": [
+      {
+        "x": 49,
+        "y": -26,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Castle_Mapobject_Capital_Classic_Special_BaronCarnival": {
     "pid": 0,
     "url": "x384/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_BaronCarnival.png",
@@ -154834,6 +155586,29 @@
       }
     ]
   },
+  "Castle_Mapobject_Capital_Classic_Special_KegCastle": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_KegCastle.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 89,
+        "h": 109,
+        "rx": 977,
+        "ry": 952
+      }
+    ],
+    "fx": [
+      {
+        "x": -4,
+        "y": -21,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Castle_Mapobject_Capital_Classic_Special_LostAnchor": {
     "pid": 0,
     "url": "x384/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_LostAnchor.png",
@@ -154966,6 +155741,29 @@
       {
         "x": 43,
         "y": -6,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "Castle_Mapobject_Capital_Classic_Special_PirateCove": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_PirateCove.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 92,
+        "h": 118,
+        "rx": 974,
+        "ry": 944
+      }
+    ],
+    "fx": [
+      {
+        "x": 44,
+        "y": -21,
         "scale": 0.52,
         "name": "flagHolder",
         "rotation": 0
@@ -155760,6 +156558,29 @@
       {
         "x": 4,
         "y": 1,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "Metropol_Mapobject_Basic_Special_BaronBaloon": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_BaronBaloon.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 63,
+        "h": 71,
+        "rx": 988,
+        "ry": 978
+      }
+    ],
+    "fx": [
+      {
+        "x": 32,
+        "y": -14,
         "scale": 0.52,
         "name": "flagHolder",
         "rotation": 0
@@ -156732,6 +157553,29 @@
       }
     ]
   },
+  "Metropol_Mapobject_Basic_Special_KegCastle": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_KegCastle.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 75,
+        "rx": 988,
+        "ry": 973
+      }
+    ],
+    "fx": [
+      {
+        "x": 4,
+        "y": -16,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Metropol_Mapobject_Basic_Special_LostAnchor": {
     "pid": 0,
     "url": "x384/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_LostAnchor.png",
@@ -156864,6 +157708,29 @@
       {
         "x": 1,
         "y": -4,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "Metropol_Mapobject_Basic_Special_PirateCove": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_PirateCove.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 81,
+        "h": 78,
+        "rx": 978,
+        "ry": 973
+      }
+    ],
+    "fx": [
+      {
+        "x": 4,
+        "y": -14,
         "scale": 0.52,
         "name": "flagHolder",
         "rotation": 0
@@ -157604,6 +158471,29 @@
       {
         "x": 20,
         "y": 6,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "Outpost_Mapobject_Level_Special_BaronBaloon": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Outposts/Outpost_Mapobject_Level_Special_BaronBaloon/Outpost_Mapobject_Level_Special_BaronBaloon.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 27,
+        "h": 33,
+        "rx": 1010,
+        "ry": 999
+      }
+    ],
+    "fx": [
+      {
+        "x": 13,
+        "y": 14,
         "scale": 0.52,
         "name": "flagHolder",
         "rotation": 0
@@ -158522,6 +159412,29 @@
       }
     ]
   },
+  "Outpost_Mapobject_Level_Special_KegCastle": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Outposts/Outpost_Mapobject_Level_Special_KegCastle/Outpost_Mapobject_Level_Special_KegCastle.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 42,
+        "rx": 1007,
+        "ry": 991
+      }
+    ],
+    "fx": [
+      {
+        "x": 23,
+        "y": -3,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Outpost_Mapobject_Level_Special_LostAnchor": {
     "pid": 0,
     "url": "x384/WorldmapObjects/Outposts/Outpost_Mapobject_Level_Special_LostAnchor/Outpost_Mapobject_Level_Special_LostAnchor.png",
@@ -158631,6 +159544,29 @@
       {
         "x": 26,
         "y": 6,
+        "scale": 0.52,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "Outpost_Mapobject_Level_Special_PirateCove": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Outposts/Outpost_Mapobject_Level_Special_PirateCove/Outpost_Mapobject_Level_Special_PirateCove.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 33,
+        "h": 43,
+        "rx": 1002,
+        "ry": 989
+      }
+    ],
+    "fx": [
+      {
+        "x": 23,
+        "y": -6,
         "scale": 0.52,
         "name": "flagHolder",
         "rotation": 0
@@ -160152,6 +161088,21 @@
     ],
     "fx": []
   },
+  "Preview_Castle_Mapobject_Special_BaronBaloon": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Previews/Mapobjects_Preview/Preview_Castle_Mapobject_Special_BaronBaloon.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 79,
+        "rx": 982,
+        "ry": 983
+      }
+    ],
+    "fx": []
+  },
   "Preview_Castle_Mapobject_Special_BaronCarnival": {
     "pid": 0,
     "url": "x384/WorldmapObjects/Previews/Mapobjects_Preview/Preview_Castle_Mapobject_Special_BaronCarnival.png",
@@ -160782,6 +161733,21 @@
     ],
     "fx": []
   },
+  "Preview_Castle_Mapobject_Special_KegCastle": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Previews/Mapobjects_Preview/Preview_Castle_Mapobject_Special_KegCastle.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 73,
+        "h": 74,
+        "rx": 986,
+        "ry": 985
+      }
+    ],
+    "fx": []
+  },
   "Preview_Castle_Mapobject_Special_LostAnchor": {
     "pid": 0,
     "url": "x384/WorldmapObjects/Previews/Mapobjects_Preview/Preview_Castle_Mapobject_Special_LostAnchor.png",
@@ -160868,6 +161834,21 @@
         "h": 95,
         "rx": 976,
         "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "Preview_Castle_Mapobject_Special_PirateCove": {
+    "pid": 0,
+    "url": "x384/WorldmapObjects/Previews/Mapobjects_Preview/Preview_Castle_Mapobject_Special_PirateCove.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 83,
+        "h": 90,
+        "rx": 983,
+        "ry": 975
       }
     ],
     "fx": []

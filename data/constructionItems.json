@@ -30415,6 +30415,51 @@
       "constructionItemEffectGroupID": 28,
       "disassemblingTombolaID": 4,
       "effects": "66&amp;25"
+    },
+    {
+      "constructionItemID": 974,
+      "crossplayID": 974,
+      "comment1": "Appearance",
+      "comment2": "LTPE July 2025",
+      "name": "piratesKeep",
+      "constructionItemGroupID": 300,
+      "level": 4,
+      "rarenessID": 4,
+      "slotTypeID": 0,
+      "duration": 2419200,
+      "constructionItemEffectGroupID": 51,
+      "disassemblingTombolaID": 4,
+      "effects": "296&amp;80000,298&amp;8000"
+    },
+    {
+      "constructionItemID": 975,
+      "crossplayID": 975,
+      "comment1": "Appearance",
+      "comment2": "LTPE August 2025",
+      "name": "GenericAnniversaryKeep",
+      "constructionItemGroupID": 301,
+      "level": 4,
+      "rarenessID": 4,
+      "slotTypeID": 0,
+      "duration": 2419200,
+      "constructionItemEffectGroupID": 51,
+      "disassemblingTombolaID": 4,
+      "effects": "296&amp;80000,298&amp;8000"
+    },
+    {
+      "constructionItemID": 976,
+      "crossplayID": 976,
+      "comment1": "Appearance",
+      "comment2": "LTPE September 2025",
+      "name": "octoberfestMarket",
+      "constructionItemGroupID": 302,
+      "level": 4,
+      "rarenessID": 4,
+      "slotTypeID": 0,
+      "duration": 2419200,
+      "constructionItemEffectGroupID": 51,
+      "disassemblingTombolaID": 4,
+      "effects": "296&amp;80000,298&amp;8000"
     }
   ]
 }

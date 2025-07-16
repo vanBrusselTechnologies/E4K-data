@@ -262,16 +262,44 @@
       "isNPCGeneral": 0
     },
     {
+      "generalID": 122,
+      "crossplayID": 122,
+      "generalName": "Valenta",
+      "attackSlots": "101221,101222,101223",
+      "defenseSlots": "101226,101227,101228",
+      "generalRarityID": 2,
+      "maxLevel": 100,
+      "maxStarLevel": 10,
+      "unlockCurrencyID": 10012,
+      "upgradeCurrencyIDs": "10000,10012",
+      "isPreview": 0,
+      "isNPCGeneral": 0
+    },
+    {
       "generalID": 123,
       "crossplayID": 123,
       "generalName": "Garrik",
-      "attackSlots": "101231,101232,101233",
-      "defenseSlots": "101236,101237,101238",
+      "attackSlots": 101231,
+      "defenseSlots": 101236,
       "generalRarityID": 1,
       "maxLevel": 60,
       "maxStarLevel": 5,
       "unlockCurrencyID": 10013,
       "upgradeCurrencyIDs": "10000,10013",
+      "isPreview": 0,
+      "isNPCGeneral": 0
+    },
+    {
+      "generalID": 125,
+      "crossplayID": 125,
+      "generalName": "Kaelrith",
+      "attackSlots": "101251,101252,101253,101254",
+      "defenseSlots": "101256,101257,101258,101259",
+      "generalRarityID": 4,
+      "maxLevel": 100,
+      "maxStarLevel": 10,
+      "unlockCurrencyID": 10015,
+      "upgradeCurrencyIDs": "10000,10015",
       "isPreview": 1,
       "isNPCGeneral": 0
     }

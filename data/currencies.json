@@ -722,6 +722,20 @@
       "assetName": "DianaToken"
     },
     {
+      "currencyID": 6009,
+      "crossplayID": 6009,
+      "Name": "ValentaToken",
+      "JSONKey": "VAT",
+      "assetName": "ValentaToken"
+    },
+    {
+      "currencyID": 6010,
+      "crossplayID": 6010,
+      "Name": "GarrikToken",
+      "JSONKey": "GAT",
+      "assetName": "GarrikToken"
+    },
+    {
       "currencyID": 10000,
       "crossplayID": 10000,
       "Name": "ShardUniversal",
@@ -797,6 +811,20 @@
       "Name": "ShardHasan",
       "JSONKey": "SHS",
       "assetName": "ShardHasan"
+    },
+    {
+      "currencyID": 10012,
+      "crossplayID": 10012,
+      "Name": "ShardValenta",
+      "JSONKey": "SVA",
+      "assetName": "ShardValenta"
+    },
+    {
+      "currencyID": 10013,
+      "crossplayID": 10013,
+      "Name": "ShardGarrik",
+      "JSONKey": "SGA",
+      "assetName": "ShardGarrik"
     },
     {
       "currencyID": 9999,

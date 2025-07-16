@@ -2404,6 +2404,7 @@ export interface Package {
     "addFrozenCarrot"?: number;
     "addFurSkinnerBoosterKey"?: number;
     "addFusionCurrency"?: number;
+    "addGarrikToken"?: number;
     "addGenXP15000"?: number;
     "addGeneralsSkillsResetToken"?: number;
     "addGoldToken"?: number;
@@ -2968,6 +2969,7 @@ export interface Reward {
     "addFrozenCarrot"?: number;
     "addFuryDoubloon"?: number;
     "addFusionCurrency"?: number;
+    "addGarrikToken"?: number;
     "addGenXP1000"?: number;
     "addGenXP10000"?: number;
     "addGenXP12500"?: number;
@@ -3012,6 +3014,7 @@ export interface Reward {
     "addShardAlice"?: number;
     "addShardAlyssa"?: number;
     "addShardDiana"?: number;
+    "addShardGarrik"?: number;
     "addShardHasan"?: number;
     "addShardHoratio"?: number;
     "addShardLeo"?: number;
@@ -3019,6 +3022,7 @@ export interface Reward {
     "addShardTizi"?: number;
     "addShardTom"?: number;
     "addShardToril"?: number;
+    "addShardValenta"?: number;
     "addSilverToken"?: number;
     "addSoldierBiscuit"?: number;
     "addSpiritDoubloon"?: number;
@@ -3029,6 +3033,7 @@ export interface Reward {
     "addTiziToken"?: number;
     "addTomAliceToken"?: number;
     "addTwinFlameAxes"?: number;
+    "addValentaToken"?: number;
     "addVigorDoubloon"?: number;
     "addWishingWellCoin"?: number;
     "addXmasLTPEToken"?: number;
