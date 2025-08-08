@@ -29820,7 +29820,7 @@
       "relationIDs": 999,
       "costKhanTablet": 100,
       "addResourceVillageToken": 1,
-      "minLevel": 30,
+      "minLevel": 10,
       "stock": 15
     },
     {
@@ -29832,7 +29832,7 @@
       "relationIDs": 999,
       "costKhanTablet": 300,
       "addResourceVillageToken": 1,
-      "minLevel": 30,
+      "minLevel": 10,
       "stock": 30
     },
     {
@@ -29844,7 +29844,7 @@
       "relationIDs": 999,
       "costKhanTablet": 10000,
       "addSilverToken": 1000,
-      "minLevel": 60,
+      "minLevel": 10,
       "stock": 2
     },
     {
@@ -29856,7 +29856,7 @@
       "relationIDs": 999,
       "costKhanTablet": 10000,
       "addGoldToken": 200,
-      "minLevel": 60,
+      "minLevel": 10,
       "stock": 2
     },
     {
@@ -29869,7 +29869,7 @@
       "maxBuyPerClick": 100000,
       "costKhanTablet": 1,
       "amountC1": 150,
-      "minLevel": 30
+      "minLevel": 10
     },
     {
       "packageID": 3205,
@@ -29880,6 +29880,7 @@
       "relationIDs": 999,
       "costKhanTablet": 6000,
       "addLegendaryToken": 15,
+      "minLevel": 10,
       "minLegendLevel": 650,
       "stock": 2
     },
@@ -29892,6 +29893,7 @@
       "relationIDs": 999,
       "costKhanTablet": 4000,
       "addLegendaryMaterial": 10,
+      "minLevel": 10,
       "minLegendLevel": 650,
       "stock": 2
     },
@@ -29904,6 +29906,7 @@
       "relationIDs": 999,
       "costKhanTablet": 3000,
       "addSceatToken": 5,
+      "minLevel": 10,
       "minLegendLevel": 650,
       "stock": 2
     },
@@ -29916,7 +29919,7 @@
       "relationIDs": 999,
       "costKhanTablet": 4000,
       "addLegendaryToken": 10,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLegendLevel": 649,
       "stock": 2
     },
@@ -29929,7 +29932,7 @@
       "relationIDs": 999,
       "costKhanTablet": 2000,
       "addLegendaryMaterial": 5,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLegendLevel": 649,
       "stock": 2
     },
@@ -29942,7 +29945,7 @@
       "relationIDs": 999,
       "costKhanTablet": 2000,
       "addSceatToken": 3,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLegendLevel": 649,
       "stock": 2
     },
@@ -29955,7 +29958,7 @@
       "relationIDs": 999,
       "costKhanTablet": 2000,
       "addLegendaryToken": 5,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxLevel": 69,
       "stock": 2
     },
@@ -29968,7 +29971,7 @@
       "relationIDs": 999,
       "costKhanTablet": 1200,
       "addLegendaryMaterial": 3,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxLevel": 69,
       "stock": 2
     },
@@ -29981,6 +29984,7 @@
       "relationIDs": 999,
       "costKhanTablet": 1500,
       "addLegendaryToken": 15,
+      "minLevel": 10,
       "minLegendLevel": 650,
       "stock": 2
     },
@@ -29993,6 +29997,7 @@
       "relationIDs": 999,
       "costKhanTablet": 1000,
       "addLegendaryMaterial": 10,
+      "minLevel": 10,
       "minLegendLevel": 650,
       "stock": 2
     },
@@ -30005,6 +30010,7 @@
       "relationIDs": 999,
       "costKhanTablet": 750,
       "addSceatToken": 5,
+      "minLevel": 10,
       "minLegendLevel": 650,
       "stock": 2
     },
@@ -30017,7 +30023,7 @@
       "relationIDs": 999,
       "costKhanTablet": 1000,
       "addLegendaryToken": 10,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLegendLevel": 649,
       "stock": 2
     },
@@ -30030,7 +30036,7 @@
       "relationIDs": 999,
       "costKhanTablet": 500,
       "addLegendaryMaterial": 5,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLegendLevel": 649,
       "stock": 2
     },
@@ -30043,7 +30049,7 @@
       "relationIDs": 999,
       "costKhanTablet": 500,
       "addSceatToken": 3,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLegendLevel": 649,
       "stock": 2
     },
@@ -30056,7 +30062,7 @@
       "relationIDs": 999,
       "costKhanTablet": 500,
       "addLegendaryToken": 5,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxLevel": 69,
       "stock": 2
     },
@@ -30069,7 +30075,7 @@
       "relationIDs": 999,
       "costKhanTablet": 300,
       "addLegendaryMaterial": 3,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxLevel": 69,
       "stock": 2
     },
@@ -30082,6 +30088,7 @@
       "relationIDs": 999,
       "costKhanTablet": 3000,
       "addLegendaryToken": 15,
+      "minLevel": 10,
       "minLegendLevel": 650,
       "stock": 2
     },
@@ -30094,6 +30101,7 @@
       "relationIDs": 999,
       "costKhanTablet": 2000,
       "addLegendaryMaterial": 10,
+      "minLevel": 10,
       "minLegendLevel": 650,
       "stock": 2
     },
@@ -30106,6 +30114,7 @@
       "relationIDs": 999,
       "costKhanTablet": 1500,
       "addSceatToken": 5,
+      "minLevel": 10,
       "minLegendLevel": 650,
       "stock": 2
     },
@@ -30118,7 +30127,7 @@
       "relationIDs": 999,
       "costKhanTablet": 2000,
       "addLegendaryToken": 10,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLegendLevel": 649,
       "stock": 2
     },
@@ -30131,7 +30140,7 @@
       "relationIDs": 999,
       "costKhanTablet": 1000,
       "addLegendaryMaterial": 5,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLegendLevel": 649,
       "stock": 2
     },
@@ -30144,7 +30153,7 @@
       "relationIDs": 999,
       "costKhanTablet": 1000,
       "addSceatToken": 3,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLegendLevel": 649,
       "stock": 2
     },
@@ -30157,7 +30166,7 @@
       "relationIDs": 999,
       "costKhanTablet": 1000,
       "addLegendaryToken": 5,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxLevel": 69,
       "stock": 2
     },
@@ -30170,7 +30179,7 @@
       "relationIDs": 999,
       "costKhanTablet": 600,
       "addLegendaryMaterial": 3,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxLevel": 69,
       "stock": 2
     },
@@ -30185,7 +30194,7 @@
       "costKhanTablet": 195,
       "unitID": 725,
       "unitAmount": 25,
-      "minLevel": 30
+      "minLevel": 10
     },
     {
       "packageID": 3230,
@@ -30198,7 +30207,7 @@
       "costKhanTablet": 45,
       "unitID": 5,
       "unitAmount": 10,
-      "minLevel": 30
+      "minLevel": 10
     },
     {
       "packageID": 3231,
@@ -30211,7 +30220,7 @@
       "costKhanTablet": 45,
       "unitID": 6,
       "unitAmount": 10,
-      "minLevel": 30
+      "minLevel": 10
     },
     {
       "packageID": 3232,
@@ -30223,7 +30232,7 @@
       "costKhanTablet": 2340,
       "unitID": 277,
       "unitAmount": 100,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 50
     },
     {
@@ -30236,7 +30245,7 @@
       "costKhanTablet": 4680,
       "unitID": 277,
       "unitAmount": 100,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 50
     },
     {
@@ -30249,7 +30258,7 @@
       "costKhanTablet": 95,
       "unitID": 730,
       "unitAmount": 1,
-      "minLevel": 30
+      "minLevel": 10
     },
     {
       "packageID": 3235,
@@ -30261,7 +30270,7 @@
       "costKhanTablet": 25,
       "unitID": 731,
       "unitAmount": 1,
-      "minLevel": 30
+      "minLevel": 10
     },
     {
       "packageID": 3236,
@@ -30274,7 +30283,7 @@
       "costKhanTablet": 30,
       "unitID": 734,
       "unitAmount": 5,
-      "minLevel": 30
+      "minLevel": 10
     },
     {
       "packageID": 3237,
@@ -30286,7 +30295,7 @@
       "costKhanTablet": 5000,
       "buildingID": 2914,
       "buildingAmount": 1,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxLevel": 39,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
@@ -30301,7 +30310,7 @@
       "costKhanTablet": 12500,
       "buildingID": 2915,
       "buildingAmount": 1,
-      "minLevel": 40,
+      "minLevel": 10,
       "maxLevel": 49,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
@@ -30316,7 +30325,7 @@
       "costKhanTablet": 37500,
       "buildingID": 2916,
       "buildingAmount": 1,
-      "minLevel": 50,
+      "minLevel": 10,
       "maxLevel": 59,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
@@ -30331,7 +30340,7 @@
       "costKhanTablet": 50000,
       "buildingID": 2917,
       "buildingAmount": 1,
-      "minLevel": 60,
+      "minLevel": 10,
       "maxLevel": 69,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
@@ -30346,7 +30355,7 @@
       "costKhanTablet": 75000,
       "buildingID": 2918,
       "buildingAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
     },
@@ -30360,7 +30369,7 @@
       "costKhanTablet": 10000,
       "buildingID": 2828,
       "buildingAmount": 1,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxLevel": 39,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
@@ -30375,7 +30384,7 @@
       "costKhanTablet": 25000,
       "buildingID": 2829,
       "buildingAmount": 1,
-      "minLevel": 40,
+      "minLevel": 10,
       "maxLevel": 49,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
@@ -30390,7 +30399,7 @@
       "costKhanTablet": 75000,
       "buildingID": 2830,
       "buildingAmount": 1,
-      "minLevel": 50,
+      "minLevel": 10,
       "maxLevel": 59,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
@@ -30405,7 +30414,7 @@
       "costKhanTablet": 100000,
       "buildingID": 2831,
       "buildingAmount": 1,
-      "minLevel": 60,
+      "minLevel": 10,
       "maxLevel": 69,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
@@ -30420,7 +30429,7 @@
       "costKhanTablet": 150000,
       "buildingID": 2832,
       "buildingAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
     },
@@ -30434,7 +30443,7 @@
       "costKhanTablet": 10000,
       "buildingID": 2833,
       "buildingAmount": 1,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxLevel": 39,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
@@ -30449,7 +30458,7 @@
       "costKhanTablet": 25000,
       "buildingID": 2834,
       "buildingAmount": 1,
-      "minLevel": 40,
+      "minLevel": 10,
       "maxLevel": 49,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
@@ -30464,7 +30473,7 @@
       "costKhanTablet": 75000,
       "buildingID": 2835,
       "buildingAmount": 1,
-      "minLevel": 50,
+      "minLevel": 10,
       "maxLevel": 59,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
@@ -30479,7 +30488,7 @@
       "costKhanTablet": 100000,
       "buildingID": 2836,
       "buildingAmount": 1,
-      "minLevel": 60,
+      "minLevel": 10,
       "maxLevel": 69,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
@@ -30494,7 +30503,7 @@
       "costKhanTablet": 150000,
       "buildingID": 2837,
       "buildingAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
     },
@@ -30508,7 +30517,7 @@
       "costKhanTablet": 10000,
       "buildingID": 2838,
       "buildingAmount": 1,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxLevel": 39,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
@@ -30523,7 +30532,7 @@
       "costKhanTablet": 25000,
       "buildingID": 2839,
       "buildingAmount": 1,
-      "minLevel": 40,
+      "minLevel": 10,
       "maxLevel": 49,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
@@ -30538,7 +30547,7 @@
       "costKhanTablet": 75000,
       "buildingID": 2840,
       "buildingAmount": 1,
-      "minLevel": 50,
+      "minLevel": 10,
       "maxLevel": 59,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
@@ -30553,7 +30562,7 @@
       "costKhanTablet": 100000,
       "buildingID": 2841,
       "buildingAmount": 1,
-      "minLevel": 60,
+      "minLevel": 10,
       "maxLevel": 69,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
@@ -30568,7 +30577,7 @@
       "costKhanTablet": 150000,
       "buildingID": 2842,
       "buildingAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
     },
@@ -30580,7 +30589,7 @@
       "sortOrder": 64,
       "relationIDs": 250,
       "costKhanTablet": 10000,
-      "minLevel": 45,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30412,
       "constructionItemAmount": 1
@@ -30593,7 +30602,7 @@
       "sortOrder": 65,
       "relationIDs": 250,
       "costKhanTablet": 20000,
-      "minLevel": 45,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30412,
       "constructionItemAmount": 1
@@ -30606,7 +30615,7 @@
       "sortOrder": 66,
       "relationIDs": 250,
       "costKhanTablet": 25000,
-      "minLevel": 45,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30413,
       "constructionItemAmount": 1
@@ -30619,7 +30628,7 @@
       "sortOrder": 67,
       "relationIDs": 250,
       "costKhanTablet": 75000,
-      "minLevel": 45,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30413,
       "constructionItemAmount": 1
@@ -30632,7 +30641,7 @@
       "sortOrder": 69,
       "relationIDs": 250,
       "costKhanTablet": 10000,
-      "minLevel": 45,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30482,
       "constructionItemAmount": 1
@@ -30645,7 +30654,7 @@
       "sortOrder": 70,
       "relationIDs": 250,
       "costKhanTablet": 20000,
-      "minLevel": 45,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30482,
       "constructionItemAmount": 1
@@ -30658,7 +30667,7 @@
       "sortOrder": 71,
       "relationIDs": 250,
       "costKhanTablet": 25000,
-      "minLevel": 45,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30483,
       "constructionItemAmount": 1
@@ -30671,7 +30680,7 @@
       "sortOrder": 72,
       "relationIDs": 250,
       "costKhanTablet": 75000,
-      "minLevel": 45,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30483,
       "constructionItemAmount": 1
@@ -30684,7 +30693,7 @@
       "sortOrder": 74,
       "relationIDs": 250,
       "costKhanTablet": 10000,
-      "minLevel": 45,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30470,
       "constructionItemAmount": 1
@@ -30697,7 +30706,7 @@
       "sortOrder": 75,
       "relationIDs": 250,
       "costKhanTablet": 15000,
-      "minLevel": 45,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30470,
       "constructionItemAmount": 1
@@ -30710,7 +30719,7 @@
       "sortOrder": 76,
       "relationIDs": 250,
       "costKhanTablet": 25000,
-      "minLevel": 45,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30471,
       "constructionItemAmount": 1
@@ -30723,7 +30732,7 @@
       "sortOrder": 77,
       "relationIDs": 250,
       "costKhanTablet": 50000,
-      "minLevel": 45,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30471,
       "constructionItemAmount": 1
@@ -30737,7 +30746,7 @@
       "relationIDs": "2,8,14",
       "costKhanTablet": 3300,
       "equipmentIDs": 426,
-      "minLevel": 30,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -30749,7 +30758,7 @@
       "relationIDs": "3,8,14",
       "costKhanTablet": 3000,
       "equipmentIDs": 427,
-      "minLevel": 30,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -30761,7 +30770,7 @@
       "relationIDs": "1,8,14",
       "costKhanTablet": 2800,
       "equipmentIDs": 428,
-      "minLevel": 30,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -30773,7 +30782,7 @@
       "relationIDs": "4,8,14",
       "costKhanTablet": 3000,
       "equipmentIDs": 429,
-      "minLevel": 30,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -30785,7 +30794,7 @@
       "relationIDs": "6,8,14",
       "costKhanTablet": 7500,
       "equipmentIDs": 430,
-      "minLevel": 30,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -30798,7 +30807,7 @@
       "costKhanTablet": 3300,
       "gemIDs": 81,
       "gemAmount": 1,
-      "minLevel": 30,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -30811,7 +30820,7 @@
       "costKhanTablet": 4600,
       "gemIDs": 82,
       "gemAmount": 1,
-      "minLevel": 30,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -30824,7 +30833,7 @@
       "costKhanTablet": 3300,
       "gemIDs": 90,
       "gemAmount": 1,
-      "minLevel": 30,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -30837,7 +30846,7 @@
       "costKhanTablet": 4100,
       "gemIDs": 91,
       "gemAmount": 1,
-      "minLevel": 30,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -61687,6 +61696,30 @@
       "comment2": "Gold Shop - orange expensive",
       "costGoldToken": 4950,
       "addOrange": 350,
+      "stock": 1,
+      "minLevel": 20,
+      "sortOrder": 3.6,
+      "relationIDs": "400,999"
+    },
+    {
+      "packageID": 3906,
+      "packageType": "currency",
+      "comment1": "Orange",
+      "comment2": "Gold Shop - orange cheap",
+      "costGoldToken": 1950,
+      "addLuckySlice": 150,
+      "stock": 1,
+      "minLevel": 20,
+      "sortOrder": 3.5,
+      "relationIDs": "400,999"
+    },
+    {
+      "packageID": 3907,
+      "packageType": "currency",
+      "comment1": "Orange",
+      "comment2": "Gold Shop - orange expensive",
+      "costGoldToken": 4950,
+      "addLuckySlice": 350,
       "stock": 1,
       "minLevel": 20,
       "sortOrder": 3.6,

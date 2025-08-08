@@ -51,7 +51,7 @@
       "hubType": "Adventure",
       "eventDuration": "Long",
       "eventExtensionUnlock": 70,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxLevel": 99,
       "leaguetypeEventsIDs": "52,53,54,55,56,57,58,59,60"
     },
@@ -234,7 +234,7 @@
       "hubType": "Trader",
       "packageIDs": "368+124+125+126+127+128+474+475+476+477+737+738+739+740+741+742+743+1387+1388+1389+1390+1391+1392+1089+1120+1121",
       "merchantID": 12,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxLevel": 99
     },
     {
@@ -246,7 +246,7 @@
       "hubType": "Adventure",
       "eventDuration": "Long",
       "merchantID": 13,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxLevel": 99
     },
     {
@@ -1041,6 +1041,17 @@
       "kIDs": 0,
       "areaTypes": 1,
       "eventType": "SummerGacha",
+      "hubType": "Adventure",
+      "eventDuration": "Long",
+      "minLevel": 10,
+      "maxLevel": 1020
+    },
+    {
+      "eventID": 131,
+      "comment1": "AnniversaryLootboxEvent",
+      "kIDs": 0,
+      "areaTypes": 1,
+      "eventType": "AnniversaryGacha",
       "hubType": "Adventure",
       "eventDuration": "Long",
       "minLevel": 10,

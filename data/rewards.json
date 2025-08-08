@@ -4709,6 +4709,41 @@
       "addGarrikToken": 1
     },
     {
+      "rewardID": 70244,
+      "crossplayID": 70244,
+      "comment1": "Kaelrith 75",
+      "comment2": "Legendary",
+      "addShardKaelrith": 75
+    },
+    {
+      "rewardID": 70245,
+      "crossplayID": 70245,
+      "comment1": "Kaelrith 40",
+      "comment2": "Epic",
+      "addShardKaelrith": 40
+    },
+    {
+      "rewardID": 70246,
+      "crossplayID": 70246,
+      "comment1": "Kaelrith 25",
+      "comment2": "Rare",
+      "addShardKaelrith": 25
+    },
+    {
+      "rewardID": 70247,
+      "crossplayID": 70247,
+      "comment1": "Kaelrith 15",
+      "comment2": "Rare",
+      "addShardKaelrith": 15
+    },
+    {
+      "rewardID": 70248,
+      "crossplayID": 70248,
+      "comment1": "KaelrithToken",
+      "comment2": "Common",
+      "addKaelrithToken": 1
+    },
+    {
       "rewardID": 8,
       "comment1": "WWCs added to sub",
       "comment2": "10 WWCs",
@@ -22398,6 +22433,624 @@
       "equipmentIDs": 1076
     },
     {
+      "rewardID": 62448,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 1",
+      "addSilverToken": 132
+    },
+    {
+      "rewardID": 62449,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 2",
+      "addSilverToken": 132
+    },
+    {
+      "rewardID": 62450,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 3",
+      "addSilverToken": 132
+    },
+    {
+      "rewardID": 62451,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 4",
+      "addSilverToken": 132
+    },
+    {
+      "rewardID": 62452,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 5",
+      "addSilverToken": 132
+    },
+    {
+      "rewardID": 62453,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 6",
+      "addGoldToken": 438
+    },
+    {
+      "rewardID": 62454,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 7",
+      "addGoldToken": 438
+    },
+    {
+      "rewardID": 62455,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 8",
+      "addLegendaryMaterial": 10
+    },
+    {
+      "rewardID": 62456,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 9",
+      "addLegendaryToken": 4
+    },
+    {
+      "rewardID": 62457,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 10",
+      "addSilverToken": 174
+    },
+    {
+      "rewardID": 62458,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 11",
+      "addSilverToken": 174
+    },
+    {
+      "rewardID": 62459,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 12",
+      "addSilverToken": 174
+    },
+    {
+      "rewardID": 62460,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 13",
+      "addSilverToken": 174
+    },
+    {
+      "rewardID": 62461,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 14",
+      "addSilverToken": 174
+    },
+    {
+      "rewardID": 62462,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 15",
+      "addGoldToken": 438
+    },
+    {
+      "rewardID": 62463,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 16",
+      "addGoldToken": 438
+    },
+    {
+      "rewardID": 62464,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 17",
+      "addLegendaryMaterial": 10
+    },
+    {
+      "rewardID": 62465,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 18",
+      "addLegendaryToken": 4
+    },
+    {
+      "rewardID": 62466,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 19",
+      "addSilverToken": 174
+    },
+    {
+      "rewardID": 62467,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 20",
+      "addSilverToken": 174
+    },
+    {
+      "rewardID": 62468,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 21",
+      "addSilverToken": 174
+    },
+    {
+      "rewardID": 62469,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 22",
+      "addSilverToken": 174
+    },
+    {
+      "rewardID": 62470,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 23",
+      "addSilverToken": 525
+    },
+    {
+      "rewardID": 62471,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 24",
+      "addGoldToken": 438
+    },
+    {
+      "rewardID": 62472,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 25",
+      "addGoldToken": 438
+    },
+    {
+      "rewardID": 62473,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 26",
+      "addLegendaryMaterial": 10
+    },
+    {
+      "rewardID": 62474,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 27",
+      "addLegendaryToken": 4
+    },
+    {
+      "rewardID": 62475,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 28",
+      "addSilverToken": 179
+    },
+    {
+      "rewardID": 62476,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 29",
+      "addSilverToken": 179
+    },
+    {
+      "rewardID": 62477,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 30",
+      "addSilverToken": 179
+    },
+    {
+      "rewardID": 62478,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 31",
+      "addSilverToken": 179
+    },
+    {
+      "rewardID": 62479,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 32",
+      "addSilverToken": 179
+    },
+    {
+      "rewardID": 62480,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 33",
+      "addGoldToken": 438
+    },
+    {
+      "rewardID": 62481,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 34",
+      "addGoldToken": 438
+    },
+    {
+      "rewardID": 62482,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 35",
+      "addLegendaryMaterial": 10
+    },
+    {
+      "rewardID": 62483,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 36",
+      "addLegendaryToken": 4
+    },
+    {
+      "rewardID": 62484,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 37",
+      "addSilverToken": 347
+    },
+    {
+      "rewardID": 62485,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 38",
+      "addSilverToken": 347
+    },
+    {
+      "rewardID": 62486,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 39",
+      "addSilverToken": 347
+    },
+    {
+      "rewardID": 62487,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 40",
+      "addSilverToken": 347
+    },
+    {
+      "rewardID": 62488,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 41",
+      "addGoldToken": 875
+    },
+    {
+      "rewardID": 62489,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 42",
+      "constructionItemIDs": 30481
+    },
+    {
+      "rewardID": 62490,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 43",
+      "constructionItemIDs": 30471
+    },
+    {
+      "rewardID": 62491,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 44",
+      "addLegendaryMaterial": 30
+    },
+    {
+      "rewardID": 62492,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 45",
+      "addSceatToken": 35
+    },
+    {
+      "rewardID": 62493,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 46",
+      "addSilverToken": 357
+    },
+    {
+      "rewardID": 62494,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 47",
+      "addSilverToken": 357
+    },
+    {
+      "rewardID": 62495,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 48",
+      "addSilverToken": 357
+    },
+    {
+      "rewardID": 62496,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 49",
+      "addSilverToken": 357
+    },
+    {
+      "rewardID": 62497,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 50",
+      "addGoldToken": 875
+    },
+    {
+      "rewardID": 62498,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 51",
+      "constructionItemIDs": 30451
+    },
+    {
+      "rewardID": 62499,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 52",
+      "equipmentIDs": 1063
+    },
+    {
+      "rewardID": 62500,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 53",
+      "addLegendaryMaterial": 30
+    },
+    {
+      "rewardID": 62501,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 54",
+      "addSceatToken": 37
+    },
+    {
+      "rewardID": 62502,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 55",
+      "addSilverToken": 420
+    },
+    {
+      "rewardID": 62503,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 56",
+      "addSilverToken": 420
+    },
+    {
+      "rewardID": 62504,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 57",
+      "addSilverToken": 420
+    },
+    {
+      "rewardID": 62505,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 58",
+      "addSilverToken": 420
+    },
+    {
+      "rewardID": 62506,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 59",
+      "addGoldToken": 1050
+    },
+    {
+      "rewardID": 62507,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 60",
+      "constructionItemIDs": 30411
+    },
+    {
+      "rewardID": 62508,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 61",
+      "decoWodID": 2359,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 62509,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 62",
+      "addLegendaryMaterial": 40
+    },
+    {
+      "rewardID": 62510,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 63",
+      "addSceatToken": 8
+    },
+    {
+      "rewardID": 62511,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 64",
+      "addSilverToken": 631
+    },
+    {
+      "rewardID": 62512,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 65",
+      "addSilverToken": 631
+    },
+    {
+      "rewardID": 62513,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 66",
+      "addSilverToken": 631
+    },
+    {
+      "rewardID": 62514,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 67",
+      "addSilverToken": 631
+    },
+    {
+      "rewardID": 62515,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 68",
+      "addGoldToken": 1050
+    },
+    {
+      "rewardID": 62516,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 69",
+      "constructionItemIDs": 30482
+    },
+    {
+      "rewardID": 62517,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 70",
+      "constructionItemIDs": 30472
+    },
+    {
+      "rewardID": 62518,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 71",
+      "addLegendaryToken": 16
+    },
+    {
+      "rewardID": 62519,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 72",
+      "addSceatToken": 11
+    },
+    {
+      "rewardID": 62520,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 73",
+      "addSilverToken": 840
+    },
+    {
+      "rewardID": 62521,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 74",
+      "addSilverToken": 840
+    },
+    {
+      "rewardID": 62522,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 75",
+      "addSilverToken": 840
+    },
+    {
+      "rewardID": 62523,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 76",
+      "addSilverToken": 840
+    },
+    {
+      "rewardID": 62524,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 77",
+      "addGoldToken": 1400
+    },
+    {
+      "rewardID": 62525,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 78",
+      "constructionItemIDs": 30452
+    },
+    {
+      "rewardID": 62526,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 79",
+      "decoWodID": 2497,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 62527,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 80",
+      "addLegendaryMaterial": 50
+    },
+    {
+      "rewardID": 62528,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 81",
+      "addSceatToken": 11
+    },
+    {
+      "rewardID": 62529,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 82",
+      "addSilverToken": 1050
+    },
+    {
+      "rewardID": 62530,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 83",
+      "addSilverToken": 1050
+    },
+    {
+      "rewardID": 62531,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 84",
+      "addSilverToken": 1050
+    },
+    {
+      "rewardID": 62532,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 85",
+      "addSilverToken": 1050
+    },
+    {
+      "rewardID": 62533,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 86",
+      "addGoldToken": 1750
+    },
+    {
+      "rewardID": 62534,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 87",
+      "constructionItemIDs": 30412
+    },
+    {
+      "rewardID": 62535,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 88",
+      "equipmentIDs": 1065
+    },
+    {
+      "rewardID": 62536,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 89",
+      "addLegendaryToken": 20
+    },
+    {
+      "rewardID": 62537,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 90",
+      "addSceatToken": 16
+    },
+    {
+      "rewardID": 62538,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 91",
+      "addSilverToken": 1260
+    },
+    {
+      "rewardID": 62539,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 92",
+      "lootBox": "1+1"
+    },
+    {
+      "rewardID": 62540,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 93",
+      "addSilverToken": 1365
+    },
+    {
+      "rewardID": 62541,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 94",
+      "lootBox": "1+2"
+    },
+    {
+      "rewardID": 62542,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 95",
+      "addGoldToken": 2188
+    },
+    {
+      "rewardID": 62543,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 96",
+      "lootBox": "1+3"
+    },
+    {
+      "rewardID": 62544,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 97",
+      "addLegendaryMaterial": 50
+    },
+    {
+      "rewardID": 62545,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 98",
+      "lootBox": "1+5"
+    },
+    {
+      "rewardID": 62546,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward 99",
+      "addLegendaryToken": 20
+    },
+    {
+      "rewardID": 62547,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward TopX2",
+      "addLegendaryMaterial": 59,
+      "constructionItemIDs": 30453
+    },
+    {
+      "rewardID": 62548,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward TopX1",
+      "addLegendaryToken": 39,
+      "decoWodID": 2498,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 62549,
+      "comment1": "Nomad Invasion",
+      "comment2": "Bracket NL10-NL29 Reward Top1",
+      "addLegendaryToken": 20,
+      "equipmentIDs": 1076
+    },
+    {
       "rewardID": 62244,
       "comment1": "Nomad Invasion",
       "comment2": "Bracket NL20-NL69 Reward 1",
@@ -30240,6 +30893,391 @@
       "comment1": "Deco District 2x2 Gacha - milestones 4",
       "comment2": "second reward pool iteration",
       "addSoldierBiscuit": 40
+    },
+    {
+      "rewardID": 8734,
+      "crossplayID": 8734,
+      "comment1": "Anniversary Deco 3x3",
+      "decoWodID": 3180,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 8735,
+      "crossplayID": 8735,
+      "comment1": "Gen XP1000",
+      "addGenXP1000": 10
+    },
+    {
+      "rewardID": 8736,
+      "crossplayID": 8736,
+      "comment1": "Anniversary Troop Melee Off",
+      "units": "498+1500",
+      "hiddenMead": 36000,
+      "ignoreResourceStorageCapacity": 1
+    },
+    {
+      "rewardID": 8737,
+      "crossplayID": 8737,
+      "comment1": "Anniversary Troop Melee Def",
+      "units": "499+1500",
+      "hiddenMead": 36000,
+      "ignoreResourceStorageCapacity": 1
+    },
+    {
+      "rewardID": 8738,
+      "crossplayID": 8738,
+      "comment1": "Anniversary Troop Ranged Off",
+      "units": "500+1500",
+      "hiddenMead": 36000,
+      "ignoreResourceStorageCapacity": 1
+    },
+    {
+      "rewardID": 8739,
+      "crossplayID": 8739,
+      "comment1": "Anniversary Troop Ranged Def",
+      "units": "501+1500",
+      "hiddenMead": 36000,
+      "ignoreResourceStorageCapacity": 1
+    },
+    {
+      "rewardID": 8740,
+      "crossplayID": 8740,
+      "comment1": "Anniversary Sales - 2024 Deco",
+      "decoWodID": 2978,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 8741,
+      "crossplayID": 8741,
+      "comment1": "Exalted Sweet surprise cake (Hybrid)",
+      "decoWodID": 4304,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 8742,
+      "crossplayID": 8742,
+      "comment1": "Offering to Fat King",
+      "addFatKingToken": 15
+    },
+    {
+      "rewardID": 8743,
+      "crossplayID": 8743,
+      "comment1": "Offering to Knight",
+      "addKnightToken": 10
+    },
+    {
+      "rewardID": 8744,
+      "crossplayID": 8744,
+      "comment1": "Offering to Princess",
+      "addPrincessToken": 5
+    },
+    {
+      "rewardID": 8745,
+      "crossplayID": 8745,
+      "comment1": "Relic Shards",
+      "addRelicFragment": 2000
+    },
+    {
+      "rewardID": 8746,
+      "crossplayID": 8746,
+      "comment1": "Relic Shards",
+      "addRelicFragment": 4000
+    },
+    {
+      "rewardID": 8747,
+      "crossplayID": 8747,
+      "comment1": "Relic Shards",
+      "addRelicFragment": 6000
+    },
+    {
+      "rewardID": 8748,
+      "crossplayID": 8748,
+      "comment1": "Tizi Offering",
+      "addTiziToken": 1
+    },
+    {
+      "rewardID": 8749,
+      "crossplayID": 8749,
+      "comment1": "Sasaski Offering",
+      "addSasakiToken": 1
+    },
+    {
+      "rewardID": 8750,
+      "crossplayID": 8750,
+      "comment1": "Hasan Offering",
+      "addHasanToken": 5
+    },
+    {
+      "rewardID": 8751,
+      "crossplayID": 8751,
+      "comment1": "Anniversary Dwelling",
+      "constructionItemIDs": 977
+    },
+    {
+      "rewardID": 8752,
+      "crossplayID": 8752,
+      "comment1": "Anniversary Storehouse",
+      "constructionItemIDs": 978
+    },
+    {
+      "rewardID": 8753,
+      "crossplayID": 8753,
+      "comment1": "Anniversary Quarry",
+      "constructionItemIDs": 979
+    },
+    {
+      "rewardID": 8754,
+      "crossplayID": 8754,
+      "comment1": "Anniversary Bakery",
+      "constructionItemIDs": 980
+    },
+    {
+      "rewardID": 8755,
+      "crossplayID": 8755,
+      "comment1": "Anniversary Defensive Workshop",
+      "constructionItemIDs": 981
+    },
+    {
+      "rewardID": 8756,
+      "crossplayID": 8756,
+      "comment1": "Anniversary Offensive Workshop",
+      "constructionItemIDs": 982
+    },
+    {
+      "rewardID": 8757,
+      "crossplayID": 8757,
+      "comment1": "Anniversary Keep",
+      "constructionItemIDs": 983
+    },
+    {
+      "rewardID": 8758,
+      "crossplayID": 8758,
+      "comment1": "Anniversary Barrel Workshop",
+      "constructionItemIDs": 984
+    },
+    {
+      "rewardID": 8759,
+      "crossplayID": 8759,
+      "comment1": "Anniversary Hall of Legends",
+      "constructionItemIDs": 985
+    },
+    {
+      "rewardID": 8760,
+      "crossplayID": 8760,
+      "comment1": "Anniversary Badge",
+      "equipmentIDs": 925
+    },
+    {
+      "rewardID": 8761,
+      "crossplayID": 8761,
+      "comment1": "Anniversary Cake",
+      "equipmentIDs": 1318
+    },
+    {
+      "rewardID": 8762,
+      "crossplayID": 8762,
+      "comment1": "Anniversary Party Canon",
+      "equipmentIDs": 926
+    },
+    {
+      "rewardID": 8763,
+      "crossplayID": 8763,
+      "comment1": "Confetti Canon",
+      "equipmentIDs": 1195
+    },
+    {
+      "rewardID": 8764,
+      "crossplayID": 8764,
+      "comment1": "Anniversary Dwelling (Hybrid)",
+      "constructionItemIDs": 986
+    },
+    {
+      "rewardID": 8765,
+      "crossplayID": 8765,
+      "comment1": "Purple Anniversary Deco 20x20 Low",
+      "decoWodID": 4302,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 8766,
+      "crossplayID": 8766,
+      "comment1": "Gen XP5000",
+      "addGenXP5000": 10
+    },
+    {
+      "rewardID": 8767,
+      "crossplayID": 8767,
+      "comment1": "Exalted Sweet surprise cake (Green 1)",
+      "decoWodID": 4305,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 8768,
+      "crossplayID": 8768,
+      "comment1": "Anniversary Dwelling (Economy 1)",
+      "constructionItemIDs": 987
+    },
+    {
+      "rewardID": 8769,
+      "crossplayID": 8769,
+      "comment1": "Green Anniversary Deco 20x20 Low",
+      "decoWodID": 4300,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 8770,
+      "crossplayID": 8770,
+      "comment1": "Exalted Sweet surprise cake (Red)",
+      "decoWodID": 4303,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 8771,
+      "crossplayID": 8771,
+      "comment1": "Gen XP10000",
+      "addGenXP10000": 10
+    },
+    {
+      "rewardID": 8772,
+      "crossplayID": 8772,
+      "comment1": "Anniversary Dwelling (Economy 2)",
+      "constructionItemIDs": 988
+    },
+    {
+      "rewardID": 8773,
+      "crossplayID": 8773,
+      "comment1": "Anniversary Dwelling (Economy 3)",
+      "constructionItemIDs": 989
+    },
+    {
+      "rewardID": 8774,
+      "crossplayID": 8774,
+      "comment1": "Gen XP12500",
+      "addGenXP12500": 10
+    },
+    {
+      "rewardID": 8775,
+      "crossplayID": 8775,
+      "comment1": "Exalted Sweet surprise cake (Green 2)",
+      "decoWodID": 4306,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 8776,
+      "crossplayID": 8776,
+      "comment1": "Exalted Sweet surprise cake (Green 3)",
+      "decoWodID": 4307,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 8777,
+      "crossplayID": 8777,
+      "comment1": "Exalted Forging of Furys Blade",
+      "decoWodID": 4308,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 8778,
+      "crossplayID": 8778,
+      "comment1": "Tizi Offering",
+      "addTiziToken": 7,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 8779,
+      "crossplayID": 8779,
+      "comment1": "Diana Offering",
+      "addDianaToken": 1
+    },
+    {
+      "rewardID": 8780,
+      "crossplayID": 8780,
+      "comment1": "Red Anniversary Deco 20x20 Low",
+      "decoWodID": 4301,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 8781,
+      "crossplayID": 8781,
+      "comment1": "Purple Anniversary Deco 20x20 High",
+      "decoWodID": 4299,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 8782,
+      "crossplayID": 8782,
+      "comment1": "Green Anniversary Deco 20x20 High",
+      "decoWodID": 4297,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 8783,
+      "crossplayID": 8783,
+      "comment1": "Aniversary Storehouse (Combat 1)",
+      "constructionItemIDs": 990
+    },
+    {
+      "rewardID": 8784,
+      "crossplayID": 8784,
+      "comment1": "Aniversary Storehouse (Combat 2)",
+      "constructionItemIDs": 991
+    },
+    {
+      "rewardID": 8785,
+      "crossplayID": 8785,
+      "comment1": "Aniversary Storehouse (Combat 3)",
+      "constructionItemIDs": 992
+    },
+    {
+      "rewardID": 8786,
+      "crossplayID": 8786,
+      "comment1": "Aniversary Storehouse (Combat 4)",
+      "constructionItemIDs": 993
+    },
+    {
+      "rewardID": 8787,
+      "crossplayID": 8787,
+      "comment1": "Offerings to Kael",
+      "addKaelrithToken": 1
+    },
+    {
+      "rewardID": 8788,
+      "crossplayID": 8788,
+      "comment1": "Gen XP15000",
+      "addGenXP15000": 20
+    },
+    {
+      "rewardID": 8789,
+      "crossplayID": 8789,
+      "comment1": "Red Anniversary Deco 20x20 High",
+      "decoWodID": 4298,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 8790,
+      "crossplayID": 8790,
+      "comment1": "TopX Gacha Commander",
+      "decoWodID": 4298,
+      "toDecoGlobalStorage": 1,
+      "equipmentIDs": 1312
+    },
+    {
+      "rewardID": 8791,
+      "crossplayID": 8791,
+      "comment1": "TopX Gacha Commander",
+      "equipmentIDs": 1312
+    },
+    {
+      "rewardID": 8792,
+      "crossplayID": 8792,
+      "comment1": "TopX Gacha Castellan",
+      "equipmentIDs": 1313
+    },
+    {
+      "rewardID": 8793,
+      "crossplayID": 8793,
+      "comment1": "Gacha Currency",
+      "addLuckySlice": 100
     },
     {
       "rewardID": 1290,

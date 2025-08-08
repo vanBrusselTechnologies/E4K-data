@@ -728,7 +728,8 @@
     {
       "effectTypeID": 118,
       "crossplayID": 118,
-      "name": "strongerPeasant"
+      "name": "strongerPeasant",
+      "sortCategory": 4
     },
     {
       "effectTypeID": 119,
@@ -961,7 +962,9 @@
     {
       "effectTypeID": 154,
       "crossplayID": 154,
-      "name": "fameBoostUnit"
+      "name": "fameBoostUnit",
+      "sortCategory": 6,
+      "sortGroup": 9
     },
     {
       "effectTypeID": 155,
@@ -1403,6 +1406,27 @@
       "effectTypeID": 196,
       "crossplayID": 196,
       "name": "simultaneousConstruction"
+    },
+    {
+      "effectTypeID": 58,
+      "crossplayID": 58,
+      "name": "SurvivalBoost",
+      "sortCategory": 4,
+      "sortGroup": 4
+    },
+    {
+      "effectTypeID": 59,
+      "crossplayID": 59,
+      "name": "SightRadiusBonus",
+      "sortCategory": 1,
+      "sortGroup": 8
+    },
+    {
+      "effectTypeID": 60,
+      "crossplayID": 60,
+      "name": "xpBoost",
+      "sortCategory": 1,
+      "sortGroup": 16
     }
   ]
 }

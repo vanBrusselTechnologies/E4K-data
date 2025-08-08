@@ -687,7 +687,6 @@ export interface Building {
     "earlyUnlockRequiredLevel"?: number;
     "effectLocked"?: number;
     "eventIDs"?: number | string;
-    "fireBrigadeBoost"?: number;
     "foodRatio"?: number;
     "foodStorage"?: number;
     "forcedPosition"?: number;
@@ -715,7 +714,6 @@ export interface Building {
     "isRelicEnchanter"?: number;
     "islandAlliancePoints"?: number;
     "kIDs"?: number | string;
-    "kingdomFameBoost"?: number;
     "level": number;
     "lowLevelBuildDuration"?: string;
     "mapIDs"?: string;
@@ -751,7 +749,6 @@ export interface Building {
     "server"?: number;
     "shopCategory"?: string;
     "shownTravelBonus"?: number;
-    "sightRadiusBonus"?: number;
     "skillPoints"?: number;
     "skinID"?: number;
     "slumLevelNeeded"?: number;
@@ -761,7 +758,6 @@ export interface Building {
     "stackSize"?: number;
     "stoneStorage"?: number;
     "storeable"?: number;
-    "surviveBoost"?: number;
     "tempServerBurnable"?: number;
     "tempServerCostStone"?: number;
     "tempServerCostWood"?: number;
@@ -780,7 +776,6 @@ export interface Building {
     "wodID": number;
     "woodStorage"?: number;
     "xp"?: number;
-    "xpBoostPercentage"?: number;
 }
 
 export interface Catalyst {
@@ -1681,9 +1676,10 @@ export interface FusionSystem {
 
 export interface GachaEvent {
     "comment1": string;
-    "comment2": string;
+    "comment2"?: string;
     "costFrozenCarrot"?: number;
     "costHollowMoonEgg"?: number;
+    "costLuckySlice"?: number;
     "costOrange"?: number;
     "costSoldierBiscuit"?: number;
     "eventID": number;
@@ -2419,6 +2415,7 @@ export interface Package {
     "addLegendaryMaterial"?: number;
     "addLegendarySoulstone"?: number;
     "addLegendaryToken"?: number;
+    "addLuckySlice"?: number;
     "addLuckyWheelTicket"?: number;
     "addOrange"?: number;
     "addPegasusTicket"?: number;
@@ -2984,6 +2981,7 @@ export interface Reward {
     "addHollowMoonEgg"?: number;
     "addIceLTPEToken"?: number;
     "addImperialDucat"?: number;
+    "addKaelrithToken"?: number;
     "addKhanMedal"?: number;
     "addKhanTablet"?: number;
     "addKnightToken"?: number;
@@ -2992,6 +2990,7 @@ export interface Reward {
     "addLegendaryMaterial"?: number;
     "addLegendaryToken"?: number;
     "addLotusFlowerLTPEToken"?: number;
+    "addLuckySlice"?: number;
     "addLuckyWheelTicket"?: number;
     "addMayaLTPEToken"?: number;
     "addNewKingLTPEToken"?: number;
@@ -3017,6 +3016,7 @@ export interface Reward {
     "addShardGarrik"?: number;
     "addShardHasan"?: number;
     "addShardHoratio"?: number;
+    "addShardKaelrith"?: number;
     "addShardLeo"?: number;
     "addShardSasaki"?: number;
     "addShardTizi"?: number;

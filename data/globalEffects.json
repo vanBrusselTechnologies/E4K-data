@@ -5,7 +5,7 @@
       "crossplayID": 1,
       "globalEffectID": 1,
       "name": "CooldownReductionRBC",
-      "effects": "257&amp;50",
+      "effects": "425&amp;50",
       "boostValue": 50,
       "minLevel": 10,
       "maxLevel": 99,
@@ -17,7 +17,7 @@
       "crossplayID": 10,
       "globalEffectID": 2,
       "name": "SpeedBoost",
-      "effects": "53&amp;60",
+      "effects": "426&amp;60",
       "boostValue": 60,
       "minLevel": 10,
       "maxLevel": 99,
@@ -117,7 +117,7 @@
       "refreshArea": 1,
       "displayKingdomIDs": "0,1,2,3,4",
       "displayEventIDs": 106,
-      "effectValueKeys": "781,782"
+      "effectValueKeys": "9,10"
     },
     {
       "ID": 90,

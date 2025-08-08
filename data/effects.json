@@ -239,6 +239,7 @@
       "name": "fameOffenseBonus",
       "effectTypeID": 13,
       "capID": 13,
+      "areaTypeID": "1,3,4,12,15,21,22,34,42",
       "sortOrder": "6.11.2"
     },
     {
@@ -247,7 +248,9 @@
       "name": "honorBonus",
       "effectTypeID": 14,
       "capID": 14,
-      "sortOrder": "6.10.1"
+      "areaTypeID": "1,3,4,12,21,22,34,42",
+      "sortOrder": "6.10.1",
+      "isPvPFight": 1
     },
     {
       "effectID": 53,
@@ -263,7 +266,9 @@
       "name": "lootBonus",
       "effectTypeID": 16,
       "capID": 16,
-      "sortOrder": "6.5.1"
+      "areaTypeID": "2,11,13,17,14,27,29,30,35,37",
+      "sortOrder": "6.5.1",
+      "isPvPFight": 0
     },
     {
       "effectID": 55,
@@ -311,7 +316,8 @@
       "name": "magicFindBonus",
       "effectTypeID": 22,
       "capID": 22,
-      "sortOrder": "6.9.1"
+      "sortOrder": "6.9.1",
+      "isPvPFight": 0
     },
     {
       "effectID": 61,
@@ -390,7 +396,7 @@
       "name": "defenseBonusMainCastle",
       "effectTypeID": 31,
       "capID": 99,
-      "areaTypeID": "1,10,12,15,21,23,24,26,28,34,36,38,42",
+      "areaTypeID": "1,10,12,15,21,23,24,26,28,34,38,42",
       "sortOrder": "1.13.1"
     },
     {
@@ -408,7 +414,7 @@
       "name": "wallBonusBaron",
       "effectTypeID": 6,
       "capID": 6,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,34,36,42",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,34,42",
       "sortOrder": "2.1.3"
     },
     {
@@ -417,7 +423,7 @@
       "name": "gateBonusBaron",
       "effectTypeID": 7,
       "capID": 7,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,34,36,42",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,34,42",
       "sortOrder": "2.2.2"
     },
     {
@@ -426,7 +432,7 @@
       "name": "moatBonusBaron",
       "effectTypeID": 8,
       "capID": 8,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,34,36,42",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,34,42",
       "sortOrder": "2.3.3"
     },
     {
@@ -435,7 +441,7 @@
       "name": "defenseUnitAmountWallMainCastle",
       "effectTypeID": 12,
       "capID": 12,
-      "areaTypeID": "1,10,12,15,21,23,24,26,28,34,36,38,42",
+      "areaTypeID": "1,10,12,15,21,23,24,26,28,34,38,42",
       "sortOrder": "4.1.2"
     },
     {
@@ -461,7 +467,7 @@
       "name": "defenseBoostYardBaron",
       "effectTypeID": 32,
       "capID": 99,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36,38,42",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,38,42",
       "sortOrder": "1.9.2"
     },
     {
@@ -551,7 +557,7 @@
       "name": "fameDefenseBonusBaron",
       "effectTypeID": 0,
       "capID": 0,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,34,36,42",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,34,42",
       "sortOrder": "6.11.3"
     },
     {
@@ -587,7 +593,7 @@
       "name": "perceptionBonusBaron",
       "effectTypeID": 3,
       "capID": 3,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,34,36,42",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,34,42",
       "sortOrder": "5.4.2"
     },
     {
@@ -668,7 +674,7 @@
       "name": "attackBonusMainCastle",
       "effectTypeID": 36,
       "capID": 99,
-      "areaTypeID": "1,12,21,32,34,36",
+      "areaTypeID": "1,12,21,32,34",
       "sortOrder": "1.1.1"
     },
     {
@@ -686,7 +692,7 @@
       "name": "stealthBonusGeneral",
       "effectTypeID": 17,
       "capID": 17,
-      "areaTypeID": "1,3,4,12,15,21,22,32,34,36",
+      "areaTypeID": "1,3,4,12,15,21,22,32,34",
       "sortOrder": "5.3.3"
     },
     {
@@ -695,7 +701,7 @@
       "name": "attackBoostYardPVP",
       "effectTypeID": 33,
       "capID": 99,
-      "areaTypeID": "1,3,4,12,15,21,22,32,34,36",
+      "areaTypeID": "1,3,4,12,15,21,22,32,34",
       "sortOrder": "1.6.4"
     },
     {
@@ -704,7 +710,7 @@
       "name": "wallReductionPVP",
       "effectTypeID": 19,
       "capID": 19,
-      "areaTypeID": "1,3,4,12,15,21,22,32,34,36",
+      "areaTypeID": "1,3,4,12,15,21,22,32,34",
       "sortOrder": "2.5.3"
     },
     {
@@ -713,7 +719,7 @@
       "name": "gateReductionPVP",
       "effectTypeID": 20,
       "capID": 20,
-      "areaTypeID": "1,3,4,12,15,21,22,32,34,36",
+      "areaTypeID": "1,3,4,12,15,21,22,32,34",
       "sortOrder": "2.6.2"
     },
     {
@@ -722,7 +728,7 @@
       "name": "moatReductionPVP",
       "effectTypeID": 21,
       "capID": 21,
-      "areaTypeID": "1,3,4,12,15,21,22,32,34,36",
+      "areaTypeID": "1,3,4,12,15,21,22,32,34",
       "sortOrder": "2.7.2"
     },
     {
@@ -731,7 +737,7 @@
       "name": "attackUnitAmountFrontPVP",
       "effectTypeID": 34,
       "capID": 99,
-      "areaTypeID": "1,3,4,12,15,21,22,32,34,36",
+      "areaTypeID": "1,3,4,12,15,21,22,32,34",
       "sortOrder": "3.1.4"
     },
     {
@@ -740,7 +746,7 @@
       "name": "attackUnitAmountFlankPVP",
       "effectTypeID": 28,
       "capID": 99,
-      "areaTypeID": "1,3,4,12,15,21,22,32,34,36",
+      "areaTypeID": "1,3,4,12,15,21,22,32,34",
       "sortOrder": "3.2.4"
     },
     {
@@ -749,7 +755,7 @@
       "name": "offensiveMeleeBonusPVP",
       "effectTypeID": 23,
       "capID": 23,
-      "areaTypeID": "1,3,4,12,15,21,22,32,34,36",
+      "areaTypeID": "1,3,4,12,15,21,22,32,34",
       "sortOrder": "1.2.7"
     },
     {
@@ -758,7 +764,7 @@
       "name": "offensiveRangeBonusPVP",
       "effectTypeID": 24,
       "capID": 24,
-      "areaTypeID": "1,3,4,12,15,21,22,32,34,36",
+      "areaTypeID": "1,3,4,12,15,21,22,32,34",
       "sortOrder": "1.3.7"
     },
     {
@@ -839,7 +845,7 @@
       "name": "fameOffenseBonusGeneral",
       "effectTypeID": 13,
       "capID": 13,
-      "areaTypeID": "1,3,4,12,15,21,22,34,36,42",
+      "areaTypeID": "1,3,4,12,15,21,22,34,42",
       "sortOrder": "6.11.4"
     },
     {
@@ -848,7 +854,7 @@
       "name": "honorBonusGeneral",
       "effectTypeID": 14,
       "capID": 14,
-      "areaTypeID": "1,3,4,12,15,21,22,34,36,42",
+      "areaTypeID": "1,3,4,12,15,21,22,34,42",
       "sortOrder": "6.10.2"
     },
     {
@@ -857,7 +863,7 @@
       "name": "lootCapacityPVP",
       "effectTypeID": 37,
       "capID": 99,
-      "areaTypeID": "1,3,4,12,15,21,22,32,34,36",
+      "areaTypeID": "1,3,4,12,15,21,22,32,34",
       "sortOrder": "6.4.2"
     },
     {
@@ -866,7 +872,7 @@
       "name": "returnTravelBoostPVP",
       "effectTypeID": 45,
       "capID": 99,
-      "areaTypeID": "1,3,4,12,15,21,22,32,34,36",
+      "areaTypeID": "1,3,4,12,15,21,22,32,34",
       "sortOrder": "6.1.2"
     },
     {
@@ -875,7 +881,7 @@
       "name": "speedBonusPVP",
       "effectTypeID": 44,
       "capID": 99,
-      "areaTypeID": "1,3,4,12,15,21,22,32,34,36",
+      "areaTypeID": "1,3,4,12,15,21,22,32,34",
       "sortOrder": "5.2.6"
     },
     {
@@ -884,7 +890,7 @@
       "name": "travelCostReductionPVP",
       "effectTypeID": 43,
       "capID": 99,
-      "areaTypeID": "1,3,4,12,15,21,22,32,34,36",
+      "areaTypeID": "1,3,4,12,15,21,22,32,34",
       "sortOrder": "5.1.2"
     },
     {
@@ -893,7 +899,7 @@
       "name": "smashChanceGeneral",
       "effectTypeID": 25,
       "capID": 25,
-      "areaTypeID": "1,3,4,12,15,21,22,34,36,42",
+      "areaTypeID": "1,3,4,12,15,21,22,34,42",
       "sortOrder": "6.20.2"
     },
     {
@@ -902,7 +908,7 @@
       "name": "fireBoostGeneral",
       "effectTypeID": 18,
       "capID": 18,
-      "areaTypeID": "1,3,4,12,15,21,22,34,36,42",
+      "areaTypeID": "1,3,4,12,15,21,22,34,42",
       "sortOrder": "6.19.2"
     },
     {
@@ -911,7 +917,7 @@
       "name": "cooldownReductionPVP",
       "effectTypeID": 27,
       "capID": 27,
-      "areaTypeID": "1,3,4,12,15,21,22,34,36",
+      "areaTypeID": "1,3,4,12,15,21,22,34",
       "sortOrder": "6.3.2"
     },
     {
@@ -938,7 +944,7 @@
       "name": "lootBonusPVE",
       "effectTypeID": 16,
       "capID": 16,
-      "areaTypeID": "2,11,13,17,18,25,27,29,30,35,37,42",
+      "areaTypeID": "2,11,13,17,14,27,29,30,35,37",
       "sortOrder": "6.5.2"
     },
     {
@@ -1055,7 +1061,7 @@
       "name": "wallIncreasePVP",
       "effectTypeID": 19,
       "capID": 19,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34",
       "sortOrder": "2.5.7"
     },
     {
@@ -1064,7 +1070,7 @@
       "name": "stealthMalusGeneral",
       "effectTypeID": 17,
       "capID": 17,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34",
       "sortOrder": "5.3.5"
     },
     {
@@ -1082,7 +1088,7 @@
       "name": "gateIncreasePVP",
       "effectTypeID": 20,
       "capID": 20,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34",
       "sortOrder": "2.6.5"
     },
     {
@@ -1091,7 +1097,7 @@
       "name": "perceptionMalusBaron",
       "effectTypeID": 3,
       "capID": 3,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,34,36,42",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,34,42",
       "sortOrder": "5.4.3"
     },
     {
@@ -1100,7 +1106,7 @@
       "name": "moatMalusBaron",
       "effectTypeID": 8,
       "capID": 8,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,34,36,37,42",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,34,37,42",
       "sortOrder": "2.3.5"
     },
     {
@@ -1127,7 +1133,7 @@
       "name": "attackMalusPVP",
       "effectTypeID": 36,
       "capID": 99,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34",
       "sortOrder": "1.1.5"
     },
     {
@@ -1145,7 +1151,7 @@
       "name": "defenseMalusBaron",
       "effectTypeID": 31,
       "capID": 99,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,34,36,38,42",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,34,38,42",
       "sortOrder": "1.13.3"
     },
     {
@@ -1154,7 +1160,7 @@
       "name": "speedMalusGeneral",
       "effectTypeID": 15,
       "capID": 15,
-      "areaTypeID": "1,2,3,4,10,12,13,15,21,22,23,24,25,26,27,28,29,30,32,34,35,36,37,42",
+      "areaTypeID": "1,2,3,4,10,12,13,15,21,22,23,24,25,26,27,28,29,30,32,34,35,37,42",
       "sortOrder": "5.2.9"
     },
     {
@@ -1181,7 +1187,7 @@
       "name": "attackUnitAmountFrontMalusPVP",
       "effectTypeID": 34,
       "capID": 99,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34",
       "sortOrder": "3.1.7"
     },
     {
@@ -1190,7 +1196,7 @@
       "name": "attackUnitAmountFlankMalusPVP",
       "effectTypeID": 28,
       "capID": 99,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34",
       "sortOrder": "3.2.7"
     },
     {
@@ -1199,7 +1205,7 @@
       "name": "defenseUnitAmountwallMalusBaron",
       "effectTypeID": 12,
       "capID": 12,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,34,36,38,42",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,34,38,42",
       "sortOrder": "4.1.5"
     },
     {
@@ -1208,7 +1214,7 @@
       "name": "fameMalusGeneral",
       "effectTypeID": 13,
       "capID": 13,
-      "areaTypeID": "1,3,4,12,15,21,22,34,36,42",
+      "areaTypeID": "1,3,4,12,15,21,22,34,42",
       "sortOrder": "6.11.6"
     },
     {
@@ -1235,7 +1241,7 @@
       "name": "returnTravelMalusGeneral",
       "effectTypeID": 38,
       "capID": 99,
-      "areaTypeID": "1,2,3,4,10,12,13,15,21,22,23,24,25,26,27,28,29,30,32,34,35,36,37,42",
+      "areaTypeID": "1,2,3,4,10,12,13,15,21,22,23,24,25,26,27,28,29,30,32,34,35,37,42",
       "sortOrder": "6.1.4"
     },
     {
@@ -1244,7 +1250,7 @@
       "name": "offensiveMeleeMalusPVP",
       "effectTypeID": 23,
       "capID": 23,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36,42",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,42",
       "sortOrder": "1.2.5"
     },
     {
@@ -1262,7 +1268,7 @@
       "name": "travelCostIncreaseGeneral",
       "effectTypeID": 26,
       "capID": 26,
-      "areaTypeID": "1,2,3,4,10,12,13,15,21,22,23,24,25,26,27,28,29,30,32,34,35,36,37,42",
+      "areaTypeID": "1,2,3,4,10,12,13,15,21,22,23,24,25,26,27,28,29,30,32,34,35,37,42",
       "sortOrder": "5.1.6"
     },
     {
@@ -1271,7 +1277,7 @@
       "name": "offensiveRangeMalusPVP",
       "effectTypeID": 24,
       "capID": 24,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34",
       "sortOrder": "1.3.5"
     },
     {
@@ -1280,7 +1286,7 @@
       "name": "moatIncreasePVP",
       "effectTypeID": 21,
       "capID": 21,
-      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34,36",
+      "areaTypeID": "1,3,4,10,12,15,21,22,23,24,26,28,32,34",
       "sortOrder": "2.7.3"
     },
     {
@@ -1378,6 +1384,7 @@
       "name": "coinLootBoost",
       "effectTypeID": 75,
       "capID": 99,
+      "areaTypeID": "2,11,13,17,18,25,27,29,30,35,37,21,34",
       "sortOrder": "6.5.1"
     },
     {
@@ -1408,7 +1415,7 @@
       "name": "attackBonusPvP",
       "effectTypeID": 36,
       "capID": 99,
-      "areaTypeID": "1,3,4,12,15,21,22,32,34,36",
+      "areaTypeID": "1,3,4,12,15,21,22,32,34",
       "sortOrder": "1.1.7"
     },
     {
@@ -1710,7 +1717,8 @@
       "name": "fameBoost",
       "effectTypeID": 105,
       "capID": 99,
-      "sortOrder": "6.11.11"
+      "sortOrder": "6.11.11",
+      "isPvPFight": 1
     },
     {
       "effectID": 103,
@@ -2131,24 +2139,21 @@
       "crossplayID": 154,
       "name": "charmBoost",
       "effectTypeID": 130,
-      "capID": 99,
-      "areaTypeID": 36
+      "capID": 99
     },
     {
       "effectID": 155,
       "crossplayID": 155,
       "name": "attackUnitAmountFlankShapeshifter",
       "effectTypeID": 28,
-      "capID": 99,
-      "areaTypeID": 36
+      "capID": 99
     },
     {
       "effectID": 156,
       "crossplayID": 156,
       "name": "attackBoostYardShapeshifter",
       "effectTypeID": 33,
-      "capID": 99,
-      "areaTypeID": 36
+      "capID": 99
     },
     {
       "effectID": 158,
@@ -2279,7 +2284,8 @@
       "name": "fameOffenseBonusAlien",
       "effectTypeID": 105,
       "capID": 99,
-      "areaTypeID": "21,34"
+      "areaTypeID": "21,34",
+      "isPvPFight": 1
     },
     {
       "effectID": 401,
@@ -3837,6 +3843,58 @@
       "effectTypeID": 54,
       "capID": 82,
       "sortOrder": "1.5.1"
+    },
+    {
+      "effectID": 425,
+      "crossplayID": 425,
+      "name": "cooldownReductionPVE",
+      "effectTypeID": 27,
+      "capID": 99
+    },
+    {
+      "effectID": 426,
+      "crossplayID": 426,
+      "name": "speedBonus",
+      "effectTypeID": 15,
+      "capID": 99
+    },
+    {
+      "effectID": 427,
+      "crossplayID": 427,
+      "name": "SurvivalBoost",
+      "effectTypeID": 58,
+      "capID": 99
+    },
+    {
+      "effectID": 428,
+      "crossplayID": 428,
+      "name": "SightRadiusBonus",
+      "effectTypeID": 59,
+      "capID": 99
+    },
+    {
+      "effectID": 429,
+      "crossplayID": 429,
+      "name": "FireBrigadeBoostBuilding",
+      "effectTypeID": 4,
+      "capID": 99
+    },
+    {
+      "effectID": 430,
+      "crossplayID": 430,
+      "name": "xpBoost",
+      "effectTypeID": 60,
+      "capID": 99
+    },
+    {
+      "effectID": 431,
+      "crossplayID": 431,
+      "name": "lootBonus",
+      "effectTypeID": 16,
+      "capID": 16,
+      "areaTypeID": "2,11,13,17,14,27,29,30,35,37",
+      "spaceIDs": 0,
+      "sortOrder": "6.5.1"
     },
     {
       "effectID": 2101,
