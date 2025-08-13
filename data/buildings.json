@@ -23414,7 +23414,7 @@
     },
     {
       "wodID": 1540,
-      "crossplayID": 1640,
+      "crossplayID": 1540,
       "comment1": "Event",
       "comment2": "Shapeshifter",
       "name": "Event",
@@ -108146,7 +108146,7 @@
       "isFusionSource": 0,
       "isFusionTarget": 0,
       "sellC1": 1600000,
-      "areaSpecificEffects": "13&amp;75,370&amp;60,371&amp;75000",
+      "areaSpecificEffects": "387&amp;75,370&amp;60,371&amp;75000",
       "tempServerDestructable": 1
     },
     {
@@ -108221,7 +108221,7 @@
       "isFusionSource": 0,
       "isFusionTarget": 0,
       "sellC1": 1200000,
-      "areaSpecificEffects": "13&amp;35,370&amp;30,371&amp;37500",
+      "areaSpecificEffects": "387&amp;35,370&amp;30,371&amp;37500",
       "tempServerDestructable": 1
     },
     {
