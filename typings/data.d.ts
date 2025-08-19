@@ -927,7 +927,6 @@ export interface ConstructionItem {
     "slotTypeID": number;
     "stackSize"?: number;
     "stoneStorage"?: number;
-    "surviveBoost"?: number;
     "unboostedFoodProduction"?: number;
     "unboostedStoneProduction"?: number;
     "unboostedWoodProduction"?: number;

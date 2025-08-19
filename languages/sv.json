@@ -2119,7 +2119,9 @@
     "deco_ExaltedRedAnniversaryBalloon_name": "Upphöjd röd jubileumsballong",
     "deco_ExaltedRedAnniversaryCake_name": "Upphöjd röd jubileumstårta",
     "dialog_legendTemple_sceat_71_name": "Relikslakteri",
-    "deco_exaltedgreenfuryblade_name": "Upphöjt smide av Vredens klinga"
+    "deco_exaltedgreenfuryblade_name": "Upphöjt smide av Vredens klinga",
+    "deco_exaltedpurplefuryblade_name": "Den upphöjda smedjan av Vredens klinge",
+    "deco_exaltedredfuryblade_name": "Upphöjd röd smide av vredens bladbete"
   },
   "dialogs": {
     "dialog_festival_desc": "Använd mat för att anordna en fest för dina medborgare! Rekryteringshastigheten ökar betydligt i alla dina slott så länge festen försiggår. Ju större festen är, desto större effekt.",
@@ -13149,7 +13151,11 @@
     "webshop_cakeanniversary_medium_name": "Medium jubileumst?rta fat",
     "webshop_cakeanniversary_small_name": "Litet jubileumskakefat",
     "webshop_giftanniversary_name": "Start av jubileumsfirande",
-    "popup_ame_rewards_level_info_text": "Låses upp efter att din allians når {0} division"
+    "popup_ame_rewards_level_info_text": "Låses upp efter att din allians når {0} division",
+    "webshop_anniversarybundledef_giant_name": "Gigantiskt jubileumspaket defensivt",
+    "webshop_anniversarybundledef_huge_name": "Stort jubileumspaket defensivt",
+    "webshop_anniversarybundleoff_giant_name": "Giant jubileumspaket",
+    "webshop_anniversarybundleoff_huge_name": "Stort jubileumspaket offensiv"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% enhetens stridskraft vid angrepp",

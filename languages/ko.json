@@ -2119,7 +2119,9 @@
     "deco_ExaltedRedAnniversaryBalloon_name": "고귀한 빨간 기념 풍선",
     "deco_ExaltedRedAnniversaryCake_name": "고귀한 빨간 기념일 케이크",
     "dialog_legendTemple_sceat_71_name": "유물 정육점",
-    "deco_exaltedgreenfuryblade_name": "분노의 검의 고귀한 단조"
+    "deco_exaltedgreenfuryblade_name": "분노의 검의 고귀한 단조",
+    "deco_exaltedpurplefuryblade_name": "고귀한 분노의 검 단조",
+    "deco_exaltedredfuryblade_name": "숭고한 붉은 분노의 검의 단조"
   },
   "dialogs": {
     "dialog_festival_desc": "식량으로 잔치를 열어 백성들을 배불리 먹이십시오! 잔치가 계속되는 동안 모든 성의 모집 속도가 눈에 띄게 증가합니다. 더 큰 잔치를 벌일수록 효과도 더 증가합니다.",
@@ -13149,7 +13151,11 @@
     "webshop_cakeanniversary_medium_name": "중형 기념일 케이크 접시",
     "webshop_cakeanniversary_small_name": "작은 기념일 케이크 쟁반",
     "webshop_giftanniversary_name": "기념일 축하 시작",
-    "popup_ame_rewards_level_info_text": "당신의 동맹이 {0} 부대에 도달하면 잠금 해제됩니다"
+    "popup_ame_rewards_level_info_text": "당신의 동맹이 {0} 부대에 도달하면 잠금 해제됩니다",
+    "webshop_anniversarybundledef_giant_name": "거대 기념일 번들 방어",
+    "webshop_anniversarybundledef_huge_name": "거대한 기념 번들 방어",
+    "webshop_anniversarybundleoff_giant_name": "거대한 기념일 번들",
+    "webshop_anniversarybundleoff_huge_name": "거대한 기념일 번들 공격"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% 유닛 전투력 공격 시",

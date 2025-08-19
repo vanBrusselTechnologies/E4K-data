@@ -2119,7 +2119,9 @@
     "deco_ExaltedRedAnniversaryBalloon_name": "Globo rojo de aniversario exaltado",
     "deco_ExaltedRedAnniversaryCake_name": "Tarta roja exaltada de aniversario",
     "dialog_legendTemple_sceat_71_name": "Carnicería reliquia",
-    "deco_exaltedgreenfuryblade_name": "Forja exaltada de la hoja de la furia"
+    "deco_exaltedgreenfuryblade_name": "Forja exaltada de la hoja de la furia",
+    "deco_exaltedpurplefuryblade_name": "Forja exaltada de la hoja de la furia",
+    "deco_exaltedredfuryblade_name": "Forja exaltada de la hoja de la furia"
   },
   "dialogs": {
     "dialog_festival_desc": "¡Usa comida para celebrar un festín para tus ciudadanos! La velocidad de reclutamiento aumentará considerablemente en todos tus castillos mientras dure el festín. Mientras más grande sea el festín, mayor será el efecto.",
@@ -13149,7 +13151,11 @@
     "webshop_cakeanniversary_medium_name": "Plato de tarta de aniversario mediano",
     "webshop_cakeanniversary_small_name": "Plato peque?o para pastel de aniversario",
     "webshop_giftanniversary_name": "Inicio de la celebraci?n del aniversario",
-    "popup_ame_rewards_level_info_text": "Se desbloquea después de que tu alianza alcance la {0} División"
+    "popup_ame_rewards_level_info_text": "Se desbloquea después de que tu alianza alcance la {0} División",
+    "webshop_anniversarybundledef_giant_name": "Paquete de aniversario gigante defensivo",
+    "webshop_anniversarybundledef_huge_name": "Gran paquete defensivo de aniversario",
+    "webshop_anniversarybundleoff_giant_name": "Paquete de aniversario gigante",
+    "webshop_anniversarybundleoff_huge_name": "Gran paquete de aniversario ofensivo"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% de fuerza de combate de la unidad al atacar",

@@ -2119,7 +2119,9 @@
     "deco_ExaltedRedAnniversaryBalloon_name": "Ylevä punainen vuosipalloe",
     "deco_ExaltedRedAnniversaryCake_name": "Ylevä punainen vuosipäiväkakku",
     "dialog_legendTemple_sceat_71_name": "Relikvialeipomo",
-    "deco_exaltedgreenfuryblade_name": "Ylevä Raivon miekan taonta"
+    "deco_exaltedgreenfuryblade_name": "Ylevä Raivon miekan taonta",
+    "deco_exaltedpurplefuryblade_name": "Ylevän raivon miekan taonta",
+    "deco_exaltedredfuryblade_name": "Ylevä punainen raivon miekan taonta"
   },
   "dialogs": {
     "dialog_festival_desc": "Järjestä kansalaisillesi kestit ruokaa käyttämällä! Värväys nopeutuu kaikissa linnoissasi huomattavasti, niin kauan kuin kestit jatkuvat. Mitä isommat kestit järjestät, sitä suurempi niiden vaikutus on.",
@@ -13149,7 +13151,11 @@
     "webshop_cakeanniversary_medium_name": "Keskikokoinen vuosip?iv?kakkulautanen",
     "webshop_cakeanniversary_small_name": "Pieni vuosip?iv?kakku tarjoiluvati",
     "webshop_giftanniversary_name": "Juhlap?iv?n aloitus",
-    "popup_ame_rewards_level_info_text": "Aukeaa, kun liittosi saavuttaa {0} divisioonan"
+    "popup_ame_rewards_level_info_text": "Aukeaa, kun liittosi saavuttaa {0} divisioonan",
+    "webshop_anniversarybundledef_giant_name": "Giganttinen vuosipaketin puolustus",
+    "webshop_anniversarybundledef_huge_name": "Iso juhlapaketti puolustukseen",
+    "webshop_anniversarybundleoff_giant_name": "J?ttim?inen vuosip?iv?paketti",
+    "webshop_anniversarybundleoff_huge_name": "Iso juhlapaketti hy?kk?ys"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% yksikön taisteluvoima hyökkäyksessä",

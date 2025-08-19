@@ -2119,7 +2119,9 @@
     "deco_ExaltedRedAnniversaryBalloon_name": "Fenséges piros évfordulós léggömb",
     "deco_ExaltedRedAnniversaryCake_name": "Fenséges vörös évfordulós torta",
     "dialog_legendTemple_sceat_71_name": "Relikviabár",
-    "deco_exaltedgreenfuryblade_name": "A düh pengéjének fenséges kovácsolása"
+    "deco_exaltedgreenfuryblade_name": "A düh pengéjének fenséges kovácsolása",
+    "deco_exaltedpurplefuryblade_name": "Fenséges düh pengéjének kovácsolása",
+    "deco_exaltedredfuryblade_name": "Fenséges vörös kovácsolás a Düh kardjához"
   },
   "dialogs": {
     "dialog_festival_desc": "Használd arra az élelmeket, hogy lakomát rendezel alattvalóid számára! Amíg tart a lakoma, a toborzás sebessége jelentősen megnő az összes kastélyodban. Minél nagyobb a lakoma, annál nagyobb lesz a hatása.",
@@ -13149,7 +13151,11 @@
     "webshop_cakeanniversary_medium_name": "K?zepes ?vfordul?s tortat?l",
     "webshop_cakeanniversary_small_name": "Kis ?vfordul?s torta t?lca",
     "webshop_giftanniversary_name": "?vfordul?s ?nneps?g kezdete",
-    "popup_ame_rewards_level_info_text": "Feloldva, miután a szövetséged eléri a {0}. osztályt"
+    "popup_ame_rewards_level_info_text": "Feloldva, miután a szövetséged eléri a {0}. osztályt",
+    "webshop_anniversarybundledef_giant_name": "?ri?si ?vfordul?s v?dekez?s",
+    "webshop_anniversarybundledef_huge_name": "Hatalmas évfordulós védekező csomag",
+    "webshop_anniversarybundleoff_giant_name": "?ri?si ?vfordul?s csomag",
+    "webshop_anniversarybundleoff_huge_name": "?ri?si ?vfordul?s csomag offenz?v"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% egység harciereje támadáskor",

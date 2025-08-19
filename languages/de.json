@@ -2119,7 +2119,9 @@
     "deco_ExaltedRedAnniversaryBalloon_name": "Erhabener roter Jubiläumsballon",
     "deco_ExaltedRedAnniversaryCake_name": "Erhabene rote Jubiläumstorte",
     "dialog_legendTemple_sceat_71_name": "Reliktmetzgerei",
-    "deco_exaltedgreenfuryblade_name": "Erhabenes Schmieden der Klinge des Zorns"
+    "deco_exaltedgreenfuryblade_name": "Erhabenes Schmieden der Klinge des Zorns",
+    "deco_exaltedpurplefuryblade_name": "Erhabenes Schmieden der Klinge des Zorns",
+    "deco_exaltedredfuryblade_name": "Erhabenes rotes Schmieden der Zornklinge"
   },
   "dialogs": {
     "dialog_festival_desc": "Setzt Nahrung ein, um ein Fest für Eure Bürger zu feiern!\nSolange das Fest läuft, wird die Rekrutierungsgeschwindigkeit in all Euren Burgen deutlich erhöht. Je größer das Fest ist, desto größer ist auch der Effekt.",
@@ -13149,7 +13151,11 @@
     "webshop_cakeanniversary_medium_name": "Mittleres Jubil?umskuchenblech",
     "webshop_cakeanniversary_small_name": "Kleine Jubil?umstorte Platte",
     "webshop_giftanniversary_name": "Jubil?umsfeier Starter",
-    "popup_ame_rewards_level_info_text": "Wird freigeschaltet, nachdem Ihre Allianz die {0}. Division erreicht hat"
+    "popup_ame_rewards_level_info_text": "Wird freigeschaltet, nachdem Ihre Allianz die {0}. Division erreicht hat",
+    "webshop_anniversarybundledef_giant_name": "Gigantisches Jubil?ums-Bundle Defensive",
+    "webshop_anniversarybundledef_huge_name": "Riesiges Jubil?umspaket Verteidigung",
+    "webshop_anniversarybundleoff_giant_name": "Riesiges Jubil?umspaket",
+    "webshop_anniversarybundleoff_huge_name": "Riesiges Jubil?ums-Bundle Offensive"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% Einheit Kampfkraft beim Angreifen",

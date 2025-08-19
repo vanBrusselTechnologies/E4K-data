@@ -2119,7 +2119,9 @@
     "deco_ExaltedRedAnniversaryBalloon_name": "Vznešený červený balón na oslavu",
     "deco_ExaltedRedAnniversaryCake_name": "Vznešená červená torta na oslavu",
     "dialog_legendTemple_sceat_71_name": "Relikviová mäsiarstvo",
-    "deco_exaltedgreenfuryblade_name": "Vznešené kovanie čepele hnevu"
+    "deco_exaltedgreenfuryblade_name": "Vznešené kovanie čepele hnevu",
+    "deco_exaltedpurplefuryblade_name": "Vznešené kovanie Čepele hnevu",
+    "deco_exaltedredfuryblade_name": "Vznešené červené kovanie čepele hnevu"
   },
   "dialogs": {
     "dialog_festival_desc": "Pomocou jedla udržiavaj hostinu pre svojich občanov! Kým bude hostina trvať, na všetkých tvojich hradoch sa viditeľne zvýši rýchlosť verbovania. Čím väčšia hostina, tým väčší efekt.",
@@ -13149,7 +13151,11 @@
     "webshop_cakeanniversary_medium_name": "Stredn? tanier na oslavn? tort",
     "webshop_cakeanniversary_small_name": "Mal? tanier na narodeninov? tortu",
     "webshop_giftanniversary_name": "Začiatok oslavy výročia",
-    "popup_ame_rewards_level_info_text": "Odomkne sa po dosiahnutí {0} divízie vašou alianciou"
+    "popup_ame_rewards_level_info_text": "Odomkne sa po dosiahnutí {0} divízie vašou alianciou",
+    "webshop_anniversarybundledef_giant_name": "Obranný obrovský balík výročia",
+    "webshop_anniversarybundledef_huge_name": "Obrovsk? jubilejn? obrann? bal?k",
+    "webshop_anniversarybundleoff_giant_name": "Obrovsk? jubilejn? bal?k",
+    "webshop_anniversarybundleoff_huge_name": "Obrovsk? jubilejn? bal?k ofenz?vny"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% bojovej sily jednotky pri útoku",

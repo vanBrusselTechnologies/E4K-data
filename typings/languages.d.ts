@@ -1634,6 +1634,8 @@ export interface Language {
         "deco_exaltedSteerport": string;
         "deco_exaltedSturdyLivestockHut_name": string;
         "deco_exaltedgreenfuryblade_name": string;
+        "deco_exaltedpurplefuryblade_name": string;
+        "deco_exaltedredfuryblade_name": string;
         "deco_excalibur_name": string;
         "deco_fairground_name": string;
         "deco_falconRecolour_name": string;
@@ -12480,6 +12482,10 @@ export interface Language {
         "webshop_alienInvasion_large_name": string;
         "webshop_alienInvasion_medium_name": string;
         "webshop_alienInvasion_small_name": string;
+        "webshop_anniversarybundledef_giant_name": string;
+        "webshop_anniversarybundledef_huge_name": string;
+        "webshop_anniversarybundleoff_giant_name": string;
+        "webshop_anniversarybundleoff_huge_name": string;
         "webshop_applicationStartupFailed_desc": string;
         "webshop_attackUnitAmountFlankTCI_2008_desc": string;
         "webshop_attackUnitAmountFlankTCI_2009_desc": string;

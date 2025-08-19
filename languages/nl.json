@@ -2119,7 +2119,9 @@
     "deco_ExaltedRedAnniversaryBalloon_name": "Verheven rode jubileumballon",
     "deco_ExaltedRedAnniversaryCake_name": "Verheven rode verjaardagstaart",
     "dialog_legendTemple_sceat_71_name": "Relikwie-slagerij",
-    "deco_exaltedgreenfuryblade_name": "Verheven smeden van de Klinge van Woede"
+    "deco_exaltedgreenfuryblade_name": "Verheven smeden van de Klinge van Woede",
+    "deco_exaltedpurplefuryblade_name": "Verheven smeden van de Klinge van woede",
+    "deco_exaltedredfuryblade_name": "Verheven rode smeden van de Woedes Zwaard"
   },
   "dialogs": {
     "dialog_festival_desc": "Gebruik voedsel om een festival te geven voor uw burgers! Zolang het festival duurt, wordt er in al uw kastelen aanmerkelijk sneller gerekruteerd. Hoe groter het festival, hoe groter het effect.",
@@ -13149,7 +13151,11 @@
     "webshop_cakeanniversary_medium_name": "Middelgrote jubileumtaartschotel",
     "webshop_cakeanniversary_small_name": "Klein jubileumstaart plateau",
     "webshop_giftanniversary_name": "Start van de jubileumviering",
-    "popup_ame_rewards_level_info_text": "Ontgrendeld nadat jouw alliantie de {0} divisie heeft bereikt"
+    "popup_ame_rewards_level_info_text": "Ontgrendeld nadat jouw alliantie de {0} divisie heeft bereikt",
+    "webshop_anniversarybundledef_giant_name": "Reusachtig jubileumpakket defensief",
+    "webshop_anniversarybundledef_huge_name": "Groot jubileumpakket defensief",
+    "webshop_anniversarybundleoff_giant_name": "Reusachtig jubileumpakket",
+    "webshop_anniversarybundleoff_huge_name": "Groot jubileumpakket offensief"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% eenheid vechtkracht bij aanvallen",

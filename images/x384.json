@@ -15693,6 +15693,29 @@
       }
     ]
   },
+  "Event_Building_AllianceMobilizationEvent": {
+    "pid": 1,
+    "url": "x384/Buildings/Event/Event_Building_AllianceMobilizationEvent/Event_Building_AllianceMobilizationEvent.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 155,
+        "h": 141,
+        "rx": 932,
+        "ry": 931
+      }
+    ],
+    "fx": [
+      {
+        "x": 38,
+        "y": -15,
+        "scale": 0.25,
+        "name": "fx_exclamationmark",
+        "rotation": 0
+      }
+    ]
+  },
   "Event_Building_AlliHerold": {
     "pid": 1,
     "url": "x384/Buildings/Event/Event_Building_AlliHerold/Event_Building_AlliHerold.png",
@@ -48336,6 +48359,396 @@
     ],
     "fx": []
   },
+  "General_Barin_Arm_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Barin/General_Barin_Arm_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 74,
+        "h": 141,
+        "rx": 969,
+        "ry": 881
+      }
+    ],
+    "fx": []
+  },
+  "General_Barin_Arm_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Barin/General_Barin_Arm_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 136,
+        "rx": 975,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
+  "General_Barin_Back_Skirt": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Barin/General_Barin_Back_Skirt.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 223,
+        "h": 157,
+        "rx": 888,
+        "ry": 921
+      }
+    ],
+    "fx": []
+  },
+  "General_Barin_Bag": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Barin/General_Barin_Bag.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 85,
+        "rx": 973,
+        "ry": 957
+      }
+    ],
+    "fx": []
+  },
+  "General_Barin_Belt_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Barin/General_Barin_Belt_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 81,
+        "rx": 960,
+        "ry": 959
+      }
+    ],
+    "fx": []
+  },
+  "General_Barin_Belt_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Barin/General_Barin_Belt_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 60,
+        "h": 100,
+        "rx": 970,
+        "ry": 950
+      }
+    ],
+    "fx": []
+  },
+  "General_Barin_Big_Belt": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Barin/General_Barin_Big_Belt.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 167,
+        "h": 119,
+        "rx": 916,
+        "ry": 940
+      }
+    ],
+    "fx": []
+  },
+  "General_Barin_Chest": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Barin/General_Barin_Chest.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 135,
+        "h": 146,
+        "rx": 932,
+        "ry": 927
+      }
+    ],
+    "fx": []
+  },
+  "General_Barin_Dagger": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Barin/General_Barin_Dagger.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 46,
+        "h": 41,
+        "rx": 959,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "General_Barin_Forearm_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Barin/General_Barin_Forearm_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 119,
+        "h": 97,
+        "rx": 985,
+        "ry": 920
+      }
+    ],
+    "fx": []
+  },
+  "General_Barin_Forearm_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Barin/General_Barin_Forearm_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 125,
+        "h": 94,
+        "rx": 892,
+        "ry": 927
+      }
+    ],
+    "fx": []
+  },
+  "General_Barin_Fur": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Barin/General_Barin_Fur.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 275,
+        "h": 59,
+        "rx": 862,
+        "ry": 970
+      }
+    ],
+    "fx": []
+  },
+  "General_Barin_Hammer": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Barin/General_Barin_Hammer.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 149,
+        "h": 411,
+        "rx": 925,
+        "ry": 794
+      }
+    ],
+    "fx": []
+  },
+  "General_Barin_Hand_Left": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Barin/General_Barin_Hand_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 75,
+        "h": 57,
+        "rx": 962,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "General_Barin_Hand_Right": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Barin/General_Barin_Hand_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 45,
+        "h": 48,
+        "rx": 977,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "General_Barin_Harness": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Barin/General_Barin_Harness.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 134,
+        "rx": 933,
+        "ry": 933
+      }
+    ],
+    "fx": []
+  },
+  "General_Barin_Head": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Barin/General_Barin_Head.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 103,
+        "h": 165,
+        "rx": 948,
+        "ry": 917
+      }
+    ],
+    "fx": []
+  },
+  "General_Barin_Legs": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Barin/General_Barin_Legs.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 273,
+        "h": 223,
+        "rx": 863,
+        "ry": 888
+      }
+    ],
+    "fx": []
+  },
+  "General_Barin_Neck": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Barin/General_Barin_Neck.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 117,
+        "h": 98,
+        "rx": 941,
+        "ry": 951
+      }
+    ],
+    "fx": []
+  },
+  "General_Barin_Ornaments": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Barin/General_Barin_Ornaments.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 145,
+        "h": 165,
+        "rx": 927,
+        "ry": 917
+      }
+    ],
+    "fx": []
+  },
+  "General_Barin_Ring_Back": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Barin/General_Barin_Ring_Back.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 10,
+        "h": 26,
+        "rx": 995,
+        "ry": 987
+      }
+    ],
+    "fx": []
+  },
+  "General_Barin_Ring_Front": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Barin/General_Barin_Ring_Front.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 13,
+        "h": 25,
+        "rx": 993,
+        "ry": 987
+      }
+    ],
+    "fx": []
+  },
+  "General_Barin_Shadow": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Barin/General_Barin_Shadow.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 325,
+        "h": 23,
+        "rx": 837,
+        "ry": 988
+      }
+    ],
+    "fx": []
+  },
+  "General_Barin_Shoulder_Plate": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Barin/General_Barin_Shoulder_Plate.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 173,
+        "h": 148,
+        "rx": 913,
+        "ry": 926
+      }
+    ],
+    "fx": []
+  },
+  "General_Barin_Skirt": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Barin/General_Barin_Skirt.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 230,
+        "h": 159,
+        "rx": 885,
+        "ry": 920
+      }
+    ],
+    "fx": []
+  },
+  "General_Barin_Upper_Legs": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/General_Barin/General_Barin_Upper_Legs.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 219,
+        "h": 162,
+        "rx": 890,
+        "ry": 919
+      }
+    ],
+    "fx": []
+  },
   "General_BlueGeneral_Arm_Left": {
     "pid": 1,
     "url": "x384/Characters/Generals/General_BlueGeneral/General_BlueGeneral_Arm_Left.png",
@@ -55551,6 +55964,21 @@
     ],
     "fx": []
   },
+  "Background_Generals_Overview_Barin": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Barin.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1211,
+        "h": 1217,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
   "Background_Generals_Overview_BlueGeneral": {
     "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_BlueGeneral.png",
@@ -55779,6 +56207,21 @@
   "Background_Generals_Overview_Preview_BabaVarjuka": {
     "pid": 1,
     "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_BabaVarjuka.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1211,
+        "h": 1217,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Background_Generals_Overview_Preview_Barin": {
+    "pid": 1,
+    "url": "x384/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_Barin.png",
     "frames": [
       {
         "x": 0,
@@ -85081,6 +85524,21 @@
     ],
     "fx": []
   },
+  "icon_general_attack_avatar_Barin": {
+    "pid": 1,
+    "url": "x384/Icons/GeneralIcons/icon_general_attack_avatar_Barin.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 157,
+        "h": 189,
+        "rx": 921,
+        "ry": 911
+      }
+    ],
+    "fx": []
+  },
   "icon_general_attack_avatar_bg_blue": {
     "pid": 0,
     "url": "x384/Icons/GeneralIcons/icon_general_attack_avatar_bg_blue.png",
@@ -85482,6 +85940,51 @@
         "h": 73,
         "rx": 972,
         "ry": 963
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_Barin_xl": {
+    "pid": 1,
+    "url": "x384/Icons/GeneralIcons/icon_general_Barin_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 104,
+        "h": 104,
+        "rx": 949,
+        "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_Barin_xxl": {
+    "pid": 1,
+    "url": "x384/Icons/GeneralIcons/icon_general_Barin_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 131,
+        "h": 131,
+        "rx": 940,
+        "ry": 940
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_Barin": {
+    "pid": 1,
+    "url": "x384/Icons/GeneralIcons/icon_general_Barin.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 70,
+        "h": 70,
+        "rx": 965,
+        "ry": 965
       }
     ],
     "fx": []
@@ -86247,6 +86750,51 @@
         "h": 68,
         "rx": 966,
         "ry": 968
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Barin_xl": {
+    "pid": 1,
+    "url": "x384/Icons/GeneralIcons/icon_general_preview_Barin_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 104,
+        "h": 104,
+        "rx": 949,
+        "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Barin_xxl": {
+    "pid": 1,
+    "url": "x384/Icons/GeneralIcons/icon_general_preview_Barin_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 131,
+        "rx": 941,
+        "ry": 940
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Barin": {
+    "pid": 1,
+    "url": "x384/Icons/GeneralIcons/icon_general_preview_Barin.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 69,
+        "h": 69,
+        "rx": 965,
+        "ry": 965
       }
     ],
     "fx": []
@@ -87769,6 +88317,21 @@
   "icon_squared_general_BabaVarjuka": {
     "pid": 2,
     "url": "x384/Icons/GeneralIcons/icon_squared_general_BabaVarjuka.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 59,
+        "rx": 970,
+        "ry": 970
+      }
+    ],
+    "fx": []
+  },
+  "icon_squared_general_Barin": {
+    "pid": 1,
+    "url": "x384/Icons/GeneralIcons/icon_squared_general_Barin.png",
     "frames": [
       {
         "x": 0,
@@ -92247,6 +92810,111 @@
         "h": 27,
         "rx": 986,
         "ry": 986
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_BarinToken_big_ds": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_BarinToken_big_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 59,
+        "h": 59,
+        "rx": 970,
+        "ry": 970
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_BarinToken_big": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_BarinToken_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 57,
+        "rx": 971,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_BarinToken_ds": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_BarinToken_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 37,
+        "h": 37,
+        "rx": 981,
+        "ry": 981
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_BarinToken_medium_ds": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_BarinToken_medium_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 47,
+        "rx": 976,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_BarinToken_medium": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_BarinToken_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 47,
+        "rx": 976,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_BarinToken_small": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_BarinToken_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 19,
+        "h": 19,
+        "rx": 990,
+        "ry": 990
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_BarinToken": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_currency_BarinToken.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 35,
+        "rx": 982,
+        "ry": 982
       }
     ],
     "fx": []
@@ -99751,6 +100419,36 @@
     ],
     "fx": []
   },
+  "icon_currency_ShardBarin_xl": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_currency_ShardBarin_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 101,
+        "rx": 950,
+        "ry": 949
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_ShardBarin": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_currency_ShardBarin.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 35,
+        "rx": 982,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_ShardDiana_xl": {
     "pid": 1,
     "url": "x384/Icons/Icons/icon_currency_ShardDiana_xl.png",
@@ -106977,6 +107675,21 @@
         "h": 35,
         "rx": 982,
         "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "icon_lock_small_ds": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_lock_small_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 18,
+        "h": 19,
+        "rx": 991,
+        "ry": 990
       }
     ],
     "fx": []

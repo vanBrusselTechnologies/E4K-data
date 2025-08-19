@@ -2119,7 +2119,9 @@
     "deco_ExaltedRedAnniversaryBalloon_name": "Balon roșu de aniversare exaltat",
     "deco_ExaltedRedAnniversaryCake_name": "Tort aniversar roșu înălțat",
     "dialog_legendTemple_sceat_71_name": "Măcelărie relicvă",
-    "deco_exaltedgreenfuryblade_name": "Forjarea exaltată a lamei furiei"
+    "deco_exaltedgreenfuryblade_name": "Forjarea exaltată a lamei furiei",
+    "deco_exaltedpurplefuryblade_name": "Forjarea înălțată a lamei furiei",
+    "deco_exaltedredfuryblade_name": "Forjarea roșie exaltată a lamei furiei"
   },
   "dialogs": {
     "dialog_festival_desc": "Foloseşte alimente ca să organizezi un festin pentru cetăţenii tăi! Viteza de recrutare va creşte în mod considerabil la toate castelele tale în timpul festinului. Cu cât festinul este mai mare, cu atât creşte şi efectul.",
@@ -13149,7 +13151,11 @@
     "webshop_cakeanniversary_medium_name": "Platou mediu pentru tort aniversar",
     "webshop_cakeanniversary_small_name": "Tavă mică pentru tort aniversar",
     "webshop_giftanniversary_name": "Startul sărbătorii aniversare",
-    "popup_ame_rewards_level_info_text": "Se deblochează după ce alianța ta atinge {0} divizia"
+    "popup_ame_rewards_level_info_text": "Se deblochează după ce alianța ta atinge {0} divizia",
+    "webshop_anniversarybundledef_giant_name": "Pachetul aniversar uriaș defensiv",
+    "webshop_anniversarybundledef_huge_name": "Pachet defensiv uriaș de aniversare",
+    "webshop_anniversarybundleoff_giant_name": "Pachet uriaș de aniversare",
+    "webshop_anniversarybundleoff_huge_name": "Pachet aniversar imens ofensiv"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% puterea de luptă a unității în atac",

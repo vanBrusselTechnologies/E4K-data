@@ -2119,7 +2119,9 @@
     "deco_ExaltedRedAnniversaryBalloon_name": "Vznešený červený výroční balón",
     "deco_ExaltedRedAnniversaryCake_name": "Vznešený červený narozeninový dort",
     "dialog_legendTemple_sceat_71_name": "Reliktní řeznictví",
-    "deco_exaltedgreenfuryblade_name": "Vznešené kování Hněvivého čepele"
+    "deco_exaltedgreenfuryblade_name": "Vznešené kování Hněvivého čepele",
+    "deco_exaltedpurplefuryblade_name": "Vznešené kování Čepele zuřivosti",
+    "deco_exaltedredfuryblade_name": "Vznešené červené kování Zuřivostní čepele"
   },
   "dialogs": {
     "dialog_festival_desc": "Použijte jídlo na slavnost pro Vaše občany!\nDokud potrvá slavnost, rychlost verbování na všech Vašich hradech se výrazně zvýší. Čím větší slavnost, tím silnější účinek.",
@@ -13149,7 +13151,11 @@
     "webshop_cakeanniversary_medium_name": "Střední talíř na výroční dort",
     "webshop_cakeanniversary_small_name": "Malý talíř na narozeninový dort",
     "webshop_giftanniversary_name": "Zahájení oslavy výročí",
-    "popup_ame_rewards_level_info_text": "Odemkne se, jakmile vaše aliance dosáhne {0} divize"
+    "popup_ame_rewards_level_info_text": "Odemkne se, jakmile vaše aliance dosáhne {0} divize",
+    "webshop_anniversarybundledef_giant_name": "Obraný balíček Velké výročí",
+    "webshop_anniversarybundledef_huge_name": "Obrovský obranný balíček k výročí",
+    "webshop_anniversarybundleoff_giant_name": "Obrovský výroční balíček",
+    "webshop_anniversarybundleoff_huge_name": "Obrovský výroční balíček ofenzivní"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% bojová síla jednotky při útoku",

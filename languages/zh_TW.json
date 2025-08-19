@@ -2119,7 +2119,9 @@
     "deco_ExaltedRedAnniversaryBalloon_name": "崇高的紅色週年氣球",
     "deco_ExaltedRedAnniversaryCake_name": "崇高的紅色周年蛋糕",
     "dialog_legendTemple_sceat_71_name": "聖物肉店",
-    "deco_exaltedgreenfuryblade_name": "崇高的憤怒之刃的鍛造"
+    "deco_exaltedgreenfuryblade_name": "崇高的憤怒之刃的鍛造",
+    "deco_exaltedpurplefuryblade_name": "崇高的憤怒之刃鍛造",
+    "deco_exaltedredfuryblade_name": "崇高的紅色怒火之刃鍛造"
   },
   "dialogs": {
     "dialog_festival_desc": "用食物幫你的居民舉辦一場盛宴吧！在盛宴期間，你所有城堡的招募速度會大幅提高。宴會越大，效果越好。",
@@ -13149,7 +13151,11 @@
     "webshop_cakeanniversary_medium_name": "中型周年蛋糕盤",
     "webshop_cakeanniversary_small_name": "小型週年蛋糕盤",
     "webshop_giftanniversary_name": "周年慶祝活動開始",
-    "popup_ame_rewards_level_info_text": "在您的聯盟達到{0}分部後解鎖"
+    "popup_ame_rewards_level_info_text": "在您的聯盟達到{0}分部後解鎖",
+    "webshop_anniversarybundledef_giant_name": "巨型周年包防禦",
+    "webshop_anniversarybundledef_huge_name": "巨型周年慶捆綁防禦",
+    "webshop_anniversarybundleoff_giant_name": "巨型周年包",
+    "webshop_anniversarybundleoff_huge_name": "巨大的周年紀念包攻擊"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% 單位攻擊時的戰鬥力",

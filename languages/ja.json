@@ -2119,7 +2119,9 @@
     "deco_ExaltedRedAnniversaryBalloon_name": "崇高な赤い記念バルーン",
     "deco_ExaltedRedAnniversaryCake_name": "崇高な赤い記念日ケーキ",
     "dialog_legendTemple_sceat_71_name": "聖遺物の肉屋",
-    "deco_exaltedgreenfuryblade_name": "怒りの剣の崇高な鍛造"
+    "deco_exaltedgreenfuryblade_name": "怒りの剣の崇高な鍛造",
+    "deco_exaltedpurplefuryblade_name": "崇高なる怒りの剣の鍛冶",
+    "deco_exaltedredfuryblade_name": "崇高な赤の怒りの刃の鍛造"
   },
   "dialogs": {
     "dialog_festival_desc": "食料を集めて宴会を開きましょう！\n宴会が続く限り、兵の雇用スピードがすべての城で速くなります。宴会が豪華になるほど、効果も大きくなります。",
@@ -13149,7 +13151,11 @@
     "webshop_cakeanniversary_medium_name": "中型アニバーサリーケーキプレート",
     "webshop_cakeanniversary_small_name": "小さな記念日ケーキプレート",
     "webshop_giftanniversary_name": "記念日のお祝いの開始",
-    "popup_ame_rewards_level_info_text": "{0}ディビジョンに到達すると、あなたの同盟が解除されます"
+    "popup_ame_rewards_level_info_text": "{0}ディビジョンに到達すると、あなたの同盟が解除されます",
+    "webshop_anniversarybundledef_giant_name": "巨大なアニバーサリーバンドル防御",
+    "webshop_anniversarybundledef_huge_name": "巨大な記念バンドル防衛",
+    "webshop_anniversarybundleoff_giant_name": "巨大な記念日バンドル",
+    "webshop_anniversarybundleoff_huge_name": "巨大な記念バンドル攻撃"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% ユニットの攻撃時の戦闘力",

@@ -2119,7 +2119,9 @@
     "deco_ExaltedRedAnniversaryBalloon_name": "Høytidelig rød jubileumsballong",
     "deco_ExaltedRedAnniversaryCake_name": "Høytidelig rød jubileumskake",
     "dialog_legendTemple_sceat_71_name": "Relikvie-slakteri",
-    "deco_exaltedgreenfuryblade_name": "Erhøyet smiing av Vredens klinge"
+    "deco_exaltedgreenfuryblade_name": "Erhøyet smiing av Vredens klinge",
+    "deco_exaltedpurplefuryblade_name": "Høyverdig smiing av Vredens klinge",
+    "deco_exaltedredfuryblade_name": "Hedret rød smedning av raseriens klinge"
   },
   "dialogs": {
     "dialog_festival_desc": "Bruk mat til å holde en festival for folket! Rekrutteringshastigheten vil markant økes ved alle slottene dine så lenge festivalen varer. Desto større festival, jo bedre effekt.",
@@ -13149,7 +13151,11 @@
     "webshop_cakeanniversary_medium_name": "Middels jubileumskakefat",
     "webshop_cakeanniversary_small_name": "Liten jubileumskakefat",
     "webshop_giftanniversary_name": "Start p? jubileumsfeiringen",
-    "popup_ame_rewards_level_info_text": "Låses opp etter at alliansen din når {0} divisjon"
+    "popup_ame_rewards_level_info_text": "Låses opp etter at alliansen din når {0} divisjon",
+    "webshop_anniversarybundledef_giant_name": "Kjempe jubileumspakke defensiv",
+    "webshop_anniversarybundledef_huge_name": "Stort jubileumspakke defensiv",
+    "webshop_anniversarybundleoff_giant_name": "Kjempe jubileumspakke",
+    "webshop_anniversarybundleoff_huge_name": "Kjempe jubileumspakke offensiv"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% enhetens kampstyrke ved angrep",

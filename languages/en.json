@@ -2119,7 +2119,9 @@
     "deco_ExaltedRedAnniversaryBalloon_name": "Exalted Red Anniversary Balloon",
     "deco_ExaltedRedAnniversaryCake_name": "Exalted Red Anniversary Cake",
     "dialog_legendTemple_sceat_71_name": "Relic Butcher Shop",
-    "deco_exaltedgreenfuryblade_name": "Exalted Green Forging of Furys Blade"
+    "deco_exaltedgreenfuryblade_name": "Exalted Green Forging of Furys Blade",
+    "deco_exaltedpurplefuryblade_name": "Exalted Purple Forging of Furys Blade",
+    "deco_exaltedredfuryblade_name": "Exalted Red Forging of Furys Blade"
   },
   "dialogs": {
     "dialog_festival_desc": "Use your food to hold a feast for your citizens!\nSoldiers will be recruited much more quickly in all of your castles for as long as the feast lasts. The bigger the feast, the greater the effect.",
@@ -13149,7 +13151,11 @@
     "webshop_cakeanniversary_medium_name": "Medium Anniversary Cake Platter",
     "webshop_cakeanniversary_small_name": "Small Anniversary Cake Platter",
     "webshop_giftanniversary_name": "Anniversary Celebration Starter",
-    "popup_ame_rewards_level_info_text": "Unlocks after your alliance reaches the {0} Division"
+    "popup_ame_rewards_level_info_text": "Unlocks after your alliance reaches the {0} Division",
+    "webshop_anniversarybundledef_giant_name": "Giant Anniversary Bundle Defensive",
+    "webshop_anniversarybundledef_huge_name": "Huge Anniversary Bundle Defensive",
+    "webshop_anniversarybundleoff_giant_name": "Giant Anniversary Bundle Offensive",
+    "webshop_anniversarybundleoff_huge_name": "Huge Anniversary Bundle Offensive"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% unit combat strength when attacking",

@@ -2119,7 +2119,9 @@
     "deco_ExaltedRedAnniversaryBalloon_name": "Balão vermelho de aniversário exaltado",
     "deco_ExaltedRedAnniversaryCake_name": "Bolo vermelho exaltado de aniversário",
     "dialog_legendTemple_sceat_71_name": "Carniceria relíquia",
-    "deco_exaltedgreenfuryblade_name": "Forjamento exaltado da lâmina da fúria"
+    "deco_exaltedgreenfuryblade_name": "Forjamento exaltado da lâmina da fúria",
+    "deco_exaltedpurplefuryblade_name": "Forjamento exaltado da Lâmina da Fúria",
+    "deco_exaltedredfuryblade_name": "Forja exaltada da lâmina da fúria"
   },
   "dialogs": {
     "dialog_festival_desc": "Use comida para organizar um banquete para os cidadãos! A velocidade de recrutamento aumentará consideravelmente em todos os seus castelos durante o banquete. Quanto maior o banquete, maior o efeito.",
@@ -13149,7 +13151,11 @@
     "webshop_cakeanniversary_medium_name": "Prato m?dio para bolo de anivers?rio",
     "webshop_cakeanniversary_small_name": "Pequeno prato de bolo de anivers?rio",
     "webshop_giftanniversary_name": "In?cio da celebra??o de anivers?rio",
-    "popup_ame_rewards_level_info_text": "Desbloqueia após sua aliança alcançar a {0} Divisão"
+    "popup_ame_rewards_level_info_text": "Desbloqueia após sua aliança alcançar a {0} Divisão",
+    "webshop_anniversarybundledef_giant_name": "Pacote de Anivers?rio Gigante Defensivo",
+    "webshop_anniversarybundledef_huge_name": "Grande pacote defensivo de anivers?rio",
+    "webshop_anniversarybundleoff_giant_name": "Pacote de Anivers?rio Gigante",
+    "webshop_anniversarybundleoff_huge_name": "Grande pacote de anivers?rio ofensivo"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% de força de combate da unidade ao atacar",

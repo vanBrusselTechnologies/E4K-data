@@ -2119,7 +2119,9 @@
     "deco_ExaltedRedAnniversaryBalloon_name": "Ballon rouge danniversaire exalté",
     "deco_ExaltedRedAnniversaryCake_name": "Gâteau danniversaire rouge exalté",
     "dialog_legendTemple_sceat_71_name": "Boucherie de relique",
-    "deco_exaltedgreenfuryblade_name": "Forge exaltée de la lame de fureur"
+    "deco_exaltedgreenfuryblade_name": "Forge exaltée de la lame de fureur",
+    "deco_exaltedpurplefuryblade_name": "Forge exaltée de la Lame furieuse",
+    "deco_exaltedredfuryblade_name": "Forgée rouge exaltée de la Lame de la Fureur"
   },
   "dialogs": {
     "dialog_festival_desc": "Utilisez de la nourriture pour organiser une fête pour vos villageois ! Tant que la fête durera, la vitesse de recrutement sera considérablement augmentée dans tous vos châteaux. Plus la fête est grande, plus son effet est important.",
@@ -13149,7 +13151,11 @@
     "webshop_cakeanniversary_medium_name": "Plateau de g?teau danniversaire moyen",
     "webshop_cakeanniversary_small_name": "Petite assiette de g?teau danniversaire",
     "webshop_giftanniversary_name": "D?marrage de la c?l?bration danniversaire",
-    "popup_ame_rewards_level_info_text": "Débloqué après que votre alliance atteigne la {0} division"
+    "popup_ame_rewards_level_info_text": "Débloqué après que votre alliance atteigne la {0} division",
+    "webshop_anniversarybundledef_giant_name": "Pack danniversaire g?ant d?fensif",
+    "webshop_anniversarybundledef_huge_name": "Gros paquet danniversaire d?fensif",
+    "webshop_anniversarybundleoff_giant_name": "Grand paquet danniversaire",
+    "webshop_anniversarybundleoff_huge_name": "Gros paquet danniversaire offensif"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% de force de combat de lunité lors de lattaque",

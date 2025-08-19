@@ -2119,7 +2119,9 @@
     "deco_ExaltedRedAnniversaryBalloon_name": "Yüce Kırmızı Yıldönümü Balonu",
     "deco_ExaltedRedAnniversaryCake_name": "Yüce Kırmızı Yıldönümü Pastası",
     "dialog_legendTemple_sceat_71_name": "Kalıntı kasap",
-    "deco_exaltedgreenfuryblade_name": "Yüceltilmiş Öfke Kılıcının dövülmesi"
+    "deco_exaltedgreenfuryblade_name": "Yüceltilmiş Öfke Kılıcının dövülmesi",
+    "deco_exaltedpurplefuryblade_name": "Yüceltilmiş Öfke Bıçağının Demir İşçiliği",
+    "deco_exaltedredfuryblade_name": "Yüceltilmiş kırmızı öfke bıçağının dövümü"
   },
   "dialogs": {
     "dialog_festival_desc": "Yurttaşlarınıza bir şenlik düzenlemek için yiyecek kullanın!\nŞenlik devam ettiği sürece askere alma hızı tüm kalelerinizde belirgin şekilde artacak. Şenlik ne kadar büyük olursa, etkisi de o kadar büyük olur.",
@@ -13149,7 +13151,11 @@
     "webshop_cakeanniversary_medium_name": "Orta boy yıl dönümü pasta tepsisi",
     "webshop_cakeanniversary_small_name": "Küçük yıldönümü pasta tepsisi",
     "webshop_giftanniversary_name": "Yıl dönümü kutlaması başlangıcı",
-    "popup_ame_rewards_level_info_text": "İttifakınız {0} Bölümüne ulaştıktan sonra açılır"
+    "popup_ame_rewards_level_info_text": "İttifakınız {0} Bölümüne ulaştıktan sonra açılır",
+    "webshop_anniversarybundledef_giant_name": "Devasa Yıldönümü Paketi Savunma",
+    "webshop_anniversarybundledef_huge_name": "Büyük Yıldönümü Savunma Paketi",
+    "webshop_anniversarybundleoff_giant_name": "Devasa Yıldönümü Paketi",
+    "webshop_anniversarybundleoff_huge_name": "Büyük Yıldönümü Paketi Saldırısı"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% birimin savaş gücü saldırırken",

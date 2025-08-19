@@ -2119,7 +2119,9 @@
     "deco_ExaltedRedAnniversaryBalloon_name": "Palloncino rosso dellanniversario esaltato",
     "deco_ExaltedRedAnniversaryCake_name": "Torta rossa esaltata per lanniversario",
     "dialog_legendTemple_sceat_71_name": "Macelleria reliquia",
-    "deco_exaltedgreenfuryblade_name": "Forgiatura esaltata della lama della furia"
+    "deco_exaltedgreenfuryblade_name": "Forgiatura esaltata della lama della furia",
+    "deco_exaltedpurplefuryblade_name": "Forgiatura esaltata della lama furente",
+    "deco_exaltedredfuryblade_name": "Forgiatura rossa esaltata della lama della furia"
   },
   "dialogs": {
     "dialog_festival_desc": "Usa il cibo per organizzare un banchetto per i tuoi cittadini! La velocità di reclutamento aumenterà notevolmente in tutti i castelli per la durata del banchetto. Più grande è il banchetto, maggiore sarà leffetto.",
@@ -13149,7 +13151,11 @@
     "webshop_cakeanniversary_medium_name": "Piatto di torta di anniversario medio",
     "webshop_cakeanniversary_small_name": "Piccolo vassoio per torta di anniversario",
     "webshop_giftanniversary_name": "Inizio della celebrazione dellanniversario",
-    "popup_ame_rewards_level_info_text": "Sblocca dopo che la tua alleanza raggiunge la {0} Divisione"
+    "popup_ame_rewards_level_info_text": "Sblocca dopo che la tua alleanza raggiunge la {0} Divisione",
+    "webshop_anniversarybundledef_giant_name": "Pacchetto anniversario gigante difensivo",
+    "webshop_anniversarybundledef_huge_name": "Grande pacchetto difensivo dellanniversario",
+    "webshop_anniversarybundleoff_giant_name": "Grande pacchetto anniversario",
+    "webshop_anniversarybundleoff_huge_name": "Grande pacchetto dellanniversario offensivo"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% di forza di combattimento dellunità in attacco",

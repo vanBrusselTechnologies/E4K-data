@@ -1498,10 +1498,10 @@
       "rarenessID": 1,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 3,
       "removalCostC1": 1400,
       "addCommonFinesand": 13,
-      "addCommonBricks": 13
+      "addCommonBricks": 13,
+      "effects": "420&amp;3"
     },
     {
       "constructionItemID": 46,
@@ -1514,10 +1514,10 @@
       "rarenessID": 1,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 6,
       "removalCostC1": 2100,
       "addCommonFinesand": 16,
-      "addCommonBricks": 16
+      "addCommonBricks": 16,
+      "effects": "420&amp;6"
     },
     {
       "constructionItemID": 47,
@@ -1530,10 +1530,10 @@
       "rarenessID": 1,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 9,
       "removalCostC1": 3200,
       "addCommonFinesand": 19,
-      "addCommonBricks": 19
+      "addCommonBricks": 19,
+      "effects": "420&amp;9"
     },
     {
       "constructionItemID": 48,
@@ -1546,11 +1546,11 @@
       "rarenessID": 2,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 14,
       "removalCostC1": 4800,
       "addCommonFinesand": 25,
       "addCommonBricks": 25,
-      "addRareFlint": 17
+      "addRareFlint": 17,
+      "effects": "420&amp;14"
     },
     {
       "constructionItemID": 49,
@@ -1563,11 +1563,11 @@
       "rarenessID": 2,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 19,
       "removalCostC1": 7200,
       "addCommonFinesand": 30,
       "addCommonBricks": 30,
-      "addRareFlint": 21
+      "addRareFlint": 21,
+      "effects": "420&amp;19"
     },
     {
       "constructionItemID": 50,
@@ -1580,11 +1580,11 @@
       "rarenessID": 2,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 24,
       "removalCostC1": 10800,
       "addCommonFinesand": 37,
       "addCommonBricks": 37,
-      "addRareFlint": 27
+      "addRareFlint": 27,
+      "effects": "420&amp;24"
     },
     {
       "constructionItemID": 51,
@@ -1597,12 +1597,12 @@
       "rarenessID": 3,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 31,
       "removalCostC1": 16200,
       "addCommonFinesand": 46,
       "addCommonBricks": 46,
       "addRareFlint": 36,
-      "addEpicResin": 22
+      "addEpicResin": 22,
+      "effects": "420&amp;31"
     },
     {
       "constructionItemID": 52,
@@ -1615,12 +1615,12 @@
       "rarenessID": 3,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 38,
       "removalCostC1": 24300,
       "addCommonFinesand": 56,
       "addCommonBricks": 56,
       "addRareFlint": 47,
-      "addEpicResin": 27
+      "addEpicResin": 27,
+      "effects": "420&amp;38"
     },
     {
       "constructionItemID": 53,
@@ -1633,12 +1633,12 @@
       "rarenessID": 3,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 45,
       "removalCostC1": 36500,
       "addCommonFinesand": 73,
       "addCommonBricks": 73,
       "addRareFlint": 66,
-      "addEpicResin": 33
+      "addEpicResin": 33,
+      "effects": "420&amp;45"
     },
     {
       "constructionItemID": 54,
@@ -1651,13 +1651,13 @@
       "rarenessID": 4,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 55,
       "removalCostC1": 54800,
       "addCommonFinesand": 103,
       "addCommonBricks": 103,
       "addRareFlint": 100,
       "addEpicResin": 42,
-      "addLegendarySoulstone": 61
+      "addLegendarySoulstone": 61,
+      "effects": "420&amp;55"
     },
     {
       "constructionItemID": 342,
@@ -1670,13 +1670,13 @@
       "rarenessID": 4,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 65,
       "removalCostC1": 73100,
       "addCommonFinesand": 135,
       "addCommonBricks": 135,
       "addRareFlint": 135,
       "addEpicResin": 52,
-      "addLegendarySoulstone": 63
+      "addLegendarySoulstone": 63,
+      "effects": "420&amp;65"
     },
     {
       "constructionItemID": 343,
@@ -1689,13 +1689,13 @@
       "rarenessID": 4,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 75,
       "removalCostC1": 94600,
       "addCommonFinesand": 168,
       "addCommonBricks": 168,
       "addRareFlint": 170,
       "addEpicResin": 62,
-      "addLegendarySoulstone": 65
+      "addLegendarySoulstone": 65,
+      "effects": "420&amp;75"
     },
     {
       "constructionItemID": 344,
@@ -1708,13 +1708,13 @@
       "rarenessID": 4,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 85,
       "removalCostC1": 116100,
       "addCommonFinesand": 201,
       "addCommonBricks": 201,
       "addRareFlint": 206,
       "addEpicResin": 74,
-      "addLegendarySoulstone": 67
+      "addLegendarySoulstone": 67,
+      "effects": "420&amp;85"
     },
     {
       "constructionItemID": 345,
@@ -1727,13 +1727,13 @@
       "rarenessID": 4,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 95,
       "removalCostC1": 137600,
       "addCommonFinesand": 235,
       "addCommonBricks": 235,
       "addRareFlint": 242,
       "addEpicResin": 86,
-      "addLegendarySoulstone": 69
+      "addLegendarySoulstone": 69,
+      "effects": "420&amp;95"
     },
     {
       "constructionItemID": 346,
@@ -1746,13 +1746,13 @@
       "rarenessID": 4,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 110,
       "removalCostC1": 159100,
       "addCommonFinesand": 270,
       "addCommonBricks": 270,
       "addRareFlint": 280,
       "addEpicResin": 100,
-      "addLegendarySoulstone": 72
+      "addLegendarySoulstone": 72,
+      "effects": "420&amp;110"
     },
     {
       "constructionItemID": 352,
@@ -1765,13 +1765,13 @@
       "rarenessID": 4,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 125,
       "removalCostC1": 180600,
       "addCommonFinesand": 305,
       "addCommonBricks": 305,
       "addRareFlint": 318,
       "addEpicResin": 114,
-      "addLegendarySoulstone": 75
+      "addLegendarySoulstone": 75,
+      "effects": "420&amp;125"
     },
     {
       "constructionItemID": 353,
@@ -1784,13 +1784,13 @@
       "rarenessID": 4,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 140,
       "removalCostC1": 202100,
       "addCommonFinesand": 350,
       "addCommonBricks": 350,
       "addRareFlint": 360,
       "addEpicResin": 130,
-      "addLegendarySoulstone": 80
+      "addLegendarySoulstone": 80,
+      "effects": "420&amp;140"
     },
     {
       "constructionItemID": 354,
@@ -1803,13 +1803,13 @@
       "rarenessID": 4,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 155,
       "removalCostC1": 223600,
       "addCommonFinesand": 395,
       "addCommonBricks": 395,
       "addRareFlint": 402,
       "addEpicResin": 146,
-      "addLegendarySoulstone": 85
+      "addLegendarySoulstone": 85,
+      "effects": "420&amp;155"
     },
     {
       "constructionItemID": 355,
@@ -1822,13 +1822,13 @@
       "rarenessID": 4,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 170,
       "removalCostC1": 245100,
       "addCommonFinesand": 450,
       "addCommonBricks": 450,
       "addRareFlint": 450,
       "addEpicResin": 165,
-      "addLegendarySoulstone": 90
+      "addLegendarySoulstone": 90,
+      "effects": "420&amp;170"
     },
     {
       "constructionItemID": 356,
@@ -1841,13 +1841,13 @@
       "rarenessID": 4,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 185,
       "removalCostC1": 266600,
       "addCommonFinesand": 510,
       "addCommonBricks": 510,
       "addRareFlint": 500,
       "addEpicResin": 185,
-      "addLegendarySoulstone": 100
+      "addLegendarySoulstone": 100,
+      "effects": "420&amp;185"
     },
     {
       "constructionItemID": 726,
@@ -1860,13 +1860,13 @@
       "rarenessID": 4,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 205,
       "removalCostC1": 288100,
       "addCommonFinesand": 570,
       "addCommonBricks": 570,
       "addRareFlint": 550,
       "addEpicResin": 205,
-      "addLegendarySoulstone": 110
+      "addLegendarySoulstone": 110,
+      "effects": "420&amp;205"
     },
     {
       "constructionItemID": 727,
@@ -1879,13 +1879,13 @@
       "rarenessID": 4,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 225,
       "removalCostC1": 309600,
       "addCommonFinesand": 630,
       "addCommonBricks": 630,
       "addRareFlint": 600,
       "addEpicResin": 225,
-      "addLegendarySoulstone": 120
+      "addLegendarySoulstone": 120,
+      "effects": "420&amp;225"
     },
     {
       "constructionItemID": 728,
@@ -1898,13 +1898,13 @@
       "rarenessID": 4,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 245,
       "removalCostC1": 331100,
       "addCommonFinesand": 690,
       "addCommonBricks": 690,
       "addRareFlint": 650,
       "addEpicResin": 245,
-      "addLegendarySoulstone": 130
+      "addLegendarySoulstone": 130,
+      "effects": "420&amp;245"
     },
     {
       "constructionItemID": 729,
@@ -1917,13 +1917,13 @@
       "rarenessID": 4,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 265,
       "removalCostC1": 352600,
       "addCommonFinesand": 750,
       "addCommonBricks": 750,
       "addRareFlint": 700,
       "addEpicResin": 265,
-      "addLegendarySoulstone": 140
+      "addLegendarySoulstone": 140,
+      "effects": "420&amp;265"
     },
     {
       "constructionItemID": 730,
@@ -1936,13 +1936,13 @@
       "rarenessID": 4,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 285,
       "removalCostC1": 374100,
       "addCommonFinesand": 810,
       "addCommonBricks": 810,
       "addRareFlint": 750,
       "addEpicResin": 285,
-      "addLegendarySoulstone": 150
+      "addLegendarySoulstone": 150,
+      "effects": "420&amp;285"
     },
     {
       "constructionItemID": 731,
@@ -1955,13 +1955,13 @@
       "rarenessID": 4,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 305,
       "removalCostC1": 395600,
       "addCommonFinesand": 870,
       "addCommonBricks": 870,
       "addRareFlint": 800,
       "addEpicResin": 305,
-      "addLegendarySoulstone": 160
+      "addLegendarySoulstone": 160,
+      "effects": "420&amp;305"
     },
     {
       "constructionItemID": 732,
@@ -1974,13 +1974,13 @@
       "rarenessID": 4,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 325,
       "removalCostC1": 417100,
       "addCommonFinesand": 930,
       "addCommonBricks": 930,
       "addRareFlint": 850,
       "addEpicResin": 325,
-      "addLegendarySoulstone": 170
+      "addLegendarySoulstone": 170,
+      "effects": "420&amp;325"
     },
     {
       "constructionItemID": 733,
@@ -1993,13 +1993,13 @@
       "rarenessID": 4,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 345,
       "removalCostC1": 438600,
       "addCommonFinesand": 990,
       "addCommonBricks": 990,
       "addRareFlint": 900,
       "addEpicResin": 345,
-      "addLegendarySoulstone": 180
+      "addLegendarySoulstone": 180,
+      "effects": "420&amp;345"
     },
     {
       "constructionItemID": 734,
@@ -2012,13 +2012,13 @@
       "rarenessID": 4,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 365,
       "removalCostC1": 460100,
       "addCommonFinesand": 1050,
       "addCommonBricks": 1050,
       "addRareFlint": 950,
       "addEpicResin": 365,
-      "addLegendarySoulstone": 190
+      "addLegendarySoulstone": 190,
+      "effects": "420&amp;365"
     },
     {
       "constructionItemID": 735,
@@ -2031,13 +2031,13 @@
       "rarenessID": 4,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 385,
       "removalCostC1": 481600,
       "addCommonFinesand": 1110,
       "addCommonBricks": 1110,
       "addRareFlint": 1000,
       "addEpicResin": 385,
-      "addLegendarySoulstone": 200
+      "addLegendarySoulstone": 200,
+      "effects": "420&amp;385"
     },
     {
       "constructionItemID": 736,
@@ -2050,13 +2050,13 @@
       "rarenessID": 4,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 410,
       "removalCostC1": 503100,
       "addCommonFinesand": 1170,
       "addCommonBricks": 1170,
       "addRareFlint": 1050,
       "addEpicResin": 405,
-      "addLegendarySoulstone": 210
+      "addLegendarySoulstone": 210,
+      "effects": "420&amp;410"
     },
     {
       "constructionItemID": 737,
@@ -2069,13 +2069,13 @@
       "rarenessID": 4,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 435,
       "removalCostC1": 524600,
       "addCommonFinesand": 1230,
       "addCommonBricks": 1230,
       "addRareFlint": 1100,
       "addEpicResin": 425,
-      "addLegendarySoulstone": 220
+      "addLegendarySoulstone": 220,
+      "effects": "420&amp;435"
     },
     {
       "constructionItemID": 738,
@@ -2088,13 +2088,13 @@
       "rarenessID": 4,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 460,
       "removalCostC1": 546100,
       "addCommonFinesand": 1290,
       "addCommonBricks": 1290,
       "addRareFlint": 1150,
       "addEpicResin": 445,
-      "addLegendarySoulstone": 230
+      "addLegendarySoulstone": 230,
+      "effects": "420&amp;460"
     },
     {
       "constructionItemID": 739,
@@ -2107,13 +2107,13 @@
       "rarenessID": 4,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 485,
       "removalCostC1": 567600,
       "addCommonFinesand": 1350,
       "addCommonBricks": 1350,
       "addRareFlint": 1200,
       "addEpicResin": 465,
-      "addLegendarySoulstone": 240
+      "addLegendarySoulstone": 240,
+      "effects": "420&amp;485"
     },
     {
       "constructionItemID": 740,
@@ -2126,13 +2126,13 @@
       "rarenessID": 4,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 510,
       "removalCostC1": 589100,
       "addCommonFinesand": 1410,
       "addCommonBricks": 1410,
       "addRareFlint": 1250,
       "addEpicResin": 485,
-      "addLegendarySoulstone": 250
+      "addLegendarySoulstone": 250,
+      "effects": "420&amp;510"
     },
     {
       "constructionItemID": 741,
@@ -2145,13 +2145,13 @@
       "rarenessID": 4,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 535,
       "removalCostC1": 610600,
       "addCommonFinesand": 1469,
       "addCommonBricks": 1319,
       "addRareFlint": 1234,
       "addEpicResin": 461,
-      "addLegendarySoulstone": 194
+      "addLegendarySoulstone": 194,
+      "effects": "420&amp;535"
     },
     {
       "constructionItemID": 742,
@@ -2164,13 +2164,13 @@
       "rarenessID": 4,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 560,
       "removalCostC1": 632100,
       "addCommonFinesand": 1669,
       "addCommonBricks": 1369,
       "addRareFlint": 1284,
       "addEpicResin": 481,
-      "addLegendarySoulstone": 200
+      "addLegendarySoulstone": 200,
+      "effects": "420&amp;560"
     },
     {
       "constructionItemID": 743,
@@ -2183,13 +2183,13 @@
       "rarenessID": 4,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 585,
       "removalCostC1": 653600,
       "addCommonFinesand": 1869,
       "addCommonBricks": 1419,
       "addRareFlint": 1334,
       "addEpicResin": 501,
-      "addLegendarySoulstone": 206
+      "addLegendarySoulstone": 206,
+      "effects": "420&amp;585"
     },
     {
       "constructionItemID": 744,
@@ -2202,13 +2202,13 @@
       "rarenessID": 4,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 610,
       "removalCostC1": 675100,
       "addCommonFinesand": 2069,
       "addCommonBricks": 1469,
       "addRareFlint": 1384,
       "addEpicResin": 521,
-      "addLegendarySoulstone": 212
+      "addLegendarySoulstone": 212,
+      "effects": "420&amp;610"
     },
     {
       "constructionItemID": 745,
@@ -2221,13 +2221,13 @@
       "rarenessID": 4,
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 6,
-      "unitWallCount": 635,
       "removalCostC1": 696600,
       "addCommonFinesand": 2269,
       "addCommonBricks": 1519,
       "addRareFlint": 1434,
       "addEpicResin": 541,
-      "addLegendarySoulstone": 218
+      "addLegendarySoulstone": 218,
+      "effects": "420&amp;635"
     },
     {
       "constructionItemID": 55,
@@ -5379,9 +5379,9 @@
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 25,
       "removalCostC1": 1400,
-      "surviveBoost": 1,
       "addCommonFinesand": 19,
-      "addCommonBricks": 19
+      "addCommonBricks": 19,
+      "effects": "427&amp;1"
     },
     {
       "constructionItemID": 286,
@@ -5395,10 +5395,10 @@
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 25,
       "removalCostC1": 4800,
-      "surviveBoost": 2,
       "addCommonFinesand": 37,
       "addCommonBricks": 37,
-      "addRareFlint": 26
+      "addRareFlint": 26,
+      "effects": "427&amp;2"
     },
     {
       "constructionItemID": 287,
@@ -5412,11 +5412,11 @@
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 25,
       "removalCostC1": 16200,
-      "surviveBoost": 3,
       "addCommonFinesand": 72,
       "addCommonBricks": 72,
       "addRareFlint": 50,
-      "addEpicResin": 33
+      "addEpicResin": 33,
+      "effects": "427&amp;3"
     },
     {
       "constructionItemID": 288,
@@ -5430,12 +5430,12 @@
       "slotTypeID": 1,
       "constructionItemEffectGroupID": 25,
       "removalCostC1": 54800,
-      "surviveBoost": 5,
       "addCommonFinesand": 79,
       "addCommonBricks": 79,
       "addRareFlint": 63,
       "addEpicResin": 42,
-      "addLegendarySoulstone": 27
+      "addLegendarySoulstone": 27,
+      "effects": "427&amp;5"
     },
     {
       "constructionItemID": 289,
@@ -14858,8 +14858,8 @@
       "slotTypeID": 0,
       "duration": 86400,
       "constructionItemEffectGroupID": 51,
-      "unitWallCount": 100,
-      "disassemblingTombolaID": 1
+      "disassemblingTombolaID": 1,
+      "effects": "420&amp;100"
     },
     {
       "constructionItemID": 30141,
@@ -14873,8 +14873,8 @@
       "slotTypeID": 0,
       "duration": 129600,
       "constructionItemEffectGroupID": 51,
-      "unitWallCount": 150,
-      "disassemblingTombolaID": 2
+      "disassemblingTombolaID": 2,
+      "effects": "420&amp;150"
     },
     {
       "constructionItemID": 30142,
@@ -14888,8 +14888,8 @@
       "slotTypeID": 0,
       "duration": 172800,
       "constructionItemEffectGroupID": 51,
-      "unitWallCount": 200,
-      "disassemblingTombolaID": 3
+      "disassemblingTombolaID": 3,
+      "effects": "420&amp;200"
     },
     {
       "constructionItemID": 30143,
@@ -14903,8 +14903,8 @@
       "slotTypeID": 0,
       "duration": 216000,
       "constructionItemEffectGroupID": 51,
-      "unitWallCount": 250,
-      "disassemblingTombolaID": 4
+      "disassemblingTombolaID": 4,
+      "effects": "420&amp;250"
     },
     {
       "constructionItemID": 30150,
@@ -16237,8 +16237,8 @@
       "rarenessID": 4,
       "slotTypeID": 0,
       "constructionItemEffectGroupID": 28,
-      "unitWallCount": 250,
-      "removalCostC1": 7200
+      "removalCostC1": 7200,
+      "effects": "420&amp;250"
     },
     {
       "constructionItemID": 30370,
@@ -18112,8 +18112,8 @@
       "slotTypeID": 0,
       "duration": 432000,
       "constructionItemEffectGroupID": 51,
-      "unitWallCount": 250,
-      "disassemblingTombolaID": 4
+      "disassemblingTombolaID": 4,
+      "effects": "420&amp;250"
     },
     {
       "constructionItemID": 30666,
@@ -18697,8 +18697,8 @@
       "slotTypeID": 0,
       "duration": 1209600,
       "constructionItemEffectGroupID": 51,
-      "unitWallCount": 100,
-      "disassemblingTombolaID": 2
+      "disassemblingTombolaID": 2,
+      "effects": "420&amp;100"
     },
     {
       "constructionItemID": 30097,
@@ -18712,8 +18712,8 @@
       "slotTypeID": 0,
       "duration": 1814400,
       "constructionItemEffectGroupID": 51,
-      "unitWallCount": 200,
-      "disassemblingTombolaID": 2
+      "disassemblingTombolaID": 2,
+      "effects": "420&amp;200"
     },
     {
       "constructionItemID": 30095,
@@ -18727,8 +18727,8 @@
       "slotTypeID": 0,
       "duration": 2419200,
       "constructionItemEffectGroupID": 51,
-      "unitWallCount": 250,
-      "disassemblingTombolaID": 2
+      "disassemblingTombolaID": 2,
+      "effects": "420&amp;250"
     },
     {
       "constructionItemID": 30105,
@@ -18892,8 +18892,8 @@
       "slotTypeID": 0,
       "duration": 604800,
       "constructionItemEffectGroupID": 51,
-      "unitWallCount": 250,
-      "disassemblingTombolaID": 4
+      "disassemblingTombolaID": 4,
+      "effects": "420&amp;250"
     },
     {
       "constructionItemID": 30293,
@@ -20265,9 +20265,9 @@
       "rarenessID": 4,
       "slotTypeID": 0,
       "constructionItemEffectGroupID": 28,
-      "unitWallCount": 250,
       "removalCostC1": 7200,
-      "disassemblingTombolaID": 4
+      "disassemblingTombolaID": 4,
+      "effects": "420&amp;250"
     },
     {
       "constructionItemID": 30711,
@@ -20280,9 +20280,9 @@
       "rarenessID": 4,
       "slotTypeID": 0,
       "constructionItemEffectGroupID": 28,
-      "unitWallCount": 200,
       "removalCostC1": 7200,
-      "disassemblingTombolaID": 4
+      "disassemblingTombolaID": 4,
+      "effects": "420&amp;200"
     },
     {
       "constructionItemID": 30712,
@@ -20296,8 +20296,8 @@
       "slotTypeID": 0,
       "duration": 2419200,
       "constructionItemEffectGroupID": 51,
-      "unitWallCount": 150,
-      "disassemblingTombolaID": 4
+      "disassemblingTombolaID": 4,
+      "effects": "420&amp;150"
     },
     {
       "constructionItemID": 30713,
@@ -20311,8 +20311,8 @@
       "slotTypeID": 0,
       "duration": 2419200,
       "constructionItemEffectGroupID": 51,
-      "unitWallCount": 200,
-      "disassemblingTombolaID": 4
+      "disassemblingTombolaID": 4,
+      "effects": "420&amp;200"
     },
     {
       "constructionItemID": 30714,
@@ -20326,8 +20326,8 @@
       "slotTypeID": 0,
       "duration": 2419200,
       "constructionItemEffectGroupID": 51,
-      "unitWallCount": 250,
-      "disassemblingTombolaID": 4
+      "disassemblingTombolaID": 4,
+      "effects": "420&amp;250"
     },
     {
       "constructionItemID": 30715,
@@ -20551,8 +20551,8 @@
       "slotTypeID": 0,
       "duration": 2419200,
       "constructionItemEffectGroupID": 51,
-      "unitWallCount": 300,
-      "disassemblingTombolaID": 4
+      "disassemblingTombolaID": 4,
+      "effects": "420&amp;300"
     },
     {
       "constructionItemID": 30730,
@@ -20566,8 +20566,8 @@
       "slotTypeID": 0,
       "duration": 2419200,
       "constructionItemEffectGroupID": 51,
-      "unitWallCount": 250,
-      "disassemblingTombolaID": 4
+      "disassemblingTombolaID": 4,
+      "effects": "420&amp;250"
     },
     {
       "constructionItemID": 30731,
@@ -20581,8 +20581,8 @@
       "slotTypeID": 0,
       "duration": 2419200,
       "constructionItemEffectGroupID": 51,
-      "unitWallCount": 200,
-      "disassemblingTombolaID": 4
+      "disassemblingTombolaID": 4,
+      "effects": "420&amp;200"
     },
     {
       "constructionItemID": 30732,
@@ -20641,8 +20641,8 @@
       "slotTypeID": 0,
       "duration": 216000,
       "constructionItemEffectGroupID": 51,
-      "unitWallCount": 250,
-      "disassemblingTombolaID": 4
+      "disassemblingTombolaID": 4,
+      "effects": "420&amp;250"
     },
     {
       "constructionItemID": 1001,
@@ -20761,8 +20761,8 @@
       "slotTypeID": 0,
       "duration": 2419200,
       "constructionItemEffectGroupID": 51,
-      "unitWallCount": 300,
-      "disassemblingTombolaID": 4
+      "disassemblingTombolaID": 4,
+      "effects": "420&amp;300"
     },
     {
       "constructionItemID": 30741,
@@ -20776,8 +20776,8 @@
       "slotTypeID": 0,
       "duration": 2419200,
       "constructionItemEffectGroupID": 51,
-      "unitWallCount": 250,
-      "disassemblingTombolaID": 4
+      "disassemblingTombolaID": 4,
+      "effects": "420&amp;250"
     },
     {
       "constructionItemID": 30742,
@@ -20791,8 +20791,8 @@
       "slotTypeID": 0,
       "duration": 2419200,
       "constructionItemEffectGroupID": 51,
-      "unitWallCount": 200,
-      "disassemblingTombolaID": 4
+      "disassemblingTombolaID": 4,
+      "effects": "420&amp;200"
     },
     {
       "constructionItemID": 30743,
@@ -20806,8 +20806,8 @@
       "slotTypeID": 0,
       "duration": 86400,
       "constructionItemEffectGroupID": 51,
-      "unitWallCount": 400,
-      "disassemblingTombolaID": 4
+      "disassemblingTombolaID": 4,
+      "effects": "420&amp;400"
     },
     {
       "constructionItemID": 30744,
@@ -20956,9 +20956,9 @@
       "rarenessID": 4,
       "slotTypeID": 0,
       "constructionItemEffectGroupID": 28,
-      "unitWallCount": 250,
       "removalCostC1": 7200,
-      "disassemblingTombolaID": 4
+      "disassemblingTombolaID": 4,
+      "effects": "420&amp;250"
     },
     {
       "constructionItemID": 31105,
@@ -20971,9 +20971,9 @@
       "rarenessID": 4,
       "slotTypeID": 0,
       "constructionItemEffectGroupID": 28,
-      "unitWallCount": 200,
       "removalCostC1": 7200,
-      "disassemblingTombolaID": 4
+      "disassemblingTombolaID": 4,
+      "effects": "420&amp;200"
     },
     {
       "constructionItemID": 31106,
@@ -22081,9 +22081,9 @@
       "rarenessID": 4,
       "slotTypeID": 0,
       "constructionItemEffectGroupID": 28,
-      "unitWallCount": 250,
       "removalCostC1": 7200,
-      "disassemblingTombolaID": 4
+      "disassemblingTombolaID": 4,
+      "effects": "420&amp;250"
     },
     {
       "constructionItemID": 31180,
@@ -22096,9 +22096,9 @@
       "rarenessID": 4,
       "slotTypeID": 0,
       "constructionItemEffectGroupID": 28,
-      "unitWallCount": 200,
       "removalCostC1": 7200,
-      "disassemblingTombolaID": 4
+      "disassemblingTombolaID": 4,
+      "effects": "420&amp;200"
     },
     {
       "constructionItemID": 31181,
@@ -22517,8 +22517,8 @@
       "slotTypeID": 0,
       "duration": 2419200,
       "constructionItemEffectGroupID": 51,
-      "unitWallCount": 300,
-      "disassemblingTombolaID": 4
+      "disassemblingTombolaID": 4,
+      "effects": "420&amp;300"
     },
     {
       "constructionItemID": 31209,
@@ -22532,8 +22532,8 @@
       "slotTypeID": 0,
       "duration": 2419200,
       "constructionItemEffectGroupID": 51,
-      "unitWallCount": 250,
-      "disassemblingTombolaID": 4
+      "disassemblingTombolaID": 4,
+      "effects": "420&amp;250"
     },
     {
       "constructionItemID": 31210,
@@ -22547,8 +22547,8 @@
       "slotTypeID": 0,
       "duration": 2419200,
       "constructionItemEffectGroupID": 51,
-      "unitWallCount": 200,
-      "disassemblingTombolaID": 4
+      "disassemblingTombolaID": 4,
+      "effects": "420&amp;200"
     },
     {
       "constructionItemID": 31213,
@@ -22637,8 +22637,8 @@
       "slotTypeID": 0,
       "duration": 2419200,
       "constructionItemEffectGroupID": 51,
-      "unitWallCount": 250,
-      "disassemblingTombolaID": 4
+      "disassemblingTombolaID": 4,
+      "effects": "420&amp;250"
     },
     {
       "constructionItemID": 31219,
@@ -22652,8 +22652,8 @@
       "slotTypeID": 0,
       "duration": 2419200,
       "constructionItemEffectGroupID": 51,
-      "unitWallCount": 200,
-      "disassemblingTombolaID": 4
+      "disassemblingTombolaID": 4,
+      "effects": "420&amp;200"
     },
     {
       "constructionItemID": 31220,
@@ -22667,8 +22667,8 @@
       "slotTypeID": 0,
       "duration": 2419200,
       "constructionItemEffectGroupID": 51,
-      "unitWallCount": 150,
-      "disassemblingTombolaID": 4
+      "disassemblingTombolaID": 4,
+      "effects": "420&amp;150"
     },
     {
       "constructionItemID": 31221,
@@ -23027,8 +23027,8 @@
       "slotTypeID": 0,
       "duration": 3628800,
       "constructionItemEffectGroupID": 51,
-      "unitWallCount": 250,
-      "disassemblingTombolaID": 4
+      "disassemblingTombolaID": 4,
+      "effects": "420&amp;250"
     },
     {
       "constructionItemID": 31254,
@@ -23057,8 +23057,8 @@
       "slotTypeID": 0,
       "duration": 3628800,
       "constructionItemEffectGroupID": 51,
-      "unitWallCount": 250,
-      "disassemblingTombolaID": 4
+      "disassemblingTombolaID": 4,
+      "effects": "420&amp;250"
     },
     {
       "constructionItemID": 31256,
@@ -23102,8 +23102,8 @@
       "slotTypeID": 0,
       "duration": 3628800,
       "constructionItemEffectGroupID": 51,
-      "unitWallCount": 250,
-      "disassemblingTombolaID": 4
+      "disassemblingTombolaID": 4,
+      "effects": "420&amp;250"
     },
     {
       "constructionItemID": 31259,
@@ -23131,9 +23131,9 @@
       "rarenessID": 4,
       "slotTypeID": 0,
       "constructionItemEffectGroupID": 28,
-      "unitWallCount": 250,
       "removalCostC1": 7200,
-      "disassemblingTombolaID": 4
+      "disassemblingTombolaID": 4,
+      "effects": "420&amp;250"
     },
     {
       "constructionItemID": 31261,
@@ -23146,9 +23146,9 @@
       "rarenessID": 4,
       "slotTypeID": 0,
       "constructionItemEffectGroupID": 28,
-      "unitWallCount": 150,
       "removalCostC1": 7200,
-      "disassemblingTombolaID": 4
+      "disassemblingTombolaID": 4,
+      "effects": "420&amp;150"
     },
     {
       "constructionItemID": 31262,
@@ -26727,8 +26727,8 @@
       "slotTypeID": 0,
       "duration": 2419200,
       "constructionItemEffectGroupID": 51,
-      "unitWallCount": 250,
-      "disassemblingTombolaID": 4
+      "disassemblingTombolaID": 4,
+      "effects": "420&amp;250"
     },
     {
       "constructionItemID": 31442,
@@ -26742,8 +26742,8 @@
       "slotTypeID": 0,
       "duration": 2419200,
       "constructionItemEffectGroupID": 51,
-      "unitWallCount": 200,
-      "disassemblingTombolaID": 4
+      "disassemblingTombolaID": 4,
+      "effects": "420&amp;200"
     },
     {
       "constructionItemID": 31443,
@@ -26757,8 +26757,8 @@
       "slotTypeID": 0,
       "duration": 2419200,
       "constructionItemEffectGroupID": 51,
-      "unitWallCount": 150,
-      "disassemblingTombolaID": 4
+      "disassemblingTombolaID": 4,
+      "effects": "420&amp;150"
     },
     {
       "constructionItemID": 31444,

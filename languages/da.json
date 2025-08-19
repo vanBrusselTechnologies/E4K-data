@@ -2119,7 +2119,9 @@
     "deco_ExaltedRedAnniversaryBalloon_name": "Ophøjet rød jubilæumsballon",
     "deco_ExaltedRedAnniversaryCake_name": "Hævet rød jubilæumskage",
     "dialog_legendTemple_sceat_71_name": "Relikvie-slagerbutik",
-    "deco_exaltedgreenfuryblade_name": "Værdifuld smedning af Vredens klinge"
+    "deco_exaltedgreenfuryblade_name": "Værdifuld smedning af Vredens klinge",
+    "deco_exaltedpurplefuryblade_name": "Den ophøjede smedning af Vredens klinge",
+    "deco_exaltedredfuryblade_name": "Forherliget rød smedning af vredens klinge"
   },
   "dialogs": {
     "dialog_festival_desc": "Brug mad til at holde en fest for dine borgere! Rekrutteringshastigheden vil forøges på i jeres borge, så længe festen varer. Jo større festen er, jo større er effekten.",
@@ -13149,7 +13151,11 @@
     "webshop_cakeanniversary_medium_name": "Medium jubil?umskagefad",
     "webshop_cakeanniversary_small_name": "Lille jubil?umskagefad",
     "webshop_giftanniversary_name": "Start p? jubil?umsfejring",
-    "popup_ame_rewards_level_info_text": "Låses op, når din alliance når {0} division"
+    "popup_ame_rewards_level_info_text": "Låses op, når din alliance når {0} division",
+    "webshop_anniversarybundledef_giant_name": "Gigantisk jubil?umspakke til forsvar",
+    "webshop_anniversarybundledef_huge_name": "K?mpe jubil?umspakke til forsvar",
+    "webshop_anniversarybundleoff_giant_name": "K?mpe jubil?umspakke",
+    "webshop_anniversarybundleoff_huge_name": "K?mpe jubil?umspakke offensiv"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% enhedens kampstyrke ved angreb",

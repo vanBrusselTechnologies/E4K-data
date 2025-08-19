@@ -2119,7 +2119,9 @@
     "deco_ExaltedRedAnniversaryBalloon_name": "Wzniosły czerwony balon jubileuszowy",
     "deco_ExaltedRedAnniversaryCake_name": "Wzniosły czerwony tort rocznicowy",
     "dialog_legendTemple_sceat_71_name": "Rzeźnia relikwii",
-    "deco_exaltedgreenfuryblade_name": "Wzniosłe wykuwanie Ostrza Furii"
+    "deco_exaltedgreenfuryblade_name": "Wzniosłe wykuwanie Ostrza Furii",
+    "deco_exaltedpurplefuryblade_name": "Wzniesione kucie Ostrza Furii",
+    "deco_exaltedredfuryblade_name": "Wzniosłe czerwone kucie Ostrza Furii"
   },
   "dialogs": {
     "dialog_festival_desc": "Użyj jedzenia, aby zorganizować święto dla Twoich obywateli! Szybkość rekrutacji znacznie będzie rosła we wszystkich twoich zamkach przez czas obchodów święta. Im większe święto, tym większe efekty.",
@@ -13149,7 +13151,11 @@
     "webshop_cakeanniversary_medium_name": "Średnia taca na tort rocznicowy",
     "webshop_cakeanniversary_small_name": "Mała taca na tort rocznicowy",
     "webshop_giftanniversary_name": "Początek obchodów rocznicy",
-    "popup_ame_rewards_level_info_text": "Odblokowuje się po osiągnięciu przez twoją alianse {0} dywizji"
+    "popup_ame_rewards_level_info_text": "Odblokowuje się po osiągnięciu przez twoją alianse {0} dywizji",
+    "webshop_anniversarybundledef_giant_name": "Gigantyczny pakiet rocznicowy defensywny",
+    "webshop_anniversarybundledef_huge_name": "Ogromny jubileuszowy pakiet defensywny",
+    "webshop_anniversarybundleoff_giant_name": "Gigantyczny pakiet rocznicowy",
+    "webshop_anniversarybundleoff_huge_name": "Ogromny pakiet rocznicowy ofensywny"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% siły bojowej jednostki podczas ataku",
