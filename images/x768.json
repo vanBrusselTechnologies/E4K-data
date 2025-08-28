@@ -49334,6 +49334,291 @@
     ],
     "fx": []
   },
+  "General_Edric_Arm": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Edric/General_Edric_Arm.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 218,
+        "h": 337,
+        "rx": 891,
+        "ry": 831
+      }
+    ],
+    "fx": []
+  },
+  "General_Edric_Bandana_01": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Edric/General_Edric_Bandana_01.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 34,
+        "rx": 960,
+        "ry": 983
+      }
+    ],
+    "fx": []
+  },
+  "General_Edric_Bandana_02": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Edric/General_Edric_Bandana_02.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 107,
+        "h": 48,
+        "rx": 946,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "General_Edric_Belt_Buckle": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Edric/General_Edric_Belt_Buckle.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 173,
+        "rx": 923,
+        "ry": 913
+      }
+    ],
+    "fx": []
+  },
+  "General_Edric_Belt": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Edric/General_Edric_Belt.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 211,
+        "h": 188,
+        "rx": 894,
+        "ry": 906
+      }
+    ],
+    "fx": []
+  },
+  "General_Edric_Bottom_Belt": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Edric/General_Edric_Bottom_Belt.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 53,
+        "h": 284,
+        "rx": 973,
+        "ry": 858
+      }
+    ],
+    "fx": []
+  },
+  "General_Edric_Chest": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Edric/General_Edric_Chest.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 371,
+        "h": 282,
+        "rx": 814,
+        "ry": 859
+      }
+    ],
+    "fx": []
+  },
+  "General_Edric_Hand_Axe": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Edric/General_Edric_Hand_Axe.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 305,
+        "h": 620,
+        "rx": 847,
+        "ry": 690
+      }
+    ],
+    "fx": []
+  },
+  "General_Edric_Hanging_Fabric": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Edric/General_Edric_Hanging_Fabric.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 241,
+        "rx": 950,
+        "ry": 879
+      }
+    ],
+    "fx": []
+  },
+  "General_Edric_Head": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Edric/General_Edric_Head.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 187,
+        "h": 248,
+        "rx": 906,
+        "ry": 876
+      }
+    ],
+    "fx": []
+  },
+  "General_Edric_Leg_Back": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Edric/General_Edric_Leg_Back.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 235,
+        "h": 339,
+        "rx": 882,
+        "ry": 830
+      }
+    ],
+    "fx": []
+  },
+  "General_Edric_Leg_Front": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Edric/General_Edric_Leg_Front.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 214,
+        "h": 328,
+        "rx": 893,
+        "ry": 836
+      }
+    ],
+    "fx": []
+  },
+  "General_Edric_Pants": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Edric/General_Edric_Pants.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 321,
+        "h": 514,
+        "rx": 839,
+        "ry": 743
+      }
+    ],
+    "fx": []
+  },
+  "General_Edric_Shadow": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Edric/General_Edric_Shadow.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 591,
+        "h": 47,
+        "rx": 704,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "General_Edric_Shield": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Edric/General_Edric_Shield.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 542,
+        "h": 920,
+        "rx": 729,
+        "ry": 540
+      }
+    ],
+    "fx": []
+  },
+  "General_Edric_Shoulder_Left": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Edric/General_Edric_Shoulder_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 203,
+        "h": 144,
+        "rx": 898,
+        "ry": 928
+      }
+    ],
+    "fx": []
+  },
+  "General_Edric_Shoulder_Right": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Edric/General_Edric_Shoulder_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 237,
+        "h": 156,
+        "rx": 881,
+        "ry": 922
+      }
+    ],
+    "fx": []
+  },
+  "General_Edric_String_01": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Edric/General_Edric_String_01.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 19,
+        "h": 124,
+        "rx": 990,
+        "ry": 938
+      }
+    ],
+    "fx": []
+  },
+  "General_Edric_String_02": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/General_Edric/General_Edric_String_02.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 13,
+        "h": 75,
+        "rx": 993,
+        "ry": 962
+      }
+    ],
+    "fx": []
+  },
   "General_Garrik_Arm": {
     "pid": 1,
     "url": "x768/Characters/Generals/General_Garrik/General_Garrik_Arm.png",
@@ -56039,6 +56324,21 @@
     ],
     "fx": []
   },
+  "Background_Generals_Overview_Edric": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Edric.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2420,
+        "h": 2433,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
   "Background_Generals_Overview_Garrik": {
     "pid": 1,
     "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Garrik.png",
@@ -56259,6 +56559,21 @@
         "w": 2421,
         "h": 2433,
         "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Background_Generals_Overview_Preview_Edric": {
+    "pid": 1,
+    "url": "x768/Characters/Generals/GeneralsOverviewBackgrounds/Background_Generals_Overview_Preview_Edric.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2422,
+        "h": 2433,
+        "rx": 998,
         "ry": 999
       }
     ],
@@ -85599,6 +85914,21 @@
     ],
     "fx": []
   },
+  "icon_general_attack_avatar_Edric": {
+    "pid": 1,
+    "url": "x768/Icons/GeneralIcons/icon_general_attack_avatar_Edric.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 313,
+        "h": 370,
+        "rx": 843,
+        "ry": 830
+      }
+    ],
+    "fx": []
+  },
   "icon_general_attack_avatar_Garrik": {
     "pid": 2,
     "url": "x768/Icons/GeneralIcons/icon_general_attack_avatar_Garrik.png",
@@ -86075,6 +86405,51 @@
         "h": 135,
         "rx": 931,
         "ry": 936
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_Edric_xl": {
+    "pid": 1,
+    "url": "x768/Icons/GeneralIcons/icon_general_Edric_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 199,
+        "rx": 904,
+        "ry": 907
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_Edric_xxl": {
+    "pid": 1,
+    "url": "x768/Icons/GeneralIcons/icon_general_Edric_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 251,
+        "h": 250,
+        "rx": 888,
+        "ry": 892
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_Edric": {
+    "pid": 1,
+    "url": "x768/Icons/GeneralIcons/icon_general_Edric.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 133,
+        "rx": 935,
+        "ry": 937
       }
     ],
     "fx": []
@@ -86885,6 +87260,51 @@
         "h": 136,
         "rx": 931,
         "ry": 935
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Edric_xl": {
+    "pid": 1,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_Edric_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 202,
+        "h": 201,
+        "rx": 902,
+        "ry": 904
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Edric_xxl": {
+    "pid": 1,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_Edric_xxl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 253,
+        "h": 252,
+        "rx": 887,
+        "ry": 889
+      }
+    ],
+    "fx": []
+  },
+  "icon_general_preview_Edric": {
+    "pid": 1,
+    "url": "x768/Icons/GeneralIcons/icon_general_preview_Edric.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 134,
+        "h": 134,
+        "rx": 933,
+        "ry": 934
       }
     ],
     "fx": []
@@ -88347,6 +88767,21 @@
   "icon_squared_general_Diana": {
     "pid": 2,
     "url": "x768/Icons/GeneralIcons/icon_squared_general_Diana.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 117,
+        "h": 117,
+        "rx": 941,
+        "ry": 941
+      }
+    ],
+    "fx": []
+  },
+  "icon_squared_general_Edric": {
+    "pid": 1,
+    "url": "x768/Icons/GeneralIcons/icon_squared_general_Edric.png",
     "frames": [
       {
         "x": 0,
@@ -95094,6 +95529,111 @@
     ],
     "fx": []
   },
+  "icon_currency_EdricToken_big_ds": {
+    "pid": 1,
+    "url": "x768/Icons/Icons/icon_currency_EdricToken_big_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 119,
+        "h": 117,
+        "rx": 940,
+        "ry": 941
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_EdricToken_big": {
+    "pid": 1,
+    "url": "x768/Icons/Icons/icon_currency_EdricToken_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 113,
+        "h": 111,
+        "rx": 943,
+        "ry": 944
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_EdricToken_ds": {
+    "pid": 1,
+    "url": "x768/Icons/Icons/icon_currency_EdricToken_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 71,
+        "rx": 963,
+        "ry": 964
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_EdricToken_medium_ds": {
+    "pid": 1,
+    "url": "x768/Icons/Icons/icon_currency_EdricToken_medium_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 94,
+        "rx": 952,
+        "ry": 953
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_EdricToken_medium": {
+    "pid": 1,
+    "url": "x768/Icons/Icons/icon_currency_EdricToken_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 91,
+        "h": 90,
+        "rx": 954,
+        "ry": 955
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_EdricToken_small": {
+    "pid": 1,
+    "url": "x768/Icons/Icons/icon_currency_EdricToken_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 35,
+        "rx": 982,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_EdricToken": {
+    "pid": 1,
+    "url": "x768/Icons/Icons/icon_currency_EdricToken.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 68,
+        "h": 67,
+        "rx": 965,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_EpicBoosterConsumable_big": {
     "pid": 1,
     "url": "x768/Icons/Icons/icon_currency_EpicBoosterConsumable_big.png",
@@ -100472,6 +101012,36 @@
         "x": 0,
         "y": 0,
         "w": 68,
+        "h": 67,
+        "rx": 966,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_ShardEdric_xl": {
+    "pid": 1,
+    "url": "x768/Icons/Icons/icon_currency_ShardEdric_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 201,
+        "rx": 902,
+        "ry": 899
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_ShardEdric": {
+    "pid": 1,
+    "url": "x768/Icons/Icons/icon_currency_ShardEdric.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
         "h": 67,
         "rx": 966,
         "ry": 966

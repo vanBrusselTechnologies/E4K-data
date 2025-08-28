@@ -575,7 +575,7 @@
       "costKhanTablet": 90,
       "buildingID": 348,
       "buildingAmount": 1,
-      "minLevel": 20,
+      "minLevel": 10,
       "maxLevel": 39,
       "validKingdoms": "0,1,2,3"
     },
@@ -589,7 +589,7 @@
       "costKhanTablet": 965,
       "buildingID": 349,
       "buildingAmount": 1,
-      "minLevel": 40,
+      "minLevel": 10,
       "validKingdoms": "0,1,2,3"
     },
     {
@@ -601,7 +601,7 @@
       "costKhanTablet": 2050,
       "buildingID": 1550,
       "buildingAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "validKingdoms": "0,1,2,3"
     },
     {
@@ -613,7 +613,7 @@
       "costKhanMedal": 3325,
       "buildingID": 1546,
       "buildingAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "validKingdoms": "0,1,2,3"
     },
     {
@@ -637,7 +637,7 @@
       "relationIDs": "4,8,13",
       "costKhanTablet": 975,
       "equipmentIDs": 13,
-      "minLevel": 20,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -649,7 +649,7 @@
       "relationIDs": "2,8,13",
       "costKhanTablet": 2300,
       "equipmentIDs": 14,
-      "minLevel": 20,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -661,7 +661,7 @@
       "relationIDs": "1,8,13",
       "costKhanTablet": 1700,
       "equipmentIDs": 15,
-      "minLevel": 20,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -673,7 +673,7 @@
       "relationIDs": "2,8,14",
       "costKhanTablet": 2300,
       "equipmentIDs": 16,
-      "minLevel": 20,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -685,7 +685,7 @@
       "relationIDs": "1,8,14",
       "costKhanTablet": 1700,
       "equipmentIDs": 17,
-      "minLevel": 20,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -697,7 +697,7 @@
       "relationIDs": "4,8,14",
       "costKhanTablet": 975,
       "equipmentIDs": 18,
-      "minLevel": 20,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -709,7 +709,7 @@
       "relationIDs": "3,8,13",
       "costKhanTablet": 5180,
       "equipmentIDs": 80,
-      "minLevel": 20,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -721,7 +721,7 @@
       "relationIDs": "1,8,13",
       "costKhanTablet": 4660,
       "equipmentIDs": 81,
-      "minLevel": 20,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -733,7 +733,7 @@
       "relationIDs": "4,8,13",
       "costKhanTablet": 6900,
       "equipmentIDs": 82,
-      "minLevel": 20,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -744,7 +744,7 @@
       "relationIDs": "6,8,13",
       "costKhanTablet": 8200,
       "equipmentIDs": 83,
-      "minLevel": 20,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -756,7 +756,7 @@
       "relationIDs": "2,8,14",
       "costKhanTablet": 4500,
       "equipmentIDs": 426,
-      "minLevel": 20,
+      "minLevel": 10,
       "stock": 1,
       "notRebuyable": 1
     },
@@ -769,7 +769,7 @@
       "relationIDs": "3,8,14",
       "costKhanTablet": 4000,
       "equipmentIDs": 427,
-      "minLevel": 20,
+      "minLevel": 10,
       "stock": 1,
       "notRebuyable": 1
     },
@@ -782,7 +782,7 @@
       "relationIDs": "1,8,14",
       "costKhanTablet": 3600,
       "equipmentIDs": 428,
-      "minLevel": 20,
+      "minLevel": 10,
       "stock": 1,
       "notRebuyable": 1
     },
@@ -795,7 +795,7 @@
       "relationIDs": "4,8,14",
       "costKhanTablet": 4000,
       "equipmentIDs": 429,
-      "minLevel": 20,
+      "minLevel": 10,
       "stock": 1,
       "notRebuyable": 1
     },
@@ -808,7 +808,7 @@
       "relationIDs": "6,8,14",
       "costKhanTablet": 9000,
       "equipmentIDs": 430,
-      "minLevel": 20,
+      "minLevel": 10,
       "stock": 1,
       "notRebuyable": 1
     },
@@ -822,7 +822,7 @@
       "costKhanTablet": 4400,
       "gemIDs": 81,
       "gemAmount": 1,
-      "minLevel": 20,
+      "minLevel": 10,
       "stock": 1,
       "notRebuyable": 1
     },
@@ -836,7 +836,7 @@
       "costKhanTablet": 6200,
       "gemIDs": 82,
       "gemAmount": 1,
-      "minLevel": 20,
+      "minLevel": 10,
       "stock": 1,
       "notRebuyable": 1
     },
@@ -850,7 +850,7 @@
       "costKhanTablet": 4400,
       "gemIDs": 90,
       "gemAmount": 1,
-      "minLevel": 20,
+      "minLevel": 10,
       "stock": 1,
       "notRebuyable": 1
     },
@@ -864,7 +864,7 @@
       "costKhanTablet": 5400,
       "gemIDs": 91,
       "gemAmount": 1,
-      "minLevel": 20,
+      "minLevel": 10,
       "stock": 1,
       "notRebuyable": 1
     },
@@ -972,7 +972,7 @@
       "sortOrder": 52,
       "relationIDs": 250,
       "costKhanTablet": 15000,
-      "minLevel": 45,
+      "minLevel": 10,
       "maxLevel": 70,
       "stock": 1,
       "notRebuyable": 1,
@@ -987,7 +987,7 @@
       "sortOrder": 53,
       "relationIDs": 250,
       "costKhanTablet": 25000,
-      "minLevel": 45,
+      "minLevel": 10,
       "maxLevel": 70,
       "stock": 1,
       "notRebuyable": 1,
@@ -1004,7 +1004,7 @@
       "costKhanTablet": 3200,
       "equipmentIDs": 316,
       "equipmentAmount": 1,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxLevel": 70
     },
     {
@@ -1017,7 +1017,7 @@
       "costKhanTablet": 3200,
       "equipmentIDs": 317,
       "equipmentAmount": 1,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxLevel": 70
     },
     {
@@ -1030,7 +1030,7 @@
       "costKhanTablet": 3200,
       "equipmentIDs": 318,
       "equipmentAmount": 1,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxLevel": 70
     },
     {
@@ -1043,7 +1043,7 @@
       "costKhanTablet": 3200,
       "equipmentIDs": 319,
       "equipmentAmount": 1,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxLevel": 70
     },
     {
@@ -1056,7 +1056,7 @@
       "costKhanTablet": 5000,
       "equipmentIDs": 320,
       "equipmentAmount": 1,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxLevel": 70
     },
     {
@@ -1068,7 +1068,7 @@
       "relationIDs": 253,
       "costKhanTablet": 140,
       "addCommonFinesand": 5,
-      "minLevel": 45,
+      "minLevel": 10,
       "maxLevel": 70,
       "stock": 10
     },
@@ -1081,7 +1081,7 @@
       "relationIDs": 254,
       "costKhanTablet": 110,
       "addRareFarmingtools": 5,
-      "minLevel": 45,
+      "minLevel": 10,
       "maxLevel": 70,
       "stock": 10
     },
@@ -1092,7 +1092,7 @@
       "comment2": "Herald of the Invasion",
       "relationIDs": 252,
       "costKhanTablet": 1390,
-      "minLevel": 45,
+      "minLevel": 10,
       "maxLevel": 69,
       "stock": 8,
       "rewardBags": "10+1"
@@ -1104,7 +1104,7 @@
       "comment2": "Herald of the Invasion",
       "relationIDs": 252,
       "costKhanTablet": 1890,
-      "minLevel": 45,
+      "minLevel": 10,
       "maxLevel": 69,
       "stock": 4,
       "rewardBags": "14+1"
@@ -1116,7 +1116,7 @@
       "comment2": "Herald of the Invasion",
       "relationIDs": 252,
       "costKhanTablet": 5490,
-      "minLevel": 45,
+      "minLevel": 10,
       "maxLevel": 69,
       "stock": 2,
       "rewardBags": "22+1"
@@ -1128,7 +1128,7 @@
       "comment2": "Herald of the Invasion",
       "relationIDs": 252,
       "costKhanTablet": 9490,
-      "minLevel": 45,
+      "minLevel": 10,
       "maxLevel": 69,
       "stock": 1,
       "rewardBags": "26+1"
@@ -1140,7 +1140,7 @@
       "comment2": "Nomad Invasion Vendor",
       "relationIDs": 252,
       "costKhanMedal": 250,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 8,
       "rewardBags": "10+1"
     },
@@ -1151,7 +1151,7 @@
       "comment2": "Nomad Invasion Vendor",
       "relationIDs": 252,
       "costKhanMedal": 450,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 4,
       "rewardBags": "14+1"
     },
@@ -1162,7 +1162,7 @@
       "comment2": "Nomad Invasion Vendor",
       "relationIDs": 252,
       "costKhanMedal": 950,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 2,
       "rewardBags": "22+1"
     },
@@ -1173,7 +1173,7 @@
       "comment2": "Nomad Invasion Vendor",
       "relationIDs": 252,
       "costKhanMedal": 1450,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "rewardBags": "26+1"
     },
@@ -1184,7 +1184,7 @@
       "comment2": "Nomad Invasion Vendor",
       "relationIDs": 252,
       "costKhanMedal": 725,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 3,
       "rewardBags": "39+1"
     },
@@ -1195,7 +1195,7 @@
       "comment2": "Nomad Invasion Vendor",
       "relationIDs": 250,
       "costKhanMedal": 5210,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 20,
       "constructionItemAmount": 1
@@ -1207,7 +1207,7 @@
       "comment2": "Nomad Invasion Vendor",
       "relationIDs": 250,
       "costKhanMedal": 1980,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 6,
       "constructionItemID": 73,
       "constructionItemAmount": 1
@@ -1219,7 +1219,7 @@
       "comment2": "Nomad Invasion Vendor",
       "relationIDs": 250,
       "costKhanMedal": 2765,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 4,
       "constructionItemID": 74,
       "constructionItemAmount": 1
@@ -1231,7 +1231,7 @@
       "comment2": "Nomad Invasion Vendor",
       "relationIDs": 250,
       "costKhanMedal": 4830,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 2,
       "constructionItemID": 76,
       "constructionItemAmount": 1
@@ -1243,7 +1243,7 @@
       "comment2": "Nomad Invasion Vendor",
       "relationIDs": 250,
       "costKhanMedal": 10050,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 2,
       "constructionItemID": 77,
       "constructionItemAmount": 1
@@ -1255,7 +1255,7 @@
       "comment2": "Nomad Invasion Vendor",
       "relationIDs": 251,
       "costKhanMedal": 7530,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 20003,
       "constructionItemAmount": 1
@@ -1267,7 +1267,7 @@
       "comment2": "Nomad Invasion Vendor",
       "relationIDs": 250,
       "costKhanMedal": 3190,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 14,
       "constructionItemAmount": 1
@@ -1281,7 +1281,7 @@
       "costKhanMedal": 6200,
       "equipmentIDs": 479,
       "equipmentAmount": 1,
-      "minLevel": 70
+      "minLevel": 10
     },
     {
       "packageID": 1290,
@@ -1292,7 +1292,7 @@
       "costKhanMedal": 3100,
       "equipmentIDs": 480,
       "equipmentAmount": 1,
-      "minLevel": 70
+      "minLevel": 10
     },
     {
       "packageID": 1291,
@@ -1303,7 +1303,7 @@
       "costKhanMedal": 2800,
       "equipmentIDs": 481,
       "equipmentAmount": 1,
-      "minLevel": 70
+      "minLevel": 10
     },
     {
       "packageID": 1292,
@@ -1314,7 +1314,7 @@
       "costKhanMedal": 2500,
       "equipmentIDs": 482,
       "equipmentAmount": 1,
-      "minLevel": 70
+      "minLevel": 10
     },
     {
       "packageID": 1293,
@@ -1325,7 +1325,7 @@
       "costKhanMedal": 2800,
       "equipmentIDs": 483,
       "equipmentAmount": 1,
-      "minLevel": 70
+      "minLevel": 10
     },
     {
       "packageID": 1294,
@@ -1336,7 +1336,7 @@
       "costKhanMedal": 3000,
       "gemIDs": 326,
       "gemAmount": 1,
-      "minLevel": 70
+      "minLevel": 10
     },
     {
       "packageID": 1295,
@@ -1347,7 +1347,7 @@
       "costKhanMedal": 4300,
       "gemIDs": 327,
       "gemAmount": 1,
-      "minLevel": 70
+      "minLevel": 10
     },
     {
       "packageID": 1296,
@@ -1358,7 +1358,7 @@
       "costKhanMedal": 3000,
       "gemIDs": 328,
       "gemAmount": 1,
-      "minLevel": 70
+      "minLevel": 10
     },
     {
       "packageID": 1297,
@@ -1369,7 +1369,7 @@
       "costKhanMedal": 3700,
       "gemIDs": 329,
       "gemAmount": 1,
-      "minLevel": 70
+      "minLevel": 10
     },
     {
       "packageID": 1298,
@@ -1380,7 +1380,7 @@
       "costKhanMedal": 7000,
       "buildingID": 1538,
       "buildingAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "validKingdoms": "0,1,2,3"
     },
     {
@@ -1391,7 +1391,7 @@
       "relationIDs": 255,
       "costKhanMedal": 335,
       "addEpicResin": 5,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 10
     },
     {
@@ -1402,7 +1402,7 @@
       "relationIDs": 256,
       "costKhanMedal": 235,
       "addLegendarySoulstone": 5,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 10
     },
     {
@@ -1414,7 +1414,7 @@
       "relationIDs": 999,
       "costSamuraiToken": 100,
       "addResourceVillageToken": 1,
-      "minLevel": 18,
+      "minLevel": 10,
       "stock": 15
     },
     {
@@ -1426,7 +1426,7 @@
       "relationIDs": 999,
       "costSamuraiToken": 300,
       "addResourceVillageToken": 1,
-      "minLevel": 18,
+      "minLevel": 10,
       "stock": 30
     },
     {
@@ -1527,7 +1527,7 @@
       "costSamuraiToken": 1100,
       "buildingID": 638,
       "buildingAmount": 1,
-      "minLevel": 40,
+      "minLevel": 10,
       "validKingdoms": "0,1,2,3"
     },
     {
@@ -1540,7 +1540,7 @@
       "costSamuraiToken": 2050,
       "buildingID": 1548,
       "buildingAmount": 1,
-      "minLevel": 40,
+      "minLevel": 10,
       "validKingdoms": "0,1,2,3"
     },
     {
@@ -1552,7 +1552,7 @@
       "relationIDs": "2,8,13",
       "costSamuraiToken": 7000,
       "equipmentIDs": 262,
-      "minLevel": 20,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -1564,7 +1564,7 @@
       "relationIDs": "3,8,13",
       "costSamuraiToken": 7500,
       "equipmentIDs": 263,
-      "minLevel": 20,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -1576,7 +1576,7 @@
       "relationIDs": "1,8,13",
       "costSamuraiToken": 6500,
       "equipmentIDs": 264,
-      "minLevel": 20,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -1588,7 +1588,7 @@
       "relationIDs": "4,8,13",
       "costSamuraiToken": 6000,
       "equipmentIDs": 265,
-      "minLevel": 20,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -1600,7 +1600,7 @@
       "relationIDs": "6,8,13",
       "costSamuraiToken": 7500,
       "equipmentIDs": 266,
-      "minLevel": 20,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -1612,7 +1612,7 @@
       "relationIDs": "2,8,14",
       "costSamuraiToken": 5200,
       "equipmentIDs": 274,
-      "minLevel": 20,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -1624,7 +1624,7 @@
       "relationIDs": "3,8,14",
       "costSamuraiToken": 5600,
       "equipmentIDs": 275,
-      "minLevel": 20,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -1636,7 +1636,7 @@
       "relationIDs": "1,8,14",
       "costSamuraiToken": 4800,
       "equipmentIDs": 276,
-      "minLevel": 20,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -1648,7 +1648,7 @@
       "relationIDs": "4,8,14",
       "costSamuraiToken": 4400,
       "equipmentIDs": 277,
-      "minLevel": 20,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -1660,7 +1660,7 @@
       "relationIDs": "6,8,14",
       "costSamuraiToken": 5500,
       "equipmentIDs": 278,
-      "minLevel": 20,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -1685,7 +1685,7 @@
       "relationIDs": "6,8,13",
       "costSamuraiToken": 50,
       "equipmentIDs": 268,
-      "minLevel": 11,
+      "minLevel": 10,
       "maxLevel": 19,
       "stock": 1
     },
@@ -1698,7 +1698,7 @@
       "relationIDs": "6,8,13",
       "costSamuraiToken": 95,
       "equipmentIDs": 269,
-      "minLevel": 20,
+      "minLevel": 10,
       "maxLevel": 29,
       "stock": 1
     },
@@ -1711,7 +1711,7 @@
       "relationIDs": "6,8,13",
       "costSamuraiToken": 190,
       "equipmentIDs": 270,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxLevel": 39,
       "stock": 1
     },
@@ -1724,7 +1724,7 @@
       "relationIDs": "6,8,13",
       "costSamuraiToken": 400,
       "equipmentIDs": 271,
-      "minLevel": 40,
+      "minLevel": 10,
       "maxLevel": 49,
       "stock": 1
     },
@@ -1737,7 +1737,7 @@
       "relationIDs": "6,8,13",
       "costSamuraiToken": 700,
       "equipmentIDs": 272,
-      "minLevel": 50,
+      "minLevel": 10,
       "maxLevel": 59,
       "stock": 1
     },
@@ -1750,7 +1750,7 @@
       "relationIDs": "6,8,13",
       "costSamuraiToken": 940,
       "equipmentIDs": 273,
-      "minLevel": 60,
+      "minLevel": 10,
       "maxLevel": 69,
       "stock": 1
     },
@@ -1776,7 +1776,7 @@
       "relationIDs": "6,8,14",
       "costSamuraiToken": 40,
       "equipmentIDs": 280,
-      "minLevel": 11,
+      "minLevel": 10,
       "maxLevel": 19,
       "stock": 1
     },
@@ -1789,7 +1789,7 @@
       "relationIDs": "6,8,14",
       "costSamuraiToken": 70,
       "equipmentIDs": 281,
-      "minLevel": 20,
+      "minLevel": 10,
       "maxLevel": 29,
       "stock": 1
     },
@@ -1802,7 +1802,7 @@
       "relationIDs": "6,8,14",
       "costSamuraiToken": 140,
       "equipmentIDs": 282,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxLevel": 39,
       "stock": 1
     },
@@ -1815,7 +1815,7 @@
       "relationIDs": "6,8,14",
       "costSamuraiToken": 300,
       "equipmentIDs": 283,
-      "minLevel": 40,
+      "minLevel": 10,
       "maxLevel": 49,
       "stock": 1
     },
@@ -1828,7 +1828,7 @@
       "relationIDs": "6,8,14",
       "costSamuraiToken": 530,
       "equipmentIDs": 284,
-      "minLevel": 50,
+      "minLevel": 10,
       "maxLevel": 59,
       "stock": 1
     },
@@ -1841,7 +1841,7 @@
       "relationIDs": "6,8,14",
       "costSamuraiToken": 710,
       "equipmentIDs": 285,
-      "minLevel": 60,
+      "minLevel": 10,
       "maxLevel": 69,
       "stock": 1
     },
@@ -1895,7 +1895,7 @@
       "costSamuraiToken": 13000,
       "buildingID": 1535,
       "buildingAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 70,
       "stock": 1,
       "notRebuyable": 1,
@@ -1986,7 +1986,7 @@
       "costSamuraiToken": 8000,
       "equipmentIDs": 459,
       "equipmentAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 70,
       "stock": 1,
       "notRebuyable": 1
@@ -2001,7 +2001,7 @@
       "costSamuraiToken": 8000,
       "equipmentIDs": 460,
       "equipmentAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 70,
       "stock": 1,
       "notRebuyable": 1
@@ -2016,7 +2016,7 @@
       "costSamuraiToken": 8000,
       "equipmentIDs": 461,
       "equipmentAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 70,
       "stock": 1,
       "notRebuyable": 1
@@ -2031,7 +2031,7 @@
       "costSamuraiToken": 8000,
       "equipmentIDs": 462,
       "equipmentAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 70,
       "stock": 1,
       "notRebuyable": 1
@@ -2046,7 +2046,7 @@
       "costSamuraiToken": 8000,
       "equipmentIDs": 463,
       "equipmentAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 70,
       "stock": 1,
       "notRebuyable": 1
@@ -2061,7 +2061,7 @@
       "costSamuraiToken": 8000,
       "gemIDs": 161,
       "gemAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 70,
       "stock": 1,
       "notRebuyable": 1
@@ -2076,7 +2076,7 @@
       "costSamuraiToken": 8000,
       "gemIDs": 162,
       "gemAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 70,
       "stock": 1,
       "notRebuyable": 1
@@ -2091,7 +2091,7 @@
       "costSamuraiToken": 8000,
       "gemIDs": 170,
       "gemAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 70,
       "stock": 1,
       "notRebuyable": 1
@@ -2106,7 +2106,7 @@
       "costSamuraiToken": 8000,
       "gemIDs": 171,
       "gemAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 70,
       "stock": 1,
       "notRebuyable": 1
@@ -2119,7 +2119,7 @@
       "sortOrder": 50,
       "relationIDs": 250,
       "costSamuraiToken": 13000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 70,
       "stock": 1,
       "notRebuyable": 1,
@@ -2134,7 +2134,7 @@
       "sortOrder": 51,
       "relationIDs": 250,
       "costSamuraiToken": 30000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 70,
       "stock": 1,
       "notRebuyable": 1,
@@ -2151,7 +2151,7 @@
       "costSamuraiToken": 30,
       "unitID": 734,
       "unitAmount": 5,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 70
     },
     {
@@ -2198,7 +2198,7 @@
       "relationIDs": 253,
       "costSamuraiToken": 140,
       "addCommonBricks": 5,
-      "minLevel": 45,
+      "minLevel": 10,
       "maxLevel": 70,
       "stock": 10
     },
@@ -2211,7 +2211,7 @@
       "relationIDs": 254,
       "costSamuraiToken": 160,
       "addRareFlint": 5,
-      "minLevel": 45,
+      "minLevel": 10,
       "maxLevel": 70,
       "stock": 10
     },
@@ -2224,7 +2224,7 @@
       "relationIDs": 999,
       "costSamuraiToken": 100,
       "addResourceVillageToken": 1,
-      "minLevel": 18,
+      "minLevel": 10,
       "stock": 15
     },
     {
@@ -2236,7 +2236,7 @@
       "relationIDs": 999,
       "costSamuraiToken": 300,
       "addResourceVillageToken": 1,
-      "minLevel": 18,
+      "minLevel": 10,
       "stock": 30
     },
     {
@@ -2248,7 +2248,7 @@
       "relationIDs": 999,
       "costSamuraiToken": 10000,
       "addSilverToken": 1000,
-      "minLevel": 60,
+      "minLevel": 10,
       "stock": 2
     },
     {
@@ -2260,7 +2260,7 @@
       "relationIDs": 253,
       "costSamuraiToken": 10000,
       "addGoldToken": 200,
-      "minLevel": 60,
+      "minLevel": 10,
       "stock": 2
     },
     {
@@ -2284,6 +2284,7 @@
       "relationIDs": 999,
       "costSamuraiToken": 6000,
       "addLegendaryToken": 15,
+      "minLevel": 10,
       "minLegendLevel": 650,
       "stock": 2
     },
@@ -2296,6 +2297,7 @@
       "relationIDs": 999,
       "costSamuraiToken": 4000,
       "addLegendaryMaterial": 10,
+      "minLevel": 10,
       "minLegendLevel": 650,
       "stock": 2
     },
@@ -2308,6 +2310,7 @@
       "relationIDs": 999,
       "costSamuraiToken": 3000,
       "addSceatToken": 5,
+      "minLevel": 10,
       "minLegendLevel": 650,
       "stock": 2
     },
@@ -2320,7 +2323,7 @@
       "relationIDs": 999,
       "costSamuraiToken": 4000,
       "addLegendaryToken": 10,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLegendLevel": 649,
       "stock": 2
     },
@@ -2333,7 +2336,7 @@
       "relationIDs": 999,
       "costSamuraiToken": 2000,
       "addLegendaryMaterial": 5,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLegendLevel": 649,
       "stock": 2
     },
@@ -2346,7 +2349,7 @@
       "relationIDs": 999,
       "costSamuraiToken": 2000,
       "addSceatToken": 3,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLegendLevel": 649,
       "stock": 2
     },
@@ -2385,6 +2388,7 @@
       "relationIDs": 999,
       "costSamuraiToken": 1500,
       "addLegendaryToken": 15,
+      "minLevel": 10,
       "minLegendLevel": 650,
       "stock": 2
     },
@@ -2397,6 +2401,7 @@
       "relationIDs": 999,
       "costSamuraiToken": 1000,
       "addLegendaryMaterial": 10,
+      "minLevel": 10,
       "minLegendLevel": 650,
       "stock": 2
     },
@@ -2409,6 +2414,7 @@
       "relationIDs": 999,
       "costSamuraiToken": 750,
       "addSceatToken": 5,
+      "minLevel": 10,
       "minLegendLevel": 650,
       "stock": 2
     },
@@ -2421,7 +2427,7 @@
       "relationIDs": 999,
       "costSamuraiToken": 1000,
       "addLegendaryToken": 10,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLegendLevel": 649,
       "stock": 2
     },
@@ -2434,7 +2440,7 @@
       "relationIDs": 999,
       "costSamuraiToken": 500,
       "addLegendaryMaterial": 5,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLegendLevel": 649,
       "stock": 2
     },
@@ -2447,7 +2453,7 @@
       "relationIDs": 999,
       "costSamuraiToken": 500,
       "addSceatToken": 3,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLegendLevel": 649,
       "stock": 2
     },
@@ -2486,6 +2492,7 @@
       "relationIDs": 999,
       "costSamuraiToken": 3000,
       "addLegendaryToken": 15,
+      "minLevel": 10,
       "minLegendLevel": 650,
       "stock": 2
     },
@@ -2498,6 +2505,7 @@
       "relationIDs": 999,
       "costSamuraiToken": 2000,
       "addLegendaryMaterial": 10,
+      "minLevel": 10,
       "minLegendLevel": 650,
       "stock": 2
     },
@@ -2510,6 +2518,7 @@
       "relationIDs": 999,
       "costSamuraiToken": 1500,
       "addSceatToken": 5,
+      "minLevel": 10,
       "minLegendLevel": 650,
       "stock": 2
     },
@@ -2522,7 +2531,7 @@
       "relationIDs": 999,
       "costSamuraiToken": 2000,
       "addLegendaryToken": 10,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLegendLevel": 649,
       "stock": 2
     },
@@ -2535,7 +2544,7 @@
       "relationIDs": 999,
       "costSamuraiToken": 1000,
       "addLegendaryMaterial": 5,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLegendLevel": 649,
       "stock": 2
     },
@@ -2548,7 +2557,7 @@
       "relationIDs": 999,
       "costSamuraiToken": 1000,
       "addSceatToken": 3,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLegendLevel": 649,
       "stock": 2
     },
@@ -2823,7 +2832,7 @@
       "sortOrder": 48,
       "relationIDs": 250,
       "costSamuraiToken": 10000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30412,
       "constructionItemAmount": 1
@@ -2836,7 +2845,7 @@
       "sortOrder": 49,
       "relationIDs": 250,
       "costSamuraiToken": 20000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30412,
       "constructionItemAmount": 1
@@ -2849,7 +2858,7 @@
       "sortOrder": 50,
       "relationIDs": 250,
       "costSamuraiToken": 25000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30413,
       "constructionItemAmount": 1
@@ -2862,7 +2871,7 @@
       "sortOrder": 51,
       "relationIDs": 250,
       "costSamuraiToken": 75000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30413,
       "constructionItemAmount": 1
@@ -2875,7 +2884,7 @@
       "sortOrder": 52,
       "relationIDs": 250,
       "costSamuraiToken": 10000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30482,
       "constructionItemAmount": 1
@@ -2888,7 +2897,7 @@
       "sortOrder": 53,
       "relationIDs": 250,
       "costSamuraiToken": 20000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30482,
       "constructionItemAmount": 1
@@ -2901,7 +2910,7 @@
       "sortOrder": 54,
       "relationIDs": 250,
       "costSamuraiToken": 25000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30483,
       "constructionItemAmount": 1
@@ -2914,7 +2923,7 @@
       "sortOrder": 55,
       "relationIDs": 250,
       "costSamuraiToken": 75000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30483,
       "constructionItemAmount": 1
@@ -2927,7 +2936,7 @@
       "sortOrder": 56,
       "relationIDs": 250,
       "costSamuraiToken": 10000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30470,
       "constructionItemAmount": 1
@@ -2940,7 +2949,7 @@
       "sortOrder": 57,
       "relationIDs": 250,
       "costSamuraiToken": 15000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30470,
       "constructionItemAmount": 1
@@ -2953,7 +2962,7 @@
       "sortOrder": 58,
       "relationIDs": 250,
       "costSamuraiToken": 25000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30471,
       "constructionItemAmount": 1
@@ -2966,7 +2975,7 @@
       "sortOrder": 59,
       "relationIDs": 250,
       "costSamuraiToken": 50000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30471,
       "constructionItemAmount": 1
@@ -2981,7 +2990,7 @@
       "costSamuraiToken": 20,
       "costSamuraiMedal": 20,
       "addPegasusTicket": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 100,
       "notRebuyable": 0
     },
@@ -2995,7 +3004,7 @@
       "costSamuraiToken": 350,
       "costSamuraiMedal": 350,
       "addLegendaryToken": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 25
     },
     {
@@ -3008,7 +3017,7 @@
       "costSamuraiToken": 50,
       "costSamuraiMedal": 50,
       "addLegendaryMaterial": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 200
     },
     {
@@ -3021,7 +3030,7 @@
       "costSamuraiToken": 2000,
       "costSamuraiMedal": 2000,
       "add5HourSkip": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 100
     },
     {
@@ -3034,7 +3043,7 @@
       "costSamuraiToken": 9600,
       "costSamuraiMedal": 9600,
       "add24HourSkip": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 50
     },
     {
@@ -3047,7 +3056,7 @@
       "maxBuyPerClick": 100000,
       "costSamuraiMedal": 5,
       "addSamuraiToken": 1,
-      "minLevel": 70
+      "minLevel": 10
     },
     {
       "packageID": 3371,
@@ -3060,7 +3069,7 @@
       "costSamuraiMedal": 40000,
       "buildingID": 2847,
       "buildingAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 2,
       "validKingdoms": "0,1,2,3"
     },
@@ -3075,7 +3084,7 @@
       "costSamuraiMedal": 50000,
       "buildingID": 2846,
       "buildingAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 2,
       "validKingdoms": "0,1,2,3"
     },
@@ -3090,7 +3099,7 @@
       "costSamuraiMedal": 75000,
       "buildingID": 2848,
       "buildingAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 2,
       "validKingdoms": "0,1,2,3"
     },
@@ -3103,7 +3112,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 75000,
       "costSamuraiMedal": 60000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30310,
       "constructionItemAmount": 1
@@ -3117,7 +3126,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 40000,
       "costSamuraiMedal": 30000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30309,
       "constructionItemAmount": 1
@@ -3133,7 +3142,7 @@
       "costSamuraiMedal": 3,
       "unitID": 723,
       "unitAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1000,
       "notRebuyable": 0
     },
@@ -3148,7 +3157,7 @@
       "costSamuraiMedal": 3,
       "unitID": 722,
       "unitAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1000,
       "notRebuyable": 0
     },
@@ -3162,7 +3171,7 @@
       "costSamuraiMedal": 6,
       "unitID": 16,
       "unitAmount": 1,
-      "minLevel": 70
+      "minLevel": 10
     },
     {
       "packageID": 3379,
@@ -3174,7 +3183,7 @@
       "costSamuraiMedal": 5,
       "unitID": 24,
       "unitAmount": 1,
-      "minLevel": 70
+      "minLevel": 10
     },
     {
       "packageID": 124,
@@ -3344,7 +3353,7 @@
       "packagePriceC2": 20,
       "unitID": 106,
       "unitAmount": 1,
-      "minLevel": 70
+      "minLevel": 10
     },
     {
       "packageID": 738,
@@ -3356,7 +3365,7 @@
       "packagePriceC2": 35,
       "unitID": 107,
       "unitAmount": 1,
-      "minLevel": 70
+      "minLevel": 10
     },
     {
       "packageID": 739,
@@ -3368,7 +3377,7 @@
       "packagePriceC2": 42,
       "unitID": 108,
       "unitAmount": 1,
-      "minLevel": 70
+      "minLevel": 10
     },
     {
       "packageID": 740,
@@ -3380,7 +3389,7 @@
       "packagePriceC2": 53,
       "unitID": 109,
       "unitAmount": 1,
-      "minLevel": 70
+      "minLevel": 10
     },
     {
       "packageID": 741,
@@ -3392,7 +3401,7 @@
       "packagePriceC2": 74,
       "unitID": 110,
       "unitAmount": 1,
-      "minLevel": 70
+      "minLevel": 10
     },
     {
       "packageID": 742,
@@ -3404,7 +3413,7 @@
       "packagePriceC2": 79,
       "unitID": 111,
       "unitAmount": 1,
-      "minLevel": 70
+      "minLevel": 10
     },
     {
       "packageID": 743,
@@ -3416,7 +3425,7 @@
       "packagePriceC2": 84,
       "unitID": 112,
       "unitAmount": 1,
-      "minLevel": 70
+      "minLevel": 10
     },
     {
       "packageID": 394,
@@ -24076,7 +24085,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 120000,
       "costSamuraiMedal": 60000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24092,7 +24101,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 130000,
       "costSamuraiMedal": 70000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24108,7 +24117,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 140000,
       "costSamuraiMedal": 80000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24124,7 +24133,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 20000,
       "costSamuraiMedal": 10000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24140,7 +24149,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 30000,
       "costSamuraiMedal": 15000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24156,7 +24165,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 40000,
       "costSamuraiMedal": 20000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24172,7 +24181,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 30000,
       "costSamuraiMedal": 15000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24188,7 +24197,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 45000,
       "costSamuraiMedal": 22500,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24204,7 +24213,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 60000,
       "costSamuraiMedal": 30000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24220,7 +24229,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 30000,
       "costSamuraiMedal": 15000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24236,7 +24245,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 45000,
       "costSamuraiMedal": 22500,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24252,7 +24261,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 60000,
       "costSamuraiMedal": 30000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24270,7 +24279,7 @@
       "costSamuraiMedal": 3,
       "unitID": 723,
       "unitAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1000,
       "notRebuyable": 0
@@ -24286,7 +24295,7 @@
       "costSamuraiMedal": 3,
       "unitID": 722,
       "unitAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1000,
       "notRebuyable": 0
@@ -24301,7 +24310,7 @@
       "costSamuraiMedal": 6,
       "unitID": 16,
       "unitAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1000,
       "notRebuyable": 0
@@ -24316,7 +24325,7 @@
       "costSamuraiMedal": 5,
       "unitID": 24,
       "unitAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 2000,
       "notRebuyable": 0
@@ -24331,7 +24340,7 @@
       "costSamuraiToken": 20,
       "costSamuraiMedal": 20,
       "addPegasusTicket": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 100,
       "notRebuyable": 0
@@ -24346,7 +24355,7 @@
       "costSamuraiToken": 10,
       "costSamuraiMedal": 10,
       "addFusionCurrency": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 100
     },
@@ -24360,7 +24369,7 @@
       "costSamuraiToken": 70,
       "costSamuraiMedal": 70,
       "addDecoDust": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 100
     },
@@ -24374,7 +24383,7 @@
       "costSamuraiToken": 350,
       "costSamuraiMedal": 350,
       "addLegendaryToken": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 25
     },
@@ -24388,7 +24397,7 @@
       "costSamuraiToken": 50,
       "costSamuraiMedal": 50,
       "addLegendaryMaterial": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 200
     },
@@ -24403,7 +24412,7 @@
       "costSamuraiMedal": 25000,
       "buildingID": 2333,
       "buildingAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 2,
       "validKingdoms": "0,1,2,3,4"
@@ -24419,7 +24428,7 @@
       "costSamuraiMedal": 50000,
       "buildingID": 2334,
       "buildingAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 2,
       "validKingdoms": "0,1,2,3,4"
@@ -24435,7 +24444,7 @@
       "costSamuraiMedal": 25000,
       "buildingID": 2335,
       "buildingAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 2,
       "validKingdoms": "0,1,2,3,4"
@@ -24451,7 +24460,7 @@
       "costSamuraiMedal": 50000,
       "buildingID": 2336,
       "buildingAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 2,
       "validKingdoms": "0,1,2,3,4"
@@ -24467,7 +24476,7 @@
       "costSamuraiMedal": 25000,
       "buildingID": 2337,
       "buildingAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 2,
       "validKingdoms": "0,1,2,3,4"
@@ -24483,7 +24492,7 @@
       "costSamuraiMedal": 50000,
       "buildingID": 2338,
       "buildingAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 2,
       "validKingdoms": "0,1,2,3,4"
@@ -24499,7 +24508,7 @@
       "costSamuraiMedal": 25000,
       "buildingID": 2339,
       "buildingAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 2,
       "validKingdoms": "0,1,2,3,4"
@@ -24515,7 +24524,7 @@
       "costSamuraiMedal": 50000,
       "buildingID": 2340,
       "buildingAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 2,
       "validKingdoms": "0,1,2,3,4"
@@ -24529,7 +24538,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 20000,
       "costSamuraiMedal": 10000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24545,7 +24554,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 30000,
       "costSamuraiMedal": 15000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24561,7 +24570,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 40000,
       "costSamuraiMedal": 20000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24577,7 +24586,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 120000,
       "costSamuraiMedal": 60000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24593,7 +24602,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 130000,
       "costSamuraiMedal": 70000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24609,7 +24618,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 140000,
       "costSamuraiMedal": 80000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24625,7 +24634,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 320000,
       "costSamuraiMedal": 160000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24641,7 +24650,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 360000,
       "costSamuraiMedal": 180000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24657,7 +24666,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 440000,
       "costSamuraiMedal": 220000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24673,7 +24682,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 20000,
       "costSamuraiMedal": 10000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24689,7 +24698,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 30000,
       "costSamuraiMedal": 15000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24705,7 +24714,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 40000,
       "costSamuraiMedal": 20000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24721,7 +24730,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 120000,
       "costSamuraiMedal": 60000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24737,7 +24746,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 130000,
       "costSamuraiMedal": 70000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24753,7 +24762,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 140000,
       "costSamuraiMedal": 80000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24769,7 +24778,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 320000,
       "costSamuraiMedal": 160000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24785,7 +24794,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 360000,
       "costSamuraiMedal": 180000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24801,7 +24810,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 440000,
       "costSamuraiMedal": 220000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24817,7 +24826,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 20000,
       "costSamuraiMedal": 10000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24833,7 +24842,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 30000,
       "costSamuraiMedal": 15000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24849,7 +24858,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 40000,
       "costSamuraiMedal": 20000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24865,7 +24874,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 120000,
       "costSamuraiMedal": 60000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24881,7 +24890,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 130000,
       "costSamuraiMedal": 70000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24897,7 +24906,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 140000,
       "costSamuraiMedal": 80000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24913,7 +24922,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 320000,
       "costSamuraiMedal": 160000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24929,7 +24938,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 360000,
       "costSamuraiMedal": 180000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24945,7 +24954,7 @@
       "relationIDs": 250,
       "costSamuraiToken": 440000,
       "costSamuraiMedal": 220000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1,
       "notRebuyable": 1,
@@ -24963,7 +24972,7 @@
       "costSamuraiMedal": 3,
       "unitID": 723,
       "unitAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1000,
       "notRebuyable": 0
@@ -24979,7 +24988,7 @@
       "costSamuraiMedal": 3,
       "unitID": 722,
       "unitAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1000,
       "notRebuyable": 0
@@ -24994,7 +25003,7 @@
       "costSamuraiMedal": 6,
       "unitID": 16,
       "unitAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 1000,
       "notRebuyable": 0
@@ -25009,7 +25018,7 @@
       "costSamuraiMedal": 5,
       "unitID": 24,
       "unitAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 2000,
       "notRebuyable": 0
@@ -25024,7 +25033,7 @@
       "costSamuraiToken": 20,
       "costSamuraiMedal": 20,
       "addPegasusTicket": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 100,
       "notRebuyable": 0
@@ -25039,7 +25048,7 @@
       "costSamuraiToken": 10,
       "costSamuraiMedal": 10,
       "addFusionCurrency": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 100
     },
@@ -25053,7 +25062,7 @@
       "costSamuraiToken": 70,
       "costSamuraiMedal": 70,
       "addDecoDust": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 100
     },
@@ -25067,7 +25076,7 @@
       "costSamuraiToken": 350,
       "costSamuraiMedal": 350,
       "addLegendaryToken": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 25
     },
@@ -25081,7 +25090,7 @@
       "costSamuraiToken": 50,
       "costSamuraiMedal": 50,
       "addLegendaryMaterial": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 200
     },
@@ -25095,7 +25104,7 @@
       "costSamuraiToken": 100,
       "costSamuraiMedal": 100,
       "addDecoCatalyst21": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 100
     },
@@ -25109,7 +25118,7 @@
       "costSamuraiToken": 125,
       "costSamuraiMedal": 125,
       "addDecoCatalyst22": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 100
     },
@@ -25123,7 +25132,7 @@
       "costSamuraiToken": 150,
       "costSamuraiMedal": 150,
       "addDecoCatalyst23": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 75
     },
@@ -25137,7 +25146,7 @@
       "costSamuraiToken": 175,
       "costSamuraiMedal": 175,
       "addDecoCatalyst24": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 75
     },
@@ -25151,7 +25160,7 @@
       "costSamuraiToken": 200,
       "costSamuraiMedal": 200,
       "addDecoCatalyst25": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 75
     },
@@ -25165,7 +25174,7 @@
       "costSamuraiToken": 225,
       "costSamuraiMedal": 225,
       "addDecoCatalyst26": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 50
     },
@@ -25179,7 +25188,7 @@
       "costSamuraiToken": 250,
       "costSamuraiMedal": 250,
       "addDecoCatalyst27": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 50
     },
@@ -25193,7 +25202,7 @@
       "costSamuraiToken": 275,
       "costSamuraiMedal": 275,
       "addDecoCatalyst28": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 50
     },
@@ -25207,7 +25216,7 @@
       "costSamuraiToken": 300,
       "costSamuraiMedal": 300,
       "addDecoCatalyst29": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 25
     },
@@ -25221,7 +25230,7 @@
       "costSamuraiToken": 325,
       "costSamuraiMedal": 325,
       "addDecoCatalyst30": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99,
       "stock": 25
     },
@@ -28543,7 +28552,7 @@
       "relationIDs": 999,
       "costKhanTablet": 100,
       "addResourceVillageToken": 1,
-      "minLevel": 30,
+      "minLevel": 10,
       "stock": 15
     },
     {
@@ -28555,7 +28564,7 @@
       "relationIDs": 999,
       "costKhanTablet": 300,
       "addResourceVillageToken": 1,
-      "minLevel": 30,
+      "minLevel": 10,
       "stock": 30
     },
     {
@@ -28567,7 +28576,7 @@
       "relationIDs": 999,
       "costKhanTablet": 10000,
       "addSilverToken": 1000,
-      "minLevel": 60,
+      "minLevel": 10,
       "stock": 2
     },
     {
@@ -28579,7 +28588,7 @@
       "relationIDs": 253,
       "costKhanTablet": 140,
       "addCommonFinesand": 5,
-      "minLevel": 45,
+      "minLevel": 10,
       "stock": 10
     },
     {
@@ -28591,7 +28600,7 @@
       "relationIDs": 254,
       "costKhanTablet": 110,
       "addRareFarmingtools": 5,
-      "minLevel": 45,
+      "minLevel": 10,
       "stock": 10
     },
     {
@@ -28604,7 +28613,7 @@
       "maxBuyPerClick": 100000,
       "costKhanTablet": 1,
       "amountC1": 150,
-      "minLevel": 30
+      "minLevel": 10
     },
     {
       "packageID": 2985,
@@ -28651,7 +28660,7 @@
       "relationIDs": 999,
       "costKhanTablet": 1000,
       "addLegendaryToken": 10,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLegendLevel": 649,
       "stock": 2
     },
@@ -28664,7 +28673,7 @@
       "relationIDs": 999,
       "costKhanTablet": 500,
       "addLegendaryMaterial": 5,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLegendLevel": 649,
       "stock": 2
     },
@@ -28677,7 +28686,7 @@
       "relationIDs": 999,
       "costKhanTablet": 500,
       "addSceatToken": 3,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLegendLevel": 649,
       "stock": 2
     },
@@ -28690,7 +28699,7 @@
       "relationIDs": 999,
       "costKhanTablet": 500,
       "addLegendaryToken": 5,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxLevel": 69,
       "stock": 2
     },
@@ -28703,7 +28712,7 @@
       "relationIDs": 999,
       "costKhanTablet": 300,
       "addLegendaryMaterial": 3,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxLevel": 69,
       "stock": 2
     },
@@ -28752,7 +28761,7 @@
       "relationIDs": 999,
       "costKhanTablet": 2000,
       "addLegendaryToken": 10,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLegendLevel": 649,
       "stock": 2
     },
@@ -28765,7 +28774,7 @@
       "relationIDs": 999,
       "costKhanTablet": 1000,
       "addLegendaryMaterial": 5,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLegendLevel": 649,
       "stock": 2
     },
@@ -28778,7 +28787,7 @@
       "relationIDs": 999,
       "costKhanTablet": 1000,
       "addSceatToken": 3,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLegendLevel": 649,
       "stock": 2
     },
@@ -28791,7 +28800,7 @@
       "relationIDs": 999,
       "costKhanTablet": 1000,
       "addLegendaryToken": 5,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxLevel": 69,
       "stock": 2
     },
@@ -28804,7 +28813,7 @@
       "relationIDs": 999,
       "costKhanTablet": 600,
       "addLegendaryMaterial": 3,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxLevel": 69,
       "stock": 2
     },
@@ -28819,7 +28828,7 @@
       "costKhanTablet": 195,
       "unitID": 725,
       "unitAmount": 25,
-      "minLevel": 30
+      "minLevel": 10
     },
     {
       "packageID": 2808,
@@ -28832,7 +28841,7 @@
       "costKhanTablet": 45,
       "unitID": 5,
       "unitAmount": 10,
-      "minLevel": 30
+      "minLevel": 10
     },
     {
       "packageID": 2809,
@@ -28845,7 +28854,7 @@
       "costKhanTablet": 45,
       "unitID": 6,
       "unitAmount": 10,
-      "minLevel": 30
+      "minLevel": 10
     },
     {
       "packageID": 2810,
@@ -28857,7 +28866,7 @@
       "costKhanTablet": 2340,
       "unitID": 277,
       "unitAmount": 100,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 25
     },
     {
@@ -28870,7 +28879,7 @@
       "costKhanTablet": 4680,
       "unitID": 277,
       "unitAmount": 100,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 25
     },
     {
@@ -28883,7 +28892,7 @@
       "costKhanTablet": 9360,
       "unitID": 277,
       "unitAmount": 100,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 25
     },
     {
@@ -28896,7 +28905,7 @@
       "costKhanTablet": 18720,
       "unitID": 277,
       "unitAmount": 100,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 25
     },
     {
@@ -28909,7 +28918,7 @@
       "costKhanTablet": 95,
       "unitID": 730,
       "unitAmount": 1,
-      "minLevel": 30
+      "minLevel": 10
     },
     {
       "packageID": 2816,
@@ -28921,7 +28930,7 @@
       "costKhanTablet": 25,
       "unitID": 731,
       "unitAmount": 1,
-      "minLevel": 30
+      "minLevel": 10
     },
     {
       "packageID": 2817,
@@ -28934,7 +28943,7 @@
       "costKhanTablet": 30,
       "unitID": 734,
       "unitAmount": 5,
-      "minLevel": 30
+      "minLevel": 10
     },
     {
       "packageID": 2818,
@@ -28946,7 +28955,7 @@
       "costKhanTablet": 15,
       "unitID": 736,
       "unitAmount": 5,
-      "minLevel": 30
+      "minLevel": 10
     },
     {
       "packageID": 2819,
@@ -28958,7 +28967,7 @@
       "costKhanTablet": 20,
       "unitID": 737,
       "unitAmount": 5,
-      "minLevel": 30
+      "minLevel": 10
     },
     {
       "packageID": 2821,
@@ -28970,7 +28979,7 @@
       "costKhanTablet": 2000,
       "buildingID": 2362,
       "buildingAmount": 1,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxLevel": 39,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
@@ -28985,7 +28994,7 @@
       "costKhanTablet": 5000,
       "buildingID": 2363,
       "buildingAmount": 1,
-      "minLevel": 40,
+      "minLevel": 10,
       "maxLevel": 49,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
@@ -29000,7 +29009,7 @@
       "costKhanTablet": 15000,
       "buildingID": 2364,
       "buildingAmount": 1,
-      "minLevel": 50,
+      "minLevel": 10,
       "maxLevel": 50,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
@@ -29015,7 +29024,7 @@
       "costKhanTablet": 20000,
       "buildingID": 2365,
       "buildingAmount": 1,
-      "minLevel": 60,
+      "minLevel": 10,
       "maxLevel": 69,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
@@ -29030,7 +29039,7 @@
       "costKhanTablet": 30000,
       "buildingID": 2366,
       "buildingAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
     },
@@ -29044,7 +29053,7 @@
       "costKhanTablet": 5000,
       "buildingID": 2367,
       "buildingAmount": 1,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxLevel": 39,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
@@ -29059,7 +29068,7 @@
       "costKhanTablet": 12500,
       "buildingID": 2368,
       "buildingAmount": 1,
-      "minLevel": 40,
+      "minLevel": 10,
       "maxLevel": 49,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
@@ -29074,7 +29083,7 @@
       "costKhanTablet": 37500,
       "buildingID": 2369,
       "buildingAmount": 1,
-      "minLevel": 50,
+      "minLevel": 10,
       "maxLevel": 50,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
@@ -29089,7 +29098,7 @@
       "costKhanTablet": 50000,
       "buildingID": 2370,
       "buildingAmount": 1,
-      "minLevel": 60,
+      "minLevel": 10,
       "maxLevel": 69,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
@@ -29104,7 +29113,7 @@
       "costKhanTablet": 75000,
       "buildingID": 2371,
       "buildingAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
     },
@@ -29118,7 +29127,7 @@
       "costKhanTablet": 10000,
       "buildingID": 2372,
       "buildingAmount": 1,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxLevel": 39,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
@@ -29133,7 +29142,7 @@
       "costKhanTablet": 25000,
       "buildingID": 2373,
       "buildingAmount": 1,
-      "minLevel": 40,
+      "minLevel": 10,
       "maxLevel": 49,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
@@ -29148,7 +29157,7 @@
       "costKhanTablet": 75000,
       "buildingID": 2374,
       "buildingAmount": 1,
-      "minLevel": 50,
+      "minLevel": 10,
       "maxLevel": 50,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
@@ -29163,7 +29172,7 @@
       "costKhanTablet": 100000,
       "buildingID": 2375,
       "buildingAmount": 1,
-      "minLevel": 60,
+      "minLevel": 10,
       "maxLevel": 69,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
@@ -29178,7 +29187,7 @@
       "costKhanTablet": 150000,
       "buildingID": 2376,
       "buildingAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
     },
@@ -29192,7 +29201,7 @@
       "costKhanTablet": 10000,
       "buildingID": 2377,
       "buildingAmount": 1,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxLevel": 39,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
@@ -29207,7 +29216,7 @@
       "costKhanTablet": 25000,
       "buildingID": 2378,
       "buildingAmount": 1,
-      "minLevel": 40,
+      "minLevel": 10,
       "maxLevel": 49,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
@@ -29222,7 +29231,7 @@
       "costKhanTablet": 75000,
       "buildingID": 2379,
       "buildingAmount": 1,
-      "minLevel": 50,
+      "minLevel": 10,
       "maxLevel": 50,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
@@ -29237,7 +29246,7 @@
       "costKhanTablet": 100000,
       "buildingID": 2380,
       "buildingAmount": 1,
-      "minLevel": 60,
+      "minLevel": 10,
       "maxLevel": 69,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
@@ -29252,7 +29261,7 @@
       "costKhanTablet": 150000,
       "buildingID": 2381,
       "buildingAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
     },
@@ -29266,7 +29275,7 @@
       "costKhanTablet": 10000,
       "buildingID": 2382,
       "buildingAmount": 1,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxLevel": 39,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
@@ -29281,7 +29290,7 @@
       "costKhanTablet": 25000,
       "buildingID": 2383,
       "buildingAmount": 1,
-      "minLevel": 40,
+      "minLevel": 10,
       "maxLevel": 49,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
@@ -29296,7 +29305,7 @@
       "costKhanTablet": 75000,
       "buildingID": 2384,
       "buildingAmount": 1,
-      "minLevel": 50,
+      "minLevel": 10,
       "maxLevel": 50,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
@@ -29311,7 +29320,7 @@
       "costKhanTablet": 100000,
       "buildingID": 2385,
       "buildingAmount": 1,
-      "minLevel": 60,
+      "minLevel": 10,
       "maxLevel": 69,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
@@ -29326,7 +29335,7 @@
       "costKhanTablet": 150000,
       "buildingID": 2386,
       "buildingAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
     },
@@ -29338,7 +29347,7 @@
       "sortOrder": 52,
       "relationIDs": 250,
       "costKhanTablet": 10000,
-      "minLevel": 45,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30410,
       "constructionItemAmount": 1
@@ -29351,7 +29360,7 @@
       "sortOrder": 53,
       "relationIDs": 250,
       "costKhanTablet": 20000,
-      "minLevel": 45,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30410,
       "constructionItemAmount": 1
@@ -29364,7 +29373,7 @@
       "sortOrder": 54,
       "relationIDs": 250,
       "costKhanTablet": 25000,
-      "minLevel": 45,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30411,
       "constructionItemAmount": 1
@@ -29377,7 +29386,7 @@
       "sortOrder": 55,
       "relationIDs": 250,
       "costKhanTablet": 75000,
-      "minLevel": 45,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30411,
       "constructionItemAmount": 1
@@ -29390,7 +29399,7 @@
       "sortOrder": 57,
       "relationIDs": 250,
       "costKhanTablet": 10000,
-      "minLevel": 45,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30470,
       "constructionItemAmount": 1
@@ -29403,7 +29412,7 @@
       "sortOrder": 58,
       "relationIDs": 250,
       "costKhanTablet": 20000,
-      "minLevel": 45,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30470,
       "constructionItemAmount": 1
@@ -29416,7 +29425,7 @@
       "sortOrder": 59,
       "relationIDs": 250,
       "costKhanTablet": 25000,
-      "minLevel": 45,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30471,
       "constructionItemAmount": 1
@@ -29429,7 +29438,7 @@
       "sortOrder": 60,
       "relationIDs": 250,
       "costKhanTablet": 75000,
-      "minLevel": 45,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30471,
       "constructionItemAmount": 1
@@ -29442,7 +29451,7 @@
       "sortOrder": 62,
       "relationIDs": 250,
       "costKhanTablet": 10000,
-      "minLevel": 45,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30480,
       "constructionItemAmount": 1
@@ -29455,7 +29464,7 @@
       "sortOrder": 63,
       "relationIDs": 250,
       "costKhanTablet": 20000,
-      "minLevel": 45,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30480,
       "constructionItemAmount": 1
@@ -29468,7 +29477,7 @@
       "sortOrder": 64,
       "relationIDs": 250,
       "costKhanTablet": 25000,
-      "minLevel": 45,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30481,
       "constructionItemAmount": 1
@@ -29481,7 +29490,7 @@
       "sortOrder": 65,
       "relationIDs": 250,
       "costKhanTablet": 75000,
-      "minLevel": 45,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30481,
       "constructionItemAmount": 1
@@ -29495,7 +29504,7 @@
       "relationIDs": "3,8,13",
       "costKhanTablet": 50,
       "equipmentIDs": 12,
-      "minLevel": 30,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -29507,7 +29516,7 @@
       "relationIDs": "4,8,13",
       "costKhanTablet": 975,
       "equipmentIDs": 13,
-      "minLevel": 30,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -29519,7 +29528,7 @@
       "relationIDs": "2,8,13",
       "costKhanTablet": 2300,
       "equipmentIDs": 14,
-      "minLevel": 30,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -29531,7 +29540,7 @@
       "relationIDs": "1,8,13",
       "costKhanTablet": 1700,
       "equipmentIDs": 15,
-      "minLevel": 30,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -29543,7 +29552,7 @@
       "relationIDs": "2,8,14",
       "costKhanTablet": 2300,
       "equipmentIDs": 16,
-      "minLevel": 30,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -29555,7 +29564,7 @@
       "relationIDs": "1,8,14",
       "costKhanTablet": 1700,
       "equipmentIDs": 17,
-      "minLevel": 30,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -29567,7 +29576,7 @@
       "relationIDs": "4,8,14",
       "costKhanTablet": 975,
       "equipmentIDs": 18,
-      "minLevel": 30,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -29579,7 +29588,7 @@
       "relationIDs": "2,8,13",
       "costKhanTablet": 6135,
       "equipmentIDs": 79,
-      "minLevel": 30,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -29591,7 +29600,7 @@
       "relationIDs": "3,8,13",
       "costKhanTablet": 5180,
       "equipmentIDs": 80,
-      "minLevel": 30,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -29603,7 +29612,7 @@
       "relationIDs": "1,8,13",
       "costKhanTablet": 4660,
       "equipmentIDs": 81,
-      "minLevel": 30,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -29615,7 +29624,7 @@
       "relationIDs": "4,8,13",
       "costKhanTablet": 5825,
       "equipmentIDs": 82,
-      "minLevel": 30,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -29627,7 +29636,7 @@
       "relationIDs": "6,8,13",
       "costKhanTablet": 8200,
       "equipmentIDs": 83,
-      "minLevel": 30,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -29639,7 +29648,7 @@
       "relationIDs": "2,8,14",
       "costKhanTablet": 4500,
       "equipmentIDs": 426,
-      "minLevel": 30,
+      "minLevel": 10,
       "stock": 1,
       "notRebuyable": 1
     },
@@ -29652,7 +29661,7 @@
       "relationIDs": "3,8,14",
       "costKhanTablet": 4000,
       "equipmentIDs": 427,
-      "minLevel": 30,
+      "minLevel": 10,
       "stock": 1,
       "notRebuyable": 1
     },
@@ -29665,7 +29674,7 @@
       "relationIDs": "1,8,14",
       "costKhanTablet": 3600,
       "equipmentIDs": 428,
-      "minLevel": 30,
+      "minLevel": 10,
       "stock": 1,
       "notRebuyable": 1
     },
@@ -29678,7 +29687,7 @@
       "relationIDs": "4,8,14",
       "costKhanTablet": 4000,
       "equipmentIDs": 429,
-      "minLevel": 30,
+      "minLevel": 10,
       "stock": 1,
       "notRebuyable": 1
     },
@@ -29691,7 +29700,7 @@
       "relationIDs": "6,8,14",
       "costKhanTablet": 9000,
       "equipmentIDs": 430,
-      "minLevel": 30,
+      "minLevel": 10,
       "stock": 1,
       "notRebuyable": 1
     },
@@ -29705,7 +29714,7 @@
       "costKhanTablet": 4400,
       "gemIDs": 81,
       "gemAmount": 1,
-      "minLevel": 30,
+      "minLevel": 10,
       "stock": 1,
       "notRebuyable": 1
     },
@@ -29719,7 +29728,7 @@
       "costKhanTablet": 6200,
       "gemIDs": 82,
       "gemAmount": 1,
-      "minLevel": 30,
+      "minLevel": 10,
       "stock": 1,
       "notRebuyable": 1
     },
@@ -29733,7 +29742,7 @@
       "costKhanTablet": 4400,
       "gemIDs": 90,
       "gemAmount": 1,
-      "minLevel": 30,
+      "minLevel": 10,
       "stock": 1,
       "notRebuyable": 1
     },
@@ -29747,7 +29756,7 @@
       "costKhanTablet": 5400,
       "gemIDs": 91,
       "gemAmount": 1,
-      "minLevel": 30,
+      "minLevel": 10,
       "stock": 1,
       "notRebuyable": 1
     },
@@ -29761,7 +29770,7 @@
       "costKhanTablet": 3200,
       "equipmentIDs": 316,
       "equipmentAmount": 1,
-      "minLevel": 30
+      "minLevel": 10
     },
     {
       "packageID": 2889,
@@ -29773,7 +29782,7 @@
       "costKhanTablet": 3200,
       "equipmentIDs": 317,
       "equipmentAmount": 1,
-      "minLevel": 30
+      "minLevel": 10
     },
     {
       "packageID": 2890,
@@ -29785,7 +29794,7 @@
       "costKhanTablet": 3200,
       "equipmentIDs": 318,
       "equipmentAmount": 1,
-      "minLevel": 30
+      "minLevel": 10
     },
     {
       "packageID": 2891,
@@ -29797,7 +29806,7 @@
       "costKhanTablet": 3200,
       "equipmentIDs": 319,
       "equipmentAmount": 1,
-      "minLevel": 30
+      "minLevel": 10
     },
     {
       "packageID": 2892,
@@ -29809,7 +29818,7 @@
       "costKhanTablet": 5000,
       "equipmentIDs": 320,
       "equipmentAmount": 1,
-      "minLevel": 30
+      "minLevel": 10
     },
     {
       "packageID": 3200,
@@ -30859,7 +30868,7 @@
       "costKhanMedal": 6000,
       "buildingID": 2366,
       "buildingAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 10,
       "validKingdoms": "0,1,2,3"
     },
@@ -30873,7 +30882,7 @@
       "costKhanMedal": 15000,
       "buildingID": 2371,
       "buildingAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 10,
       "validKingdoms": "0,1,2,3"
     },
@@ -30887,7 +30896,7 @@
       "costKhanMedal": 30000,
       "buildingID": 2376,
       "buildingAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 10,
       "validKingdoms": "0,1,2,3"
     },
@@ -30901,7 +30910,7 @@
       "costKhanMedal": 30000,
       "buildingID": 2381,
       "buildingAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 10,
       "validKingdoms": "0,1,2,3"
     },
@@ -30915,7 +30924,7 @@
       "costKhanMedal": 30000,
       "buildingID": 2386,
       "buildingAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 10,
       "validKingdoms": "0,1,2,3"
     },
@@ -30928,7 +30937,7 @@
       "relationIDs": 255,
       "costKhanMedal": 335,
       "addEpicResin": 5,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 10
     },
     {
@@ -30940,7 +30949,7 @@
       "relationIDs": 256,
       "costKhanMedal": 235,
       "addLegendarySoulstone": 5,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 10
     },
     {
@@ -30951,7 +30960,7 @@
       "sortOrder": 8,
       "relationIDs": 250,
       "costKhanMedal": 10000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 84,
       "constructionItemAmount": 1
@@ -30964,7 +30973,7 @@
       "sortOrder": 9,
       "relationIDs": 250,
       "costKhanMedal": 16250,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 84,
       "constructionItemAmount": 1
@@ -30977,7 +30986,7 @@
       "sortOrder": 10,
       "relationIDs": 250,
       "costKhanMedal": 28750,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 84,
       "constructionItemAmount": 1
@@ -30990,7 +30999,7 @@
       "sortOrder": 11,
       "relationIDs": 250,
       "costKhanMedal": 30000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 361,
       "constructionItemAmount": 1
@@ -31003,7 +31012,7 @@
       "sortOrder": 12,
       "relationIDs": 250,
       "costKhanMedal": 42500,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 361,
       "constructionItemAmount": 1
@@ -31016,7 +31025,7 @@
       "sortOrder": 13,
       "relationIDs": 250,
       "costKhanMedal": 67500,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 361,
       "constructionItemAmount": 1
@@ -31029,7 +31038,7 @@
       "sortOrder": 14,
       "relationIDs": 250,
       "costKhanMedal": 50000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 420,
       "constructionItemAmount": 1
@@ -31042,7 +31051,7 @@
       "sortOrder": 15,
       "relationIDs": 250,
       "costKhanMedal": 75000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 420,
       "constructionItemAmount": 1
@@ -31055,7 +31064,7 @@
       "sortOrder": 16,
       "relationIDs": 250,
       "costKhanMedal": 125000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 420,
       "constructionItemAmount": 1
@@ -31068,7 +31077,7 @@
       "sortOrder": 17,
       "relationIDs": 250,
       "costKhanMedal": 10000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 62,
       "constructionItemAmount": 1
@@ -31081,7 +31090,7 @@
       "sortOrder": 18,
       "relationIDs": 250,
       "costKhanMedal": 16250,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 62,
       "constructionItemAmount": 1
@@ -31094,7 +31103,7 @@
       "sortOrder": 19,
       "relationIDs": 250,
       "costKhanMedal": 28750,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 62,
       "constructionItemAmount": 1
@@ -31107,7 +31116,7 @@
       "sortOrder": 20,
       "relationIDs": 250,
       "costKhanMedal": 30000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 64,
       "constructionItemAmount": 1
@@ -31120,7 +31129,7 @@
       "sortOrder": 21,
       "relationIDs": 250,
       "costKhanMedal": 42500,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 64,
       "constructionItemAmount": 1
@@ -31133,7 +31142,7 @@
       "sortOrder": 22,
       "relationIDs": 250,
       "costKhanMedal": 67500,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 64,
       "constructionItemAmount": 1
@@ -31146,7 +31155,7 @@
       "sortOrder": 23,
       "relationIDs": 250,
       "costKhanMedal": 50000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 66,
       "constructionItemAmount": 1
@@ -31159,7 +31168,7 @@
       "sortOrder": 24,
       "relationIDs": 250,
       "costKhanMedal": 75000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 66,
       "constructionItemAmount": 1
@@ -31172,7 +31181,7 @@
       "sortOrder": 25,
       "relationIDs": 250,
       "costKhanMedal": 125000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 66,
       "constructionItemAmount": 1
@@ -31185,7 +31194,7 @@
       "sortOrder": 26,
       "relationIDs": 250,
       "costKhanMedal": 15000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 24,
       "constructionItemAmount": 1
@@ -31198,7 +31207,7 @@
       "sortOrder": 27,
       "relationIDs": 250,
       "costKhanMedal": 24375,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 24,
       "constructionItemAmount": 1
@@ -31211,7 +31220,7 @@
       "sortOrder": 28,
       "relationIDs": 250,
       "costKhanMedal": 43125,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 24,
       "constructionItemAmount": 1
@@ -31224,7 +31233,7 @@
       "sortOrder": 29,
       "relationIDs": 250,
       "costKhanMedal": 45000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 351,
       "constructionItemAmount": 1
@@ -31237,7 +31246,7 @@
       "sortOrder": 30,
       "relationIDs": 250,
       "costKhanMedal": 63750,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 351,
       "constructionItemAmount": 1
@@ -31250,7 +31259,7 @@
       "sortOrder": 31,
       "relationIDs": 250,
       "costKhanMedal": 101250,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 351,
       "constructionItemAmount": 1
@@ -31263,7 +31272,7 @@
       "sortOrder": 32,
       "relationIDs": 250,
       "costKhanMedal": 75000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 425,
       "constructionItemAmount": 1
@@ -31276,7 +31285,7 @@
       "sortOrder": 33,
       "relationIDs": 250,
       "costKhanMedal": 112500,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 425,
       "constructionItemAmount": 1
@@ -31289,7 +31298,7 @@
       "sortOrder": 34,
       "relationIDs": 250,
       "costKhanMedal": 187500,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 425,
       "constructionItemAmount": 1
@@ -31302,7 +31311,7 @@
       "sortOrder": 35,
       "relationIDs": 250,
       "costKhanMedal": 3190,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 14,
       "constructionItemAmount": 1
@@ -31315,7 +31324,7 @@
       "sortOrder": 36,
       "relationIDs": 251,
       "costKhanMedal": 7530,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 20003,
       "constructionItemAmount": 1
@@ -31328,7 +31337,7 @@
       "sortOrder": 37,
       "relationIDs": 251,
       "costKhanMedal": 7530,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 20016,
       "constructionItemAmount": 1
@@ -31342,7 +31351,7 @@
       "relationIDs": 999,
       "costKhanMedal": 160,
       "addDecoCatalyst25": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 45
     },
     {
@@ -31354,7 +31363,7 @@
       "relationIDs": 999,
       "costKhanMedal": 190,
       "addDecoCatalyst30": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 40
     },
     {
@@ -31366,7 +31375,7 @@
       "relationIDs": 999,
       "costKhanMedal": 220,
       "addDecoCatalyst35": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 35
     },
     {
@@ -31378,7 +31387,7 @@
       "relationIDs": 999,
       "costKhanMedal": 265,
       "addDecoCatalyst40": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 30
     },
     {
@@ -31390,7 +31399,7 @@
       "relationIDs": 999,
       "costKhanMedal": 330,
       "addDecoCatalyst45": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 25
     },
     {
@@ -31402,7 +31411,7 @@
       "relationIDs": 999,
       "costKhanMedal": 425,
       "addDecoCatalyst50": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 20
     },
     {
@@ -31414,7 +31423,7 @@
       "relationIDs": 999,
       "costKhanMedal": 585,
       "addDecoCatalyst55": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 15
     },
     {
@@ -31426,7 +31435,7 @@
       "relationIDs": 999,
       "costKhanMedal": 900,
       "addDecoCatalyst60": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 10
     },
     {
@@ -31438,7 +31447,7 @@
       "relationIDs": 999,
       "costKhanMedal": 1850,
       "addDecoCatalyst65": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 5
     },
     {
@@ -31450,7 +31459,7 @@
       "relationIDs": 999,
       "costKhanMedal": 9500,
       "addDecoCatalyst70": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1
     },
     {
@@ -31462,7 +31471,7 @@
       "relationIDs": 999,
       "costKhanMedal": 50000,
       "addSilverToken": 1000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 4
     },
     {
@@ -31474,7 +31483,7 @@
       "relationIDs": 999,
       "costKhanMedal": 35000,
       "add5HourSkip": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 10
     },
     {
@@ -31486,7 +31495,7 @@
       "relationIDs": 999,
       "costKhanMedal": 84000,
       "add24HourSkip": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 10
     },
     {
@@ -31499,7 +31508,7 @@
       "maxBuyPerClick": 100000,
       "costKhanMedal": 7,
       "addKhanTablet": 1,
-      "minLevel": 70
+      "minLevel": 10
     },
     {
       "packageID": 2749,
@@ -31512,7 +31521,7 @@
       "costKhanMedal": 95,
       "unitID": 728,
       "unitAmount": 10,
-      "minLevel": 70
+      "minLevel": 10
     },
     {
       "packageID": 2750,
@@ -31525,7 +31534,7 @@
       "costKhanMedal": 95,
       "unitID": 729,
       "unitAmount": 10,
-      "minLevel": 70
+      "minLevel": 10
     },
     {
       "packageID": 3278,
@@ -31537,7 +31546,7 @@
       "costKhanMedal": 6000,
       "buildingID": 2919,
       "buildingAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
     },
@@ -31551,7 +31560,7 @@
       "costKhanMedal": 15000,
       "buildingID": 2918,
       "buildingAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
     },
@@ -31565,7 +31574,7 @@
       "costKhanMedal": 30000,
       "buildingID": 2832,
       "buildingAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
     },
@@ -31579,7 +31588,7 @@
       "costKhanMedal": 30000,
       "buildingID": 2837,
       "buildingAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
     },
@@ -31593,7 +31602,7 @@
       "costKhanMedal": 30000,
       "buildingID": 2842,
       "buildingAmount": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 5,
       "validKingdoms": "0,1,2,3"
     },
@@ -31605,7 +31614,7 @@
       "sortOrder": 8,
       "relationIDs": 250,
       "costKhanMedal": 50000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 420,
       "constructionItemAmount": 1
@@ -31618,7 +31627,7 @@
       "sortOrder": 9,
       "relationIDs": 250,
       "costKhanMedal": 125000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30302,
       "constructionItemAmount": 1
@@ -31631,7 +31640,7 @@
       "sortOrder": 10,
       "relationIDs": 250,
       "costKhanMedal": 75000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30301,
       "constructionItemAmount": 1
@@ -31644,7 +31653,7 @@
       "sortOrder": 11,
       "relationIDs": 250,
       "costKhanMedal": 125000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30306,
       "constructionItemAmount": 1
@@ -31657,7 +31666,7 @@
       "sortOrder": 12,
       "relationIDs": 250,
       "costKhanMedal": 75000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30305,
       "constructionItemAmount": 1
@@ -31670,7 +31679,7 @@
       "sortOrder": 13,
       "relationIDs": 250,
       "costKhanMedal": 50000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30482,
       "constructionItemAmount": 1
@@ -31683,7 +31692,7 @@
       "sortOrder": 14,
       "relationIDs": 250,
       "costKhanMedal": 100000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30482,
       "constructionItemAmount": 1
@@ -31696,7 +31705,7 @@
       "sortOrder": 15,
       "relationIDs": 250,
       "costKhanMedal": 400000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30482,
       "constructionItemAmount": 1
@@ -31709,7 +31718,7 @@
       "sortOrder": 16,
       "relationIDs": 250,
       "costKhanMedal": 150000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30483,
       "constructionItemAmount": 1
@@ -31722,7 +31731,7 @@
       "sortOrder": 17,
       "relationIDs": 250,
       "costKhanMedal": 300000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30483,
       "constructionItemAmount": 1
@@ -31735,7 +31744,7 @@
       "sortOrder": 18,
       "relationIDs": 250,
       "costKhanMedal": 900000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 1,
       "constructionItemID": 30483,
       "constructionItemAmount": 1
@@ -31749,7 +31758,7 @@
       "relationIDs": 999,
       "costKhanMedal": 40000,
       "addSilverToken": 1000,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 4
     },
     {
@@ -31761,7 +31770,7 @@
       "relationIDs": 999,
       "costKhanMedal": 40000,
       "addGoldToken": 200,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 2
     },
     {
@@ -31773,7 +31782,7 @@
       "relationIDs": 999,
       "costKhanMedal": 5000,
       "add5HourSkip": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 100
     },
     {
@@ -31785,7 +31794,7 @@
       "relationIDs": 999,
       "costKhanMedal": 24000,
       "add24HourSkip": 1,
-      "minLevel": 70,
+      "minLevel": 10,
       "stock": 50
     },
     {
@@ -31798,7 +31807,7 @@
       "maxBuyPerClick": 100000,
       "costKhanMedal": 7,
       "addKhanTablet": 1,
-      "minLevel": 70
+      "minLevel": 10
     },
     {
       "packageID": 3299,
@@ -31811,7 +31820,7 @@
       "costKhanMedal": 95,
       "unitID": 728,
       "unitAmount": 10,
-      "minLevel": 70
+      "minLevel": 10
     },
     {
       "packageID": 3300,
@@ -31824,7 +31833,7 @@
       "costKhanMedal": 95,
       "unitID": 729,
       "unitAmount": 10,
-      "minLevel": 70
+      "minLevel": 10
     },
     {
       "packageID": 3301,
@@ -31835,7 +31844,7 @@
       "relationIDs": "9,13,2",
       "costKhanMedal": 25000,
       "relicEquipments": "1@70,100",
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLegendLevel": 600,
       "stock": 1
     },
@@ -31848,7 +31857,7 @@
       "relationIDs": "9,13,3",
       "costKhanMedal": 25000,
       "relicEquipments": "101@70,100",
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLegendLevel": 600,
       "stock": 1
     },
@@ -31861,7 +31870,7 @@
       "relationIDs": "9,13,1",
       "costKhanMedal": 25000,
       "relicEquipments": "201@70,100",
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLegendLevel": 600,
       "stock": 1
     },
@@ -31874,7 +31883,7 @@
       "relationIDs": "9,13,4",
       "costKhanMedal": 25000,
       "relicEquipments": "301@70,100",
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLegendLevel": 600,
       "stock": 1
     },
@@ -31887,7 +31896,7 @@
       "relationIDs": "9,13,6",
       "costKhanMedal": 25000,
       "relicEquipments": "6201@70,100",
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLegendLevel": 600,
       "stock": 1
     },
@@ -31900,7 +31909,7 @@
       "relationIDs": "51,13",
       "costKhanMedal": 25000,
       "relicEquipments": "3001@70,100",
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLegendLevel": 600,
       "stock": 1
     },
@@ -61145,7 +61154,7 @@
       "unitID": 725,
       "unitAmount": 25,
       "stock": 1000,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxBuyPerClick": 100000,
       "sortOrder": 30,
       "relationIDs": "102,100"
@@ -61159,7 +61168,7 @@
       "unitID": 5,
       "unitAmount": 10,
       "stock": 2500,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxBuyPerClick": 100000,
       "sortOrder": 31,
       "relationIDs": "102,100"
@@ -61173,7 +61182,7 @@
       "unitID": 6,
       "unitAmount": 10,
       "stock": 2500,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxBuyPerClick": 100000,
       "sortOrder": 32,
       "relationIDs": "103,100"
@@ -61187,7 +61196,7 @@
       "unitID": 277,
       "unitAmount": 100,
       "stock": 50,
-      "minLevel": 70,
+      "minLevel": 10,
       "sortOrder": 33,
       "relationIDs": "102,100"
     },
@@ -61200,7 +61209,7 @@
       "unitID": 277,
       "unitAmount": 100,
       "stock": 50,
-      "minLevel": 70,
+      "minLevel": 10,
       "sortOrder": 34,
       "relationIDs": "102,100"
     },
@@ -61213,7 +61222,7 @@
       "unitID": 728,
       "unitAmount": 10,
       "stock": 20000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxBuyPerClick": 100000,
       "sortOrder": 6,
       "relationIDs": "102,101"
@@ -61227,7 +61236,7 @@
       "unitID": 729,
       "unitAmount": 10,
       "stock": 20000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxBuyPerClick": 100000,
       "sortOrder": 7,
       "relationIDs": "103,101"
@@ -61242,7 +61251,7 @@
       "unitID": 723,
       "unitAmount": 1,
       "stock": 25000,
-      "minLevel": 70,
+      "minLevel": 10,
       "sortOrder": 17,
       "relationIDs": "150,159",
       "notRebuyable": 0
@@ -61257,7 +61266,7 @@
       "unitID": 722,
       "unitAmount": 1,
       "stock": 25000,
-      "minLevel": 70,
+      "minLevel": 10,
       "sortOrder": 18,
       "relationIDs": "150,159",
       "notRebuyable": 0
@@ -61271,7 +61280,7 @@
       "unitID": 734,
       "unitAmount": 5,
       "stock": 100000,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxBuyPerClick": 100000,
       "sortOrder": 38,
       "relationIDs": "150,159"
@@ -61354,7 +61363,7 @@
       "unitID": 725,
       "unitAmount": 25,
       "stock": 1000,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxBuyPerClick": 100000,
       "sortOrder": 30,
       "relationIDs": "102,100"
@@ -61368,7 +61377,7 @@
       "unitID": 5,
       "unitAmount": 10,
       "stock": 2500,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxBuyPerClick": 100000,
       "sortOrder": 31,
       "relationIDs": "102,100"
@@ -61382,7 +61391,7 @@
       "unitID": 6,
       "unitAmount": 10,
       "stock": 2500,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxBuyPerClick": 100000,
       "sortOrder": 32,
       "relationIDs": "103,100"
@@ -61396,7 +61405,7 @@
       "unitID": 277,
       "unitAmount": 100,
       "stock": 250,
-      "minLevel": 70,
+      "minLevel": 10,
       "sortOrder": 33,
       "relationIDs": "102,100"
     },
@@ -61409,7 +61418,7 @@
       "unitID": 277,
       "unitAmount": 100,
       "stock": 250,
-      "minLevel": 70,
+      "minLevel": 10,
       "sortOrder": 34,
       "relationIDs": "102,100"
     },
@@ -61422,7 +61431,7 @@
       "unitID": 728,
       "unitAmount": 10,
       "stock": 20000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxBuyPerClick": 100000,
       "sortOrder": 6,
       "relationIDs": "102,101"
@@ -61436,7 +61445,7 @@
       "unitID": 729,
       "unitAmount": 10,
       "stock": 20000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxBuyPerClick": 100000,
       "sortOrder": 7,
       "relationIDs": "103,101"
@@ -61451,7 +61460,7 @@
       "unitID": 723,
       "unitAmount": 1,
       "stock": 25000,
-      "minLevel": 70,
+      "minLevel": 10,
       "sortOrder": 17,
       "relationIDs": "150,159",
       "notRebuyable": 0
@@ -61466,7 +61475,7 @@
       "unitID": 722,
       "unitAmount": 1,
       "stock": 25000,
-      "minLevel": 70,
+      "minLevel": 10,
       "sortOrder": 18,
       "relationIDs": "150,159",
       "notRebuyable": 0
@@ -61536,7 +61545,7 @@
       "unitID": 725,
       "unitAmount": 25,
       "stock": 1000,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxBuyPerClick": 100000,
       "sortOrder": 30,
       "relationIDs": "102,100"
@@ -61550,7 +61559,7 @@
       "unitID": 5,
       "unitAmount": 10,
       "stock": 2500,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxBuyPerClick": 100000,
       "sortOrder": 31,
       "relationIDs": "102,100"
@@ -61564,7 +61573,7 @@
       "unitID": 6,
       "unitAmount": 10,
       "stock": 2500,
-      "minLevel": 30,
+      "minLevel": 10,
       "maxBuyPerClick": 100000,
       "sortOrder": 32,
       "relationIDs": "103,100"
@@ -61578,7 +61587,7 @@
       "unitID": 277,
       "unitAmount": 100,
       "stock": 250,
-      "minLevel": 70,
+      "minLevel": 10,
       "sortOrder": 33,
       "relationIDs": "102,100"
     },
@@ -61591,7 +61600,7 @@
       "unitID": 277,
       "unitAmount": 100,
       "stock": 250,
-      "minLevel": 70,
+      "minLevel": 10,
       "sortOrder": 34,
       "relationIDs": "102,100"
     },
@@ -61604,7 +61613,7 @@
       "unitID": 728,
       "unitAmount": 10,
       "stock": 20000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxBuyPerClick": 100000,
       "sortOrder": 6,
       "relationIDs": "102,101"
@@ -61618,7 +61627,7 @@
       "unitID": 729,
       "unitAmount": 10,
       "stock": 20000,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxBuyPerClick": 100000,
       "sortOrder": 7,
       "relationIDs": "103,101"
@@ -61633,7 +61642,7 @@
       "unitID": 723,
       "unitAmount": 1,
       "stock": 25000,
-      "minLevel": 70,
+      "minLevel": 10,
       "sortOrder": 17,
       "relationIDs": "150,159",
       "notRebuyable": 0
@@ -61648,7 +61657,7 @@
       "unitID": 722,
       "unitAmount": 1,
       "stock": 25000,
-      "minLevel": 70,
+      "minLevel": 10,
       "sortOrder": 18,
       "relationIDs": "150,159",
       "notRebuyable": 0

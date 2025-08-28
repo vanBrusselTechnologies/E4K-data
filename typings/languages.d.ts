@@ -11228,6 +11228,7 @@ export interface Language {
         "popup_ame_purchase_quest_attempt": string;
         "popup_ame_purchase_quest_attempt_item_info_text": string;
         "popup_ame_purchase_quest_attempt_name": string;
+        "popup_ame_quest_header": string;
         "popup_ame_quest_requirement_1": string;
         "popup_ame_quest_requirement_10": string;
         "popup_ame_quest_requirement_11": string;
@@ -12517,6 +12518,13 @@ export interface Language {
         "webshop_banner_ad1_desc_3": string;
         "webshop_banner_ad1_title": string;
         "webshop_banner_exceptionGrowthFund": string;
+        "webshop_barinbase_VIP_name": string;
+        "webshop_barinbase_extraLarge_name": string;
+        "webshop_barinbase_giant_name": string;
+        "webshop_barinbase_huge_name": string;
+        "webshop_barinbase_large_name": string;
+        "webshop_barinbase_medium_name": string;
+        "webshop_barinbase_small_name": string;
         "webshop_beefgrannarydays_desc": string;
         "webshop_beeftoolsmithdays_desc": string;
         "webshop_berimondInvasion_VIP_name": string;

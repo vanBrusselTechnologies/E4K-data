@@ -50,7 +50,7 @@
       "eventType": "AllianceNomadInvasion",
       "hubType": "Adventure",
       "eventDuration": "Long",
-      "eventExtensionUnlock": 70,
+      "eventExtensionUnlock": 10,
       "minLevel": 10,
       "maxLevel": 99,
       "leaguetypeEventsIDs": "52,53,54,55,56,57,58,59,60"
@@ -258,7 +258,7 @@
       "hubType": "Adventure",
       "eventDuration": "Long",
       "merchantID": 14,
-      "minLevel": 70,
+      "minLevel": 10,
       "maxLevel": 99
     },
     {
