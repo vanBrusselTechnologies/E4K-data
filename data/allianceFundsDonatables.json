@@ -1,0 +1,88 @@
+{
+  "allianceFundsDonatable": [
+    {
+      "allianceFundsDonatableID": 1,
+      "resourceID": 3,
+      "directlyByPlayer": 1,
+      "sortOrder": 1
+    },
+    {
+      "allianceFundsDonatableID": 2,
+      "resourceID": 4,
+      "directlyByPlayer": 1,
+      "sortOrder": 2
+    },
+    {
+      "allianceFundsDonatableID": 3,
+      "resourceID": 1,
+      "directlyByPlayer": 1,
+      "sortOrder": 3
+    },
+    {
+      "allianceFundsDonatableID": 4,
+      "resourceID": 2,
+      "directlyByPlayer": 1,
+      "sortOrder": 4
+    },
+    {
+      "allianceFundsDonatableID": 5,
+      "resourceID": 10,
+      "directlyByPlayer": 0,
+      "sortOrder": 5
+    },
+    {
+      "allianceFundsDonatableID": 6,
+      "resourceID": 7,
+      "directlyByPlayer": 0,
+      "sortOrder": 6
+    },
+    {
+      "allianceFundsDonatableID": 7,
+      "resourceID": 8,
+      "directlyByPlayer": 0,
+      "sortOrder": 7
+    },
+    {
+      "allianceFundsDonatableID": 8,
+      "resourceID": 6,
+      "directlyByPlayer": 0,
+      "sortOrder": 8
+    },
+    {
+      "allianceFundsDonatableID": 9,
+      "currencyID": 33,
+      "directlyByPlayer": 0,
+      "sortOrder": 9
+    },
+    {
+      "allianceFundsDonatableID": 10,
+      "currencyID": 34,
+      "directlyByPlayer": 0,
+      "sortOrder": 10
+    },
+    {
+      "allianceFundsDonatableID": 11,
+      "currencyID": 41,
+      "directlyByPlayer": 0,
+      "sortOrder": 11
+    },
+    {
+      "allianceFundsDonatableID": 12,
+      "currencyID": 42,
+      "directlyByPlayer": 0,
+      "sortOrder": 12
+    },
+    {
+      "allianceFundsDonatableID": 13,
+      "currencyID": 43,
+      "directlyByPlayer": 0,
+      "sortOrder": 13
+    },
+    {
+      "allianceFundsDonatableID": 14,
+      "currencyID": 44,
+      "directlyByPlayer": 0,
+      "sortOrder": 14
+    }
+  ]
+}

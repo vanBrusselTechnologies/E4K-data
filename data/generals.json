@@ -302,6 +302,44 @@
       "upgradeCurrencyIDs": "10000,10015",
       "isPreview": 0,
       "isNPCGeneral": 0
+    },
+    {
+      "generalID": 126,
+      "crossplayID": 126,
+      "generalName": "Edric",
+      "attackSlots": 101261,
+      "defenseSlots": 101266,
+      "generalRarityID": 1,
+      "maxLevel": 60,
+      "maxStarLevel": 5,
+      "unlockCurrencyID": 10016,
+      "upgradeCurrencyIDs": "10000,10016",
+      "isPreview": 0,
+      "isNPCGeneral": 0
+    },
+    {
+      "generalID": 127,
+      "crossplayID": 127,
+      "generalName": "Barin",
+      "generalRarityID": 3,
+      "maxLevel": 100,
+      "maxStarLevel": 10,
+      "unlockCurrencyID": 10000,
+      "upgradeCurrencyIDs": "10000,10000",
+      "isPreview": 1,
+      "isNPCGeneral": 0
+    },
+    {
+      "generalID": 124,
+      "crossplayID": 124,
+      "generalName": "Ashira",
+      "generalRarityID": 3,
+      "maxLevel": 100,
+      "maxStarLevel": 10,
+      "unlockCurrencyID": 10000,
+      "upgradeCurrencyIDs": "10000,10000",
+      "isPreview": 1,
+      "isNPCGeneral": 0
     }
   ]
 }

@@ -743,6 +743,13 @@
       "assetName": "KaelrithToken"
     },
     {
+      "currencyID": 6014,
+      "crossplayID": 6014,
+      "Name": "EdricToken",
+      "JSONKey": "EDR",
+      "assetName": "EdricToken"
+    },
+    {
       "currencyID": 10000,
       "crossplayID": 10000,
       "Name": "ShardUniversal",
@@ -839,6 +846,13 @@
       "Name": "ShardKaelrith",
       "JSONKey": "SKL",
       "assetName": "ShardKaelrith"
+    },
+    {
+      "currencyID": 10016,
+      "crossplayID": 10016,
+      "Name": "ShardEdric",
+      "JSONKey": "SDR",
+      "assetName": "ShardEdric"
     },
     {
       "currencyID": 9999,

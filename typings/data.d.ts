@@ -13,6 +13,7 @@ export interface Data {
     allianceCoatLayouts: AllianceCoatLayout[];
     alliancefameranks: AllianceFameRank[];
     allianceforges: AllianceForge[];
+    allianceFundsDonatables: allianceFundsDonatables[];
     alliancehelprequests: AllianceHelpRequest[];
     allianceInvasionCamps: AllianceInvasionCamp[];
     alliancerankrights: AllianceRankRight[];
@@ -423,6 +424,14 @@ export interface AllianceForge {
     "level": number;
 }
 
+export interface allianceFundsDonatables {
+    "allianceFundsDonatableID": number;
+    "currencyID"?: number;
+    "directlyByPlayer": number;
+    "resourceID"?: number;
+    "sortOrder": number;
+}
+
 export interface AllianceHelpRequest {
     "allianceHelpRequestID": number;
     "allianceRepairBuilding"?: number;
@@ -605,6 +614,7 @@ export interface BuildingPosition {
 }
 
 export interface Building {
+    "Beefboost"?: number;
     "Beefproduction"?: number;
     "Coalboost"?: number;
     "Coalproduction"?: number;
@@ -2959,6 +2969,7 @@ export interface Reward {
     "addDragonScaleSplinters"?: number;
     "addDragonScaleTile"?: number;
     "addDragonriderLTPEToken"?: number;
+    "addEdricToken"?: number;
     "addEpicBoosterConsumable"?: number;
     "addEpicCobblestone"?: number;
     "addFatKingToken"?: number;
@@ -3012,6 +3023,7 @@ export interface Reward {
     "addShardAlice"?: number;
     "addShardAlyssa"?: number;
     "addShardDiana"?: number;
+    "addShardEdric"?: number;
     "addShardGarrik"?: number;
     "addShardHasan"?: number;
     "addShardHoratio"?: number;

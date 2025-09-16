@@ -964,6 +964,8 @@ export interface Images {
     "DaimyoTownship_Support": ImageData;
     "DaimyoTownship_Support_ui": ImageData;
     "DecoDistrict2x2_Building_Level1": ImageData;
+    "Deco_Building_AMEExaltedRedBlade": ImageData;
+    "Deco_Building_AMEExaltedRedTrainingGround": ImageData;
     "Deco_Building_AlchemistDistrictDeco": ImageData;
     "Deco_Building_AlienStatuePond": ImageData;
     "Deco_Building_Anniversary10Year": ImageData;
@@ -1085,12 +1087,15 @@ export interface Images {
     "Deco_Building_ExaltedCarnivalGondola": ImageData;
     "Deco_Building_ExaltedGreenAnniversaryBalloon": ImageData;
     "Deco_Building_ExaltedGreenAnniversaryCake": ImageData;
+    "Deco_Building_ExaltedGreenBeerBarrelWell": ImageData;
+    "Deco_Building_ExaltedGreenBeerPavilon": ImageData;
     "Deco_Building_ExaltedGreenChristmasFountain": ImageData;
     "Deco_Building_ExaltedGreenChristmasPresentStash": ImageData;
     "Deco_Building_ExaltedGreenEasterHotspring": ImageData;
     "Deco_Building_ExaltedGreenEasterRuins": ImageData;
     "Deco_Building_ExaltedGreenFrostFountain": ImageData;
     "Deco_Building_ExaltedGreenFuryBlade": ImageData;
+    "Deco_Building_ExaltedGreenKegForest": ImageData;
     "Deco_Building_ExaltedGreenLavaMountainOfWrath": ImageData;
     "Deco_Building_ExaltedGreenLavaScorpionTemple": ImageData;
     "Deco_Building_ExaltedGreenLavaShrineofDuality": ImageData;
@@ -1108,12 +1113,14 @@ export interface Images {
     "Deco_Building_ExaltedPedestalofPassionateLove": ImageData;
     "Deco_Building_ExaltedPurpleAnniversaryBalloon": ImageData;
     "Deco_Building_ExaltedPurpleAnniversaryCake": ImageData;
+    "Deco_Building_ExaltedPurpleBeerPavilon": ImageData;
     "Deco_Building_ExaltedPurpleChristmasFountain": ImageData;
     "Deco_Building_ExaltedPurpleChristmasPyramid": ImageData;
     "Deco_Building_ExaltedPurpleEasterHotspring": ImageData;
     "Deco_Building_ExaltedPurpleEasterRuins": ImageData;
     "Deco_Building_ExaltedPurpleFrostFountain": ImageData;
     "Deco_Building_ExaltedPurpleFuryBlade": ImageData;
+    "Deco_Building_ExaltedPurpleKegForest": ImageData;
     "Deco_Building_ExaltedPurpleLavaMountainOfWrath": ImageData;
     "Deco_Building_ExaltedPurpleLavaScorpionTemple": ImageData;
     "Deco_Building_ExaltedPurpleLavaShrineofDuality": ImageData;
@@ -1125,12 +1132,14 @@ export interface Images {
     "Deco_Building_ExaltedPurpleWaterSpiderTemple": ImageData;
     "Deco_Building_ExaltedRedAnniversaryBalloon": ImageData;
     "Deco_Building_ExaltedRedAnniversaryCake": ImageData;
+    "Deco_Building_ExaltedRedBeerPavilon": ImageData;
     "Deco_Building_ExaltedRedChristmasFountain": ImageData;
     "Deco_Building_ExaltedRedChristmasStall": ImageData;
     "Deco_Building_ExaltedRedEasterHotspring": ImageData;
     "Deco_Building_ExaltedRedEasterRuins": ImageData;
     "Deco_Building_ExaltedRedFrostFountain": ImageData;
     "Deco_Building_ExaltedRedFuryBlade": ImageData;
+    "Deco_Building_ExaltedRedKegForest": ImageData;
     "Deco_Building_ExaltedRedLavaMountainOfWrath": ImageData;
     "Deco_Building_ExaltedRedLavaScorpionTemple": ImageData;
     "Deco_Building_ExaltedRedLavaShrineofDuality": ImageData;
@@ -4611,6 +4620,7 @@ export interface Images {
     "Teaser_OffersHub_Big_WhaleChest_13": ImageData;
     "Teaser_OffersHub_Big_WhaleChest_14": ImageData;
     "Teaser_OffersHub_Big_WhaleChest_15": ImageData;
+    "Teaser_OffersHub_Big_WhaleChest_16": ImageData;
     "Teaser_OffersHub_Big_WhaleChest_20": ImageData;
     "Teaser_OffersHub_Big_WhaleChest_21": ImageData;
     "Teaser_OffersHub_Big_WhaleChest_22": ImageData;
@@ -5009,6 +5019,7 @@ export interface Images {
     "giantsForestlumbermill": ImageData;
     "global_primetime_background_Anniversary2024": ImageData;
     "global_primetime_background_IndependenceDay2024": ImageData;
+    "global_primetime_background_Oktoberfest2024": ImageData;
     "global_primetime_background_Spring2024": ImageData;
     "global_primetime_background_StPatricksDay2025": ImageData;
     "global_primetime_background_ValentinesDay2025": ImageData;
@@ -5019,6 +5030,7 @@ export interface Images {
     "global_primetime_hub_teaser_Anniversary2024": ImageData;
     "global_primetime_hub_teaser_Carnival2025": ImageData;
     "global_primetime_hub_teaser_IndependenceDay2024": ImageData;
+    "global_primetime_hub_teaser_Oktoberfest2024": ImageData;
     "global_primetime_hub_teaser_Spring2024": ImageData;
     "global_primetime_hub_teaser_StPatricksDay2025": ImageData;
     "global_primetime_hub_teaser_SummerJuly2024": ImageData;
@@ -5030,6 +5042,7 @@ export interface Images {
     "global_primetime_teaser_Anniversary2024": ImageData;
     "global_primetime_teaser_Carnival2025": ImageData;
     "global_primetime_teaser_IndependenceDay2024": ImageData;
+    "global_primetime_teaser_Oktoberfest2024": ImageData;
     "global_primetime_teaser_Spring2024": ImageData;
     "global_primetime_teaser_StPatricksDay2025": ImageData;
     "global_primetime_teaser_SummerJuly2024": ImageData;
@@ -5175,6 +5188,10 @@ export interface Images {
     "icon_advisor_nomad_camp": ImageData;
     "icon_advisor_nomad_ds": ImageData;
     "icon_advisor_nomad_xs_ds": ImageData;
+    "icon_advisor_samurai_big_ds": ImageData;
+    "icon_advisor_samurai_camp": ImageData;
+    "icon_advisor_samurai_ds": ImageData;
+    "icon_advisor_samurai_xs_ds": ImageData;
     "icon_all": ImageData;
     "icon_all_waves": ImageData;
     "icon_alliance": ImageData;
@@ -6095,6 +6112,11 @@ export interface Images {
     "icon_currency_SaleDaysLuckyWheelTicket_big": ImageData;
     "icon_currency_SaleDaysLuckyWheelTicket_medium": ImageData;
     "icon_currency_SaleDaysLuckyWheelTicket_xl": ImageData;
+    "icon_currency_SamuraiAdvisorToken": ImageData;
+    "icon_currency_SamuraiAdvisorToken_big": ImageData;
+    "icon_currency_SamuraiAdvisorToken_medium": ImageData;
+    "icon_currency_SamuraiAdvisorToken_small": ImageData;
+    "icon_currency_SamuraiAdvisorToken_xl": ImageData;
     "icon_currency_SamuraiMedal": ImageData;
     "icon_currency_SamuraiMedalBoosterKey": ImageData;
     "icon_currency_SamuraiMedalBoosterKey_big": ImageData;
@@ -6723,6 +6745,8 @@ export interface Images {
     "icon_everwinter_paper_dark": ImageData;
     "icon_exchange_flat": ImageData;
     "icon_failure_0": ImageData;
+    "icon_failure_0_nomad": ImageData;
+    "icon_failure_0_samurai": ImageData;
     "icon_failure_1": ImageData;
     "icon_failure_2": ImageData;
     "icon_failure_3": ImageData;
@@ -7292,6 +7316,7 @@ export interface Images {
     "icon_horse_d": ImageData;
     "icon_houseoffire": ImageData;
     "icon_hud_advisor_nomad": ImageData;
+    "icon_hud_advisor_samurai": ImageData;
     "icon_hud_attack": ImageData;
     "icon_hud_defense": ImageData;
     "icon_hud_minigame": ImageData;
@@ -7476,6 +7501,7 @@ export interface Images {
     "icon_meleeattackpower": ImageData;
     "icon_memberslist_small": ImageData;
     "icon_message_advisor_nomad": ImageData;
+    "icon_message_advisor_samurai": ImageData;
     "icon_message_maya": ImageData;
     "icon_message_special_event_103": ImageData;
     "icon_message_special_event_106": ImageData;
@@ -7484,6 +7510,7 @@ export interface Images {
     "icon_message_special_event_126": ImageData;
     "icon_message_special_event_127": ImageData;
     "icon_message_special_event_128": ImageData;
+    "icon_message_special_event_129": ImageData;
     "icon_message_special_event_130": ImageData;
     "icon_message_special_event_131": ImageData;
     "icon_message_special_event_3": ImageData;
@@ -7693,6 +7720,7 @@ export interface Images {
     "icon_ranking_rewards_ds_small": ImageData;
     "icon_ranking_small": ImageData;
     "icon_refresh_white": ImageData;
+    "icon_refresh_white_small": ImageData;
     "icon_reinforcedvault_small": ImageData;
     "icon_relic_equipment_smith": ImageData;
     "icon_relic_new_item": ImageData;
@@ -8920,6 +8948,14 @@ export interface Images {
     "teaser_advisor_attack_cancel": ImageData;
     "teaser_advisor_attack_fail": ImageData;
     "teaser_advisor_attack_success": ImageData;
+    "teaser_advisor_nomad_activation": ImageData;
+    "teaser_advisor_nomad_attack_cancel": ImageData;
+    "teaser_advisor_nomad_attack_fail": ImageData;
+    "teaser_advisor_nomad_attack_success": ImageData;
+    "teaser_advisor_samurai_activation": ImageData;
+    "teaser_advisor_samurai_attack_cancel": ImageData;
+    "teaser_advisor_samurai_attack_fail": ImageData;
+    "teaser_advisor_samurai_attack_success": ImageData;
     "teaser_allianceBattleGround_AllianceCollector_Maya_1": ImageData;
     "teaser_allianceBattleGround_AllianceCollector_Maya_2": ImageData;
     "teaser_allianceBattleGround_AllianceCollector_Maya_3": ImageData;

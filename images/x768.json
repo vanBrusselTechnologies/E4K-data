@@ -6476,6 +6476,36 @@
     ],
     "fx": []
   },
+  "Deco_Building_AMEExaltedRedBlade": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_AMEExaltedRedBlade/Deco_Building_AMEExaltedRedBlade.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 306,
+        "h": 270,
+        "rx": 806,
+        "ry": 866
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_AMEExaltedRedTrainingGround": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_AMEExaltedRedTrainingGround/Deco_Building_AMEExaltedRedTrainingGround.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 333,
+        "h": 286,
+        "rx": 804,
+        "ry": 854
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_Anniversary1Year": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_Anniversary1Year/Deco_Building_Anniversary1Year.png",
@@ -8352,6 +8382,36 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedGreenBeerBarrelWell": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedGreenBeerBarrelWell/Deco_Building_ExaltedGreenBeerBarrelWell.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 314,
+        "h": 247,
+        "rx": 817,
+        "ry": 905
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedGreenBeerPavilon": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedGreenBeerPavilon/Deco_Building_ExaltedGreenBeerPavilon.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 796,
+        "h": 474,
+        "rx": 618,
+        "ry": 904
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedGreenChristmasFountain": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_ExaltedGreenChristmasFountain/Deco_Building_ExaltedGreenChristmasFountain.png",
@@ -8438,6 +8498,21 @@
         "h": 261,
         "rx": 793,
         "ry": 870
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedGreenKegForest": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedGreenKegForest/Deco_Building_ExaltedGreenKegForest.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 772,
+        "h": 481,
+        "rx": 631,
+        "ry": 902
       }
     ],
     "fx": []
@@ -8712,6 +8787,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedPurpleBeerPavilon": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedPurpleBeerPavilon/Deco_Building_ExaltedPurpleBeerPavilon.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 795,
+        "h": 474,
+        "rx": 618,
+        "ry": 905
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedPurpleChristmasFountain": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_ExaltedPurpleChristmasFountain/Deco_Building_ExaltedPurpleChristmasFountain.png",
@@ -8798,6 +8888,21 @@
         "h": 261,
         "rx": 793,
         "ry": 870
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedPurpleKegForest": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedPurpleKegForest/Deco_Building_ExaltedPurpleKegForest.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 772,
+        "h": 481,
+        "rx": 631,
+        "ry": 902
       }
     ],
     "fx": []
@@ -8967,6 +9072,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedRedBeerPavilon": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedRedBeerPavilon/Deco_Building_ExaltedRedBeerPavilon.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 796,
+        "h": 475,
+        "rx": 618,
+        "ry": 903
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedRedChristmasFountain": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_ExaltedRedChristmasFountain/Deco_Building_ExaltedRedChristmasFountain.png",
@@ -9053,6 +9173,21 @@
         "h": 261,
         "rx": 793,
         "ry": 870
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedRedKegForest": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedRedKegForest/Deco_Building_ExaltedRedKegForest.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 772,
+        "h": 481,
+        "rx": 631,
+        "ry": 902
       }
     ],
     "fx": []
@@ -56496,7 +56631,7 @@
       {
         "x": 0,
         "y": 0,
-        "w": 2421,
+        "w": 2420,
         "h": 2433,
         "rx": 999,
         "ry": 999
@@ -56571,9 +56706,9 @@
       {
         "x": 0,
         "y": 0,
-        "w": 2422,
+        "w": 2421,
         "h": 2433,
-        "rx": 998,
+        "rx": 999,
         "ry": 999
       }
     ],
@@ -84534,6 +84669,66 @@
     ],
     "fx": []
   },
+  "icon_advisor_samurai_big_ds": {
+    "pid": 1,
+    "url": "x768/Icons/AdvisorIcons/icon_advisor_samurai_big_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 209,
+        "h": 237,
+        "rx": 895,
+        "ry": 881
+      }
+    ],
+    "fx": []
+  },
+  "icon_advisor_samurai_camp": {
+    "pid": 1,
+    "url": "x768/Icons/AdvisorIcons/icon_advisor_samurai_camp.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 189,
+        "h": 189,
+        "rx": 905,
+        "ry": 905
+      }
+    ],
+    "fx": []
+  },
+  "icon_advisor_samurai_ds": {
+    "pid": 1,
+    "url": "x768/Icons/AdvisorIcons/icon_advisor_samurai_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 107,
+        "h": 123,
+        "rx": 946,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
+  "icon_advisor_samurai_xs_ds": {
+    "pid": 1,
+    "url": "x768/Icons/AdvisorIcons/icon_advisor_samurai_xs_ds.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 63,
+        "h": 71,
+        "rx": 968,
+        "ry": 962
+      }
+    ],
+    "fx": []
+  },
   "icon_ci_effect_alien": {
     "pid": 0,
     "url": "x768/Icons/CI_Icons/icon_ci_effect_alien.png",
@@ -89626,9 +89821,9 @@
       {
         "x": 0,
         "y": 0,
-        "w": 57,
+        "w": 67,
         "h": 67,
-        "rx": 971,
+        "rx": 966,
         "ry": 966
       }
     ],
@@ -89641,10 +89836,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 66,
-        "h": 57,
+        "w": 65,
+        "h": 67,
         "rx": 967,
-        "ry": 971
+        "ry": 966
       }
     ],
     "fx": []
@@ -89656,10 +89851,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 67,
-        "h": 63,
-        "rx": 966,
-        "ry": 968
+        "w": 57,
+        "h": 67,
+        "rx": 971,
+        "ry": 966
       }
     ],
     "fx": []
@@ -89671,10 +89866,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 65,
-        "h": 67,
+        "w": 66,
+        "h": 57,
         "rx": 967,
-        "ry": 966
+        "ry": 971
       }
     ],
     "fx": []
@@ -89687,9 +89882,9 @@
         "x": 0,
         "y": 0,
         "w": 67,
-        "h": 67,
+        "h": 63,
         "rx": 966,
-        "ry": 966
+        "ry": 968
       }
     ],
     "fx": []
@@ -100374,6 +100569,81 @@
     ],
     "fx": []
   },
+  "icon_currency_SamuraiAdvisorToken_big": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_SamuraiAdvisorToken_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 94,
+        "rx": 952,
+        "ry": 953
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_SamuraiAdvisorToken_medium": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_SamuraiAdvisorToken_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 77,
+        "h": 77,
+        "rx": 961,
+        "ry": 961
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_SamuraiAdvisorToken_small": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_SamuraiAdvisorToken_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 35,
+        "h": 35,
+        "rx": 982,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_SamuraiAdvisorToken_xl": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_SamuraiAdvisorToken_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 149,
+        "h": 149,
+        "rx": 925,
+        "ry": 925
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_SamuraiAdvisorToken": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_SamuraiAdvisorToken.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 67,
+        "rx": 966,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_SamuraiMedal_big": {
     "pid": 1,
     "url": "x768/Icons/Icons/icon_currency_SamuraiMedal_big.png",
@@ -105294,6 +105564,36 @@
     ],
     "fx": []
   },
+  "icon_failure_0_nomad": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_failure_0_nomad.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 241,
+        "h": 241,
+        "rx": 879,
+        "ry": 879
+      }
+    ],
+    "fx": []
+  },
+  "icon_failure_0_samurai": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_failure_0_samurai.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 192,
+        "h": 170,
+        "rx": 899,
+        "ry": 915
+      }
+    ],
+    "fx": []
+  },
   "icon_failure_0": {
     "pid": 1,
     "url": "x768/Icons/Icons/icon_failure_0.png",
@@ -107225,6 +107525,21 @@
         "h": 119,
         "rx": 941,
         "ry": 940
+      }
+    ],
+    "fx": []
+  },
+  "icon_hud_advisor_samurai": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_hud_advisor_samurai.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 117,
+        "h": 118,
+        "rx": 941,
+        "ry": 941
       }
     ],
     "fx": []
@@ -110930,6 +111245,21 @@
         "h": 84,
         "rx": 953,
         "ry": 958
+      }
+    ],
+    "fx": []
+  },
+  "icon_refresh_white_small": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_refresh_white_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 80,
+        "h": 67,
+        "rx": 960,
+        "ry": 966
       }
     ],
     "fx": []
@@ -124914,6 +125244,21 @@
     ],
     "fx": []
   },
+  "icon_message_special_event_129": {
+    "pid": 1,
+    "url": "x768/Kingdoms/Kingdoms/icon_message_special_event_129.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 69,
+        "h": 70,
+        "rx": 965,
+        "ry": 965
+      }
+    ],
+    "fx": []
+  },
   "icon_message_special_event_130": {
     "pid": 1,
     "url": "x768/Kingdoms/Kingdoms/icon_message_special_event_130.png",
@@ -125059,6 +125404,21 @@
         "w": 69,
         "h": 68,
         "rx": 965,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
+  "icon_message_advisor_samurai": {
+    "pid": 0,
+    "url": "x768/Kingdoms/KingdomsShared/icon_message_advisor_samurai_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 68,
+        "h": 68,
+        "rx": 966,
         "ry": 966
       }
     ],
@@ -129474,6 +129834,126 @@
     ],
     "fx": []
   },
+  "teaser_advisor_nomad_activation": {
+    "pid": 1,
+    "url": "x768/Misc/AdvisorTeasers/teaser_advisor_nomad_activation.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1221,
+        "h": 687,
+        "rx": 389,
+        "ry": 656
+      }
+    ],
+    "fx": []
+  },
+  "teaser_advisor_nomad_attack_cancel": {
+    "pid": 1,
+    "url": "x768/Misc/AdvisorTeasers/teaser_advisor_nomad_attack_cancel.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1221,
+        "h": 413,
+        "rx": 389,
+        "ry": 793
+      }
+    ],
+    "fx": []
+  },
+  "teaser_advisor_nomad_attack_fail": {
+    "pid": 1,
+    "url": "x768/Misc/AdvisorTeasers/teaser_advisor_nomad_attack_fail.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1221,
+        "h": 413,
+        "rx": 389,
+        "ry": 793
+      }
+    ],
+    "fx": []
+  },
+  "teaser_advisor_nomad_attack_success": {
+    "pid": 1,
+    "url": "x768/Misc/AdvisorTeasers/teaser_advisor_nomad_attack_success.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1221,
+        "h": 413,
+        "rx": 389,
+        "ry": 793
+      }
+    ],
+    "fx": []
+  },
+  "teaser_advisor_samurai_activation": {
+    "pid": 0,
+    "url": "x768/Misc/AdvisorTeasers/teaser_advisor_samurai_activation.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1221,
+        "h": 687,
+        "rx": 389,
+        "ry": 656
+      }
+    ],
+    "fx": []
+  },
+  "teaser_advisor_samurai_attack_success": {
+    "pid": 1,
+    "url": "x768/Misc/AdvisorTeasers/teaser_advisor_samurai_attack_success.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1221,
+        "h": 413,
+        "rx": 389,
+        "ry": 793
+      }
+    ],
+    "fx": []
+  },
+  "teaser_advisor_samurai_attack_fail": {
+    "pid": 1,
+    "url": "x768/Misc/AdvisorTeasersShared/teaser_advisor_samurai_attack_cancel_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1221,
+        "h": 413,
+        "rx": 389,
+        "ry": 793
+      }
+    ],
+    "fx": []
+  },
+  "teaser_advisor_samurai_attack_cancel": {
+    "pid": 1,
+    "url": "x768/Misc/AdvisorTeasersShared/teaser_advisor_samurai_attack_cancel_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1221,
+        "h": 413,
+        "rx": 389,
+        "ry": 793
+      }
+    ],
+    "fx": []
+  },
   "Background_GeneralsHub_Back": {
     "pid": 1,
     "url": "x768/Misc/DialogBackgrounds/Background_GeneralsHub_Back.png",
@@ -133194,6 +133674,21 @@
     ],
     "fx": []
   },
+  "global_primetime_background_Oktoberfest2024": {
+    "pid": 1,
+    "url": "x768/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_Oktoberfest2024.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1536,
+        "h": 1731,
+        "rx": 231,
+        "ry": 134
+      }
+    ],
+    "fx": []
+  },
   "global_primetime_background_Spring2024": {
     "pid": 1,
     "url": "x768/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_Spring2024.png",
@@ -133302,6 +133797,21 @@
   "global_primetime_hub_teaser_IndependenceDay2024": {
     "pid": 1,
     "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_IndependenceDay2024.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1537,
+        "h": 1331,
+        "rx": 231,
+        "ry": 334
+      }
+    ],
+    "fx": []
+  },
+  "global_primetime_hub_teaser_Oktoberfest2024": {
+    "pid": 1,
+    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_Oktoberfest2024.png",
     "frames": [
       {
         "x": 0,
@@ -133430,6 +133940,21 @@
         "h": 985,
         "rx": 375,
         "ry": 507
+      }
+    ],
+    "fx": []
+  },
+  "global_primetime_teaser_Oktoberfest2024": {
+    "pid": 1,
+    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_Oktoberfest2024.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1301,
+        "h": 1171,
+        "rx": 349,
+        "ry": 414
       }
     ],
     "fx": []
@@ -134382,6 +134907,21 @@
   "Teaser_OffersHub_Big_WhaleChest_15": {
     "pid": 1,
     "url": "x768/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_15.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1537,
+        "h": 665,
+        "rx": 231,
+        "ry": 667
+      }
+    ],
+    "fx": []
+  },
+  "Teaser_OffersHub_Big_WhaleChest_16": {
+    "pid": 1,
+    "url": "x768/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_16.png",
     "frames": [
       {
         "x": 0,

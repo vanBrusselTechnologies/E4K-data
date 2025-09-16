@@ -1570,6 +1570,7 @@ export interface Language {
         "deco_abyssgold_name": string;
         "deco_agedTimelessKing_name": string;
         "deco_alicesWorkshop_name": string;
+        "deco_ameexaltedredblade_name": string;
         "deco_anniversaryMonument1_name": string;
         "deco_anniversaryPartyEnd_name": string;
         "deco_anniversaryParty_name": string;
@@ -1625,10 +1626,18 @@ export interface Language {
         "deco_eternalblossoms_name": string;
         "deco_eternityGarden_name": string;
         "deco_exaltedCursedSteerport": string;
+        "deco_exaltedGreenBeerBarrelWell_name": string;
+        "deco_exaltedGreenBeerPavilon_name": string;
+        "deco_exaltedGreenKegForest_name": string;
         "deco_exaltedGreenLavaScorpionTemple_name": string;
         "deco_exaltedLivestockHut_name": string;
         "deco_exaltedMysticalSteerport": string;
+        "deco_exaltedPurpleBeerPavilon_name": string;
+        "deco_exaltedPurpleKegForest_name": string;
         "deco_exaltedPurpleLavaScorpionTemple_name": string;
+        "deco_exaltedRedBeerPavilon_name": string;
+        "deco_exaltedRedGrandTournamentTrainingGround_name": string;
+        "deco_exaltedRedKegForest_name": string;
         "deco_exaltedRedLavaScorpionTemple_name": string;
         "deco_exaltedShabbyLivestockHut_name": string;
         "deco_exaltedSteerport": string;
@@ -2329,6 +2338,7 @@ export interface Language {
         "advisor_AttackSummary_victory": string;
         "advisor_attack": string;
         "advisor_attackInfo": string;
+        "advisor_speechBubble_samurai": string;
         "alert_OverwriteOldAccount_details_copy": string;
         "alert_account_deleted_goLoginScreen": string;
         "alert_accountdeleted_login_createNewAccount_copy": string;
@@ -2416,6 +2426,7 @@ export interface Language {
         "bundlePackage_type_equipmentBundle": string;
         "burningBuildings": string;
         "button_SelectCamp_nomad": string;
+        "button_SelectCamp_samurai": string;
         "button_activateAdvisor": string;
         "button_advisorCancelAll": string;
         "button_ame_quest_accept": string;
@@ -2430,7 +2441,7 @@ export interface Language {
         "button_ame_rewards_level": string;
         "button_ame_rewards_ranking": string;
         "button_ame_rules_mode_current_text": string;
-        "button_ame_rules_mode_title_adjustments": string;
+        "button_ame_rules_mode_title_adjustment": string;
         "button_ame_rules_mode_title_normal": string;
         "button_ame_rules_mode_title_qualification": string;
         "button_attackAdvisor": string;
@@ -2759,9 +2770,11 @@ export interface Language {
         "currency_description_LegendaryToken": string;
         "currency_description_LuckySlice": string;
         "currency_description_PearlRelic": string;
+        "currency_description_QuestTicket": string;
         "currency_description_RareFlint": string;
         "currency_description_RoyalCapitalCoin": string;
         "currency_description_SaleDaysLuckyWheelTicket": string;
+        "currency_description_SamuraiAdvisorToken": string;
         "currency_description_SamuraiToken": string;
         "currency_description_SasakiToken": string;
         "currency_description_ShapeShifterBloodpointBoosterKey": string;
@@ -2853,6 +2866,7 @@ export interface Language {
         "currency_name_LuckySlice": string;
         "currency_name_Orange": string;
         "currency_name_SaleDaysLuckyWheelTicket": string;
+        "currency_name_SamuraiAdvisorToken": string;
         "currency_name_SamuraiToken": string;
         "currency_name_SamuraiTokens": string;
         "currency_name_SasakiToken": string;
@@ -2934,6 +2948,7 @@ export interface Language {
         "deco_slayingOfTheWolves_name": string;
         "deco_tamingOfTheWolves_name": string;
         "decorationType": string;
+        "description_advisorInformation_samurai": string;
         "dialog_AllianceLevel_landmarksCapitals": string;
         "dialog_AllianceLevel_landmarksLaboratories": string;
         "dialog_AllianceLevel_landmarksMetropolises": string;
@@ -3683,6 +3698,7 @@ export interface Language {
         "dialog_alliance_toggle_openAlliance": string;
         "dialog_alliance_toggle_searchAlliance": string;
         "dialog_alliance_treasury": string;
+        "dialog_alliance_treasury_version2": string;
         "dialog_alliance_yesNo_changeTo_war": string;
         "dialog_alliance_yesNo_change_noAttack": string;
         "dialog_alliance_yesNo_change_noWar": string;
@@ -9834,6 +9850,7 @@ export interface Language {
         "event_title_123": string;
         "event_title_127": string;
         "event_title_128": string;
+        "event_title_129": string;
         "event_title_13": string;
         "event_title_130": string;
         "event_title_131": string;
@@ -10673,6 +10690,8 @@ export interface Language {
         "ingame_server_outage_title": string;
         "instantBuild_skipBuilding_text_v2": string;
         "intro_advisor_nomad_short": string;
+        "intro_advisor_samurai": string;
+        "intro_advisor_samurai_short": string;
         "ironStorage_capacityBonus_tt": string;
         "isUnique": string;
         "island_dungeon_desc": string;
@@ -11228,6 +11247,7 @@ export interface Language {
         "popup_ame_purchase_quest_attempt": string;
         "popup_ame_purchase_quest_attempt_item_info_text": string;
         "popup_ame_purchase_quest_attempt_name": string;
+        "popup_ame_quest_claim_notification": string;
         "popup_ame_quest_header": string;
         "popup_ame_quest_requirement_1": string;
         "popup_ame_quest_requirement_10": string;
@@ -11297,6 +11317,7 @@ export interface Language {
         "popup_ame_quest_requirement_9": string;
         "popup_ame_quest_requirement_title": string;
         "popup_ame_quest_reward": string;
+        "popup_ame_quest_reward_title": string;
         "popup_ame_quest_ticket_counter": string;
         "popup_ame_quest_ticket_counter_limit_tooltip": string;
         "popup_ame_quest_ticket_counter_tooltip": string;
@@ -12199,6 +12220,7 @@ export interface Language {
         "title_advisor_buyToken": string;
         "title_advisor_freeToken": string;
         "title_advisor_nomad": string;
+        "title_advisor_samurai": string;
         "title_christmasgacha": string;
         "today": string;
         "tomorrow": string;
@@ -13040,6 +13062,7 @@ export interface Language {
         "webshop_paymentShop_primeTime_title": string;
         "webshop_permacastellan_desc": string;
         "webshop_permacommander_desc": string;
+        "webshop_piratesWoodcutterTCI_desc": string;
         "webshop_purchase_amount": string;
         "webshop_purchase_checkout": string;
         "webshop_purchase_dailyBundle_desc": string;
@@ -13588,6 +13611,7 @@ export interface Language {
         "effect_name_allianceDefenseUnitAmountYardBonusCapped": string;
         "effect_name_attackBoostYard": string;
         "effect_name_attackBoostYardCapped": string;
+        "effect_name_attackSupportUnitsStrong": string;
         "effect_name_attackUnitAmountFlankCapped": string;
         "effect_name_attackUnitAmountFront": string;
         "effect_name_attackUnitAmountFrontCapped": string;
@@ -13738,6 +13762,7 @@ export interface Language {
         "equip_effect_description_attackMalusConquerBaron": string;
         "equip_effect_description_attackMalusPVE": string;
         "equip_effect_description_attackMalusPVP": string;
+        "equip_effect_description_attackSupportUnitsStrong": string;
         "equip_effect_description_attackUnitAmountFlank": string;
         "equip_effect_description_attackUnitAmountFlankAlien": string;
         "equip_effect_description_attackUnitAmountFlankBerimondInvasion": string;
