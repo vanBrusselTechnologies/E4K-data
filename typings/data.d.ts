@@ -13,7 +13,7 @@ export interface Data {
     allianceCoatLayouts: AllianceCoatLayout[];
     alliancefameranks: AllianceFameRank[];
     allianceforges: AllianceForge[];
-    allianceFundsDonatables: allianceFundsDonatables[];
+    allianceFundsDonatables: AllianceFundsDonatable[];
     alliancehelprequests: AllianceHelpRequest[];
     allianceInvasionCamps: AllianceInvasionCamp[];
     alliancerankrights: AllianceRankRight[];
@@ -424,7 +424,7 @@ export interface AllianceForge {
     "level": number;
 }
 
-export interface allianceFundsDonatables {
+export interface AllianceFundsDonatable {
     "allianceFundsDonatableID": number;
     "currencyID"?: number;
     "directlyByPlayer": number;

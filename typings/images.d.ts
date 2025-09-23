@@ -6496,6 +6496,7 @@ export interface Images {
     "icon_effect_attackBoostFlank": ImageData;
     "icon_effect_attackBoostFront": ImageData;
     "icon_effect_attackBoostYard": ImageData;
+    "icon_effect_attackSupportUnits": ImageData;
     "icon_effect_attackUnitAmountBoost": ImageData;
     "icon_effect_attackUnitAmountFlank": ImageData;
     "icon_effect_attackUnitAmountFront": ImageData;
@@ -6679,6 +6680,7 @@ export interface Images {
     "icon_event_123": ImageData;
     "icon_event_127": ImageData;
     "icon_event_128": ImageData;
+    "icon_event_129": ImageData;
     "icon_event_130": ImageData;
     "icon_event_131": ImageData;
     "icon_event_3": ImageData;
@@ -6717,6 +6719,7 @@ export interface Images {
     "icon_event_small_106": ImageData;
     "icon_event_small_113": ImageData;
     "icon_event_small_123": ImageData;
+    "icon_event_small_129": ImageData;
     "icon_event_small_3": ImageData;
     "icon_event_small_71": ImageData;
     "icon_event_small_72": ImageData;
@@ -6730,6 +6733,7 @@ export interface Images {
     "icon_event_xl_113": ImageData;
     "icon_event_xl_127": ImageData;
     "icon_event_xl_128": ImageData;
+    "icon_event_xl_129": ImageData;
     "icon_event_xl_130": ImageData;
     "icon_event_xl_131": ImageData;
     "icon_event_xxs": ImageData;

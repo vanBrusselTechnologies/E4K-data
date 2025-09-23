@@ -85352,8 +85352,8 @@
         "x": 0,
         "y": 0,
         "w": 98,
-        "h": 102,
-        "rx": 951,
+        "h": 101,
+        "rx": 950,
         "ry": 949
       }
     ],
@@ -85366,8 +85366,8 @@
       {
         "x": 0,
         "y": 0,
-        "w": 98,
-        "h": 102,
+        "w": 97,
+        "h": 101,
         "rx": 951,
         "ry": 949
       }
@@ -105264,6 +105264,21 @@
     ],
     "fx": []
   },
+  "icon_event_129": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_event_129.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 73,
+        "h": 59,
+        "rx": 963,
+        "ry": 970
+      }
+    ],
+    "fx": []
+  },
   "icon_event_130": {
     "pid": 0,
     "url": "x384/Icons/Icons/icon_event_130.png",
@@ -105444,6 +105459,21 @@
     ],
     "fx": []
   },
+  "icon_event_small_129": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_event_small_129.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 34,
+        "h": 28,
+        "rx": 983,
+        "ry": 986
+      }
+    ],
+    "fx": []
+  },
   "icon_event_small": {
     "pid": 0,
     "url": "x384/Icons/Icons/icon_event_small.png",
@@ -105499,6 +105529,21 @@
         "w": 101,
         "h": 105,
         "rx": 949,
+        "ry": 947
+      }
+    ],
+    "fx": []
+  },
+  "icon_event_xl_129": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_event_xl_129.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 127,
+        "h": 105,
+        "rx": 936,
         "ry": 947
       }
     ],
@@ -117454,6 +117499,21 @@
         "w": 35,
         "h": 35,
         "rx": 982,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "icon_effect_attackSupportUnits": {
+    "pid": 0,
+    "url": "x384/Icons/IconsShared/icon_effect_attackSupportUnits_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 33,
+        "h": 35,
+        "rx": 983,
         "ry": 982
       }
     ],
