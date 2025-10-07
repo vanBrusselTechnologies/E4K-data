@@ -842,7 +842,11 @@
     "info_attack_threshold": "あなたは攻撃の1日の制限に達しました。新しい攻撃はすべて、今後、コストが増加し、指数関数的に上昇します。",
     "title_attack_threshold": "攻撃コストの増加",
     "info_advisor_warning_commander": "このタイプの指揮官はアドバイザー攻撃に使用できません。アドバイザー攻撃を開始するには、別の指揮官に切り替えてください。",
-    "title_advisor_warning_commander": "注意!"
+    "title_advisor_warning_commander": "注意!",
+    "errorCode_454": "別のクエストがアクティブな間はクエストを開始できません。",
+    "errorCode_455": "クエストはクールダウン中は開始できません。",
+    "errorCode_459": "このクエストは現在他のプレイヤーによって占有されています",
+    "errorCode_400": "クエスト情報が変更されました。"
   },
   "buildings_and_decorations": {
     "bakery_name": "パン屋",
@@ -13053,7 +13057,7 @@
     "popup_ame_quest_title_7": "24時間タイムスキップの支出者",
     "popup_ame_quest_title_8": "ガラスの分配器",
     "popup_ame_quest_title_9": "コールスぺンダー",
-    "popup_ame_ranking_row_title": "階級",
+    "popup_ame_ranking_row_title": "階級 {0}",
     "popup_ame_rewardsUnlocked_desc": "あなたの同盟はすでにグランドトーナメントレベル{0}に達しています！あなたの貢献は見逃されておらず、あなたの行動を称えるために、同盟の資金に対して以下の報酬が授与されました：",
     "popup_ame_rewardsUnlocked_title": "同盟報酬を受け取りました",
     "popup_ame_rewards_division_name_3": "ブロンズ",
@@ -13186,7 +13190,19 @@
     "intro_advisor_samurai_short": "侍の侵略中、ダウンタイムなしで侍キャンプに連続攻撃を仕掛けます。",
     "title_advisor_samurai": "侍アドバイザー",
     "currency_description_QuestTicket": "クエストチケットは、グランドトーナメントのクエストを受けるために必要です。イベントごとに1枚追加で購入できます。購入したチケットは将来のグランドトーナメントに持ち越されません！",
-    "popup_ame_quest_reward_title": "報酬"
+    "popup_ame_quest_reward_title": "報酬",
+    "popup_ame_end_generic": "グランドトーナメントが終了しました。あなたの同盟がランキング報酬の対象であった場合は、報酬ハブを確認してください！",
+    "popup_ame_end_generic_title": "イベント終了",
+    "dialogue_are_activityreward_nexttier": "次の階層",
+    "dialogue_are_activityreward_promotionreward_tooltip": "報酬は次のティアを解除するとすぐに付与されます。収集した報酬はチェックマークアイコンでマークされます。",
+    "dialogue_are_activityreward_rank": "ティア {0}",
+    "dialogue_are_activityreward_tierreward": "ティア報酬",
+    "dialogue_are_activityreward_tierunlocked": "ティアが解除されました",
+    "dialogue_are_activityreward_title": "アクティビティ報酬",
+    "dialogue_are_activityreward_unlockreward": "{0}: 報酬を解除",
+    "dialogue_are_eventended_description": "あなたの努力にもかかわらず、敵はまだ立っています。ボスは割り当てられた時間内に倒されず、その力は壊れていません。あなたの戦士たちは勇敢に戦いましたが、敵はあまりにも大きすぎました。機会は失われました - 今のところ。心を整えよ、指揮官。別のチャンスが来るでしょう、そしてそれに伴い、再び攻撃する呼びかけがあるでしょう。",
+    "dialogue_are_ringmenu_enter": "イベントを入力",
+    "dialogue_are_title": "リフト襲撃"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% ユニットの攻撃時の戦闘力",
@@ -14578,7 +14594,8 @@
     "effect_name_attackSupportUnitsStrong": "{0}の支援を受けながら中庭攻撃を行う",
     "equip_effect_description_attackSupportUnitsStrong": "{0} {1}から中庭攻撃の支援を受ける",
     "equip_description_AttackBoostYardDecoCapped": "+{0}% 中庭攻撃力",
-    "ci_effect_survivalBoost": "+{0}% 防御後に生き残った兵士が増加"
+    "ci_effect_survivalBoost": "+{0}% 防御後に生き残った兵士が増加",
+    "effect_description_attackBoostYardDecoCapped": "+{0}% 中庭攻撃力"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "英雄",
@@ -18743,7 +18760,11 @@
     "equipment_unique_1353": "クリスマス・ウォーハンマー",
     "equipment_unique_1353_desc": "あなたの城を冬の喜びの鍛冶場に変え、巨大な金床が中心で輝き、高くそびえる剣が祝祭の光と装飾で輝く、祝祭と力のための楽しい記念碑。",
     "equipment_unique_1354": "クリスマス・ウォーハンマー",
-    "equipment_unique_1354_desc": "あなたの城を冬の喜びの鍛冶場に変え、巨大な金床が中心で輝き、高くそびえる剣が祝祭の光と装飾で輝く、祝祭と力のための楽しい記念碑。"
+    "equipment_unique_1354_desc": "あなたの城を冬の喜びの鍛冶場に変え、巨大な金床が中心で輝き、高くそびえる剣が祝祭の光と装飾で輝く、祝祭と力のための楽しい記念碑。",
+    "equipment_unique_1355": "変装の杖",
+    "equipment_unique_1355_desc": "あなたの城を呪われた王国に変身させます。",
+    "equipment_unique_1356": "魂のキャンドル",
+    "equipment_unique_1356_desc": "城を不気味な邸宅に変身させます。効果は7日間続きます。"
   },
   "generic": {
     "activity": "アクティビティ",

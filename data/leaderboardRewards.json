@@ -3422,6 +3422,256 @@
       "maxRank": 1000,
       "rewardIDs": 16718,
       "leagueID": 1
+    },
+    {
+      "leaderboardRewardID": 370,
+      "comment1": "AME Ranking Rewards",
+      "comment2": "Gold 1",
+      "eventTypeID": 129,
+      "leaderboardRewardSetID": 1,
+      "maxRank": 1,
+      "rewardIDs": "8794,8835",
+      "leagueID": 5
+    },
+    {
+      "leaderboardRewardID": 371,
+      "comment1": "AME Ranking Rewards",
+      "comment2": "Gold 2",
+      "eventTypeID": 129,
+      "leaderboardRewardSetID": 1,
+      "maxRank": 2,
+      "rewardIDs": "8795,8836",
+      "leagueID": 5
+    },
+    {
+      "leaderboardRewardID": 372,
+      "comment1": "AME Ranking Rewards",
+      "comment2": "Gold 3",
+      "eventTypeID": 129,
+      "leaderboardRewardSetID": 1,
+      "maxRank": 3,
+      "rewardIDs": "8796,8837",
+      "leagueID": 5
+    },
+    {
+      "leaderboardRewardID": 373,
+      "comment1": "AME Ranking Rewards",
+      "comment2": "Gold 4-5",
+      "eventTypeID": 129,
+      "leaderboardRewardSetID": 1,
+      "maxRank": 5,
+      "rewardIDs": 8797,
+      "leagueID": 5
+    },
+    {
+      "leaderboardRewardID": 374,
+      "comment1": "AME Ranking Rewards",
+      "comment2": "Silver 1",
+      "eventTypeID": 129,
+      "leaderboardRewardSetID": 1,
+      "maxRank": 1,
+      "rewardIDs": 8798,
+      "leagueID": 4
+    },
+    {
+      "leaderboardRewardID": 375,
+      "comment1": "AME Ranking Rewards",
+      "comment2": "Silver 2",
+      "eventTypeID": 129,
+      "leaderboardRewardSetID": 1,
+      "maxRank": 2,
+      "rewardIDs": 8799,
+      "leagueID": 4
+    },
+    {
+      "leaderboardRewardID": 376,
+      "comment1": "AME Ranking Rewards",
+      "comment2": "Silver 3",
+      "eventTypeID": 129,
+      "leaderboardRewardSetID": 1,
+      "maxRank": 3,
+      "rewardIDs": 8800,
+      "leagueID": 4
+    },
+    {
+      "leaderboardRewardID": 377,
+      "comment1": "AME Ranking Rewards",
+      "comment2": "Silver 4-5",
+      "eventTypeID": 129,
+      "leaderboardRewardSetID": 1,
+      "maxRank": 5,
+      "rewardIDs": 8801,
+      "leagueID": 4
+    },
+    {
+      "leaderboardRewardID": 378,
+      "comment1": "AME Ranking Rewards",
+      "comment2": "Bronze 1",
+      "eventTypeID": 129,
+      "leaderboardRewardSetID": 1,
+      "maxRank": 1,
+      "rewardIDs": 8802,
+      "leagueID": 3
+    },
+    {
+      "leaderboardRewardID": 379,
+      "comment1": "AME Ranking Rewards",
+      "comment2": "Bronze 2",
+      "eventTypeID": 129,
+      "leaderboardRewardSetID": 1,
+      "maxRank": 2,
+      "rewardIDs": 8803,
+      "leagueID": 3
+    },
+    {
+      "leaderboardRewardID": 380,
+      "comment1": "AME Ranking Rewards",
+      "comment2": "Bronze 3",
+      "eventTypeID": 129,
+      "leaderboardRewardSetID": 1,
+      "maxRank": 3,
+      "rewardIDs": 8804,
+      "leagueID": 3
+    },
+    {
+      "leaderboardRewardID": 381,
+      "comment1": "AME Ranking Rewards",
+      "comment2": "Bronze 4-6",
+      "eventTypeID": 129,
+      "leaderboardRewardSetID": 1,
+      "maxRank": 6,
+      "rewardIDs": 8805,
+      "leagueID": 3
+    },
+    {
+      "leaderboardRewardID": 382,
+      "comment1": "AME Ranking Rewards",
+      "comment2": "Glass 1",
+      "eventTypeID": 129,
+      "leaderboardRewardSetID": 1,
+      "maxRank": 1,
+      "rewardIDs": 8806,
+      "leagueID": 2
+    },
+    {
+      "leaderboardRewardID": 383,
+      "comment1": "AME Ranking Rewards",
+      "comment2": "Glass 2",
+      "eventTypeID": 129,
+      "leaderboardRewardSetID": 1,
+      "maxRank": 2,
+      "rewardIDs": 8807,
+      "leagueID": 2
+    },
+    {
+      "leaderboardRewardID": 384,
+      "comment1": "AME Ranking Rewards",
+      "comment2": "Glass 3",
+      "eventTypeID": 129,
+      "leaderboardRewardSetID": 1,
+      "maxRank": 3,
+      "rewardIDs": 8808,
+      "leagueID": 2
+    },
+    {
+      "leaderboardRewardID": 385,
+      "comment1": "AME Ranking Rewards",
+      "comment2": "Glass 4-8",
+      "eventTypeID": 129,
+      "leaderboardRewardSetID": 1,
+      "maxRank": 8,
+      "rewardIDs": 8809,
+      "leagueID": 2
+    },
+    {
+      "leaderboardRewardID": 386,
+      "comment1": "AME Ranking Rewards",
+      "comment2": "Copper 1",
+      "eventTypeID": 129,
+      "leaderboardRewardSetID": 1,
+      "maxRank": 1,
+      "rewardIDs": 8810,
+      "leagueID": 1
+    },
+    {
+      "leaderboardRewardID": 387,
+      "comment1": "AME Ranking Rewards",
+      "comment2": "Copper 2",
+      "eventTypeID": 129,
+      "leaderboardRewardSetID": 1,
+      "maxRank": 2,
+      "rewardIDs": 8811,
+      "leagueID": 1
+    },
+    {
+      "leaderboardRewardID": 388,
+      "comment1": "AME Ranking Rewards",
+      "comment2": "Copper 3",
+      "eventTypeID": 129,
+      "leaderboardRewardSetID": 1,
+      "maxRank": 3,
+      "rewardIDs": 8812,
+      "leagueID": 1
+    },
+    {
+      "leaderboardRewardID": 389,
+      "comment1": "AME Ranking Rewards",
+      "comment2": "Copper 4-10",
+      "eventTypeID": 129,
+      "leaderboardRewardSetID": 1,
+      "maxRank": 10,
+      "rewardIDs": 8813,
+      "leagueID": 1
+    },
+    {
+      "leaderboardRewardID": 390,
+      "comment1": "AME Ranking Rewards - Temporary",
+      "comment2": "Copper 1",
+      "eventTypeID": 129,
+      "leaderboardRewardSetID": 2,
+      "maxRank": 1,
+      "rewardIDs": 8830,
+      "leagueID": 1
+    },
+    {
+      "leaderboardRewardID": 391,
+      "comment1": "AME Ranking Rewards - Temporary",
+      "comment2": "Copper 2",
+      "eventTypeID": 129,
+      "leaderboardRewardSetID": 2,
+      "maxRank": 2,
+      "rewardIDs": 8831,
+      "leagueID": 1
+    },
+    {
+      "leaderboardRewardID": 392,
+      "comment1": "AME Ranking Rewards - Temporary",
+      "comment2": "Copper 3",
+      "eventTypeID": 129,
+      "leaderboardRewardSetID": 2,
+      "maxRank": 3,
+      "rewardIDs": 8832,
+      "leagueID": 1
+    },
+    {
+      "leaderboardRewardID": 393,
+      "comment1": "AME Ranking Rewards - Temporary",
+      "comment2": "Copper 4-7",
+      "eventTypeID": 129,
+      "leaderboardRewardSetID": 2,
+      "maxRank": 7,
+      "rewardIDs": 8833,
+      "leagueID": 1
+    },
+    {
+      "leaderboardRewardID": 394,
+      "comment1": "AME Ranking Rewards - Temporary",
+      "comment2": "Copper 8-10",
+      "eventTypeID": 129,
+      "leaderboardRewardSetID": 2,
+      "maxRank": 10,
+      "rewardIDs": 8834,
+      "leagueID": 1
     }
   ]
 }

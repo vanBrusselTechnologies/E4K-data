@@ -842,7 +842,11 @@
     "info_attack_threshold": "Sie haben das tägliche Limit an Angriffen erreicht. Jeder neue Angriff wird nun höhere Kosten verursachen, die exponentiell steigen.",
     "title_attack_threshold": "Erhöhte Angriffskosten",
     "info_advisor_warning_commander": "Dieser Typ Kommandant kann nicht für Beraterangriffe verwendet werden. Um Beraterangriffe starten zu können, wechseln Sie bitte zu einem anderen Kommandanten.",
-    "title_advisor_warning_commander": "Achtung!"
+    "title_advisor_warning_commander": "Achtung!",
+    "errorCode_454": "Kann eine Quest nicht starten, während eine andere aktiv ist.",
+    "errorCode_455": "Kann Quest nicht starten, während es abkühlt.",
+    "errorCode_459": "Diese Quest ist derzeit von einem anderen Spieler besetzt",
+    "errorCode_400": "Quest-Informationen haben sich geändert."
   },
   "buildings_and_decorations": {
     "bakery_name": "Bäckerei",
@@ -13053,7 +13057,7 @@
     "popup_ame_quest_title_7": "24h Zeitüberspringer",
     "popup_ame_quest_title_8": "Glasspender",
     "popup_ame_quest_title_9": "Kohleausgeber",
-    "popup_ame_ranking_row_title": "Rang",
+    "popup_ame_ranking_row_title": "Rang {0}",
     "popup_ame_rewardsUnlocked_desc": "Deine Allianz hat bereits das Grand Tournament Level {0} erreicht! Dein Beitrag ist nicht unbemerkt geblieben, und du hast die folgenden Belohnungen für die Mittel deiner Allianz erhalten als Anerkennung für deine Taten:",
     "popup_ame_rewardsUnlocked_title": "Allianzbelohnung erhalten",
     "popup_ame_rewards_division_name_3": "Bronze",
@@ -13186,7 +13190,19 @@
     "intro_advisor_samurai_short": "W?hrend der Samurai-Invasion f?hren Sie auf Samurai-Lager aufeinanderfolgende Angriffe ohne Ausfallzeiten durch.",
     "title_advisor_samurai": "Samurai-Berater",
     "currency_description_QuestTicket": "Quest-Tickets sind erforderlich, um Quests im Grand Tournament anzunehmen. Sie können pro Veranstaltung 1 zusätzlich kaufen. Gekaufte Tickets werden nicht auf zukünftige Grand Tournaments übertragen!",
-    "popup_ame_quest_reward_title": "Belohnung"
+    "popup_ame_quest_reward_title": "Belohnung",
+    "popup_ame_end_generic": "Das große Turnier ist beendet. Wenn Ihre Allianz für Rangbelohnungen berechtigt war, überprüfen Sie den Belohnungshub!",
+    "popup_ame_end_generic_title": "Ereignisende",
+    "dialogue_are_activityreward_nexttier": "N?chste Stufe",
+    "dialogue_are_activityreward_promotionreward_tooltip": "Belohnungen werden gew?hrt, sobald Sie die n?chste Stufe freischalten. Gesammelte Belohnungen sind mit einem H?kchen-Symbol gekennzeichnet.",
+    "dialogue_are_activityreward_rank": "STUFE {0}",
+    "dialogue_are_activityreward_tierreward": "Stufenbelohnung",
+    "dialogue_are_activityreward_tierunlocked": "Stufe freigeschaltet",
+    "dialogue_are_activityreward_title": "Aktivit?tsbelohnung",
+    "dialogue_are_activityreward_unlockreward": "{0}: Belohnungen freischalten",
+    "dialogue_are_eventended_description": "Trotz deiner Bem?hungen steht der Feind noch. Der Boss wurde nicht innerhalb der vorgegebenen Zeit besiegt, und seine St?rke bleibt ungebrochen. Deine Krieger haben tapfer gek?mpft, aber der Feind erwies sich als zu gro?. Die Gelegenheit ist verloren - vorerst. R?ste dich, Commander. Eine neue Chance wird kommen, und mit ihr der Aufruf, erneut zuzuschlagen.",
+    "dialogue_are_ringmenu_enter": "Ereignis eingeben",
+    "dialogue_are_title": "Riss?berfall"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% Einheit Kampfkraft beim Angreifen",
@@ -14578,7 +14594,8 @@
     "effect_name_attackSupportUnitsStrong": "Werde von {0} beim Innenhofangriff unterstützt",
     "equip_effect_description_attackSupportUnitsStrong": "Lass dich von {0} {1} im Innenhofangriff unterstützen",
     "equip_description_AttackBoostYardDecoCapped": "+{0}% Angriffskraft im Innenhof",
-    "ci_effect_survivalBoost": "+{0}% mehr überlebende Soldaten nach Verteidigung"
+    "ci_effect_survivalBoost": "+{0}% mehr überlebende Soldaten nach Verteidigung",
+    "effect_description_attackBoostYardDecoCapped": "+{0}% Angriffs- kampfstärke im Innenhof"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Held",
@@ -18743,7 +18760,11 @@
     "equipment_unique_1353": "Weihnachts-Warhammer",
     "equipment_unique_1353_desc": "Verwandle dein Schloss in eine winterliche Schmiede der Freude, wo ein kolossaler Amboss im Zentrum glänzt und sich hohe Schwerter mit festlichen Lichtern und Ornamenten schmücken, ein fröhliches Denkmal für Feierlichkeiten und Stärke.",
     "equipment_unique_1354": "Weihnachts-Warhammer",
-    "equipment_unique_1354_desc": "Verwandle dein Schloss in eine winterliche Schmiede der Freude, wo ein kolossaler Amboss im Zentrum glänzt und sich hohe Schwerter mit festlichen Lichtern und Ornamenten schmücken, ein fröhliches Denkmal für Feierlichkeiten und Stärke."
+    "equipment_unique_1354_desc": "Verwandle dein Schloss in eine winterliche Schmiede der Freude, wo ein kolossaler Amboss im Zentrum glänzt und sich hohe Schwerter mit festlichen Lichtern und Ornamenten schmücken, ein fröhliches Denkmal für Feierlichkeiten und Stärke.",
+    "equipment_unique_1355": "Verkleidungstab",
+    "equipment_unique_1355_desc": "Verwandle dein Schloss in ein heimgesuchtes Königreich.",
+    "equipment_unique_1356": "Seelenkerze",
+    "equipment_unique_1356_desc": "Verwandelt dein Schloss in ein gespenstisches Herrenhaus. Der Effekt hält 7 Tage an."
   },
   "generic": {
     "activity": "Aktivität",

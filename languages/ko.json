@@ -842,7 +842,11 @@
     "info_attack_threshold": "일일 공격 한도에 도달했습니다. 이제 새로운 공격마다 비용이 증가하며 기하급수적으로 상승합니다.",
     "title_attack_threshold": "증가된 공격 비용",
     "info_advisor_warning_commander": "이 유형의 지휘관은 자문 공격에 사용할 수 없습니다. 자문 공격을 시작하려면 다른 지휘관으로 전환하세요.",
-    "title_advisor_warning_commander": "주의!"
+    "title_advisor_warning_commander": "주의!",
+    "errorCode_454": "다른 퀘스트가 활성화된 동안 퀘스트를 시작할 수 없습니다.",
+    "errorCode_455": "쿨타임 중에는 퀘스트를 시작할 수 없습니다.",
+    "errorCode_459": "이 퀘스트는 현재 다른 플레이어가 차지하고 있습니다",
+    "errorCode_400": "퀘스트 정보가 변경되었습니다."
   },
   "buildings_and_decorations": {
     "bakery_name": "제빵소",
@@ -13053,7 +13057,7 @@
     "popup_ame_quest_title_7": "24시간 타임 스킵 지출자",
     "popup_ame_quest_title_8": "유리 분배기",
     "popup_ame_quest_title_9": "석탄 소비자",
-    "popup_ame_ranking_row_title": "계급",
+    "popup_ame_ranking_row_title": "계급 {0}",
     "popup_ame_rewardsUnlocked_desc": "당신의 동맹은 이미 그랜드 토너먼트 레벨 {0}에 도달했습니다! 당신의 기여가 간과되지 않았으며, 당신의 행위를 인정하여 동맹 기금에 대한 다음 보상이 수여되었습니다:",
     "popup_ame_rewardsUnlocked_title": "동맹 보상이 수령되었습니다",
     "popup_ame_rewards_division_name_3": "청동",
@@ -13186,7 +13190,19 @@
     "intro_advisor_samurai_short": "사무라이 침공 중, 다운타임 없이 사무라이 캠프에 연속 공격을 시작하세요.",
     "title_advisor_samurai": "사무라이 고문",
     "currency_description_QuestTicket": "퀘스트 티켓은 그랜드 토너먼트 퀘스트를 수락하는 데 필요합니다. 이벤트당 1개 추가 구매할 수 있습니다. 구매한 티켓은 미래의 그랜드 토너먼트로 이월되지 않습니다!",
-    "popup_ame_quest_reward_title": "보상"
+    "popup_ame_quest_reward_title": "보상",
+    "popup_ame_end_generic": "그랜드 토너먼트가 끝났습니다. 귀하의 동맹이 순위 보상 자격이 있는 경우 보상 허브를 확인하세요!",
+    "popup_ame_end_generic_title": "이벤트 종료",
+    "dialogue_are_activityreward_nexttier": "다음 단계",
+    "dialogue_are_activityreward_promotionreward_tooltip": "보상은 다음 티어를 잠금 해제하면 즉시 지급됩니다. 수집된 보상은 확인 표시 아이콘으로 표시됩니다.",
+    "dialogue_are_activityreward_rank": "티어 {0}",
+    "dialogue_are_activityreward_tierreward": "티어 보상",
+    "dialogue_are_activityreward_tierunlocked": "티어 잠금 해제됨",
+    "dialogue_are_activityreward_title": "활동 보상",
+    "dialogue_are_activityreward_unlockreward": "{0}: 보상 잠금 해제",
+    "dialogue_are_eventended_description": "당신의 노력에도 불구하고 적은 여전히 서 있습니다. 보스는 할당된 시간 내에 패배하지 않았고 그의 힘은 부서지지 않은 채로 남아 있습니다. 당신의 전사들은 용감하게 싸웠지만 적은 너무 강력했습니다. 기회는 잃어버렸습니다 - 지금은. 준비하세요, 사령관. 또 다른 기회가 올 것이고, 그와 함께 다시 공격하라는 호출이 있을 것입니다.",
+    "dialogue_are_ringmenu_enter": "이벤트 입력",
+    "dialogue_are_title": "균열 습격"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% 유닛 전투력 공격 시",
@@ -14578,7 +14594,8 @@
     "effect_name_attackSupportUnitsStrong": "{0}의 지원을 받아 안뜰 공격을 수행하십시오",
     "equip_effect_description_attackSupportUnitsStrong": "{0} {1}의 지원을 받아 안뜰 공격하기",
     "equip_description_AttackBoostYardDecoCapped": "+{0}% 마당 공격력",
-    "ci_effect_survivalBoost": "+{0}% 방어 후 생존한 병사 추가"
+    "ci_effect_survivalBoost": "+{0}% 방어 후 생존한 병사 추가",
+    "effect_description_attackBoostYardDecoCapped": "+{0}% 안뜰 공격 전투력"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "영웅",
@@ -18743,7 +18760,11 @@
     "equipment_unique_1353": "크리스마스 워해머",
     "equipment_unique_1353_desc": "당신의 성을 겨울의 기쁨의 대장간으로 변형시키십시오. 중앙에서 거대한 망치가 빛나고, 우뚝 솟은 검들이 축제의 빛과 장식으로 빛나는 기쁜 축하와 힘의 기념비입니다.",
     "equipment_unique_1354": "크리스마스 워해머",
-    "equipment_unique_1354_desc": "당신의 성을 겨울의 기쁨의 대장간으로 변형시키십시오. 중앙에서 거대한 망치가 빛나고, 우뚝 솟은 검들이 축제의 빛과 장식으로 빛나는 기쁜 축하와 힘의 기념비입니다."
+    "equipment_unique_1354_desc": "당신의 성을 겨울의 기쁨의 대장간으로 변형시키십시오. 중앙에서 거대한 망치가 빛나고, 우뚝 솟은 검들이 축제의 빛과 장식으로 빛나는 기쁜 축하와 힘의 기념비입니다.",
+    "equipment_unique_1355": "변장 지팡이",
+    "equipment_unique_1355_desc": "당신의 성을 유령이 나오는 왕국으로 변신시킵니다.",
+    "equipment_unique_1356": "영혼의 촛불",
+    "equipment_unique_1356_desc": "당신의 성을 으스스한 저택으로 변신시킵니다. 효과는 7일간 지속됩니다."
   },
   "generic": {
     "activity": "활동",

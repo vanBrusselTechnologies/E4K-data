@@ -842,7 +842,11 @@
     "info_attack_threshold": "Olet saavuttanut päivittäisen hyökkäysrajan. Jokainen uusi hyökkäys maksaa nyt enemmän ja nousee eksponentiaalisesti.",
     "title_attack_threshold": "Lisätyt hyökkäyskustannukset",
     "info_advisor_warning_commander": "Tätä tyyppiä komentajaa ei voi käyttää neuvonantaja-iskuille. Jotta voit laukaista neuvonantaja-iskuja, vaihda toiseen komentajaan.",
-    "title_advisor_warning_commander": "Huomio!"
+    "title_advisor_warning_commander": "Huomio!",
+    "errorCode_454": "Et voi aloittaa tehtävää, kun toinen tehtävä on aktiivinen.",
+    "errorCode_455": "Ei voi aloittaa tehtävää, kun se on jäähdytyksessä.",
+    "errorCode_459": "Tämä tehtävä on tällä hetkellä varattu toiselta pelaajalta",
+    "errorCode_400": "Tehtävän tiedot ovat muuttuneet."
   },
   "buildings_and_decorations": {
     "bakery_name": "Leipomo",
@@ -13053,7 +13057,7 @@
     "popup_ame_quest_title_7": "24h Aikahyppykuluttaja",
     "popup_ame_quest_title_8": "Lasijakaja",
     "popup_ame_quest_title_9": "Hiilen käyttäjä",
-    "popup_ame_ranking_row_title": "Arvo",
+    "popup_ame_ranking_row_title": "Arvo {0}",
     "popup_ame_rewardsUnlocked_desc": "Liittosi on jo saavuttanut Grand Tournament -tason {0}! Panoksesi ei ole jäänyt huomaamatta, ja sinulle on myönnetty seuraavat palkinnot liittosi varoihin tunnustuksena teoistasi:",
     "popup_ame_rewardsUnlocked_title": "Liittouman palkinto vastaanotettu",
     "popup_ame_rewards_division_name_3": "Pronssi",
@@ -13186,7 +13190,19 @@
     "intro_advisor_samurai_short": "Samuraiden hy?kk?yksen aikana, tee per?kk?isi? hy?kk?yksi? samuraileireihin ilman taukoja.",
     "title_advisor_samurai": "Samurai-neuvoja",
     "currency_description_QuestTicket": "Tehtäväliput ovat tarpeen Grand Tournament -tehtävien hyväksymiseksi. Voit ostaa 1 ylimääräisen jokaiselle tapahtumalle. Ostetut liput eivät siirry tuleviin Grand Turnauksiin!",
-    "popup_ame_quest_reward_title": "Palkkio"
+    "popup_ame_quest_reward_title": "Palkkio",
+    "popup_ame_end_generic": "Suuri turnaus on päättynyt. Jos liittosi oli oikeutettu palkintopalkkioihin, tarkista palkintokeskus!",
+    "popup_ame_end_generic_title": "Tapahtuman loppu",
+    "dialogue_are_activityreward_nexttier": "Seuraava taso",
+    "dialogue_are_activityreward_promotionreward_tooltip": "Palkinnot my?nnet??n heti, kun avaat seuraavan tason. Ker?tyt palkinnot on merkitty rastikuvakkeella.",
+    "dialogue_are_activityreward_rank": "TASO {0}",
+    "dialogue_are_activityreward_tierreward": "Palkintoaste",
+    "dialogue_are_activityreward_tierunlocked": "Taso avattu",
+    "dialogue_are_activityreward_title": "Toimintapalkinto",
+    "dialogue_are_activityreward_unlockreward": "{0}: Avaa palkinnot",
+    "dialogue_are_eventended_description": "Ponnisteluistasi huolimatta vihollinen seisoo yh?. P??llikk?? ei voitettu m??r?ajassa, ja sen voima pysyy katkeamattomana. Soturisi taistelivat rohkeasti, mutta vihollinen osoittautui liian suureksi. Mahdollisuus on menetetty - toistaiseksi. Valmistaudu, komentaja. Toinen mahdollisuus tulee, ja sen my?t? kutsu iske? uudelleen.",
+    "dialogue_are_ringmenu_enter": "Sy?t? tapahtuma",
+    "dialogue_are_title": "Rift-retki"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% yksikön taisteluvoima hyökkäyksessä",
@@ -14578,7 +14594,8 @@
     "effect_name_attackSupportUnitsStrong": "Saa tukea {0}:lta sisäpihan hyökkäyksessä",
     "equip_effect_description_attackSupportUnitsStrong": "Saat tukea {0} {1} pihahyökkäyksessä",
     "equip_description_AttackBoostYardDecoCapped": "+{0}% pihan hyökkäysvoima",
-    "ci_effect_survivalBoost": "+{0}% lisää eloonjääneitä sotilaita puolustuksen jälkeen"
+    "ci_effect_survivalBoost": "+{0}% lisää eloonjääneitä sotilaita puolustuksen jälkeen",
+    "effect_description_attackBoostYardDecoCapped": "+{0}% piha hyökkäysvoima"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Sankari",
@@ -18743,7 +18760,11 @@
     "equipment_unique_1353": "Joulun Warhammer",
     "equipment_unique_1353_desc": "Muuta linnaasi talviseksi ilon sepäksi, jossa kolossaalinen anvil loistaa keskellä ja korkeat miekat kiiltävät juhlavalolla ja koristeilla, iloinen monumentti juhlintaan ja voimaan.",
     "equipment_unique_1354": "Joulun Warhammer",
-    "equipment_unique_1354_desc": "Muuta linnaasi talviseksi ilon sepäksi, jossa kolossaalinen anvil loistaa keskellä ja korkeat miekat kiiltävät juhlavalolla ja koristeilla, iloinen monumentti juhlintaan ja voimaan."
+    "equipment_unique_1354_desc": "Muuta linnaasi talviseksi ilon sepäksi, jossa kolossaalinen anvil loistaa keskellä ja korkeat miekat kiiltävät juhlavalolla ja koristeilla, iloinen monumentti juhlintaan ja voimaan.",
+    "equipment_unique_1355": "Puvun taikasauva",
+    "equipment_unique_1355_desc": "Muuta linnaasi kummitusvaltakunnaksi.",
+    "equipment_unique_1356": "Sielulyhty",
+    "equipment_unique_1356_desc": "Muuta linnoasi pelottavaksi kartanoksi. Vaikutus kestää 7 päivää."
   },
   "generic": {
     "activity": "Toiminta",

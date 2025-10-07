@@ -1198,11 +1198,25 @@
       "assetName": "HollowMoonEgg"
     },
     {
+      "currencyID": 81,
+      "crossplayID": 81,
+      "Name": "QuestTicket",
+      "JSONKey": "QT",
+      "assetName": "QuestTicket"
+    },
+    {
       "currencyID": 82,
       "crossplayID": 82,
       "Name": "Orange",
       "JSONKey": "ORG",
       "assetName": "Orange"
+    },
+    {
+      "currencyID": 83,
+      "crossplayID": 83,
+      "Name": "AllianceCoin",
+      "JSONKey": "AC",
+      "assetName": "AllianceCoin"
     },
     {
       "currencyID": 84,

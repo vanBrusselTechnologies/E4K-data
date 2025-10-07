@@ -16,6 +16,7 @@ export interface Data {
     allianceFundsDonatables: AllianceFundsDonatable[];
     alliancehelprequests: AllianceHelpRequest[];
     allianceInvasionCamps: AllianceInvasionCamp[];
+    allianceQuests: AllianceQuest[];
     alliancerankrights: AllianceRankRight[];
     allianceranks: AllianceRank[];
     allianceTowerEffects: AllianceTowerEffect[];
@@ -47,6 +48,7 @@ export interface Data {
     currencyCaps: CurrencyCap[];
     currencyClearCompensations: CurrencyClearCompensation[];
     currencyCollectTaskTypes: CurrencyTaskType[];
+    currencyHiddenLists: CurrencyHiddenList[];
     currencyMinutesSkipValues: CurrencyMinutesSkipValue[];
     currencyRandomBonuses: CurrencyRandomBonus[];
     currencyRarenesses: CurrencyRareness[];
@@ -61,6 +63,7 @@ export interface Data {
     daimyoTownships: DaimyoTownship[];
     decoThresholds: DecoThreshold[];
     districtTypes: DistrictType[];
+    divisionRounds: DivisionRound[];
     donationItems: DonationItem[];
     donationRewards: DonationItem[];
     donationSettings: DonationItem[];
@@ -485,6 +488,19 @@ export interface AllianceInvasionCamp {
     "skipCostIncreaseCap"?: number;
     "unitWallCount": number;
     "wallBonus": number;
+}
+
+export interface AllianceQuest {
+    "allianceQuestID": number;
+    "chance": number;
+    "comment1": string;
+    "comment2": string;
+    "comment3"?: string;
+    "comment4": string;
+    "duration": number;
+    "questID": number;
+    "questType": string;
+    "rewardPoints": number;
 }
 
 export interface AllianceRankRight {
@@ -1037,6 +1053,10 @@ export interface CurrencyTaskType {
     "taskType": string;
 }
 
+export interface CurrencyHiddenList {
+    "currencyID": number;
+}
+
 export interface CurrencyMinutesSkipValue {
     "MinuteSkipIndex": number;
     "MinutesSkipValue": number;
@@ -1188,6 +1208,21 @@ export interface DistrictType {
     "crossplayID": number;
     "district": string;
     "districtTypeID": number;
+}
+
+export interface DivisionRound {
+    "comment1": string;
+    "demotes"?: string;
+    "divisionRoundID": number;
+    "divisions": number;
+    "eventID": number;
+    "promotes": string;
+    "sourceDivisionRoundID"?: number;
+    "subdivisionSizes"?: string;
+    "subdivisions": number | string;
+    "targetDivisionRoundID"?: number;
+    "testonly"?: number;
+    "type": string;
 }
 
 export interface DonationItem {
@@ -2012,7 +2047,7 @@ export interface LeaderboardReward {
     "leaderboardRewardSetID": number;
     "leagueID"?: number;
     "maxRank": number;
-    "rewardIDs": number;
+    "rewardIDs": number | string;
 }
 
 export interface LeagueTypeEvent {
@@ -2025,10 +2060,10 @@ export interface LeagueTypeEvent {
     "hardModeStart"?: number;
     "leaguetypeEventsID": number;
     "leaguetypeID": number;
-    "neededPointsForRewards": string;
+    "neededPointsForRewards"?: string;
     "resourceFactors"?: string;
     "ressourceFactors"?: string;
-    "rewardIDs": string;
+    "rewardIDs"?: string;
     "rewardSetID": number;
     "subType"?: number;
     "topXValue"?: number | string;
@@ -2430,6 +2465,7 @@ export interface Package {
     "addPegasusTicket"?: number;
     "addPlaster"?: number;
     "addPrincessToken"?: number;
+    "addQuestTicket"?: number;
     "addRareBoosterConsumable"?: number;
     "addRareFarmingtools"?: number;
     "addRareFlint"?: number;
@@ -2695,6 +2731,7 @@ export interface Quest {
     "coal"?: number;
     "comment1"?: string;
     "comment2"?: string;
+    "comment3"?: string;
     "conditions": string;
     "constructionItemIDs"?: number;
     "crossplayID"?: number;
@@ -2732,7 +2769,7 @@ export interface Quest {
     "questID": number;
     "questSeriesID"?: number;
     "questSeriesNumber"?: number;
-    "questbookTabID": number;
+    "questbookTabID"?: number;
     "recommended"?: number;
     "relicEquipments"?: string;
     "requiredLegendLevel"?: number;

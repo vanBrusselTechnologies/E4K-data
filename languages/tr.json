@@ -842,7 +842,11 @@
     "info_attack_threshold": "Günlük saldırı limitine ulaştınız. Her yeni saldırı artık artan bir maliyete sahip olacak ve bu maliyet üssel olarak artacaktır.",
     "title_attack_threshold": "Artan saldırı maliyetleri",
     "info_advisor_warning_commander": "Bu tür bir komutan, Danışman Saldırıları için kullanılamaz. Danışman Saldırılarını başlatabilmek için lütfen farklı bir komutana geçin.",
-    "title_advisor_warning_commander": "Dikkat!"
+    "title_advisor_warning_commander": "Dikkat!",
+    "errorCode_454": "Başka bir görev aktifken bir görevi başlatamazsınız.",
+    "errorCode_455": "Bekleme süresindeyken görevi başlatamazsınız.",
+    "errorCode_459": "Bu görev şu anda başka bir oyuncu tarafından işgal edilmektedir",
+    "errorCode_400": "Görev bilgileri değişti."
   },
   "buildings_and_decorations": {
     "bakery_name": "Fırın",
@@ -13053,7 +13057,7 @@
     "popup_ame_quest_title_7": "24 saatlik zaman atlayıcı harcaması",
     "popup_ame_quest_title_8": "Cam dağıtıcı",
     "popup_ame_quest_title_9": "Kömür harcayıcısı",
-    "popup_ame_ranking_row_title": "Sıra",
+    "popup_ame_ranking_row_title": "Sıra {0}",
     "popup_ame_rewardsUnlocked_desc": "İttifakınız zaten Büyük Turnuva Seviyesi {0}e ulaştı! Katkınız göz ardı edilmedi ve eylemlerinizin tanınması olarak ittifak fonlarınız için aşağıdaki ödüller verilmiştir:",
     "popup_ame_rewardsUnlocked_title": "İttifak ödülü alındı",
     "popup_ame_rewards_division_name_3": "Bronz",
@@ -13186,7 +13190,19 @@
     "intro_advisor_samurai_short": "Samuray istilası sırasında, kesintisiz bir şekilde samuray kamplarına ardışık saldırılar düzenleyin.",
     "title_advisor_samurai": "Samuray Danışmanı",
     "currency_description_QuestTicket": "Görev biletleri, Büyük Turnuva görevlerini kabul etmek için gereklidir. Her etkinlik için 1 ekstra satın alabilirsiniz. Satın alınan biletler, gelecekteki Büyük Turnuvalara taşınmaz!",
-    "popup_ame_quest_reward_title": "Ödül"
+    "popup_ame_quest_reward_title": "Ödül",
+    "popup_ame_end_generic": "Büyük Turnuva sona erdi, eğer ittifakınız sıralama ödüllerine uygun ise ödül merkezini kontrol edin!",
+    "popup_ame_end_generic_title": "Etkinlik sonu",
+    "dialogue_are_activityreward_nexttier": "Sonraki seviye",
+    "dialogue_are_activityreward_promotionreward_tooltip": "Ödüller, bir sonraki katmanı açtığınızda verilir. Toplanan ödüller, onay işareti simgesi ile işaretlenir.",
+    "dialogue_are_activityreward_rank": "SEVİYE {0}",
+    "dialogue_are_activityreward_tierreward": "Seviye ?d?l?",
+    "dialogue_are_activityreward_tierunlocked": "Seviye açıldı",
+    "dialogue_are_activityreward_title": "Etkinlik ?d?l?",
+    "dialogue_are_activityreward_unlockreward": "{0}: ?d?lleri a?",
+    "dialogue_are_eventended_description": "Çabalarınıza rağmen, düşman hala ayakta. Patron, tahsis edilen süre içinde yenilmedi ve gücü bozulmamış durumda. Savaşçıların cesurca savaştı, ancak düşman çok büyüktü. Fırsat kaybedildi - şimdilik. Kendini güçlendir, Komutan. Başka bir şans gelecek ve bununla birlikte yeniden saldırma çağrısı olacak.",
+    "dialogue_are_ringmenu_enter": "Etkinliği girin",
+    "dialogue_are_title": "Rift İstilası"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% birimin savaş gücü saldırırken",
@@ -14578,7 +14594,8 @@
     "effect_name_attackSupportUnitsStrong": "{0} tarafından avlu saldırısında destek alın",
     "equip_effect_description_attackSupportUnitsStrong": "{0} {1} tarafından avlu saldırısında destek alın",
     "equip_description_AttackBoostYardDecoCapped": "+{0}% avluda saldırı gücü",
-    "ci_effect_survivalBoost": "+{0}% daha fazla hayatta kalan asker savunmadan sonra"
+    "ci_effect_survivalBoost": "+{0}% daha fazla hayatta kalan asker savunmadan sonra",
+    "effect_description_attackBoostYardDecoCapped": "+{0}% avlu saldırı gücü"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Kahraman",
@@ -18743,7 +18760,11 @@
     "equipment_unique_1353": "Noel Warhammer",
     "equipment_unique_1353_desc": "Kalençeni kışın neşeli bir demirhanesine dönüştür, ortada dev bir örs parlayarak yüksekteki kılıçlar bayram ışıkları ve süslemeleriyle parlayarak kutlama ve gücün neşeli anıtı.",
     "equipment_unique_1354": "Noel Warhammer",
-    "equipment_unique_1354_desc": "Kalençeni kışın neşeli bir demirhanesine dönüştür, ortada dev bir örs parlayarak yüksekteki kılıçlar bayram ışıkları ve süslemeleriyle parlayarak kutlama ve gücün neşeli anıtı."
+    "equipment_unique_1354_desc": "Kalençeni kışın neşeli bir demirhanesine dönüştür, ortada dev bir örs parlayarak yüksekteki kılıçlar bayram ışıkları ve süslemeleriyle parlayarak kutlama ve gücün neşeli anıtı.",
+    "equipment_unique_1355": "Kılık değiştirme sopası",
+    "equipment_unique_1355_desc": "Şatonuzu lanetli bir krallığa dönüştürün.",
+    "equipment_unique_1356": "Ruh mumu",
+    "equipment_unique_1356_desc": "Şatonuzu korkutucu bir malikaneye dönüştürür. Etki 7 gün sürer."
   },
   "generic": {
     "activity": "Etkinlik",

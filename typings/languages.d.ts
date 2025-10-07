@@ -775,6 +775,7 @@ export interface Language {
         "errorCode_393": string;
         "errorCode_397": string;
         "errorCode_399": string;
+        "errorCode_400": string;
         "errorCode_404": string;
         "errorCode_407": string;
         "errorCode_408": string;
@@ -793,6 +794,9 @@ export interface Language {
         "errorCode_441": string;
         "errorCode_446": string;
         "errorCode_450": string;
+        "errorCode_454": string;
+        "errorCode_455": string;
+        "errorCode_459": string;
         "errorCode_5": string;
         "errorCode_53": string;
         "errorCode_55": string;
@@ -9431,6 +9435,16 @@ export interface Language {
         "dialogue_ame_rules_text_topic_rewards_normal": string;
         "dialogue_ame_rules_text_topic_rewards_qualification": string;
         "dialogue_ame_title": string;
+        "dialogue_are_activityreward_nexttier": string;
+        "dialogue_are_activityreward_promotionreward_tooltip": string;
+        "dialogue_are_activityreward_rank": string;
+        "dialogue_are_activityreward_tierreward": string;
+        "dialogue_are_activityreward_tierunlocked": string;
+        "dialogue_are_activityreward_title": string;
+        "dialogue_are_activityreward_unlockreward": string;
+        "dialogue_are_eventended_description": string;
+        "dialogue_are_ringmenu_enter": string;
+        "dialogue_are_title": string;
         "diplomacy_max_noAttack_myAlliance": string;
         "diplomacy_max_pact_myAlliance": string;
         "divination_info_desc": string;
@@ -11238,6 +11252,8 @@ export interface Language {
         "popup_ame_activate_title": string;
         "popup_ame_endWithoutReward_desc": string;
         "popup_ame_endWithoutReward_title": string;
+        "popup_ame_end_generic": string;
+        "popup_ame_end_generic_title": string;
         "popup_ame_gotFirstReward_desc": string;
         "popup_ame_gotFirstReward_title": string;
         "popup_ame_gotReward_desc": string;
@@ -13444,6 +13460,7 @@ export interface Language {
         "effect_description_attackBoostUnitNomadCI": string;
         "effect_description_attackBoostYard": string;
         "effect_description_attackBoostYardCI": string;
+        "effect_description_attackBoostYardDecoCapped": string;
         "effect_description_attackBoostYardTCI": string;
         "effect_description_attackUnitAmountFlankCI": string;
         "effect_description_attackUnitAmountFlankCapped": string;
@@ -15969,6 +15986,10 @@ export interface Language {
         "equipment_unique_1353_desc": string;
         "equipment_unique_1354": string;
         "equipment_unique_1354_desc": string;
+        "equipment_unique_1355": string;
+        "equipment_unique_1355_desc": string;
+        "equipment_unique_1356": string;
+        "equipment_unique_1356_desc": string;
         "equipment_unique_13_desc": string;
         "equipment_unique_14": string;
         "equipment_unique_14_desc": string;

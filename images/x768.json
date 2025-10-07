@@ -74146,6 +74146,51 @@
     ],
     "fx": []
   },
+  "items_unique_1322": {
+    "pid": 0,
+    "url": "x768/Equipment/EquipmentShared/items_unique_1322_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 129,
+        "rx": 935,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1333": {
+    "pid": 0,
+    "url": "x768/Equipment/EquipmentShared/items_unique_1333_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 129,
+        "rx": 935,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1344": {
+    "pid": 0,
+    "url": "x768/Equipment/EquipmentShared/items_unique_1344_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 129,
+        "rx": 935,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
   "items_unique_2005": {
     "pid": 0,
     "url": "x768/Equipment/EquipmentShared/items_unique_2004_Shared.png",
@@ -85351,9 +85396,9 @@
       {
         "x": 0,
         "y": 0,
-        "w": 194,
-        "h": 201,
-        "rx": 902,
+        "w": 193,
+        "h": 202,
+        "rx": 903,
         "ry": 899
       }
     ],
@@ -85381,10 +85426,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 193,
+        "w": 194,
         "h": 202,
-        "rx": 903,
-        "ry": 899
+        "rx": 902,
+        "ry": 898
       }
     ],
     "fx": []
@@ -125349,6 +125394,21 @@
     ],
     "fx": []
   },
+  "icon_message_special_event_133": {
+    "pid": 2,
+    "url": "x768/Kingdoms/Kingdoms/icon_message_special_event_133.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 61,
+        "rx": 966,
+        "ry": 969
+      }
+    ],
+    "fx": []
+  },
   "icon_message_special_event_601": {
     "pid": 1,
     "url": "x768/Kingdoms/Kingdoms/icon_message_special_event_601.png",
@@ -130527,6 +130587,51 @@
   "teaser_ame_starter_3": {
     "pid": 1,
     "url": "x768/Misc/EventTeasers/teaser_ame_starter_3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1537,
+        "h": 413,
+        "rx": 231,
+        "ry": 793
+      }
+    ],
+    "fx": []
+  },
+  "teaser_are_starter_1": {
+    "pid": 2,
+    "url": "x768/Misc/EventTeasers/teaser_are_starter_1.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1537,
+        "h": 413,
+        "rx": 231,
+        "ry": 793
+      }
+    ],
+    "fx": []
+  },
+  "teaser_are_starter_2": {
+    "pid": 2,
+    "url": "x768/Misc/EventTeasers/teaser_are_starter_2.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1537,
+        "h": 413,
+        "rx": 231,
+        "ry": 793
+      }
+    ],
+    "fx": []
+  },
+  "teaser_are_starter_3": {
+    "pid": 2,
+    "url": "x768/Misc/EventTeasers/teaser_are_starter_3.png",
     "frames": [
       {
         "x": 0,
@@ -136150,6 +136255,21 @@
     "fx": []
   },
   "teaser_AME_adjustments": {
+    "pid": 1,
+    "url": "x768/Misc/TeasersShared/teaser_AME_2_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1537,
+        "h": 581,
+        "rx": 231,
+        "ry": 709
+      }
+    ],
+    "fx": []
+  },
+  "teaser_AME_adjustment": {
     "pid": 1,
     "url": "x768/Misc/TeasersShared/teaser_AME_2_Shared.png",
     "frames": [
@@ -154485,6 +154605,29 @@
       }
     ]
   },
+  "Castle_Mapobject_Special_HalloweenRing2025": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_HalloweenRing2025.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 76,
+        "h": 83,
+        "rx": 995,
+        "ry": 985
+      }
+    ],
+    "fx": [
+      {
+        "x": 21,
+        "y": -10,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Castle_Mapobject_Special_HarpBaron": {
     "pid": 0,
     "url": "x768/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_HarpBaron.png",
@@ -154853,6 +154996,29 @@
       }
     ]
   },
+  "Castle_Mapobject_Special_Snowflakehouse2025": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_Snowflakehouse2025.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 71,
+        "h": 84,
+        "rx": 996,
+        "ry": 981
+      }
+    ],
+    "fx": [
+      {
+        "x": 24,
+        "y": -13,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Castle_Mapobject_Special_SoulCandle": {
     "pid": 0,
     "url": "x768/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_SoulCandle.png",
@@ -155152,6 +155318,29 @@
       {
         "x": 16,
         "y": 9,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "Castle_Mapobject_Special_VikingBaron2025": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_VikingBaron2025.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 72,
+        "h": 83,
+        "rx": 995,
+        "ry": 980
+      }
+    ],
+    "fx": [
+      {
+        "x": 21,
+        "y": -12,
         "scale": 0.75,
         "name": "flagHolder",
         "rotation": 0
@@ -158490,6 +158679,29 @@
       }
     ]
   },
+  "Castle_Mapobject_Capital_Classic_Special_HalloweenRing2025": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_HalloweenRing2025.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 115,
+        "h": 132,
+        "rx": 975,
+        "ry": 952
+      }
+    ],
+    "fx": [
+      {
+        "x": 2,
+        "y": -23,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Castle_Mapobject_Capital_Classic_Special_HarpBaron": {
     "pid": 0,
     "url": "x768/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_HarpBaron.png",
@@ -158858,6 +159070,29 @@
       }
     ]
   },
+  "Castle_Mapobject_Capital_Classic_Special_Snowflakehouse2025": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_Snowflakehouse2025.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 115,
+        "h": 133,
+        "rx": 975,
+        "ry": 952
+      }
+    ],
+    "fx": [
+      {
+        "x": -4,
+        "y": -23,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Castle_Mapobject_Capital_Classic_Special_SoulCandle": {
     "pid": 0,
     "url": "x768/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_SoulCandle.png",
@@ -159105,6 +159340,29 @@
       {
         "x": -2,
         "y": -36,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "Castle_Mapobject_Capital_Classic_Special_VikingBaron2025": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_VikingBaron2025.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 115,
+        "h": 131,
+        "rx": 975,
+        "ry": 953
+      }
+    ],
+    "fx": [
+      {
+        "x": 2,
+        "y": -16,
         "scale": 0.75,
         "name": "flagHolder",
         "rotation": 0
@@ -160480,6 +160738,29 @@
       }
     ]
   },
+  "Metropol_Mapobject_Basic_Special_HalloweenRing2025": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_HalloweenRing2025.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 95,
+        "h": 93,
+        "rx": 981,
+        "ry": 985
+      }
+    ],
+    "fx": [
+      {
+        "x": 3,
+        "y": -4,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Metropol_Mapobject_Basic_Special_HarpBaron": {
     "pid": 0,
     "url": "x768/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_HarpBaron.png",
@@ -160848,6 +161129,29 @@
       }
     ]
   },
+  "Metropol_Mapobject_Basic_Special_Snowflakehouse2025": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_Snowflakehouse2025.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 86,
+        "h": 92,
+        "rx": 982,
+        "ry": 981
+      }
+    ],
+    "fx": [
+      {
+        "x": 9,
+        "y": -15,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Metropol_Mapobject_Basic_Special_SoulCandle": {
     "pid": 0,
     "url": "x768/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_SoulCandle.png",
@@ -161095,6 +161399,29 @@
       {
         "x": 9,
         "y": -28,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "Metropol_Mapobject_Basic_Special_VikingBaron2025": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_VikingBaron2025.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 84,
+        "h": 101,
+        "rx": 985,
+        "ry": 973
+      }
+    ],
+    "fx": [
+      {
+        "x": 9,
+        "y": -21,
         "scale": 0.75,
         "name": "flagHolder",
         "rotation": 0
@@ -162362,6 +162689,29 @@
       }
     ]
   },
+  "Outpost_Mapobject_Level_Special_HalloweenRing2025": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Outposts/Outpost_Mapobject_Level_Special_HalloweenRing2025/Outpost_Mapobject_Level_Special_HalloweenRing2025.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 43,
+        "h": 58,
+        "rx": 1009,
+        "ry": 989
+      }
+    ],
+    "fx": [
+      {
+        "x": 34,
+        "y": -8,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Outpost_Mapobject_Level_Special_HarpBaron": {
     "pid": 0,
     "url": "x768/WorldmapObjects/Outposts/Outpost_Mapobject_Level_Special_HarpBaron/Outpost_Mapobject_Level_Special_HarpBaron.png",
@@ -162684,6 +163034,29 @@
       }
     ]
   },
+  "Outpost_Mapobject_Level_Special_Snowflakehouse2025": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Outposts/Outpost_Mapobject_Level_Special_Snowflakehouse2025/Outpost_Mapobject_Level_Special_Snowflakehouse2025.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 43,
+        "h": 49,
+        "rx": 1012,
+        "ry": 997
+      }
+    ],
+    "fx": [
+      {
+        "x": 36,
+        "y": 0,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Outpost_Mapobject_Level_Special_SoulCandle": {
     "pid": 0,
     "url": "x768/WorldmapObjects/Outposts/Outpost_Mapobject_Level_Special_SoulCandle/Outpost_Mapobject_Level_Special_SoulCandle.png",
@@ -162839,6 +163212,29 @@
       {
         "x": 35,
         "y": -1,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "Outpost_Mapobject_Level_Special_VikingBaron2025": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Outposts/Outpost_Mapobject_Level_Special_VikingBaron2025/Outpost_Mapobject_Level_Special_VikingBaron2025.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 30,
+        "h": 58,
+        "rx": 1015,
+        "ry": 986
+      }
+    ],
+    "fx": [
+      {
+        "x": 34,
+        "y": -8,
         "scale": 0.75,
         "name": "flagHolder",
         "rotation": 0
@@ -164722,6 +165118,21 @@
     ],
     "fx": []
   },
+  "Preview_Castle_Mapobject_Special_HalloweenRing2025": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Previews/Mapobjects_Preview/Preview_Castle_Mapobject_Special_HalloweenRing2025.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 125,
+        "h": 137,
+        "rx": 968,
+        "ry": 955
+      }
+    ],
+    "fx": []
+  },
   "Preview_Castle_Mapobject_Special_HarpBaron": {
     "pid": 0,
     "url": "x768/WorldmapObjects/Previews/Mapobjects_Preview/Preview_Castle_Mapobject_Special_HarpBaron.png",
@@ -164962,6 +165373,21 @@
     ],
     "fx": []
   },
+  "Preview_Castle_Mapobject_Special_Snowflakehouse2025": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Previews/Mapobjects_Preview/Preview_Castle_Mapobject_Special_Snowflakehouse2025.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 117,
+        "h": 136,
+        "rx": 968,
+        "ry": 955
+      }
+    ],
+    "fx": []
+  },
   "Preview_Castle_Mapobject_Special_SoulCandle": {
     "pid": 0,
     "url": "x768/WorldmapObjects/Previews/Mapobjects_Preview/Preview_Castle_Mapobject_Special_SoulCandle.png",
@@ -165183,6 +165609,21 @@
         "h": 138,
         "rx": 979,
         "ry": 956
+      }
+    ],
+    "fx": []
+  },
+  "Preview_Castle_Mapobject_Special_VikingBaron2025": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Previews/Mapobjects_Preview/Preview_Castle_Mapobject_Special_VikingBaron2025.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 117,
+        "h": 138,
+        "rx": 968,
+        "ry": 953
       }
     ],
     "fx": []

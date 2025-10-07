@@ -842,7 +842,11 @@
     "info_attack_threshold": "Du har nået den daglige angrebsgrænse. Hver ny angreb vil nu have en øget omkostning, der stiger eksponentielt.",
     "title_attack_threshold": "Forøgede angrebsomkostninger",
     "info_advisor_warning_commander": "Denne type kommandør kan ikke bruges til rådgiverangreb. For at kunne udføre rådgiverangreb skal du skifte til en anden kommandør.",
-    "title_advisor_warning_commander": "Opmærksomhed!"
+    "title_advisor_warning_commander": "Opmærksomhed!",
+    "errorCode_454": "Kan ikke starte en quest, mens en anden quest er aktiv.",
+    "errorCode_455": "Kan ikke starte quest, mens det er i cooldown.",
+    "errorCode_459": "Denne quest er i øjeblikket optaget af en anden spiller",
+    "errorCode_400": "Questinfo er ændret."
   },
   "buildings_and_decorations": {
     "bakery_name": "Bageri",
@@ -13053,7 +13057,7 @@
     "popup_ame_quest_title_7": "24-timers tidspringer",
     "popup_ame_quest_title_8": "Glas dispenser",
     "popup_ame_quest_title_9": "Kulforbruger",
-    "popup_ame_ranking_row_title": "Rang",
+    "popup_ame_ranking_row_title": "Rang {0}",
     "popup_ame_rewardsUnlocked_desc": "Din alliance har allerede nået Grand Tournament niveau {0}! Dit bidrag er ikke blevet overset, og du er blevet tildelt følgende belønninger til dine alliance midler som anerkendelse af dine gerninger:",
     "popup_ame_rewardsUnlocked_title": "Alliance belønning modtaget",
     "popup_ame_rewards_division_name_3": "Bronze",
@@ -13186,7 +13190,19 @@
     "intro_advisor_samurai_short": "Under samurai-invasionen, udf?r efterf?lgende angreb p? samurai-lejre uden nedetid.",
     "title_advisor_samurai": "Samurai-r?dgiver",
     "currency_description_QuestTicket": "Quest-billetter er nødvendige for at acceptere Grand Tournament-quests. Du kan købe 1 ekstra pr. event. Købte billetter overføres ikke til fremtidige Grand Tournaments!",
-    "popup_ame_quest_reward_title": "Belønning"
+    "popup_ame_quest_reward_title": "Belønning",
+    "popup_ame_end_generic": "Det Store Turnering er slut. Hvis din alliance var berettiget til rangeringsbelønninger, så tjek belønningscenteret!",
+    "popup_ame_end_generic_title": "Begivenhedens afslutning",
+    "dialogue_are_activityreward_nexttier": "N?ste niveau",
+    "dialogue_are_activityreward_promotionreward_tooltip": "Bel?nninger tildeles, s? snart du l?ser op for det n?ste niveau. Indsamlede bel?nninger er markeret med et flueben.",
+    "dialogue_are_activityreward_rank": "NIVEAU {0}",
+    "dialogue_are_activityreward_tierreward": "Pr?mie niveau",
+    "dialogue_are_activityreward_tierunlocked": "Niveau l?st op",
+    "dialogue_are_activityreward_title": "Aktivitetsbel?nning",
+    "dialogue_are_activityreward_unlockreward": "{0}: L?s bel?nninger op",
+    "dialogue_are_eventended_description": "P? trods af dine anstrengelser st?r fjenden stadig. Bossen blev ikke besejret inden for den tildelte tid, og dens styrke forbliver intakt. Dine krigere k?mpede tappert, men fjenden viste sig at v?re for stor. Muligheden er tabt - for nu. St?l dig, kommand?r. En ny chance vil komme, og med den opfordringen til at angribe igen.",
+    "dialogue_are_ringmenu_enter": "Indtast begivenhed",
+    "dialogue_are_title": "Rift raid"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% enhedens kampstyrke ved angreb",
@@ -14578,7 +14594,8 @@
     "effect_name_attackSupportUnitsStrong": "Få støtte fra {0} i gårdsangreb",
     "equip_effect_description_attackSupportUnitsStrong": "Få støtte fra {0} {1} i gårdsangreb",
     "equip_description_AttackBoostYardDecoCapped": "+{0}% angrebskraft i gården",
-    "ci_effect_survivalBoost": "+{0}% flere overlevende soldater efter forsvar"
+    "ci_effect_survivalBoost": "+{0}% flere overlevende soldater efter forsvar",
+    "effect_description_attackBoostYardDecoCapped": "+{0}% angrebskraft i gården"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Helt",
@@ -18743,7 +18760,11 @@
     "equipment_unique_1353": "Jule Warhammer",
     "equipment_unique_1353_desc": "Forvandl dit slot til en vinterlig smedje af glæde, hvor en kolossal ambolt stråler i midten, og tårnhøje sværd skinner med festlige lys og dekorationer, et muntert monument for fejring og styrke.",
     "equipment_unique_1354": "Jule Warhammer",
-    "equipment_unique_1354_desc": "Forvandl dit slot til en vinterlig smedje af glæde, hvor en kolossal ambolt stråler i midten, og tårnhøje sværd skinner med festlige lys og dekorationer, et muntert monument for fejring og styrke."
+    "equipment_unique_1354_desc": "Forvandl dit slot til en vinterlig smedje af glæde, hvor en kolossal ambolt stråler i midten, og tårnhøje sværd skinner med festlige lys og dekorationer, et muntert monument for fejring og styrke.",
+    "equipment_unique_1355": "Forklædningsstang",
+    "equipment_unique_1355_desc": "Forvandl dit slot til et hjemsøgt kongerige.",
+    "equipment_unique_1356": "Sjælevoks",
+    "equipment_unique_1356_desc": "Forvandler dit slot til en uhyggelig herregård. Effekten varer i 7 dage."
   },
   "generic": {
     "activity": "Aktivitet",

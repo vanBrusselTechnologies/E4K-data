@@ -842,7 +842,11 @@
     "info_attack_threshold": "您已達到每日攻擊限制。每次新的攻擊現在將增加成本，並呈指數增長。",
     "title_attack_threshold": "增加的攻擊成本",
     "info_advisor_warning_commander": "這種類型的指揮官無法用於顧問攻擊。要啟動顧問攻擊，請切換到其他指揮官。",
-    "title_advisor_warning_commander": "注意！"
+    "title_advisor_warning_commander": "注意！",
+    "errorCode_454": "無法在另一個任務處於活動狀態時啟動任務。",
+    "errorCode_455": "在冷卻期間無法開始任務。",
+    "errorCode_459": "此任務目前被其他玩家佔據",
+    "errorCode_400": "任務資訊已更改。"
   },
   "buildings_and_decorations": {
     "bakery_name": "麵包房",
@@ -13053,7 +13057,7 @@
     "popup_ame_quest_title_7": "24小時時間跳過消費",
     "popup_ame_quest_title_8": "玻璃分配器",
     "popup_ame_quest_title_9": "煤炭消費者",
-    "popup_ame_ranking_row_title": "等級",
+    "popup_ame_ranking_row_title": "等級 {0}",
     "popup_ame_rewardsUnlocked_desc": "您的聯盟已達到大賽季等級 {0}！您的貢獻未被忽略，並已根據您的行為獲得以下獎勵，以用於聯盟資金：",
     "popup_ame_rewardsUnlocked_title": "聯盟獎勵已收到",
     "popup_ame_rewards_division_name_3": "青銅",
@@ -13186,7 +13190,19 @@
     "intro_advisor_samurai_short": "在武士入侵期間，對武士營地發起連續攻擊，毫不間斷。",
     "title_advisor_samurai": "武士顧問",
     "currency_description_QuestTicket": "任務票是接受大賽任務所需的。您可以每個活動購買1張額外的票。購買的票不能轉入未來的大賽！",
-    "popup_ame_quest_reward_title": "獎勵"
+    "popup_ame_quest_reward_title": "獎勵",
+    "popup_ame_end_generic": "大賽已結束，若您的聯盟符合排名獎勵的資格，請查看獎勵中心！",
+    "popup_ame_end_generic_title": "活動結束",
+    "dialogue_are_activityreward_nexttier": "下一層",
+    "dialogue_are_activityreward_promotionreward_tooltip": "獎勵在您解鎖下一級時授予。收集的獎勵用勾選圖示標記。",
+    "dialogue_are_activityreward_rank": "等級 {0}",
+    "dialogue_are_activityreward_tierreward": "等級獎勵",
+    "dialogue_are_activityreward_tierunlocked": "層級已解鎖",
+    "dialogue_are_activityreward_title": "活動獎勵",
+    "dialogue_are_activityreward_unlockreward": "{0}: 解鎖獎勵",
+    "dialogue_are_eventended_description": "儘管你努力，敵人仍然屹立不搖。首領未在指定時間內被擊敗，他的力量依然不屈。你的戰士英勇作戰，但敵人實在太強大。機會已失 - 暫時。振作起來，指揮官。另一個機會將會到來，隨之而來的是再次出擊的號召。",
+    "dialogue_are_ringmenu_enter": "輸入事件",
+    "dialogue_are_title": "裂縫突襲"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% 單位攻擊時的戰鬥力",
@@ -14578,7 +14594,8 @@
     "effect_name_attackSupportUnitsStrong": "{0}在庭院攻擊中提供支持",
     "equip_effect_description_attackSupportUnitsStrong": "在庭院攻擊中獲得{0} {1}的支持",
     "equip_description_AttackBoostYardDecoCapped": "+{0}% 庭院攻擊戰鬥力",
-    "ci_effect_survivalBoost": "+{0}% 更多幸存士兵在防禦後"
+    "ci_effect_survivalBoost": "+{0}% 更多幸存士兵在防禦後",
+    "effect_description_attackBoostYardDecoCapped": "+{0}% 庭院攻擊戰鬥力"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "英雄",
@@ -18743,7 +18760,11 @@
     "equipment_unique_1353": "聖誕戰鎚",
     "equipment_unique_1353_desc": "將你的城堡變成冬季的快樂鍛造場，其中一個巨大的鐵砧在中央閃光，巍峨的劍在節慶的燈光和裝飾下閃耀，成為慶祝和力量的快樂紀念碑。",
     "equipment_unique_1354": "聖誕戰鎚",
-    "equipment_unique_1354_desc": "將你的城堡變成冬季的快樂鍛造場，其中一個巨大的鐵砧在中央閃光，巍峨的劍在節慶的燈光和裝飾下閃耀，成為慶祝和力量的快樂紀念碑。"
+    "equipment_unique_1354_desc": "將你的城堡變成冬季的快樂鍛造場，其中一個巨大的鐵砧在中央閃光，巍峨的劍在節慶的燈光和裝飾下閃耀，成為慶祝和力量的快樂紀念碑。",
+    "equipment_unique_1355": "變裝魔法杖",
+    "equipment_unique_1355_desc": "將您的城堡轉變為一個鬼魅王國。",
+    "equipment_unique_1356": "靈魂蠟燭",
+    "equipment_unique_1356_desc": "將您的城堡轉變為一座陰森的莊園。效果持續7天。"
   },
   "generic": {
     "activity": "活動",

@@ -842,7 +842,11 @@
     "info_attack_threshold": "Ați atins limita zilnică a atacurilor. Fiecare atac nou va avea acum un cost crescut, care va crește exponential.",
     "title_attack_threshold": "Costuri de atac crescute",
     "info_advisor_warning_commander": "Acest tip de comandant nu poate fi folosit pentru atacuri de consilieri. Pentru a putea lansa atacuri de consilieri, vă rugăm să schimbați la un alt comandant.",
-    "title_advisor_warning_commander": "Atenție!"
+    "title_advisor_warning_commander": "Atenție!",
+    "errorCode_454": "Nu poți începe o misiune în timp ce o altă misiune este activă.",
+    "errorCode_455": "Nu se poate începe misiunea în timp ce este în perioada de așteptare.",
+    "errorCode_459": "Această misiune este în prezent ocupată de un alt jucător",
+    "errorCode_400": "Informațiile despre misiune s-au schimbat."
   },
   "buildings_and_decorations": {
     "bakery_name": "Brutărie",
@@ -13053,7 +13057,7 @@
     "popup_ame_quest_title_7": "Cheltuitor de timp de 24h",
     "popup_ame_quest_title_8": "Dispenser de sticlă",
     "popup_ame_quest_title_9": "Cheltuitor de cărbune",
-    "popup_ame_ranking_row_title": "Rang",
+    "popup_ame_ranking_row_title": "Rang {0}",
     "popup_ame_rewardsUnlocked_desc": "Alianța ta a atins deja Nivelul Marelui Turneu {0}! Contribuția ta nu a trecut neobservată, iar tu ai fost recompensat cu următoarele premii pentru fondurile alianței tale, în semn de recunoaștere a faptelor tale:",
     "popup_ame_rewardsUnlocked_title": "Recompensa alianței primită",
     "popup_ame_rewards_division_name_3": "Bronz",
@@ -13186,7 +13190,19 @@
     "intro_advisor_samurai_short": "În timpul invaziei samurailor, lansați atacuri consecutive asupra taberelor samurailor fără oprire.",
     "title_advisor_samurai": "Consilier samurai",
     "currency_description_QuestTicket": "Biletele de misiune sunt necesare pentru a accepta misiunile din Marele Turneu. Puteți cumpăra 1 bilet suplimentar pentru fiecare eveniment. Biletele cumpărate nu se transferă la viitoarele Mari Turnee!",
-    "popup_ame_quest_reward_title": "Răsplată"
+    "popup_ame_quest_reward_title": "Răsplată",
+    "popup_ame_end_generic": "Turneul Mare s-a încheiat. Dacă alianța ta a fost eligibilă pentru recompense de clasament, verifică centrul de recompense!",
+    "popup_ame_end_generic_title": "Sfârșitul evenimentului",
+    "dialogue_are_activityreward_nexttier": "Următorul nivel",
+    "dialogue_are_activityreward_promotionreward_tooltip": "Recompensele sunt acordate imediat ce deblochezi următorul nivel. Recompensele colectate sunt marcate cu o pictogramă de bifare.",
+    "dialogue_are_activityreward_rank": "NIVEL {0}",
+    "dialogue_are_activityreward_tierreward": "Răsplată de nivel",
+    "dialogue_are_activityreward_tierunlocked": "Nivel deblocat",
+    "dialogue_are_activityreward_title": "Recompensă pentru activitate",
+    "dialogue_are_activityreward_unlockreward": "{0}: Deblochează recompensele",
+    "dialogue_are_eventended_description": "În ciuda eforturilor tale, inamicul încă stă. Șeful nu a fost învins în timpul alocat, iar puterea lui rămâne neclintită. Războinicii tăi au luptat cu curaj, dar dușmanul s-a dovedit prea mare. Ocazia a fost pierdută - deocamdată. Întărește-te, Comandante. O altă șansă va veni, iar cu ea, apelul de a lovi din nou.",
+    "dialogue_are_ringmenu_enter": "Introduceți evenimentul",
+    "dialogue_are_title": "Război al Riftului"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% puterea de luptă a unității în atac",
@@ -14578,7 +14594,8 @@
     "effect_name_attackSupportUnitsStrong": "Fii susținut de {0} în atacul din curte",
     "equip_effect_description_attackSupportUnitsStrong": "Obțineți sprijin de la {0} {1} în atacul din curte",
     "equip_description_AttackBoostYardDecoCapped": "+{0}% puterea de atac a curții",
-    "ci_effect_survivalBoost": "+{0}% mai mulți soldați supraviețuitori după apărare"
+    "ci_effect_survivalBoost": "+{0}% mai mulți soldați supraviețuitori după apărare",
+    "effect_description_attackBoostYardDecoCapped": "+{0}% puterea de atac în curte"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Erou",
@@ -18743,7 +18760,11 @@
     "equipment_unique_1353": "Warhammer de Crăciun",
     "equipment_unique_1353_desc": "Transformați-vă castelul într-o forjă de iarnă a bucuriei, unde o nicovală colosală strălucește în centrul și săbiile înalte strălucesc cu lumini festive și decorațiuni, un monument vesel pentru sărbătoare și putere.",
     "equipment_unique_1354": "Warhammer de Crăciun",
-    "equipment_unique_1354_desc": "Transformați-vă castelul într-o forjă de iarnă a bucuriei, unde o nicovală colosală strălucește în centrul și săbiile înalte strălucesc cu lumini festive și decorațiuni, un monument vesel pentru sărbătoare și putere."
+    "equipment_unique_1354_desc": "Transformați-vă castelul într-o forjă de iarnă a bucuriei, unde o nicovală colosală strălucește în centrul și săbiile înalte strălucesc cu lumini festive și decorațiuni, un monument vesel pentru sărbătoare și putere.",
+    "equipment_unique_1355": "Baghetă de deghizare",
+    "equipment_unique_1355_desc": "Transformă-ți castelul într-un regat bântuit.",
+    "equipment_unique_1356": "Lumânare suflet",
+    "equipment_unique_1356_desc": "Transformă-ți castelul într-un conac înfricoșător. Efectul durează 7 zile."
   },
   "generic": {
     "activity": "Activitate",

@@ -1036,6 +1036,19 @@
       "maxLevel": 1020
     },
     {
+      "eventID": 129,
+      "comment1": "Alliance Mobilization Event",
+      "comment2": "AME",
+      "kIDs": 0,
+      "areaTypes": 1,
+      "eventType": "AllianceMobilizationEvent",
+      "hubType": "Adventure",
+      "eventDuration": "Long",
+      "packageIDs": 3902,
+      "minLevel": 30,
+      "maxLevel": 1020
+    },
+    {
       "eventID": 130,
       "comment1": "SummerGacha",
       "kIDs": 0,

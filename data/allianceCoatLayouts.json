@@ -76,6 +76,33 @@
       "eventID": 103,
       "noofColors": 2,
       "effectIconID": 1
+    },
+    {
+      "allianceCoatLayoutID": 13,
+      "comment1": "AMERank1",
+      "maxDuration": 1209600,
+      "effects": "410&amp;5",
+      "eventID": 129,
+      "noofColors": 3,
+      "effectIconID": 1
+    },
+    {
+      "allianceCoatLayoutID": 14,
+      "comment1": "AMERank2",
+      "maxDuration": 1209600,
+      "effects": "410&amp;3",
+      "eventID": 129,
+      "noofColors": 3,
+      "effectIconID": 1
+    },
+    {
+      "allianceCoatLayoutID": 15,
+      "comment1": "AMERank3",
+      "maxDuration": 1209600,
+      "effects": "410&amp;2",
+      "eventID": 129,
+      "noofColors": 3,
+      "effectIconID": 1
     }
   ]
 }

@@ -842,7 +842,11 @@
     "info_attack_threshold": "Osiągnąłeś dzienny limit atak. Każdy nowy atak będzie teraz miał zwiększony koszt, który rośnie wykładniczo.",
     "title_attack_threshold": "Zwiększone koszty ataku",
     "info_advisor_warning_commander": "Ten typ dowódcy nie może być używany do ataków doradców. Aby móc przeprowadzać ataki doradców, przełącz się na innego dowódcę.",
-    "title_advisor_warning_commander": "Uwaga!"
+    "title_advisor_warning_commander": "Uwaga!",
+    "errorCode_454": "Nie można rozpocząć misji, gdy inna misja jest aktywna.",
+    "errorCode_455": "Nie można rozpocząć zadania, gdy jest w czasie odnowienia.",
+    "errorCode_459": "To zadanie jest obecnie zajęte przez innego gracza",
+    "errorCode_400": "Informacje o zadaniu się zmieniły."
   },
   "buildings_and_decorations": {
     "bakery_name": "Piekarnia",
@@ -13053,7 +13057,7 @@
     "popup_ame_quest_title_7": "24-godzinny wydawca czasu",
     "popup_ame_quest_title_8": "Podajnik szkła",
     "popup_ame_quest_title_9": "Wydawca węgla",
-    "popup_ame_ranking_row_title": "Pozycja",
+    "popup_ame_ranking_row_title": "Pozycja {0}",
     "popup_ame_rewardsUnlocked_desc": "Twoja sojusz już osiągnęła poziom Wielkiego Turnieju {0}! Twój wkład nie został niezauważony i przyznano ci następujące nagrody dla funduszy twojego sojuszu w uznaniu twoich czynów:",
     "popup_ame_rewardsUnlocked_title": "Otrzymano nagrodę sojuszu",
     "popup_ame_rewards_division_name_3": "Brąz",
@@ -13186,7 +13190,19 @@
     "intro_advisor_samurai_short": "Podczas inwazji samuraj?w przeprowadzaj kolejne ataki na obozy samuraj?w bez przerw.",
     "title_advisor_samurai": "Doradca samuraj?w",
     "currency_description_QuestTicket": "Bilety na zadania są potrzebne do akceptacji zadań w Wielkim Turnieju. Możesz kupić 1 dodatkowy na wydarzenie. Kupione bilety nie są przenoszone na przyszłe Wielkie Turnieje!",
-    "popup_ame_quest_reward_title": "Nagroda"
+    "popup_ame_quest_reward_title": "Nagroda",
+    "popup_ame_end_generic": "Wielki Turniej zakończony. Jeśli twoja sojusz była uprawniona do nagród rankingowych, sprawdź centrum nagród!",
+    "popup_ame_end_generic_title": "Koniec wydarzenia",
+    "dialogue_are_activityreward_nexttier": "Następny poziom",
+    "dialogue_are_activityreward_promotionreward_tooltip": "Nagrody są przyznawane, gdy tylko odblokujesz następny poziom. Zebrane nagrody są oznaczone ikoną znaku wyboru.",
+    "dialogue_are_activityreward_rank": "POZIOM {0}",
+    "dialogue_are_activityreward_tierreward": "Nagroda poziomu",
+    "dialogue_are_activityreward_tierunlocked": "Poziom odblokowany",
+    "dialogue_are_activityreward_title": "Nagroda za aktywność",
+    "dialogue_are_activityreward_unlockreward": "{0}: Odblokuj nagrody",
+    "dialogue_are_eventended_description": "Pomimo twoich wysiłków wróg wciąż stoi. Szef nie został pokonany w wyznaczonym czasie, a jego siła pozostaje nienaruszona. Twoi wojownicy walczyli dzielnie, ale wróg okazał się zbyt potężny. Szansa została stracona - na razie. Przygotuj się, Dowódco. Przyjdzie jeszcze jedna szansa, a z nią wezwanie do ponownego ataku.",
+    "dialogue_are_ringmenu_enter": "Wprowadź zdarzenie",
+    "dialogue_are_title": "Rift rajd"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% siły bojowej jednostki podczas ataku",
@@ -14578,7 +14594,8 @@
     "effect_name_attackSupportUnitsStrong": "Zyskaj wsparcie od {0} podczas ataku na dziedzińcu",
     "equip_effect_description_attackSupportUnitsStrong": "Uzyskaj wsparcie od {0} {1} w ataku na dziedzińcu",
     "equip_description_AttackBoostYardDecoCapped": "+{0}% siła ataku na dziedzińcu",
-    "ci_effect_survivalBoost": "+{0}% więcej ocalałych żołnierzy po obronie"
+    "ci_effect_survivalBoost": "+{0}% więcej ocalałych żołnierzy po obronie",
+    "effect_description_attackBoostYardDecoCapped": "+{0}% siła ataku na dziedzińcu"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Bohater",
@@ -18743,7 +18760,11 @@
     "equipment_unique_1353": "Świąteczny Warhammer",
     "equipment_unique_1353_desc": "Przekształć swój zamek w zimową kuźnię radości, gdzie kolosalna kowadło lśni w centrum, a wysokie miecze błyszczą świątecznymi światłami i ozdobami, wesoły pomnik świętowania i siły.",
     "equipment_unique_1354": "Świąteczny Warhammer",
-    "equipment_unique_1354_desc": "Przekształć swój zamek w zimową kuźnię radości, gdzie kolosalna kowadło lśni w centrum, a wysokie miecze błyszczą świątecznymi światłami i ozdobami, wesoły pomnik świętowania i siły."
+    "equipment_unique_1354_desc": "Przekształć swój zamek w zimową kuźnię radości, gdzie kolosalna kowadło lśni w centrum, a wysokie miecze błyszczą świątecznymi światłami i ozdobami, wesoły pomnik świętowania i siły.",
+    "equipment_unique_1355": "Różdżka przebrania",
+    "equipment_unique_1355_desc": "Przekształć swój zamek w nawiedzone królestwo.",
+    "equipment_unique_1356": "Świeca duszy",
+    "equipment_unique_1356_desc": "Przekształca twój zamek w straszny dwór. Efekt trwa 7 dni."
   },
   "generic": {
     "activity": "Działania",

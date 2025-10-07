@@ -842,7 +842,11 @@
     "info_attack_threshold": "Youve hit the daily limit of attacks. Each new attack will now have an increased cost, rising exponentially.",
     "title_attack_threshold": "Increased Attack Costs",
     "info_advisor_warning_commander": "This type of commander cant be used for Advisor Attacks. To be able to launch Advisor Attacks, please switch to a different commander.",
-    "title_advisor_warning_commander": "Attention!"
+    "title_advisor_warning_commander": "Attention!",
+    "errorCode_454": "Cant start a quest while another quest is active.",
+    "errorCode_455": "Cant start quest while its on cooldown.",
+    "errorCode_459": "This quest is currently occupied by another player.",
+    "errorCode_400": "Quest info has changed."
   },
   "buildings_and_decorations": {
     "bakery_name": "Bakery",
@@ -13053,7 +13057,7 @@
     "popup_ame_quest_title_7": "24h Time Skip Spender",
     "popup_ame_quest_title_8": "Glass Spender",
     "popup_ame_quest_title_9": "Coal Spender",
-    "popup_ame_ranking_row_title": "Rank",
+    "popup_ame_ranking_row_title": "Rank {0}",
     "popup_ame_rewardsUnlocked_desc": "Your alliance has already reached Grand Tournament Level {0}! Your contribution has not gone unnoticed, and you have been granted the following rewards for your alliance funds in recognition of your deeds:",
     "popup_ame_rewardsUnlocked_title": "Alliance reward received",
     "popup_ame_rewards_division_name_3": "Bronze",
@@ -13186,7 +13190,19 @@
     "intro_advisor_samurai_short": "During the Samurai Invasion, launch consecutive attacks on Samurai Camps with no downtime.",
     "title_advisor_samurai": "Samurai Advisor",
     "currency_description_QuestTicket": "Quest Tickets are needed to accept Grand Tournament quests. You can buy 1 extra per event. Bought tickets don’t carry over to future Grand Tournaments!",
-    "popup_ame_quest_reward_title": "Reward"
+    "popup_ame_quest_reward_title": "Reward",
+    "popup_ame_end_generic": "The Grand Tournament has ended, if your alliance was eligible for ranking rewards, check the reward hub!",
+    "popup_ame_end_generic_title": "Event End",
+    "dialogue_are_activityreward_nexttier": "Next tier",
+    "dialogue_are_activityreward_promotionreward_tooltip": "Rewards are granted as soon as you unlock the next tier. Collected rewards are marked with checkmark icon.",
+    "dialogue_are_activityreward_rank": "TIER {0}",
+    "dialogue_are_activityreward_tierreward": "Tier reward",
+    "dialogue_are_activityreward_tierunlocked": "Tier unlocked",
+    "dialogue_are_activityreward_title": "Activity reward",
+    "dialogue_are_activityreward_unlockreward": "{0}: Unlock rewards",
+    "dialogue_are_eventended_description": "Despite your efforts, the enemy still stands. The boss was not defeated within the allotted time, and its strength remains unbroken.\nYour warriors fought bravely, but the foe proved too great. The opportunity is lost—for now.\nSteel yourself, Commander. Another chance will come, and with it, the call to strike again.",
+    "dialogue_are_ringmenu_enter": "Enter event",
+    "dialogue_are_title": "Rift Raid"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% unit combat strength when attacking",
@@ -14578,7 +14594,8 @@
     "effect_name_attackSupportUnitsStrong": "Get supported by {0} in courtyard attack",
     "equip_effect_description_attackSupportUnitsStrong": "Get supported by {0} {1} in courtyard attack",
     "equip_description_AttackBoostYardDecoCapped": "+{0}% courtyard attack combat strength",
-    "ci_effect_survivalBoost": "+{0}% more surviving Soldiers after Defense"
+    "ci_effect_survivalBoost": "+{0}% more surviving Soldiers after Defense",
+    "effect_description_attackBoostYardDecoCapped": "+{0}% courtyard attack combat strength"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Hero",
@@ -18743,7 +18760,11 @@
     "equipment_unique_1353": "Christmas Warhammer",
     "equipment_unique_1353_desc": "Transform your castle into a wintry forge of cheer, where a colossal anvil gleams at the center and towering swords shine with festive lights and ornaments, a merry monument to celebration and strength.",
     "equipment_unique_1354": "Christmas Warhammer",
-    "equipment_unique_1354_desc": "Transform your castle into a wintry forge of cheer, where a colossal anvil gleams at the center and towering swords shine with festive lights and ornaments, a merry monument to celebration and strength."
+    "equipment_unique_1354_desc": "Transform your castle into a wintry forge of cheer, where a colossal anvil gleams at the center and towering swords shine with festive lights and ornaments, a merry monument to celebration and strength.",
+    "equipment_unique_1355": "Wand of disguise",
+    "equipment_unique_1355_desc": "Transforms your castle into a haunted kingdom.",
+    "equipment_unique_1356": "Soul candle",
+    "equipment_unique_1356_desc": "Transforms your castle into an spooky manor. The effect lasts 7 days."
   },
   "generic": {
     "activity": "Activity",

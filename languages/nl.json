@@ -842,7 +842,11 @@
     "info_attack_threshold": "Je hebt de dagelijkse limiet van aanvallen bereikt. Elke nieuwe aanval zal nu een verhoogde kost hebben, die exponentieel stijgt.",
     "title_attack_threshold": "Verhoogde aanvalskosten",
     "info_advisor_warning_commander": "Dit type commandant kan niet worden gebruikt voor adviseur-aanvallen. Om adviseur-aanvallen te kunnen lanceren, schakel over naar een andere commandant.",
-    "title_advisor_warning_commander": "Let op!"
+    "title_advisor_warning_commander": "Let op!",
+    "errorCode_454": "Je kunt geen quest starten terwijl een andere quest actief is.",
+    "errorCode_455": "Kan de quest niet starten terwijl deze op cooldown staat.",
+    "errorCode_459": "Deze quest is momenteel bezet door een andere speler",
+    "errorCode_400": "Quest-informatie is gewijzigd."
   },
   "buildings_and_decorations": {
     "bakery_name": "Bakkerij",
@@ -13053,7 +13057,7 @@
     "popup_ame_quest_title_7": "24uurs tijdsprong spender",
     "popup_ame_quest_title_8": "Glasdispenser",
     "popup_ame_quest_title_9": "Kolenverbrander",
-    "popup_ame_ranking_row_title": "Rang",
+    "popup_ame_ranking_row_title": "Rang {0}",
     "popup_ame_rewardsUnlocked_desc": "Je alliantie heeft al Grand Tournament Niveau {0} bereikt! Jouw bijdrage is niet onopgemerkt gebleven, en je hebt de volgende beloningen voor de fondsen van je alliantie gekregen ter erkenning van je daden:",
     "popup_ame_rewardsUnlocked_title": "Alliantiebeloning ontvangen",
     "popup_ame_rewards_division_name_3": "Brons",
@@ -13186,7 +13190,19 @@
     "intro_advisor_samurai_short": "Tijdens de Samurai-invasie, voer opeenvolgende aanvallen uit op Samurai-kampen zonder onderbrekingen.",
     "title_advisor_samurai": "Samurai-adviseur",
     "currency_description_QuestTicket": "Quest-tickets zijn nodig om Grand Tournament-quests te accepteren. Je kunt per evenement 1 extra ticket kopen. Gekocht tickets worden niet overgedragen naar toekomstige Grand Tournaments!",
-    "popup_ame_quest_reward_title": "Beloning"
+    "popup_ame_quest_reward_title": "Beloning",
+    "popup_ame_end_generic": "Het Grote Toernooi is afgelopen. Als jouw alliantie in aanmerking kwam voor rangbeloningen, controleer dan het beloningscentrum!",
+    "popup_ame_end_generic_title": "Einde van het evenement",
+    "dialogue_are_activityreward_nexttier": "Volgende laag",
+    "dialogue_are_activityreward_promotionreward_tooltip": "Beloningen worden verleend zodra je het volgende niveau ontgrendelt. Verzamelde beloningen zijn gemarkeerd met een vinkje-icoon.",
+    "dialogue_are_activityreward_rank": "NIVEAU {0}",
+    "dialogue_are_activityreward_tierreward": "Tierbeloning",
+    "dialogue_are_activityreward_tierunlocked": "Niveau ontgrendeld",
+    "dialogue_are_activityreward_title": "Activiteitsbeloning",
+    "dialogue_are_activityreward_unlockreward": "{0}: Ontgrendel beloningen",
+    "dialogue_are_eventended_description": "Ondanks je inspanningen staat de vijand nog steeds. De baas werd niet verslagen binnen de toegewezen tijd en zijn kracht blijft ongebroken. Je krijgers vochten dapper, maar de vijand bleek te groot. De kans is verloren - voor nu. Maak je sterk, Commandant. Een andere kans zal komen, en daarmee de oproep om opnieuw toe te slaan.",
+    "dialogue_are_ringmenu_enter": "Voer evenement in",
+    "dialogue_are_title": "Rift-aanval"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% eenheid vechtkracht bij aanvallen",
@@ -14578,7 +14594,8 @@
     "effect_name_attackSupportUnitsStrong": "Word ondersteund door {0} bij de binnenplaatsaanval",
     "equip_effect_description_attackSupportUnitsStrong": "Krijg steun van {0} {1} bij de binnenplaatsaanval",
     "equip_description_AttackBoostYardDecoCapped": "+{0}% binnenplaats-aanvalskracht",
-    "ci_effect_survivalBoost": "+{0}% meer overlevende soldaten na verdediging"
+    "ci_effect_survivalBoost": "+{0}% meer overlevende soldaten na verdediging",
+    "effect_description_attackBoostYardDecoCapped": "+{0}% aanvalskracht op het binnenplein"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Held",
@@ -18743,7 +18760,11 @@
     "equipment_unique_1353": "Kerst Warhammer",
     "equipment_unique_1353_desc": "Transformeer je kasteel in een winterse smederij van vreugde, waar een kolossale aambeeld glanst in het midden en torenhoge zwaarden schitteren met feestelijke lichten en ornamenten, een vrolijk monument voor viering en kracht.",
     "equipment_unique_1354": "Kerst Warhammer",
-    "equipment_unique_1354_desc": "Transformeer je kasteel in een winterse smederij van vreugde, waar een kolossale aambeeld glanst in het midden en torenhoge zwaarden schitteren met feestelijke lichten en ornamenten, een vrolijk monument voor viering en kracht."
+    "equipment_unique_1354_desc": "Transformeer je kasteel in een winterse smederij van vreugde, waar een kolossale aambeeld glanst in het midden en torenhoge zwaarden schitteren met feestelijke lichten en ornamenten, een vrolijk monument voor viering en kracht.",
+    "equipment_unique_1355": "Verkleedstok",
+    "equipment_unique_1355_desc": "Transformeer je kasteel in een spookachtig koninkrijk.",
+    "equipment_unique_1356": "Zielenkaars",
+    "equipment_unique_1356_desc": "Transformeert je kasteel in een griezelige herenhuis. Het effect duurt 7 dagen."
   },
   "generic": {
     "activity": "Activiteit",

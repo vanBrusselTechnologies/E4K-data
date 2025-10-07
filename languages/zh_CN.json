@@ -842,7 +842,11 @@
     "info_attack_threshold": "您已达到每日攻击限制。每次新的攻击现在将增加成本，并呈指数增长。",
     "title_attack_threshold": "增加的攻击成本",
     "info_advisor_warning_commander": "这种类型的指挥官无法用于顾问攻击。要启动顾问攻击，请切换到其他指挥官。",
-    "title_advisor_warning_commander": "注意！"
+    "title_advisor_warning_commander": "注意！",
+    "errorCode_454": "无法在另一个任务处于活动状态时启动任务。",
+    "errorCode_455": "在冷却期间无法开始任务。",
+    "errorCode_459": "此任务当前被另一名玩家占用",
+    "errorCode_400": "任务信息已更改。"
   },
   "buildings_and_decorations": {
     "bakery_name": "面包房",
@@ -13053,7 +13057,7 @@
     "popup_ame_quest_title_7": "24小时时间跳过消费",
     "popup_ame_quest_title_8": "玻璃分配器",
     "popup_ame_quest_title_9": "煤炭花费者",
-    "popup_ame_ranking_row_title": "级别",
+    "popup_ame_ranking_row_title": "级别 {0}",
     "popup_ame_rewardsUnlocked_desc": "您的联盟已经达到了大赛季等级 {0}！您的贡献得到了认可，您已获得以下奖励以用于联盟资金，以表彰您的行为：",
     "popup_ame_rewardsUnlocked_title": "联盟奖励已收到",
     "popup_ame_rewards_division_name_3": "青铜",
@@ -13186,7 +13190,19 @@
     "intro_advisor_samurai_short": "在武士入侵期间，对武士营地发起连续攻击，毫不间断。",
     "title_advisor_samurai": "武士顾问",
     "currency_description_QuestTicket": "任务票是接受大赛任务所需的。您可以每个活动购买1张额外的票。购买的票不能转入未来的大赛！",
-    "popup_ame_quest_reward_title": "奖励"
+    "popup_ame_quest_reward_title": "奖励",
+    "popup_ame_end_generic": "大赛已结束，如果您的联盟有资格获得排名奖励，请查看奖励中心！",
+    "popup_ame_end_generic_title": "活动结束",
+    "dialogue_are_activityreward_nexttier": "下一个层级",
+    "dialogue_are_activityreward_promotionreward_tooltip": "奖励在您解锁下一个等级时授予。收集的奖励用勾号图标标记。",
+    "dialogue_are_activityreward_rank": "级别 {0}",
+    "dialogue_are_activityreward_tierreward": "等级奖励",
+    "dialogue_are_activityreward_tierunlocked": "层级已解锁",
+    "dialogue_are_activityreward_title": "活动奖励",
+    "dialogue_are_activityreward_unlockreward": "{0}: 解锁奖励",
+    "dialogue_are_eventended_description": "尽管你努力，敌人仍然屹立不倒。首领未在规定时间内被击败，其力量依然不屈。你的战士勇敢作战，但敌人实在过于强大。机会已失 - 暂时。振作起来，指挥官。另一个机会将会到来，随之而来的是再次出击的号召。",
+    "dialogue_are_ringmenu_enter": "输入事件",
+    "dialogue_are_title": "裂缝突袭"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% 单位在攻击时的战斗力",
@@ -14578,7 +14594,8 @@
     "effect_name_attackSupportUnitsStrong": "{0}在庭院攻击中提供支持",
     "equip_effect_description_attackSupportUnitsStrong": "在庭院攻击中获得{0} {1}的支持",
     "equip_description_AttackBoostYardDecoCapped": "+{0}% 庭院攻击战斗力",
-    "ci_effect_survivalBoost": "+{0}% 更多幸存士兵在防御后"
+    "ci_effect_survivalBoost": "+{0}% 更多幸存士兵在防御后",
+    "effect_description_attackBoostYardDecoCapped": "+{0}% 庭院攻击战斗力"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "英雄",
@@ -18743,7 +18760,11 @@
     "equipment_unique_1353": "圣诞战争锤",
     "equipment_unique_1353_desc": "将你的城堡变成冬季的欢乐锻造场，中央一个巨大的铁砧闪闪发光，巍峨的剑闪耀着节日的灯光和装饰，成为庆祝和力量的愉快纪念碑。",
     "equipment_unique_1354": "圣诞战争锤",
-    "equipment_unique_1354_desc": "将你的城堡变成冬季的欢乐锻造场，中央一个巨大的铁砧闪闪发光，巍峨的剑闪耀着节日的灯光和装饰，成为庆祝和力量的愉快纪念碑。"
+    "equipment_unique_1354_desc": "将你的城堡变成冬季的欢乐锻造场，中央一个巨大的铁砧闪闪发光，巍峨的剑闪耀着节日的灯光和装饰，成为庆祝和力量的愉快纪念碑。",
+    "equipment_unique_1355": "变装魔杖",
+    "equipment_unique_1355_desc": "将您的城堡转变为一个鬼魂王国。",
+    "equipment_unique_1356": "灵魂之烛",
+    "equipment_unique_1356_desc": "将您的城堡转变为一个阴森的庄园。效果持续7天。"
   },
   "generic": {
     "activity": "活动",

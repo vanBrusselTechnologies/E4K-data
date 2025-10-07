@@ -2940,6 +2940,91 @@
       "topXValue": "10,3"
     },
     {
+      "leaguetypeEventsID": 587,
+      "leaguetypeID": 1,
+      "eventID": 129,
+      "subType": 0,
+      "rewardSetID": 1,
+      "allianceRewardThresholdPoints": 250
+    },
+    {
+      "leaguetypeEventsID": 588,
+      "leaguetypeID": 1,
+      "eventID": 129,
+      "subType": 1,
+      "rewardSetID": 1,
+      "neededPointsForRewards": "10000,20000,40000,60000,80000,100000,120000,140000",
+      "rewardIDs": "8814,8815,8816,8817,8818,8819,8820,8821"
+    },
+    {
+      "leaguetypeEventsID": 589,
+      "leaguetypeID": 2,
+      "eventID": 129,
+      "subType": 0,
+      "rewardSetID": 1,
+      "allianceRewardThresholdPoints": 250
+    },
+    {
+      "leaguetypeEventsID": 590,
+      "leaguetypeID": 2,
+      "eventID": 129,
+      "subType": 1,
+      "rewardSetID": 1,
+      "neededPointsForRewards": "10000,20000,40000,60000,80000,100000,120000,140000,160000,180000",
+      "rewardIDs": "8814,8815,8816,8817,8818,8819,8820,8821,8822,8823"
+    },
+    {
+      "leaguetypeEventsID": 591,
+      "leaguetypeID": 3,
+      "eventID": 129,
+      "subType": 0,
+      "rewardSetID": 1,
+      "allianceRewardThresholdPoints": 250
+    },
+    {
+      "leaguetypeEventsID": 592,
+      "leaguetypeID": 3,
+      "eventID": 129,
+      "subType": 1,
+      "rewardSetID": 1,
+      "neededPointsForRewards": "10000,20000,40000,60000,80000,100000,120000,140000,160000,180000,200000,220000",
+      "rewardIDs": "8814,8815,8816,8817,8818,8819,8820,8821,8822,8823,8824,8825"
+    },
+    {
+      "leaguetypeEventsID": 593,
+      "leaguetypeID": 4,
+      "eventID": 129,
+      "subType": 0,
+      "rewardSetID": 1,
+      "allianceRewardThresholdPoints": 250
+    },
+    {
+      "leaguetypeEventsID": 594,
+      "leaguetypeID": 4,
+      "eventID": 129,
+      "subType": 1,
+      "rewardSetID": 1,
+      "neededPointsForRewards": "10000,20000,40000,60000,80000,100000,120000,140000,160000,180000,200000,220000,240000,260000",
+      "rewardIDs": "8814,8815,8816,8817,8818,8819,8820,8821,8822,8823,8824,8825,8826,8827"
+    },
+    {
+      "leaguetypeEventsID": 595,
+      "leaguetypeID": 5,
+      "eventID": 129,
+      "subType": 0,
+      "rewardSetID": 1,
+      "allianceRewardThresholdPoints": 250
+    },
+    {
+      "leaguetypeEventsID": 596,
+      "leaguetypeID": 5,
+      "eventID": 129,
+      "subType": 1,
+      "rewardSetID": 1,
+      "neededPointsForRewards": "10000,20000,40000,60000,80000,100000,120000,140000,160000,180000,200000,220000,240000,260000,280000,300000",
+      "rewardIDs": "8814,8815,8816,8817,8818,8819,8820,8821,8822,8823,8824,8825,8826,8827,8828,8829"
+    },
+    {
       "leaguetypeEventsID": 81,
       "leaguetypeID": 1,
       "eventID": 130,

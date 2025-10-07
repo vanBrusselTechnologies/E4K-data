@@ -842,7 +842,11 @@
     "info_attack_threshold": "Hai raggiunto il limite giornaliero di attacchi. Ogni nuovo attacco avrà ora un costo aumentato, che crescerà esponenzialmente.",
     "title_attack_threshold": "Aumento dei costi di attacco",
     "info_advisor_warning_commander": "Questo tipo di comandante non può essere utilizzato per attacchi da parte degli advisor. Per poter lanciare attacchi da parte degli advisor, si prega di passare a un comandante diverso.",
-    "title_advisor_warning_commander": "Attenzione!"
+    "title_advisor_warning_commander": "Attenzione!",
+    "errorCode_454": "Non puoi avviare una missione mentre unaltra è attiva.",
+    "errorCode_455": "Impossibile avviare la missione mentre è in cooldown.",
+    "errorCode_459": "Questa missione è attualmente occupata da un altro giocatore",
+    "errorCode_400": "Le informazioni sulla missione sono cambiate."
   },
   "buildings_and_decorations": {
     "bakery_name": "Fornaio",
@@ -13053,7 +13057,7 @@
     "popup_ame_quest_title_7": "Spender di salti temporali di 24 ore",
     "popup_ame_quest_title_8": "Dispenser di vetro",
     "popup_ame_quest_title_9": "Sprecone di carbone",
-    "popup_ame_ranking_row_title": "Rango",
+    "popup_ame_ranking_row_title": "Rango {0}",
     "popup_ame_rewardsUnlocked_desc": "La tua alleanza ha già raggiunto il Livello del Grande Torneo {0}! Il tuo contributo non è passato inosservato e ti sono stati concessi i seguenti premi per i fondi della tua alleanza in riconoscimento delle tue azioni:",
     "popup_ame_rewardsUnlocked_title": "Ricompensa dellalleanza ricevuta",
     "popup_ame_rewards_division_name_3": "Bronzo",
@@ -13186,7 +13190,19 @@
     "intro_advisor_samurai_short": "Durante linvasione dei samurai, lancia attacchi consecutivi sui campi dei samurai senza pause.",
     "title_advisor_samurai": "Consigliere samurai",
     "currency_description_QuestTicket": "I biglietti delle missioni sono necessari per accettare le missioni del Grande Torneo. Puoi acquistare 1 biglietto extra per evento. I biglietti acquistati non vengono trasferiti ai futuri Grandi Tornei!",
-    "popup_ame_quest_reward_title": "Premio"
+    "popup_ame_quest_reward_title": "Premio",
+    "popup_ame_end_generic": "Il Grande Torneo è terminato. Se la tua alleanza era idonea per le ricompense di classifica, controlla il centro ricompense!",
+    "popup_ame_end_generic_title": "Fine dellevento",
+    "dialogue_are_activityreward_nexttier": "Prossimo livello",
+    "dialogue_are_activityreward_promotionreward_tooltip": "Le ricompense vengono assegnate non appena sblocchi il livello successivo. Le ricompense raccolte sono contrassegnate con unicona di spunta.",
+    "dialogue_are_activityreward_rank": "LIVELLO {0}",
+    "dialogue_are_activityreward_tierreward": "Premio di livello",
+    "dialogue_are_activityreward_tierunlocked": "Livello sbloccato",
+    "dialogue_are_activityreward_title": "Ricompensa per attivit?",
+    "dialogue_are_activityreward_unlockreward": "{0}: Sblocca ricompense",
+    "dialogue_are_eventended_description": "Nonostante i tuoi sforzi, il nemico ? ancora in piedi. Il boss non ? stato sconfitto entro il tempo assegnato e la sua forza rimane intatta. I tuoi guerrieri hanno combattuto valorosamente, ma il nemico si ? dimostrato troppo grande. Lopportunit? ? persa - per ora. Preparati, Comandante. Unaltra occasione arriver? e con essa, la chiamata a colpire di nuovo.",
+    "dialogue_are_ringmenu_enter": "Inserisci evento",
+    "dialogue_are_title": "Raid del Rift"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% di forza di combattimento dellunità in attacco",
@@ -14578,7 +14594,8 @@
     "effect_name_attackSupportUnitsStrong": "Ricevi supporto da {0} nellattacco al cortile",
     "equip_effect_description_attackSupportUnitsStrong": "Ricevi supporto da {0} {1} nellattacco al cortile",
     "equip_description_AttackBoostYardDecoCapped": "+{0}% forza di attacco del cortile",
-    "ci_effect_survivalBoost": "+{0}% di soldati sopravvissuti in più dopo la difesa"
+    "ci_effect_survivalBoost": "+{0}% di soldati sopravvissuti in più dopo la difesa",
+    "effect_description_attackBoostYardDecoCapped": "+{0}% forza dattacco nel cortile"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Eroe",
@@ -18743,7 +18760,11 @@
     "equipment_unique_1353": "Warhammer di Natale",
     "equipment_unique_1353_desc": "Trasforma il tuo castello in una fucina invernale di gioia, dove un colossale incudine brilla al centro e spade imponenti brillano con luci e ornamenti festivi, un monumento allegro alla celebrazione e alla forza.",
     "equipment_unique_1354": "Warhammer di Natale",
-    "equipment_unique_1354_desc": "Trasforma il tuo castello in una fucina invernale di gioia, dove un colossale incudine brilla al centro e spade imponenti brillano con luci e ornamenti festivi, un monumento allegro alla celebrazione e alla forza."
+    "equipment_unique_1354_desc": "Trasforma il tuo castello in una fucina invernale di gioia, dove un colossale incudine brilla al centro e spade imponenti brillano con luci e ornamenti festivi, un monumento allegro alla celebrazione e alla forza.",
+    "equipment_unique_1355": "Bastone del travestimento",
+    "equipment_unique_1355_desc": "Trasforma il tuo castello in un regno infestato.",
+    "equipment_unique_1356": "Candela dellanima",
+    "equipment_unique_1356_desc": "Trasforma il tuo castello in una villa spettrale. Leffetto dura 7 giorni."
   },
   "generic": {
     "activity": "Attività",

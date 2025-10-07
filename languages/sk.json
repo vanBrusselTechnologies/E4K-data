@@ -842,7 +842,11 @@
     "info_attack_threshold": "Dosiahli ste denný limit útokov. Každý nový útok bude teraz mať zvýšené náklady, ktoré budú rásť exponenciálne.",
     "title_attack_threshold": "Zvýšené náklady na útok",
     "info_advisor_warning_commander": "Tento typ veliteľa nemožno použiť na útoky poradcov. Aby ste mohli spustiť útoky poradcov, prepnite na iného veliteľa.",
-    "title_advisor_warning_commander": "Pozor!"
+    "title_advisor_warning_commander": "Pozor!",
+    "errorCode_454": "Nemôžete začať úlohu, keď je iná úloha aktívna.",
+    "errorCode_455": "Nemožno začať úlohu, keď je v cooldown režime.",
+    "errorCode_459": "Tento quest je momentálne obsadený iným hráčom",
+    "errorCode_400": "Informácie o úlohe sa zmenili."
   },
   "buildings_and_decorations": {
     "bakery_name": "Pekáreň",
@@ -13053,7 +13057,7 @@
     "popup_ame_quest_title_7": "24-hodinový spender času",
     "popup_ame_quest_title_8": "Dávkovač skla",
     "popup_ame_quest_title_9": "Zbytočný uhlí",
-    "popup_ame_ranking_row_title": "Hodnosť",
+    "popup_ame_ranking_row_title": "Hodnosť {0}",
     "popup_ame_rewardsUnlocked_desc": "Vaša aliancia už dosiahla úroveň Veľkého turnaja {0}! Vaša príspevok neostalo bez povšimnutia a boli vám udelené nasledujúce odmeny pre fondy vašej aliancie ako uznanie vašich skutkov:",
     "popup_ame_rewardsUnlocked_title": "Odměna aliancie prijatá",
     "popup_ame_rewards_division_name_3": "Bronz",
@@ -13186,7 +13190,19 @@
     "intro_advisor_samurai_short": "Počas invázie samurajov spúšťajte po sebe idúce útoky na samurajské tábory bez prestávky.",
     "title_advisor_samurai": "Samurajsk? poradca",
     "currency_description_QuestTicket": "Lístky na úlohy sú potrebné na prijatie úloh Veľkého turnaja. Môžete si kúpiť 1 ďalší lístok na každú akciu. Zakúpené lístky sa neprenášajú do budúcich Veľkých turnajov!",
-    "popup_ame_quest_reward_title": "Odmena"
+    "popup_ame_quest_reward_title": "Odmena",
+    "popup_ame_end_generic": "Veľké turnaj skončilo. Ak bola vaša aliancia oprávnená na odmeny za hodnotenie, skontrolujte centrum odmien!",
+    "popup_ame_end_generic_title": "Koniec podujatia",
+    "dialogue_are_activityreward_nexttier": "Ďalšia úroveň",
+    "dialogue_are_activityreward_promotionreward_tooltip": "Odmienky sú udeľované, hneď ako odomknete ďalšiu úroveň. Nazbierané odmeny sú označené ikonou zaškrtnutia.",
+    "dialogue_are_activityreward_rank": "ÚROVEŇ {0}",
+    "dialogue_are_activityreward_tierreward": "oveň",
+    "dialogue_are_activityreward_tierunlocked": "Úroveň odomknutá",
+    "dialogue_are_activityreward_title": "Odměna za aktivitu",
+    "dialogue_are_activityreward_unlockreward": "{0}: Odomknúť odmeny",
+    "dialogue_are_eventended_description": "Napriek vašim snahám nepriateľ stále stojí. Boss nebol porazený v stanovenom čase a jeho sila zostáva neporušená. Vaši bojovníci bojovali statočne, ale nepriateľ sa ukázal ako príliš veľký. Príležitosť je stratená - zatiaľ. Zocel sa, veliteľ. Ďalšia šanca príde a s ňou výzva znova zaútočiť.",
+    "dialogue_are_ringmenu_enter": "Zadajte udalosť",
+    "dialogue_are_title": "N?let na Rift"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% bojovej sily jednotky pri útoku",
@@ -14578,7 +14594,8 @@
     "effect_name_attackSupportUnitsStrong": "Získajte podporu od {0} pri útoku na nádvorí",
     "equip_effect_description_attackSupportUnitsStrong": "Získajte podporu od {0} {1} v útoku na nádvorí",
     "equip_description_AttackBoostYardDecoCapped": "+{0}% sila útoku na dvore",
-    "ci_effect_survivalBoost": "+{0}% viac preživších vojakov po obrane"
+    "ci_effect_survivalBoost": "+{0}% viac preživších vojakov po obrane",
+    "effect_description_attackBoostYardDecoCapped": "+{0}% sila útoku na dvore"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Hrdina",
@@ -18743,7 +18760,11 @@
     "equipment_unique_1353": "Vianočný Warhammer",
     "equipment_unique_1353_desc": "Premeňte svoj hrad na zimnú dielňu radosti, kde kolosálna kovadlina žiari v strede a vysoké meče sa lesknú s festivalovými svetlami a ozdobami, veselý pamätník oslavy a sily.",
     "equipment_unique_1354": "Vianočný Warhammer",
-    "equipment_unique_1354_desc": "Premeňte svoj hrad na zimnú dielňu radosti, kde kolosálna kovadlina žiari v strede a vysoké meče sa lesknú s festivalovými svetlami a ozdobami, veselý pamätník oslavy a sily."
+    "equipment_unique_1354_desc": "Premeňte svoj hrad na zimnú dielňu radosti, kde kolosálna kovadlina žiari v strede a vysoké meče sa lesknú s festivalovými svetlami a ozdobami, veselý pamätník oslavy a sily.",
+    "equipment_unique_1355": "Hůlka na prevleky",
+    "equipment_unique_1355_desc": "Premeníte svoj hrad na strašidelné kráľovstvo.",
+    "equipment_unique_1356": "Sviečka duší",
+    "equipment_unique_1356_desc": "Premeníte svoj hrad na strašidelný kaštieľ. Efekt trvá 7 dní."
   },
   "generic": {
     "activity": "Činnosť",

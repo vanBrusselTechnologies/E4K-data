@@ -842,7 +842,11 @@
     "info_attack_threshold": "Você atingiu o limite diário de ataques. Cada novo ataque agora terá um custo aumentado, que aumentará exponencialmente.",
     "title_attack_threshold": "Aumento dos custos de ataque",
     "info_advisor_warning_commander": "Esse tipo de comandante não pode ser usado para ataques de conselheiros. Para poder lançar ataques de conselheiros, troque para um comandante diferente.",
-    "title_advisor_warning_commander": "Atenção!"
+    "title_advisor_warning_commander": "Atenção!",
+    "errorCode_454": "Não é possível iniciar uma missão enquanto outra está ativa.",
+    "errorCode_455": "Não é possível iniciar a missão enquanto está em tempo de espera.",
+    "errorCode_459": "Esta missão está atualmente ocupada por outro jogador",
+    "errorCode_400": "As informações da missão mudaram."
   },
   "buildings_and_decorations": {
     "bakery_name": "Padaria",
@@ -13053,7 +13057,7 @@
     "popup_ame_quest_title_7": "Gasto de Salto de Tempo de 24h",
     "popup_ame_quest_title_8": "Dispensador de vidro",
     "popup_ame_quest_title_9": "Gasto de carvão",
-    "popup_ame_ranking_row_title": "Patente",
+    "popup_ame_ranking_row_title": "Patente {0}",
     "popup_ame_rewardsUnlocked_desc": "Sua aliança já alcançou o Nível do Grande Torneio {0}! Sua contribuição não passou despercebida, e você recebeu as seguintes recompensas para os fundos da sua aliança em reconhecimento aos seus feitos:",
     "popup_ame_rewardsUnlocked_title": "Recompensa da aliança recebida",
     "popup_ame_rewards_division_name_3": "Bronze",
@@ -13186,7 +13190,19 @@
     "intro_advisor_samurai_short": "Durante a invas?o samurai, lance ataques consecutivos nos acampamentos samurais sem tempo de inatividade.",
     "title_advisor_samurai": "Conselheiro samurai",
     "currency_description_QuestTicket": "Os ingressos de missão são necessários para aceitar as missões do Grande Torneio. Você pode comprar 1 extra por evento. Os ingressos comprados não são transferidos para futuros Grandes Torneios!",
-    "popup_ame_quest_reward_title": "Recompensa"
+    "popup_ame_quest_reward_title": "Recompensa",
+    "popup_ame_end_generic": "O Grande Torneio terminou. Se sua aliança era elegível para recompensas de classificação, verifique o centro de recompensas!",
+    "popup_ame_end_generic_title": "Fim do evento",
+    "dialogue_are_activityreward_nexttier": "Pr?ximo n?vel",
+    "dialogue_are_activityreward_promotionreward_tooltip": "As recompensas s?o concedidas assim que voc? desbloqueia o pr?ximo n?vel. As recompensas coletadas s?o marcadas com um ?cone de marca de sele??o.",
+    "dialogue_are_activityreward_rank": "N?VEL {0}",
+    "dialogue_are_activityreward_tierreward": "Recompensa de n?vel",
+    "dialogue_are_activityreward_tierunlocked": "N?vel desbloqueado",
+    "dialogue_are_activityreward_title": "Recompensa de atividade",
+    "dialogue_are_activityreward_unlockreward": "{0}: Desbloquear recompensas",
+    "dialogue_are_eventended_description": "Apesar de seus esfor?os, o inimigo ainda est? de p?. O chefe n?o foi derrotado dentro do tempo estipulado e sua for?a permanece inquebrant?vel. Seus guerreiros lutaram bravamente, mas o inimigo se mostrou grande demais. A oportunidade foi perdida - por enquanto. Prepare-se, Comandante. Uma nova chance vir?, e com ela, o chamado para atacar novamente.",
+    "dialogue_are_ringmenu_enter": "Digite o evento",
+    "dialogue_are_title": "Incurs?o do Rift"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% de força de combate da unidade ao atacar",
@@ -14578,7 +14594,8 @@
     "effect_name_attackSupportUnitsStrong": "Receba apoio de {0} no ataque ao pátio",
     "equip_effect_description_attackSupportUnitsStrong": "Receba apoio de {0} {1} no ataque ao pátio",
     "equip_description_AttackBoostYardDecoCapped": "+{0}% força de ataque no pátio",
-    "ci_effect_survivalBoost": "+{0}% mais soldados sobreviventes após defesa"
+    "ci_effect_survivalBoost": "+{0}% mais soldados sobreviventes após defesa",
+    "effect_description_attackBoostYardDecoCapped": "+{0}% força de ataque no pátio"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Herói",
@@ -18743,7 +18760,11 @@
     "equipment_unique_1353": "Warhammer de Natal",
     "equipment_unique_1353_desc": "Transforme seu castelo em uma forja invernal de alegria, onde uma colossal bigorna brilha no centro e espadas imponentes brilham com luzes festivas e ornamentos, um alegre monumento à celebração e à força.",
     "equipment_unique_1354": "Warhammer de Natal",
-    "equipment_unique_1354_desc": "Transforme seu castelo em uma forja invernal de alegria, onde uma colossal bigorna brilha no centro e espadas imponentes brilham com luzes festivas e ornamentos, um alegre monumento à celebração e à força."
+    "equipment_unique_1354_desc": "Transforme seu castelo em uma forja invernal de alegria, onde uma colossal bigorna brilha no centro e espadas imponentes brilham com luzes festivas e ornamentos, um alegre monumento à celebração e à força.",
+    "equipment_unique_1355": "Varinha de disfarce",
+    "equipment_unique_1355_desc": "Transforme seu castelo em um reino assombrado.",
+    "equipment_unique_1356": "Vela da alma",
+    "equipment_unique_1356_desc": "Transforma seu castelo em uma mansão assustadora. O efeito dura 7 dias."
   },
   "generic": {
     "activity": "Atividade",

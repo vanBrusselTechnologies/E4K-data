@@ -842,7 +842,11 @@
     "info_attack_threshold": "Vous avez atteint la limite quotidienne dattaques. Chaque nouvelle attaque aura maintenant un coût augmenté, qui augmentera de manière exponentielle.",
     "title_attack_threshold": "Coûts dattaque augmentés",
     "info_advisor_warning_commander": "Ce type de commandant ne peut pas être utilisé pour les attaques de conseiller. Pour pouvoir lancer des attaques de conseiller, veuillez passer à un autre commandant.",
-    "title_advisor_warning_commander": "Attention !"
+    "title_advisor_warning_commander": "Attention !",
+    "errorCode_454": "Impossible de commencer une quête tant quune autre est active.",
+    "errorCode_455": "Impossible de commencer la quête pendant son temps de recharge.",
+    "errorCode_459": "Cette quête est actuellement occupée par un autre joueur",
+    "errorCode_400": "Les informations de quête ont changé."
   },
   "buildings_and_decorations": {
     "bakery_name": "Boulangerie",
@@ -13053,7 +13057,7 @@
     "popup_ame_quest_title_7": "Dépenseur de saut dans le temps de 24h",
     "popup_ame_quest_title_8": "Distributeur de verre",
     "popup_ame_quest_title_9": "Dépensier de charbon",
-    "popup_ame_ranking_row_title": "Grade",
+    "popup_ame_ranking_row_title": "Grade {0}",
     "popup_ame_rewardsUnlocked_desc": "Votre alliance a déjà atteint le niveau Grand Tournoi {0} ! Votre contribution nest pas passée inaperçue, et vous avez reçu les récompenses suivantes pour les fonds de votre alliance en reconnaissance de vos actes :",
     "popup_ame_rewardsUnlocked_title": "Récompense dalliance reçue",
     "popup_ame_rewards_division_name_3": "Bronze",
@@ -13186,7 +13190,19 @@
     "intro_advisor_samurai_short": "Lors de linvasion des samoura?s, lancez des attaques cons?cutives sur les camps de samoura?s sans temps darr?t.",
     "title_advisor_samurai": "Conseiller samoura?",
     "currency_description_QuestTicket": "Les billets de quête sont nécessaires pour accepter les quêtes du Grand Tournoi. Vous pouvez en acheter 1 supplémentaire par événement. Les billets achetés ne sont pas reportés aux futurs Grands Tournois !",
-    "popup_ame_quest_reward_title": "Récompense"
+    "popup_ame_quest_reward_title": "Récompense",
+    "popup_ame_end_generic": "Le Grand Tournoi est terminé. Si votre alliance était éligible pour des récompenses de classement, vérifiez le hub des récompenses !",
+    "popup_ame_end_generic_title": "Fin de lévénement",
+    "dialogue_are_activityreward_nexttier": "Niveau suivant",
+    "dialogue_are_activityreward_promotionreward_tooltip": "Les r?compenses sont accord?es d?s que vous d?bloquez le niveau suivant. Les r?compenses collect?es sont marqu?es par une ic?ne de case ? cocher.",
+    "dialogue_are_activityreward_rank": "NIVEAU {0}",
+    "dialogue_are_activityreward_tierreward": "R?compense de niveau",
+    "dialogue_are_activityreward_tierunlocked": "Niveau d?bloqu?",
+    "dialogue_are_activityreward_title": "R?compense dactivit?",
+    "dialogue_are_activityreward_unlockreward": "{0}: D?bloquer les r?compenses",
+    "dialogue_are_eventended_description": "Malgr? vos efforts, lennemi est toujours l?. Le boss na pas ?t? vaincu dans le temps imparti, et sa force reste intacte. Vos guerriers se sont battus avec bravoure, mais lennemi sest av?r? trop fort. Lopportunit? est perdue - pour linstant. Armez-vous, Commandant. Une autre chance viendra, et avec elle, lappel ? frapper ? nouveau.",
+    "dialogue_are_ringmenu_enter": "Entrez l?v?nement",
+    "dialogue_are_title": "Raid du Rift"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% de force de combat de lunité lors de lattaque",
@@ -14578,7 +14594,8 @@
     "effect_name_attackSupportUnitsStrong": "Soyez soutenu par {0} lors de lattaque de la cour",
     "equip_effect_description_attackSupportUnitsStrong": "Soyez soutenu par {0} {1} dans lattaque de la cour",
     "equip_description_AttackBoostYardDecoCapped": "+{0}% force dattaque de la cour",
-    "ci_effect_survivalBoost": "+{0}% de soldats survivants supplémentaires après la défense"
+    "ci_effect_survivalBoost": "+{0}% de soldats survivants supplémentaires après la défense",
+    "effect_description_attackBoostYardDecoCapped": "+{0}% force dattaque de la cour"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Héros",
@@ -18743,7 +18760,11 @@
     "equipment_unique_1353": "Warhammer de Noël",
     "equipment_unique_1353_desc": "Transformez votre château en une forge hivernale de joie, où une énorme enclume brille au centre et où des épées géantes scintillent de lumières et dornements festifs, un monument joyeux à la célébration et à la force.",
     "equipment_unique_1354": "Warhammer de Noël",
-    "equipment_unique_1354_desc": "Transformez votre château en une forge hivernale de joie, où une énorme enclume brille au centre et où des épées géantes scintillent de lumières et dornements festifs, un monument joyeux à la célébration et à la force."
+    "equipment_unique_1354_desc": "Transformez votre château en une forge hivernale de joie, où une énorme enclume brille au centre et où des épées géantes scintillent de lumières et dornements festifs, un monument joyeux à la célébration et à la force.",
+    "equipment_unique_1355": "Bâton de déguisement",
+    "equipment_unique_1355_desc": "Transformez votre château en un royaume hanté.",
+    "equipment_unique_1356": "Bougie de lâme",
+    "equipment_unique_1356_desc": "Transformez votre château en un manoir effrayant. Leffet dure 7 jours."
   },
   "generic": {
     "activity": "Activité",

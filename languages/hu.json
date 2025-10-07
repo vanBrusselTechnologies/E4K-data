@@ -842,7 +842,11 @@
     "info_attack_threshold": "Elérte a napi támadási limitet. Minden új támadás most már növekvő költséggel jár, amely exponenciálisan nő.",
     "title_attack_threshold": "Megnövelt támadási költségek",
     "info_advisor_warning_commander": "Ez a típusú parancsnok nem használható tanácsadói támadásokhoz. Ha szeretnél tanácsadói támadást indítani, kérlek válts egy másik parancsnokra.",
-    "title_advisor_warning_commander": "Figyelem!"
+    "title_advisor_warning_commander": "Figyelem!",
+    "errorCode_454": "Nem lehet küldetést indítani, miközben egy másik aktív.",
+    "errorCode_455": "Nem indítható a küldetés, miközben az újratöltési időn van.",
+    "errorCode_459": "Ez a küldetés jelenleg egy másik játékos által van elfoglalva",
+    "errorCode_400": "A küldetés információi megváltoztak."
   },
   "buildings_and_decorations": {
     "bakery_name": "Pékség",
@@ -13053,7 +13057,7 @@
     "popup_ame_quest_title_7": "24 órás időugrás költő",
     "popup_ame_quest_title_8": "Üveg adagoló",
     "popup_ame_quest_title_9": "Szénpazarló",
-    "popup_ame_ranking_row_title": "Rang",
+    "popup_ame_ranking_row_title": "Rang {0}",
     "popup_ame_rewardsUnlocked_desc": "Szövetséged már elérte a Nagy Torná szintet {0}! Hozzájárulásod nem maradt észrevétlen, és az alábbi jutalmakat kaptad a szövetségi alapjaidra az tetteid elismeréseként:",
     "popup_ame_rewardsUnlocked_title": "Szövetségi jutalom megérkezett",
     "popup_ame_rewards_division_name_3": "Bronz",
@@ -13186,7 +13190,19 @@
     "intro_advisor_samurai_short": "A szamuráj invázió alatt, indíts egymást követő támadásokat a szamuráj táborok ellen leállás nélkül.",
     "title_advisor_samurai": "Szamur?j tan?csad?",
     "currency_description_QuestTicket": "A küldetési jegyek szükségesek a Nagy Tornához tartozó küldetések elfogadásához. Eseményenként 1 plusz jegyet vásárolhat. A megvásárolt jegyek nem vihetők át a jövőbeli Nagy Tornákra!",
-    "popup_ame_quest_reward_title": "Jutalom"
+    "popup_ame_quest_reward_title": "Jutalom",
+    "popup_ame_end_generic": "A Nagy Verseny véget ért. Ha szövetséged jogosult volt a rangsorolási jutalmakra, ellenőrizd a jutalomközpontot!",
+    "popup_ame_end_generic_title": "Esemény vége",
+    "dialogue_are_activityreward_nexttier": "Következő szint",
+    "dialogue_are_activityreward_promotionreward_tooltip": "A jutalmakat a következő szint feloldásakor adják. Az összegyűjtött jutalmakat pipás ikonnal jelölik.",
+    "dialogue_are_activityreward_rank": "SZINT {0}",
+    "dialogue_are_activityreward_tierreward": "Szint jutalom",
+    "dialogue_are_activityreward_tierunlocked": "Szint feloldva",
+    "dialogue_are_activityreward_title": "Tev?kenys?gi jutalom",
+    "dialogue_are_activityreward_unlockreward": "{0}: Jutalmak felold?sa",
+    "dialogue_are_eventended_description": "Erőfeszítéseid ellenére az ellenség még mindig áll. A főnök nem lett legyőzve a megadott időn belül, és ereje töretlen marad. Harcosaid bátran harcoltak, de az ellenfél túl nagy volt. A lehetőség elveszett - egyelőre. Készítsd fel magad, Parancsnok. Új lehetőség fog jönni, és vele a hívás, hogy ismét támadjunk.",
+    "dialogue_are_ringmenu_enter": "Esem?ny be?r?sa",
+    "dialogue_are_title": "Rift Rajta?t?s"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% egység harciereje támadáskor",
@@ -14578,7 +14594,8 @@
     "effect_name_attackSupportUnitsStrong": "Kapj támogatást {0}-tól a belső udvar támadásakor",
     "equip_effect_description_attackSupportUnitsStrong": "Kapj támogatást {0} {1} által a udvari támadás során",
     "equip_description_AttackBoostYardDecoCapped": "+{0}% udvari támadóerő",
-    "ci_effect_survivalBoost": "+{0}% több túlélő katona a védelem után"
+    "ci_effect_survivalBoost": "+{0}% több túlélő katona a védelem után",
+    "effect_description_attackBoostYardDecoCapped": "+{0}% udvari támadóerő"
   },
   "equipment_heroes_and_gems": {
     "equipment_slotType_hero": "Hős",
@@ -18743,7 +18760,11 @@
     "equipment_unique_1353": "Karácsonyi Warhammer",
     "equipment_unique_1353_desc": "Alakítsd át váradat egy téli örömkovácsműhellyé, ahol egy kolosszális üllő ragyog a középpontban, és a magas kardok ünnepi fényekben és díszekkel csillognak, egy vidám emlékhely az ünneplés és erő szellemében.",
     "equipment_unique_1354": "Karácsonyi Warhammer",
-    "equipment_unique_1354_desc": "Alakítsd át váradat egy téli örömkovácsműhellyé, ahol egy kolosszális üllő ragyog a középpontban, és a magas kardok ünnepi fényekben és díszekkel csillognak, egy vidám emlékhely az ünneplés és erő szellemében."
+    "equipment_unique_1354_desc": "Alakítsd át váradat egy téli örömkovácsműhellyé, ahol egy kolosszális üllő ragyog a középpontban, és a magas kardok ünnepi fényekben és díszekkel csillognak, egy vidám emlékhely az ünneplés és erő szellemében.",
+    "equipment_unique_1355": "Álcázó pálca",
+    "equipment_unique_1355_desc": "Alakítsd át a váradat egy kísértetjárta királysággá.",
+    "equipment_unique_1356": "Lélekgyertya",
+    "equipment_unique_1356_desc": "Átalakítja a kastélyodat egy ijesztő kúriává. A hatás 7 napig tart."
   },
   "generic": {
     "activity": "Aktivitás",

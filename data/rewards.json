@@ -123055,6 +123055,357 @@
       "add24HourSkip": 283
     },
     {
+      "rewardID": 8794,
+      "comment1": "Subdivision Leaderboard Rewards - 1",
+      "comment2": "Gold 1",
+      "addValentaToken": 30,
+      "decoWodID": 4320,
+      "grantType": 2,
+      "addGenXP15000": 40
+    },
+    {
+      "rewardID": 8795,
+      "comment1": "Subdivision Leaderboard Rewards - 2",
+      "comment2": "Gold 2",
+      "addValentaToken": 28,
+      "decoWodID": 4321,
+      "grantType": 2,
+      "addGenXP15000": 38
+    },
+    {
+      "rewardID": 8796,
+      "comment1": "Subdivision Leaderboard Rewards - 3",
+      "comment2": "Gold 3",
+      "addValentaToken": 26,
+      "decoWodID": 4322,
+      "grantType": 2,
+      "addGenXP15000": 36
+    },
+    {
+      "rewardID": 8797,
+      "comment1": "Subdivision Leaderboard Rewards - 4",
+      "comment2": "Gold 4-5",
+      "addValentaToken": 20,
+      "decoWodID": 4323,
+      "grantType": 2,
+      "addGenXP15000": 30
+    },
+    {
+      "rewardID": 8798,
+      "comment1": "Subdivision Leaderboard Rewards - 5",
+      "comment2": "Silver 1",
+      "addValentaToken": 15,
+      "addGenXP15000": 25,
+      "grantType": 2
+    },
+    {
+      "rewardID": 8799,
+      "comment1": "Subdivision Leaderboard Rewards - 6",
+      "comment2": "Silver 2",
+      "addValentaToken": 12,
+      "addGenXP15000": 22,
+      "grantType": 2
+    },
+    {
+      "rewardID": 8800,
+      "comment1": "Subdivision Leaderboard Rewards - 7",
+      "comment2": "Silver 3",
+      "addValentaToken": 10,
+      "addGenXP15000": 20,
+      "grantType": 2
+    },
+    {
+      "rewardID": 8801,
+      "comment1": "Subdivision Leaderboard Rewards - 8",
+      "comment2": "Silver 4-5",
+      "addValentaToken": 7,
+      "addGenXP15000": 17,
+      "grantType": 2
+    },
+    {
+      "rewardID": 8802,
+      "comment1": "Subdivision Leaderboard Rewards - 9",
+      "comment2": "Bronze 1",
+      "addValentaToken": 5,
+      "addGenXP15000": 15,
+      "grantType": 2
+    },
+    {
+      "rewardID": 8803,
+      "comment1": "Subdivision Leaderboard Rewards - 10",
+      "comment2": "Bronze 2",
+      "addValentaToken": 4,
+      "addGenXP15000": 14,
+      "grantType": 2
+    },
+    {
+      "rewardID": 8804,
+      "comment1": "Subdivision Leaderboard Rewards - 11",
+      "comment2": "Bronze 3",
+      "addValentaToken": 3,
+      "addGenXP15000": 12,
+      "grantType": 2
+    },
+    {
+      "rewardID": 8805,
+      "comment1": "Subdivision Leaderboard Rewards - 12",
+      "comment2": "Bronze 4-6",
+      "addValentaToken": 2,
+      "addGenXP15000": 12,
+      "grantType": 2
+    },
+    {
+      "rewardID": 8806,
+      "comment1": "Subdivision Leaderboard Rewards - 13",
+      "comment2": "Glass 1",
+      "addPrincessToken": 5,
+      "grantType": 2
+    },
+    {
+      "rewardID": 8807,
+      "comment1": "Subdivision Leaderboard Rewards - 14",
+      "comment2": "Glass 2",
+      "addPrincessToken": 4,
+      "grantType": 2
+    },
+    {
+      "rewardID": 8808,
+      "comment1": "Subdivision Leaderboard Rewards - 15",
+      "comment2": "Glass 3",
+      "addPrincessToken": 3,
+      "grantType": 2
+    },
+    {
+      "rewardID": 8809,
+      "comment1": "Subdivision Leaderboard Rewards - 16",
+      "comment2": "Glass 4-8",
+      "addPrincessToken": 2,
+      "grantType": 2
+    },
+    {
+      "rewardID": 8810,
+      "comment1": "Subdivision Leaderboard Rewards - 17",
+      "comment2": "Copper 1",
+      "addPrincessToken": 2,
+      "grantType": 2
+    },
+    {
+      "rewardID": 8811,
+      "comment1": "Subdivision Leaderboard Rewards - 18",
+      "comment2": "Copper 2",
+      "addKnightToken": 3,
+      "grantType": 2
+    },
+    {
+      "rewardID": 8812,
+      "comment1": "Subdivision Leaderboard Rewards - 19",
+      "comment2": "Copper 3",
+      "addFatKingToken": 5,
+      "grantType": 2
+    },
+    {
+      "rewardID": 8813,
+      "comment1": "Subdivision Leaderboard Rewards - 20",
+      "comment2": "Copper 4-10",
+      "addFatKingToken": 2,
+      "grantType": 2
+    },
+    {
+      "rewardID": 8814,
+      "comment1": "Activity Reward - 1",
+      "comment2": "Copper",
+      "addGoldToken": 200,
+      "grantType": 2
+    },
+    {
+      "rewardID": 8815,
+      "comment1": "Activity Reward - 2",
+      "comment2": "Copper",
+      "addGoldToken": 400,
+      "grantType": 2
+    },
+    {
+      "rewardID": 8816,
+      "comment1": "Activity Reward - 3",
+      "comment2": "Copper",
+      "addGoldToken": 600,
+      "grantType": 2
+    },
+    {
+      "rewardID": 8817,
+      "comment1": "Activity Reward - 4",
+      "comment2": "Copper",
+      "addGoldToken": 800,
+      "grantType": 2
+    },
+    {
+      "rewardID": 8818,
+      "comment1": "Activity Reward - 5",
+      "comment2": "Copper",
+      "addGoldToken": 1000,
+      "grantType": 2
+    },
+    {
+      "rewardID": 8819,
+      "comment1": "Activity Reward - 6",
+      "comment2": "Copper",
+      "addGoldToken": 1200,
+      "grantType": 2
+    },
+    {
+      "rewardID": 8820,
+      "comment1": "Activity Reward - 7",
+      "comment2": "Copper",
+      "addLegendaryToken": 40,
+      "grantType": 2
+    },
+    {
+      "rewardID": 8821,
+      "comment1": "Activity Reward - 8",
+      "comment2": "Copper",
+      "addLegendaryMaterial": 80,
+      "grantType": 2
+    },
+    {
+      "rewardID": 8822,
+      "comment1": "Activity Reward - 9",
+      "comment2": "Glass",
+      "addLegendaryToken": 50,
+      "grantType": 2
+    },
+    {
+      "rewardID": 8823,
+      "comment1": "Activity Reward - 10",
+      "comment2": "Glass",
+      "addLegendaryMaterial": 100,
+      "grantType": 2
+    },
+    {
+      "rewardID": 8824,
+      "comment1": "Activity Reward - 11",
+      "comment2": "Bronze",
+      "addLegendaryToken": 75,
+      "addGenXP15000": 5,
+      "grantType": 2
+    },
+    {
+      "rewardID": 8825,
+      "comment1": "Activity Reward - 12",
+      "comment2": "Bronze",
+      "addValentaToken": 5,
+      "addLegendaryMaterial": 150,
+      "grantType": 2
+    },
+    {
+      "rewardID": 8826,
+      "comment1": "Activity Reward - 13",
+      "comment2": "Silver",
+      "addGenXP15000": 15,
+      "addLegendaryToken": 75,
+      "addLegendaryMaterial": 150,
+      "grantType": 2
+    },
+    {
+      "rewardID": 8827,
+      "comment1": "Activity Reward - 14",
+      "comment2": "Silver",
+      "addValentaToken": 15,
+      "decoWodID": 4324,
+      "addSceatToken": 90,
+      "grantType": 2
+    },
+    {
+      "rewardID": 8828,
+      "comment1": "Activity Reward - 15",
+      "comment2": "Gold",
+      "addGenXP15000": 30,
+      "addLegendaryToken": 75,
+      "addLegendaryMaterial": 150,
+      "grantType": 2
+    },
+    {
+      "rewardID": 8829,
+      "comment1": "Activity Reward - 16",
+      "comment2": "Gold",
+      "addValentaToken": 20,
+      "addSceatToken": 130,
+      "addLegendaryToken": 125,
+      "grantType": 2,
+      "addLegendaryMaterial": 250
+    },
+    {
+      "rewardID": 8830,
+      "comment1": "Subdivision Leaderboard Rewards - First Time Only",
+      "comment2": "Copper 1",
+      "addSasakiToken": 15,
+      "addGenXP15000": 25,
+      "addSceatToken": 100,
+      "grantType": 2,
+      "addLegendaryMaterial": 400,
+      "addLegendaryToken": 200
+    },
+    {
+      "rewardID": 8831,
+      "comment1": "Subdivision Leaderboard Rewards - First Time Only",
+      "comment2": "Copper 2",
+      "addSasakiToken": 12,
+      "addGenXP15000": 22,
+      "addSceatToken": 80,
+      "grantType": 2,
+      "addLegendaryMaterial": 320,
+      "addLegendaryToken": 160
+    },
+    {
+      "rewardID": 8832,
+      "comment1": "Subdivision Leaderboard Rewards - First Time Only",
+      "comment2": "Copper 3",
+      "addSasakiToken": 10,
+      "addGenXP15000": 20,
+      "addSceatToken": 60,
+      "grantType": 2,
+      "addLegendaryMaterial": 240,
+      "addLegendaryToken": 120
+    },
+    {
+      "rewardID": 8833,
+      "comment1": "Subdivision Leaderboard Rewards - First Time Only",
+      "comment2": "Copper 4-7",
+      "addSceatToken": 50,
+      "addLegendaryMaterial": 200,
+      "addLegendaryToken": 100,
+      "grantType": 2
+    },
+    {
+      "rewardID": 8834,
+      "comment1": "Subdivision Leaderboard Rewards - First Time Only",
+      "comment2": "Copper 8-10",
+      "addSceatToken": 40,
+      "addLegendaryMaterial": 160,
+      "addLegendaryToken": 80,
+      "grantType": 2
+    },
+    {
+      "rewardID": 8835,
+      "comment1": "Subdivision Leaderboard Rewards - 1 - Alliance Funds",
+      "comment2": "Gold 1",
+      "allianceCoatLayout": "13+1209600",
+      "grantType": 1
+    },
+    {
+      "rewardID": 8836,
+      "comment1": "Subdivision Leaderboard Rewards - 2 - Alliance Funds",
+      "comment2": "Gold 2",
+      "allianceCoatLayout": "14+1209600",
+      "grantType": 1
+    },
+    {
+      "rewardID": 8837,
+      "comment1": "Subdivision Leaderboard Rewards - 3 - Alliance Funds",
+      "comment2": "Gold 3",
+      "allianceCoatLayout": "15+1209600",
+      "grantType": 1
+    },
+    {
       "rewardID": 20001,
       "units": "649+54"
     },

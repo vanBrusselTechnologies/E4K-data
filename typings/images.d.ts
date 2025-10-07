@@ -717,6 +717,7 @@ export interface Images {
     "Castle_Mapobject_Capital_Classic_Special_GrandNewKingCrown": ImageData;
     "Castle_Mapobject_Capital_Classic_Special_GrandSapphireBrooch": ImageData;
     "Castle_Mapobject_Capital_Classic_Special_HalloweenRing": ImageData;
+    "Castle_Mapobject_Capital_Classic_Special_HalloweenRing2025": ImageData;
     "Castle_Mapobject_Capital_Classic_Special_HarpBaron": ImageData;
     "Castle_Mapobject_Capital_Classic_Special_IceJug": ImageData;
     "Castle_Mapobject_Capital_Classic_Special_IcedLava": ImageData;
@@ -732,6 +733,7 @@ export interface Images {
     "Castle_Mapobject_Capital_Classic_Special_RosewoodBud": ImageData;
     "Castle_Mapobject_Capital_Classic_Special_Sand": ImageData;
     "Castle_Mapobject_Capital_Classic_Special_Saxophone": ImageData;
+    "Castle_Mapobject_Capital_Classic_Special_Snowflakehouse2025": ImageData;
     "Castle_Mapobject_Capital_Classic_Special_SoulCandle": ImageData;
     "Castle_Mapobject_Capital_Classic_Special_SpringBell": ImageData;
     "Castle_Mapobject_Capital_Classic_Special_SpringHoneycomb": ImageData;
@@ -742,6 +744,7 @@ export interface Images {
     "Castle_Mapobject_Capital_Classic_Special_TreasureChest": ImageData;
     "Castle_Mapobject_Capital_Classic_Special_Underworld": ImageData;
     "Castle_Mapobject_Capital_Classic_Special_VikingBaron": ImageData;
+    "Castle_Mapobject_Capital_Classic_Special_VikingBaron2025": ImageData;
     "Castle_Mapobject_Capital_Classic_Special_WinterBaron": ImageData;
     "Castle_Mapobject_Capital_Classic_Special_WitchCastle": ImageData;
     "Castle_Mapobject_Capital_Classic_Special_WoodAxe": ImageData;
@@ -800,6 +803,7 @@ export interface Images {
     "Castle_Mapobject_Special_GrandNewKingCrown": ImageData;
     "Castle_Mapobject_Special_GrandSapphireBrooch": ImageData;
     "Castle_Mapobject_Special_HalloweenRing": ImageData;
+    "Castle_Mapobject_Special_HalloweenRing2025": ImageData;
     "Castle_Mapobject_Special_HarpBaron": ImageData;
     "Castle_Mapobject_Special_IceJug": ImageData;
     "Castle_Mapobject_Special_IcedLava": ImageData;
@@ -815,6 +819,7 @@ export interface Images {
     "Castle_Mapobject_Special_RosewoodBud": ImageData;
     "Castle_Mapobject_Special_Sand": ImageData;
     "Castle_Mapobject_Special_Saxophone": ImageData;
+    "Castle_Mapobject_Special_Snowflakehouse2025": ImageData;
     "Castle_Mapobject_Special_SoulCandle": ImageData;
     "Castle_Mapobject_Special_SpringBell": ImageData;
     "Castle_Mapobject_Special_SpringHoneycomb": ImageData;
@@ -829,6 +834,7 @@ export interface Images {
     "Castle_Mapobject_Special_Underworld_4": ImageData;
     "Castle_Mapobject_Special_Underworld_5": ImageData;
     "Castle_Mapobject_Special_VikingBaron": ImageData;
+    "Castle_Mapobject_Special_VikingBaron2025": ImageData;
     "Castle_Mapobject_Special_WinterBaron": ImageData;
     "Castle_Mapobject_Special_WitchCastle": ImageData;
     "Castle_Mapobject_Special_WoodAxe": ImageData;
@@ -3654,6 +3660,7 @@ export interface Images {
     "Metropol_Mapobject_Basic_Special_GrandNewKingCrown": ImageData;
     "Metropol_Mapobject_Basic_Special_GrandSapphireBrooch": ImageData;
     "Metropol_Mapobject_Basic_Special_HalloweenRing": ImageData;
+    "Metropol_Mapobject_Basic_Special_HalloweenRing2025": ImageData;
     "Metropol_Mapobject_Basic_Special_HarpBaron": ImageData;
     "Metropol_Mapobject_Basic_Special_IceJug": ImageData;
     "Metropol_Mapobject_Basic_Special_IcedLava": ImageData;
@@ -3669,6 +3676,7 @@ export interface Images {
     "Metropol_Mapobject_Basic_Special_RosewoodBud": ImageData;
     "Metropol_Mapobject_Basic_Special_Sand": ImageData;
     "Metropol_Mapobject_Basic_Special_Saxophone": ImageData;
+    "Metropol_Mapobject_Basic_Special_Snowflakehouse2025": ImageData;
     "Metropol_Mapobject_Basic_Special_SoulCandle": ImageData;
     "Metropol_Mapobject_Basic_Special_SpringBell": ImageData;
     "Metropol_Mapobject_Basic_Special_SpringHoneycomb": ImageData;
@@ -3679,6 +3687,7 @@ export interface Images {
     "Metropol_Mapobject_Basic_Special_TreasureChest": ImageData;
     "Metropol_Mapobject_Basic_Special_Underworld": ImageData;
     "Metropol_Mapobject_Basic_Special_VikingBaron": ImageData;
+    "Metropol_Mapobject_Basic_Special_VikingBaron2025": ImageData;
     "Metropol_Mapobject_Basic_Special_WinterBaron": ImageData;
     "Metropol_Mapobject_Basic_Special_WitchCastle": ImageData;
     "Metropol_Mapobject_Basic_Special_WoodAxe": ImageData;
@@ -3858,6 +3867,7 @@ export interface Images {
     "Outpost_Mapobject_Level_Special_GrandNewKingCrown": ImageData;
     "Outpost_Mapobject_Level_Special_GrandSapphireBrooch": ImageData;
     "Outpost_Mapobject_Level_Special_HalloweenRing": ImageData;
+    "Outpost_Mapobject_Level_Special_HalloweenRing2025": ImageData;
     "Outpost_Mapobject_Level_Special_HarpBaron": ImageData;
     "Outpost_Mapobject_Level_Special_IceJug": ImageData;
     "Outpost_Mapobject_Level_Special_IcedLava": ImageData;
@@ -3873,6 +3883,7 @@ export interface Images {
     "Outpost_Mapobject_Level_Special_RosewoodBud": ImageData;
     "Outpost_Mapobject_Level_Special_Sand": ImageData;
     "Outpost_Mapobject_Level_Special_Saxophone": ImageData;
+    "Outpost_Mapobject_Level_Special_Snowflakehouse2025": ImageData;
     "Outpost_Mapobject_Level_Special_SoulCandle": ImageData;
     "Outpost_Mapobject_Level_Special_SpringBell": ImageData;
     "Outpost_Mapobject_Level_Special_SpringHoneycomb": ImageData;
@@ -3882,6 +3893,7 @@ export interface Images {
     "Outpost_Mapobject_Level_Special_SummerAppearence": ImageData;
     "Outpost_Mapobject_Level_Special_TreasureChest": ImageData;
     "Outpost_Mapobject_Level_Special_VikingBaron": ImageData;
+    "Outpost_Mapobject_Level_Special_VikingBaron2025": ImageData;
     "Outpost_Mapobject_Level_Special_WinterBaron": ImageData;
     "Outpost_Mapobject_Level_Special_WitchCastle": ImageData;
     "Outpost_Mapobject_Level_Special_WoodAxe": ImageData;
@@ -4112,6 +4124,7 @@ export interface Images {
     "Preview_Castle_Mapobject_Special_GrandNewKingCrown": ImageData;
     "Preview_Castle_Mapobject_Special_GrandSapphireBrooch": ImageData;
     "Preview_Castle_Mapobject_Special_HalloweenRing": ImageData;
+    "Preview_Castle_Mapobject_Special_HalloweenRing2025": ImageData;
     "Preview_Castle_Mapobject_Special_HarpBaron": ImageData;
     "Preview_Castle_Mapobject_Special_IceJug": ImageData;
     "Preview_Castle_Mapobject_Special_IcedLava": ImageData;
@@ -4127,6 +4140,7 @@ export interface Images {
     "Preview_Castle_Mapobject_Special_RosewoodBud": ImageData;
     "Preview_Castle_Mapobject_Special_Sand": ImageData;
     "Preview_Castle_Mapobject_Special_Saxophone": ImageData;
+    "Preview_Castle_Mapobject_Special_Snowflakehouse2025": ImageData;
     "Preview_Castle_Mapobject_Special_SoulCandle": ImageData;
     "Preview_Castle_Mapobject_Special_SpringBell": ImageData;
     "Preview_Castle_Mapobject_Special_SpringHoneycomb": ImageData;
@@ -4141,6 +4155,7 @@ export interface Images {
     "Preview_Castle_Mapobject_Special_Underworld_4": ImageData;
     "Preview_Castle_Mapobject_Special_Underworld_5": ImageData;
     "Preview_Castle_Mapobject_Special_VikingBaron": ImageData;
+    "Preview_Castle_Mapobject_Special_VikingBaron2025": ImageData;
     "Preview_Castle_Mapobject_Special_WinterBaron": ImageData;
     "Preview_Castle_Mapobject_Special_WitchCastle": ImageData;
     "Preview_Castle_Mapobject_Special_WoodAxe": ImageData;
@@ -7517,6 +7532,7 @@ export interface Images {
     "icon_message_special_event_129": ImageData;
     "icon_message_special_event_130": ImageData;
     "icon_message_special_event_131": ImageData;
+    "icon_message_special_event_133": ImageData;
     "icon_message_special_event_3": ImageData;
     "icon_message_special_event_4": ImageData;
     "icon_message_special_event_601": ImageData;
@@ -8252,6 +8268,9 @@ export interface Images {
     "items_unique_1312": ImageData;
     "items_unique_1313": ImageData;
     "items_unique_1317": ImageData;
+    "items_unique_1322": ImageData;
+    "items_unique_1333": ImageData;
+    "items_unique_1344": ImageData;
     "items_unique_14": ImageData;
     "items_unique_15": ImageData;
     "items_unique_16": ImageData;
@@ -8940,6 +8959,7 @@ export interface Images {
     "storm_island_bronze": ImageData;
     "storm_island_gold": ImageData;
     "storm_island_silver": ImageData;
+    "teaser_AME_adjustment": ImageData;
     "teaser_AME_adjustments": ImageData;
     "teaser_AME_normal": ImageData;
     "teaser_AME_qualification": ImageData;
@@ -8976,6 +8996,9 @@ export interface Images {
     "teaser_ame_starter_1": ImageData;
     "teaser_ame_starter_2": ImageData;
     "teaser_ame_starter_3": ImageData;
+    "teaser_are_starter_1": ImageData;
+    "teaser_are_starter_2": ImageData;
+    "teaser_are_starter_3": ImageData;
     "teaser_battle_lost": ImageData;
     "teaser_battle_won": ImageData;
     "teaser_berimond_splash": ImageData;
