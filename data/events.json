@@ -1069,6 +1069,17 @@
       "eventDuration": "Long",
       "minLevel": 10,
       "maxLevel": 1020
+    },
+    {
+      "eventID": 132,
+      "comment1": "HalloweenLootboxEvent",
+      "kIDs": 0,
+      "areaTypes": 1,
+      "eventType": "HalloweenGacha",
+      "hubType": "Adventure",
+      "eventDuration": "Long",
+      "minLevel": 10,
+      "maxLevel": 1020
     }
   ]
 }

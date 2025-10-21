@@ -743,6 +743,13 @@
       "assetName": "KaelrithToken"
     },
     {
+      "currencyID": 6013,
+      "crossplayID": 6013,
+      "Name": "BarinToken",
+      "JSONKey": "BRN",
+      "assetName": "BarinToken"
+    },
+    {
       "currencyID": 6014,
       "crossplayID": 6014,
       "Name": "EdricToken",
@@ -846,6 +853,13 @@
       "Name": "ShardKaelrith",
       "JSONKey": "SKL",
       "assetName": "ShardKaelrith"
+    },
+    {
+      "currencyID": 10017,
+      "crossplayID": 10017,
+      "Name": "ShardBarin",
+      "JSONKey": "SBR",
+      "assetName": "ShardBarin"
     },
     {
       "currencyID": 10016,
@@ -1224,6 +1238,13 @@
       "Name": "LuckySlice",
       "JSONKey": "LCS",
       "assetName": "LuckySlice"
+    },
+    {
+      "currencyID": 9,
+      "crossplayID": 9,
+      "Name": "SweetTreat",
+      "JSONKey": "SWT",
+      "assetName": "SweetTreat"
     },
     {
       "currencyID": 100000,

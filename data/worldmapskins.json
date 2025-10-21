@@ -60,6 +60,11 @@
       "name": "WitchCastle"
     },
     {
+      "skinID": 13,
+      "crossplayID": 13,
+      "name": "Halloween"
+    },
+    {
       "skinID": 14,
       "crossplayID": 14,
       "name": "StPatricks"
@@ -648,6 +653,24 @@
       "skinID": 129,
       "crossplayID": 129,
       "name": "AnniversaryCakeSliceCast",
+      "increasedSize": 1
+    },
+    {
+      "skinID": 130,
+      "crossplayID": 130,
+      "name": "HalloweenRing2025",
+      "increasedSize": 1
+    },
+    {
+      "skinID": 131,
+      "crossplayID": 131,
+      "name": "VikingBaron2025",
+      "increasedSize": 1
+    },
+    {
+      "skinID": 132,
+      "crossplayID": 132,
+      "name": "Snowflakehouse2025",
       "increasedSize": 1
     }
   ]

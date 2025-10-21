@@ -321,12 +321,14 @@
       "generalID": 127,
       "crossplayID": 127,
       "generalName": "Barin",
+      "attackSlots": "101271,101272,101273,101274",
+      "defenseSlots": "101276,101277,101278,101279",
       "generalRarityID": 3,
       "maxLevel": 100,
       "maxStarLevel": 10,
-      "unlockCurrencyID": 10000,
-      "upgradeCurrencyIDs": "10000,10000",
-      "isPreview": 1,
+      "unlockCurrencyID": 10017,
+      "upgradeCurrencyIDs": "10000,10017",
+      "isPreview": 0,
       "isNPCGeneral": 0
     },
     {

@@ -45,6 +45,7 @@ export interface Images {
     "AlienInvasion_Mapobject_Level_4": ImageData;
     "AlienInvasion_Mapobject_Level_5": ImageData;
     "AllianceCrest_Surroundings": ImageData;
+    "AllianceRaidPortal_Mapobject": ImageData;
     "AllianceScroll_HardAllied": ImageData;
     "AllianceScroll_OwnAlliance": ImageData;
     "AllianceScroll_SameAlliance": ImageData;
@@ -100,6 +101,7 @@ export interface Images {
     "Background_Gacha_ChristmasGacha": ImageData;
     "Background_Gacha_EasterGacha": ImageData;
     "Background_Gacha_GachaDeco2x2": ImageData;
+    "Background_Gacha_HalloweenGacha": ImageData;
     "Background_Gacha_SummerGacha": ImageData;
     "Background_GeneralsHub": ImageData;
     "Background_GeneralsHub_Back": ImageData;
@@ -716,6 +718,7 @@ export interface Images {
     "Castle_Mapobject_Capital_Classic_Special_GrandIceDagger": ImageData;
     "Castle_Mapobject_Capital_Classic_Special_GrandNewKingCrown": ImageData;
     "Castle_Mapobject_Capital_Classic_Special_GrandSapphireBrooch": ImageData;
+    "Castle_Mapobject_Capital_Classic_Special_Halloween": ImageData;
     "Castle_Mapobject_Capital_Classic_Special_HalloweenRing": ImageData;
     "Castle_Mapobject_Capital_Classic_Special_HalloweenRing2025": ImageData;
     "Castle_Mapobject_Capital_Classic_Special_HarpBaron": ImageData;
@@ -802,6 +805,7 @@ export interface Images {
     "Castle_Mapobject_Special_GrandIceDagger": ImageData;
     "Castle_Mapobject_Special_GrandNewKingCrown": ImageData;
     "Castle_Mapobject_Special_GrandSapphireBrooch": ImageData;
+    "Castle_Mapobject_Special_Halloween": ImageData;
     "Castle_Mapobject_Special_HalloweenRing": ImageData;
     "Castle_Mapobject_Special_HalloweenRing2025": ImageData;
     "Castle_Mapobject_Special_HarpBaron": ImageData;
@@ -1101,6 +1105,7 @@ export interface Images {
     "Deco_Building_ExaltedGreenEasterRuins": ImageData;
     "Deco_Building_ExaltedGreenFrostFountain": ImageData;
     "Deco_Building_ExaltedGreenFuryBlade": ImageData;
+    "Deco_Building_ExaltedGreenHutoftheInfernalShaman": ImageData;
     "Deco_Building_ExaltedGreenKegForest": ImageData;
     "Deco_Building_ExaltedGreenLavaMountainOfWrath": ImageData;
     "Deco_Building_ExaltedGreenLavaScorpionTemple": ImageData;
@@ -1108,10 +1113,12 @@ export interface Images {
     "Deco_Building_ExaltedGreenLizardsCove": ImageData;
     "Deco_Building_ExaltedGreenOktoberfestGarden": ImageData;
     "Deco_Building_ExaltedGreenPirateWaterSlide": ImageData;
+    "Deco_Building_ExaltedGreenSpookyCrypt": ImageData;
     "Deco_Building_ExaltedGreenSweetSurpriseCake": ImageData;
     "Deco_Building_ExaltedGreenWaterMountainOfWrath": ImageData;
     "Deco_Building_ExaltedGreenWaterShrineofDuality": ImageData;
     "Deco_Building_ExaltedGreenWaterSpiderTemple": ImageData;
+    "Deco_Building_ExaltedGreenWellofMaddness": ImageData;
     "Deco_Building_ExaltedGuardianOfNurtureGreen": ImageData;
     "Deco_Building_ExaltedGuardianOfNurturePurple": ImageData;
     "Deco_Building_ExaltedGuardianOfNurtureRed": ImageData;
@@ -1132,6 +1139,7 @@ export interface Images {
     "Deco_Building_ExaltedPurpleLavaShrineofDuality": ImageData;
     "Deco_Building_ExaltedPurpleOktoberfestGarden": ImageData;
     "Deco_Building_ExaltedPurplePirateWaterSlide": ImageData;
+    "Deco_Building_ExaltedPurpleSpookyCrypt": ImageData;
     "Deco_Building_ExaltedPurpleSweetSurpriseCake": ImageData;
     "Deco_Building_ExaltedPurpleWaterMountainOfWrath": ImageData;
     "Deco_Building_ExaltedPurpleWaterShrineofDuality": ImageData;
@@ -1145,15 +1153,18 @@ export interface Images {
     "Deco_Building_ExaltedRedEasterRuins": ImageData;
     "Deco_Building_ExaltedRedFrostFountain": ImageData;
     "Deco_Building_ExaltedRedFuryBlade": ImageData;
+    "Deco_Building_ExaltedRedHutoftheInfernalShaman": ImageData;
     "Deco_Building_ExaltedRedKegForest": ImageData;
     "Deco_Building_ExaltedRedLavaMountainOfWrath": ImageData;
     "Deco_Building_ExaltedRedLavaScorpionTemple": ImageData;
     "Deco_Building_ExaltedRedLavaShrineofDuality": ImageData;
     "Deco_Building_ExaltedRedOktoberfestGarden": ImageData;
     "Deco_Building_ExaltedRedPirateWaterSlide": ImageData;
+    "Deco_Building_ExaltedRedSpookyCrypt": ImageData;
     "Deco_Building_ExaltedRedSweetSurpriseCake": ImageData;
     "Deco_Building_ExaltedRedWaterMountainOfWrath": ImageData;
     "Deco_Building_ExaltedRedWaterSpiderTemple": ImageData;
+    "Deco_Building_ExaltedRedWellofMaddness": ImageData;
     "Deco_Building_Excalibur": ImageData;
     "Deco_Building_Fairground": ImageData;
     "Deco_Building_FalconRecolour": ImageData;
@@ -1803,6 +1814,7 @@ export interface Images {
     "Event_Building_AlienInvasion": ImageData;
     "Event_Building_AlliHerold": ImageData;
     "Event_Building_AllianceMobilizationEvent": ImageData;
+    "Event_Building_AllianceRaidbossEvent": ImageData;
     "Event_Building_AnniversaryLTPECamp": ImageData;
     "Event_Building_Armorer": ImageData;
     "Event_Building_BeggingKnights": ImageData;
@@ -2034,6 +2046,8 @@ export interface Images {
     "Eventunit_Unit_GlacialAmazonHuntress": ImageData;
     "Eventunit_Unit_GlacialAmazonWarrior": ImageData;
     "Eventunit_Unit_Goodknight": ImageData;
+    "Eventunit_Unit_Halloween2025TroopMeleeOff": ImageData;
+    "Eventunit_Unit_Halloween2025TroopRangedOff": ImageData;
     "Eventunit_Unit_Iceeventmelee": ImageData;
     "Eventunit_Unit_Iceeventrange": ImageData;
     "Eventunit_Unit_Khanguard": ImageData;
@@ -2324,6 +2338,19 @@ export interface Images {
     "Gacha_Easterbunny_Orb_Bottom": ImageData;
     "Gacha_Easterbunny_Orb_Top": ImageData;
     "Gacha_Easterbunny_Shadow_Bag": ImageData;
+    "Gacha_Halloween_Arm_Left": ImageData;
+    "Gacha_Halloween_Arm_Right": ImageData;
+    "Gacha_Halloween_Chest": ImageData;
+    "Gacha_Halloween_Hand_Left": ImageData;
+    "Gacha_Halloween_Hand_Right": ImageData;
+    "Gacha_Halloween_Head": ImageData;
+    "Gacha_Halloween_Head_Blink": ImageData;
+    "Gacha_Halloween_Legs": ImageData;
+    "Gacha_Halloween_Lowerarm_Left": ImageData;
+    "Gacha_Halloween_Lowerarm_Right": ImageData;
+    "Gacha_Halloween_Orb_Bottom": ImageData;
+    "Gacha_Halloween_Orb_Top": ImageData;
+    "Gacha_Halloween_Shadow": ImageData;
     "Gacha_MotherPlant_Body": ImageData;
     "Gacha_MotherPlant_Grass_Back_Left": ImageData;
     "Gacha_MotherPlant_Grass_Front_Left": ImageData;
@@ -3659,6 +3686,7 @@ export interface Images {
     "Metropol_Mapobject_Basic_Special_GrandIceDagger": ImageData;
     "Metropol_Mapobject_Basic_Special_GrandNewKingCrown": ImageData;
     "Metropol_Mapobject_Basic_Special_GrandSapphireBrooch": ImageData;
+    "Metropol_Mapobject_Basic_Special_Halloween": ImageData;
     "Metropol_Mapobject_Basic_Special_HalloweenRing": ImageData;
     "Metropol_Mapobject_Basic_Special_HalloweenRing2025": ImageData;
     "Metropol_Mapobject_Basic_Special_HarpBaron": ImageData;
@@ -3866,6 +3894,7 @@ export interface Images {
     "Outpost_Mapobject_Level_Special_GrandIceDagger": ImageData;
     "Outpost_Mapobject_Level_Special_GrandNewKingCrown": ImageData;
     "Outpost_Mapobject_Level_Special_GrandSapphireBrooch": ImageData;
+    "Outpost_Mapobject_Level_Special_Halloween": ImageData;
     "Outpost_Mapobject_Level_Special_HalloweenRing": ImageData;
     "Outpost_Mapobject_Level_Special_HalloweenRing2025": ImageData;
     "Outpost_Mapobject_Level_Special_HarpBaron": ImageData;
@@ -3971,6 +4000,14 @@ export interface Images {
     "PrebuiltCastle_35": ImageData;
     "PrebuiltCastle_36": ImageData;
     "PrebuiltCastle_39": ImageData;
+    "PremiumHalloweenBakery": ImageData;
+    "PremiumHalloweenEstate": ImageData;
+    "PremiumHalloweenFarmhouse": ImageData;
+    "PremiumHalloweenGuardhouse": ImageData;
+    "PremiumHalloweenHunter": ImageData;
+    "PremiumHalloweenKeep": ImageData;
+    "PremiumHalloweenStables": ImageData;
+    "PremiumHalloweenStorage": ImageData;
     "Premium_Moat_Bridge_Level1_Classic": ImageData;
     "Premium_Moat_Bridge_Level1_Dessert": ImageData;
     "Premium_Moat_Bridge_Level1_Icecream": ImageData;
@@ -4123,6 +4160,7 @@ export interface Images {
     "Preview_Castle_Mapobject_Special_GrandIceDagger": ImageData;
     "Preview_Castle_Mapobject_Special_GrandNewKingCrown": ImageData;
     "Preview_Castle_Mapobject_Special_GrandSapphireBrooch": ImageData;
+    "Preview_Castle_Mapobject_Special_Halloween": ImageData;
     "Preview_Castle_Mapobject_Special_HalloweenRing": ImageData;
     "Preview_Castle_Mapobject_Special_HalloweenRing2025": ImageData;
     "Preview_Castle_Mapobject_Special_HarpBaron": ImageData;
@@ -4964,6 +5002,7 @@ export interface Images {
     "announcement_teaser_128": ImageData;
     "announcement_teaser_130": ImageData;
     "announcement_teaser_131": ImageData;
+    "announcement_teaser_132": ImageData;
     "autumnBarracks": ImageData;
     "autumnKeepChestnut": ImageData;
     "autumnWorkshopChestnut": ImageData;
@@ -5024,6 +5063,7 @@ export interface Images {
     "end_teaser_128": ImageData;
     "end_teaser_130": ImageData;
     "end_teaser_131": ImageData;
+    "end_teaser_132": ImageData;
     "estateOfCowardlySpirits": ImageData;
     "eventBuilding_coinmine": ImageData;
     "eventBuilding_decoOffer": ImageData;
@@ -5033,6 +5073,7 @@ export interface Images {
     "giantsForestWoodcutter": ImageData;
     "giantsForestlumbermill": ImageData;
     "global_primetime_background_Anniversary2024": ImageData;
+    "global_primetime_background_Halloween2024": ImageData;
     "global_primetime_background_IndependenceDay2024": ImageData;
     "global_primetime_background_Oktoberfest2024": ImageData;
     "global_primetime_background_Spring2024": ImageData;
@@ -5044,6 +5085,7 @@ export interface Images {
     "global_primetime_background_generic3": ImageData;
     "global_primetime_hub_teaser_Anniversary2024": ImageData;
     "global_primetime_hub_teaser_Carnival2025": ImageData;
+    "global_primetime_hub_teaser_Halloween2024": ImageData;
     "global_primetime_hub_teaser_IndependenceDay2024": ImageData;
     "global_primetime_hub_teaser_Oktoberfest2024": ImageData;
     "global_primetime_hub_teaser_Spring2024": ImageData;
@@ -5056,6 +5098,7 @@ export interface Images {
     "global_primetime_hub_teaser_generic3": ImageData;
     "global_primetime_teaser_Anniversary2024": ImageData;
     "global_primetime_teaser_Carnival2025": ImageData;
+    "global_primetime_teaser_Halloween2024": ImageData;
     "global_primetime_teaser_IndependenceDay2024": ImageData;
     "global_primetime_teaser_Oktoberfest2024": ImageData;
     "global_primetime_teaser_Spring2024": ImageData;
@@ -6275,6 +6318,10 @@ export interface Images {
     "icon_currency_Steel_medium": ImageData;
     "icon_currency_Steel_small": ImageData;
     "icon_currency_Steel_xl": ImageData;
+    "icon_currency_SweetTreat": ImageData;
+    "icon_currency_SweetTreat_medium": ImageData;
+    "icon_currency_SweetTreat_small": ImageData;
+    "icon_currency_SweetTreat_xl": ImageData;
     "icon_currency_Tea": ImageData;
     "icon_currency_TeaTimeBoosterKey": ImageData;
     "icon_currency_TeaTimeBoosterKey_big": ImageData;
@@ -6698,6 +6745,7 @@ export interface Images {
     "icon_event_129": ImageData;
     "icon_event_130": ImageData;
     "icon_event_131": ImageData;
+    "icon_event_132": ImageData;
     "icon_event_3": ImageData;
     "icon_event_4": ImageData;
     "icon_event_601": ImageData;
@@ -6751,6 +6799,7 @@ export interface Images {
     "icon_event_xl_129": ImageData;
     "icon_event_xl_130": ImageData;
     "icon_event_xl_131": ImageData;
+    "icon_event_xl_132": ImageData;
     "icon_event_xxs": ImageData;
     "icon_events_berimond_enter": ImageData;
     "icon_events_berimond_sendtroops": ImageData;
@@ -7356,6 +7405,7 @@ export interface Images {
     "icon_influence_disabled_small": ImageData;
     "icon_influence_small": ImageData;
     "icon_info_i": ImageData;
+    "icon_info_i_dark": ImageData;
     "icon_info_i_medium": ImageData;
     "icon_info_l_big": ImageData;
     "icon_ingame_ads": ImageData;
@@ -7415,6 +7465,7 @@ export interface Images {
     "icon_kingdom_volcano_unlock": ImageData;
     "icon_knight": ImageData;
     "icon_knight_tab": ImageData;
+    "icon_leftFlank": ImageData;
     "icon_leftFlank_flat": ImageData;
     "icon_leftFlank_flat_dark": ImageData;
     "icon_level_up_btn_a_small": ImageData;
@@ -7532,6 +7583,7 @@ export interface Images {
     "icon_message_special_event_129": ImageData;
     "icon_message_special_event_130": ImageData;
     "icon_message_special_event_131": ImageData;
+    "icon_message_special_event_132": ImageData;
     "icon_message_special_event_133": ImageData;
     "icon_message_special_event_3": ImageData;
     "icon_message_special_event_4": ImageData;
@@ -7553,6 +7605,7 @@ export interface Images {
     "icon_message_special_event_83_8": ImageData;
     "icon_message_special_event_83_9": ImageData;
     "icon_midas": ImageData;
+    "icon_middleFlank": ImageData;
     "icon_middleFlank_flat": ImageData;
     "icon_middleFlank_flat_dark": ImageData;
     "icon_might_points": ImageData;
@@ -7767,6 +7820,7 @@ export interface Images {
     "icon_rewardshub_tab": ImageData;
     "icon_rewardshub_tab_mysteryboxes": ImageData;
     "icon_rewardshub_tab_paidout": ImageData;
+    "icon_rightFlank": ImageData;
     "icon_rightFlank_flat": ImageData;
     "icon_rightFlank_flat_dark": ImageData;
     "icon_rubie_flat": ImageData;
@@ -8271,6 +8325,7 @@ export interface Images {
     "items_unique_1322": ImageData;
     "items_unique_1333": ImageData;
     "items_unique_1344": ImageData;
+    "items_unique_1355": ImageData;
     "items_unique_14": ImageData;
     "items_unique_15": ImageData;
     "items_unique_16": ImageData;

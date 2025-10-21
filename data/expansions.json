@@ -1,6 +1,60 @@
 {
   "expansion": [
     {
+      "wodID": 901000,
+      "group": "Expansion",
+      "name": "Basic",
+      "shopCategory": "EXPANSION",
+      "type": "TYPE_NORMAL",
+      "kIDs": "0,1,2,3,4",
+      "mapIDs": ""
+    },
+    {
+      "wodID": 901001,
+      "group": "Expansion",
+      "name": "Basic",
+      "shopCategory": "EXPANSION",
+      "type": "TYPE_PREMIUM",
+      "kIDs": "0,1,2,3,4",
+      "mapIDs": ""
+    },
+    {
+      "wodID": 901002,
+      "group": "Expansion",
+      "name": "Camp",
+      "shopCategory": "EXPANSION",
+      "type": "TYPE_NORMAL",
+      "kIDs": "",
+      "mapIDs": "21,22,23,24,27,28"
+    },
+    {
+      "wodID": 901003,
+      "group": "Expansion",
+      "name": "Camp",
+      "shopCategory": "EXPANSION",
+      "type": "TYPE_PREMIUM",
+      "kIDs": "",
+      "mapIDs": "21,22,23,24,27,28"
+    },
+    {
+      "wodID": 901004,
+      "group": "Expansion",
+      "name": "Camp",
+      "shopCategory": "EXPANSION",
+      "type": "TYPE_NORMAL",
+      "kIDs": 10,
+      "mapIDs": ""
+    },
+    {
+      "wodID": 901005,
+      "group": "Expansion",
+      "name": "Camp",
+      "shopCategory": "EXPANSION",
+      "type": "TYPE_PREMIUM",
+      "kIDs": 10,
+      "mapIDs": ""
+    },
+    {
       "expansionID": 1,
       "crossplayID": 1,
       "spaceIDs": 0,
@@ -1097,60 +1151,6 @@
       "costWood": 80000,
       "costStone": 80000,
       "costC2": 3200
-    },
-    {
-      "wodID": 901000,
-      "group": "Expansion",
-      "name": "Basic",
-      "shopCategory": "EXPANSION",
-      "type": "TYPE_NORMAL",
-      "kIDs": "0,1,2,3,4",
-      "mapIDs": ""
-    },
-    {
-      "wodID": 901001,
-      "group": "Expansion",
-      "name": "Basic",
-      "shopCategory": "EXPANSION",
-      "type": "TYPE_PREMIUM",
-      "kIDs": "0,1,2,3,4",
-      "mapIDs": ""
-    },
-    {
-      "wodID": 901002,
-      "group": "Expansion",
-      "name": "Camp",
-      "shopCategory": "EXPANSION",
-      "type": "TYPE_NORMAL",
-      "kIDs": "",
-      "mapIDs": "21,22,23,24,27,28"
-    },
-    {
-      "wodID": 901003,
-      "group": "Expansion",
-      "name": "Camp",
-      "shopCategory": "EXPANSION",
-      "type": "TYPE_PREMIUM",
-      "kIDs": "",
-      "mapIDs": "21,22,23,24,27,28"
-    },
-    {
-      "wodID": 901004,
-      "group": "Expansion",
-      "name": "Camp",
-      "shopCategory": "EXPANSION",
-      "type": "TYPE_NORMAL",
-      "kIDs": 10,
-      "mapIDs": ""
-    },
-    {
-      "wodID": 901005,
-      "group": "Expansion",
-      "name": "Camp",
-      "shopCategory": "EXPANSION",
-      "type": "TYPE_PREMIUM",
-      "kIDs": 10,
-      "mapIDs": ""
     }
   ]
 }

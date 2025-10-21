@@ -8502,6 +8502,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedGreenHutoftheInfernalShaman": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedGreenHutoftheInfernalShaman/Deco_Building_ExaltedGreenHutoftheInfernalShaman.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 303,
+        "h": 278,
+        "rx": 826,
+        "ry": 853
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedGreenKegForest": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_ExaltedGreenKegForest/Deco_Building_ExaltedGreenKegForest.png",
@@ -8607,6 +8622,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedGreenSpookyCrypt": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedGreenSpookyCrypt/Deco_Building_ExaltedGreenSpookyCrypt.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 273,
+        "h": 249,
+        "rx": 842,
+        "ry": 878
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedGreenSweetSurpriseCake": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_ExaltedGreenSweetSurpriseCake/Deco_Building_ExaltedGreenSweetSurpriseCake.png",
@@ -8663,6 +8693,21 @@
         "h": 466,
         "rx": 622,
         "ry": 818
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedGreenWellofMaddness": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedGreenWellofMaddness/Deco_Building_ExaltedGreenWellofMaddness.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 270,
+        "h": 301,
+        "rx": 821,
+        "ry": 830
       }
     ],
     "fx": []
@@ -8982,6 +9027,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedPurpleSpookyCrypt": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedPurpleSpookyCrypt/Deco_Building_ExaltedPurpleSpookyCrypt.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 273,
+        "h": 249,
+        "rx": 842,
+        "ry": 878
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedPurpleSweetSurpriseCake": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_ExaltedPurpleSweetSurpriseCake/Deco_Building_ExaltedPurpleSweetSurpriseCake.png",
@@ -9177,6 +9237,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedRedHutoftheInfernalShaman": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedRedHutoftheInfernalShaman/Deco_Building_ExaltedRedHutoftheInfernalShaman.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 300,
+        "h": 283,
+        "rx": 826,
+        "ry": 846
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedRedKegForest": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_ExaltedRedKegForest/Deco_Building_ExaltedRedKegForest.png",
@@ -9267,6 +9342,21 @@
     ],
     "fx": []
   },
+  "Deco_Building_ExaltedRedSpookyCrypt": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedRedSpookyCrypt/Deco_Building_ExaltedRedSpookyCrypt.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 273,
+        "h": 249,
+        "rx": 842,
+        "ry": 878
+      }
+    ],
+    "fx": []
+  },
   "Deco_Building_ExaltedRedSweetSurpriseCake": {
     "pid": 0,
     "url": "x768/Buildings/Deco/Deco_Building_ExaltedRedSweetSurpriseCake/Deco_Building_ExaltedRedSweetSurpriseCake.png",
@@ -9308,6 +9398,21 @@
         "h": 466,
         "rx": 621,
         "ry": 818
+      }
+    ],
+    "fx": []
+  },
+  "Deco_Building_ExaltedRedWellofMaddness": {
+    "pid": 0,
+    "url": "x768/Buildings/Deco/Deco_Building_ExaltedRedWellofMaddness/Deco_Building_ExaltedRedWellofMaddness.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 270,
+        "h": 301,
+        "rx": 821,
+        "ry": 830
       }
     ],
     "fx": []
@@ -15850,6 +15955,21 @@
         "rotation": 0
       }
     ]
+  },
+  "Event_Building_AllianceRaidbossEvent": {
+    "pid": 2,
+    "url": "x768/Buildings/Event/Event_Building_AllianceRaidbossEvent/Event_Building_AllianceRaidbossEvent.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 278,
+        "h": 230,
+        "rx": 877,
+        "ry": 909
+      }
+    ],
+    "fx": []
   },
   "Event_Building_AlliHerold": {
     "pid": 1,
@@ -26770,6 +26890,197 @@
       {
         "x": 38,
         "y": -67,
+        "scale": 0.5,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "PremiumHalloweenBakery": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/PremiumHalloweenBakery/PremiumHalloweenBakery.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 322,
+        "h": 430,
+        "rx": 837,
+        "ry": 706
+      }
+    ],
+    "fx": [
+      {
+        "x": 3,
+        "y": -174,
+        "scale": 0.5,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "PremiumHalloweenEstate": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/PremiumHalloweenEstate/PremiumHalloweenEstate.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 319,
+        "h": 437,
+        "rx": 859,
+        "ry": 686
+      }
+    ],
+    "fx": [
+      {
+        "x": 3,
+        "y": -187,
+        "scale": 0.5,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "PremiumHalloweenFarmhouse": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/PremiumHalloweenFarmhouse/PremiumHalloweenFarmhouse.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 193,
+        "h": 342,
+        "rx": 921,
+        "ry": 744
+      }
+    ],
+    "fx": [
+      {
+        "x": 0,
+        "y": -138,
+        "scale": 0.5,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "PremiumHalloweenGuardhouse": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/PremiumHalloweenGuardhouse/PremiumHalloweenGuardhouse.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 236,
+        "h": 292,
+        "rx": 891,
+        "ry": 808
+      }
+    ],
+    "fx": [
+      {
+        "x": -58,
+        "y": -104,
+        "scale": 0.5,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "PremiumHalloweenHunter": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/PremiumHalloweenHunter/PremiumHalloweenHunter.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 220,
+        "h": 245,
+        "rx": 904,
+        "ry": 860
+      }
+    ],
+    "fx": [
+      {
+        "x": -3,
+        "y": -127,
+        "scale": 0.5,
+        "name": "smokeHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "PremiumHalloweenKeep": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/PremiumHalloweenKeep/PremiumHalloweenKeep.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 476,
+        "h": 553,
+        "rx": 771,
+        "ry": 663
+      }
+    ],
+    "fx": [
+      {
+        "x": 16,
+        "y": -209,
+        "scale": 0.5,
+        "name": "flagHolder",
+        "rotation": 0
+      },
+      {
+        "x": 130,
+        "y": -102,
+        "scale": 0.5,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "PremiumHalloweenStables": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/PremiumHalloweenStables/PremiumHalloweenStables.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 237,
+        "h": 296,
+        "rx": 875,
+        "ry": 788
+      }
+    ],
+    "fx": [
+      {
+        "x": 27,
+        "y": -68,
+        "scale": 0.5,
+        "name": "damageHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "PremiumHalloweenStorage": {
+    "pid": 0,
+    "url": "x768/BuildingSkins/PremiumHalloweenStorage/PremiumHalloweenStorage.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 323,
+        "h": 445,
+        "rx": 810,
+        "ry": 688
+      }
+    ],
+    "fx": [
+      {
+        "x": -43,
+        "y": -54,
         "scale": 0.5,
         "name": "damageHolder",
         "rotation": 0
@@ -45869,6 +46180,201 @@
     ],
     "fx": []
   },
+  "Gacha_Halloween_Arm_Left": {
+    "pid": 1,
+    "url": "x768/Characters/Gachas/Gacha_Halloween/Gacha_Halloween_Arm_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 257,
+        "rx": 909,
+        "ry": 902
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Halloween_Arm_Right": {
+    "pid": 1,
+    "url": "x768/Characters/Gachas/Gacha_Halloween/Gacha_Halloween_Arm_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 195,
+        "h": 257,
+        "rx": 927,
+        "ry": 895
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Halloween_Chest": {
+    "pid": 1,
+    "url": "x768/Characters/Gachas/Gacha_Halloween/Gacha_Halloween_Chest.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 592,
+        "h": 389,
+        "rx": 702,
+        "ry": 833
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Halloween_Hand_Left": {
+    "pid": 1,
+    "url": "x768/Characters/Gachas/Gacha_Halloween/Gacha_Halloween_Hand_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 106,
+        "h": 123,
+        "rx": 954,
+        "ry": 960
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Halloween_Hand_Right": {
+    "pid": 1,
+    "url": "x768/Characters/Gachas/Gacha_Halloween/Gacha_Halloween_Hand_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 106,
+        "h": 123,
+        "rx": 950,
+        "ry": 940
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Halloween_Head_Blink": {
+    "pid": 1,
+    "url": "x768/Characters/Gachas/Gacha_Halloween/Gacha_Halloween_Head_Blink.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 470,
+        "h": 478,
+        "rx": 728,
+        "ry": 807
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Halloween_Head": {
+    "pid": 1,
+    "url": "x768/Characters/Gachas/Gacha_Halloween/Gacha_Halloween_Head.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 470,
+        "h": 479,
+        "rx": 728,
+        "ry": 806
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Halloween_Legs": {
+    "pid": 1,
+    "url": "x768/Characters/Gachas/Gacha_Halloween/Gacha_Halloween_Legs.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 743,
+        "h": 587,
+        "rx": 619,
+        "ry": 726
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Halloween_Lowerarm_Left": {
+    "pid": 1,
+    "url": "x768/Characters/Gachas/Gacha_Halloween/Gacha_Halloween_Lowerarm_Left.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 135,
+        "h": 151,
+        "rx": 940,
+        "ry": 912
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Halloween_Lowerarm_Right": {
+    "pid": 1,
+    "url": "x768/Characters/Gachas/Gacha_Halloween/Gacha_Halloween_Lowerarm_Right.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 138,
+        "h": 147,
+        "rx": 927,
+        "ry": 915
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Halloween_Orb_Bottom": {
+    "pid": 1,
+    "url": "x768/Characters/Gachas/Gacha_Halloween/Gacha_Halloween_Orb_Bottom.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 338,
+        "h": 206,
+        "rx": 829,
+        "ry": 890
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Halloween_Orb_Top": {
+    "pid": 1,
+    "url": "x768/Characters/Gachas/Gacha_Halloween/Gacha_Halloween_Orb_Top.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 313,
+        "h": 200,
+        "rx": 841,
+        "ry": 916
+      }
+    ],
+    "fx": []
+  },
+  "Gacha_Halloween_Shadow": {
+    "pid": 1,
+    "url": "x768/Characters/Gachas/Gacha_Halloween/Gacha_Halloween_Shadow.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 685,
+        "h": 135,
+        "rx": 657,
+        "ry": 932
+      }
+    ],
+    "fx": []
+  },
   "Gacha_MotherPlant_Body": {
     "pid": 1,
     "url": "x768/Characters/Gachas/Gacha_MotherPlant/Gacha_MotherPlant_Body.png",
@@ -46585,6 +47091,21 @@
         "h": 2851,
         "rx": 999,
         "ry": 999
+      }
+    ],
+    "fx": []
+  },
+  "Background_Gacha_HalloweenGacha": {
+    "pid": 1,
+    "url": "x768/Characters/Gachas/GachaBackgrounds/Background_Gacha_HalloweenGacha.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 2001,
+        "h": 2572,
+        "rx": 999,
+        "ry": 1000
       }
     ],
     "fx": []
@@ -74179,6 +74700,21 @@
   "items_unique_1344": {
     "pid": 0,
     "url": "x768/Equipment/EquipmentShared/items_unique_1344_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 130,
+        "h": 129,
+        "rx": 935,
+        "ry": 935
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1355": {
+    "pid": 0,
+    "url": "x768/Equipment/EquipmentShared/items_unique_1355_Shared.png",
     "frames": [
       {
         "x": 0,
@@ -102744,6 +103280,66 @@
     ],
     "fx": []
   },
+  "icon_currency_SweetTreat_medium": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_SweetTreat_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 81,
+        "rx": 976,
+        "ry": 959
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_SweetTreat_small": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_SweetTreat_small.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 25,
+        "h": 41,
+        "rx": 987,
+        "ry": 979
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_SweetTreat_xl": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_SweetTreat_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 103,
+        "h": 179,
+        "rx": 948,
+        "ry": 910
+      }
+    ],
+    "fx": []
+  },
+  "icon_currency_SweetTreat": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_currency_SweetTreat.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 36,
+        "h": 61,
+        "rx": 982,
+        "ry": 969
+      }
+    ],
+    "fx": []
+  },
   "icon_currency_Tea_big": {
     "pid": 1,
     "url": "x768/Icons/Icons/icon_currency_Tea_big.png",
@@ -105354,6 +105950,21 @@
     ],
     "fx": []
   },
+  "icon_event_132": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_event_132.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 127,
+        "h": 116,
+        "rx": 936,
+        "ry": 942
+      }
+    ],
+    "fx": []
+  },
   "icon_event_crossplay_small_80": {
     "pid": 0,
     "url": "x768/Icons/Icons/icon_event_crossplay_small_80.png",
@@ -105618,6 +106229,21 @@
         "y": 0,
         "w": 229,
         "h": 208,
+        "rx": 885,
+        "ry": 896
+      }
+    ],
+    "fx": []
+  },
+  "icon_event_xl_132": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_event_xl_132.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 229,
+        "h": 207,
         "rx": 885,
         "ry": 896
       }
@@ -107904,6 +108530,21 @@
     ],
     "fx": []
   },
+  "icon_info_i_dark": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_info_i_dark.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 67,
+        "rx": 966,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
   "icon_info_i_medium": {
     "pid": 1,
     "url": "x768/Icons/Icons/icon_info_i_medium.png",
@@ -107926,10 +108567,10 @@
       {
         "x": 0,
         "y": 0,
-        "w": 73,
-        "h": 72,
-        "rx": 963,
-        "ry": 964
+        "w": 67,
+        "h": 67,
+        "rx": 966,
+        "ry": 966
       }
     ],
     "fx": []
@@ -108515,6 +109156,21 @@
         "h": 49,
         "rx": 979,
         "ry": 975
+      }
+    ],
+    "fx": []
+  },
+  "icon_leftFlank": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_leftFlank.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 49,
+        "h": 61,
+        "rx": 975,
+        "ry": 969
       }
     ],
     "fx": []
@@ -109340,6 +109996,21 @@
         "h": 49,
         "rx": 975,
         "ry": 975
+      }
+    ],
+    "fx": []
+  },
+  "icon_middleFlank": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_middleFlank.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 61,
+        "h": 61,
+        "rx": 969,
+        "ry": 969
       }
     ],
     "fx": []
@@ -111740,6 +112411,21 @@
         "h": 49,
         "rx": 979,
         "ry": 975
+      }
+    ],
+    "fx": []
+  },
+  "icon_rightFlank": {
+    "pid": 0,
+    "url": "x768/Icons/Icons/icon_rightFlank.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 49,
+        "h": 61,
+        "rx": 975,
+        "ry": 969
       }
     ],
     "fx": []
@@ -125394,6 +126080,21 @@
     ],
     "fx": []
   },
+  "icon_message_special_event_132": {
+    "pid": 0,
+    "url": "x768/Kingdoms/Kingdoms/icon_message_special_event_132.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 67,
+        "h": 66,
+        "rx": 966,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
   "icon_message_special_event_133": {
     "pid": 2,
     "url": "x768/Kingdoms/Kingdoms/icon_message_special_event_133.png",
@@ -133059,6 +133760,21 @@
     ],
     "fx": []
   },
+  "announcement_teaser_132": {
+    "pid": 1,
+    "url": "x768/Misc/GenericTeasersShared/announcement_teaser_132_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1537,
+        "h": 1311,
+        "rx": 999,
+        "ry": 999
+      }
+    ],
+    "fx": []
+  },
   "teaser_help_mail_16": {
     "pid": 1,
     "url": "x768/Misc/GenericTeasersShared/content_help_mail_0_Shared.png",
@@ -133137,6 +133853,21 @@
   "end_teaser_131": {
     "pid": 1,
     "url": "x768/Misc/GenericTeasersShared/end_teaser_131_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1221,
+        "h": 413,
+        "rx": 389,
+        "ry": 793
+      }
+    ],
+    "fx": []
+  },
+  "end_teaser_132": {
+    "pid": 1,
+    "url": "x768/Misc/GenericTeasersShared/end_teaser_132_Shared.png",
     "frames": [
       {
         "x": 0,
@@ -133824,6 +134555,21 @@
     ],
     "fx": []
   },
+  "global_primetime_background_Halloween2024": {
+    "pid": 1,
+    "url": "x768/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_Halloween2024.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1282,
+        "h": 1601,
+        "rx": 358,
+        "ry": 199
+      }
+    ],
+    "fx": []
+  },
   "global_primetime_background_IndependenceDay2024": {
     "pid": 1,
     "url": "x768/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_IndependenceDay2024.png",
@@ -133947,6 +134693,21 @@
   "global_primetime_hub_teaser_generic3": {
     "pid": 1,
     "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_generic3.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1537,
+        "h": 1331,
+        "rx": 231,
+        "ry": 334
+      }
+    ],
+    "fx": []
+  },
+  "global_primetime_hub_teaser_Halloween2024": {
+    "pid": 1,
+    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_Halloween2024.png",
     "frames": [
       {
         "x": 0,
@@ -134090,6 +134851,21 @@
         "h": 358,
         "rx": 231,
         "ry": 742
+      }
+    ],
+    "fx": []
+  },
+  "global_primetime_teaser_Halloween2024": {
+    "pid": 1,
+    "url": "x768/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_Halloween2024.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 1249,
+        "h": 985,
+        "rx": 375,
+        "ry": 507
       }
     ],
     "fx": []
@@ -151280,6 +152056,21 @@
     ],
     "fx": []
   },
+  "Eventunit_Unit_Halloween2025TroopRangedOff": {
+    "pid": 0,
+    "url": "x768/Units/UnitAssets_Shared/Barracks_Unit_ForlornRanger_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 210,
+        "rx": 913,
+        "ry": 897
+      }
+    ],
+    "fx": []
+  },
   "Eventunit_Unit_ForsakenMaiden": {
     "pid": 0,
     "url": "x768/Units/UnitAssets_Shared/Barracks_Unit_ForsakenMaiden_Shared.png",
@@ -151296,6 +152087,21 @@
     "fx": []
   },
   "Barracks_Unit_ForsakenMaiden": {
+    "pid": 0,
+    "url": "x768/Units/UnitAssets_Shared/Barracks_Unit_ForsakenMaiden_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 216,
+        "rx": 913,
+        "ry": 892
+      }
+    ],
+    "fx": []
+  },
+  "Eventunit_Unit_Halloween2025TroopMeleeOff": {
     "pid": 0,
     "url": "x768/Units/UnitAssets_Shared/Barracks_Unit_ForsakenMaiden_Shared.png",
     "frames": [
@@ -154582,6 +155388,29 @@
       }
     ]
   },
+  "Castle_Mapobject_Special_Halloween": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_Halloween.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 68,
+        "h": 72,
+        "rx": 1001,
+        "ry": 989
+      }
+    ],
+    "fx": [
+      {
+        "x": 42,
+        "y": 6,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Castle_Mapobject_Special_HalloweenRing": {
     "pid": 0,
     "url": "x768/WorldmapObjects/Castles/Castle/Castle_Mapobject_Special_HalloweenRing.png",
@@ -156687,6 +157516,21 @@
     ],
     "fx": []
   },
+  "AllianceRaidPortal_Mapobject": {
+    "pid": 2,
+    "url": "x768/WorldmapObjects/Events/AllianceRaidPortal_Mapobject/AllianceRaidPortal_Mapobject.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 73,
+        "h": 72,
+        "rx": 991,
+        "ry": 980
+      }
+    ],
+    "fx": []
+  },
   "DaimyoCastle_Cooldown": {
     "pid": 2,
     "url": "x768/WorldmapObjects/Events/DaimyoCastle_Cooldown/DaimyoCastle_Cooldown.png",
@@ -158650,6 +159494,29 @@
       {
         "x": -3,
         "y": -44,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "Castle_Mapobject_Capital_Classic_Special_Halloween": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Landmarks/Capital_Mapobject_Basic/Castle_Mapobject_Capital_Classic_Special_Halloween.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 115,
+        "h": 168,
+        "rx": 974,
+        "ry": 917
+      }
+    ],
+    "fx": [
+      {
+        "x": 61,
+        "y": -26,
         "scale": 0.75,
         "name": "flagHolder",
         "rotation": 0
@@ -160715,6 +161582,29 @@
       }
     ]
   },
+  "Metropol_Mapobject_Basic_Special_Halloween": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_Halloween.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 112,
+        "h": 128,
+        "rx": 975,
+        "ry": 958
+      }
+    ],
+    "fx": [
+      {
+        "x": 38,
+        "y": -2,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
   "Metropol_Mapobject_Basic_Special_HalloweenRing": {
     "pid": 0,
     "url": "x768/WorldmapObjects/Landmarks/Metropol_Mapobject_Basic/Metropol_Mapobject_Basic_Special_HalloweenRing.png",
@@ -162659,6 +163549,29 @@
     "fx": [
       {
         "x": 35,
+        "y": 0,
+        "scale": 0.75,
+        "name": "flagHolder",
+        "rotation": 0
+      }
+    ]
+  },
+  "Outpost_Mapobject_Level_Special_Halloween": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Outposts/Outpost_Mapobject_Level_Special_Halloween/Outpost_Mapobject_Level_Special_Halloween.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 50,
+        "h": 59,
+        "rx": 1006,
+        "ry": 988
+      }
+    ],
+    "fx": [
+      {
+        "x": 28,
         "y": 0,
         "scale": 0.75,
         "name": "flagHolder",
@@ -165099,6 +166012,21 @@
         "h": 149,
         "rx": 945,
         "ry": 946
+      }
+    ],
+    "fx": []
+  },
+  "Preview_Castle_Mapobject_Special_Halloween": {
+    "pid": 0,
+    "url": "x768/WorldmapObjects/Previews/Mapobjects_Preview/Preview_Castle_Mapobject_Special_Halloween.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 143,
+        "h": 152,
+        "rx": 964,
+        "ry": 942
       }
     ],
     "fx": []

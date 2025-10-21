@@ -1726,6 +1726,7 @@ export interface GachaEvent {
     "costLuckySlice"?: number;
     "costOrange"?: number;
     "costSoldierBiscuit"?: number;
+    "costSweetTreat"?: number;
     "eventID": number;
     "freeChestResetTime": number;
     "freeChestRewardID": number;
@@ -2435,6 +2436,7 @@ export interface Package {
     "addDecoCatalyst8"?: number;
     "addDecoCatalyst9"?: number;
     "addDecoDust"?: number;
+    "addEdricToken"?: number;
     "addEpicBoosterConsumable"?: number;
     "addEpicPreciousmetals"?: number;
     "addEpicResin"?: number;
@@ -2482,6 +2484,7 @@ export interface Package {
     "addSoldierBiscuit"?: number;
     "addSoulSuckerBoosterKey"?: number;
     "addStatuetteBooster"?: number;
+    "addSweetTreat"?: number;
     "addTeaTimeBoosterKey"?: number;
     "addTomAliceToken"?: number;
     "addTonic"?: number;
@@ -2966,6 +2969,7 @@ export interface Reward {
     "add60MinSkip"?: number;
     "addAnniversaryToken"?: number;
     "addApprenticeToken"?: number;
+    "addBarinToken"?: number;
     "addBastionDoubloon"?: number;
     "addCastlePassageToken"?: number;
     "addCommonStraw"?: number;
@@ -3059,6 +3063,7 @@ export interface Reward {
     "addSceatToken"?: number;
     "addShardAlice"?: number;
     "addShardAlyssa"?: number;
+    "addShardBarin"?: number;
     "addShardDiana"?: number;
     "addShardEdric"?: number;
     "addShardGarrik"?: number;
@@ -3077,6 +3082,7 @@ export interface Reward {
     "addSpringLTPEToken"?: number;
     "addStPatrickLTPEToken"?: number;
     "addSteel"?: number;
+    "addSweetTreat"?: number;
     "addTimeDoubloon"?: number;
     "addTiziToken"?: number;
     "addTomAliceToken"?: number;
