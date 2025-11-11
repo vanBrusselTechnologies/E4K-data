@@ -64854,6 +64854,30 @@
       "minLevel": 20,
       "sortOrder": 3.6,
       "relationIDs": "999,400"
+    },
+    {
+      "packageID": 3911,
+      "packageType": "currency",
+      "comment1": "Black Friday Gacha",
+      "comment2": "Gold Shop - Merchants Key cheap",
+      "costGoldToken": 1950,
+      "addMerchantsKey": 150,
+      "stock": 1,
+      "minLevel": 20,
+      "sortOrder": 3.7,
+      "relationIDs": "400,999"
+    },
+    {
+      "packageID": 3912,
+      "packageType": "currency",
+      "comment1": "Black Friday Gacha",
+      "comment2": "Gold Shop - Merchants Key expensive",
+      "costGoldToken": 4950,
+      "addMerchantsKey": 350,
+      "stock": 1,
+      "minLevel": 20,
+      "sortOrder": 3.8,
+      "relationIDs": "400,999"
     }
   ]
 }

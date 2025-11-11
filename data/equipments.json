@@ -16038,6 +16038,72 @@
       "mightValue": 0,
       "canSlotGem": 0,
       "skinID": 18
+    },
+    {
+      "equipmentID": 1383,
+      "crossplayID": 1383,
+      "comment1": "Black Friday Sales",
+      "comment2": "Gacha Commander",
+      "wearerID": 2,
+      "slotID": 5,
+      "effects": "24&amp;8,334&amp;25,66&amp;10",
+      "duration": 120,
+      "mightValue": 0,
+      "canSlotGem": 0,
+      "skinID": 134
+    },
+    {
+      "equipmentID": 1384,
+      "crossplayID": 1384,
+      "comment1": "Black Friday Sales",
+      "comment2": "Gacha Castellan",
+      "wearerID": 1,
+      "slotID": 5,
+      "effects": "335&amp;45,37&amp;25000",
+      "duration": 120,
+      "mightValue": 0,
+      "canSlotGem": 0,
+      "skinID": 133
+    },
+    {
+      "equipmentID": 1385,
+      "crossplayID": 1385,
+      "comment1": "Black Friday Sales",
+      "comment2": "Harvest feast gobbler",
+      "wearerID": 2,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 2009,
+      "mightValue": 0,
+      "canSlotGem": 0,
+      "skinID": 109
+    },
+    {
+      "equipmentID": 1386,
+      "crossplayID": 1386,
+      "comment1": "Black Friday Sales",
+      "comment2": "Gacha Commander",
+      "wearerID": 2,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 1383,
+      "effects": "24&amp;5",
+      "duration": 168,
+      "mightValue": 0,
+      "canSlotGem": 0,
+      "skinID": 134
+    },
+    {
+      "equipmentID": 1387,
+      "crossplayID": 1387,
+      "comment1": "Black Friday Sales",
+      "comment2": "Gacha Commander",
+      "wearerID": 2,
+      "slotID": 5,
+      "reuseAssetOfEquipmentID": 1383,
+      "effects": "24&amp;3",
+      "duration": 48,
+      "mightValue": 0,
+      "canSlotGem": 0,
+      "skinID": 134
     }
   ]
 }

@@ -1724,6 +1724,7 @@ export interface GachaEvent {
     "costFrozenCarrot"?: number;
     "costHollowMoonEgg"?: number;
     "costLuckySlice"?: number;
+    "costMerchantsKey"?: number;
     "costOrange"?: number;
     "costSoldierBiscuit"?: number;
     "costSweetTreat"?: number;
@@ -2463,6 +2464,7 @@ export interface Package {
     "addLegendaryToken"?: number;
     "addLuckySlice"?: number;
     "addLuckyWheelTicket"?: number;
+    "addMerchantsKey"?: number;
     "addOrange"?: number;
     "addPegasusTicket"?: number;
     "addPlaster"?: number;
@@ -3044,6 +3046,7 @@ export interface Reward {
     "addLuckySlice"?: number;
     "addLuckyWheelTicket"?: number;
     "addMayaLTPEToken"?: number;
+    "addMerchantsKey"?: number;
     "addNewKingLTPEToken"?: number;
     "addOctoberfestLTPEToken"?: number;
     "addOrange"?: number;
