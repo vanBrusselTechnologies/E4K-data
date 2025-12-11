@@ -769,6 +769,30 @@
       "chance": 2,
       "duration": 3600,
       "rewardPoints": 550
+    },
+    {
+      "allianceQuestID": 67,
+      "comment1": "AME",
+      "comment2": "gold tier",
+      "comment3": "KaelrithToken",
+      "comment4": "spendCurrency+5+6012",
+      "questID": 3666,
+      "questType": "spendCurrenciesOrResources",
+      "chance": 1,
+      "duration": 3600,
+      "rewardPoints": 440
+    },
+    {
+      "allianceQuestID": 68,
+      "comment1": "AME",
+      "comment2": "gold tier",
+      "comment3": "BarinToken",
+      "comment4": "spendCurrency+5+6013",
+      "questID": 3667,
+      "questType": "spendCurrenciesOrResources",
+      "chance": 1,
+      "duration": 3600,
+      "rewardPoints": 440
     }
   ]
 }

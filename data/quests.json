@@ -46217,7 +46217,7 @@
       "questSeriesID": 3000,
       "questSeriesNumber": 1,
       "numberOfQuestsInSeries": 3,
-      "requiredLevel": 40,
+      "requiredLevel": 15,
       "questGiverID": 13,
       "conditions": "starter+1+3000",
       "eventID": 3,
@@ -49756,6 +49756,28 @@
       "comment3": "AllianceCoin",
       "eventID": 129,
       "conditions": "buyCurrency+7+83",
+      "hidden": 1,
+      "triggerKingdomID": -1
+    },
+    {
+      "questID": 3666,
+      "crossplayID": 3666,
+      "comment1": "AME",
+      "comment2": "gold tier",
+      "comment3": "KaelrithToken",
+      "eventID": 129,
+      "conditions": "spendCurrency+5+6012",
+      "hidden": 1,
+      "triggerKingdomID": -1
+    },
+    {
+      "questID": 3667,
+      "crossplayID": 3667,
+      "comment1": "AME",
+      "comment2": "gold tier",
+      "comment3": "BarinToken",
+      "eventID": 129,
+      "conditions": "spendCurrency+5+6013",
       "hidden": 1,
       "triggerKingdomID": -1
     },

@@ -2155,6 +2155,125 @@
       "effectID": 376,
       "wearerID": 1,
       "name": "beefCapacityBonus"
+    },
+    {
+      "equipmentEffectID": 154,
+      "crossplayID": 154,
+      "effectID": 447,
+      "wearerID": 2,
+      "name": "equipmentAREAdditionalWaves"
+    },
+    {
+      "equipmentEffectID": 155,
+      "crossplayID": 155,
+      "effectID": 448,
+      "wearerID": 2,
+      "name": "equipmentAREWallProtection"
+    },
+    {
+      "equipmentEffectID": 156,
+      "crossplayID": 156,
+      "effectID": 449,
+      "wearerID": 2,
+      "name": "equipmentAREGateProtection"
+    },
+    {
+      "equipmentEffectID": 157,
+      "crossplayID": 157,
+      "effectID": 450,
+      "wearerID": 2,
+      "name": "equipmentAREOffensiveYardStrBonus"
+    },
+    {
+      "equipmentEffectID": 158,
+      "crossplayID": 158,
+      "effectID": 451,
+      "wearerID": 2,
+      "name": "equipmentAREAttackUnitAmountFlank"
+    },
+    {
+      "equipmentEffectID": 159,
+      "crossplayID": 159,
+      "effectID": 452,
+      "wearerID": 2,
+      "name": "equipmentAREAttackUnitAmountFront"
+    },
+    {
+      "equipmentEffectID": 160,
+      "crossplayID": 160,
+      "effectID": 453,
+      "wearerID": 2,
+      "name": "equipmentARESpeedBonus"
+    },
+    {
+      "equipmentEffectID": 161,
+      "crossplayID": 161,
+      "effectID": 454,
+      "wearerID": 2,
+      "name": "equipmentAREOffensiveFrontStr"
+    },
+    {
+      "equipmentEffectID": 162,
+      "crossplayID": 162,
+      "effectID": 455,
+      "wearerID": 2,
+      "name": "equipmentAREOffensiveMeleeBonus"
+    },
+    {
+      "equipmentEffectID": 163,
+      "crossplayID": 163,
+      "effectID": 456,
+      "wearerID": 2,
+      "name": "equipmentAREOffensiveFlankStrBonus"
+    },
+    {
+      "equipmentEffectID": 164,
+      "crossplayID": 164,
+      "effectID": 457,
+      "wearerID": 2,
+      "name": "equipmentAREOffensiveRangedBonus"
+    },
+    {
+      "equipmentEffectID": 165,
+      "crossplayID": 165,
+      "effectID": 458,
+      "wearerID": 2,
+      "name": "equipmentAREReturnTravelBoost"
+    },
+    {
+      "equipmentEffectID": 166,
+      "crossplayID": 166,
+      "effectID": 459,
+      "wearerID": 2,
+      "name": "equipmentAREAttackUnitAmountFront"
+    },
+    {
+      "equipmentEffectID": 167,
+      "crossplayID": 167,
+      "effectID": 442,
+      "wearerID": 2,
+      "name": "infectionRateWallMalus"
+    },
+    {
+      "equipmentEffectID": 168,
+      "crossplayID": 168,
+      "effectID": 440,
+      "wearerID": 2,
+      "name": "infectionRateMeleeMalus"
+    },
+    {
+      "equipmentEffectID": 169,
+      "crossplayID": 169,
+      "effectID": 441,
+      "wearerID": 2,
+      "name": "infectionRateRangeMalus"
+    },
+    {
+      "equipmentEffectID": 170,
+      "crossplayID": 170,
+      "effectID": 443,
+      "wearerID": 2,
+      "name": "infectionRateCourtyardMalus"
     }
   ]
 }

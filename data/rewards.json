@@ -4709,6 +4709,41 @@
       "addGarrikToken": 1
     },
     {
+      "rewardID": 70239,
+      "crossplayID": 70239,
+      "comment1": "Ashira 75",
+      "comment2": "Legendary",
+      "addShardAshira": 75
+    },
+    {
+      "rewardID": 70240,
+      "crossplayID": 70240,
+      "comment1": "Ashira 40",
+      "comment2": "Epic",
+      "addShardAshira": 40
+    },
+    {
+      "rewardID": 70241,
+      "crossplayID": 70241,
+      "comment1": "Ashira 25",
+      "comment2": "Rare",
+      "addShardAshira": 25
+    },
+    {
+      "rewardID": 70242,
+      "crossplayID": 70242,
+      "comment1": "Ashira 15",
+      "comment2": "Rare",
+      "addShardAshira": 15
+    },
+    {
+      "rewardID": 70243,
+      "crossplayID": 70243,
+      "comment1": "AshiraToken",
+      "comment2": "Common",
+      "addAshiraToken": 1
+    },
+    {
       "rewardID": 70244,
       "crossplayID": 70244,
       "comment1": "Kaelrith 75",
@@ -31767,6 +31802,195 @@
       "equipmentIDs": 1357
     },
     {
+      "rewardID": 9287,
+      "crossplayID": 9287,
+      "comment1": "LowTier Lootbox",
+      "comment2": "Armor",
+      "equipmentIDs": 1365
+    },
+    {
+      "rewardID": 9288,
+      "crossplayID": 9288,
+      "comment1": "LowTier Lootbox",
+      "comment2": "Weapon",
+      "equipmentIDs": 1366
+    },
+    {
+      "rewardID": 9289,
+      "crossplayID": 9289,
+      "comment1": "LowTier Lootbox",
+      "comment2": "Helmet",
+      "equipmentIDs": 1367
+    },
+    {
+      "rewardID": 9290,
+      "crossplayID": 9290,
+      "comment1": "LowTier Lootbox",
+      "comment2": "Artifact",
+      "equipmentIDs": 1368
+    },
+    {
+      "rewardID": 9291,
+      "crossplayID": 9291,
+      "comment1": "LowTier Lootbox",
+      "comment2": "Commander",
+      "equipmentIDs": 1369
+    },
+    {
+      "rewardID": 9292,
+      "crossplayID": 9292,
+      "comment1": "LowTier Lootbox",
+      "comment2": "Gem1",
+      "gemIDs": 450
+    },
+    {
+      "rewardID": 9293,
+      "crossplayID": 9293,
+      "comment1": "LowTier Lootbox",
+      "comment2": "Gem2",
+      "gemIDs": 451
+    },
+    {
+      "rewardID": 9294,
+      "crossplayID": 9294,
+      "comment1": "LowTier Lootbox",
+      "comment2": "Gem3",
+      "gemIDs": 452
+    },
+    {
+      "rewardID": 9295,
+      "crossplayID": 9295,
+      "comment1": "LowTier Lootbox",
+      "comment2": "Gem4",
+      "gemIDs": 453
+    },
+    {
+      "rewardID": 9296,
+      "crossplayID": 9296,
+      "comment1": "MidTier Lootbox",
+      "comment2": "Armor",
+      "equipmentIDs": 1370
+    },
+    {
+      "rewardID": 9297,
+      "crossplayID": 9297,
+      "comment1": "MidTier Lootbox",
+      "comment2": "Weapon",
+      "equipmentIDs": 1371
+    },
+    {
+      "rewardID": 9298,
+      "crossplayID": 9298,
+      "comment1": "MidTier Lootbox",
+      "comment2": "Helmet",
+      "equipmentIDs": 1372
+    },
+    {
+      "rewardID": 9299,
+      "crossplayID": 9299,
+      "comment1": "MidTier Lootbox",
+      "comment2": "Artifact",
+      "equipmentIDs": 1373
+    },
+    {
+      "rewardID": 9300,
+      "crossplayID": 9300,
+      "comment1": "MidTier Lootbox",
+      "comment2": "Commander",
+      "equipmentIDs": 1374
+    },
+    {
+      "rewardID": 9301,
+      "crossplayID": 9301,
+      "comment1": "MidTier Lootbox",
+      "comment2": "Gem1",
+      "gemIDs": 454
+    },
+    {
+      "rewardID": 9302,
+      "crossplayID": 9302,
+      "comment1": "MidTier Lootbox",
+      "comment2": "Gem2",
+      "gemIDs": 455
+    },
+    {
+      "rewardID": 9303,
+      "crossplayID": 9303,
+      "comment1": "MidTier Lootbox",
+      "comment2": "Gem3",
+      "gemIDs": 456
+    },
+    {
+      "rewardID": 9304,
+      "crossplayID": 9304,
+      "comment1": "MidTier Lootbox",
+      "comment2": "Gem4",
+      "gemIDs": 457
+    },
+    {
+      "rewardID": 9305,
+      "crossplayID": 9305,
+      "comment1": "HighTier Lootbox",
+      "comment2": "Armor",
+      "equipmentIDs": 1375
+    },
+    {
+      "rewardID": 9306,
+      "crossplayID": 9306,
+      "comment1": "HighTier Lootbox",
+      "comment2": "Weapon",
+      "equipmentIDs": 1376
+    },
+    {
+      "rewardID": 9307,
+      "crossplayID": 9307,
+      "comment1": "HighTier Lootbox",
+      "comment2": "Helmet",
+      "equipmentIDs": 1377
+    },
+    {
+      "rewardID": 9308,
+      "crossplayID": 9308,
+      "comment1": "HighTier Lootbox",
+      "comment2": "Artifact",
+      "equipmentIDs": 1378
+    },
+    {
+      "rewardID": 9309,
+      "crossplayID": 9309,
+      "comment1": "HighTier Lootbox",
+      "comment2": "Commander",
+      "equipmentIDs": 1379
+    },
+    {
+      "rewardID": 9310,
+      "crossplayID": 9310,
+      "comment1": "HighTier Lootbox",
+      "comment2": "Gem1",
+      "gemIDs": 458
+    },
+    {
+      "rewardID": 9311,
+      "crossplayID": 9311,
+      "comment1": "HighTier Lootbox",
+      "comment2": "Gem2",
+      "gemIDs": 459
+    },
+    {
+      "rewardID": 9312,
+      "crossplayID": 9312,
+      "comment1": "HighTier Lootbox",
+      "comment2": "Gem3",
+      "gemIDs": 460
+    },
+    {
+      "rewardID": 9313,
+      "crossplayID": 9313,
+      "comment1": "HighTier Lootbox",
+      "comment2": "Gem4",
+      "gemIDs": 461
+    },
+    {
       "rewardID": 9315,
       "crossplayID": 9315,
       "comment1": "Black Friday Gacha",
@@ -32272,6 +32496,569 @@
       "comment1": "Black Friday Gacha",
       "comment2": "Gacha Currency",
       "addMerchantsKey": 100
+    },
+    {
+      "rewardID": 9401,
+      "crossplayID": 9401,
+      "comment1": "ARE Loot Box",
+      "comment2": "Necromancer Wood Low Amount",
+      "wood": 65000
+    },
+    {
+      "rewardID": 9384,
+      "crossplayID": 9384,
+      "comment1": "ARE Loot Box",
+      "comment2": "Necromancer Wood Medium Amount",
+      "wood": 160000
+    },
+    {
+      "rewardID": 9385,
+      "crossplayID": 9385,
+      "comment1": "ARE Loot Box",
+      "comment2": "Necromancer Wood High Amount",
+      "wood": 400000
+    },
+    {
+      "rewardID": 9386,
+      "crossplayID": 9386,
+      "comment1": "ARE Loot Box",
+      "comment2": "Necromancer Stone Low Amount",
+      "stone": 65000
+    },
+    {
+      "rewardID": 9387,
+      "crossplayID": 9387,
+      "comment1": "ARE Loot Box",
+      "comment2": "Necromancer Stone Medium Amount",
+      "stone": 160000
+    },
+    {
+      "rewardID": 9388,
+      "crossplayID": 9388,
+      "comment1": "ARE Loot Box",
+      "comment2": "Necromancer Stone High Amount",
+      "stone": 400000
+    },
+    {
+      "rewardID": 9389,
+      "crossplayID": 9389,
+      "comment1": "ARE Loot Box",
+      "comment2": "Necromancer Food Low Amount",
+      "food": 60000
+    },
+    {
+      "rewardID": 9390,
+      "crossplayID": 9390,
+      "comment1": "ARE Loot Box",
+      "comment2": "Necromancer Food Medium Amount",
+      "food": 150000
+    },
+    {
+      "rewardID": 9391,
+      "crossplayID": 9391,
+      "comment1": "ARE Loot Box",
+      "comment2": "Necromancer Food High Amount",
+      "food": 370000
+    },
+    {
+      "rewardID": 9392,
+      "crossplayID": 9392,
+      "comment1": "ARE Loot Box",
+      "comment2": "Necromancer Mead Low Amount",
+      "mead": 30000
+    },
+    {
+      "rewardID": 9393,
+      "crossplayID": 9393,
+      "comment1": "ARE Loot Box",
+      "comment2": "Necromancer Mead Medium Amount",
+      "mead": 75000
+    },
+    {
+      "rewardID": 9394,
+      "crossplayID": 9394,
+      "comment1": "ARE Loot Box",
+      "comment2": "Necromancer Mead High Amount",
+      "mead": 185000
+    },
+    {
+      "rewardID": 9395,
+      "crossplayID": 9395,
+      "comment1": "ARE Loot Box",
+      "comment2": "Necromancer Beef Low Amount",
+      "beef": 6000
+    },
+    {
+      "rewardID": 9396,
+      "crossplayID": 9396,
+      "comment1": "ARE Loot Box",
+      "comment2": "Necromancer Beef Medium Amount",
+      "beef": 15000
+    },
+    {
+      "rewardID": 9397,
+      "crossplayID": 9397,
+      "comment1": "ARE Loot Box",
+      "comment2": "Necromancer Beef High Amount",
+      "beef": 37000
+    },
+    {
+      "rewardID": 9398,
+      "crossplayID": 9398,
+      "comment1": "ARE Loot Box",
+      "comment2": "Necromancer Gold Low Amount",
+      "currency1": 20000
+    },
+    {
+      "rewardID": 9399,
+      "crossplayID": 9399,
+      "comment1": "ARE Loot Box",
+      "comment2": "Necromancer Gold Medium Amount",
+      "currency1": 50000
+    },
+    {
+      "rewardID": 9400,
+      "crossplayID": 9400,
+      "comment1": "ARE Loot Box",
+      "comment2": "Necromancer Gold High Amount",
+      "currency1": 130000
+    },
+    {
+      "rewardID": 9462,
+      "crossplayID": 9462,
+      "decoWodID": 4363,
+      "toDecoGlobalStorage": 1,
+      "equipmentIDs": 1388
+    },
+    {
+      "rewardID": 9463,
+      "crossplayID": 9463,
+      "decoWodID": 4369,
+      "toDecoGlobalStorage": 1,
+      "equipmentIDs": 1388
+    },
+    {
+      "rewardID": 9464,
+      "crossplayID": 9464,
+      "comment1": "Temp EQ",
+      "equipmentIDs": 1389
+    },
+    {
+      "rewardID": 9465,
+      "crossplayID": 9465,
+      "comment1": "Currency",
+      "addFrozenCarrot": 100
+    },
+    {
+      "rewardID": 9466,
+      "crossplayID": 9466,
+      "comment1": "TCI",
+      "constructionItemIDs": 1064
+    },
+    {
+      "rewardID": 9467,
+      "crossplayID": 9467,
+      "comment1": "Currency",
+      "addGenXP15000": 10
+    },
+    {
+      "rewardID": 9468,
+      "crossplayID": 9468,
+      "comment1": "Currency",
+      "addFrozenCarrot": 100
+    },
+    {
+      "rewardID": 9469,
+      "crossplayID": 9469,
+      "comment1": "Deco",
+      "decoWodID": 2943,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 9470,
+      "crossplayID": 9470,
+      "comment1": "Currency",
+      "addGenXP1000": 10
+    },
+    {
+      "rewardID": 9471,
+      "crossplayID": 9471,
+      "comment1": "Themed Unit",
+      "units": "494+1500",
+      "hiddenMead": 36000,
+      "ignoreResourceStorageCapacity": 1
+    },
+    {
+      "rewardID": 9472,
+      "crossplayID": 9472,
+      "comment1": "Themed Unit",
+      "units": "496+1500",
+      "hiddenMead": 36000,
+      "ignoreResourceStorageCapacity": 1
+    },
+    {
+      "rewardID": 9473,
+      "crossplayID": 9473,
+      "comment1": "Themed Unit",
+      "units": "495+1500",
+      "hiddenMead": 36000,
+      "ignoreResourceStorageCapacity": 1
+    },
+    {
+      "rewardID": 9474,
+      "crossplayID": 9474,
+      "comment1": "Themed Unit",
+      "units": "497+1500",
+      "hiddenMead": 36000,
+      "ignoreResourceStorageCapacity": 1
+    },
+    {
+      "rewardID": 9475,
+      "crossplayID": 9475,
+      "comment1": "Deco w/e",
+      "decoWodID": 4374,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 9476,
+      "crossplayID": 9476,
+      "comment1": "Currency",
+      "addRelicFragment": 2000
+    },
+    {
+      "rewardID": 9477,
+      "crossplayID": 9477,
+      "comment1": "Offering",
+      "addFatKingToken": 15
+    },
+    {
+      "rewardID": 9478,
+      "crossplayID": 9478,
+      "comment1": "Offering",
+      "addKnightToken": 10
+    },
+    {
+      "rewardID": 9479,
+      "crossplayID": 9479,
+      "comment1": "Offering",
+      "addPrincessToken": 5
+    },
+    {
+      "rewardID": 9480,
+      "crossplayID": 9480,
+      "comment1": "Offering",
+      "addHasanToken": 5
+    },
+    {
+      "rewardID": 9481,
+      "crossplayID": 9481,
+      "comment1": "Offering",
+      "addValentaToken": 5
+    },
+    {
+      "rewardID": 9482,
+      "crossplayID": 9482,
+      "comment1": "Offering",
+      "addSasakiToken": 1
+    },
+    {
+      "rewardID": 9483,
+      "crossplayID": 9483,
+      "comment1": "CI",
+      "constructionItemIDs": 1056
+    },
+    {
+      "rewardID": 9484,
+      "crossplayID": 9484,
+      "comment1": "CI",
+      "constructionItemIDs": 1057
+    },
+    {
+      "rewardID": 9485,
+      "crossplayID": 9485,
+      "comment1": "CI",
+      "constructionItemIDs": 1058
+    },
+    {
+      "rewardID": 9486,
+      "crossplayID": 9486,
+      "comment1": "CI",
+      "constructionItemIDs": 1059
+    },
+    {
+      "rewardID": 9487,
+      "crossplayID": 9487,
+      "comment1": "CI",
+      "constructionItemIDs": 1060
+    },
+    {
+      "rewardID": 9488,
+      "crossplayID": 9488,
+      "comment1": "CI",
+      "constructionItemIDs": 1061
+    },
+    {
+      "rewardID": 9489,
+      "crossplayID": 9489,
+      "comment1": "CI",
+      "constructionItemIDs": 1062
+    },
+    {
+      "rewardID": 9490,
+      "crossplayID": 9490,
+      "comment1": "Perma EQ",
+      "equipmentIDs": 1206
+    },
+    {
+      "rewardID": 9491,
+      "crossplayID": 9491,
+      "comment1": "Perma EQ",
+      "equipmentIDs": 1207
+    },
+    {
+      "rewardID": 9492,
+      "crossplayID": 9492,
+      "comment1": "Perma EQ",
+      "equipmentIDs": 1208
+    },
+    {
+      "rewardID": 9493,
+      "crossplayID": 9493,
+      "comment1": "Perma EQ",
+      "equipmentIDs": 1209
+    },
+    {
+      "rewardID": 9494,
+      "crossplayID": 9494,
+      "comment1": "TCI",
+      "constructionItemIDs": 1063
+    },
+    {
+      "rewardID": 9495,
+      "crossplayID": 9495,
+      "comment1": "Semi-Giant Deco",
+      "decoWodID": 4371,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 9496,
+      "crossplayID": 9496,
+      "comment1": "Semi-Giant Deco",
+      "decoWodID": 4372,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 9497,
+      "crossplayID": 9497,
+      "comment1": "Currency",
+      "addGenXP5000": 10
+    },
+    {
+      "rewardID": 9498,
+      "crossplayID": 9498,
+      "comment1": "Deco w/e",
+      "decoWodID": 4375,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 9499,
+      "crossplayID": 9499,
+      "comment1": "TCI",
+      "constructionItemIDs": 1064
+    },
+    {
+      "rewardID": 9500,
+      "crossplayID": 9500,
+      "comment1": "Semi-Giant Deco",
+      "decoWodID": 4367,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 9501,
+      "crossplayID": 9501,
+      "comment1": "Offering",
+      "addTiziToken": 2
+    },
+    {
+      "rewardID": 9502,
+      "crossplayID": 9502,
+      "comment1": "Offering",
+      "addDianaToken": 2
+    },
+    {
+      "rewardID": 9503,
+      "crossplayID": 9503,
+      "comment1": "Offering",
+      "addBarinToken": 2
+    },
+    {
+      "rewardID": 9504,
+      "crossplayID": 9504,
+      "comment1": "Semi-Giant Deco",
+      "decoWodID": 4368,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 9505,
+      "crossplayID": 9505,
+      "comment1": "Deco w/e",
+      "decoWodID": 4373,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 9506,
+      "crossplayID": 9506,
+      "comment1": "Currency",
+      "addGenXP10000": 10
+    },
+    {
+      "rewardID": 9507,
+      "crossplayID": 9507,
+      "comment1": "TCI",
+      "constructionItemIDs": 1066
+    },
+    {
+      "rewardID": 9508,
+      "crossplayID": 9508,
+      "comment1": "TCI",
+      "constructionItemIDs": 1065
+    },
+    {
+      "rewardID": 9509,
+      "crossplayID": 9509,
+      "comment1": "Offering",
+      "addKaelrithToken": 1
+    },
+    {
+      "rewardID": 9510,
+      "crossplayID": 9510,
+      "comment1": "Semi-Giant Deco",
+      "decoWodID": 4369,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 9511,
+      "crossplayID": 9511,
+      "comment1": "Semi-Giant Deco",
+      "decoWodID": 4370,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 9512,
+      "crossplayID": 9512,
+      "comment1": "Semi-Giant Deco",
+      "decoWodID": 4365,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 9513,
+      "crossplayID": 9513,
+      "comment1": "Semi-Giant Deco",
+      "decoWodID": 4366,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 9514,
+      "crossplayID": 9514,
+      "comment1": "Currency",
+      "addRelicFragment": 4000
+    },
+    {
+      "rewardID": 9515,
+      "crossplayID": 9515,
+      "comment1": "Deco w/e",
+      "decoWodID": 4376,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 9516,
+      "crossplayID": 9516,
+      "comment1": "Deco w/e",
+      "decoWodID": 4377,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 9517,
+      "crossplayID": 9517,
+      "comment1": "Currency",
+      "addGenXP12500": 10
+    },
+    {
+      "rewardID": 9518,
+      "crossplayID": 9518,
+      "comment1": "Deco w/e",
+      "decoWodID": 4378,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 9519,
+      "crossplayID": 9519,
+      "comment1": "TCI",
+      "constructionItemIDs": 1066
+    },
+    {
+      "rewardID": 9520,
+      "crossplayID": 9520,
+      "comment1": "Semi-Giant Deco",
+      "decoWodID": 4361,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 9521,
+      "crossplayID": 9521,
+      "comment1": "Semi-Giant Deco",
+      "decoWodID": 4362,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 9522,
+      "crossplayID": 9522,
+      "comment1": "Currency",
+      "addRelicFragment": 6000
+    },
+    {
+      "rewardID": 9523,
+      "crossplayID": 9523,
+      "comment1": "TCI",
+      "constructionItemIDs": 1067
+    },
+    {
+      "rewardID": 9524,
+      "crossplayID": 9524,
+      "comment1": "TCI",
+      "constructionItemIDs": 1068
+    },
+    {
+      "rewardID": 9525,
+      "crossplayID": 9525,
+      "comment1": "TCI",
+      "constructionItemIDs": 1069
+    },
+    {
+      "rewardID": 9526,
+      "crossplayID": 9526,
+      "comment1": "TCI",
+      "constructionItemIDs": 1070
+    },
+    {
+      "rewardID": 9527,
+      "crossplayID": 9527,
+      "comment1": "Currency",
+      "addGenXP15000": 20
+    },
+    {
+      "rewardID": 9528,
+      "crossplayID": 9528,
+      "comment1": "Semi-Giant Deco",
+      "decoWodID": 4363,
+      "toDecoGlobalStorage": 1
+    },
+    {
+      "rewardID": 9529,
+      "crossplayID": 9529,
+      "comment1": "Semi-Giant Deco",
+      "decoWodID": 4364,
+      "toDecoGlobalStorage": 1
     },
     {
       "rewardID": 1290,
@@ -131851,6 +132638,534 @@
       "comment2": "Gold 3",
       "allianceCoatLayout": "15+1209600",
       "grantType": 1
+    },
+    {
+      "rewardID": 9279,
+      "comment1": "Alliance Boss Raid Event",
+      "comment2": "Reward 1",
+      "addValentaToken": 30,
+      "decoWodID": 4320,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9280,
+      "comment1": "Alliance Boss Raid Event",
+      "comment2": "Reward 2",
+      "addValentaToken": 28,
+      "decoWodID": 4321,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9314,
+      "comment1": "Alliance Boss Raid Event",
+      "comment2": "Reward 3",
+      "addValentaToken": 26,
+      "decoWodID": 4322,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9282,
+      "comment1": "Alliance Boss Raid Event",
+      "comment2": "Reward 4",
+      "addValentaToken": 20,
+      "decoWodID": 4323,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9402,
+      "comment1": "Necromancer Defeat Reward 1",
+      "comment2": "Lootbox T1",
+      "lootBox": "35+1",
+      "units": "214+6000#204+6000",
+      "hiddenMead": 60000,
+      "ignoreResourceStorageCapacity": 1,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9403,
+      "comment1": "Necromancer Defeat Reward 2",
+      "comment2": "Lootbox T1",
+      "lootBox": "35+1",
+      "units": "214+30000#204+30000",
+      "hiddenMead": 300000,
+      "ignoreResourceStorageCapacity": 1,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9404,
+      "comment1": "Necromancer Defeat Reward 3",
+      "comment2": "Lootbox T1",
+      "lootBox": "35+1",
+      "addRiftCoin": 100,
+      "units": "214+34000#204+34000",
+      "hiddenMead": 340000,
+      "ignoreResourceStorageCapacity": 1,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9405,
+      "comment1": "Necromancer Defeat Reward 4",
+      "comment2": "Lootbox T2 + Rift Coin",
+      "lootBox": "36+1",
+      "addRiftCoin": 630,
+      "units": "214+50000#204+50000",
+      "hiddenMead": 500000,
+      "ignoreResourceStorageCapacity": 1,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9406,
+      "comment1": "Necromancer Defeat Reward 5",
+      "comment2": "Lootbox T2 + Ashira Offering",
+      "lootBox": "36+1",
+      "addRiftCoin": 1750,
+      "units": "214+100000#204+100000",
+      "addAshiraToken": 50,
+      "hiddenMead": 1000000,
+      "ignoreResourceStorageCapacity": 1,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9407,
+      "comment1": "Necromancer Defeat Reward 6",
+      "comment2": "Lootbox T2 + General Exp",
+      "lootBox": "36+1",
+      "addRiftCoin": 2500,
+      "units": "214+125000#204+125000",
+      "addGenXP15000": 65,
+      "hiddenMead": 1250000,
+      "ignoreResourceStorageCapacity": 1,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9408,
+      "comment1": "Necromancer Defeat Reward 7",
+      "comment2": "Lootbox T2 + Plaster",
+      "lootBox": "36+1",
+      "addRiftCoin": 3610,
+      "units": "214+150000#204+150000",
+      "addPlaster": 80,
+      "hiddenMead": 1500000,
+      "ignoreResourceStorageCapacity": 1,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9409,
+      "comment1": "Necromancer Defeat Reward 8",
+      "comment2": "Lootbox T3 + Ashira Offering",
+      "lootBox": "37+1",
+      "addRiftCoin": 6200,
+      "addAshiraToken": 55,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9410,
+      "comment1": "Necromancer Defeat Reward 9",
+      "comment2": "Lootbox T3 + General Exp",
+      "lootBox": "37+1",
+      "addRiftCoin": 9000,
+      "addGenXP15000": 80,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9411,
+      "comment1": "Necromancer Defeat Reward 10",
+      "comment2": "Lootbox T3 + Plaster",
+      "lootBox": "37+2",
+      "addRiftCoin": 12000,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9412,
+      "comment1": "Necromancer Activity Reward 1",
+      "comment2": "Basic Wall + Gate Tool T1",
+      "units": "568+170#570+60",
+      "grantType": 2
+    },
+    {
+      "rewardID": 9413,
+      "comment1": "Necromancer Activity Reward 2",
+      "comment2": "Lvl 10 Mead Units (Melee/Ranged)",
+      "units": "204+3000#214+3000",
+      "hiddenMead": 30000,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9414,
+      "comment1": "Necromancer Activity Reward 3",
+      "comment2": "WaveItem + Infection Tool T1",
+      "equipmentIDs": 1063,
+      "units": "579+20",
+      "grantType": 2
+    },
+    {
+      "rewardID": 9415,
+      "comment1": "Necromancer Activity Reward 4",
+      "comment2": "Basic Wall + Gate Tool T2",
+      "units": "583+900#588+300",
+      "grantType": 2
+    },
+    {
+      "rewardID": 9416,
+      "comment1": "Necromancer Activity Reward 5",
+      "comment2": "Melee Strength CI",
+      "constructionItemIDs": "30403+2",
+      "grantType": 2
+    },
+    {
+      "rewardID": 9417,
+      "comment1": "Necromancer Activity Reward 6",
+      "comment2": "Lvl 10 Mead Units (Melee/Ranged)",
+      "units": "204+6000#214+6000",
+      "hiddenMead": 60000,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9418,
+      "comment1": "Necromancer Activity Reward 7",
+      "comment2": "Ranged Strength",
+      "constructionItemIDs": "30493+2",
+      "grantType": 2
+    },
+    {
+      "rewardID": 9419,
+      "comment1": "Necromancer Activity Reward 8",
+      "comment2": "Rift Coin + LM",
+      "addRiftCoin": 100,
+      "addLegendaryMaterial": 50,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9420,
+      "comment1": "Necromancer Activity Reward 9",
+      "comment2": "Courtyard Strength CI",
+      "constructionItemIDs": "30422+2",
+      "grantType": 2
+    },
+    {
+      "rewardID": 9421,
+      "comment1": "Necromancer Activity Reward 10",
+      "comment2": "Rift Coin + LT",
+      "addRiftCoin": 100,
+      "addLegendaryToken": 25,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9422,
+      "comment1": "Necromancer Activity Reward 11",
+      "comment2": "HoL Small Box + Premium Infection Tool",
+      "lootBox": "33+3",
+      "units": "580+175",
+      "grantType": 2
+    },
+    {
+      "rewardID": 9423,
+      "comment1": "Necromancer Activity Reward 12",
+      "comment2": "Rift Coin + LM",
+      "addRiftCoin": 100,
+      "addLegendaryMaterial": 50,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9424,
+      "comment1": "Necromancer Activity Reward 13",
+      "comment2": "Sceat",
+      "addSceatToken": 600,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9425,
+      "comment1": "Necromancer Activity Reward 14",
+      "comment2": "Rift Coin + LT",
+      "addRiftCoin": 100,
+      "addLegendaryToken": 25,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9426,
+      "comment1": "Necromancer Activity Reward 15",
+      "comment2": "Sceat",
+      "addSceatToken": 750,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9427,
+      "comment1": "Necromancer Activity Reward 16",
+      "comment2": "Rift Coin + LM",
+      "addRiftCoin": 150,
+      "addLegendaryMaterial": 75,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9428,
+      "comment1": "Necromancer Activity Reward 17",
+      "comment2": "Rift Coin + LT",
+      "addRiftCoin": 150,
+      "addLegendaryToken": 37,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9429,
+      "comment1": "Necromancer Activity Reward 18",
+      "comment2": "Flank Amount C + Plaster",
+      "constructionItemIDs": 30560,
+      "addPlaster": 25,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9430,
+      "comment1": "Necromancer Activity Reward 19",
+      "comment2": "Rift Coin + LM",
+      "addRiftCoin": 150,
+      "addLegendaryMaterial": 75,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9431,
+      "comment1": "Necromancer Activity Reward 20",
+      "comment2": "Rift Coin + LT",
+      "addRiftCoin": 150,
+      "addLegendaryToken": 37,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9432,
+      "comment1": "Necromancer Activity Reward 21",
+      "comment2": "Front Amount C + Plaster",
+      "constructionItemIDs": 30453,
+      "addPlaster": 25,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9433,
+      "comment1": "Necromancer Activity Reward 22",
+      "comment2": "Rift Coin + LM",
+      "addRiftCoin": 150,
+      "addLegendaryMaterial": 75,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9434,
+      "comment1": "Necromancer Activity Reward 23",
+      "comment2": "Rift Coin + LT",
+      "addRiftCoin": 150,
+      "addLegendaryToken": 37,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9435,
+      "comment1": "Necromancer Activity Reward 24",
+      "comment2": "Ashira Offering + EXP Token",
+      "addAshiraToken": 20,
+      "addGenXP15000": 30,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9436,
+      "comment1": "Necromancer Activity Reward 25",
+      "comment2": "Rift Coin + LM",
+      "addRiftCoin": 235,
+      "addLegendaryMaterial": 120,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9437,
+      "comment1": "Necromancer Activity Reward 26",
+      "comment2": "Rift Coin + LT",
+      "addRiftCoin": 235,
+      "addLegendaryToken": 60,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9438,
+      "comment1": "Necromancer Activity Reward 27",
+      "comment2": "Rift Coin + LM",
+      "addRiftCoin": 235,
+      "addLegendaryMaterial": 120,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9439,
+      "comment1": "Necromancer Activity Reward 28",
+      "comment2": "Ashira Offering + Exp Rewards",
+      "addAshiraToken": 30,
+      "addGenXP15000": 35,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9440,
+      "comment1": "Necromancer Activity Reward 29",
+      "comment2": "Rift Coin + LT",
+      "addRiftCoin": 235,
+      "addLegendaryToken": 60,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9441,
+      "comment1": "Necromancer Activity Reward 30",
+      "comment2": "Rift Coin + LM",
+      "addRiftCoin": 235,
+      "addLegendaryMaterial": 120,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9442,
+      "comment1": "Necromancer Activity Reward 31",
+      "comment2": "Rift Coin + LT",
+      "addRiftCoin": 235,
+      "addLegendaryToken": 60,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9443,
+      "comment1": "Necromancer Activity Reward 32",
+      "comment2": "HoL Small Box + Sceat",
+      "lootBox": "33+4",
+      "addSceatToken": 1000,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9444,
+      "comment1": "Necromancer Activity Reward 33",
+      "comment2": "Rift Coin + LM",
+      "addRiftCoin": 235,
+      "addLegendaryMaterial": 120,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9445,
+      "comment1": "Necromancer Activity Reward 34",
+      "comment2": "Rift Coin + LT",
+      "addRiftCoin": 235,
+      "addLegendaryToken": 60,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9446,
+      "comment1": "Necromancer Activity Reward 35",
+      "comment2": "Rift Coin + LM",
+      "addRiftCoin": 235,
+      "addLegendaryMaterial": 120,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9447,
+      "comment1": "Necromancer Activity Reward 36",
+      "comment2": "Rift Coin + LT",
+      "addRiftCoin": 235,
+      "addLegendaryToken": 60,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9448,
+      "comment1": "Necromancer Activity Reward 37",
+      "comment2": "HoL Large",
+      "lootBox": "34+1",
+      "grantType": 2
+    },
+    {
+      "rewardID": 9449,
+      "comment1": "Necromancer Activity Reward 38",
+      "comment2": "Rift Coin + LM",
+      "addRiftCoin": 100,
+      "addLegendaryMaterial": 50,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9450,
+      "comment1": "Necromancer Activity Reward 39",
+      "comment2": "Rift Coin + LT",
+      "addRiftCoin": 100,
+      "addLegendaryToken": 25,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9451,
+      "comment1": "Necromancer Activity Reward 40",
+      "comment2": "Rift Coin + LM",
+      "addRiftCoin": 100,
+      "addLegendaryMaterial": 50,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9452,
+      "comment1": "Necromancer Activity Reward 41",
+      "comment2": "Rift Coin + LT",
+      "addRiftCoin": 100,
+      "addLegendaryToken": 25,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9453,
+      "comment1": "Necromancer Activity Reward 42",
+      "comment2": "Rift Coin + LM",
+      "addRiftCoin": 100,
+      "addLegendaryMaterial": 50,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9454,
+      "comment1": "Necromancer Activity Reward 43",
+      "comment2": "Rift Coin + LT",
+      "addRiftCoin": 100,
+      "addLegendaryToken": 25,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9455,
+      "comment1": "Necromancer Activity Reward 44",
+      "comment2": "Rift Coin + LM",
+      "addRiftCoin": 100,
+      "addLegendaryMaterial": 50,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9456,
+      "comment1": "Necromancer Activity Reward 45",
+      "comment2": "Rift Coin + LT",
+      "addRiftCoin": 100,
+      "addLegendaryToken": 25,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9457,
+      "comment1": "Necromancer Activity Reward 46",
+      "comment2": "Rift Coin + LM",
+      "addRiftCoin": 100,
+      "addLegendaryMaterial": 50,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9458,
+      "comment1": "Necromancer Activity Reward 47",
+      "comment2": "Rift Coin + LT",
+      "addRiftCoin": 100,
+      "addLegendaryToken": 25,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9459,
+      "comment1": "Necromancer Activity Reward 48",
+      "comment2": "Rift Coin + LM",
+      "addRiftCoin": 100,
+      "addLegendaryMaterial": 50,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9460,
+      "comment1": "Necromancer Activity Reward 49",
+      "comment2": "Rift Coin + LT",
+      "addRiftCoin": 100,
+      "addLegendaryToken": 25,
+      "grantType": 2
+    },
+    {
+      "rewardID": 9461,
+      "comment1": "Necromancer Activity Reward 50",
+      "comment2": "Rift Coin + LM",
+      "addRiftCoin": 100,
+      "addLegendaryMaterial": 50,
+      "grantType": 2
     },
     {
       "rewardID": 20001,

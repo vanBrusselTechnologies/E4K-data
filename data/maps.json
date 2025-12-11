@@ -1,0 +1,61 @@
+{
+  "map": {
+    "id": 1,
+    "comment": "6 stages map",
+    "animation": {
+      "linkageId": "Component_ARE_Overview_BossSlots_A",
+      "name": "stages6",
+      "asset": [
+        {
+          "target": "units",
+          "asset": "Necromancer_Boss_Units"
+        },
+        {
+          "target": "keep_1",
+          "asset": "Necromancer_Keep_1",
+          "stages": "1,2"
+        },
+        {
+          "target": "keep_2",
+          "asset": "Necromancer_Keep_2",
+          "stages": "3,4"
+        },
+        {
+          "target": "keep_3",
+          "asset": "Necromancer_Keep_3",
+          "stages": "5,6"
+        },
+        {
+          "target": "left_wall",
+          "asset": "Necromancer_LeftWall",
+          "leftWallReg": 0
+        },
+        {
+          "target": "left_wall_reg",
+          "asset": "Necromancer_LeftWall_Regenerate",
+          "leftWallReg": 1
+        },
+        {
+          "target": "right_wall",
+          "asset": "Necromancer_RightWall",
+          "rightWallReg": 0
+        },
+        {
+          "target": "right_wall_reg",
+          "asset": "Necromancer_RightWall_Regenerate",
+          "rightWallReg": 1
+        },
+        {
+          "target": "gate",
+          "asset": "Necromancer_Gate",
+          "gateReg": 0
+        },
+        {
+          "target": "gate_reg",
+          "asset": "Necromancer_Gate_Regenerate",
+          "gateReg": 1
+        }
+      ]
+    }
+  }
+}

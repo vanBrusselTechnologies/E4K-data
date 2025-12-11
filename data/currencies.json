@@ -736,6 +736,13 @@
       "assetName": "GarrikToken"
     },
     {
+      "currencyID": 6011,
+      "crossplayID": 6011,
+      "Name": "AshiraToken",
+      "JSONKey": "AST",
+      "assetName": "AshiraToken"
+    },
+    {
       "currencyID": 6012,
       "crossplayID": 6012,
       "Name": "KaelrithToken",
@@ -846,6 +853,13 @@
       "Name": "ShardGarrik",
       "JSONKey": "SGA",
       "assetName": "ShardGarrik"
+    },
+    {
+      "currencyID": 10014,
+      "crossplayID": 10014,
+      "Name": "ShardAshira",
+      "JSONKey": "SAS",
+      "assetName": "ShardAshira"
     },
     {
       "currencyID": 10015,
@@ -1247,11 +1261,25 @@
       "assetName": "SweetTreat"
     },
     {
+      "currencyID": 85,
+      "crossplayID": 85,
+      "Name": "RiftCoin",
+      "JSONKey": "RC",
+      "assetName": "RiftCoin"
+    },
+    {
       "currencyID": 16,
       "crossplayID": 16,
       "Name": "MerchantsKey",
       "JSONKey": "MK",
       "assetName": "MerchantsKey"
+    },
+    {
+      "currencyID": 86,
+      "crossplayID": 86,
+      "Name": "LegendaryRiftCoin",
+      "JSONKey": "LRC",
+      "assetName": "LegendaryRiftCoin"
     },
     {
       "currencyID": 100000,

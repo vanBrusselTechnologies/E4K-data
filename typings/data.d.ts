@@ -30,6 +30,7 @@ export interface Data {
     boostConsumables: BoostConsumable[];
     boosttypes: BoostType[];
     bossdungeons: BossDungeon[];
+    bosses: Boss[];
     buildingPositions: BuildingPosition[];
     buildings: Building[];
     catalysts: Catalyst[];
@@ -152,6 +153,7 @@ export interface Data {
     LuckyWheelDropChances: LuckyWheelDropChance[];
     luckywheelrewardsets: LuckyWheelRewardSet[];
     mainquests: MainQuest[];
+    maps: Map[];
     merchants: Merchant[];
     messageRestrictions: MessageRestriction[];
     mightranks: MightRank[];
@@ -182,6 +184,9 @@ export interface Data {
     privateVillages: PrivateVillage[];
     properties: Property[];
     quests: Quest[];
+    raidBosses: raidBoss[];
+    raidBossLevels: RaidBossLevel[];
+    raidBossStages: RaidBossStage[];
     randomgroups: RandomGroup[];
     relicBluePrints: RelicBluePrint[];
     relicCategories: RelicCategory[];
@@ -615,6 +620,13 @@ export interface BossDungeon {
     "lootc1": number;
     "lootc2": number;
     "playerCooldownDelay": number;
+}
+
+export interface Boss {
+    "animationName": string;
+    "id": number;
+    "mapId": number;
+    "name": string;
 }
 
 export interface BuildingPosition {
@@ -1384,7 +1396,7 @@ export interface EquipmentEffectStrength {
 }
 
 export interface EquipmentGemEffect {
-    "areaTypeID"?: string;
+    "areaTypeID"?: number | string;
     "crossplayID": number;
     "effectID": number;
     "effectTypeID": number;
@@ -1822,6 +1834,7 @@ export interface General {
     "generalID": number;
     "generalName": string;
     "generalRarityID": number;
+    "isHiddenInOverview"?: number;
     "isNPCGeneral": number;
     "isPreview": number;
     "maxLevel": number;
@@ -2251,6 +2264,16 @@ export interface MainQuest {
     "mainQuestID": number;
 }
 
+export interface Map {
+    "animation": {
+        "asset": object[];
+        "linkageId": string;
+        "name": string;
+    };
+    "comment": string;
+    "id": number;
+}
+
 export interface Merchant {
     "id": number;
     "name": string;
@@ -2394,6 +2417,7 @@ export interface Package {
     "add30MinSkip"?: number;
     "add5HourSkip"?: number;
     "add60MinSkip"?: number;
+    "addAshiraToken"?: number;
     "addBalloonsBoosterKey"?: number;
     "addBeadBowlBoosterKey"?: number;
     "addBusyBeesBoosterKey"?: number;
@@ -2522,12 +2546,14 @@ export interface Package {
     "costIceLTPEToken"?: number;
     "costKhanMedal"?: number;
     "costKhanTablet"?: number;
+    "costLegendaryRiftCoin"?: number;
     "costLotusFlowerLTPEToken"?: number;
     "costMayaLTPEToken"?: number;
     "costNewKingLTPEToken"?: number;
     "costOctoberfestLTPEToken"?: number;
     "costPearlRelic"?: number;
     "costPiratesLTPEToken"?: number;
+    "costRiftCoin"?: number;
     "costSamuraiMedal"?: number;
     "costSamuraiToken"?: number;
     "costSceatToken"?: number;
@@ -2793,6 +2819,44 @@ export interface Quest {
     "xp"?: number;
 }
 
+export interface raidBoss {
+    "leaguetypeID": number;
+    "lifebarColor": string;
+    "name": string;
+    "raidBossID": number;
+    "rarity": number;
+}
+
+export interface RaidBossLevel {
+    "courtyardMeleePercent": number;
+    "courtyardReserveUnits": string;
+    "courtyardSize": number;
+    "level": number;
+    "lootBoxTombolaID": number;
+    "minPointsForBossRewards": number;
+    "raidBossID": number;
+    "raidBossLevelID": number;
+    "rewardIDs": number;
+    "wallRegenerationTime": number;
+}
+
+export interface RaidBossStage {
+    "HighlightEffectIcon": number | string;
+    "attackerBattleEffects": string;
+    "attackerPostBattleEffects": string;
+    "courtyardPointFactor": number;
+    "defenderBattleEffects": string;
+    "defenderStageEffects"?: string;
+    "frontWallUnits": string;
+    "generalID": number;
+    "health": number;
+    "leftWallUnits": string;
+    "raidBossLevelID": number;
+    "raidBossStageID": number;
+    "rightWallUnits": string;
+    "wallPointFactor": number;
+}
+
 export interface RandomGroup {
     "groupType": string;
     "probability": number;
@@ -2971,6 +3035,7 @@ export interface Reward {
     "add60MinSkip"?: number;
     "addAnniversaryToken"?: number;
     "addApprenticeToken"?: number;
+    "addAshiraToken"?: number;
     "addBarinToken"?: number;
     "addBastionDoubloon"?: number;
     "addCastlePassageToken"?: number;
@@ -3061,11 +3126,13 @@ export interface Reward {
     "addRefinedLumber"?: number;
     "addRefinedStone"?: number;
     "addRelicFragment"?: number;
+    "addRiftCoin"?: number;
     "addSaleDaysLuckyWheelTicket"?: number;
     "addSasakiToken"?: number;
     "addSceatToken"?: number;
     "addShardAlice"?: number;
     "addShardAlyssa"?: number;
+    "addShardAshira"?: number;
     "addShardBarin"?: number;
     "addShardDiana"?: number;
     "addShardEdric"?: number;
@@ -3095,6 +3162,7 @@ export interface Reward {
     "addWishingWellCoin"?: number;
     "addXmasLTPEToken"?: number;
     "allianceCoatLayout"?: string;
+    "beef"?: number;
     "buildingWodID"?: number | string;
     "coal"?: number;
     "comment1"?: number | string;
@@ -3564,6 +3632,8 @@ export interface Unit {
     "costDragonGlassArrows"?: number;
     "costDragonScaleArmor"?: number;
     "costDragonScaleArrows"?: number;
+    "costLegendaryToken"?: number;
+    "costSceatToken"?: number;
     "costStone"?: number;
     "costTwinFlameAxes"?: number;
     "costWood"?: number;
@@ -3622,7 +3692,7 @@ export interface Unit {
     "samuraiTokenBooster"?: number;
     "skillUnlockID"?: number;
     "skipCostC2"?: number;
-    "slotTypes"?: string;
+    "slotTypes"?: number | string;
     "sortOrder"?: number;
     "speed"?: number;
     "tempServerCostC2"?: number;

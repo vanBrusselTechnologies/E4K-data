@@ -961,6 +961,69 @@
       "name": "offensiveRangeMalusPVE",
       "effectTypeID": 24,
       "areaTypeID": "2,11,13,17,18,25,27,30,33"
+    },
+    {
+      "effectID": 268,
+      "crossplayID": 268,
+      "name": "infectionRateWallBonus",
+      "effectTypeID": 205,
+      "areaTypeID": 43
+    },
+    {
+      "effectID": 269,
+      "crossplayID": 269,
+      "name": "infectionRateMeleeMalus",
+      "effectTypeID": 203,
+      "areaTypeID": 43
+    },
+    {
+      "effectID": 270,
+      "crossplayID": 270,
+      "name": "infectionRateRangeMalus",
+      "effectTypeID": 204,
+      "areaTypeID": 43
+    },
+    {
+      "effectID": 271,
+      "crossplayID": 271,
+      "name": "infectionRateCourtyardMalus",
+      "effectTypeID": 206,
+      "areaTypeID": 43
+    },
+    {
+      "effectID": 272,
+      "crossplayID": 272,
+      "name": "equipmentAREOffensiveFrontStr",
+      "effectTypeID": 53,
+      "areaTypeID": 43
+    },
+    {
+      "effectID": 273,
+      "crossplayID": 273,
+      "name": "equipmentAREOffensiveFlankStrBonus",
+      "effectTypeID": 54,
+      "areaTypeID": 43
+    },
+    {
+      "effectID": 274,
+      "crossplayID": 274,
+      "name": "equipmentAREOffensiveRangedBonus",
+      "effectTypeID": 10,
+      "areaTypeID": 43
+    },
+    {
+      "effectID": 275,
+      "crossplayID": 275,
+      "name": "equipmentAREOffensiveMeleeBonus",
+      "effectTypeID": 9,
+      "areaTypeID": 43
+    },
+    {
+      "effectID": 276,
+      "crossplayID": 276,
+      "name": "equipmentAREOffensiveYardStrBonus",
+      "effectTypeID": 33,
+      "areaTypeID": 43
     }
   ]
 }

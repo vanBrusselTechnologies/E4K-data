@@ -214,19 +214,19 @@
       "countVictoryMax": 90
     },
     {
-      "comment2": "Berimond Blue 40-69",
+      "comment2": "Berimond Blue 15-69",
       "leaguetypeID": 1,
       "eventID": 3,
       "subType": 0,
-      "minLevel": 40,
+      "minLevel": 15,
       "maxLevel": 69
     },
     {
-      "comment2": "Berimond Red 40-69",
+      "comment2": "Berimond Blue 15-69",
       "leaguetypeID": 2,
       "eventID": 3,
       "subType": 1,
-      "minLevel": 40,
+      "minLevel": 15,
       "maxLevel": 69
     },
     {
@@ -440,7 +440,7 @@
       "leaguetypeID": 1,
       "eventID": 71,
       "subType": 1,
-      "minLevel": 20,
+      "minLevel": 70,
       "maxLevel": 1020
     },
     {
@@ -483,7 +483,7 @@
       "leaguetypeID": 1,
       "eventID": 103,
       "subType": 1,
-      "minLevel": 40,
+      "minLevel": 70,
       "maxLevel": 1020
     },
     {
@@ -611,6 +611,15 @@
       "leaguetypeID": 1,
       "eventID": 128,
       "minLevel": 10,
+      "maxLevel": 1020
+    },
+    {
+      "comment1": "Alliance Raidboss Event",
+      "comment2": "Alliance Raidboss Event",
+      "leaguetypeID": 1,
+      "eventID": 133,
+      "subType": 0,
+      "minLevel": 70,
       "maxLevel": 1020
     },
     {

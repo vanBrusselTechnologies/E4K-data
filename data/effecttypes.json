@@ -1427,6 +1427,94 @@
       "name": "xpBoost",
       "sortCategory": 1,
       "sortGroup": 16
+    },
+    {
+      "effectTypeID": 197,
+      "crossplayID": 197,
+      "combatType": 3,
+      "name": "infectionRateBaseBonus",
+      "sortCategory": 6,
+      "sortGroup": 32
+    },
+    {
+      "effectTypeID": 198,
+      "crossplayID": 198,
+      "combatType": 3,
+      "name": "infectionRateMeleeBonus",
+      "sortCategory": 6,
+      "sortGroup": 33
+    },
+    {
+      "effectTypeID": 199,
+      "crossplayID": 199,
+      "combatType": 3,
+      "name": "infectionRateRangeBonus",
+      "sortCategory": 6,
+      "sortGroup": 34
+    },
+    {
+      "effectTypeID": 200,
+      "crossplayID": 200,
+      "combatType": 3,
+      "name": "infectionRateWallBonus",
+      "sortCategory": 6,
+      "sortGroup": 35
+    },
+    {
+      "effectTypeID": 201,
+      "crossplayID": 201,
+      "combatType": 3,
+      "name": "infectionRateCourtyardBonus",
+      "sortCategory": 6,
+      "sortGroup": 36
+    },
+    {
+      "effectTypeID": 202,
+      "crossplayID": 202,
+      "combatType": 3,
+      "name": "infectionRateBaseMalus",
+      "sortCategory": 6,
+      "sortGroup": 37
+    },
+    {
+      "effectTypeID": 203,
+      "crossplayID": 203,
+      "combatType": 3,
+      "name": "infectionRateMeleeMalus",
+      "sortCategory": 6,
+      "sortGroup": 38
+    },
+    {
+      "effectTypeID": 204,
+      "crossplayID": 204,
+      "combatType": 3,
+      "name": "infectionRateRangeMalus",
+      "sortCategory": 6,
+      "sortGroup": 39
+    },
+    {
+      "effectTypeID": 205,
+      "crossplayID": 205,
+      "combatType": 3,
+      "name": "infectionRateWallMalus",
+      "sortCategory": 6,
+      "sortGroup": 40
+    },
+    {
+      "effectTypeID": 206,
+      "crossplayID": 206,
+      "combatType": 3,
+      "name": "infectionRateCourtyardMalus",
+      "sortCategory": 6,
+      "sortGroup": 41
+    },
+    {
+      "effectTypeID": 207,
+      "crossplayID": 207,
+      "combatType": 3,
+      "name": "raidBossWallRegeneration",
+      "sortCategory": 6,
+      "sortGroup": 42
     }
   ]
 }

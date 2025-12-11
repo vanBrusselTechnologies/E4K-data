@@ -373,6 +373,72 @@
       "draws": 1,
       "lootBoxKeyTombolaID": 8,
       "sortOrder": 34
+    },
+    {
+      "lootBoxID": 35,
+      "crossplayID": 35,
+      "lootBoxTypeID": 1,
+      "name": "AREBoxBronze",
+      "rarity": 1,
+      "lootBoxTombolaID": 62,
+      "draws": 1,
+      "lootBoxKeyTombolaID": 1,
+      "sortOrder": 35
+    },
+    {
+      "lootBoxID": 36,
+      "crossplayID": 36,
+      "lootBoxTypeID": 1,
+      "name": "AREBoxSilver",
+      "rarity": 1,
+      "lootBoxTombolaID": 63,
+      "draws": 1,
+      "lootBoxKeyTombolaID": 1,
+      "sortOrder": 36
+    },
+    {
+      "lootBoxID": 37,
+      "crossplayID": 37,
+      "lootBoxTypeID": 1,
+      "name": "AREBoxGold",
+      "rarity": 1,
+      "lootBoxTombolaID": 64,
+      "draws": 1,
+      "lootBoxKeyTombolaID": 1,
+      "sortOrder": 37
+    },
+    {
+      "lootBoxID": 38,
+      "crossplayID": 38,
+      "lootBoxTypeID": 1,
+      "name": "AREBoxBronze",
+      "rarity": 1,
+      "lootBoxTombolaID": 74,
+      "draws": 1,
+      "lootBoxKeyTombolaID": 1,
+      "sortOrder": 38
+    },
+    {
+      "lootBoxID": 39,
+      "crossplayID": 39,
+      "lootBoxTypeID": 1,
+      "name": "AREBoxSilver",
+      "rarity": 1,
+      "lootBoxTombolaID": 75,
+      "draws": 1,
+      "lootBoxKeyTombolaID": 1,
+      "sortOrder": 39
+    },
+    {
+      "lootBoxID": 40,
+      "crossplayID": 40,
+      "lootBoxTypeID": 1,
+      "name": "AREBoxGold",
+      "rarity": 1,
+      "lootBoxTombolaID": 76,
+      "draws": 1,
+      "lootBoxKeyTombolaID": 1,
+      "sortOrder": 40
     }
   ]
 }

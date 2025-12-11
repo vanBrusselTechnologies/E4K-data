@@ -335,13 +335,54 @@
       "generalID": 124,
       "crossplayID": 124,
       "generalName": "Ashira",
+      "attackSlots": "101241,101242,101243,101244",
+      "defenseSlots": "101246,101247,101248,101249",
       "generalRarityID": 3,
+      "maxLevel": 100,
+      "maxStarLevel": 10,
+      "unlockCurrencyID": 10014,
+      "upgradeCurrencyIDs": "10000,10014",
+      "isPreview": 0,
+      "isNPCGeneral": 0
+    },
+    {
+      "generalID": 128,
+      "crossplayID": 128,
+      "generalName": "RaidBoss1Full",
+      "generalRarityID": 2,
       "maxLevel": 100,
       "maxStarLevel": 10,
       "unlockCurrencyID": 10000,
       "upgradeCurrencyIDs": "10000,10000",
-      "isPreview": 1,
-      "isNPCGeneral": 0
+      "isPreview": 0,
+      "isNPCGeneral": 1,
+      "isHiddenInOverview": 1
+    },
+    {
+      "generalID": 129,
+      "crossplayID": 129,
+      "generalName": "RaidBoss1Mid",
+      "generalRarityID": 2,
+      "maxLevel": 100,
+      "maxStarLevel": 10,
+      "unlockCurrencyID": 10000,
+      "upgradeCurrencyIDs": "10000,10000",
+      "isPreview": 0,
+      "isNPCGeneral": 1,
+      "isHiddenInOverview": 1
+    },
+    {
+      "generalID": 130,
+      "crossplayID": 130,
+      "generalName": "RaidBoss1Low",
+      "generalRarityID": 2,
+      "maxLevel": 100,
+      "maxStarLevel": 10,
+      "unlockCurrencyID": 10000,
+      "upgradeCurrencyIDs": "10000,10000",
+      "isPreview": 0,
+      "isNPCGeneral": 1,
+      "isHiddenInOverview": 1
     }
   ]
 }
