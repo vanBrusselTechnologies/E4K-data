@@ -2182,6 +2182,8 @@
       "crossplayID": 157,
       "effectID": 450,
       "wearerID": 2,
+      "enchantmentPrimaryBonus": 1.5,
+      "enchantmentSecondaryBonus": 1.5,
       "name": "equipmentAREOffensiveYardStrBonus"
     },
     {
@@ -2189,6 +2191,8 @@
       "crossplayID": 158,
       "effectID": 451,
       "wearerID": 2,
+      "enchantmentPrimaryBonus": 1.5,
+      "enchantmentSecondaryBonus": 1.5,
       "name": "equipmentAREAttackUnitAmountFlank"
     },
     {
@@ -2196,6 +2200,8 @@
       "crossplayID": 159,
       "effectID": 452,
       "wearerID": 2,
+      "enchantmentPrimaryBonus": 1.5,
+      "enchantmentSecondaryBonus": 1.5,
       "name": "equipmentAREAttackUnitAmountFront"
     },
     {
@@ -2203,6 +2209,8 @@
       "crossplayID": 160,
       "effectID": 453,
       "wearerID": 2,
+      "enchantmentPrimaryBonus": 0.5,
+      "enchantmentSecondaryBonus": 0.5,
       "name": "equipmentARESpeedBonus"
     },
     {
@@ -2210,6 +2218,8 @@
       "crossplayID": 161,
       "effectID": 454,
       "wearerID": 2,
+      "enchantmentPrimaryBonus": 1.5,
+      "enchantmentSecondaryBonus": 1.5,
       "name": "equipmentAREOffensiveFrontStr"
     },
     {
@@ -2224,6 +2234,8 @@
       "crossplayID": 163,
       "effectID": 456,
       "wearerID": 2,
+      "enchantmentPrimaryBonus": 1.5,
+      "enchantmentSecondaryBonus": 1.5,
       "name": "equipmentAREOffensiveFlankStrBonus"
     },
     {
@@ -2238,6 +2250,8 @@
       "crossplayID": 165,
       "effectID": 458,
       "wearerID": 2,
+      "enchantmentPrimaryBonus": 0.5,
+      "enchantmentSecondaryBonus": 0.5,
       "name": "equipmentAREReturnTravelBoost"
     },
     {
@@ -2245,6 +2259,8 @@
       "crossplayID": 166,
       "effectID": 459,
       "wearerID": 2,
+      "enchantmentPrimaryBonus": 1.5,
+      "enchantmentSecondaryBonus": 1.5,
       "name": "equipmentAREAttackUnitAmountFront"
     },
     {

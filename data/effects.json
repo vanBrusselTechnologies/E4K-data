@@ -3892,7 +3892,6 @@
       "name": "lootBonus",
       "effectTypeID": 16,
       "capID": 16,
-      "areaTypeID": "2,11,13,17,14,27,29,30,35,37",
       "spaceIDs": 0,
       "sortOrder": "6.5.1"
     },
@@ -4084,7 +4083,7 @@
       "effectID": 455,
       "crossplayID": 455,
       "name": "equipmentAREOffensiveMeleeBonus",
-      "effectTypeID": 9,
+      "effectTypeID": 23,
       "capID": 99,
       "areaTypeID": 43
     },
@@ -4100,7 +4099,7 @@
       "effectID": 457,
       "crossplayID": 457,
       "name": "equipmentAREOffensiveRangedBonus",
-      "effectTypeID": 10,
+      "effectTypeID": 24,
       "capID": 99,
       "areaTypeID": 43
     },

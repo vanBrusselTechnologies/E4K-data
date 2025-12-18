@@ -24700,7 +24700,6 @@
       "typ": "Attack",
       "slotTypes": "1,2,9",
       "allowedToAttack": "0+43",
-      "deleteToolAfterBattle": 1,
       "sortOrder": 219.11
     },
     {
@@ -24721,7 +24720,6 @@
       "typ": "Attack",
       "slotTypes": "1,2,9",
       "allowedToAttack": "0+43",
-      "deleteToolAfterBattle": 1,
       "sortOrder": 219.12
     },
     {
@@ -24742,7 +24740,6 @@
       "typ": "Attack",
       "slotTypes": "1,2,9",
       "allowedToAttack": "0+43",
-      "deleteToolAfterBattle": 1,
       "sortOrder": 219.13
     },
     {
@@ -24763,7 +24760,6 @@
       "typ": "Attack",
       "slotTypes": "1,2,9",
       "allowedToAttack": "0+43",
-      "deleteToolAfterBattle": 1,
       "sortOrder": 219.14
     },
     {
@@ -24784,7 +24780,6 @@
       "typ": "Attack",
       "slotTypes": "1,2,9",
       "allowedToAttack": "0+43",
-      "deleteToolAfterBattle": 1,
       "sortOrder": 219.15
     },
     {
@@ -24805,7 +24800,6 @@
       "typ": "Attack",
       "slotTypes": "1,2,9",
       "allowedToAttack": "0+43",
-      "deleteToolAfterBattle": 1,
       "sortOrder": 219.16
     },
     {
@@ -24826,7 +24820,6 @@
       "typ": "Attack",
       "slotTypes": "1,2,9",
       "allowedToAttack": "0+43",
-      "deleteToolAfterBattle": 1,
       "sortOrder": 219.17
     },
     {
@@ -24845,9 +24838,8 @@
       "cleavageOfCellsCost": 138,
       "gateBonus": 60,
       "typ": "Attack",
-      "slotTypes": "1,2,9",
+      "slotTypes": "1,9",
       "allowedToAttack": "0+43",
-      "deleteToolAfterBattle": 1,
       "sortOrder": 219.18
     },
     {
@@ -24866,9 +24858,8 @@
       "cleavageOfCellsCost": 138,
       "gateBonus": 80,
       "typ": "Attack",
-      "slotTypes": "1,2,9",
+      "slotTypes": "1,9",
       "allowedToAttack": "0+43",
-      "deleteToolAfterBattle": 1,
       "sortOrder": 219.19
     },
     {
@@ -24887,9 +24878,8 @@
       "cleavageOfCellsCost": 138,
       "gateBonus": 125,
       "typ": "Attack",
-      "slotTypes": "1,2,9",
+      "slotTypes": "1,9",
       "allowedToAttack": "0+43",
-      "deleteToolAfterBattle": 1,
       "sortOrder": 219.2
     },
     {
@@ -24908,9 +24898,8 @@
       "cleavageOfCellsCost": 138,
       "gateBonus": 200,
       "typ": "Attack",
-      "slotTypes": "1,2,9",
+      "slotTypes": "1,9",
       "allowedToAttack": "0+43",
-      "deleteToolAfterBattle": 1,
       "sortOrder": 219.21
     },
     {
@@ -24929,9 +24918,8 @@
       "cleavageOfCellsCost": 138,
       "gateBonus": 250,
       "typ": "Attack",
-      "slotTypes": "1,2,9",
+      "slotTypes": "1,9",
       "allowedToAttack": "0+43",
-      "deleteToolAfterBattle": 1,
       "sortOrder": 219.22
     },
     {
@@ -24950,9 +24938,8 @@
       "cleavageOfCellsCost": 138,
       "gateBonus": 340,
       "typ": "Attack",
-      "slotTypes": "1,2,9",
+      "slotTypes": "1,9",
       "allowedToAttack": "0+43",
-      "deleteToolAfterBattle": 1,
       "sortOrder": 219.23
     },
     {
@@ -24971,9 +24958,8 @@
       "cleavageOfCellsCost": 138,
       "gateBonus": 500,
       "typ": "Attack",
-      "slotTypes": "1,2,9",
+      "slotTypes": "1,9",
       "allowedToAttack": "0+43",
-      "deleteToolAfterBattle": 1,
       "sortOrder": 219.24
     },
     {

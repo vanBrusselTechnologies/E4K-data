@@ -11942,6 +11942,10 @@ export interface Language {
         "shopPackage_specialOffer_111": string;
         "shop_limitedPackage_plural": string;
         "shop_limitedPackage_singular": string;
+        "shop_popup_agecheck_desc": string;
+        "shop_popup_agecheck_text_1": string;
+        "shop_popup_agecheck_text_2": string;
+        "shop_popup_agecheck_title": string;
         "siegeMessage_outpostcaptured_buildingstatus": string;
         "siegeMessage_outpostlost_buildingstatus": string;
         "skeletalhunter_name": string;
@@ -12943,6 +12947,7 @@ export interface Language {
         "webshop_decoWithEffects_WallDefCourtDefCourtCapNoLimit_desc": string;
         "webshop_decoWithEffects_XP2BarrowsCapacity_desc": string;
         "webshop_decoWithEffects_attackCombat_desc": string;
+        "webshop_decoWithEffects_courtyardstr_desc": string;
         "webshop_decoWithEffects_defenderStrength_desc": string;
         "webshop_decoWithEffects_foodProductionFire_desc": string;
         "webshop_decoWithEffects_foodProductionGeneric_desc": string;
@@ -12950,6 +12955,7 @@ export interface Language {
         "webshop_decoWithEffects_foodProductionSand_desc": string;
         "webshop_decoWithEffects_food_desc": string;
         "webshop_decoWithEffects_marketBarrows_desc": string;
+        "webshop_decoWithEffects_meleendrangedstr_courtyardstr_desc": string;
         "webshop_decoWithEffects_meleendrangedstr_desc": string;
         "webshop_decoWithEffects_recruitmentCost_desc": string;
         "webshop_decoWithEffects_recruitmentSpeed_desc": string;
@@ -13451,6 +13457,10 @@ export interface Language {
         "webshop_winter_large_name": string;
         "webshop_winter_medium_name": string;
         "webshop_winter_small_name": string;
+        "webshop_xmasbundleoff_major_name": string;
+        "webshop_xmasfridaybundledef_major_name": string;
+        "webshop_xmasfridaybundledef_minor_name": string;
+        "webshop_xmasfridaybundleoff_minor_name": string;
         "woodStorage_capacityBonus_tt": string;
         "world_is_full": string;
         "xamountBoost": string;
@@ -15000,6 +15010,18 @@ export interface Language {
         "equip_effect_description_offensiveRangeBonusResourceTower": string;
         "equip_effect_description_permanentAppearance": string;
         "equip_effect_description_rangeBonusCharge": string;
+        "equip_effect_description_short_equipmentAREAdditionalWaves": string;
+        "equip_effect_description_short_equipmentAREAttackUnitAmountFlank": string;
+        "equip_effect_description_short_equipmentAREAttackUnitAmountFront": string;
+        "equip_effect_description_short_equipmentAREGateProtection": string;
+        "equip_effect_description_short_equipmentAREOffensiveFlankStrBonus": string;
+        "equip_effect_description_short_equipmentAREOffensiveFrontStr": string;
+        "equip_effect_description_short_equipmentAREOffensiveMeleeBonus": string;
+        "equip_effect_description_short_equipmentAREOffensiveRangedBonus": string;
+        "equip_effect_description_short_equipmentAREOffensiveYardStrBonus": string;
+        "equip_effect_description_short_equipmentAREReturnTravelBoost": string;
+        "equip_effect_description_short_equipmentARESpeedBonus": string;
+        "equip_effect_description_short_equipmentAREWallProtection": string;
         "equip_effect_description_speedBonusResourceTower": string;
         "equip_effect_description_travelCostReductionResourceTower": string;
         "equip_effect_description_wallBonusCharge": string;
