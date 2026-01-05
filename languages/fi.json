@@ -21937,9 +21937,7 @@
     "push_1012_title": "Viesti vastaanotettu",
     "push_1012_content": "Postilaatikossasi on uusi viesti.",
     "push_1011_content": "Palaa linnaasi puolustamaan sitä.",
-    "push_1011_title": "Olet hyökkäyksen kohteena!",
-    "push_1039_title": "Ilmainen lahja sinulle ⭐",
-    "push_1039_content": "Kirjaudu sisään ja kerää NYT!"
+    "push_1011_title": "Olet hyökkäyksen kohteena!"
   },
   "pushnotifications": {
     "push_primetime_alert": "PRIME TIME! Osta rubiineja ja säästä! Tule nopeasti linnaasi, niin saat bonuksen.",
@@ -21975,6 +21973,10 @@
     "push_category_military_misc": "Armeija",
     "push_category_offers": "Prime time ja tarjoukset",
     "push_category_rewards": "Palkkiot"
+  },
+  "pushnotifications_android": {
+    "push_1039_title": "Uusi palvelin odottaa",
+    "push_1039_content": "Liity nyt ja lunasta uusi alku"
   },
   "pushnotifications_ios": {
     "push_2004_banner": "Verosi ovat valmiina kerättäväksi – kerää kolikkosi nyt!",

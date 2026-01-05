@@ -21937,9 +21937,7 @@
     "push_1012_title": "已收到訊息",
     "push_1012_content": "你的收件匣裡有一條新訊息。",
     "push_1011_content": "返回你的城堡進行防禦。",
-    "push_1011_title": "你正遭到攻擊！",
-    "push_1039_title": "免費贈品給你 ⭐",
-    "push_1039_content": "登入並立即收集！"
+    "push_1011_title": "你正遭到攻擊！"
   },
   "pushnotifications": {
     "push_primetime_alert": "附贈時間！現在買紅寶石馬上省！快到你的城堡去領取此獎勵吧。",
@@ -21975,6 +21973,10 @@
     "push_category_military_misc": "軍事",
     "push_category_offers": "附贈時間與優惠",
     "push_category_rewards": "獎勵"
+  },
+  "pushnotifications_android": {
+    "push_1039_title": "新伺服器等待中",
+    "push_1039_content": "立即加入，開啟你的新篇章"
   },
   "pushnotifications_ios": {
     "push_2004_banner": "可以開始收稅了 - 馬上去收集您的錢幣！",

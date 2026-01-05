@@ -21937,9 +21937,7 @@
     "push_1012_title": "Messaggio ricevuto",
     "push_1012_content": "Hai un nuovo messaggio nella posta in arrivo.",
     "push_1011_content": "Torna al castello per difenderlo.",
-    "push_1011_title": "Sei sotto attacco!",
-    "push_1039_title": "Regalo gratuito per te ⭐",
-    "push_1039_content": "Accedi e raccogli ORA!"
+    "push_1011_title": "Sei sotto attacco!"
   },
   "pushnotifications": {
     "push_primetime_alert": "PRIME TIME! Acquista rubini e risparmia! Torna subito al castello e ricevi il bonus.",
@@ -21975,6 +21973,10 @@
     "push_category_military_misc": "Forze militari",
     "push_category_offers": "Prime Time e offerte",
     "push_category_rewards": "Ricompense"
+  },
+  "pushnotifications_android": {
+    "push_1039_title": "Un nuovo server ti attende",
+    "push_1039_content": "Unisciti ora e rivendica il tuo nuovo inizio"
   },
   "pushnotifications_ios": {
     "push_2004_banner": "Tasse pronte per la riscossione. Prendi subito le tue monete!",

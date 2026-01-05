@@ -8560,6 +8560,10 @@ export interface Images {
     "items_unique_1388": ImageData;
     "items_unique_1389": ImageData;
     "items_unique_14": ImageData;
+    "items_unique_1410": ImageData;
+    "items_unique_1421": ImageData;
+    "items_unique_1432": ImageData;
+    "items_unique_1433": ImageData;
     "items_unique_15": ImageData;
     "items_unique_16": ImageData;
     "items_unique_17": ImageData;

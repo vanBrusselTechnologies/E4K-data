@@ -21937,9 +21937,7 @@
     "push_1012_title": "Bericht ontvangen",
     "push_1012_content": "Er zit een nieuw bericht in uw e-mail.",
     "push_1011_content": "Ga terug naar uw kasteel om het te verdedigen.",
-    "push_1011_title": "Je wordt aangevallen!",
-    "push_1039_title": "Gratis cadeau voor jou ⭐",
-    "push_1039_content": "Log in en verzamel NU!"
+    "push_1011_title": "Je wordt aangevallen!"
   },
   "pushnotifications": {
     "push_primetime_alert": "PRIME TIME! Koop robijnen en bespaar nu! Kom snel naar je kasteel en ontvang de bonus.",
@@ -21975,6 +21973,10 @@
     "push_category_military_misc": "Militair",
     "push_category_offers": "Prime Time en aanbiedingen",
     "push_category_rewards": "Beloningen"
+  },
+  "pushnotifications_android": {
+    "push_1039_title": "Een nieuwe server wacht",
+    "push_1039_content": "Word nu lid en claim je nieuwe begin"
   },
   "pushnotifications_ios": {
     "push_2004_banner": "De belasting kan opgehaald worden - haal snel je munten op!",

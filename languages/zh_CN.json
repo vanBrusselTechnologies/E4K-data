@@ -21937,9 +21937,7 @@
     "push_1012_title": "收到信息",
     "push_1012_content": "您收到一条新信息。",
     "push_1011_content": "请返回您的城堡守卫它。",
-    "push_1011_title": "您正遭受攻击！",
-    "push_1039_title": "免费礼物给你 ⭐",
-    "push_1039_content": "登录并立即收集！"
+    "push_1011_title": "您正遭受攻击！"
   },
   "pushnotifications": {
     "push_primetime_alert": "特惠时间！现在购买红宝石巨划算！快到您的城堡去领取奖励吧。",
@@ -21975,6 +21973,10 @@
     "push_category_military_misc": "军事",
     "push_category_offers": "特惠时间和优惠活动",
     "push_category_rewards": "奖励"
+  },
+  "pushnotifications_android": {
+    "push_1039_title": "新服务器等待中",
+    "push_1039_content": "立即加入，开启你的新篇章"
   },
   "pushnotifications_ios": {
     "push_2004_banner": "可以收税了 - 立刻收集金币！",

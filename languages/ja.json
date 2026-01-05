@@ -21937,9 +21937,7 @@
     "push_1012_title": "メッセージを受信しました",
     "push_1012_content": "受信トレイに新しいメッセージが入っています。",
     "push_1011_content": "城に戻って防御を固めよう！",
-    "push_1011_title": "攻撃を受けています！",
-    "push_1039_title": "あなたへの無料ギフト ⭐",
-    "push_1039_content": "ログインして今すぐ収集！"
+    "push_1011_title": "攻撃を受けています！"
   },
   "pushnotifications": {
     "push_primetime_alert": "プライムタイム！ルビーが安く購入できるチャンス！今すぐ城に戻ってボーナスをゲットしてください。",
@@ -21975,6 +21973,10 @@
     "push_category_military_misc": "軍",
     "push_category_offers": "プライムタイムとセール",
     "push_category_rewards": "報酬"
+  },
+  "pushnotifications_android": {
+    "push_1039_title": "新しいサーバーが待っています",
+    "push_1039_content": "今すぐ参加して、新たな始まりを手に入れよう"
   },
   "pushnotifications_ios": {
     "push_2004_banner": "税金が徴収できます - 今すぐコインを集めましょう！",

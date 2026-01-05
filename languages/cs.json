@@ -21937,9 +21937,7 @@
     "push_1012_title": "Přišla zpráva",
     "push_1012_content": "Obdržel jste novou zprávu.",
     "push_1011_content": "Vraťte se do hradu a braňte ho.",
-    "push_1011_title": "Jste napaden!",
-    "push_1039_title": "Dárek pro vás zdarma ⭐",
-    "push_1039_content": "Přihlaste se a sbírejte NYNÍ!"
+    "push_1011_title": "Jste napaden!"
   },
   "pushnotifications": {
     "push_primetime_alert": "PRIME TIME! Kupte si nyní rubíny a ušetříte! Rychle přejděte na Váš hrad a získejte bonus.",
@@ -21975,6 +21973,10 @@
     "push_category_military_misc": "Vojsko",
     "push_category_offers": "Prime time a nabídky",
     "push_category_rewards": "Odměny"
+  },
+  "pushnotifications_android": {
+    "push_1039_title": "Nový server čeká",
+    "push_1039_content": "Přidejte se nyní a získejte nový začátek"
   },
   "pushnotifications_ios": {
     "push_2004_banner": "Daně jsou připravené - rychle si zlaťáky vyzvedněte!",

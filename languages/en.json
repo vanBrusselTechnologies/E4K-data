@@ -21937,9 +21937,7 @@
     "push_1012_title": "Message received",
     "push_1012_content": "There is a new message in your inbox.",
     "push_1011_content": "Return to your castle to defend it!",
-    "push_1011_title": "Youre under attack!",
-    "push_1039_title": "Free Gift For You ⭐",
-    "push_1039_content": "Log in and collect NOW!"
+    "push_1011_title": "Youre under attack!"
   },
   "pushnotifications": {
     "push_primetime_alert": "PRIME TIME! Buy rubies and save now! Come to your castle quickly and get the bonus.",
@@ -21975,6 +21973,10 @@
     "push_category_military_misc": "Military",
     "push_category_offers": "Prime time and offers",
     "push_category_rewards": "Rewards"
+  },
+  "pushnotifications_android": {
+    "push_1039_title": "A New Server Awaits",
+    "push_1039_content": "Join now and claim your new beginning"
   },
   "pushnotifications_ios": {
     "push_2004_banner": "Taxes ready for collection - collect your coins now!",

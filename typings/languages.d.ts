@@ -22405,8 +22405,6 @@ export interface Language {
         "push_1036_title": string;
         "push_1037_content": string;
         "push_1037_title": string;
-        "push_1039_content": string;
-        "push_1039_title": string;
         "push_1040_content": string;
         "push_1040_title": string;
         "push_1041_content": string;
@@ -22642,6 +22640,10 @@ export interface Language {
         "push_update_copy": string;
         "push_update_copy_BAK": string;
         "push_update_title": string;
+    };
+    "pushnotifications_android": {
+        "push_1039_content": string;
+        "push_1039_title": string;
     };
     "pushnotifications_ios": {
         "push_1000_banner": string;

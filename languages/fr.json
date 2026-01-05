@@ -21937,9 +21937,7 @@
     "push_1012_title": "Message reçu",
     "push_1012_content": "Il y a un nouveau message dans votre boîte de réception.",
     "push_1011_content": "Retournez dans votre château pour le défendre.",
-    "push_1011_title": "Vous êtes attaqué !",
-    "push_1039_title": "Cadeau gratuit pour vous ⭐",
-    "push_1039_content": "Connectez-vous et récupérez MAINTENANT !"
+    "push_1011_title": "Vous êtes attaqué !"
   },
   "pushnotifications": {
     "push_primetime_alert": "PRIME TIME ! Achetez des rubis en promotion dès maintenant ! Retournez dans votre château pour profiter de la réduction.",
@@ -21975,6 +21973,10 @@
     "push_category_military_misc": "Militaires",
     "push_category_offers": "Prime time et offres",
     "push_category_rewards": "Récompenses"
+  },
+  "pushnotifications_android": {
+    "push_1039_title": "Un nouveau serveur vous attend",
+    "push_1039_content": "Rejoignez-nous maintenant et réclamez votre nouveau départ"
   },
   "pushnotifications_ios": {
     "push_2004_banner": "Taxes prêtes à être collectées. Collectez vos pièces maintenant !",

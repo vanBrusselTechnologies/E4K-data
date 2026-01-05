@@ -21937,9 +21937,7 @@
     "push_1012_title": "Správa prijatá",
     "push_1012_content": "V prijatých správach máš novú správu.",
     "push_1011_content": "Vráť sa do hradu a obráň ho.",
-    "push_1011_title": "Útočia na teba!",
-    "push_1039_title": "Bezplatný darček pre vás ⭐",
-    "push_1039_content": "Prihláste sa a zbierajte TERAZ!"
+    "push_1011_title": "Útočia na teba!"
   },
   "pushnotifications": {
     "push_primetime_alert": "PRIME TIME! Kúp rubíny a ušetri! Rýchlo príď do svojho hradu a získaj bonus.",
@@ -21975,6 +21973,10 @@
     "push_category_military_misc": "Vojenské",
     "push_category_offers": "Prime time a akcie",
     "push_category_rewards": "Odmeny"
+  },
+  "pushnotifications_android": {
+    "push_1039_title": "Nový server čaká",
+    "push_1039_content": "Pridaj sa teraz a získaj nový začiatok"
   },
   "pushnotifications_ios": {
     "push_2004_banner": "Dane sú pripravené na vyzdvihnutie – pozbieraj mince teraz!",

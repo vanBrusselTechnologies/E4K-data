@@ -1,6 +1,6 @@
 {
-  "versionNo": 1040408,
-  "deployTime": 1638199172,
+  "versionNo": 1040410,
+  "deployTime": 1767612028,
   "is_approval": false,
   "instances": {
     "instance": [
@@ -360,7 +360,7 @@
         "zone": "EmpirefourkingdomsExGG_21",
         "zoneId": 327,
         "instanceName": 2,
-        "isFavorite": 1,
+        "isFavorite": 0,
         "instanceLocaId": "generic_country_international",
         "isPriority": 0,
         "isInternational": 0,
@@ -601,6 +601,52 @@
           "PT"
         ],
         "defaultcountry": "default"
+      },
+      {
+        "value": 37,
+        "server": "e4k-live-world2-game.goodgamestudios.com",
+        "port": 443,
+        "zone": "EmpirefourkingdomsExGG_37",
+        "zoneId": 927,
+        "instanceName": 2,
+        "isFavorite": 1,
+        "instanceLocaId": "generic_country_world",
+        "isPriority": 0,
+        "isInternational": 0,
+        "countries": [
+          "AR",
+          "ARAB",
+          "ASIA",
+          "AU",
+          "BR",
+          "CN",
+          "DE",
+          "DK",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "HISP",
+          "ID",
+          "IN",
+          "IT",
+          "JP",
+          "MX",
+          "NL",
+          "NO",
+          "PH",
+          "PL",
+          "PT",
+          "RU",
+          "SE",
+          "TR",
+          "US",
+          "XX",
+          "AE",
+          "HANT"
+        ],
+        "defaultcountry": "default"
       }
     ]
   },
@@ -622,6 +668,6 @@
     "showversion": true,
     "replaceUrlPatternForWebSocket": true,
     "useWebSocket": false,
-    "webSocketProtocol": "wss"
+    "webSocketProtocol": "wss:"
   }
 }

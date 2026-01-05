@@ -21937,9 +21937,7 @@
     "push_1012_title": "Meddelande mottaget",
     "push_1012_content": "Det finns ett nytt meddelande i inkorgen.",
     "push_1011_content": "Återvänd till ditt slott för att försvara det.",
-    "push_1011_title": "Du är under attack!",
-    "push_1039_title": "Gratis present till dig ⭐",
-    "push_1039_content": "Logga in och samla NU!"
+    "push_1011_title": "Du är under attack!"
   },
   "pushnotifications": {
     "push_primetime_alert": "PRIME TIME! Köp rubiner och spara nu! Kom till ditt slott fort och få din bonus.",
@@ -21975,6 +21973,10 @@
     "push_category_military_misc": "Militära",
     "push_category_offers": "Prime time och erbjudanden",
     "push_category_rewards": "Belöningar"
+  },
+  "pushnotifications_android": {
+    "push_1039_title": "En ny server väntar",
+    "push_1039_content": "Gå med nu och ta din nya början"
   },
   "pushnotifications_ios": {
     "push_2004_banner": "Skatter redo för indrivning – driv in dina mynt nu!",
