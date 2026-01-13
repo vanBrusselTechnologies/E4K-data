@@ -75787,21 +75787,6 @@
     ],
     "fx": []
   },
-  "items_unique_1433": {
-    "pid": 0,
-    "url": "x384/Equipment/EquipmentShared/items_unique_1211_Shared.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 66,
-        "h": 65,
-        "rx": 967,
-        "ry": 967
-      }
-    ],
-    "fx": []
-  },
   "items_unique_1211": {
     "pid": 0,
     "url": "x384/Equipment/EquipmentShared/items_unique_1211_Shared.png",
@@ -75818,6 +75803,21 @@
     "fx": []
   },
   "items_unique_1432": {
+    "pid": 0,
+    "url": "x384/Equipment/EquipmentShared/items_unique_1211_Shared.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 66,
+        "h": 65,
+        "rx": 967,
+        "ry": 967
+      }
+    ],
+    "fx": []
+  },
+  "items_unique_1433": {
     "pid": 0,
     "url": "x384/Equipment/EquipmentShared/items_unique_1211_Shared.png",
     "frames": [
@@ -92580,6 +92580,51 @@
     ],
     "fx": []
   },
+  "icon_alliance_division_1_big": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_alliance_division_1_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 81,
+        "h": 82,
+        "rx": 959,
+        "ry": 959
+      }
+    ],
+    "fx": []
+  },
+  "icon_alliance_division_1_medium": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_alliance_division_1_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 48,
+        "h": 48,
+        "rx": 976,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "icon_alliance_division_1_xl": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_alliance_division_1_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 101,
+        "h": 102,
+        "rx": 949,
+        "ry": 949
+      }
+    ],
+    "fx": []
+  },
   "icon_alliance_division_1": {
     "pid": 1,
     "url": "x384/Icons/Icons/icon_alliance_division_1.png",
@@ -92591,6 +92636,51 @@
         "h": 35,
         "rx": 982,
         "ry": 982
+      }
+    ],
+    "fx": []
+  },
+  "icon_alliance_division_2_big": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_alliance_division_2_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 82,
+        "rx": 960,
+        "ry": 959
+      }
+    ],
+    "fx": []
+  },
+  "icon_alliance_division_2_medium": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_alliance_division_2_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 48,
+        "rx": 976,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "icon_alliance_division_2_xl": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_alliance_division_2_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 98,
+        "h": 102,
+        "rx": 951,
+        "ry": 949
       }
     ],
     "fx": []
@@ -92610,6 +92700,51 @@
     ],
     "fx": []
   },
+  "icon_alliance_division_3_big": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_alliance_division_3_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 69,
+        "h": 82,
+        "rx": 965,
+        "ry": 959
+      }
+    ],
+    "fx": []
+  },
+  "icon_alliance_division_3_medium": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_alliance_division_3_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 41,
+        "h": 48,
+        "rx": 979,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "icon_alliance_division_3_xl": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_alliance_division_3_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 86,
+        "h": 102,
+        "rx": 957,
+        "ry": 949
+      }
+    ],
+    "fx": []
+  },
   "icon_alliance_division_3": {
     "pid": 1,
     "url": "x384/Icons/Icons/icon_alliance_division_3.png",
@@ -92625,6 +92760,51 @@
     ],
     "fx": []
   },
+  "icon_alliance_division_4_big": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_alliance_division_4_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 68,
+        "rx": 960,
+        "ry": 966
+      }
+    ],
+    "fx": []
+  },
+  "icon_alliance_division_4_medium": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_alliance_division_4_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 48,
+        "rx": 972,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "icon_alliance_division_4_xl": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_alliance_division_4_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 85,
+        "rx": 950,
+        "ry": 957
+      }
+    ],
+    "fx": []
+  },
   "icon_alliance_division_4": {
     "pid": 1,
     "url": "x384/Icons/Icons/icon_alliance_division_4.png",
@@ -92636,6 +92816,51 @@
         "h": 29,
         "rx": 983,
         "ry": 985
+      }
+    ],
+    "fx": []
+  },
+  "icon_alliance_division_5_big": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_alliance_division_5_big.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 79,
+        "h": 73,
+        "rx": 960,
+        "ry": 963
+      }
+    ],
+    "fx": []
+  },
+  "icon_alliance_division_5_medium": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_alliance_division_5_medium.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 52,
+        "h": 48,
+        "rx": 974,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "icon_alliance_division_5_xl": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_alliance_division_5_xl.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 99,
+        "h": 91,
+        "rx": 950,
+        "ry": 954
       }
     ],
     "fx": []
@@ -134306,6 +134531,36 @@
         "h": 696,
         "rx": 809,
         "ry": 652
+      }
+    ],
+    "fx": []
+  },
+  "teaser_AME_demotion": {
+    "pid": 1,
+    "url": "x384/Misc/EventTeasers/teaser_AME_demotion.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 211,
+        "rx": 694,
+        "ry": 894
+      }
+    ],
+    "fx": []
+  },
+  "teaser_AME_promotion": {
+    "pid": 1,
+    "url": "x384/Misc/EventTeasers/teaser_AME_promotion.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 612,
+        "h": 208,
+        "rx": 694,
+        "ry": 896
       }
     ],
     "fx": []

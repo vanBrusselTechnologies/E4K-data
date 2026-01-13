@@ -32363,6 +32363,51 @@
       "constructionItemEffectGroupID": 28,
       "disassemblingTombolaID": 4,
       "effects": "504&amp;85"
+    },
+    {
+      "constructionItemID": 1073,
+      "crossplayID": 1073,
+      "comment1": "Appearance",
+      "comment2": "LTPE Q1 2026 - Jan - Shop",
+      "name": "winterBarracks",
+      "constructionItemGroupID": 2046,
+      "level": 4,
+      "rarenessID": 4,
+      "slotTypeID": 0,
+      "duration": 2419200,
+      "constructionItemEffectGroupID": 28,
+      "disassemblingTombolaID": 4,
+      "effects": "296&amp;80000,298&amp;8000"
+    },
+    {
+      "constructionItemID": 1074,
+      "crossplayID": 1074,
+      "comment1": "Appearance",
+      "comment2": "LTPE Q1 2026 - Feb - Shop",
+      "name": "newKingGuardhouse",
+      "constructionItemGroupID": 3166,
+      "level": 4,
+      "rarenessID": 4,
+      "slotTypeID": 0,
+      "duration": 2419200,
+      "constructionItemEffectGroupID": 28,
+      "disassemblingTombolaID": 4,
+      "effects": "296&amp;80000,298&amp;8000"
+    },
+    {
+      "constructionItemID": 1075,
+      "crossplayID": 1075,
+      "comment1": "Appearance",
+      "comment2": "LTPE Q1 2026 - Mar - Shop",
+      "name": "StPatrickStables",
+      "constructionItemGroupID": 3251,
+      "level": 4,
+      "rarenessID": 4,
+      "slotTypeID": 0,
+      "duration": 2419200,
+      "constructionItemEffectGroupID": 28,
+      "disassemblingTombolaID": 4,
+      "effects": "296&amp;80000,298&amp;8000"
     }
   ]
 }

@@ -497,6 +497,7 @@ export interface AllianceInvasionCamp {
 
 export interface AllianceQuest {
     "allianceQuestID": number;
+    "cancelCostC2": number;
     "chance": number;
     "comment1": string;
     "comment2": string;
@@ -2475,6 +2476,7 @@ export interface Package {
     "addGenXP15000"?: number;
     "addGeneralsSkillsResetToken"?: number;
     "addGoldToken"?: number;
+    "addHasanToken"?: number;
     "addHeritageBoosterKey"?: number;
     "addHollowMoonEgg"?: number;
     "addImperialPatronageCharter"?: number;
@@ -2512,6 +2514,7 @@ export interface Package {
     "addStatuetteBooster"?: number;
     "addSweetTreat"?: number;
     "addTeaTimeBoosterKey"?: number;
+    "addTiziToken"?: number;
     "addTomAliceToken"?: number;
     "addTonic"?: number;
     "addTonicBooster"?: number;
