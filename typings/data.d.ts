@@ -1830,6 +1830,8 @@ export interface GeneralRarity {
 
 export interface General {
     "attackSlots"?: number | string;
+    "bgColor"?: string;
+    "bgColorPreview"?: string;
     "crossplayID": number;
     "defenseSlots"?: number | string;
     "generalID": number;
@@ -2942,13 +2944,13 @@ export interface RelicType {
 }
 
 export interface ReRollCost {
-    "c1Cost": number;
+    "c1Cost"?: number;
     "c2Cost": number;
-    "costGoldToken": number;
-    "costKhanMedal": number;
-    "costKhanTablet": number;
-    "costSamuraiToken": number;
-    "costSilverToken": number;
+    "costGoldToken"?: number;
+    "costKhanMedal"?: number;
+    "costKhanTablet"?: number;
+    "costSamuraiToken"?: number;
+    "costSilverToken"?: number;
     "id": number;
     "rerollCount": number;
     "type": string;
@@ -3662,7 +3664,6 @@ export interface Unit {
     "healingOrder"?: number;
     "healingTime"?: number;
     "hybrid"?: number;
-    "inventoryType"?: number;
     "isAuxiliary"?: number;
     "isKamikaze"?: number;
     "isYardTool"?: number;

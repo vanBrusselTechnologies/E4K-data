@@ -13427,7 +13427,7 @@
     "effect_description_infectionRateBaseMalus": "Zombie infection rate decrease",
     "division_demotion_popup_text": "Your alliance fought with courage, but the odds were unforgiving.\nDespite a valiant effort, your alliance ended at rank {0} with {1} points.\nThis result falls behind the other alliances, leading to demotion.\nYouve missed {2} points to remain in division.",
     "division_demotion_popup_title": "Your Alliance Falls Back",
-    "division_maintain_popup_text": "Your alliance stood firm against all challengers.\nYour alliance finished in rank {0}, earning {1} points.\nYou held your ground and remain in your current division.\nTo reach the promotion zone, {2} more points were required.",
+    "division_maintain_popup_text": "Your alliance faced the challengers bravely.\nYour alliance finished in rank {0}, with {1} points.\nYou will remain in your current division.",
     "division_maintain_popup_title": "Your Position Holds",
     "division_newdivision_popup_title": "New division",
     "division_promotion_popup_text": "Your banners flew high across the battlefield!\nYour alliance secured rank {0} with {1} points.\nThis strong performance carried you into the promotion ranks.\nYouve surpassed the promotion zone treshold by {2} points!",
@@ -13442,7 +13442,8 @@
     "webshop_xmasbundleoff_major_name": "Major Winter Rampage Bundle Offensive",
     "webshop_xmasfridaybundledef_major_name": "Major Winter Rampage Bundle Defensive",
     "webshop_xmasfridaybundledef_minor_name": "Minor Winter Rampage Bundle Defensive",
-    "webshop_xmasfridaybundleoff_minor_name": "Minor Winter Rampage Bundle Offensive"
+    "webshop_xmasfridaybundleoff_minor_name": "Minor Winter Rampage Bundle Offensive",
+    "dialog_cooldown_timer": "Cool down timer:"
   },
   "effects": {
     "dialog_fame_rewardAttackBoost": "+{0}% unit combat strength when attacking",
@@ -14388,7 +14389,6 @@
     "effect_description_attackBoostYard": "Increase unit attack strength in the courtyard",
     "effect_description_additionalWaves": "+{0} additional wave(s)",
     "SceatSuppAttackWaves_name": "Warwagon",
-    "SceatSuppAttackWaves_short_info": "Support tool. Increases the number of attack waves.",
     "ci_effect_rangeBonus": "+{0}% combat strength for ranged units when defending",
     "relicequip_effect_description_relicFactionPointGainBoostBerimond": "+{0}% gallantry when attacking Berimond-type targets",
     "relicequip_effect_description_relicFactionPointGainBoostBerimond_undefined": "Gallantry gained when attacking Berimond-type targets",
@@ -25831,6 +25831,7 @@
     "sceatSuppAttAttackPower_name": "Hand cannon",
     "sceatSuppAttackWaves_name": "War wagon",
     "sceatSuppAttKillDefenders_name": "Hand cannon",
+    "SceatSuppAttackWaves_short_info": "Support tool. Increases the number of attack waves.",
     "hugekhantabletchest_short_info": "Increases the amount of Khan tablets looted",
     "largekhantabletchest_short_info": "Increases the amount of Khan tablets looted",
     "hugesamuraitokenchest_short_info": "Increases the number of samurai tokens looted",

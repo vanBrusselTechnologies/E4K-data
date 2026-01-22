@@ -93105,6 +93105,96 @@
     ],
     "fx": []
   },
+  "icon_ame_quest_alienInvasion_completed": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_ame_quest_alienInvasion_completed.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 57,
+        "rx": 976,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "icon_ame_quest_alienInvasion": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_ame_quest_alienInvasion.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 47,
+        "h": 57,
+        "rx": 976,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "icon_ame_quest_berimondKingdom_completed": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_ame_quest_berimondKingdom_completed.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 57,
+        "rx": 971,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "icon_ame_quest_berimondKingdom": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_ame_quest_berimondKingdom.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 57,
+        "rx": 971,
+        "ry": 971
+      }
+    ],
+    "fx": []
+  },
+  "icon_ame_quest_bloodcrowInvasion_completed": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_ame_quest_bloodcrowInvasion_completed.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 51,
+        "rx": 971,
+        "ry": 974
+      }
+    ],
+    "fx": []
+  },
+  "icon_ame_quest_bloodcrowInvasion": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_ame_quest_bloodcrowInvasion.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 51,
+        "rx": 971,
+        "ry": 974
+      }
+    ],
+    "fx": []
+  },
   "icon_ame_quest_defeatTarget_completed": {
     "pid": 1,
     "url": "x384/Icons/Icons/icon_ame_quest_defeatTarget_completed.png",
@@ -93130,6 +93220,36 @@
         "w": 47,
         "h": 47,
         "rx": 976,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "icon_ame_quest_nomadInvasion_completed": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_ame_quest_nomadInvasion_completed.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 48,
+        "rx": 967,
+        "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "icon_ame_quest_nomadInvasion": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_ame_quest_nomadInvasion.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 65,
+        "h": 48,
+        "rx": 967,
         "ry": 976
       }
     ],
@@ -93195,6 +93315,36 @@
     ],
     "fx": []
   },
+  "icon_ame_quest_samuraiInvasion_completed": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_ame_quest_samuraiInvasion_completed.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 56,
+        "rx": 972,
+        "ry": 972
+      }
+    ],
+    "fx": []
+  },
+  "icon_ame_quest_samuraiInvasion": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_ame_quest_samuraiInvasion.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 55,
+        "h": 56,
+        "rx": 972,
+        "ry": 972
+      }
+    ],
+    "fx": []
+  },
   "icon_ame_quest_spendCurrenciesOrResources_completed": {
     "pid": 1,
     "url": "x384/Icons/Icons/icon_ame_quest_spendCurrenciesOrResources_completed.png",
@@ -93221,6 +93371,36 @@
         "h": 47,
         "rx": 977,
         "ry": 976
+      }
+    ],
+    "fx": []
+  },
+  "icon_ame_quest_stormIslands_completed": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_ame_quest_stormIslands_completed.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 52,
+        "rx": 971,
+        "ry": 974
+      }
+    ],
+    "fx": []
+  },
+  "icon_ame_quest_stormIslands": {
+    "pid": 1,
+    "url": "x384/Icons/Icons/icon_ame_quest_stormIslands.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 57,
+        "h": 52,
+        "rx": 971,
+        "ry": 974
       }
     ],
     "fx": []
@@ -118215,6 +118395,21 @@
     ],
     "fx": []
   },
+  "icon_time_flat_b_dark": {
+    "pid": 0,
+    "url": "x384/Icons/Icons/icon_time_flat_b_dark.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 23,
+        "h": 35,
+        "rx": 988,
+        "ry": 982
+      }
+    ],
+    "fx": []
+  },
   "icon_time_flat_b": {
     "pid": 1,
     "url": "x384/Icons/Icons/icon_time_flat_b.png",
@@ -128940,6 +129135,21 @@
     ],
     "fx": []
   },
+  "icon_message_division_change": {
+    "pid": 1,
+    "url": "x384/Kingdoms/Kingdoms/icon_message_division_change.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 31,
+        "h": 31,
+        "rx": 984,
+        "ry": 984
+      }
+    ],
+    "fx": []
+  },
   "icon_message_special_event_3": {
     "pid": 1,
     "url": "x384/Kingdoms/Kingdoms/icon_message_special_event_3.png",
@@ -134550,6 +134760,21 @@
     ],
     "fx": []
   },
+  "teaser_AME_maintain": {
+    "pid": 1,
+    "url": "x384/Misc/EventTeasers/teaser_AME_maintain.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 612,
+        "h": 208,
+        "rx": 692,
+        "ry": 893
+      }
+    ],
+    "fx": []
+  },
   "teaser_AME_promotion": {
     "pid": 1,
     "url": "x384/Misc/EventTeasers/teaser_AME_promotion.png",
@@ -134565,9 +134790,69 @@
     ],
     "fx": []
   },
+  "teaser_AME_quest_alienInvasion": {
+    "pid": 1,
+    "url": "x384/Misc/EventTeasers/teaser_AME_quest_alienInvasion.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 227,
+        "rx": 694,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
+  "teaser_AME_quest_berimondKingdom": {
+    "pid": 1,
+    "url": "x384/Misc/EventTeasers/teaser_AME_quest_berimondKingdom.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 227,
+        "rx": 694,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
+  "teaser_AME_quest_bloodcrowInvasion": {
+    "pid": 1,
+    "url": "x384/Misc/EventTeasers/teaser_AME_quest_bloodcrowInvasion.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 227,
+        "rx": 694,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
   "teaser_AME_quest_defeatTarget": {
     "pid": 1,
     "url": "x384/Misc/EventTeasers/teaser_AME_quest_defeatTarget.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 227,
+        "rx": 694,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
+  "teaser_AME_quest_nomadInvasion": {
+    "pid": 1,
+    "url": "x384/Misc/EventTeasers/teaser_AME_quest_nomadInvasion.png",
     "frames": [
       {
         "x": 0,
@@ -134610,9 +134895,39 @@
     ],
     "fx": []
   },
+  "teaser_AME_quest_samuraiInvasion": {
+    "pid": 1,
+    "url": "x384/Misc/EventTeasers/teaser_AME_quest_samuraiInvasion.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 227,
+        "rx": 694,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
   "teaser_AME_quest_spendCurrenciesOrResources": {
     "pid": 1,
     "url": "x384/Misc/EventTeasers/teaser_AME_quest_spendCurrenciesOrResources.png",
+    "frames": [
+      {
+        "x": 0,
+        "y": 0,
+        "w": 611,
+        "h": 227,
+        "rx": 694,
+        "ry": 886
+      }
+    ],
+    "fx": []
+  },
+  "teaser_AME_quest_stormIslands": {
+    "pid": 1,
+    "url": "x384/Misc/EventTeasers/teaser_AME_quest_stormIslands.png",
     "frames": [
       {
         "x": 0,
@@ -137880,36 +138195,6 @@
     ],
     "fx": []
   },
-  "global_primetime_background_Advent2024": {
-    "pid": 1,
-    "url": "x384/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_Advent2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 641,
-        "h": 801,
-        "rx": 679,
-        "ry": 599
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_background_Christmas2024": {
-    "pid": 1,
-    "url": "x384/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_Christmas2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 769,
-        "h": 867,
-        "rx": 615,
-        "ry": 566
-      }
-    ],
-    "fx": []
-  },
   "global_primetime_background_generic1": {
     "pid": 1,
     "url": "x384/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_generic1.png",
@@ -137966,21 +138251,6 @@
         "h": 801,
         "rx": 679,
         "ry": 599
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_background_NewYear2025": {
-    "pid": 1,
-    "url": "x384/Misc/Offers/PrimeTimes/PTBackgrounds/global_primetime_background_NewYear2025.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 769,
-        "h": 865,
-        "rx": 615,
-        "ry": 567
       }
     ],
     "fx": []
@@ -138060,36 +138330,6 @@
     ],
     "fx": []
   },
-  "global_primetime_hub_teaser_Advent2024": {
-    "pid": 1,
-    "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_Advent2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 769,
-        "h": 666,
-        "rx": 615,
-        "ry": 667
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_hub_teaser_Christmas2024": {
-    "pid": 1,
-    "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_Christmas2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 769,
-        "h": 666,
-        "rx": 615,
-        "ry": 667
-      }
-    ],
-    "fx": []
-  },
   "global_primetime_hub_teaser_generic2": {
     "pid": 1,
     "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_generic2.png",
@@ -138123,21 +138363,6 @@
   "global_primetime_hub_teaser_IndependenceDay2024": {
     "pid": 1,
     "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_IndependenceDay2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 769,
-        "h": 666,
-        "rx": 615,
-        "ry": 667
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_hub_teaser_NewYear2025": {
-    "pid": 1,
-    "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_hub_teaser_NewYear2025.png",
     "frames": [
       {
         "x": 0,
@@ -138210,39 +138435,9 @@
     ],
     "fx": []
   },
-  "global_primetime_teaser_Advent2024": {
-    "pid": 1,
-    "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_Advent2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 625,
-        "h": 493,
-        "rx": 687,
-        "ry": 753
-      }
-    ],
-    "fx": []
-  },
   "global_primetime_teaser_Anniversary2024": {
     "pid": 1,
     "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_Anniversary2024.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 651,
-        "h": 586,
-        "rx": 674,
-        "ry": 707
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_teaser_Christmas2024": {
-    "pid": 1,
-    "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_Christmas2024.png",
     "frames": [
       {
         "x": 0,
@@ -138326,21 +138521,6 @@
         "h": 493,
         "rx": 687,
         "ry": 753
-      }
-    ],
-    "fx": []
-  },
-  "global_primetime_teaser_NewYear2025": {
-    "pid": 1,
-    "url": "x384/Misc/Offers/PrimeTimes/PTTeasers/global_primetime_teaser_NewYear2025.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 651,
-        "h": 586,
-        "rx": 674,
-        "ry": 707
       }
     ],
     "fx": []
@@ -139308,36 +139488,6 @@
   "Teaser_OffersHub_Big_WhaleChest_16": {
     "pid": 1,
     "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_16.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 769,
-        "h": 333,
-        "rx": 615,
-        "ry": 833
-      }
-    ],
-    "fx": []
-  },
-  "Teaser_OffersHub_Big_WhaleChest_18": {
-    "pid": 1,
-    "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_18.png",
-    "frames": [
-      {
-        "x": 0,
-        "y": 0,
-        "w": 769,
-        "h": 333,
-        "rx": 615,
-        "ry": 833
-      }
-    ],
-    "fx": []
-  },
-  "Teaser_OffersHub_Big_WhaleChest_19": {
-    "pid": 1,
-    "url": "x384/Misc/OffersHub/OffersHubTeasers/Teaser_OffersHub_Big_WhaleChest_19.png",
     "frames": [
       {
         "x": 0,

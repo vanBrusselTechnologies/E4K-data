@@ -316,61 +316,31 @@
       "id": 41,
       "type": "prolongTraining",
       "rerollCount": 1,
-      "c1Cost": 0,
-      "c2Cost": 1300,
-      "costKhanTablet": 0,
-      "costKhanMedal": 0,
-      "costSamuraiToken": 0,
-      "costGoldToken": 0,
-      "costSilverToken": 0
+      "c2Cost": 1300
     },
     {
       "id": 42,
       "type": "prolongTraining",
       "rerollCount": 2,
-      "c1Cost": 0,
-      "c2Cost": 1500,
-      "costKhanTablet": 0,
-      "costKhanMedal": 0,
-      "costSamuraiToken": 0,
-      "costGoldToken": 0,
-      "costSilverToken": 0
+      "c2Cost": 1500
     },
     {
       "id": 43,
       "type": "prolongTraining",
       "rerollCount": 3,
-      "c1Cost": 0,
-      "c2Cost": 1800,
-      "costKhanTablet": 0,
-      "costKhanMedal": 0,
-      "costSamuraiToken": 0,
-      "costGoldToken": 0,
-      "costSilverToken": 0
+      "c2Cost": 1800
     },
     {
       "id": 44,
       "type": "prolongTraining",
       "rerollCount": 4,
-      "c1Cost": 0,
-      "c2Cost": 2200,
-      "costKhanTablet": 0,
-      "costKhanMedal": 0,
-      "costSamuraiToken": 0,
-      "costGoldToken": 0,
-      "costSilverToken": 0
+      "c2Cost": 2200
     },
     {
       "id": 45,
       "type": "prolongTraining",
       "rerollCount": 5,
-      "c1Cost": 0,
-      "c2Cost": 3000,
-      "costKhanTablet": 0,
-      "costKhanMedal": 0,
-      "costSamuraiToken": 0,
-      "costGoldToken": 0,
-      "costSilverToken": 0
+      "c2Cost": 3000
     }
   ]
 }

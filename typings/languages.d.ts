@@ -4787,6 +4787,7 @@ export interface Language {
         "dialog_contractComplete_title": string;
         "dialog_conveniencePreview_title": string;
         "dialog_cooldownSkip_unlockPreview_desc": string;
+        "dialog_cooldown_timer": string;
         "dialog_cooldownskip_videoAd_desc": string;
         "dialog_copyQueue_attack": string;
         "dialog_copyQueue_defense": string;
@@ -13472,7 +13473,6 @@ export interface Language {
     };
     "effects": {
         "SceatSuppAttackWaves_name": string;
-        "SceatSuppAttackWaves_short_info": string;
         "allianceCoat_Layout_desc": string;
         "ci_effect_AttackBoostYardCapped": string;
         "ci_effect_BeefProductionIncrease": string;
@@ -25845,6 +25845,7 @@ export interface Language {
         "SceatSuppAttPowerYard_short_info": string;
         "SceatSuppAttWaves_name": string;
         "SceatSuppAttWaves_short_info": string;
+        "SceatSuppAttackWaves_short_info": string;
         "SceatSuppDefDefensePowerYard_name": string;
         "SceatSuppDefDefensePowerYard_short_info": string;
         "SceatSuppDefDefensePower_name": string;
